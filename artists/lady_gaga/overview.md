@@ -75,7 +75,7 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](overview.md) | 10 | Songwriter, Producer, Arranger |
-| | RedOne | 5 | Producer, Songwriter, Arranger |
+| | [RedOne](../../producers/redone/overview.md) | 5 | Producer, Songwriter, Arranger |
 | | Robert Orton | 3 | Producer |
 | | Dave Russell | 3 | Producer |
 | | Tom Elmhirst | 2 | Producer |
@@ -111,7 +111,7 @@
 | | Trevor Muzzy | 1 | Producer |
 | | Mark Nilan, Jr. | 1 | Arranger, Producer, Songwriter |
 | | Aaron Raitiere | 1 | Songwriter |
-| | Mark "Spike" Stent | 1 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 1 | Producer |
 | | Akon | 1 | Songwriter |
 | | Olle Romo | 1 | Producer |
 

@@ -92,16 +92,16 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="Heng:garæ" width="50" /> | [Left & Right](../../artists/seventeen/overview.md) | 55251 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="Love Yourself 結 &#x27;Answer&#x27;" width="50" /> | [MIC Drop (Steve Aoki Remix) - Full Length Edition](../../artists/bts/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="MANIFESTO : DAY 1" width="50" /> | [ParadoXXX Invasion](../../artists/enhypen/overview.md) | 41580 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="MAXIDENT" width="50" /> | [SUPER BOARD](../../artists/stray_kids/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="We Boom - The 3rd Mini Album" width="50" /> | [BOOM](../../artists/nct_dream/overview.md) | 34632 | <img src="https://i.scdn.co/image/ab67616d0000b2734fbde4c63b86079e0517b1cb" alt="Beatbox - The 2nd Album Repackage" width="50" /> | [Beatbox](../../artists/nct_dream/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="LOVE SHOT– The 5th Album Repackage" width="50" /> | [Love Shot](../../artists/exo/overview.md) | 33360 | <img src="https://i.scdn.co/image/ab67616d0000b2735ec123b44bb80bb94fc5c237" alt="Reload" width="50" /> | [Ridin'](../../artists/nct_dream/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="NOEASY" width="50" /> | [Thunderous](../../artists/stray_kids/overview.md) | 23085 | <img src="https://i.scdn.co/image/ab67616d0000b273b068508a55c13c676bf74d6b" alt="FACE ME" width="50" /> | PHOTO | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aa12f5b5b2ea88f26ab76846" alt="; [Semicolon]" width="50" /> | [HOME;RUN](../../artists/seventeen/overview.md) | 12124 | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="2 Baddies - The 4th Album" width="50" /> | [Gold Dust](../../artists/nct_127/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="Heng:garæ" width="50" /> | [Left & Right](../../artists/seventeen/overview.md) | 55743 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="Love Yourself 結 &#x27;Answer&#x27;" width="50" /> | [MIC Drop (Steve Aoki Remix) - Full Length Edition](../../artists/bts/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="MANIFESTO : DAY 1" width="50" /> | [ParadoXXX Invasion](../../artists/enhypen/overview.md) | 41796 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="MAXIDENT" width="50" /> | [SUPER BOARD](../../artists/stray_kids/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="We Boom - The 3rd Mini Album" width="50" /> | [BOOM](../../artists/nct_dream/overview.md) | 34956 | <img src="https://i.scdn.co/image/ab67616d0000b2734fbde4c63b86079e0517b1cb" alt="Beatbox - The 2nd Album Repackage" width="50" /> | [Beatbox](../../artists/nct_dream/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="LOVE SHOT– The 5th Album Repackage" width="50" /> | [Love Shot](../../artists/exo/overview.md) | 33528 | <img src="https://i.scdn.co/image/ab67616d0000b2735ec123b44bb80bb94fc5c237" alt="Reload" width="50" /> | [Ridin'](../../artists/nct_dream/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="NOEASY" width="50" /> | [Thunderous](../../artists/stray_kids/overview.md) | 23337 | <img src="https://i.scdn.co/image/ab67616d0000b273b068508a55c13c676bf74d6b" alt="FACE ME" width="50" /> | PHOTO | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aa12f5b5b2ea88f26ab76846" alt="; [Semicolon]" width="50" /> | [HOME;RUN](../../artists/seventeen/overview.md) | 12220 | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="2 Baddies - The 4th Album" width="50" /> | [Gold Dust](../../artists/nct_127/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | [Sacrifice (Eat Me Up)](../../artists/enhypen/overview.md) | 8706 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="DON&#x27;T FIGHT THE FEELING - Special Album" width="50" /> | [Paradise](../../artists/exo/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="SPIN OFF : FROM THE WITNESS" width="50" /> | [HALAZIA](../../artists/ateez/overview.md) | 7194 | <img src="https://i.scdn.co/image/ab67616d0000b27395e1a12145290ca7d783eb1d" alt="BINARY CODE" width="50" /> | BLACK MIRROR | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | [Bills](../../artists/enhypen/overview.md) | 7125 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="NOEASY" width="50" /> | [Red Lights (Bang Chan, Hyunjin)](../../artists/stray_kids/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | [Sweet Venom](../../artists/enhypen/overview.md) | 6923 | <img src="https://i.scdn.co/image/ab67616d0000b273560f17af6665e85575021bae" alt="Mixtape : Time Out" width="50" /> | [Mixtape : Time Out](../../artists/stray_kids/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | [Sweet Venom](../../artists/enhypen/overview.md) | 7187 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="NOEASY" width="50" /> | [Red Lights (Bang Chan, Hyunjin)](../../artists/stray_kids/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | [Bills](../../artists/enhypen/overview.md) | 7125 | <img src="https://i.scdn.co/image/ab67616d0000b273560f17af6665e85575021bae" alt="Mixtape : Time Out" width="50" /> | [Mixtape : Time Out](../../artists/stray_kids/overview.md) | 0 |
 
 ## Top Albums
 
@@ -285,13 +285,13 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Pdogg | 11 | Producer, Songwriter, Arranger |
+| | [Pdogg](../../producers/pdogg/overview.md) | 11 | Producer, Songwriter, Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | RM | 11 | Songwriter, Arranger, Producer, Lyricist |
-| | 방시혁 (Bang, Si-Hyuk) | 8 | Songwriter |
+| | [방시혁 (Bang, Si-Hyuk)](../../producers/방시혁_(bang,_si-hyuk)/overview.md) | 8 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 6 | Songwriter |
 | | 김홍중 (Kim, Hong Joong) | 4 | Songwriter, Lyricist |
-| | 정은경 (Jung, Eun-Kyung) | 4 | Producer, Arranger |
-| | Ollounder | 4 | Arranger, Songwriter, Lyricist |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 4 | Producer, Arranger |
+| | [Ollounder](../../producers/ollounder/overview.md) | 4 | Arranger, Songwriter, Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | [j-hope](../../artists/j-hope/overview.md) | 4 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | G-DRAGON | 3 | Lyricist, Songwriter |
 | | EDEN | 3 | Arranger, Songwriter, Lyricist |
@@ -302,23 +302,23 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | LEEZ | 3 | Arranger, Songwriter, Lyricist |
+| | [LEEZ](../../producers/leez/overview.md) | 3 | Arranger, Songwriter, Lyricist |
 | | 송민기 (Song, Mingi) | 3 | Songwriter, Lyricist |
-| | TEDDY | 3 | Arranger, Lyricist, Songwriter |
-| | Supreme Boi | 3 | Songwriter |
+| | [TEDDY](../../producers/teddy/overview.md) | 3 | Arranger, Lyricist, Songwriter |
+| | [Supreme Boi](../../producers/supreme_boi/overview.md) | 3 | Songwriter |
 | | 한 (Han) | 2 | Songwriter, Lyricist |
 | | Jacob Richards | 2 | Producer |
 | | BUDDY | 2 | Arranger, Songwriter, Lyricist |
 | | Ali Tamposi | 2 | Songwriter |
 | | Bang Chan | 2 | Arranger, Songwriter, Lyricist |
 | | Melanie Joy Fontana | 2 | Songwriter |
-| | 구종필 (Koo, Jong-Pil) | 2 | Producer |
+| | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 2 | Producer |
 | | T.O.P | 2 | Lyricist |
 | | DJ Riggins | 2 | Producer |
 | | Jang Yi-jeong | 2 | Producer |
 | | Max Seaberg | 2 | Producer |
 | | Jaycen Joshua | 2 | Producer |
-| | Arschtritt Lindgren | 2 | Songwriter |
+| | [Arschtritt Lindgren](../../producers/arschtritt_lindgren/overview.md) | 2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3be82c9ca8e6a7103debaf25" alt="" width="50" /> | ADORA | 2 | Producer |
 | | Roman | 2 | Songwriter |
 | | 창빈 (Changbin) | 2 | Songwriter, Lyricist |
@@ -353,7 +353,7 @@
 | | dae Jung | 1 | Songwriter |
 | | Matt Thomson | 1 | Songwriter |
 | | Clyde Kelly | 1 | Songwriter |
-| | Phil Tan | 1 | Producer |
+| | [Phil Tan](../../producers/phil_tan/overview.md) | 1 | Producer |
 | | Frants | 1 | Producer |
 | | 정의석 (Jung, Euisuk) | 1 | Producer |
 | | Lutra | 1 | Songwriter |
@@ -378,12 +378,12 @@
 | | BUMZU | 1 | Arranger |
 | | Candace Sosa | 1 | Songwriter |
 | | Alex Williams | 1 | Producer |
-| | danke | 1 | Songwriter |
+| | [danke](../../producers/danke/overview.md) | 1 | Songwriter |
 | | Maddox | 1 | Arranger, Lyricist, Songwriter |
 | | Jessica Agombar | 1 | Songwriter |
 | | Jenna Andrews | 1 | Songwriter |
 | | HotSauce | 1 | Arranger, Songwriter |
-| | R.Tee | 1 | Arranger, Lyricist, Songwriter |
+| | [R.Tee](../../producers/r_tee/overview.md) | 1 | Arranger, Lyricist, Songwriter |
 | | Stephen Kirk | 1 | Songwriter |
 | | 김수정 (김수정) | 1 | Producer |
 | | 1월 8일 (1월 8일) | 1 | Songwriter |

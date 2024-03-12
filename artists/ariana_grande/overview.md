@@ -10,7 +10,7 @@
 
 ## Artist Rank
 Ariana Grande is currently:
-- The #39 artist of the last 6 months
+- The #34 artist of the last 6 months
 
 ![Rank of Ariana Grande over time](../../images/artists/ariana_grande/rank_time_series.png)
 ## Featured on Playlists
@@ -112,13 +112,13 @@ Ariana Grande is currently:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | [Ariana Grande](overview.md) | 11 | Lyricist, Producer, Songwriter, Arranger |
-| | Serban Ghenea | 9 | Producer |
-| | ILYA | 8 | Producer, Songwriter |
-| | Max Martin | 7 | Producer, Songwriter |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 9 | Producer |
+| | [ILYA](../../producers/ilya/overview.md) | 8 | Producer, Songwriter |
+| | [Max Martin](../../producers/max_martin/overview.md) | 7 | Producer, Songwriter |
 | | Savan Kotecha | 7 | Songwriter, Producer |
-| | Sam Holland | 5 | Producer |
+| | [Sam Holland](../../producers/sam_holland/overview.md) | 5 | Producer |
 | | TBHits | 4 | Producer, Songwriter |
-| | John Hanes | 4 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 4 | Producer |
 | | Peter Carlsson | 3 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb149ebd20c454545fc4fb7487" alt="" width="50" /> | Victoria Monét | 3 | Producer, Songwriter |
 
@@ -131,7 +131,7 @@ Ariana Grande is currently:
 | | Billy Hickey | 3 | Producer |
 | | Paul Boutin | 2 | Producer |
 | | Tayla Parx | 2 | Songwriter |
-| | Shellback | 2 | Producer |
+| | [Shellback](../../producers/shellback/overview.md) | 2 | Producer |
 | | Antonio Dixon | 2 | Arranger, Producer, Songwriter |
 | | Khristopher Riddick-Tynes | 2 | Producer, Songwriter |
 | | Babyface | 2 | Producer, Songwriter |
@@ -154,7 +154,7 @@ Ariana Grande is currently:
 | | Joe Gallagher | 1 | Producer |
 | | Giorgio Tuinfort | 1 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](../justin_bieber/overview.md) | 1 | Songwriter |
-| | Josh Gudwin | 1 | Producer |
+| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 1 | Producer |
 | | Angelina Barrett | 1 | Songwriter |
 | | Jaycen Joshua | 1 | Producer |
 | | Carl Falk | 1 | Producer, Songwriter |
@@ -184,7 +184,7 @@ Ariana Grande is currently:
 | | Kaydence | 1 | Songwriter |
 | | London on da Track | 1 | Producer, Songwriter |
 | | Jason Evigan | 1 | Producer |
-| | Tony Maserati | 1 | Producer |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 1 | Producer |
 | | Rafael Fadul | 1 | Producer |
 | | Freddy Wexler | 1 | Producer, Songwriter |
 | | Matt Squire | 1 | Producer |

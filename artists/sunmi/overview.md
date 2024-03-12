@@ -22,7 +22,7 @@ SUNMI is currently:
 ## Top Tracks
 
 - Heart Burn is:
-    - the #30 track of the last 6 months
+    - the #32 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 
@@ -99,7 +99,7 @@ SUNMI is currently:
 | | CobiCudi | 1 | Lyricist, Songwriter |
 | | 최자연 (Choi, Ja-yeon) | 1 | Producer |
 | | 김규원 (Kim, Gyu-won) | 1 | Arranger, Lyricist, Songwriter |
-| | 구종필 (Koo, Jong-Pil) | 1 | Producer |
+| | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 1 | Producer |
 | | Vince | 1 | Lyricist, Songwriter |
 
 
@@ -108,7 +108,7 @@ SUNMI is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | TEDDY | 1 | Lyricist, Songwriter |
+| | [TEDDY](../../producers/teddy/overview.md) | 1 | Lyricist, Songwriter |
 
 </details>
 
@@ -118,7 +118,7 @@ SUNMI is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b78e41dc88b7ddda60738c9d" alt="" width="50" /> | Heart Burn | Heart Burn | [SUNMI](overview.md) | Abyss Company | 1790 | 💚 | [🔗](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b78e41dc88b7ddda60738c9d" alt="" width="50" /> | Heart Burn | Heart Burn | [SUNMI](overview.md) | Abyss Company | 1904 | 💚 | [🔗](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e33d84e471094fe701f06860" alt="" width="50" /> | Gashina | SUNMI SPECIAL EDITION [Gashina] | [SUNMI](overview.md) | Makeus Entertainment, The Black Label | 843 | 💚 | [🔗](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27373e1cb392676000445e9cbce" alt="" width="50" /> | Oh Sorry Ya | Oh Sorry Ya | [SUNMI](overview.md) | Abyss Company | 246 | 💚 | [🔗](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733de9733addfb0b91b8eb30b0" alt="" width="50" /> | STRANGER | STRANGER | [SUNMI](overview.md) | Abyss Company | 228 | 💚 | [🔗](https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi) |

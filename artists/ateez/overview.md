@@ -75,15 +75,16 @@ ATEEZ is currently:
 
 | Credit Type | Tracks |
 |:---|---:|
-| Performer | 2 |
-| Premiere | 1 |
+| Performer | 4 |
+| Premiere | 2 |
 
 ### Member Credits
 
 | | 김홍중 (Kim, Hong Joong) | 송민기 (Song, Mingi) |
 |:---|---:|---:|
-| Lyricist | 3 | 2 |
-| Songwriter | 1 | 1 |
+| Lyricist | 4 | 2 |
+| Songwriter | 2 | 1 |
+| Vocal | 1 | 0 |
 ### Production Credits
 
 | Art | Track | Members | Credit Types |
@@ -92,19 +93,20 @@ ATEEZ is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3e44ef30eacbbe0ec98598c" alt="" width="50" /> | The Black Cat Nero | 김홍중 (Kim, Hong Joong) | Lyricist |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733714e924e5570c4d2df97e09" alt="" width="50" /> | Deja Vu | 김홍중 (Kim, Hong Joong), 송민기 (Song, Mingi) | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349ae714ee0bf50ca0838ed0f" alt="" width="50" /> | Guerrilla | 김홍중 (Kim, Hong Joong), 송민기 (Song, Mingi) | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="" width="50" /> | EENIE MEENIE (Feat. Hongjoong of ATEEZ) | 김홍중 (Kim, Hong Joong) | Lyricist, Songwriter |
 
 ## Top Producers
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Ollounder | 4 | Arranger, Songwriter, Lyricist |
+| | [Ollounder](../../producers/ollounder/overview.md) | 4 | Arranger, Songwriter, Lyricist |
 | | 김홍중 (Kim, Hong Joong) | 4 | Songwriter, Lyricist |
 | | EDEN | 3 | Arranger, Songwriter, Lyricist |
 | | 송민기 (Song, Mingi) | 3 | Songwriter, Lyricist |
-| | 정은경 (Jung, Eun-Kyung) | 3 | Producer |
-| | LEEZ | 3 | Arranger, Songwriter, Lyricist |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 3 | Producer |
+| | [LEEZ](../../producers/leez/overview.md) | 3 | Arranger, Songwriter, Lyricist |
 | | BUDDY | 2 | Arranger, Songwriter, Lyricist |
-| | 구종필 (Koo, Jong-Pil) | 2 | Producer |
+| | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 2 | Producer |
 | | Peperoni | 1 | Arranger, Songwriter |
 | | 홍현걸 (Hong, Hyeon-Geol) | 1 | Lyricist |
 
@@ -116,7 +118,7 @@ ATEEZ is currently:
 |:---|:---|---:|:---|
 | | 김수정 (김수정) | 1 | Producer |
 | | Maddox | 1 | Arranger, Lyricist, Songwriter |
-| | 양영은 (Yang, Young-eun) | 1 | Producer |
+| | [양영은 (Yang, Young-eun)](../../producers/양영은_(yang,_young-eun)/overview.md) | 1 | Producer |
 | | Tom Norris | 1 | Producer |
 | | Oliv | 1 | Arranger, Songwriter |
 | | 정소리 (Jeong, So-ri) | 1 | Arranger |

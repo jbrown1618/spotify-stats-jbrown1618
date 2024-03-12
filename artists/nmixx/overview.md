@@ -21,7 +21,7 @@ NMIXX:
 
 ## Artist Rank
 NMIXX is currently:
-- The #15 artist of the last month
+- The #17 artist of the last month
 - The #14 artist of the last 6 months
 - The #28 artist of all time
 
@@ -90,13 +90,13 @@ NMIXX is currently:
 | | Brian U | 3 | Songwriter, Arranger |
 | | Dr.JO | 3 | Lyricist, Arranger |
 | | 오현선 (Oh, Hyun-sun) | 3 | Lyricist |
-| | 구혜진 (Gu, Hye-jin) | 2 | Producer |
+| | [구혜진 (Gu, Hye-jin)](../../producers/구혜진_(gu,_hye-jin)/overview.md) | 2 | Producer |
 | | Frankie Day | 2 | Songwriter |
-| | Tony Maserati | 2 | Producer |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 2 | Producer |
 | | 김영현 (Kim, Young-hyun) | 2 | Producer |
 | | Charlotte Wilson | 2 | Songwriter, Arranger |
 | | 임찬미 (Kim, Chan-mi) | 2 | Producer |
-| | 엄세희 (Um, Se-Hee) | 2 | Producer |
+| | [엄세희 (Um, Se-Hee)](../../producers/엄세희_(um,_se-hee)/overview.md) | 2 | Producer |
 
 
 <details>
@@ -110,8 +110,8 @@ NMIXX is currently:
 | | MarkAlong | 1 | Songwriter |
 | | Joseph K | 1 | Arranger, Songwriter |
 | | Zaya | 1 | Lyricist |
-| | 구종필 (Koo, Jong-Pil) | 1 | Producer |
-| | 정은경 (Jung, Eun-Kyung) | 1 | Producer |
+| | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 1 | Producer |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 1 | Producer |
 | | Deanna | 1 | Songwriter |
 | | Jonkind | 1 | Songwriter |
 | | Dem Jointz | 1 | Arranger, Songwriter |
@@ -129,7 +129,7 @@ NMIXX is currently:
 | | 원지애 (Won, Jiae) | 1 | Lyricist |
 | | Ericka Coulter | 1 | Songwriter |
 | | NVR know | 1 | Arranger, Songwriter |
-| | Ryan S. Jhun | 1 | Arranger, Songwriter |
+| | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 1 | Arranger, Songwriter |
 | | PUFF | 1 | Arranger, Songwriter |
 | | 복주영 (Bok, Ju Young) | 1 | Lyricist |
 | | WKLY | 1 | Lyricist |
@@ -147,7 +147,7 @@ NMIXX is currently:
 | | AFTRSHOK | 1 | Arranger, Songwriter |
 | | Matthew Jaragin | 1 | Songwriter |
 | | 형근 (Hyeongeun) | 1 | Lyricist |
-| | danke | 1 | Lyricist |
+| | [danke](../../producers/danke/overview.md) | 1 | Lyricist |
 | | C'SA | 1 | Arranger, Producer, Songwriter |
 | | Jacob Aaron | 1 | Songwriter |
 | | Awrii | 1 | Arranger, Songwriter |
@@ -167,7 +167,7 @@ NMIXX is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | HOME | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 327 | 💚 | [🔗](https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | TANK | AD MARE | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 100 | 💚 | [🔗](https://open.spotify.com/track/4ZbXs9DzvdWlsQfA9ZUkCV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Soñar (Breaker) | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 63 | 💚 | [🔗](https://open.spotify.com/track/6UwrPxRaR5HPNLDDl7RcT9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Run For Roses | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 50 | | [🔗](https://open.spotify.com/track/4byr9TsXs4qtm8rG2FfwRW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Run For Roses | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 62 | | [🔗](https://open.spotify.com/track/4byr9TsXs4qtm8rG2FfwRW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | DASH | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 7 | 💚 | [🔗](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | O.O | AD MARE | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | DICE | ENTWURF | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) |

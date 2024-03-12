@@ -16,7 +16,7 @@ BoA:
 
 ## Artist Rank
 BoA is currently:
-- The #23 artist of the last 6 months
+- The #25 artist of the last 6 months
 - The #32 artist of all time
 
 ![Rank of BoA over time](../../images/artists/boa/rank_time_series.png)
@@ -103,7 +103,7 @@ BoA is currently:
 | | Daniel Kim | 1 | Songwriter |
 | | Ivy Adara | 1 | Songwriter |
 | | 김보은 (Kim, Bo-eun) | 1 | Lyricist |
-| | 유영진 (Yoo, Young-jin) | 1 | Arranger, Producer |
+| | [유영진 (Yoo, Young-jin)](../../producers/유영진_(yoo,_young-jin)/overview.md) | 1 | Arranger, Producer |
 | | Omega | 1 | Songwriter |
 
 
@@ -116,7 +116,7 @@ BoA is currently:
 | | Soaky Siren | 1 | Songwriter |
 | | Kriz | 1 | Songwriter |
 | | Deez | 1 | Songwriter |
-| | Phil Tan | 1 | Producer |
+| | [Phil Tan](../../producers/phil_tan/overview.md) | 1 | Producer |
 | | Jon Hume | 1 | Arranger, Songwriter |
 | | Marlin "Hookman" Bonds | 1 | Songwriter |
 | | Ryan Williamson | 1 | Songwriter |

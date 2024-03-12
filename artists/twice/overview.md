@@ -24,7 +24,7 @@ TWICE:
 
 ## Artist Rank
 TWICE is currently:
-- The #6 artist of the last month
+- The #8 artist of the last month
 - The #8 artist of the last 6 months
 - The #4 artist of all time
 
@@ -32,11 +32,11 @@ TWICE is currently:
 ## Top Tracks
 
 - I CAN'T STOP ME is:
-    - the #18 track of all time
-- I GOT YOU is:
-    - the #35 track of the last month
+    - the #20 track of all time
 - BLOOM is:
-    - the #38 track of the last month
+    - the #31 track of the last month
+- I GOT YOU is:
+    - the #37 track of the last month
 
 ### Top tracks of all time over time
 
@@ -142,16 +142,16 @@ TWICE is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 엄세희 (Um, Se-Hee) | 11 | Producer |
+| | [엄세희 (Um, Se-Hee)](../../producers/엄세희_(um,_se-hee)/overview.md) | 11 | Producer |
 | | 이태섭 (Lee, Tae-Sub) | 7 | Producer |
-| | 구혜진 (Gu, Hye-jin) | 6 | Producer |
-| | 심은지 (Sim, Eunjee) | 6 | Arranger, Lyricist, Producer, Songwriter |
+| | [구혜진 (Gu, Hye-jin)](../../producers/구혜진_(gu,_hye-jin)/overview.md) | 6 | Producer |
+| | [심은지 (Sim, Eunjee)](../../producers/심은지_(sim,_eunjee)/overview.md) | 6 | Arranger, Lyricist, Producer, Songwriter |
 | | 이상엽 (Lee, Sang-yeob) | 6 | Producer |
 | | 최혜진 (Cho, Hye-jin) | 6 | Producer |
 | | Melanie Joy Fontana | 5 | Lyricist, Songwriter |
 | | Sophia Pae | 5 | Arranger |
 | | 임홍진 (Im, Hong-Jin) | 4 | Producer |
-| | earattack | 4 | Arranger, Producer, Songwriter, Lyricist |
+| | [earattack](../../producers/earattack/overview.md) | 4 | Arranger, Producer, Songwriter, Lyricist |
 
 
 <details>
@@ -159,11 +159,11 @@ TWICE is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 라도 (Rado) | 4 | Lyricist, Songwriter, Arranger, Producer |
-| | Arschtritt Lindgren | 4 | Arranger, Songwriter, Producer |
-| | Tony Maserati | 3 | Producer |
-| | 구종필 (Koo, Jong-Pil) | 3 | Producer |
-| | 블랙아이드필승 (Black Eyed Pilseung) | 3 | Songwriter, Lyricist |
+| | [라도 (Rado)](../../producers/라도_(rado)/overview.md) | 4 | Lyricist, Songwriter, Arranger, Producer |
+| | [Arschtritt Lindgren](../../producers/arschtritt_lindgren/overview.md) | 4 | Arranger, Songwriter, Producer |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 3 | Producer |
+| | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 3 | Producer |
+| | [블랙아이드필승 (Black Eyed Pilseung)](../../producers/블랙아이드필승_(black_eyed_pilseung)/overview.md) | 3 | Songwriter, Lyricist |
 | | KayOne | 3 | Producer |
 | | 이우현 (Lee, Woo-hyun) | 3 | Arranger, Songwriter, Lyricist, Producer |
 | | 신지영 (Shin, Ji-young) | 3 | Producer |
@@ -193,7 +193,7 @@ TWICE is currently:
 | | 서은일 (Seo, Eun-il) | 1 | Producer |
 | | Justin Reinstein | 1 | Arranger, Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb67013e289b84440ce3d1c88e" alt="" width="50" /> | Anne-Marie | 1 | Songwriter |
-| | Josh Gudwin | 1 | Producer |
+| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 1 | Producer |
 | | 김영현 (Kim, Young-hyun) | 1 | Producer |
 | | Alma Goodman | 1 | Songwriter |
 | | Cutfather | 1 | Arranger |
@@ -216,7 +216,7 @@ TWICE is currently:
 | | Musikality | 1 | Songwriter |
 | | Mr. Franks | 1 | Arranger, Songwriter |
 | | Nina Ann Nelson | 1 | Lyricist, Songwriter |
-| | danke | 1 | Lyricist |
+| | [danke](../../producers/danke/overview.md) | 1 | Lyricist |
 | | Jake Torrey | 1 | Lyricist, Songwriter |
 | | 윤원권 (Yoon, Won-kwon) | 1 | Producer |
 | | Lauritz Emil Christiansen | 1 | Arranger, Songwriter |
@@ -224,7 +224,7 @@ TWICE is currently:
 | | Alexander Pavelich | 1 | Arranger, Songwriter |
 | | Paulina Cerrilla | 1 | Songwriter |
 | | 유정연 (Yoo, Jeong-yeon) | 1 | Lyricist |
-| | John Hanes | 1 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 1 | Producer |
 | | 조한솔 (Cho, Han-sol) | 1 | Producer |
 | | Jenson Vaughan | 1 | Arranger, Songwriter |
 | | 최규성 (Choi, Kyu-sung) | 1 | Lyricist, Songwriter |
@@ -237,7 +237,7 @@ TWICE is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | I CAN'T STOP ME | Eyes Wide Open | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 42827 | 💚 | [🔗](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | I CAN'T STOP ME | Eyes Wide Open | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 43199 | 💚 | [🔗](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | What is Love | Summer Nights | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 4335 | 💚 | [🔗](https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | WALLFLOWER | READY TO BE | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 3595 | 💚 | [🔗](https://open.spotify.com/track/6EGkbPJrb88STcdfMu1j1y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | The Feels | Formula of Love: O+T=<3 | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 3353 | 💚 | [🔗](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) |
@@ -254,14 +254,14 @@ TWICE is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | BLOOM | With YOU-th | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 39 | 💚 | [🔗](https://open.spotify.com/track/4bheT1Drc2vyQgN5VTwr8W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | Dance The Night Away | Summer Nights | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 38 | 💚 | [🔗](https://open.spotify.com/track/4DYIDSMIB5y2UmZFv9fxeX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | CRAZY STUPID LOVE | READY TO BE | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 31 | 💚 | [🔗](https://open.spotify.com/track/0jn8sYeWOdYHjdF2cBmF75) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | I GOT YOU | With YOU-th | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 30 | 💚 | [🔗](https://open.spotify.com/track/0mgveJEIGjcN51w4JIQtI6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="" width="50" /> | Like Ooh-Ahh | The Story Begins | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 28 | 💚 | [🔗](https://open.spotify.com/track/3c0CJ0DBgsGZ7I79lyx02Z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273579e945923463492cb43a5ce" alt="" width="50" /> | Perfect World | Perfect World | [TWICE](overview.md) | [WM Japan](../../labels/wm_japan) | 25 | | [🔗](https://open.spotify.com/track/0iuZMy88H6vxDA2oaJNhJg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | FANCY | FANCY YOU | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 21 | 💚 | [🔗](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | BLOOM | With YOU-th | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 19 | 💚 | [🔗](https://open.spotify.com/track/4bheT1Drc2vyQgN5VTwr8W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | MOONLIGHT SUNRISE | READY TO BE | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 18 | 💚 | [🔗](https://open.spotify.com/track/5IN9W6eUfk3014My9awagX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | I GOT YOU | With YOU-th | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 16 | 💚 | [🔗](https://open.spotify.com/track/0mgveJEIGjcN51w4JIQtI6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | SCIENTIST | Formula of Love: O+T=<3 | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 8 | 💚 | [🔗](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="" width="50" /> | Likey | Twicetagram | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 2 | 💚 | [🔗](https://open.spotify.com/track/0IEVKWduAaMcZepZQVr80T) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e9e3a1adcc32090690fd0b6" alt="" width="50" /> | CHEER UP | Page Two | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/7lB4rxNVc7vm33ZSZXVRAQ) |

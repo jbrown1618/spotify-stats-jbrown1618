@@ -338,13 +338,13 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 10 | Songwriter, Producer |
-| | Serban Ghenea | 10 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 10 | Producer |
 | | Kuk Harrell | 9 | Producer |
-| | Marcos Tovar | 8 | Producer |
+| | [Marcos Tovar](../../producers/marcos_tovar/overview.md) | 8 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2b7962ada66cbea99dcb0caa" alt="" width="50" /> | [Beyoncé](../../artists/beyoncé/overview.md) | 8 | Producer, Songwriter |
-| | Phil Tan | 8 | Producer |
-| | Manny Marroquin | 7 | Producer |
-| | John Hanes | 7 | Producer |
+| | [Phil Tan](../../producers/phil_tan/overview.md) | 8 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 7 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 7 | Producer |
 | | Philip Lawrence | 7 | Songwriter |
 | | Charles Moniz | 5 | Producer |
 
@@ -356,13 +356,13 @@
 |:---|:---|---:|:---|
 | | Stargate | 4 | Producer |
 | | James Fauntleroy | 4 | Songwriter |
-| | Mikkel Storleer Eriksen | 4 | Songwriter, Producer |
+| | [Mikkel Storleer Eriksen](../../producers/mikkel_storleer_eriksen/overview.md) | 4 | Songwriter, Producer |
 | | Tor Erik Hermansen | 4 | Songwriter |
 | | Ari Levine | 4 | Producer, Songwriter |
 | | The Smeezingtons | 4 | Producer |
 | | Brody Brown | 4 | Songwriter |
 | | D'Mile | 4 | Songwriter, Producer |
-| | Ricky Reed | 3 | Producer, Songwriter |
+| | [Ricky Reed](../../producers/ricky_reed/overview.md) | 3 | Producer, Songwriter |
 | | Shea Taylor | 3 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="" width="50" /> | [Jason Derulo](../../artists/jason_derulo/overview.md) | 3 | Songwriter |
 | | Ray Romulus | 3 | Songwriter |
@@ -376,7 +376,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | The Weeknd | 2 | Producer, Songwriter |
 | | The-Dream | 2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../../artists/rihanna/overview.md) | 2 | Songwriter |
-| | Łukasz Gottwald (Gottwald, Łukasz) | 2 | Songwriter |
+| | [Łukasz Gottwald (Gottwald, Łukasz)](../../producers/łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 2 | Songwriter |
 | | Sandy Wilhelm | 2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 2 | Songwriter |
 | | Jim Caruana | 2 | Producer |
@@ -384,9 +384,9 @@
 | | Jason Evigan | 2 | Songwriter |
 | | Larry Gold | 2 | Arranger |
 | | Andrew Wyatt | 2 | Songwriter |
-| | Josh Gudwin | 2 | Producer |
-| | Ryan Tedder | 2 | Arranger, Producer, Songwriter |
-| | Mark "Spike" Stent | 2 | Producer |
+| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 2 | Producer |
+| | [Ryan Tedder](../../producers/ryan_tedder/overview.md) | 2 | Arranger, Producer, Songwriter |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 2 | Producer |
 | | DJ Swivel | 2 | Producer |
 | <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | Stevie Wonder | 2 | Lyricist, Songwriter |
 | | Sandy Vee | 2 | Producer |
@@ -455,9 +455,9 @@
 |:---|:---|---:|:---|:---|---:|
 | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | [What Now](../../artists/rihanna/overview.md) | 348 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | [Leave The Door Open](../../artists/bruno_mars/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="Yoga" width="50" /> | [Yoga](../../artists/janelle_monáe/overview.md) | 117 | <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="Metropolis: The Chase Suite (Special Edition)" width="50" /> | [Sincerely, Jane](../../artists/janelle_monáe/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="ELVIS (Original Motion Picture Soundtrack)" width="50" /> | [Vegas](../../artists/doja_cat/overview.md) | 83 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="Loud" width="50" /> | [S&M](../../artists/rihanna/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="ELVIS (Original Motion Picture Soundtrack)" width="50" /> | [Vegas](../../artists/doja_cat/overview.md) | 111 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="Loud" width="50" /> | [S&M](../../artists/rihanna/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | [Stay](../../artists/rihanna/overview.md) | 23 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="Good Girl Gone Bad: Reloaded" width="50" /> | [Don't Stop The Music](../../artists/rihanna/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="After Hours" width="50" /> | Blinding Lights | 17 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="Doo-Wops &amp; Hooligans" width="50" /> | [The Other Side (feat. CeeLo Green and B.o.B)](../../artists/bruno_mars/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="After Hours" width="50" /> | Blinding Lights | 23 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="Doo-Wops &amp; Hooligans" width="50" /> | [The Other Side (feat. CeeLo Green and B.o.B)](../../artists/bruno_mars/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="Unorthodox Jukebox" width="50" /> | [When I Was Your Man](../../artists/bruno_mars/overview.md) | 7 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="All I Want Is You" width="50" /> | Sure Thing | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b27307a560f0504f9de0af5e0a33" alt="Baby Powder" width="50" /> | Baby Powder | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17" alt="Red Moon In Venus" width="50" /> | Moonlight | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4c4ee507c2558262869f415" alt="Cassie (U.S. Version)" width="50" /> | Me & U | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | [That's What I Like](../../artists/bruno_mars/overview.md) | 0 |

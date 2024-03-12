@@ -172,14 +172,13 @@ Appears as:
 
 
 <details>
-<summary>See all 72 genres</summary>
+<summary>See all 71 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 11 | 4 | [classic rock](../../genres/classic_rock/overview.md) |
 | 6 | 4 | [k-pop](../../genres/k-pop/overview.md) |
 | 5 | 4 | [modern rock](../../genres/modern_rock/overview.md) |
-| 4 | 4 | seattle indie |
 | 4 | 4 | [lilith](../../genres/lilith/overview.md) |
 | 4 | 4 | la indie |
 | 4 | 4 | indie rock |
@@ -249,7 +248,7 @@ Appears as:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 6 | Lyricist, Producer, Songwriter |
-| | François Tétaz (Tétaz, François) | 5 | Lyricist, Producer, Songwriter |
+| | [François Tétaz (Tétaz, François)](../../producers/françois_tétaz_(tétaz,_françois)/overview.md) | 5 | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e125f9c0f56dfb73fb97eaa" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 5 | Songwriter |
 | | Jenny Lewis | 4 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | 4 | Producer |
@@ -257,7 +256,7 @@ Appears as:
 | | Jason Evigan | 3 | Songwriter |
 | | Matt Bellamy | 3 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="" width="50" /> | [Jason Derulo](../../artists/jason_derulo/overview.md) | 3 | Songwriter |
-| | Josh Gudwin | 3 | Producer |
+| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 3 | Producer |
 
 
 <details>
@@ -269,7 +268,7 @@ Appears as:
 | | Jason Lader | 2 | Producer |
 | | Justin Tranter | 2 | Songwriter |
 | | Blake Sennett | 2 | Songwriter |
-| | Ricky Reed | 2 | Producer, Songwriter |
+| | [Ricky Reed](../../producers/ricky_reed/overview.md) | 2 | Producer, Songwriter |
 | | Ian Kirkpatrick | 2 | Producer, Songwriter |
 | | Rich Costey | 2 | Producer |
 | | Jussifer | 2 | Producer, Songwriter |
@@ -280,7 +279,7 @@ Appears as:
 | | Keith Olsen | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | Fleetwood Mac | 2 | Producer |
 | | Jaycen Joshua | 2 | Producer |
-| | Mark "Spike" Stent | 2 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 2 | Producer |
 | | Tommaso Colliva | 2 | Producer |
 | | Stevie Nicks | 2 | Lyricist, Songwriter |
 | | Sarah Hudson | 2 | Songwriter |
@@ -307,7 +306,7 @@ Appears as:
 | | Ruffsound | 1 | Songwriter |
 | | John Cornfield | 1 | Producer |
 | | Mark Linett | 1 | Producer |
-| | TEDDY | 1 | Songwriter |
+| | [TEDDY](../../producers/teddy/overview.md) | 1 | Songwriter |
 | | Jordan Johnson | 1 | Songwriter |
 | | Nate Walcott | 1 | Arranger |
 | | John Frusciante | 1 | Songwriter |
@@ -364,15 +363,15 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Illusion | Girls - The 2nd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 36381 | 💚 | [🔗](https://open.spotify.com/track/396FqjKmViUZ92Wmm4rx3i) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Illusion | Girls - The 2nd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 36831 | 💚 | [🔗](https://open.spotify.com/track/396FqjKmViUZ92Wmm4rx3i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Welcome To MY World (feat. nævis) | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md), nævis | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 22341 | 💚 | [🔗](https://open.spotify.com/track/3q5qpprtugUIEPExuI7tRD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Spicy | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 18977 | 💚 | [🔗](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Thirsty | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 12256 | 💚 | [🔗](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Drama | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 11318 | 💚 | [🔗](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Trick or Trick | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 10529 | 💚 | [🔗](https://open.spotify.com/track/3EI3OLBeM89B0o0UsIGCOx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c2bcf77ad1fe40f6c7b88609" alt="" width="50" /> | Better Things | Better Things | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 10105 | 💚 | [🔗](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731ca13e5d59a3a25e68fd7764" alt="" width="50" /> | Jingle Bell Rock | Jingle Bell Rock | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 6390 | | [🔗](https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Hot Air Balloon | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 6163 | 💚 | [🔗](https://open.spotify.com/track/1mdtLny0zugh89vokWGG80) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Drama | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 11662 | 💚 | [🔗](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Trick or Trick | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 10823 | 💚 | [🔗](https://open.spotify.com/track/3EI3OLBeM89B0o0UsIGCOx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c2bcf77ad1fe40f6c7b88609" alt="" width="50" /> | Better Things | Better Things | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 10381 | 💚 | [🔗](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ca13e5d59a3a25e68fd7764" alt="" width="50" /> | Jingle Bell Rock | Jingle Bell Rock | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 6582 | | [🔗](https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Hot Air Balloon | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 6409 | 💚 | [🔗](https://open.spotify.com/track/1mdtLny0zugh89vokWGG80) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Salty & Sweet | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 5243 | 💚 | [🔗](https://open.spotify.com/track/4wQDjZtXjsFtU3BLSiIH4t) |
 
 
@@ -381,8 +380,8 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Don't Blink | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 4364 | 💚 | [🔗](https://open.spotify.com/track/2uJEnyojuGg31VVlLTQFpp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | YOLO | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 2273 | | [🔗](https://open.spotify.com/track/3OQWohbPUsvbXaH1AiRazX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Don't Blink | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 4568 | 💚 | [🔗](https://open.spotify.com/track/2uJEnyojuGg31VVlLTQFpp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | YOLO | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 2309 | | [🔗](https://open.spotify.com/track/3OQWohbPUsvbXaH1AiRazX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | I'm Unhappy | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 1777 | 💚 | [🔗](https://open.spotify.com/track/6fzio74FGqFFsenYkbGPzR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls | Girls - The 2nd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 1512 | 💚 | [🔗](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | 'Til We Meet Again | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 606 | | [🔗](https://open.spotify.com/track/60Uio68M57PwKEgZxSutL6) |

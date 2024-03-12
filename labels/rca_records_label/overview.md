@@ -225,13 +225,13 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Serban Ghenea | 8 | Producer |
-| | Łukasz Gottwald (Gottwald, Łukasz) | 7 | Songwriter |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 8 | Producer |
+| | [Łukasz Gottwald (Gottwald, Łukasz)](../../producers/łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 7 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="" width="50" /> | [Sia](../../artists/sia/overview.md) | 7 | Producer, Songwriter |
-| | John Hanes | 6 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 6 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 6 | Songwriter |
-| | Manny Marroquin | 6 | Producer |
-| | Greg Kurstin | 6 | Producer, Songwriter |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 6 | Producer |
+| | [Greg Kurstin](../../producers/greg_kurstin/overview.md) | 6 | Producer, Songwriter |
 | | Alex Pasco | 5 | Producer |
 | | Dr. Luke | 4 | Producer |
 | | Julian Burg | 4 | Producer |
@@ -319,7 +319,7 @@ Appears as:
 | | Luigi Creatore | 1 | Songwriter |
 | | David Campbell | 1 | Arranger |
 | | Ben McKee | 1 | Songwriter |
-| | Sam Holland | 1 | Producer |
+| | [Sam Holland](../../producers/sam_holland/overview.md) | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | Juicy J | 1 | Songwriter |
 | | Elof Loelv | 1 | Songwriter |
 | | J. Tyler Johnson | 1 | Songwriter |
@@ -342,10 +342,10 @@ Appears as:
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | Kill Bill | SOS | SZA | [Top Dawg Entertainment/RCA Records](.) | 415 | 💚 | [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738773ae7641a2ee7d8b9e532e" alt="" width="50" /> | Get A Guitar | Get A Guitar | RIIZE | [RCA Records Label](.), [SM Entertainment](../sm_entertainment) | 236 | 💚 | [🔗](https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738773ae7641a2ee7d8b9e532e" alt="" width="50" /> | Get A Guitar | Get A Guitar | RIIZE | [RCA Records Label](.), [SM Entertainment](../sm_entertainment) | 260 | 💚 | [🔗](https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Problem (Ariana Grande Cover) | PTX, Vol. III | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 150 | 💚 | [🔗](https://open.spotify.com/track/45h4cCw7ccsRXb0Orle2an) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="" width="50" /> | Vegas | ELVIS (Original Motion Picture Soundtrack) | [Doja Cat](../../artists/doja_cat/overview.md) | [House of Iona/RCA Records](.) | 111 | 💚 | [🔗](https://open.spotify.com/track/3FWwi61OP7vXEikwqhZCPZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="" width="50" /> | Beggin' | Chosen | Måneskin | [RCA Records Label](.) | 97 | 💚 | [🔗](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="" width="50" /> | Vegas | ELVIS (Original Motion Picture Soundtrack) | [Doja Cat](../../artists/doja_cat/overview.md) | [House of Iona/RCA Records](.) | 83 | 💚 | [🔗](https://open.spotify.com/track/3FWwi61OP7vXEikwqhZCPZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736b18d0490878750cd69abf2c" alt="" width="50" /> | Wrecking Ball | Bangerz (Deluxe Version) | Miley Cyrus | [RCA Records Label](.) | 19 | 💚 | [🔗](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Sleigh Ride | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 18 | | [🔗](https://open.spotify.com/track/0ErjxyZ4qHQVs5umCBIClk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Let It Go | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 17 | | [🔗](https://open.spotify.com/track/2G7K3Op9y3HhqrF2TdHP95) |

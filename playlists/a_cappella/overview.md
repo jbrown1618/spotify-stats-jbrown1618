@@ -100,7 +100,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c9a85ee07c806072c27392a" alt="" width="50" /> | 1 | 0 | Hank Green | [🔗](https://open.spotify.com/artist/2SQVGFEgP0UZTZC1re2ECh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba6bffc5b4d567301e3706fc9" alt="" width="50" /> | 1 | 0 | The Swingle Singers | [🔗](https://open.spotify.com/artist/2Rn34e82tV2YfbLfP1omlS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd6758093c92bc8d0c21ba72" alt="" width="50" /> | 1 | 0 | Penn Masala | [🔗](https://open.spotify.com/artist/2MhJb1ljKttJewuYZTpXxr) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb472ce72dbc3c845b6e6324b0" alt="" width="50" /> | 1 | 0 | Home Free | [🔗](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4db11f9cca2f8015b75de54d" alt="" width="50" /> | 1 | 0 | Home Free | [🔗](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | 1 | 0 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e6fa4d9dd5bb81bdfb54ee9" alt="" width="50" /> | 1 | 0 | David Archuleta | [🔗](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb205fd3a3b91de152e22a7078" alt="" width="50" /> | 1 | 0 | Mixed Emotions | [🔗](https://open.spotify.com/artist/2BoHcRUfryDNxa9HQxXSpr) |
@@ -379,7 +379,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 1 | Songwriter |
 | | Nikki Cislyn | 1 | Songwriter |
 | | Wayne Sermon | 1 | Songwriter |
-| | ILYA | 1 | Songwriter |
+| | [ILYA](../../producers/ilya/overview.md) | 1 | Songwriter |
 | | George David Weiss | 1 | Songwriter |
 | | Luigi Creatore | 1 | Songwriter |
 | | Elof Loelv | 1 | Songwriter |
@@ -398,7 +398,7 @@
 | | Kevin Figueiredo | 1 | Songwriter |
 | | Ali Tamposi | 1 | Songwriter |
 | | Alex da Kid | 1 | Songwriter |
-| | Jack Antonoff | 1 | Songwriter |
+| | [Jack Antonoff](../../producers/jack_antonoff/overview.md) | 1 | Songwriter |
 | | Sampha | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
 | | Teddy Peña (Peña, Teddy) | 1 | Songwriter |
@@ -408,10 +408,10 @@
 | | Andrew Dost | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea | 1 | Songwriter |
 | | Jack Patterson | 1 | Songwriter |
-| | John Lennon | 1 | Lyricist, Songwriter |
+| | [John Lennon](../../producers/john_lennon/overview.md) | 1 | Lyricist, Songwriter |
 | | Josh Mosser | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba8eef8322e55fc49ab436eea" alt="" width="50" /> | Sam Smith | 1 | Songwriter |
-| | Max Martin | 1 | Songwriter |
+| | [Max Martin](../../producers/max_martin/overview.md) | 1 | Songwriter |
 | | Grace Chatto | 1 | Songwriter |
 | | Timmaz Zolleyn | 1 | Songwriter |
 | | William Wells | 1 | Songwriter |

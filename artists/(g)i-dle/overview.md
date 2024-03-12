@@ -20,7 +20,7 @@
 
 ## Artist Rank
 (G)I-DLE is currently:
-- The #5 artist of the last month
+- The #6 artist of the last month
 - The #5 artist of the last 6 months
 - The #5 artist of all time
 
@@ -28,16 +28,17 @@
 ## Top Tracks
 
 - Oh my god is:
-    - the #36 track of the last 6 months
-    - the #19 track of all time
+    - the #6 track of the last month
+    - the #16 track of the last 6 months
+    - the #11 track of all time
 - LATATA is:
     - the #25 track of all time
 - Uh-Oh is:
     - the #35 track of all time
 - I Want That is:
-    - the #21 track of the last 6 months
+    - the #23 track of the last 6 months
 - Doll is:
-    - the #17 track of the last month
+    - the #14 track of the last month
 - Rollie is:
     - the #40 track of the last month
 
@@ -136,16 +137,16 @@
 
 | Art | Track | Members | Credit Types |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | LATATA | [JEON SOYEON](../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ace0e90dab0e51a4aec4f50a" alt="" width="50" /> | HANN (Alone) | [JEON SOYEON](../jeon_soyeon/overview.md) | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | Senorita | [JEON SOYEON](../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | Put It Straight | [JEON SOYEON](../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh | [JEON SOYEON](../jeon_soyeon/overview.md) | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | HANN (Alone in winter) | [JEON SOYEON](../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | HWAA | [JEON SOYEON](../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | TOMBOY | [JEON SOYEON](../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | DARK (X-file) | [JEON SOYEON](../jeon_soyeon/overview.md), YUQI | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Nxde | [JEON SOYEON](../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | LATATA | [JEON SOYEON](../../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ace0e90dab0e51a4aec4f50a" alt="" width="50" /> | HANN (Alone) | [JEON SOYEON](../../jeon_soyeon/overview.md) | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | Senorita | [JEON SOYEON](../../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | Put It Straight | [JEON SOYEON](../../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh | [JEON SOYEON](../../jeon_soyeon/overview.md) | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | HANN (Alone in winter) | [JEON SOYEON](../../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | HWAA | [JEON SOYEON](../../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | TOMBOY | [JEON SOYEON](../../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | DARK (X-file) | [JEON SOYEON](../../jeon_soyeon/overview.md), YUQI | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Nxde | [JEON SOYEON](../../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
 
 
 <details>
@@ -153,12 +154,12 @@
 
 | Art | Track | Members | Credit Types |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Change | MINNIE, [JEON SOYEON](../jeon_soyeon/overview.md) | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Sculpture | MINNIE, [JEON SOYEON](../jeon_soyeon/overview.md) | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Wife | [JEON SOYEON](../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Revenge | [JEON SOYEON](../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Change | MINNIE, [JEON SOYEON](../../jeon_soyeon/overview.md) | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Sculpture | MINNIE, [JEON SOYEON](../../jeon_soyeon/overview.md) | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Wife | [JEON SOYEON](../../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Revenge | [JEON SOYEON](../../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Doll | YUQI | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Super Lady | [JEON SOYEON](../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Super Lady | [JEON SOYEON](../../jeon_soyeon/overview.md) | Arranger, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Rollie | YUQI | Lyricist, Songwriter |
 
 </details>
@@ -170,7 +171,7 @@
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../jeon_soyeon/overview.md) | 15 | Lyricist, Arranger, Songwriter |
 | | 최예지 (Choi, Ye-ji) | 7 | Producer |
-| | Pop Time | 6 | Arranger, Songwriter |
+| | [Pop Time](../../producers/pop_time/overview.md) | 6 | Arranger, Songwriter |
 | | Riot Games Music Team | 3 | Producer, Songwriter |
 | | 빅싼초 (Bicksancho) | 3 | Songwriter, Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d1e7a339dc928b7e54c530c" alt="" width="50" /> | YUQI | 3 | Lyricist, Songwriter |
@@ -185,10 +186,10 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 구종필 (Koo, Jong-Pil) | 2 | Producer |
+| | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 2 | Lyricist, Songwriter |
 | | MOJO | 2 | Lyricist, Songwriter, Arranger |
-| | 정은경 (Jung, Eun-Kyung) | 2 | Producer |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 2 | Producer |
 | | Boytoy | 2 | Lyricist, Songwriter, Arranger |
 | | Alexander "Scherzophrenia" Temple | 2 | Lyricist, Songwriter |
 | | Sebastien Najand | 2 | Lyricist, Songwriter, Producer |
@@ -215,7 +216,7 @@
 | | Harlœ (Harloe) | 1 | Songwriter |
 | | 213 | 1 | Arranger, Lyricist, Songwriter |
 | | 로 (Raw) | 1 | Arranger |
-| | 양영은 (Yang, Young-eun) | 1 | Producer |
+| | [양영은 (Yang, Young-eun)](../../producers/양영은_(yang,_young-eun)/overview.md) | 1 | Producer |
 | | Melli | 1 | Lyricist, Songwriter |
 | | Oscar Free | 1 | Arranger |
 | | JENCI | 1 | Arranger, Songwriter |
@@ -233,16 +234,16 @@
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | LATATA | I am | [(G)I-DLE](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 38216 | 💚 | [🔗](https://open.spotify.com/track/2ezKXygNO30pXyDQXkm6oD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh | Uh-Oh | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 30047 | 💚 | [🔗](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | Oh my god | I trust | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 12929 | 💚 | [🔗](https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | LATATA | I am | [(G)I-DLE](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 38528 | 💚 | [🔗](https://open.spotify.com/track/2ezKXygNO30pXyDQXkm6oD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh | Uh-Oh | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 30239 | 💚 | [🔗](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | Oh my god | I trust | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 13664 | 💚 | [🔗](https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | All Night | I feel | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 11382 | 💚 | [🔗](https://open.spotify.com/track/1abAIeSQCbdPcxWgiwDOmL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Nxde | I love | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 5617 | 💚 | [🔗](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730cbf8dc7b194aa11242ec3a7" alt="" width="50" /> | I Want That | HEAT | [(G)I-DLE](overview.md) | [88rising Music](../../labels/88rising_music), [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 4585 | 💚 | [🔗](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730cbf8dc7b194aa11242ec3a7" alt="" width="50" /> | I Want That | HEAT | [(G)I-DLE](overview.md) | [88rising Music](../../labels/88rising_music), [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 4753 | 💚 | [🔗](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Change | I love | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 3776 | 💚 | [🔗](https://open.spotify.com/track/6wXYyw7TBQlJ0qh3RNP8MD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | TOMBOY | I NEVER DIE | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 1902 | 💚 | [🔗](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Doll | 2 | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 637 | 💚 | [🔗](https://open.spotify.com/track/4C7PyWUlTLUUgVZQVboCma) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Lucid | I feel | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 610 | 💚 | [🔗](https://open.spotify.com/track/4fg42mtrSFuKQ9NYBboiiN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Doll | 2 | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 600 | 💚 | [🔗](https://open.spotify.com/track/4C7PyWUlTLUUgVZQVboCma) |
 
 
 <details>
@@ -256,7 +257,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | DARK (X-file) | I love | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 237 | 💚 | [🔗](https://open.spotify.com/track/4xc3JpkI8kxLwk1SJafjzh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Super Lady | 2 | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 235 | 💚 | [🔗](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | Put It Straight | I made | [(G)I-DLE](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 231 | 💚 | [🔗](https://open.spotify.com/track/2G0wbwTsTN0HJeQp3BDc4D) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Rollie | 2 | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 105 | 💚 | [🔗](https://open.spotify.com/track/71E2JcSbv1abMaua23RBSV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Rollie | 2 | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 116 | 💚 | [🔗](https://open.spotify.com/track/71E2JcSbv1abMaua23RBSV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | VILLAIN DIES | I NEVER DIE | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 89 | 💚 | [🔗](https://open.spotify.com/track/6adPuBjUw3Zh6wK27d8Rgv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9e412451691682611af56f1" alt="" width="50" /> | Put It Straight - Nightmare Version | Queendom < Box of Pandora > Pt. 1 | [(G)I-DLE](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation) | 68 | | [🔗](https://open.spotify.com/track/3VqP1DVYFoS6sLhPbEtifi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737158ec602fe6e8165cae6091" alt="" width="50" /> | THE BADDEST | THE BADDEST | K/DA, [(G)I-DLE](overview.md), Wolftyla, Bea Miller, League of Legends | Riot Games | 14 | 💚 | [🔗](https://open.spotify.com/track/2V4Fx72svQRxrFvNT1eq5f) |

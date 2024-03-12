@@ -67,7 +67,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="" width="50" /> | [Jason Derulo](overview.md) | 3 | Songwriter |
 | | Sean Douglas | 2 | Songwriter |
 | | Jason Evigan | 2 | Songwriter |
-| | Ricky Reed | 2 | Producer, Songwriter |
+| | [Ricky Reed](../../producers/ricky_reed/overview.md) | 2 | Producer, Songwriter |
 | | Ori Kaplan | 1 | Songwriter |
 | | Vince Watson | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf556662d187b9191c421be1c" alt="" width="50" /> | 2 Chainz | 1 | Songwriter |

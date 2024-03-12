@@ -77,7 +77,7 @@ TREASURE:
 |:---|:---|---:|:---|
 | | 春虎 (Watanabe, Haruto) | 1 | Lyricist |
 | | 현석 (Hyunsuk) | 1 | Lyricist |
-| | R.Tee | 1 | Arranger, Lyricist, Songwriter |
+| | [R.Tee](../../producers/r_tee/overview.md) | 1 | Arranger, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb791dd8450bdde549ec172ead" alt="" width="50" /> | [YENA](../yena/overview.md) | 1 | Arranger |
 | | かねもと よしのり (Kanemoto Yoshinori) | 1 | Lyricist |
 

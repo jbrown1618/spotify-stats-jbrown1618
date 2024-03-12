@@ -276,16 +276,16 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | George Martin | 22 | Producer, Arranger |
-| | Paul McCartney | 20 | Songwriter |
-| | John Lennon | 20 | Songwriter |
+| | [George Martin](../../producers/george_martin/overview.md) | 22 | Producer, Arranger |
+| | [Paul McCartney](../../producers/paul_mccartney/overview.md) | 20 | Songwriter |
+| | [John Lennon](../../producers/john_lennon/overview.md) | 20 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
-| | Jonny Greenwood | 13 | Songwriter, Arranger, Producer |
-| | Philip Selway | 13 | Songwriter |
-| | Nigel Godrich | 13 | Producer |
-| | Ed O'Brien | 13 | Songwriter |
-| | Thom Yorke | 13 | Lyricist, Producer, Songwriter, Arranger |
-| | Colin Greenwood | 13 | Songwriter |
+| | [Jonny Greenwood](../../producers/jonny_greenwood/overview.md) | 13 | Songwriter, Arranger, Producer |
+| | [Philip Selway](../../producers/philip_selway/overview.md) | 13 | Songwriter |
+| | [Nigel Godrich](../../producers/nigel_godrich/overview.md) | 13 | Producer |
+| | [Ed O'Brien](../../producers/ed_o_brien/overview.md) | 13 | Songwriter |
+| | [Thom Yorke](../../producers/thom_yorke/overview.md) | 13 | Lyricist, Producer, Songwriter, Arranger |
+| | [Colin Greenwood](../../producers/colin_greenwood/overview.md) | 13 | Songwriter |
 
 
 <details>
@@ -297,11 +297,11 @@
 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](../../artists/queen/overview.md) | 12 | Producer, Arranger |
 | | Geoff Emerick | 10 | Producer |
 | | Phil Ramone | 9 | Producer |
-| | Brian May | 9 | Songwriter, Lyricist, Producer, Arranger |
+| | [Brian May](../../producers/brian_may/overview.md) | 9 | Songwriter, Lyricist, Producer, Arranger |
 | | Jim Boyer | 9 | Producer |
 | | Glyn Johns | 9 | Producer |
 | | Phil McDonald | 8 | Producer |
-| | Freddie Mercury | 7 | Songwriter, Lyricist |
+| | [Freddie Mercury](../../producers/freddie_mercury/overview.md) | 7 | Songwriter, Lyricist |
 | | Mike Stone | 6 | Producer |
 | | Roger Taylor | 6 | Songwriter, Producer |
 | | Norman Smith | 6 | Producer |
@@ -344,7 +344,7 @@
 | | Phil Spector | 2 | Producer |
 | | David DeVore | 2 | Producer |
 | | Alex da Kid | 2 | Producer, Songwriter |
-| | Manny Marroquin | 2 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 2 | Producer |
 | <img src="https://i.scdn.co/image/e69f71e2be4b67b82af90fb8e9d805715e0684fa" alt="" width="50" /> | Pink Floyd | 2 | Producer |
 | | Tyler Joseph | 2 | Lyricist, Producer, Songwriter |
 | | Randy Staub | 2 | Producer |

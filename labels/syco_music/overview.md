@@ -60,8 +60,8 @@ Appears as:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](../../artists/camila_cabello/overview.md) | 6 | Songwriter |
-| | Serban Ghenea | 5 | Producer |
-| | John Hanes | 5 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 5 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 5 | Producer |
 | | Frank Dukes | 4 | Songwriter, Producer |
 | | Louis Bell | 3 | Songwriter, Producer |
 | | Maegan Cottone | 3 | Arranger, Producer, Songwriter |
@@ -114,22 +114,22 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | DaBaby | 1 | Songwriter |
 | | Tor Erik Hermansen | 1 | Songwriter |
 | | Ant Clemons | 1 | Songwriter |
-| | Ryan Tedder | 1 | Songwriter |
+| | [Ryan Tedder](../../producers/ryan_tedder/overview.md) | 1 | Songwriter |
 | | Iain James | 1 | Songwriter |
-| | Phil Tan | 1 | Producer |
+| | [Phil Tan](../../producers/phil_tan/overview.md) | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
 | | Kyle Mann | 1 | Producer |
 | | Ori Kaplan | 1 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
 | | Ed Drewett | 1 | Songwriter |
 | | Zubin Thakkar | 1 | Producer |
-| | Mikkel Storleer Eriksen | 1 | Producer, Songwriter |
+| | [Mikkel Storleer Eriksen](../../producers/mikkel_storleer_eriksen/overview.md) | 1 | Producer, Songwriter |
 | | Paul LaMalfa | 1 | Producer |
 | | Jack Patterson | 1 | Songwriter |
 | | Stargate | 1 | Producer |
 | | Chris Bishop | 1 | Producer |
 | | Miles Walker | 1 | Producer |
-| | Manny Marroquin | 1 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 1 | Producer |
 | | Rami Dawod | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 1 | Producer, Songwriter |
 | | JHart | 1 | Songwriter |

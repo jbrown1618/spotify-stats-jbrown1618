@@ -46,10 +46,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | RM | 2 | Songwriter |
 | | Sebastian Garcia | 1 | Songwriter |
 | | Jenna Andrews | 1 | Songwriter |
-| | Pdogg | 1 | Producer, Songwriter |
-| | 방시혁 (Bang, Si-Hyuk) | 1 | Songwriter |
+| | [Pdogg](../../producers/pdogg/overview.md) | 1 | Producer, Songwriter |
+| | [방시혁 (Bang, Si-Hyuk)](../../producers/방시혁_(bang,_si-hyuk)/overview.md) | 1 | Songwriter |
 | | Stephen Kirk | 1 | Songwriter |
-| | Supreme Boi | 1 | Songwriter |
+| | [Supreme Boi](../../producers/supreme_boi/overview.md) | 1 | Songwriter |
 | | Ron Perry | 1 | Songwriter |
 | | Rob Grimaldi | 1 | Songwriter |
 | | Alex Bilowitz | 1 | Songwriter |

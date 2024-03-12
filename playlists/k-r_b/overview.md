@@ -342,7 +342,7 @@
 | | JONGHYUN | 1 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf3b9a9058829b73db2e14b48" alt="" width="50" /> | Dok2 | 1 | Lyricist |
 | | 안신애 (Wheeler, Shinae An) | 1 | Lyricist, Songwriter |
-| | R.Tee | 1 | Producer |
+| | [R.Tee](../../producers/r_tee/overview.md) | 1 | Producer |
 | | 이찬혁 (Lee, Chanhyeok) | 1 | Lyricist, Songwriter |
 
 
@@ -362,16 +362,16 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 50059 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8b444d9bac4765e069b31b" alt="Miracle - SM STATION" width="50" /> | [Miracle](../../artists/wendy/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 27631 | <img src="https://i.scdn.co/image/ab67616d0000b27362483e4a96b7566d2440fc91" alt="timeabout," width="50" /> | Insomnia | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | [Animal Farm](../../artists/bibi/overview.md) | 6809 | <img src="https://i.scdn.co/image/ab67616d0000b273632620401c34d07336a091bc" alt="Natural" width="50" /> | Natural | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 50455 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8b444d9bac4765e069b31b" alt="Miracle - SM STATION" width="50" /> | [Miracle](../../artists/wendy/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 27859 | <img src="https://i.scdn.co/image/ab67616d0000b27362483e4a96b7566d2440fc91" alt="timeabout," width="50" /> | Insomnia | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | [Animal Farm](../../artists/bibi/overview.md) | 6935 | <img src="https://i.scdn.co/image/ab67616d0000b273632620401c34d07336a091bc" alt="Natural" width="50" /> | Natural | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | [ONLY](../../artists/leehi/overview.md) | 5670 | <img src="https://i.scdn.co/image/ab67616d0000b273c4e45c31f67f534bcd00bc4e" alt="Blaze" width="50" /> | Blaze | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c0252c4e4a988f024e4d262" alt="WINE" width="50" /> | WINE (Feat.Changmo) (Prod. SUGA) | 5568 | <img src="https://i.scdn.co/image/ab67616d0000b2738c0903b4b02840c57f103db4" alt="City Lights - The 1st Mini Album" width="50" /> | [UN Village](../../artists/baekhyun/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="SEOULITE" width="50" /> | [HOLD MY HAND](../../artists/leehi/overview.md) | 4083 | <img src="https://i.scdn.co/image/ab67616d0000b2737f22ff3c2da84dfc06101e23" alt="And July" width="50" /> | [And July](../../artists/heize/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cbcd67f202be276ccda69ab3" alt="FLIGHT" width="50" /> | FLIGHT | 1688 | <img src="https://i.scdn.co/image/ab67616d0000b27361166666e32b86c3e9a7b78b" alt="Some" width="50" /> | Some (feat. Lil Boi) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="Love Lee" width="50" /> | [Love Lee](../../artists/akmu/overview.md) | 1312 | <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="SAILING" width="50" /> | [How can I love the heartbreak, you're the one I love](../../artists/akmu/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="SEOULITE" width="50" /> | [HOLD MY HAND](../../artists/leehi/overview.md) | 4107 | <img src="https://i.scdn.co/image/ab67616d0000b2737f22ff3c2da84dfc06101e23" alt="And July" width="50" /> | [And July](../../artists/heize/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cbcd67f202be276ccda69ab3" alt="FLIGHT" width="50" /> | FLIGHT | 1820 | <img src="https://i.scdn.co/image/ab67616d0000b27361166666e32b86c3e9a7b78b" alt="Some" width="50" /> | Some (feat. Lil Boi) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="Love Lee" width="50" /> | [Love Lee](../../artists/akmu/overview.md) | 1366 | <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="SAILING" width="50" /> | [How can I love the heartbreak, you're the one I love](../../artists/akmu/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="Undo" width="50" /> | [Undo](../../artists/heize/overview.md) | 1080 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="24℃" width="50" /> | [NO ONE](../../artists/leehi/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="Love Lee" width="50" /> | [Fry’s Dream](../../artists/akmu/overview.md) | 555 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="24℃" width="50" /> | [NO WAY](../../artists/leehi/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="Love Lee" width="50" /> | [Fry’s Dream](../../artists/akmu/overview.md) | 621 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="24℃" width="50" /> | [NO WAY](../../artists/leehi/overview.md) | 0 |
 
 ## Years
 

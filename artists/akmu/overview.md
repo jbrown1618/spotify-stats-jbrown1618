@@ -13,8 +13,7 @@ AKMU:
 
 ## Artist Rank
 AKMU is currently:
-- The #48 artist of the last month
-- The #34 artist of the last 6 months
+- The #37 artist of the last 6 months
 
 ![Rank of AKMU over time](../../images/artists/akmu/rank_time_series.png)
 ## Top Tracks
@@ -86,8 +85,8 @@ AKMU is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="" width="50" /> | Love Lee | Love Lee | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 1312 | 💚 | [🔗](https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="" width="50" /> | Fry’s Dream | Love Lee | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 555 | 💚 | [🔗](https://open.spotify.com/track/6f4CAdAmrOfGH3FOfwHMSV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="" width="50" /> | Love Lee | Love Lee | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 1366 | 💚 | [🔗](https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="" width="50" /> | Fry’s Dream | Love Lee | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 621 | 💚 | [🔗](https://open.spotify.com/track/6f4CAdAmrOfGH3FOfwHMSV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="" width="50" /> | Whale | SAILING | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 303 | 💚 | [🔗](https://open.spotify.com/track/5OJ275pPDWTd2qWX4kbhXj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273570f746ccc2c75af070da1e0" alt="" width="50" /> | How People Move | SPRING | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 51 | 💚 | [🔗](https://open.spotify.com/track/0c2Yg75sFgD0hWhRq4voAn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="" width="50" /> | Melted | PLAY | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 41 | 💚 | [🔗](https://open.spotify.com/track/2tYPFWrbGbsGKafe5pP64z) |

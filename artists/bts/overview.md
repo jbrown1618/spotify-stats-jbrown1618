@@ -21,7 +21,7 @@ BTS:
 
 ## Artist Rank
 BTS is currently:
-- The #31 artist of the last 6 months
+- The #33 artist of the last 6 months
 - The #12 artist of all time
 
 ![Rank of BTS over time](../../images/artists/bts/rank_time_series.png)
@@ -113,15 +113,15 @@ BTS is currently:
 | Art | Track | Members | Credit Types |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Lie | Jimin | Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Blood Sweat & Tears | RM, SUGA, [j-hope](../j-hope/overview.md) | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Blood Sweat & Tears | RM, SUGA, [j-hope](../../j-hope/overview.md) | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | DNA | RM, SUGA | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Anpanman | RM, SUGA | Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Airplane pt.2 | RM, SUGA, [j-hope](../j-hope/overview.md) | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Airplane pt.2 | RM, SUGA, [j-hope](../../j-hope/overview.md) | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | FAKE LOVE | RM | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | IDOL | RM | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Singularity | RM | Lyricist |
-| <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | Mikrokosmos | RM, SUGA, [j-hope](../j-hope/overview.md) | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | ON | RM, SUGA, [j-hope](../j-hope/overview.md) | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | Mikrokosmos | RM, SUGA, [j-hope](../../j-hope/overview.md) | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | ON | RM, SUGA, [j-hope](../../j-hope/overview.md) | Arranger, Producer, Songwriter |
 
 
 <details>
@@ -142,11 +142,11 @@ BTS is currently:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | RM | 11 | Songwriter, Arranger, Producer, Lyricist |
-| | Pdogg | 11 | Producer, Songwriter, Arranger |
-| | 방시혁 (Bang, Si-Hyuk) | 8 | Songwriter |
+| | [Pdogg](../../producers/pdogg/overview.md) | 11 | Producer, Songwriter, Arranger |
+| | [방시혁 (Bang, Si-Hyuk)](../../producers/방시혁_(bang,_si-hyuk)/overview.md) | 8 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 6 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | [j-hope](../j-hope/overview.md) | 4 | Songwriter |
-| | Supreme Boi | 3 | Songwriter |
+| | [Supreme Boi](../../producers/supreme_boi/overview.md) | 3 | Songwriter |
 | | Ali Tamposi | 2 | Songwriter |
 | | Melanie Joy Fontana | 2 | Songwriter |
 | | Jaycen Joshua | 2 | Producer |
@@ -160,12 +160,12 @@ BTS is currently:
 |:---|:---|---:|:---|
 | | Jang Yi-jeong | 2 | Producer |
 | | DJ Riggins | 2 | Producer |
-| | Arschtritt Lindgren | 2 | Songwriter |
+| | [Arschtritt Lindgren](../../producers/arschtritt_lindgren/overview.md) | 2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3be82c9ca8e6a7103debaf25" alt="" width="50" /> | ADORA | 2 | Producer |
 | | Jacob Richards | 2 | Producer |
 | | Roman | 2 | Songwriter |
 | | August Rigo | 2 | Songwriter |
-| | danke | 1 | Songwriter |
+| | [danke](../../producers/danke/overview.md) | 1 | Songwriter |
 | | Camilla Anne Stewart | 1 | Songwriter |
 | | Charlie J. Perry | 1 | Producer, Songwriter |
 | | Julia Ross | 1 | Songwriter |
@@ -201,7 +201,7 @@ BTS is currently:
 | | Liza Owen | 1 | Songwriter |
 | | Max Graham | 1 | Songwriter |
 | | Stephen Kirk | 1 | Songwriter |
-| | Phil Tan | 1 | Producer |
+| | [Phil Tan](../../producers/phil_tan/overview.md) | 1 | Producer |
 | | 안복진 (Ahn, Bok-Jin) | 1 | Songwriter |
 | | Jinbo | 1 | Songwriter |
 | | Bill Zimmerman | 1 | Producer |

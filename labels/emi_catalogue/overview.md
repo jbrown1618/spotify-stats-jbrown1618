@@ -62,9 +62,9 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | George Martin | 21 | Producer, Arranger |
-| | John Lennon | 19 | Songwriter |
-| | Paul McCartney | 19 | Songwriter |
+| | [George Martin](../../producers/george_martin/overview.md) | 21 | Producer, Arranger |
+| | [John Lennon](../../producers/john_lennon/overview.md) | 19 | Songwriter |
+| | [Paul McCartney](../../producers/paul_mccartney/overview.md) | 19 | Songwriter |
 | | Geoff Emerick | 10 | Producer |
 | | Phil McDonald | 8 | Producer |
 | | Norman Smith | 4 | Producer |

@@ -80,7 +80,7 @@
 | | Clarence Coffee Jr. | 3 | Songwriter |
 | | Sarah Hudson | 3 | Songwriter |
 | | Caroline Ailin | 3 | Songwriter, Producer |
-| | Josh Gudwin | 3 | Producer |
+| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 3 | Producer |
 | | Emily Warren | 2 | Songwriter |
 | | Ian Kirkpatrick | 2 | Producer, Songwriter |
 | | Cameron Gower Poole | 2 | Producer |
@@ -100,7 +100,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 1 | Producer, Songwriter |
 | | Ruffsound | 1 | Songwriter |
 | | Mike Dean | 1 | Producer |
-| | Serban Ghenea | 1 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 1 | Producer |
 | | KNY Factory | 1 | Songwriter |
 | | Platinum Library | 1 | Producer |
 | | Matt Snell | 1 | Producer |
@@ -114,7 +114,7 @@
 | | Ali Tamposi | 1 | Songwriter |
 | | The Monsters & Strangerz | 1 | Producer |
 | | Shawn "Source" Jarrett | 1 | Producer |
-| | Mark "Spike" Stent | 1 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 1 | Producer |
 | | Nija | 1 | Songwriter |
 | | Brandon Bost | 1 | Producer |
 | | Paul LaMalfa | 1 | Producer |
@@ -127,7 +127,7 @@
 | | Alex Venguer | 1 | Producer |
 | | Chelcee Grimes | 1 | Songwriter |
 | | Romano | 1 | Producer |
-| | TEDDY | 1 | Songwriter |
+| | [TEDDY](../../producers/teddy/overview.md) | 1 | Songwriter |
 
 </details>
 

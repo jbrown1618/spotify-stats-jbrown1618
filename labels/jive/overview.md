@@ -59,7 +59,7 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Max Martin | 5 | Producer, Songwriter, Lyricist |
+| | [Max Martin](../../producers/max_martin/overview.md) | 5 | Producer, Songwriter, Lyricist |
 | | Andreas Carlsson | 3 | Songwriter, Lyricist |
 | | Rami | 3 | Producer, Songwriter |
 | | Kristian Lundin | 3 | Producer, Songwriter |
@@ -78,7 +78,7 @@ Appears as:
 |:---|:---|---:|:---|
 | | Janson+Janson | 1 | Arranger |
 | | Pontus Winnberg | 1 | Songwriter |
-| | Serban Ghenea | 1 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 1 | Producer |
 | | Steve Lunt | 1 | Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb713079a55dcf937d241dd2b" alt="" width="50" /> | Timbaland | 1 | Lyricist, Producer, Songwriter |
 | | Brady Barnett | 1 | Producer |

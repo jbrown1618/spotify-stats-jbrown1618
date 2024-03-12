@@ -44,12 +44,12 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 전군 (Jeon Goon) | 10 | Lyricist, Songwriter, Producer |
-| | 블랙아이드필승 (Black Eyed Pilseung) | 10 | Lyricist, Songwriter, Arranger, Producer |
-| | 라도 (Rado) | 8 | Arranger, Producer |
-| | 정은경 (Jung, Eun-Kyung) | 8 | Producer |
+| | [전군 (Jeon Goon)](../../producers/전군_(jeon_goon)/overview.md) | 10 | Lyricist, Songwriter, Producer |
+| | [블랙아이드필승 (Black Eyed Pilseung)](../../producers/블랙아이드필승_(black_eyed_pilseung)/overview.md) | 10 | Lyricist, Songwriter, Arranger, Producer |
+| | [라도 (Rado)](../../producers/라도_(rado)/overview.md) | 8 | Arranger, Producer |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 8 | Producer |
 | | DRK | 5 | Producer |
-| | FLYT | 5 | Arranger, Songwriter, Producer |
+| | [FLYT](../../producers/flyt/overview.md) | 5 | Arranger, Songwriter, Producer |
 | | 고현정 (Go, Hyeon-Jeong) | 3 | Producer |
 | | Prime Time | 2 | Songwriter |
 | | BXN | 2 | Lyricist, Songwriter, Arranger |
@@ -61,7 +61,7 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 양영은 (Yang, Young-eun) | 1 | Producer |
+| | [양영은 (Yang, Young-eun)](../../producers/양영은_(yang,_young-eun)/overview.md) | 1 | Producer |
 | | will.b | 1 | Songwriter |
 
 </details>
@@ -72,8 +72,8 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | Bubble | TEENFRESH | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | 6934 | 💚 | [🔗](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | ﻿Not Like You | TEENFRESH | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | 1077 | 💚 | [🔗](https://open.spotify.com/track/1HnJhU3MhAnRQzdkFm6xQr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | Bubble | TEENFRESH | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | 7078 | 💚 | [🔗](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | ﻿Not Like You | TEENFRESH | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | 1083 | 💚 | [🔗](https://open.spotify.com/track/1HnJhU3MhAnRQzdkFm6xQr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bc125f40131dd5869b2ec36c" alt="" width="50" /> | SO BAD | Star To A Young Culture | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | 456 | 💚 | [🔗](https://open.spotify.com/track/13KR2yNRDrbKwR3dOKCDl4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ea860a3e6904b875629d672" alt="" width="50" /> | BUTTERFLY | YOUNG-LUV.COM | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | 212 | 💚 | [🔗](https://open.spotify.com/track/1q97NRLZfQlXYvZJAQ7tln) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="" width="50" /> | Teddy Bear | Teddy Bear | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | 122 | 💚 | [🔗](https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9) |

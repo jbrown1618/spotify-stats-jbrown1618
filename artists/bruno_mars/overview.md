@@ -102,7 +102,7 @@ Bruno Mars:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](overview.md) | 12 | Songwriter, Producer |
 | | Philip Lawrence | 8 | Songwriter |
 | | Charles Moniz | 7 | Producer |
-| | Serban Ghenea | 5 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 5 | Producer |
 | | James Fauntleroy | 5 | Songwriter |
 | | Ray McCullough | 4 | Songwriter |
 | | Brody Brown | 4 | Songwriter |
@@ -118,8 +118,8 @@ Bruno Mars:
 |:---|:---|---:|:---|
 | | Jeremy Reeves | 4 | Songwriter |
 | | Ray Romulus | 4 | Songwriter |
-| | Manny Marroquin | 3 | Producer |
-| | John Hanes | 3 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 3 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 3 | Producer |
 | | Brandon Paak Anderson | 3 | Songwriter |
 | | D'Mile | 3 | Producer, Songwriter |
 | | The Stereotypes | 3 | Producer |

@@ -252,7 +252,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 60 | 52 | [k-pop](../../genres/k-pop/overview.md) |
+| 59 | 52 | [k-pop](../../genres/k-pop/overview.md) |
 | 44 | 41 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 17 | 15 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 12 | 12 | [pop](../../genres/pop/overview.md) |
@@ -292,10 +292,10 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Ollounder | 7 | Arranger, Lyricist, Songwriter |
+| | [Ollounder](../../producers/ollounder/overview.md) | 7 | Arranger, Lyricist, Songwriter |
 | | 김석민 (Kim Seog-min) | 6 | Producer |
-| | LEEZ | 6 | Arranger, Lyricist, Songwriter, Producer |
-| | FINNEAS | 5 | Lyricist, Producer, Songwriter, Arranger |
+| | [LEEZ](../../producers/leez/overview.md) | 6 | Arranger, Lyricist, Songwriter, Producer |
+| | [FINNEAS](../../producers/finneas/overview.md) | 5 | Lyricist, Producer, Songwriter, Arranger |
 | | 정창현 (Jung, Chang-hyun) | 4 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 4 | Songwriter |
 | | Rob Kinelski | 4 | Producer |
@@ -311,15 +311,15 @@
 |:---|:---|---:|:---|
 | | 남궁진 (Nam Goong, Jin) | 2 | Producer |
 | | 강지원 (Kang, Jiwon) | 2 | Producer, Arranger, Lyricist, Songwriter |
-| | Paul Epworth | 2 | Lyricist, Producer, Songwriter |
+| | [Paul Epworth](../../producers/paul_epworth/overview.md) | 2 | Lyricist, Producer, Songwriter |
 | | MOJO | 2 | Lyricist, Songwriter, Arranger |
-| | Kenzie | 2 | Lyricist, Songwriter |
+| | [Kenzie](../../producers/kenzie/overview.md) | 2 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | [BIBI](../../artists/bibi/overview.md) | 2 | Lyricist, Songwriter |
-| | 조윤경 (Jo, Yoon Kyung) | 2 | Lyricist |
-| | 정은경 (Jung, Eun-Kyung) | 2 | Producer |
+| | [조윤경 (Jo, Yoon Kyung)](../../producers/조윤경_(jo,_yoon_kyung)/overview.md) | 2 | Lyricist |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 2 | Producer |
 | | Boytoy | 2 | Lyricist, Songwriter, Arranger |
 | | Sally Herbert | 2 | Arranger |
-| | Florence Welch | 2 | Lyricist, Songwriter |
+| | [Florence Welch](../../producers/florence_welch/overview.md) | 2 | Lyricist, Songwriter |
 | | 나고은 (Na, Go-eun) | 2 | Lyricist |
 | | 김보은 (Kim, Bo-eun) | 2 | Lyricist |
 | | 손영진 (Son, Young-jin) | 1 | Arranger, Lyricist, Songwriter |
@@ -330,12 +330,12 @@
 | | 서재우 (Seo, Jae-woo) | 1 | Arranger, Lyricist, Songwriter |
 | | twlv | 1 | Songwriter |
 | | Annalise Morelli | 1 | Songwriter |
-| | Daniel Nigro | 1 | Producer, Songwriter |
+| | [Daniel Nigro](../../producers/daniel_nigro/overview.md) | 1 | Producer, Songwriter |
 | | 노민지 (Noh, Min-ji) | 1 | Producer |
 | | Cathy Dennis | 1 | Arranger |
 | | Kirsten Collins | 1 | Songwriter |
 | | 황선정 (Hwang Sun-jung) | 1 | Lyricist |
-| | ILYA | 1 | Songwriter |
+| | [ILYA](../../producers/ilya/overview.md) | 1 | Songwriter |
 | | Chris Kasych | 1 | Producer |
 | | Joachim Vermeulen Windsant | 1 | Arranger |
 | | 이승훈 (Lee, Seunghoon) | 1 | Arranger, Songwriter |
@@ -371,7 +371,7 @@
 | | Hautboi Rich | 1 | Songwriter |
 | | Nermin Harambašić (Harambašić, Nermin) | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 1 | Songwriter |
-| | Serban Ghenea | 1 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 1 | Producer |
 | | Alexander "Scherzophrenia" Temple | 1 | Lyricist, Songwriter |
 | | busbee | 1 | Arranger, Producer |
 | | Brendon Williams | 1 | Lyricist, Songwriter |
@@ -408,16 +408,16 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | [Illusion](../../artists/aespa/overview.md) | 36381 | <img src="https://i.scdn.co/image/ab67616d0000b27367ebaeedc3ad203e0589e6eb" alt="Re-Original" width="50" /> | VENOM | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="Run Devil Run - The 2nd Album Repackage" width="50" /> | [Run Devil Run](../../artists/girls__generation/overview.md) | 22963 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | [Up All Night (Bang Chan, Changbin, Felix, Seungmin)](../../artists/stray_kids/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | [Oh my god](../../artists/(g)i-dle/overview.md) | 12929 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="Wings" width="50" /> | Wings | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | [Illusion](../../artists/aespa/overview.md) | 36831 | <img src="https://i.scdn.co/image/ab67616d0000b27367ebaeedc3ad203e0589e6eb" alt="Re-Original" width="50" /> | VENOM | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="Run Devil Run - The 2nd Album Repackage" width="50" /> | [Run Devil Run](../../artists/girls__generation/overview.md) | 23011 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | [Up All Night (Bang Chan, Changbin, Felix, Seungmin)](../../artists/stray_kids/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | [Oh my god](../../artists/(g)i-dle/overview.md) | 13664 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="Wings" width="50" /> | Wings | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="28 Reasons - The 1st Mini Album" width="50" /> | [28 Reasons](../../artists/seulgi/overview.md) | 11850 | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | [Wet Nightmare](../../artists/bibi/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="the Billage of perception : chapter one" width="50" /> | [RING X RING](../../artists/billlie/overview.md) | 10610 | <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="SEVENTEEN 11th Mini Album &#x27;SEVENTEENTH HEAVEN&#x27;" width="50" /> | [Monster](../../artists/seventeen/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="Drama - The 4th Mini Album" width="50" /> | [Trick or Trick](../../artists/aespa/overview.md) | 10529 | <img src="https://i.scdn.co/image/ab67616d0000b2737eed64905d129d52667201f2" alt="DEJAYOU" width="50" /> | DEJAYOU | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="Drama - The 4th Mini Album" width="50" /> | [Trick or Trick](../../artists/aespa/overview.md) | 10823 | <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="SEVENTEEN 11th Mini Album &#x27;SEVENTEENTH HEAVEN&#x27;" width="50" /> | [Monster](../../artists/seventeen/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="the Billage of perception : chapter one" width="50" /> | [RING X RING](../../artists/billlie/overview.md) | 10610 | <img src="https://i.scdn.co/image/ab67616d0000b2737eed64905d129d52667201f2" alt="DEJAYOU" width="50" /> | DEJAYOU | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | [Sacrifice (Eat Me Up)](../../artists/enhypen/overview.md) | 8706 | <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="Pink Tape - The 2nd Album" width="50" /> | 미행 (그림자 : Shadow) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | [Animal Farm](../../artists/bibi/overview.md) | 6809 | <img src="https://i.scdn.co/image/ab67616d0000b2730c1f1054d3a170ee26430c79" alt="AGASSY" width="50" /> | AGASSY | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="RBB - The 5th Mini Album" width="50" /> | [RBB (Really Bad Boy)](../../artists/red_velvet/overview.md) | 6787 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [bad guy](../../artists/billie_eilish/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27328980bc854e40cb7a31fec98" alt="CRIMINAL LOVE" width="50" /> | [CRIMINAL LOVE](../../artists/enhypen/overview.md) | 6661 | <img src="https://i.scdn.co/image/ab67616d0000b27325adc6ae87e26bc7e556af71" alt="Favorite - The 3rd Album Repackage" width="50" /> | [Favorite (Vampire)](../../artists/nct_127/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | [Animal Farm](../../artists/bibi/overview.md) | 6935 | <img src="https://i.scdn.co/image/ab67616d0000b2730c1f1054d3a170ee26430c79" alt="AGASSY" width="50" /> | AGASSY | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="RBB - The 5th Mini Album" width="50" /> | [RBB (Really Bad Boy)](../../artists/red_velvet/overview.md) | 6907 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [bad guy](../../artists/billie_eilish/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="Chill Kill - The 3rd Album" width="50" /> | [One Kiss](../../artists/red_velvet/overview.md) | 6685 | <img src="https://i.scdn.co/image/ab67616d0000b27325adc6ae87e26bc7e556af71" alt="Favorite - The 3rd Album Repackage" width="50" /> | [Favorite (Vampire)](../../artists/nct_127/overview.md) | 0 |
 
 ## Years
 

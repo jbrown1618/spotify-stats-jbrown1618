@@ -116,11 +116,11 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Florence Welch | 13 | Songwriter, Lyricist |
+| | [Florence Welch](../../producers/florence_welch/overview.md) | 13 | Songwriter, Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 7 | Lyricist, Producer, Songwriter |
-| | Paul Epworth | 7 | Producer, Lyricist, Songwriter |
+| | [Paul Epworth](../../producers/paul_epworth/overview.md) | 7 | Producer, Lyricist, Songwriter |
 | | Isabella Summers | 6 | Songwriter, Producer, Lyricist |
-| | François Tétaz (Tétaz, François) | 5 | Lyricist, Producer, Songwriter |
+| | [François Tétaz (Tétaz, François)](../../producers/françois_tétaz_(tétaz,_françois)/overview.md) | 5 | Lyricist, Producer, Songwriter |
 | | Cenzo Townshend | 4 | Producer |
 | | Craig Silvey | 4 | Producer |
 | | James Ford | 3 | Producer |
@@ -134,14 +134,14 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5adcd7630c57d002cc5a645" alt="" width="50" /> | MIKA | 3 | Lyricist, Songwriter, Producer |
-| | Mark "Spike" Stent | 3 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 3 | Producer |
 | | Markus Dravs | 2 | Producer |
 | | Greg Wells | 2 | Producer |
 | | M-Phazes | 2 | Producer |
 | | Tom Elmhirst | 2 | Producer |
 | | Robin Baynton | 2 | Producer |
 | | Bullion | 2 | Producer |
-| | Kid Harpoon | 2 | Songwriter |
+| | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 2 | Songwriter |
 | | Bram Inscore | 1 | Producer, Songwriter |
 | | Blue Sky Black Death | 1 | Songwriter |
 | | Fabien Waltmann | 1 | Producer |

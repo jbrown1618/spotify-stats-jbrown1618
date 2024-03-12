@@ -71,7 +71,6 @@ NCT DREAM is currently:
 
 ## Genres
 
-- [k-pop](../../genres/k-pop/overview.md)
 - [k-pop boy group](../../genres/k-pop_boy_group/overview.md)
 
 ## Credits
@@ -94,7 +93,7 @@ NCT DREAM is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="" width="50" /> | BOOM | We Boom - The 3rd Mini Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 34632 | 💚 | [🔗](https://open.spotify.com/track/6rcn967QN5JtkPOBDwYIuT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="" width="50" /> | BOOM | We Boom - The 3rd Mini Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 34956 | 💚 | [🔗](https://open.spotify.com/track/6rcn967QN5JtkPOBDwYIuT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="" width="50" /> | Candy | Candy - Winter Special Mini Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 438 | 💚 | [🔗](https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739dec4de4b22d56be408ee2fd" alt="" width="50" /> | Hot Sauce | Hot Sauce - The 1st Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 35 | 💚 | [🔗](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1ee973dde5ec47914ebc0e1" alt="" width="50" /> | ISTJ | ISTJ - The 3rd Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 15 | 💚 | [🔗](https://open.spotify.com/track/43Pmqpiw4zFY77pT5QdxQ8) |

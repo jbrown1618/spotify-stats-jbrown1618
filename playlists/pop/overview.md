@@ -483,16 +483,16 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Serban Ghenea | 65 | Producer |
-| | John Hanes | 36 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 65 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 36 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 34 | Songwriter, Lyricist, Producer |
-| | Max Martin | 29 | Producer, Songwriter, Lyricist |
-| | Sam Holland | 21 | Producer |
-| | Manny Marroquin | 19 | Producer |
-| | Laura Sisk | 15 | Producer |
-| | FINNEAS | 13 | Lyricist, Producer, Songwriter, Arranger |
-| | Jack Antonoff | 13 | Producer, Songwriter |
-| | Łukasz Gottwald (Gottwald, Łukasz) | 13 | Songwriter |
+| | [Max Martin](../../producers/max_martin/overview.md) | 29 | Producer, Songwriter, Lyricist |
+| | [Sam Holland](../../producers/sam_holland/overview.md) | 21 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 19 | Producer |
+| | [Laura Sisk](../../producers/laura_sisk/overview.md) | 15 | Producer |
+| | [FINNEAS](../../producers/finneas/overview.md) | 13 | Lyricist, Producer, Songwriter, Arranger |
+| | [Jack Antonoff](../../producers/jack_antonoff/overview.md) | 13 | Producer, Songwriter |
+| | [Łukasz Gottwald (Gottwald, Łukasz)](../../producers/łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 13 | Songwriter |
 
 
 <details>
@@ -501,38 +501,38 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 13 | Songwriter, Producer |
-| | Shellback | 12 | Producer, Songwriter, Lyricist |
+| | [Shellback](../../producers/shellback/overview.md) | 12 | Producer, Songwriter, Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 11 | Lyricist, Producer, Songwriter, Arranger |
-| | Mark "Spike" Stent | 11 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 11 | Producer |
 | | Dr. Luke | 10 | Producer |
-| | Phil Tan | 10 | Producer |
+| | [Phil Tan](../../producers/phil_tan/overview.md) | 10 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 10 | Songwriter, Producer, Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 9 | Lyricist, Songwriter, Producer |
 | | Philip Lawrence | 9 | Songwriter |
 | | Rob Kinelski | 9 | Producer |
-| | Marcos Tovar | 9 | Producer |
+| | [Marcos Tovar](../../producers/marcos_tovar/overview.md) | 9 | Producer |
 | | Kuk Harrell | 9 | Producer |
-| | ILYA | 9 | Producer, Songwriter |
+| | [ILYA](../../producers/ilya/overview.md) | 9 | Producer, Songwriter |
 | | Michael Ilbert | 9 | Producer |
 | | Savan Kotecha | 8 | Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 8 | Songwriter |
-| | Josh Gudwin | 8 | Producer |
-| | Mikkel Storleer Eriksen | 7 | Songwriter, Producer |
+| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 8 | Producer |
+| | [Mikkel Storleer Eriksen](../../producers/mikkel_storleer_eriksen/overview.md) | 7 | Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="" width="50" /> | [Sia](../../artists/sia/overview.md) | 7 | Producer, Songwriter |
 | | Charles Moniz | 7 | Producer |
-| | Greg Kurstin | 7 | Producer, Songwriter |
+| | [Greg Kurstin](../../producers/greg_kurstin/overview.md) | 7 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e125f9c0f56dfb73fb97eaa" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 7 | Songwriter |
 | | Tor Erik Hermansen | 7 | Songwriter |
 | | Jonathan Low | 7 | Producer |
 | | Stargate | 7 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 7 | Producer, Songwriter |
-| | Ricky Reed | 6 | Producer, Songwriter, Arranger |
+| | [Ricky Reed](../../producers/ricky_reed/overview.md) | 6 | Producer, Songwriter, Arranger |
 | | Tom Elmhirst | 6 | Producer |
 | | Alex Pasco | 6 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](../../artists/camila_cabello/overview.md) | 6 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 6 | Producer, Songwriter, Arranger |
 | | Emily Wright | 6 | Producer |
-| | Aaron Dessner | 6 | Producer, Songwriter |
+| | [Aaron Dessner](../../producers/aaron_dessner/overview.md) | 6 | Producer, Songwriter |
 | | Bryce Dessner | 6 | Arranger |
 | | Brody Brown | 5 | Songwriter |
 | | Adam Levine | 5 | Lyricist, Songwriter |
@@ -540,7 +540,7 @@
 | | Will Champion | 5 | Songwriter |
 | | Louis Bell | 5 | Songwriter, Producer |
 | | Julian Burg | 5 | Producer |
-| | RedOne | 5 | Producer, Songwriter, Arranger |
+| | [RedOne](../../producers/redone/overview.md) | 5 | Producer, Songwriter, Arranger |
 | | Rami | 5 | Songwriter, Producer |
 | | Ari Levine | 5 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb45de7ab990a1246c812128b6" alt="" width="50" /> | Chris Martin | 5 | Songwriter |
@@ -561,13 +561,13 @@
 | | Justin Tranter | 4 | Songwriter |
 | | Ray Romulus | 4 | Songwriter |
 | | KAMILLE | 4 | Songwriter |
-| | Tony Maserati | 4 | Producer |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 4 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 4 | Producer |
 | | Ken Nelson | 4 | Producer |
 | | Jeremy Reeves | 4 | Songwriter |
 | | Caroline Ailin | 4 | Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4" alt="" width="50" /> | Olivia Rodrigo | 4 | Songwriter, Lyricist |
-| | Daniel Nigro | 4 | Producer, Songwriter, Lyricist |
+| | [Daniel Nigro](../../producers/daniel_nigro/overview.md) | 4 | Producer, Songwriter, Lyricist |
 | | Jeff Bhasker | 4 | Producer, Songwriter |
 | | Jason Evigan | 4 | Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | Nicki Minaj | 4 | Songwriter |
@@ -583,7 +583,7 @@
 | | Mitch McCarthy | 3 | Producer |
 | | Clarence Coffee Jr. | 3 | Songwriter |
 | | Ian Kirkpatrick | 3 | Producer, Songwriter |
-| | Kid Harpoon | 3 | Producer, Songwriter |
+| | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 3 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 3 | Songwriter, Lyricist |
 | | James Valentine | 3 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5adcd7630c57d002cc5a645" alt="" width="50" /> | MIKA | 3 | Lyricist, Songwriter, Producer |
@@ -606,9 +606,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Get Lucky (feat. Pharrell Williams and Nile Rodgers)](../../artists/daft_punk/overview.md) | 244 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="reputation" width="50" /> | [This Is Why We Can't Have Nice Things](../../artists/taylor_swift/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f4269ee2c76394d8f3d1309" alt="7G" width="50" /> | Show Me What | 214 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="Loud" width="50" /> | [S&M](../../artists/rihanna/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" alt="GUTS" width="50" /> | vampire | 185 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | Take It All | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [bury a friend](../../artists/billie_eilish/overview.md) | 126 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [epiphany](../../artists/taylor_swift/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [bury a friend](../../artists/billie_eilish/overview.md) | 142 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [epiphany](../../artists/taylor_swift/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="Yoga" width="50" /> | [Yoga](../../artists/janelle_monáe/overview.md) | 117 | <img src="https://i.scdn.co/image/ab67616d0000b273e859698c8fe21d42a13ec252" alt="SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)" width="50" /> | SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Beggin' | 97 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | [Clocks](../../artists/coldplay/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="ELVIS (Original Motion Picture Soundtrack)" width="50" /> | [Vegas](../../artists/doja_cat/overview.md) | 111 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | [Clocks](../../artists/coldplay/overview.md) | 0 |
 
 ## Years
 

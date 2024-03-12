@@ -9,7 +9,7 @@
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273cab1d5724ddfed3aa8a4fd0f" alt="" width="50" /> | Now (feat. Hwa Sa) | PSY 9th | PSY, [HWASA](../../overview.md) | P NATION | 0 | 💚 | [🔗](https://open.spotify.com/track/3tXzsm4d0w4w1Dyx7Eo88g) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | Maria | María | [HWASA](../../overview.md) | [RBW, Inc](../../../../labels/rbw_inc_) | 59201 | 💚 | [🔗](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | Maria | María | [HWASA](../../overview.md) | [RBW, Inc](../../../../labels/rbw_inc_) | 59777 | 💚 | [🔗](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273864f04cb6debbb9057b04b30" alt="" width="50" /> | I Love My Body | I Love My Body | [HWASA](../../overview.md) | [WM Korea](../../../../labels/wm_korea) | 287 | | [🔗](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273958e22248628086c39bdf786" alt="" width="50" /> | Chili | Chili | [HWASA](../../overview.md) | [Genie Music Corporation](../../../../labels/genie_music_corporation) | 88 | 💚 | [🔗](https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346c377827f3ad9fa6b0f64df" alt="" width="50" /> | TWIT | TWIT | [HWASA](../../overview.md) | [RBW, Inc](../../../../labels/rbw_inc_) | 0 | 💚 | [🔗](https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD) |

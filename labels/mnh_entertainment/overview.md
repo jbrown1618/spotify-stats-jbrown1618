@@ -38,12 +38,12 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 정은경 (Jung, Eun-Kyung) | 9 | Producer |
-| | Fuxxy | 7 | Lyricist, Songwriter, Arranger |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 9 | Producer |
+| | [Fuxxy](../../producers/fuxxy/overview.md) | 7 | Lyricist, Songwriter, Arranger |
 | | 윤원권 (Yoon, Won-kwon) | 5 | Producer |
-| | VINCENZO | 5 | Arranger, Lyricist, Songwriter |
+| | [VINCENZO](../../producers/vincenzo/overview.md) | 5 | Arranger, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e075c754be58cc33e30905a" alt="" width="50" /> | [CHUNG HA](../../artists/chung_ha/overview.md) | 4 | Lyricist |
-| | 양영은 (Yang, Young-eun) | 3 | Producer |
+| | [양영은 (Yang, Young-eun)](../../producers/양영은_(yang,_young-eun)/overview.md) | 3 | Producer |
 | | 김수정 (김수정) | 2 | Producer |
 | | Cutfather | 2 | Arranger |
 | | Mich Hansen | 2 | Songwriter, Lyricist |
@@ -90,9 +90,9 @@ Appears as:
 | | Wayne Hector | 1 | Lyricist, Songwriter |
 | | 조씨아저씨 (Mr. Cho) | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba16d9cf3cc90e28089cdf291" alt="" width="50" /> | Guaynaa | 1 | Lyricist |
-| | Ryan S. Jhun | 1 | Arranger, Lyricist, Songwriter |
+| | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 1 | Arranger, Lyricist, Songwriter |
 | | BXN | 1 | Arranger, Lyricist, Songwriter |
-| | 조윤경 (Jo, Yoon Kyung) | 1 | Lyricist |
+| | [조윤경 (Jo, Yoon Kyung)](../../producers/조윤경_(jo,_yoon_kyung)/overview.md) | 1 | Lyricist |
 | | 김재웅 (Kim, Jae-ung) | 1 | Arranger, Lyricist, Songwriter |
 | | yuka | 1 | Arranger, Songwriter |
 

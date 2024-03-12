@@ -43,14 +43,14 @@ Appears as:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 19 | Songwriter, Lyricist, Producer |
-| | Serban Ghenea | 16 | Producer |
-| | Max Martin | 11 | Producer, Songwriter, Lyricist |
-| | Sam Holland | 10 | Producer |
-| | Shellback | 10 | Producer, Songwriter, Lyricist |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 16 | Producer |
+| | [Max Martin](../../producers/max_martin/overview.md) | 11 | Producer, Songwriter, Lyricist |
+| | [Sam Holland](../../producers/sam_holland/overview.md) | 10 | Producer |
+| | [Shellback](../../producers/shellback/overview.md) | 10 | Producer, Songwriter, Lyricist |
 | | Michael Ilbert | 9 | Producer |
-| | John Hanes | 8 | Producer |
-| | Jack Antonoff | 4 | Producer, Songwriter |
-| | Laura Sisk | 4 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 8 | Producer |
+| | [Jack Antonoff](../../producers/jack_antonoff/overview.md) | 4 | Producer, Songwriter |
+| | [Laura Sisk](../../producers/laura_sisk/overview.md) | 4 | Producer |
 | | Justin Niebank | 3 | Producer |
 
 
@@ -66,7 +66,7 @@ Appears as:
 | | Dann Huff | 2 | Producer |
 | | Liz Rose | 1 | Songwriter |
 | | Robert Manzoli | 1 | Songwriter |
-| | Ryan Tedder | 1 | Producer, Songwriter |
+| | [Ryan Tedder](../../producers/ryan_tedder/overview.md) | 1 | Producer, Songwriter |
 | | Noel Zancanella | 1 | Producer |
 | | Peter Carlsson | 1 | Producer |
 | | Richard Fairbrass | 1 | Songwriter |

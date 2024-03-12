@@ -124,7 +124,7 @@
 | | Edwin Birdsong | 1 | Songwriter |
 | | Karl Bartos | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
-| | Mark "Spike" Stent | 1 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 1 | Producer |
 | | Dia Frampton | 1 | Songwriter |
 
 </details>

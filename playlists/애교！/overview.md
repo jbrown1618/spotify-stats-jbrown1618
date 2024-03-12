@@ -167,16 +167,16 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 블랙아이드필승 (Black Eyed Pilseung) | 6 | Arranger, Lyricist, Songwriter |
-| | 라도 (Rado) | 5 | Arranger, Producer |
+| | [블랙아이드필승 (Black Eyed Pilseung)](../../producers/블랙아이드필승_(black_eyed_pilseung)/overview.md) | 6 | Arranger, Lyricist, Songwriter |
+| | [라도 (Rado)](../../producers/라도_(rado)/overview.md) | 5 | Arranger, Producer |
 | | 이태섭 (Lee, Tae-Sub) | 3 | Producer |
 | | Sam Lewis | 3 | Lyricist, Songwriter |
 | | 최혜진 (Cho, Hye-jin) | 3 | Producer |
-| | FLYT | 3 | Arranger, Songwriter |
+| | [FLYT](../../producers/flyt/overview.md) | 3 | Arranger, Songwriter |
 | | 김용운 (Gim, Yong-un) | 2 | Producer |
 | | Anna Timgren | 2 | Lyricist, Songwriter |
-| | 서지음 (Seo, Ji Eum) | 2 | Lyricist |
-| | Ryan S. Jhun | 2 | Arranger, Lyricist, Songwriter |
+| | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 2 | Lyricist |
+| | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 2 | Arranger, Lyricist, Songwriter |
 
 
 <details>
@@ -184,7 +184,7 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 전군 (Jeon Goon) | 2 | Lyricist |
+| | [전군 (Jeon Goon)](../../producers/전군_(jeon_goon)/overview.md) | 2 | Lyricist |
 | | Justin Reinstein | 1 | Arranger, Lyricist, Producer, Songwriter |
 | | 이성호 (Lee, Sung-ho) | 1 | Producer |
 | | will.b | 1 | Songwriter |
@@ -197,18 +197,18 @@
 | | 김승수 (Kim, Seungsu) | 1 | Arranger, Lyricist, Songwriter |
 | | 남궁진 (Nam Goong, Jin) | 1 | Producer |
 | | Jeppe London Bilsby | 1 | Arranger, Songwriter |
-| | 정은경 (Jung, Eun-Kyung) | 1 | Producer |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 1 | Producer |
 | | Co-sho | 1 | Lyricist |
 | | 조한솔 (Cho, Han-sol) | 1 | Producer |
-| | John Hanes | 1 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 1 | Producer |
 | | 최현준 (Choi, Hyun-Joon) | 1 | Arranger, Lyricist, Songwriter |
-| | Tony Maserati | 1 | Producer |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 1 | Producer |
 | | 임홍진 (Im, Hong-Jin) | 1 | Producer |
 | | Lauritz Emil Christiansen | 1 | Arranger, Songwriter |
 | | 이상엽 (Lee, Sang-yeob) | 1 | Producer |
 | | 이수만 (Lee, Soo-Man) | 1 | Producer |
 | | Chloe Latimer | 1 | Arranger, Songwriter |
-| | 엄세희 (Um, Se-Hee) | 1 | Producer |
+| | [엄세희 (Um, Se-Hee)](../../producers/엄세희_(um,_se-hee)/overview.md) | 1 | Producer |
 | | 서정아 (Seo, Jung Ah) | 1 | Lyricist |
 | | Scott Stoddart | 1 | Arranger, Lyricist, Songwriter |
 | | Sophia Pae | 1 | Arranger |
@@ -221,16 +221,16 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="Hello - Special Album" width="50" /> | Hello | 19655 | <img src="https://i.scdn.co/image/ab67616d0000b273266f95f6353cb2b974f67fa7" alt="miss me?" width="50" /> | Very Very Very | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="TEENFRESH" width="50" /> | [Bubble](../../artists/stayc/overview.md) | 6934 | <img src="https://i.scdn.co/image/ab67616d0000b2738a30df9ceed62f9c39069c9e" alt="Hmph!" width="50" /> | Hmph! | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="Drama - The 4th Mini Album" width="50" /> | [Hot Air Balloon](../../artists/aespa/overview.md) | 6163 | <img src="https://i.scdn.co/image/ab67616d0000b2730b6ab2f6b02f2a9e6713b47d" alt="SUM(ME:R)" width="50" /> | [Humph!](../../artists/pentagon/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="Hello - Special Album" width="50" /> | Hello | 19799 | <img src="https://i.scdn.co/image/ab67616d0000b273266f95f6353cb2b974f67fa7" alt="miss me?" width="50" /> | Very Very Very | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="TEENFRESH" width="50" /> | [Bubble](../../artists/stayc/overview.md) | 7078 | <img src="https://i.scdn.co/image/ab67616d0000b2738a30df9ceed62f9c39069c9e" alt="Hmph!" width="50" /> | Hmph! | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="Drama - The 4th Mini Album" width="50" /> | [Hot Air Balloon](../../artists/aespa/overview.md) | 6409 | <img src="https://i.scdn.co/image/ab67616d0000b2730b6ab2f6b02f2a9e6713b47d" alt="SUM(ME:R)" width="50" /> | [Humph!](../../artists/pentagon/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="POPPY (Japanese Ver.)" width="50" /> | [POPPY - Japanese Ver.](../../artists/stayc/overview.md) | 5188 | <img src="https://i.scdn.co/image/ab67616d0000b273d07e49e3e5a8e79903713354" alt="SIGNAL" width="50" /> | [Signal](../../artists/twice/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="DIMENSION : ANSWER" width="50" /> | [Polaroid Love](../../artists/enhypen/overview.md) | 4782 | <img src="https://i.scdn.co/image/ab67616d0000b273bcbe695c2af0990e57666f3b" alt="THE POYZ BANANA CHACHA" width="50" /> | THE POYZ BANANA CHACHA (Korean Ver.) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="Summer Nights" width="50" /> | [What is Love](../../artists/twice/overview.md) | 4335 | <img src="https://i.scdn.co/image/ab67616d0000b273140ba24506e300382e08e6ec" alt="YES or YES" width="50" /> | [YES or YES](../../artists/twice/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="NONSTOP" width="50" /> | [Dolphin](../../artists/oh_my_girl/overview.md) | 3411 | <img src="https://i.scdn.co/image/ab67616d0000b273aa7646e7aa8a4e001cb8a805" alt="Gee - The First Mini Album" width="50" /> | [Gee](../../artists/girls__generation/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="NONSTOP" width="50" /> | [Dolphin](../../artists/oh_my_girl/overview.md) | 3483 | <img src="https://i.scdn.co/image/ab67616d0000b273aa7646e7aa8a4e001cb8a805" alt="Gee - The First Mini Album" width="50" /> | [Gee](../../artists/girls__generation/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="Formula of Love: O+T=&lt;3" width="50" /> | [The Feels](../../artists/twice/overview.md) | 3353 | <img src="https://i.scdn.co/image/ab67616d0000b2736207621becafe079ec6c9185" alt="The Dream Chapter: MAGIC" width="50" /> | [9 and Three Quarters (Run Away)](../../artists/tomorrow_x_together/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="Merry &amp; Happy" width="50" /> | [Heart Shaker](../../artists/twice/overview.md) | 2832 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | [Life's Too Short (English Version)](../../artists/aespa/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="Drama - The 4th Mini Album" width="50" /> | [YOLO](../../artists/aespa/overview.md) | 2273 | <img src="https://i.scdn.co/image/ab67616d0000b27343b2533812791c25755cb440" alt="Keep Swimmin&#x27; Through" width="50" /> | [Keep Swimmin' Through](../../artists/enhypen/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="Drama - The 4th Mini Album" width="50" /> | [YOLO](../../artists/aespa/overview.md) | 2309 | <img src="https://i.scdn.co/image/ab67616d0000b27343b2533812791c25755cb440" alt="Keep Swimmin&#x27; Through" width="50" /> | [Keep Swimmin' Through](../../artists/enhypen/overview.md) | 0 |
 
 ## Years
 

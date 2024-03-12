@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27311213770e112f78d4075b61fab67616d0000b2732f8d9427fea9dd36a4fb4f1bab67616d0000b27367a1610b21721a06ed7d378eab67616d0000b273d72fb5571087bca0a2fed008" alt="Musicals" width="100" />
 
-[109 tracks (4 liked) 🔗](https://open.spotify.com/playlist/54LRPekls9oCtaWOnmM3N0)
+[110 tracks (5 liked) 🔗](https://open.spotify.com/playlist/54LRPekls9oCtaWOnmM3N0)
 
 [See Track Features](audio_features.md)
 
@@ -30,7 +30,10 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb33004c3ff7aa2a93db21b6c1" alt="" width="50" /> | 1 | 1 | Jorge Rivera-Herrans | [🔗](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e4be3cd76cff0dd9c80c7133" alt="" width="50" /> | 1 | 1 | Sydney James Harcourt | [🔗](https://open.spotify.com/artist/2fHcpUAFhqmfloo2HkBN3e) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0667709ebaee0637517840cf" alt="" width="50" /> | 1 | 1 | Steven Rodriguez | [🔗](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aab8e079e15c7ef2f9259814" alt="" width="50" /> | 1 | 1 | Cast of EPIC: The Musical | [🔗](https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a6fd8ebc62d68a372d51516" alt="" width="50" /> | 33 | 0 | Andrew Lloyd Webber | [🔗](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | 21 | 0 | Phantom Of The Opera Original London Cast | [🔗](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb36cedc44a1877f5d2372da7e" alt="" width="50" /> | 14 | 0 | Sarah Brightman | [🔗](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) |
@@ -117,9 +120,6 @@
 | | 1 | 0 | Tom Alan Robbins | [🔗](https://open.spotify.com/artist/25X8ispTOFwbyfJEpkGh50) |
 | | 1 | 0 | Geoff Hoyle | [🔗](https://open.spotify.com/artist/1amAcZpoesNgBsGypTU6qs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bee3cba47f3ac8d14782103" alt="" width="50" /> | 1 | 0 | Christopher Fitzgerald | [🔗](https://open.spotify.com/artist/1Yq9Q4bPuxh1N4wtIEXyII) |
-| | 1 | 0 | Natalie Venetia Belcon | [🔗](https://open.spotify.com/artist/1XFS2KakYbCcp4NHyDgc4f) |
-| | 1 | 0 | Scott Irby-Ranniar | [🔗](https://open.spotify.com/artist/1W90Na0WyqYkbQkKiBvrPV) |
-| | 1 | 0 | Patina Miller | [🔗](https://open.spotify.com/artist/1V5Hq88OkI5tpsh1EKxStp) |
 
 </details>
 
@@ -145,18 +145,19 @@
 
 
 <details>
-<summary>See all 13 albums</summary>
+<summary>See all 14 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273ef17f8dcb395f575de982b33" alt="" width="50" /> | 2 | 0 | Cats (Original Broadway Cast Recording / 1983) | 1983-01-01 | [🔗](https://open.spotify.com/album/7dIID5jd8V3fR2NXkonyD3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aab8e079e15c7ef2f9259814" alt="" width="50" /> | 1 | 1 | EPIC: The Ocean Saga (Official Concept Album) | 2023-12-25 | [🔗](https://open.spotify.com/album/6q6FBKPiH2waQezdzpxhuz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f1248549faa5010a0550e93" alt="" width="50" /> | 1 | 0 | Les Misérables: In Concert at the Royal Albert Hall | 1996 | [🔗](https://open.spotify.com/album/15L0rrHDr8Q21y7e8WAo8S) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273353e8e2e9f685ebc5b785d1e" alt="" width="50" /> | 1 | 0 | Avenue Q (Original Broadway Cast Recording) | 2003-10-06 | [🔗](https://open.spotify.com/album/4Ok0WpQf9ucxEbd0wJV5Cx) |
 
 </details>
 
 
-![Bar chart of top 13 albums](../../images/playlists/musicals/albums.png)
+![Bar chart of top 14 albums](../../images/playlists/musicals/albums.png)
 
 ## Top Record Labels
 
@@ -164,6 +165,7 @@
 |---:|---:|:---|
 | 10 | 3 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 6 | 1 | [Epic](../../labels/epic/overview.md) |
+| 1 | 1 | Winion Entertainment LLC |
 | 38 | 0 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 28 | 0 | [Verve (Adult Contemporary) MC](../../labels/verve_(adult_contemporary)_mc/overview.md) |
 | 12 | 0 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
@@ -172,7 +174,7 @@
 | 1 | 0 | Masterworks Broadway |
 | 1 | 0 | First Night Records |
 
-![Bar chart of top 9 record labels](../../images/playlists/musicals/labels.png)
+![Bar chart of top 10 record labels](../../images/playlists/musicals/labels.png)
 
 ## Genres
 
@@ -238,6 +240,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
+| 2023 | 1 |
 | 2022 | 4 |
 | 2015 | 16 |
 | [2013](2013.md) | 25 |
@@ -256,13 +259,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="Into The Woods (2022 Broadway Cast Recording)" width="50" /> | Into The Woods (2022 Broadway Cast Recording) (2022-09-30) | <img src="https://i.scdn.co/image/ab67616d0000b273ef17f8dcb395f575de982b33" alt="Cats (Original Broadway Cast Recording / 1983)" width="50" /> | Cats (Original Broadway Cast Recording / 1983) (1983-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="What&#x27;s Inside: Songs from Waitress" width="50" /> | What's Inside: Songs from Waitress (2015-11-06) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | The Phantom Of The Opera (1987-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Hamilton (Original Broadway Cast Recording) (2015-09-25) | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> | Les Misérables (Original Broadway Cast Recording) (1987-05-11) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="Beauty And The Beast: The Broadway Musical" width="50" /> | Beauty And The Beast: The Broadway Musical (1994) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="Wicked (Original Broadway Cast Recording / Deluxe Edition)" width="50" /> | Wicked (Original Broadway Cast Recording / Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2732f1248549faa5010a0550e93" alt="Les Misérables: In Concert at the Royal Albert Hall" width="50" /> | Les Misérables: In Concert at the Royal Albert Hall (1996) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> | The Phantom Of The Opera (Original Motion Picture Soundtrack) (2004-12-10) | <img src="https://i.scdn.co/image/ab67616d0000b2736cb0475872d38753052ac35a" alt="The Lion King: Original Broadway Cast Recording" width="50" /> | The Lion King: Original Broadway Cast Recording (1997-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273353e8e2e9f685ebc5b785d1e" alt="Avenue Q (Original Broadway Cast Recording)" width="50" /> | Avenue Q (Original Broadway Cast Recording) (2003-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b273353e8e2e9f685ebc5b785d1e" alt="Avenue Q (Original Broadway Cast Recording)" width="50" /> | Avenue Q (Original Broadway Cast Recording) (2003-10-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736cb0475872d38753052ac35a" alt="The Lion King: Original Broadway Cast Recording" width="50" /> | The Lion King: Original Broadway Cast Recording (1997-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> | The Phantom Of The Opera (Original Motion Picture Soundtrack) (2004-12-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732f1248549faa5010a0550e93" alt="Les Misérables: In Concert at the Royal Albert Hall" width="50" /> | Les Misérables: In Concert at the Royal Albert Hall (1996) | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="Beauty And The Beast: The Broadway Musical" width="50" /> | Beauty And The Beast: The Broadway Musical (1994) | <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="Wicked (Original Broadway Cast Recording / Deluxe Edition)" width="50" /> | Wicked (Original Broadway Cast Recording / Deluxe Edition) (2013-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aab8e079e15c7ef2f9259814" alt="EPIC: The Ocean Saga (Official Concept Album)" width="50" /> | EPIC: The Ocean Saga (Official Concept Album) (2023-12-25) | <img src="https://i.scdn.co/image/ab67616d0000b273ef17f8dcb395f575de982b33" alt="Cats (Original Broadway Cast Recording / 1983)" width="50" /> | Cats (Original Broadway Cast Recording / 1983) (1983-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="Into The Woods (2022 Broadway Cast Recording)" width="50" /> | Into The Woods (2022 Broadway Cast Recording) (2022-09-30) | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | The Phantom Of The Opera (1987-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="What&#x27;s Inside: Songs from Waitress" width="50" /> | What's Inside: Songs from Waitress (2015-11-06) | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> | Les Misérables (Original Broadway Cast Recording) (1987-05-11) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Hamilton (Original Broadway Cast Recording) (2015-09-25) | <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="Beauty And The Beast: The Broadway Musical" width="50" /> | Beauty And The Beast: The Broadway Musical (1994) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2732f1248549faa5010a0550e93" alt="Les Misérables: In Concert at the Royal Albert Hall" width="50" /> | Les Misérables: In Concert at the Royal Albert Hall (1996) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="Wicked (Original Broadway Cast Recording / Deluxe Edition)" width="50" /> | Wicked (Original Broadway Cast Recording / Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2736cb0475872d38753052ac35a" alt="The Lion King: Original Broadway Cast Recording" width="50" /> | The Lion King: Original Broadway Cast Recording (1997-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> | The Phantom Of The Opera (Original Motion Picture Soundtrack) (2004-12-10) | <img src="https://i.scdn.co/image/ab67616d0000b273353e8e2e9f685ebc5b785d1e" alt="Avenue Q (Original Broadway Cast Recording)" width="50" /> | Avenue Q (Original Broadway Cast Recording) (2003-10-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273353e8e2e9f685ebc5b785d1e" alt="Avenue Q (Original Broadway Cast Recording)" width="50" /> | Avenue Q (Original Broadway Cast Recording) (2003-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> | The Phantom Of The Opera (Original Motion Picture Soundtrack) (2004-12-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736cb0475872d38753052ac35a" alt="The Lion King: Original Broadway Cast Recording" width="50" /> | The Lion King: Original Broadway Cast Recording (1997-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f1248549faa5010a0550e93" alt="Les Misérables: In Concert at the Royal Albert Hall" width="50" /> | Les Misérables: In Concert at the Royal Albert Hall (1996) | <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="Wicked (Original Broadway Cast Recording / Deluxe Edition)" width="50" /> | Wicked (Original Broadway Cast Recording / Deluxe Edition) (2013-01-01) |

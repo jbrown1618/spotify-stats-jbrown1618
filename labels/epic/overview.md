@@ -212,11 +212,11 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Serban Ghenea | 3 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 3 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | [Michael Jackson](../../artists/michael_jackson/overview.md) | 3 | Lyricist, Producer, Songwriter, Arranger |
 | | Mark Endert | 3 | Producer |
 | | Jerry Hey | 3 | Arranger |
-| | John Hanes | 3 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 3 | Producer |
 | | Louis Bell | 3 | Songwriter, Producer |
 | | Bart Schoudel | 2 | Producer |
 | | Rod Temperton | 2 | Arranger, Lyricist, Songwriter |
@@ -226,7 +226,7 @@ Appears as:
 | | Andrew Watt | 2 | Producer, Songwriter |
 | | Matt Hales | 2 | Songwriter |
 | | Ali Tamposi | 2 | Songwriter |
-| | Jack Antonoff | 2 | Songwriter |
+| | [Jack Antonoff](../../producers/jack_antonoff/overview.md) | 2 | Songwriter |
 | | Mike Piersante | 2 | Producer |
 | | Jaycen Joshua | 2 | Producer |
 | | Omar Alfanno | 1 | Songwriter |
@@ -275,7 +275,7 @@ Appears as:
 | | Justin Tranter | 1 | Songwriter |
 | | Paul LaMalfa | 1 | Producer |
 | | Jerry Duplessis | 1 | Songwriter |
-| | Mikkel Storleer Eriksen | 1 | Producer, Songwriter |
+| | [Mikkel Storleer Eriksen](../../producers/mikkel_storleer_eriksen/overview.md) | 1 | Producer, Songwriter |
 | | Zubin Thakkar | 1 | Producer |
 | | Mike Anderson | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
@@ -290,7 +290,7 @@ Appears as:
 | | Luis Diaz | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
 | | Ariowa Irosogie | 1 | Lyricist, Songwriter |
-| | Ryan Tedder | 1 | Songwriter |
+| | [Ryan Tedder](../../producers/ryan_tedder/overview.md) | 1 | Songwriter |
 | | Ant Clemons | 1 | Songwriter |
 | | Tor Erik Hermansen | 1 | Songwriter |
 | | Steve Kipner | 1 | Songwriter |
@@ -314,11 +314,11 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Many the Miles | Little Voice | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 367 | 💚 | [🔗](https://open.spotify.com/track/03kCR9HZpX5muU7D8xYPOL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Machine Gun | Kaleidoscope Heart | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 163 | 💚 | [🔗](https://open.spotify.com/track/2ZfnsQ81jNuY4MHAshnxyp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Fairytale | Little Voice | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 161 | 💚 | [🔗](https://open.spotify.com/track/1q8eyTNRSGEAqSvTATTgIG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Lie To Me | Once Upon Another Time | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 118 | 💚 | [🔗](https://open.spotify.com/track/15zarGPJkaG3btC3Co7Luo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga | Yoga | [Janelle Monáe](../../artists/janelle_monáe/overview.md), Jidenna | [Wondaland Records/Epic](.) | 117 | 💚 | [🔗](https://open.spotify.com/track/3IJCSQoLF4YzPAKaxq2JLb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Between the Lines | Little Voice | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 103 | 💚 | [🔗](https://open.spotify.com/track/2t3b5MZMzsArvQflOUo804) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Lie To Me | Once Upon Another Time | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 77 | 💚 | [🔗](https://open.spotify.com/track/15zarGPJkaG3btC3Co7Luo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | I Choose You | The Blessed Unrest | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 86 | 💚 | [🔗](https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Not Alone | Kaleidoscope Heart | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 60 | 💚 | [🔗](https://open.spotify.com/track/5ksNgN3RWCBbq2sUB1KoNv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | I Choose You | The Blessed Unrest | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 52 | 💚 | [🔗](https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Poetry by Dead Men | Amidst the Chaos (Bonus Version) | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 49 | | [🔗](https://open.spotify.com/track/1rY7zvbYYWaj1OVa3YlwLv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Hercules | The Blessed Unrest | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 29 | 💚 | [🔗](https://open.spotify.com/track/1Ng4tk8lYfiwXbw4t8gdA2) |
 

@@ -48,7 +48,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="Ultraviolence (Deluxe)" width="50" /> | [Shades Of Cool](../../artists/lana_del_rey/overview.md) | 235 | <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="Born This Way" width="50" /> | [Judas](../../artists/lady_gaga/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336" alt="Melodrama" width="50" /> | Green Light | 199 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="The Fame Monster (Deluxe Edition)" width="50" /> | [Bad Romance](../../artists/lady_gaga/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | [Off To The Races](../../artists/lana_del_rey/overview.md) | 195 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="The Fame" width="50" /> | [LoveGame](../../artists/lady_gaga/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [bury a friend](../../artists/billie_eilish/overview.md) | 126 | <img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="Tidal" width="50" /> | Shadowboxer | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [bury a friend](../../artists/billie_eilish/overview.md) | 142 | <img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="Tidal" width="50" /> | Shadowboxer | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="Chromatica" width="50" /> | [Sour Candy (with BLACKPINK)](../../artists/lady_gaga/overview.md) | 52 | <img src="https://i.scdn.co/image/ab67616d0000b273969438a8091085c2472a0766" alt="Til It Happens To You" width="50" /> | [Til It Happens To You](../../artists/lady_gaga/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> | [GOLDWING](../../artists/billie_eilish/overview.md) | 39 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | [Dark Paradise](../../artists/lana_del_rey/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [xanny](../../artists/billie_eilish/overview.md) | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c" alt="lovely (with Khalid)" width="50" /> | [lovely (with Khalid)](../../artists/billie_eilish/overview.md) | 0 |
@@ -141,13 +141,13 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | FINNEAS | 13 | Lyricist, Producer, Songwriter, Arranger |
+| | [FINNEAS](../../producers/finneas/overview.md) | 13 | Lyricist, Producer, Songwriter, Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 10 | Songwriter, Producer, Arranger |
 | | Rob Kinelski | 10 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 10 | Lyricist, Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | 9 | Songwriter, Lyricist, Producer |
 | | Emile Haynie | 5 | Producer |
-| | RedOne | 5 | Producer, Songwriter, Arranger |
+| | [RedOne](../../producers/redone/overview.md) | 5 | Producer, Songwriter, Arranger |
 | | Rick Nowels | 4 | Producer, Songwriter, Lyricist |
 | | Dan Grech-Marguerat | 4 | Producer |
 | | Robert Orton | 4 | Producer |
@@ -167,7 +167,7 @@
 | | Benjamin Rice | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3" alt="" width="50" /> | Lorde | 2 | Songwriter |
 | | Tom Elmhirst | 2 | Producer |
-| | Mark "Spike" Stent | 2 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | Charli XCX | 2 | Songwriter |
 | | Ben Hogarth | 1 | Producer |
 | | Rami | 1 | Songwriter |
@@ -198,10 +198,10 @@
 | | Madison Love | 1 | Songwriter |
 | | Matt Dunkley | 1 | Arranger |
 | | Gabe Wax | 1 | Producer |
-| | Serban Ghenea | 1 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 1 | Producer |
 | | Anoo Bhagavan | 1 | Songwriter |
 | | Lazonate Franklin | 1 | Songwriter |
-| | John Hanes | 1 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 1 | Producer |
 | | Collin Dupuis | 1 | Producer |
 | | Matt Wiggins | 1 | Producer |
 | | Jonas von der Burg | 1 | Songwriter |
@@ -236,11 +236,11 @@
 | | Daniel Law Heath | 1 | Songwriter |
 | | Antonio Tucci Jr. | 1 | Producer |
 | | Andrew Wyatt | 1 | Arranger, Producer |
-| | Paul Epworth | 1 | Producer |
+| | [Paul Epworth](../../producers/paul_epworth/overview.md) | 1 | Producer |
 | | Robert John "Mutt" Lange | 1 | Producer |
 | | Caroline Ailin | 1 | Songwriter |
 | | Rodney Jerkins | 1 | Producer, Songwriter |
-| | Manny Marroquin | 1 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 1 | Producer |
 | | Patrik Berger | 1 | Producer |
 
 </details>

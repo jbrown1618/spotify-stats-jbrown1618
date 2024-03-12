@@ -219,7 +219,7 @@
 | | Mike Dean | 3 | Producer, Arranger |
 | | OKLAMA | 2 | Producer |
 | | Tim Maxey | 2 | Producer, Songwriter |
-| | Manny Marroquin | 2 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 2 | Producer |
 | | Anthony Kilhoffer | 2 | Producer |
 | | Jordan Thorpe | 2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 2 | Songwriter, Producer |
@@ -236,12 +236,12 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6fcd1b700654bccf1adee3ed" alt="" width="50" /> | Megan Thee Stallion | 2 | Songwriter |
 | | Andrew Dawson | 2 | Producer |
 | | Shawn "Source" Jarrett | 2 | Producer |
-| | Marcos Tovar | 2 | Producer |
+| | [Marcos Tovar](../../producers/marcos_tovar/overview.md) | 2 | Producer |
 | | Sounwave | 2 | Producer, Songwriter |
 | | Johnathan Turner | 1 | Producer |
 | | Evan LaRay | 1 | Producer |
 | | Luis Resto | 1 | Producer, Songwriter |
-| | Łukasz Gottwald (Gottwald, Łukasz) | 1 | Songwriter |
+| | [Łukasz Gottwald (Gottwald, Łukasz)](../../producers/łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 1 | Songwriter |
 | | Kane Beatz | 1 | Producer, Songwriter |
 | | James Foye III | 1 | Songwriter |
 | | Leslie Brathwaite | 1 | Producer |
@@ -274,7 +274,7 @@
 | | Frank Ski | 1 | Songwriter |
 | | Platinum Library | 1 | Producer |
 | | Jacob Kasher | 1 | Songwriter |
-| | Serban Ghenea | 1 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 1 | Producer |
 | | Christoph Andersson | 1 | Producer, Songwriter |
 | | CuBeatz | 1 | Producer |
 | | Jim Jonsin | 1 | Songwriter |

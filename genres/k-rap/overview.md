@@ -56,7 +56,7 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd" alt="KWON JI YONG" width="50" /> | 무제(無題) (Untitled, 2014) | 37740 | <img src="https://i.scdn.co/image/ab67616d0000b2736cfc57e5358c5e39e79bccbd" alt="Gangnam Style (강남스타일)" width="50" /> | Gangnam Style (강남스타일) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd" alt="KWON JI YONG" width="50" /> | 무제(無題) (Untitled, 2014) | 38076 | <img src="https://i.scdn.co/image/ab67616d0000b2736cfc57e5358c5e39e79bccbd" alt="Gangnam Style (강남스타일)" width="50" /> | Gangnam Style (강남스타일) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cb95963709806e12d93128d4" alt="Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2" width="50" /> | Say Yes | 333 | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="D-2" width="50" /> | [Moonlight](../../artists/agust_d/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="D-DAY" width="50" /> | [AMYGDALA](../../artists/agust_d/overview.md) | 228 | <img src="https://i.scdn.co/image/ab67616d0000b273632620401c34d07336a091bc" alt="Natural" width="50" /> | Natural | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="D-DAY" width="50" /> | [People Pt.2 (feat. IU)](../../artists/agust_d/overview.md) | 47 | <img src="https://i.scdn.co/image/ab67616d0000b273fa60e8a8d5ca09efc6098175" alt="Indigo" width="50" /> | Wild Flower (with youjeen) | 0 |
@@ -146,13 +146,13 @@
 |:---|:---|---:|:---|
 | | 이기호 (Lee, Ki-ho) | 2 | Producer |
 | | 유건형 (Yoo, Keon-Hyung) | 2 | Arranger, Songwriter |
-| | 구종필 (Koo, Jong-Pil) | 2 | Producer |
+| | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | PSY | 2 | Lyricist, Songwriter |
 | | 홍수연 (홍수연) | 1 | Producer |
 | | Peggy March | 1 | Songwriter |
 | | 오동식 (Oh Dong-sik) | 1 | Lyricist |
 | | 박우상 (Park, Woo-sang) | 1 | Producer |
-| | Tony Maserati | 1 | Producer |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 1 | Arranger, Lyricist, Producer, Songwriter |
 
 

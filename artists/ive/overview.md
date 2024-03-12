@@ -20,15 +20,15 @@ IVE:
 
 ## Artist Rank
 IVE is currently:
-- The #31 artist of the last month
-- The #15 artist of the last 6 months
+- The #33 artist of the last month
+- The #16 artist of the last 6 months
 - The #19 artist of all time
 
 ![Rank of IVE over time](../../images/artists/ive/rank_time_series.png)
 ## Top Tracks
 
 - I AM is:
-    - the #31 track of the last 6 months
+    - the #33 track of the last 6 months
 - Baddie is:
     - the #48 track of the last 6 months
 
@@ -94,11 +94,11 @@ IVE is currently:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | Kriz | 9 | Arranger |
-| | 양영은 (Yang, Young-eun) | 9 | Producer |
-| | 정은경 (Jung, Eun-Kyung) | 8 | Producer |
-| | Ryan S. Jhun | 7 | Arranger, Songwriter, Lyricist, Producer |
+| | [양영은 (Yang, Young-eun)](../../producers/양영은_(yang,_young-eun)/overview.md) | 9 | Producer |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 8 | Producer |
+| | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 7 | Arranger, Songwriter, Lyricist, Producer |
 | | Alawn | 7 | Producer, Arranger |
-| | 서지음 (Seo, Ji Eum) | 5 | Lyricist |
+| | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 5 | Lyricist |
 | | 김민희 (Kim, Min Hee) | 4 | Producer |
 | | Sophia Brenan | 3 | Songwriter |
 | | 레이 (REI) | 3 | Lyricist |
@@ -164,9 +164,9 @@ IVE is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | I AM | I've IVE | [IVE](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | 5477 | 💚 | [🔗](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | I AM | I've IVE | [IVE](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | 5585 | 💚 | [🔗](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5" alt="" width="50" /> | After LIKE | After LIKE | [IVE](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | 1867 | 💚 | [🔗](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Baddie | I'VE MINE | [IVE](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | 874 | 💚 | [🔗](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Baddie | I'VE MINE | [IVE](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | 892 | 💚 | [🔗](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | LOVE DIVE | LOVE DIVE | [IVE](overview.md) | [STARSHIP Entertainment](../../labels/starship_entertainment) | 384 | 💚 | [🔗](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Lips | I've IVE | [IVE](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | 291 | 💚 | [🔗](https://open.spotify.com/track/0dRSOmb7pqkkmjXCu5BYbe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Blue Blood | I've IVE | [IVE](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | 25 | 💚 | [🔗](https://open.spotify.com/track/2avdbiswb0d5AFmyyz68xP) |

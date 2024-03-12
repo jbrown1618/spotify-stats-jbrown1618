@@ -323,15 +323,15 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | George Martin | 3 | Producer, Arranger |
-| | Paul McCartney | 2 | Songwriter |
+| | [George Martin](../../producers/george_martin/overview.md) | 3 | Producer, Arranger |
+| | [Paul McCartney](../../producers/paul_mccartney/overview.md) | 2 | Songwriter |
 | | Phil McDonald | 2 | Producer |
 | | Glyn Johns | 2 | Producer |
 | | Geoff Emerick | 2 | Producer |
-| | Serban Ghenea | 2 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 2 | Producer |
 | | Smokey Robinson | 2 | Lyricist, Songwriter |
-| | John Lennon | 2 | Songwriter |
-| | Łukasz Gottwald (Gottwald, Łukasz) | 1 | Songwriter |
+| | [John Lennon](../../producers/john_lennon/overview.md) | 2 | Songwriter |
+| | [Łukasz Gottwald (Gottwald, Łukasz)](../../producers/łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 1 | Songwriter |
 | | Tom Elmhirst | 1 | Producer |
 
 
@@ -353,8 +353,8 @@
 | | Robert Allen | 1 | Songwriter |
 | | Adam Levine | 1 | Lyricist, Songwriter |
 | | Jesse Shatkin | 1 | Producer, Songwriter |
-| | Florence Welch | 1 | Lyricist, Songwriter |
-| | John Hanes | 1 | Producer |
+| | [Florence Welch](../../producers/florence_welch/overview.md) | 1 | Lyricist, Songwriter |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 1 | Producer |
 | | Ronald White | 1 | Songwriter |
 | | Andrew Dawson | 1 | Producer |
 | | Jim Ed Norman | 1 | Arranger |
@@ -375,10 +375,10 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 1 | Lyricist, Songwriter |
 | | James Valentine | 1 | Lyricist, Songwriter |
 | | Tony Rey | 1 | Producer |
-| | Sam Holland | 1 | Producer |
+| | [Sam Holland](../../producers/sam_holland/overview.md) | 1 | Producer |
 | | Rik Simpson | 1 | Producer |
-| | Greg Kurstin | 1 | Producer |
-| | Shellback | 1 | Producer, Songwriter |
+| | [Greg Kurstin](../../producers/greg_kurstin/overview.md) | 1 | Producer |
+| | [Shellback](../../producers/shellback/overview.md) | 1 | Producer, Songwriter |
 | | Brian Burton | 1 | Songwriter |
 | | Neal Avron | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 1 | Songwriter |
@@ -424,7 +424,7 @@
 | | Aldrin Davis | 1 | Songwriter |
 | | Guy Berryman | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a" alt="" width="50" /> | Kanye West | 1 | Producer, Songwriter |
-| | Phil Tan | 1 | Producer |
+| | [Phil Tan](../../producers/phil_tan/overview.md) | 1 | Producer |
 | | apl.de.ap | 1 | Songwriter |
 | | Cirkut | 1 | Producer, Songwriter |
 | | Ben H. Allen | 1 | Producer |

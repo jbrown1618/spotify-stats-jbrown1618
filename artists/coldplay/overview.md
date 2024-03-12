@@ -74,10 +74,10 @@ Coldplay:
 
 | Art | Track | Members | Credit Types |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="" width="50" /> | Yellow | [Coldplay](overview.md), Guy Berryman, Will Champion, Chris Martin, Jonny Buckland | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | Clocks | [Coldplay](overview.md), Guy Berryman, Will Champion, Chris Martin, Jonny Buckland | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | The Scientist | [Coldplay](overview.md), Guy Berryman, Will Champion, Chris Martin, Jonny Buckland | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="" width="50" /> | Fix You | [Coldplay](overview.md), Guy Berryman, Will Champion, Chris Martin, Jonny Buckland | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="" width="50" /> | Yellow | [Coldplay](.), Guy Berryman, Will Champion, Chris Martin, Jonny Buckland | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | Clocks | [Coldplay](.), Guy Berryman, Will Champion, Chris Martin, Jonny Buckland | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | The Scientist | [Coldplay](.), Guy Berryman, Will Champion, Chris Martin, Jonny Buckland | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="" width="50" /> | Fix You | [Coldplay](.), Guy Berryman, Will Champion, Chris Martin, Jonny Buckland | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e" alt="" width="50" /> | Viva La Vida | Guy Berryman, Will Champion, Chris Martin, Jonny Buckland | Songwriter |
 
 ## Top Producers

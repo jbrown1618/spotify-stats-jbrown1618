@@ -93,11 +93,11 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | Elton John | 2 | Songwriter |
 | | Del Newman | 1 | Arranger |
 | | Damon Lyon-Shaw | 1 | Producer |
-| | George Martin | 1 | Producer |
+| | [George Martin](../../producers/george_martin/overview.md) | 1 | Producer |
 | | Norman Smith | 1 | Producer |
-| | John Lennon | 1 | Songwriter |
+| | [John Lennon](../../producers/john_lennon/overview.md) | 1 | Songwriter |
 | | Chris Stamp | 1 | Producer |
-| | Paul McCartney | 1 | Songwriter |
+| | [Paul McCartney](../../producers/paul_mccartney/overview.md) | 1 | Songwriter |
 | | David Hentschel | 1 | Producer |
 
 

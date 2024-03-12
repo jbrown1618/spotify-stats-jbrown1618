@@ -220,14 +220,14 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | George Martin | 22 | Producer, Arranger |
-| | Paul McCartney | 20 | Songwriter |
-| | John Lennon | 20 | Songwriter |
+| | [George Martin](../../producers/george_martin/overview.md) | 22 | Producer, Arranger |
+| | [Paul McCartney](../../producers/paul_mccartney/overview.md) | 20 | Songwriter |
+| | [John Lennon](../../producers/john_lennon/overview.md) | 20 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](../../artists/queen/overview.md) | 12 | Producer, Arranger |
 | | Geoff Emerick | 10 | Producer |
 | | Phil Ramone | 9 | Producer |
-| | Brian May | 9 | Songwriter, Lyricist, Producer, Arranger |
+| | [Brian May](../../producers/brian_may/overview.md) | 9 | Songwriter, Lyricist, Producer, Arranger |
 | | Jim Boyer | 9 | Producer |
 | | Glyn Johns | 9 | Producer |
 
@@ -238,7 +238,7 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | Phil McDonald | 8 | Producer |
-| | Freddie Mercury | 7 | Songwriter, Lyricist |
+| | [Freddie Mercury](../../producers/freddie_mercury/overview.md) | 7 | Songwriter, Lyricist |
 | | Mike Stone | 6 | Producer |
 | | Norman Smith | 6 | Producer |
 | | Roger Taylor | 6 | Songwriter, Producer |

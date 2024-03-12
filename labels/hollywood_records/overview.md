@@ -67,8 +67,8 @@ Appears as:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](../../artists/queen/overview.md) | 12 | Producer, Arranger |
-| | Brian May | 9 | Songwriter, Lyricist, Producer, Arranger |
-| | Freddie Mercury | 7 | Songwriter, Lyricist |
+| | [Brian May](../../producers/brian_may/overview.md) | 9 | Songwriter, Lyricist, Producer, Arranger |
+| | [Freddie Mercury](../../producers/freddie_mercury/overview.md) | 7 | Songwriter, Lyricist |
 | | Mike Stone | 6 | Producer |
 | | Roger Taylor | 6 | Songwriter, Producer |
 | | Roy Thomas Baker | 5 | Producer |
@@ -89,7 +89,7 @@ Appears as:
 | | Laleh | 1 | Arranger, Producer |
 | | David Richards | 1 | Producer |
 | | Peter Meechan | 1 | Arranger |
-| | Serban Ghenea | 1 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 1 | Producer |
 
 </details>
 

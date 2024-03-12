@@ -30,12 +30,13 @@ aespa is currently:
 - Next Level is:
     - the #4 track of all time
 - Black Mamba is:
-    - the #23 track of all time
+    - the #50 track of the last month
+    - the #19 track of all time
 - Illusion is:
-    - the #24 track of the last 6 months
+    - the #26 track of the last 6 months
     - the #26 track of all time
 - Drama is:
-    - the #20 track of the last month
+    - the #7 track of the last month
     - the #1 track of the last 6 months
 - Trick or Trick is:
     - the #2 track of the last 6 months
@@ -44,14 +45,12 @@ aespa is currently:
 - Hot Air Balloon is:
     - the #10 track of the last 6 months
 - Don't Blink is:
-    - the #16 track of the last 6 months
+    - the #17 track of the last 6 months
 - Jingle Bell Rock is:
-    - the #18 track of the last 6 months
+    - the #19 track of the last 6 months
 - Beautiful Christmas is:
-    - the #32 track of the last 6 months
+    - the #34 track of the last 6 months
 - YOLO is:
-    - the #44 track of the last 6 months
-- Welcome To MY World (feat. nævis) is:
     - the #45 track of the last 6 months
 
 ### Top tracks of all time over time
@@ -144,7 +143,7 @@ aespa is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 유영진 (Yoo, Young-jin) | 4 | Arranger, Lyricist, Producer, Songwriter |
+| | [유영진 (Yoo, Young-jin)](../../producers/유영진_(yoo,_young-jin)/overview.md) | 4 | Arranger, Lyricist, Producer, Songwriter |
 | | 노민지 (Noh, Min-ji) | 4 | Producer |
 | | 강은지 (Kang, Eun-ji) | 3 | Producer |
 | | 이지홍 (Lee, Ji-hong) | 2 | Producer |
@@ -183,7 +182,7 @@ aespa is currently:
 | | Deez | 1 | Arranger, Lyricist, Songwriter |
 | | Shaun Lopez | 1 | Arranger, Songwriter |
 | | Adam McInnis | 1 | Arranger, Songwriter |
-| | Kenzie | 1 | Lyricist, Songwriter |
+| | [Kenzie](../../producers/kenzie/overview.md) | 1 | Lyricist, Songwriter |
 | | 강선영 (강선영) | 1 | Producer |
 | | Marcus Lomax | 1 | Songwriter |
 | | Mario Marchetti | 1 | Arranger, Songwriter |
@@ -197,7 +196,7 @@ aespa is currently:
 | | Ella Isaacson | 1 | Songwriter |
 | | Timothy "Bos" Bullock | 1 | Arranger, Songwriter |
 | | BXN | 1 | Arranger |
-| | 조윤경 (Jo, Yoon Kyung) | 1 | Lyricist |
+| | [조윤경 (Jo, Yoon Kyung)](../../producers/조윤경_(jo,_yoon_kyung)/overview.md) | 1 | Lyricist |
 | | SENDO | 1 | Producer |
 
 </details>
@@ -208,16 +207,16 @@ aespa is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | Savage | Savage - The 1st Mini Album | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 68351 | 💚 | [🔗](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="" width="50" /> | Next Level | Next Level | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 66826 | 💚 | [🔗](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f248f7695eb544a3a1955c5" alt="" width="50" /> | Black Mamba | Black Mamba | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 42091 | 💚 | [🔗](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Illusion | Girls - The 2nd Mini Album | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment), [Warner Records](../../labels/warner_records) | 36381 | 💚 | [🔗](https://open.spotify.com/track/396FqjKmViUZ92Wmm4rx3i) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | Savage | Savage - The 1st Mini Album | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 68951 | 💚 | [🔗](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="" width="50" /> | Next Level | Next Level | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 67390 | 💚 | [🔗](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f248f7695eb544a3a1955c5" alt="" width="50" /> | Black Mamba | Black Mamba | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 42476 | 💚 | [🔗](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Illusion | Girls - The 2nd Mini Album | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment), [Warner Records](../../labels/warner_records) | 36831 | 💚 | [🔗](https://open.spotify.com/track/396FqjKmViUZ92Wmm4rx3i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Welcome To MY World (feat. nævis) | MY WORLD - The 3rd Mini Album | [aespa](overview.md), nævis | [SM Entertainment](../../labels/sm_entertainment), [Warner Records](../../labels/warner_records) | 22341 | 💚 | [🔗](https://open.spotify.com/track/3q5qpprtugUIEPExuI7tRD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Spicy | MY WORLD - The 3rd Mini Album | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment), [Warner Records](../../labels/warner_records) | 18977 | 💚 | [🔗](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="" width="50" /> | Hold On Tight | Hold On Tight | [aespa](overview.md) | [Parlophone UK](../../labels/parlophone_uk) | 17943 | 💚 | [🔗](https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Thirsty | MY WORLD - The 3rd Mini Album | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment), [Warner Records](../../labels/warner_records) | 12256 | 💚 | [🔗](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Drama | Drama - The 4th Mini Album | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment), [Warner Records](../../labels/warner_records) | 11318 | 💚 | [🔗](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Trick or Trick | Drama - The 4th Mini Album | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment), [Warner Records](../../labels/warner_records) | 10529 | 💚 | [🔗](https://open.spotify.com/track/3EI3OLBeM89B0o0UsIGCOx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Drama | Drama - The 4th Mini Album | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment), [Warner Records](../../labels/warner_records) | 11662 | 💚 | [🔗](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Trick or Trick | Drama - The 4th Mini Album | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment), [Warner Records](../../labels/warner_records) | 10823 | 💚 | [🔗](https://open.spotify.com/track/3EI3OLBeM89B0o0UsIGCOx) |
 
 
 <details>
@@ -225,16 +224,16 @@ aespa is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c2bcf77ad1fe40f6c7b88609" alt="" width="50" /> | Better Things | Better Things | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment), [Warner Records](../../labels/warner_records) | 10105 | 💚 | [🔗](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731ca13e5d59a3a25e68fd7764" alt="" width="50" /> | Jingle Bell Rock | Jingle Bell Rock | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment), [Warner Records](../../labels/warner_records) | 6390 | | [🔗](https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Hot Air Balloon | Drama - The 4th Mini Album | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment), [Warner Records](../../labels/warner_records) | 6163 | 💚 | [🔗](https://open.spotify.com/track/1mdtLny0zugh89vokWGG80) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c2bcf77ad1fe40f6c7b88609" alt="" width="50" /> | Better Things | Better Things | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment), [Warner Records](../../labels/warner_records) | 10381 | 💚 | [🔗](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ca13e5d59a3a25e68fd7764" alt="" width="50" /> | Jingle Bell Rock | Jingle Bell Rock | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment), [Warner Records](../../labels/warner_records) | 6582 | | [🔗](https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Hot Air Balloon | Drama - The 4th Mini Album | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment), [Warner Records](../../labels/warner_records) | 6409 | 💚 | [🔗](https://open.spotify.com/track/1mdtLny0zugh89vokWGG80) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | YEPPI YEPPI | Savage - The 1st Mini Album | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 5274 | 💚 | [🔗](https://open.spotify.com/track/3UKKwGrpWWamc0XNSKXjmz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Salty & Sweet | MY WORLD - The 3rd Mini Album | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment), [Warner Records](../../labels/warner_records) | 5243 | 💚 | [🔗](https://open.spotify.com/track/4wQDjZtXjsFtU3BLSiIH4t) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Don't Blink | Drama - The 4th Mini Album | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment), [Warner Records](../../labels/warner_records) | 4364 | 💚 | [🔗](https://open.spotify.com/track/2uJEnyojuGg31VVlLTQFpp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | YOLO | Drama - The 4th Mini Album | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment), [Warner Records](../../labels/warner_records) | 2273 | | [🔗](https://open.spotify.com/track/3OQWohbPUsvbXaH1AiRazX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Don't Blink | Drama - The 4th Mini Album | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment), [Warner Records](../../labels/warner_records) | 4568 | 💚 | [🔗](https://open.spotify.com/track/2uJEnyojuGg31VVlLTQFpp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | YOLO | Drama - The 4th Mini Album | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment), [Warner Records](../../labels/warner_records) | 2309 | | [🔗](https://open.spotify.com/track/3OQWohbPUsvbXaH1AiRazX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | I'm Unhappy | MY WORLD - The 3rd Mini Album | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment), [Warner Records](../../labels/warner_records) | 1777 | 💚 | [🔗](https://open.spotify.com/track/6fzio74FGqFFsenYkbGPzR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Beautiful Christmas | 2022 Winter SMTOWN : SMCU PALACE | [Red Velvet](../red_velvet/overview.md), [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1538 | 💚 | [🔗](https://open.spotify.com/track/1MsWVb6YW3AknP1EAZaKOQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls | Girls - The 2nd Mini Album | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment), [Warner Records](../../labels/warner_records) | 1512 | 💚 | [🔗](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Beautiful Christmas | 2022 Winter SMTOWN : SMCU PALACE | [Red Velvet](../red_velvet/overview.md), [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1436 | 💚 | [🔗](https://open.spotify.com/track/1MsWVb6YW3AknP1EAZaKOQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | I'll Make You Cry | Savage - The 1st Mini Album | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1083 | 💚 | [🔗](https://open.spotify.com/track/6l1dTAhX7P6EKvA11NLNuW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | 'Til We Meet Again | MY WORLD - The 3rd Mini Album | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment), [Warner Records](../../labels/warner_records) | 606 | | [🔗](https://open.spotify.com/track/60Uio68M57PwKEgZxSutL6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c74be23f27696b57c67f5489" alt="" width="50" /> | Regret of the Times - 2024 aespa Remake Version | Regret of the Times (2024 aespa Remake Version) - SM STATION | [aespa](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 272 | 💚 | [🔗](https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA) |

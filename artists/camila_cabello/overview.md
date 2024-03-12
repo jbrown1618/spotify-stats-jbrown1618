@@ -69,8 +69,8 @@ Camila Cabello:
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](overview.md) | 6 | Songwriter |
 | | Frank Dukes | 4 | Songwriter, Producer |
-| | John Hanes | 3 | Producer |
-| | Serban Ghenea | 3 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 3 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 3 | Producer |
 | | Louis Bell | 3 | Songwriter, Producer |
 | | Bart Schoudel | 2 | Producer |
 | | Andrew Watt | 2 | Producer, Songwriter |
@@ -95,7 +95,7 @@ Camila Cabello:
 | | Ant Clemons | 1 | Songwriter |
 | | Matt Beckley | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb93e1fe183be0aebda170283a" alt="" width="50" /> | Shawn Mendes | 1 | Songwriter |
-| | Ryan Tedder | 1 | Songwriter |
+| | [Ryan Tedder](../../producers/ryan_tedder/overview.md) | 1 | Songwriter |
 | | Jacob Olofsson | 1 | Songwriter |
 | | Robbie Soukiasyan | 1 | Producer |
 | | Zubin Thakkar | 1 | Producer |
@@ -110,7 +110,7 @@ Camila Cabello:
 | | Nathaniel Alford | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 1 | Producer, Songwriter |
 | | Rami Dawod | 1 | Songwriter |
-| | Manny Marroquin | 1 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 1 | Producer |
 | | Jack Patterson | 1 | Songwriter |
 | | Paul LaMalfa | 1 | Producer |
 | | Cashmere Cat | 1 | Producer, Songwriter |

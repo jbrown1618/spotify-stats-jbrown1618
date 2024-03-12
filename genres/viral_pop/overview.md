@@ -135,7 +135,7 @@
 | | Scott Hoying | 3 | Songwriter |
 | | Jacob Kasher | 3 | Songwriter |
 | | Mitch Grassi | 3 | Songwriter |
-| | Manny Marroquin | 3 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 3 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf83823555da55fd07555fbd0" alt="" width="50" /> | Charlie Puth | 3 | Producer, Songwriter |
 | | Kirstin | 3 | Songwriter |
 | | Kevin Olusola | 3 | Songwriter |
@@ -155,7 +155,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](../../artists/camila_cabello/overview.md) | 2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8c57872541b101fb95d6295" alt="" width="50" /> | [Pentatonix](../../artists/pentatonix/overview.md) | 2 | Arranger |
 | | Wayne Sermon | 1 | Songwriter |
-| | John Hanes | 1 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb23e614922b351df9c2e93a2b" alt="" width="50" /> | MAX | 1 | Songwriter |
 | | Yoko Ono | 1 | Lyricist |
 | | George David Weiss | 1 | Songwriter |
@@ -163,7 +163,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcc129f1c9b5047760d66aae2" alt="" width="50" /> | Stromae | 1 | Songwriter |
 | | Jeff Bhasker | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/5d5dec419f704181b9a23dd9c55562632817c442" alt="" width="50" /> | Nate Ruess | 1 | Songwriter |
-| | ILYA | 1 | Songwriter |
+| | [ILYA](../../producers/ilya/overview.md) | 1 | Songwriter |
 | | Kaan Gunesberk | 1 | Songwriter |
 | | Rogét Chahayed (Chahayed, Rogét) | 1 | Producer, Songwriter |
 | | Cashmere Cat | 1 | Producer, Songwriter |
@@ -181,7 +181,7 @@
 | | Chad Vaccarino | 1 | Songwriter |
 | | SLUMS | 1 | Producer |
 | | Dan Reynolds | 1 | Songwriter |
-| | Serban Ghenea | 1 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 1 | Producer |
 | | Bram Inscore | 1 | Producer, Songwriter |
 | | Savan Kotecha | 1 | Songwriter |
 | | Nikki Cislyn | 1 | Songwriter |
@@ -199,12 +199,12 @@
 | | Geoff Warburton | 1 | Songwriter |
 | | Teddy Peña (Peña, Teddy) | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
-| | Mark "Spike" Stent | 1 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 1 | Producer |
 | | Sampha | 1 | Songwriter |
-| | Jack Antonoff | 1 | Songwriter |
+| | [Jack Antonoff](../../producers/jack_antonoff/overview.md) | 1 | Songwriter |
 | | Alex da Kid | 1 | Songwriter |
 | | Leland | 1 | Songwriter |
-| | John Lennon | 1 | Lyricist, Songwriter |
+| | [John Lennon](../../producers/john_lennon/overview.md) | 1 | Lyricist, Songwriter |
 | | Josh Mosser | 1 | Songwriter |
 | | Scott Harris | 1 | Songwriter |
 | | Jake Torrey | 1 | Songwriter |
@@ -218,7 +218,7 @@
 | | William Wells | 1 | Songwriter |
 | | Timmaz Zolleyn | 1 | Songwriter |
 | | Grace Chatto | 1 | Songwriter |
-| | Max Martin | 1 | Songwriter |
+| | [Max Martin](../../producers/max_martin/overview.md) | 1 | Songwriter |
 | | Nathaniel Alford | 1 | Producer |
 | | Alex Hope | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba8eef8322e55fc49ab436eea" alt="" width="50" /> | Sam Smith | 1 | Songwriter |

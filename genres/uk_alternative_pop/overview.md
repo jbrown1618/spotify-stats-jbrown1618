@@ -54,9 +54,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [He Won't Hold You (feat. Rapsody)](../../artists/jacob_collier/overview.md) | 196 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | [You've Got The Love](../../artists/florence_+_the_machine/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [What The Water Gave Me](../../artists/florence_+_the_machine/overview.md) | 100 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | [A Rock Somewhere (feat. Anoushka Shankar & Varijashree Venugopal)](../../artists/jacob_collier/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="Djesse Vol. 1" width="50" /> | [Every Little Thing She Does Is Magic](../../artists/jacob_collier/overview.md) | 89 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | [Kiss With A Fist](../../artists/florence_+_the_machine/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [Running Outta Love (feat. Tori Kelly)](../../artists/jacob_collier/overview.md) | 69 | <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="Djesse Vol. 1" width="50" /> | [With The Love In My Heart](../../artists/jacob_collier/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [Running Outta Love (feat. Tori Kelly)](../../artists/jacob_collier/overview.md) | 71 | <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="Djesse Vol. 1" width="50" /> | [With The Love In My Heart](../../artists/jacob_collier/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="Djesse Vol. 2" width="50" /> | [Moon River](../../artists/jacob_collier/overview.md) | 46 | <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="Djesse Vol. 2" width="50" /> | [Here Comes The Sun (feat. dodie)](../../artists/jacob_collier/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [In My Bones (feat. Kimbra & Tank and The Bangas)](../../artists/jacob_collier/overview.md) | 24 | <img src="https://i.scdn.co/image/ab67616d0000b27343c7453d0338f82a05464751" alt="In My Room" width="50" /> | [You And I](../../artists/jacob_collier/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [In My Bones (feat. Kimbra & Tank and The Bangas)](../../artists/jacob_collier/overview.md) | 34 | <img src="https://i.scdn.co/image/ab67616d0000b27343c7453d0338f82a05464751" alt="In My Room" width="50" /> | [You And I](../../artists/jacob_collier/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Seven Devils](../../artists/florence_+_the_machine/overview.md) | 10 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [All I Need (with Mahalia & Ty Dolla $ign)](../../artists/jacob_collier/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | [I'm Not Calling You A Liar](../../artists/florence_+_the_machine/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Lover To Lover](../../artists/florence_+_the_machine/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | [Over You (feat. aespa & Chris Martin)](../../artists/jacob_collier/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [Time Alone With You (feat. Daniel Caesar)](../../artists/jacob_collier/overview.md) | 0 |
@@ -107,8 +107,8 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Florence Welch | 13 | Songwriter, Lyricist |
-| | Paul Epworth | 7 | Producer, Lyricist, Songwriter |
+| | [Florence Welch](../../producers/florence_welch/overview.md) | 13 | Songwriter, Lyricist |
+| | [Paul Epworth](../../producers/paul_epworth/overview.md) | 7 | Producer, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | [Jacob Collier](../../artists/jacob_collier/overview.md) | 6 | Arranger, Producer, Songwriter |
 | | Isabella Summers | 6 | Songwriter, Producer, Lyricist |
 | | Ben Bloomberg | 5 | Producer |
@@ -124,12 +124,12 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Kid Harpoon | 2 | Songwriter |
+| | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 2 | Songwriter |
 | | Tom Elmhirst | 2 | Producer |
 | | Robin Baynton | 2 | Producer |
 | | Markus Dravs | 2 | Producer |
 | | Bullion | 2 | Producer |
-| | Mark "Spike" Stent | 2 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 2 | Producer |
 | | Francis White | 1 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc6f550d246a5fdb238d5127e" alt="" width="50" /> | Rapsody | 1 | Producer, Songwriter |
 | | Mat Bartram | 1 | Producer |

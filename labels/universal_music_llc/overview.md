@@ -25,7 +25,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 5 | 3 | [PENTAGON](../../artists/pentagon/overview.md) | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba454f0e9a4c7f464347e9cfa" alt="" width="50" /> | 4 | 3 | Elizaveta | [🔗](https://open.spotify.com/artist/2a9bCkqCkLvXM0s3uPvR7M) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb258c6319f7a39c6e0a0f39de" alt="" width="50" /> | 4 | 2 | YOUHA | [🔗](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7e34f1a6ce455f3e8a7a61d3" alt="" width="50" /> | 3 | 2 | Fujii Kaze | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc" alt="" width="50" /> | 3 | 2 | Fujii Kaze | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | 3 | 2 | [CLC](../../artists/clc/overview.md) | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a48a236a01fa62db8c7a6f6" alt="" width="50" /> | 2 | 2 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0380068b5097515265c51f4b" alt="" width="50" /> | 2 | 2 | DEAN | [🔗](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) |
@@ -177,12 +177,12 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Max Martin | 6 | Producer, Songwriter |
-| | ILYA | 5 | Producer, Songwriter |
+| | [Max Martin](../../producers/max_martin/overview.md) | 6 | Producer, Songwriter |
+| | [ILYA](../../producers/ilya/overview.md) | 5 | Producer, Songwriter |
 | | Savan Kotecha | 5 | Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 4 | Songwriter |
-| | Serban Ghenea | 4 | Producer |
-| | John Hanes | 4 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 4 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 4 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 3 | Lyricist, Songwriter, Arranger |
 | | Peter Carlsson | 3 | Producer |
 | | 최예지 (Choi, Ye-ji) | 2 | Producer |
@@ -199,10 +199,10 @@ Appears as:
 | | Khristopher Riddick-Tynes | 2 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb149ebd20c454545fc4fb7487" alt="" width="50" /> | Victoria Monét | 2 | Producer, Songwriter |
 | | Antonio Dixon | 2 | Arranger, Producer, Songwriter |
-| | Shellback | 2 | Producer |
+| | [Shellback](../../producers/shellback/overview.md) | 2 | Producer |
 | | 전부연 (Jeon, Bu-yeon) | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | Nicki Minaj | 2 | Songwriter |
-| | Sam Holland | 2 | Producer |
+| | [Sam Holland](../../producers/sam_holland/overview.md) | 2 | Producer |
 | | TBHits | 2 | Producer, Songwriter |
 | | MooF | 1 | Arranger, Songwriter |
 | | Rami | 1 | Producer, Songwriter |
@@ -210,23 +210,23 @@ Appears as:
 | | 板井直樹 (Itai, Naoki) | 1 | Arranger |
 | | will.b | 1 | Songwriter |
 | | Randy Ellis | 1 | Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7e34f1a6ce455f3e8a7a61d3" alt="" width="50" /> | Fujii Kaze | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc" alt="" width="50" /> | Fujii Kaze | 1 | Lyricist, Songwriter |
 | | Andrew Watt | 1 | Songwriter |
 | | Giorgio Tuinfort | 1 | Producer, Songwriter |
 | | Tayla Parx | 1 | Songwriter |
-| | 정은경 (Jung, Eun-Kyung) | 1 | Producer |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 1 | Producer |
 | | 고현정 (Go, Hyeon-Jeong) | 1 | Producer |
 | | 안예은 (Ahn, Ye Eun) | 1 | Arranger, Lyricist, Songwriter |
-| | Pop Time | 1 | Arranger, Songwriter |
+| | [Pop Time](../../producers/pop_time/overview.md) | 1 | Arranger, Songwriter |
 | | DRK | 1 | Producer |
 | | Jaycen Joshua | 1 | Producer |
 | | Carl Falk | 1 | Producer, Songwriter |
-| | FLYT | 1 | Arranger, Songwriter |
+| | [FLYT](../../producers/flyt/overview.md) | 1 | Arranger, Songwriter |
 | | Bobby Byrd | 1 | Songwriter |
 | | ACAね (ACANE) | 1 | Lyricist, Songwriter |
 | | 신재빈 (Shin, Jae Bin) | 1 | Producer |
 | | Johan Carlsson | 1 | Songwriter |
-| | 블랙아이드필승 (Black Eyed Pilseung) | 1 | Songwriter |
+| | [블랙아이드필승 (Black Eyed Pilseung)](../../producers/블랙아이드필승_(black_eyed_pilseung)/overview.md) | 1 | Songwriter |
 | | Jimmy Van Heusen | 1 | Songwriter |
 | | Alexander Kronlund | 1 | Songwriter |
 | | Kuk Harrell | 1 | Producer |
@@ -239,7 +239,7 @@ Appears as:
 | | Peter Svensson | 1 | Songwriter |
 | | Travis Sayles | 1 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb158342aa8bb8a192c778f2a5" alt="" width="50" /> | James Brown | 1 | Producer, Songwriter |
-| | 라도 (Rado) | 1 | Arranger |
+| | [라도 (Rado)](../../producers/라도_(rado)/overview.md) | 1 | Arranger |
 | | Bill Meyers | 1 | Arranger |
 | | Patrick "j.Que" Smith | 1 | Songwriter |
 | | JUNE | 1 | Arranger, Songwriter |
@@ -250,7 +250,7 @@ Appears as:
 | | Rickard Göransson (Göransson, Rickard) | 1 | Producer, Songwriter |
 | | Sammy Cahn | 1 | Lyricist |
 | | 조씨아저씨 (Mr. Cho) | 1 | Producer |
-| | Tony Maserati | 1 | Producer |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 1 | Producer |
 | | 眞武亨 (Matake, Toru) | 1 | Producer |
 | | Jon Taylor | 1 | Producer |
 | | Ross Golan | 1 | Songwriter |
@@ -269,12 +269,12 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | BEAM BEAM | Windy | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [Universal Music LLC](.) | 52156 | 💚 | [🔗](https://open.spotify.com/track/1VjIS4qoyD6JS2rNZQgE00) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh | Uh-Oh | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Universal Music LLC](.) | 30047 | 💚 | [🔗](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | HELICOPTER | HELICOPTER | [CLC](../../artists/clc/overview.md) | [Universal Music LLC](.) | 19104 | 💚 | [🔗](https://open.spotify.com/track/2hJS7BdEaH9Jo8MeJujsHT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | Oh my god | I trust | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Universal Music LLC](.) | 12929 | 💚 | [🔗](https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | BEAM BEAM | Windy | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [Universal Music LLC](.) | 52612 | 💚 | [🔗](https://open.spotify.com/track/1VjIS4qoyD6JS2rNZQgE00) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh | Uh-Oh | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Universal Music LLC](.) | 30239 | 💚 | [🔗](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | HELICOPTER | HELICOPTER | [CLC](../../artists/clc/overview.md) | [Universal Music LLC](.) | 19140 | 💚 | [🔗](https://open.spotify.com/track/2hJS7BdEaH9Jo8MeJujsHT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | Oh my god | I trust | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Universal Music LLC](.) | 13664 | 💚 | [🔗](https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="" width="50" /> | POPPY - Japanese Ver. | POPPY (Japanese Ver.) | [STAYC](../../artists/stayc/overview.md) | [Universal Music LLC](.) | 5188 | 💚 | [🔗](https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cbcd67f202be276ccda69ab3" alt="" width="50" /> | FLIGHT | FLIGHT | YOUHA | [Universal Music Ltd.](.) | 1688 | 💚 | [🔗](https://open.spotify.com/track/1pvBm1ydKLXorYDdlIAeuj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cbcd67f202be276ccda69ab3" alt="" width="50" /> | FLIGHT | FLIGHT | YOUHA | [Universal Music Ltd.](.) | 1820 | 💚 | [🔗](https://open.spotify.com/track/1pvBm1ydKLXorYDdlIAeuj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736080e2389dee3e57f00ccc69" alt="" width="50" /> | DUMDi DUMDi | DUMDi DUMDi | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Universal Music LLC](.) | 499 | 💚 | [🔗](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | HANN (Alone in winter) | I burn | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Universal Music LLC](.) | 430 | 💚 | [🔗](https://open.spotify.com/track/2qYdsdgdeMLFzpLcMQWG2W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273379ddd38212be64d41e7250f" alt="" width="50" /> | One and Only | One and Only | [ENHYPEN](../../artists/enhypen/overview.md) | [Universal Music LLC](.) | 310 | 💚 | [🔗](https://open.spotify.com/track/7dDY45rR3idfeCypFDrk0G) |

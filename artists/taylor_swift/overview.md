@@ -10,8 +10,8 @@
 
 ## Artist Rank
 Taylor Swift is currently:
-- The #18 artist of the last month
-- The #16 artist of the last 6 months
+- The #14 artist of the last month
+- The #15 artist of the last 6 months
 - The #24 artist of all time
 
 ![Rank of Taylor Swift over time](../../images/artists/taylor_swift/rank_time_series.png)
@@ -140,13 +140,13 @@ Taylor Swift is currently:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | [Taylor Swift](overview.md) | 39 | Songwriter, Lyricist, Producer |
-| | Serban Ghenea | 27 | Producer |
-| | Laura Sisk | 20 | Producer |
-| | Jack Antonoff | 16 | Producer, Songwriter |
-| | Max Martin | 11 | Producer, Songwriter, Lyricist |
-| | Sam Holland | 10 | Producer |
-| | Shellback | 10 | Producer, Songwriter, Lyricist |
-| | John Hanes | 9 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 27 | Producer |
+| | [Laura Sisk](../../producers/laura_sisk/overview.md) | 20 | Producer |
+| | [Jack Antonoff](../../producers/jack_antonoff/overview.md) | 16 | Producer, Songwriter |
+| | [Max Martin](../../producers/max_martin/overview.md) | 11 | Producer, Songwriter, Lyricist |
+| | [Sam Holland](../../producers/sam_holland/overview.md) | 10 | Producer |
+| | [Shellback](../../producers/shellback/overview.md) | 10 | Producer, Songwriter, Lyricist |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 9 | Producer |
 | | Michael Ilbert | 9 | Producer |
 | | Jonathan Low | 7 | Producer |
 
@@ -156,7 +156,7 @@ Taylor Swift is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Aaron Dessner | 7 | Producer, Songwriter |
+| | [Aaron Dessner](../../producers/aaron_dessner/overview.md) | 7 | Producer, Songwriter |
 | | Bryce Dessner | 6 | Arranger |
 | | Kyle Resnick | 4 | Producer |
 | | Justin Niebank | 3 | Producer |
@@ -174,7 +174,7 @@ Taylor Swift is currently:
 | | Zoë Kravitz (Kravitz, Zoë) | 2 | Songwriter |
 | | Clarice Jensen | 2 | Producer |
 | | Jason Treuting | 1 | Producer |
-| | Ryan Tedder | 1 | Producer, Songwriter |
+| | [Ryan Tedder](../../producers/ryan_tedder/overview.md) | 1 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../lana_del_rey/overview.md) | 1 | Songwriter |
 | | Fred Fairbrass | 1 | Songwriter |
 | | Brian David Willis | 1 | Producer |

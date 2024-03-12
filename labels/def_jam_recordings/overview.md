@@ -89,30 +89,31 @@ Appears as:
 
 
 <details>
-<summary>See all 13 genres</summary>
+<summary>See all 14 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 1 | 0 | rap latina |
 | 1 | 0 | [r&b](../../genres/r_b/overview.md) |
+| 1 | 0 | pop r&b |
 | 1 | 0 | atl hip hop |
 
 </details>
 
 
-![Bar chart of top 13 genres](../../images/labels/def_jam_recordings/genres.png)
+![Bar chart of top 14 genres](../../images/labels/def_jam_recordings/genres.png)
 
 ## Top Producers
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Phil Tan | 9 | Producer |
-| | Marcos Tovar | 8 | Producer |
+| | [Phil Tan](../../producers/phil_tan/overview.md) | 9 | Producer |
+| | [Marcos Tovar](../../producers/marcos_tovar/overview.md) | 8 | Producer |
 | | Kuk Harrell | 7 | Producer |
 | | Tor Erik Hermansen | 6 | Songwriter |
-| | Mikkel Storleer Eriksen | 6 | Songwriter, Producer |
+| | [Mikkel Storleer Eriksen](../../producers/mikkel_storleer_eriksen/overview.md) | 6 | Songwriter, Producer |
 | | Stargate | 6 | Producer |
-| | Josh Gudwin | 3 | Producer |
+| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 3 | Producer |
 | | Sandy Vee | 2 | Producer |
 | | Sandy Wilhelm | 2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../../artists/rihanna/overview.md) | 2 | Songwriter |
@@ -146,7 +147,7 @@ Appears as:
 | | Brian Kennedy | 1 | Producer, Songwriter |
 | | Andrew Vastola | 1 | Producer |
 | | Nathan Cassells | 1 | Producer, Songwriter |
-| | FINNEAS | 1 | Producer, Songwriter |
+| | [FINNEAS](../../producers/finneas/overview.md) | 1 | Producer, Songwriter |
 | | Naughty Boy | 1 | Producer |
 | | Skylar Mones | 1 | Producer |
 | | Livvi Franc | 1 | Songwriter |

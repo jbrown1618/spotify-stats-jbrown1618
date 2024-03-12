@@ -47,8 +47,8 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Florence Welch | 13 | Songwriter, Lyricist |
-| | Paul Epworth | 7 | Producer, Lyricist, Songwriter |
+| | [Florence Welch](../../producers/florence_welch/overview.md) | 13 | Songwriter, Lyricist |
+| | [Paul Epworth](../../producers/paul_epworth/overview.md) | 7 | Producer, Lyricist, Songwriter |
 | | Isabella Summers | 6 | Songwriter, Producer, Lyricist |
 | | Craig Silvey | 4 | Producer |
 | | Cenzo Townshend | 4 | Producer |
@@ -64,11 +64,11 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Mark "Spike" Stent | 2 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 2 | Arranger, Producer, Songwriter |
 | | Markus Dravs | 2 | Producer |
 | | Bullion | 2 | Producer |
-| | Kid Harpoon | 2 | Songwriter |
+| | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | Amy Winehouse | 2 | Lyricist, Songwriter |
 | | Ali Helnwein | 1 | Arranger |
 | | Vaughan Merrick | 1 | Producer |

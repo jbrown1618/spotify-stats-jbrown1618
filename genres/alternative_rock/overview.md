@@ -115,12 +115,12 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Jonny Greenwood | 13 | Songwriter, Arranger, Producer |
-| | Colin Greenwood | 13 | Songwriter |
-| | Thom Yorke | 13 | Lyricist, Producer, Songwriter, Arranger |
-| | Ed O'Brien | 13 | Songwriter |
-| | Nigel Godrich | 13 | Producer |
-| | Philip Selway | 13 | Songwriter |
+| | [Jonny Greenwood](../../producers/jonny_greenwood/overview.md) | 13 | Songwriter, Arranger, Producer |
+| | [Colin Greenwood](../../producers/colin_greenwood/overview.md) | 13 | Songwriter |
+| | [Thom Yorke](../../producers/thom_yorke/overview.md) | 13 | Lyricist, Producer, Songwriter, Arranger |
+| | [Ed O'Brien](../../producers/ed_o_brien/overview.md) | 13 | Songwriter |
+| | [Nigel Godrich](../../producers/nigel_godrich/overview.md) | 13 | Producer |
+| | [Philip Selway](../../producers/philip_selway/overview.md) | 13 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 12 | Arranger, Producer, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | 4 | Producer |
 | | Matt Bellamy | 3 | Lyricist, Songwriter |
@@ -166,7 +166,7 @@
 | | Anthony Newley | 1 | Songwriter |
 | | Nikolai Fraiture | 1 | Songwriter |
 | | Pete Min | 1 | Producer |
-| | Mark "Spike" Stent | 1 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 1 | Producer |
 | | Leslie Bricusse | 1 | Songwriter |
 | | Flea | 1 | Songwriter |
 | | Albert Hammond | 1 | Songwriter |

@@ -80,7 +80,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d4e4e7e3c5d8fa494fc5f10" alt="" width="50" /> | 1 | 1 | Lord Huron | [🔗](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d4c12eacfb21d74cd24a97f6" alt="" width="50" /> | 1 | 1 | HYUNGWOO | [🔗](https://open.spotify.com/artist/6jXDdAv7ki86GPYKb8TLto) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5f4a1dbe1ac737577724f62c" alt="" width="50" /> | 1 | 1 | H 3 F | [🔗](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7e34f1a6ce455f3e8a7a61d3" alt="" width="50" /> | 1 | 1 | Fujii Kaze | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc" alt="" width="50" /> | 1 | 1 | Fujii Kaze | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | 1 | 1 | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0341dd1e6471899c4eb53c6" alt="" width="50" /> | 1 | 1 | [AKMU](../../artists/akmu/overview.md) | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1e2ce68a6bdcc8e03e882e7" alt="" width="50" /> | 1 | 1 | [SUNMI](../../artists/sunmi/overview.md) | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
@@ -445,15 +445,15 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 8 | Songwriter, Lyricist, Producer |
-| | Serban Ghenea | 7 | Producer |
-| | Aaron Dessner | 4 | Producer, Songwriter |
-| | 24 | 4 | Arranger, Songwriter, Producer |
-| | TEDDY | 4 | Producer, Songwriter, Arranger, Lyricist |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 7 | Producer |
+| | [Aaron Dessner](../../producers/aaron_dessner/overview.md) | 4 | Producer, Songwriter |
+| | [24](../../producers/24/overview.md) | 4 | Arranger, Songwriter, Producer |
+| | [TEDDY](../../producers/teddy/overview.md) | 4 | Producer, Songwriter, Arranger, Lyricist |
 | | Jonathan Low | 4 | Producer |
-| | Laura Sisk | 4 | Producer |
+| | [Laura Sisk](../../producers/laura_sisk/overview.md) | 4 | Producer |
 | | Kyle Resnick | 4 | Producer |
 | | Bryce Dessner | 4 | Arranger |
-| | Josh Gudwin | 3 | Producer |
+| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 3 | Producer |
 
 
 <details>
@@ -462,19 +462,19 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | 이연수 (Lee, Yeon-soo) | 3 | Producer |
-| | SCORE | 3 | Arranger, Lyricist, Producer, Songwriter |
-| | FINNEAS | 3 | Producer, Songwriter, Lyricist |
+| | [SCORE](../../producers/score/overview.md) | 3 | Arranger, Lyricist, Producer, Songwriter |
+| | [FINNEAS](../../producers/finneas/overview.md) | 3 | Producer, Songwriter, Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 3 | Lyricist, Arranger, Songwriter |
 | | 13 | 3 | Producer |
-| | 김병석 (Kim, Byung-seok) | 3 | Arranger, Lyricist, Producer, Songwriter |
-| | danke | 3 | Lyricist, Songwriter |
+| | [김병석 (Kim, Byung-seok)](../../producers/김병석_(kim,_byung-seok)/overview.md) | 3 | Arranger, Lyricist, Producer, Songwriter |
+| | [danke](../../producers/danke/overview.md) | 3 | Lyricist, Songwriter |
 | | James McAlister | 3 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 3 | Songwriter, Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 3 | Producer, Songwriter |
 | | 황민희 (Hwang, Min-hee) | 3 | Producer |
 | | 전부연 (Jeon, Bu-yeon) | 3 | Producer |
 | | Rob Kinelski | 2 | Producer |
-| | Max Martin | 2 | Producer, Songwriter |
+| | [Max Martin](../../producers/max_martin/overview.md) | 2 | Producer, Songwriter |
 | | Clarice Jensen | 2 | Producer |
 | | Jonny Buckland | 2 | Songwriter |
 | | 남궁진 (Nam Goong, Jin) | 2 | Producer |
@@ -483,14 +483,14 @@
 | | 최예지 (Choi, Ye-ji) | 2 | Producer |
 | | 이지홍 (Lee, Ji-hong) | 2 | Producer |
 | | 김인형 (Kim, In Hyung) | 2 | Lyricist, Songwriter |
-| | 정은경 (Jung, Eun-Kyung) | 2 | Producer |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 2 | Producer |
 | | T-Bone Burnett | 2 | Producer |
 | | Thomas Bartlett | 2 | Producer |
 | | Will Champion | 2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb45de7ab990a1246c812128b6" alt="" width="50" /> | Chris Martin | 2 | Songwriter |
 | | DRK | 2 | Producer |
 | | BreadBeat | 2 | Arranger, Songwriter |
-| | John Hanes | 2 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3ac1bd308a02d51b44697fa" alt="" width="50" /> | HUH YUNJIN | 2 | Lyricist, Songwriter |
 | | Charli Taft | 2 | Arranger, Songwriter, Lyricist |
 | | Jason Roberts | 2 | Producer |
@@ -498,13 +498,13 @@
 | | Jason Wormer | 2 | Producer |
 | | Jonna Hall | 2 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 2 | Producer |
-| | Jack Antonoff | 2 | Producer, Songwriter |
+| | [Jack Antonoff](../../producers/jack_antonoff/overview.md) | 2 | Producer, Songwriter |
 | | Bram Inscore | 1 | Producer, Songwriter |
 | | Daniel "Obi" Klein | 1 | Lyricist, Songwriter |
 | | Willy Moon | 1 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdcb57d08016c41fca3e221ab" alt="" width="50" /> | Corinne Bailey Rae | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebedb1ff4a690386ca7bee7007" alt="" width="50" /> | Jacob Banks | 1 | Songwriter |
-| | 서지음 (Seo, Ji Eum) | 1 | Lyricist |
+| | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 1 | Lyricist |
 | | BLVSH | 1 | Lyricist, Songwriter |
 | | Jon Coles | 1 | Producer |
 | | Oscar Holter | 1 | Producer, Songwriter |
@@ -528,12 +528,12 @@
 | | TBHits | 1 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 1 | Producer, Songwriter |
 | | Jameel Roberts | 1 | Songwriter |
-| | 구종필 (Koo, Jong-Pil) | 1 | Producer |
+| | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e55922ed7b80e66863f3345" alt="" width="50" /> | ABIR | 1 | Lyricist, Songwriter |
 | | Dave Nelson | 1 | Producer |
 | | 봉은영 (Bong, Eun Young) | 1 | Lyricist |
 | | HouDini | 1 | Arranger |
-| | 블랙아이드필승 (Black Eyed Pilseung) | 1 | Lyricist, Songwriter |
+| | [블랙아이드필승 (Black Eyed Pilseung)](../../producers/블랙아이드필승_(black_eyed_pilseung)/overview.md) | 1 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | G-DRAGON | 1 | Lyricist |
 | | Bella Blasko | 1 | Producer |
 | | Rogét Chahayed (Chahayed, Rogét) | 1 | Producer, Songwriter |
@@ -560,12 +560,12 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 50059 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | [Leave The Door Open](../../artists/bruno_mars/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd" alt="KWON JI YONG" width="50" /> | 무제(無題) (Untitled, 2014) | 37740 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8b444d9bac4765e069b31b" alt="Miracle - SM STATION" width="50" /> | [Miracle](../../artists/wendy/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 27631 | <img src="https://i.scdn.co/image/ab67616d0000b27354d483dff87402bfe717f738" alt="What Do I Call You - The 4th Mini Album" width="50" /> | [To the moon](../../artists/taeyeon/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | [Welcome To MY World (feat. nævis)](../../artists/aespa/overview.md) | 22341 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | Take It All | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="RISE" width="50" /> | 눈,코,입 (Eyes, Nose, Lips) | 22284 | <img src="https://i.scdn.co/image/ab67616d0000b27362483e4a96b7566d2440fc91" alt="timeabout," width="50" /> | Insomnia | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="Dream" width="50" /> | Dream | 17445 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="Like Water - The 1st Mini Album" width="50" /> | [Why Can't You Love Me?](../../artists/wendy/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 50455 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | [Leave The Door Open](../../artists/bruno_mars/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd" alt="KWON JI YONG" width="50" /> | 무제(無題) (Untitled, 2014) | 38076 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8b444d9bac4765e069b31b" alt="Miracle - SM STATION" width="50" /> | [Miracle](../../artists/wendy/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 27859 | <img src="https://i.scdn.co/image/ab67616d0000b27354d483dff87402bfe717f738" alt="What Do I Call You - The 4th Mini Album" width="50" /> | [To the moon](../../artists/taeyeon/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="RISE" width="50" /> | 눈,코,입 (Eyes, Nose, Lips) | 22368 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | Take It All | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | [Welcome To MY World (feat. nævis)](../../artists/aespa/overview.md) | 22341 | <img src="https://i.scdn.co/image/ab67616d0000b27362483e4a96b7566d2440fc91" alt="timeabout," width="50" /> | Insomnia | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="Dream" width="50" /> | Dream | 17601 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="Like Water - The 1st Mini Album" width="50" /> | [Why Can't You Love Me?](../../artists/wendy/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="Ditto" width="50" /> | [Ditto](../../artists/newjeans/overview.md) | 14317 | <img src="https://i.scdn.co/image/ab67616d0000b27315b8cef21bf4482d56c15614" alt="Modern Times – Epilogue" width="50" /> | [Friday (feat.Jang Yi-jeong)](../../artists/iu/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="My Voice - The 1st Album" width="50" /> | [I Got Love](../../artists/taeyeon/overview.md) | 13994 | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="2 Baddies - The 4th Album" width="50" /> | [Gold Dust](../../artists/nct_127/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="ANTIFRAGILE" width="50" /> | [Impurities](../../artists/le_sserafim/overview.md) | 12633 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [the 1](../../artists/taylor_swift/overview.md) | 0 |

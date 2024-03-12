@@ -66,8 +66,8 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="" width="50" /> | [Sia](overview.md) | 7 | Producer, Songwriter |
-| | Manny Marroquin | 6 | Producer |
-| | Greg Kurstin | 6 | Producer, Songwriter |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 6 | Producer |
+| | [Greg Kurstin](../../producers/greg_kurstin/overview.md) | 6 | Producer, Songwriter |
 | | Alex Pasco | 5 | Producer |
 | | Jesse Shatkin | 4 | Producer, Songwriter |
 | | Julian Burg | 4 | Producer |

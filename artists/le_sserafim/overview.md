@@ -20,7 +20,7 @@ LE SSERAFIM:
 
 ## Artist Rank
 LE SSERAFIM is currently:
-- The #16 artist of the last month
+- The #13 artist of the last month
 - The #13 artist of the last 6 months
 - The #18 artist of all time
 
@@ -98,14 +98,14 @@ LE SSERAFIM is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | SCORE | 11 | Songwriter, Arranger, Lyricist, Producer |
-| | 김병석 (Kim, Byung-seok) | 11 | Songwriter, Arranger, Lyricist, Producer |
+| | [SCORE](../../producers/score/overview.md) | 11 | Songwriter, Arranger, Lyricist, Producer |
+| | [김병석 (Kim, Byung-seok)](../../producers/김병석_(kim,_byung-seok)/overview.md) | 11 | Songwriter, Arranger, Lyricist, Producer |
 | | 13 | 10 | Producer |
 | | 황민희 (Hwang, Min-hee) | 8 | Producer |
-| | 방시혁 (Bang, Si-Hyuk) | 7 | Songwriter, Lyricist |
+| | [방시혁 (Bang, Si-Hyuk)](../../producers/방시혁_(bang,_si-hyuk)/overview.md) | 7 | Songwriter, Lyricist |
 | | 이연수 (Lee, Yeon-soo) | 7 | Producer |
-| | Supreme Boi | 6 | Lyricist, Songwriter |
-| | danke | 6 | Lyricist, Songwriter |
+| | [Supreme Boi](../../producers/supreme_boi/overview.md) | 6 | Lyricist, Songwriter |
+| | [danke](../../producers/danke/overview.md) | 6 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3ac1bd308a02d51b44697fa" alt="" width="50" /> | HUH YUNJIN | 5 | Songwriter, Lyricist |
 | | Nermin Harambašić (Harambašić, Nermin) | 4 | Lyricist, Songwriter |
 
@@ -121,7 +121,7 @@ LE SSERAFIM is currently:
 | | Young Chance | 3 | Lyricist, Songwriter |
 | | 김인형 (Kim, In Hyung) | 3 | Lyricist, Songwriter |
 | | Paulina Cerrilla | 3 | Lyricist, Songwriter |
-| | Manny Marroquin | 3 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 3 | Producer |
 | | Ronnie Icon | 3 | Lyricist, Songwriter |
 | | Jonna Hall | 2 | Lyricist, Songwriter |
 | | Daniel "Obi" Klein | 2 | Lyricist, Songwriter |
@@ -136,13 +136,13 @@ LE SSERAFIM is currently:
 | | JARO | 2 | Lyricist, Songwriter |
 | | Anne Judith Wik | 2 | Lyricist, Songwriter |
 | | Sunshine | 2 | Lyricist, Songwriter |
-| | Tony Maserati | 2 | Producer |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 2 | Producer |
 | | 우민정 (Umin, Je-ong) | 2 | Producer |
 | | 이형석 (Lee, Hyung-seok) | 2 | Lyricist, Songwriter |
 | | Charli Taft | 2 | Lyricist, Songwriter |
 | | Shorelle | 2 | Lyricist, Songwriter |
 | | BENJMN | 2 | Lyricist, Songwriter |
-| | Josh Gudwin | 1 | Producer |
+| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 1 | Producer |
 | | Cazzi Opeia | 1 | Lyricist, Songwriter |
 | | James Reynolds | 1 | Producer |
 | | Ninos Hanna | 1 | Songwriter |
@@ -166,14 +166,14 @@ LE SSERAFIM is currently:
 | | Shintaro Yasuda | 1 | Lyricist, Songwriter |
 | | Believve | 1 | Lyricist, Songwriter |
 | | Hayes Kramer | 1 | Lyricist, Songwriter |
-| | 조윤경 (Jo, Yoon Kyung) | 1 | Lyricist, Songwriter |
+| | [조윤경 (Jo, Yoon Kyung)](../../producers/조윤경_(jo,_yoon_kyung)/overview.md) | 1 | Lyricist, Songwriter |
 | | Isabella Lovestory | 1 | Lyricist, Songwriter |
 | | Niklas Jarelius Persson | 1 | Songwriter |
 | | Makaila J Garcia | 1 | Lyricist, Songwriter |
 | | Lauren Aquilina | 1 | Songwriter |
 | | Amanda Ibanez | 1 | Songwriter |
 | | Belle | 1 | Lyricist, Songwriter |
-| | John Hanes | 1 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 1 | Producer |
 | | Gusten Dahlqvist | 1 | Lyricist, Songwriter |
 | | Bob Horn | 1 | Producer |
 | | Zikai | 1 | Songwriter |
@@ -199,8 +199,8 @@ LE SSERAFIM is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | ANTIFRAGILE | ANTIFRAGILE | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 6069 | 💚 | [🔗](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | FEARLESS | FEARLESS | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 2059 | 💚 | [🔗](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | UNFORGIVEN (feat. Nile Rodgers) | UNFORGIVEN | [LE SSERAFIM](overview.md), Nile Rodgers | [SOURCE MUSIC](../../labels/source_music) | 1701 | 💚 | [🔗](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273110f5426b8c149e80804912a" alt="" width="50" /> | Swan Song | EASY | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 374 | 💚 | [🔗](https://open.spotify.com/track/2GquhrcHbl2zOnF5javAFp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f456ca5659f2d0169061b310" alt="" width="50" /> | Perfect Night (Holiday Remix) | Perfect Night (Holiday Remix) | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 330 | | [🔗](https://open.spotify.com/track/40CJrEAyXS8qe0BBFbYbJO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273110f5426b8c149e80804912a" alt="" width="50" /> | Swan Song | EASY | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 325 | 💚 | [🔗](https://open.spotify.com/track/2GquhrcHbl2zOnF5javAFp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | No-Return (Into the unknown) | UNFORGIVEN | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 287 | 💚 | [🔗](https://open.spotify.com/track/6DSGb5CmwHX4pvclq8HUU1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | Sour Grapes | FEARLESS | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 140 | 💚 | [🔗](https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | Fire in the belly | UNFORGIVEN | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 132 | 💚 | [🔗](https://open.spotify.com/track/05RlBHEZg1RmL9DnPgv9Qq) |

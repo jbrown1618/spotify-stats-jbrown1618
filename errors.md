@@ -4,26 +4,28 @@
 
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
-| yes, and? [🔗](https://open.spotify.com/track/5D34wRmbFS29AjtTOP2QJe) | 73 | 2024-03-08 | Ariana Grande [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | eternal sunshine [🔗](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 88 | Check Out Later [🔗](https://open.spotify.com/playlist/2FgMW8NMJOZgvHtvDOWBCe) | Republic Records | |
-| yes, and? [🔗](https://open.spotify.com/track/0ttw2K5qNwaKse9LJQBaQt) | 74 | 2024-01-12 | Ariana Grande [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | yes, and? [🔗](https://open.spotify.com/album/4IQ9AV1mEjteHrc8KzMDDT) | 67 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Republic Records | 💚 |
+| yes, and? [🔗](https://open.spotify.com/track/5D34wRmbFS29AjtTOP2QJe) | 81 | 2024-03-08 | Ariana Grande [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | eternal sunshine [🔗](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 96 | Check Out Later [🔗](https://open.spotify.com/playlist/2FgMW8NMJOZgvHtvDOWBCe) | Republic Records | |
+| yes, and? [🔗](https://open.spotify.com/track/0ttw2K5qNwaKse9LJQBaQt) | 73 | 2024-01-12 | Ariana Grande [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | yes, and? [🔗](https://open.spotify.com/album/4IQ9AV1mEjteHrc8KzMDDT) | 67 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Republic Records | 💚 |
 | BEcause [🔗](https://open.spotify.com/track/0ufYP4HLjzVSLUsGKCIQJH) | 56 | 2021-07-30 | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Summer Holiday] [🔗](https://open.spotify.com/album/3dD0qCBPe7eYeaftyIKwa5) | 53 | | DREAMCATCHER COMPANY | |
 | BEcause [🔗](https://open.spotify.com/track/3L74uwShK0JqEUZ5Y2JoDW) | 0 | 2021-07-30 | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Summer Holiday] [🔗](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) | 0 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | DREAMCATCHER COMPANY | 💚 |
 | Jazz Bar [🔗](https://open.spotify.com/track/4dIZBPtKfOvo8YuundgcwH) | 0 | 2020-02-18 | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 1st Album [Dystopia : The Tree of Language] [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 1 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | Dreamcatcher Company | 💚 |
 | Jazz Bar [🔗](https://open.spotify.com/track/5XVjj6hJTWgYiDx72Wo5QS) | 53 | 2020-02-18 | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 1st Album [Dystopia : The Tree of Language] [🔗](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | 60 | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Retro Kpop [🔗](https://open.spotify.com/playlist/1MW4AAPq55U0XWvSeu1jU5) | Dreamcatcher Company | |
+| Silent Night [🔗](https://open.spotify.com/track/6OrYF7BHkbsfhxEMQfwBvV) | 48 | 2019-09-18 | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | Raid of Dream [🔗](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | 53 | | DREAMCATCHER COMPANY | |
+| Silent Night [🔗](https://open.spotify.com/track/6WtBCTeMrTC9oKQ8dgSWcM) | 0 | 2019-09-18 | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | Raid of Dream [🔗](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | 0 | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) | DREAMCATCHER COMPANY | 💚 |
 | Go Big or Go Home [🔗](https://open.spotify.com/track/0nh0uf3eB4JEjv4jQxj5eP) | 60 | 2022-01-10 | ENHYPEN [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | DIMENSION : ANSWER [🔗](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 75 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | BELIFT LAB | |
 | Go Big or Go Home [🔗](https://open.spotify.com/track/6IqKFke4ZhKbGYULllEezY) | 69 | 2021-10-12 | ENHYPEN [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | DIMENSION : DILEMMA [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 72 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy),<br>Summer [🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | BELIFT LAB | 💚 |
-| Tamed-Dashed [🔗](https://open.spotify.com/track/5W5PhqcQDV539PJP9jdmrT) | 60 | 2022-01-10 | ENHYPEN [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | DIMENSION : ANSWER [🔗](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 75 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | BELIFT LAB | |
-| Tamed-Dashed [🔗](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | 70 | 2021-10-12 | ENHYPEN [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | DIMENSION : DILEMMA [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 72 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Summer [🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | BELIFT LAB | 💚 |
-| White Winter Hymnal [🔗](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | 73 | 2008-06-03 | Fleet Foxes [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | Fleet Foxes [🔗](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 70 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe) | Sub Pop Records | 💚 |
+| Tamed-Dashed [🔗](https://open.spotify.com/track/5W5PhqcQDV539PJP9jdmrT) | 59 | 2022-01-10 | ENHYPEN [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | DIMENSION : ANSWER [🔗](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 75 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | BELIFT LAB | |
+| Tamed-Dashed [🔗](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | 69 | 2021-10-12 | ENHYPEN [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | DIMENSION : DILEMMA [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 72 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Summer [🔗](https://open.spotify.com/playlist/0Xy9zMj8Yow1mGIrqd8nON),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | BELIFT LAB | 💚 |
+| White Winter Hymnal [🔗](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | 72 | 2008-06-03 | Fleet Foxes [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | Fleet Foxes [🔗](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 70 | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe) | Sub Pop Records | 💚 |
 | White Winter Hymnal [🔗](https://open.spotify.com/track/3QVtICc8ViNOy4I5K14d8Z) | 0 | 2008-06-03 | Fleet Foxes [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | Fleet Foxes [🔗](https://open.spotify.com/album/6XzZ5pg9buAKNYg293KOQ8) | 0 | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) | Sub Pop Records | |
 | Heartbreak Anniversary [🔗](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) | 72 | 2020-02-21 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | Heartbreak Anniversary [🔗](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) | 66 | R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Epic/Not So Fast | 💚 |
 | Heartbreak Anniversary [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | 81 | 2020-03-27 | Giveon [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | TAKE TIME [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 80 | K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk),<br>R&B [🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb) | Epic/Not So Fast | |
 | Bohemian Rhapsody [🔗](https://open.spotify.com/track/6fPm2XMi51l5GCEp19HscL) | 0 | 1975-11-21 | Queen [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | A Night At The Opera [🔗](https://open.spotify.com/album/3KCJzwKOdBxDu6TKaFPqM9) | 0 | Karaoke [🔗](https://open.spotify.com/playlist/784bxrrG3W6L0naOkaCL5F) | Hollywood Records | |
-| Bohemian Rhapsody [🔗](https://open.spotify.com/track/6l8GvAyoUZwWDgF1e4822w) | 67 | 2006-01-01 | Queen [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | Stone Cold Classics [🔗](https://open.spotify.com/album/7C2DKB8C12LqxMkfJRwTo9) | 62 | Beat Drop! [🔗](https://open.spotify.com/playlist/2CV3LAEvICWmWq3SEJw1my) | Hollywood Records | |
+| Bohemian Rhapsody [🔗](https://open.spotify.com/track/6l8GvAyoUZwWDgF1e4822w) | 66 | 2006-01-01 | Queen [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | Stone Cold Classics [🔗](https://open.spotify.com/album/7C2DKB8C12LqxMkfJRwTo9) | 62 | Beat Drop! [🔗](https://open.spotify.com/playlist/2CV3LAEvICWmWq3SEJw1my) | Hollywood Records | |
 | Get A Guitar [🔗](https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4) | 70 | 2023-09-04 | RIIZE [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | Get A Guitar [🔗](https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l) | 64 | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) | SM Entertainment/RCA Records | 💚 |
 | Get A Guitar [🔗](https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0) | 73 | 2023-09-04 | RIIZE [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | Get A Guitar [🔗](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) | 67 | Sharon RPD [🔗](https://open.spotify.com/playlist/2WsAAjnlcRAzyPrBDvMYyy) | SM Entertainment | |
 | Kill Bill [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | 89 | 2022-12-08 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 86 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | Top Dawg Entertainment/RCA Records | 💚 |
-| Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | 85 | 2022-12-09 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 96 | | Top Dawg Entertainment/RCA Records | 💚 |
+| Kill Bill [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | 84 | 2022-12-09 | SZA [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | SOS [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 96 | | Top Dawg Entertainment/RCA Records | 💚 |
 
 ## Duplicate albums
 
@@ -33,12 +35,14 @@
 | HEAT [🔗](https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m) | (G)I-DLE [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | 59 | 2023-10-04 | CUBE ENTERTAINMENT INC./88rising Music | I DO [🔗](https://open.spotify.com/track/4SKwDW8Gg8CJxw2ElMhSTp),<br>I Want That [🔗](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
 | 1st Album [Dystopia : The Tree of Language] [🔗](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 60 | 2020-02-18 | Dreamcatcher Company | Jazz Bar [🔗](https://open.spotify.com/track/5XVjj6hJTWgYiDx72Wo5QS) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Retro Kpop [🔗](https://open.spotify.com/playlist/1MW4AAPq55U0XWvSeu1jU5) |
 | 1st Album [Dystopia : The Tree of Language] [🔗](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 1 | 2020-02-18 | Dreamcatcher Company | Black Or White [🔗](https://open.spotify.com/track/11wbEfF8uFBY6T2gNH7cI5),<br>Jazz Bar [🔗](https://open.spotify.com/track/4dIZBPtKfOvo8YuundgcwH),<br>Red Sun [🔗](https://open.spotify.com/track/5lwWpQ71GKN3sWmk8zZr9g),<br>Scream [🔗](https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr) | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| Raid of Dream [🔗](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 0 | 2019-09-18 | DREAMCATCHER COMPANY | Silent Night [🔗](https://open.spotify.com/track/6WtBCTeMrTC9oKQ8dgSWcM),<br>데자부 (Deja Vu) [🔗](https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO) | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| Raid of Dream [🔗](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 53 | 2019-09-18 | DREAMCATCHER COMPANY | Silent Night [🔗](https://open.spotify.com/track/6OrYF7BHkbsfhxEMQfwBvV) | |
 | [Summer Holiday] [🔗](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 0 | 2021-07-30 | DREAMCATCHER COMPANY | BEcause [🔗](https://open.spotify.com/track/3L74uwShK0JqEUZ5Y2JoDW) | Halloween [🔗](https://open.spotify.com/playlist/6Kh7qnaefCcgcBdJJryJKp),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
 | [Summer Holiday] [🔗](https://open.spotify.com/album/3dD0qCBPe7eYeaftyIKwa5) | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 53 | 2021-07-30 | DREAMCATCHER COMPANY | BEcause [🔗](https://open.spotify.com/track/0ufYP4HLjzVSLUsGKCIQJH) | |
 | Fleet Foxes [🔗](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | Fleet Foxes [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | 70 | 2008-06-03 | Sub Pop Records | White Winter Hymnal [🔗](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | Modern Rock [🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe) |
 | Fleet Foxes [🔗](https://open.spotify.com/album/6XzZ5pg9buAKNYg293KOQ8) | Fleet Foxes [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | 0 | 2008-06-03 | Sub Pop Records | White Winter Hymnal [🔗](https://open.spotify.com/track/3QVtICc8ViNOy4I5K14d8Z) | Christmas [🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8) |
-| A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 54 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Retro Kpop [🔗](https://open.spotify.com/playlist/1MW4AAPq55U0XWvSeu1jU5) |
-| A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 49 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 55 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Retro Kpop [🔗](https://open.spotify.com/playlist/1MW4AAPq55U0XWvSeu1jU5) |
+| A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 50 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 56 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd),<br>Recommendations for Jeff [🔗](https://open.spotify.com/playlist/5Liek0UOC5GmdOjxdWhcob) |
 | SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 42 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 | Innuendo [🔗](https://open.spotify.com/album/3jYy7yGNCysTHE8MKrIF1k) | Queen [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | 53 | 1991-02-04 | Hollywood Records | Innuendo - Remastered 2011 [🔗](https://open.spotify.com/track/2OuImA1gcBXJVMrVH9Kn9p) | Classic Rock [🔗](https://open.spotify.com/playlist/5z6MnUYwnqrMcdd9b14Cc7) |
@@ -61,15 +65,15 @@
 | Let it Be | III | The Nor'easters | 0 | 0 | 27 |
 | Russian Roulette | III | The Nor'easters | 0 | 0 | 27 |
 | Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | 0 | 0 | 27 |
-| Like | 2 Cool 4 Skool | BTS | 0 | 0 | 87 |
-| No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 87 |
-| MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 1 | 87 |
-| dimple | Love Yourself 承 'Her' | BTS | 0 | 1 | 87 |
-| DNA | Love Yourself 承 'Her' | BTS | 1 | 1 | 87 |
-| War of Hormone | Dark & Wild | BTS | 0 | 0 | 87 |
-| Danger | Dark & Wild | BTS | 0 | 0 | 87 |
-| Butter | Butter | BTS | 0 | 0 | 87 |
-| Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 87 |
+| Like | 2 Cool 4 Skool | BTS | 0 | 0 | 86 |
+| No More Dream | 2 Cool 4 Skool | BTS | 0 | 0 | 86 |
+| MIC Drop | Love Yourself 承 'Her' | BTS | 0 | 1 | 86 |
+| dimple | Love Yourself 承 'Her' | BTS | 0 | 1 | 86 |
+| DNA | Love Yourself 承 'Her' | BTS | 1 | 1 | 86 |
+| War of Hormone | Dark & Wild | BTS | 0 | 0 | 86 |
+| Danger | Dark & Wild | BTS | 0 | 0 | 86 |
+| Butter | Butter | BTS | 0 | 0 | 86 |
+| Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 86 |
 | Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 51 |
 | Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 51 |
 | Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Valery Gergiev | 0 | 0 | 51 |
@@ -106,31 +110,37 @@
 | Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 48 |
 | Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 48 |
 | Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Mariinsky Orchestra | 0 | 0 | 48 |
-| Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 50 |
-| Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 50 |
-| Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 50 |
-| Petrushka: Fourth Scene: V. Dance of the Coachmen and Grooms (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 50 |
-| Petrushka: Fourth Scene: I. The Shrovetide Fair (towards evening) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 50 |
-| Petrushka: Fourth Scene: IV. The Gypsy Girls Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 50 |
-| Jeu de cartes: III. Third Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 50 |
-| Petrushka: Fourth Scene: II. Dance of the Wet-Nurses (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 50 |
-| Petrushka: First Scene: II. The Crowds (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 50 |
-| Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 50 |
-| Petrushka: Fourth Scene: VI. The Mummers (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 50 |
-| Jeu de cartes: I. First Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 50 |
-| Petrushka: First Scene: IV. Russian Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 50 |
-| Petrushka: Third Scene: II. Dance of the Ballerina (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 50 |
-| Petrushka: First Scene: III. The Conjuring Trick (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 50 |
-| Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 50 |
-| Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 50 |
-| Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 50 |
+| Jeu de cartes: II. Second Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
+| Petrushka: Third Scene: I. The Moor's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
+| Petrushka: First Scene: I. The Shrovetide Fair (Introduction) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
+| Petrushka: Fourth Scene: V. Dance of the Coachmen and Grooms (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
+| Petrushka: Fourth Scene: I. The Shrovetide Fair (towards evening) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
+| Petrushka: Fourth Scene: IV. The Gypsy Girls Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
+| Jeu de cartes: III. Third Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
+| Petrushka: Fourth Scene: II. Dance of the Wet-Nurses (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
+| Petrushka: First Scene: II. The Crowds (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
+| Petrushka: Fourth Scene: III. A Peasant Enters with a Bear (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
+| Petrushka: Fourth Scene: VI. The Mummers (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
+| Jeu de cartes: I. First Deal | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
+| Petrushka: First Scene: IV. Russian Dance (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
+| Petrushka: Third Scene: II. Dance of the Ballerina (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
+| Petrushka: First Scene: III. The Conjuring Trick (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
+| Petrushka: Third Scene: III. Waltz (The Ballerina and the Moor) (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
+| Petrushka: Fourth Scene: VII. Petrushka's Death (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
+| Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) | Stravinsky: Petrushka, Jeu de cartes | Igor Stravinsky | 0 | 0 | 49 |
 | Pyramid Song | Amnesiac | Radiohead | 0 | 0 | 81 |
 | Now (feat. Hwa Sa) | PSY 9th | PSY | 0 | 0 | 62 |
 | That That (prod. & feat. SUGA of BTS) | PSY 9th | PSY | 1 | 0 | 62 |
 | Happier (feat. Crush) | PSY 9th | PSY | 0 | 0 | 62 |
-| Now (feat. Hwa Sa) | PSY 9th | HWASA | 0 | 0 | 63 |
+| Now (feat. Hwa Sa) | PSY 9th | HWASA | 0 | 0 | 62 |
 | That That (prod. & feat. SUGA of BTS) | PSY 9th | SUGA | 1 | 0 | 64 |
 | Happier (feat. Crush) | PSY 9th | Crush | 0 | 0 | 64 |
+| Better Judgement | Wish You Hell - The 2nd Mini Album | WENDY | 0 | 0 | 52 |
+| Vermilion | Wish You Hell - The 2nd Mini Album | WENDY | 0 | 0 | 52 |
+| Best Ever | Wish You Hell - The 2nd Mini Album | WENDY | 0 | 0 | 52 |
+| His Car Isn't Yours | Wish You Hell - The 2nd Mini Album | WENDY | 0 | 0 | 52 |
+| Wish You Hell | Wish You Hell - The 2nd Mini Album | WENDY | 0 | 0 | 52 |
+| Queen Of The Party | Wish You Hell - The 2nd Mini Album | WENDY | 0 | 0 | 52 |
 | Coppélia / Tableau 1: No. 4 Scène | Coppélia | Léo Delibes | 0 | 0 | 57 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | Coppélia | Léo Delibes | 0 | 0 | 57 |
 | Coppélia / Tableau 2: No. 9 Scène | Coppélia | Léo Delibes | 0 | 0 | 57 |
@@ -248,27 +258,6 @@
 | Coppélia / Tableau 2: No. 12 Scène | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
 | Coppélia / Tableau 2: No. 18 Scène (Final) | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
 | Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | Coppélia | Barry Wordsworth | 0 | 0 | 51 |
-| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: II. Adagio | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
-| Piano Sonata No. 3 in C Major, Op. 2 No. 3: I. Allegro con brio | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
-| Piano Sonata No. 2 in A Major, Op. 2 No. 2: II. Largo appassionato | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
-| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: III. Menuetto. Allegretto | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
-| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: I. Allegro | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
-| Piano Sonata No. 3 in C Major, Op. 2 No. 3: IV. Allegro assai | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
-| Piano Sonata No. 3 in C Major, Op. 2 No. 3: II. Adagio | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
-| Piano Sonata No. 2 in A Major, Op. 2 No. 2: I. Allegro vivace | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
-| Piano Sonata No. 3 in C Major, Op. 2 No. 3: III. Scherzo & Trio. Allegro | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
-| Piano Sonata No. 1 in F Minor, Op. 2 No. 1: IV. Prestissimo | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
-| Piano Sonata No. 2 in A Major, Op. 2 No. 2: III. Scherzo & Trio. Allegretto | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
-| Piano Sonata No. 2 in A Major, Op. 2 No. 2: IV. Rondo. Grazioso | Beethoven: Piano Sonatas Nos. 1-3 | Mari Kodama | 0 | 0 | 25 |
-| Piano Sonata No. 32 in C Minor, Op. 111: I. Maestoso - Allegro con brio ed appassionato | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Mari Kodama | 0 | 0 | 25 |
-| Piano Sonata No. 30 in E Major, Op. 109: II. Prestissimo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Mari Kodama | 0 | 0 | 25 |
-| Piano Sonata No. 32 in C Minor, Op. 111: II. Arietta. Adagio molto semplice e cantabile | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Mari Kodama | 0 | 0 | 25 |
-| Piano Sonata No. 31 in A-Flat Major, Op. 110: III. Fuga. Allegro ma non troppo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Mari Kodama | 0 | 0 | 25 |
-| Piano Sonata No. 31 in A-Flat Major, Op. 110: I. Moderato cantabile molto espressivo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Mari Kodama | 0 | 0 | 25 |
-| Piano Sonata No. 31 in A-Flat Major, Op. 110: III. Adagio ma non troppo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Mari Kodama | 0 | 0 | 25 |
-| Piano Sonata No. 31 in A-Flat Major, Op. 110: II. Allegro molto | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Mari Kodama | 0 | 0 | 25 |
-| Piano Sonata No. 30 in E Major, Op. 109: I. Vivace ma non troppo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Mari Kodama | 0 | 0 | 25 |
-| Piano Sonata No. 30 in E Major, Op. 109: III. Gesangvoll, mit innigster Empfindung. Andante molto cantabile ed espressivo | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | Mari Kodama | 0 | 0 | 25 |
 | Piano Sonata No. 1 in F Minor, Op. 2 No. 1: II. Adagio | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 0 | 71 |
 | Piano Sonata No. 3 in C Major, Op. 2 No. 3: I. Allegro con brio | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 0 | 71 |
 | Piano Sonata No. 2 in A Major, Op. 2 No. 2: II. Largo appassionato | Beethoven: Piano Sonatas Nos. 1-3 | Ludwig van Beethoven | 0 | 0 | 71 |
@@ -343,6 +332,7 @@
 | 13 Preludes, Op. 32: No. 12 in G-Sharp Minor: Allegro | Rachmaninov: Preludes for Piano (Complete) | Eldar Nebolsin | 0 | 0 | 37 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 85 |
 | PLAY | PLAY | CHUNG HA | 0 | 0 | 58 |
+| EENIE MEENIE (Feat. Hongjoong of ATEEZ) | EENIE MEENIE | CHUNG HA | 0 | 0 | 58 |
 | PLAY | PLAY | CHANGMO | 0 | 0 | 56 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 78 |
 | String Quartet in C Major, Op. 74, No. 1: III. Menuetto, Allegretto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 55 |
@@ -358,7 +348,7 @@
 | String Quartet in G Major, Op. 76, No. 1: III. Menuetto, Presto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 55 |
 | String Quartet in G Minor, Op. 20, No. 3: IV. Finale, Allegro molto | Haydn: String Quartets | Joseph Haydn | 0 | 0 | 55 |
 | ICY | IT'z ICY | ITZY | 0 | 0 | 73 |
-| 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 71 |
+| 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 70 |
 | React | React | The Pussycat Dolls | 0 | 0 | 68 |
 | White Winter Hymnal | Fleet Foxes | Fleet Foxes | 0 | 0 | 63 |
 | Hush | Hush | miss A | 0 | 0 | 50 |
@@ -441,7 +431,7 @@
 | Whatever We Feel | Whatever We Feel | Sammy Rae & The Friends | 0 | 0 | 53 |
 | The Execution Of All Things | The Execution Of All Things | Rilo Kiley | 0 | 0 | 45 |
 | A Better Son/Daughter | The Execution Of All Things | Rilo Kiley | 0 | 0 | 45 |
-| Tell Me | The Wonder Years | Wonder Girls | 2 | 1 | 58 |
+| Tell Me | The Wonder Years | Wonder Girls | 1 | 0 | 58 |
 | Why So Lonely | Why So Lonely | Wonder Girls | 0 | 0 | 58 |
 | Rewind | REBOOT | Wonder Girls | 0 | 0 | 58 |
 | So Hot | So Hot | Wonder Girls | 0 | 0 | 58 |
@@ -450,13 +440,13 @@
 | Libertango | Weather To Fly | The Swingle Singers | 0 | 0 | 27 |
 | Poor Wayfaring Stranger | Weather To Fly | The Swingle Singers | 0 | 0 | 27 |
 | Prelude No.1 in C Major | Spotlight on Bach | The Swingle Singers | 0 | 0 | 27 |
-| Raiders March | Indiana Jones and the Kingdom of the Crystal Skull (International Jewel) | John Williams | 0 | 0 | 71 |
-| Princess Leia's Theme | Star Wars Episode IV: A New Hope (Original Motion Picture Soundtrack) | John Williams | 0 | 0 | 71 |
-| Cantina Band | Star Wars Episode IV: A New Hope (Original Motion Picture Soundtrack) | John Williams | 0 | 0 | 71 |
-| Main Title/Rebel Blockade Runner - Medley | Star Wars Episode IV: A New Hope (Original Motion Picture Soundtrack) | John Williams | 0 | 0 | 71 |
-| Yoda's Theme | Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack) | John Williams | 0 | 0 | 71 |
-| The Imperial March (Darth Vader's Theme) | Star Wars Episode V: The Empire Strikes Back (Original Motion Picture Soundtrack) | John Williams | 0 | 0 | 71 |
-| Theme From Jurassic Park - From "Jurassic Park" Soundtrack | Jurassic Park (Soundtrack) | John Williams | 0 | 0 | 71 |
+| Raiders March | Indiana Jones and the Kingdom of the Crystal Skull (International Jewel) | John Williams | 0 | 0 | 70 |
+| Princess Leia's Theme | Star Wars Episode IV: A New Hope (Original Motion Picture Soundtrack) | John Williams | 0 | 0 | 70 |
+| Cantina Band | Star Wars Episode IV: A New Hope (Original Motion Picture Soundtrack) | John Williams | 0 | 0 | 70 |
+| Main Title/Rebel Blockade Runner - Medley | Star Wars Episode IV: A New Hope (Original Motion Picture Soundtrack) | John Williams | 0 | 0 | 70 |
+| Yoda's Theme | Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack) | John Williams | 0 | 0 | 70 |
+| The Imperial March (Darth Vader's Theme) | Star Wars Episode V: The Empire Strikes Back (Original Motion Picture Soundtrack) | John Williams | 0 | 0 | 70 |
+| Theme From Jurassic Park - From "Jurassic Park" Soundtrack | Jurassic Park (Soundtrack) | John Williams | 0 | 0 | 70 |
 | Princess Leia's Theme | Star Wars Episode IV: A New Hope (Original Motion Picture Soundtrack) | London Symphony Orchestra | 0 | 0 | 72 |
 | Cantina Band | Star Wars Episode IV: A New Hope (Original Motion Picture Soundtrack) | London Symphony Orchestra | 0 | 0 | 72 |
 | Main Title/Rebel Blockade Runner - Medley | Star Wars Episode IV: A New Hope (Original Motion Picture Soundtrack) | London Symphony Orchestra | 0 | 0 | 72 |
@@ -487,7 +477,7 @@
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 39 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 66 |
 | ABC | ABC | The Jackson 5 | 1 | 0 | 66 |
-| Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 36 |
+| Manwa Laage | BOCA 2015: Best Of College A Cappella | Penn Masala | 0 | 0 | 37 |
 | Eine kleine Nachtmusik | BOCA 2015: Best Of College A Cappella | BYU Vocal Point | 0 | 0 | 44 |
 | Who Are You | BOCA 2010: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 29 |
 | Come Sail Away | BOCA 2008: Best Of College A Cappella | Tufts Beelzebubs | 0 | 0 | 29 |
@@ -495,7 +485,7 @@
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 32 |
 | Drink It | Drink It | THE BOYZ | 0 | 0 | 59 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 51 |
-| Think About Things | Think About Things | Daði Freyr | 1 | 0 | 51 |
+| Think About Things | Think About Things | Daði Freyr | 0 | 0 | 51 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 51 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 84 |
 | Innuendo | Innuendo | Queen | 0 | 2 | 84 |
@@ -508,7 +498,10 @@
 | RED | RED | The Rose | 0 | 0 | 64 |
 | She′s In The Rain | Dawn | The Rose | 0 | 0 | 64 |
 | Sorry | Sorry | The Rose | 0 | 0 | 64 |
+| Pokerap | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 53 |
+| Pokemon Theme | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 53 |
 | Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 52 |
+| The Legend Of Zelda: Twilight Princess - Midna's Desperate Hour | Piano/Instrumental Works: Video Game Themes - Volume I | Michael Tai | 0 | 0 | 40 |
 | Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | 1 | 0 | 56 |
 | Just The Way You Are | Little Love - EP | James Smith | 0 | 0 | 53 |
 | I will show you | Invitation | AILEE | 0 | 0 | 57 |
@@ -520,9 +513,9 @@
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 53 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | ADORA | 0 | 0 | 33 |
 | MAKE U DANCE (feat. EUNHA) | MAKE U DANCE | EUNHA | 0 | 0 | 32 |
-| The Phantom Of The Opera | Century Child | Nightwish | 0 | 1 | 65 |
-| End Of All Hope | Century Child | Nightwish | 0 | 1 | 65 |
-| Nemo | Once | Nightwish | 0 | 0 | 65 |
+| The Phantom Of The Opera | Century Child | Nightwish | 0 | 1 | 64 |
+| End Of All Hope | Century Child | Nightwish | 0 | 1 | 64 |
+| Nemo | Once | Nightwish | 0 | 0 | 64 |
 | Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 0 | 0 | 59 |
 | Lullaby | Present : YOU | GOT7 | 0 | 0 | 59 |
 | Just Right | Just Right | GOT7 | 1 | 0 | 59 |
@@ -535,7 +528,7 @@
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 73 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 75 |
 | Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 63 |
-| Sweet Night | ITAEWON CLASS (Original Television Soundtrack) Pt. 12 | V | 2 | 1 | 81 |
+| Sweet Night | ITAEWON CLASS (Original Television Soundtrack) Pt. 12 | V | 2 | 1 | 80 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 70 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 77 |
 | I Do | It's Raining | Rain | 0 | 0 | 45 |
@@ -543,27 +536,31 @@
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 87 |
 | Miku | Miku | Anamanaguchi | 0 | 0 | 51 |
 | Miku | Miku | Hatsune Miku | 0 | 0 | 63 |
-| Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 45 |
+| Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 44 |
 | Strawberry Cake | Hello, world! | Xdinary Heroes | 0 | 0 | 57 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 50 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 51 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 75 |
-| When We Disco | When We Disco | J.Y. Park | 0 | 0 | 46 |
-| Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 46 |
+| When We Disco | When We Disco | J.Y. Park | 0 | 0 | 47 |
+| Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 47 |
 | When We Disco | When We Disco | SUNMI | 0 | 0 | 57 |
 | Who's Your Mama? | 24/34 | Jessi | 0 | 0 | 59 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 71 |
 | My House | No.5 | 2PM | 0 | 0 | 53 |
+| Still Alive | Portal 2: Songs to Test By (Collectors Edition) | Aperture Science Psychoacoustic Laboratories | 0 | 0 | 46 |
 | this is what falling in love feels like | this is what falling in love feels like | JVKE | 2 | 1 | 76 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 48 |
+| Zelda's Lullaby | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 47 |
+| Song Of Storms | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 47 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 69 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 69 |
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 25 |
 | Call Me Mother | American | RuPaul | 0 | 0 | 56 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 68 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 54 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 53 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 56 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 46 |
+| Lost Woods | Zelda: Ocarina of Time - Piano | Wesley Sprayue | 0 | 0 | 40 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 53 |
 | All The Small Things | Enema Of The State | blink-182 | 0 | 0 | 78 |

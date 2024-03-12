@@ -43,10 +43,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Machine Gun](../../artists/sara_bareilles/overview.md) | 163 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Sweet As Whole](../../artists/sara_bareilles/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Fairytale](../../artists/sara_bareilles/overview.md) | 161 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Satellite Call](../../artists/sara_bareilles/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="Barton Hollow" width="50" /> | Poison & Wine | 153 | <img src="https://i.scdn.co/image/ab67616d0000b2736ae87ba9541e21c4e5a5926d" alt="The Firewatcher&#x27;s Daughter" width="50" /> | The Eye | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Between the Lines](../../artists/sara_bareilles/overview.md) | 103 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Breathe Again](../../artists/sara_bareilles/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Lie To Me](../../artists/sara_bareilles/overview.md) | 77 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Manhattan](../../artists/sara_bareilles/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Not Alone](../../artists/sara_bareilles/overview.md) | 60 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Come Round Soon](../../artists/sara_bareilles/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [I Choose You](../../artists/sara_bareilles/overview.md) | 52 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Eden](../../artists/sara_bareilles/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Lie To Me](../../artists/sara_bareilles/overview.md) | 118 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Breathe Again](../../artists/sara_bareilles/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Between the Lines](../../artists/sara_bareilles/overview.md) | 103 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Manhattan](../../artists/sara_bareilles/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [I Choose You](../../artists/sara_bareilles/overview.md) | 86 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Come Round Soon](../../artists/sara_bareilles/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Not Alone](../../artists/sara_bareilles/overview.md) | 60 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Eden](../../artists/sara_bareilles/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="Amidst the Chaos (Bonus Version)" width="50" /> | [Poetry by Dead Men](../../artists/sara_bareilles/overview.md) | 49 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="Amidst the Chaos (Bonus Version)" width="50" /> | [Eyes on You](../../artists/sara_bareilles/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Hercules](../../artists/sara_bareilles/overview.md) | 29 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Kaleidoscope Heart](../../artists/sara_bareilles/overview.md) | 0 |
 
@@ -133,7 +133,7 @@
 | | Jason Wormer | 5 | Producer |
 | | T-Bone Burnett | 5 | Producer |
 | | Mark Endert | 3 | Producer |
-| | Jack Antonoff | 2 | Songwriter |
+| | [Jack Antonoff](../../producers/jack_antonoff/overview.md) | 2 | Songwriter |
 | | Todor Kobakov | 2 | Arranger |
 | | Alison Sudol | 2 | Lyricist, Songwriter |
 
@@ -175,7 +175,7 @@
 | | Justin Tranter | 1 | Songwriter |
 | | Carl Lieberman, RPT | 1 | Producer |
 | | Shannon Sanders | 1 | Producer |
-| | Tony Maserati | 1 | Producer |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 1 | Producer |
 | | Dyre Gormsen | 1 | Producer |
 | | Marshall Altman | 1 | Arranger, Producer |
 | | Sam Farrar | 1 | Songwriter |

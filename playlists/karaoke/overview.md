@@ -230,7 +230,7 @@
 
 
 <details>
-<summary>See all 88 genres</summary>
+<summary>See all 87 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -270,7 +270,6 @@
 | 1 | 1 | talent show |
 | 1 | 1 | stomp and holler |
 | 1 | 1 | steampunk |
-| 1 | 1 | seattle indie |
 | 1 | 1 | quiet storm |
 | 1 | 1 | punk |
 | 1 | 1 | progressive bluegrass |
@@ -323,15 +322,15 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | Phil McDonald | 5 | Producer |
-| | George Martin | 5 | Arranger, Producer |
+| | [George Martin](../../producers/george_martin/overview.md) | 5 | Arranger, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 4 | Lyricist, Producer, Songwriter |
-| | Paul McCartney | 4 | Songwriter |
+| | [Paul McCartney](../../producers/paul_mccartney/overview.md) | 4 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 4 | Lyricist, Songwriter |
 | | Geoff Emerick | 4 | Producer |
-| | John Lennon | 4 | Songwriter |
+| | [John Lennon](../../producers/john_lennon/overview.md) | 4 | Songwriter |
 | | Jim Boyer | 3 | Producer |
 | | Phil Ramone | 3 | Producer |
-| | Mark "Spike" Stent | 3 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 3 | Producer |
 
 
 <details>
@@ -339,7 +338,7 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Manny Marroquin | 3 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 3 | Producer |
 | | Jonny Buckland | 2 | Songwriter |
 | | Bob Rock | 2 | Producer, Arranger |
 | | Philip Lawrence | 2 | Songwriter |
@@ -350,12 +349,12 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | Elton John | 2 | Songwriter |
 | | Chris Thomas | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../../artists/michael_bublé/overview.md) | 2 | Songwriter, Arranger |
-| | Serban Ghenea | 2 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 2 | Producer |
 | | Mark Endert | 2 | Producer |
 | | Glyn Johns | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb45de7ab990a1246c812128b6" alt="" width="50" /> | Chris Martin | 2 | Songwriter |
 | | Amy Foster-Gillies | 2 | Songwriter |
-| | Jack Antonoff | 2 | Songwriter, Producer |
+| | [Jack Antonoff](../../producers/jack_antonoff/overview.md) | 2 | Songwriter, Producer |
 | | Bernie Taupin | 2 | Lyricist |
 | | Guy Berryman | 2 | Songwriter |
 | | The Smeezingtons | 2 | Producer |
@@ -391,17 +390,17 @@
 | | Andrew Watt | 1 | Producer, Songwriter |
 | | Smokey Robinson | 1 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | [Janelle Monáe](../../artists/janelle_monáe/overview.md) | 1 | Producer |
-| | Josh Gudwin | 1 | Producer |
+| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 1 | Producer |
 | | Chad Vaccarino | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e8cb3ff6fc7744b312811b" alt="" width="50" /> | Troye Sivan | 1 | Songwriter |
-| | Jonny Greenwood | 1 | Songwriter |
+| | [Jonny Greenwood](../../producers/jonny_greenwood/overview.md) | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | [Rilo Kiley](../../artists/rilo_kiley/overview.md) | 1 | Producer |
 | | Jason Blynn | 1 | Songwriter |
 | | Jia Lih | 1 | Producer |
 | | Zachary Abels | 1 | Songwriter |
-| | Greg Kurstin | 1 | Producer |
+| | [Greg Kurstin](../../producers/greg_kurstin/overview.md) | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 1 | Songwriter |
-| | Colin Greenwood | 1 | Songwriter |
+| | [Colin Greenwood](../../producers/colin_greenwood/overview.md) | 1 | Songwriter |
 | | James Valentine | 1 | Lyricist, Songwriter |
 | | Luiz Bonfá (Bonfá, Luiz) | 1 | Songwriter |
 | | Freddie Perren | 1 | Songwriter |
@@ -442,7 +441,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> | Your Song | 308 | <img src="https://i.scdn.co/image/ab67616d0000b2739ab215825eb77076b1b4b387" alt="Nickel Creek" width="50" /> | The Lighthouse's Tale | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Machine Gun](../../artists/sara_bareilles/overview.md) | 163 | <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="Metropolis: The Chase Suite (Special Edition)" width="50" /> | [Sincerely, Jane](../../artists/janelle_monáe/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="Barton Hollow" width="50" /> | Poison & Wine | 153 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Manhattan](../../artists/sara_bareilles/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [I Choose You](../../artists/sara_bareilles/overview.md) | 52 | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | [The Way You Look Tonight](../../artists/frank_sinatra/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [I Choose You](../../artists/sara_bareilles/overview.md) | 86 | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | [The Way You Look Tonight](../../artists/frank_sinatra/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="Picture Show" width="50" /> | Everybody Talks | 49 | <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="Under The Blacklight (Standard Version)" width="50" /> | [Silver Lining](../../artists/rilo_kiley/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> | [Off My Face](../../artists/justin_bieber/overview.md) | 28 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Something - Remastered 2009](../../artists/the_beatles/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="Lover" width="50" /> | [Death By A Thousand Cuts](../../artists/taylor_swift/overview.md) | 14 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="Hozier (Expanded Edition)" width="50" /> | Take Me to Church | 0 |

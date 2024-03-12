@@ -83,9 +83,9 @@ OH MY GIRL is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 서지음 (Seo, Ji Eum) | 4 | Lyricist |
+| | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 4 | Lyricist |
 | | Steven Lee | 2 | Arranger, Songwriter |
-| | Ryan S. Jhun | 2 | Arranger, Lyricist, Songwriter |
+| | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 2 | Arranger, Lyricist, Songwriter |
 | | Jeppe London Bilsby | 1 | Arranger, Songwriter |
 | | 김미현 (Kim, Mihyun) | 1 | Lyricist |
 | | Andreas Johansson | 1 | Songwriter |
@@ -118,7 +118,7 @@ OH MY GIRL is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | Dolphin | NONSTOP | [OH MY GIRL](overview.md) | [WM Entertainment](../../labels/wm_entertainment) | 3411 | 💚 | [🔗](https://open.spotify.com/track/3NfgdU9mbIVhcJF3XvC0c9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | Dolphin | NONSTOP | [OH MY GIRL](overview.md) | [WM Entertainment](../../labels/wm_entertainment) | 3483 | 💚 | [🔗](https://open.spotify.com/track/3NfgdU9mbIVhcJF3XvC0c9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737700db620a3f0030fcfd078c" alt="" width="50" /> | SAY NO MORE | CLOSER | [OH MY GIRL](overview.md) | [WM Entertainment](../../labels/wm_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/3vFAa5RYxyZmxTuV0YE9Em) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a994eb69242daf25e8730a72" alt="" width="50" /> | WINDY DAY | WINDY DAY | [OH MY GIRL](overview.md) | [WM Entertainment](../../labels/wm_entertainment) | 0 | | [🔗](https://open.spotify.com/track/7prrcyZc48tO9hGzdnU9aD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a60df50e5e461afae4ef105d" alt="" width="50" /> | 5th Season (SSFWL) | THE FIFTH SEASON | [OH MY GIRL](overview.md) | [WM Entertainment](../../labels/wm_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/2o0H0o6gWgnegtqkuOhtZk) |

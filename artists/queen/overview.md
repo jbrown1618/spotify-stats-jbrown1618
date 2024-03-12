@@ -84,28 +84,28 @@ Queen:
 
 ### Member Credits
 
-| | Brian May | Freddie Mercury | John Deacon | Roger Taylor |
+| | John Deacon | Roger Taylor | [Brian May](../../producers/brian_may/overview.md) | [Freddie Mercury](../../producers/freddie_mercury/overview.md) |
 |:---|---:|---:|---:|---:|
-| Arranger | 1 | 0 | 0 | 0 |
-| Instrument | 14 | 10 | 13 | 13 |
-| Lyricist | 3 | 6 | 2 | 0 |
-| Producer | 5 | 0 | 0 | 5 |
-| Songwriter | 5 | 8 | 4 | 2 |
-| Vocal | 10 | 13 | 0 | 10 |
+| Arranger | 0 | 0 | 1 | 0 |
+| Instrument | 13 | 13 | 14 | 10 |
+| Lyricist | 2 | 0 | 3 | 6 |
+| Producer | 0 | 5 | 5 | 0 |
+| Songwriter | 4 | 2 | 5 | 8 |
+| Vocal | 0 | 10 | 10 | 13 |
 ### Production Credits
 
 | Art | Track | Members | Credit Types |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739bf8e3a3c31986c1c0536532" alt="" width="50" /> | Killer Queen | [Queen](overview.md), Freddie Mercury, Roger Taylor, Brian May | Producer, Lyricist, Songwriter, Arranger |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395ca1a6d0a8ec540e876cdf2" alt="" width="50" /> | You're My Best Friend | [Queen](overview.md), Roger Taylor, Brian May, John Deacon | Producer, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="" width="50" /> | Bohemian Rhapsody - Remastered 2011 | [Queen](overview.md), Freddie Mercury, Roger Taylor, Brian May | Producer, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b27369c47467a7964a67d6dbcf14" alt="" width="50" /> | Somebody To Love | [Queen](overview.md), Freddie Mercury | Producer, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d" alt="" width="50" /> | We Will Rock You - Remastered 2011 | [Queen](overview.md), Brian May | Producer, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d" alt="" width="50" /> | We Are The Champions - Remastered 2011 | [Queen](overview.md), Freddie Mercury | Producer, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889" alt="" width="50" /> | Fat Bottomed Girls - Remastered 2011 | [Queen](overview.md), Brian May | Arranger, Producer, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889" alt="" width="50" /> | Don't Stop Me Now - Remastered 2011 | [Queen](overview.md), Freddie Mercury | Arranger, Producer, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b27307744e2ed983efa3e6620a47" alt="" width="50" /> | Save Me - Remastered 2011 | [Queen](overview.md), Brian May | Producer, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b27307744e2ed983efa3e6620a47" alt="" width="50" /> | Crazy Little Thing Called Love - Remastered 2011 | [Queen](overview.md), Freddie Mercury, Roger Taylor, Brian May | Producer, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739bf8e3a3c31986c1c0536532" alt="" width="50" /> | Killer Queen | [Queen](.), [Freddie Mercury](../../../producers/freddie_mercury/overview.md), Roger Taylor, [Brian May](../../../producers/brian_may/overview.md) | Producer, Lyricist, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395ca1a6d0a8ec540e876cdf2" alt="" width="50" /> | You're My Best Friend | [Queen](.), Roger Taylor, [Brian May](../../../producers/brian_may/overview.md), John Deacon | Producer, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="" width="50" /> | Bohemian Rhapsody - Remastered 2011 | [Queen](.), [Freddie Mercury](../../../producers/freddie_mercury/overview.md), Roger Taylor, [Brian May](../../../producers/brian_may/overview.md) | Producer, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27369c47467a7964a67d6dbcf14" alt="" width="50" /> | Somebody To Love | [Queen](.), [Freddie Mercury](../../../producers/freddie_mercury/overview.md) | Producer, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d" alt="" width="50" /> | We Will Rock You - Remastered 2011 | [Queen](.), [Brian May](../../../producers/brian_may/overview.md) | Producer, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d" alt="" width="50" /> | We Are The Champions - Remastered 2011 | [Queen](.), [Freddie Mercury](../../../producers/freddie_mercury/overview.md) | Producer, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889" alt="" width="50" /> | Fat Bottomed Girls - Remastered 2011 | [Queen](.), [Brian May](../../../producers/brian_may/overview.md) | Arranger, Producer, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889" alt="" width="50" /> | Don't Stop Me Now - Remastered 2011 | [Queen](.), [Freddie Mercury](../../../producers/freddie_mercury/overview.md) | Arranger, Producer, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307744e2ed983efa3e6620a47" alt="" width="50" /> | Save Me - Remastered 2011 | [Queen](.), [Brian May](../../../producers/brian_may/overview.md) | Producer, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307744e2ed983efa3e6620a47" alt="" width="50" /> | Crazy Little Thing Called Love - Remastered 2011 | [Queen](.), [Freddie Mercury](../../../producers/freddie_mercury/overview.md), Roger Taylor, [Brian May](../../../producers/brian_may/overview.md) | Producer, Lyricist, Songwriter |
 
 
 <details>
@@ -113,8 +113,8 @@ Queen:
 
 | Art | Track | Members | Credit Types |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27307744e2ed983efa3e6620a47" alt="" width="50" /> | Another One Bites The Dust - Remastered 2011 | [Queen](overview.md), Roger Taylor, Brian May, John Deacon | Producer, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | Innuendo | [Queen](overview.md), Freddie Mercury, Roger Taylor, Brian May, John Deacon | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307744e2ed983efa3e6620a47" alt="" width="50" /> | Another One Bites The Dust - Remastered 2011 | [Queen](.), Roger Taylor, [Brian May](../../../producers/brian_may/overview.md), John Deacon | Producer, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | Innuendo | [Queen](.), [Freddie Mercury](../../../producers/freddie_mercury/overview.md), Roger Taylor, [Brian May](../../../producers/brian_may/overview.md), John Deacon | Producer, Songwriter |
 
 </details>
 
@@ -124,8 +124,8 @@ Queen:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](overview.md) | 12 | Producer, Arranger |
-| | Brian May | 9 | Songwriter, Lyricist, Producer, Arranger |
-| | Freddie Mercury | 7 | Songwriter, Lyricist |
+| | [Brian May](../../producers/brian_may/overview.md) | 9 | Songwriter, Lyricist, Producer, Arranger |
+| | [Freddie Mercury](../../producers/freddie_mercury/overview.md) | 7 | Songwriter, Lyricist |
 | | Roger Taylor | 6 | Songwriter, Producer |
 | | Mike Stone | 6 | Producer |
 | | Roy Thomas Baker | 5 | Producer |

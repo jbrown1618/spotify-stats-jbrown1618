@@ -105,11 +105,11 @@ Appears as:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | RM | 11 | Songwriter, Arranger, Producer, Lyricist |
-| | Pdogg | 11 | Producer, Songwriter, Arranger |
-| | 방시혁 (Bang, Si-Hyuk) | 8 | Songwriter |
+| | [Pdogg](../../producers/pdogg/overview.md) | 11 | Producer, Songwriter, Arranger |
+| | [방시혁 (Bang, Si-Hyuk)](../../producers/방시혁_(bang,_si-hyuk)/overview.md) | 8 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 6 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | [j-hope](../../artists/j-hope/overview.md) | 4 | Songwriter |
-| | Supreme Boi | 3 | Songwriter |
+| | [Supreme Boi](../../producers/supreme_boi/overview.md) | 3 | Songwriter |
 | | Ali Tamposi | 2 | Songwriter |
 | | Melanie Joy Fontana | 2 | Songwriter |
 | | Jaycen Joshua | 2 | Producer |
@@ -123,7 +123,7 @@ Appears as:
 |:---|:---|---:|:---|
 | | Jang Yi-jeong | 2 | Producer |
 | | DJ Riggins | 2 | Producer |
-| | Arschtritt Lindgren | 2 | Songwriter |
+| | [Arschtritt Lindgren](../../producers/arschtritt_lindgren/overview.md) | 2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3be82c9ca8e6a7103debaf25" alt="" width="50" /> | ADORA | 2 | Producer |
 | | Jacob Richards | 2 | Producer |
 | | Roman | 2 | Songwriter |
@@ -144,7 +144,7 @@ Appears as:
 | | DJ Swivel | 1 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b924be9b846ac20bfecc676" alt="" width="50" /> | SUMIN | 1 | Songwriter |
 | | Lutra | 1 | Songwriter |
-| | Phil Tan | 1 | Producer |
+| | [Phil Tan](../../producers/phil_tan/overview.md) | 1 | Producer |
 | | Antonina Armato | 1 | Songwriter |
 | | Clyde Kelly | 1 | Songwriter |
 | | Matt Thomson | 1 | Songwriter |
@@ -156,7 +156,7 @@ Appears as:
 | | Jessica Agombar | 1 | Songwriter |
 | | Alex Bilowitz | 1 | Songwriter |
 | | Sebastian Garcia | 1 | Songwriter |
-| | danke | 1 | Songwriter |
+| | [danke](../../producers/danke/overview.md) | 1 | Songwriter |
 | | Alex Williams | 1 | Producer |
 | | Candace Sosa | 1 | Songwriter |
 | | David Stewart | 1 | Songwriter |

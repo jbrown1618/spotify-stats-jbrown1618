@@ -48,7 +48,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="Christmas (Deluxe Special Edition)" width="50" /> | [Frosty the Snowman (feat. The Puppini Sisters)](../../artists/michael_bublé/overview.md) | 44 | <img src="https://i.scdn.co/image/ab67616d0000b27392c885317fbe4bfa680109b4" alt="Jagged Little Pill" width="50" /> | You Oughta Know | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> | [Off My Face](../../artists/justin_bieber/overview.md) | 28 | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> | [I'll Show You](../../artists/justin_bieber/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="It&#x27;s Time" width="50" /> | [Feeling Good](../../artists/michael_bublé/overview.md) | 26 | <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> | [Someday (feat. Meghan Trainor)](../../artists/michael_bublé/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="After Hours" width="50" /> | Blinding Lights | 17 | <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="CITIZENS" width="50" /> | Minefields | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="After Hours" width="50" /> | Blinding Lights | 23 | <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="CITIZENS" width="50" /> | Minefields | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="Romance" width="50" /> | Señorita | 16 | <img src="https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d" alt="Under The Mistletoe (Deluxe Edition)" width="50" /> | [All I Want For Christmas Is You (SuperFestive!) Duet with Mariah Carey](../../artists/justin_bieber/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="Christmas (Deluxe Special Edition)" width="50" /> | [It's Beginning to Look a Lot like Christmas](../../artists/michael_bublé/overview.md) | 4 | <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="love (Deluxe Edition)" width="50" /> | [La vie en rose (feat. Cécile McLorin Salvant)](../../artists/michael_bublé/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d" alt="Under The Mistletoe (Deluxe Edition)" width="50" /> | [Mistletoe](../../artists/justin_bieber/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="Call Me Irresponsible" width="50" /> | [Call Me Irresponsible](../../artists/michael_bublé/overview.md) | 0 |
@@ -159,14 +159,14 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Serban Ghenea | 2 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 2 | Producer |
 | | Bob Rock | 2 | Producer, Arranger |
 | | Alejandro Rodríguez (Rodríguez, Alejandro) | 2 | Producer |
-| | Josh Gudwin | 2 | Producer |
+| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 1 | Lyricist, Songwriter |
 | | Tom Lord-Alge | 1 | Producer |
 | | Teddy Geiger | 1 | Songwriter |
-| | John Hanes | 1 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 1 | Producer |
 | | Cashmere Cat | 1 | Producer, Songwriter |
 | | Lou Pomanti | 1 | Arranger |
 | | Anthony Newley | 1 | Songwriter |
@@ -184,7 +184,7 @@
 | | Glen Ballard | 1 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](../../artists/camila_cabello/overview.md) | 1 | Songwriter |
 | | Ali Tamposi | 1 | Songwriter |
-| | FINNEAS | 1 | Producer, Songwriter |
+| | [FINNEAS](../../producers/finneas/overview.md) | 1 | Producer, Songwriter |
 | | Leslie Bricusse | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | Charli XCX | 1 | Songwriter |
 | | Zubin Thakkar | 1 | Producer |
@@ -198,7 +198,7 @@
 | | Jake Torrey | 1 | Producer, Songwriter |
 | | Nathaniel Alford | 1 | Producer |
 | | Chris "Tek" O'Ryan | 1 | Producer |
-| | Max Martin | 1 | Producer, Songwriter |
+| | [Max Martin](../../producers/max_martin/overview.md) | 1 | Producer, Songwriter |
 | | Dreamlab | 1 | Producer |
 | | Chris Fogel | 1 | Producer |
 | | Don Sebesky | 1 | Arranger |

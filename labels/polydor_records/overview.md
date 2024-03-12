@@ -190,7 +190,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c0eb37411c26ff54c29dcb6" alt="" width="50" /> | Lauv | 1 | Songwriter |
 | | Ash Howes | 1 | Producer, Songwriter |
 | | Freddie Perren | 1 | Songwriter |
-| | Serban Ghenea | 1 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 1 | Producer |
 | | Dan Auerbach | 1 | Producer |
 | | Robopop | 1 | Producer |
 | | Jason Elliott | 1 | Producer |
@@ -198,7 +198,7 @@ Appears as:
 | | Collin Dupuis | 1 | Producer |
 | | Joe Kearns | 1 | Producer, Songwriter |
 | | Trevor Yasuda | 1 | Producer |
-| | Mark "Spike" Stent | 1 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 1 | Producer |
 | | Daniel Pursey | 1 | Producer |
 | | Chris Garcia | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6772690000c46c50e750d1aed632c37a450ffb" alt="" width="50" /> | Duffy | 1 | Songwriter |
@@ -209,12 +209,12 @@ Appears as:
 | | Leland | 1 | Songwriter |
 | | Steven Malcolmson | 1 | Producer |
 | | Daniel Law Heath | 1 | Songwriter |
-| | Manny Marroquin | 1 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 1 | Producer |
 | | Robert Orton | 1 | Producer |
 | | Steve Booker | 1 | Producer, Songwriter |
 | | Dean Reid | 1 | Producer |
 | | Steve Mac | 1 | Producer, Songwriter |
-| | John Hanes | 1 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 1 | Producer |
 | | Patrik Berger | 1 | Producer |
 
 </details>

@@ -10,15 +10,15 @@
 
 ## Artist Rank
 HEIZE is currently:
-- The #24 artist of the last month
-- The #25 artist of the last 6 months
+- The #23 artist of the last month
+- The #26 artist of the last 6 months
 - The #41 artist of all time
 
 ![Rank of HEIZE over time](../../images/artists/heize/rank_time_series.png)
 ## Top Tracks
 
 - FM 89.1 is:
-    - the #49 track of the last month
+    - the #38 track of the last month
 
 ### Top tracks of the last 6 months over time
 
@@ -68,7 +68,7 @@ HEIZE is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | R.Tee | 1 | Producer |
+| | [R.Tee](../../producers/r_tee/overview.md) | 1 | Producer |
 
 
 ## Tracks
@@ -77,7 +77,7 @@ HEIZE is currently:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="" width="50" /> | Undo | Undo | [HEIZE](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 1080 | 💚 | [🔗](https://open.spotify.com/track/6z1pJ3KUmQagUpMVqL62sa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="" width="50" /> | VingleVingle (Prod. R.Tee) | VingleVingle | [HEIZE](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 518 | 💚 | [🔗](https://open.spotify.com/track/4mSb6RA9eJnXuMWChHLpgn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733b414bbbf73c81957c8b7541" alt="" width="50" /> | FM 89.1 | Last Winter | [HEIZE](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 137 | 💚 | [🔗](https://open.spotify.com/track/262jf0kGFJVl2AHsGJ6xiG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733b414bbbf73c81957c8b7541" alt="" width="50" /> | FM 89.1 | Last Winter | [HEIZE](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 150 | 💚 | [🔗](https://open.spotify.com/track/262jf0kGFJVl2AHsGJ6xiG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356d3baa3d1571b288b910f36" alt="" width="50" /> | 내 맘을 볼 수 있나요 | Hotel del Luna (Original Television Soundtrack) Pt.5 | [HEIZE](overview.md) | Beyond Music | 63 | | [🔗](https://open.spotify.com/track/2oVHb8wyg6oC2iNpGBNvx1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733b414bbbf73c81957c8b7541" alt="" width="50" /> | Perhaps, Happy Ending | Last Winter | [HEIZE](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 63 | 💚 | [🔗](https://open.spotify.com/track/5VRjJvpk6xL9cxkkWhfWkY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733b414bbbf73c81957c8b7541" alt="" width="50" /> | Last Winter | Last Winter | [HEIZE](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 3 | | [🔗](https://open.spotify.com/track/0neVuSeb4wkhi1tLNc0t47) |

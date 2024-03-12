@@ -83,7 +83,7 @@ Appears as:
 | | Joe Viers | 1 | Producer |
 | | Adam Hawkins | 1 | Producer |
 | | Andrew Kapner | 1 | Producer |
-| | Ricky Reed | 1 | Producer |
+| | [Ricky Reed](../../producers/ricky_reed/overview.md) | 1 | Producer |
 
 
 <details>

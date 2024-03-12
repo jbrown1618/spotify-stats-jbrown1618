@@ -57,12 +57,12 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Colin Greenwood | 13 | Songwriter |
-| | Jonny Greenwood | 13 | Songwriter, Arranger, Producer |
-| | Ed O'Brien | 13 | Songwriter |
-| | Philip Selway | 13 | Songwriter |
-| | Nigel Godrich | 13 | Producer |
-| | Thom Yorke | 13 | Lyricist, Producer, Songwriter, Arranger |
+| | [Colin Greenwood](../../producers/colin_greenwood/overview.md) | 13 | Songwriter |
+| | [Jonny Greenwood](../../producers/jonny_greenwood/overview.md) | 13 | Songwriter, Arranger, Producer |
+| | [Ed O'Brien](../../producers/ed_o_brien/overview.md) | 13 | Songwriter |
+| | [Philip Selway](../../producers/philip_selway/overview.md) | 13 | Songwriter |
+| | [Nigel Godrich](../../producers/nigel_godrich/overview.md) | 13 | Producer |
+| | [Thom Yorke](../../producers/thom_yorke/overview.md) | 13 | Lyricist, Producer, Songwriter, Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 12 | Arranger, Producer, Lyricist, Songwriter |
 | | Paul Q. Kolderie | 3 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 3 | Songwriter |
@@ -85,7 +85,7 @@ Appears as:
 | | Gerard Navarro | 1 | Producer |
 | | Tom Elmhirst | 1 | Producer |
 | | Fraser T. Smith | 1 | Songwriter |
-| | Paul Epworth | 1 | Producer, Songwriter |
+| | [Paul Epworth](../../producers/paul_epworth/overview.md) | 1 | Producer, Songwriter |
 | | J.A.C. Redford | 1 | Arranger |
 | | Francis White | 1 | Songwriter |
 | | Albert Hammond | 1 | Songwriter |

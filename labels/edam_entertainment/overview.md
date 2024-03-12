@@ -47,7 +47,7 @@ Appears as:
 |:---|:---|---:|:---|
 | | 손명갑 (Son, Myung-gap) | 5 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | [IU](../../artists/iu/overview.md) | 5 | Lyricist, Songwriter |
-| | 구종필 (Koo, Jong-Pil) | 2 | Producer |
+| | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 2 | Producer |
 | | Jeppe London Bilsby | 1 | Arranger, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 1 | Producer |
 | | 오성근 (Oh, Seong-Keun) | 1 | Producer |
@@ -69,7 +69,7 @@ Appears as:
 | | 이나일 (E, Na-Il) | 1 | Arranger |
 | | 이찬혁 (Lee, Chanhyeok) | 1 | Lyricist, Songwriter |
 | | Peejay | 1 | Arranger, Songwriter |
-| | Ryan S. Jhun | 1 | Arranger, Songwriter |
+| | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 1 | Arranger, Songwriter |
 | | 웅킴 (Woong, Kim) | 1 | Arranger, Songwriter |
 | | Lauritz Emil Christiansen | 1 | Arranger, Songwriter |
 | | 조준성 (Jo, June-sung) | 1 | Producer |
@@ -85,12 +85,12 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | My sea | IU 5th Album 'LILAC' | [IU](../../artists/iu/overview.md) | [EDAM Entertainment](.) | 40785 | 💚 | [🔗](https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | Coin | IU 5th Album 'LILAC' | [IU](../../artists/iu/overview.md) | [EDAM Entertainment](.) | 36325 | 💚 | [🔗](https://open.spotify.com/track/7CZRguMolNqIobnXxpV735) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | LILAC | IU 5th Album 'LILAC' | [IU](../../artists/iu/overview.md) | [EDAM Entertainment](.) | 28811 | 💚 | [🔗](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | Holssi | The Winning | [IU](../../artists/iu/overview.md) | [EDAM Entertainment](.) | 336 | 💚 | [🔗](https://open.spotify.com/track/0UTtK6hregIBOsefavRI26) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | Shh.. (Feat. HYEIN, WONSUN JOE & Special Narr. Patti Kim) | The Winning | [IU](../../artists/iu/overview.md), HYEIN, Joe Won Sun, Patti Kim | [EDAM Entertainment](.) | 106 | | [🔗](https://open.spotify.com/track/20uUaRkfRJZG15mXfn7LaU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | Love wins all | The Winning | [IU](../../artists/iu/overview.md) | [EDAM Entertainment](.) | 64 | 💚 | [🔗](https://open.spotify.com/track/53g7ZIvZE47H9pwXPFYMCH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | My sea | IU 5th Album 'LILAC' | [IU](../../artists/iu/overview.md) | [EDAM Entertainment](.) | 41073 | 💚 | [🔗](https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | Coin | IU 5th Album 'LILAC' | [IU](../../artists/iu/overview.md) | [EDAM Entertainment](.) | 36673 | 💚 | [🔗](https://open.spotify.com/track/7CZRguMolNqIobnXxpV735) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | LILAC | IU 5th Album 'LILAC' | [IU](../../artists/iu/overview.md) | [EDAM Entertainment](.) | 29171 | 💚 | [🔗](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | Holssi | The Winning | [IU](../../artists/iu/overview.md) | [EDAM Entertainment](.) | 542 | 💚 | [🔗](https://open.spotify.com/track/0UTtK6hregIBOsefavRI26) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | Shh.. (Feat. HYEIN, WONSUN JOE & Special Narr. Patti Kim) | The Winning | [IU](../../artists/iu/overview.md), HYEIN, Joe Won Sun, Patti Kim | [EDAM Entertainment](.) | 125 | | [🔗](https://open.spotify.com/track/20uUaRkfRJZG15mXfn7LaU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | Love wins all | The Winning | [IU](../../artists/iu/overview.md) | [EDAM Entertainment](.) | 87 | 💚 | [🔗](https://open.spotify.com/track/53g7ZIvZE47H9pwXPFYMCH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d378c4756c4fc34b7d3eeaf" alt="" width="50" /> | Winter Sleep | Pieces | [IU](../../artists/iu/overview.md) | [EDAM Entertainment](.) | 3 | 💚 | [🔗](https://open.spotify.com/track/2y4hHM6c48Qzk0bqh33XfB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c63be04ae902b1da7a54d247" alt="" width="50" /> | eight(Prod.&Feat. SUGA of BTS) | eight | [IU](../../artists/iu/overview.md), SUGA | [EDAM Entertainment](.) | 1 | 💚 | [🔗](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | Ah puh | IU 5th Album 'LILAC' | [IU](../../artists/iu/overview.md) | [EDAM Entertainment](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/1IJxbEXfgiKuRx6oXMX87e) |

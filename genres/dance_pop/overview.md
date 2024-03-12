@@ -1,6 +1,6 @@
 # dance pop
 
-135 songs
+136 songs
 
 [See Track Features](audio_features.md)
 
@@ -23,7 +23,7 @@
 
 
 <details>
-<summary>See all 82 artists</summary>
+<summary>See all 84 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -77,6 +77,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c44e078944196a8c1eec256" alt="" width="50" /> | 1 | 0 | Colby O'Donis | [🔗](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b3c0f33bc5e3f6a53f84d7" alt="" width="50" /> | 1 | 0 | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb15f9e9bf9aa9069d53fec1ce" alt="" width="50" /> | 1 | 0 | Cher | [🔗](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) |
+| <img src="https://i.scdn.co/image/9837f337431ea4a73bf699e24c4d588028bb0fce" alt="" width="50" /> | 1 | 0 | Chamillionaire | [🔗](https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8272bf414106646e0e4a89f3" alt="" width="50" /> | 1 | 0 | Carly Rae Jepsen | [🔗](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40fbebe8dee2989b9f4efe9d" alt="" width="50" /> | 1 | 0 | Soulja Boy | [🔗](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb84505d89ff27a88fca05f56d" alt="" width="50" /> | 1 | 0 | Alejandro Sanz | [🔗](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) |
@@ -91,6 +92,7 @@
 | <img src="https://i.scdn.co/image/adcc1cb654e89f2e404688ae0d1bbc942ce02e5d" alt="" width="50" /> | 1 | 0 | Ludacris | [🔗](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa2d9bd207a62adc3edf6631" alt="" width="50" /> | 1 | 0 | Florida Georgia Line | [🔗](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) |
 | | 1 | 0 | Zachary Levi | [🔗](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb90e3fd86189f24d3f7dcb399" alt="" width="50" /> | 1 | 0 | Ciara | [🔗](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a" alt="" width="50" /> | 1 | 0 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb19436426207ba83da96e5c1e" alt="" width="50" /> | 1 | 0 | Jordin Sparks | [🔗](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9592a41ec193fd20c5372ed3" alt="" width="50" /> | 1 | 0 | Cassie | [🔗](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) |
@@ -109,16 +111,16 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2735c041fe9e3c9de436047d86b" alt="I Am The Best" width="50" /> | I Am The Best | 32424 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | [Leave The Door Open](../../artists/bruno_mars/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f" alt="Merry Christmas" width="50" /> | All I Want for Christmas Is You | 102 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="Tangled" width="50" /> | When Will My Life Begin? - From "Tangled" / Soundtrack Version | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" alt="FutureSex/LoveSounds" width="50" /> | SexyBack (feat. Timbaland) | 90 | <img src="https://i.scdn.co/image/ab67616d0000b27306b7221a0ecc0dd36f4f8f18" alt="React" width="50" /> | React | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="ELVIS (Original Motion Picture Soundtrack)" width="50" /> | [Vegas](../../artists/doja_cat/overview.md) | 83 | <img src="https://i.scdn.co/image/ab67616d0000b2737a6339d6ddfd579f77559b3c" alt="Animal (Expanded Edition)" width="50" /> | TiK ToK | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c041fe9e3c9de436047d86b" alt="I Am The Best" width="50" /> | I Am The Best | 32556 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | [Leave The Door Open](../../artists/bruno_mars/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="ELVIS (Original Motion Picture Soundtrack)" width="50" /> | [Vegas](../../artists/doja_cat/overview.md) | 111 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="Tangled" width="50" /> | When Will My Life Begin? - From "Tangled" / Soundtrack Version | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f" alt="Merry Christmas" width="50" /> | All I Want for Christmas Is You | 102 | <img src="https://i.scdn.co/image/ab67616d0000b27306b7221a0ecc0dd36f4f8f18" alt="React" width="50" /> | React | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" alt="FutureSex/LoveSounds" width="50" /> | SexyBack (feat. Timbaland) | 90 | <img src="https://i.scdn.co/image/ab67616d0000b2737a6339d6ddfd579f77559b3c" alt="Animal (Expanded Edition)" width="50" /> | TiK ToK | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="Chromatica" width="50" /> | [Sour Candy (with BLACKPINK)](../../artists/lady_gaga/overview.md) | 52 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="Doo-Wops &amp; Hooligans" width="50" /> | [The Other Side (feat. CeeLo Green and B.o.B)](../../artists/bruno_mars/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="We Sing. We Dance. We Steal Things." width="50" /> | Lucky | 27 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | [That's What I Like](../../artists/bruno_mars/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273786cb106c8bb0c15c86a93a0" alt="Hurts 2B Human" width="50" /> | Hustle | 9 | <img src="https://i.scdn.co/image/ab67616d0000b27300164c96548a622d34b39828" alt="Beautiful Trauma" width="50" /> | What About Us | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f2d10189a41c7345a5a0337" alt="To Anyone" width="50" /> | Can't Nobody | 7 | <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="Born This Way" width="50" /> | [Judas](../../artists/lady_gaga/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f14aa81116510d3a6df8432b" alt="Hot Pink" width="50" /> | [Say So](../../artists/doja_cat/overview.md) | 7 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="The Fame Monster (Deluxe Edition)" width="50" /> | [Bad Romance](../../artists/lady_gaga/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="Unorthodox Jukebox" width="50" /> | [When I Was Your Man](../../artists/bruno_mars/overview.md) | 7 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="The Fame" width="50" /> | [LoveGame](../../artists/lady_gaga/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738136c2c2762cba40cb51f9aa" alt="The Evolution" width="50" /> | Get Up (feat. Chamillionaire) | 39 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | [That's What I Like](../../artists/bruno_mars/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="We Sing. We Dance. We Steal Things." width="50" /> | Lucky | 27 | <img src="https://i.scdn.co/image/ab67616d0000b27300164c96548a622d34b39828" alt="Beautiful Trauma" width="50" /> | What About Us | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273786cb106c8bb0c15c86a93a0" alt="Hurts 2B Human" width="50" /> | Hustle | 9 | <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="Born This Way" width="50" /> | [Judas](../../artists/lady_gaga/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f2d10189a41c7345a5a0337" alt="To Anyone" width="50" /> | Can't Nobody | 7 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="The Fame Monster (Deluxe Edition)" width="50" /> | [Bad Romance](../../artists/lady_gaga/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f14aa81116510d3a6df8432b" alt="Hot Pink" width="50" /> | [Say So](../../artists/doja_cat/overview.md) | 7 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="The Fame" width="50" /> | [LoveGame](../../artists/lady_gaga/overview.md) | 0 |
 
 ## Top Albums
 
@@ -137,7 +139,7 @@
 
 
 <details>
-<summary>See all 93 albums</summary>
+<summary>See all 94 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -201,6 +203,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273969438a8091085c2472a0766" alt="" width="50" /> | 1 | 0 | Til It Happens To You | 2015-09-18 | [🔗](https://open.spotify.com/album/00qjYaNSNpQCZHhCpAlH60) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d9aa52355e062f5de060adbf" alt="" width="50" /> | 1 | 0 | This Is What You Came For | 2016-04-29 | [🔗](https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c999354430ff7eac3e0d9bc8" alt="" width="50" /> | 1 | 0 | This Is The End: Original Motion Picture Soundtrack | 2013-06-10 | [🔗](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738136c2c2762cba40cb51f9aa" alt="" width="50" /> | 1 | 0 | The Evolution | 2006 | [🔗](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739a9716c90ceeb1890921e44f" alt="" width="50" /> | 1 | 0 | Te Felicito | 2022-04-21 | [🔗](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d629b7dd61cb5d580acad39" alt="" width="50" /> | 1 | 0 | Swalla (feat. Nicki Minaj & Ty Dolla $ign) | 2017-02-23 | [🔗](https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="" width="50" /> | 1 | 0 | Survivor | 2001-05-01 | [🔗](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) |
@@ -259,7 +262,7 @@
 | 2 | 2 | Lava Music |
 | 2 | 2 | ATG |
 | 2 | 2 | A Star is Born OST |
-| 5 | 1 | LaFace Records |
+| 6 | 1 | LaFace Records |
 | 2 | 1 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 2 | 1 | Sony Music Latin |
 | 1 | 1 | YGEX |
@@ -293,16 +296,16 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Serban Ghenea | 17 | Producer |
-| | John Hanes | 13 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 17 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 13 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 10 | Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 10 | Songwriter, Producer, Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 8 | Songwriter |
 | | Philip Lawrence | 7 | Songwriter |
-| | Łukasz Gottwald (Gottwald, Łukasz) | 7 | Songwriter |
-| | Max Martin | 6 | Producer, Songwriter, Lyricist |
+| | [Łukasz Gottwald (Gottwald, Łukasz)](../../producers/łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 7 | Songwriter |
+| | [Max Martin](../../producers/max_martin/overview.md) | 6 | Producer, Songwriter, Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e125f9c0f56dfb73fb97eaa" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 6 | Songwriter |
-| | RedOne | 5 | Producer, Songwriter, Arranger |
+| | [RedOne](../../producers/redone/overview.md) | 5 | Producer, Songwriter, Arranger |
 
 
 <details>
@@ -310,7 +313,7 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Manny Marroquin | 5 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 5 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](../../artists/camila_cabello/overview.md) | 5 | Songwriter |
 | | Charles Moniz | 5 | Producer |
 | | Brody Brown | 4 | Songwriter |
@@ -321,17 +324,17 @@
 | | Frank Dukes | 4 | Songwriter, Producer |
 | | Ari Levine | 4 | Producer, Songwriter |
 | | Jonathan Yip | 3 | Songwriter |
-| | Sam Holland | 3 | Producer |
+| | [Sam Holland](../../producers/sam_holland/overview.md) | 3 | Producer |
 | | Yeti Beats | 3 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaee73c0f0458b95091845ee1" alt="" width="50" /> | Shakira | 3 | Songwriter |
 | | Ray Romulus | 3 | Songwriter |
 | | Ray McCullough | 3 | Songwriter |
 | | D'Mile | 3 | Producer, Songwriter |
-| | Tony Maserati | 3 | Producer |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 3 | Producer |
 | | Louis Bell | 3 | Songwriter, Producer |
 | | Kristian Lundin | 3 | Producer, Songwriter |
 | | Caroline Ailin | 3 | Songwriter, Producer |
-| | Josh Gudwin | 3 | Producer |
+| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 3 | Producer |
 | | Jeremy Reeves | 3 | Songwriter |
 | | Andreas Carlsson | 3 | Songwriter, Lyricist |
 | | Brandon Paak Anderson | 3 | Songwriter |
@@ -362,14 +365,14 @@
 | | Justin Tranter | 2 | Songwriter |
 | | Mike Elizondo | 2 | Songwriter, Producer |
 | | Bart Schoudel | 2 | Producer |
-| | Ricky Reed | 2 | Producer, Songwriter |
+| | [Ricky Reed](../../producers/ricky_reed/overview.md) | 2 | Producer, Songwriter |
 | | Jeff Bhasker | 2 | Producer, Songwriter |
 | | Andrew Watt | 2 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 2 | Producer, Songwriter |
 | | Boo Mitchell | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | Pharrell Williams | 2 | Songwriter |
 | | Sarah Hudson | 2 | Songwriter |
-| | Mark "Spike" Stent | 2 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 2 | Producer |
 | | Jussifer | 2 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 2 | Songwriter |
 | | The Stereotypes | 2 | Producer |

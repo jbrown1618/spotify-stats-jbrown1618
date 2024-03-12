@@ -10,11 +10,15 @@
 
 ## Artist Rank
 Billie Eilish is currently:
-- The #25 artist of the last month
-- The #24 artist of the last 6 months
-- The #45 artist of all time
+- The #21 artist of the last month
+- The #22 artist of the last 6 months
+- The #42 artist of all time
 
 ![Rank of Billie Eilish over time](../../images/artists/billie_eilish/rank_time_series.png)
+## Top Tracks
+
+- bury a friend is:
+    - the #35 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -80,7 +84,7 @@ Billie Eilish is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | FINNEAS | 13 | Lyricist, Producer, Songwriter, Arranger |
+| | [FINNEAS](../../producers/finneas/overview.md) | 13 | Lyricist, Producer, Songwriter, Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](overview.md) | 10 | Lyricist, Songwriter, Producer |
 | | Rob Kinelski | 10 | Producer |
 | | Casey Cuayo | 1 | Producer |
@@ -109,7 +113,7 @@ Billie Eilish is currently:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | you should see me in a crown | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom), [Interscope Records](../../labels/interscope_records) | 424 | 💚 | [🔗](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | No Time To Die | No Time To Die | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom), [Interscope Records](../../labels/interscope_records) | 363 | 💚 | [🔗](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | bury a friend | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom), [Interscope Records](../../labels/interscope_records) | 126 | 💚 | [🔗](https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | bury a friend | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom), [Interscope Records](../../labels/interscope_records) | 142 | 💚 | [🔗](https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | GOLDWING | Happier Than Ever | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom), [Interscope Records](../../labels/interscope_records) | 39 | 💚 | [🔗](https://open.spotify.com/track/0FfqyjhB6Kspvit1oOo7ax) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | xanny | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom), [Interscope Records](../../labels/interscope_records) | 1 | 💚 | [🔗](https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="" width="50" /> | ocean eyes | dont smile at me | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom) | 0 | 💚 | [🔗](https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9) |

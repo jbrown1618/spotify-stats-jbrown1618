@@ -131,13 +131,13 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | TEDDY | 27 | Lyricist, Producer, Songwriter, Arranger |
-| | 24 | 17 | Arranger, Producer, Songwriter |
-| | R.Tee | 14 | Arranger, Producer, Songwriter, Lyricist |
+| | [TEDDY](../../producers/teddy/overview.md) | 27 | Lyricist, Producer, Songwriter, Arranger |
+| | [24](../../producers/24/overview.md) | 17 | Arranger, Producer, Songwriter |
+| | [R.Tee](../../producers/r_tee/overview.md) | 14 | Arranger, Producer, Songwriter, Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 10 | Lyricist, Songwriter |
 | | Danny Chung | 8 | Lyricist |
 | | YOUNGJU BANG | 7 | Producer |
-| | Josh Gudwin | 7 | Producer |
+| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 7 | Producer |
 | | Jason Roberts | 7 | Producer |
 | | Jason Robert | 5 | Producer |
 | | FUTURE BOUNCE | 4 | Arranger, Songwriter |
@@ -218,14 +218,14 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Pretty Savage | THE ALBUM | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](../interscope_records), [YG Entertainment](.) | 60528 | 💚 | [🔗](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="" width="50" /> | Kill This Love | KILL THIS LOVE | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](../interscope_records), [YG Entertainment](.) | 58491 | 💚 | [🔗](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Crazy Over You | THE ALBUM | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](../interscope_records), [YG Entertainment](.) | 56659 | 💚 | [🔗](https://open.spotify.com/track/7qq0EOPW4RRlqdvMBmdd73) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | How You Like That | THE ALBUM | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](../interscope_records), [YG Entertainment](.) | 56484 | 💚 | [🔗](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd" alt="" width="50" /> | 무제(無題) (Untitled, 2014) | KWON JI YONG | G-DRAGON | [YG Entertainment](.) | 37740 | 💚 | [🔗](https://open.spotify.com/track/16BS342F89MDqouSxgLaUK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="" width="50" /> | 눈,코,입 (Eyes, Nose, Lips) | RISE | TAEYANG | [YG Entertainment](.) | 22284 | 💚 | [🔗](https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Pretty Savage | THE ALBUM | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](../interscope_records), [YG Entertainment](.) | 60936 | 💚 | [🔗](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="" width="50" /> | Kill This Love | KILL THIS LOVE | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](../interscope_records), [YG Entertainment](.) | 59043 | 💚 | [🔗](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Crazy Over You | THE ALBUM | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](../interscope_records), [YG Entertainment](.) | 57175 | 💚 | [🔗](https://open.spotify.com/track/7qq0EOPW4RRlqdvMBmdd73) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | How You Like That | THE ALBUM | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](../interscope_records), [YG Entertainment](.) | 56988 | 💚 | [🔗](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd" alt="" width="50" /> | 무제(無題) (Untitled, 2014) | KWON JI YONG | G-DRAGON | [YG Entertainment](.) | 38076 | 💚 | [🔗](https://open.spotify.com/track/16BS342F89MDqouSxgLaUK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="" width="50" /> | 눈,코,입 (Eyes, Nose, Lips) | RISE | TAEYANG | [YG Entertainment](.) | 22368 | 💚 | [🔗](https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Pink Venom | BORN PINK | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](../interscope_records), [YG Entertainment](.) | 19898 | 💚 | [🔗](https://open.spotify.com/track/6stcJnJHPO8RrYx5LLz5OP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | DDU-DU DDU-DU | SQUARE UP | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](../interscope_records), [YG Entertainment](.) | 10896 | 💚 | [🔗](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | DDU-DU DDU-DU | SQUARE UP | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](../interscope_records), [YG Entertainment](.) | 11172 | 💚 | [🔗](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="" width="50" /> | BOOMBAYAH | SQUARE ONE | [BLACKPINK](../../artists/blackpink/overview.md) | [YG Entertainment](.) | 7525 | 💚 | [🔗](https://open.spotify.com/track/13MF2TYuyfITClL1R2ei6e) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Shut Down | BORN PINK | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](../interscope_records), [YG Entertainment](.) | 5755 | 💚 | [🔗](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) |
 
@@ -236,13 +236,13 @@ Appears as:
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27357fa85a5c9f295d5e5b362e7" alt="" width="50" /> | HELLO | THE SECOND STEP : CHAPTER TWO | [TREASURE](../../artists/treasure/overview.md) | [YG Entertainment](.) | 5740 | 💚 | [🔗](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | HOLD MY HAND | SEOULITE | [LeeHi](../../artists/leehi/overview.md) | [YG Entertainment](.) | 4083 | 💚 | [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="" width="50" /> | WHISTLE | SQUARE ONE | [BLACKPINK](../../artists/blackpink/overview.md) | [YG Entertainment](.) | 3450 | 💚 | [🔗](https://open.spotify.com/track/6NEoeBLQbOMw92qMeLfI40) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | HOLD MY HAND | SEOULITE | [LeeHi](../../artists/leehi/overview.md) | [YG Entertainment](.) | 4107 | 💚 | [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="" width="50" /> | WHISTLE | SQUARE ONE | [BLACKPINK](../../artists/blackpink/overview.md) | [YG Entertainment](.) | 3558 | 💚 | [🔗](https://open.spotify.com/track/6NEoeBLQbOMw92qMeLfI40) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362e6288a5887b95176cca29e" alt="" width="50" /> | SOLO | SOLO | JENNIE | [Interscope Records](../interscope_records), [YG Entertainment](.) | 2183 | 💚 | [🔗](https://open.spotify.com/track/2wVDWtLKXunswWecARNILj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="" width="50" /> | Love Lee | Love Lee | [AKMU](../../artists/akmu/overview.md) | [YG Entertainment](.) | 1366 | 💚 | [🔗](https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Hard to Love | BORN PINK | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](../interscope_records), [YG Entertainment](.) | 1332 | 💚 | [🔗](https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="" width="50" /> | Love Lee | Love Lee | [AKMU](../../artists/akmu/overview.md) | [YG Entertainment](.) | 1312 | 💚 | [🔗](https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27324e7d3f6bcc7f5594638a4f0" alt="" width="50" /> | BATTER UP | BABYMONSTER Debut Digital Single [BATTER UP] | BABYMONSTER | [YG Entertainment](.) | 770 | 💚 | [🔗](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="" width="50" /> | Fry’s Dream | Love Lee | [AKMU](../../artists/akmu/overview.md) | [YG Entertainment](.) | 555 | 💚 | [🔗](https://open.spotify.com/track/6f4CAdAmrOfGH3FOfwHMSV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27324e7d3f6bcc7f5594638a4f0" alt="" width="50" /> | BATTER UP | BABYMONSTER Debut Digital Single [BATTER UP] | BABYMONSTER | [YG Entertainment](.) | 907 | 💚 | [🔗](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="" width="50" /> | Fry’s Dream | Love Lee | [AKMU](../../artists/akmu/overview.md) | [YG Entertainment](.) | 621 | 💚 | [🔗](https://open.spotify.com/track/6f4CAdAmrOfGH3FOfwHMSV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | LOSER | MADE | BIGBANG | [YG Entertainment](.) | 383 | 💚 | [🔗](https://open.spotify.com/track/2vzn8usBcuNL93DnTjEK0z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="" width="50" /> | Whale | SAILING | [AKMU](../../artists/akmu/overview.md) | [YG Entertainment](.) | 303 | 💚 | [🔗](https://open.spotify.com/track/5OJ275pPDWTd2qWX4kbhXj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | BREATHE | SEOULITE | [LeeHi](../../artists/leehi/overview.md) | [YG Entertainment](.) | 297 | 💚 | [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT) |

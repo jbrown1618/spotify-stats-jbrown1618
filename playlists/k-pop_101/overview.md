@@ -189,7 +189,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 44 | 40 | [k-pop](../../genres/k-pop/overview.md) |
+| 43 | 39 | [k-pop](../../genres/k-pop/overview.md) |
 | 22 | 20 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 17 | 16 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 5 | 5 | [pop](../../genres/pop/overview.md) |
@@ -203,16 +203,16 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | TEDDY | 3 | Arranger, Lyricist, Songwriter, Producer |
-| | 정은경 (Jung, Eun-Kyung) | 3 | Producer |
-| | Supreme Boi | 2 | Songwriter, Lyricist |
-| | 방시혁 (Bang, Si-Hyuk) | 2 | Songwriter, Lyricist |
-| | LEEZ | 2 | Arranger, Lyricist, Songwriter |
-| | 유영진 (Yoo, Young-jin) | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | [TEDDY](../../producers/teddy/overview.md) | 3 | Arranger, Lyricist, Songwriter, Producer |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 3 | Producer |
+| | [Supreme Boi](../../producers/supreme_boi/overview.md) | 2 | Songwriter, Lyricist |
+| | [방시혁 (Bang, Si-Hyuk)](../../producers/방시혁_(bang,_si-hyuk)/overview.md) | 2 | Songwriter, Lyricist |
+| | [LEEZ](../../producers/leez/overview.md) | 2 | Arranger, Lyricist, Songwriter |
+| | [유영진 (Yoo, Young-jin)](../../producers/유영진_(yoo,_young-jin)/overview.md) | 2 | Arranger, Lyricist, Producer, Songwriter |
 | | 이수만 (Lee, Soo-Man) | 2 | Producer |
 | | EJAE | 2 | Songwriter |
-| | Ollounder | 2 | Arranger, Lyricist, Songwriter |
-| | 라도 (Rado) | 2 | Lyricist, Songwriter, Arranger |
+| | [Ollounder](../../producers/ollounder/overview.md) | 2 | Arranger, Lyricist, Songwriter |
+| | [라도 (Rado)](../../producers/라도_(rado)/overview.md) | 2 | Lyricist, Songwriter, Arranger |
 
 
 <details>
@@ -220,14 +220,14 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 구종필 (Koo, Jong-Pil) | 1 | Producer |
+| | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 1 | Producer |
 | | Nathalie Blue | 1 | Lyricist, Songwriter |
-| | SCORE | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | [SCORE](../../producers/score/overview.md) | 1 | Arranger, Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5923c0ca32a3cf3a81b34728" alt="" width="50" /> | G-DRAGON | 1 | Lyricist, Songwriter |
 | | Sophia Brenan | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 1 | Songwriter |
-| | 24 | 1 | Arranger, Producer, Songwriter |
-| | 블랙아이드필승 (Black Eyed Pilseung) | 1 | Lyricist, Songwriter |
+| | [24](../../producers/24/overview.md) | 1 | Arranger, Producer, Songwriter |
+| | [블랙아이드필승 (Black Eyed Pilseung)](../../producers/블랙아이드필승_(black_eyed_pilseung)/overview.md) | 1 | Lyricist, Songwriter |
 | | Chanti | 1 | Songwriter |
 | | Steven Battey | 1 | Songwriter |
 | | 진리 (Jinri) | 1 | Lyricist |
@@ -235,7 +235,7 @@
 | | Jess Morgan | 1 | Songwriter |
 | | Bang Chan | 1 | Arranger, Songwriter |
 | | PhD | 1 | Arranger |
-| | 전군 (Jeon Goon) | 1 | Lyricist, Songwriter |
+| | [전군 (Jeon Goon)](../../producers/전군_(jeon_goon)/overview.md) | 1 | Lyricist, Songwriter |
 | | Paulina Cerrilla | 1 | Lyricist, Songwriter |
 | | Daniel Davidsen | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | J.Y. Park | 1 | Lyricist |
@@ -257,7 +257,7 @@
 | | Rachel Furner | 1 | Songwriter |
 | | 정유라 (Jeong, Yu-ra) | 1 | Producer |
 | | 13 | 1 | Producer |
-| | 서지음 (Seo, Ji Eum) | 1 | Lyricist |
+| | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 1 | Lyricist |
 | | Brian U | 1 | Songwriter |
 | | Kyler Niko | 1 | Lyricist, Songwriter |
 | | T.O.P | 1 | Lyricist |
@@ -273,7 +273,7 @@
 | | Mario Marchetti | 1 | Arranger, Songwriter |
 | | EDEN | 1 | Arranger, Lyricist, Songwriter |
 | | Alawn | 1 | Producer |
-| | Kenzie | 1 | Songwriter |
+| | [Kenzie](../../producers/kenzie/overview.md) | 1 | Songwriter |
 | | Chizzy | 1 | Songwriter |
 | | Jay Dmuchowski | 1 | Songwriter |
 | | Jason Roberts | 1 | Producer |
@@ -287,12 +287,12 @@
 | | Teddy Riley | 1 | Arranger, Producer, Songwriter |
 | | Nick Hahn | 1 | Arranger, Songwriter |
 | | Jan Baars | 1 | Songwriter |
-| | 양영은 (Yang, Young-eun) | 1 | Producer |
+| | [양영은 (Yang, Young-eun)](../../producers/양영은_(yang,_young-eun)/overview.md) | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | RM | 1 | Songwriter |
 | | 황민희 (Hwang, Min-hee) | 1 | Producer |
 | | Chris Galland | 1 | Producer |
 | | 김홍중 (Kim, Hong Joong) | 1 | Lyricist |
-| | R.Tee | 1 | Arranger, Producer, Songwriter |
+| | [R.Tee](../../producers/r_tee/overview.md) | 1 | Arranger, Producer, Songwriter |
 | | 전지은 (Jeon Ji-eun) | 1 | Lyricist |
 | | Carlos Battey | 1 | Songwriter |
 | | Isabella Lovestory | 1 | Lyricist, Songwriter |
@@ -302,10 +302,10 @@
 | | Shintaro Yasuda | 1 | Lyricist, Songwriter |
 | | Charlotte Wilson | 1 | Songwriter |
 | | 최용인 (Choi, Yon-gin) | 1 | Producer |
-| | Pdogg | 1 | Producer, Songwriter |
-| | Manny Marroquin | 1 | Producer |
-| | danke | 1 | Lyricist, Songwriter |
-| | 김병석 (Kim, Byung-seok) | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | [Pdogg](../../producers/pdogg/overview.md) | 1 | Producer, Songwriter |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 1 | Producer |
+| | [danke](../../producers/danke/overview.md) | 1 | Lyricist, Songwriter |
+| | [김병석 (Kim, Byung-seok)](../../producers/김병석_(kim,_byung-seok)/overview.md) | 1 | Arranger, Lyricist, Producer, Songwriter |
 | | HotSauce | 1 | Arranger, Songwriter |
 | | Ronnie Icon | 1 | Lyricist, Songwriter |
 | | C. Minor | 1 | Songwriter |
@@ -319,16 +319,16 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="reality in BLACK" width="50" /> | [HIP](../../artists/mamamoo/overview.md) | 69634 | <img src="https://i.scdn.co/image/ab67616d0000b27342678cd46d7322e395400930" alt="UNNATURAL" width="50" /> | [UNNATURAL](../../artists/wjsn/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="Next Level" width="50" /> | [Next Level](../../artists/aespa/overview.md) | 66826 | <img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="The SHINee World - The First Album" width="50" /> | [Replay](../../artists/shinee/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [How You Like That](../../artists/blackpink/overview.md) | 56484 | <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" alt="The Chaos Chapter: FIGHT OR ESCAPE" width="50" /> | [LO$ER=LO♡ER](../../artists/tomorrow_x_together/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | [Gotta Go](../../artists/chung_ha/overview.md) | 55799 | <img src="https://i.scdn.co/image/ab67616d0000b2739e0863f52c51d1c38a145d5a" alt="COLOR*IZ" width="50" /> | La Vie en Rose | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 50059 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="MADE" width="50" /> | BANG BANG BANG | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1d785640d9421ec17ea8fe6" alt="BBIBBI" width="50" /> | [BBIBBI](../../artists/iu/overview.md) | 46317 | <img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="HARMONY : ZERO IN" width="50" /> | [Doom Du Doom](../../artists/p1harmony/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="LOVE SHOT– The 5th Album Repackage" width="50" /> | [Love Shot](../../artists/exo/overview.md) | 33360 | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="AD MARE" width="50" /> | [O.O](../../artists/nmixx/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735c041fe9e3c9de436047d86b" alt="I Am The Best" width="50" /> | I Am The Best | 32424 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c07b020417770f3385448f" alt="回:Walpurgis Night" width="50" /> | MAGO | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 27631 | <img src="https://i.scdn.co/image/ab67616d0000b273a49014cd80722aa2ac64c87d" alt="Just Right" width="50" /> | Just Right | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="RISE" width="50" /> | 눈,코,입 (Eyes, Nose, Lips) | 22284 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf83c1a01156fb93b564160" alt="Bubble Pop!" width="50" /> | Bubble Pop! | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="reality in BLACK" width="50" /> | [HIP](../../artists/mamamoo/overview.md) | 70222 | <img src="https://i.scdn.co/image/ab67616d0000b27342678cd46d7322e395400930" alt="UNNATURAL" width="50" /> | [UNNATURAL](../../artists/wjsn/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="Next Level" width="50" /> | [Next Level](../../artists/aespa/overview.md) | 67390 | <img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="The SHINee World - The First Album" width="50" /> | [Replay](../../artists/shinee/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [How You Like That](../../artists/blackpink/overview.md) | 56988 | <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" alt="The Chaos Chapter: FIGHT OR ESCAPE" width="50" /> | [LO$ER=LO♡ER](../../artists/tomorrow_x_together/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | [Gotta Go](../../artists/chung_ha/overview.md) | 56327 | <img src="https://i.scdn.co/image/ab67616d0000b2739e0863f52c51d1c38a145d5a" alt="COLOR*IZ" width="50" /> | La Vie en Rose | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 50455 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="MADE" width="50" /> | BANG BANG BANG | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1d785640d9421ec17ea8fe6" alt="BBIBBI" width="50" /> | [BBIBBI](../../artists/iu/overview.md) | 46749 | <img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="HARMONY : ZERO IN" width="50" /> | [Doom Du Doom](../../artists/p1harmony/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="LOVE SHOT– The 5th Album Repackage" width="50" /> | [Love Shot](../../artists/exo/overview.md) | 33528 | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="AD MARE" width="50" /> | [O.O](../../artists/nmixx/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c041fe9e3c9de436047d86b" alt="I Am The Best" width="50" /> | I Am The Best | 32556 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c07b020417770f3385448f" alt="回:Walpurgis Night" width="50" /> | MAGO | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 27859 | <img src="https://i.scdn.co/image/ab67616d0000b273a49014cd80722aa2ac64c87d" alt="Just Right" width="50" /> | Just Right | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="RISE" width="50" /> | 눈,코,입 (Eyes, Nose, Lips) | 22368 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf83c1a01156fb93b564160" alt="Bubble Pop!" width="50" /> | Bubble Pop! | 0 |
 
 ## Years
 

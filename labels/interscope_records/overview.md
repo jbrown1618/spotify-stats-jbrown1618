@@ -213,12 +213,12 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | TEDDY | 20 | Lyricist, Producer, Songwriter, Arranger |
-| | 24 | 17 | Arranger, Producer, Songwriter |
-| | R.Tee | 12 | Arranger, Producer, Songwriter |
-| | FINNEAS | 11 | Lyricist, Producer, Songwriter, Arranger |
+| | [TEDDY](../../producers/teddy/overview.md) | 20 | Lyricist, Producer, Songwriter, Arranger |
+| | [24](../../producers/24/overview.md) | 17 | Arranger, Producer, Songwriter |
+| | [R.Tee](../../producers/r_tee/overview.md) | 12 | Arranger, Producer, Songwriter |
+| | [FINNEAS](../../producers/finneas/overview.md) | 11 | Lyricist, Producer, Songwriter, Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 9 | Lyricist, Songwriter, Producer |
-| | Josh Gudwin | 8 | Producer |
+| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 8 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 8 | Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 8 | Lyricist, Songwriter |
 | | Rob Kinelski | 8 | Producer |
@@ -234,10 +234,10 @@ Appears as:
 | | Jason Roberts | 7 | Producer |
 | | Jason Robert | 5 | Producer |
 | | Adam Levine | 5 | Lyricist, Songwriter |
-| | RedOne | 5 | Producer, Songwriter, Arranger |
+| | [RedOne](../../producers/redone/overview.md) | 5 | Producer, Songwriter, Arranger |
 | | 최용인 (Choi, Yon-gin) | 4 | Producer |
 | | Brian Lee | 4 | Songwriter, Lyricist, Producer |
-| | Manny Marroquin | 4 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 4 | Producer |
 | | James Valentine | 3 | Lyricist, Songwriter |
 | | Dave Russell | 3 | Producer |
 | | Robert Orton | 3 | Producer |
@@ -256,7 +256,7 @@ Appears as:
 | | IDO | 2 | Arranger, Songwriter |
 | | Alex da Kid | 2 | Producer, Songwriter |
 | | Josh Mosser | 2 | Producer, Songwriter |
-| | John Hanes | 2 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 2 | Producer |
 | | OKLAMA | 2 | Producer |
 | | J.LBS | 2 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb6017286dd64ca6b77c879f" alt="" width="50" /> | JISOO | 2 | Lyricist |
@@ -265,9 +265,9 @@ Appears as:
 | | Paul Foley | 1 | Producer |
 | | YONGJU BANG | 1 | Producer |
 | | Willy Moon | 1 | Lyricist, Songwriter |
-| | Mark "Spike" Stent | 1 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | Jimmy Eat World | 1 | Producer |
-| | Łukasz Gottwald (Gottwald, Łukasz) | 1 | Songwriter |
+| | [Łukasz Gottwald (Gottwald, Łukasz)](../../producers/łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 1 | Songwriter |
 | | James Hunt | 1 | Producer |
 | | Lazonate Franklin | 1 | Songwriter |
 | | Rami | 1 | Songwriter |
@@ -300,7 +300,7 @@ Appears as:
 | | Matt Dunkley | 1 | Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="" width="50" /> | [Maroon 5](../../artists/maroon_5/overview.md) | 1 | Producer |
 | | Jacob Kasher | 1 | Songwriter |
-| | Serban Ghenea | 1 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 1 | Producer |
 | | Alex Oriet | 1 | Lyricist, Songwriter |
 | | Noah Passovoy | 1 | Producer |
 | | Max Wolfgang | 1 | Lyricist, Songwriter |
@@ -329,12 +329,12 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Pretty Savage | THE ALBUM | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 60528 | 💚 | [🔗](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="" width="50" /> | Kill This Love | KILL THIS LOVE | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 58491 | 💚 | [🔗](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Crazy Over You | THE ALBUM | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 56659 | 💚 | [🔗](https://open.spotify.com/track/7qq0EOPW4RRlqdvMBmdd73) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | How You Like That | THE ALBUM | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 56484 | 💚 | [🔗](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Pretty Savage | THE ALBUM | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 60936 | 💚 | [🔗](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="" width="50" /> | Kill This Love | KILL THIS LOVE | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 59043 | 💚 | [🔗](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Crazy Over You | THE ALBUM | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 57175 | 💚 | [🔗](https://open.spotify.com/track/7qq0EOPW4RRlqdvMBmdd73) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | How You Like That | THE ALBUM | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 56988 | 💚 | [🔗](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Pink Venom | BORN PINK | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 19898 | 💚 | [🔗](https://open.spotify.com/track/6stcJnJHPO8RrYx5LLz5OP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | DDU-DU DDU-DU | SQUARE UP | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 10896 | 💚 | [🔗](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | DDU-DU DDU-DU | SQUARE UP | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 11172 | 💚 | [🔗](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Shut Down | BORN PINK | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 5755 | 💚 | [🔗](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362e6288a5887b95176cca29e" alt="" width="50" /> | SOLO | SOLO | JENNIE | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 2183 | 💚 | [🔗](https://open.spotify.com/track/2wVDWtLKXunswWecARNILj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Hard to Love | BORN PINK | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 1332 | 💚 | [🔗](https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q) |
@@ -351,7 +351,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="" width="50" /> | Shoong! (feat. LISA of BLACKPINK) | Down to Earth | TAEYANG, LISA | [THEBLACKLABEL/Interscope Records](.) | 191 | | [🔗](https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="" width="50" /> | FLOWER | ME | JISOO | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 149 | 💚 | [🔗](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="" width="50" /> | Seed | Down to Earth | TAEYANG | [THEBLACKLABEL/Interscope Records](.) | 148 | | [🔗](https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | bury a friend | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](../../artists/billie_eilish/overview.md) | [Darkroom](../darkroom), [Interscope Records](.) | 126 | 💚 | [🔗](https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | bury a friend | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](../../artists/billie_eilish/overview.md) | [Darkroom](../darkroom), [Interscope Records](.) | 142 | 💚 | [🔗](https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fddc804f96cdd6a7de9bcc09" alt="" width="50" /> | DUMB DUMB | DUMB DUMB | JEON SOMI | [THE BLACK LABEL/Interscope Records](.) | 117 | 💚 | [🔗](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738cd1023ed6ec97598937d55c" alt="" width="50" /> | You & Me | JENNIE Special Single [You & Me] | JENNIE | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 110 | 💚 | [🔗](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Typa Girl | BORN PINK | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 54 | 💚 | [🔗](https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD) |

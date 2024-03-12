@@ -32,7 +32,7 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2f97d79b20d5c1106baa2c5a" alt="" width="50" /> | 1 | 1 | BOBBY | [🔗](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | 1 | 1 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7e34f1a6ce455f3e8a7a61d3" alt="" width="50" /> | 1 | 1 | Fujii Kaze | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc" alt="" width="50" /> | 1 | 1 | Fujii Kaze | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7" alt="" width="50" /> | 1 | 1 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0341dd1e6471899c4eb53c6" alt="" width="50" /> | 1 | 1 | [AKMU](../../artists/akmu/overview.md) | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476" alt="" width="50" /> | 1 | 1 | [NewJeans](../../artists/newjeans/overview.md) | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
@@ -221,11 +221,11 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 정은경 (Jung, Eun-Kyung) | 3 | Producer |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 3 | Producer |
 | | 남궁진 (Nam Goong, Jin) | 2 | Producer |
 | | Kriz | 2 | Arranger |
-| | 양영은 (Yang, Young-eun) | 2 | Producer |
-| | 서지음 (Seo, Ji Eum) | 2 | Lyricist |
+| | [양영은 (Yang, Young-eun)](../../producers/양영은_(yang,_young-eun)/overview.md) | 2 | Producer |
+| | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 2 | Lyricist |
 | | Tablo | 1 | Lyricist |
 | | Eline Noelia | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 1 | Arranger, Lyricist, Songwriter |
@@ -246,7 +246,7 @@
 | | 황찬희 (Hwang, Chan-Hee) | 1 | Arranger, Producer, Songwriter |
 | | Audun Agnar | 1 | Arranger, Songwriter |
 | | 전부연 (Jeon, Bu-yeon) | 1 | Producer |
-| | 블랙아이드필승 (Black Eyed Pilseung) | 1 | Arranger, Lyricist, Songwriter |
+| | [블랙아이드필승 (Black Eyed Pilseung)](../../producers/블랙아이드필승_(black_eyed_pilseung)/overview.md) | 1 | Arranger, Lyricist, Songwriter |
 | | Simon Bergseth | 1 | Producer |
 | | 이승주 (Lee Sung-joo) | 1 | Arranger |
 | | 김동현 (Kim, Dong-hyun) | 1 | Lyricist |
@@ -257,7 +257,7 @@
 | | 오성근 (Oh, Seong-Keun) | 1 | Producer |
 | | Vincent Degiorgio | 1 | Songwriter |
 | | 이민규 (Lee, Min-kyu) | 1 | Producer |
-| | FLYT | 1 | Arranger, Songwriter |
+| | [FLYT](../../producers/flyt/overview.md) | 1 | Arranger, Songwriter |
 | | 김희원 (Kim, Hee-won) | 1 | Songwriter |
 | | 최예지 (Choi, Ye-ji) | 1 | Producer |
 | | 정의석 (Jung, Euisuk) | 1 | Producer |
@@ -266,8 +266,8 @@
 | | 황성제 (Hwang, Sung Je) | 1 | Arranger |
 | <img src="https://i.scdn.co/image/da5f4b11c665b4d17c7ed24eb23949c046208dcd" alt="" width="50" /> | Jem | 1 | Producer, Songwriter |
 | | 김민희 (Kim, Min Hee) | 1 | Producer |
-| | 조윤경 (Jo, Yoon Kyung) | 1 | Lyricist |
-| | 전군 (Jeon Goon) | 1 | Lyricist |
+| | [조윤경 (Jo, Yoon Kyung)](../../producers/조윤경_(jo,_yoon_kyung)/overview.md) | 1 | Lyricist |
+| | [전군 (Jeon Goon)](../../producers/전군_(jeon_goon)/overview.md) | 1 | Lyricist |
 | | 이나일 (E, Na-Il) | 1 | Arranger |
 | | 손명갑 (Son, Myung-gap) | 1 | Producer |
 | | Nick Hahn | 1 | Arranger, Songwriter |
@@ -277,7 +277,7 @@
 | | Elle Campbell | 1 | Songwriter |
 | | Sebastian Lundberg | 1 | Arranger, Songwriter |
 | | Alawn | 1 | Producer |
-| | Kenzie | 1 | Arranger |
+| | [Kenzie](../../producers/kenzie/overview.md) | 1 | Arranger |
 | <img src="https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88" alt="" width="50" /> | [Johann Sebastian Bach](../../artists/johann_sebastian_bach/overview.md) | 1 | Songwriter |
 | | Fredrik Häggstam (Häggstam, Fredrik) | 1 | Arranger, Songwriter |
 | | 김이나 (Kim, Eana) | 1 | Lyricist |
@@ -289,12 +289,12 @@
 | | 이지홍 (Lee, Ji-hong) | 1 | Producer |
 | | Zane Lowe | 1 | Songwriter |
 | | Yoad Nevo | 1 | Producer |
-| | Ryan S. Jhun | 1 | Arranger, Songwriter |
+| | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 1 | Arranger, Songwriter |
 | | Robert Castillo | 1 | Producer |
 | | 유정연 (Yoo, Jeong-Yeon) | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb50aaac26268892b540d2deea" alt="" width="50" /> | Robin Hannibal | 1 | Producer |
 | | 조준성 (Jo, June-sung) | 1 | Producer |
-| | François Tétaz (Tétaz, François) | 1 | Lyricist, Producer, Songwriter |
+| | [François Tétaz (Tétaz, François)](../../producers/françois_tétaz_(tétaz,_françois)/overview.md) | 1 | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | Yuuri | 1 | Lyricist, Songwriter |
 | | 안신애 (Wheeler, Shinae An) | 1 | Lyricist, Songwriter |
 | | John Newman | 1 | Songwriter |
@@ -312,14 +312,14 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 50059 | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="WE:TH" width="50" /> | [Daisy](../../artists/pentagon/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="Like Water - The 1st Mini Album" width="50" /> | [When This Rain Stops](../../artists/wendy/overview.md) | 41358 | <img src="https://i.scdn.co/image/ab67616d0000b273ef54c10b95411c51b9ab873b" alt="Deleted Scenes From The Cutting Room Floor" width="50" /> | That Man | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | [My sea](../../artists/iu/overview.md) | 40785 | <img src="https://i.scdn.co/image/ab67616d0000b27355e0ff4cbb5df5c780a4319b" alt="Awake at the Bottom of the Ocean" width="50" /> | Plastic Heaven | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 27631 | <img src="https://i.scdn.co/image/ab67616d0000b273a5c51e96d2583bfb3e45d504" alt="Think About Things" width="50" /> | Think About Things | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="Ice Cream Cake - The 1st Mini Album" width="50" /> | [Ice Cream Cake](../../artists/red_velvet/overview.md) | 22891 | <img src="https://i.scdn.co/image/ab67616d0000b273c1b7ec01d1c069683ddbe76e" alt="The Good Life" width="50" /> | Talk It Up | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 50455 | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="WE:TH" width="50" /> | [Daisy](../../artists/pentagon/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="Like Water - The 1st Mini Album" width="50" /> | [When This Rain Stops](../../artists/wendy/overview.md) | 41802 | <img src="https://i.scdn.co/image/ab67616d0000b273ef54c10b95411c51b9ab873b" alt="Deleted Scenes From The Cutting Room Floor" width="50" /> | That Man | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | [My sea](../../artists/iu/overview.md) | 41073 | <img src="https://i.scdn.co/image/ab67616d0000b27355e0ff4cbb5df5c780a4319b" alt="Awake at the Bottom of the Ocean" width="50" /> | Plastic Heaven | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 27859 | <img src="https://i.scdn.co/image/ab67616d0000b273a5c51e96d2583bfb3e45d504" alt="Think About Things" width="50" /> | Think About Things | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="Ice Cream Cake - The 1st Mini Album" width="50" /> | [Ice Cream Cake](../../artists/red_velvet/overview.md) | 23131 | <img src="https://i.scdn.co/image/ab67616d0000b273c1b7ec01d1c069683ddbe76e" alt="The Good Life" width="50" /> | Talk It Up | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | [Welcome To MY World (feat. nævis)](../../artists/aespa/overview.md) | 22341 | <img src="https://i.scdn.co/image/ab67616d0000b273a4aa9c49f8fedf1df4f84051" alt="The 2¢ Show" width="50" /> | Honeybee | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="Hello - Special Album" width="50" /> | Hello | 19655 | <img src="https://i.scdn.co/image/ab67616d0000b2730595db077a6e829ba4bd6dea" alt="Album One" width="50" /> | Brass Goggles | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="Dream" width="50" /> | Dream | 17445 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="Palette" width="50" /> | [dlwlrma](../../artists/iu/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="Hello - Special Album" width="50" /> | Hello | 19799 | <img src="https://i.scdn.co/image/ab67616d0000b2730595db077a6e829ba4bd6dea" alt="Album One" width="50" /> | Brass Goggles | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="Dream" width="50" /> | Dream | 17601 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="Palette" width="50" /> | [dlwlrma](../../artists/iu/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="BSS 1st Single Album &#x27;SECOND WIND&#x27;" width="50" /> | Fighting (Feat. Lee Young Ji) | 15703 | <img src="https://i.scdn.co/image/ab67616d0000b27356080feb452fa7ad4ca61d8b" alt="Village" width="50" /> | Unknown (To You) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="Ditto" width="50" /> | [Ditto](../../artists/newjeans/overview.md) | 14317 | <img src="https://i.scdn.co/image/ab67616d0000b273cd519fa579f43e384aa891f1" alt="Finally Woken" width="50" /> | They | 0 |
 

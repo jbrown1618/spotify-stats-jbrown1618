@@ -10,8 +10,7 @@
 
 ## Artist Rank
 Lana Del Rey is currently:
-- The #44 artist of the last month
-- The #43 artist of the last 6 months
+- The #44 artist of the last 6 months
 
 ![Rank of Lana Del Rey over time](../../images/artists/lana_del_rey/rank_time_series.png)
 ## Featured on Playlists
@@ -98,20 +97,20 @@ Lana Del Rey is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Serban Ghenea | 1 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 1 | Producer |
 | | Brent Kolatalo | 1 | Producer |
 | | Collin Dupuis | 1 | Producer |
 | | Carl Bagge | 1 | Arranger |
-| | Laura Sisk | 1 | Producer |
+| | [Laura Sisk](../../producers/laura_sisk/overview.md) | 1 | Producer |
 | | Dave Gross | 1 | Producer |
 | | Robert Orton | 1 | Producer |
 | | Evan Smith | 1 | Producer |
-| | Manny Marroquin | 1 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 1 | Producer |
 | | Daniel Law Heath | 1 | Songwriter |
 | | Kieron Menzies | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | [Taylor Swift](../taylor_swift/overview.md) | 1 | Producer, Songwriter |
 | | Chris Garcia | 1 | Producer |
-| | Jack Antonoff | 1 | Producer, Songwriter |
+| | [Jack Antonoff](../../producers/jack_antonoff/overview.md) | 1 | Producer, Songwriter |
 | | Trevor Yasuda | 1 | Producer |
 | | Patrik Berger | 1 | Producer |
 

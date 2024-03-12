@@ -88,10 +88,10 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Marcos Tovar | 10 | Producer |
-| | Phil Tan | 9 | Producer |
+| | [Marcos Tovar](../../producers/marcos_tovar/overview.md) | 10 | Producer |
+| | [Phil Tan](../../producers/phil_tan/overview.md) | 9 | Producer |
 | | Kuk Harrell | 8 | Producer |
-| | Mikkel Storleer Eriksen | 6 | Songwriter, Producer |
+| | [Mikkel Storleer Eriksen](../../producers/mikkel_storleer_eriksen/overview.md) | 6 | Songwriter, Producer |
 | | Tor Erik Hermansen | 6 | Songwriter |
 | | Stargate | 6 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](overview.md) | 4 | Songwriter |
@@ -107,7 +107,7 @@
 |:---|:---|---:|:---|
 | | Sandy Vee | 2 | Producer |
 | | Miles Walker | 2 | Producer |
-| | Josh Gudwin | 2 | Producer |
+| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 2 | Producer |
 | | Daniela Rivera | 2 | Producer |
 | | Ester Dean | 2 | Songwriter |
 | | Parker Ighile | 1 | Producer, Songwriter |
@@ -140,7 +140,7 @@
 | | Livvi Franc | 1 | Songwriter |
 | | Brian Kennedy | 1 | Producer, Songwriter |
 | | Mike Strange | 1 | Producer |
-| | Manny Marroquin | 1 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 1 | Producer |
 | | Josh Houghkirk | 1 | Producer |
 | | Aalias | 1 | Songwriter |
 | | Alju Jackson | 1 | Songwriter |

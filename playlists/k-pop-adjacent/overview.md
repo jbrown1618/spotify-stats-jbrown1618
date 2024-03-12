@@ -247,7 +247,7 @@
 
 
 <details>
-<summary>See all 53 genres</summary>
+<summary>See all 54 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -284,6 +284,7 @@
 | 1 | 0 | strut |
 | 1 | 0 | [rock](../../genres/rock/overview.md) |
 | 1 | 0 | rap latina |
+| 1 | 0 | pop r&b |
 | 1 | 0 | metropopolis |
 | 1 | 0 | meme |
 | 1 | 0 | melodic rap |
@@ -305,7 +306,7 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | Jaycen Joshua | 2 | Producer |
-| | Manny Marroquin | 2 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 2 | Producer |
 | | Jake Torrey | 2 | Producer, Songwriter |
 | | Mark Jackson | 1 | Songwriter |
 | | Perrie Edwards | 1 | Songwriter |
@@ -337,23 +338,23 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](../../artists/justin_bieber/overview.md) | 1 | Songwriter |
 | | Simon Clarke | 1 | Arranger |
-| | Josh Gudwin | 1 | Producer |
+| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 1 | Producer |
 | | Jesy Nelson | 1 | Songwriter |
 | | Ben Collier | 1 | Producer |
 | | Tyler Johnson | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcff7038d323f4db7d0e90c9c" alt="" width="50" /> | Bishop Briggs | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08635ff0ed30023d2ee764a1" alt="" width="50" /> | Colbie Caillat | 1 | Songwriter |
 | | Jade Thirlwall | 1 | Songwriter |
-| | Kid Harpoon | 1 | Producer |
-| | Tony Maserati | 1 | Producer |
+| | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 1 | Producer |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](../../artists/camila_cabello/overview.md) | 1 | Songwriter |
 | | Jussifer | 1 | Producer, Songwriter |
 | | Brian Rajaratnam | 1 | Producer |
 | | Riot Games Music Team | 1 | Producer |
-| | Ryan Tedder | 1 | Songwriter |
+| | [Ryan Tedder](../../producers/ryan_tedder/overview.md) | 1 | Songwriter |
 | | Ben Kohn | 1 | Songwriter |
 | | Kole Audio Solutions | 1 | Lyricist, Songwriter |
-| | Mark "Spike" Stent | 1 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 1 | Producer |
 | | Iain Hill | 1 | Producer |
 | | Jason Walsh | 1 | Lyricist, Songwriter |
 | | Timothy Fagan | 1 | Songwriter |

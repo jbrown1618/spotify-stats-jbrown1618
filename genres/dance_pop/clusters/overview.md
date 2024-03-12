@@ -4,7 +4,7 @@
 
 ## Cluster #1
 
-10 tracks
+7 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
@@ -14,13 +14,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342" alt="" width="50" /> | La Vie En Rose | A Star Is Born Soundtrack | [Lady Gaga](../../../../artists/lady_gaga/overview.md) | A Star is Born OST | 0 | 💚 | [🔗](https://open.spotify.com/track/3WKnfkgwrARwElktHSU5Ik) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1" alt="" width="50" /> | Million Reasons | Joanne (Deluxe) | [Lady Gaga](../../../../artists/lady_gaga/overview.md) | [Interscope](../../../../labels/interscope_records) | 0 | | [🔗](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | I Thought She Knew | No Strings Attached | *NSYNC | [Jive](../../../../labels/jive) | 0 | 💚 | [🔗](https://open.spotify.com/track/0b4u7IhBY61kSmS8wVIPYg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Trumpets | Talk Dirty | [Jason Derulo](../../../../artists/jason_derulo/overview.md) | [Beluga Heights/Warner Records](../../../../labels/warner_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/5KONnBIQ9LqCxyeSPin26k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Consequences | Camila | [Camila Cabello](../../../../artists/camila_cabello/overview.md) | [Epic](../../../../labels/epic), [Syco Music](../../../../labels/syco_music) | 0 | 💚 | [🔗](https://open.spotify.com/track/7sTtHHrD0zDpmzQzH3zegz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739a9716c90ceeb1890921e44f" alt="" width="50" /> | Te Felicito | Te Felicito | Shakira, Rauw Alejandro | Sony Music Latin | 0 | | [🔗](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | So Sick | In My Own Words | Ne-Yo | Def Soul | 0 | | [🔗](https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT) |
 ## Cluster #2
 
-74 tracks
+76 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
@@ -36,7 +33,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d74f4550a6e409bf51652db7" alt="" width="50" /> | Candyman | Back To Basics | Christina Aguilera | [RCA Records Label](../../../../labels/rca_records_label) | 0 | 💚 | [🔗](https://open.spotify.com/track/5lUTzPuiloBHm1qEaJcJfF) |
 ## Cluster #3
 
-51 tracks
+53 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|

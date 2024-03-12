@@ -44,10 +44,10 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 구혜진 (Gu, Hye-jin) | 1 | Producer |
-| | Manny Marroquin | 1 | Producer |
+| | [구혜진 (Gu, Hye-jin)](../../producers/구혜진_(gu,_hye-jin)/overview.md) | 1 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 1 | Producer |
 | | Chris Galland | 1 | Producer |
-| | 심은지 (Sim, Eunjee) | 1 | Arranger, Producer, Songwriter |
+| | [심은지 (Sim, Eunjee)](../../producers/심은지_(sim,_eunjee)/overview.md) | 1 | Arranger, Producer, Songwriter |
 | | 常楽寺澪 (Jorakuji, Mio) | 1 | Lyricist |
 | | 이민영 (Lee, Min-young) | 1 | Arranger, Producer, Songwriter |
 | | Yeul | 1 | Arranger, Producer, Songwriter |
@@ -57,8 +57,8 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | It's not easy for you | Masterpiece | MISAMO | [WM Japan](.) | 8391 | 💚 | [🔗](https://open.spotify.com/track/1qNk7XPTbyuO4bsDl0T6nN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Behind The Curtain | Masterpiece | MISAMO | [WM Japan](.) | 5648 | 💚 | [🔗](https://open.spotify.com/track/14nturKxV48wR3lbknehiu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | It's not easy for you | Masterpiece | MISAMO | [WM Japan](.) | 8481 | 💚 | [🔗](https://open.spotify.com/track/1qNk7XPTbyuO4bsDl0T6nN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Behind The Curtain | Masterpiece | MISAMO | [WM Japan](.) | 5660 | 💚 | [🔗](https://open.spotify.com/track/14nturKxV48wR3lbknehiu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Funny Valentine | Masterpiece | MISAMO | [WM Japan](.) | 229 | 💚 | [🔗](https://open.spotify.com/track/4xtgQGbQnII1buKgl5fguT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Do not touch | Masterpiece | MISAMO | [WM Japan](.) | 173 | 💚 | [🔗](https://open.spotify.com/track/5gq7xM6eI16osBO2U581NL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bc615fe0e1b49a5283c47075" alt="" width="50" /> | RINGO | RINGO | [ITZY](../../artists/itzy/overview.md) | [WM Japan](.) | 117 | 💚 | [🔗](https://open.spotify.com/track/2zRz0XfYEtsHuVfrM8KaOP) |

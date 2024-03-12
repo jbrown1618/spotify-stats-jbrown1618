@@ -262,15 +262,15 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | George Martin | 22 | Producer, Arranger |
-| | Paul McCartney | 20 | Songwriter |
-| | John Lennon | 20 | Songwriter |
+| | [George Martin](../../producers/george_martin/overview.md) | 22 | Producer, Arranger |
+| | [Paul McCartney](../../producers/paul_mccartney/overview.md) | 20 | Songwriter |
+| | [John Lennon](../../producers/john_lennon/overview.md) | 20 | Songwriter |
 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](../../artists/queen/overview.md) | 12 | Producer, Arranger |
 | | Geoff Emerick | 10 | Producer |
-| | Brian May | 9 | Songwriter, Lyricist, Producer, Arranger |
+| | [Brian May](../../producers/brian_may/overview.md) | 9 | Songwriter, Lyricist, Producer, Arranger |
 | | Glyn Johns | 9 | Producer |
 | | Phil McDonald | 8 | Producer |
-| | Freddie Mercury | 7 | Songwriter, Lyricist |
+| | [Freddie Mercury](../../producers/freddie_mercury/overview.md) | 7 | Songwriter, Lyricist |
 | | Roy Thomas Baker | 6 | Producer |
 
 

@@ -91,7 +91,7 @@ NCT U:
 | | Leven Kali | 1 | Songwriter |
 | | Sara Forsberg | 1 | Songwriter |
 | | 1월 8일 (1월 8일) | 1 | Songwriter |
-| | 유영진 (Yoo, Young-jin) | 1 | Producer |
+| | [유영진 (Yoo, Young-jin)](../../producers/유영진_(yoo,_young-jin)/overview.md) | 1 | Producer |
 
 
 <details>
@@ -100,7 +100,7 @@ NCT U:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | 김동현 (Kim, Dong-hyun) | 1 | Songwriter |
-| | 정은경 (Jung, Eun-Kyung) | 1 | Arranger, Producer |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 1 | Arranger, Producer |
 | | Tay Jasper | 1 | Songwriter |
 | | 조진주 (Jo, Jinju) | 1 | Songwriter |
 | | Mike Jay | 1 | Songwriter |

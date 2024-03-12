@@ -21,7 +21,8 @@ Florence + The Machine:
 
 ## Artist Rank
 Florence + The Machine is currently:
-- The #36 artist of the last 6 months
+- The #49 artist of the last month
+- The #32 artist of the last 6 months
 
 ![Rank of Florence + The Machine over time](../../images/artists/florence_+_the_machine/rank_time_series.png)
 ## Featured on Playlists
@@ -60,28 +61,28 @@ Florence + The Machine is currently:
 
 ### Member Credits
 
-| | Christopher Lloyd Hayden | Florence Welch | Isabella Summers | Mark Saunders | Robert Ackroyd | Rusty Bradshaw | Tom Moth |
+| | Christopher Lloyd Hayden | Isabella Summers | Mark Saunders | Robert Ackroyd | Rusty Bradshaw | Tom Moth | [Florence Welch](../../producers/florence_welch/overview.md) |
 |:---|---:|---:|---:|---:|---:|---:|---:|
-| Arranger | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
-| Instrument | 13 | 1 | 6 | 7 | 10 | 6 | 12 |
-| Lyricist | 0 | 6 | 1 | 0 | 0 | 0 | 0 |
-| Producer | 0 | 1 | 3 | 0 | 0 | 0 | 0 |
-| Songwriter | 0 | 14 | 6 | 0 | 0 | 0 | 0 |
-| Vocal | 5 | 15 | 0 | 5 | 0 | 0 | 0 |
+| Arranger | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| Instrument | 13 | 6 | 7 | 10 | 6 | 12 | 1 |
+| Lyricist | 0 | 1 | 0 | 0 | 0 | 0 | 6 |
+| Producer | 0 | 3 | 0 | 0 | 0 | 0 | 1 |
+| Songwriter | 0 | 6 | 0 | 0 | 0 | 0 | 14 |
+| Vocal | 5 | 0 | 5 | 0 | 0 | 0 | 15 |
 ### Production Credits
 
 | Art | Track | Members | Credit Types |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Kiss With A Fist | Florence Welch | Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Dog Days Are Over | Florence Welch, Isabella Summers | Songwriter, Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Rabbit Heart (Raise It Up) | Florence Welch | Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Between Two Lungs | Florence Welch, Isabella Summers | Songwriter, Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | I'm Not Calling You A Liar | Florence Welch, Isabella Summers | Songwriter, Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Lover To Lover | Florence Welch | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | What The Water Gave Me | Florence Welch | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Shake It Out | Florence Welch | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | No Light, No Light | Florence Welch, Isabella Summers | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Seven Devils | Florence Welch | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Kiss With A Fist | [Florence Welch](../../../producers/florence_welch/overview.md) | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Dog Days Are Over | [Florence Welch](../../../producers/florence_welch/overview.md), Isabella Summers | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Rabbit Heart (Raise It Up) | [Florence Welch](../../../producers/florence_welch/overview.md) | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Between Two Lungs | [Florence Welch](../../../producers/florence_welch/overview.md), Isabella Summers | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | I'm Not Calling You A Liar | [Florence Welch](../../../producers/florence_welch/overview.md), Isabella Summers | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Lover To Lover | [Florence Welch](../../../producers/florence_welch/overview.md) | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | What The Water Gave Me | [Florence Welch](../../../producers/florence_welch/overview.md) | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Shake It Out | [Florence Welch](../../../producers/florence_welch/overview.md) | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | No Light, No Light | [Florence Welch](../../../producers/florence_welch/overview.md), Isabella Summers | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Seven Devils | [Florence Welch](../../../producers/florence_welch/overview.md) | Lyricist, Songwriter |
 
 
 <details>
@@ -89,10 +90,10 @@ Florence + The Machine is currently:
 
 | Art | Track | Members | Credit Types |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Never Let Me Go | Florence Welch | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | Delilah | Florence Welch, Isabella Summers | Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | How Big, How Blue, How Beautiful | Florence Welch, Isabella Summers | Songwriter |
-| | nan | Florence Welch, Tom Moth | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Never Let Me Go | [Florence Welch](../../../producers/florence_welch/overview.md) | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | Delilah | [Florence Welch](../../../producers/florence_welch/overview.md), Isabella Summers | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | How Big, How Blue, How Beautiful | [Florence Welch](../../../producers/florence_welch/overview.md), Isabella Summers | Songwriter |
+| | nan | [Florence Welch](../../../producers/florence_welch/overview.md), Tom Moth | Arranger, Producer, Songwriter |
 
 </details>
 
@@ -101,8 +102,8 @@ Florence + The Machine is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Florence Welch | 13 | Songwriter, Lyricist |
-| | Paul Epworth | 7 | Producer, Lyricist, Songwriter |
+| | [Florence Welch](../../producers/florence_welch/overview.md) | 13 | Songwriter, Lyricist |
+| | [Paul Epworth](../../producers/paul_epworth/overview.md) | 7 | Producer, Lyricist, Songwriter |
 | | Isabella Summers | 6 | Songwriter, Producer, Lyricist |
 | | Craig Silvey | 4 | Producer |
 | | Cenzo Townshend | 4 | Producer |
@@ -118,9 +119,9 @@ Florence + The Machine is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Mark "Spike" Stent | 2 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 2 | Producer |
 | | Tom Elmhirst | 2 | Producer |
-| | Kid Harpoon | 2 | Songwriter |
+| | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 2 | Songwriter |
 | | Markus Dravs | 2 | Producer |
 | | Mat Bartram | 1 | Producer |
 | | Ali Helnwein | 1 | Arranger |

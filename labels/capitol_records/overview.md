@@ -133,16 +133,16 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | John Hanes | 5 | Producer |
-| | Serban Ghenea | 5 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 5 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 5 | Producer |
 | | Dr. Luke | 4 | Producer |
-| | Łukasz Gottwald (Gottwald, Łukasz) | 4 | Songwriter |
-| | Max Martin | 4 | Songwriter, Producer |
-| | Sam Holland | 4 | Producer |
+| | [Łukasz Gottwald (Gottwald, Łukasz)](../../producers/łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 4 | Songwriter |
+| | [Max Martin](../../producers/max_martin/overview.md) | 4 | Songwriter, Producer |
+| | [Sam Holland](../../producers/sam_holland/overview.md) | 4 | Producer |
 | | Emily Wright | 4 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | Katy Perry | 4 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 3 | Producer, Songwriter |
-| | Mark "Spike" Stent | 2 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 2 | Producer |
 
 
 <details>
@@ -152,8 +152,8 @@ Appears as:
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb874c6e61680379852093994c" alt="" width="50" /> | Maggie Rogers | 2 | Lyricist, Producer, Songwriter |
 | | Bonnie McKee | 2 | Songwriter |
-| | Kid Harpoon | 2 | Lyricist, Producer, Songwriter |
-| | Greg Kurstin | 1 | Producer |
+| | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 2 | Lyricist, Producer, Songwriter |
+| | [Greg Kurstin](../../producers/greg_kurstin/overview.md) | 1 | Producer |
 | | Aniela Gottwald | 1 | Producer |
 | | Calvin Broadus | 1 | Songwriter |
 | | Jamie Scott | 1 | Songwriter |

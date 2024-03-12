@@ -20,7 +20,6 @@ STAYC:
 
 ## Artist Rank
 STAYC is currently:
-- The #49 artist of the last month
 - The #21 artist of the last 6 months
 - The #20 artist of all time
 
@@ -28,7 +27,7 @@ STAYC is currently:
 ## Top Tracks
 
 - Bubble is:
-    - the #22 track of the last 6 months
+    - the #27 track of the last 6 months
 - ﻿Not Like You is:
     - the #50 track of the last 6 months
 
@@ -92,12 +91,12 @@ STAYC is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 블랙아이드필승 (Black Eyed Pilseung) | 11 | Lyricist, Songwriter, Arranger, Producer |
-| | 전군 (Jeon Goon) | 10 | Lyricist, Songwriter, Producer |
-| | 라도 (Rado) | 9 | Arranger, Producer |
-| | 정은경 (Jung, Eun-Kyung) | 9 | Producer |
+| | [블랙아이드필승 (Black Eyed Pilseung)](../../producers/블랙아이드필승_(black_eyed_pilseung)/overview.md) | 11 | Lyricist, Songwriter, Arranger, Producer |
+| | [전군 (Jeon Goon)](../../producers/전군_(jeon_goon)/overview.md) | 10 | Lyricist, Songwriter, Producer |
+| | [라도 (Rado)](../../producers/라도_(rado)/overview.md) | 9 | Arranger, Producer |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 9 | Producer |
 | | DRK | 6 | Producer |
-| | FLYT | 6 | Arranger, Songwriter, Producer |
+| | [FLYT](../../producers/flyt/overview.md) | 6 | Arranger, Songwriter, Producer |
 | | 고현정 (Go, Hyeon-Jeong) | 3 | Producer |
 | | Prime Time | 2 | Songwriter |
 | | BXN | 2 | Lyricist, Songwriter, Arranger |
@@ -111,7 +110,7 @@ STAYC is currently:
 |:---|:---|---:|:---|
 | | Co-sho | 1 | Lyricist |
 | | 김수정 (김수정) | 1 | Producer |
-| | 양영은 (Yang, Young-eun) | 1 | Producer |
+| | [양영은 (Yang, Young-eun)](../../producers/양영은_(yang,_young-eun)/overview.md) | 1 | Producer |
 
 </details>
 
@@ -121,9 +120,9 @@ STAYC is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | Bubble | TEENFRESH | [STAYC](overview.md) | [High Up Entertainment](../../labels/high_up_entertainment) | 6934 | 💚 | [🔗](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | Bubble | TEENFRESH | [STAYC](overview.md) | [High Up Entertainment](../../labels/high_up_entertainment) | 7078 | 💚 | [🔗](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="" width="50" /> | POPPY - Japanese Ver. | POPPY (Japanese Ver.) | [STAYC](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 5188 | 💚 | [🔗](https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | ﻿Not Like You | TEENFRESH | [STAYC](overview.md) | [High Up Entertainment](../../labels/high_up_entertainment) | 1077 | 💚 | [🔗](https://open.spotify.com/track/1HnJhU3MhAnRQzdkFm6xQr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | ﻿Not Like You | TEENFRESH | [STAYC](overview.md) | [High Up Entertainment](../../labels/high_up_entertainment) | 1083 | 💚 | [🔗](https://open.spotify.com/track/1HnJhU3MhAnRQzdkFm6xQr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bc125f40131dd5869b2ec36c" alt="" width="50" /> | SO BAD | Star To A Young Culture | [STAYC](overview.md) | [High Up Entertainment](../../labels/high_up_entertainment) | 456 | 💚 | [🔗](https://open.spotify.com/track/13KR2yNRDrbKwR3dOKCDl4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ea860a3e6904b875629d672" alt="" width="50" /> | BUTTERFLY | YOUNG-LUV.COM | [STAYC](overview.md) | [High Up Entertainment](../../labels/high_up_entertainment) | 212 | 💚 | [🔗](https://open.spotify.com/track/1q97NRLZfQlXYvZJAQ7tln) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="" width="50" /> | Teddy Bear | Teddy Bear | [STAYC](overview.md) | [High Up Entertainment](../../labels/high_up_entertainment) | 122 | 💚 | [🔗](https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9) |

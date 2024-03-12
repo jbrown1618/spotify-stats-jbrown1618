@@ -256,7 +256,7 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | Eminem | 4 | Producer, Songwriter |
-| | Manny Marroquin | 3 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 3 | Producer |
 | | Mike Strange | 3 | Producer |
 | <img src="https://i.scdn.co/image/07b5316f828fe20d0efe0029797157f394ae7640" alt="" width="50" /> | Sir Mix-A-Lot | 2 | Songwriter, Arranger, Lyricist, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb20fdd7386ecab9d34d0e71" alt="" width="50" /> | Cardi B | 2 | Songwriter |
@@ -272,7 +272,7 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Marcos Tovar | 2 | Producer |
+| | [Marcos Tovar](../../producers/marcos_tovar/overview.md) | 2 | Producer |
 | | Mike Dean | 2 | Producer, Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 2 | Songwriter |
 | | Jordan Thorpe | 2 | Songwriter |
@@ -317,7 +317,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 1 | Songwriter |
 | | Southside | 1 | Producer, Songwriter |
 | | will.i.am | 1 | Producer, Songwriter |
-| | Serban Ghenea | 1 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 1 | Producer |
 | | Big Sam | 1 | Lyricist |
 | | CuBeatz | 1 | Producer |
 | | Jean-Baptiste Kouame | 1 | Songwriter |
@@ -358,7 +358,7 @@
 | | Dylan Dresdow | 1 | Producer |
 | | De'Angelo Holmes | 1 | Lyricist |
 | | Duval Timothy | 1 | Producer, Songwriter |
-| | Tony Maserati | 1 | Producer |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 1 | Producer |
 | | Eric Jackson | 1 | Lyricist |
 | | Ryan Buendia | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../../artists/rihanna/overview.md) | 1 | Songwriter |

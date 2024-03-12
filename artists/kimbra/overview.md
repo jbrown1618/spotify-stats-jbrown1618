@@ -81,7 +81,7 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | [Kimbra](overview.md) | 8 | Lyricist, Producer, Songwriter |
-| | François Tétaz (Tétaz, François) | 5 | Lyricist, Producer, Songwriter |
+| | [François Tétaz (Tétaz, François)](../../producers/françois_tétaz_(tétaz,_françois)/overview.md) | 5 | Lyricist, Producer, Songwriter |
 | | M-Phazes | 2 | Producer |
 | | Bo Hill | 1 | Producer |
 | | Luiz Bonfá (Bonfá, Luiz) | 1 | Songwriter |
@@ -123,7 +123,7 @@
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | In My Bones (feat. Kimbra & Tank and The Bangas) | Djesse Vol. 3 | [Jacob Collier](../jacob_collier/overview.md), [Kimbra](overview.md), Tank and The Bangas | [Decca (UMO)](../../labels/decca_(umo)) | 24 | 💚 | [🔗](https://open.spotify.com/track/06PNiDGtPIMOq9VU2ftVCk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | In My Bones (feat. Kimbra & Tank and The Bangas) | Djesse Vol. 3 | [Jacob Collier](../jacob_collier/overview.md), [Kimbra](overview.md), Tank and The Bangas | [Decca (UMO)](../../labels/decca_(umo)) | 34 | 💚 | [🔗](https://open.spotify.com/track/06PNiDGtPIMOq9VU2ftVCk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Limbo | Vows (Deluxe Version) | [Kimbra](overview.md) | [Warner Records](../../labels/warner_records) | 4 | 💚 | [🔗](https://open.spotify.com/track/6go4VH47IaXtYlTGHizjhm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Cameo Lover | Vows (Deluxe Version) | [Kimbra](overview.md) | [Warner Records](../../labels/warner_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/6mEDMe0zG5pYrsRxizjauk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Good Intent | Vows (Deluxe Version) | [Kimbra](overview.md) | [Warner Records](../../labels/warner_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/5vLJID1JbJEpYdYLWIGVXf) |

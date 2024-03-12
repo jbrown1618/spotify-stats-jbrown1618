@@ -426,15 +426,15 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | FINNEAS | 13 | Lyricist, Producer, Songwriter, Arranger |
-| | Florence Welch | 13 | Songwriter, Lyricist |
+| | [FINNEAS](../../producers/finneas/overview.md) | 13 | Lyricist, Producer, Songwriter, Arranger |
+| | [Florence Welch](../../producers/florence_welch/overview.md) | 13 | Songwriter, Lyricist |
 | | Rob Kinelski | 10 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 10 | Lyricist, Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | 9 | Songwriter, Lyricist, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 8 | Lyricist, Producer, Songwriter |
-| | Paul Epworth | 8 | Producer, Lyricist, Songwriter |
+| | [Paul Epworth](../../producers/paul_epworth/overview.md) | 8 | Producer, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | [Imogen Heap](../../artists/imogen_heap/overview.md) | 7 | Songwriter, Lyricist, Producer |
-| | Greg Kurstin | 7 | Producer, Songwriter |
+| | [Greg Kurstin](../../producers/greg_kurstin/overview.md) | 7 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="" width="50" /> | [Sia](../../artists/sia/overview.md) | 7 | Producer, Songwriter |
 
 
@@ -443,20 +443,20 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Manny Marroquin | 7 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 7 | Producer |
 | | Alex Pasco | 6 | Producer |
 | | Isabella Summers | 6 | Songwriter, Producer, Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | [Jacob Collier](../../artists/jacob_collier/overview.md) | 6 | Arranger, Producer, Songwriter |
 | | Julian Burg | 5 | Producer |
 | | Ben Bloomberg | 5 | Producer |
-| | François Tétaz (Tétaz, François) | 5 | Lyricist, Producer, Songwriter |
-| | Mark "Spike" Stent | 5 | Producer |
+| | [François Tétaz (Tétaz, François)](../../producers/françois_tétaz_(tétaz,_françois)/overview.md) | 5 | Lyricist, Producer, Songwriter |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 5 | Producer |
 | | Emile Haynie | 5 | Producer |
 | | Larry Gold | 4 | Arranger |
 | | Jack Patterson | 4 | Producer, Songwriter |
 | | Rick Nowels | 4 | Producer, Songwriter, Lyricist |
 | | Cenzo Townshend | 4 | Producer |
-| | Kid Harpoon | 4 | Songwriter, Lyricist, Producer |
+| | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 4 | Songwriter, Lyricist, Producer |
 | | Jesse Shatkin | 4 | Producer, Songwriter |
 | | Dan Grech-Marguerat | 4 | Producer |
 | | Craig Silvey | 4 | Producer |
@@ -471,14 +471,14 @@
 | | Craig Bishop | 3 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | Hozier | 2 | Arranger, Lyricist, Producer, Songwriter |
 | | Matt Wiggins | 2 | Producer |
-| | Serban Ghenea | 2 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 2 | Producer |
 | | Markus Dravs | 2 | Producer |
 | | Rob Kirwan | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb874c6e61680379852093994c" alt="" width="50" /> | Maggie Rogers | 2 | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | Charli XCX | 2 | Songwriter |
 | | Steve Mac | 2 | Songwriter, Producer |
 | | Ina Wroldsen | 2 | Songwriter |
-| | John Hanes | 2 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 2 | Producer |
 | | Joel Little | 2 | Producer, Songwriter |
 | | Mark Ralph | 2 | Producer |
 | | Chris Braide | 2 | Producer, Songwriter |
@@ -549,7 +549,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336" alt="Melodrama" width="50" /> | Green Light | 199 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Meant | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [He Won't Hold You (feat. Rapsody)](../../artists/jacob_collier/overview.md) | 196 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="Primal Heart" width="50" /> | [Recovery](../../artists/kimbra/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | [Off To The Races](../../artists/lana_del_rey/overview.md) | 195 | <img src="https://i.scdn.co/image/ab67616d0000b2738c8d5428b693308705e7caca" alt="Far" width="50" /> | Eet | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [bury a friend](../../artists/billie_eilish/overview.md) | 126 | <img src="https://i.scdn.co/image/ab67616d0000b27374b226f1b53ca4902dedce2a" alt="Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1)" width="50" /> | Yellow Flicker Beat | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [bury a friend](../../artists/billie_eilish/overview.md) | 142 | <img src="https://i.scdn.co/image/ab67616d0000b27374b226f1b53ca4902dedce2a" alt="Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1)" width="50" /> | Yellow Flicker Beat | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [What The Water Gave Me](../../artists/florence_+_the_machine/overview.md) | 100 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="Norman Fucking Rockwell!" width="50" /> | [Doin' Time](../../artists/lana_del_rey/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Beggin' | 97 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | [A Rock Somewhere (feat. Anoushka Shankar & Varijashree Venugopal)](../../artists/jacob_collier/overview.md) | 0 |
 

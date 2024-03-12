@@ -98,7 +98,7 @@ Girls' Generation is currently:
 
 | Art | Track | Members | Credit Types |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | Can't Control Myself | [TAEYEON](../taeyeon/overview.md) | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | Can't Control Myself | [TAEYEON](../../taeyeon/overview.md) | Lyricist |
 
 ## Top Producers
 
@@ -107,8 +107,8 @@ Girls' Generation is currently:
 | | 이수만 (Lee, Soo-Man) | 5 | Producer |
 | | 이성호 (Lee, Sung-ho) | 3 | Producer |
 | | 남궁진 (Nam Goong, Jin) | 3 | Producer |
-| | Kenzie | 2 | Arranger, Lyricist, Songwriter, Producer |
-| | 유영진 (Yoo, Young-jin) | 2 | Arranger, Lyricist, Producer, Songwriter |
+| | [Kenzie](../../producers/kenzie/overview.md) | 2 | Arranger, Lyricist, Songwriter, Producer |
+| | [유영진 (Yoo, Young-jin)](../../producers/유영진_(yoo,_young-jin)/overview.md) | 2 | Arranger, Lyricist, Producer, Songwriter |
 | | Teddy Riley | 1 | Arranger, Producer, Songwriter |
 | | Sarah Lundbäck-Bell (Lundbäck-Bell, Sarah) | 1 | Arranger, Songwriter |
 | | Moonshine | 1 | Arranger |
@@ -148,8 +148,8 @@ Girls' Generation is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="" width="50" /> | Run Devil Run | Run Devil Run - The 2nd Album Repackage | [Girls' Generation](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 22963 | 💚 | [🔗](https://open.spotify.com/track/0U9jNoTJeTxXToakhsb7pV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="" width="50" /> | Lion Heart | Lion Heart - The 5th Album | [Girls' Generation](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 15302 | 💚 | [🔗](https://open.spotify.com/track/405SQUJdQut02dxtuQ0CZ3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="" width="50" /> | Run Devil Run | Run Devil Run - The 2nd Album Repackage | [Girls' Generation](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 23011 | 💚 | [🔗](https://open.spotify.com/track/0U9jNoTJeTxXToakhsb7pV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="" width="50" /> | Lion Heart | Lion Heart - The 5th Album | [Girls' Generation](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 15362 | 💚 | [🔗](https://open.spotify.com/track/405SQUJdQut02dxtuQ0CZ3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361d7b9988c77826dfb1db1b3" alt="" width="50" /> | The Boys | The Boys - The 3rd Album | [Girls' Generation](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 10576 | 💚 | [🔗](https://open.spotify.com/track/4sRQg2aoec0VIvQ7GZPGMy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="" width="50" /> | I GOT A BOY | I GOT A BOY - The 4th Album | [Girls' Generation](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 45 | 💚 | [🔗](https://open.spotify.com/track/2WkPfNd237yc0l5KewCDpp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731111b7562b4b46870d27f98b" alt="" width="50" /> | Into the New World | Girls' Generation | [Girls' Generation](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 0 | | [🔗](https://open.spotify.com/track/1RTW9UthqmZwr8Od6CH4i8) |

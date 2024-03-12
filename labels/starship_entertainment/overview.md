@@ -21,10 +21,10 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3806dc272074141b5f4ae00d" alt="" width="50" /> | 3 | 3 | MONSTA X | [🔗](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb41d4a656d92f93daed36366" alt="" width="50" /> | 2 | 1 | JOOHONEY | [🔗](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb56eabce4db8b2827505eba14" alt="" width="50" /> | 1 | 1 | HYOLYN | [🔗](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4f66a54f209012eec464efef" alt="" width="50" /> | 1 | 1 | SISTAR19 | [🔗](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e493a7c9b551aba3ef4e53f" alt="" width="50" /> | 1 | 1 | SHOWNU X HYUNGWON (MONSTA X) | [🔗](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb3b39b99f91ca659e213ab93" alt="" width="50" /> | 1 | 1 | WJSN THE BLACK | [🔗](https://open.spotify.com/artist/0M3eRYg8ULjCtLFvhc5Orb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba3e483bda08002c2c7bfa7ef" alt="" width="50" /> | 2 | 0 | WJSN Chocome | [🔗](https://open.spotify.com/artist/5VyqN5hNo0TbYF0ICU77nn) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb495b108feba6164e2c01b15e" alt="" width="50" /> | 1 | 0 | CRAVITY | [🔗](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) |
 
 
 <details>
@@ -32,7 +32,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb495b108feba6164e2c01b15e" alt="" width="50" /> | 1 | 0 | CRAVITY | [🔗](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4f66a54f209012eec464efef" alt="" width="50" /> | 1 | 0 | SISTAR19 | [🔗](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) |
 
 </details>
 
@@ -64,7 +64,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27303b313cdf98d61d141645f11" alt="" width="50" /> | 1 | 1 | One of a Kind | 2021-06-01 | [🔗](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732251d59955f53adcd39014ea" alt="" width="50" /> | 1 | 1 | Neverland | 2020-06-09 | [🔗](https://open.spotify.com/album/5DHseF14USVgIZ6AzsX9bi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334a05859b4935468f9d8b810" alt="" width="50" /> | 1 | 1 | My attitude | 2021-05-12 | [🔗](https://open.spotify.com/album/1RR97BqW9TH7t0vV4T9JcG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27363c31401b11c56386ed0c9b7" alt="" width="50" /> | 1 | 1 | Ma Boy | 2011-05-03 | [🔗](https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27365414519ff7d939ddfb53c21" alt="" width="50" /> | 1 | 1 | LOVE & HATE | 2013-11-26 | [🔗](https://open.spotify.com/album/26FsnZOVOJDjKeWUbXuDVG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273963ab68340962c032261c06c" alt="" width="50" /> | 1 | 1 | LIGHTS | 2023-05-22 | [🔗](https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b66327ff0474d017472d7b18" alt="" width="50" /> | 1 | 1 | HAPPY MOMENT (1) | 2017-06-07 | [🔗](https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL) |
@@ -75,6 +74,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c564791fd5ae81ca9da399f4" alt="" width="50" /> | 1 | 0 | Super Yuppers! | 2022-01-05 | [🔗](https://open.spotify.com/album/5Sh3VW04we2IqNP7BlBwuM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273404c584f708c5a2fb05bdeb3" alt="" width="50" /> | 1 | 0 | Spotify Singles - Holiday | 2022-11-16 | [🔗](https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb2456c53306bc582b406462" alt="" width="50" /> | 1 | 0 | SHAKE IT | 2015-06-22 | [🔗](https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363c31401b11c56386ed0c9b7" alt="" width="50" /> | 1 | 0 | Ma Boy | 2011-05-03 | [🔗](https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735817126dded92c8d1ba7b112" alt="" width="50" /> | 1 | 0 | MIXTAPE [ PSYCHE ] | 2020-10-09 | [🔗](https://open.spotify.com/album/3UxCU4YihXm1ghv3hKqfnz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a30df9ceed62f9c39069c9e" alt="" width="50" /> | 1 | 0 | Hmph! | 2020-10-07 | [🔗](https://open.spotify.com/album/3oiVOb6e43wsvdV4ClJYm0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273498aac8e9100e59a99b03460" alt="" width="50" /> | 1 | 0 | CRAVITY 1ST ALBUM PART 2 [LIBERTY : IN OUR COSMOS] | 2022-03-22 | [🔗](https://open.spotify.com/album/0fQl58pOwJpkTfVUZudzpY) |
@@ -88,8 +88,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 27 | 20 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
-| 19 | 14 | [k-pop](../../genres/k-pop/overview.md) |
+| 27 | 19 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 19 | 13 | [k-pop](../../genres/k-pop/overview.md) |
 | 3 | 3 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
 
@@ -100,11 +100,11 @@ Appears as:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | Kriz | 9 | Arranger |
-| | 양영은 (Yang, Young-eun) | 9 | Producer |
-| | 정은경 (Jung, Eun-Kyung) | 8 | Producer |
-| | Ryan S. Jhun | 7 | Arranger, Songwriter, Lyricist, Producer |
+| | [양영은 (Yang, Young-eun)](../../producers/양영은_(yang,_young-eun)/overview.md) | 9 | Producer |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 8 | Producer |
+| | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 7 | Arranger, Songwriter, Lyricist, Producer |
 | | Alawn | 7 | Producer, Arranger |
-| | 서지음 (Seo, Ji Eum) | 5 | Lyricist |
+| | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 5 | Lyricist |
 | | 김민희 (Kim, Min Hee) | 4 | Producer |
 | | Sophia Brenan | 3 | Songwriter |
 | | 레이 (REI) | 3 | Lyricist |
@@ -170,16 +170,16 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | I AM | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 5477 | 💚 | [🔗](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | I AM | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 5585 | 💚 | [🔗](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5" alt="" width="50" /> | After LIKE | After LIKE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 1867 | 💚 | [🔗](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Baddie | I'VE MINE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 874 | 💚 | [🔗](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Baddie | I'VE MINE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 892 | 💚 | [🔗](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | LOVE DIVE | LOVE DIVE | [IVE](../../artists/ive/overview.md) | [STARSHIP Entertainment](.) | 384 | 💚 | [🔗](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Lips | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 291 | 💚 | [🔗](https://open.spotify.com/track/0dRSOmb7pqkkmjXCu5BYbe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8a007b9e0ba32eee1651227" alt="" width="50" /> | Alone | ALONE | SISTAR | [Starship Entertainment](.) | 195 | 💚 | [🔗](https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27365414519ff7d939ddfb53c21" alt="" width="50" /> | One way love | LOVE & HATE | HYOLYN | [Starship Entertainment](.) | 142 | 💚 | [🔗](https://open.spotify.com/track/2UIXAxLWIPM6ALPGCeeXfH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="" width="50" /> | Beautiful Liar | REASON | MONSTA X | [Starship Entertainment](.) | 26 | 💚 | [🔗](https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Blue Blood | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 25 | 💚 | [🔗](https://open.spotify.com/track/2avdbiswb0d5AFmyyz68xP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27363c31401b11c56386ed0c9b7" alt="" width="50" /> | Ma Boy | Ma Boy | SISTAR19 | [Starship Entertainment](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363c31401b11c56386ed0c9b7" alt="" width="50" /> | Ma Boy | Ma Boy | SISTAR19 | [Starship Entertainment](.) | 0 | | [🔗](https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1) |
 
 
 <details>

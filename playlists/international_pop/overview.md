@@ -19,7 +19,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | 5 | 2 | Hatsune Miku | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | 4 | 2 | Yuuri | [🔗](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaee73c0f0458b95091845ee1" alt="" width="50" /> | 4 | 2 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7e34f1a6ce455f3e8a7a61d3" alt="" width="50" /> | 3 | 2 | Fujii Kaze | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc" alt="" width="50" /> | 3 | 2 | Fujii Kaze | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbdaffe3725449701e3261e47" alt="" width="50" /> | 2 | 2 | Reol | [🔗](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb118be643c10bd1268f034d28" alt="" width="50" /> | 2 | 2 | Faouzia | [🔗](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd132bf0d4a9203404cd66f79" alt="" width="50" /> | 2 | 2 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
@@ -486,7 +486,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf9ad208bbff79c1ce09c77c1" alt="" width="50" /> | Daddy Yankee | 2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaee73c0f0458b95091845ee1" alt="" width="50" /> | Shakira | 2 | Songwriter |
 | | Adrian Breakspear | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7e34f1a6ce455f3e8a7a61d3" alt="" width="50" /> | Fujii Kaze | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc" alt="" width="50" /> | Fujii Kaze | 1 | Lyricist, Songwriter |
 | | Ricky Montaner | 1 | Songwriter |
 | | Mauricio Montaner | 1 | Songwriter |
 | | Cecil Bernardy | 1 | Producer |
@@ -558,9 +558,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | [Awadama Fever](../../artists/babymetal/overview.md) | 170 | <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="A BEST" width="50" /> | Boys & Girls | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="Daisy 2.0 (feat. Hatsune Miku)" width="50" /> | Daisy 2.0 (feat. Hatsune Miku) | 166 | <img src="https://i.scdn.co/image/ab67616d0000b2733e4b149dd3110f1432bfeca0" alt="Niche Syndrome" width="50" /> | Wherever you are | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="海のまにまに" width="50" /> | 海のまにまに | 147 | <img src="https://i.scdn.co/image/ab67616d0000b27314b31a0ac21c8645919204a8" alt="Ne reviens pas" width="50" /> | Ne reviens pas | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Beggin' | 97 | <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="青のすみか" width="50" /> | 青のすみか | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27322805a1b17e41ae357bd98bc" alt="HELP EVER HURT NEVER" width="50" /> | Shinunoga E-Wa | 91 | <img src="https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2" alt="Traveler" width="50" /> | Pretender | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | [Headbangeeeeerrrrr!!!!!](../../artists/babymetal/overview.md) | 75 | <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | [Gimme Chocolate!!](../../artists/babymetal/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | [Headbangeeeeerrrrr!!!!!](../../artists/babymetal/overview.md) | 108 | <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="青のすみか" width="50" /> | 青のすみか | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Beggin' | 97 | <img src="https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2" alt="Traveler" width="50" /> | Pretender | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322805a1b17e41ae357bd98bc" alt="HELP EVER HURT NEVER" width="50" /> | Shinunoga E-Wa | 91 | <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | [Gimme Chocolate!!](../../artists/babymetal/overview.md) | 0 |
 
 ## Years
 

@@ -307,7 +307,7 @@
 | | Brandon Paak Anderson | 1 | Songwriter |
 | | Deke Richards | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3be82c9ca8e6a7103debaf25" alt="" width="50" /> | ADORA | 1 | Songwriter |
-| | 조윤경 (Jo, Yoon Kyung) | 1 | Lyricist |
+| | [조윤경 (Jo, Yoon Kyung)](../../producers/조윤경_(jo,_yoon_kyung)/overview.md) | 1 | Lyricist |
 | | Willie Hutch | 1 | Songwriter |
 | | Jim Vitti | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | [Jacob Collier](../../artists/jacob_collier/overview.md) | 1 | Arranger, Producer, Songwriter |
@@ -321,12 +321,12 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | [Sweet Venom](../../artists/enhypen/overview.md) | 6923 | <img src="https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f" alt="Star Time" width="50" /> | Papa's Got A Brand New Bag | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | [Sweet Venom](../../artists/enhypen/overview.md) | 7187 | <img src="https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f" alt="Star Time" width="50" /> | Papa's Got A Brand New Bag | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> | [enchanted night ~ white night](../../artists/billlie/overview.md) | 4356 | <img src="https://i.scdn.co/image/ab67616d0000b27330bb42e5271f2e046fd36972" alt="That&#x27;s The Way Of The World" width="50" /> | Shining Star | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="Born to be XX" width="50" /> | [Nobody Knows](../../artists/kiss_of_life/overview.md) | 906 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8ab1a548312b79ac955266" alt="Innervisions" width="50" /> | Higher Ground | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="TEN - The 1st Mini Album" width="50" /> | [Dangerous](../../artists/ten/overview.md) | 198 | <img src="https://i.scdn.co/image/ab67616d0000b27331ae071f3db459be2501ea13" alt="Nightbirds" width="50" /> | Lady Marmalade | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="Born to be XX" width="50" /> | [Nobody Knows](../../artists/kiss_of_life/overview.md) | 1112 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8ab1a548312b79ac955266" alt="Innervisions" width="50" /> | Higher Ground | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="TEN - The 1st Mini Album" width="50" /> | [Dangerous](../../artists/ten/overview.md) | 244 | <img src="https://i.scdn.co/image/ab67616d0000b27331ae071f3db459be2501ea13" alt="Nightbirds" width="50" /> | Lady Marmalade | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> | [nevertheless](../../artists/billlie/overview.md) | 71 | <img src="https://i.scdn.co/image/ab67616d0000b27395605660a166c33bbf6d4a25" alt="&amp; Co." width="50" /> | Endurtaka Mig | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [In My Bones (feat. Kimbra & Tank and The Bangas)](../../artists/jacob_collier/overview.md) | 24 | <img src="https://i.scdn.co/image/ab67616d0000b27364c6ef51927c575ed9f464cf" alt="Bloody Tourists" width="50" /> | Dreadlock Holiday | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [In My Bones (feat. Kimbra & Tank and The Bangas)](../../artists/jacob_collier/overview.md) | 34 | <img src="https://i.scdn.co/image/ab67616d0000b27364c6ef51927c575ed9f464cf" alt="Bloody Tourists" width="50" /> | Dreadlock Holiday | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb03213742765479b3b1cf11" alt="Tailwinds" width="50" /> | Nate Smith Is the Ace of Aces | 18 | <img src="https://i.scdn.co/image/ab67616d0000b2730f7e2aa2f1d7ea0fd2e206c0" alt="The Fearless Flyers" width="50" /> | Ace of Aces | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="NEXT EPISODE" width="50" /> | [NAKKA (with IU)](../../artists/akmu/overview.md) | 7 | <img src="https://i.scdn.co/image/ab67616d0000b27323fb02f383f3bef16ab9d092" alt="It Is What It Is" width="50" /> | Funny Thing | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739173e50e99bdea2400222f02" alt="United" width="50" /> | Ain't No Mountain High Enough | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273f93159d78849714fcf118bb3" alt="Deceptive Bends" width="50" /> | Good Morning Judge | 0 |

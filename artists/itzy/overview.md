@@ -19,7 +19,7 @@ ITZY:
 
 ## Artist Rank
 ITZY is currently:
-- The #4 artist of the last month
+- The #5 artist of the last month
 - The #3 artist of the last 6 months
 - The #3 artist of all time
 
@@ -27,18 +27,18 @@ ITZY is currently:
 ## Top Tracks
 
 - LOCO is:
-    - the #15 track of all time
+    - the #16 track of all time
 - Mr. Vampire is:
     - the #3 track of the last month
     - the #3 track of the last 6 months
 - BORN TO BE is:
-    - the #16 track of the last month
-    - the #19 track of the last 6 months
+    - the #13 track of the last month
+    - the #21 track of the last 6 months
 - CAKE is:
     - the #37 track of the last 6 months
 - UNTOUCHABLE is:
-    - the #30 track of the last month
-    - the #46 track of the last 6 months
+    - the #26 track of the last month
+    - the #44 track of the last 6 months
 
 ### Top tracks of all time over time
 
@@ -128,13 +128,13 @@ ITZY is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 구혜진 (Gu, Hye-jin) | 6 | Producer |
-| | 엄세희 (Um, Se-Hee) | 4 | Producer |
+| | [구혜진 (Gu, Hye-jin)](../../producers/구혜진_(gu,_hye-jin)/overview.md) | 6 | Producer |
+| | [엄세희 (Um, Se-Hee)](../../producers/엄세희_(um,_se-hee)/overview.md) | 4 | Producer |
 | | Czaer | 2 | Producer, Arranger, Lyricist, Songwriter |
 | | 윤원권 (Yoon, Won-kwon) | 2 | Producer |
 | | Noday | 2 | Arranger, Lyricist, Songwriter |
 | | Kobee | 2 | Arranger, Producer, Songwriter |
-| | 심은지 (Sim, Eunjee) | 1 | Arranger, Producer, Songwriter |
+| | [심은지 (Sim, Eunjee)](../../producers/심은지_(sim,_eunjee)/overview.md) | 1 | Arranger, Producer, Songwriter |
 | | 여민수 (Yeo, Min Soo) | 1 | Producer |
 | | Gusten Dahlqvist | 1 | Arranger, Producer, Songwriter |
 | | IRIS Yerin Lee | 1 | Lyricist, Songwriter |
@@ -145,8 +145,8 @@ ITZY is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 정은경 (Jung, Eun-Kyung) | 1 | Producer |
-| | LDN Noise | 1 | Arranger, Producer |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 1 | Producer |
+| | [LDN Noise](../../producers/ldn_noise/overview.md) | 1 | Arranger, Producer |
 | | 방혜현 (Bang, Hye Hyun) | 1 | Lyricist |
 | | Daniel Mikael Caesar | 1 | Songwriter |
 | | Cameron Neilson | 1 | Songwriter |
@@ -154,7 +154,7 @@ ITZY is currently:
 | | Karin Wilhemina Eurenius | 1 | Arranger, Producer, Songwriter |
 | | SELAH | 1 | Arranger |
 | | EZIT | 1 | Arranger, Songwriter |
-| | 서지음 (Seo, Ji Eum) | 1 | Lyricist |
+| | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 1 | Lyricist |
 | | 常楽寺澪 (Jorakuji, Mio) | 1 | Lyricist |
 | | Greg Bonnick | 1 | Songwriter |
 | | Ellen Berg Tollbom | 1 | Songwriter |
@@ -167,7 +167,7 @@ ITZY is currently:
 | | 이태섭 (Lee, Tae-Sub) | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | J.Y. Park | 1 | Arranger, Lyricist, Songwriter |
 | | 이해솔 (Lee, Hae Sol) | 1 | Arranger |
-| | Tony Maserati | 1 | Producer |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 1 | Producer |
 | | Christoffer Semelius | 1 | Arranger, Producer, Songwriter |
 | | 이스란 (Lee, Seran) | 1 | Lyricist |
 | | Melange | 1 | Arranger |
@@ -176,7 +176,7 @@ ITZY is currently:
 | | Tobias Näslund (Näslund, Tobias) | 1 | Arranger, Producer, Songwriter |
 | | 초이 (Choi) | 1 | Producer |
 | | 이상엽 (Lee, Sang-yeob) | 1 | Producer |
-| | Manny Marroquin | 1 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 1 | Producer |
 | | 케빈오빠 (Kevinoppa) | 1 | Arranger, Lyricist, Producer, Songwriter |
 | | Hayden Chapman | 1 | Songwriter |
 | | Holy M | 1 | Arranger, Songwriter |
@@ -199,15 +199,15 @@ ITZY is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | LOCO | CRAZY IN LOVE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 41085 | 💚 | [🔗](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | LOCO | CRAZY IN LOVE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 41505 | 💚 | [🔗](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Cheshire | CHESHIRE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 14813 | 💚 | [🔗](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | CAKE | KILL MY DOUBT | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 7455 | 💚 | [🔗](https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | CAKE | KILL MY DOUBT | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 7539 | 💚 | [🔗](https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Snowy | CHESHIRE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 4356 | 💚 | [🔗](https://open.spotify.com/track/1i0NAz5emJMbRWSkADMsL7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Mr. Vampire | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 4323 | 💚 | [🔗](https://open.spotify.com/track/3uI6jqO0fFBoFryc8SJOXw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | Kill Shot | KILL MY DOUBT | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 4099 | 💚 | [🔗](https://open.spotify.com/track/3i7Z0CI7QIwnU4MVL0XJB9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Mr. Vampire | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 3987 | 💚 | [🔗](https://open.spotify.com/track/3uI6jqO0fFBoFryc8SJOXw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | BET ON ME | KILL MY DOUBT | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 1746 | 💚 | [🔗](https://open.spotify.com/track/5BCPIye83pj24VjCzQuL5F) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | BORN TO BE | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 1518 | 💚 | [🔗](https://open.spotify.com/track/45lXSvtDt6uKiGZIXB4LLF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | UNTOUCHABLE | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 439 | 💚 | [🔗](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | BORN TO BE | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 1736 | 💚 | [🔗](https://open.spotify.com/track/45lXSvtDt6uKiGZIXB4LLF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | UNTOUCHABLE | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 506 | 💚 | [🔗](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Be In Love | Not Shy | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 350 | 💚 | [🔗](https://open.spotify.com/track/0FGeJSm4Iix7OdvjvENrwx) |
 
 

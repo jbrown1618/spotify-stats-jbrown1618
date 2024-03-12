@@ -48,10 +48,10 @@ Appears as:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 20 | Songwriter, Producer, Lyricist |
-| | Laura Sisk | 16 | Producer |
-| | Jack Antonoff | 12 | Producer, Songwriter |
-| | Serban Ghenea | 11 | Producer |
-| | Aaron Dessner | 7 | Producer, Songwriter |
+| | [Laura Sisk](../../producers/laura_sisk/overview.md) | 16 | Producer |
+| | [Jack Antonoff](../../producers/jack_antonoff/overview.md) | 12 | Producer, Songwriter |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 11 | Producer |
+| | [Aaron Dessner](../../producers/aaron_dessner/overview.md) | 7 | Producer, Songwriter |
 | | Jonathan Low | 7 | Producer |
 | | Bryce Dessner | 6 | Arranger |
 | | Kyle Resnick | 4 | Producer |
@@ -76,7 +76,7 @@ Appears as:
 | | J. T. Bates | 1 | Producer |
 | | Jason Treuting | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | 1 | Songwriter |
-| | John Hanes | 1 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 1 | Producer |
 | | Dave Nelson | 1 | Producer |
 | | Braxton Cook | 1 | Producer |
 | | CJ Camerieri | 1 | Producer |

@@ -65,7 +65,7 @@ Daft Punk:
 | Art | Track | Members | Credit Types |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="" width="50" /> | Digital Love | Thomas Bangalter, Guy-Manuel de Homem-Christo | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="" width="50" /> | Harder, Better, Faster, Stronger | [Daft Punk](overview.md), Thomas Bangalter, Guy-Manuel de Homem-Christo | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="" width="50" /> | Harder, Better, Faster, Stronger | [Daft Punk](.), Thomas Bangalter, Guy-Manuel de Homem-Christo | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="" width="50" /> | Technologic | Thomas Bangalter, Guy-Manuel de Homem-Christo | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Instant Crush (feat. Julian Casablancas) | Thomas Bangalter, Guy-Manuel de Homem-Christo | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Get Lucky (feat. Pharrell Williams and Nile Rodgers) | Thomas Bangalter, Guy-Manuel de Homem-Christo | Producer, Songwriter |

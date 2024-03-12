@@ -306,8 +306,8 @@ Appears as:
 | | Jim Boyer | 9 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2b7962ada66cbea99dcb0caa" alt="" width="50" /> | [Beyoncé](../../artists/beyoncé/overview.md) | 9 | Producer, Songwriter |
 | | Phil Ramone | 9 | Producer |
-| | Mark "Spike" Stent | 7 | Producer |
-| | Serban Ghenea | 5 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 7 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 5 | Producer |
 | | Tyler Johnson | 4 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | Paul Simon | 4 | Lyricist, Producer, Songwriter |
 | | DJ Swivel | 3 | Producer |
@@ -321,8 +321,8 @@ Appears as:
 |:---|:---|---:|:---|
 | | David Campbell | 3 | Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb" alt="" width="50" /> | Harry Styles | 3 | Songwriter |
-| | John Hanes | 3 | Producer |
-| | Kid Harpoon | 3 | Producer, Songwriter |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 3 | Producer |
+| | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 3 | Producer, Songwriter |
 | | Art Garfunkel | 3 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | Hozier | 2 | Arranger, Lyricist, Producer, Songwriter |
 | | Gary Paczosa | 2 | Producer |
@@ -340,7 +340,7 @@ Appears as:
 | | Guy-Manuel de Homem-Christo | 2 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb43d9d87bba466538f5c40901" alt="" width="50" /> | The Chicks | 2 | Producer |
 | | Stuart White | 2 | Producer |
-| | Ryan Tedder | 2 | Arranger, Producer, Songwriter |
+| | [Ryan Tedder](../../producers/ryan_tedder/overview.md) | 2 | Arranger, Producer, Songwriter |
 | | Lloyd Maines | 2 | Producer |
 | | Rob Kirwan | 2 | Producer |
 | | Sammy Witte | 2 | Producer |
@@ -373,7 +373,7 @@ Appears as:
 | | Jim Horn | 1 | Arranger |
 | | Philip Bailey | 1 | Songwriter |
 | | Steve Perry | 1 | Songwriter |
-| | Greg Kurstin | 1 | Producer, Songwriter |
+| | [Greg Kurstin](../../producers/greg_kurstin/overview.md) | 1 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9d6d0ba276987f19641c27de" alt="" width="50" /> | beabadoobee | 1 | Songwriter |
 | | Inaam Haq | 1 | Producer |
 | | Devin Nakao | 1 | Producer |

@@ -51,8 +51,8 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 서지음 (Seo, Ji Eum) | 5 | Lyricist |
-| | Ryan S. Jhun | 3 | Arranger, Songwriter, Lyricist |
+| | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 5 | Lyricist |
+| | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 3 | Arranger, Songwriter, Lyricist |
 | | Steven Lee | 2 | Arranger, Songwriter |
 | | Jeppe London Bilsby | 1 | Arranger, Songwriter |
 | | Lauritz Emil Christiansen | 1 | Arranger, Songwriter |
@@ -90,7 +90,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | Dolphin | NONSTOP | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [WM Entertainment](.) | 3411 | 💚 | [🔗](https://open.spotify.com/track/3NfgdU9mbIVhcJF3XvC0c9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | Dolphin | NONSTOP | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [WM Entertainment](.) | 3483 | 💚 | [🔗](https://open.spotify.com/track/3NfgdU9mbIVhcJF3XvC0c9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737700db620a3f0030fcfd078c" alt="" width="50" /> | SAY NO MORE | CLOSER | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [WM Entertainment](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/3vFAa5RYxyZmxTuV0YE9Em) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a994eb69242daf25e8730a72" alt="" width="50" /> | WINDY DAY | WINDY DAY | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [WM Entertainment](.) | 0 | | [🔗](https://open.spotify.com/track/7prrcyZc48tO9hGzdnU9aD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a8de21bdcbdc7bb597f1637" alt="" width="50" /> | Ya! (feat. Whee In) | Stay As You Are | Sandeul, Whee In | [WM Entertainment](.) | 0 | | [🔗](https://open.spotify.com/track/24HGlde2QMGAigs6bDdEhS) |

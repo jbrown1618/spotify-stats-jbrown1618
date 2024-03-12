@@ -33,7 +33,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb778483686ae247c1906f02fb" alt="" width="50" /> | 1 | 1 | Birdy | [🔗](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb76727262a3ebe73ccb1a7958" alt="" width="50" /> | 1 | 1 | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf01727aa674ddefa777797a" alt="" width="50" /> | 1 | 0 | Diplo | [🔗](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb056f821a5186892979410deb" alt="" width="50" /> | 1 | 0 | ZAYN | [🔗](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7a1fba1bb3618ef71355f82a" alt="" width="50" /> | 1 | 0 | ZAYN | [🔗](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0550f0badff3ad04802b1e86" alt="" width="50" /> | 1 | 0 | RAYE | [🔗](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcad5051d3069454d070cc945" alt="" width="50" /> | 1 | 0 | James Smith | [🔗](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb09b06c6e39518619ecd56ec5" alt="" width="50" /> | 1 | 0 | Jax Jones | [🔗](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) |
@@ -147,13 +147,13 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Serban Ghenea | 6 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 6 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e125f9c0f56dfb73fb97eaa" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 6 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 4 | Songwriter |
-| | John Hanes | 4 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 4 | Producer |
 | | Caroline Ailin | 4 | Songwriter, Producer |
 | | Maegan Cottone | 3 | Arranger, Producer, Songwriter |
-| | Josh Gudwin | 3 | Producer |
+| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 3 | Producer |
 | | KAMILLE | 3 | Songwriter |
 | | Andrew Watt | 2 | Songwriter, Producer |
 | | TMS | 2 | Producer |
@@ -180,7 +180,7 @@
 | | Ben Collier | 2 | Producer |
 | | Jade Thirlwall | 2 | Songwriter |
 | | Matt Radosevich | 2 | Producer |
-| | Mark "Spike" Stent | 2 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 2 | Producer |
 | | Ben Kohn | 2 | Songwriter |
 | | Jesy Nelson | 2 | Songwriter |
 | | Oscar Görres (Görres, Oscar) | 1 | Producer, Songwriter |
@@ -194,12 +194,12 @@
 | | Jason Elliott | 1 | Producer |
 | | Ruffsound | 1 | Songwriter |
 | | Andrew Farriss | 1 | Songwriter |
-| | Greg Kurstin | 1 | Producer, Songwriter |
+| | [Greg Kurstin](../../producers/greg_kurstin/overview.md) | 1 | Producer, Songwriter |
 | | Lorna Blackwood | 1 | Producer |
 | | Matthew Scatchell | 1 | Producer |
-| | ILYA | 1 | Songwriter |
+| | [ILYA](../../producers/ilya/overview.md) | 1 | Songwriter |
 | | Jordan Johnson | 1 | Songwriter |
-| | TEDDY | 1 | Songwriter |
+| | [TEDDY](../../producers/teddy/overview.md) | 1 | Songwriter |
 | | Steve Churchyard | 1 | Producer |
 | | Screwface | 1 | Producer |
 | | Richard "Biff" Stannard | 1 | Producer, Songwriter |
@@ -239,7 +239,7 @@
 | | Ed Drewett | 1 | Songwriter |
 | | Paul 'P Dub' Walton | 1 | Producer |
 | | Daniel Pursey | 1 | Producer |
-| | Phil Tan | 1 | Producer |
+| | [Phil Tan](../../producers/phil_tan/overview.md) | 1 | Producer |
 | | Niclas von der Burg | 1 | Songwriter |
 | | Justin Vernon | 1 | Lyricist, Songwriter |
 | | Ali Payami | 1 | Producer, Songwriter |

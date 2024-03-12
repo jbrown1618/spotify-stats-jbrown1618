@@ -210,10 +210,10 @@ Appears as:
 | | PUFF | 1 | Arranger, Songwriter |
 | | 김재웅 (Kim, Jae-ung) | 1 | Lyricist, Songwriter |
 | | 희창 (Hee-chang) | 1 | Arranger, Songwriter |
-| | VINCENZO | 1 | Arranger, Lyricist, Songwriter |
+| | [VINCENZO](../../producers/vincenzo/overview.md) | 1 | Arranger, Lyricist, Songwriter |
 | | 김민구 (Kim, Min-goo) | 1 | Arranger, Lyricist, Songwriter |
 | | 고현정 (Ko, Hyeonjeong) | 1 | Lyricist |
-| | 서지음 (Seo, Ji Eum) | 1 | Lyricist |
+| | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 1 | Lyricist |
 | | THE HUB 88 | 1 | Songwriter |
 | | Yuth | 1 | Arranger, Songwriter |
 
@@ -224,15 +224,15 @@ Appears as:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | 김지현 (Kim, Ji Hyun) | 1 | Producer |
-| | 정은경 (Jung, Eun-Kyung) | 1 | Producer |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb06ffb2341b70acdcafa55599" alt="" width="50" /> | CHANGMO | 1 | Lyricist, Producer, Songwriter |
-| | Fuxxy | 1 | Arranger, Lyricist, Songwriter |
+| | [Fuxxy](../../producers/fuxxy/overview.md) | 1 | Arranger, Lyricist, Songwriter |
 | | 최현준 (Choi, Hyun-Joon) | 1 | Arranger, Lyricist, Songwriter |
 | | 차유빈 (Cha, Yu-bin) | 1 | Lyricist |
 | | 강은정 (Gang, Eun-jeong) | 1 | Lyricist |
 | | 김승수 (Kim, Seung-soo) | 1 | Arranger, Lyricist, Songwriter |
 | | hongsamman | 1 | Arranger, Songwriter |
-| | R.Tee | 1 | Producer |
+| | [R.Tee](../../producers/r_tee/overview.md) | 1 | Producer |
 | | Noerio | 1 | Songwriter |
 | | Jacob Aaron | 1 | Songwriter |
 | | 윤원권 (Yoon, Won-kwon) | 1 | Producer |
@@ -253,8 +253,8 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="" width="50" /> | Gotta Go | Gotta Go | [CHUNG HA](../../artists/chung_ha/overview.md) | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 55799 | 💚 | [🔗](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="" width="50" /> | HOLO | HOLO | [LeeHi](../../artists/leehi/overview.md) | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 50059 | 💚 | [🔗](https://open.spotify.com/track/4BSluGpjdLQihMmKgHXMxp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="" width="50" /> | Gotta Go | Gotta Go | [CHUNG HA](../../artists/chung_ha/overview.md) | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 56327 | 💚 | [🔗](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="" width="50" /> | HOLO | HOLO | [LeeHi](../../artists/leehi/overview.md) | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 50455 | 💚 | [🔗](https://open.spotify.com/track/4BSluGpjdLQihMmKgHXMxp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | ONLY | 4 ONLY | [LeeHi](../../artists/leehi/overview.md) | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 5670 | 💚 | [🔗](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="" width="50" /> | Undo | Undo | [HEIZE](../../artists/heize/overview.md) | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 1080 | 💚 | [🔗](https://open.spotify.com/track/6z1pJ3KUmQagUpMVqL62sa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="" width="50" /> | VingleVingle (Prod. R.Tee) | VingleVingle | [HEIZE](../../artists/heize/overview.md) | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 518 | 💚 | [🔗](https://open.spotify.com/track/4mSb6RA9eJnXuMWChHLpgn) |
@@ -271,14 +271,14 @@ Appears as:
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273e7c7f3bafee5562a4c01658b" alt="" width="50" /> | Bandit | Song of the Bandits (Original Soundtrack from the Netflix Series) | TAEIL | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 174 | 💚 | [🔗](https://open.spotify.com/track/3mQH4pXsnixxr8EDK7ZZVa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733b414bbbf73c81957c8b7541" alt="" width="50" /> | FM 89.1 | Last Winter | [HEIZE](../../artists/heize/overview.md) | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 137 | 💚 | [🔗](https://open.spotify.com/track/262jf0kGFJVl2AHsGJ6xiG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733b414bbbf73c81957c8b7541" alt="" width="50" /> | FM 89.1 | Last Winter | [HEIZE](../../artists/heize/overview.md) | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 150 | 💚 | [🔗](https://open.spotify.com/track/262jf0kGFJVl2AHsGJ6xiG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d894e16b750b7ade58c1977f" alt="" width="50" /> | KNOCK | Over The Moon | LEE CHAE YEON | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 102 | 💚 | [🔗](https://open.spotify.com/track/6KiEF5zqzHiFjzdm8gChz7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a435b6276480ed558eece0fd" alt="" width="50" /> | SMILEY(Feat. BIBI) | ˣ‿ˣ (SMiLEY) | [YENA](../../artists/yena/overview.md), [BIBI](../../artists/bibi/overview.md) | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 93 | 💚 | [🔗](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733b414bbbf73c81957c8b7541" alt="" width="50" /> | Perhaps, Happy Ending | Last Winter | [HEIZE](../../artists/heize/overview.md) | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 63 | 💚 | [🔗](https://open.spotify.com/track/5VRjJvpk6xL9cxkkWhfWkY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d700b5ddf45596b3793d3963" alt="" width="50" /> | The Real | KINGDOM <FINAL : WHO IS THE KING?> | [ATEEZ](../../artists/ateez/overview.md) | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 56 | 💚 | [🔗](https://open.spotify.com/track/1uk5fYLx1f88DLte84Hl5j) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c9253602c9a9e508bde18cb" alt="" width="50" /> | SLAY | ALL MY GIRLS | [EVERGLOW](../../artists/everglow/overview.md) | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 42 | 💚 | [🔗](https://open.spotify.com/track/32Ao6xLLir3dPOhQGvqgSB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b191ce6dc0fbfd68bbb67b8" alt="" width="50" /> | FIRST | Last Melody | [EVERGLOW](../../artists/everglow/overview.md) | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 35 | 💚 | [🔗](https://open.spotify.com/track/021L6LlBBtr34BmFRHd9Ic) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739104b6efe6c3483f605d9633" alt="" width="50" /> | Good Girls in the Dark | GOOD MORNING | [YENA](../../artists/yena/overview.md) | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 22 | 💚 | [🔗](https://open.spotify.com/track/0mMS5zDs8U6sGCqHBfCoGp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739104b6efe6c3483f605d9633" alt="" width="50" /> | Good Girls in the Dark | GOOD MORNING | [YENA](../../artists/yena/overview.md) | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 27 | 💚 | [🔗](https://open.spotify.com/track/0mMS5zDs8U6sGCqHBfCoGp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="" width="50" /> | Piano Man | Piano Man | [MAMAMOO](../../artists/mamamoo/overview.md) | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 10 | 💚 | [🔗](https://open.spotify.com/track/2CC7fLFEcJBrO82NUwi9Op) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27329134ca1a4c424b7d98cb0af" alt="" width="50" /> | DUN DUN | reminiscence | [EVERGLOW](../../artists/everglow/overview.md) | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 10 | 💚 | [🔗](https://open.spotify.com/track/3ejAkJLWQSEJDqDXxK3efB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f770ff371eb7015034122c8a" alt="" width="50" /> | Cherry Blossom | 1st Single 'S.i.R' | BOBBY | [Genie Music Corporation](../genie_music_corporation), [Stone Music Entertainment](.) | 8 | 💚 | [🔗](https://open.spotify.com/track/3yWQ5IlzWRPOdtYnQuywcO) |

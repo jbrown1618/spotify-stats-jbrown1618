@@ -224,10 +224,10 @@ Appears as:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 11 | Songwriter, Producer |
-| | Manny Marroquin | 8 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 8 | Producer |
 | | Philip Lawrence | 7 | Songwriter |
 | | Charles Moniz | 6 | Producer |
-| | Serban Ghenea | 6 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 6 | Producer |
 | | James Fauntleroy | 5 | Songwriter |
 | | Ray Romulus | 4 | Songwriter |
 | | Ray McCullough | 4 | Songwriter |
@@ -240,7 +240,7 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | John Hanes | 4 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 4 | Producer |
 | | The Smeezingtons | 4 | Producer |
 | | Brody Brown | 4 | Songwriter |
 | | Jonathan Yip | 4 | Songwriter |
@@ -250,7 +250,7 @@ Appears as:
 | | Brandon Paak Anderson | 3 | Songwriter |
 | <img src="https://i.scdn.co/image/84dc87cca456089fc5cfa2d7593d9d960ca4553f" alt="" width="50" /> | Lin-Manuel Miranda | 3 | Lyricist, Songwriter |
 | | Chris Galland | 2 | Producer |
-| | Ricky Reed | 2 | Arranger, Producer, Songwriter |
+| | [Ricky Reed](../../producers/ricky_reed/overview.md) | 2 | Arranger, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 2 | Producer, Songwriter |
 | | Martin Terefe | 2 | Producer |
 | | Caroline Ailin | 2 | Songwriter |
@@ -304,7 +304,7 @@ Appears as:
 | | Thomas Warren | 1 | Producer |
 | | Jesse Saint John | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6fcd1b700654bccf1adee3ed" alt="" width="50" /> | Megan Thee Stallion | 1 | Songwriter |
-| | Tony Maserati | 1 | Producer |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 1 | Producer |
 | | Nikki Cislyn | 1 | Songwriter |
 | | Robin Fredriksson | 1 | Songwriter |
 | | Picard Brothers | 1 | Producer |

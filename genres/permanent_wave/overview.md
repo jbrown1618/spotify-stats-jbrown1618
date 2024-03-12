@@ -162,12 +162,12 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Philip Selway | 13 | Songwriter |
-| | Ed O'Brien | 13 | Songwriter |
-| | Nigel Godrich | 13 | Producer |
-| | Colin Greenwood | 13 | Songwriter |
-| | Thom Yorke | 13 | Lyricist, Producer, Songwriter, Arranger |
-| | Jonny Greenwood | 13 | Songwriter, Arranger, Producer |
+| | [Philip Selway](../../producers/philip_selway/overview.md) | 13 | Songwriter |
+| | [Ed O'Brien](../../producers/ed_o_brien/overview.md) | 13 | Songwriter |
+| | [Nigel Godrich](../../producers/nigel_godrich/overview.md) | 13 | Producer |
+| | [Colin Greenwood](../../producers/colin_greenwood/overview.md) | 13 | Songwriter |
+| | [Thom Yorke](../../producers/thom_yorke/overview.md) | 13 | Lyricist, Producer, Songwriter, Arranger |
+| | [Jonny Greenwood](../../producers/jonny_greenwood/overview.md) | 13 | Songwriter, Arranger, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 12 | Arranger, Producer, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb45de7ab990a1246c812128b6" alt="" width="50" /> | Chris Martin | 5 | Songwriter |
 | | Jonny Buckland | 5 | Songwriter |
@@ -226,7 +226,7 @@
 | | Jon Hopkins | 1 | Producer |
 | | Simon "Barny" Barnicott | 1 | Producer |
 | | Paul Waaktaar-Savoy | 1 | Songwriter |
-| | Mark "Spike" Stent | 1 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 1 | Producer |
 | | Magne Furuholmen | 1 | Songwriter |
 | | Leslie Bricusse | 1 | Songwriter |
 | | Morten Harket | 1 | Songwriter |

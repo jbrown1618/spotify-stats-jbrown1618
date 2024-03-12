@@ -83,12 +83,12 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Colin Greenwood | 13 | Songwriter |
-| | Ed O'Brien | 13 | Songwriter |
-| | Jonny Greenwood | 13 | Songwriter, Arranger, Producer |
-| | Philip Selway | 13 | Songwriter |
-| | Nigel Godrich | 13 | Producer |
-| | Thom Yorke | 13 | Lyricist, Producer, Songwriter, Arranger |
+| | [Colin Greenwood](../../producers/colin_greenwood/overview.md) | 13 | Songwriter |
+| | [Ed O'Brien](../../producers/ed_o_brien/overview.md) | 13 | Songwriter |
+| | [Jonny Greenwood](../../producers/jonny_greenwood/overview.md) | 13 | Songwriter, Arranger, Producer |
+| | [Philip Selway](../../producers/philip_selway/overview.md) | 13 | Songwriter |
+| | [Nigel Godrich](../../producers/nigel_godrich/overview.md) | 13 | Producer |
+| | [Thom Yorke](../../producers/thom_yorke/overview.md) | 13 | Lyricist, Producer, Songwriter, Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 12 | Arranger, Producer, Lyricist, Songwriter |
 | | Sean Slade | 3 | Producer |
 | | Paul Q. Kolderie | 3 | Producer |

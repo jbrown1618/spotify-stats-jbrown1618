@@ -43,14 +43,14 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Ollounder | 4 | Arranger, Songwriter, Lyricist |
+| | [Ollounder](../../producers/ollounder/overview.md) | 4 | Arranger, Songwriter, Lyricist |
 | | 김홍중 (Kim, Hong Joong) | 4 | Songwriter, Lyricist |
 | | EDEN | 3 | Arranger, Songwriter, Lyricist |
 | | 송민기 (Song, Mingi) | 3 | Songwriter, Lyricist |
-| | 정은경 (Jung, Eun-Kyung) | 3 | Producer |
-| | LEEZ | 3 | Arranger, Songwriter, Lyricist |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 3 | Producer |
+| | [LEEZ](../../producers/leez/overview.md) | 3 | Arranger, Songwriter, Lyricist |
 | | BUDDY | 2 | Arranger, Songwriter, Lyricist |
-| | 구종필 (Koo, Jong-Pil) | 2 | Producer |
+| | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 2 | Producer |
 | | Peperoni | 1 | Arranger, Songwriter |
 | | 홍현걸 (Hong, Hyeon-Geol) | 1 | Lyricist |
 
@@ -62,7 +62,7 @@ Appears as:
 |:---|:---|---:|:---|
 | | 김수정 (김수정) | 1 | Producer |
 | | Maddox | 1 | Arranger, Lyricist, Songwriter |
-| | 양영은 (Yang, Young-eun) | 1 | Producer |
+| | [양영은 (Yang, Young-eun)](../../producers/양영은_(yang,_young-eun)/overview.md) | 1 | Producer |
 | | Tom Norris | 1 | Producer |
 | | Oliv | 1 | Arranger, Songwriter |
 | | 정소리 (Jeong, So-ri) | 1 | Arranger |

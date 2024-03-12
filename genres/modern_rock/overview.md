@@ -57,7 +57,7 @@
 |:---|:---|---:|:---|:---|---:|
 | <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="Bleed American" width="50" /> | The Middle | 479 | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | Mr. Brightside | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="Riot!" width="50" /> | Misery Business | 378 | <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="Dreamland (+ Bonus Levels)" width="50" /> | Heat Waves | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733818b4c636e2a7fdea3bf965" alt="Fleet Foxes" width="50" /> | White Winter Hymnal | 208 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | [You've Got The Love](../../artists/florence_+_the_machine/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733818b4c636e2a7fdea3bf965" alt="Fleet Foxes" width="50" /> | White Winter Hymnal | 216 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | [You've Got The Love](../../artists/florence_+_the_machine/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [What The Water Gave Me](../../artists/florence_+_the_machine/overview.md) | 100 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | [Kiss With A Fist](../../artists/florence_+_the_machine/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> | Madness | 74 | <img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="Demon Days" width="50" /> | Feel Good Inc. | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="Picture Show" width="50" /> | Everybody Talks | 49 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Believer | 0 |
@@ -186,8 +186,8 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Florence Welch | 13 | Songwriter, Lyricist |
-| | Paul Epworth | 7 | Producer, Lyricist, Songwriter |
+| | [Florence Welch](../../producers/florence_welch/overview.md) | 13 | Songwriter, Lyricist |
+| | [Paul Epworth](../../producers/paul_epworth/overview.md) | 7 | Producer, Lyricist, Songwriter |
 | | Isabella Summers | 6 | Songwriter, Producer, Lyricist |
 | | Craig Silvey | 4 | Producer |
 | | Markus Dravs | 4 | Producer |
@@ -213,15 +213,15 @@
 | | Sally Herbert | 3 | Arranger |
 | | Wayne Sermon | 3 | Songwriter |
 | | Gwil Sainsbury | 3 | Songwriter |
-| | Mark "Spike" Stent | 3 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 3 | Producer |
 | | Hayley Williams | 2 | Songwriter |
 | | Adrian Bushby | 2 | Producer |
-| | Kid Harpoon | 2 | Songwriter |
+| | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 2 | Songwriter |
 | | Tommaso Colliva | 2 | Producer |
 | | Robin Pecknold | 2 | Lyricist, Songwriter |
 | | Bullion | 2 | Producer |
 | | Marcus Mumford | 2 | Songwriter |
-| | Ricky Reed | 2 | Producer, Songwriter |
+| | [Ricky Reed](../../producers/ricky_reed/overview.md) | 2 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | Hozier | 2 | Arranger, Lyricist, Producer, Songwriter |
 | | Tom Elmhirst | 2 | Producer |
 | | Ted Dwane | 2 | Songwriter |
@@ -239,7 +239,7 @@
 | | Ruadhri Cushnan | 2 | Producer |
 | | Chris Walla | 2 | Producer |
 | | Josh Mosser | 2 | Producer, Songwriter |
-| | Manny Marroquin | 2 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 2 | Producer |
 | | Matt Allchin | 1 | Songwriter |
 | | Gordon Raphael | 1 | Producer |
 | | Jason Lader | 1 | Producer |
@@ -283,7 +283,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf29db93f7f6a72cbf5f96b59" alt="" width="50" /> | Young the Giant | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e" alt="" width="50" /> | Imagine Dragons | 1 | Producer |
 | | Dave Bayley | 1 | Songwriter |
-| | John Hanes | 1 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 1 | Producer |
 | | Mark Trombino | 1 | Producer |
 | | Arnecia Michelle Harris | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ef3783488fcf0dab0708970" alt="" width="50" /> | Fitz and The Tantrums | 1 | Songwriter |

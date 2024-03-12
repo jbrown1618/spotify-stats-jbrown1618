@@ -47,7 +47,6 @@ Rilo Kiley:
 - indie rock
 - la indie
 - [lilith](../../genres/lilith/overview.md)
-- seattle indie
 
 ## Credits
 
@@ -73,7 +72,7 @@ Rilo Kiley:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Portions for Foxes | Jenny Lewis, Blake Sennett | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Does He Love You? | Jenny Lewis, Blake Sennett | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Accidntel Deth | Jenny Lewis | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | Silver Lining | [Rilo Kiley](overview.md), Jenny Lewis | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | Silver Lining | [Rilo Kiley](.), Jenny Lewis | Producer, Songwriter |
 
 ## Top Producers
 

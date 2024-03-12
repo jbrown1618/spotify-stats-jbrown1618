@@ -327,13 +327,13 @@
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 38 | Songwriter, Lyricist, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 30 | Lyricist, Songwriter, Producer |
-| | Serban Ghenea | 27 | Producer |
-| | Laura Sisk | 20 | Producer |
-| | Jack Antonoff | 18 | Producer, Songwriter |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 27 | Producer |
+| | [Laura Sisk](../../producers/laura_sisk/overview.md) | 20 | Producer |
+| | [Jack Antonoff](../../producers/jack_antonoff/overview.md) | 18 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
-| | Max Martin | 11 | Producer, Songwriter, Lyricist |
-| | Sam Holland | 10 | Producer |
-| | Shellback | 10 | Producer, Songwriter, Lyricist |
+| | [Max Martin](../../producers/max_martin/overview.md) | 11 | Producer, Songwriter, Lyricist |
+| | [Sam Holland](../../producers/sam_holland/overview.md) | 10 | Producer |
+| | [Shellback](../../producers/shellback/overview.md) | 10 | Producer, Songwriter, Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | 10 | Songwriter, Lyricist, Producer |
 
 
@@ -345,11 +345,11 @@
 | | Phil Ramone | 9 | Producer |
 | | Michael Ilbert | 9 | Producer |
 | | Jim Boyer | 9 | Producer |
-| | John Hanes | 9 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 9 | Producer |
 | | John O'Mahony | 8 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | [Imogen Heap](../../artists/imogen_heap/overview.md) | 7 | Lyricist, Producer, Songwriter |
 | | Jonathan Low | 7 | Producer |
-| | Aaron Dessner | 7 | Producer, Songwriter |
+| | [Aaron Dessner](../../producers/aaron_dessner/overview.md) | 7 | Producer, Songwriter |
 | | Kurt Uenala | 6 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 6 | Lyricist, Producer, Songwriter |
 | | Bryce Dessner | 6 | Arranger |
@@ -358,7 +358,7 @@
 | | Emile Haynie | 5 | Producer |
 | | T-Bone Burnett | 5 | Producer |
 | <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | 5 | Lyricist, Songwriter, Producer |
-| | François Tétaz (Tétaz, François) | 5 | Lyricist, Producer, Songwriter |
+| | [François Tétaz (Tétaz, François)](../../producers/françois_tétaz_(tétaz,_françois)/overview.md) | 5 | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | Regina Spektor | 4 | Lyricist, Producer, Songwriter |
 | | Larry Gold | 4 | Arranger |
 | | Justin Niebank | 4 | Producer |
@@ -410,7 +410,7 @@
 | | Paul 'P Dub' Walton | 1 | Producer |
 | | Timothy Fagan | 1 | Songwriter |
 | | Leanne Ungar | 1 | Producer |
-| | Mark "Spike" Stent | 1 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 1 | Producer |
 | | Patrick Benson | 1 | Producer |
 | | Jay Healy | 1 | Producer |
 | | Doug Stegmeyer | 1 | Arranger |
@@ -447,10 +447,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | [Off To The Races](../../artists/lana_del_rey/overview.md) | 195 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="1989" width="50" /> | [Clean](../../artists/taylor_swift/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Machine Gun](../../artists/sara_bareilles/overview.md) | 163 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="reputation" width="50" /> | [This Is Why We Can't Have Nice Things](../../artists/taylor_swift/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Fairytale](../../artists/sara_bareilles/overview.md) | 161 | <img src="https://i.scdn.co/image/ab67616d0000b2738d0e2c824f8328bf7caf1b19" alt="Messenger" width="50" /> | Icarus | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Between the Lines](../../artists/sara_bareilles/overview.md) | 103 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [epiphany](../../artists/taylor_swift/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Lie To Me](../../artists/sara_bareilles/overview.md) | 77 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Meant | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Not Alone](../../artists/sara_bareilles/overview.md) | 60 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Satellite Call](../../artists/sara_bareilles/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [I Choose You](../../artists/sara_bareilles/overview.md) | 52 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [the 1](../../artists/taylor_swift/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Lie To Me](../../artists/sara_bareilles/overview.md) | 118 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [epiphany](../../artists/taylor_swift/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Between the Lines](../../artists/sara_bareilles/overview.md) | 103 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Meant | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [I Choose You](../../artists/sara_bareilles/overview.md) | 86 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Satellite Call](../../artists/sara_bareilles/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Not Alone](../../artists/sara_bareilles/overview.md) | 60 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [the 1](../../artists/taylor_swift/overview.md) | 0 |
 
 ## Years
 

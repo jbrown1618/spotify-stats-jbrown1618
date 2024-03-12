@@ -73,7 +73,7 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](overview.md) | 5 | Songwriter |
-| | Josh Gudwin | 3 | Producer |
+| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 3 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 2 | Producer, Songwriter |
 | | Freddy Wexler | 1 | Producer, Songwriter |
 | | Daniel James | 1 | Producer, Songwriter |
@@ -94,7 +94,7 @@
 | | Poo Bear | 1 | Songwriter |
 | | Rafael Fadul | 1 | Producer |
 | | Jason Evigan | 1 | Producer |
-| | FINNEAS | 1 | Producer, Songwriter |
+| | [FINNEAS](../../producers/finneas/overview.md) | 1 | Producer, Songwriter |
 | | Billy Hickey | 1 | Producer |
 | | Dreamlab | 1 | Producer |
 | | Chris "Tek" O'Ryan | 1 | Producer |

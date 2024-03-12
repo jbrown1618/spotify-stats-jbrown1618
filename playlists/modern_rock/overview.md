@@ -308,13 +308,13 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 12 | 10 | chamber pop |
-| 11 | 10 | seattle indie |
 | 9 | 6 | [lilith](../../genres/lilith/overview.md) |
 | 7 | 6 | indie pop |
 | 6 | 5 | pov: indie |
 | 6 | 5 | la indie |
 | 6 | 5 | funktronica |
 | 5 | 5 | stomp and holler |
+| 5 | 5 | seattle indie |
 | 5 | 5 | modern alternative rock |
 | 9 | 4 | [pop rock](../../genres/pop_rock/overview.md) |
 | 4 | 4 | indie folk |
@@ -407,12 +407,12 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Thom Yorke | 13 | Lyricist, Producer, Songwriter, Arranger |
-| | Colin Greenwood | 13 | Songwriter |
-| | Philip Selway | 13 | Songwriter |
-| | Nigel Godrich | 13 | Producer |
-| | Jonny Greenwood | 13 | Songwriter, Arranger, Producer |
-| | Ed O'Brien | 13 | Songwriter |
+| | [Thom Yorke](../../producers/thom_yorke/overview.md) | 13 | Lyricist, Producer, Songwriter, Arranger |
+| | [Colin Greenwood](../../producers/colin_greenwood/overview.md) | 13 | Songwriter |
+| | [Philip Selway](../../producers/philip_selway/overview.md) | 13 | Songwriter |
+| | [Nigel Godrich](../../producers/nigel_godrich/overview.md) | 13 | Producer |
+| | [Jonny Greenwood](../../producers/jonny_greenwood/overview.md) | 13 | Songwriter, Arranger, Producer |
+| | [Ed O'Brien](../../producers/ed_o_brien/overview.md) | 13 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 12 | Arranger, Producer, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb45de7ab990a1246c812128b6" alt="" width="50" /> | Chris Martin | 5 | Songwriter |
 | | Guy Berryman | 5 | Songwriter |
@@ -456,7 +456,7 @@
 | | Graham Gouldman | 2 | Producer, Songwriter |
 | | Mark Trombino | 2 | Producer |
 | | Jim Warren | 2 | Producer |
-| | Manny Marroquin | 2 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 2 | Producer |
 | | Chris Blair | 2 | Producer |
 | | Randy Staub | 2 | Producer |
 | | Eric Stewart | 2 | Producer, Songwriter |
@@ -495,7 +495,7 @@
 | | Tyler Glenn | 1 | Songwriter |
 | | Andrew Kapner | 1 | Producer |
 | | Ben Sabin | 1 | Producer |
-| | Ricky Reed | 1 | Producer |
+| | [Ricky Reed](../../producers/ricky_reed/overview.md) | 1 | Producer |
 | | Jacob Slichter | 1 | Arranger |
 | | Jonathan Gerring | 1 | Producer |
 | | Albert Hammond, Jr. | 1 | Songwriter |
@@ -529,7 +529,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Me And My Broken Heart | 323 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | [Clocks](../../artists/coldplay/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81" alt="Strange Trails" width="50" /> | The Night We Met | 310 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> | Strip My Mind | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Exit Music (For A Film)](../../artists/radiohead/overview.md) | 264 | <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="Under The Blacklight (Standard Version)" width="50" /> | [Silver Lining](../../artists/rilo_kiley/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733818b4c636e2a7fdea3bf965" alt="Fleet Foxes" width="50" /> | White Winter Hymnal | 208 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Believer | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733818b4c636e2a7fdea3bf965" alt="Fleet Foxes" width="50" /> | White Winter Hymnal | 216 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Believer | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Beggin' | 97 | <img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="Eye To The Telescope" width="50" /> | Black Horse And The Cherry Tree | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="In Rainbows" width="50" /> | [Jigsaw Falling Into Place](../../artists/radiohead/overview.md) | 86 | <img src="https://i.scdn.co/image/ab67616d0000b273d0493658f351b1972a3f174a" alt="Made In Korea?" width="50" /> | sweet little kitty | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> | Madness | 74 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> | Dani California | 0 |

@@ -59,13 +59,13 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Phil Tan | 2 | Producer |
+| | [Phil Tan](../../producers/phil_tan/overview.md) | 2 | Producer |
 | | FRNK | 2 | Producer, Songwriter |
 | | Bill Zimmerman | 2 | Producer |
 | | 강해린 (Kang, Hae-rin) | 1 | Lyricist |
 | | Kristine Bogan | 1 | Lyricist, Songwriter |
 | | 김영현 (Kim, Young-hyun) | 1 | Producer |
-| | Tony Maserati | 1 | Producer |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 1 | Producer |
 | | Ylva Dimberg | 1 | Lyricist, Songwriter |
 | | Henriette Motzfeldt | 1 | Lyricist, Producer, Songwriter |
 | | Nathan Boddy | 1 | Producer |

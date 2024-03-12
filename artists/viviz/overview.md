@@ -47,7 +47,7 @@ VIVIZ:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | Kella Armitage | 1 | Songwriter |
-| | Ryan S. Jhun | 1 | Arranger, Songwriter |
+| | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 1 | Arranger, Songwriter |
 | | Lenno | 1 | Arranger, Songwriter |
 | | Elsa Curran | 1 | Songwriter |
 | | Ellie Suh | 1 | Lyricist |
