@@ -40,7 +40,7 @@
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="" width="50" /> | The Steward of Gondor (feat. Billy Boyd) | The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack) | Howard Shore, Billy Boyd | [Reprise](../..) | 3 | | [🔗](https://open.spotify.com/track/227hmntzKpN4CsYt3RVKcC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="" width="50" /> | The Steward of Gondor (feat. Billy Boyd) | The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack) | Howard Shore, Billy Boyd | [Reprise](../..) | 4 | | [🔗](https://open.spotify.com/track/227hmntzKpN4CsYt3RVKcC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="" width="50" /> | Into the West | The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack) | Annie Lennox | [Reprise](../..) | 0 | | [🔗](https://open.spotify.com/track/0gSEyG7pOFuHM05433EibX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7" alt="" width="50" /> | Gollum's Song | The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack) | Emilíana Torrini | [Reprise](../..) | 0 | | [🔗](https://open.spotify.com/track/0mQ1btcyqFDvTpaCFs04cR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce" alt="" width="50" /> | May It Be | The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack) | Enya | [Reprise](../..) | 0 | | [🔗](https://open.spotify.com/track/7LAJWSKK8JMIZAcblgUMS6) |

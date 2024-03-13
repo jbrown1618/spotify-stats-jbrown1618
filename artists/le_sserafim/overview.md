@@ -20,7 +20,7 @@ LE SSERAFIM:
 
 ## Artist Rank
 LE SSERAFIM is currently:
-- The #13 artist of the last month
+- The #12 artist of the last month
 - The #13 artist of the last 6 months
 - The #18 artist of all time
 

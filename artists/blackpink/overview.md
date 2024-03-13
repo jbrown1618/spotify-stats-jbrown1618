@@ -18,7 +18,7 @@ BLACKPINK:
 
 ## Artist Rank
 BLACKPINK is currently:
-- The #19 artist of the last month
+- The #20 artist of the last month
 - The #17 artist of the last 6 months
 - The #8 artist of all time
 

@@ -21,7 +21,7 @@ ENHYPEN:
 
 ## Artist Rank
 ENHYPEN is currently:
-- The #16 artist of the last month
+- The #15 artist of the last month
 - The #10 artist of the last 6 months
 - The #10 artist of all time
 
