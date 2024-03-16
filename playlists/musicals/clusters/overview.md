@@ -4,7 +4,7 @@
 
 ## Cluster #1
 
-29 tracks
+33 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
@@ -15,12 +15,12 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | The Confrontation | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | Hugh Jackman, Russell Crowe | [Polydor Records](../../../../labels/polydor_records) | 0 | | [🔗](https://open.spotify.com/track/31dATgmleDm4vrtFKkRhEd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Confrontation | Les Misérables (Original Broadway Cast Recording) | Colm Wilkinson, Terrence Mann | [Verve (Adult Contemporary) MC](../../../../labels/verve_(adult_contemporary)_mc) | 0 | | [🔗](https://open.spotify.com/track/2eqCnMN561yzr6wag6VeiB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | One Last Time | Hamilton (Original Broadway Cast Recording) | Christopher Jackson, Lin-Manuel Miranda, Original Broadway Cast of Hamilton | [Atlantic Records](../../../../labels/atlantic_records) | 0 | | [🔗](https://open.spotify.com/track/0Iys022UwQ8xBfxE1g4nWZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="" width="50" /> | It's Quiet Uptown | Hamilton (Original Broadway Cast Recording) | Renée Elise Goldsberry, Lin-Manuel Miranda, Phillipa Soo, Original Broadway Cast of Hamilton | [Atlantic Records](../../../../labels/atlantic_records) | 0 | | [🔗](https://open.spotify.com/track/40LYL1Z6xgCn5cBybo5K0D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="" width="50" /> | Dancing Through Life - From "Wicked" Original Broadway Cast Recording/2003 | Wicked (Original Broadway Cast Recording / Deluxe Edition) | Stephen Schwartz, Norbert Leo Butz, Kristin Chenoweth, Christopher Fitzgerald, Michelle Federer, Idina Menzel, Stephen Oremus, Alex Lacamoire | [Verve (Adult Contemporary) MC](../../../../labels/verve_(adult_contemporary)_mc) | 0 | | [🔗](https://open.spotify.com/track/45Yr7rD2vH3OsTRseT6gfA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | Giants In The Sky | Into The Woods (2022 Broadway Cast Recording) | Cole Thompson | Craft Recordings | 315 | | [🔗](https://open.spotify.com/track/3RDesmUopi3TgcFJdPAZnN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | Giants In The Sky | Into The Woods (2022 Broadway Cast Recording) | Cole Thompson | [Craft Recordings](../../../../labels/craft_recordings) | 315 | | [🔗](https://open.spotify.com/track/3RDesmUopi3TgcFJdPAZnN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273687e8a165b272440a68a480f" alt="" width="50" /> | Elephant Love Medley - From "Moulin Rouge" Soundtrack | Moulin Rouge | Nicole Kidman, Ewan McGregor, Jamie Allen | [Moulin Rouge / Interscope](../../../../labels/interscope_records) | 0 | | [🔗](https://open.spotify.com/track/1M5iGApccrA2uBzQMELW9w) |
 ## Cluster #2
 
-14 tracks
+15 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
@@ -45,8 +45,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | Angel Of Music | The Phantom Of The Opera | Andrew Lloyd Webber, Phantom Of The Opera Original London Cast, Janet Devenish, Sarah Brightman | [Polydor Records](../../../../labels/polydor_records) | 0 | | [🔗](https://open.spotify.com/track/48eRbUfNOF4xnNHwSSYubb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="" width="50" /> | Learn To Be Lonely - From 'The Phantom Of The Opera' Motion Picture | The Phantom Of The Opera (Original Motion Picture Soundtrack) | Andrew Lloyd Webber, Minnie Driver | [UMC (Universal Music Catalogue)](../../../../labels/umc_(universal_music_catalogue)) | 0 | | [🔗](https://open.spotify.com/track/3LpvO6PZRuQ0OeFL1LQwtB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="" width="50" /> | The Mirror (Angel Of Music) - From 'The Phantom Of The Opera' Motion Picture | The Phantom Of The Opera (Original Motion Picture Soundtrack) | Andrew Lloyd Webber, Gerard Butler, Emmy Rossum | [UMC (Universal Music Catalogue)](../../../../labels/umc_(universal_music_catalogue)) | 0 | | [🔗](https://open.spotify.com/track/5PRz8hvi9y6S36WIreol1U) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="" width="50" /> | The Music Of The Night - From 'The Phantom Of The Opera' Motion Picture | The Phantom Of The Opera (Original Motion Picture Soundtrack) | Andrew Lloyd Webber, Gerard Butler | [UMC (Universal Music Catalogue)](../../../../labels/umc_(universal_music_catalogue)) | 0 | | [🔗](https://open.spotify.com/track/5byUll2f3Zgnli3wJPoKRL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="" width="50" /> | All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture | The Phantom Of The Opera (Original Motion Picture Soundtrack) | Andrew Lloyd Webber, Patrick Wilson, Emmy Rossum | [UMC (Universal Music Catalogue)](../../../../labels/umc_(universal_music_catalogue)) | 0 | | [🔗](https://open.spotify.com/track/5klrh466oGToybceGHPGAX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | On My Own | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | Samantha Barks | [Polydor Records](../../../../labels/polydor_records) | 0 | | [🔗](https://open.spotify.com/track/3Mr6ofzF6ZuYiqHh8qNud3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | I Dreamed A Dream - From "Les Misérables" | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | Anne Hathaway | [Polydor Records](../../../../labels/polydor_records) | 0 | | [🔗](https://open.spotify.com/track/7CNVenAoty0IomwFPaMaaH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Come To Me (Fantine's Death) | Les Misérables (Original Broadway Cast Recording) | Colm Wilkinson, Randy Graff | [Verve (Adult Contemporary) MC](../../../../labels/verve_(adult_contemporary)_mc) | 0 | | [🔗](https://open.spotify.com/track/1YQ0vVVE0Fd8IwxT19NrVF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | On My Own | Les Misérables (Original Broadway Cast Recording) | Frances Ruffelle | [Verve (Adult Contemporary) MC](../../../../labels/verve_(adult_contemporary)_mc) | 0 | | [🔗](https://open.spotify.com/track/0XLXG7LJ8jLMhHC5qH9rq6) |

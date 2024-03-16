@@ -127,7 +127,7 @@
 | 1 | 0 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_/overview.md) |
 | 1 | 0 | [Sony Classical](../../labels/sony_classical/overview.md) |
 | 1 | 0 | Masterworks Broadway |
-| 1 | 0 | Craft Recordings |
+| 1 | 0 | [Craft Recordings](../../labels/craft_recordings/overview.md) |
 
 ![Bar chart of top 8 record labels](../../images/genres/broadway/labels.png)
 

@@ -146,7 +146,7 @@ Bruno Mars:
 | | Devon Gallaspy | 1 | Songwriter |
 | | Ken Lewis | 1 | Producer |
 | | Jeremy Ruzumna | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcb20fdd7386ecab9d34d0e71" alt="" width="50" /> | Cardi B | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4e8a7e14e2f602eb9af24e31" alt="" width="50" /> | Cardi B | 1 | Songwriter |
 | | Kaveh Rastegar | 1 | Songwriter |
 | | Claude Kelly | 1 | Songwriter |
 | | Jeff Chestek | 1 | Producer |

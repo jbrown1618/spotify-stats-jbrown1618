@@ -134,7 +134,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 3 | 0 | Blue Note Records |
-| 2 | 0 | Craft Recordings |
+| 2 | 0 | [Craft Recordings](../../labels/craft_recordings/overview.md) |
 | 2 | 0 | CAPITOL CATALOG MKT (C92) |
 | 1 | 0 | Verve |
 | 1 | 0 | [UME - Global Clearing House](../../labels/ume_-_global_clearing_house/overview.md) |

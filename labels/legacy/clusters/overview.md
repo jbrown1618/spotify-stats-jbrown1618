@@ -32,7 +32,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd7d4673627a7674f0103c1d" alt="" width="50" /> | I'm Confessin' (That I Love You) | Solo Monk (Expanded Edition) | Thelonious Monk | [Columbia](../../../columbia), [Legacy](../..) | 0 | | [🔗](https://open.spotify.com/track/6kLp24Op7cOu8iQkU46sBv) |
 ## Cluster #3
 
-9 tracks
+10 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
@@ -42,6 +42,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812" alt="" width="50" /> | Eye of the Tiger | Rocky IV | Survivor | [Volcano/Legacy](../..) | 0 | | [🔗](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736b75d57d2d070c0c4afb3f9a" alt="" width="50" /> | Watermelon Man | Head Hunters | Herbie Hancock | [Columbia](../../../columbia), [Legacy](../..) | 0 | | [🔗](https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d80928fb032fdf43d32399d2" alt="" width="50" /> | Let's Hear It for the Boy - From "Footloose" Original Soundtrack | Let's Hear It for the Boy (Expanded Edition) | Deniece Williams | [Columbia](../../../columbia), [Legacy](../..) | 0 | | [🔗](https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363fa4751355b66f236943275" alt="" width="50" /> | Don't Stop Believin' (2022 Remaster) | Escape (2022 Remaster) | Journey | [Columbia](../../../columbia), [Legacy](../..) | 0 | | [🔗](https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e8045e318486885fe243817" alt="" width="50" /> | Any Way You Want It | Departure | Journey | [Columbia](../../../columbia), [Legacy](../..) | 0 | | [🔗](https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b08f59c7648a7a67130ca0ea" alt="" width="50" /> | Thank You (Falettinme Be Mice Elf Agin) - Single Version | Greatest Hits | Sly & The Family Stone | [Epic](../../../epic), [Legacy](../..) | 0 | 💚 | [🔗](https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd" alt="" width="50" /> | Break Ya Neck | Genesis | Busta Rhymes | [J Records/Legacy](../..) | 0 | | [🔗](https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf) |

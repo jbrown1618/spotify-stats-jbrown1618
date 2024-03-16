@@ -1,14 +1,14 @@
 # Geffen
 
-16 songs
+18 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Geffen (9 tracks)
-- Geffen* (6 tracks)
+- Geffen (10 tracks)
+- Geffen* (7 tracks)
 - Geffen Records (1 tracks)
 
 ## Top Artists
@@ -23,22 +23,24 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb86b13e4d2e65ebf694384ef4" alt="" width="50" /> | 2 | 0 | John Williams | [🔗](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b843b322415ab92ae8edbfa" alt="" width="50" /> | 1 | 0 | John Scott Trotter & His Orchestra | [🔗](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) |
 | <img src="https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b" alt="" width="50" /> | 1 | 0 | Nirvana | [🔗](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5da36f8b98dd965336a1507a" alt="" width="50" /> | 1 | 0 | blink-182 | [🔗](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) |
 | | 1 | 0 | Ken Darby Singers | [🔗](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbec4ae689dc30a2b59a19038" alt="" width="50" /> | 1 | 0 | Bobby Helms | [🔗](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) |
 
 
 <details>
-<summary>See all 12 artists</summary>
+<summary>See all 14 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb451eb07ddc6e68d3e474c2bf" alt="" width="50" /> | 1 | 0 | Lynyrd Skynyrd | [🔗](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbec4ae689dc30a2b59a19038" alt="" width="50" /> | 1 | 0 | Bobby Helms | [🔗](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) |
 | <img src="https://i.scdn.co/image/21fd9a008e669eeebcc5ddf1e7aaf049eba8a634" alt="" width="50" /> | 1 | 0 | The Del-Vikings | [🔗](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcec2dd52046443079ba66472" alt="" width="50" /> | 1 | 0 | Burl Ives | [🔗](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) |
 
 </details>
 
 
-![Bar chart of top 12 artists](../../images/labels/geffen/artists.png)
+![Bar chart of top 14 artists](../../images/labels/geffen/artists.png)
 
 ## Top Albums
 
@@ -57,38 +59,40 @@ Appears as:
 
 
 <details>
-<summary>See all 14 albums</summary>
+<summary>See all 16 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac" alt="" width="50" /> | 1 | 0 | Second Helping (Expanded Edition) | 1974-04-15 | [🔗](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" alt="" width="50" /> | 1 | 0 | Nevermind (Remastered) | 1991-09-26 | [🔗](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e8ed9b5848e7139dc087c48" alt="" width="50" /> | 1 | 0 | Holiday Inn (Original Motion Picture Soundtrack) | 1942-01-01 | [🔗](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9dfe5788911744490bfb431" alt="" width="50" /> | 1 | 0 | Have A Holly Jolly Christmas | 1965-01-01 | [🔗](https://open.spotify.com/album/5r5iTtNflB2DAKO1t5ih8f) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" alt="" width="50" /> | 1 | 0 | Enema Of The State | 1999-06-01 | [🔗](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c223c0c9fc255e7019a5296a" alt="" width="50" /> | 1 | 0 | Come Go With Me: The Best Of The Del-Vikings | 1997-01-01 | [🔗](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) |
 
 </details>
 
 
-![Bar chart of top 14 albums](../../images/labels/geffen/albums.png)
+![Bar chart of top 16 albums](../../images/labels/geffen/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 4 | 3 | [rock](../../genres/rock/overview.md) |
+| 6 | 3 | [rock](../../genres/rock/overview.md) |
+| 4 | 3 | [hard rock](../../genres/hard_rock/overview.md) |
+| 4 | 3 | [classic rock](../../genres/classic_rock/overview.md) |
+| 4 | 3 | [album rock](../../genres/album_rock/overview.md) |
 | 3 | 3 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
 | 3 | 3 | torch song |
 | 3 | 3 | soul blues |
 | 3 | 3 | [soul](../../genres/soul/overview.md) |
 | 3 | 3 | jazz blues |
-| 3 | 3 | [hard rock](../../genres/hard_rock/overview.md) |
-| 3 | 3 | [classic rock](../../genres/classic_rock/overview.md) |
 | 3 | 3 | [british invasion](../../genres/british_invasion/overview.md) |
-| 3 | 3 | [album rock](../../genres/album_rock/overview.md) |
 
 
 <details>
-<summary>See all 24 genres</summary>
+<summary>See all 30 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -100,17 +104,23 @@ Appears as:
 | 2 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 2 | 0 | easy listening |
 | 2 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
+| 1 | 0 | southern rock |
+| 1 | 0 | socal pop punk |
 | 1 | 0 | rock-and-roll |
 | 1 | 0 | rhythm and blues |
+| 1 | 0 | punk |
+| 1 | 0 | pop punk |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
+| 1 | 0 | [modern rock](../../genres/modern_rock/overview.md) |
 | 1 | 0 | grunge |
 | 1 | 0 | doo-wop |
 | 1 | 0 | american folk revival |
+| 1 | 0 | alternative metal |
 
 </details>
 
 
-![Bar chart of top 24 genres](../../images/labels/geffen/genres.png)
+![Bar chart of top 30 genres](../../images/labels/geffen/genres.png)
 
 ## Top Producers
 
@@ -161,7 +171,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="" width="50" /> | My Generation - Stereo Version | My Generation (Stereo Version) | [The Who](../../artists/the_who/overview.md) | [Geffen](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="" width="50" /> | I'd Rather Go Blind | Tell Mama | Etta James | [Geffen](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d3eda886f81a2bad9274f02" alt="" width="50" /> | Won't Get Fooled Again - Remix | Who's Next (Expanded Edition) | [The Who](../../artists/the_who/overview.md) | [Geffen*](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/1W1GpfPujmgp2vQqcpUhtU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" alt="" width="50" /> | Smells Like Teen Spirit | Nevermind (Remastered) | Nirvana | [Geffen](.) | 0 | | [🔗](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac" alt="" width="50" /> | Sweet Home Alabama | Second Helping (Expanded Edition) | Lynyrd Skynyrd | [Geffen*](.) | 0 | | [🔗](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) |
 
 
 <details>
@@ -169,10 +179,12 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" alt="" width="50" /> | Smells Like Teen Spirit | Nevermind (Remastered) | Nirvana | [Geffen](.) | 0 | | [🔗](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f255b4346b93e3397e96d40f" alt="" width="50" /> | Jingle Bell Rock | The Classic Years: 1956-1962 | Bobby Helms | [Geffen](.) | 0 | | [🔗](https://open.spotify.com/track/3hBXvHLlTHvnbwrPbeoyAj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27392f051ce3c585b5c2db21d52" alt="" width="50" /> | Theme From Jurassic Park | Jurassic Park | John Williams | [Geffen*](.) | 0 | | [🔗](https://open.spotify.com/track/2TZbQZXOuR8osP2AK8yYMN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27392f051ce3c585b5c2db21d52" alt="" width="50" /> | Welcome To Jurassic Park | Jurassic Park | John Williams | [Geffen*](.) | 0 | | [🔗](https://open.spotify.com/track/7MW1YzseA4CGfrZMBLqQWK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c223c0c9fc255e7019a5296a" alt="" width="50" /> | Come Go With Me | Come Go With Me: The Best Of The Del-Vikings | The Del-Vikings | [Geffen](.) | 0 | | [🔗](https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" alt="" width="50" /> | All The Small Things | Enema Of The State | blink-182 | [Geffen](.) | 0 | | [🔗](https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dec0d479b10bccff532074ed" alt="" width="50" /> | Closing Time | 20th Century Masters: The Millennium Collection: Best Of Semisonic | Semisonic | [Geffen*](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17" alt="" width="50" /> | Moonlight | Red Moon In Venus | Kali Uchis | [Geffen Records](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3) |
 

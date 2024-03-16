@@ -96,7 +96,7 @@ Maroon 5:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="" width="50" /> | [Maroon 5](overview.md) | 1 | Producer |
-| | Cirkut | 1 | Producer, Songwriter |
+| | [Cirkut](../../producers/cirkut/overview.md) | 1 | Producer, Songwriter |
 | | Ammo | 1 | Producer, Songwriter |
 | | [John Hanes](../../producers/john_hanes/overview.md) | 1 | Producer |
 | | Mike Posner | 1 | Songwriter |

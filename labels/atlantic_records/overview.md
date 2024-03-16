@@ -1,13 +1,13 @@
 # Atlantic Records
 
-60 songs
+61 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Atlantic Records (41 tracks)
+- Atlantic Records (42 tracks)
 - Aftermath Entertainment/Atlantic (6 tracks)
 - Atlantic Records/ATG (2 tracks)
 - Atlantic/KSR (2 tracks)
@@ -27,7 +27,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb446b2d505542a9424dfdfb16" alt="" width="50" /> | 7 | 3 | Leslie Odom Jr. | [🔗](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) |
 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | 6 | 3 | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 6 | 3 | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcb20fdd7386ecab9d34d0e71" alt="" width="50" /> | 3 | 3 | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4e8a7e14e2f602eb9af24e31" alt="" width="50" /> | 3 | 3 | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
 | <img src="https://i.scdn.co/image/84dc87cca456089fc5cfa2d7593d9d960ca4553f" alt="" width="50" /> | 8 | 2 | Lin-Manuel Miranda | [🔗](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | 3 | 2 | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | 2 | 2 | Lizzo | [🔗](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) |
@@ -35,7 +35,7 @@ Appears as:
 
 
 <details>
-<summary>See all 54 artists</summary>
+<summary>See all 55 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -52,11 +52,12 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08635ff0ed30023d2ee764a1" alt="" width="50" /> | 1 | 1 | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb718ddcdbdde85659512e7364" alt="" width="50" /> | 1 | 1 | Ally Brooke | [🔗](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdaed24d10b1ac9addfb8a9f1" alt="" width="50" /> | 1 | 1 | [Clean Bandit](../../artists/clean_bandit/overview.md) | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4e125f9c0f56dfb73fb97eaa" alt="" width="50" /> | 1 | 1 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | 1 | 1 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | 1 | 1 | B.o.B | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | 1 | 1 | CeeLo Green | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 1 | 1 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d8e3ecf59f556b8e4fafce8" alt="" width="50" /> | 1 | 1 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb25806739a86070d817a9588d" alt="" width="50" /> | 1 | 1 | Ava Max | [🔗](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba52d6095be04ca6691ba9a96" alt="" width="50" /> | 1 | 1 | Jess Glynne | [🔗](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e4be3cd76cff0dd9c80c7133" alt="" width="50" /> | 1 | 1 | Sydney James Harcourt | [🔗](https://open.spotify.com/artist/2fHcpUAFhqmfloo2HkBN3e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 1 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
@@ -106,7 +107,7 @@ Appears as:
 
 
 <details>
-<summary>See all 36 albums</summary>
+<summary>See all 37 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -118,6 +119,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="" width="50" /> | 1 | 1 | Please Me | 2019-02-15 | [🔗](https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e2a93f34e3c52c12f2a5578f" alt="" width="50" /> | 1 | 1 | New Eyes | 2014-06-02 | [🔗](https://open.spotify.com/album/4a6DxkhmMvvEdPXxm4ergN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734f89844c76d620ff098ef5c6" alt="" width="50" /> | 1 | 1 | Low Key (feat. Tyga) | 2019-01-31 | [🔗](https://open.spotify.com/album/5Wba3IvT61Jz2kZDVKbrxH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7" alt="" width="50" /> | 1 | 1 | Heaven & Hell | 2020-09-18 | [🔗](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="" width="50" /> | 1 | 1 | Finesse (Remix) [feat. Cardi B] | 2017-12-20 | [🔗](https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192" alt="" width="50" /> | 1 | 1 | Dance The Night (From Barbie The Album) | 2023-05-25 | [🔗](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d51081892dbe3f1ddf28914" alt="" width="50" /> | 1 | 1 | Cuz I Love You (Deluxe) | 2019-05-03 | [🔗](https://open.spotify.com/album/74gSdSHe71q7urGWMMn3qB) |
@@ -146,7 +148,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 31 | 22 | [pop](../../genres/pop/overview.md) |
+| 32 | 23 | [pop](../../genres/pop/overview.md) |
 | 18 | 14 | [dance pop](../../genres/dance_pop/overview.md) |
 | 10 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
 | 3 | 3 | [uk pop](../../genres/uk_pop/overview.md) |
@@ -192,7 +194,7 @@ Appears as:
 | 3 | 0 | [album rock](../../genres/album_rock/overview.md) |
 | 2 | 0 | trap |
 | 2 | 0 | pop rap |
-| 2 | 0 | hip hop |
+| 2 | 0 | [hip hop](../../genres/hip_hop/overview.md) |
 | 2 | 0 | australian pop |
 | 2 | 0 | australian dance |
 | 1 | 0 | viral rap |
@@ -225,12 +227,12 @@ Appears as:
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 11 | Songwriter, Producer |
 | | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 8 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 7 | Producer |
 | | Philip Lawrence | 7 | Songwriter |
 | | Charles Moniz | 6 | Producer |
-| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 6 | Producer |
 | | James Fauntleroy | 5 | Songwriter |
 | | Ray Romulus | 4 | Songwriter |
-| | Ray McCullough | 4 | Songwriter |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 4 | Producer |
 | | Ari Levine | 4 | Producer, Songwriter |
 | | Jeremy Reeves | 4 | Songwriter |
 
@@ -240,73 +242,76 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [John Hanes](../../producers/john_hanes/overview.md) | 4 | Producer |
-| | The Smeezingtons | 4 | Producer |
+| | Ray McCullough | 4 | Songwriter |
 | | Brody Brown | 4 | Songwriter |
+| | The Smeezingtons | 4 | Producer |
 | | Jonathan Yip | 4 | Songwriter |
-| | The Stereotypes | 3 | Producer |
 | | Andrew Wyatt | 3 | Songwriter, Producer |
 | | D'Mile | 3 | Producer, Songwriter |
 | | Brandon Paak Anderson | 3 | Songwriter |
+| | The Stereotypes | 3 | Producer |
 | <img src="https://i.scdn.co/image/84dc87cca456089fc5cfa2d7593d9d960ca4553f" alt="" width="50" /> | Lin-Manuel Miranda | 3 | Lyricist, Songwriter |
 | | Chris Galland | 2 | Producer |
 | | [Ricky Reed](../../producers/ricky_reed/overview.md) | 2 | Arranger, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 2 | Producer, Songwriter |
-| | Martin Terefe | 2 | Producer |
 | | Caroline Ailin | 2 | Songwriter |
 | | Chris Walla | 2 | Producer |
+| | Martin Terefe | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | Jason Mraz | 2 | Lyricist, Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 2 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | Charli XCX | 2 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | Lizzo | 2 | Songwriter |
-| | Shampoo Press & Curl | 2 | Producer |
 | | Boo Mitchell | 2 | Producer |
+| | Shampoo Press & Curl | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | Lizzo | 2 | Songwriter |
 | | Benjamin Gibbard | 2 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735161c380bfea9322a4ef067f" alt="" width="50" /> | Alex Lacamoire | 2 | Arranger |
-| | Beau Sorenson | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcb20fdd7386ecab9d34d0e71" alt="" width="50" /> | Cardi B | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | Charli XCX | 2 | Songwriter |
 | | Larry Gold | 2 | Arranger |
-| | Imad Royal | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4e8a7e14e2f602eb9af24e31" alt="" width="50" /> | Cardi B | 2 | Songwriter |
+| | Beau Sorenson | 2 | Producer |
+| | Anoo Bhagavan | 1 | Songwriter |
 | | Cermyth Williams | 1 | Songwriter |
-| | Joshua Lopez | 1 | Songwriter |
-| | Lionel Crasta | 1 | Producer |
-| | Evan LaRay | 1 | Producer |
-| | Jeff Bhasker | 1 | Producer |
-| | Mike Caren | 1 | Songwriter |
-| | Noonie Bao | 1 | Songwriter |
-| | Teddy Geiger | 1 | Producer, Songwriter |
-| | Julian Bunetta | 1 | Songwriter |
-| | Jens Jungkurth | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B | 1 | Songwriter |
-| | Big Sean | 1 | Songwriter |
-| | Digital Farm Animals | 1 | Producer, Songwriter |
-| | Ethan Shumaker | 1 | Producer |
-| | Bill Malina | 1 | Producer |
+| | Jesse Saint John | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb718ddcdbdde85659512e7364" alt="" width="50" /> | Ally Brooke | 1 | Songwriter |
+| | Lionel Crasta | 1 | Producer |
+| | Noonie Bao | 1 | Songwriter |
+| | Jeff Bhasker | 1 | Producer |
+| | Teddy Geiger | 1 | Producer, Songwriter |
+| | Jens Jungkurth | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb25806739a86070d817a9588d" alt="" width="50" /> | Ava Max | 1 | Songwriter |
+| | Digital Farm Animals | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B | 1 | Songwriter |
+| | Ethan Shumaker | 1 | Producer |
+| | Cook | 1 | Songwriter |
+| | Big Sean | 1 | Songwriter |
+| | Julian Bunetta | 1 | Songwriter |
+| | Imad Royal | 1 | Producer, Songwriter |
+| | Mike Caren | 1 | Songwriter |
+| | Madison Love | 1 | Songwriter |
+| | Joshua Lopez | 1 | Songwriter |
+| | Thomas Warren | 1 | Producer |
 | | Malcolm McLaren | 1 | Songwriter |
 | | Oscar Holter | 1 | Producer, Songwriter |
-| | Emile Haynie | 1 | Producer |
 | | Larry Price | 1 | Songwriter |
 | | Patrick Kehrier | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1d8e3ecf59f556b8e4fafce8" alt="" width="50" /> | Tyga | 1 | Songwriter |
-| | Alexander Soifer | 1 | Producer, Songwriter |
-| | James Foye III | 1 | Songwriter |
-| | Ayo the Producer | 1 | Producer, Songwriter |
-| | Anoo Bhagavan | 1 | Songwriter |
-| | Frank Ski | 1 | Songwriter |
-| | Ben Hogarth | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08635ff0ed30023d2ee764a1" alt="" width="50" /> | Colbie Caillat | 1 | Songwriter |
+| | Jacob Kasher | 1 | Songwriter |
+| | Alexander Soifer | 1 | Producer, Songwriter |
+| | Ayo the Producer | 1 | Producer, Songwriter |
+| | Frank Ski | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1d8e3ecf59f556b8e4fafce8" alt="" width="50" /> | Tyga | 1 | Songwriter |
+| | Ben Hogarth | 1 | Producer |
 | | Wayne Gordon | 1 | Producer |
 | | Ronald Larkins | 1 | Songwriter |
+| | Emile Haynie | 1 | Producer |
 | | Jimmy Napes | 1 | Songwriter |
-| | Jacob Kasher | 1 | Songwriter |
-| | Leslie Brathwaite | 1 | Producer |
-| | Thomas Warren | 1 | Producer |
-| | Jesse Saint John | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6fcd1b700654bccf1adee3ed" alt="" width="50" /> | Megan Thee Stallion | 1 | Songwriter |
-| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 1 | Producer |
-| | Nikki Cislyn | 1 | Songwriter |
+| | Leslie Brathwaite | 1 | Producer |
+| | TIX | 1 | Songwriter |
+| | Bill Malina | 1 | Producer |
+| | Antonio Tucci Jr. | 1 | Producer |
+| | Evan LaRay | 1 | Producer |
 | | Robin Fredriksson | 1 | Songwriter |
+| | Terrace Martin | 1 | Producer |
 | | Picard Brothers | 1 | Producer |
 | | Jack Patterson | 1 | Producer, Songwriter |
 | | Jonas von der Burg | 1 | Songwriter |
@@ -318,7 +323,7 @@ Appears as:
 | | Claude Kelly | 1 | Songwriter |
 | | SORANA | 1 | Songwriter |
 | | Sky Adams | 1 | Producer, Songwriter |
-| | Alex Venguer | 1 | Producer |
+| | James Foye III | 1 | Songwriter |
 | | Brandon Bost | 1 | Producer |
 | | Kaveh Rastegar | 1 | Songwriter |
 | | Jeremy Ruzumna | 1 | Songwriter |
@@ -327,9 +332,6 @@ Appears as:
 | | Timothy Fagan | 1 | Songwriter |
 | | Iain Hill | 1 | Producer |
 | | Niclas von der Burg | 1 | Songwriter |
-| | Steven Cheung | 1 | Songwriter |
-| | Shawn "Source" Jarrett | 1 | Producer |
-| | Terrace Martin | 1 | Producer |
 
 </details>
 
@@ -389,6 +391,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="" width="50" /> | Boss Bitch | Boss Bitch | [Doja Cat](../../artists/doja_cat/overview.md) | [Atlantic Records](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="" width="50" /> | At My Worst | The Prelude | Pink Sweat$ | [Atlantic Records](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="" width="50" /> | WAP (feat. Megan Thee Stallion) | WAP (feat. Megan Thee Stallion) | Cardi B, Megan Thee Stallion | [Atlantic/KSR](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7" alt="" width="50" /> | Sweet but Psycho | Heaven & Hell | Ava Max | [Atlantic Records](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | 777 | An Evening With Silk Sonic | [Bruno Mars](../../artists/bruno_mars/overview.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](.) | 0 | | [🔗](https://open.spotify.com/track/67BOjO8BESXYNU5E6qDcUv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | After Last Night (with Thundercat & Bootsy Collins) | An Evening With Silk Sonic | [Bruno Mars](../../artists/bruno_mars/overview.md), Anderson .Paak, Silk Sonic, Thundercat, Bootsy Collins | [Aftermath Entertainment/Atlantic](.) | 0 | | [🔗](https://open.spotify.com/track/3jiKUMXqwEodB7gVv1RMZU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | Fly As Me | An Evening With Silk Sonic | [Bruno Mars](../../artists/bruno_mars/overview.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/3a6FcTyvSf0ED3VXeH3PJ5) |

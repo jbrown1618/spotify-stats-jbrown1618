@@ -9,7 +9,7 @@
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2732325e0aa6cad94d104ea055e" alt="" width="50" /> | LUNA | BLOOD MOON | ONEUS | [RBW Inc.](../../../../labels/rbw_inc_) | 0 | 💚 | [🔗](https://open.spotify.com/track/5L2uuQUMiub01LRhTKRCFj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Shhh | KISS OF LIFE | [KISS OF LIFE](../../../../artists/kiss_of_life/overview.md) | S2 ENTERTAINMENT INC. | 0 | 💚 | [🔗](https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Shhh | KISS OF LIFE | [KISS OF LIFE](../../../../artists/kiss_of_life/overview.md) | [S2 ENTERTAINMENT INC.](../../../../labels/s2_entertainment_inc_) | 0 | 💚 | [🔗](https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bdf5051b85408bc0967122f9" alt="" width="50" /> | Hands Up | Hands Up | Cherry Bullet | [FNC Entertainment](../../../../labels/fnc_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/6KxACudfT4vVXnDUkjU6lN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318a15ed7d84a6c773126b12b" alt="" width="50" /> | After School | We play | Weeekly | PLAY M ENTERTAINMENT CORP. | 0 | | [🔗](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fca604ab938f3f3319971a61" alt="" width="50" /> | 기기괴괴 | 기기괴괴 | PinkFantasy | 마이돌엔터테인먼트 | 0 | 💚 | [🔗](https://open.spotify.com/track/6ZERrx4VYGplqKlydGcLMi) |

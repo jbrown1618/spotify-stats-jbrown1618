@@ -269,7 +269,7 @@
 | 2 | 1 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 2 | 1 | modern folk rock |
 | 2 | 1 | [lilith](../../genres/lilith/overview.md) |
-| 2 | 1 | hip hop |
+| 2 | 1 | [hip hop](../../genres/hip_hop/overview.md) |
 | 2 | 1 | folk rock |
 | 2 | 1 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 2 | 1 | chicago rap |
@@ -426,7 +426,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a" alt="" width="50" /> | Kanye West | 1 | Producer, Songwriter |
 | | [Phil Tan](../../producers/phil_tan/overview.md) | 1 | Producer |
 | | apl.de.ap | 1 | Songwriter |
-| | Cirkut | 1 | Producer, Songwriter |
+| | [Cirkut](../../producers/cirkut/overview.md) | 1 | Producer, Songwriter |
 | | Ben H. Allen | 1 | Producer |
 | | Ira Newborn | 1 | Arranger |
 | | Printz Board | 1 | Songwriter |

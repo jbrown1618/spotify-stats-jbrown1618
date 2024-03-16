@@ -1,6 +1,6 @@
 # Universal Music LLC
 
-76 songs
+77 songs
 
 [See Track Features](audio_features.md)
 
@@ -8,7 +8,7 @@
 
 Appears as:
 - Universal Music LLC (43 tracks)
-- Universal Records (20 tracks)
+- Universal Records (21 tracks)
 - Universal Music Ltd. (8 tracks)
 - Universal/Island Def Jam (2 tracks)
 - Fuzzy Door Productions/Universal (1 tracks)
@@ -32,7 +32,7 @@ Appears as:
 
 
 <details>
-<summary>See all 34 artists</summary>
+<summary>See all 35 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -44,6 +44,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb28c2dea644b78257ccfb4520" alt="" width="50" /> | 1 | 1 | Seth MacFarlane | [🔗](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 1 | 1 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | 1 | 1 | Iggy Azalea | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebce5451b5cc60faf1992e969a" alt="" width="50" /> | 1 | 1 | Of Monsters and Men | [🔗](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb38a96d85b0580670123280e" alt="" width="50" /> | 1 | 1 | ZUTOMAYO | [🔗](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | 1 | 1 | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 1 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
@@ -83,7 +84,7 @@ Appears as:
 
 
 <details>
-<summary>See all 48 albums</summary>
+<summary>See all 49 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -96,6 +97,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | 1 | 1 | Uh-Oh | 2019-06-26 | [🔗](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="" width="50" /> | 1 | 1 | POPPY (Japanese Ver.) | 2022-11-16 | [🔗](https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273379ddd38212be64d41e7250f" alt="" width="50" /> | 1 | 1 | One and Only | 2023-07-11 | [🔗](https://open.spotify.com/album/5LGe47qZJTNwtM8gUfT7Mx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cb3f67e8026e2e493a1e8262" alt="" width="50" /> | 1 | 1 | My Head Is An Animal | 2012-01-01 | [🔗](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273913c7a28b9dbce0ec35a7045" alt="" width="50" /> | 1 | 1 | Music Is Better Than Words | 2011-01-01 | [🔗](https://open.spotify.com/album/6VojJdbXviFkMuemAQ2Ivo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396e164f0c5aac83148bb8f24" alt="" width="50" /> | 1 | 1 | LEVEL3 | 2013-10-16 | [🔗](https://open.spotify.com/album/2DdXcewGp8Akqutak3yLDg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27393f551abf615209c537fb4d4" alt="" width="50" /> | 1 | 1 | Kirari Remixes (Asia Edition) | 2022-01-14 | [🔗](https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT) |
@@ -148,11 +150,12 @@ Appears as:
 
 
 <details>
-<summary>See all 25 genres</summary>
+<summary>See all 28 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 2 | 2 | picopop |
+| 2 | 2 | metropopolis |
 | 2 | 2 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 2 | 2 | japanese electropop |
 | 2 | 2 | j-pop girl group |
@@ -162,8 +165,10 @@ Appears as:
 | 2 | 1 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
 | 2 | 1 | funk |
 | 1 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
-| 1 | 1 | metropopolis |
+| 1 | 1 | stomp and holler |
+| 1 | 1 | [modern rock](../../genres/modern_rock/overview.md) |
 | 1 | 1 | indietronica |
+| 1 | 1 | folk-pop |
 | 1 | 1 | [dance pop](../../genres/dance_pop/overview.md) |
 | 1 | 0 | [soundtrack](../../genres/soundtrack/overview.md) |
 | 1 | 0 | orchestral soundtrack |
@@ -171,22 +176,22 @@ Appears as:
 </details>
 
 
-![Bar chart of top 25 genres](../../images/labels/universal_music_llc/genres.png)
+![Bar chart of top 28 genres](../../images/labels/universal_music_llc/genres.png)
 
 ## Top Producers
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | [Max Martin](../../producers/max_martin/overview.md) | 6 | Producer, Songwriter |
-| | [ILYA](../../producers/ilya/overview.md) | 5 | Producer, Songwriter |
 | | Savan Kotecha | 5 | Songwriter, Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 4 | Songwriter |
+| | [ILYA](../../producers/ilya/overview.md) | 5 | Producer, Songwriter |
 | | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 4 | Producer |
 | | [John Hanes](../../producers/john_hanes/overview.md) | 4 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 4 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 3 | Lyricist, Songwriter, Arranger |
 | | Peter Carlsson | 3 | Producer |
-| | 최예지 (Choi, Ye-ji) | 2 | Producer |
-| | 中田ヤスタカ (Nakata, Yasutaka) | 2 | Arranger, Lyricist, Songwriter |
+| | [Sam Holland](../../producers/sam_holland/overview.md) | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | Nicki Minaj | 2 | Songwriter |
 
 
 <details>
@@ -194,30 +199,32 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Paul Boutin | 2 | Producer |
-| | Babyface | 2 | Producer, Songwriter |
-| | Khristopher Riddick-Tynes | 2 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb149ebd20c454545fc4fb7487" alt="" width="50" /> | Victoria Monét | 2 | Producer, Songwriter |
-| | Antonio Dixon | 2 | Arranger, Producer, Songwriter |
-| | [Shellback](../../producers/shellback/overview.md) | 2 | Producer |
 | | 전부연 (Jeon, Bu-yeon) | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | Nicki Minaj | 2 | Songwriter |
-| | [Sam Holland](../../producers/sam_holland/overview.md) | 2 | Producer |
+| | [Shellback](../../producers/shellback/overview.md) | 2 | Producer |
+| | Khristopher Riddick-Tynes | 2 | Producer, Songwriter |
+| | Antonio Dixon | 2 | Arranger, Producer, Songwriter |
+| | 中田ヤスタカ (Nakata, Yasutaka) | 2 | Arranger, Lyricist, Songwriter |
+| | 최예지 (Choi, Ye-ji) | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb149ebd20c454545fc4fb7487" alt="" width="50" /> | Victoria Monét | 2 | Producer, Songwriter |
+| | Babyface | 2 | Producer, Songwriter |
 | | TBHits | 2 | Producer, Songwriter |
-| | MooF | 1 | Arranger, Songwriter |
-| | Rami | 1 | Producer, Songwriter |
-| | Dennis Jenkins | 1 | Songwriter |
-| | 板井直樹 (Itai, Naoki) | 1 | Arranger |
-| | will.b | 1 | Songwriter |
-| | Randy Ellis | 1 | Arranger |
+| | Paul Boutin | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc" alt="" width="50" /> | Fujii Kaze | 1 | Lyricist, Songwriter |
 | | Andrew Watt | 1 | Songwriter |
+| | Randy Ellis | 1 | Arranger |
+| | will.b | 1 | Songwriter |
+| | Dennis Jenkins | 1 | Songwriter |
+| | MooF | 1 | Arranger, Songwriter |
+| | 板井直樹 (Itai, Naoki) | 1 | Arranger |
+| | Rami | 1 | Producer, Songwriter |
 | | Giorgio Tuinfort | 1 | Producer, Songwriter |
+| | Ragnar þórhallsson (Ragnar þórhallsson) | 1 | Songwriter |
 | | Tayla Parx | 1 | Songwriter |
-| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 1 | Producer |
+| | [블랙아이드필승 (Black Eyed Pilseung)](../../producers/블랙아이드필승_(black_eyed_pilseung)/overview.md) | 1 | Songwriter |
 | | 고현정 (Go, Hyeon-Jeong) | 1 | Producer |
 | | 안예은 (Ahn, Ye Eun) | 1 | Arranger, Lyricist, Songwriter |
 | | [Pop Time](../../producers/pop_time/overview.md) | 1 | Arranger, Songwriter |
+| | Craig Silvey | 1 | Producer |
 | | DRK | 1 | Producer |
 | | Jaycen Joshua | 1 | Producer |
 | | Carl Falk | 1 | Producer, Songwriter |
@@ -226,39 +233,42 @@ Appears as:
 | | ACAね (ACANE) | 1 | Lyricist, Songwriter |
 | | 신재빈 (Shin, Jae Bin) | 1 | Producer |
 | | Johan Carlsson | 1 | Songwriter |
-| | [블랙아이드필승 (Black Eyed Pilseung)](../../producers/블랙아이드필승_(black_eyed_pilseung)/overview.md) | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebce5451b5cc60faf1992e969a" alt="" width="50" /> | Of Monsters and Men | 1 | Producer |
 | | Jimmy Van Heusen | 1 | Songwriter |
-| | Alexander Kronlund | 1 | Songwriter |
-| | Kuk Harrell | 1 | Producer |
-| | Ali Tamposi | 1 | Songwriter |
-| | David Buckley | 1 | Arranger |
-| | Ali Payami | 1 | Producer, Songwriter |
-| | Roahn Hylton | 1 | Songwriter |
-| | BreadBeat | 1 | Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb38a96d85b0580670123280e" alt="" width="50" /> | ZUTOMAYO | 1 | Producer |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 1 | Producer |
 | | Peter Svensson | 1 | Songwriter |
-| | Travis Sayles | 1 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb158342aa8bb8a192c778f2a5" alt="" width="50" /> | James Brown | 1 | Producer, Songwriter |
-| | [라도 (Rado)](../../producers/라도_(rado)/overview.md) | 1 | Arranger |
-| | Bill Meyers | 1 | Arranger |
-| | Patrick "j.Que" Smith | 1 | Songwriter |
 | | JUNE | 1 | Arranger, Songwriter |
-| | David Guetta | 1 | Songwriter |
+| | Patrick "j.Que" Smith | 1 | Songwriter |
+| | Bill Meyers | 1 | Arranger |
+| | [라도 (Rado)](../../producers/라도_(rado)/overview.md) | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb158342aa8bb8a192c778f2a5" alt="" width="50" /> | James Brown | 1 | Producer, Songwriter |
+| | Travis Sayles | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb38a96d85b0580670123280e" alt="" width="50" /> | ZUTOMAYO | 1 | Producer |
 | | Ron Lenhoff | 1 | Songwriter |
+| | BreadBeat | 1 | Arranger |
+| | Aron Arnarsson | 1 | Producer |
+| | Roahn Hylton | 1 | Songwriter |
+| | Ali Payami | 1 | Producer, Songwriter |
+| | David Buckley | 1 | Arranger |
+| | Ali Tamposi | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf150017ca69c8793503c2d4f" alt="" width="50" /> | David Guetta | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea | 1 | Songwriter |
-| | Leon Thomas | 1 | Songwriter |
-| | Rickard Göransson (Göransson, Rickard) | 1 | Producer, Songwriter |
-| | Sammy Cahn | 1 | Lyricist |
-| | 조씨아저씨 (Mr. Cho) | 1 | Producer |
-| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 1 | Producer |
-| | 眞武亨 (Matake, Toru) | 1 | Producer |
-| | Jon Taylor | 1 | Producer |
+| | Alexander Kronlund | 1 | Songwriter |
 | | Ross Golan | 1 | Songwriter |
-| | Matt Squire | 1 | Producer |
-| | The Rascals | 1 | Producer |
-| | Eric Weaver | 1 | Producer |
-| | Co-sho | 1 | Lyricist |
+| | Kuk Harrell | 1 | Producer |
 | | Gregg Rominiecki | 1 | Producer |
+| | Co-sho | 1 | Lyricist |
+| | Eric Weaver | 1 | Producer |
+| | The Rascals | 1 | Producer |
+| | Matt Squire | 1 | Producer |
+| | Nanna Bryndís Hilmarsdóttir (Nanna Bryndís Hilmarsdóttir) | 1 | Songwriter |
+| | Leon Thomas | 1 | Songwriter |
+| | Jon Taylor | 1 | Producer |
+| | 眞武亨 (Matake, Toru) | 1 | Producer |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 1 | Producer |
+| | 조씨아저씨 (Mr. Cho) | 1 | Producer |
+| | Sammy Cahn | 1 | Lyricist |
+| | Rickard Göransson (Göransson, Rickard) | 1 | Producer, Songwriter |
 | | 100回嘔吐 (100kaiouto) | 1 | Arranger |
 
 </details>
@@ -269,12 +279,12 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | BEAM BEAM | Windy | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [Universal Music LLC](.) | 52612 | 💚 | [🔗](https://open.spotify.com/track/1VjIS4qoyD6JS2rNZQgE00) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh | Uh-Oh | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Universal Music LLC](.) | 30239 | 💚 | [🔗](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | HELICOPTER | HELICOPTER | [CLC](../../artists/clc/overview.md) | [Universal Music LLC](.) | 19140 | 💚 | [🔗](https://open.spotify.com/track/2hJS7BdEaH9Jo8MeJujsHT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | Oh my god | I trust | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Universal Music LLC](.) | 13664 | 💚 | [🔗](https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | BEAM BEAM | Windy | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [Universal Music LLC](.) | 53068 | 💚 | [🔗](https://open.spotify.com/track/1VjIS4qoyD6JS2rNZQgE00) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh | Uh-Oh | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Universal Music LLC](.) | 30566 | 💚 | [🔗](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | HELICOPTER | HELICOPTER | [CLC](../../artists/clc/overview.md) | [Universal Music LLC](.) | 19176 | 💚 | [🔗](https://open.spotify.com/track/2hJS7BdEaH9Jo8MeJujsHT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | Oh my god | I trust | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Universal Music LLC](.) | 14369 | 💚 | [🔗](https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="" width="50" /> | POPPY - Japanese Ver. | POPPY (Japanese Ver.) | [STAYC](../../artists/stayc/overview.md) | [Universal Music LLC](.) | 5188 | 💚 | [🔗](https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cbcd67f202be276ccda69ab3" alt="" width="50" /> | FLIGHT | FLIGHT | YOUHA | [Universal Music Ltd.](.) | 1820 | 💚 | [🔗](https://open.spotify.com/track/1pvBm1ydKLXorYDdlIAeuj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cbcd67f202be276ccda69ab3" alt="" width="50" /> | FLIGHT | FLIGHT | YOUHA | [Universal Music Ltd.](.) | 1946 | 💚 | [🔗](https://open.spotify.com/track/1pvBm1ydKLXorYDdlIAeuj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736080e2389dee3e57f00ccc69" alt="" width="50" /> | DUMDi DUMDi | DUMDi DUMDi | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Universal Music LLC](.) | 499 | 💚 | [🔗](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | HANN (Alone in winter) | I burn | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Universal Music LLC](.) | 430 | 💚 | [🔗](https://open.spotify.com/track/2qYdsdgdeMLFzpLcMQWG2W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273379ddd38212be64d41e7250f" alt="" width="50" /> | One and Only | One and Only | [ENHYPEN](../../artists/enhypen/overview.md) | [Universal Music LLC](.) | 310 | 💚 | [🔗](https://open.spotify.com/track/7dDY45rR3idfeCypFDrk0G) |
@@ -303,6 +313,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Meant | Beatrix Runs | Elizaveta | [Universal Records](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/0HEA0fIQiqOCQBcHd8PdXo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Nightflyers | Beatrix Runs | Elizaveta | [Universal Records](.) | 0 | | [🔗](https://open.spotify.com/track/2IJIZnAmBgkbohDRZDIMl5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | Odi Et Amo | Beatrix Runs | Elizaveta | [Universal Records](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/24wPBY34rV79iESLYdpsRH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cb3f67e8026e2e493a1e8262" alt="" width="50" /> | Little Talks | My Head Is An Animal | Of Monsters and Men | [Universal Records](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c053ee476f7ce576369241e" alt="" width="50" /> | Last Christmas | Christmas Kisses | [Ariana Grande](../../artists/ariana_grande/overview.md) | [Universal Records](.) | 0 | | [🔗](https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c053ee476f7ce576369241e" alt="" width="50" /> | Santa Baby | Christmas Kisses | [Ariana Grande](../../artists/ariana_grande/overview.md), Liz Gillies | [Universal Records](.) | 0 | | [🔗](https://open.spotify.com/track/6YJdPrH3i2POzu7hdHIRrb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e" alt="" width="50" /> | Baby I | Yours Truly | [Ariana Grande](../../artists/ariana_grande/overview.md) | [Universal Records](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/6EIsMa5lbvljYxqCkjZVDi) |

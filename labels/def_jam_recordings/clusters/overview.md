@@ -12,7 +12,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Disturbia | Good Girl Gone Bad: Reloaded | [Rihanna](../../../../artists/rihanna/overview.md) | [Def Jam Recordings](../..) | 0 | 💚 | [🔗](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | Watch n' Learn | Talk That Talk | [Rihanna](../../../../artists/rihanna/overview.md) | [Def Jam Recordings](../..) | 0 | 💚 | [🔗](https://open.spotify.com/track/1ROCX1nquOZ5i05YfGysu0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab647295c0c97446c1f1a3b5" alt="" width="50" /> | Rude Boy | Rated R | [Rihanna](../../../../artists/rihanna/overview.md) | [Def Jam Recordings](../..) | 0 | 💚 | [🔗](https://open.spotify.com/track/60jzFy6Nn4M0iD1d94oteF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="" width="50" /> | Homicide (feat. Eminem) | Confessions of a Dangerous Mind | Logic, Eminem | [Def Jam Recordings](../..) | 0 | | [🔗](https://open.spotify.com/track/7M2tXmeS15NAzEn7ABFeBg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="" width="50" /> | Homicide (feat. Eminem) | Confessions of a Dangerous Mind | Logic, [Eminem](../../../../artists/eminem/overview.md) | [Def Jam Recordings](../..) | 0 | | [🔗](https://open.spotify.com/track/7M2tXmeS15NAzEn7ABFeBg) |
 ## Cluster #2
 
 4 tracks

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b2732433cb43f0f2f0f23b7c8b82ab67616d0000b2733a44a5105549a15dd92ed0c3ab67616d0000b2734ccc03169b086af698178a99ab67616d0000b2739922157daa474131bb3a0fbc" alt="International Pop" width="100" />
 
-[125 tracks (68 liked) 🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf)
+[126 tracks (68 liked) 🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf)
 
 [See Track Features](audio_features.md)
 
@@ -22,7 +22,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc" alt="" width="50" /> | 3 | 2 | Fujii Kaze | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbdaffe3725449701e3261e47" alt="" width="50" /> | 2 | 2 | Reol | [🔗](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb118be643c10bd1268f034d28" alt="" width="50" /> | 2 | 2 | Faouzia | [🔗](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd132bf0d4a9203404cd66f79" alt="" width="50" /> | 2 | 2 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebea86ab131cc7c098c07dccc8" alt="" width="50" /> | 2 | 2 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
 
 
 <details>
@@ -226,6 +226,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2" alt="" width="50" /> | 1 | 0 | Traveler | 2019-08-31 | [🔗](https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739a9716c90ceeb1890921e44f" alt="" width="50" /> | 1 | 0 | Te Felicito | 2022-04-21 | [🔗](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6" alt="" width="50" /> | 1 | 0 | Sofa Silahlane | 2022-05-13 | [🔗](https://open.spotify.com/album/03FGhGM3Lv2TmbUdpoPPip) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273044a5466dac00f7b3c570b99" alt="" width="50" /> | 1 | 0 | Sin Miedo (del Amor y Otros Demonios) ∞ | 2020-12-04 | [🔗](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27327ca5326f9c8cc55b3efd7b5" alt="" width="50" /> | 1 | 0 | SUN | 2018-10-25 | [🔗](https://open.spotify.com/album/1hWhflOpUh3IS1UeYHIW8V) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6732b7695d4e84cfdb81d73" alt="" width="50" /> | 1 | 0 | Pleasure | 2021-04-23 | [🔗](https://open.spotify.com/album/2O40oGNRh8jJTCfutKMRkl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f3d35703bdcd917dad51c4f" alt="" width="50" /> | 1 | 0 | Pasoori | 2022-02-07 | [🔗](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) |
@@ -238,7 +239,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736a986d5aa5b6567ca683f653" alt="" width="50" /> | 1 | 0 | Lykke te | 2022-05-27 | [🔗](https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="" width="50" /> | 1 | 0 | Look At Me | 2022-03-21 | [🔗](https://open.spotify.com/album/3mp41Up4LNhAVLGxl7BAUR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389" alt="" width="50" /> | 1 | 0 | LOVE ALL SERVE ALL | 2022-03-23 | [🔗](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dd7006a14a1fc3474eb80d51" alt="" width="50" /> | 1 | 0 | LEXICON | 2019-11-29 | [🔗](https://open.spotify.com/album/089QU9ZClm6mksCrXCDBSi) |
 
 </details>
 
@@ -262,7 +262,7 @@
 
 
 <details>
-<summary>See all 83 labels</summary>
+<summary>See all 84 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -306,6 +306,7 @@
 | 1 | 1 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 2 | 0 | Universal Music Division Capitol Music France |
 | 2 | 0 | KING RECORDS |
+| 2 | 0 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 2 | 0 | IRORI Records |
 | 2 | 0 | Gold Typhoon Taiwan |
 | 1 | 0 | [avex trax](../../labels/avex_trax/overview.md) |
@@ -330,11 +331,11 @@
 | 1 | 0 | NaNa Disc |
 | 1 | 0 | Mobile1 Music |
 | 1 | 0 | KarenT |
-| 1 | 0 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 1 | 0 | Homeboy music |
 | 1 | 0 | Giraffe Pakistan |
 | 1 | 0 | Fearless Records |
 | 1 | 0 | Echame La Culpa PS |
+| 1 | 0 | [EMI](../../labels/emi/overview.md) |
 | 1 | 0 | Bichota |
 | 1 | 0 | Aer-born |
 | 1 | 0 | 33cjl. |
@@ -373,12 +374,12 @@
 | 3 | 3 | sunnlensk tonlist |
 | 3 | 3 | icelandic pop |
 | 3 | 3 | alt z |
+| 5 | 2 | colombian pop |
 | 5 | 2 | anime rock |
 | 4 | 2 | j-pop girl group |
 | 4 | 2 | j-idol |
 | 4 | 2 | israeli pop |
 | 4 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
-| 4 | 2 | colombian pop |
 | 3 | 2 | bitpop |
 | 2 | 2 | v-pop |
 | 2 | 2 | [uk alternative pop](../../genres/uk_alternative_pop/overview.md) |
@@ -504,7 +505,7 @@
 | | Papa Dizzy | 1 | Arranger |
 | | Jens Bogren | 1 | Producer |
 | | Jaycen Joshua | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd132bf0d4a9203404cd66f79" alt="" width="50" /> | Becky G | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebea86ab131cc7c098c07dccc8" alt="" width="50" /> | Becky G | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8fcba00289ef221f12371a75" alt="" width="50" /> | Camilo | 1 | Songwriter |
 | | ACAね (ACANE) | 1 | Lyricist, Songwriter |
 | | KYOTO | 1 | Arranger |
@@ -558,7 +559,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | [Awadama Fever](../../artists/babymetal/overview.md) | 170 | <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="A BEST" width="50" /> | Boys & Girls | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="Daisy 2.0 (feat. Hatsune Miku)" width="50" /> | Daisy 2.0 (feat. Hatsune Miku) | 166 | <img src="https://i.scdn.co/image/ab67616d0000b2733e4b149dd3110f1432bfeca0" alt="Niche Syndrome" width="50" /> | Wherever you are | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="海のまにまに" width="50" /> | 海のまにまに | 147 | <img src="https://i.scdn.co/image/ab67616d0000b27314b31a0ac21c8645919204a8" alt="Ne reviens pas" width="50" /> | Ne reviens pas | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | [Headbangeeeeerrrrr!!!!!](../../artists/babymetal/overview.md) | 108 | <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="青のすみか" width="50" /> | 青のすみか | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | [Headbangeeeeerrrrr!!!!!](../../artists/babymetal/overview.md) | 141 | <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="青のすみか" width="50" /> | 青のすみか | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Beggin' | 97 | <img src="https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2" alt="Traveler" width="50" /> | Pretender | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322805a1b17e41ae357bd98bc" alt="HELP EVER HURT NEVER" width="50" /> | Shinunoga E-Wa | 91 | <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | [Gimme Chocolate!!](../../artists/babymetal/overview.md) | 0 |
 
@@ -574,7 +575,7 @@
 | 2023 | 15 |
 | [2022](2022.md) | 21 |
 | 2021 | 12 |
-| 2020 | 11 |
+| 2020 | 12 |
 | 2019 | 16 |
 | 2018 | 12 |
 | 2017 | 6 |

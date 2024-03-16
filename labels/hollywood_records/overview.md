@@ -55,7 +55,7 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 20 | 13 | [rock](../../genres/rock/overview.md) |
-| 20 | 13 | glam rock |
+| 20 | 13 | [glam rock](../../genres/glam_rock/overview.md) |
 | 20 | 13 | [classic rock](../../genres/classic_rock/overview.md) |
 | 2 | 1 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 2 | 1 | [pop](../../genres/pop/overview.md) |

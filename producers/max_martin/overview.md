@@ -4,26 +4,27 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Instrument | 20 |
-| Lyricist | 3 |
-| Producer | 25 |
-| Songwriter | 26 |
-| Vocal | 5 |
+| Arranger | 2 |
+| Instrument | 24 |
+| Lyricist | 4 |
+| Producer | 29 |
+| Songwriter | 30 |
+| Vocal | 8 |
 
 ## Produces for Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | 11 | 11 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 8 | 8 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 10 | 10 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | 4 | 4 | Katy Perry | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0d44bc6f830e443d7501a8c" alt="" width="50" /> | 2 | 2 | Backstreet Boys | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3a49b0a3954e460a8a76ed90" alt="" width="50" /> | 2 | 2 | Britney Spears | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | 2 | 2 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | 2 | 2 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a398209a4ef3360dce2dec4" alt="" width="50" /> | 1 | 1 | Snoop Dogg | [🔗](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9414ef07d0ca697726912df1" alt="" width="50" /> | 1 | 1 | *NSYNC | [🔗](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | 1 | 1 | Iggy Azalea | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | 1 | 1 | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
 
 
 <details>
@@ -31,8 +32,8 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | 1 | 1 | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8c57872541b101fb95d6295" alt="" width="50" /> | 1 | 1 | [Pentatonix](../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | 1 | 1 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a" alt="" width="50" /> | 1 | 1 | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
 
 </details>
@@ -42,15 +43,15 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Serban Ghenea | [Serban Ghenea](../serban_ghenea/overview.md) | 21 |
-| Sam Holland | [Sam Holland](../sam_holland/overview.md) | 18 |
+| Serban Ghenea | [Serban Ghenea](../serban_ghenea/overview.md) | 24 |
+| Sam Holland | [Sam Holland](../sam_holland/overview.md) | 21 |
 | Shellback | [Shellback](../shellback/overview.md) | 12 |
 | John Hanes | [John Hanes](../john_hanes/overview.md) | 12 |
 | Taylor Swift | [Taylor Swift](../taylor_swift/overview.md) | 11 |
-| Michael Ilbert | Michael Ilbert | 9 |
-| ILYA | [ILYA](../ilya/overview.md) | 8 |
+| ILYA | [ILYA](../ilya/overview.md) | 10 |
+| Michael Ilbert | Michael Ilbert | 10 |
+| Ariana Grande | [Ariana Grande](../ariana_grande/overview.md) | 8 |
 | Savan Kotecha | Savan Kotecha | 7 |
-| Ariana Grande | [Ariana Grande](../ariana_grande/overview.md) | 6 |
 | Rami | Rami | 4 |
 
 
@@ -62,46 +63,49 @@
 | Łukasz Gottwald | [Łukasz Gottwald (Gottwald, Łukasz)](../łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 4 |
 | Emily Wright | Emily Wright | 4 |
 | Peter Carlsson | Peter Carlsson | 4 |
-| Katy Perry | Katy Perry | 4 |
 | Dr. Luke | Dr. Luke | 4 |
-| benny blanco | [benny blanco](../benny_blanco/overview.md) | 3 |
+| Katy Perry | Katy Perry | 4 |
+| Lou Carrao | Lou Carrao | 3 |
 | Ali Payami | Ali Payami | 3 |
-| Nicki Minaj | Nicki Minaj | 2 |
-| John Amatiello | John Amatiello | 2 |
-| Andreas Carlsson | Andreas Carlsson | 2 |
-| Iggy Azalea | Iggy Azalea | 2 |
-| Oscar Holter | Oscar Holter | 2 |
+| Bryce Bordone | Bryce Bordone | 3 |
+| Oscar Holter | Oscar Holter | 3 |
+| benny blanco | [benny blanco](../benny_blanco/overview.md) | 3 |
+| DaHeala | DaHeala | 2 |
 | Kristian Lundin | Kristian Lundin | 2 |
 | Bonnie McKee | Bonnie McKee | 2 |
-| Shin Kamiyama | Shin Kamiyama | 1 |
-| Carl Falk | Carl Falk | 1 |
-| Cathy Dennis | Cathy Dennis | 1 |
-| DaHeala | DaHeala | 1 |
-| Brian T. Littrell | Brian T. Littrell | 1 |
-| Giorgio Tuinfort | Giorgio Tuinfort | 1 |
-| The Weeknd | The Weeknd | 1 |
+| Nicki Minaj | Nicki Minaj | 2 |
+| Belly | Belly | 2 |
+| Shin Kamiyama | Shin Kamiyama | 2 |
+| The Weeknd | The Weeknd | 2 |
+| Iggy Azalea | Iggy Azalea | 2 |
+| Andreas Carlsson | Andreas Carlsson | 2 |
+| John Amatiello | John Amatiello | 2 |
 | Aniela Gottwald | Aniela Gottwald | 1 |
-| Ammo | Ammo | 1 |
+| Brian T. Littrell | Brian T. Littrell | 1 |
+| Peter Kahm | Peter Kahm | 1 |
+| Giorgio Tuinfort | Giorgio Tuinfort | 1 |
 | Alexander Kronlund | Alexander Kronlund | 1 |
+| Cathy Dennis | Cathy Dennis | 1 |
+| Carl Falk | Carl Falk | 1 |
 | Andrew Watt | Andrew Watt | 1 |
-| Calvin Broadus | Calvin Broadus | 1 |
+| Ammo | Ammo | 1 |
 | David Guetta | David Guetta | 1 |
 | Ali Tamposi | Ali Tamposi | 1 |
-| Lou Carrao | Lou Carrao | 1 |
 | David Buckley | David Buckley | 1 |
 | Jack Antonoff | [Jack Antonoff](../jack_antonoff/overview.md) | 1 |
 | Peter Svensson | Peter Svensson | 1 |
 | Chris Trevett | Chris Trevett | 1 |
 | Mattias Bylund | Mattias Bylund | 1 |
+| Davide Rossi | Davide Rossi | 1 |
 | Rickard Göransson | Rickard Göransson (Göransson, Rickard) | 1 |
-| Kuk Harrell | Kuk Harrell | 1 |
+| Calvin Broadus | Calvin Broadus | 1 |
 | Tina Kennedy | Tina Kennedy | 1 |
 | Nick Banns | Nick Banns | 1 |
 | Jon Taylor | Jon Taylor | 1 |
-| Belly | Belly | 1 |
 | Mike Caffrey | Mike Caffrey | 1 |
 | Eric Weaver | Eric Weaver | 1 |
 | Gregg Rominiecki | Gregg Rominiecki | 1 |
+| Kuk Harrell | Kuk Harrell | 1 |
 | Laura Sisk | [Laura Sisk](../laura_sisk/overview.md) | 1 |
 
 </details>
@@ -140,4 +144,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | Love Me Like You Do | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394" alt="" width="50" /> | no tears left to cry | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | Blinding Lights | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce9f06b8084b352b61e8b0cb" alt="" width="50" /> | yes, and? | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | Save Your Tears | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | we can't be friends (wait for your love) | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | yes, and? | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | imperfect for you | Arranger, Lyricist, Producer, Songwriter |
+| | nan | Producer, Songwriter |

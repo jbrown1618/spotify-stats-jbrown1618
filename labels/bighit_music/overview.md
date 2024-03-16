@@ -23,7 +23,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a" alt="" width="50" /> | 1 | 1 | J. Cole | [🔗](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca6daabeb614243f96b2829f" alt="" width="50" /> | 1 | 1 | WOOSUNG | [🔗](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273006a347ff2700caa3e757c0a" alt="" width="50" /> | 1 | 1 | Youjeen | [🔗](https://open.spotify.com/artist/4wVcCedmr7FHtUlFnIeJIG) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd132bf0d4a9203404cd66f79" alt="" width="50" /> | 1 | 1 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebea86ab131cc7c098c07dccc8" alt="" width="50" /> | 1 | 1 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
 
 
 <details>
@@ -169,7 +169,7 @@ Appears as:
 | | Liza Owen | 1 | Songwriter |
 | | Stephen Kirk | 1 | Songwriter |
 | | Jinbo | 1 | Songwriter |
-| | Cirkut | 1 | Lyricist, Producer, Songwriter |
+| | [Cirkut](../../producers/cirkut/overview.md) | 1 | Lyricist, Producer, Songwriter |
 | | 안복진 (Ahn, Bok-Jin) | 1 | Songwriter |
 | | Tom Wiklund | 1 | Producer, Songwriter |
 | | Theron Thomas | 1 | Lyricist, Songwriter |

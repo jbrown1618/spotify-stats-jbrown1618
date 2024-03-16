@@ -45,7 +45,7 @@
 | | 1 | 0 | Viggo Mortensen | [🔗](https://open.spotify.com/artist/11habIRpXVkScDFp3rJrgu) |
 | <img src="https://i.scdn.co/image/f1658bc66d1f99ab6d118f26a2abaf7dc33a272f" alt="" width="50" /> | 1 | 0 | Itzhak Perlman | [🔗](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdffc3d0e6fc685b3cb032c65" alt="" width="50" /> | 1 | 0 | Qumu | [🔗](https://open.spotify.com/artist/0LzeyDrlLtuyBqMSBN4z3U) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6515a36e1c44dceadcb31b27" alt="" width="50" /> | 1 | 0 | Emilíana Torrini | [🔗](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb47742afa6c5e423d444611df" alt="" width="50" /> | 1 | 0 | Emilíana Torrini | [🔗](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) |
 
 </details>
 
@@ -153,7 +153,7 @@
 | 28 | 0 | canadian soundtrack |
 | 28 | 0 | canadian classical |
 | 6 | 0 | latin soundtrack |
-| 3 | 0 | otacore |
+| 4 | 0 | otacore |
 | 3 | 0 | cartoon |
 
 
@@ -204,9 +204,9 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Tetris Theme A (From "Tetris")](../../artists/the_8-bit_big_band/overview.md) | 78 | <img src="https://i.scdn.co/image/ab67616d0000b273c835f5fb3ad632c14b4e7099" alt="The Legend of Zelda: Ocarina of Time" width="50" /> | Lost Woods | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | Anduril | 50 | <img src="https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f" alt="The Lord of the Rings: The Fellowship of the Ring - the Complete Recordings" width="50" /> | The Passing of the Elves | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | The Steward of Gondor (feat. Billy Boyd) | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273c835f5fb3ad632c14b4e7099" alt="The Legend of Zelda: Ocarina of Time" width="50" /> | Gerudo Valley | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Tetris Theme A (From "Tetris")](../../artists/the_8-bit_big_band/overview.md) | 118 | <img src="https://i.scdn.co/image/ab67616d0000b273c835f5fb3ad632c14b4e7099" alt="The Legend of Zelda: Ocarina of Time" width="50" /> | Lost Woods | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | Anduril | 80 | <img src="https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f" alt="The Lord of the Rings: The Fellowship of the Ring - the Complete Recordings" width="50" /> | The Passing of the Elves | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | The Steward of Gondor (feat. Billy Boyd) | 5 | <img src="https://i.scdn.co/image/ab67616d0000b273c835f5fb3ad632c14b4e7099" alt="The Legend of Zelda: Ocarina of Time" width="50" /> | Gerudo Valley | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7" alt="The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)" width="50" /> | Helm's Deep | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | The Return of the King (feat. Sir James Galway, Viggo Mortensen and Renee Fleming) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b27392b4abaaa250a8d1b00d5bc5" alt="Zelda: Ocarina of Time - Piano" width="50" /> | Lost Woods | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Still Alive (From "Portal")](../../artists/the_8-bit_big_band/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c835f5fb3ad632c14b4e7099" alt="The Legend of Zelda: Ocarina of Time" width="50" /> | Fairy's Fountain | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7" alt="The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)" width="50" /> | Samwise the Brave | 0 |

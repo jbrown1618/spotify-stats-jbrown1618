@@ -160,7 +160,7 @@
 | 1 | 1 | ㈜ 동요엔터테인먼트 |
 | 1 | 1 | Think Ent. |
 | 1 | 1 | SAI-Ent. |
-| 1 | 1 | S2 ENTERTAINMENT INC. |
+| 1 | 1 | [S2 ENTERTAINMENT INC.](../../labels/s2_entertainment_inc_/overview.md) |
 | 1 | 1 | Mydoll Ent. |
 | 1 | 1 | MODHAUS |
 | 1 | 1 | IOK COMPANY |

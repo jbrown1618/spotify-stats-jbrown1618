@@ -21,6 +21,8 @@ Queen:
 - has member Roger Taylor
 
 ## Artist Rank
+Queen is currently:
+- The #44 artist of the last month
 
 ![Rank of Queen over time](../../images/artists/queen/rank_time_series.png)
 ## Featured on Playlists
@@ -69,7 +71,7 @@ Queen:
 ## Genres
 
 - [classic rock](../../genres/classic_rock/overview.md)
-- glam rock
+- [glam rock](../../genres/glam_rock/overview.md)
 - [rock](../../genres/rock/overview.md)
 
 ## Credits
