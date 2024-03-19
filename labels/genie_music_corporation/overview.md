@@ -1,6 +1,6 @@
 # Genie Music Corporation
 
-117 songs
+118 songs
 
 [See Track Features](audio_features.md)
 
@@ -8,7 +8,7 @@
 
 Appears as:
 - Genie Music Corporation, Stone Music Entertainment (85 tracks)
-- Genie Music Corporation (31 tracks)
+- Genie Music Corporation (32 tracks)
 - Genie Music Corporation;Stone Music Entertainment (1 tracks)
 
 ## Top Artists
@@ -28,7 +28,7 @@ Appears as:
 
 
 <details>
-<summary>See all 83 artists</summary>
+<summary>See all 84 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -78,6 +78,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a48a236a01fa62db8c7a6f6" alt="" width="50" /> | 2 | 0 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdbabadb9f03b5b3d5e0241e5" alt="" width="50" /> | 2 | 0 | JAMIE | [🔗](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb02540455027f77fe3abc9cea" alt="" width="50" /> | 1 | 0 | MARK | [🔗](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb354f59f3c926ef815f9af7ff" alt="" width="50" /> | 1 | 0 | Busker Busker | [🔗](https://open.spotify.com/artist/6jgrgDBt1SbtNbc25sLaTH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b4ad360bcb93688b77e8d99" alt="" width="50" /> | 1 | 0 | CHEETAH | [🔗](https://open.spotify.com/artist/6ftZYkensUYXNiMM7nFwhE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf5ef01e430d31a4b0680126f" alt="" width="50" /> | 1 | 0 | [Crush](../../artists/crush/overview.md) | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8884036ea777e2afb47ac7a2" alt="" width="50" /> | 1 | 0 | I.O.I | [🔗](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) |
@@ -128,7 +129,7 @@ Appears as:
 
 
 <details>
-<summary>See all 96 albums</summary>
+<summary>See all 97 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -214,6 +215,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d1fce6f6b2b64395f7e804e" alt="" width="50" /> | 1 | 0 | DOUBLAST | 2022-06-20 | [🔗](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e0863f52c51d1c38a145d5a" alt="" width="50" /> | 1 | 0 | COLOR*IZ | 2018-10-29 | [🔗](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab36ff6234cbb75990aab601" alt="" width="50" /> | 1 | 0 | CIX 5th EP Album ‘OK’ Episode 1 : OK Not | 2022-08-22 | [🔗](https://open.spotify.com/album/0awixD0tmDTgB6JWfQxwO0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347683d1b11d35a22048d243f" alt="" width="50" /> | 1 | 0 | Busker Busker 1st | 2012-03-29 | [🔗](https://open.spotify.com/album/56XzxNKUGySZcu1nByxo3y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f86c5c45e58e55a2e16ac64f" alt="" width="50" /> | 1 | 0 | BOYS PLANET - FINAL TOP9 BATTLE | 2023-04-21 | [🔗](https://open.spotify.com/album/5F3uLyGvCV3QINuGZkdOfS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eefa62737df26882a4e51b0f" alt="" width="50" /> | 1 | 0 | BOYHOOD | 2023-06-07 | [🔗](https://open.spotify.com/album/3k4xr3Bn9NfyX7O1nlK7Mg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c1f1054d3a170ee26430c79" alt="" width="50" /> | 1 | 0 | AGASSY | 2023-11-08 | [🔗](https://open.spotify.com/album/5FzkGrCoC8PIz1yz6oy8RK) |
@@ -232,7 +234,7 @@ Appears as:
 | 29 | 20 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 22 | 17 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 17 | 9 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
-| 12 | 9 | [korean pop](../../genres/korean_pop/overview.md) |
+| 13 | 9 | [korean pop](../../genres/korean_pop/overview.md) |
 | 7 | 5 | [k-rap](../../genres/k-rap/overview.md) |
 | 3 | 3 | korean ost |
 | 1 | 1 | [pop](../../genres/pop/overview.md) |
@@ -241,19 +243,21 @@ Appears as:
 
 
 <details>
-<summary>See all 14 genres</summary>
+<summary>See all 16 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 2 | 0 | classic k-pop |
 | 2 | 0 | [anime](../../genres/anime/overview.md) |
 | 1 | 0 | korean old school hip hop |
+| 1 | 0 | k-rock |
 | 1 | 0 | k-pop reality show |
+| 1 | 0 | k-indie |
 
 </details>
 
 
-![Bar chart of top 14 genres](../../images/labels/genie_music_corporation/genres.png)
+![Bar chart of top 16 genres](../../images/labels/genie_music_corporation/genres.png)
 
 ## Top Producers
 
@@ -310,7 +314,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="" width="50" /> | Gotta Go | Gotta Go | [CHUNG HA](../../artists/chung_ha/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 56855 | 💚 | [🔗](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="" width="50" /> | HOLO | HOLO | [LeeHi](../../artists/leehi/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 50851 | 💚 | [🔗](https://open.spotify.com/track/4BSluGpjdLQihMmKgHXMxp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343848859c0cf73d8c660eba5" alt="" width="50" /> | Adrenaline | VINCENZO (Original Television Soundtrack) Pt. 3 | Solar | [Genie Music Corporation](.) | 16937 | 💚 | [🔗](https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | ONLY | 4 ONLY | [LeeHi](../../artists/leehi/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 5670 | 💚 | [🔗](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | ONLY | 4 ONLY | [LeeHi](../../artists/leehi/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 5934 | 💚 | [🔗](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="" width="50" /> | Undo | Undo | [HEIZE](../../artists/heize/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 1080 | 💚 | [🔗](https://open.spotify.com/track/6z1pJ3KUmQagUpMVqL62sa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="" width="50" /> | VingleVingle (Prod. R.Tee) | VingleVingle | [HEIZE](../../artists/heize/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 518 | 💚 | [🔗](https://open.spotify.com/track/4mSb6RA9eJnXuMWChHLpgn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b892f687976fc0a8ba4cca19" alt="" width="50" /> | I Know - '92 TV Edit | Seotaiji and Boys | Seo Taiji and Boys | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 364 | | [🔗](https://open.spotify.com/track/28v5XsF5Weg0SeXK3xSKcV) |
@@ -326,8 +330,8 @@ Appears as:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273afedcb63d2ef759322629930" alt="" width="50" /> | WICKED LOVE | HATE XX | [YENA](../../artists/yena/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 267 | 💚 | [🔗](https://open.spotify.com/track/7JduLib0OD7LheLRseXQWE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27312062f95939fd4de9def44e7" alt="" width="50" /> | In Bloom | YOUTH IN THE SHADE | ZEROBASEONE | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 228 | 💚 | [🔗](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733b414bbbf73c81957c8b7541" alt="" width="50" /> | FM 89.1 | Last Winter | [HEIZE](../../artists/heize/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 181 | 💚 | [🔗](https://open.spotify.com/track/262jf0kGFJVl2AHsGJ6xiG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e7c7f3bafee5562a4c01658b" alt="" width="50" /> | Bandit | Song of the Bandits (Original Soundtrack from the Netflix Series) | TAEIL | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 174 | 💚 | [🔗](https://open.spotify.com/track/3mQH4pXsnixxr8EDK7ZZVa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733b414bbbf73c81957c8b7541" alt="" width="50" /> | FM 89.1 | Last Winter | [HEIZE](../../artists/heize/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 166 | 💚 | [🔗](https://open.spotify.com/track/262jf0kGFJVl2AHsGJ6xiG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273575199b6685e149b5c75ba03" alt="" width="50" /> | En Garde | BOYS PLANET - ARTIST BATTLE | En Butter | [Genie Music Corporation](.) | 115 | 💚 | [🔗](https://open.spotify.com/track/4GZvo0OL3BsRxNrj4TBeP3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d894e16b750b7ade58c1977f" alt="" width="50" /> | KNOCK | Over The Moon | LEE CHAE YEON | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 102 | 💚 | [🔗](https://open.spotify.com/track/6KiEF5zqzHiFjzdm8gChz7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a435b6276480ed558eece0fd" alt="" width="50" /> | SMILEY(Feat. BIBI) | ˣ‿ˣ (SMiLEY) | [YENA](../../artists/yena/overview.md), [BIBI](../../artists/bibi/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 93 | 💚 | [🔗](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) |
@@ -337,14 +341,15 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d700b5ddf45596b3793d3963" alt="" width="50" /> | The Real | KINGDOM <FINAL : WHO IS THE KING?> | [ATEEZ](../../artists/ateez/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 56 | 💚 | [🔗](https://open.spotify.com/track/1uk5fYLx1f88DLte84Hl5j) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d4357940b05ea234a4fb0f4" alt="" width="50" /> | Naked Gold (Prod. Czaer) | Street Woman Fighter2 (SWF2) Crew Songs | JAMIE | [Genie Music Corporation](.) | 45 | | [🔗](https://open.spotify.com/track/33tYdpRKfx5HJR06Vu4P9Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c9253602c9a9e508bde18cb" alt="" width="50" /> | SLAY | ALL MY GIRLS | [EVERGLOW](../../artists/everglow/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 42 | 💚 | [🔗](https://open.spotify.com/track/32Ao6xLLir3dPOhQGvqgSB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739104b6efe6c3483f605d9633" alt="" width="50" /> | Good Girls in the Dark | GOOD MORNING | [YENA](../../artists/yena/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 42 | 💚 | [🔗](https://open.spotify.com/track/0mMS5zDs8U6sGCqHBfCoGp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b191ce6dc0fbfd68bbb67b8" alt="" width="50" /> | FIRST | Last Melody | [EVERGLOW](../../artists/everglow/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 35 | 💚 | [🔗](https://open.spotify.com/track/021L6LlBBtr34BmFRHd9Ic) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739104b6efe6c3483f605d9633" alt="" width="50" /> | Good Girls in the Dark | GOOD MORNING | [YENA](../../artists/yena/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 35 | 💚 | [🔗](https://open.spotify.com/track/0mMS5zDs8U6sGCqHBfCoGp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735c2efa8ce12c99a92b914e20" alt="" width="50" /> | LAW (Prod. Czaer) | Street Man Fighter Original Vol.3 (Mission by Rank) | YOON MIRAE, [BIBI](../../artists/bibi/overview.md) | [Genie Music Corporation](.) | 21 | 💚 | [🔗](https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c2efa8ce12c99a92b914e20" alt="" width="50" /> | LAW (Prod. Czaer) | Street Man Fighter Original Vol.3 (Mission by Rank) | YOON MIRAE, [BIBI](../../artists/bibi/overview.md) | [Genie Music Corporation](.) | 30 | 💚 | [🔗](https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="" width="50" /> | Piano Man | Piano Man | [MAMAMOO](../../artists/mamamoo/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 10 | 💚 | [🔗](https://open.spotify.com/track/2CC7fLFEcJBrO82NUwi9Op) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27329134ca1a4c424b7d98cb0af" alt="" width="50" /> | DUN DUN | reminiscence | [EVERGLOW](../../artists/everglow/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 10 | 💚 | [🔗](https://open.spotify.com/track/3ejAkJLWQSEJDqDXxK3efB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f770ff371eb7015034122c8a" alt="" width="50" /> | Cherry Blossom | 1st Single 'S.i.R' | BOBBY | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 8 | 💚 | [🔗](https://open.spotify.com/track/3yWQ5IlzWRPOdtYnQuywcO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | Savior (feat. B.I) | 4 ONLY | [LeeHi](../../artists/leehi/overview.md), B.I | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 5 | 💚 | [🔗](https://open.spotify.com/track/0DYvTdqBqW6erA1a7pFzVo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733b414bbbf73c81957c8b7541" alt="" width="50" /> | Last Winter | Last Winter | [HEIZE](../../artists/heize/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 3 | | [🔗](https://open.spotify.com/track/0neVuSeb4wkhi1tLNc0t47) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347683d1b11d35a22048d243f" alt="" width="50" /> | Cherry Blossom Ending | Busker Busker 1st | Busker Busker | [Genie Music Corporation](.) | 0 | | [🔗](https://open.spotify.com/track/4eFTh1opLS5wANDmZK9ghC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa0046f64f34c168d3acb760" alt="" width="50" /> | Bad Girls | MONOCHROME | Lee Hyori | [Genie Music Corporation](.) | 0 | | [🔗](https://open.spotify.com/track/2IrmdHJjwBH1pFIMcTJ1xq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c9c58101394306d8fccaeeb8" alt="" width="50" /> | Very Good | Very Good | Block B | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 0 | | [🔗](https://open.spotify.com/track/6svBgFCnXYst3N8OJJ1XAB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27367f8236540d6f145e2f0baa1" alt="" width="50" /> | Mr-Ambiguous | HELLO | [MAMAMOO](../../artists/mamamoo/overview.md) | [Genie Music Corporation](.), [Stone Music Entertainment](../stone_music_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/4VOZzJeoNhvvTaGTztogVt) |

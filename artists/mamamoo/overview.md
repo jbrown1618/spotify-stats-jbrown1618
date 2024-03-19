@@ -19,13 +19,11 @@ MAMAMOO:
 
 ## Artist Rank
 MAMAMOO is currently:
-- The #14 artist of all time
+- The #29 artist of all time
 
 ![Rank of MAMAMOO over time](../../images/artists/mamamoo/rank_time_series.png)
 ## Top Tracks
 
-- HIP is:
-    - the #2 track of all time
 
 ### Top tracks of all time over time
 

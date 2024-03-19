@@ -21,8 +21,6 @@ ATEEZ:
 - has member 송민기 (Song, Mingi)
 
 ## Artist Rank
-ATEEZ is currently:
-- The #38 artist of all time
 
 ![Rank of ATEEZ over time](../../images/artists/ateez/rank_time_series.png)
 ## Top Tracks

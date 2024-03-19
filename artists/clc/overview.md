@@ -20,8 +20,6 @@ CLC:
 ![Rank of CLC over time](../../images/artists/clc/rank_time_series.png)
 ## Top Tracks
 
-- HELICOPTER is:
-    - the #48 track of all time
 
 ### Top tracks of all time over time
 

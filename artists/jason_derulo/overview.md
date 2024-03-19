@@ -81,7 +81,7 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd8c57872541b101fb95d6295" alt="" width="50" /> | [Pentatonix](../pentatonix/overview.md) | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb746dd598cf914934bd27ed7e" alt="" width="50" /> | [Pentatonix](../pentatonix/overview.md) | 1 | Arranger |
 | | Tamir Muskat | 1 | Songwriter |
 | | Jon Bellion | 1 | Producer, Songwriter |
 | | Carl Martin | 1 | Songwriter |

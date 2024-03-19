@@ -22,8 +22,6 @@ OH MY GIRL:
 ![Rank of OH MY GIRL over time](../../images/artists/oh_my_girl/rank_time_series.png)
 ## Top Tracks
 
-- Dolphin is:
-    - the #45 track of all time
 
 ### Top tracks of all time over time
 

@@ -28,6 +28,6 @@
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273b78e41dc88b7ddda60738c9d" alt="" width="50" /> | Childhood | Heart Burn | [SUNMI](../../overview.md) | Abyss Company | 29 | 💚 | [🔗](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b78e41dc88b7ddda60738c9d" alt="" width="50" /> | Heart Burn | Heart Burn | [SUNMI](../../overview.md) | Abyss Company | 2006 | 💚 | [🔗](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b78e41dc88b7ddda60738c9d" alt="" width="50" /> | Heart Burn | Heart Burn | [SUNMI](../../overview.md) | Abyss Company | 2108 | 💚 | [🔗](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a916eb5cb60ec476b75fc807" alt="" width="50" /> | 24 Hours | 24 Hours | [SUNMI](../../overview.md) | [Republic Records](../../../../labels/republic_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/4ayWErdGIvSo4o6a3lMVLt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a984930c218438701634e11" alt="" width="50" /> | When We Disco | When We Disco | J.Y. Park, [SUNMI](../../overview.md) | [JYP Entertainment](../../../../labels/jyp_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/6t9nnPyEZfjcn1aLJ4l9AK) |

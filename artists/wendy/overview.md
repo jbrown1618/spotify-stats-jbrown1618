@@ -16,15 +16,15 @@ WENDY:
 
 ## Artist Rank
 WENDY is currently:
-- The #14 artist of the last month
-- The #33 artist of the last 6 months
-- The #31 artist of all time
+- The #13 artist of the last month
+- The #31 artist of the last 6 months
+- The #37 artist of all time
 
 ![Rank of WENDY over time](../../images/artists/wendy/rank_time_series.png)
 ## Top Tracks
 
-- When This Rain Stops is:
-    - the #14 track of all time
+- Time After Time is:
+    - the #34 track of all time
 
 ### Top tracks of all time over time
 
@@ -90,7 +90,7 @@ WENDY is currently:
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | When This Rain Stops | Like Water - The 1st Mini Album | [WENDY](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 42246 | 💚 | [🔗](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Time After Time | 2022 Winter SMTOWN : SMCU PALACE | [BoA](../boa/overview.md), [WENDY](overview.md), NINGNING | [SM Entertainment](../../labels/sm_entertainment) | 15052 | 💚 | [🔗](https://open.spotify.com/track/6LGcOydwjfaquaRgJwlPkK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Time After Time | 2022 Winter SMTOWN : SMCU PALACE | [BoA](../boa/overview.md), [WENDY](overview.md), NINGNING | [SM Entertainment](../../labels/sm_entertainment) | 15256 | 💚 | [🔗](https://open.spotify.com/track/6LGcOydwjfaquaRgJwlPkK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | Like Water | Like Water - The 1st Mini Album | [WENDY](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 9186 | 💚 | [🔗](https://open.spotify.com/track/37LhFxchiyAJVop5JgRZgY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c2220e622cd370a4237727f8" alt="" width="50" /> | 봄인가 봐 Spring Love | 봄인가 봐 Spring Love - SM STATION | [WENDY](overview.md), Eric Nam | [SM Entertainment](../../labels/sm_entertainment) | 0 | | [🔗](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb5333f17b22081d93856e43" alt="" width="50" /> | Have Yourself A Merry Little Christmas | Have Yourself A Merry Little Christmas - SM STATION | Jay JungJae Moon, [WENDY](overview.md), Nile Lee | [SM Entertainment](../../labels/sm_entertainment) | 0 | | [🔗](https://open.spotify.com/track/6SmFhQAavuPzBm3OUH1Kzs) |

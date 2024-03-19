@@ -1,20 +1,20 @@
 # GRP
 
-23 songs
+22 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- GRP (23 tracks)
+- GRP (22 tracks)
 
 ## Top Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6772690000c46c4a0e9d5e55f9f3721c3243c5" alt="" width="50" /> | 2 | 1 | Louis Armstrong | [🔗](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) |
-| <img src="https://i.scdn.co/image/ab6772690000c46c153adede0a024fd3679af738" alt="" width="50" /> | 21 | 0 | David Benoit | [🔗](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) |
+| <img src="https://i.scdn.co/image/ab6772690000c46c153adede0a024fd3679af738" alt="" width="50" /> | 20 | 0 | David Benoit | [🔗](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) |
 | <img src="https://i.scdn.co/image/6e6382aacddd7daad02fe915b77644798884c9e5" alt="" width="50" /> | 1 | 0 | Randy Waldman | [🔗](https://open.spotify.com/artist/4DoFQoqKcSPw8CSzyh7trt) |
 
 ![Bar chart of top 3 artists](../../images/labels/grp/artists.png)
@@ -23,8 +23,8 @@ Appears as:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | 10 | 0 | Inner Motion | 1990-01-01 | [🔗](https://open.spotify.com/album/6azX9ZDZzVLjpQy6ytifne) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d0ee28b2184f96650755916" alt="" width="50" /> | 10 | 0 | Freedom At Midnight | 1987-01-01 | [🔗](https://open.spotify.com/album/404TYwH2T33GbA9LdIT9fR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | 9 | 0 | Inner Motion | 1990-01-01 | [🔗](https://open.spotify.com/album/6azX9ZDZzVLjpQy6ytifne) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273845a5660b804e5f3e821fbed" alt="" width="50" /> | 2 | 1 | What A Wonderful World | 1968-01-01 | [🔗](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f67419e4e296d96256cc3f5" alt="" width="50" /> | 1 | 0 | Every Step Of The Way | 1987 | [🔗](https://open.spotify.com/album/50HH21YU6PDn8XZXYGxWkg) |
 
@@ -38,14 +38,13 @@ Appears as:
 | 2 | 1 | swing |
 | 2 | 1 | [soul](../../genres/soul/overview.md) |
 | 2 | 1 | new orleans jazz |
-| 2 | 1 | [lounge](../../genres/lounge/overview.md) |
 | 2 | 1 | jazz trumpet |
 | 2 | 1 | harlem renaissance |
 | 2 | 1 | dixieland |
 | 2 | 1 | [adult standards](../../genres/adult_standards/overview.md) |
-| 21 | 0 | smooth jazz |
+| 20 | 0 | smooth jazz |
 
-![Bar chart of top 10 genres](../../images/labels/grp/genres.png)
+![Bar chart of top 9 genres](../../images/labels/grp/genres.png)
 
 ## Top Producers
 
@@ -87,7 +86,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | Coconut Roads | Inner Motion | David Benoit | [GRP](.) | 0 | | [🔗](https://open.spotify.com/track/0YXj7thzE6znoniGd662fi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | Deep Light | Inner Motion | David Benoit | [GRP](.) | 0 | | [🔗](https://open.spotify.com/track/4R3559LWLe3tuekjH1My0s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | El Camino Real | Inner Motion | David Benoit | [GRP](.) | 0 | | [🔗](https://open.spotify.com/track/1ebiRv1L7H4Y9OQcc5VVrj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | Every Corner Of The World | Inner Motion | David Benoit | [GRP](.) | 0 | | [🔗](https://open.spotify.com/track/5D0zQeSFi6qfukLstHCf9I) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | Houston | Inner Motion | David Benoit | [GRP](.) | 0 | | [🔗](https://open.spotify.com/track/2hFD5732Sz3FJ4ohjhKLG5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | M.W.A. (Musicians With Attitude) | Inner Motion | David Benoit | [GRP](.) | 0 | | [🔗](https://open.spotify.com/track/1dE0PS08MJrUkdtrG5hjpk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | South East Quarter | Inner Motion | David Benoit | [GRP](.) | 0 | | [🔗](https://open.spotify.com/track/04IcSgYzMaGKJsfYJ6cs8s) |

@@ -16,12 +16,15 @@ BoA:
 
 ## Artist Rank
 BoA is currently:
+- The #42 artist of the last month
 - The #26 artist of the last 6 months
-- The #33 artist of all time
+- The #24 artist of all time
 
 ![Rank of BoA over time](../../images/artists/boa/rank_time_series.png)
 ## Top Tracks
 
+- Time After Time is:
+    - the #34 track of all time
 
 ### Top tracks of the last 6 months over time
 
@@ -129,7 +132,7 @@ BoA is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Time After Time | 2022 Winter SMTOWN : SMCU PALACE | [BoA](overview.md), [WENDY](../wendy/overview.md), NINGNING | [SM Entertainment](../../labels/sm_entertainment) | 15052 | 💚 | [🔗](https://open.spotify.com/track/6LGcOydwjfaquaRgJwlPkK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Time After Time | 2022 Winter SMTOWN : SMCU PALACE | [BoA](overview.md), [WENDY](../wendy/overview.md), NINGNING | [SM Entertainment](../../labels/sm_entertainment) | 15256 | 💚 | [🔗](https://open.spotify.com/track/6LGcOydwjfaquaRgJwlPkK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | Forgive Me | Forgive Me - The 3rd Mini Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 3468 | 💚 | [🔗](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273beb813f48fd0a37fe0969024" alt="" width="50" /> | Better | BETTER - The 10th Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 295 | | [🔗](https://open.spotify.com/track/2k44rKotfi2k55hwwiCImN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731320580741caccf7a285ebc3" alt="" width="50" /> | THE CHRISTMAS SONG | メリクリ | [BoA](overview.md) | [avex trax](../../labels/avex_trax) | 271 | | [🔗](https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ) |

@@ -18,8 +18,6 @@ HWASA:
 ![Rank of HWASA over time](../../images/artists/hwasa/rank_time_series.png)
 ## Top Tracks
 
-- Maria is:
-    - the #3 track of all time
 
 ### Top tracks of all time over time
 

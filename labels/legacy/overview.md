@@ -123,11 +123,11 @@ Appears as:
 | 1 | 1 | classic soul |
 | 6 | 0 | jazz |
 | 5 | 0 | bebop |
-| 3 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 3 | 0 | jazz quartet |
 | 3 | 0 | jazz piano |
 | 3 | 0 | contemporary post-bop |
 | 3 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
+| 2 | 0 | [lounge](../../genres/lounge/overview.md) |
 | 2 | 0 | jazz trio |
 | 2 | 0 | easy listening |
 | 2 | 0 | brill building pop |

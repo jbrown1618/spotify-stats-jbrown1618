@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b273068a5559744d17bd5e871740ab67616d0000b273a1113af3a19a41dc8eec534eab67616d0000b273ca96a3471c3cb5128e64195fab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Jazz" width="100" />
 
-[100 tracks (30 liked) 🔗](https://open.spotify.com/playlist/58yLhLYn4iDQPCN53MfiDI)
+[99 tracks (30 liked) 🔗](https://open.spotify.com/playlist/58yLhLYn4iDQPCN53MfiDI)
 
 [See Track Features](audio_features.md)
 
@@ -41,7 +41,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1443b3d0c1d38e982e49ec85" alt="" width="50" /> | 1 | 1 | Sarah Vaughan | [🔗](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfee7db9b30ece7ac8b55f6d1" alt="" width="50" /> | 1 | 1 | Mahalia | [🔗](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7773162cc90fc8dfb720fdfe" alt="" width="50" /> | 1 | 1 | Stacey Kent | [🔗](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) |
-| <img src="https://i.scdn.co/image/ab6772690000c46c153adede0a024fd3679af738" alt="" width="50" /> | 21 | 0 | David Benoit | [🔗](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) |
+| <img src="https://i.scdn.co/image/ab6772690000c46c153adede0a024fd3679af738" alt="" width="50" /> | 20 | 0 | David Benoit | [🔗](https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu) |
 | <img src="https://i.scdn.co/image/b4e726a3aadce109069811c4381279daf20c03d8" alt="" width="50" /> | 5 | 0 | Sophie Milman | [🔗](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) |
 | <img src="https://i.scdn.co/image/b6f7dc3c16f95e6df120af205d4007f518b01e0e" alt="" width="50" /> | 3 | 0 | The Dave Brubeck Quartet | [🔗](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) |
 | <img src="https://i.scdn.co/image/8fd767aa91ecd8e5720b424812e2a17586834ac2" alt="" width="50" /> | 3 | 0 | Chet Baker | [🔗](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) |
@@ -74,8 +74,8 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | 10 | 0 | Inner Motion | 1990-01-01 | [🔗](https://open.spotify.com/album/6azX9ZDZzVLjpQy6ytifne) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d0ee28b2184f96650755916" alt="" width="50" /> | 10 | 0 | Freedom At Midnight | 1987-01-01 | [🔗](https://open.spotify.com/album/404TYwH2T33GbA9LdIT9fR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | 9 | 0 | Inner Motion | 1990-01-01 | [🔗](https://open.spotify.com/album/6azX9ZDZzVLjpQy6ytifne) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | 5 | 5 | Choose Your Character! | 2019-06-24 | [🔗](https://open.spotify.com/album/2d3PcBi2ID1sLe8ZRTmxIi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | 3 | 3 | Djesse Vol. 3 | 2020-08-14 | [🔗](https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343c7453d0338f82a05464751" alt="" width="50" /> | 3 | 2 | In My Room | 2016-07-01 | [🔗](https://open.spotify.com/album/70N5l7CBZmAMCh1WfnM6in) |
@@ -157,7 +157,7 @@
 | 5 | 2 | FRANK SINATRA DIGITAL REPRISE |
 | 3 | 2 | Hajanga Records |
 | 2 | 2 | [Geffen](../../labels/geffen/overview.md) |
-| 23 | 1 | [GRP](../../labels/grp/overview.md) |
+| 22 | 1 | [GRP](../../labels/grp/overview.md) |
 | 1 | 1 | [Warner Records](../../labels/warner_records/overview.md) |
 
 
@@ -198,9 +198,9 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 31 | 10 | [adult standards](../../genres/adult_standards/overview.md) |
-| 24 | 8 | [lounge](../../genres/lounge/overview.md) |
 | 11 | 8 | [uk alternative pop](../../genres/uk_alternative_pop/overview.md) |
 | 27 | 7 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
+| 20 | 7 | [lounge](../../genres/lounge/overview.md) |
 | 14 | 5 | [soul](../../genres/soul/overview.md) |
 | 12 | 5 | jazz pop |
 | 12 | 5 | [canadian pop](../../genres/canadian_pop/overview.md) |
@@ -230,7 +230,7 @@
 | 2 | 1 | instrumental funk |
 | 1 | 1 | electro swing |
 | 1 | 1 | dutch pop |
-| 21 | 0 | smooth jazz |
+| 20 | 0 | smooth jazz |
 | 8 | 0 | bebop |
 | 5 | 0 | cool jazz |
 | 4 | 0 | jazz trio |
@@ -333,10 +333,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="Billie Holiday" width="50" /> | I'll Be Seeing You | 254 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="Inner Motion" width="50" /> | South East Quarter | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [He Won't Hold You (feat. Rapsody)](../../artists/jacob_collier/overview.md) | 196 | <img src="https://i.scdn.co/image/ab67616d0000b2732def9ef3f6a82c8d6fd8c143" alt="Duke Ellington &amp; John Coltrane" width="50" /> | In A Sentimental Mood | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="The Great American Songbook" width="50" /> | Mack the Knife | 183 | <img src="https://i.scdn.co/image/ab67616d0000b273bcaf6f097b310e20504f2de0" alt="Chet Baker Sings" width="50" /> | I Fall In Love Too Easily | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="Solitude" width="50" /> | Blue Moon | 153 | <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="Ella: The Legendary Decca Recordings" width="50" /> | Dream A Little Dream Of Me | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Tetris Theme A (From "Tetris")](../../artists/the_8-bit_big_band/overview.md) | 118 | <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Still Alive (From "Portal")](../../artists/the_8-bit_big_band/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Tetris Theme A (From "Tetris")](../../artists/the_8-bit_big_band/overview.md) | 156 | <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="Ella: The Legendary Decca Recordings" width="50" /> | Dream A Little Dream Of Me | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="Solitude" width="50" /> | Blue Moon | 153 | <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Still Alive (From "Portal")](../../artists/the_8-bit_big_band/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="Djesse Vol. 1" width="50" /> | [Every Little Thing She Does Is Magic](../../artists/jacob_collier/overview.md) | 89 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="Inner Motion" width="50" /> | Coconut Roads | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [Running Outta Love (feat. Tori Kelly)](../../artists/jacob_collier/overview.md) | 76 | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | [The Way You Look Tonight](../../artists/frank_sinatra/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [Running Outta Love (feat. Tori Kelly)](../../artists/jacob_collier/overview.md) | 80 | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | [The Way You Look Tonight](../../artists/frank_sinatra/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="Djesse Vol. 2" width="50" /> | [Moon River](../../artists/jacob_collier/overview.md) | 46 | <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="Djesse Vol. 2" width="50" /> | [Here Comes The Sun (feat. dodie)](../../artists/jacob_collier/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="At Last!" width="50" /> | Stormy Weather | 42 | <img src="https://i.scdn.co/image/ab67616d0000b27372fb9383a4e394271146d94c" alt="Breakfast on the Morning Tram" width="50" /> | Breakfast on the Morning Tram | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="The Complete Ella And Louis On Verve" width="50" /> | Cheek To Cheek | 40 | <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> | [Someday (feat. Meghan Trainor)](../../artists/michael_bublé/overview.md) | 0 |

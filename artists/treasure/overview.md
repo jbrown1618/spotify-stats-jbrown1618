@@ -21,6 +21,8 @@ TREASURE:
 - has member 예담 (Yedam)
 
 ## Artist Rank
+TREASURE is currently:
+- The #49 artist of all time
 
 ![Rank of TREASURE over time](../../images/artists/treasure/rank_time_series.png)
 ## Top Tracks

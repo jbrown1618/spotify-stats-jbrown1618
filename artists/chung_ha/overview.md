@@ -16,14 +16,14 @@ CHUNG HA:
 ## Artist Rank
 CHUNG HA is currently:
 - The #41 artist of the last month
-- The #31 artist of the last 6 months
-- The #15 artist of all time
+- The #30 artist of the last 6 months
+- The #21 artist of all time
 
 ![Rank of CHUNG HA over time](../../images/artists/chung_ha/rank_time_series.png)
 ## Top Tracks
 
-- Gotta Go is:
-    - the #7 track of all time
+- When I Get Old is:
+    - the #28 track of all time
 
 ### Top tracks of all time over time
 
@@ -186,7 +186,7 @@ CHUNG HA is currently:
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="" width="50" /> | Gotta Go | Gotta Go | [CHUNG HA](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 56855 | 💚 | [🔗](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="" width="50" /> | When I Get Old | When I Get Old | Christopher, [CHUNG HA](overview.md) | Parlophone Denmark | 5562 | 💚 | [🔗](https://open.spotify.com/track/5f2CcxzZoW7hNs1O8NhG6y) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="" width="50" /> | When I Get Old | When I Get Old | Christopher, [CHUNG HA](overview.md) | Parlophone Denmark | 5838 | 💚 | [🔗](https://open.spotify.com/track/5f2CcxzZoW7hNs1O8NhG6y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Dream of You (with R3HAB) | Querencia | [CHUNG HA](overview.md), R3HAB | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 531 | 💚 | [🔗](https://open.spotify.com/track/1d8Arh7PushRWWJRs41rSa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Demente (feat. Guaynaa) | Querencia | [CHUNG HA](overview.md), Guaynaa | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 298 | 💚 | [🔗](https://open.spotify.com/track/0NhHFXC06r5kK1rTUuOjxM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Bicycle | Querencia | [CHUNG HA](overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 119 | 💚 | [🔗](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) |

@@ -2,7 +2,7 @@
 # Pentatonix
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebd8c57872541b101fb95d6295" alt="Pentatonix" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb746dd598cf914934bd27ed7e" alt="Pentatonix" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -22,7 +22,7 @@ Pentatonix:
 Pentatonix is currently:
 - The #21 artist of the last month
 - The #24 artist of the last 6 months
-- The #34 artist of all time
+- The #30 artist of all time
 
 ![Rank of Pentatonix over time](../../images/artists/pentatonix/rank_time_series.png)
 ## Featured on Playlists
@@ -102,7 +102,7 @@ Pentatonix is currently:
 | | Scott Hoying | 3 | Songwriter |
 | | Mitch Grassi | 3 | Songwriter |
 | | Jimmy Napes | 2 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd8c57872541b101fb95d6295" alt="" width="50" /> | [Pentatonix](overview.md) | 2 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb746dd598cf914934bd27ed7e" alt="" width="50" /> | [Pentatonix](overview.md) | 2 | Arranger |
 | | Savan Kotecha | 1 | Songwriter |
 | | Ben McKee | 1 | Songwriter |
 
