@@ -10,13 +10,13 @@
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b273022b4010e20659300f42c375ab67616d0000b2730e402844f1b6be3102d339f2ab67616d0000b2733378545422c5257483f6230eab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 8 | [Singer-Songwriter](../../playlists/singer-songwriter/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e020e402844f1b6be3102d339f2ab67616d00001e023378545422c5257483f6230eab67616d00001e02db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 8 | [Singer-Songwriter](../../playlists/singer-songwriter/overview.md) |
 
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | 3 | 2 | Song to a Seagull | 1968-03-01 | [🔗](https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="" width="50" /> | 3 | 2 | Song to a Seagull | 1968-03-01 | [🔗](https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e79dc1438d650f426b5e99a7" alt="" width="50" /> | 3 | 2 | Blue | 1971-06-22 | [🔗](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b80ea8399313aeffb10b0acb" alt="" width="50" /> | 1 | 1 | Ladies of the Canyon | 1970-03-01 | [🔗](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739569f3e5cca8dce07cc7e5a7" alt="" width="50" /> | 1 | 1 | Court and Spark | 1974-01-17 | [🔗](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) |
@@ -51,8 +51,8 @@
 
 | Art | Track | Credit Types |
 |:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | The Dawntreader | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | I Had a King | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="" width="50" /> | The Dawntreader | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="" width="50" /> | I Had a King | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b80ea8399313aeffb10b0acb" alt="" width="50" /> | Big Yellow Taxi | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e79dc1438d650f426b5e99a7" alt="" width="50" /> | Carey | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739569f3e5cca8dce07cc7e5a7" alt="" width="50" /> | Free Man in Paris | Lyricist, Producer, Songwriter |
@@ -70,9 +70,9 @@
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | I Had a King | Song to a Seagull | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 0 | 💚 | [🔗](https://open.spotify.com/track/6rj2z2taVIxPRnzx5LJkGm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | The Dawntreader | Song to a Seagull | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 0 | 💚 | [🔗](https://open.spotify.com/track/0KE9YElZqPumrpm9ovtXlN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | The Pirate of Penance | Song to a Seagull | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 0 | | [🔗](https://open.spotify.com/track/53QbBfo0PTUKfOBM0YoPU7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="" width="50" /> | I Had a King | Song to a Seagull | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 0 | 💚 | [🔗](https://open.spotify.com/track/6rj2z2taVIxPRnzx5LJkGm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="" width="50" /> | The Dawntreader | Song to a Seagull | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 0 | 💚 | [🔗](https://open.spotify.com/track/0KE9YElZqPumrpm9ovtXlN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="" width="50" /> | The Pirate of Penance | Song to a Seagull | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 0 | | [🔗](https://open.spotify.com/track/53QbBfo0PTUKfOBM0YoPU7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b80ea8399313aeffb10b0acb" alt="" width="50" /> | Big Yellow Taxi | Ladies of the Canyon | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 0 | 💚 | [🔗](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e79dc1438d650f426b5e99a7" alt="" width="50" /> | A Case of You | Blue | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 0 | 💚 | [🔗](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e79dc1438d650f426b5e99a7" alt="" width="50" /> | Blue | Blue | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 0 | | [🔗](https://open.spotify.com/track/1yWIsH3TC51gmzvQxZNCQC) |

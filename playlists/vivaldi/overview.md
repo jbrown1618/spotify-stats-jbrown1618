@@ -1,7 +1,7 @@
 # Vivaldi
 
 
-<img src="https://i.scdn.co/image/ab67616d0000b27387f25f9e50f7da18f3434bde" alt="Vivaldi" width="100" />
+<img src="https://i.scdn.co/image/ab67616d00001e0287f25f9e50f7da18f3434bde" alt="Vivaldi" width="100" />
 
 [34 tracks (0 liked) 🔗](https://open.spotify.com/playlist/39dOiLs9ZbssQvs9xLBRzw)
 
@@ -20,7 +20,7 @@
 | <img src="https://i.scdn.co/image/0a9d5ec941fbc045b93f26370c18b8bf0a659708" alt="" width="50" /> | 16 | 0 | Sarah Chang | [🔗](https://open.spotify.com/artist/5duxfFAQVkDT9g261fKlMP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebae79cc231c0bde53d5ed1f5b" alt="" width="50" /> | 16 | 0 | Orpheus Chamber Orchestra | [🔗](https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f0fda74a5a43a795c5b5663" alt="" width="50" /> | 3 | 0 | David Reichenberg | [🔗](https://open.spotify.com/artist/5xA5sW0D3BUAyL02XcDkYv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27320949e635e974e73edeb7e32" alt="" width="50" /> | 3 | 0 | Elizabeth Wilcock | [🔗](https://open.spotify.com/artist/1OfYCRcS14pyRVrO0qTCbs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273011ad120d2b19f16f59a8aaf" alt="" width="50" /> | 3 | 0 | Elizabeth Wilcock | [🔗](https://open.spotify.com/artist/1OfYCRcS14pyRVrO0qTCbs) |
 
 ![Bar chart of top 8 artists](../../images/playlists/vivaldi/artists.png)
 

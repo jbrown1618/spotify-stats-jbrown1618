@@ -16,9 +16,9 @@ Daft Punk:
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b27348905438b9c1153978d9fbf4ab67616d0000b27379e8b529ce6c088a8027b2a1ab67616d0000b2739b9b36b0e22870b9f542d937ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="" width="50" /> | 7 | [Electronic](../../playlists/electronic/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b27304878afb19613a94d37b29ceab67616d0000b2731544041d0285585cc92c2709ab67616d0000b273570f746ccc2c75af070da1e0ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 3 | [Summer](../../playlists/summer/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b27341aa6776dc15fbd71a2b4557ab67616d0000b2739b9a3105ad4ffb91ad2e2798ab67616d0000b2739dbb37516ff4b03244808e45ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 3 | [Pop](../../playlists/pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0248905438b9c1153978d9fbf4ab67616d00001e0279e8b529ce6c088a8027b2a1ab67616d00001e029b9b36b0e22870b9f542d937ab67616d00001e02d8601e15fa1b4351fe1fc6ae" alt="" width="50" /> | 7 | [Electronic](../../playlists/electronic/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 3 | [Summer](../../playlists/summer/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 3 | [Pop](../../playlists/pop/overview.md) |
 
 ## Top Albums
 

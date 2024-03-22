@@ -4,18 +4,6 @@
 
 ## Cluster #1
 
-6 tracks
-
-| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="" width="50" /> | Run Devil Run | Run Devil Run - The 2nd Album Repackage | [Girls' Generation](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 23059 | 💚 | [🔗](https://open.spotify.com/track/0U9jNoTJeTxXToakhsb7pV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ee58f0e04b175603c1f56668" alt="" width="50" /> | Holiday | Holiday Night - The 6th Album | [Girls' Generation](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 0 | | [🔗](https://open.spotify.com/track/1Bjy9ZtwMle3uhVgoBgiGN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aa7646e7aa8a4e001cb8a805" alt="" width="50" /> | Gee | Gee - The First Mini Album | [Girls' Generation](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/2BQIMF7CyLe2xAKzh74A4C) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="" width="50" /> | 말해봐 (Talk Talk) | I GOT A BOY - The 4th Album | [Girls' Generation](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 0 | | [🔗](https://open.spotify.com/track/4fcMeRJFjEbvWagaEJD33A) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="" width="50" /> | Lion Heart | Lion Heart - The 5th Album | [Girls' Generation](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 15422 | 💚 | [🔗](https://open.spotify.com/track/405SQUJdQut02dxtuQ0CZ3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27361d7b9988c77826dfb1db1b3" alt="" width="50" /> | The Boys | The Boys - The 3rd Album | [Girls' Generation](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 11380 | 💚 | [🔗](https://open.spotify.com/track/4sRQg2aoec0VIvQ7GZPGMy) |
-## Cluster #2
-
 7 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
@@ -27,6 +15,19 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | Closer | FOREVER 1 - The 7th Album | [Girls' Generation](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 0 | | [🔗](https://open.spotify.com/track/7JWXQE9QBQ8BAPFKAwnUWP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27341e9e282e569b2279c2171de" alt="" width="50" /> | Mr.Mr. | Mr. Mr. - The 4th Mini Album | [Girls' Generation](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/3JaMGQXJmtbAhvgl0nBPPN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Oh! | Oh! - The Second Album | [Girls' Generation](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 0 | | [🔗](https://open.spotify.com/track/6VOG2ROMCklbn6SSg9mA9H) |
+## Cluster #2
+
+7 tracks
+
+| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="" width="50" /> | Run Devil Run | Run Devil Run - The 2nd Album Repackage | [Girls' Generation](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 23059 | 💚 | [🔗](https://open.spotify.com/track/0U9jNoTJeTxXToakhsb7pV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ee58f0e04b175603c1f56668" alt="" width="50" /> | Holiday | Holiday Night - The 6th Album | [Girls' Generation](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 0 | | [🔗](https://open.spotify.com/track/1Bjy9ZtwMle3uhVgoBgiGN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730f950609e26eb0654253bb9a" alt="" width="50" /> | The Boys | The Boys | [Girls' Generation](../../overview.md) | Universal Music Group International | 0 | | [🔗](https://open.spotify.com/track/27gk7LEKLGipjamUP3T591) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aa7646e7aa8a4e001cb8a805" alt="" width="50" /> | Gee | Gee - The First Mini Album | [Girls' Generation](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/2BQIMF7CyLe2xAKzh74A4C) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="" width="50" /> | 말해봐 (Talk Talk) | I GOT A BOY - The 4th Album | [Girls' Generation](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 0 | | [🔗](https://open.spotify.com/track/4fcMeRJFjEbvWagaEJD33A) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="" width="50" /> | Lion Heart | Lion Heart - The 5th Album | [Girls' Generation](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 15422 | 💚 | [🔗](https://open.spotify.com/track/405SQUJdQut02dxtuQ0CZ3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27361d7b9988c77826dfb1db1b3" alt="" width="50" /> | The Boys | The Boys - The 3rd Album | [Girls' Generation](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 11380 | 💚 | [🔗](https://open.spotify.com/track/4sRQg2aoec0VIvQ7GZPGMy) |
 ## Cluster #3
 
 3 tracks

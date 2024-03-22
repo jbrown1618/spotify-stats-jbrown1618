@@ -28,8 +28,8 @@
 
 | Art | Track | Credit Types |
 |:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | The Dawntreader | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | I Had a King | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="" width="50" /> | The Dawntreader | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="" width="50" /> | I Had a King | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b80ea8399313aeffb10b0acb" alt="" width="50" /> | Big Yellow Taxi | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e79dc1438d650f426b5e99a7" alt="" width="50" /> | Carey | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739569f3e5cca8dce07cc7e5a7" alt="" width="50" /> | Free Man in Paris | Lyricist, Producer, Songwriter |

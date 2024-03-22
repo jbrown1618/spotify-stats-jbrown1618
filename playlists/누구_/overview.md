@@ -1,7 +1,7 @@
 # 누구?
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b2731f5de98907a7f969ea7c28dbab67616d0000b273992cdb975f91efd91b998628ab67616d0000b273addef7fad07f17acdf7d6b98ab67616d0000b273e827c21f833661043f8dd588" alt="누구?" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d00001e021f5de98907a7f969ea7c28dbab67616d00001e02992cdb975f91efd91b998628ab67616d00001e02addef7fad07f17acdf7d6b98ab67616d00001e02e827c21f833661043f8dd588" alt="누구?" width="100" />
 
 [54 tracks (31 liked) 🔗](https://open.spotify.com/playlist/4JrgU3rcLuATwzM1jVVgyC)
 

@@ -177,9 +177,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Lips | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 291 | 💚 | [🔗](https://open.spotify.com/track/0dRSOmb7pqkkmjXCu5BYbe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8a007b9e0ba32eee1651227" alt="" width="50" /> | Alone | ALONE | SISTAR | [Starship Entertainment](.) | 195 | 💚 | [🔗](https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27365414519ff7d939ddfb53c21" alt="" width="50" /> | One way love | LOVE & HATE | HYOLYN | [Starship Entertainment](.) | 142 | 💚 | [🔗](https://open.spotify.com/track/2UIXAxLWIPM6ALPGCeeXfH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="" width="50" /> | Beautiful Liar | REASON | MONSTA X | [Starship Entertainment](.) | 26 | 💚 | [🔗](https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="" width="50" /> | Beautiful Liar | REASON | MONSTA X | [Starship Entertainment](.) | 36 | 💚 | [🔗](https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 섬찟 (Hypnosis) | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 31 | 💚 | [🔗](https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Blue Blood | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 25 | 💚 | [🔗](https://open.spotify.com/track/2avdbiswb0d5AFmyyz68xP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27363c31401b11c56386ed0c9b7" alt="" width="50" /> | Ma Boy | Ma Boy | SISTAR19 | [Starship Entertainment](.) | 0 | | [🔗](https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1) |
 
 
 <details>
@@ -187,6 +187,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27363c31401b11c56386ed0c9b7" alt="" width="50" /> | Ma Boy | Ma Boy | SISTAR19 | [Starship Entertainment](.) | 0 | | [🔗](https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27352d75b524e594fec397a2e88" alt="" width="50" /> | Give it to me | Give It To Me (2) | SISTAR | [Starship Entertainment](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/1t88m8JUlqn9kf0FLmVta5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | Touch my body | TOUCH N MOVE | SISTAR | [Starship Entertainment](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/5crARIrvoMiMf2AdlD78WN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb2456c53306bc582b406462" alt="" width="50" /> | SHAKE IT | SHAKE IT | SISTAR | [Starship Entertainment](.) | 0 | | [🔗](https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6) |
@@ -208,7 +209,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273689b4c9e69a72bd3398f2e88" alt="" width="50" /> | Last Sequence | Sequence | [WJSN](../../artists/wjsn/overview.md) | [STARSHIP ENTERTAINMENT](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/0lNPjT58llQGlycRA2mea4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273404c584f708c5a2fb05bdeb3" alt="" width="50" /> | After LIKE - Holiday Remix | Spotify Singles - Holiday | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 0 | | [🔗](https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Kitsch | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 섬찟 (Hypnosis) | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273963ab68340962c032261c06c" alt="" width="50" /> | FREEDOM | LIGHTS | JOOHONEY | [Starship Entertainment](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/5UA91Wf0dAxnCPbFdJJv0a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ad3417e5036ba928bb5ce8b" alt="" width="50" /> | Love Me A Little | THE UNSEEN | SHOWNU X HYUNGWON (MONSTA X) | [Starship Entertainment](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/66RK4bz7fZGrfyBb3y9Yal) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Off The Record | I'VE MINE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/6TNx6kHZeVDByUNMVxkAfa) |

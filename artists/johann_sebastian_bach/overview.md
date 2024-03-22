@@ -14,7 +14,7 @@
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="" width="50" /> | 55 | [Bach](../../playlists/bach/overview.md) |
+| <img src="https://i.scdn.co/image/ab67616d00001e02261feb89ee859b598bd34a97" alt="" width="50" /> | 55 | [Bach](../../playlists/bach/overview.md) |
 
 ## Top Albums
 

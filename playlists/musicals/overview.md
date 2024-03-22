@@ -1,7 +1,7 @@
 # Musicals
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b27311213770e112f78d4075b61fab67616d0000b2732f8d9427fea9dd36a4fb4f1bab67616d0000b27367a1610b21721a06ed7d378eab67616d0000b273d72fb5571087bca0a2fed008" alt="Musicals" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d00001e0211213770e112f78d4075b61fab67616d00001e022f8d9427fea9dd36a4fb4f1bab67616d00001e0267a1610b21721a06ed7d378eab67616d00001e02d72fb5571087bca0a2fed008" alt="Musicals" width="100" />
 
 [115 tracks (5 liked) 🔗](https://open.spotify.com/playlist/54LRPekls9oCtaWOnmM3N0)
 

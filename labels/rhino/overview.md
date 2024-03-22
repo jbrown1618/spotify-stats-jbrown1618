@@ -47,7 +47,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | 3 | 2 | Song to a Seagull | 1968-03-01 | [🔗](https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="" width="50" /> | 3 | 2 | Song to a Seagull | 1968-03-01 | [🔗](https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e79dc1438d650f426b5e99a7" alt="" width="50" /> | 3 | 2 | Blue | 1971-06-22 | [🔗](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | 3 | 0 | Rumours (Super Deluxe) | 1977-02-04 | [🔗](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | 2 | 1 | Purple Rain | 1984-06-25 | [🔗](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) |
@@ -202,15 +202,15 @@ Appears as:
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="" width="50" /> | Desperado - 2013 Remaster | Desperado (2013 Remaster) | Eagles | [Rhino/Elektra](.) | 12 | 💚 | [🔗](https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="" width="50" /> | Take on Me | Hunting High and Low | a-ha | [Rhino](.) | 11 | 💚 | [🔗](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730ac413b28547dbc45412a3ce" alt="" width="50" /> | 25 or 6 to 4 | Chicago IX: Chicago's Greatest Hits | Chicago | [Rhino](.) | 10 | 💚 | [🔗](https://open.spotify.com/track/65eRcjlStTnk8opG5eIQ8Z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="" width="50" /> | I'm a Believer - 2006 Remaster | More of The Monkees (Deluxe Edition) | The Monkees | [Rhino](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | I Had a King | Song to a Seagull | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [Rhino](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/6rj2z2taVIxPRnzx5LJkGm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | The Dawntreader | Song to a Seagull | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [Rhino](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/0KE9YElZqPumrpm9ovtXlN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b4844a368bd9679f1db5a4fb" alt="" width="50" /> | The Pirate of Penance | Song to a Seagull | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [Rhino](.) | 0 | | [🔗](https://open.spotify.com/track/53QbBfo0PTUKfOBM0YoPU7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="" width="50" /> | I Had a King | Song to a Seagull | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [Rhino](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/6rj2z2taVIxPRnzx5LJkGm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="" width="50" /> | The Dawntreader | Song to a Seagull | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [Rhino](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/0KE9YElZqPumrpm9ovtXlN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="" width="50" /> | The Pirate of Penance | Song to a Seagull | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [Rhino](.) | 0 | | [🔗](https://open.spotify.com/track/53QbBfo0PTUKfOBM0YoPU7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97" alt="" width="50" /> | Daydream Believer | The Birds, The Bees, & The Monkees | The Monkees | [Rhino](.) | 0 | | [🔗](https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27330c348e8e33a9cdd1aa58152" alt="" width="50" /> | Tell Me a Bedtime Story | Fat Albert Rotunda | Herbie Hancock | [Rhino](.), [Warner Records](../warner_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/6eimz6jvlZaPwtflDWCTa0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b80ea8399313aeffb10b0acb" alt="" width="50" /> | Big Yellow Taxi | Ladies of the Canyon | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [Rhino](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" alt="" width="50" /> | Paranoid - 2012 - Remaster | Paranoid (Remaster) | Black Sabbath | [Rhino](.), [Warner Records](../warner_records) | 0 | | [🔗](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) |
 
 
 <details>
@@ -218,7 +218,6 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" alt="" width="50" /> | Paranoid - 2012 - Remaster | Paranoid (Remaster) | Black Sabbath | [Rhino](.), [Warner Records](../warner_records) | 0 | | [🔗](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e79dc1438d650f426b5e99a7" alt="" width="50" /> | A Case of You | Blue | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [Rhino](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e79dc1438d650f426b5e99a7" alt="" width="50" /> | Blue | Blue | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [Rhino](.) | 0 | | [🔗](https://open.spotify.com/track/1yWIsH3TC51gmzvQxZNCQC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e79dc1438d650f426b5e99a7" alt="" width="50" /> | Carey | Blue | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [Rhino](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/11dUk8E2z8Oj1JURwl7GJd) |
@@ -232,6 +231,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a2a55eaab314c41d8f6e512" alt="" width="50" /> | Sara - 2015 Remaster | Tusk (2015 Remaster) | Fleetwood Mac | [Rhino](.), [Warner Records](../warner_records) | 0 | | [🔗](https://open.spotify.com/track/59rSjZAHfFktNxjtx7oM4H) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | Purple Rain | Purple Rain | Prince | [Rhino](.), [Warner Records](../warner_records) | 0 | | [🔗](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | When Doves Cry | Purple Rain | Prince | [Rhino](.), [Warner Records](../warner_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="" width="50" /> | Take on Me | Hunting High and Low | a-ha | [Rhino](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273120a4749a5ea995604bf60ff" alt="" width="50" /> | Orinoco Flow | Watermark | Enya | [Rhino](.), [Warner Records](../warner_records) | 0 | | [🔗](https://open.spotify.com/track/14EUcXXpqrC03Dzzdj8bGr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f" alt="" width="50" /> | The Passing of the Elves | The Lord of the Rings: The Fellowship of the Ring - the Complete Recordings | Howard Shore | [Rhino](.), [Warner Records](../warner_records) | 0 | | [🔗](https://open.spotify.com/track/05q7lfYerRkqqNDua3vJOL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b96c21e15c091eb98a6c88a4" alt="" width="50" /> | Can't Take My Eyes off You | The Very Best of Frankie Valli & The 4 Seasons | Frankie Valli | [Rhino](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb) |

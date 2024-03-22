@@ -8,7 +8,7 @@
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Dream | Dream | Suzy, [BAEKHYUN](../../overview.md) | ChoongangICS, MYSTIC Entertainment, [JYP Entertainment](../../../../labels/jyp_entertainment), [SM Entertainment](../../../../labels/sm_entertainment) | 17856 | 💚 | [🔗](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Dream | Dream | Suzy, [BAEKHYUN](../../overview.md) | ChoongangICS, MYSTIC Entertainment, [JYP Entertainment](../../../../labels/jyp_entertainment), [SM Entertainment](../../../../labels/sm_entertainment) | 17853 | 💚 | [🔗](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) |
 ## Cluster #2
 
 3 tracks

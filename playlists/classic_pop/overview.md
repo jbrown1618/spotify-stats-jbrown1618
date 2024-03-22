@@ -1,7 +1,7 @@
 # Classic Pop
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b27306ce0d1f846c525e847d60e7ab67616d0000b27322219b7ba681368a16c219feab67616d0000b27323350feac07f56d8b96f33d5ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="Classic Pop" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d00001e0206ce0d1f846c525e847d60e7ab67616d00001e0222219b7ba681368a16c219feab67616d00001e0223350feac07f56d8b96f33d5ab67616d00001e026aa9314b7ddfbd8f036ba3ac" alt="Classic Pop" width="100" />
 
 [63 tracks (33 liked) 🔗](https://open.spotify.com/playlist/6oXUc88JlAQTNdKvn529pD)
 

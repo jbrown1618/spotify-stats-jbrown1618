@@ -28,7 +28,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f0fda74a5a43a795c5b5663" alt="" width="50" /> | 3 | 0 | David Reichenberg | [🔗](https://open.spotify.com/artist/5xA5sW0D3BUAyL02XcDkYv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27320949e635e974e73edeb7e32" alt="" width="50" /> | 3 | 0 | Elizabeth Wilcock | [🔗](https://open.spotify.com/artist/1OfYCRcS14pyRVrO0qTCbs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273011ad120d2b19f16f59a8aaf" alt="" width="50" /> | 3 | 0 | Elizabeth Wilcock | [🔗](https://open.spotify.com/artist/1OfYCRcS14pyRVrO0qTCbs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a68a328440fd75546e32b42c" alt="" width="50" /> | 2 | 0 | Gregorio Allegri | [🔗](https://open.spotify.com/artist/4I47QTluHCo2t2Gj6V7AIG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb31012b4fbdb04b01943efb2" alt="" width="50" /> | 2 | 0 | The Choir Of Trinity College, Cambridge | [🔗](https://open.spotify.com/artist/3x8rZy1i6FwWOWKwfRT1Ab) |
 | <img src="https://i.scdn.co/image/b1e56021e0af6da7c4dad6e677318c716f66a4c3" alt="" width="50" /> | 2 | 0 | Henry Purcell | [🔗](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq) |

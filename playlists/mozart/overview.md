@@ -1,7 +1,7 @@
 # Mozart
 
 
-<img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="Mozart" width="100" />
+<img src="https://i.scdn.co/image/ab67616d00001e02fdf2a7d7437db7a75da73167" alt="Mozart" width="100" />
 
 [148 tracks (0 liked) 🔗](https://open.spotify.com/playlist/2MCvxVYbyzdWBgpnuRWsuM)
 

@@ -1,7 +1,7 @@
 # Cursed English
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b2732270d3bd1d13133edf0be836ab67616d0000b2736017bca98dea58ceddea77c1ab67616d0000b273a0df2d59f0ae9426cba3eb36ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Cursed English" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d00001e022270d3bd1d13133edf0be836ab67616d00001e026017bca98dea58ceddea77c1ab67616d00001e02a0df2d59f0ae9426cba3eb36ab67616d00001e02cd723e6efb66f6ef28fac28e" alt="Cursed English" width="100" />
 
 [33 tracks (1 liked) 🔗](https://open.spotify.com/playlist/2tPCDZMU74TGOBGdNdVDBs)
 

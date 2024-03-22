@@ -1,7 +1,7 @@
 # Brahms
 
 
-<img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms" width="100" />
+<img src="https://i.scdn.co/image/ab67616d00001e0217adbf4b1899ea006e880996" alt="Brahms" width="100" />
 
 [32 tracks (0 liked) 🔗](https://open.spotify.com/playlist/7MnYdeDrgvc9PoWHqcGVeq)
 

@@ -14,11 +14,11 @@
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" /> | 101 | [Mozart](../../playlists/mozart/overview.md) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="" width="50" /> | 43 | [Ballet](../../playlists/ballet/overview.md) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | 42 | [Beethoven](../../playlists/beethoven/overview.md) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="" width="50" /> | 16 | [Brahms](../../playlists/brahms/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734c43a2f36c0aec708ba024d5ab67616d0000b2735d026bccbd8a50650e903130ab67616d0000b27376a42530f861aa187f3ac1c2ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | 7 | [Program Music](../../playlists/program_music/overview.md) |
+| <img src="https://i.scdn.co/image/ab67616d00001e02fdf2a7d7437db7a75da73167" alt="" width="50" /> | 101 | [Mozart](../../playlists/mozart/overview.md) |
+| <img src="https://i.scdn.co/image/ab67616d00001e023620c09ca7ca202e676b783b" alt="" width="50" /> | 43 | [Ballet](../../playlists/ballet/overview.md) |
+| <img src="https://i.scdn.co/image/ab67616d00001e02c18e2114a3a3ef543635197a" alt="" width="50" /> | 42 | [Beethoven](../../playlists/beethoven/overview.md) |
+| <img src="https://i.scdn.co/image/ab67616d00001e0217adbf4b1899ea006e880996" alt="" width="50" /> | 16 | [Brahms](../../playlists/brahms/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e024c43a2f36c0aec708ba024d5ab67616d00001e025d026bccbd8a50650e903130ab67616d00001e0276a42530f861aa187f3ac1c2ab67616d00001e02c385dbfabcec21279dcea0b5" alt="" width="50" /> | 7 | [Program Music](../../playlists/program_music/overview.md) |
 
 ## Top Albums
 

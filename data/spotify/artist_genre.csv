@@ -133,6 +133,7 @@ spotify:artist:0JGGxsAD1Eg4X9AcKNcxEB,bluegrass
 spotify:artist:0JGGxsAD1Eg4X9AcKNcxEB,instrumental bluegrass
 spotify:artist:0JGGxsAD1Eg4X9AcKNcxEB,mandolin
 spotify:artist:0JGGxsAD1Eg4X9AcKNcxEB,progressive bluegrass
+spotify:artist:0JWuTbSBpsP9QDIl2e26Uw,college a cappella
 spotify:artist:0K4MGKGmjtdIE0W3GkGmyU,korean city pop
 spotify:artist:0K4MGKGmjtdIE0W3GkGmyU,korean electropop
 spotify:artist:0K4MGKGmjtdIE0W3GkGmyU,korean r&b
@@ -224,6 +225,7 @@ spotify:artist:0X380XXQSNBYuleKzav5UO,post-grunge
 spotify:artist:0X380XXQSNBYuleKzav5UO,rock
 spotify:artist:0XATRDCYuuGhk0oE7C0o5G,k-pop
 spotify:artist:0XATRDCYuuGhk0oE7C0o5G,k-pop girl group
+spotify:artist:0XIKGBo9PnK1ApI5tZA60d,pop r&b
 spotify:artist:0XIKGBo9PnK1ApI5tZA60d,r&b
 spotify:artist:0XIKGBo9PnK1ApI5tZA60d,rap latina
 spotify:artist:0XtC2d9ZVigYA7iMy5YkW0,viet chill rap
@@ -882,9 +884,6 @@ spotify:artist:2CvaqAMMsX576VBehaJ0Wx,k-pop
 spotify:artist:2CvaqAMMsX576VBehaJ0Wx,k-pop boy group
 spotify:artist:2DO4p3CPDnInsJfg0jFfaF,british orchestra
 spotify:artist:2DO4p3CPDnInsJfg0jFfaF,chamber orchestra
-spotify:artist:2DlGxzQSjYe5N6G9nkYghR,dance pop
-spotify:artist:2DlGxzQSjYe5N6G9nkYghR,pop
-spotify:artist:2DlGxzQSjYe5N6G9nkYghR,urban contemporary
 spotify:artist:2EjrRJZBrUhYqcgmYF69N1,classic soundtrack
 spotify:artist:2EjrRJZBrUhYqcgmYF69N1,tin pan alley
 spotify:artist:2EjrRJZBrUhYqcgmYF69N1,vintage broadway
@@ -998,6 +997,7 @@ spotify:artist:2UwJRAgSOi1zcLkvUNc8XL,nintendocore
 spotify:artist:2VIdKQmRHnWofsR4odfFOh,classical performance
 spotify:artist:2VIdKQmRHnWofsR4odfFOh,classical piano
 spotify:artist:2VIdKQmRHnWofsR4odfFOh,italian classical piano
+spotify:artist:2VyMwoZuuLbwsOjFVqw2O0,college a cappella
 spotify:artist:2WC05LNhYfprewGa72WQhP,scorecore
 spotify:artist:2WV4xLQooFalR2cit0XSKp,contemporary country
 spotify:artist:2WV4xLQooFalR2cit0XSKp,country
@@ -2223,7 +2223,6 @@ spotify:artist:5dEBuZjTtE68uDgCs23Kuv,k-pop girl group
 spotify:artist:5dTYaRzOn4rXGBLH052EeQ,acoustic pop
 spotify:artist:5dTYaRzOn4rXGBLH052EeQ,lilith
 spotify:artist:5dTYaRzOn4rXGBLH052EeQ,neo mellow
-spotify:artist:5dmuBOlipco9YnYwCbN5PW,vintage broadway
 spotify:artist:5duxfFAQVkDT9g261fKlMP,classical performance
 spotify:artist:5duxfFAQVkDT9g261fKlMP,violin
 spotify:artist:5fEQLwq1BWWQNR8GzhOIvi,mandopop
@@ -2256,6 +2255,7 @@ spotify:artist:5ixB75BQR3ADoWQkcHQJTs,classic oklahoma country
 spotify:artist:5ixB75BQR3ADoWQkcHQJTs,cowboy western
 spotify:artist:5ixB75BQR3ADoWQkcHQJTs,traditional country
 spotify:artist:5ixB75BQR3ADoWQkcHQJTs,yodeling
+spotify:artist:5j28H9tWwW4RlMNKyrONCV,college a cappella
 spotify:artist:5j4HeCoUlzhfWtjAfM1acR,belgian pop
 spotify:artist:5j4HeCoUlzhfWtjAfM1acR,g-house
 spotify:artist:5jNGQ7VOU87x5402JjhTtd,contemporary r&b
@@ -2322,6 +2322,7 @@ spotify:artist:5r1tUTxVSgvBHnoDuDODPH,k-pop girl group
 spotify:artist:5rSXSAkZ67PYJSvpUpkOr7,boy band
 spotify:artist:5rSXSAkZ67PYJSvpUpkOr7,dance pop
 spotify:artist:5rSXSAkZ67PYJSvpUpkOr7,pop
+spotify:artist:5rfjXxn1nj4zTQkIuztuTP,a cappella
 spotify:artist:5rwUYLyUq8gBsVaOUcUxpE,nyc pop
 spotify:artist:5rwUYLyUq8gBsVaOUcUxpE,retro soul
 spotify:artist:5sUrlPAHlS9NEirDB8SEbF,cantautor
@@ -2656,6 +2657,7 @@ spotify:artist:6i6WlGzQtXtz7GcC5H5st5,new romantic
 spotify:artist:6i6WlGzQtXtz7GcC5H5st5,soft rock
 spotify:artist:6i6WlGzQtXtz7GcC5H5st5,symphonic rock
 spotify:artist:6i6WlGzQtXtz7GcC5H5st5,yacht rock
+spotify:artist:6iPbI11utXY9CVhX6SPXEg,dubstep
 spotify:artist:6iVo62B0bdTknRcrktCmak,k-pop
 spotify:artist:6jIK3obS1fJqb3Vu74AYX3,thai indie pop
 spotify:artist:6jJ0s89eD6GaHleKKya26X,pop
@@ -2940,6 +2942,7 @@ spotify:artist:7IlRNXHjoOCgEAWN5qYksg,pop urbaine
 spotify:artist:7IlRNXHjoOCgEAWN5qYksg,r&b francais
 spotify:artist:7JYdpWAsiqzrmMB3qxkEbI,baithak gana
 spotify:artist:7JYdpWAsiqzrmMB3qxkEbI,dutch jazz
+spotify:artist:7JYdpWAsiqzrmMB3qxkEbI,jazz orchestra
 spotify:artist:7K80yOTC0Id95gRaOxDG5u,italian hip hop
 spotify:artist:7K80yOTC0Id95gRaOxDG5u,italian pop
 spotify:artist:7KNW6OwcA260MsaEtnvhxV,movie tunes

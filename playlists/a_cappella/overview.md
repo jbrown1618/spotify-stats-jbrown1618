@@ -1,9 +1,9 @@
 # A Cappella
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b2735d990e8b45c848dc22885f89ab67616d0000b27362f44cdb37183a309fc1032fab67616d0000b27384470dd6235917e2e40e11f0ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="A Cappella" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d00001e025d990e8b45c848dc22885f89ab67616d00001e0262f44cdb37183a309fc1032fab67616d00001e0284470dd6235917e2e40e11f0ab67616d00001e02bb7018e16a77e5ce4744fa93" alt="A Cappella" width="100" />
 
-[295 tracks (36 liked) 🔗](https://open.spotify.com/playlist/7LQjtpZ8EZ5vWXgPoovFeC)
+[295 tracks (37 liked) 🔗](https://open.spotify.com/playlist/7LQjtpZ8EZ5vWXgPoovFeC)
 
 [See Track Features](audio_features.md)
 
@@ -16,13 +16,13 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | 25 | 20 | [The Tarpeggios](../../artists/the_tarpeggios/overview.md) | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb746dd598cf914934bd27ed7e" alt="" width="50" /> | 36 | 16 | [Pentatonix](../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb36c6fa1b8ff851988de641f8" alt="" width="50" /> | 3 | 2 | [Lindsey Stirling](../../artists/lindsey_stirling/overview.md) | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273458d338af5f8ead5be756346" alt="" width="50" /> | 2 | 1 | Second Shift A Cappella | [🔗](https://open.spotify.com/artist/62Sh3v52pBL7IhWZMaGgq6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebee310fa1ea1733fd31d9866c" alt="" width="50" /> | 1 | 1 | Tink | [🔗](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="" width="50" /> | 1 | 1 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c2b393e7d8a0a1bdb64b231" alt="" width="50" /> | 32 | 0 | Peter Hollens | [🔗](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3a9c5b798300322d4bc698f0" alt="" width="50" /> | 20 | 0 | Tar Heel Voices | [🔗](https://open.spotify.com/artist/1apO6pJsV1nwuF2K8sEsDo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7125855c1ecfb7680363db7" alt="" width="50" /> | 16 | 0 | Ithacappella | [🔗](https://open.spotify.com/artist/5bPTIGQvxRNjr6wl9yyAct) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc63e900506fdff4b6177f920" alt="" width="50" /> | 12 | 0 | The Swingle Singers | [🔗](https://open.spotify.com/artist/1ZlFYysRdc6YaUH5FkxPl8) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8cb389217e22c8ecb1846122" alt="" width="50" /> | 9 | 0 | Vanderbilt Melodores | [🔗](https://open.spotify.com/artist/7HkF8fT7TZlrQsjSgWUEXN) |
 
 
 <details>
@@ -30,6 +30,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8cb389217e22c8ecb1846122" alt="" width="50" /> | 9 | 0 | Vanderbilt Melodores | [🔗](https://open.spotify.com/artist/7HkF8fT7TZlrQsjSgWUEXN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0ff2431dd95126c10fdd23f6" alt="" width="50" /> | 9 | 0 | GQ | [🔗](https://open.spotify.com/artist/6JYedwPn7zEWlTSUda9mev) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e0ad34c3e72d947a63a60f2" alt="" width="50" /> | 9 | 0 | The Loreleis | [🔗](https://open.spotify.com/artist/1fqMjreaczGwFmdmG6AvJs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c4a9d4a5f8004ad4d0195aa" alt="" width="50" /> | 9 | 0 | The Nor'easters | [🔗](https://open.spotify.com/artist/1aLfVgwt8eBrpvHcutWmqe) |
@@ -49,7 +50,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d31148f43345a656ba8ae76" alt="" width="50" /> | 2 | 0 | The Dartmouth Aires | [🔗](https://open.spotify.com/artist/71Cez1b1NqsxIn5u8XNiQD) |
 | | 2 | 0 | Deke Sharon | [🔗](https://open.spotify.com/artist/6eWNb9yuroBpPcQ4sOkL1e) |
 | | 2 | 0 | Don Gooding | [🔗](https://open.spotify.com/artist/66iv9KzffeiANddjYouG6U) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273458d338af5f8ead5be756346" alt="" width="50" /> | 2 | 0 | Second Shift A Cappella | [🔗](https://open.spotify.com/artist/62Sh3v52pBL7IhWZMaGgq6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9f0ec2e6469f7552d8a7ea63" alt="" width="50" /> | 2 | 0 | University of Rochester YellowJackets | [🔗](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d08d9641afbcd0d13f58127" alt="" width="50" /> | 2 | 0 | The Pitchforks | [🔗](https://open.spotify.com/artist/5IPABE7EhPLvUVsgM3dlZ8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8be60bf944b4dfa165ed2995" alt="" width="50" /> | 2 | 0 | Vocal Point (University of Delaware) | [🔗](https://open.spotify.com/artist/4nrhXBXu7FnxWeSbB21bfk) |
@@ -182,6 +182,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | 3 | 0 | BOCA 2016: Best Of College A Cappella | 2015-12-15 | [🔗](https://open.spotify.com/album/2AOr4esohQurJGXklhRH1a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322f75e45afe2febb7d3f4cac" alt="" width="50" /> | 2 | 2 | Immaterial | 2021-07-16 | [🔗](https://open.spotify.com/album/5YgtPHMCi4dGtL6JarEGkI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="" width="50" /> | 2 | 1 | PTX | 2014-09-19 | [🔗](https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273458d338af5f8ead5be756346" alt="" width="50" /> | 2 | 1 | Graveyard Shift | 2018-10-28 | [🔗](https://open.spotify.com/album/4i6gztUxx7Iq1tocxEX1pY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d3f8430d5bac3daad32d93eb" alt="" width="50" /> | 2 | 0 | Where the Secret Lies | 2018 | [🔗](https://open.spotify.com/album/6kKcn38yjU8iFvlWCbcQsL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e82d230ecc34ad6fd5f873c1" alt="" width="50" /> | 2 | 0 | Weather To Fly | 2013-09-16 | [🔗](https://open.spotify.com/album/2AW4oP7GeAcKOWRY5x7O0o) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e49dba8b71933913e6d8cc3f" alt="" width="50" /> | 2 | 0 | Wavelength | 2015-04-10 | [🔗](https://open.spotify.com/album/56RyapLbZ4DESHfzD87X7F) |
@@ -193,7 +194,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27304c063cf2fb113fd361d5d34" alt="" width="50" /> | 2 | 0 | Permit to Harmonize | 2013-03-01 | [🔗](https://open.spotify.com/album/4aHUBNFRDR1DzCO8GULLTD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b16fad8fb09cff04b362139" alt="" width="50" /> | 2 | 0 | III | 2012-04-12 | [🔗](https://open.spotify.com/album/3iFvXj07Frbs54rK9CzCIo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a1783df13795d2db2599c7e" alt="" width="50" /> | 2 | 0 | I Used to Live Alone | 2011-05-21 | [🔗](https://open.spotify.com/album/0AmRRsaQVm5noeAB6LF8yA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273458d338af5f8ead5be756346" alt="" width="50" /> | 2 | 0 | Graveyard Shift | 2018-10-28 | [🔗](https://open.spotify.com/album/4i6gztUxx7Iq1tocxEX1pY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="" width="50" /> | 2 | 0 | Good Vibrations | 1993 | [🔗](https://open.spotify.com/album/10IUKCLZPs9onPwXfQVxfv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356231fb2f9b79b8ef4e4dcdd" alt="" width="50" /> | 2 | 0 | Déjà Blue | 2015-04-11 | [🔗](https://open.spotify.com/album/1mZNLR8qY6GhhrnCmtEAv3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a391a593f88024c5cea36b9c" alt="" width="50" /> | 2 | 0 | Behind Bars | 2007-02-21 | [🔗](https://open.spotify.com/album/40g8iY5VB5sTJ31943mAzQ) |
@@ -252,13 +252,13 @@
 | 41 | 16 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 16 | 13 | [The Tarpeggios](../../labels/the_tarpeggios/overview.md) |
 | 9 | 7 | The Unc - Chapel Hill Tarpeggios |
+| 2 | 1 | Second Shift a Cappella |
 | 59 | 0 | [Varsity Vocals](../../labels/varsity_vocals/overview.md) |
 | 32 | 0 | [A Cappella Records](../../labels/a_cappella_records/overview.md) |
 | 20 | 0 | [Peter Hollens](../../labels/peter_hollens/overview.md) |
 | 12 | 0 | [One Voice Productions](../../labels/one_voice_productions/overview.md) |
 | 12 | 0 | [Ithacappella](../../labels/ithacappella/overview.md) |
 | 9 | 0 | Option C Records |
-| 8 | 0 | Vanderbilt Melodores |
 
 
 <details>
@@ -266,6 +266,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 8 | 0 | Vanderbilt Melodores |
 | 8 | 0 | UNC Achordants |
 | 8 | 0 | Mosaic Whispers |
 | 6 | 0 | Tar Heel Voices |
@@ -285,7 +286,6 @@
 | 2 | 0 | The Clef Hangers |
 | 2 | 0 | SoCal VoCals |
 | 2 | 0 | Signum Records |
-| 2 | 0 | Second Shift a Cappella |
 | 2 | 0 | RCA Victor |
 | 1 | 0 | [Warner Classics](../../labels/warner_classics/overview.md) |
 | 1 | 0 | Universal Music Division Decca Records France |

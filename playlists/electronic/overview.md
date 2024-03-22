@@ -1,7 +1,7 @@
 # Electronic
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b27348905438b9c1153978d9fbf4ab67616d0000b27379e8b529ce6c088a8027b2a1ab67616d0000b2739b9b36b0e22870b9f542d937ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="Electronic" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d00001e0248905438b9c1153978d9fbf4ab67616d00001e0279e8b529ce6c088a8027b2a1ab67616d00001e029b9b36b0e22870b9f542d937ab67616d00001e02d8601e15fa1b4351fe1fc6ae" alt="Electronic" width="100" />
 
 [15 tracks (10 liked) 🔗](https://open.spotify.com/playlist/3cWXIQgqhOUB6slIr3oglt)
 

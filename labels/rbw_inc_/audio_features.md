@@ -66,7 +66,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27398af56fe9d35e895582d7a97" alt="Redd" width="50" /> | OHOO (0.55) | <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="Cabin Fever" width="50" /> | Sweet Juice (0.031) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e95d9f505f2469cf74727805" alt="容 : FACE" width="50" /> | Big Booty (0.494) | <img src="https://i.scdn.co/image/ab67616d0000b27395e1a12145290ca7d783eb1d" alt="BINARY CODE" width="50" /> | BLACK MIRROR (0.0319) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273498f71db374f1a18ac831412" alt="Shutdown (Feat. Seori)" width="50" /> | Shutdown (Feat.Seori) (0.36) | <img src="https://i.scdn.co/image/ab67616d0000b27345e7faa0d84701c0447e4188" alt="INTO VIOLET" width="50" /> | Skip Skip (0.0368) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="RED MOON" width="50" /> | Egotistic (0.315) | <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="reality in BLACK" width="50" /> | HIP (0.0376) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e3cf1788fa660f04ac43e23" alt="RED MOON" width="50" /> | Egotistic (0.318) | <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="reality in BLACK" width="50" /> | HIP (0.0376) |
 
 ## Instrumentalness
 

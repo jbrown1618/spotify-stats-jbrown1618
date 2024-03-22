@@ -14,7 +14,7 @@
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2731d9ef8e92370053b06f8c9ecab67616d0000b2737cb0c702a8fd45bfd8358259ab67616d0000b273f1e24654c624c58911f179b5ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="" width="50" /> | 71 | [String Quartets](../../playlists/string_quartets/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e021d9ef8e92370053b06f8c9ecab67616d00001e027cb0c702a8fd45bfd8358259ab67616d00001e02f1e24654c624c58911f179b5ab67616d00001e02ff17a9c684ec4757c8c026b0" alt="" width="50" /> | 71 | [String Quartets](../../playlists/string_quartets/overview.md) |
 
 ## Top Albums
 

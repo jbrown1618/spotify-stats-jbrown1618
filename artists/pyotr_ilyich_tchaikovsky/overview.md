@@ -14,9 +14,9 @@
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="" width="50" /> | 55 | [Ballet](../../playlists/ballet/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2730baa26fb49c09c910a031d24ab67616d0000b2730c8397c0c79c33e6f350ee52ab67616d0000b273397c1f0c407ebd9a318b25faab67616d0000b273609d14b25e86640a2a69c534" alt="" width="50" /> | 3 | [Choral](../../playlists/choral/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734c43a2f36c0aec708ba024d5ab67616d0000b2735d026bccbd8a50650e903130ab67616d0000b27376a42530f861aa187f3ac1c2ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | 1 | [Program Music](../../playlists/program_music/overview.md) |
+| <img src="https://i.scdn.co/image/ab67616d00001e023620c09ca7ca202e676b783b" alt="" width="50" /> | 55 | [Ballet](../../playlists/ballet/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e020baa26fb49c09c910a031d24ab67616d00001e020c8397c0c79c33e6f350ee52ab67616d00001e02397c1f0c407ebd9a318b25faab67616d00001e02609d14b25e86640a2a69c534" alt="" width="50" /> | 3 | [Choral](../../playlists/choral/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e024c43a2f36c0aec708ba024d5ab67616d00001e025d026bccbd8a50650e903130ab67616d00001e0276a42530f861aa187f3ac1c2ab67616d00001e02c385dbfabcec21279dcea0b5" alt="" width="50" /> | 1 | [Program Music](../../playlists/program_music/overview.md) |
 
 ## Top Albums
 

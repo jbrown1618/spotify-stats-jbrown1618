@@ -10,29 +10,29 @@
 
 ## Artist Rank
 Jacob Collier is currently:
-- The #7 artist of the last month
+- The #8 artist of the last month
 - The #9 artist of the last 6 months
-- The #21 artist of all time
+- The #22 artist of all time
 
 ![Rank of Jacob Collier over time](../../images/artists/jacob_collier/rank_time_series.png)
 ## Top Tracks
 
-- In My Bones (feat. Kimbra & Tank and The Bangas) is:
-    - the #20 track of the last month
-- Running Outta Love (feat. Tori Kelly) is:
-    - the #31 track of the last month
+- Over You (feat. aespa & Chris Martin) is the #19 track of the On Repeat playlist
+- In My Bones (feat. Kimbra & Tank and The Bangas) is the #27 track of the last month
+- Running Outta Love (feat. Tori Kelly) is the #40 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b27398d4c378a8c78e84bfcf7743ab67616d0000b273b0ed835957dbf3c63184a3bcab67616d0000b273ca96a3471c3cb5128e64195fab67616d0000b273f6749fd9a1027b244f061e87" alt="" width="50" /> | 20 | [Alt-Pop](../../playlists/alt-pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b273068a5559744d17bd5e871740ab67616d0000b273a1113af3a19a41dc8eec534eab67616d0000b273ca96a3471c3cb5128e64195fab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="" width="50" /> | 11 | [Jazz](../../playlists/jazz/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2732433cb43f0f2f0f23b7c8b82ab67616d0000b2733a44a5105549a15dd92ed0c3ab67616d0000b2734ccc03169b086af698178a99ab67616d0000b2739922157daa474131bb3a0fbc" alt="" width="50" /> | 2 | [International Pop](../../playlists/international_pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2731c1ea5bfa5680ac877acdd55ab67616d0000b2736772cf096be8acc1df092519ab67616d0000b2739c7eb20dfbb2150f55c9debdab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 2 | [Chill](../../playlists/chill/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2730f7e2aa2f1d7ea0fd2e206c0ab67616d0000b27316aaf05fe82237576a7d0e38ab67616d0000b27320112a0321d2efc7384db456ab67616d0000b273f93159d78849714fcf118bb3" alt="" width="50" /> | 1 | [Funk](../../playlists/funk/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b273505190077497c230422f2934ab67616d0000b2737dd8f95320e8ef08aa121dfeab67616d0000b2738164cd1a2e03b7ca2db9ff5eab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 1 | [K-Pop](../../playlists/k-pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2730baa26fb49c09c910a031d24ab67616d0000b2730c8397c0c79c33e6f350ee52ab67616d0000b273397c1f0c407ebd9a318b25faab67616d0000b273609d14b25e86640a2a69c534" alt="" width="50" /> | 1 | [Choral](../../playlists/choral/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2730c1f1054d3a170ee26430c79ab67616d0000b2732bca95a658fdf653a35a3710ab67616d0000b27396d36aec71bf25f59df5cc96ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2735d990e8b45c848dc22885f89ab67616d0000b27362f44cdb37183a309fc1032fab67616d0000b27384470dd6235917e2e40e11f0ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | 1 | [A Cappella](../../playlists/a_cappella/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0298d4c378a8c78e84bfcf7743ab67616d00001e02b0ed835957dbf3c63184a3bcab67616d00001e02ca96a3471c3cb5128e64195fab67616d00001e02f6749fd9a1027b244f061e87" alt="" width="50" /> | 20 | [Alt-Pop](../../playlists/alt-pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02068a5559744d17bd5e871740ab67616d00001e02a1113af3a19a41dc8eec534eab67616d00001e02ca96a3471c3cb5128e64195fab67616d00001e02cb81eb3c1238c60f2bbfd3b5" alt="" width="50" /> | 11 | [Jazz](../../playlists/jazz/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022433cb43f0f2f0f23b7c8b82ab67616d00001e023a44a5105549a15dd92ed0c3ab67616d00001e024ccc03169b086af698178a99ab67616d00001e029922157daa474131bb3a0fbc" alt="" width="50" /> | 2 | [International Pop](../../playlists/international_pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e021c1ea5bfa5680ac877acdd55ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 2 | [Chill](../../playlists/chill/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e020f7e2aa2f1d7ea0fd2e206c0ab67616d00001e0216aaf05fe82237576a7d0e38ab67616d00001e0220112a0321d2efc7384db456ab67616d00001e02f93159d78849714fcf118bb3" alt="" width="50" /> | 1 | [Funk](../../playlists/funk/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 1 | [K-Pop](../../playlists/k-pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e020baa26fb49c09c910a031d24ab67616d00001e020c8397c0c79c33e6f350ee52ab67616d00001e02397c1f0c407ebd9a318b25faab67616d00001e02609d14b25e86640a2a69c534" alt="" width="50" /> | 1 | [Choral](../../playlists/choral/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e020c1f1054d3a170ee26430c79ab67616d00001e022bca95a658fdf653a35a3710ab67616d00001e0296d36aec71bf25f59df5cc96ab67616d00001e02c54e39f2ae0dd10731f93c08" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
+| <img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg" alt="" width="50" /> | 1 | [On Repeat](../../playlists/on_repeat/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e025d990e8b45c848dc22885f89ab67616d00001e0262f44cdb37183a309fc1032fab67616d00001e0284470dd6235917e2e40e11f0ab67616d00001e02bb7018e16a77e5ce4744fa93" alt="" width="50" /> | 1 | [A Cappella](../../playlists/a_cappella/overview.md) |
 
 ## Top Albums
 
@@ -114,15 +114,15 @@ Jacob Collier is currently:
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | He Won't Hold You (feat. Rapsody) | Djesse Vol. 3 | [Jacob Collier](overview.md), Rapsody | [Decca (UMO)](../../labels/decca_(umo)) | 196 | 💚 | [🔗](https://open.spotify.com/track/3mSoxi4aC7oiTGJjsLLkaM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | Running Outta Love (feat. Tori Kelly) | Djesse Vol. 3 | [Jacob Collier](overview.md), Tori Kelly | [Decca (UMO)](../../labels/decca_(umo)) | 100 | 💚 | [🔗](https://open.spotify.com/track/18kV8FzhGXE6XndMdiv4Ox) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | Running Outta Love (feat. Tori Kelly) | Djesse Vol. 3 | [Jacob Collier](overview.md), Tori Kelly | [Decca (UMO)](../../labels/decca_(umo)) | 91 | 💚 | [🔗](https://open.spotify.com/track/18kV8FzhGXE6XndMdiv4Ox) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="" width="50" /> | Every Little Thing She Does Is Magic | Djesse Vol. 1 | [Jacob Collier](overview.md), Metropole Orkest, Jules Buckley | [Decca (UMO)](../../labels/decca_(umo)) | 89 | 💚 | [🔗](https://open.spotify.com/track/0xuz9pSNwyWljXUgEGEhjp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | In My Bones (feat. Kimbra & Tank and The Bangas) | Djesse Vol. 3 | [Jacob Collier](overview.md), [Kimbra](../kimbra/overview.md), Tank and The Bangas | [Decca (UMO)](../../labels/decca_(umo)) | 89 | 💚 | [🔗](https://open.spotify.com/track/06PNiDGtPIMOq9VU2ftVCk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | In My Bones (feat. Kimbra & Tank and The Bangas) | Djesse Vol. 3 | [Jacob Collier](overview.md), [Kimbra](../kimbra/overview.md), Tank and The Bangas | [Decca (UMO)](../../labels/decca_(umo)) | 82 | 💚 | [🔗](https://open.spotify.com/track/06PNiDGtPIMOq9VU2ftVCk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="" width="50" /> | Moon River | Djesse Vol. 2 | [Jacob Collier](overview.md) | [Decca (UMO)](../../labels/decca_(umo)) | 46 | 💚 | [🔗](https://open.spotify.com/track/1IRRqn75jaZHp7zMT1NGbZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="" width="50" /> | Over You (feat. aespa & Chris Martin) | Djesse Vol. 4 | [Jacob Collier](overview.md), [aespa](../aespa/overview.md), Chris Martin | [Decca (UMO)](../../labels/decca_(umo)) | 36 | 💚 | [🔗](https://open.spotify.com/track/7MSZg4Km8CM7NRXTeJoANZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343c7453d0338f82a05464751" alt="" width="50" /> | Flintstones | In My Room | [Jacob Collier](overview.md) | Hajanga Records | 0 | | [🔗](https://open.spotify.com/track/731rnSkAluFeKZaGTHig7W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343c7453d0338f82a05464751" alt="" width="50" /> | Hajanga | In My Room | [Jacob Collier](overview.md) | Hajanga Records | 0 | 💚 | [🔗](https://open.spotify.com/track/3VW8i6i8zT9YbIiZXmZFoQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343c7453d0338f82a05464751" alt="" width="50" /> | In My Room | In My Room | [Jacob Collier](overview.md) | Hajanga Records | 0 | 💚 | [🔗](https://open.spotify.com/track/1yGl3V3BiRSaVnuFC93CYd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343c7453d0338f82a05464751" alt="" width="50" /> | Woke Up Today | In My Room | [Jacob Collier](overview.md) | Hajanga Records | 0 | 💚 | [🔗](https://open.spotify.com/track/5wSBAOJizZFq1lhgppsDNj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27343c7453d0338f82a05464751" alt="" width="50" /> | You And I | In My Room | [Jacob Collier](overview.md) | Hajanga Records | 0 | 💚 | [🔗](https://open.spotify.com/track/0yZ1VBdUdX2dEBXv4LXzn8) |
 
 
 <details>
@@ -130,6 +130,7 @@ Jacob Collier is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27343c7453d0338f82a05464751" alt="" width="50" /> | You And I | In My Room | [Jacob Collier](overview.md) | Hajanga Records | 0 | 💚 | [🔗](https://open.spotify.com/track/0yZ1VBdUdX2dEBXv4LXzn8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="" width="50" /> | All Night Long (feat. Take 6) | Djesse Vol. 1 | [Jacob Collier](overview.md), Metropole Orkest, Jules Buckley, Take 6 | [Decca (UMO)](../../labels/decca_(umo)) | 0 | 💚 | [🔗](https://open.spotify.com/track/6TN4FrJvMdYrLDF2Lz7ArI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="" width="50" /> | Home Is | Djesse Vol. 1 | [Jacob Collier](overview.md), VOCES8 | [Decca (UMO)](../../labels/decca_(umo)) | 0 | | [🔗](https://open.spotify.com/track/3nur4bNfmRCoLFxk9ubHHK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="" width="50" /> | With The Love In My Heart | Djesse Vol. 1 | [Jacob Collier](overview.md), Metropole Orkest, Jules Buckley | [Decca (UMO)](../../labels/decca_(umo)) | 0 | 💚 | [🔗](https://open.spotify.com/track/0ZVPABdzJEa0nG85uAlBjB) |
@@ -145,7 +146,6 @@ Jacob Collier is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="" width="50" /> | Bridge Over Troubled Water (feat. John Legend & Tori Kelly) | Djesse Vol. 4 | [Jacob Collier](overview.md), John Legend, Tori Kelly | [Decca (UMO)](../../labels/decca_(umo)) | 0 | | [🔗](https://open.spotify.com/track/4asa5agcZmibrmpTmb1q6m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="" width="50" /> | Cinnamon Crush (feat. Lindsey Lomis) | Djesse Vol. 4 | [Jacob Collier](overview.md), Lindsey Lomis | [Decca (UMO)](../../labels/decca_(umo)) | 0 | 💚 | [🔗](https://open.spotify.com/track/6XJvYWE3tx9tRVavh6GysW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="" width="50" /> | Mi Corazón (feat. Camilo) | Djesse Vol. 4 | [Jacob Collier](overview.md), Camilo | [Decca (UMO)](../../labels/decca_(umo)) | 0 | 💚 | [🔗](https://open.spotify.com/track/5Rg0oIXL40HY5CsUWD3IAJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="" width="50" /> | Over You (feat. aespa & Chris Martin) | Djesse Vol. 4 | [Jacob Collier](overview.md), [aespa](../aespa/overview.md), Chris Martin | [Decca (UMO)](../../labels/decca_(umo)) | 0 | 💚 | [🔗](https://open.spotify.com/track/7MSZg4Km8CM7NRXTeJoANZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="" width="50" /> | She Put Sunshine | Djesse Vol. 4 | [Jacob Collier](overview.md) | [Decca (UMO)](../../labels/decca_(umo)) | 0 | 💚 | [🔗](https://open.spotify.com/track/60ZCmLIYDUHmQ98Ydo1cR8) |
 
 </details>

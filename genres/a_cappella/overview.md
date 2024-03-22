@@ -1,6 +1,6 @@
 # a cappella
 
-90 songs
+91 songs
 
 [See Track Features](audio_features.md)
 
@@ -23,7 +23,7 @@
 
 
 <details>
-<summary>See all 30 artists</summary>
+<summary>See all 31 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -34,6 +34,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c2efff2353592d5820407e14" alt="" width="50" /> | 2 | 0 | Bill Hare | [🔗](https://open.spotify.com/artist/10WhKnqdsfpYWDgZhjrday) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354cb8621ada914cc67f69a41" alt="" width="50" /> | 1 | 0 | Awaken A Cappella | [🔗](https://open.spotify.com/artist/7zjm9GiXJPq0z3bKETWl1N) |
 | | 1 | 0 | Delia Darney | [🔗](https://open.spotify.com/artist/7ikvHdyyUnB92bHTgFcctU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2850aa86e904416a8bb97f09" alt="" width="50" /> | 1 | 0 | The Ransom Notes | [🔗](https://open.spotify.com/artist/5rfjXxn1nj4zTQkIuztuTP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733ffa98af2aa15cb4212e6a85" alt="" width="50" /> | 1 | 0 | The Back Row | [🔗](https://open.spotify.com/artist/5GaN9YyrJyPmJd6dALWhQh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebed12016e0eb2c7d47357c136" alt="" width="50" /> | 1 | 0 | The Harmonics | [🔗](https://open.spotify.com/artist/528Rcthd9JqtIrlbrGKNsG) |
 | | 1 | 0 | Kat Dunbar Linker | [🔗](https://open.spotify.com/artist/512QZ1TM6L4uXmWCVOKHtV) |
@@ -85,7 +86,7 @@
 
 
 <details>
-<summary>See all 39 albums</summary>
+<summary>See all 40 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -107,6 +108,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c29cb8d443b45f43e78e9f5" alt="" width="50" /> | 1 | 0 | Encore | 2013-05-03 | [🔗](https://open.spotify.com/album/1AN2Vv5PecNjJEmzys8Gru) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738408f1cde66a884d05ef8e32" alt="" width="50" /> | 1 | 0 | Christmas Cheers (Deluxe) | 2009-11-02 | [🔗](https://open.spotify.com/album/2M5NEqQVs7kIit8QbtXrRs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273480fc6e065aa8b15bd01485d" alt="" width="50" /> | 1 | 0 | Burn | 2014-03-29 | [🔗](https://open.spotify.com/album/1fcocQi9SDelG4xiE3d7yQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273edc2e69064e470718ef065b7" alt="" width="50" /> | 1 | 0 | BOCA 2022: Best Of College A Cappella | 2022-04-19 | [🔗](https://open.spotify.com/album/46OQnwdqQcfiWMFBl2r3Ot) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271" alt="" width="50" /> | 1 | 0 | BOCA 2021: Best of College A Cappella | 2021-02-06 | [🔗](https://open.spotify.com/album/1eKkeTIlePsRpKkQre78tT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | 1 | 0 | BOCA 2016: Best Of College A Cappella | 2015-12-15 | [🔗](https://open.spotify.com/album/2AOr4esohQurJGXklhRH1a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="" width="50" /> | 1 | 0 | BOCA 2014: Best Of College A Cappella | 2014-01-31 | [🔗](https://open.spotify.com/album/7rZoAMtoZ8s5mLIlUTWgVT) |
@@ -130,7 +132,7 @@
 |---:|---:|:---|
 | 43 | 16 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 2 | 1 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
-| 17 | 0 | [Varsity Vocals](../../labels/varsity_vocals/overview.md) |
+| 18 | 0 | [Varsity Vocals](../../labels/varsity_vocals/overview.md) |
 | 8 | 0 | Vanderbilt Melodores |
 | 5 | 0 | The Loreleis |
 | 4 | 0 | SwingCD |
@@ -227,15 +229,15 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271" alt="BOCA 2021: Best of College A Cappella" width="50" /> | BOCA 2021: Best of College A Cappella (2021-02-06) | <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="BOCA 2004: Best Of College A Cappella" width="50" /> | BOCA 2004: Best Of College A Cappella (2004-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="BOCA 2018: Best of College A Cappella" width="50" /> | BOCA 2018: Best of College A Cappella (2021-02-04) | <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="BOCA 2006: Best Of College A Cappella" width="50" /> | BOCA 2006: Best Of College A Cappella (2006-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="The Sound of Silence" width="50" /> | The Sound of Silence (2019-02-15) | <img src="https://i.scdn.co/image/ab67616d0000b2731d9d3239217b0c4f75c15562" alt="Unwrapped" width="50" /> | Unwrapped (2006-09-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395369441b4588e4419deb673" alt="A Capella Christmas Favourites" width="50" /> | A Capella Christmas Favourites (2018-12-03) | <img src="https://i.scdn.co/image/ab67616d0000b2738408f1cde66a884d05ef8e32" alt="Christmas Cheers (Deluxe)" width="50" /> | Christmas Cheers (Deluxe) (2009-11-02) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="Christmas Is Here!" width="50" /> | Christmas Is Here! (2018-10-19) | <img src="https://i.scdn.co/image/ab67616d0000b27328c918d531af48c523963142" alt="Ferris Wheels" width="50" /> | Ferris Wheels (2010-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="PTX Presents: Top Pop, Vol. I" width="50" /> | PTX Presents: Top Pop, Vol. I (2018-04-13) | <img src="https://i.scdn.co/image/ab67616d0000b2738b1bdafdc4fd1983a8a8a198" alt="Spotlight on Bach" width="50" /> | Spotlight on Bach (2010-02-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d3f8430d5bac3daad32d93eb" alt="Where the Secret Lies" width="50" /> | Where the Secret Lies (2018) | <img src="https://i.scdn.co/image/ab67616d0000b273a6917e8b1af58ff8168434a7" alt="Rain Check" width="50" /> | Rain Check (2010-11-09) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc" alt="A Pentatonix Christmas Deluxe" width="50" /> | A Pentatonix Christmas Deluxe (2017-12-06) | <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="BOCA 2010: Best Of College A Cappella" width="50" /> | BOCA 2010: Best Of College A Cappella (2011-02-15) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273edc2e69064e470718ef065b7" alt="BOCA 2022: Best Of College A Cappella" width="50" /> | BOCA 2022: Best Of College A Cappella (2022-04-19) | <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="BOCA 2004: Best Of College A Cappella" width="50" /> | BOCA 2004: Best Of College A Cappella (2004-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271" alt="BOCA 2021: Best of College A Cappella" width="50" /> | BOCA 2021: Best of College A Cappella (2021-02-06) | <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="BOCA 2006: Best Of College A Cappella" width="50" /> | BOCA 2006: Best Of College A Cappella (2006-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="BOCA 2018: Best of College A Cappella" width="50" /> | BOCA 2018: Best of College A Cappella (2021-02-04) | <img src="https://i.scdn.co/image/ab67616d0000b2731d9d3239217b0c4f75c15562" alt="Unwrapped" width="50" /> | Unwrapped (2006-09-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="The Sound of Silence" width="50" /> | The Sound of Silence (2019-02-15) | <img src="https://i.scdn.co/image/ab67616d0000b2738408f1cde66a884d05ef8e32" alt="Christmas Cheers (Deluxe)" width="50" /> | Christmas Cheers (Deluxe) (2009-11-02) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395369441b4588e4419deb673" alt="A Capella Christmas Favourites" width="50" /> | A Capella Christmas Favourites (2018-12-03) | <img src="https://i.scdn.co/image/ab67616d0000b27328c918d531af48c523963142" alt="Ferris Wheels" width="50" /> | Ferris Wheels (2010-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="Christmas Is Here!" width="50" /> | Christmas Is Here! (2018-10-19) | <img src="https://i.scdn.co/image/ab67616d0000b2738b1bdafdc4fd1983a8a8a198" alt="Spotlight on Bach" width="50" /> | Spotlight on Bach (2010-02-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="PTX Presents: Top Pop, Vol. I" width="50" /> | PTX Presents: Top Pop, Vol. I (2018-04-13) | <img src="https://i.scdn.co/image/ab67616d0000b273a6917e8b1af58ff8168434a7" alt="Rain Check" width="50" /> | Rain Check (2010-11-09) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3f8430d5bac3daad32d93eb" alt="Where the Secret Lies" width="50" /> | Where the Secret Lies (2018) | <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="BOCA 2010: Best Of College A Cappella" width="50" /> | BOCA 2010: Best Of College A Cappella (2011-02-15) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc" alt="A Pentatonix Christmas Deluxe" width="50" /> | A Pentatonix Christmas Deluxe (2017-12-06) | <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="BOCA 2008: Best Of College A Cappella" width="50" /> | BOCA 2008: Best Of College A Cappella (2011-02-15) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="PTX Vol. IV - Classics" width="50" /> | PTX Vol. IV - Classics (2017-04-07) | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="BOCA 2009: Best Of College A Cappella" width="50" /> | BOCA 2009: Best Of College A Cappella (2011-02-15) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736390fb1ebb92fb38e7c99aaf" alt="The Reading Room Sessions (Fall 2017)" width="50" /> | The Reading Room Sessions (Fall 2017) (2017) | <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="BOCA 2008: Best Of College A Cappella" width="50" /> | BOCA 2008: Best Of College A Cappella (2011-02-15) |
 
 ![Bar chart of number of songs by year](../../images/genres/a_cappella/years.png)

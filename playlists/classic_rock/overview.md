@@ -1,7 +1,7 @@
 # Classic Rock
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b2730b51f8d91f3a21e8426361aeab67616d0000b27384243a01af3c77b56fe01ab1ab67616d0000b2738cffbbb7fe8645a486a85ea9ab67616d0000b273bbf0146981704a073405b6c2" alt="Classic Rock" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d00001e020b51f8d91f3a21e8426361aeab67616d00001e0284243a01af3c77b56fe01ab1ab67616d00001e028cffbbb7fe8645a486a85ea9ab67616d00001e02bbf0146981704a073405b6c2" alt="Classic Rock" width="100" />
 
 [118 tracks (68 liked) 🔗](https://open.spotify.com/playlist/5z6MnUYwnqrMcdd9b14Cc7)
 

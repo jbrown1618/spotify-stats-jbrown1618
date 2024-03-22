@@ -16,8 +16,8 @@ Michael Jackson:
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b27306ce0d1f846c525e847d60e7ab67616d0000b27322219b7ba681368a16c219feab67616d0000b27323350feac07f56d8b96f33d5ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="" width="50" /> | 9 | [Classic Pop](../../playlists/classic_pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2730f7e2aa2f1d7ea0fd2e206c0ab67616d0000b27316aaf05fe82237576a7d0e38ab67616d0000b27320112a0321d2efc7384db456ab67616d0000b273f93159d78849714fcf118bb3" alt="" width="50" /> | 1 | [Funk](../../playlists/funk/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0206ce0d1f846c525e847d60e7ab67616d00001e0222219b7ba681368a16c219feab67616d00001e0223350feac07f56d8b96f33d5ab67616d00001e026aa9314b7ddfbd8f036ba3ac" alt="" width="50" /> | 9 | [Classic Pop](../../playlists/classic_pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e020f7e2aa2f1d7ea0fd2e206c0ab67616d00001e0216aaf05fe82237576a7d0e38ab67616d00001e0220112a0321d2efc7384db456ab67616d00001e02f93159d78849714fcf118bb3" alt="" width="50" /> | 1 | [Funk](../../playlists/funk/overview.md) |
 
 ## Top Albums
 

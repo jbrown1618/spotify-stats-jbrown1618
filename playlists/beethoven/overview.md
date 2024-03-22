@@ -1,7 +1,7 @@
 # Beethoven
 
 
-<img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="Beethoven" width="100" />
+<img src="https://i.scdn.co/image/ab67616d00001e02c18e2114a3a3ef543635197a" alt="Beethoven" width="100" />
 
 [166 tracks (0 liked) 🔗](https://open.spotify.com/playlist/6Lvj5MXaiMrmyaBnvLvxAW)
 

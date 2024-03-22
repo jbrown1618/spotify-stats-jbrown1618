@@ -74,7 +74,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="" width="50" /> | Left & Right | Heng:garæ | [SEVENTEEN](../../artists/seventeen/overview.md) | [PLEDIS Entertainment](.) | 56811 | 💚 | [🔗](https://open.spotify.com/track/5QGooKayQPVZMUDc8Qt3Dm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="" width="50" /> | Left & Right | Heng:garæ | [SEVENTEEN](../../artists/seventeen/overview.md) | [PLEDIS Entertainment](.) | 56787 | 💚 | [🔗](https://open.spotify.com/track/5QGooKayQPVZMUDc8Qt3Dm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="" width="50" /> | Fighting (Feat. Lee Young Ji) | BSS 1st Single Album 'SECOND WIND' | BSS, Lee Young Ji | [PLEDIS Entertainment](.) | 16807 | 💚 | [🔗](https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa12f5b5b2ea88f26ab76846" alt="" width="50" /> | HOME;RUN | ; [Semicolon] | [SEVENTEEN](../../artists/seventeen/overview.md) | [PLEDIS Entertainment](.) | 12316 | 💚 | [🔗](https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deeee778a591e7032c1bdc80" alt="" width="50" /> | Pretty U | SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&LETTER’] | [SEVENTEEN](../../artists/seventeen/overview.md) | [PLEDIS ENTERTAINMENT](.) | 1276 | 💚 | [🔗](https://open.spotify.com/track/1117juaaAkSIUsQxTmmcKM) |

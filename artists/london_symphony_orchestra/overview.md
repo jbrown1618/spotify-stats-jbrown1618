@@ -19,10 +19,10 @@ London Symphony Orchestra:
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="" width="50" /> | 31 | [Ballet](../../playlists/ballet/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734c43a2f36c0aec708ba024d5ab67616d0000b2735d026bccbd8a50650e903130ab67616d0000b27376a42530f861aa187f3ac1c2ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | 12 | [Program Music](../../playlists/program_music/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b273128ca6b63d83d47c909a43ceab67616d0000b273468aa4af7cc9ee85735755a2ab67616d0000b2738236dee9524214e0e6be4a1fab67616d0000b273dae458513b856d6255f857a7" alt="" width="50" /> | 7 | [Soundtracks](../../playlists/soundtracks/overview.md) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ab037775757e856d496f2f5" alt="" width="50" /> | 3 | [Rachmaninov](../../playlists/rachmaninov/overview.md) |
+| <img src="https://i.scdn.co/image/ab67616d00001e023620c09ca7ca202e676b783b" alt="" width="50" /> | 31 | [Ballet](../../playlists/ballet/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e024c43a2f36c0aec708ba024d5ab67616d00001e025d026bccbd8a50650e903130ab67616d00001e0276a42530f861aa187f3ac1c2ab67616d00001e02c385dbfabcec21279dcea0b5" alt="" width="50" /> | 12 | [Program Music](../../playlists/program_music/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02128ca6b63d83d47c909a43ceab67616d00001e02468aa4af7cc9ee85735755a2ab67616d00001e028236dee9524214e0e6be4a1fab67616d00001e02dae458513b856d6255f857a7" alt="" width="50" /> | 7 | [Soundtracks](../../playlists/soundtracks/overview.md) |
+| <img src="https://i.scdn.co/image/ab67616d00001e022ab037775757e856d496f2f5" alt="" width="50" /> | 3 | [Rachmaninov](../../playlists/rachmaninov/overview.md) |
 
 ## Top Albums
 

@@ -14,9 +14,9 @@
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" /> | 148 | [Mozart](../../playlists/mozart/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2730baa26fb49c09c910a031d24ab67616d0000b2730c8397c0c79c33e6f350ee52ab67616d0000b273397c1f0c407ebd9a318b25faab67616d0000b273609d14b25e86640a2a69c534" alt="" width="50" /> | 14 | [Choral](../../playlists/choral/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2731d9ef8e92370053b06f8c9ecab67616d0000b2737cb0c702a8fd45bfd8358259ab67616d0000b273f1e24654c624c58911f179b5ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="" width="50" /> | 11 | [String Quartets](../../playlists/string_quartets/overview.md) |
+| <img src="https://i.scdn.co/image/ab67616d00001e02fdf2a7d7437db7a75da73167" alt="" width="50" /> | 148 | [Mozart](../../playlists/mozart/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e020baa26fb49c09c910a031d24ab67616d00001e020c8397c0c79c33e6f350ee52ab67616d00001e02397c1f0c407ebd9a318b25faab67616d00001e02609d14b25e86640a2a69c534" alt="" width="50" /> | 14 | [Choral](../../playlists/choral/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e021d9ef8e92370053b06f8c9ecab67616d00001e027cb0c702a8fd45bfd8358259ab67616d00001e02f1e24654c624c58911f179b5ab67616d00001e02ff17a9c684ec4757c8c026b0" alt="" width="50" /> | 11 | [String Quartets](../../playlists/string_quartets/overview.md) |
 
 ## Top Albums
 

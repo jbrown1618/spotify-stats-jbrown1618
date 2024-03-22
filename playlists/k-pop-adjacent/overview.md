@@ -1,7 +1,7 @@
 # K-Pop-Adjacent
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b2733317fc12f8b9a9a0b8459766ab67616d0000b27363e0ddbb488d0eeec0e738fcab67616d0000b27384095737f6056e682666d6f9ab67616d0000b273f2bf9685109a09bdc176fb43" alt="K-Pop-Adjacent" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d00001e023317fc12f8b9a9a0b8459766ab67616d00001e0263e0ddbb488d0eeec0e738fcab67616d00001e0284095737f6056e682666d6f9ab67616d00001e02f2bf9685109a09bdc176fb43" alt="K-Pop-Adjacent" width="100" />
 
 [51 tracks (33 liked) 🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk)
 
@@ -247,7 +247,7 @@
 
 
 <details>
-<summary>See all 53 genres</summary>
+<summary>See all 54 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -284,6 +284,7 @@
 | 1 | 0 | strut |
 | 1 | 0 | [rock](../../genres/rock/overview.md) |
 | 1 | 0 | rap latina |
+| 1 | 0 | pop r&b |
 | 1 | 0 | metropopolis |
 | 1 | 0 | meme |
 | 1 | 0 | melodic rap |

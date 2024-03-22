@@ -1,7 +1,7 @@
 # Ballet
 
 
-<img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="Ballet" width="100" />
+<img src="https://i.scdn.co/image/ab67616d00001e023620c09ca7ca202e676b783b" alt="Ballet" width="100" />
 
 [138 tracks (0 liked) 🔗](https://open.spotify.com/playlist/23temGx5UrTk2wboAvEb0v)
 

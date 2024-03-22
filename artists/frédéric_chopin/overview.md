@@ -14,7 +14,7 @@
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d0000b2734215d2bfa2e73ae057165347ab67616d0000b2738a9c1224da995cb33a8cb3d5ab67616d0000b273b5fcd6996bf050f9f9010d3aab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | 157 | [Chopin](../../playlists/chopin/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e024215d2bfa2e73ae057165347ab67616d00001e028a9c1224da995cb33a8cb3d5ab67616d00001e02b5fcd6996bf050f9f9010d3aab67616d00001e02da673657374e88d973dad080" alt="" width="50" /> | 157 | [Chopin](../../playlists/chopin/overview.md) |
 
 ## Top Albums
 

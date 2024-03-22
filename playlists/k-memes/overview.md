@@ -1,7 +1,7 @@
 # K-Memes
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d0000b27320adea47ebd9e98d2e7d2247ab67616d0000b2732ce067b763f6a4938cb8a501ab67616d0000b273583c60000e8abc8283853e10ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="K-Memes" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d00001e0220adea47ebd9e98d2e7d2247ab67616d00001e022ce067b763f6a4938cb8a501ab67616d00001e02583c60000e8abc8283853e10ab67616d00001e0273e21d92fa8c70ce6aba72d0" alt="K-Memes" width="100" />
 
 [46 tracks (21 liked) 🔗](https://open.spotify.com/playlist/3tRZYaAFqIagumJLpKXUp9)
 
@@ -56,7 +56,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc67fe879798c208fcf056dde" alt="" width="50" /> | 1 | 0 | CL | [🔗](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8b446e5bd3820ac772155b31" alt="" width="50" /> | 1 | 0 | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335cdd6d3f5815afac043758e" alt="" width="50" /> | 1 | 0 | OH MY GIRL BANHANA | [🔗](https://open.spotify.com/artist/0X1f2U9bxiC3DhKA8OcvgG) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb771aebd54ce149b97c0bb971" alt="" width="50" /> | 1 | 0 | THE BOYZ | [🔗](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb771aebd54ce149b97c0bb971" alt="" width="50" /> | 1 | 0 | [THE BOYZ](../../artists/the_boyz/overview.md) | [🔗](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) |
 
 </details>
 
@@ -214,7 +214,7 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="2 Baddies - The 4th Album" width="50" /> | [2 Baddies](../../artists/nct_127/overview.md) | 3959 | <img src="https://i.scdn.co/image/ab67616d0000b2736cfc57e5358c5e39e79bccbd" alt="Gangnam Style (강남스타일)" width="50" /> | Gangnam Style (강남스타일) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="2 Baddies - The 4th Album" width="50" /> | [2 Baddies](../../artists/nct_127/overview.md) | 3949 | <img src="https://i.scdn.co/image/ab67616d0000b2736cfc57e5358c5e39e79bccbd" alt="Gangnam Style (강남스타일)" width="50" /> | Gangnam Style (강남스타일) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> | [Beautiful Christmas](../../artists/red_velvet/overview.md) | 1790 | <img src="https://i.scdn.co/image/ab67616d0000b273266f95f6353cb2b974f67fa7" alt="miss me?" width="50" /> | Very Very Very | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="Sticker - The 3rd Album" width="50" /> | [Sticker](../../artists/nct_127/overview.md) | 403 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="Return of The Girl" width="50" /> | [Pirate](../../artists/everglow/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="‘The ReVe Festival’ Day 1" width="50" /> | [Zimzalabim](../../artists/red_velvet/overview.md) | 358 | <img src="https://i.scdn.co/image/ab67616d0000b27396678b0a030238837547c6ff" alt="The Renaissance - The 10th Album" width="50" /> | [House Party](../../artists/super_junior/overview.md) | 0 |
@@ -222,7 +222,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c0ff7c2c2de098875ec82997" alt="Butter (Holiday Remix)" width="50" /> | [Butter (Holiday Remix)](../../artists/bts/overview.md) | 258 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | [Drive (Bang Chan, Lee Know)](../../artists/stray_kids/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a7fcbfdd783b559de31d181b" alt="2009, Year Of Us - The Third Mini Album" width="50" /> | [Ring Ding Dong](../../artists/shinee/overview.md) | 14 | <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="Cat &amp; Dog (English Version)" width="50" /> | [Cat & Dog (English Version)](../../artists/tomorrow_x_together/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="Twicetagram" width="50" /> | [Likey](../../artists/twice/overview.md) | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | [Boys Like You](../../artists/itzy/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="1st Intermixxion Single &lt;Funky Glitter Christmas&gt;" width="50" /> | [Funky Glitter Christmas](../../artists/nmixx/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2730c3017d56802b87da6872b1d" alt="THE BOYZ 3rd Single Album [MAVERICK]" width="50" /> | MAVERICK | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="1st Intermixxion Single &lt;Funky Glitter Christmas&gt;" width="50" /> | [Funky Glitter Christmas](../../artists/nmixx/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2730c3017d56802b87da6872b1d" alt="THE BOYZ 3rd Single Album [MAVERICK]" width="50" /> | [MAVERICK](../../artists/the_boyz/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="LALISA" width="50" /> | MONEY | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2731c0522b1f119c06409b838dc" alt="PSY 7TH ALBUM" width="50" /> | DADDY | 0 |
 
 ## Years
