@@ -39,7 +39,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb87dc30e540254e0976c4b478" alt="" width="50" /> | 4 | 1 | Isyana Sarasvati | [🔗](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03862437b06f5865ab89fd7" alt="" width="50" /> | 3 | 1 | Anna Zak | [🔗](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb00bfcedce3845ae969c8277a" alt="" width="50" /> | 2 | 1 | KAROL G | [🔗](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb001c45ab669fe850f6d573fa" alt="" width="50" /> | 2 | 1 | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb610b9e669ad98b784906fc97" alt="" width="50" /> | 2 | 1 | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e53e5e26c3cc924a4ca0ceb" alt="" width="50" /> | 2 | 1 | Pom Poko | [🔗](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | 1 | 1 | ROSALÍA | [🔗](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0d30477dce2b89e7c6a13bc" alt="" width="50" /> | 1 | 1 | Aitana | [🔗](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) |
@@ -262,7 +262,7 @@
 
 
 <details>
-<summary>See all 84 labels</summary>
+<summary>See all 83 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -320,10 +320,9 @@
 | 1 | 0 | VAP |
 | 1 | 0 | Trinity Optima Production |
 | 1 | 0 | Team Ear Music |
+| 1 | 0 | Sony Music Publishing Spain |
 | 1 | 0 | Sony Music Entertainment Indonesia |
 | 1 | 0 | Sony Music Entertainment India Pvt. Ltd. |
-| 1 | 0 | SHAKETOWN MUSIC |
-| 1 | 0 | S.L. |
 | 1 | 0 | S&B Entertainment Ventures LLC |
 | 1 | 0 | Rhythm REPUBLIC |
 | 1 | 0 | Polyvinyl Records |
@@ -500,7 +499,7 @@
 | | John Hill | 1 | Songwriter |
 | | Kumaar | 1 | Lyricist |
 | | Richard "P2J" Isong | 1 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb001c45ab669fe850f6d573fa" alt="" width="50" /> | Luis Fonsi | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb610b9e669ad98b784906fc97" alt="" width="50" /> | Luis Fonsi | 1 | Songwriter |
 | | Andrés Torres (Torres, Andrés) | 1 | Producer |
 | | Papa Dizzy | 1 | Arranger |
 | | Jens Bogren | 1 | Producer |
@@ -512,7 +511,7 @@
 | | Nate Company | 1 | Songwriter |
 | | 100回嘔吐 (100kaiouto) | 1 | Arranger |
 | | Jon Leone | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2b7962ada66cbea99dcb0caa" alt="" width="50" /> | [Beyoncé](../../artists/beyoncé/overview.md) | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb247f44069c0bd1781df2f785" alt="" width="50" /> | [Beyoncé](../../artists/beyoncé/overview.md) | 1 | Producer, Songwriter |
 | | Aron Ottignon | 1 | Arranger |
 | | MEG | 1 | Arranger, Producer, Songwriter |
 | | Emilie Satt | 1 | Songwriter |

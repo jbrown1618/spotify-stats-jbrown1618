@@ -20,9 +20,9 @@ Pentatonix:
 
 ## Artist Rank
 Pentatonix is currently:
-- The #21 artist of the last month
+- The #27 artist of the last month
 - The #24 artist of the last 6 months
-- The #30 artist of all time
+- The #31 artist of all time
 
 ![Rank of Pentatonix over time](../../images/artists/pentatonix/rank_time_series.png)
 ## Featured on Playlists

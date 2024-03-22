@@ -6,13 +6,15 @@
 
 ## Artist Rank
 The 8-Bit Big Band is currently:
-- The #23 artist of the last month
+- The #16 artist of the last month
 
 ![Rank of The 8-Bit Big Band over time](../../images/artists/the_8-bit_big_band/rank_time_series.png)
 ## Top Tracks
 
 - Tetris Theme A (From "Tetris") is:
-    - the #13 track of the last month
+    - the #5 track of the last month
+- Delfino Plaza (From "Super Mario Sunshine") is:
+    - the #42 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -52,8 +54,8 @@ The 8-Bit Big Band is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | Tetris Theme A (From "Tetris") | Choose Your Character! | [The 8-Bit Big Band](overview.md) | The 8-Bit Big Band | 156 | 💚 | [🔗](https://open.spotify.com/track/1Am7PA2PBSqXyiByhm3jao) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | Delfino Plaza (From "Super Mario Sunshine") | Choose Your Character! | [The 8-Bit Big Band](overview.md) | The 8-Bit Big Band | 0 | 💚 | [🔗](https://open.spotify.com/track/2gnqOaI0TpTOg8FufLil3Y) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | Tetris Theme A (From "Tetris") | Choose Your Character! | [The 8-Bit Big Band](overview.md) | The 8-Bit Big Band | 202 | 💚 | [🔗](https://open.spotify.com/track/1Am7PA2PBSqXyiByhm3jao) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | Delfino Plaza (From "Super Mario Sunshine") | Choose Your Character! | [The 8-Bit Big Band](overview.md) | The 8-Bit Big Band | 9 | 💚 | [🔗](https://open.spotify.com/track/2gnqOaI0TpTOg8FufLil3Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | Luigi's Mansion Theme (From "Luigi's Mansion") | Choose Your Character! | [The 8-Bit Big Band](overview.md) | The 8-Bit Big Band | 0 | 💚 | [🔗](https://open.spotify.com/track/49IoPNyh5U5rTvegOawXqr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | Still Alive (From "Portal") | Choose Your Character! | [The 8-Bit Big Band](overview.md) | The 8-Bit Big Band | 0 | 💚 | [🔗](https://open.spotify.com/track/0RrhwwIqnfCDPZD7DfWAVj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | Trainer Battle Music (From "Pokémon") | Choose Your Character! | [The 8-Bit Big Band](overview.md) | The 8-Bit Big Band | 0 | 💚 | [🔗](https://open.spotify.com/track/1iM0VDtxxaeU8y5lj7kxkN) |

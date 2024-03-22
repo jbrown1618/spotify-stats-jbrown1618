@@ -1,19 +1,19 @@
 # High Up Entertainment
 
-18 songs
+17 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- High Up Entertainment (18 tracks)
+- High Up Entertainment (17 tracks)
 
 ## Top Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb784d2270653c1d5d1cf43778" alt="" width="50" /> | 18 | 12 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb784d2270653c1d5d1cf43778" alt="" width="50" /> | 17 | 12 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 
 
 
@@ -28,16 +28,15 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c76a0146e4c1804f22cab995" alt="" width="50" /> | 1 | 1 | WE NEED LOVE | 2022-07-19 | [🔗](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="" width="50" /> | 1 | 1 | Teddy Bear | 2023-02-14 | [🔗](https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bc125f40131dd5869b2ec36c" alt="" width="50" /> | 1 | 1 | Star To A Young Culture | 2020-11-12 | [🔗](https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27372cc39487c8f695054d2b432" alt="" width="50" /> | 1 | 0 | Fancy - Spotify Singles | 2024-03-15 | [🔗](https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq) |
 
-![Bar chart of top 8 albums](../../images/labels/high_up_entertainment/albums.png)
+![Bar chart of top 7 albums](../../images/labels/high_up_entertainment/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 18 | 12 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
-| 18 | 12 | [k-pop](../../genres/k-pop/overview.md) |
+| 17 | 12 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 17 | 12 | [k-pop](../../genres/k-pop/overview.md) |
 
 
 
@@ -73,7 +72,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | Bubble | TEENFRESH | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | 7360 | 💚 | [🔗](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | Bubble | TEENFRESH | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | 7540 | 💚 | [🔗](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | ﻿Not Like You | TEENFRESH | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | 1083 | 💚 | [🔗](https://open.spotify.com/track/1HnJhU3MhAnRQzdkFm6xQr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bc125f40131dd5869b2ec36c" alt="" width="50" /> | SO BAD | Star To A Young Culture | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | 456 | 💚 | [🔗](https://open.spotify.com/track/13KR2yNRDrbKwR3dOKCDl4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ea860a3e6904b875629d672" alt="" width="50" /> | BUTTERFLY | YOUNG-LUV.COM | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | 212 | 💚 | [🔗](https://open.spotify.com/track/1q97NRLZfQlXYvZJAQ7tln) |
@@ -97,7 +96,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | ﻿Be Mine | TEENFRESH | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/3g4jq4wctEo0fVaTDKjk3Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | ﻿Bubble (English Ver.) | TEENFRESH | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | 0 | | [🔗](https://open.spotify.com/track/3bcqk74mnFzQF2bfOMG7iK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | ﻿Bubble (Sped Up) (English Ver.) | TEENFRESH | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | 0 | | [🔗](https://open.spotify.com/track/1e9uzZKeHabJ1kSDT7m3Np) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27372cc39487c8f695054d2b432" alt="" width="50" /> | Fancy - Spotify Singles | Fancy - Spotify Singles | [STAYC](../../artists/stayc/overview.md) | [High Up Entertainment](.) | 0 | | [🔗](https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp) |
 
 </details>
 

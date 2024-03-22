@@ -57,7 +57,7 @@ Appears as:
 
 
 <details>
-<summary>See all 22 genres</summary>
+<summary>See all 23 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -69,6 +69,7 @@ Appears as:
 | 3 | 0 | [rock](../../genres/rock/overview.md) |
 | 3 | 0 | [piano rock](../../genres/piano_rock/overview.md) |
 | 1 | 0 | [uk alternative pop](../../genres/uk_alternative_pop/overview.md) |
+| 1 | 0 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 1 | 0 | [modern rock](../../genres/modern_rock/overview.md) |
 | 1 | 0 | [electropop](../../genres/electropop/overview.md) |
 | 1 | 0 | colombian pop |
@@ -77,7 +78,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 22 genres](../../images/labels/emi/genres.png)
+![Bar chart of top 23 genres](../../images/labels/emi/genres.png)
 
 ## Top Producers
 

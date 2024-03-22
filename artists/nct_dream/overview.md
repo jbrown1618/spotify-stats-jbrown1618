@@ -2,7 +2,7 @@
 # NCT DREAM
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebada7146c1f97b1fc6992609a" alt="NCT DREAM" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb49cfa92440a7629ab21a8561" alt="NCT DREAM" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -22,7 +22,7 @@ NCT DREAM:
 
 ## Artist Rank
 NCT DREAM is currently:
-- The #26 artist of all time
+- The #22 artist of all time
 
 ![Rank of NCT DREAM over time](../../images/artists/nct_dream/rank_time_series.png)
 ## Top Tracks

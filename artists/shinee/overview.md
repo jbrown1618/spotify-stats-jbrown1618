@@ -15,7 +15,7 @@ SHINee:
 
 ## Artist Rank
 SHINee is currently:
-- The #40 artist of the last month
+- The #45 artist of the last month
 
 ![Rank of SHINee over time](../../images/artists/shinee/rank_time_series.png)
 ## Featured on Playlists

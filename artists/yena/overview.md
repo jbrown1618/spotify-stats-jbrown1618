@@ -12,10 +12,6 @@ YENA:
 ## Artist Rank
 
 ![Rank of YENA over time](../../images/artists/yena/rank_time_series.png)
-## Top Tracks
-
-- Good Girls in the Dark is:
-    - the #44 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

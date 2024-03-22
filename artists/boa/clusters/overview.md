@@ -31,6 +31,6 @@
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Time After Time | 2022 Winter SMTOWN : SMCU PALACE | [BoA](../../overview.md), [WENDY](../../../wendy/overview.md), NINGNING | [SM Entertainment](../../../../labels/sm_entertainment) | 15256 | 💚 | [🔗](https://open.spotify.com/track/6LGcOydwjfaquaRgJwlPkK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Time After Time | 2022 Winter SMTOWN : SMCU PALACE | [BoA](../../overview.md), [WENDY](../../../wendy/overview.md), NINGNING | [SM Entertainment](../../../../labels/sm_entertainment) | 15436 | 💚 | [🔗](https://open.spotify.com/track/6LGcOydwjfaquaRgJwlPkK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9283570dfc45e043afe104f" alt="" width="50" /> | ONE SHOT, TWO SHOT | ONE SHOT, TWO SHOT - The 1st Mini Album | [BoA](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/1OWxlgwPtWuEvGkH8uS1Tj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e846cd9e1fe57297399af55" alt="" width="50" /> | Merry-Chri | Merry-Chri | [BoA](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 0 | | [🔗](https://open.spotify.com/track/3yVUAgXBPozhKKeXphiTY3) |

@@ -16,9 +16,25 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | Snooze | SOS | SZA | [Top Dawg Entertainment/RCA Records](../../../../labels/rca_records_label) | 0 | | [🔗](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="" width="50" /> | Wet The Bed (feat. Ludacris) | F.A.M.E. (Expanded Edition) | Chris Brown, Ludacris | [Jive](../../../../labels/jive) | 0 | | [🔗](https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27341f88fe3e004e7be469c2ae3" alt="" width="50" /> | American Boy | Shine | Estelle, Kanye West | Woah Dad! | 0 | | [🔗](https://open.spotify.com/track/3IX1c76hbN4iTm9RcItC36) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | So Sick | In My Own Words | Ne-Yo | Def Soul | 0 | | [🔗](https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="" width="50" /> | There Goes My Baby | Raymond v Raymond (Expanded Edition) | USHER | LaFace Records | 0 | 💚 | [🔗](https://open.spotify.com/track/6IUiqtI8tE49sqGbmtrNd8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="" width="50" /> | Body | Over It | Summer Walker | [LVRN/Interscope Records](../../../../labels/interscope_records) | 0 | | [🔗](https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr) |
 ## Cluster #2
+
+22 tracks
+
+| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="" width="50" /> | Tightrope (feat. Big Boi) - Big Boi Vocal Edit | The ArchAndroid | [Janelle Monáe](../../../../artists/janelle_monáe/overview.md), Big Boi | [Bad Boy/Wondaland](../../../../labels/bad_boy) | 0 | 💚 | [🔗](https://open.spotify.com/track/1ljzHUgt2SU2ADkhfa9eBC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Naughty Girl | Dangerously In Love | [Beyoncé](../../../../artists/beyoncé/overview.md) | [Columbia](../../../../labels/columbia) | 0 | 💚 | [🔗](https://open.spotify.com/track/0YGQ3hZcRLC5YX7o0hdmHg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Crazy In Love (feat. Jay-Z) | Dangerously In Love | [Beyoncé](../../../../artists/beyoncé/overview.md), JAY-Z | [Columbia](../../../../labels/columbia) | 0 | | [🔗](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | Sweet Dreams | I AM...SASHA FIERCE | [Beyoncé](../../../../artists/beyoncé/overview.md) | [Music World Music/Columbia](../../../../labels/columbia) | 0 | | [🔗](https://open.spotify.com/track/1FKxKGONukVFXWVJxAKmlz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="" width="50" /> | Beat It | HIStory - PAST, PRESENT AND FUTURE - BOOK I | [Michael Jackson](../../../../artists/michael_jackson/overview.md) | [Epic](../../../../labels/epic) | 0 | 💚 | [🔗](https://open.spotify.com/track/52xaypL0Kjzk0ngwv3oBPR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95" alt="" width="50" /> | No Scrubs | Fanmail | TLC | Arista/LaFace Records | 0 | | [🔗](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="" width="50" /> | When I Get You Alone | A Beautiful World | Robin Thicke | Nu America Music | 0 | 💚 | [🔗](https://open.spotify.com/track/1jzWQHcMT8rxvgUjUiqGIH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | City Girls | Slime & B | Chris Brown, Young Thug | [Chris Brown Entertainment/300 Entertainment/RCA Records](../../../../labels/rca_records_label) | 0 | | [🔗](https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="" width="50" /> | Bootylicious | Survivor | Destiny's Child | [Columbia](../../../../labels/columbia) | 0 | | [🔗](https://open.spotify.com/track/31CsLSgn0HdZEVC8Bnnmvr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731325a9351844f7806a8309c5" alt="" width="50" /> | Sweetest Pie | Sweetest Pie | Megan Thee Stallion, [Dua Lipa](../../../../artists/dua_lipa/overview.md) | 300 Entertainment | 0 | 💚 | [🔗](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) |
+## Cluster #3
 
 10 tracks
 
@@ -34,19 +50,3 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273b0d2119e477ebbb543f19ed7" alt="" width="50" /> | Heartbreak Anniversary | Heartbreak Anniversary | Giveon | [Epic/Not So Fast](../../../../labels/epic) | 0 | 💚 | [🔗](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733317fc12f8b9a9a0b8459766" alt="" width="50" /> | Heartbreak Anniversary | TAKE TIME | Giveon | [Epic/Not So Fast](../../../../labels/epic) | 0 | | [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356ff19308ebeb48e2ba6094b" alt="" width="50" /> | If I Ain't Got You | The Diary Of Alicia Keys | Alicia Keys | J Records | 0 | 💚 | [🔗](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) |
-## Cluster #3
-
-21 tracks
-
-| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="" width="50" /> | Tightrope (feat. Big Boi) - Big Boi Vocal Edit | The ArchAndroid | [Janelle Monáe](../../../../artists/janelle_monáe/overview.md), Big Boi | [Bad Boy/Wondaland](../../../../labels/bad_boy) | 0 | 💚 | [🔗](https://open.spotify.com/track/1ljzHUgt2SU2ADkhfa9eBC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Naughty Girl | Dangerously In Love | [Beyoncé](../../../../artists/beyoncé/overview.md) | [Columbia](../../../../labels/columbia) | 0 | 💚 | [🔗](https://open.spotify.com/track/0YGQ3hZcRLC5YX7o0hdmHg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Crazy In Love (feat. Jay-Z) | Dangerously In Love | [Beyoncé](../../../../artists/beyoncé/overview.md), JAY-Z | [Columbia](../../../../labels/columbia) | 0 | | [🔗](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | Sweet Dreams | I AM...SASHA FIERCE | [Beyoncé](../../../../artists/beyoncé/overview.md) | [Music World Music/Columbia](../../../../labels/columbia) | 0 | | [🔗](https://open.spotify.com/track/1FKxKGONukVFXWVJxAKmlz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95" alt="" width="50" /> | No Scrubs | Fanmail | TLC | Arista/LaFace Records | 0 | | [🔗](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="" width="50" /> | When I Get You Alone | A Beautiful World | Robin Thicke | Nu America Music | 0 | 💚 | [🔗](https://open.spotify.com/track/1jzWQHcMT8rxvgUjUiqGIH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | City Girls | Slime & B | Chris Brown, Young Thug | [Chris Brown Entertainment/300 Entertainment/RCA Records](../../../../labels/rca_records_label) | 0 | | [🔗](https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="" width="50" /> | Bootylicious | Survivor | Destiny's Child | [Columbia](../../../../labels/columbia) | 0 | | [🔗](https://open.spotify.com/track/31CsLSgn0HdZEVC8Bnnmvr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="" width="50" /> | Yeah! (feat. Lil Jon & Ludacris) | Confessions (Expanded Edition) | USHER, Lil Jon, Ludacris | LaFace Records | 0 | | [🔗](https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731325a9351844f7806a8309c5" alt="" width="50" /> | Sweetest Pie | Sweetest Pie | Megan Thee Stallion, [Dua Lipa](../../../../artists/dua_lipa/overview.md) | 300 Entertainment | 0 | 💚 | [🔗](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) |

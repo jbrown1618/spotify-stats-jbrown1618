@@ -64,7 +64,7 @@
 | | 1 | 0 | Donna Murphy | [🔗](https://open.spotify.com/artist/5BuTOT6mPoNZ5EmaPheBI9) |
 | | 1 | 0 | Jesse Corti | [🔗](https://open.spotify.com/artist/53vhGhGRoi9ARM7kr3jrz5) |
 | | 1 | 0 | Kristle Edwards | [🔗](https://open.spotify.com/artist/4y5d67UxD0QON2vRZOjXZ6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27356789be2a63a54149a63feee" alt="" width="50" /> | 1 | 0 | Roger Bart | [🔗](https://open.spotify.com/artist/4sZw3BLoQ9SniX4mcoh80b) |
+| | 1 | 0 | Roger Bart | [🔗](https://open.spotify.com/artist/4sZw3BLoQ9SniX4mcoh80b) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb583a4cf451be21040cfaa0a4" alt="" width="50" /> | 1 | 0 | Jodi Benson | [🔗](https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH) |
 | <img src="https://i.scdn.co/image/8342768be08c1c9bf4af1d4584a103bcb3042704" alt="" width="50" /> | 1 | 0 | Colm Wilkinson | [🔗](https://open.spotify.com/artist/4hKV8PcRBaHZqBJjSn8OJE) |
 | | 1 | 0 | Heath Lamberts | [🔗](https://open.spotify.com/artist/4YYb7AZfDDAmEHSdNCtQfL) |
@@ -92,11 +92,11 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb37e09cf7d04a5230616d3bfe" alt="" width="50" /> | 1 | 0 | Kenny Raskin | [🔗](https://open.spotify.com/artist/28OYna1pjzLUp2TrXnkK6p) |
 | <img src="https://i.scdn.co/image/5c8cbb56c2544be64d900236ac53c937a1ed2305" alt="" width="50" /> | 1 | 0 | Tawatha Agee | [🔗](https://open.spotify.com/artist/26j9y8Rq679tININ1Mt4ZV) |
 | | 1 | 0 | Bill Shirley | [🔗](https://open.spotify.com/artist/259T26oxdhM7losfoXOXOl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273787a6082444e0dd7b84e2af7" alt="" width="50" /> | 1 | 0 | Mary Costa | [🔗](https://open.spotify.com/artist/1qeo0u3hwxCBcYsn3a4kyo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce08b21547da1ec0024240fe" alt="" width="50" /> | 1 | 0 | Mary Costa | [🔗](https://open.spotify.com/artist/1qeo0u3hwxCBcYsn3a4kyo) |
 | | 1 | 0 | Libertad García Fonzi | [🔗](https://open.spotify.com/artist/1jQ4JIz6HwngSsLWnzgPxA) |
 | | 1 | 0 | Chorus - Sleeping Beauty | [🔗](https://open.spotify.com/artist/1c4ltuRXEIo20Y9UOPxiA0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732b6a0854b680c0f8b6aef6f7" alt="" width="50" /> | 1 | 0 | Whoopi Goldberg | [🔗](https://open.spotify.com/artist/1ZsoHNxHMKTgliJcxSRlb5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb68369596eaf232b28b63d583" alt="" width="50" /> | 1 | 0 | AURORA | [🔗](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1cf26a96c2acfb260495a187" alt="" width="50" /> | 1 | 0 | AURORA | [🔗](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27379157283898948a867d98344" alt="" width="50" /> | 1 | 0 | Boris Karloff | [🔗](https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG) |
 | | 1 | 0 | Keith David | [🔗](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 1 | 0 | [Michael Bublé](../../artists/michael_bublé/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |

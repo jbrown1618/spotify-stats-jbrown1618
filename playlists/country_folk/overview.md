@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d0000b27324e1589fb3eab8ae8831f388ab67616d0000b2735726e327fd968a6fb5974350ab67616d0000b273724bd326692d222c5906b0b0ab67616d0000b273aa2ce07c8b78b4c96f604734" alt="Country/Folk" width="100" />
 
-[40 tracks (19 liked) 🔗](https://open.spotify.com/playlist/6M7uIRzByJjX0q7wGcujJo)
+[41 tracks (19 liked) 🔗](https://open.spotify.com/playlist/6M7uIRzByJjX0q7wGcujJo)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 15 artists</summary>
+<summary>See all 16 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -35,11 +35,12 @@
 | <img src="https://i.scdn.co/image/9f3000f8b92afc7fae3b79f5e12ab2e652561a71" alt="" width="50" /> | 1 | 0 | Edgar Meyer | [🔗](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb0fcd51414e7bbe85e00b6f" alt="" width="50" /> | 1 | 0 | Yo-Yo Ma | [🔗](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) |
 | <img src="https://i.scdn.co/image/ab6772690000c46ce57b6822e01e20944a690ab7" alt="" width="50" /> | 1 | 0 | Stuart Duncan | [🔗](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba94fc3cb69d80daaa27e9eef" alt="" width="50" /> | 1 | 0 | Sierra Hull | [🔗](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) |
 
 </details>
 
 
-![Bar chart of top 15 artists](../../images/playlists/country_folk/artists.png)
+![Bar chart of top 16 artists](../../images/playlists/country_folk/artists.png)
 
 ![Comparison of Artist](../../images/playlists/country_folk/artists_comparison.png)
 
@@ -60,7 +61,7 @@
 
 
 <details>
-<summary>See all 26 albums</summary>
+<summary>See all 27 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -75,6 +76,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91" alt="" width="50" /> | 1 | 0 | Pendulum (Expanded Edition) | 1970-12-07 | [🔗](https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b7a4a59ac03447db7491f37" alt="" width="50" /> | 1 | 0 | Pendulum | 1970-12-07 | [🔗](https://open.spotify.com/album/3tbpe74iBR23O8uiQlLrXC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730cf212ffc3719550dfab899d" alt="" width="50" /> | 1 | 0 | I Walk the Line (Stereo Version) | 1964-06-13 | [🔗](https://open.spotify.com/album/1kd7QnBNMg5kygoclVuDqZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b03f0ae196287dab658906ba" alt="" width="50" /> | 1 | 0 | Daybreak | 2011-01-01 | [🔗](https://open.spotify.com/album/4NikL2T7EDGcB6FyTFQ7rn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27324e1589fb3eab8ae8831f388" alt="" width="50" /> | 1 | 0 | Blown Away | 2012-05-01 | [🔗](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731afccd261170f1d8f3cadb3d" alt="" width="50" /> | 1 | 0 | Bayou Country (Expanded Edition) | 1969-01-05 | [🔗](https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a04593b7c149dc7b725683e" alt="" width="50" /> | 1 | 0 | At Folsom Prison | 1968-05-01 | [🔗](https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh) |
@@ -84,7 +86,7 @@
 </details>
 
 
-![Bar chart of top 26 albums](../../images/playlists/country_folk/albums.png)
+![Bar chart of top 27 albums](../../images/playlists/country_folk/albums.png)
 
 ## Top Record Labels
 
@@ -103,7 +105,7 @@
 
 
 <details>
-<summary>See all 20 labels</summary>
+<summary>See all 21 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -114,6 +116,7 @@
 | 1 | 1 | ATO Records |
 | 3 | 0 | [Craft Recordings](../../labels/craft_recordings/overview.md) |
 | 1 | 0 | [Sony Classical](../../labels/sony_classical/overview.md) |
+| 1 | 0 | Rounder Records |
 | 1 | 0 | Nonesuch |
 | 1 | 0 | [Legacy](../../labels/legacy/overview.md) |
 | 1 | 0 | Fantasy Records |
@@ -121,7 +124,7 @@
 </details>
 
 
-![Bar chart of top 20 record labels](../../images/playlists/country_folk/labels.png)
+![Bar chart of top 21 record labels](../../images/playlists/country_folk/labels.png)
 
 ## Genres
 
@@ -146,11 +149,11 @@
 |---:|---:|:---|
 | 3 | 3 | new americana |
 | 3 | 3 | indie folk |
+| 9 | 2 | progressive bluegrass |
+| 9 | 2 | mandolin |
+| 9 | 2 | instrumental bluegrass |
+| 9 | 2 | bluegrass |
 | 8 | 2 | [rock](../../genres/rock/overview.md) |
-| 8 | 2 | progressive bluegrass |
-| 8 | 2 | mandolin |
-| 8 | 2 | instrumental bluegrass |
-| 8 | 2 | bluegrass |
 | 5 | 2 | folk-pop |
 | 4 | 2 | uk americana |
 | 4 | 2 | outlaw country |
@@ -270,4 +273,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27324e1589fb3eab8ae8831f388" alt="Blown Away" width="50" /> | Blown Away (2012-05-01) | <img src="https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91" alt="Pendulum (Expanded Edition)" width="50" /> | Pendulum (Expanded Edition) (1970-12-07) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d0c7d1fffbb3942ec80d057" alt="The Goat Rodeo Sessions" width="50" /> | The Goat Rodeo Sessions (2011-10-24) | <img src="https://i.scdn.co/image/ab67616d0000b2739ab215825eb77076b1b4b387" alt="Nickel Creek" width="50" /> | Nickel Creek (2000) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="Barton Hollow" width="50" /> | Barton Hollow (2011-02-01) | <img src="https://i.scdn.co/image/ab67616d0000b2736f4f62da3d811b6501a69ffa" alt="American IV: The Man Comes Around" width="50" /> | American IV: The Man Comes Around (2002-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735726e327fd968a6fb5974350" alt="The Band Perry" width="50" /> | The Band Perry (2010-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b27389847614971c417b722c4d97" alt="Home" width="50" /> | Home (2002-08-27) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b03f0ae196287dab658906ba" alt="Daybreak" width="50" /> | Daybreak (2011-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b27389847614971c417b722c4d97" alt="Home" width="50" /> | Home (2002-08-27) |

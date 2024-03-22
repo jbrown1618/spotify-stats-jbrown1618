@@ -34,7 +34,7 @@ SEVENTEEN is currently:
 ## Top Tracks
 
 - Left & Right is:
-    - the #26 track of all time
+    - the #28 track of all time
 
 ### Top tracks of all time over time
 
@@ -100,7 +100,7 @@ SEVENTEEN is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="" width="50" /> | Left & Right | Heng:garæ | [SEVENTEEN](overview.md) | [PLEDIS Entertainment](../../labels/pledis_entertainment) | 56535 | 💚 | [🔗](https://open.spotify.com/track/5QGooKayQPVZMUDc8Qt3Dm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="" width="50" /> | Left & Right | Heng:garæ | [SEVENTEEN](overview.md) | [PLEDIS Entertainment](../../labels/pledis_entertainment) | 56811 | 💚 | [🔗](https://open.spotify.com/track/5QGooKayQPVZMUDc8Qt3Dm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa12f5b5b2ea88f26ab76846" alt="" width="50" /> | HOME;RUN | ; [Semicolon] | [SEVENTEEN](overview.md) | [PLEDIS Entertainment](../../labels/pledis_entertainment) | 12316 | 💚 | [🔗](https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deeee778a591e7032c1bdc80" alt="" width="50" /> | Pretty U | SEVENTEEN 1ST ALBUM [FIRST ‘LOVE&LETTER’] | [SEVENTEEN](overview.md) | [PLEDIS ENTERTAINMENT](../../labels/pledis_entertainment) | 1276 | 💚 | [🔗](https://open.spotify.com/track/1117juaaAkSIUsQxTmmcKM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27380e31ba0c05187e6310ef264" alt="" width="50" /> | Dust | SEVENTEEN 10th Mini Album 'FML' | [SEVENTEEN](overview.md) | [PLEDIS Entertainment](../../labels/pledis_entertainment) | 906 | 💚 | [🔗](https://open.spotify.com/track/7v8v911KfBuFkqXvuDOtNm) |

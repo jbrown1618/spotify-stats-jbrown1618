@@ -58,7 +58,7 @@
 | | 1 | 0 | Geoff Hoyle | [🔗](https://open.spotify.com/artist/1amAcZpoesNgBsGypTU6qs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bee3cba47f3ac8d14782103" alt="" width="50" /> | 1 | 0 | Christopher Fitzgerald | [🔗](https://open.spotify.com/artist/1Yq9Q4bPuxh1N4wtIEXyII) |
 | | 1 | 0 | Natalie Venetia Belcon | [🔗](https://open.spotify.com/artist/1XFS2KakYbCcp4NHyDgc4f) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb68369596eaf232b28b63d583" alt="" width="50" /> | 1 | 0 | AURORA | [🔗](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1cf26a96c2acfb260495a187" alt="" width="50" /> | 1 | 0 | AURORA | [🔗](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) |
 | | 1 | 0 | Scott Irby-Ranniar | [🔗](https://open.spotify.com/artist/1W90Na0WyqYkbQkKiBvrPV) |
 | | 1 | 0 | Jacob Tremblay | [🔗](https://open.spotify.com/artist/1RuyU38m8bFrOef3EeRHM8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 1 | 0 | [Michael Bublé](../../artists/michael_bublé/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |

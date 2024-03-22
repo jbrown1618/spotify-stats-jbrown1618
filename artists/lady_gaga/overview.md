@@ -101,7 +101,7 @@
 | | DJ White Shadow | 1 | Producer, Songwriter |
 | | Paul Foley | 1 | Producer |
 | | Hisashi Mizoguchi | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2b7962ada66cbea99dcb0caa" alt="" width="50" /> | [Beyoncé](../beyoncé/overview.md) | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb247f44069c0bd1781df2f785" alt="" width="50" /> | [Beyoncé](../beyoncé/overview.md) | 1 | Songwriter |
 | | LaShawn Daniels | 1 | Songwriter |
 | | Robert John "Mutt" Lange | 1 | Producer |
 | | Rodney Jerkins | 1 | Producer, Songwriter |

@@ -14,11 +14,11 @@ GOT the beat:
 - has member [SEULGI](../seulgi/overview.md)
 - has member [TAEYEON](../taeyeon/overview.md)
 - has member [WENDY](../wendy/overview.md)
-- has member WINTER
+- has member [WINTER](../winter/overview.md)
 
 ## Artist Rank
 GOT the beat is currently:
-- The #50 artist of the last month
+- The #41 artist of the last month
 - The #32 artist of all time
 
 ![Rank of GOT the beat over time](../../images/artists/got_the_beat/rank_time_series.png)
@@ -26,6 +26,8 @@ GOT the beat is currently:
 
 - Stamp On It is:
     - the #8 track of all time
+- Step Back is:
+    - the #49 track of the last month
 
 ### Top tracks of the last 6 months over time
 
@@ -60,12 +62,12 @@ GOT the beat is currently:
 
 ### Member Credits
 
-| | WINTER | [BoA](../boa/overview.md) | [SEULGI](../seulgi/overview.md) | [TAEYEON](../taeyeon/overview.md) | [WENDY](../wendy/overview.md) |
+| | [BoA](../boa/overview.md) | [SEULGI](../seulgi/overview.md) | [TAEYEON](../taeyeon/overview.md) | [WENDY](../wendy/overview.md) | [WINTER](../winter/overview.md) |
 |:---|---:|---:|---:|---:|---:|
-| Arranger | 0 | 1 | 0 | 0 | 0 |
-| Lyricist | 0 | 3 | 0 | 1 | 0 |
-| Songwriter | 0 | 2 | 0 | 0 | 0 |
-| Vocal | 1 | 0 | 15 | 5 | 15 |
+| Arranger | 1 | 0 | 0 | 0 | 0 |
+| Lyricist | 3 | 0 | 1 | 0 | 0 |
+| Songwriter | 2 | 0 | 0 | 0 | 0 |
+| Vocal | 0 | 15 | 5 | 15 | 1 |
 ### Production Credits
 
 | Art | Track | Members | Credit Types |
@@ -89,10 +91,10 @@ GOT the beat is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Stamp On It | Stamp On It - The 1st Mini Album | [GOT the beat](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 23557 | 💚 | [🔗](https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Stamp On It | Stamp On It - The 1st Mini Album | [GOT the beat](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 24073 | 💚 | [🔗](https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Outlaw | Stamp On It - The 1st Mini Album | [GOT the beat](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 4381 | 💚 | [🔗](https://open.spotify.com/track/7ad8cTZkKU4ftlATRGve3M) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | MALA | Stamp On It - The 1st Mini Album | [GOT the beat](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 3548 | 💚 | [🔗](https://open.spotify.com/track/1YA3wSJ2kWd27sxgeEBjA9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Alter Ego | Stamp On It - The 1st Mini Album | [GOT the beat](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 2682 | 💚 | [🔗](https://open.spotify.com/track/08pPhcvPmphUEx3pEBZwGZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Rose | Stamp On It - The 1st Mini Album | [GOT the beat](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 126 | 💚 | [🔗](https://open.spotify.com/track/1Bu2ogfsVZauj3IOvKJSNy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cc6f76f75551af499b5cd0cb" alt="" width="50" /> | Step Back | Step Back | [GOT the beat](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 61 | 💚 | [🔗](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cc6f76f75551af499b5cd0cb" alt="" width="50" /> | Step Back | Step Back | [GOT the beat](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 63 | 💚 | [🔗](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Goddess Level | Stamp On It - The 1st Mini Album | [GOT the beat](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 30 | 💚 | [🔗](https://open.spotify.com/track/0bFZXAWYbhEpcQKNvEJ7Ut) |

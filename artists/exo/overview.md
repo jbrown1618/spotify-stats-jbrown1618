@@ -26,14 +26,17 @@ EXO:
 
 ## Artist Rank
 EXO is currently:
-- The #29 artist of the last 6 months
-- The #35 artist of all time
+- The #37 artist of the last month
+- The #30 artist of the last 6 months
+- The #28 artist of all time
 
 ![Rank of EXO over time](../../images/artists/exo/rank_time_series.png)
 ## Top Tracks
 
 - Love Shot is:
-    - the #40 track of all time
+    - the #42 track of all time
+- The Eve is:
+    - the #43 track of the last month
 
 ### Top tracks of all time over time
 
@@ -93,8 +96,8 @@ EXO is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="" width="50" /> | Love Shot | LOVE SHOT– The 5th Album Repackage | [EXO](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 33816 | 💚 | [🔗](https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b787b5b8c27a5dbd360c0f59" alt="" width="50" /> | The Eve | THE WAR - The 4th Album | [EXO](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 5172 | 💚 | [🔗](https://open.spotify.com/track/2ujA6F1cpk3m8lsPE5aKua) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="" width="50" /> | Love Shot | LOVE SHOT– The 5th Album Repackage | [EXO](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 33924 | 💚 | [🔗](https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b787b5b8c27a5dbd360c0f59" alt="" width="50" /> | The Eve | THE WAR - The 4th Album | [EXO](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 5180 | 💚 | [🔗](https://open.spotify.com/track/2ujA6F1cpk3m8lsPE5aKua) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315a67578922d65121b12073d" alt="" width="50" /> | Monster | EX'ACT | [EXO](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 958 | 💚 | [🔗](https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e444ada7c81e08734f0e20b9" alt="" width="50" /> | The First Snow | Miracles in December | [EXO](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 75 | | [🔗](https://open.spotify.com/track/2VNpT9fRk1kyksT0S4coZR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8b83bc0fb25c1526113ce86" alt="" width="50" /> | CALL ME BABY | EXODUS - The 2nd Album | [EXO](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1 | 💚 | [🔗](https://open.spotify.com/track/6Rx0ORYPP3GH9rTvGS5Vy8) |

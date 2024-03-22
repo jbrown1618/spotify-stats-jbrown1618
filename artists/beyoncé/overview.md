@@ -2,7 +2,7 @@
 # Beyoncé
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb2b7962ada66cbea99dcb0caa" alt="Beyoncé" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb247f44069c0bd1781df2f785" alt="Beyoncé" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -80,7 +80,7 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2b7962ada66cbea99dcb0caa" alt="" width="50" /> | [Beyoncé](overview.md) | 9 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb247f44069c0bd1781df2f785" alt="" width="50" /> | [Beyoncé](overview.md) | 9 | Producer, Songwriter |
 | | [John Hanes](../../producers/john_hanes/overview.md) | 3 | Producer |
 | | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 3 | Producer |
 | | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 3 | Producer |

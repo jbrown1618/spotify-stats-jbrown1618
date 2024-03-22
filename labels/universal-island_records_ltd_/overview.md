@@ -35,13 +35,14 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 15 | 14 | [uk alternative pop](../../genres/uk_alternative_pop/overview.md) |
+| 15 | 14 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 15 | 14 | [modern rock](../../genres/modern_rock/overview.md) |
 | 15 | 14 | [electropop](../../genres/electropop/overview.md) |
 | 15 | 14 | baroque pop |
 | 3 | 2 | neo soul |
 | 3 | 2 | british soul |
 
-![Bar chart of top 6 genres](../../images/labels/universal-island_records_ltd_/genres.png)
+![Bar chart of top 7 genres](../../images/labels/universal-island_records_ltd_/genres.png)
 
 ## Top Producers
 

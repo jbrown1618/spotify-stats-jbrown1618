@@ -311,7 +311,7 @@
 | 1 | 1 | Big Beat Records |
 | 2 | 0 | [Fueled By Ramen](../../labels/fueled_by_ramen/overview.md) |
 | 1 | 0 | WM UK |
-| 1 | 0 | Universal Music Division One Records |
+| 1 | 0 | Universal Music Division Decca Records France |
 | 1 | 0 | Universal Music AB |
 | 1 | 0 | [Rhino](../../labels/rhino/overview.md) |
 | 1 | 0 | [Republic Records](../../labels/republic_records/overview.md) |
@@ -338,17 +338,18 @@
 | 33 | 23 | [electropop](../../genres/electropop/overview.md) |
 | 25 | 17 | [modern rock](../../genres/modern_rock/overview.md) |
 | 17 | 14 | baroque pop |
+| 16 | 14 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 16 | 12 | metropopolis |
 | 19 | 11 | nz pop |
 | 16 | 9 | bergen indie |
-| 11 | 9 | australian pop |
 
 
 <details>
-<summary>See all 82 genres</summary>
+<summary>See all 84 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 11 | 9 | australian pop |
 | 9 | 7 | etherpop |
 | 9 | 7 | australian dance |
 | 7 | 6 | indie pop |
@@ -359,6 +360,7 @@
 | 5 | 4 | [piano rock](../../genres/piano_rock/overview.md) |
 | 5 | 4 | alt z |
 | 4 | 4 | [lilith](../../genres/lilith/overview.md) |
+| 4 | 4 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 9 | 3 | nyc pop |
 | 6 | 3 | afrofuturism |
 | 5 | 3 | [r&b](../../genres/r_b/overview.md) |
@@ -556,7 +558,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | [Off To The Races](../../artists/lana_del_rey/overview.md) | 195 | <img src="https://i.scdn.co/image/ab67616d0000b2738c8d5428b693308705e7caca" alt="Far" width="50" /> | Eet | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [bury a friend](../../artists/billie_eilish/overview.md) | 142 | <img src="https://i.scdn.co/image/ab67616d0000b27374b226f1b53ca4902dedce2a" alt="Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1)" width="50" /> | Yellow Flicker Beat | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [What The Water Gave Me](../../artists/florence_+_the_machine/overview.md) | 100 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="Norman Fucking Rockwell!" width="50" /> | [Doin' Time](../../artists/lana_del_rey/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Beggin' | 97 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | [A Rock Somewhere (feat. Anoushka Shankar & Varijashree Venugopal)](../../artists/jacob_collier/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [Running Outta Love (feat. Tori Kelly)](../../artists/jacob_collier/overview.md) | 100 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | [A Rock Somewhere (feat. Anoushka Shankar & Varijashree Venugopal)](../../artists/jacob_collier/overview.md) | 0 |
 
 ## Years
 

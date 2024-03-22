@@ -15,10 +15,6 @@ BABYMETAL:
 ## Artist Rank
 
 ![Rank of BABYMETAL over time](../../images/artists/babymetal/rank_time_series.png)
-## Top Tracks
-
-- Headbangeeeeerrrrr!!!!! is:
-    - the #19 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

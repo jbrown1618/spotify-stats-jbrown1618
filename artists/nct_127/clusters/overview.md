@@ -17,7 +17,7 @@
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | 2 Baddies | 2 Baddies - The 4th Album | [NCT 127](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 3942 | 💚 | [🔗](https://open.spotify.com/track/1WKLxJpDqkQ9x1qEDNutoX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | 2 Baddies | 2 Baddies - The 4th Album | [NCT 127](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 3959 | 💚 | [🔗](https://open.spotify.com/track/1WKLxJpDqkQ9x1qEDNutoX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | Vitamin | 2 Baddies - The 4th Album | [NCT 127](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 0 | | [🔗](https://open.spotify.com/track/71mbhY822FlcBmxMgeuUgA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731727feddec43c335453b9252" alt="" width="50" /> | Kick It | NCT #127 Neo Zone - The 2nd Album | [NCT 127](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/1ayaOin9hxCtyhg4UsBTpg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | Lemonade | Sticker - The 3rd Album | [NCT 127](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 8 | 💚 | [🔗](https://open.spotify.com/track/6txVOdSbg928oeGhlVUrdK) |

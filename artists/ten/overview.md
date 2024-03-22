@@ -15,16 +15,13 @@ TEN:
 
 ## Artist Rank
 TEN is currently:
-- The #19 artist of the last month
-- The #34 artist of the last 6 months
+- The #22 artist of the last month
+- The #36 artist of the last 6 months
+- The #43 artist of all time
 
 ![Rank of TEN over time](../../images/artists/ten/rank_time_series.png)
 ## Top Tracks
 
-- Nightwalker is:
-    - the #30 track of the last month
-- Dangerous is:
-    - the #31 track of the last month
 
 ### Top tracks of the last 6 months over time
 

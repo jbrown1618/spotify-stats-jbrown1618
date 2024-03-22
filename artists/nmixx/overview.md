@@ -21,17 +21,13 @@ NMIXX:
 
 ## Artist Rank
 NMIXX is currently:
-- The #16 artist of the last month
-- The #16 artist of the last 6 months
-- The #17 artist of all time
+- The #21 artist of the last month
+- The #17 artist of the last 6 months
+- The #18 artist of all time
 
 ![Rank of NMIXX over time](../../images/artists/nmixx/rank_time_series.png)
 ## Top Tracks
 
-- DASH is:
-    - the #20 track of the last month
-- Run For Roses is:
-    - the #38 track of the last month
 
 ### Top tracks of the last 6 months over time
 

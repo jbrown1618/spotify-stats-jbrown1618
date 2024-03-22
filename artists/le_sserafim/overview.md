@@ -20,15 +20,13 @@ LE SSERAFIM:
 
 ## Artist Rank
 LE SSERAFIM is currently:
-- The #14 artist of the last month
+- The #17 artist of the last month
 - The #12 artist of the last 6 months
 - The #10 artist of all time
 
 ![Rank of LE SSERAFIM over time](../../images/artists/le_sserafim/rank_time_series.png)
 ## Top Tracks
 
-- Swan Song is:
-    - the #7 track of the last month
 
 ### Top tracks of the last 6 months over time
 
