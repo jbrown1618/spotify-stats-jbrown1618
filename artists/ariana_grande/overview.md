@@ -11,8 +11,8 @@
 ## Artist Rank
 Ariana Grande is currently:
 - The #12 artist of the last month
-- The #20 artist of the last 6 months
-- The #29 artist of all time
+- The #22 artist of the last 6 months
+- The #28 artist of all time
 
 ![Rank of Ariana Grande over time](../../images/artists/ariana_grande/rank_time_series.png)
 ## Featured on Playlists

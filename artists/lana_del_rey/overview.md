@@ -10,9 +10,12 @@
 
 ## Artist Rank
 Lana Del Rey is currently:
-- The #48 artist of the last 6 months
+- The #50 artist of the last 6 months
 
 ![Rank of Lana Del Rey over time](../../images/artists/lana_del_rey/rank_time_series.png)
+## Top Tracks
+
+- Summertime Sadness is the #13 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -124,10 +127,10 @@ Lana Del Rey is currently:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | Shades Of Cool | Ultraviolence (Deluxe) | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 235 | 💚 | [🔗](https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Off To The Races | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 195 | 💚 | [🔗](https://open.spotify.com/track/7grzMnF1FHponm2aJBWj8E) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Summertime Sadness | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 38 | 💚 | [🔗](https://open.spotify.com/track/4cKtn8Shw999egpwBmWQmp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Born To Die | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/3eRZZ4d2RJSqFKzP7tSdFE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Dark Paradise | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/0rbuGVyW18IpX0bhA3P4Oh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Radio | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/45dAw6GXEsogcDF3NUgj3O) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Summertime Sadness | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/4cKtn8Shw999egpwBmWQmp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Video Games | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/5by7gtiDrxe4n2qQQunL8S) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a" alt="" width="50" /> | Bel Air | Paradise | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/1OI3ZMcABE1U7hnhf9BENL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="50" /> | Young And Beautiful | Young And Beautiful | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 0 | | [🔗](https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9) |

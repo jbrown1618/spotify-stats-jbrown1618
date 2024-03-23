@@ -9,7 +9,6 @@
 ![Rank of Gain over time](../../images/artists/gain/rank_time_series.png)
 ## Top Tracks
 
-- Paradise Lost is the #48 track of the last 6 months
 
 ### Top tracks of the last 6 months over time
 

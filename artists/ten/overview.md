@@ -17,7 +17,7 @@ TEN:
 TEN is currently:
 - The #25 artist of the last month
 - The #35 artist of the last 6 months
-- The #44 artist of all time
+- The #46 artist of all time
 
 ![Rank of TEN over time](../../images/artists/ten/rank_time_series.png)
 ## Top Tracks

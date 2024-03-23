@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e025a7602f0e508660b2ba40f8cab67616d00001e027a393b04e8ced571618223e8ab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d8cc2281fcd4519ca020926b" alt="Beat Drop!" width="100" />
 
-[14 tracks (11 liked) 🔗](https://open.spotify.com/playlist/2CV3LAEvICWmWq3SEJw1my)
+[15 tracks (12 liked) 🔗](https://open.spotify.com/playlist/2CV3LAEvICWmWq3SEJw1my)
 
 [See Track Features](audio_features.md)
 
@@ -18,13 +18,24 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbf52c8bad49f00cee3618346" alt="" width="50" /> | 1 | 1 | Raon | [🔗](https://open.spotify.com/artist/6grPDYoluzn0yi8qloRKst) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1e2ce68a6bdcc8e03e882e7" alt="" width="50" /> | 1 | 1 | [SUNMI](../../artists/sunmi/overview.md) | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | 1 | 1 | [Radiohead](../../artists/radiohead/overview.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc112966f2a5abe5641abae6f" alt="" width="50" /> | 1 | 1 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 1 | 1 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11b4e5da5aead482944bdef6" alt="" width="50" /> | 1 | 1 | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 1 | 0 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | 1 | 0 | [The Beatles](../../artists/the_beatles/overview.md) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
+
+
+<details>
+<summary>See all 11 artists</summary>
+
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 1 | 0 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
 
-![Bar chart of top 10 artists](../../images/playlists/beat_drop!/artists.png)
+</details>
+
+
+![Bar chart of top 11 artists](../../images/playlists/beat_drop!/artists.png)
 
 ![Comparison of Artist](../../images/playlists/beat_drop!/artists_comparison.png)
 
@@ -39,16 +50,17 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="" width="50" /> | 1 | 1 | Russian Roulette - The 3rd Mini Album | 2016-09-07 | [🔗](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | 1 | 1 | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="" width="50" /> | 1 | 1 | Next Level | 2021-05-17 | [🔗](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | 1 | 1 | I love | 2022-10-17 | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | 1 | 1 | ENTWURF | 2022-09-19 | [🔗](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="" width="50" /> | 1 | 1 | CHOSEN KARMA | 2023-03-10 | [🔗](https://open.spotify.com/album/0S6Yq3EcpbHhj1r0cuYChA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | 1 | 1 | AD MARE | 2022-02-22 | [🔗](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) |
 
 
 <details>
-<summary>See all 13 albums</summary>
+<summary>See all 14 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | 1 | 1 | AD MARE | 2022-02-22 | [🔗](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a7602f0e508660b2ba40f8c" alt="" width="50" /> | 1 | 0 | Stone Cold Classics | 2006-01-01 | [🔗](https://open.spotify.com/album/7C2DKB8C12LqxMkfJRwTo9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a" alt="" width="50" /> | 1 | 0 | Sgt. Pepper's Lonely Hearts Club Band (Remastered) | 1967-06-01 | [🔗](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | 1 | 0 | Happier Than Ever | 2021-07-30 | [🔗](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) |
@@ -56,7 +68,7 @@
 </details>
 
 
-![Bar chart of top 13 albums](../../images/playlists/beat_drop!/albums.png)
+![Bar chart of top 14 albums](../../images/playlists/beat_drop!/albums.png)
 
 ## Top Record Labels
 
@@ -66,20 +78,31 @@
 | 3 | 3 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 1 | 1 | 액셀러즈 |
 | 1 | 1 | [XL Recordings](../../labels/xl_recordings/overview.md) |
+| 1 | 1 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 1 | 1 | Abyss Company |
 | 1 | 1 | ALLART ENTERTAINMENT |
 | 1 | 0 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 1 | 0 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
 | 1 | 0 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
+
+
+<details>
+<summary>See all 11 labels</summary>
+
+| Tracks | 💚 | Label |
+|---:|---:|:---|
 | 1 | 0 | [Darkroom](../../labels/darkroom/overview.md) |
 
-![Bar chart of top 10 record labels](../../images/playlists/beat_drop!/labels.png)
+</details>
+
+
+![Bar chart of top 11 record labels](../../images/playlists/beat_drop!/labels.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 8 | 8 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 9 | 9 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 6 | 6 | [k-pop](../../genres/k-pop/overview.md) |
 | 3 | 1 | [rock](../../genres/rock/overview.md) |
 | 1 | 1 | [permanent wave](../../genres/permanent_wave/overview.md) |
@@ -113,15 +136,15 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | Brian U | 3 | Songwriter, Arranger |
-| | [구혜진 (Gu, Hye-jin)](../../producers/구혜진_(gu,_hye-jin)/overview.md) | 2 | Producer |
-| | 임찬미 (Kim, Chan-mi) | 2 | Producer |
-| | 백새임 (Baek, Sae-im) | 2 | Lyricist |
-| | Dr.JO | 2 | Lyricist, Arranger |
-| | [유영진 (Yoo, Young-jin)](../../producers/유영진_(yoo,_young-jin)/overview.md) | 2 | Arranger, Lyricist, Producer, Songwriter |
 | | 김영현 (Kim, Young-hyun) | 2 | Producer |
-| | Frankie Day | 2 | Songwriter |
-| | Charlotte Wilson | 2 | Songwriter, Arranger |
+| | Ayushy | 2 | Songwriter, Arranger |
+| | [유영진 (Yoo, Young-jin)](../../producers/유영진_(yoo,_young-jin)/overview.md) | 2 | Arranger, Lyricist, Producer, Songwriter |
 | | 오현선 (Oh, Hyun-sun) | 2 | Lyricist |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 2 | Producer |
+| | [엄세희 (Um, Se-Hee)](../../producers/엄세희_(um,_se-hee)/overview.md) | 2 | Producer |
+| | Dr.JO | 2 | Lyricist, Arranger |
+| | 임찬미 (Kim, Chan-mi) | 2 | Producer |
+| | [구혜진 (Gu, Hye-jin)](../../producers/구혜진_(gu,_hye-jin)/overview.md) | 2 | Producer |
 
 
 <details>
@@ -129,52 +152,56 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [엄세희 (Um, Se-Hee)](../../producers/엄세희_(um,_se-hee)/overview.md) | 2 | Producer |
-| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 2 | Producer |
-| | Ayushy | 2 | Songwriter, Arranger |
-| | Chanti | 1 | Songwriter |
-| | Kirsten Collins | 1 | Songwriter |
-| | Zaya | 1 | Lyricist |
+| | 백새임 (Baek, Sae-im) | 2 | Lyricist |
+| | Charlotte Wilson | 2 | Songwriter, Arranger |
+| | Frankie Day | 2 | Songwriter |
+| | Tay Jasper | 1 | Songwriter |
+| | 김인 (Kim, In) | 1 | Lyricist |
+| | MarkAlong | 1 | Songwriter |
 | | TAK | 1 | Arranger, Songwriter |
 | | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 1 | Producer |
-| | Tay Jasper | 1 | Songwriter |
-| | Joseph K | 1 | Arranger, Songwriter |
-| | MarkAlong | 1 | Songwriter |
-| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 1 | Producer |
+| | Zaya | 1 | Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 1 | Arranger, Producer |
+| | Chanti | 1 | Songwriter |
+| | Kirsten Collins | 1 | Songwriter |
+| | Joseph K | 1 | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 1 | Lyricist |
 | | 차이린 (Chailin) | 1 | Lyricist |
-| | 김인 (Kim, In) | 1 | Lyricist |
+| | FCM 후디니 (FCM Houdini) | 1 | Arranger, Lyricist, Songwriter |
 | | 박지현 (Park, Ji-hyun) | 1 | Lyricist |
-| | Enan | 1 | Songwriter |
-| | Sophie Curtis | 1 | Songwriter |
-| | Hautboi Rich | 1 | Songwriter |
-| | Brown Panda | 1 | Arranger, Songwriter |
-| | [Jonny Greenwood](../../producers/jonny_greenwood/overview.md) | 1 | Songwriter |
-| | 성유진 (Sung, Yoojin) | 1 | Lyricist |
-| | Jia Lih | 1 | Arranger, Songwriter |
-| | Awry | 1 | Songwriter |
-| | Deza | 1 | Lyricist |
-| | [Colin Greenwood](../../producers/colin_greenwood/overview.md) | 1 | Songwriter |
-| | Hayley Aitken | 1 | Arranger, Songwriter |
 | | ギガP (GigaP) | 1 | Arranger, Songwriter |
+| | Hayley Aitken | 1 | Arranger, Songwriter |
+| | [Colin Greenwood](../../producers/colin_greenwood/overview.md) | 1 | Songwriter |
+| | Deza | 1 | Lyricist |
+| | Awry | 1 | Songwriter |
+| | Jia Lih | 1 | Arranger, Songwriter |
+| | 성유진 (Sung, Yoojin) | 1 | Lyricist |
+| | 최예지 (Choi, Ye-ji) | 1 | Producer |
+| | [Jonny Greenwood](../../producers/jonny_greenwood/overview.md) | 1 | Songwriter |
+| | DRK | 1 | Producer |
+| | Brown Panda | 1 | Arranger, Songwriter |
+| | Hautboi Rich | 1 | Songwriter |
+| | Sophie Curtis | 1 | Songwriter |
+| | Enan | 1 | Songwriter |
 | | [Thom Yorke](../../producers/thom_yorke/overview.md) | 1 | Producer, Songwriter |
-| | NVR know | 1 | Arranger, Songwriter |
-| | Jonkind | 1 | Songwriter |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 1 | Producer |
 | | 원지애 (Won, Jiae) | 1 | Lyricist |
-| | PUFF | 1 | Arranger, Songwriter |
-| | 복주영 (Bok, Ju Young) | 1 | Lyricist |
-| | WKLY | 1 | Lyricist |
-| | EJAE | 1 | Songwriter |
-| | Rajan Muse | 1 | Songwriter |
-| | HONEY NOISE | 1 | Arranger, Producer, Songwriter |
-| | 랑가 (Langa) | 1 | Arranger, Songwriter |
+| | 로 (Raw) | 1 | Arranger |
 | | Strong Dragon | 1 | Arranger, Songwriter |
-| | LSY | 1 | Arranger, Songwriter |
-| | Ollipop | 1 | Arranger, Songwriter |
-| | Adam McInnis | 1 | Arranger, Songwriter |
-| | [Kenzie](../../producers/kenzie/overview.md) | 1 | Arranger, Lyricist |
-| | 강선영 (강선영) | 1 | Producer |
 | | Mario Marchetti | 1 | Arranger, Songwriter |
+| | 강선영 (강선영) | 1 | Producer |
+| | [Kenzie](../../producers/kenzie/overview.md) | 1 | Arranger, Lyricist |
+| | Adam McInnis | 1 | Arranger, Songwriter |
+| | Ollipop | 1 | Arranger, Songwriter |
+| | LSY | 1 | Arranger, Songwriter |
+| | 랑가 (Langa) | 1 | Arranger, Songwriter |
+| | Jonkind | 1 | Songwriter |
+| | HONEY NOISE | 1 | Arranger, Producer, Songwriter |
+| | Rajan Muse | 1 | Songwriter |
+| | EJAE | 1 | Songwriter |
+| | WKLY | 1 | Lyricist |
+| | 복주영 (Bok, Ju Young) | 1 | Lyricist |
+| | PUFF | 1 | Arranger, Songwriter |
 | | [Ed O'Brien](../../producers/ed_o_brien/overview.md) | 1 | Songwriter |
 | | Jan Baars | 1 | Songwriter |
 | | Le'mon | 1 | Lyricist |
@@ -183,12 +210,14 @@
 | | [Philip Selway](../../producers/philip_selway/overview.md) | 1 | Songwriter |
 | | 형근 (Hyeongeun) | 1 | Lyricist |
 | | 이수만 (Lee, Soo-Man) | 1 | Producer |
+| | MINNIE | 1 | Lyricist, Songwriter |
 | | [danke](../../producers/danke/overview.md) | 1 | Lyricist |
 | | [Nigel Godrich](../../producers/nigel_godrich/overview.md) | 1 | Producer |
 | | C'SA | 1 | Arranger, Producer, Songwriter |
 | | Jacob Aaron | 1 | Songwriter |
 | | Awrii | 1 | Arranger, Songwriter |
 | | 명혜인 (Myeong, Hyein) | 1 | Lyricist |
+| | NVR know | 1 | Arranger, Songwriter |
 | | 정다연 (Jeong, Dayeon) | 1 | Lyricist |
 | | Rick Bridges | 1 | Lyricist |
 
@@ -200,16 +229,16 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | [Savage](../../artists/aespa/overview.md) | 70607 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a" alt="Sgt. Pepper&#x27;s Lonely Hearts Club Band (Remastered)" width="50" /> | [A Day In The Life - Remastered 2009](../../artists/the_beatles/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | [Savage](../../artists/aespa/overview.md) | 71135 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a" alt="Sgt. Pepper&#x27;s Lonely Hearts Club Band (Remastered)" width="50" /> | [A Day In The Life - Remastered 2009](../../artists/the_beatles/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="Next Level" width="50" /> | [Next Level](../../artists/aespa/overview.md) | 67954 | <img src="https://i.scdn.co/image/ab67616d0000b2736d4752386c432c3acaa46cf7" alt="♡Like Like♡" width="50" /> | ♡Like Like♡ (prod. TAK & Giga) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733de9733addfb0b91b8eb30b0" alt="STRANGER" width="50" /> | [STRANGER](../../artists/sunmi/overview.md) | 228 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | [Lucky Girl](../../artists/red_velvet/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="Fe3O4: BREAK" width="50" /> | [DASH](../../artists/nmixx/overview.md) | 142 | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="AD MARE" width="50" /> | [O.O](../../artists/nmixx/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | KARMA | 96 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> | [Happier Than Ever](../../artists/billie_eilish/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="Fe3O4: BREAK" width="50" /> | [Soñar (Breaker)](../../artists/nmixx/overview.md) | 87 | <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="ENTWURF" width="50" /> | [DICE](../../artists/nmixx/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735a7602f0e508660b2ba40f8c" alt="Stone Cold Classics" width="50" /> | [Bohemian Rhapsody](../../artists/queen/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Paranoid Android](../../artists/radiohead/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Paranoid Android](../../artists/radiohead/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2735a7602f0e508660b2ba40f8c" alt="Stone Cold Classics" width="50" /> | [Bohemian Rhapsody](../../artists/queen/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="ENTWURF" width="50" /> | [DICE](../../artists/nmixx/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="Fe3O4: BREAK" width="50" /> | [Soñar (Breaker)](../../artists/nmixx/overview.md) | 87 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> | [Happier Than Ever](../../artists/billie_eilish/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | KARMA | 96 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="Fe3O4: BREAK" width="50" /> | [DASH](../../artists/nmixx/overview.md) | 232 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | [Lucky Girl](../../artists/red_velvet/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733de9733addfb0b91b8eb30b0" alt="STRANGER" width="50" /> | [STRANGER](../../artists/sunmi/overview.md) | 228 | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="AD MARE" width="50" /> | [O.O](../../artists/nmixx/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="Fe3O4: BREAK" width="50" /> | [Soñar (Breaker)](../../artists/nmixx/overview.md) | 129 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> | [Happier Than Ever](../../artists/billie_eilish/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | KARMA | 96 | <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="ENTWURF" width="50" /> | [DICE](../../artists/nmixx/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | [Sculpture](../../artists/(g)i-dle/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Paranoid Android](../../artists/radiohead/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a7602f0e508660b2ba40f8c" alt="Stone Cold Classics" width="50" /> | [Bohemian Rhapsody](../../artists/queen/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2735a7602f0e508660b2ba40f8c" alt="Stone Cold Classics" width="50" /> | [Bohemian Rhapsody](../../artists/queen/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Paranoid Android](../../artists/radiohead/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | [Sculpture](../../artists/(g)i-dle/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="ENTWURF" width="50" /> | [DICE](../../artists/nmixx/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | KARMA | 96 |
 
 ## Years
 
@@ -223,9 +252,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733de9733addfb0b91b8eb30b0" alt="STRANGER" width="50" /> | STRANGER (2023-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | OK Computer (1997-05-28) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d4752386c432c3acaa46cf7" alt="♡Like Like♡" width="50" /> | ♡Like Like♡ (2023-03-15) | <img src="https://i.scdn.co/image/ab67616d0000b2735a7602f0e508660b2ba40f8c" alt="Stone Cold Classics" width="50" /> | Stone Cold Classics (2006-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | CHOSEN KARMA (2023-03-10) | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | Russian Roulette - The 3rd Mini Album (2016-09-07) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="ENTWURF" width="50" /> | ENTWURF (2022-09-19) | <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="Next Level" width="50" /> | Next Level (2021-05-17) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="AD MARE" width="50" /> | AD MARE (2022-02-22) | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> | Happier Than Ever (2021-07-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | Savage - The 1st Mini Album (2021-10-05) | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | Savage - The 1st Mini Album (2021-10-05) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> | Happier Than Ever (2021-07-30) | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="AD MARE" width="50" /> | AD MARE (2022-02-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="Next Level" width="50" /> | Next Level (2021-05-17) | <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="ENTWURF" width="50" /> | ENTWURF (2022-09-19) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | Russian Roulette - The 3rd Mini Album (2016-09-07) | <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | CHOSEN KARMA (2023-03-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | I love (2022-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="Next Level" width="50" /> | Next Level (2021-05-17) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="ENTWURF" width="50" /> | ENTWURF (2022-09-19) | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> | Happier Than Ever (2021-07-30) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="AD MARE" width="50" /> | AD MARE (2022-02-22) | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | Savage - The 1st Mini Album (2021-10-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | Savage - The 1st Mini Album (2021-10-05) | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="AD MARE" width="50" /> | AD MARE (2022-02-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> | Happier Than Ever (2021-07-30) | <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="ENTWURF" width="50" /> | ENTWURF (2022-09-19) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="Next Level" width="50" /> | Next Level (2021-05-17) | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | I love (2022-10-17) |

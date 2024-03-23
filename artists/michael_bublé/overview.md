@@ -10,13 +10,13 @@
 
 ## Artist Rank
 Michael Bublé is currently:
-- The #37 artist of the last month
+- The #39 artist of the last month
 - The #39 artist of the last 6 months
 
 ![Rank of Michael Bublé over time](../../images/artists/michael_bublé/rank_time_series.png)
 ## Top Tracks
 
-- Moondance is the #50 track of the last month
+- Moondance is the #49 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -111,7 +111,7 @@ Michael Bublé is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | Frosty the Snowman (feat. The Puppini Sisters) | Christmas (Deluxe Special Edition) | [Michael Bublé](overview.md), The Puppini Sisters | [143](../../labels/143), [Reprise](../../labels/reprise) | 44 | | [🔗](https://open.spotify.com/track/27TJMHguLnuW3y2UPqXeC2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | Feeling Good | It's Time | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 26 | 💚 | [🔗](https://open.spotify.com/track/72PwtNhRrZXNnYeRg5xQ46) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | It's Beginning to Look a Lot like Christmas | Christmas (Deluxe Special Edition) | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 4 | | [🔗](https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | Moondance | Michael Bublé | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 1 | 💚 | [🔗](https://open.spotify.com/track/25Yzff59UGjz7wNWmjM39h) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | Moondance | Michael Bublé | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 3 | 💚 | [🔗](https://open.spotify.com/track/25Yzff59UGjz7wNWmjM39h) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | The Way You Look Tonight | Michael Bublé | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 0 | | [🔗](https://open.spotify.com/track/4YGlRLe6TeBRiXFByBqldf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="" width="50" /> | Can't Help Falling in Love | Come Fly with Me | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 0 | | [🔗](https://open.spotify.com/track/7igk58Vs9uM2B0aaTUwv6F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | Home | It's Time | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 0 | 💚 | [🔗](https://open.spotify.com/track/3ISaSNZCxIzTGwQuBq6Xrr) |

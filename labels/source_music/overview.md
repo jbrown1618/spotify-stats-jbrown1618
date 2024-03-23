@@ -180,7 +180,7 @@ Appears as:
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | No Celestial | ANTIFRAGILE | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [SOURCE MUSIC](.) | 102 | 💚 | [🔗](https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273110f5426b8c149e80804912a" alt="" width="50" /> | EASY | EASY | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [SOURCE MUSIC](.) | 51 | 💚 | [🔗](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273110f5426b8c149e80804912a" alt="" width="50" /> | EASY | EASY | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [SOURCE MUSIC](.) | 87 | 💚 | [🔗](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386b1ba55bf754a73f6ecf729" alt="" width="50" /> | I ≠ DOLL | I ≠ DOLL | HUH YUNJIN | [SOURCE MUSIC](.) | 32 | 💚 | [🔗](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc5b3a4f6c07140daa455a61" alt="" width="50" /> | Rough | GFRIEND 3rd Mini Album 'SNOWFLAKE' | GFRIEND | [SOURCE MUSIC](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27393f063bd7b14993d5ffb9287" alt="" width="50" /> | NAVILLERA | GFRIEND The 1st Album 'LOL' | GFRIEND | [SOURCE MUSIC](.) | 0 | | [🔗](https://open.spotify.com/track/2Oi0IO8K4BEbhPUdWcjNmv) |

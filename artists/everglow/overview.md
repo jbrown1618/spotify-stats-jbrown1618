@@ -15,6 +15,8 @@ EVERGLOW:
 - has member 王怡人 (Wang, Yiren)
 
 ## Artist Rank
+EVERGLOW is currently:
+- The #48 artist of the last month
 
 ![Rank of EVERGLOW over time](../../images/artists/everglow/rank_time_series.png)
 ## Featured on Playlists

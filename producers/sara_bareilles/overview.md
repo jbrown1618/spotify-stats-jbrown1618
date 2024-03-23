@@ -4,25 +4,25 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Instrument | 22 |
-| Lyricist | 20 |
-| Producer | 11 |
-| Songwriter | 30 |
-| Vocal | 30 |
+| Instrument | 23 |
+| Lyricist | 21 |
+| Producer | 12 |
+| Songwriter | 31 |
+| Vocal | 31 |
 
 ## Produces for Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 30 | 30 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 31 | 31 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 
 ## Works with Producers
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| John O'Mahony | John O'Mahony | 8 |
+| John O'Mahony | John O'Mahony | 9 |
+| Kurt Uenala | Kurt Uenala | 7 |
 | Neal Avron | Neal Avron | 6 |
-| Kurt Uenala | Kurt Uenala | 6 |
 | T-Bone Burnett | T-Bone Burnett | 5 |
 | Jason Wormer | Jason Wormer | 5 |
 | Mark Endert | Mark Endert | 3 |
@@ -81,6 +81,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Hercules | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Little Black Dress | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Cassiopeia | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | December | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | 1000 Times | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Islands | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Brave | Songwriter |
