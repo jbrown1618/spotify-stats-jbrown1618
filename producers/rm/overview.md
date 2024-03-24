@@ -56,7 +56,7 @@
 | Erik Reichers | Erik Reichers | 1 |
 | Sebastian Garcia | Sebastian Garcia | 1 |
 | Charlie J. Perry | Charlie J. Perry | 1 |
-| 김도훈 | 김도훈 (Kim, Do-hoon) | 1 |
+| 김도훈 | [김도훈 (Kim, Do-hoon)](../김도훈_(kim,_do-hoon)/overview.md) | 1 |
 | Jenna Andrews | Jenna Andrews | 1 |
 | Marcus McCoan | Marcus McCoan | 1 |
 | DJ Swivel | DJ Swivel | 1 |

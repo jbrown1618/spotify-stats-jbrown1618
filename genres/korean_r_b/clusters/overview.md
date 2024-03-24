@@ -17,7 +17,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c9c58101394306d8fccaeeb8" alt="" width="50" /> | Very Good | Very Good | Block B | [Genie Music Corporation](../../../../labels/genie_music_corporation), [Stone Music Entertainment](../../../../labels/stone_music_entertainment) | 0 | | [🔗](https://open.spotify.com/track/6svBgFCnXYst3N8OJJ1XAB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d664d05d8acd045fda25608" alt="" width="50" /> | Three Dopeboyz (Feat. Zion.T) | LUCKYNUMBERS | Dynamicduo, Zion.T | [Stone Music Entertainment](../../../../labels/stone_music_entertainment) | 0 | | [🔗](https://open.spotify.com/track/74Q5gW006ZD5iIaVYB1EhO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb5a75d1b1d84418f2c3dd38" alt="" width="50" /> | Rush Hour (Feat. j-hope of BTS) | Rush Hour | [Crush](../../../../artists/crush/overview.md), [j-hope](../../../../artists/j-hope/overview.md) | 피네이션 | 0 | 💚 | [🔗](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c6e894ccfb8214d3f68b0cb4" alt="" width="50" /> | Hmm-cheat | wonderego | [Crush](../../../../artists/crush/overview.md) | P NATION | 0 | 💚 | [🔗](https://open.spotify.com/track/7hYGWflgiI2aa25jOgL6eg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c6e894ccfb8214d3f68b0cb4" alt="" width="50" /> | Hmm-cheat | wonderego | [Crush](../../../../artists/crush/overview.md) | P NATION | 31 | 💚 | [🔗](https://open.spotify.com/track/7hYGWflgiI2aa25jOgL6eg) |
 ## Cluster #2
 
 24 tracks

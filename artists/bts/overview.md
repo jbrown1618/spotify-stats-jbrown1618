@@ -21,8 +21,8 @@ BTS:
 
 ## Artist Rank
 BTS is currently:
-- The #42 artist of the last month
-- The #28 artist of the last 6 months
+- The #35 artist of the last month
+- The #29 artist of the last 6 months
 - The #32 artist of all time
 
 ![Rank of BTS over time](../../images/artists/bts/rank_time_series.png)
@@ -197,7 +197,7 @@ BTS is currently:
 | | Jessica Agombar | 1 | Songwriter |
 | | Vince Nantes | 1 | Songwriter |
 | | Jenna Andrews | 1 | Songwriter |
-| | 김도훈 (Kim, Do-hoon) | 1 | Songwriter |
+| | [김도훈 (Kim, Do-hoon)](../../producers/김도훈_(kim,_do-hoon)/overview.md) | 1 | Songwriter |
 | | Sebastian Garcia | 1 | Songwriter |
 | | Fallin' Dild | 1 | Songwriter |
 | | Liza Owen | 1 | Songwriter |

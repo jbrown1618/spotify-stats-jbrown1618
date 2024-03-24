@@ -108,14 +108,14 @@ Appears as:
 |:---|:---|---:|:---|
 | | 유키 (Yuki) | 7 | Lyricist |
 | | [강지원 (Kang, Jiwon)](../../producers/강지원_(kang,_jiwon)/overview.md) | 6 | Producer, Arranger, Lyricist, Songwriter |
+| | [김도훈 (Kim, Do-hoon)](../../producers/김도훈_(kim,_do-hoon)/overview.md) | 4 | Lyricist, Songwriter, Arranger |
 | | 나고은 (Na, Go-eun) | 4 | Lyricist, Songwriter |
 | | 채인 (Chaein) | 3 | Lyricist, Songwriter |
-| | 김도훈 (Kim, Do-hoon) | 3 | Lyricist, Songwriter, Arranger |
+| | 용배 (Seo, Yong-bae) | 2 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | [HWASA](../../artists/hwasa/overview.md) | 2 | Lyricist, Songwriter |
 | | Davve | 2 | Arranger, Songwriter |
-| | 박우상 (Park, Woo-sang) | 1 | Arranger, Lyricist, Producer |
-| | 윤영준 (Yun, Yeongjun) | 1 | Arranger |
-| | Gustav Landell | 1 | Arranger, Lyricist, Songwriter |
+| | 수안 (SWAN) | 1 | Lyricist, Songwriter |
+| | 해다영 (Hae, Da-young) | 1 | Lyricist |
 
 
 <details>
@@ -123,30 +123,34 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | 윤영준 (Yun, Yeongjun) | 1 | Arranger |
+| | Gustav Landell | 1 | Arranger, Lyricist, Songwriter |
 | | 권석홍 (Kwon, Seok-hong) | 1 | Arranger |
 | | LYRE | 1 | Arranger |
 | | 전다운 (Jun, Da-woon) | 1 | Arranger, Songwriter |
 | | Annalise Morelli | 1 | Songwriter |
 | | 유상호 (Yoo, Sang-ho) | 1 | Producer |
 | | 기욱 (Giuk) | 1 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5bfb46687cb00b51b9e65c50" alt="" width="50" /> | Moon Byul | 1 | Lyricist, Songwriter |
-| | 해다영 (Hae, Da-young) | 1 | Lyricist |
-| | 용배 (Seo, Yong-bae) | 1 | Lyricist, Songwriter |
+| | 박우상 (Park, Woo-sang) | 1 | Arranger, Lyricist, Producer |
+| | 조씨아저씨 (Mr. Cho) | 1 | Producer |
+| | 이상호 (Lee, Sang-Ho) | 1 | Lyricist, Songwriter |
 | | Alina Smith | 1 | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5bfb46687cb00b51b9e65c50" alt="" width="50" /> | Moon Byul | 1 | Lyricist, Songwriter |
 | | 이후상 (Lee, Hoo-sang) | 1 | Arranger, Lyricist, Songwriter |
 | | Maximite | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb39bf033dbb25e5483994f51c" alt="" width="50" /> | Basick | 1 | Lyricist |
 | | Musikality | 1 | Arranger, Lyricist, Songwriter |
 | | Simon Jonasson | 1 | Arranger, Lyricist, Songwriter |
 | | Dr.JO | 1 | Lyricist |
 | | 이주용 (Lee, Juyong) | 1 | Arranger |
 | | Kristin Carpenter | 1 | Arranger, Lyricist, Songwriter |
-| | 수안 (SWAN) | 1 | Lyricist, Songwriter |
-| | 조씨아저씨 (Mr. Cho) | 1 | Producer |
+| | RAVN | 1 | Lyricist |
+| | Inner Child | 1 | Lyricist, Songwriter |
 
 </details>
 
 
-![Bar chart of top 29 producers](../../images/labels/rbw_inc_/producers.png)
+![Bar chart of top 30 producers](../../images/labels/rbw_inc_/producers.png)
 ## Tracks released under RBW Inc.
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
@@ -155,7 +159,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | Maria | María | [HWASA](../../artists/hwasa/overview.md) | [RBW, Inc](.) | 60353 | 💚 | [🔗](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="" width="50" /> | Egotistic | RED MOON | [MAMAMOO](../../artists/mamamoo/overview.md) | [RBW, Inc.](.) | 26712 | 💚 | [🔗](https://open.spotify.com/track/5Z4aqpT39KpY8gbHoJWdou) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="" width="50" /> | AYA | TRAVEL | [MAMAMOO](../../artists/mamamoo/overview.md) | [RBW Inc.](.) | 3312 | 💚 | [🔗](https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="" width="50" /> | Sweet Juice | Cabin Fever | [PURPLE KISS](../../artists/purple_kiss/overview.md) | [RBW Inc.](.) | 2458 | 💚 | [🔗](https://open.spotify.com/track/2th6UWbfVz3hsSDzQAKqy2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="" width="50" /> | Sweet Juice | Cabin Fever | [PURPLE KISS](../../artists/purple_kiss/overview.md) | [RBW Inc.](.) | 2422 | 💚 | [🔗](https://open.spotify.com/track/2th6UWbfVz3hsSDzQAKqy2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | 1,2,3 Eoi! | MIC ON | [MAMAMOO](../../artists/mamamoo/overview.md) | [RBW Inc.](.) | 1658 | 💚 | [🔗](https://open.spotify.com/track/1uYgNXNnBTQnboOwlYBLd1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="" width="50" /> | Pretty Psycho | memeM | [PURPLE KISS](../../artists/purple_kiss/overview.md) | [RBW Inc.](.) | 190 | | [🔗](https://open.spotify.com/track/26YMXkyHGrOQQUl2E4upkv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735103a69d41417d74264dd091" alt="" width="50" /> | GGBB | ACT 1, SCENE 1 | MAMAMOO+ | [RBW Inc.](.) | 168 | 💚 | [🔗](https://open.spotify.com/track/04qiPs2ScJrI7hgQ8mz4im) |

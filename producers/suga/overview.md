@@ -64,7 +64,7 @@
 | 이기호 | 이기호 (Lee, Ki-ho) | 1 |
 | Candace Sosa | Candace Sosa | 1 |
 | Max Graham | Max Graham | 1 |
-| 김도훈 | 김도훈 (Kim, Do-hoon) | 1 |
+| 김도훈 | [김도훈 (Kim, Do-hoon)](../김도훈_(kim,_do-hoon)/overview.md) | 1 |
 | Jacob Richards | Jacob Richards | 1 |
 | Liza Owen | Liza Owen | 1 |
 | ADORA | ADORA | 1 |

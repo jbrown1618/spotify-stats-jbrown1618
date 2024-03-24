@@ -61,13 +61,23 @@ WJSN:
 
 | | Exy |
 |:---|---:|
-| Lyricist | 1 |
+| Lyricist | 2 |
 ### Production Credits
 
 | Art | Track | Members | Credit Types |
 |:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5d92b755061ede5e5c07544" alt="" width="50" /> | Secret | Exy | Lyricist |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Lips | Exy | Lyricist |
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 신사동호랭이 (Shinsadong Tiger) | 1 | Arranger |
+| | e.one | 1 | Arranger, Lyricist, Songwriter |
+| | Exy | 1 | Lyricist |
+
+![Bar chart of top 3 producers](../../images/artists/wjsn/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |

@@ -21,7 +21,7 @@
 |:---|:---|---:|
 | 유키 | 유키 (Yuki) | 6 |
 | 나고은 | 나고은 (Na, Go-eun) | 4 |
-| 김도훈 | 김도훈 (Kim, Do-hoon) | 3 |
+| 김도훈 | [김도훈 (Kim, Do-hoon)](../김도훈_(kim,_do-hoon)/overview.md) | 3 |
 | 채인 | 채인 (Chaein) | 2 |
 | 용배 | 용배 (Seo, Yong-bae) | 1 |
 | 수안 | 수안 (SWAN) | 1 |

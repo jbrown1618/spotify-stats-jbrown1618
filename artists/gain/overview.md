@@ -41,6 +41,14 @@
 
 - [k-pop](../../genres/k-pop/overview.md)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 김이나 (Kim, Eana) | 2 | Lyricist |
+| | 이민수 (이민수) | 2 | Arranger, Songwriter |
+
+
 ## Tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |

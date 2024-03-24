@@ -83,7 +83,7 @@
 | Tom Wiklund | Tom Wiklund | 1 |
 | Jinbo | Jinbo | 1 |
 | Destiny Rogers | Destiny Rogers | 1 |
-| 김도훈 | 김도훈 (Kim, Do-hoon) | 1 |
+| 김도훈 | [김도훈 (Kim, Do-hoon)](../김도훈_(kim,_do-hoon)/overview.md) | 1 |
 | Niklas Jarelius Persson | Niklas Jarelius Persson | 1 |
 | Neon Boy | Neon Boy | 1 |
 | Isabella Lovestory | Isabella Lovestory | 1 |

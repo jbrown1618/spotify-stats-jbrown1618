@@ -65,7 +65,7 @@
 | Seu Ran Lee | Seu Ran Lee | 1 |
 | Vince Nantes | Vince Nantes | 1 |
 | danke | [danke](../danke/overview.md) | 1 |
-| 김도훈 | 김도훈 (Kim, Do-hoon) | 1 |
+| 김도훈 | [김도훈 (Kim, Do-hoon)](../김도훈_(kim,_do-hoon)/overview.md) | 1 |
 | Fallin' Dild | Fallin' Dild | 1 |
 | Neon Boy | Neon Boy | 1 |
 | Liza Owen | Liza Owen | 1 |

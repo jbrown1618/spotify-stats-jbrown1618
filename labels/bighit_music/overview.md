@@ -163,7 +163,7 @@ Appears as:
 | | Fallin' Dild | 1 | Songwriter |
 | | Vince Nantes | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe16c86ca28960a2d9ce52810" alt="" width="50" /> | Latto | 1 | Lyricist, Songwriter |
-| | 김도훈 (Kim, Do-hoon) | 1 | Songwriter |
+| | [김도훈 (Kim, Do-hoon)](../../producers/김도훈_(kim,_do-hoon)/overview.md) | 1 | Songwriter |
 | | Jon Bellion | 1 | Lyricist, Songwriter |
 | | Neon Boy | 1 | Songwriter |
 | | Liza Owen | 1 | Songwriter |

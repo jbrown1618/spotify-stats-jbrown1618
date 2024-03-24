@@ -13,7 +13,7 @@ AKMU:
 
 ## Artist Rank
 AKMU is currently:
-- The #37 artist of the last 6 months
+- The #38 artist of the last 6 months
 - The #43 artist of all time
 
 ![Rank of AKMU over time](../../images/artists/akmu/rank_time_series.png)

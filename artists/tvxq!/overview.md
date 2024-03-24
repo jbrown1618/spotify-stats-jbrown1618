@@ -51,6 +51,19 @@ TVXQ!:
 - [k-pop](../../genres/k-pop/overview.md)
 - [k-pop boy group](../../genres/k-pop_boy_group/overview.md)
 
+## Credits
+
+### Member Credits
+
+| | MAX CHANGMIN |
+|:---|---:|
+| Lyricist | 1 |
+### Production Credits
+
+| Art | Track | Members | Credit Types |
+|:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a8e5eaab8b02db02e487c27" alt="" width="50" /> | Devil | MAX CHANGMIN | Lyricist |
+
 ## Tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |

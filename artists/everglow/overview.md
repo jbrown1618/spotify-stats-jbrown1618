@@ -16,7 +16,7 @@ EVERGLOW:
 
 ## Artist Rank
 EVERGLOW is currently:
-- The #48 artist of the last month
+- The #44 artist of the last month
 
 ![Rank of EVERGLOW over time](../../images/artists/everglow/rank_time_series.png)
 ## Featured on Playlists
@@ -71,14 +71,16 @@ EVERGLOW is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | Gavin Jones | 2 | Songwriter |
+| | 72 | 2 | Lyricist, Songwriter |
+| | Hayley Aitken | 2 | Songwriter |
 | | Olof Lindskog | 1 | Songwriter |
-| | Gavin Jones | 1 | Songwriter |
+| | Ollipop | 1 | Songwriter |
 | | 이스란 (Lee, Seran) | 1 | Lyricist |
 | | E:U | 1 | Lyricist |
-| | 72 | 1 | Songwriter |
-| | Hayley Aitken | 1 | Songwriter |
+| | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 1 | Lyricist |
 
-![Bar chart of top 6 producers](../../images/artists/everglow/producers.png)
+![Bar chart of top 8 producers](../../images/artists/everglow/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
