@@ -475,8 +475,8 @@
 | | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 3 | Producer |
 | | Ian Kirkpatrick | 3 | Producer, Songwriter |
 | | Dr. Luke | 3 | Producer |
-| | Brian Lee | 3 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 3 | Producer, Songwriter |
+| | Brian Lee | 3 | Songwriter |
 | | Emily Wright | 3 | Producer |
 | | 남궁진 (Nam Goong, Jin) | 3 | Producer |
 | | [Brian May](../../producers/brian_may/overview.md) | 3 | Lyricist, Songwriter, Producer, Arranger |
@@ -486,11 +486,11 @@
 | | Lauren Dyson | 2 | Songwriter, Arranger |
 | | Chris Galland | 2 | Producer |
 | | Michael Ilbert | 2 | Producer |
-| | Geoff Workman | 2 | Producer |
+| | [방시혁 (Bang, Si-Hyuk)](../../producers/방시혁_(bang,_si-hyuk)/overview.md) | 2 | Lyricist, Songwriter |
 | | [R.Tee](../../producers/r_tee/overview.md) | 2 | Arranger, Producer, Songwriter |
 | | [김병석 (Kim, Byung-seok)](../../producers/김병석_(kim,_byung-seok)/overview.md) | 2 | Arranger, Lyricist, Producer, Songwriter |
 | | Roger Taylor | 2 | Producer |
-| | [방시혁 (Bang, Si-Hyuk)](../../producers/방시혁_(bang,_si-hyuk)/overview.md) | 2 | Lyricist, Songwriter |
+| | Geoff Workman | 2 | Producer |
 | | Greg Wells | 2 | Producer |
 | | [danke](../../producers/danke/overview.md) | 2 | Lyricist, Songwriter |
 | | Caroline Ailin | 2 | Producer, Songwriter |
@@ -535,10 +535,10 @@
 | | 이성호 (Lee, Sung-ho) | 2 | Producer |
 | | Anna Timgren | 2 | Lyricist, Songwriter |
 | | Andrew Watt | 2 | Producer, Songwriter |
-| | Emily Warren | 2 | Songwriter |
-| | 황민희 (Hwang, Min-hee) | 2 | Producer |
+| | Bonnie McKee | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8e075c754be58cc33e30905a" alt="" width="50" /> | [CHUNG HA](../../artists/chung_ha/overview.md) | 2 | Lyricist |
 | | [엄세희 (Um, Se-Hee)](../../producers/엄세희_(um,_se-hee)/overview.md) | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | Pharrell Williams | 2 | Songwriter |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 2 | Producer |
 
 </details>
 

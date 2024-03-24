@@ -17,6 +17,12 @@ P1Harmony:
 ## Artist Rank
 
 ![Rank of P1Harmony over time](../../images/artists/p1harmony/rank_time_series.png)
+## Top Tracks
+
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/p1harmony/track_rank_time_series_score.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

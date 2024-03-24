@@ -17,7 +17,7 @@ WENDY:
 ## Artist Rank
 WENDY is currently:
 - The #15 artist of the last month
-- The #44 artist of the last 6 months
+- The #43 artist of the last 6 months
 - The #34 artist of all time
 
 ![Rank of WENDY over time](../../images/artists/wendy/rank_time_series.png)
@@ -25,6 +25,10 @@ WENDY is currently:
 
 - Time After Time is the #42 track of all time
 - Wish You Hell is the #15 track of the On Repeat playlist
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/wendy/track_rank_time_series_score.png)
 
 ### Top tracks of all time over time
 

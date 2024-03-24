@@ -11,6 +11,12 @@
 ## Artist Rank
 
 ![Rank of Rihanna over time](../../images/artists/rihanna/rank_time_series.png)
+## Top Tracks
+
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/rihanna/track_rank_time_series_score.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -25,6 +25,10 @@ KISS OF LIFE is currently:
     - the #26 track of the last 6 months
 - Bad News is the #25 track of the On Repeat playlist
 
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/kiss_of_life/track_rank_time_series_score.png)
+
 ### Top tracks of the last 6 months over time
 
 ![Line chart of top tracks of the last 6 months over time](../../images/artists/kiss_of_life/track_rank_time_series_medium_term.png)

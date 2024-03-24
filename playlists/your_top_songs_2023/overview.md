@@ -234,15 +234,15 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 6 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 3 | Arranger, Lyricist, Songwriter |
-| | 이지홍 (Lee, Ji-hong) | 3 | Producer |
-| | [Kenzie](../../producers/kenzie/overview.md) | 3 | Songwriter, Arranger, Lyricist |
-| | [유영진 (Yoo, Young-jin)](../../producers/유영진_(yoo,_young-jin)/overview.md) | 3 | Arranger, Lyricist, Producer, Songwriter |
 | | [블랙아이드필승 (Black Eyed Pilseung)](../../producers/블랙아이드필승_(black_eyed_pilseung)/overview.md) | 3 | Arranger, Lyricist, Songwriter |
-| | [전군 (Jeon Goon)](../../producers/전군_(jeon_goon)/overview.md) | 3 | Lyricist, Songwriter |
 | | 김철순 (Kim, Chul-Soon) | 3 | Producer |
-| | [조윤경 (Jo, Yoon Kyung)](../../producers/조윤경_(jo,_yoon_kyung)/overview.md) | 2 | Lyricist |
-| | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 3 | Arranger, Lyricist, Songwriter |
+| | [Kenzie](../../producers/kenzie/overview.md) | 3 | Songwriter, Arranger, Lyricist |
+| | 이지홍 (Lee, Ji-hong) | 3 | Producer |
+| | [전군 (Jeon Goon)](../../producers/전군_(jeon_goon)/overview.md) | 3 | Lyricist, Songwriter |
+| | [유영진 (Yoo, Young-jin)](../../producers/유영진_(yoo,_young-jin)/overview.md) | 3 | Arranger, Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | [IU](../../artists/iu/overview.md) | 2 | Lyricist, Songwriter |
+| | 남궁진 (Nam Goong, Jin) | 2 | Producer |
 
 
 <details>
@@ -250,27 +250,28 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Hautboi Rich | 2 | Songwriter |
-| | [FLYT](../../producers/flyt/overview.md) | 2 | Arranger, Songwriter |
-| | Hayley Aitken | 2 | Arranger, Songwriter |
+| | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 2 | Lyricist |
 | | 손명갑 (Son, Myung-gap) | 2 | Producer |
-| | Kako | 2 | Arranger, Songwriter |
-| | 김이나 (Kim, Eana) | 2 | Lyricist |
-| | 남궁진 (Nam Goong, Jin) | 2 | Producer |
 | | [라도 (Rado)](../../producers/라도_(rado)/overview.md) | 2 | Arranger |
-| | Kirsten Collins | 2 | Songwriter |
+| | Hautboi Rich | 2 | Songwriter |
+| | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 2 | Producer |
+| | Young Chance | 2 | Lyricist, Songwriter |
 | | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 2 | Arranger, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | [IU](../../artists/iu/overview.md) | 2 | Lyricist, Songwriter |
-| | [SCORE](../../producers/score/overview.md) | 1 | Arranger, Lyricist, Producer, Songwriter |
-| | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 1 | Lyricist |
-| | Jeremy Reeves | 1 | Lyricist, Songwriter |
-| | 제휘 (Kim, Jea Whi) | 1 | Arranger, Songwriter |
+| | Kako | 2 | Arranger, Songwriter |
+| | [조윤경 (Jo, Yoon Kyung)](../../producers/조윤경_(jo,_yoon_kyung)/overview.md) | 2 | Lyricist |
+| | [FLYT](../../producers/flyt/overview.md) | 2 | Arranger, Songwriter |
+| | Kirsten Collins | 2 | Songwriter |
+| | Hayley Aitken | 2 | Arranger, Songwriter |
 | | Eline Noelia | 1 | Songwriter |
+| | Jeremy Reeves | 1 | Lyricist, Songwriter |
+| | Kris Jana | 1 | Lyricist, Songwriter |
 | | Kyler Niko | 1 | Lyricist, Songwriter |
+| | [SCORE](../../producers/score/overview.md) | 1 | Arranger, Lyricist, Producer, Songwriter |
 | | Belle Humble | 1 | Arranger, Songwriter |
 | | 김준혁 (Kim Joonhyuk) | 1 | Producer |
+| | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 1 | Lyricist |
 | | 황민희 (Hwang, Min-hee) | 1 | Producer |
-| | Kris Jana | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 1 | Songwriter |
 | | Tay Jasper | 1 | Songwriter |
 | | MooF | 1 | Arranger, Songwriter |
 | | [24](../../producers/24/overview.md) | 1 | Arranger, Songwriter |
@@ -283,7 +284,8 @@
 | | 전부연 (Jeon, Bu-yeon) | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | [Jackson Wang](../../artists/jackson_wang/overview.md) | 1 | Songwriter |
 | | Markus Lindell | 1 | Arranger, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 1 | Songwriter |
+| | 밍지션 (Ming, Jisyeon) | 1 | Producer |
+| | 제휘 (Kim, Jea Whi) | 1 | Arranger, Songwriter |
 | | 이승주 (Lee Sung-joo) | 1 | Arranger |
 | | Johan Gustafsson | 1 | Arranger, Songwriter |
 | | Brandon Green | 1 | Arranger, Songwriter |
@@ -312,34 +314,32 @@
 | | Cutfather | 1 | Songwriter |
 | | Ray Romulus | 1 | Lyricist, Songwriter |
 | | 김희원 (Kim, Hee-won) | 1 | Songwriter |
-| | Liam Kevany | 1 | Producer, Songwriter |
+| | Ray McCullough | 1 | Lyricist, Songwriter |
 | | Anne Judith Wik | 1 | Lyricist, Songwriter |
 | | 13 | 1 | Producer |
 | | Simon Bergseth | 1 | Producer |
-| | 밍지션 (Ming, Jisyeon) | 1 | Producer |
-| | 김민희 (Kim, Min Hee) | 1 | Producer |
-| | Ray McCullough | 1 | Lyricist, Songwriter |
-| | Adam McInnis | 1 | Arranger, Songwriter |
-| | JQ | 1 | Lyricist |
-| | Maria Marcus | 1 | Songwriter |
-| | 박인영 (Park, In-Young) | 1 | Arranger |
-| | Andreas Öberg (Öberg, Andreas) | 1 | Songwriter |
-| | Young Chance | 1 | Lyricist, Songwriter |
-| | 장우영 (Jang, Wooyoung) | 1 | Producer |
-| | Anders Gukko | 1 | Lyricist, Songwriter |
+| | Liam Kevany | 1 | Producer, Songwriter |
+| | Louis Bartolini | 1 | Producer, Songwriter |
+| | Rebecca King | 1 | Lyricist |
 | | Mario Marchetti | 1 | Arranger, Songwriter |
-| | 이스란 (Lee, Seran) | 1 | Lyricist |
-| | 김수정 (김수정) | 1 | Producer |
-| | JUNE | 1 | Arranger, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb097877542866c981757e9592" alt="" width="50" /> | [TAEYEON](../../artists/taeyeon/overview.md) | 1 | Lyricist |
 | | Sebastian Lundberg | 1 | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb097877542866c981757e9592" alt="" width="50" /> | [TAEYEON](../../artists/taeyeon/overview.md) | 1 | Lyricist |
+| | JUNE | 1 | Arranger, Songwriter |
+| | 김수정 (김수정) | 1 | Producer |
+| | 이스란 (Lee, Seran) | 1 | Lyricist |
+| | pixelwave | 1 | Arranger, Songwriter |
+| | Anders Gukko | 1 | Lyricist, Songwriter |
+| | Feli Ferraro | 1 | Lyricist, Songwriter |
+| | Steve Manovski | 1 | Arranger, Producer, Songwriter |
+| | 장우영 (Jang, Wooyoung) | 1 | Producer |
+| | Andreas Öberg (Öberg, Andreas) | 1 | Songwriter |
+| | GRAY | 1 | Lyricist, Songwriter |
+| | 박인영 (Park, In-Young) | 1 | Arranger |
+| | Maria Marcus | 1 | Songwriter |
 | | Patrick "j.Que" Smith | 1 | Songwriter |
+| | Adam McInnis | 1 | Arranger, Songwriter |
 | | 빅싼초 (Bicksancho) | 1 | Arranger, Songwriter |
-| | 장우영 (Jang, Woo-young) | 1 | Producer |
 | | Fredrik Häggstam (Häggstam, Fredrik) | 1 | Arranger, Songwriter |
-| | BENJMN | 1 | Lyricist, Songwriter |
-| | Jeff Gartenbaum | 1 | Producer |
-| | Erik Madrid | 1 | Producer |
 
 </details>
 
@@ -356,7 +356,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 51043 | <img src="https://i.scdn.co/image/ab67616d0000b273c57525299436d02bdd908fb5" alt="CHESHIRE" width="50" /> | [Cheshire](../../artists/itzy/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | [My sea](../../artists/iu/overview.md) | 42609 | <img src="https://i.scdn.co/image/ab67616d0000b2736997d60d0d2319c7a2a7025b" alt="READY TO BE" width="50" /> | [SET ME FREE](../../artists/twice/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="MANIFESTO : DAY 1" width="50" /> | [ParadoXXX Invasion](../../artists/enhypen/overview.md) | 42240 | <img src="https://i.scdn.co/image/ab67616d0000b2734687e95bc88740e997be9e6b" alt="Formula of Love: O+T=&lt;3" width="50" /> | [The Feels](../../artists/twice/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | [Illusion](../../artists/aespa/overview.md) | 39297 | <img src="https://i.scdn.co/image/ab67616d0000b2736997d60d0d2319c7a2a7025b" alt="READY TO BE" width="50" /> | [MOONLIGHT SUNRISE](../../artists/twice/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | [Illusion](../../artists/aespa/overview.md) | 39291 | <img src="https://i.scdn.co/image/ab67616d0000b2736997d60d0d2319c7a2a7025b" alt="READY TO BE" width="50" /> | [MOONLIGHT SUNRISE](../../artists/twice/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="I am" width="50" /> | [LATATA](../../artists/(g)i-dle/overview.md) | 38828 | <img src="https://i.scdn.co/image/ab67616d0000b2730f950609e26eb0654253bb9a" alt="The Boys" width="50" /> | [The Boys](../../artists/girls__generation/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | [Coin](../../artists/iu/overview.md) | 37021 | <img src="https://i.scdn.co/image/ab67616d0000b2736997d60d0d2319c7a2a7025b" alt="READY TO BE" width="50" /> | [WALLFLOWER](../../artists/twice/overview.md) | 0 |
 

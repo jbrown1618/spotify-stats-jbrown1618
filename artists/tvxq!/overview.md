@@ -17,6 +17,12 @@ TVXQ!:
 ## Artist Rank
 
 ![Rank of TVXQ! over time](../../images/artists/tvxq!/rank_time_series.png)
+## Top Tracks
+
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/tvxq!/track_rank_time_series_score.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

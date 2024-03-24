@@ -274,7 +274,7 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [TEDDY](../../producers/teddy/overview.md) | 9 | Arranger, Lyricist, Songwriter, Producer |
+| | [TEDDY](../../producers/teddy/overview.md) | 10 | Arranger, Lyricist, Producer, Songwriter |
 | | [유영진 (Yoo, Young-jin)](../../producers/유영진_(yoo,_young-jin)/overview.md) | 7 | Arranger, Lyricist, Producer, Songwriter |
 | | [24](../../producers/24/overview.md) | 6 | Arranger, Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 6 | Lyricist, Songwriter |
@@ -282,8 +282,8 @@
 | | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 4 | Producer |
 | | [Kenzie](../../producers/kenzie/overview.md) | 4 | Songwriter, Arranger, Lyricist |
 | | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 4 | Arranger, Songwriter |
-| | Danny Chung | 3 | Lyricist |
-| | 이상엽 (Lee, Sang-yeob) | 3 | Producer |
+| | Jason Robert | 3 | Producer |
+| | Jason Roberts | 3 | Producer |
 
 
 <details>
@@ -291,61 +291,62 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | FUTURE BOUNCE | 3 | Arranger, Songwriter |
+| | 이상엽 (Lee, Sang-yeob) | 3 | Producer |
 | | 이수만 (Lee, Soo-Man) | 3 | Producer |
 | | [엄세희 (Um, Se-Hee)](../../producers/엄세희_(um,_se-hee)/overview.md) | 3 | Producer |
-| | Jason Roberts | 3 | Producer |
-| | FUTURE BOUNCE | 3 | Arranger, Songwriter |
+| | Danny Chung | 3 | Lyricist |
+| | 손명갑 (Son, Myung-gap) | 2 | Producer |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 2 | Producer |
 | | Dr.JO | 2 | Lyricist, Songwriter |
+| | Jeppe London Bilsby | 2 | Arranger, Songwriter |
+| | Tayla Parx | 2 | Songwriter, Arranger |
+| | Jonatan Gusmark | 2 | Lyricist, Songwriter |
+| | Lauritz Emil Christiansen | 2 | Arranger, Songwriter |
+| | 남궁진 (Nam Goong, Jin) | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 2 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | [IU](../../artists/iu/overview.md) | 2 | Lyricist, Songwriter |
+| | 신지영 (Shin, Ji-young) | 2 | Producer |
 | | 최용인 (Choi, Yon-gin) | 2 | Producer |
+| | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 2 | Lyricist |
 | | Ludvig Carl Evers | 2 | Lyricist, Songwriter |
 | | [조윤경 (Jo, Yoon Kyung)](../../producers/조윤경_(jo,_yoon_kyung)/overview.md) | 2 | Lyricist |
-| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 2 | Producer |
-| | Jonatan Gusmark | 2 | Lyricist, Songwriter |
-| | 손명갑 (Son, Myung-gap) | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 2 | Arranger, Lyricist, Songwriter |
-| | Cazzi Opeia | 2 | Songwriter, Lyricist |
-| | Tayla Parx | 2 | Songwriter, Arranger |
-| | 남궁진 (Nam Goong, Jin) | 2 | Producer |
-| | 신지영 (Shin, Ji-young) | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | [IU](../../artists/iu/overview.md) | 2 | Lyricist, Songwriter |
-| | Lauritz Emil Christiansen | 2 | Arranger, Songwriter |
-| | Jeppe London Bilsby | 2 | Arranger, Songwriter |
-| | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 2 | Lyricist |
-| | Jason Robert | 2 | Producer |
+| | 김동현 (Kim, Dong-hyun) | 2 | Lyricist |
+| | 정의석 (Jung, Euisuk) | 2 | Producer |
 | | 이민규 (Lee, Min-kyu) | 2 | Producer |
 | | [라도 (Rado)](../../producers/라도_(rado)/overview.md) | 2 | Lyricist, Songwriter, Arranger |
 | | 김철순 (Kim, Chul-Soon) | 2 | Producer |
-| | EJAE | 2 | Songwriter |
-| | 김동현 (Kim, Dong-hyun) | 2 | Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | [HWASA](../../artists/hwasa/overview.md) | 2 | Lyricist, Songwriter |
 | | Sophia Pae | 2 | Arranger |
-| | 정의석 (Jung, Euisuk) | 2 | Producer |
-| | [LDN Noise](../../producers/ldn_noise/overview.md) | 1 | Arranger, Producer, Songwriter |
-| | 이성호 (Lee, Sung-ho) | 1 | Producer |
+| | EJAE | 2 | Songwriter |
+| | Cazzi Opeia | 2 | Songwriter, Lyricist |
 | | Daniel Davidsen | 1 | Songwriter |
 | | 진리 (Jinri) | 1 | Lyricist |
+| | Dem Jointz | 1 | Arranger, Songwriter |
 | | MarkAlong | 1 | Songwriter |
-| | Jeremy Reeves | 1 | Lyricist, Songwriter |
 | | Kirsten Collins | 1 | Songwriter |
 | | Avenue 52 | 1 | Arranger |
+| | [LDN Noise](../../producers/ldn_noise/overview.md) | 1 | Arranger, Producer, Songwriter |
+| | 이성호 (Lee, Sung-ho) | 1 | Producer |
 | | 바다 (Bada) | 1 | Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1925e6520e474e569c971b36" alt="" width="50" /> | [BoA](../../artists/boa/overview.md) | 1 | Arranger, Lyricist, Songwriter |
-| | Boy Matthews | 1 | Lyricist |
-| | Dem Jointz | 1 | Arranger, Songwriter |
 | | 전부연 (Jeon, Bu-yeon) | 1 | Producer |
-| | Joyfactory | 1 | Lyricist |
-| | 노민지 (Noh, Min-ji) | 1 | Producer |
+| | Boy Matthews | 1 | Lyricist |
+| | Tay Jasper | 1 | Songwriter |
+| | 이민수 (이민수) | 1 | Songwriter |
 | | 이기 (IGGY) | 1 | Arranger, Songwriter |
+| | 노민지 (Noh, Min-ji) | 1 | Producer |
 | | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 1 | Producer |
 | | MooF | 1 | Arranger, Songwriter |
-| | Alexander Holmgren | 1 | Arranger, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb65f946e1c1bdc8bc9b75b049" alt="" width="50" /> | MAX CHANGMIN | 1 | Lyricist |
-| | Chanti | 1 | Songwriter |
+| | Alexander Holmgren | 1 | Arranger, Songwriter |
 | | Brother Su | 1 | Lyricist |
-| | LØREN (LOREN) | 1 | Lyricist |
+| | Chanti | 1 | Songwriter |
 | | [Arschtritt Lindgren](../../producers/arschtritt_lindgren/overview.md) | 1 | Producer, Songwriter |
+| | LØREN (LOREN) | 1 | Lyricist |
+| | Joyfactory | 1 | Lyricist |
 | | Brian U | 1 | Songwriter |
-| | Tay Jasper | 1 | Songwriter |
+| | Jeremy Reeves | 1 | Lyricist, Songwriter |
 | | 정유라 (Jeong, Yu-ra) | 1 | Producer |
 | | Belle Humble | 1 | Arranger, Songwriter |
 | | Gabriela Geneva | 1 | Songwriter |
@@ -380,7 +381,6 @@
 | | Ray Romulus | 1 | Lyricist, Songwriter |
 | | Hautboi Rich | 1 | Songwriter |
 | | Cutfather | 1 | Arranger |
-| | Kako | 1 | Songwriter |
 
 </details>
 

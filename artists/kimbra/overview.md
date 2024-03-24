@@ -14,6 +14,10 @@
 ## Top Tracks
 
 - In My Bones (feat. Kimbra & Tank and The Bangas) is the #38 track of the last month
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/kimbra/track_rank_time_series_score.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

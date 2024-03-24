@@ -26,6 +26,10 @@ GOT the beat is currently:
 - Stamp On It is the #8 track of all time
 - MALA is the #29 track of the last month
 
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/got_the_beat/track_rank_time_series_score.png)
+
 ### Top tracks of all time over time
 
 ![Line chart of top tracks of all time over time](../../images/artists/got_the_beat/track_rank_time_series_long_term.png)

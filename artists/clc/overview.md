@@ -21,6 +21,10 @@ CLC:
 ## Top Tracks
 
 
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/clc/track_rank_time_series_score.png)
+
 ### Top tracks of all time over time
 
 ![Line chart of top tracks of all time over time](../../images/artists/clc/track_rank_time_series_long_term.png)

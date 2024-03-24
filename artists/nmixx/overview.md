@@ -21,7 +21,7 @@ NMIXX:
 
 ## Artist Rank
 NMIXX is currently:
-- The #18 artist of the last 6 months
+- The #19 artist of the last 6 months
 - The #18 artist of all time
 
 ![Rank of NMIXX over time](../../images/artists/nmixx/rank_time_series.png)
@@ -29,6 +29,10 @@ NMIXX is currently:
 
 - DASH is the #1 track of the On Repeat playlist
 - Soñar (Breaker) is the #17 track of the On Repeat playlist
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/nmixx/track_rank_time_series_score.png)
 
 ### Top tracks of the last 6 months over time
 

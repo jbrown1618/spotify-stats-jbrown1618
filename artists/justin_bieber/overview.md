@@ -7,6 +7,12 @@
 ## Artist Rank
 
 ![Rank of Justin Bieber over time](../../images/artists/justin_bieber/rank_time_series.png)
+## Top Tracks
+
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/justin_bieber/track_rank_time_series_score.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -15,6 +15,10 @@ Jackson Wang:
 ## Top Tracks
 
 
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/jackson_wang/track_rank_time_series_score.png)
+
 ### Top tracks of the last 6 months over time
 
 ![Line chart of top tracks of the last 6 months over time](../../images/artists/jackson_wang/track_rank_time_series_medium_term.png)

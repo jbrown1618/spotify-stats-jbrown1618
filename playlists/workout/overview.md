@@ -418,13 +418,13 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 8 | Producer |
+| | [TEDDY](../../producers/teddy/overview.md) | 8 | Arranger, Lyricist, Producer, Songwriter |
 | | [유영진 (Yoo, Young-jin)](../../producers/유영진_(yoo,_young-jin)/overview.md) | 7 | Arranger, Lyricist, Producer, Songwriter |
 | | [John Hanes](../../producers/john_hanes/overview.md) | 7 | Producer |
 | | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 7 | Producer |
-| | [TEDDY](../../producers/teddy/overview.md) | 7 | Arranger, Lyricist, Songwriter, Producer |
+| | [Max Martin](../../producers/max_martin/overview.md) | 6 | Producer, Songwriter, Lyricist |
 | | [블랙아이드필승 (Black Eyed Pilseung)](../../producers/블랙아이드필승_(black_eyed_pilseung)/overview.md) | 6 | Arranger, Lyricist, Songwriter |
 | | [라도 (Rado)](../../producers/라도_(rado)/overview.md) | 6 | Lyricist, Songwriter, Arranger, Producer |
-| | [Max Martin](../../producers/max_martin/overview.md) | 6 | Producer, Songwriter, Lyricist |
 | | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 5 | Producer |
 | | KOBAMETAL | 5 | Producer |
 
@@ -434,32 +434,33 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 4 | Producer |
-| | [ILYA](../../producers/ilya/overview.md) | 4 | Producer, Songwriter |
-| | Savan Kotecha | 4 | Songwriter, Producer |
-| | [구혜진 (Gu, Hye-jin)](../../producers/구혜진_(gu,_hye-jin)/overview.md) | 4 | Producer |
-| | [R.Tee](../../producers/r_tee/overview.md) | 4 | Arranger, Songwriter, Producer |
-| | 이수만 (Lee, Soo-Man) | 4 | Producer |
-| | 13 | 4 | Producer |
-| | [조윤경 (Jo, Yoon Kyung)](../../producers/조윤경_(jo,_yoon_kyung)/overview.md) | 4 | Lyricist |
 | | [24](../../producers/24/overview.md) | 4 | Arranger, Songwriter, Producer |
-| | [Shellback](../../producers/shellback/overview.md) | 4 | Lyricist, Producer, Songwriter |
-| | [김병석 (Kim, Byung-seok)](../../producers/김병석_(kim,_byung-seok)/overview.md) | 4 | Arranger, Lyricist, Producer, Songwriter |
-| | [SCORE](../../producers/score/overview.md) | 4 | Arranger, Lyricist, Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 4 | Lyricist, Songwriter |
 | | [전군 (Jeon Goon)](../../producers/전군_(jeon_goon)/overview.md) | 4 | Lyricist, Songwriter |
-| | Peter Carlsson | 3 | Producer |
-| | [Phil Tan](../../producers/phil_tan/overview.md) | 3 | Producer |
-| | 이연수 (Lee, Yeon-soo) | 3 | Producer |
+| | [구혜진 (Gu, Hye-jin)](../../producers/구혜진_(gu,_hye-jin)/overview.md) | 4 | Producer |
+| | 13 | 4 | Producer |
+| | 이수만 (Lee, Soo-Man) | 4 | Producer |
+| | [Shellback](../../producers/shellback/overview.md) | 4 | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 4 | Lyricist, Songwriter |
+| | [ILYA](../../producers/ilya/overview.md) | 4 | Producer, Songwriter |
+| | [조윤경 (Jo, Yoon Kyung)](../../producers/조윤경_(jo,_yoon_kyung)/overview.md) | 4 | Lyricist |
+| | [김병석 (Kim, Byung-seok)](../../producers/김병석_(kim,_byung-seok)/overview.md) | 4 | Arranger, Lyricist, Producer, Songwriter |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 4 | Producer |
+| | [SCORE](../../producers/score/overview.md) | 4 | Arranger, Lyricist, Producer, Songwriter |
+| | Savan Kotecha | 4 | Songwriter, Producer |
+| | [R.Tee](../../producers/r_tee/overview.md) | 4 | Arranger, Songwriter, Producer |
 | | 노민지 (Noh, Min-ji) | 3 | Producer |
-| | [Supreme Boi](../../producers/supreme_boi/overview.md) | 3 | Lyricist, Songwriter |
-| | [Ollounder](../../producers/ollounder/overview.md) | 3 | Arranger, Lyricist, Songwriter |
+| | [Phil Tan](../../producers/phil_tan/overview.md) | 3 | Producer |
+| | Nermin Harambašić (Harambašić, Nermin) | 3 | Lyricist, Songwriter |
+| | Peter Carlsson | 3 | Producer |
 | | [엄세희 (Um, Se-Hee)](../../producers/엄세희_(um,_se-hee)/overview.md) | 3 | Producer |
 | | Dan Reynolds | 3 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 3 | Lyricist, Songwriter, Producer |
+| | Jason Robert | 3 | Producer |
 | | [danke](../../producers/danke/overview.md) | 3 | Lyricist, Songwriter |
 | | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 3 | Producer |
-| | Nermin Harambašić (Harambašić, Nermin) | 3 | Lyricist, Songwriter |
+| | [Supreme Boi](../../producers/supreme_boi/overview.md) | 3 | Lyricist, Songwriter |
+| | 이연수 (Lee, Yeon-soo) | 3 | Producer |
+| | [Ollounder](../../producers/ollounder/overview.md) | 3 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 3 | Lyricist, Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 3 | Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | Nicki Minaj | 3 | Songwriter |
 | | [Ricky Reed](../../producers/ricky_reed/overview.md) | 3 | Producer, Songwriter |
@@ -469,59 +470,58 @@
 | | [LEEZ](../../producers/leez/overview.md) | 3 | Arranger, Lyricist, Songwriter |
 | | 황민희 (Hwang, Min-hee) | 3 | Producer |
 | | Philip Lawrence | 3 | Songwriter |
-| | [Arschtritt Lindgren](../../producers/arschtritt_lindgren/overview.md) | 2 | Songwriter, Producer |
-| | 방혜현 (Bang, Hye Hyun) | 2 | Lyricist |
 | | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 2 | Producer |
 | | Melanie Joy Fontana | 2 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 2 | Arranger, Lyricist, Songwriter |
-| | Jason Robert | 2 | Producer |
-| | Ludvig Carl Evers | 2 | Lyricist, Songwriter |
-| | 이상엽 (Lee, Sang-yeob) | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="" width="50" /> | [Jason Derulo](../../artists/jason_derulo/overview.md) | 2 | Songwriter |
-| | Jeff Bhasker | 2 | Producer, Songwriter |
-| | Jonatan Gusmark | 2 | Lyricist, Songwriter |
-| | Sophie Curtis | 2 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc3ac1bd308a02d51b44697fa" alt="" width="50" /> | HUH YUNJIN | 2 | Lyricist, Songwriter |
-| | Hautboi Rich | 2 | Songwriter |
 | | 이지홍 (Lee, Ji-hong) | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3ac1bd308a02d51b44697fa" alt="" width="50" /> | HUH YUNJIN | 2 | Lyricist, Songwriter |
+| | Ludvig Carl Evers | 2 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 2 | Arranger, Lyricist, Songwriter |
+| | Jason Evigan | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="" width="50" /> | [Jason Derulo](../../artists/jason_derulo/overview.md) | 2 | Songwriter |
+| | Jonatan Gusmark | 2 | Lyricist, Songwriter |
+| | Jeff Bhasker | 2 | Producer, Songwriter |
+| | Sophie Curtis | 2 | Songwriter |
+| | 방혜현 (Bang, Hye Hyun) | 2 | Lyricist |
+| | Hautboi Rich | 2 | Songwriter |
+| | 이상엽 (Lee, Sang-yeob) | 2 | Producer |
 | | Anna Timgren | 2 | Lyricist, Songwriter |
 | | Ellen Berg Tollbom | 2 | Songwriter, Lyricist |
 | | 김용운 (Gim, Yong-un) | 2 | Producer |
 | | Chris Galland | 2 | Producer |
-| | Ben McKee | 2 | Songwriter |
 | | [Mikkel Storleer Eriksen](../../producers/mikkel_storleer_eriksen/overview.md) | 2 | Songwriter, Producer |
+| | Ben McKee | 2 | Songwriter |
 | | Sam Lewis | 2 | Lyricist, Songwriter |
-| | Anne Judith Wik | 2 | Arranger, Songwriter, Lyricist |
 | | Young Chance | 2 | Lyricist, Songwriter |
+| | Anne Judith Wik | 2 | Arranger, Songwriter, Lyricist |
 | | Sean Douglas | 2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 2 | Producer, Songwriter |
+| | 김영현 (Kim, Young-hyun) | 2 | Producer |
 | | Makeba | 2 | Producer, Songwriter |
 | | 창빈 (Changbin) | 2 | Songwriter, Lyricist |
-| | 김영현 (Kim, Young-hyun) | 2 | Producer |
-| | Jason Evigan | 2 | Songwriter |
 | | [Marcos Tovar](../../producers/marcos_tovar/overview.md) | 2 | Producer |
+| | [Arschtritt Lindgren](../../producers/arschtritt_lindgren/overview.md) | 2 | Songwriter, Producer |
 | | 이스란 (Lee, Seran) | 2 | Lyricist |
 | | Danny Chung | 2 | Lyricist |
 | | 김석민 (Kim Seog-min) | 2 | Producer |
+| | Kyler Niko | 2 | Lyricist, Songwriter |
 | | Ester Dean | 2 | Songwriter |
 | | Gusten Dahlqvist | 2 | Arranger, Producer, Songwriter, Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 2 | Songwriter |
-| | Kyler Niko | 2 | Lyricist, Songwriter |
 | | WATAMETAL | 2 | Producer |
 | | YOUNGJU BANG | 2 | Producer |
 | | 김준혁 (Kim Joonhyuk) | 2 | Producer |
-| | Bang Chan | 2 | Arranger, Songwriter, Lyricist |
 | | 최용인 (Choi, Yon-gin) | 2 | Producer |
+| | Bang Chan | 2 | Arranger, Songwriter, Lyricist |
 | | 中田ヤスタカ (Nakata, Yasutaka) | 2 | Arranger, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/07b5316f828fe20d0efe0029797157f394ae7640" alt="" width="50" /> | Sir Mix-A-Lot | 2 | Songwriter, Arranger, Lyricist, Producer |
 | | 윤원권 (Yoon, Won-kwon) | 2 | Producer |
-| | 한 (Han) | 2 | Songwriter, Lyricist |
 | | Tor Erik Hermansen | 2 | Songwriter |
 | | ゆよゆっぺ (Yuyoyuppe) | 2 | Arranger, Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | J.Y. Park | 2 | Lyricist, Arranger, Songwriter |
 | | Wayne Sermon | 2 | Songwriter |
-| | 김철순 (Kim, Chul-Soon) | 2 | Producer |
+| | 한 (Han) | 2 | Songwriter, Lyricist |
 | | Wayne Gordon | 2 | Producer |
+| | 김철순 (Kim, Chul-Soon) | 2 | Producer |
 | | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 2 | Arranger, Songwriter, Lyricist |
 | | Kuk Harrell | 2 | Producer |
 

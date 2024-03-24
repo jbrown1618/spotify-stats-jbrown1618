@@ -16,6 +16,12 @@ SHINee:
 ## Artist Rank
 
 ![Rank of SHINee over time](../../images/artists/shinee/rank_time_series.png)
+## Top Tracks
+
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/shinee/track_rank_time_series_score.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

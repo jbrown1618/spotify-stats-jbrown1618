@@ -22,7 +22,7 @@ Billlie:
 ## Artist Rank
 Billlie is currently:
 - The #50 artist of the last month
-- The #31 artist of the last 6 months
+- The #32 artist of the last 6 months
 - The #17 artist of all time
 
 ![Rank of Billlie over time](../../images/artists/billlie/rank_time_series.png)
@@ -32,6 +32,10 @@ Billlie is currently:
     - the #45 track of the last month
     - the #12 track of all time
 - RING X RING is the #23 track of all time
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/billlie/track_rank_time_series_score.png)
 
 ### Top tracks of all time over time
 
@@ -94,7 +98,7 @@ Billlie is currently:
 | | 오단영 (Oh, Dan-young) | 2 | Producer |
 | | 문수아 (Moon Sua) | 1 | Lyricist |
 | | Ahmad Izham Omar | 1 | Songwriter |
-| | 김이나 (Kim, Eana) | 1 | Lyricist |
+| | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 1 | Lyricist |
 | | Anna Timgren | 1 | Songwriter |
 | | Le'mon | 1 | Lyricist |
 | | 시윤 (Siyoon) | 1 | Lyricist |

@@ -24,6 +24,10 @@ BoA is currently:
 
 - Time After Time is the #42 track of all time
 
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/boa/track_rank_time_series_score.png)
+
 ### Top tracks of all time over time
 
 ![Line chart of top tracks of all time over time](../../images/artists/boa/track_rank_time_series_long_term.png)

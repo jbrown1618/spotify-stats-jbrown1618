@@ -263,16 +263,16 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 2 | Lyricist |
 | | 김승수 (Kim, Seungsu) | 2 | Lyricist, Songwriter, Arranger |
-| | THE HUB 88 | 1 | Songwriter |
+| | [김도훈 (Kim, Do-hoon)](../../producers/김도훈_(kim,_do-hoon)/overview.md) | 2 | Arranger, Songwriter, Lyricist |
+| | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 2 | Lyricist |
+| | PUFF | 1 | Arranger, Songwriter |
+| | 김지현 (Kim, Ji Hyun) | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | Solar | 1 | Lyricist |
 | | 최현준 (Choi, Hyun-Joon) | 1 | Arranger, Lyricist, Songwriter |
 | | [Fuxxy](../../producers/fuxxy/overview.md) | 1 | Arranger, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb06ffb2341b70acdcafa55599" alt="" width="50" /> | CHANGMO | 1 | Lyricist, Producer, Songwriter |
 | | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 1 | Producer |
-| | 김지현 (Kim, Ji Hyun) | 1 | Producer |
-| | Yuth | 1 | Arranger, Songwriter |
-| | PUFF | 1 | Arranger, Songwriter |
 
 
 <details>
@@ -280,7 +280,10 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Gavin Jones | 1 | Songwriter |
+| | 이단옆차기 (Duble Sidekick) | 1 | Songwriter |
+| | THE HUB 88 | 1 | Songwriter |
+| | Yuth | 1 | Arranger, Songwriter |
+| | 차유빈 (Cha, Yu-bin) | 1 | Lyricist |
 | | 고현정 (Ko, Hyeonjeong) | 1 | Lyricist |
 | | 김민구 (Kim, Min-goo) | 1 | Arranger, Lyricist, Songwriter |
 | | [VINCENZO](../../producers/vincenzo/overview.md) | 1 | Arranger, Lyricist, Songwriter |
@@ -288,17 +291,20 @@ Appears as:
 | | 72 | 1 | Lyricist, Songwriter |
 | | Hayley Aitken | 1 | Songwriter |
 | | 김재웅 (Kim, Jae-ung) | 1 | Lyricist, Songwriter |
-| | 차유빈 (Cha, Yu-bin) | 1 | Lyricist |
 | | Czaer | 1 | Producer |
-| | Dr.JO | 1 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5bfb46687cb00b51b9e65c50" alt="" width="50" /> | Moon Byul | 1 | Lyricist |
+| | 김승수 (Kim, Seung-soo) | 1 | Arranger, Lyricist, Songwriter |
+| | Gavin Jones | 1 | Songwriter |
+| | 에스나 (Esna) | 1 | Songwriter |
+| | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 1 | Lyricist |
 | | Ollipop | 1 | Songwriter |
 | | 강은정 (Gang, Eun-jeong) | 1 | Lyricist |
 | | Eltz | 1 | Arranger, Lyricist, Songwriter |
 | | 강선영 (강선영) | 1 | Producer |
 | | 목지민 (Mok, Ji-min) | 1 | Lyricist |
 | | Anna Timgren | 1 | Lyricist, Songwriter |
+| | Dr.JO | 1 | Lyricist |
 | | 박남준 (Park, Nam-jun) | 1 | Producer |
-| | 김승수 (Kim, Seung-soo) | 1 | Arranger, Lyricist, Songwriter |
 | | 신봉원 (Shin, Bong Won) | 1 | Producer |
 | | 윤원권 (Yoon, Won-kwon) | 1 | Producer |
 | | Jacob Aaron | 1 | Songwriter |

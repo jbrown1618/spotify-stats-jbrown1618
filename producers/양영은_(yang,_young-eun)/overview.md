@@ -90,7 +90,7 @@
 | Red Triangle | Red Triangle | 1 |
 | 라도 | [라도 (Rado)](../라도_(rado)/overview.md) | 1 |
 | BIBI | BIBI | 1 |
-| 김이나 | 김이나 (Kim, Eana) | 1 |
+| 김이나 | [김이나 (Kim, Eana)](../김이나_(kim,_eana)/overview.md) | 1 |
 | Adriana Caldas de Barros | Adriana Caldas de Barros | 1 |
 | Anders Nilsen | Anders Nilsen | 1 |
 | 서정아 | 서정아 (Seo, Jung Ah) | 1 |

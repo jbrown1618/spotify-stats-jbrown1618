@@ -16,12 +16,16 @@ TEN:
 ## Artist Rank
 TEN is currently:
 - The #26 artist of the last month
-- The #36 artist of the last 6 months
+- The #39 artist of the last 6 months
 - The #46 artist of all time
 
 ![Rank of TEN over time](../../images/artists/ten/rank_time_series.png)
 ## Top Tracks
 
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/ten/track_rank_time_series_score.png)
 
 ### Top tracks of the last 6 months over time
 
@@ -63,6 +67,17 @@ TEN is currently:
 |:---|---:|
 | Vocal | 2 |
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | pixelwave | 1 | Arranger, Songwriter |
+| | Steve Manovski | 1 | Arranger, Producer, Songwriter |
+| | Young Chance | 1 | Lyricist, Songwriter |
+| | GRAY | 1 | Lyricist, Songwriter |
+| | Corey Sanders | 1 | Lyricist, Songwriter |
+
+![Bar chart of top 5 producers](../../images/artists/ten/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |

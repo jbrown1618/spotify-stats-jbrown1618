@@ -412,15 +412,15 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | [Thom Yorke](../../producers/thom_yorke/overview.md) | 13 | Lyricist, Producer, Songwriter, Arranger |
-| | [Colin Greenwood](../../producers/colin_greenwood/overview.md) | 13 | Songwriter |
-| | [Philip Selway](../../producers/philip_selway/overview.md) | 13 | Songwriter |
 | | [Nigel Godrich](../../producers/nigel_godrich/overview.md) | 13 | Producer |
-| | [Jonny Greenwood](../../producers/jonny_greenwood/overview.md) | 13 | Songwriter, Arranger, Producer |
+| | [Philip Selway](../../producers/philip_selway/overview.md) | 13 | Songwriter |
+| | [Colin Greenwood](../../producers/colin_greenwood/overview.md) | 13 | Songwriter |
 | | [Ed O'Brien](../../producers/ed_o_brien/overview.md) | 13 | Songwriter |
+| | [Jonny Greenwood](../../producers/jonny_greenwood/overview.md) | 13 | Songwriter, Arranger, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 12 | Arranger, Producer, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb45de7ab990a1246c812128b6" alt="" width="50" /> | Chris Martin | 5 | Songwriter |
 | | Guy Berryman | 5 | Songwriter |
-| | Jonny Buckland | 5 | Songwriter |
+| | Jenny Lewis | 5 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb45de7ab990a1246c812128b6" alt="" width="50" /> | Chris Martin | 5 | Songwriter |
 
 
 <details>
@@ -429,94 +429,94 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | Will Champion | 5 | Songwriter |
-| | Jenny Lewis | 5 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | 4 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 4 | Producer |
+| | Jonny Buckland | 5 | Songwriter |
 | | Ken Nelson | 4 | Producer |
-| | Dan Reynolds | 3 | Songwriter |
-| | Charlie Andrew | 3 | Producer, Songwriter |
-| | Blake Sennett | 3 | Songwriter |
-| | Jason Lader | 3 | Producer |
-| | Joe Newman | 3 | Songwriter |
-| | Michael Brauer | 3 | Producer |
-| | Gus Unger-Hamilton | 3 | Songwriter |
-| | Paul Q. Kolderie | 3 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 3 | Producer |
-| | John Leckie | 3 | Producer |
-| | Adam Levine | 3 | Lyricist, Songwriter |
-| | Matt Bellamy | 3 | Lyricist, Songwriter |
-| | Wayne Sermon | 3 | Songwriter |
-| | Sean Slade | 3 | Producer |
-| | Ben McKee | 3 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 4 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | 4 | Producer |
 | | Thom Green | 3 | Songwriter |
+| | John Leckie | 3 | Producer |
+| | Joe Newman | 3 | Songwriter |
 | | James Valentine | 3 | Lyricist, Songwriter |
-| | Gwil Sainsbury | 3 | Songwriter |
+| | Michael Brauer | 3 | Producer |
 | | Mike Mogis | 3 | Producer |
+| | Paul Q. Kolderie | 3 | Producer |
+| | Charlie Andrew | 3 | Producer, Songwriter |
+| | Dan Reynolds | 3 | Songwriter |
+| | Ben McKee | 3 | Songwriter |
+| | Jason Lader | 3 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 3 | Producer |
+| | Blake Sennett | 3 | Songwriter |
+| | Wayne Sermon | 3 | Songwriter |
 | | Rik Simpson | 3 | Producer |
-| | Tyler Joseph | 2 | Lyricist, Producer, Songwriter |
-| | Richard Woodcraft | 2 | Producer |
-| | Tuomas Holopainen | 2 | Producer, Arranger, Lyricist, Songwriter |
-| | Adrian Bushby | 2 | Producer |
-| | Graham Gouldman | 2 | Producer, Songwriter |
-| | Mark Trombino | 2 | Producer |
-| | Jim Warren | 2 | Producer |
+| | Gus Unger-Hamilton | 3 | Songwriter |
+| | Adam Levine | 3 | Lyricist, Songwriter |
+| | Sean Slade | 3 | Producer |
+| | Gwil Sainsbury | 3 | Songwriter |
+| | Matt Bellamy | 3 | Lyricist, Songwriter |
 | | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 2 | Producer |
-| | Chris Blair | 2 | Producer |
-| | Randy Staub | 2 | Producer |
-| | Eric Stewart | 2 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 2 | Lyricist, Songwriter |
+| | Jesse Carmichael | 2 | Lyricist, Songwriter |
+| | Alex da Kid | 2 | Producer, Songwriter |
 | | Chris Walla | 2 | Producer |
 | | Mark Phythian | 2 | Producer |
-| | Alex da Kid | 2 | Producer, Songwriter |
-| | Robin Pecknold | 2 | Lyricist, Songwriter |
+| | Tuomas Holopainen | 2 | Producer, Arranger, Lyricist, Songwriter |
 | | Justin Meldal-Johnsen | 2 | Producer |
-| | Bob Rock | 2 | Producer |
-| | James Hetfield | 2 | Producer, Songwriter |
-| | Josh Mosser | 2 | Producer, Songwriter |
+| | Robin Pecknold | 2 | Lyricist, Songwriter |
+| | Mark Trombino | 2 | Producer |
+| | Richard Woodcraft | 2 | Producer |
 | | Benjamin Gibbard | 2 | Lyricist, Songwriter |
-| | Neal Avron | 2 | Producer |
+| | Adrian Bushby | 2 | Producer |
+| | Tyler Joseph | 2 | Lyricist, Producer, Songwriter |
+| | Eric Stewart | 2 | Producer, Songwriter |
+| | Mickey Madden | 2 | Lyricist, Songwriter |
 | | Ryan Dusick | 2 | Lyricist, Songwriter |
+| | Tommaso Colliva | 2 | Producer |
+| | Hayley Williams | 2 | Songwriter |
+| | Graham Gouldman | 2 | Producer, Songwriter |
+| | James Hetfield | 2 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 2 | Lyricist, Songwriter |
+| | Bob Rock | 2 | Producer |
+| | Dan Grech-Marguerat | 2 | Producer |
+| | Josh Mosser | 2 | Producer, Songwriter |
+| | Tero Kinnunen | 2 | Producer, Arranger |
+| | Rick Rubin | 2 | Producer |
+| | Jim Warren | 2 | Producer |
 | | Lars Ulrich | 2 | Producer, Songwriter |
 | | Mikko Karmila | 2 | Producer |
-| | Tommaso Colliva | 2 | Producer |
-| | Beau Sorenson | 2 | Producer |
-| | Tero Kinnunen | 2 | Producer, Arranger |
-| | Mickey Madden | 2 | Lyricist, Songwriter |
-| | Hayley Williams | 2 | Songwriter |
-| | Dan Grech-Marguerat | 2 | Producer |
-| | Jesse Carmichael | 2 | Lyricist, Songwriter |
-| | Rick Rubin | 2 | Producer |
+| | Randy Staub | 2 | Producer |
 | | Hugo Nicolson | 2 | Producer |
+| | Beau Sorenson | 2 | Producer |
+| | Neal Avron | 2 | Producer |
+| | Chris Blair | 2 | Producer |
+| | Ben Sabin | 1 | Producer |
+| | Andrew Scheps | 1 | Producer |
 | | John Cornfield | 1 | Producer |
-| | Nikolai Fraiture | 1 | Songwriter |
-| | Joe Viers | 1 | Producer |
-| <img src="https://i.scdn.co/image/bd85e05d8bb8ad24515a232174cbe20925048566" alt="" width="50" /> | 10cc | 1 | Producer |
+| | Gabe Wax | 1 | Producer |
+| | Ben Boyer | 1 | Songwriter |
 | | John O'Mahony | 1 | Producer |
-| | Ryan Hewitt | 1 | Producer |
-| | Danny O'Donoghue | 1 | Songwriter |
-| | Nate Walcott | 1 | Arranger |
+| | Mark Linett | 1 | Producer |
+| <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | [Rilo Kiley](../../artists/rilo_kiley/overview.md) | 1 | Producer |
+| | Albert Hammond, Jr. | 1 | Songwriter |
+| | Taylor York | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8f9c3f0a123aecf196868c9c" alt="" width="50" /> | Michael Andrews | 1 | Producer |
+| | Jacob Slichter | 1 | Arranger |
+| | Graeme Stewart | 1 | Producer |
+| | Jonathan Gerring | 1 | Producer |
+| | Zachary Abels | 1 | Songwriter |
 | | Mattman & Robin | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089" alt="" width="50" /> | The Strokes | 1 | Arranger |
+| | [Ricky Reed](../../producers/ricky_reed/overview.md) | 1 | Producer |
 | | Tyler Glenn | 1 | Songwriter |
 | | Andrew Kapner | 1 | Producer |
-| | Ben Sabin | 1 | Producer |
-| | [Ricky Reed](../../producers/ricky_reed/overview.md) | 1 | Producer |
-| | Jacob Slichter | 1 | Arranger |
-| | Jonathan Gerring | 1 | Producer |
-| | Albert Hammond, Jr. | 1 | Songwriter |
-| | Mark Linett | 1 | Producer |
-| | Bruno Ellingham | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089" alt="" width="50" /> | The Strokes | 1 | Arranger |
+| | Terhi Kallio | 1 | Producer |
 | | Gerard Navarro | 1 | Producer |
-| | Graeme Stewart | 1 | Producer |
-| | Ben Tolliday | 1 | Producer |
-| | Chris Holmes | 1 | Producer |
-| | Chad Smith | 1 | Songwriter |
-| | Rich Costey | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fd99cfe06e210633ef8a9ed1" alt="" width="50" /> | Charles Hart | 1 | Lyricist |
-| | Ben Boyer | 1 | Songwriter |
-| | Ben Baptie | 1 | Producer |
-| <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | [Rilo Kiley](../../artists/rilo_kiley/overview.md) | 1 | Producer |
-| | Audrey Riley | 1 | Arranger |
+| | Nikolai Fraiture | 1 | Songwriter |
+| | Jim Adkins | 1 | Songwriter |
+| | Jimmy Tamborello | 1 | Producer |
+| | Dan Wilson | 1 | Lyricist, Songwriter |
+| | Nate Walcott | 1 | Arranger |
+| | Gordon Raphael | 1 | Producer |
+| | Ren Swan | 1 | Producer |
+| | Danny O'Donoghue | 1 | Songwriter |
 | | Markus Dravs | 1 | Producer |
 
 </details>

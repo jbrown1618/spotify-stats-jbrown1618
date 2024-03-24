@@ -25,6 +25,12 @@ Pentatonix is currently:
 - The #31 artist of all time
 
 ![Rank of Pentatonix over time](../../images/artists/pentatonix/rank_time_series.png)
+## Top Tracks
+
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/pentatonix/track_rank_time_series_score.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

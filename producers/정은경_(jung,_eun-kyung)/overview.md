@@ -201,7 +201,7 @@
 | 랑가 | 랑가 (Langa) | 1 |
 | MARK | MARK | 1 |
 | MZMC | MZMC | 1 |
-| 김이나 | 김이나 (Kim, Eana) | 1 |
+| 김이나 | [김이나 (Kim, Eana)](../김이나_(kim,_eana)/overview.md) | 1 |
 | BIBI | BIBI | 1 |
 | 구종밀 | 구종밀 (Koo, Jong-mil) | 1 |
 | Musikality | Musikality | 1 |

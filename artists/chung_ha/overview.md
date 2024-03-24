@@ -16,13 +16,17 @@ CHUNG HA:
 ## Artist Rank
 CHUNG HA is currently:
 - The #25 artist of the last month
-- The #28 artist of the last 6 months
+- The #29 artist of the last 6 months
 - The #19 artist of all time
 
 ![Rank of CHUNG HA over time](../../images/artists/chung_ha/rank_time_series.png)
 ## Top Tracks
 
 - When I Get Old is the #34 track of all time
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/chung_ha/track_rank_time_series_score.png)
 
 ### Top tracks of all time over time
 

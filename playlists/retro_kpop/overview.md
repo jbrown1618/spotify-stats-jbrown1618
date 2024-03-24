@@ -90,16 +90,16 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 5 | Lyricist |
 | | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 3 | Producer |
-| | Josef Melin | 1 | Arranger, Songwriter |
-| | Dem Jointz | 1 | Arranger, Songwriter |
+| | 이민수 (이민수) | 2 | Arranger, Songwriter |
+| | 에스나 (Esna) | 1 | Songwriter |
 | | 최예지 (Choi, Ye-ji) | 1 | Producer |
 | | 정의석 (Jung, Euisuk) | 1 | Producer |
 | | 이주형 (Lee, Juhyeong) | 1 | Arranger, Producer |
 | | [Pop Time](../../producers/pop_time/overview.md) | 1 | Arranger, Songwriter |
 | | Kako | 1 | Arranger, Songwriter |
 | | Tayla Parx | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 1 | Arranger, Lyricist, Songwriter |
 
 
 <details>
@@ -107,28 +107,35 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | G. Gorilla | 1 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 1 | Arranger, Lyricist, Songwriter |
+| | Dem Jointz | 1 | Arranger, Songwriter |
 | | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 1 | Producer |
-| | Ollipop | 1 | Arranger, Songwriter |
+| | 外山和彦 (Toyama, Kazuhiko) | 1 | Arranger |
+| | Josef Melin | 1 | Arranger, Songwriter |
+| | 정석원 (Jung, Seok-won) | 1 | Arranger, Songwriter |
 | | 1월 8일 (1월 8일) | 1 | Lyricist |
 | | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 1 | Songwriter |
+| | [김도훈 (Kim, Do-hoon)](../../producers/김도훈_(kim,_do-hoon)/overview.md) | 1 | Arranger, Songwriter |
 | | 황현 (Hwang, Hyeon) | 1 | Arranger, Lyricist, Producer, Songwriter |
 | | 구종밀 (Koo, Jong-mil) | 1 | Producer |
 | | Malin Johansson | 1 | Arranger, Songwriter |
 | | [Kenzie](../../producers/kenzie/overview.md) | 1 | Arranger, Lyricist |
 | | 100%서정 (100%Seojung) | 1 | Lyricist |
+| | Ollipop | 1 | Arranger, Songwriter |
 | | Hayley Aitken | 1 | Arranger, Songwriter |
 
 </details>
 
 
-![Bar chart of top 20 producers](../../images/playlists/retro_kpop/producers.png)
+![Bar chart of top 27 producers](../../images/playlists/retro_kpop/producers.png)
 
 ## Most and least listened tracks
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
 |:---|:---|---:|:---|:---|---:|
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa12f5b5b2ea88f26ab76846" alt="; [Semicolon]" width="50" /> | [HOME;RUN](../../artists/seventeen/overview.md) | 12316 | <img src="https://i.scdn.co/image/ab67616d0000b27315cf3110f19687b1a24943d1" alt="REAL" width="50" /> | [Good day](../../artists/iu/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="Masterpiece" width="50" /> | It's not easy for you | 8685 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | [Fool](../../artists/red_velvet/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="Masterpiece" width="50" /> | Behind The Curtain | 5756 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | [Lucky Girl](../../artists/red_velvet/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="Masterpiece" width="50" /> | It's not easy for you | 8679 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | [Fool](../../artists/red_velvet/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="Masterpiece" width="50" /> | Behind The Curtain | 5744 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | [Lucky Girl](../../artists/red_velvet/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | [Nxde](../../artists/(g)i-dle/overview.md) | 5617 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> | [Obliviate](../../artists/iu/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> | [Modern Times](../../artists/iu/overview.md) | 335 | <img src="https://i.scdn.co/image/ab67616d0000b273d8c952b4b7e3d72267edc537" alt="Cat" width="50" /> | Cat (Feat. IU) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="Last Fantasy" width="50" /> | [YOU&I](../../artists/iu/overview.md) | 229 | <img src="https://i.scdn.co/image/ab67616d0000b27367f8236540d6f145e2f0baa1" alt="HELLO" width="50" /> | [Mr-Ambiguous](../../artists/mamamoo/overview.md) | 0 |

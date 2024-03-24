@@ -15,6 +15,12 @@ BABYMETAL:
 ## Artist Rank
 
 ![Rank of BABYMETAL over time](../../images/artists/babymetal/rank_time_series.png)
+## Top Tracks
+
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/babymetal/track_rank_time_series_score.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

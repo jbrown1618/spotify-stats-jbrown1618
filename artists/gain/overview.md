@@ -10,6 +10,10 @@
 ## Top Tracks
 
 
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/gain/track_rank_time_series_score.png)
+
 ### Top tracks of the last 6 months over time
 
 ![Line chart of top tracks of the last 6 months over time](../../images/artists/gain/track_rank_time_series_medium_term.png)
@@ -45,10 +49,11 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 김이나 (Kim, Eana) | 2 | Lyricist |
+| | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 3 | Lyricist |
 | | 이민수 (이민수) | 2 | Arranger, Songwriter |
+| | 정석원 (Jung, Seok-won) | 1 | Arranger, Songwriter |
 
-
+![Bar chart of top 3 producers](../../images/artists/gain/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |

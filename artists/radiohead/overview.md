@@ -21,10 +21,16 @@ Radiohead:
 ## Artist Rank
 Radiohead is currently:
 - The #14 artist of the last month
-- The #45 artist of the last 6 months
+- The #30 artist of the last 6 months
 - The #44 artist of all time
 
 ![Rank of Radiohead over time](../../images/artists/radiohead/rank_time_series.png)
+## Top Tracks
+
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/radiohead/track_rank_time_series_score.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

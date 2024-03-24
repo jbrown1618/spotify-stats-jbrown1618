@@ -124,7 +124,7 @@
 | Lenno | Lenno | 1 |
 | 100%서정 | 100%서정 (100%Seojung) | 1 |
 | BIBI | BIBI | 1 |
-| 김이나 | 김이나 (Kim, Eana) | 1 |
+| 김이나 | [김이나 (Kim, Eana)](../김이나_(kim,_eana)/overview.md) | 1 |
 | 정준호 | 정준호 (Jung, Joon-ho) | 1 |
 | Anders Nilsen | Anders Nilsen | 1 |
 | Josephina Carr | Josephina Carr | 1 |

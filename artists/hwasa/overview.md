@@ -19,6 +19,10 @@ HWASA:
 ## Top Tracks
 
 
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/hwasa/track_rank_time_series_score.png)
+
 ### Top tracks of all time over time
 
 ![Line chart of top tracks of all time over time](../../images/artists/hwasa/track_rank_time_series_long_term.png)
@@ -72,14 +76,15 @@ HWASA:
 
 | Credit Type | Tracks |
 |:---|---:|
-| Lyricist | 2 |
+| Lyricist | 3 |
 | Songwriter | 1 |
-| Vocal | 2 |
+| Vocal | 3 |
 
 ### Production Credits
 
 | Art | Track | Credit Types |
 |:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2737709b0a8ba9059fc46fefcb2" alt="" width="50" /> | Yes I Am | Lyricist |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | Maria | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731dfb11871aa63ac9010c0619" alt="" width="50" /> | I`m a B | Lyricist |
 

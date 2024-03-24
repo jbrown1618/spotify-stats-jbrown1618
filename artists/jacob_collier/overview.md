@@ -11,7 +11,7 @@
 ## Artist Rank
 Jacob Collier is currently:
 - The #13 artist of the last month
-- The #9 artist of the last 6 months
+- The #10 artist of the last 6 months
 - The #23 artist of all time
 
 ![Rank of Jacob Collier over time](../../images/artists/jacob_collier/rank_time_series.png)
@@ -19,6 +19,10 @@ Jacob Collier is currently:
 
 - Over You (feat. aespa & Chris Martin) is the #21 track of the On Repeat playlist
 - In My Bones (feat. Kimbra & Tank and The Bangas) is the #38 track of the last month
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/jacob_collier/track_rank_time_series_score.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

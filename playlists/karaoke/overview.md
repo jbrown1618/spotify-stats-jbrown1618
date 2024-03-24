@@ -321,10 +321,10 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Phil McDonald | 5 | Producer |
 | | [George Martin](../../producers/george_martin/overview.md) | 5 | Arranger, Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 4 | Lyricist, Producer, Songwriter |
+| | Phil McDonald | 5 | Producer |
 | | [Paul McCartney](../../producers/paul_mccartney/overview.md) | 4 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 4 | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 4 | Lyricist, Songwriter |
 | | Geoff Emerick | 4 | Producer |
 | | [John Lennon](../../producers/john_lennon/overview.md) | 4 | Songwriter |
@@ -341,8 +341,8 @@
 | | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 3 | Producer |
 | | Jonny Buckland | 2 | Songwriter |
 | | Bob Rock | 2 | Producer, Arranger |
-| | Philip Lawrence | 2 | Songwriter |
 | | Will Champion | 2 | Songwriter |
+| | Philip Lawrence | 2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 2 | Songwriter |
 | | Jeff Jarratt | 2 | Producer |
 | | Andrew Wyatt | 2 | Songwriter |
@@ -351,33 +351,33 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | [Michael Bublé](../../artists/michael_bublé/overview.md) | 2 | Songwriter, Arranger |
 | | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 2 | Producer |
 | | Mark Endert | 2 | Producer |
-| | Glyn Johns | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb45de7ab990a1246c812128b6" alt="" width="50" /> | Chris Martin | 2 | Songwriter |
-| | Amy Foster-Gillies | 2 | Songwriter |
 | | [Jack Antonoff](../../producers/jack_antonoff/overview.md) | 2 | Songwriter, Producer |
+| | The Smeezingtons | 2 | Producer |
+| | Amy Foster-Gillies | 2 | Songwriter |
+| | Glyn Johns | 2 | Producer |
 | | Bernie Taupin | 2 | Lyricist |
 | | Guy Berryman | 2 | Songwriter |
-| | The Smeezingtons | 2 | Producer |
-| | Rik Simpson | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb45de7ab990a1246c812128b6" alt="" width="50" /> | Chris Martin | 2 | Songwriter |
 | | Ari Levine | 2 | Producer, Songwriter |
 | | Alan Chang | 2 | Songwriter, Arranger |
+| | Rik Simpson | 2 | Producer |
 | | Jesse Carmichael | 1 | Lyricist, Songwriter |
-| | Michael Omartian | 1 | Arranger |
-| | Ron Malo | 1 | Producer |
+| | Ryan Dusick | 1 | Lyricist, Songwriter |
+| | Lou Pomanti | 1 | Arranger |
+| | John O'Mahony | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | Hozier | 1 | Arranger, Lyricist, Producer, Songwriter |
+| | Ron Malo | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | Jimmy Eat World | 1 | Producer |
 | | Adam McKenzie | 1 | Songwriter |
 | | Jenny Lewis | 1 | Songwriter |
-| | DJ Swivel | 1 | Producer |
 | | Humberto Gatica | 1 | Producer |
 | | Don Henley | 1 | Songwriter |
-| | Ryan Dusick | 1 | Lyricist, Songwriter |
-| | Zach Lind | 1 | Songwriter |
-| | John O'Mahony | 1 | Producer |
+| | Michael Omartian | 1 | Arranger |
+| | Joe Zook | 1 | Producer |
+| | DJ Swivel | 1 | Producer |
 | | Mike Hazlewood | 1 | Songwriter |
-| | Andre Merritt | 1 | Songwriter |
 | | Sean Slade | 1 | Producer |
-| | Andrew Farriss | 1 | Songwriter |
+| | Andre Merritt | 1 | Songwriter |
 | | Tyler Glenn | 1 | Songwriter |
 | | James Ford | 1 | Producer |
 | | Glenn Frey | 1 | Songwriter |
@@ -385,12 +385,12 @@
 | | Michael Hutchence | 1 | Songwriter |
 | | Isabella Summers | 1 | Producer, Songwriter |
 | | Adam Levine | 1 | Lyricist, Songwriter |
-| | Joe Zook | 1 | Producer |
+| | Andrew Farriss | 1 | Songwriter |
+| | Zach Lind | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 1 | Lyricist, Producer, Songwriter |
 | | Andrew Watt | 1 | Producer, Songwriter |
 | | Smokey Robinson | 1 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | [Janelle Monáe](../../artists/janelle_monáe/overview.md) | 1 | Producer |
-| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8f9c3f0a123aecf196868c9c" alt="" width="50" /> | Michael Andrews | 1 | Producer |
 | | Chad Vaccarino | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e8cb3ff6fc7744b312811b" alt="" width="50" /> | Troye Sivan | 1 | Songwriter |
 | | [Jonny Greenwood](../../producers/jonny_greenwood/overview.md) | 1 | Songwriter |
@@ -398,8 +398,9 @@
 | | Jason Blynn | 1 | Songwriter |
 | | Jia Lih | 1 | Producer |
 | | Zachary Abels | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | [Janelle Monáe](../../artists/janelle_monáe/overview.md) | 1 | Producer |
 | | [Greg Kurstin](../../producers/greg_kurstin/overview.md) | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 1 | Songwriter |
+| | Lewis Merenstein | 1 | Producer |
 | | [Colin Greenwood](../../producers/colin_greenwood/overview.md) | 1 | Songwriter |
 | | James Valentine | 1 | Lyricist, Songwriter |
 | | Luiz Bonfá (Bonfá, Luiz) | 1 | Songwriter |
@@ -408,26 +409,25 @@
 | | Art Garfunkel | 1 | Producer |
 | | Fonce Mizell | 1 | Songwriter |
 | | Daniel Bryer | 1 | Songwriter |
-| | Lewis Merenstein | 1 | Producer |
+| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](../../artists/justin_bieber/overview.md) | 1 | Songwriter |
-| | Gus Dudgeon | 1 | Producer |
-| | James Anthony Carmichael | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 1 | Producer |
 | | Kristian Lundin | 1 | Producer |
 | | Jim Adkins | 1 | Songwriter |
 | | Mark Phythian | 1 | Producer |
 | | Mike Campbell | 1 | Songwriter |
 | | Bram Inscore | 1 | Producer, Songwriter |
-| | Jesse Shatkin | 1 | Producer, Songwriter |
+| | Martin Terefe | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0075eabc8cb60f363e13d308" alt="" width="50" /> | Chris Thile | 1 | Songwriter |
 | | Jason Lader | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 1 | Producer |
 | | Markus Dravs | 1 | Producer |
+| | Gus Dudgeon | 1 | Producer |
 | | Andreas Carlsson | 1 | Lyricist, Songwriter |
 | | Shea Taylor | 1 | Producer, Songwriter |
 | | Tia Scola | 1 | Songwriter |
 | | SLUMS | 1 | Producer |
 | | Jamie Scott | 1 | Songwriter |
-| | David Hentschel | 1 | Producer |
 
 </details>
 

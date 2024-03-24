@@ -179,67 +179,69 @@
 |:---|:---|---:|:---|
 | | Craig Silvey | 4 | Producer |
 | | Markus Dravs | 4 | Producer |
-| | Mark Endert | 3 | Producer |
 | | Sally Herbert | 3 | Arranger |
+| | Mark Endert | 3 | Producer |
 | | Jimmy Robertson | 3 | Producer |
-| | James Ford | 3 | Producer |
 | | Robin Baynton | 3 | Producer |
+| | James Ford | 3 | Producer |
 | | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9dadab92d8236e846b16fe3a" alt="" width="50" /> | Mumford & Sons | 2 | Arranger |
-| | Jeremy Darby | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | Jason Mraz | 2 | Lyricist, Songwriter, Producer |
 | | Alison Sudol | 2 | Lyricist, Songwriter |
+| | Jeremy Darby | 2 | Producer |
 | | Lukas Burton | 2 | Producer, Songwriter |
-| | Tom Elmhirst | 2 | Producer |
 | | Ted Dwane | 2 | Songwriter |
+| | Tom Elmhirst | 2 | Producer |
 | | Martin Terefe | 2 | Producer |
 | | Matt Hales | 2 | Songwriter |
 | | Bullion | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | Jason Mraz | 2 | Lyricist, Songwriter, Producer |
 | | Todor Kobakov | 2 | Arranger |
-| | Mike Piersante | 2 | Producer |
-| | Hal Cragin | 2 | Producer, Songwriter |
 | | Winston Marshall | 2 | Songwriter |
+| | Hal Cragin | 2 | Producer, Songwriter |
 | | [Jack Antonoff](../../producers/jack_antonoff/overview.md) | 2 | Songwriter |
 | | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 2 | Producer |
 | | Ruadhri Cushnan | 2 | Producer |
 | | Ben Lovett | 2 | Songwriter |
+| | Mike Piersante | 2 | Producer |
 | | Marcus Mumford | 2 | Songwriter |
 | | Will Owen | 1 | Arranger |
-| | Steve Mackey | 1 | Producer |
 | | Jason Blynn | 1 | Songwriter |
-| | Mat Bartram | 1 | Producer |
-| | Bruno Ellingham | 1 | Producer |
-| | Chad Vaccarino | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb08635ff0ed30023d2ee764a1" alt="" width="50" /> | Colbie Caillat | 1 | Songwriter |
-| | Josh Diamond | 1 | Songwriter |
-| | Suzie Katayama | 1 | Arranger |
+| | Steve Mackey | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8f9c3f0a123aecf196868c9c" alt="" width="50" /> | Michael Andrews | 1 | Producer |
 | | Rush | 1 | Songwriter |
+| | Bruno Ellingham | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb08635ff0ed30023d2ee764a1" alt="" width="50" /> | Colbie Caillat | 1 | Songwriter |
+| | Suzie Katayama | 1 | Arranger |
+| | Josh Diamond | 1 | Songwriter |
+| | Chad Vaccarino | 1 | Songwriter |
+| | Mat Bartram | 1 | Producer |
 | | Patrick Benson | 1 | Producer |
-| | David Schiffman | 1 | Producer |
 | | Francis White | 1 | Lyricist, Songwriter |
-| | Aaron Sterling | 1 | Songwriter |
+| | David Schiffman | 1 | Producer |
 | | Steve Osborne | 1 | Producer |
 | | Ren Swan | 1 | Producer |
 | | Mike Campbell | 1 | Songwriter |
 | | Javier Dunn | 1 | Songwriter |
+| | Aaron Sterling | 1 | Songwriter |
 | | Ted Blaisdell | 1 | Producer |
-| | Pete Harper | 1 | Songwriter |
 | | Ali Helnwein | 1 | Arranger |
+| | Pete Harper | 1 | Songwriter |
 | | Tommy Walter | 1 | Producer |
 | | Brian Degraw | 1 | Songwriter |
 | | Tyler Glenn | 1 | Songwriter |
 | | Billy Bush | 1 | Producer |
 | | Richard Flack | 1 | Producer |
-| | Pete Prokopiw | 1 | Producer |
+| | François Chevallier (Chevallier, François) | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf6a97342ccd47692b7cdf8c0" alt="" width="50" /> | Alanis Morissette | 1 | Lyricist, Songwriter |
 | | Joseph Lorge | 1 | Producer |
 | | Anthony B. Stephens | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc97b9b892e5fa7fef9ac8571" alt="" width="50" /> | Gary Jules | 1 | Producer |
 | | Justin Tranter | 1 | Songwriter |
 | | Hal Y. Burton | 1 | Producer |
 | | Mike Anderson | 1 | Songwriter |
 | | Eric Rosse | 1 | Producer |
+| | Pete Prokopiw | 1 | Producer |
 | | Arnecia Michelle Harris | 1 | Songwriter |
-| | François Chevallier (Chevallier, François) | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb01e793c12d7ae5e68cc3acad" alt="" width="50" /> | Emily King | 1 | Songwriter |
 | | Timothy Fagan | 1 | Songwriter |
 | | Tim Pagnotta | 1 | Songwriter |
@@ -250,7 +252,7 @@
 | | Glen Ballard | 1 | Producer, Songwriter |
 | | Michael Brauer | 1 | Producer |
 | | Zachary Dawes | 1 | Producer |
-| | Jimmy Boyelle | 1 | Producer |
+| | Matt Allchin | 1 | Songwriter |
 | | Andy Green | 1 | Producer |
 | | Lizzi Bougatsos | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | KT Tunstall | 1 | Lyricist, Songwriter |
@@ -258,15 +260,13 @@
 | | Tim Dewit | 1 | Songwriter |
 | | Charlie Hugall | 1 | Producer |
 | | Lori McKenna | 1 | Songwriter |
+| | Jimmy Boyelle | 1 | Producer |
 | | Carl Lieberman, RPT | 1 | Producer |
-| | Matt Allchin | 1 | Songwriter |
+| | Roland Orzabal | 1 | Lyricist, Songwriter |
 | | [Tony Maserati](../../producers/tony_maserati/overview.md) | 1 | Producer |
 | | Mark "Top" Rankin | 1 | Producer |
 | | Alex Gilbert | 1 | Producer |
 | | Dyre Gormsen | 1 | Producer |
-| | Ian Axel | 1 | Songwriter |
-| | Chris Fogel | 1 | Producer |
-| | Justin Meldal-Johnsen | 1 | Producer |
 
 </details>
 

@@ -31,7 +31,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | Problem | My Everything (Deluxe) | [Ariana Grande](../../../../artists/ariana_grande/overview.md), Iggy Azalea | [Universal Records](../..) | 0 | 💚 | [🔗](https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322805a1b17e41ae357bd98bc" alt="" width="50" /> | Shinunoga E-Wa | HELP EVER HURT NEVER | Fujii Kaze | [Universal Music LLC](../..) | 91 | 💚 | [🔗](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357a6f5928952c277c4407f98" alt="" width="50" /> | Last Dance | love you more, | YOUHA | [Universal Music Ltd.](../..) | 0 | | [🔗](https://open.spotify.com/track/1bOS0JdXxmTWwlUxXX7gRG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cbcd67f202be276ccda69ab3" alt="" width="50" /> | FLIGHT | FLIGHT | YOUHA | [Universal Music Ltd.](../..) | 2288 | 💚 | [🔗](https://open.spotify.com/track/1pvBm1ydKLXorYDdlIAeuj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cbcd67f202be276ccda69ab3" alt="" width="50" /> | FLIGHT | FLIGHT | YOUHA | [Universal Music Ltd.](../..) | 2276 | 💚 | [🔗](https://open.spotify.com/track/1pvBm1ydKLXorYDdlIAeuj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f120cb333f68365ee0195cb6" alt="" width="50" /> | WITCH | W.A.Y | TRI.BE | [Universal Music Ltd.](../..) | 225 | 💚 | [🔗](https://open.spotify.com/track/2jDpV2QgvMjQXydP46Ayx4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="" width="50" /> | KISS | LEVIOSA | TRI.BE | [Universal Music Ltd.](../..) | 0 | | [🔗](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) |
 ## Cluster #3

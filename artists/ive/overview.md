@@ -21,14 +21,18 @@ IVE:
 ## Artist Rank
 IVE is currently:
 - The #37 artist of the last month
-- The #17 artist of the last 6 months
+- The #18 artist of the last 6 months
 - The #16 artist of all time
 
 ![Rank of IVE over time](../../images/artists/ive/rank_time_series.png)
 ## Top Tracks
 
-- I AM is the #42 track of the last 6 months
+- I AM is the #43 track of the last 6 months
 - 섬찟 (Hypnosis) is the #30 track of the last month
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/ive/track_rank_time_series_score.png)
 
 ### Top tracks of the last 6 months over time
 
@@ -139,7 +143,7 @@ IVE is currently:
 | | 서정아 (Seo, Jung Ah) | 1 | Lyricist |
 | | Anders Nilsen | 1 | Arranger, Songwriter |
 | | Adriana Caldas de Barros | 1 | Songwriter |
-| | 김이나 (Kim, Eana) | 1 | Lyricist |
+| | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 1 | Lyricist |
 | | LOSTBOY | 1 | Arranger, Songwriter |
 | | 이스란 (Lee, Seran) | 1 | Lyricist |
 | | Avin | 1 | Arranger |
@@ -165,7 +169,7 @@ IVE is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | I AM | I've IVE | [IVE](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | 5921 | 💚 | [🔗](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | I AM | I've IVE | [IVE](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | 5915 | 💚 | [🔗](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5" alt="" width="50" /> | After LIKE | After LIKE | [IVE](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | 1867 | 💚 | [🔗](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Baddie | I'VE MINE | [IVE](overview.md) | [Starship Entertainment](../../labels/starship_entertainment) | 898 | 💚 | [🔗](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | LOVE DIVE | LOVE DIVE | [IVE](overview.md) | [STARSHIP Entertainment](../../labels/starship_entertainment) | 384 | 💚 | [🔗](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) |

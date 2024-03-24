@@ -23,6 +23,12 @@ THE BOYZ:
 ## Artist Rank
 
 ![Rank of THE BOYZ over time](../../images/artists/the_boyz/rank_time_series.png)
+## Top Tracks
+
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/the_boyz/track_rank_time_series_score.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

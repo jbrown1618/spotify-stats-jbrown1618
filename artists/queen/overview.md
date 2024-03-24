@@ -26,6 +26,12 @@ Queen is currently:
 - The #49 artist of all time
 
 ![Rank of Queen over time](../../images/artists/queen/rank_time_series.png)
+## Top Tracks
+
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/queen/track_rank_time_series_score.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

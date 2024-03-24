@@ -29,6 +29,10 @@ IU is currently:
 - Shopper is the #30 track of the On Repeat playlist
 - The Red Shoes is the #32 track of the last month
 
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/iu/track_rank_time_series_score.png)
+
 ### Top tracks of all time over time
 
 ![Line chart of top tracks of all time over time](../../images/artists/iu/track_rank_time_series_long_term.png)
@@ -136,14 +140,14 @@ IU is currently:
 |:---|:---|---:|:---|
 | | 손명갑 (Son, Myung-gap) | 5 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | [IU](overview.md) | 5 | Lyricist, Songwriter |
+| | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 4 | Lyricist |
+| | 이민수 (이민수) | 2 | Arranger, Songwriter |
 | | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 2 | Producer |
-| | Jeppe London Bilsby | 1 | Arranger, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 1 | Producer |
+| | 이기 (IGGY) | 1 | Arranger, Songwriter |
 | | 오성근 (Oh, Seong-Keun) | 1 | Producer |
 | | N!ko | 1 | Arranger, Songwriter |
 | | 고현정 (Go, Hyeon-Jeong) | 1 | Producer |
 | | Celine Svanbäck (Svanbäck, Celine) | 1 | Songwriter |
-| | Kako | 1 | Songwriter |
 
 
 <details>
@@ -151,11 +155,16 @@ IU is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | Kako | 1 | Songwriter |
 | | 김희원 (Kim, Hee-won) | 1 | Songwriter |
+| | G. Gorilla | 1 | Arranger, Lyricist, Songwriter |
 | | 강효민 (Kang, Hyo-min) | 1 | Producer |
 | | 제휘 (Kim, Jea Whi) | 1 | Arranger, Songwriter |
-| | 이기 (IGGY) | 1 | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 1 | Producer |
+| | Jeppe London Bilsby | 1 | Arranger, Songwriter |
 | | 이나일 (E, Na-Il) | 1 | Arranger |
+| | 外山和彦 (Toyama, Kazuhiko) | 1 | Arranger |
+| | 정석원 (Jung, Seok-won) | 1 | Arranger, Songwriter |
 | | 이찬혁 (Lee, Chanhyeok) | 1 | Lyricist, Songwriter |
 | | Peejay | 1 | Arranger, Songwriter |
 | | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 1 | Arranger, Songwriter |
@@ -169,7 +178,7 @@ IU is currently:
 </details>
 
 
-![Bar chart of top 24 producers](../../images/artists/iu/producers.png)
+![Bar chart of top 29 producers](../../images/artists/iu/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |

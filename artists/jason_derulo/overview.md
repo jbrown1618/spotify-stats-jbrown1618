@@ -7,6 +7,12 @@
 ## Artist Rank
 
 ![Rank of Jason Derulo over time](../../images/artists/jason_derulo/rank_time_series.png)
+## Top Tracks
+
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/jason_derulo/track_rank_time_series_score.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

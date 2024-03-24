@@ -42,6 +42,10 @@
 - Super Lady is the #22 track of the On Repeat playlist
 - Uh-Oh is the #49 track of the last month
 
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/(g)i-dle/track_rank_time_series_score.png)
+
 ### Top tracks of all time over time
 
 ![Line chart of top tracks of all time over time](../../images/artists/(g)i-dle/track_rank_time_series_long_term.png)

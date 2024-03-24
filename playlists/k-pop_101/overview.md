@@ -203,16 +203,16 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [TEDDY](../../producers/teddy/overview.md) | 3 | Arranger, Lyricist, Songwriter, Producer |
+| | [TEDDY](../../producers/teddy/overview.md) | 4 | Arranger, Lyricist, Producer, Songwriter |
 | | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 3 | Producer |
-| | [Supreme Boi](../../producers/supreme_boi/overview.md) | 2 | Songwriter, Lyricist |
-| | [방시혁 (Bang, Si-Hyuk)](../../producers/방시혁_(bang,_si-hyuk)/overview.md) | 2 | Songwriter, Lyricist |
 | | [LEEZ](../../producers/leez/overview.md) | 2 | Arranger, Lyricist, Songwriter |
+| | [Ollounder](../../producers/ollounder/overview.md) | 2 | Arranger, Lyricist, Songwriter |
+| | [Supreme Boi](../../producers/supreme_boi/overview.md) | 2 | Songwriter, Lyricist |
 | | [유영진 (Yoo, Young-jin)](../../producers/유영진_(yoo,_young-jin)/overview.md) | 2 | Arranger, Lyricist, Producer, Songwriter |
 | | 이수만 (Lee, Soo-Man) | 2 | Producer |
 | | EJAE | 2 | Songwriter |
-| | [Ollounder](../../producers/ollounder/overview.md) | 2 | Arranger, Lyricist, Songwriter |
 | | [라도 (Rado)](../../producers/라도_(rado)/overview.md) | 2 | Lyricist, Songwriter, Arranger |
+| | [방시혁 (Bang, Si-Hyuk)](../../producers/방시혁_(bang,_si-hyuk)/overview.md) | 2 | Songwriter, Lyricist |
 
 
 <details>
@@ -227,19 +227,20 @@
 | | Sophia Brenan | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 1 | Songwriter |
 | | [24](../../producers/24/overview.md) | 1 | Arranger, Producer, Songwriter |
-| | [블랙아이드필승 (Black Eyed Pilseung)](../../producers/블랙아이드필승_(black_eyed_pilseung)/overview.md) | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | J.Y. Park | 1 | Lyricist |
 | | Chanti | 1 | Songwriter |
+| | Jason Robert | 1 | Producer |
 | | Steven Battey | 1 | Songwriter |
-| | 진리 (Jinri) | 1 | Lyricist |
+| | Daniel Davidsen | 1 | Songwriter |
 | | 황선정 (Hwang Sun-jung) | 1 | Lyricist |
 | | Jess Morgan | 1 | Songwriter |
 | | Bang Chan | 1 | Arranger, Songwriter |
 | | PhD | 1 | Arranger |
 | | [전군 (Jeon Goon)](../../producers/전군_(jeon_goon)/overview.md) | 1 | Lyricist, Songwriter |
 | | Paulina Cerrilla | 1 | Lyricist, Songwriter |
-| | Daniel Davidsen | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | J.Y. Park | 1 | Lyricist |
-| | MarkAlong | 1 | Songwriter |
+| | [블랙아이드필승 (Black Eyed Pilseung)](../../producers/블랙아이드필승_(black_eyed_pilseung)/overview.md) | 1 | Lyricist, Songwriter |
+| | DOM | 1 | Arranger, Songwriter |
+| | 진리 (Jinri) | 1 | Lyricist |
 | | 고현정 (Go, Hyeon-Jeong) | 1 | Producer |
 | | Kass | 1 | Songwriter |
 | | 김정미 (Kim Jung-mi) | 1 | Lyricist |
@@ -251,7 +252,7 @@
 | | 이주형 (Lee, Juhyeong) | 1 | Producer |
 | | Cazzi Opeia | 1 | Songwriter |
 | | YG Family | 1 | Producer |
-| | Druski | 1 | Producer |
+| | MarkAlong | 1 | Songwriter |
 | | Sophie Curtis | 1 | Songwriter |
 | | Enan | 1 | Songwriter |
 | | Rachel Furner | 1 | Songwriter |
@@ -261,10 +262,11 @@
 | | Brian U | 1 | Songwriter |
 | | Kyler Niko | 1 | Lyricist, Songwriter |
 | | T.O.P | 1 | Lyricist |
-| | DOM | 1 | Arranger, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc1e2ce68a6bdcc8e03e882e7" alt="" width="50" /> | [SUNMI](../../artists/sunmi/overview.md) | 1 | Lyricist |
+| | 이경준 (Lee, Kyung-Joon) | 1 | Producer |
+| | [양영은 (Yang, Young-eun)](../../producers/양영은_(yang,_young-eun)/overview.md) | 1 | Producer |
+| | Druski | 1 | Producer |
 | | 송민기 (Song, Mingi) | 1 | Lyricist |
-| | Adam McInnis | 1 | Arranger, Songwriter |
+| | Nick Hahn | 1 | Arranger, Songwriter |
 | | Dr.JO | 1 | Lyricist |
 | | Richard Garcia | 1 | Arranger, Songwriter |
 | | 창빈 (Changbin) | 1 | Songwriter |
@@ -274,8 +276,8 @@
 | | EDEN | 1 | Arranger, Lyricist, Songwriter |
 | | Alawn | 1 | Producer |
 | | [Kenzie](../../producers/kenzie/overview.md) | 1 | Songwriter |
+| | Adam McInnis | 1 | Arranger, Songwriter |
 | | Chizzy | 1 | Songwriter |
-| | Jay Dmuchowski | 1 | Songwriter |
 | | Jason Roberts | 1 | Producer |
 | | Kriz | 1 | Arranger |
 | | Gavin Jones | 1 | Songwriter |
@@ -285,11 +287,12 @@
 | | Ayushy | 1 | Songwriter |
 | | Danny Chung | 1 | Lyricist |
 | | Teddy Riley | 1 | Arranger, Producer, Songwriter |
-| | Nick Hahn | 1 | Arranger, Songwriter |
+| | Jay Dmuchowski | 1 | Songwriter |
 | | Jan Baars | 1 | Songwriter |
-| | [양영은 (Yang, Young-eun)](../../producers/양영은_(yang,_young-eun)/overview.md) | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | RM | 1 | Songwriter |
+| | Shintaro Yasuda | 1 | Lyricist, Songwriter |
+| | 한 (Han) | 1 | Songwriter |
 | | 황민희 (Hwang, Min-hee) | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc1e2ce68a6bdcc8e03e882e7" alt="" width="50" /> | [SUNMI](../../artists/sunmi/overview.md) | 1 | Lyricist |
 | | Chris Galland | 1 | Producer |
 | | 김홍중 (Kim, Hong Joong) | 1 | Lyricist |
 | | [R.Tee](../../producers/r_tee/overview.md) | 1 | Arranger, Producer, Songwriter |
@@ -297,9 +300,9 @@
 | | Carlos Battey | 1 | Songwriter |
 | | Isabella Lovestory | 1 | Lyricist, Songwriter |
 | | 김태성 (Kim, Tae Sung) | 1 | Arranger, Songwriter |
-| | 한 (Han) | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | RM | 1 | Songwriter |
+| | C. Minor | 1 | Songwriter |
 | | BUDDY | 1 | Arranger, Songwriter |
-| | Shintaro Yasuda | 1 | Lyricist, Songwriter |
 | | Charlotte Wilson | 1 | Songwriter |
 | | 최용인 (Choi, Yon-gin) | 1 | Producer |
 | | [Pdogg](../../producers/pdogg/overview.md) | 1 | Producer, Songwriter |
@@ -307,9 +310,6 @@
 | | [danke](../../producers/danke/overview.md) | 1 | Lyricist, Songwriter |
 | | [김병석 (Kim, Byung-seok)](../../producers/김병석_(kim,_byung-seok)/overview.md) | 1 | Arranger, Lyricist, Producer, Songwriter |
 | | HotSauce | 1 | Arranger, Songwriter |
-| | Ronnie Icon | 1 | Lyricist, Songwriter |
-| | C. Minor | 1 | Songwriter |
-| | 최규성 (Choi, Kyu-sung) | 1 | Lyricist, Songwriter |
 
 </details>
 

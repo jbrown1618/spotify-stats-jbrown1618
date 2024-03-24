@@ -11,12 +11,15 @@
 ## Artist Rank
 Lana Del Rey is currently:
 - The #47 artist of the last month
-- The #47 artist of the last 6 months
 
 ![Rank of Lana Del Rey over time](../../images/artists/lana_del_rey/rank_time_series.png)
 ## Top Tracks
 
 - Summertime Sadness is the #14 track of the last month
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/lana_del_rey/track_rank_time_series_score.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

@@ -38,8 +38,12 @@ ITZY is currently:
 - BORN TO BE is:
     - the #23 track of the On Repeat playlist
     - the #25 track of the last 6 months
-- RINGO is the #41 track of the last 6 months
+- RINGO is the #42 track of the last 6 months
 - UNTOUCHABLE is the #10 track of the On Repeat playlist
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/itzy/track_rank_time_series_score.png)
 
 ### Top tracks of all time over time
 
@@ -227,7 +231,7 @@ ITZY is currently:
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Crown On My Head (YEJI) | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 269 | 💚 | [🔗](https://open.spotify.com/track/7us3VPvRjtjuMEexfyRsMC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bc615fe0e1b49a5283c47075" alt="" width="50" /> | RINGO | RINGO | [ITZY](overview.md) | [WM Japan](../../labels/wm_japan) | 261 | 💚 | [🔗](https://open.spotify.com/track/2zRz0XfYEtsHuVfrM8KaOP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bc615fe0e1b49a5283c47075" alt="" width="50" /> | RINGO | RINGO | [ITZY](overview.md) | [WM Japan](../../labels/wm_japan) | 255 | 💚 | [🔗](https://open.spotify.com/track/2zRz0XfYEtsHuVfrM8KaOP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | #Twenty | CRAZY IN LOVE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 212 | | [🔗](https://open.spotify.com/track/0deWmYkaZHaElUm15oVXkE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | In the morning | GUESS WHO | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 120 | 💚 | [🔗](https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273682903728c049526580f0363" alt="" width="50" /> | Voltage | Voltage | [ITZY](overview.md) | [WM Japan](../../labels/wm_japan) | 91 | 💚 | [🔗](https://open.spotify.com/track/7e65OAe9L0xWPSHDiahjQe) |

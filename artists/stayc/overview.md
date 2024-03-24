@@ -21,7 +21,7 @@ STAYC:
 ## Artist Rank
 STAYC is currently:
 - The #39 artist of the last month
-- The #21 artist of the last 6 months
+- The #22 artist of the last 6 months
 - The #13 artist of all time
 
 ![Rank of STAYC over time](../../images/artists/stayc/rank_time_series.png)
@@ -30,6 +30,10 @@ STAYC is currently:
 - Bubble is:
     - the #27 track of the On Repeat playlist
     - the #23 track of the last 6 months
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/stayc/track_rank_time_series_score.png)
 
 ### Top tracks of the last 6 months over time
 

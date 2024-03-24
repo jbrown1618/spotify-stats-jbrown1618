@@ -48,7 +48,7 @@ Appears as:
 | | 오단영 (Oh, Dan-young) | 2 | Producer |
 | | 문수아 (Moon Sua) | 1 | Lyricist |
 | | Ahmad Izham Omar | 1 | Songwriter |
-| | 김이나 (Kim, Eana) | 1 | Lyricist |
+| | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 1 | Lyricist |
 | | Anna Timgren | 1 | Songwriter |
 | | Le'mon | 1 | Lyricist |
 | | 시윤 (Siyoon) | 1 | Lyricist |

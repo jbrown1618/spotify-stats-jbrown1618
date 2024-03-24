@@ -14,6 +14,10 @@
 ## Top Tracks
 
 - Vegas is the #23 track of the last month
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/doja_cat/track_rank_time_series_score.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

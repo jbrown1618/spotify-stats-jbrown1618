@@ -27,6 +27,10 @@ NewJeans is currently:
 
 - Ditto is the #21 track of all time
 
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/newjeans/track_rank_time_series_score.png)
+
 ### Top tracks of all time over time
 
 ![Line chart of top tracks of all time over time](../../images/artists/newjeans/track_rank_time_series_long_term.png)

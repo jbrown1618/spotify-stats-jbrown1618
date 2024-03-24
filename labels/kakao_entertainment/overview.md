@@ -62,6 +62,17 @@ Appears as:
 
 ![Bar chart of top 3 genres](../../images/labels/kakao_entertainment/genres.png)
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 4 | Lyricist |
+| | 이민수 (이민수) | 2 | Arranger, Songwriter |
+| | 정석원 (Jung, Seok-won) | 1 | Arranger, Songwriter |
+| | 外山和彦 (Toyama, Kazuhiko) | 1 | Arranger |
+| | G. Gorilla | 1 | Arranger, Lyricist, Songwriter |
+
+![Bar chart of top 5 producers](../../images/labels/kakao_entertainment/producers.png)
 ## Tracks released under Kakao Entertainment
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
