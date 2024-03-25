@@ -15,6 +15,7 @@ recording_mbid,recording_title,recording_language
 02b52554-91db-44b8-aab9-0ff6400bb601,Lion Heart,kor
 02c5b6de-4713-4023-a0d2-f50aa4670f8e,Malibu Nights,
 02fb10ba-4ab0-4443-95f2-5401f590a7af,Physical,eng
+031634ac-a9e7-4204-bdb9-1f973b5e4795,Décalcomanie (데칼코마니),mul
 037db458-7154-43bf-8f01-8b4623a325c1,BAAM,
 03b54c8c-f028-49e5-8de8-92e7ac15af04,Time Slip,kor
 03b78d54-6720-471d-b609-01a687d91333,내가 제일 잘 나가,kor
@@ -40,10 +41,12 @@ recording_mbid,recording_title,recording_language
 071162ec-2160-4c44-bbaf-4aa00a437824,EASY,
 072fc090-5b35-4ae7-9976-cb785fd0983a,Symphony,eng
 077fb211-b44d-4ce7-8883-9f49d6cb24c8,Baggy Jeans,
+078d259e-fd05-4394-91df-1b645f9b4385,Child,
 078d484f-efe9-481d-9e3a-8c2b72b6b8fe,Manhattan,eng
 079cab5d-0ae6-4524-81f9-5235a284ec49,Youngblood,eng
 07aee826-1615-4ced-9117-800a21c438a0,神메뉴,mul
 0810268f-2e52-4f89-86be-42762ea3f6d4,Just Dance,eng
+08376e28-4c62-4431-83e7-b13b5ff1053a,입술 사이 (50cm),kor
 089bb668-38af-42e0-9974-6608704be8af,Stay Tonight,kor
 08bea1b3-be03-432f-8e94-a6b4b137bfea,The Other Side of Paradise,eng
 08c58dd5-9708-49d0-bd79-36d603e06cc1,the eleventh day,mul
@@ -63,6 +66,7 @@ recording_mbid,recording_title,recording_language
 0b444b15-d961-4b74-9264-cb268958402b,A Rock Somewhere,
 0b928876-4538-456b-8763-8ac46658e691,TAP,
 0ba9778f-f16c-41c2-8912-a4b36880e7da,Killin’ Me Good,
+0bae8f69-e70c-428c-b096-59044ef26770,월하미인 (月下美人 : LUNA),kor
 0bb4e94b-5440-48bd-b14b-50ea8d55f3c6,Be in Love,
 0c26b600-3961-4696-b741-15852c945ab2,"Tetris Theme A (From ""Tetris"")",zxx
 0c2977eb-5199-427d-a565-207e76f3cd09,Green Light,
@@ -119,6 +123,7 @@ recording_mbid,recording_title,recording_language
 147920cc-ea5d-4b59-b09a-5df145770729,Ay-Yo,
 14848e6d-61fa-49f2-9e22-883e285a3a76,No Time to Die,eng
 14894738-d53a-4543-a476-3d590157800e,Headlock,
+14adfe15-b5c0-486c-bf1e-b783ef8a4088,Anti-Romantic,
 1520ec63-7504-424f-a4f1-12211dc9668a,On the Radio,eng
 153e4e67-1d35-4406-af5e-d67014bf2026,Tear the Roof Off the Sucker,eng
 159c9d87-a6f9-4722-87b6-20c307b5e0be,Finesse,eng
@@ -155,6 +160,7 @@ recording_mbid,recording_title,recording_language
 18ec9607-b6fe-4b54-bdc5-df92ea6950b1,Alter Ego,
 19112a8e-e20b-44eb-83b6-9aa45de26734,God of Music,
 19572e8a-81da-4937-939e-8f2bf8119f0c,Imagine,eng
+1981dbf8-e6ed-4844-9aa7-e71490a4203b,BFF (Best Friends Forever),
 1986fca3-b291-44f6-b772-c963faa23be6,Captain Jack,eng
 19989068-8f38-436e-825d-1b4fc02c3481,Do It Like This,
 19b6d048-f981-40e9-8235-a5acf969e5df,Attention,eng
@@ -189,6 +195,7 @@ recording_mbid,recording_title,recording_language
 1c89db1c-04bc-4421-897c-c5b6be886484,색안경 (STEREOTYPE),kor
 1d48f0c7-f65f-4e3d-8b3e-b066531b9a67,휘파람,kor
 1d54aa88-5b2f-448a-ad8f-72f32fdf0f06,Seven Devils,eng
+1d66fc0d-a3c0-41e8-84d7-17e17406039e,EUNOIA,mul
 1da1879e-8f0a-4fea-8d49-519b39aff6a7,"""Future Perfect (Pass the Mic)"" -",
 1db19688-3404-4457-8962-7a5fcd528230,Locked Out of Heaven,eng
 1dcd4e7c-6e4d-4875-8857-41ed2d83c5ac,UNNATURAL,
@@ -251,6 +258,7 @@ recording_mbid,recording_title,recording_language
 275be529-789c-4182-93ed-900ce9b78cfb,Lingo,
 277c862c-5cd7-4a71-8fef-0fab02856cf5,No Such Thing,eng
 27e95178-49ac-47a1-8b4c-540c77982680,FAKE LOVE,
+27eea09c-30ed-4b36-a856-4f02279f5705,Advice,
 2833ac3c-eae1-4e24-9048-93005fcf8c41,윤슬 (Gold Dust),
 28c186e8-9cdf-46c8-95a9-af71b649a76d,Talk Saxy,
 28e8ec7b-1b1a-43df-a0b2-75c27b6727d5,You can’t sit with us,
@@ -312,6 +320,7 @@ recording_mbid,recording_title,recording_language
 2f9b659c-36cb-4173-b393-5171c8ef4693,Nxde,mul
 2fd35ffe-676e-4eff-8d3f-21bb8c80f596,HELICOPTER,
 2fda4554-77fd-4495-bd7d-5109b973280b,CRIMINAL LOVE,
+2fdbdcbc-4980-4155-936a-cb0160870f5e,Sacrifice (Eat Me Up),
 303fa742-e4d4-4044-9fa6-ddd902326438,Higher Ground,eng
 3047934b-71b1-4b8d-98b7-fcd8ef2494b4,꽃 (FLOWER),
 304bdc08-92b4-4f3a-80c8-e759508bc275,IT'S YOU,
@@ -374,6 +383,7 @@ recording_mbid,recording_title,recording_language
 38de1208-4b73-43cd-bcad-1b054a6b88ab,Darl+ing,
 38e06968-af06-44ea-9eba-a1a275832767,Uptown Funk,eng
 38eeadde-7f12-4c34-bf09-49a7f4970b03,Blah Blah Blah,mul
+3957a688-bdc4-4996-8453-155d0060ef71,어젯밤,
 3973f3c3-9877-4c80-a3be-bca6f4a8226c,Basics,mul
 398dcffc-8740-4b8b-8453-846fbf8c5de2,Little Lion Man,eng
 39973f6c-4d2f-4683-947c-10f74f909cfe,Dark Paradise,eng
@@ -425,6 +435,7 @@ recording_mbid,recording_title,recording_language
 4226119b-b2b2-4f0c-af1c-14e8aa73bd93,Genie,
 424c10aa-a857-4dc6-872e-2a8fb0b707f3,Eleanor Rigby,eng
 42813d9f-1e43-44f8-adcc-aa6087361fa6,Death Bed (Coffee for Your Head),eng
+430dfa3d-f478-437a-9755-460802ae53c1,Bandit,
 43316448-c1fb-4d37-92bb-d2f5cc88baa7,오후 (OHOO),
 4348756a-76db-4e4b-a83b-bd64ccbdee92,What Now,eng
 43637245-eb30-4ed9-8a78-36504991dd62,Fly as Me,eng
@@ -448,6 +459,7 @@ recording_mbid,recording_title,recording_language
 4731b056-afeb-47c1-a9ad-9766ae4cd7cb,B,eng
 478b6eb1-3bf3-42ab-8836-a713fab23def,Half of Me,eng
 4799b272-888d-44eb-8681-6609da52ebee,Can’t Stop This Party,
+47aa000b-a32f-4028-8633-31ff6ff606bb,으르렁 (Growl),
 47b02a82-c3bf-4647-b894-dd1c8f608e7f,Let Down,eng
 47ca2cfe-7c51-4223-b661-4a1b76da2da3,먼지,
 47e03598-1d37-4c29-8b0c-669d45253cb3,"Boy's a Liar, Pt. 2",eng
@@ -457,6 +469,7 @@ recording_mbid,recording_title,recording_language
 48d9340a-0c6a-469a-b043-eeaec9f577c6,Technologic,
 48e2a8ad-ab5c-4877-8cc6-d3ecc1d1775b,GENTO,
 4952857d-5834-466b-9f92-46328376da76,NO PROBLEM,eng
+4976bc58-cf5b-4b05-8d6b-a6832e9882dc,FIRE,jpn
 49c8f770-507e-424c-a1a8-247763225e52,Caroline,
 49cb34a2-07c6-4d00-a12d-03708038efc5,스트레스 (Stress),
 49e6cd1d-22da-4428-a5a5-fb84cd16f9f9,Way Back Home,
@@ -552,10 +565,12 @@ recording_mbid,recording_title,recording_language
 57b269a0-99eb-4b31-a4d4-ff311f965a3e,The Adults Are Talking,eng
 57b4710c-038c-474b-9029-4353e3c05432,WA DA DA,
 5874a553-d50b-4309-95cd-d2cf2c7bad09,삠삠 (BEAM BEAM),
+5889fdc7-5870-4b7b-a45a-8879997edd1b,Snapping,
 589b2eff-e541-475b-bbe7-ca778238e711,Never Let Me Go,eng
 58fc8f3d-28a0-44c9-932c-1dbed742ac9e,PADO,
 592c4dcd-7b97-4b84-9046-0ea788319323,Why Not?,mul
 595a5d8f-fc53-4982-b4ef-af26d07eb0c5,10 Months,
+596a82ca-720c-4e6b-ac5e-90706d493c9d,nếu lúc đó,
 598bc2a9-1a27-4f6a-a7cc-30649303edca,Wildest Dreams,eng
 59fc5ddf-a1d9-4746-902d-71fb5a9a78c2,Shake It Off,eng
 5a1e091f-afe8-4ecb-97a3-fa7ca1348a92,NO MORE (MA BOY),mul
@@ -583,6 +598,7 @@ recording_mbid,recording_title,recording_language
 5cda825e-7b35-46ef-a18c-4e9e8c23a032,사랑해 (I LOVE YOU),kor
 5cfcd3a3-34bd-4195-a1a9-6af9a6a6bec8,Love to Hate Me,eng
 5d01a8d2-e03d-4553-bd43-b462c9730110,Over You,
+5d0e9191-498f-4a72-8f37-db2c6b92830f,ISTJ,
 5d4764fe-bb3a-40e3-bf77-7af7d9929616,Countdown,
 5d48f85b-1392-440d-8a0a-b441f7ffdead,매일밤,
 5d9096cd-f051-489c-ba56-9f0f538bfb2e,한숨,kor
@@ -599,6 +615,7 @@ recording_mbid,recording_title,recording_language
 5f926e49-e0b8-4b45-8172-a1b9076d6b22,Lone Digger,eng
 5fa914f8-e888-4312-b85c-0c577ebf709f,AYA,
 5fe277af-719d-4604-afc7-4697237659a3,덤디덤디 (DUMDi DUMDi),kor
+5fe83e19-3bc7-407c-94f5-7627a4a596d8,LUPIN,
 6042235a-bb2c-41cb-8eae-24372f660c08,Breakfast on the Morning Tram,eng
 6044145d-92ac-44d6-9f81-d12754cc654a,초행길 (The Road),
 60591aba-acf7-4011-8b2b-e471409299df,My Guy (single version),eng
@@ -640,6 +657,7 @@ recording_mbid,recording_title,recording_language
 678359f6-1ac4-456f-abda-0535381e1041,Shades of Cool,eng
 67878d86-1d64-40cd-8415-1f4b9cdfc8ea,HUSH RUSH,
 67cd8784-53f1-42ec-93e4-e67e6e081c02,Dream a Little Dream of Me,eng
+67d88bb5-1032-41c6-be36-c3930585946a,BREATHE,
 683ac788-5410-4cce-8da6-ca272b95d798,Rock with you,
 68580e6a-e988-4628-8a63-375b813738d5,Underwater,
 6866c3c1-e673-4d2d-91cf-b6c512c32902,Islands,eng
@@ -660,6 +678,7 @@ recording_mbid,recording_title,recording_language
 6a107b98-a369-4b53-a145-b07c613156d1,물타기,
 6a53c516-e2dd-479f-858b-a51c4bf63d38,얼음들,kor
 6a70e938-1fb1-4b2c-9fc7-5e92e62aab7e,Best Part,
+6aab7dd6-8cd5-4fc4-9450-bbd742aae964,봉봉쇼콜라 (Bon Bon Chocolat),
 6ac29e49-525f-49c6-a728-4510da03bcbb,I Love You 3000 II,
 6b1d5e83-7637-4976-a72e-a0d56a32f054,"""ParadoXXX Invasion"" -",
 6b235773-16bd-4fc5-b57e-c966f9d1db6d,Another One Bites the Dust,eng
@@ -721,6 +740,7 @@ recording_mbid,recording_title,recording_language
 74c2e388-4e59-4ed1-8c97-f3fd3317323d,What Was I Made For?,eng
 74caaa78-3945-4d84-8cea-7f5dbbbc5253,"Still Alive (From ""Portal"")",eng
 74d3e222-4596-482f-aa14-ead91e6551ef,Jopping,
+74e2c56f-76e2-41ee-a8d7-4c8089053e50,잔혹동화,
 74e827ba-679e-4d72-b458-7dc31dbd6632,Candyman,eng
 752965b0-7870-40bb-8e90-d7223ac227b5,Modern Times,kor
 752bfc78-fa81-480f-b516-aa1113fe9bdc,Favorite (Vampire),
@@ -741,6 +761,8 @@ recording_mbid,recording_title,recording_language
 77dc46f6-d1e4-46ea-b634-e06fafeeecc9,Travelin’ Soldier,eng
 7827984a-8ff0-41b3-9374-78a18f49d799,빨간 맛 (Red Flavor),
 78a8d975-1257-4fc4-a634-50f89a62de47,Rather Be,eng
+78b1ac1f-21f9-496c-be3d-350ae079f955,마치 무드,
+78ddab65-8dfe-4c2b-80f8-5155b94e3998,CROOKED,
 78f5d7d5-0467-4284-92ba-c606fc5061d5,Clout,eng
 7907fe74-4e90-4edf-98ad-d656f09f8746,Honestly,mul
 794510e6-e11f-440b-9427-086428051818,Turn the Lights Back On,
@@ -835,6 +857,7 @@ recording_mbid,recording_title,recording_language
 8892c772-c37a-43d6-a94d-64302fe5dfae,Chasing the Sun,eng
 88afe658-c4d4-43bc-ba13-5d09dad350d9,팅커벨,kor
 88ba6607-5f1a-4120-a811-8fc15a945380,Spark,
+88d79099-396b-4b98-bd26-d71d9b388383,JUMP,
 88f57924-5c5a-47d8-96e8-641cff9f8c71,Let the Rain,eng
 89006b11-6e95-4d5f-9fac-f76cedf1f6d3,BATTER UP,mul
 890b1055-8a68-4008-a256-7410169731a3,TROUBLE,mul
@@ -849,6 +872,7 @@ recording_mbid,recording_title,recording_language
 8a75121f-2a55-4832-b598-5ee16a64cf32,Run to You,eng
 8aa8fe05-f0e9-4455-8431-1431f8b60c81,RING X RING,mul
 8abe81f6-9a0c-4cee-a185-1f7dbffa366f,Bad News,mul
+8b25218c-aa76-4b1a-9862-45940ce605ac,BLACK DRESS,
 8b29ff80-342e-41f8-8780-d15830df67c4,피 땀 눈물,kor
 8b2d4bb0-a90a-4fc8-9a13-27ce3773f481,EENIE MEENIE,mul
 8b62f486-7aa4-40f7-a075-34d379f3261c,Sequence,mul
@@ -856,6 +880,7 @@ recording_mbid,recording_title,recording_language
 8b8316fc-b08d-4d36-819c-0fa34752c6ce,Little Talks,eng
 8b885a1b-da0d-4656-8f43-01d603cd150c,Do not touch,
 8bb5dfe7-5c39-4e77-b6b9-ab89bf042a20,Behind Blue Eyes,eng
+8bf4c565-0a82-4dd0-9a0d-5f1c1421dfff,Scent of You,
 8c1c9826-a631-44d9-97aa-37227c881b3e,Fidelity,eng
 8c70a2a3-aa8a-48db-bc68-6d6d54a266d6,Quit,
 8c712e50-1822-4caf-9eb1-6d9cf6f8556f,Summertime Sadness,eng
@@ -935,6 +960,7 @@ recording_mbid,recording_title,recording_language
 96d77803-9dda-45fb-b6f8-a857a59d2336,Ridin',
 96e249f1-ef38-4183-92e7-379ec945433b,Don’t Cha,
 96faed80-ce23-41c1-90ce-6b916eee61ee,Big Booty,
+971670e3-7f8c-4b40-ac16-538771f212ba,고래,
 97217a18-9739-4807-bfa7-b506983840f8,Only the Good Die Young,eng
 973b1efd-863c-4610-9fc1-d1406cc66cd9,Impurities,mul
 97519c54-0df1-4e9d-b8f2-f6e82687715d,BEAUTIFUL MONSTER,mul
@@ -999,6 +1025,7 @@ a130bc2d-db4e-42e2-a053-384d7c4e10a8,Says It,mul
 a15e2d0a-efcb-4f4f-ad54-22a4879bbcf9,Iron Man,eng
 a16e6dab-38d7-4ec6-b751-c1ebb5e62c22,We Don’t Talk Anymore,eng
 a187f1d3-e51d-47fa-9977-b54ec6bf059d,Who Are You,eng
+a1d7b739-6bb9-493c-ae57-86ae1ef1079f,피어나,kor
 a1f39d8c-b0a0-4c4b-95ef-643eb7cb3aba,Nightmare,
 a21b7712-295f-4a8b-8b02-00812b21d62b,Chicken Noodle Soup,
 a244f59a-2933-425c-bb6b-16d5bb1a4f1d,La Vie en rose,fra
@@ -1038,6 +1065,7 @@ a6bc1525-5d29-4528-b1ab-fec212da394c,ICKY,
 a6de534b-d25d-455a-887f-e37de00631fa,Elastic Heart,eng
 a726ba6e-a750-471d-83e4-e1660516d476,A Matter of Trust,eng
 a744b77a-4b34-430d-a3a4-e9eebe251996,A Fifth of Beethoven,
+a7637308-8a25-4ded-81e5-e52746428b19,Mr.애매모호,kor
 a7720370-b5a1-49b0-983a-85081f0bcbfe,Easy on Me,eng
 a7a373f1-b996-4017-81f8-9e3276522f25,All My Loving,eng
 a7d86bff-b8a3-4602-b72e-9023795077f5,Girls,
@@ -1062,6 +1090,7 @@ aab63e04-ac4a-4ac0-babc-b51737008fdc,Cassiopeia,eng
 aab79f39-1413-4f97-8967-bb003f12142f,POP/STARS,eng
 aac679e3-1e27-4eec-8a04-26b4ac3405fb,Oh Boy,kor
 aafe60a9-c721-4bf2-bdbb-ee321f8ef5c6,PLAY,kor
+ab27f90e-f6e3-47f3-aa9c-2484ea596306,여우가 시집가는 날,
 ab4becc0-15f6-4940-9e1d-3e1106a3c49f,WHAT I WANT,mul
 ab740647-ee5e-4ba9-a00f-723c17230e6a,MOVE,
 ab7805a8-c161-403d-92bf-a92c8b8e17dc,Hurt,eng
@@ -1069,6 +1098,7 @@ abc1b2b3-b179-4ae2-b29a-a2c3bdeaebdc,A Case of You,
 ac006a16-828e-48e0-8b97-c88cfb7e6f02,Anaconda,eng
 ac183c4d-6420-4018-8b6a-46c158986e8a,Hard to Love,eng
 ac192924-5cf6-45fa-a255-ed21adb0bcf1,Will I Ever See You Again?,
+ac1e53af-8d3b-4d3e-8f66-58aa737dee4f,I Don't Need You,
 ac71eb2c-0a25-4f06-acff-13bec69d06e1,Born to Die,eng
 ac7a8b91-7996-42d7-a33f-09a9f8568d65,MOONLIGHT SUNRISE,eng
 ac9e0815-e9a5-47e0-b39f-4d1248439688,Zip,kor
@@ -1183,6 +1213,7 @@ c1063de8-d5ca-4704-a07b-24835eb351da,Beautiful Christmas,
 c10f4b51-23ce-457a-89e3-ee8c563e3673,Where Is the Love?,eng
 c113e0fe-1f65-45c0-a5b5-31e3ec9ab717,Sugar,eng
 c1710a9c-f33a-476f-9dd9-0a13b1308556,Paper Rings,eng
+c1799dfd-f551-4412-82c2-0de56c820919,FREEDOM,
 c1b3a1f5-b8e7-47a0-82d7-866caf37930b,Oh!,kor
 c1d63906-f64a-4cd1-9873-9f3a9f98883c,A Hard Day’s Night,eng
 c1e5e945-75b6-422a-8036-e1f02e46ed25,Machine Gun,
@@ -1255,6 +1286,7 @@ cd5b77e2-26a8-4560-9ffa-02cd439e6626,Can’t Sleep Love,eng
 cd99ef8b-7012-4021-a447-8900553a62f4,RAC3R,mul
 cdcc773c-4692-4517-a690-463ebff3ad91,Call It What You Want,eng
 ce3a5a96-e755-4742-9f20-2578600daa4c,Poker Face,eng
+ce3ca9c2-83c2-4059-934d-60e5443ed952,나혼자 (Alone),kor
 cea1d738-4e22-4ced-afdd-5f7f715519ec,Wings,
 cef5d7af-efb3-4a07-b71a-e73f829ff8f0,OOH‐AHH하게,kor
 cefdff1f-b2a9-4e66-8f5b-3613c81b4b78,HARD,
@@ -1263,6 +1295,7 @@ cf4961cc-a935-4a76-8d76-419904e4eed4,썸,
 cf69bd7e-769a-479c-bc7d-ca38ed93071f,Pretty Savage,mul
 cf6d8ed2-7937-4bb2-b452-26dd995ab695,everybody’s got a $ECRET,mul
 cf7bf743-30f9-4ac8-beae-a32d977626ae,Attention,
+cfc7decf-24a0-4c24-874d-1531d2761481,너나 해,
 cfc94648-8d3f-4db3-ac3c-5f04ae00a0a1,Not Alone,
 cfdd8ef0-9259-4e39-89e2-21ea37b0d71a,헤픈 우연,
 cfe6c921-bfa6-47d1-bd32-fab242f9eac5,I Thought She Knew,eng
@@ -1313,6 +1346,7 @@ d84a716c-1377-46a3-b2dc-5a8268e9ed00,Big Yellow Taxi,eng
 d853e25f-068c-47d5-a70a-9ccc71f2227e,GOLDWING,eng
 d86ad1bc-885b-4a74-9f4e-0399c88ac74b,Hurt,
 d8835358-7b9e-4aab-91da-abcb9e2c7307,Cornelia Street,eng
+d89080a0-4c55-4f89-91c4-323c81c99e3c,주문 - MIROTIC (Clean Ver.),kor
 d8935331-5abd-4e8b-aa53-b4bd66124b05,불장난,kor
 d89c8e16-a043-4c58-8752-727fd1fcca39,Shut Down,kor
 d8b05236-a73f-4af3-817e-8b6cc7b258f9,열이올라요 (Heart Burn),kor
@@ -1377,6 +1411,7 @@ e1231e26-0761-4301-9eeb-66cc7450c9c3,I Want That,
 e135871f-0fed-4683-90e3-ebbe435fbe4e,Dream On,eng
 e139bd8d-410c-41c1-967c-a30ee3b444e8,Butter,eng
 e1874abb-97b3-49e8-8f5e-d87d962cf5bc,The Dawntreader,eng
+e1cd506f-e752-46a5-8126-8abcc015d046,미쳐,
 e226f297-689d-4950-b660-158650b0cce7,If I Ever Fall in Love,eng
 e25cd935-84c9-43a8-8d98-710efdb7bbe1,지구에 혼자 남게 된다면 (Save Me),kor
 e2b9b868-5aa3-400a-aae2-7c7e9c7d35fd,Stressed Out,eng
@@ -1408,6 +1443,7 @@ e567b782-aa26-4137-a861-8e7badf395e7,Knock Knock (Who's There?),
 e5f6067a-fbb5-4f48-94ac-657a496561a1,"이브, 프시케 그리고 푸른 수염의 아내",mul
 e6188573-3329-4ce4-af6f-7e34f0cc1094,Mr. Vampire,mul
 e63ea28d-0c0f-4914-8181-ff5d0fa1cfa4,Amore - 蒼星 -,jpn
+e676174c-46e1-4bcd-aa26-fd40555eafb2,Paint Me Naked,eng
 e6d4ab7b-d898-4f52-8d37-1cb17ddfcaf2,Baby Don’t Stop,
 e6d894a9-8593-4b90-966a-9ce743365c3e,Only Girl (in the World),eng
 e6de824a-33d9-419e-8ee5-a5938f9f00cc,I’m Unhappy,
@@ -1477,6 +1513,7 @@ f1a71650-bd53-40df-8f69-9778a336ef38,In My Bones,eng
 f1b1656f-deaa-4f4c-836e-3039a5d45a99,Good Thing,
 f1fc9f90-9cc7-4911-8b3a-9757da54f59a,Gagnamagnið,isl
 f207eac0-829f-41e5-9dc9-d7c3263de3ed,Lose Yourself,eng
+f257cbe5-1354-4a87-af97-8e55fb0b826a,Wow Thing,
 f2beee2e-55ce-41ef-a5b5-fd3aea1a8c1b,on the street,
 f2d3297d-c5bf-4201-b81d-2d1873cad351,Pose,
 f2fc389e-9a64-4173-8755-763e451cafaa,Price Tag,eng
@@ -1495,6 +1532,7 @@ f5669ba8-5e23-44ef-bc53-8c0ac2914fa1,Home,eng
 f5733f63-42ab-4e1c-a1ba-028ea1e19026,Welcome to MY World,
 f5861ab4-c367-4f2f-a758-8d1b2a32ea76,Carey,eng
 f5cf78f7-dbc1-43c1-a3a8-bf28e29aeb17,Aha!,eng
+f600a585-03b1-47b0-98c9-1d1b4631ac01,Fever,kor
 f605b39a-5cc7-499e-80a5-d900ff1f4248,That That,mul
 f60dd067-b57b-42f2-8d36-1427dd6e64ca,I’d Rather Go Blind,
 f60df758-7f71-4b17-9c34-b6f663f3df25,Focus,eng

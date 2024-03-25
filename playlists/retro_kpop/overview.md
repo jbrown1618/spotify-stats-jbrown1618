@@ -92,14 +92,14 @@
 |:---|:---|---:|:---|
 | | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 5 | Lyricist |
 | | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 3 | Producer |
+| | [김도훈 (Kim, Do-hoon)](../../producers/김도훈_(kim,_do-hoon)/overview.md) | 3 | Arranger, Lyricist, Songwriter |
+| | G. Gorilla | 2 | Arranger, Lyricist, Songwriter |
 | | 이민수 (이민수) | 2 | Arranger, Songwriter |
-| | 에스나 (Esna) | 1 | Songwriter |
-| | 최예지 (Choi, Ye-ji) | 1 | Producer |
-| | 정의석 (Jung, Euisuk) | 1 | Producer |
-| | 이주형 (Lee, Juhyeong) | 1 | Arranger, Producer |
-| | [Pop Time](../../producers/pop_time/overview.md) | 1 | Arranger, Songwriter |
-| | Kako | 1 | Arranger, Songwriter |
-| | Tayla Parx | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | [HWASA](../../artists/hwasa/overview.md) | 1 | Lyricist |
+| | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 1 | Producer |
+| | Dem Jointz | 1 | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 1 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5bfb46687cb00b51b9e65c50" alt="" width="50" /> | Moon Byul | 1 | Lyricist |
 
 
 <details>
@@ -107,28 +107,33 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | G. Gorilla | 1 | Arranger, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 1 | Arranger, Lyricist, Songwriter |
-| | Dem Jointz | 1 | Arranger, Songwriter |
-| | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 1 | Producer |
 | | 外山和彦 (Toyama, Kazuhiko) | 1 | Arranger |
-| | Josef Melin | 1 | Arranger, Songwriter |
+| | Kako | 1 | Arranger, Songwriter |
+| | [Pop Time](../../producers/pop_time/overview.md) | 1 | Arranger, Songwriter |
+| | 이주형 (Lee, Juhyeong) | 1 | Arranger, Producer |
+| | 정의석 (Jung, Euisuk) | 1 | Producer |
+| | 최예지 (Choi, Ye-ji) | 1 | Producer |
+| | Tayla Parx | 1 | Songwriter |
 | | 정석원 (Jung, Seok-won) | 1 | Arranger, Songwriter |
+| | 에스나 (Esna) | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | Solar | 1 | Lyricist |
 | | 1월 8일 (1월 8일) | 1 | Lyricist |
 | | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 1 | Songwriter |
-| | [김도훈 (Kim, Do-hoon)](../../producers/김도훈_(kim,_do-hoon)/overview.md) | 1 | Arranger, Songwriter |
+| | 박우상 (Park, Woo-sang) | 1 | Arranger |
 | | 황현 (Hwang, Hyeon) | 1 | Arranger, Lyricist, Producer, Songwriter |
 | | 구종밀 (Koo, Jong-mil) | 1 | Producer |
+| | 민연재 (Min, Yun-jae) | 1 | Lyricist |
 | | Malin Johansson | 1 | Arranger, Songwriter |
 | | [Kenzie](../../producers/kenzie/overview.md) | 1 | Arranger, Lyricist |
 | | 100%서정 (100%Seojung) | 1 | Lyricist |
 | | Ollipop | 1 | Arranger, Songwriter |
+| | Josef Melin | 1 | Arranger, Songwriter |
 | | Hayley Aitken | 1 | Arranger, Songwriter |
 
 </details>
 
 
-![Bar chart of top 27 producers](../../images/playlists/retro_kpop/producers.png)
+![Bar chart of top 30 producers](../../images/playlists/retro_kpop/producers.png)
 
 ## Most and least listened tracks
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
@@ -139,7 +144,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | [Nxde](../../artists/(g)i-dle/overview.md) | 5617 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> | [Obliviate](../../artists/iu/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> | [Modern Times](../../artists/iu/overview.md) | 335 | <img src="https://i.scdn.co/image/ab67616d0000b273d8c952b4b7e3d72267edc537" alt="Cat" width="50" /> | Cat (Feat. IU) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="Last Fantasy" width="50" /> | [YOU&I](../../artists/iu/overview.md) | 229 | <img src="https://i.scdn.co/image/ab67616d0000b27367f8236540d6f145e2f0baa1" alt="HELLO" width="50" /> | [Mr-Ambiguous](../../artists/mamamoo/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> | [The Red Shoes](../../artists/iu/overview.md) | 176 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> | [Between the lips (50cm)](../../artists/iu/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> | [The Red Shoes](../../artists/iu/overview.md) | 179 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> | [Between the lips (50cm)](../../artists/iu/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="Piano Man" width="50" /> | [Piano Man](../../artists/mamamoo/overview.md) | 10 | <img src="https://i.scdn.co/image/ab67616d0000b273733b6abfa76a28b999feb572" alt="MEMORY" width="50" /> | [Décalcomanie](../../artists/mamamoo/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8ac90d6852487a82df1b443" alt="A flower bookmark" width="50" /> | [Pierrot laughs at us](../../artists/iu/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273107ade016c96b4769c200bc4" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | [Jazz Bar](../../artists/dreamcatcher/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> | [Love of B](../../artists/iu/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> | [Havana](../../artists/iu/overview.md) | 0 |

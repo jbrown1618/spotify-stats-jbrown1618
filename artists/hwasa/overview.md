@@ -76,7 +76,7 @@ HWASA:
 
 | Credit Type | Tracks |
 |:---|---:|
-| Lyricist | 3 |
+| Lyricist | 4 |
 | Songwriter | 1 |
 | Vocal | 3 |
 
@@ -84,6 +84,7 @@ HWASA:
 
 | Art | Track | Credit Types |
 |:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273733b6abfa76a28b999feb572" alt="" width="50" /> | Décalcomanie | Lyricist |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737709b0a8ba9059fc46fefcb2" alt="" width="50" /> | Yes I Am | Lyricist |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | Maria | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731dfb11871aa63ac9010c0619" alt="" width="50" /> | I`m a B | Lyricist |

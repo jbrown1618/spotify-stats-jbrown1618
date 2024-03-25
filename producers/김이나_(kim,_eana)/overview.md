@@ -4,14 +4,14 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Lyricist | 11 |
+| Lyricist | 13 |
 
 ## Produces for Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | 4 | 4 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="" width="50" /> | 3 | 3 | [Gain](../../artists/gain/overview.md) | [🔗](https://open.spotify.com/artist/4R60A85t9mTZzCqJlVswuo) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | 5 | 5 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="" width="50" /> | 4 | 4 | [Gain](../../artists/gain/overview.md) | [🔗](https://open.spotify.com/artist/4R60A85t9mTZzCqJlVswuo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e1e3c9c9582aba8686b42d2" alt="" width="50" /> | 1 | 1 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb097877542866c981757e9592" alt="" width="50" /> | 1 | 1 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61b0348367c6466a6282f5a5" alt="" width="50" /> | 1 | 1 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
@@ -21,10 +21,10 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| 이민수 | 이민수 (이민수) | 5 |
+| 이민수 | 이민수 (이민수) | 6 |
 | 정석원 | 정석원 (Jung, Seok-won) | 2 |
 | 오단영 | 오단영 (Oh, Dan-young) | 1 |
-| 김민희 | 김민희 (Kim, Min Hee) | 1 |
+| 문수아 | 문수아 (Moon Sua) | 1 |
 | Simon Bergseth | Simon Bergseth | 1 |
 | G. Gorilla | G. Gorilla | 1 |
 | Eline Noelia | Eline Noelia | 1 |
@@ -38,13 +38,14 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
+| 김민희 | 김민희 (Kim, Min Hee) | 1 |
 | Ryan S. Jhun | [Ryan S. Jhun](../ryan_s__jhun/overview.md) | 1 |
-| 문수아 | 문수아 (Moon Sua) | 1 |
 | 양영은 | [양영은 (Yang, Young-eun)](../양영은_(yang,_young-eun)/overview.md) | 1 |
 | Chelcee Grimes | Chelcee Grimes | 1 |
 | 시윤 | 시윤 (Siyoon) | 1 |
 | 김도훈 | [김도훈 (Kim, Do-hoon)](../김도훈_(kim,_do-hoon)/overview.md) | 1 |
 | Kristin Marie | Kristin Marie | 1 |
+| Saintbinary | Saintbinary | 1 |
 | Christian Vinten | Christian Vinten | 1 |
 | Kriz | Kriz | 1 |
 | 에스나 | 에스나 (Esna) | 1 |
@@ -57,8 +58,10 @@
 
 | Art | Track | Credit Types |
 |:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27335dbb67e8e2d12ab91d449b5" alt="" width="50" /> | Scary Fairy Tale | Lyricist |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | YOU&I | Lyricist |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c8feb0da36a6a8bc1a0d9f5" alt="" width="50" /> | Tinkerbell | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c8feb0da36a6a8bc1a0d9f5" alt="" width="50" /> | Bloom | Lyricist |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | Obliviate | Lyricist |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | Modern Times | Lyricist |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | The Red Shoes | Lyricist |

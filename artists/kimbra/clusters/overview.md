@@ -19,7 +19,7 @@
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | In My Bones (feat. Kimbra & Tank and The Bangas) | Djesse Vol. 3 | [Jacob Collier](../../../jacob_collier/overview.md), [Kimbra](../../overview.md), Tank and The Bangas | [Decca (UMO)](../../../../labels/decca_(umo)) | 95 | 💚 | [🔗](https://open.spotify.com/track/06PNiDGtPIMOq9VU2ftVCk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | In My Bones (feat. Kimbra & Tank and The Bangas) | Djesse Vol. 3 | [Jacob Collier](../../../jacob_collier/overview.md), [Kimbra](../../overview.md), Tank and The Bangas | [Decca (UMO)](../../../../labels/decca_(umo)) | 98 | 💚 | [🔗](https://open.spotify.com/track/06PNiDGtPIMOq9VU2ftVCk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | Recovery | Primal Heart | [Kimbra](../../overview.md) | [Warner Records](../../../../labels/warner_records) | 0 | | [🔗](https://open.spotify.com/track/0HqtTIH9Eo7IdTiiFvpdjM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | Like They Do on the TV | Primal Heart | [Kimbra](../../overview.md) | [Warner Records](../../../../labels/warner_records) | 0 | | [🔗](https://open.spotify.com/track/28FSs3VqsHiEGa8dIfnG2T) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273933e69748e2993ca43dbd644" alt="" width="50" /> | LA Type | A Reckoning | [Kimbra](../../overview.md), Tommy Raps, Pink Siifu | Kimbra | 0 | 💚 | [🔗](https://open.spotify.com/track/5itleMdzr78LXcwibYZkwP) |

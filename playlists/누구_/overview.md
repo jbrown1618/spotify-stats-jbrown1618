@@ -200,16 +200,16 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 용배 (Seo, Yong-bae) | 2 | Lyricist, Songwriter, Arranger |
+| | 용배 (Seo, Yong-bae) | 3 | Arranger, Lyricist, Songwriter |
+| | Inner Child | 2 | Lyricist, Songwriter |
 | | Rick Bridges | 2 | Lyricist, Songwriter |
-| | Inner Child | 1 | Lyricist, Songwriter |
+| | 이상호 (Lee, Sang-Ho) | 2 | Arranger, Lyricist, Songwriter |
+| | RAVN | 2 | Lyricist |
+| | 김승수 (Kim, Seung-soo) | 1 | Arranger, Lyricist, Songwriter |
 | | ギガP (GigaP) | 1 | Arranger, Songwriter |
 | | 우민정 (Umin, Je-ong) | 1 | Producer |
 | | 희창 (Hee-chang) | 1 | Arranger, Songwriter |
 | | 김승수 (Kim, Seungsu) | 1 | Lyricist, Songwriter |
-| | 김민구 (Kim, Min-goo) | 1 | Arranger, Lyricist, Songwriter |
-| | THE HUB 88 | 1 | Songwriter |
-| | TAK | 1 | Arranger, Songwriter |
 
 
 <details>
@@ -217,29 +217,31 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | 김민구 (Kim, Min-goo) | 1 | Arranger, Lyricist, Songwriter |
+| | THE HUB 88 | 1 | Songwriter |
+| | TAK | 1 | Arranger, Songwriter |
 | | Belle | 1 | Lyricist, Songwriter |
 | | 이태섭 (Lee, Tae-Sub) | 1 | Producer |
 | | 차유빈 (Cha, Yu-bin) | 1 | Lyricist |
-| | 김승수 (Kim, Seung-soo) | 1 | Arranger, Lyricist, Songwriter |
-| | hongsamman | 1 | Arranger, Songwriter |
 | | Natty | 1 | Songwriter |
+| | hongsamman | 1 | Arranger, Songwriter |
 | | Noerio | 1 | Songwriter |
 | | Jacob Aaron | 1 | Songwriter |
 | | [김도훈 (Kim, Do-hoon)](../../producers/김도훈_(kim,_do-hoon)/overview.md) | 1 | Lyricist, Songwriter |
+| | 이후상 (Lee, Hoo-sang) | 1 | Arranger, Lyricist, Songwriter |
 | | 밍키 (Mingki) | 1 | Arranger, Lyricist, Songwriter |
 | | Julie Han | 1 | Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb39bf033dbb25e5483994f51c" alt="" width="50" /> | Basick | 1 | Lyricist |
+| | 이도 (Leedo) | 1 | Lyricist |
 | | Le'mon | 1 | Lyricist |
 | | Dr.JO | 1 | Lyricist |
-| | RAVN | 1 | Lyricist |
-| | 이상호 (Lee, Sang-Ho) | 1 | Lyricist, Songwriter |
 | | Eltz | 1 | Arranger, Lyricist, Songwriter |
 | | Strawberrybananaclub | 1 | Arranger, Lyricist, Songwriter |
 
 </details>
 
 
-![Bar chart of top 28 producers](../../images/playlists/누구_/producers.png)
+![Bar chart of top 30 producers](../../images/playlists/누구_/producers.png)
 
 ## Most and least listened tracks
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |

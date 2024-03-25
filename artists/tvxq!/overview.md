@@ -70,6 +70,16 @@ TVXQ!:
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8e5eaab8b02db02e487c27" alt="" width="50" /> | Devil | MAX CHANGMIN | Lyricist |
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Mikkel Remee Sigvardt | 1 | Songwriter |
+| | Lucas | 1 | Songwriter |
+| | [유영진 (Yoo, Young-jin)](../../producers/유영진_(yoo,_young-jin)/overview.md) | 1 | Arranger, Lyricist |
+| | Thomas Troelsen | 1 | Songwriter |
+
+![Bar chart of top 4 producers](../../images/artists/tvxq!/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |

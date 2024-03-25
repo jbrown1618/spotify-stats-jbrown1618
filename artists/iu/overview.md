@@ -10,7 +10,7 @@
 
 ## Artist Rank
 IU is currently:
-- The #4 artist of the last month
+- The #5 artist of the last month
 - The #7 artist of the last 6 months
 - The #3 artist of all time
 
@@ -19,15 +19,15 @@ IU is currently:
 
 - My sea is the #17 track of all time
 - Jam Jam is:
-    - the #26 track of the last month
+    - the #23 track of the last month
     - the #25 track of all time
 - Holssi is:
     - the #2 track of the On Repeat playlist
-    - the #1 track of the last month
+    - the #3 track of the last month
     - the #16 track of the last 6 months
 - Love wins all is the #12 track of the On Repeat playlist
 - Shopper is the #30 track of the On Repeat playlist
-- The Red Shoes is the #32 track of the last month
+- The Red Shoes is the #29 track of the last month
 
 ### Top tracks, aggregated
 
@@ -138,12 +138,12 @@ IU is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 5 | Lyricist |
 | | 손명갑 (Son, Myung-gap) | 5 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | [IU](overview.md) | 5 | Lyricist, Songwriter |
-| | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 4 | Lyricist |
 | | 이민수 (이민수) | 2 | Arranger, Songwriter |
 | | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 2 | Producer |
-| | 이기 (IGGY) | 1 | Arranger, Songwriter |
+| | G. Gorilla | 2 | Arranger, Lyricist, Songwriter |
 | | 오성근 (Oh, Seong-Keun) | 1 | Producer |
 | | N!ko | 1 | Arranger, Songwriter |
 | | 고현정 (Go, Hyeon-Jeong) | 1 | Producer |
@@ -157,10 +157,10 @@ IU is currently:
 |:---|:---|---:|:---|
 | | Kako | 1 | Songwriter |
 | | 김희원 (Kim, Hee-won) | 1 | Songwriter |
-| | G. Gorilla | 1 | Arranger, Lyricist, Songwriter |
 | | 강효민 (Kang, Hyo-min) | 1 | Producer |
 | | 제휘 (Kim, Jea Whi) | 1 | Arranger, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 1 | Producer |
+| | 이기 (IGGY) | 1 | Arranger, Songwriter |
 | | Jeppe London Bilsby | 1 | Arranger, Songwriter |
 | | 이나일 (E, Na-Il) | 1 | Arranger |
 | | 外山和彦 (Toyama, Kazuhiko) | 1 | Arranger |
@@ -171,6 +171,7 @@ IU is currently:
 | | 웅킴 (Woong, Kim) | 1 | Arranger, Songwriter |
 | | Lauritz Emil Christiansen | 1 | Arranger, Songwriter |
 | | 조준성 (Jo, June-sung) | 1 | Producer |
+| | Saintbinary | 1 | Songwriter |
 | | Dr.JO | 1 | Songwriter |
 | | Chloe Latimer | 1 | Songwriter |
 | | Poptime | 1 | Arranger, Songwriter |
@@ -178,7 +179,7 @@ IU is currently:
 </details>
 
 
-![Bar chart of top 29 producers](../../images/artists/iu/producers.png)
+![Bar chart of top 30 producers](../../images/artists/iu/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
@@ -187,8 +188,8 @@ IU is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | My sea | IU 5th Album 'LILAC' | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 42609 | 💚 | [🔗](https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | Coin | IU 5th Album 'LILAC' | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 37021 | 💚 | [🔗](https://open.spotify.com/track/7CZRguMolNqIobnXxpV735) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | LILAC | IU 5th Album 'LILAC' | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 29531 | 💚 | [🔗](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | Jam Jam | Palette | [IU](overview.md) | Fave Entertainment | 11313 | 💚 | [🔗](https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | Holssi | The Winning | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 1672 | 💚 | [🔗](https://open.spotify.com/track/0UTtK6hregIBOsefavRI26) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | Jam Jam | Palette | [IU](overview.md) | Fave Entertainment | 11316 | 💚 | [🔗](https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | Holssi | The Winning | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 1670 | 💚 | [🔗](https://open.spotify.com/track/0UTtK6hregIBOsefavRI26) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | Modern Times | Modern Times | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 335 | 💚 | [🔗](https://open.spotify.com/track/38Dwg8OrUClCZl2wzUKrmi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | Love wins all | The Winning | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 246 | 💚 | [🔗](https://open.spotify.com/track/53g7ZIvZE47H9pwXPFYMCH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | YOU&I | Last Fantasy | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 229 | 💚 | [🔗](https://open.spotify.com/track/37S86pw74OH8j96ZmMnrpR) |
@@ -200,7 +201,7 @@ IU is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | The Red Shoes | Modern Times | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 176 | 💚 | [🔗](https://open.spotify.com/track/3atsk5EWI5fNxLMIJnfYfJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | The Red Shoes | Modern Times | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 179 | 💚 | [🔗](https://open.spotify.com/track/3atsk5EWI5fNxLMIJnfYfJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | above the time | Love poem | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 146 | 💚 | [🔗](https://open.spotify.com/track/2qKZnheMe0HhqYC1XJcdaA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | unlucky | Love poem | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 117 | 💚 | [🔗](https://open.spotify.com/track/1jsY6pQeNaEConZWGau1L4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335dbb67e8e2d12ab91d449b5" alt="" width="50" /> | Scary Fairy Tale | REAL+ | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 111 | 💚 | [🔗](https://open.spotify.com/track/4I7QHqHq3luA1ygpWZqqBV) |

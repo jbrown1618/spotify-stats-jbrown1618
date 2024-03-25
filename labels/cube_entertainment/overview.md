@@ -90,14 +90,14 @@ Appears as:
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 12 | Lyricist, Arranger, Songwriter |
 | | 최예지 (Choi, Ye-ji) | 5 | Producer |
+| | 빅싼초 (Bicksancho) | 5 | Songwriter, Arranger, Lyricist |
 | | [Pop Time](../../producers/pop_time/overview.md) | 5 | Arranger, Songwriter |
-| | 빅싼초 (Bicksancho) | 4 | Songwriter, Arranger, Lyricist |
-| | 신재빈 (Shin, Jae Bin) | 3 | Producer |
+| | 신재빈 (Shin, Jae Bin) | 4 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d1e7a339dc928b7e54c530c" alt="" width="50" /> | YUQI | 3 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb091c34da2d67e72099260882" alt="" width="50" /> | HyunA | 2 | Lyricist |
-| | Kako | 2 | Arranger, Songwriter |
-| | MOJO | 2 | Lyricist, Songwriter, Arranger |
-| | 손영진 (Son, Young-jin) | 2 | Arranger, Lyricist, Songwriter |
+| | 손영진 (Son, Young-jin) | 3 | Arranger, Lyricist, Songwriter |
+| | 서재우 (Seo, Jae-woo) | 3 | Arranger, Lyricist, Songwriter |
+| | 조씨아저씨 (Mr. Cho) | 3 | Producer |
+| | 전부연 (Jeon, Bu-yeon) | 3 | Producer |
 
 
 <details>
@@ -105,15 +105,16 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 서재우 (Seo, Jae-woo) | 2 | Arranger, Lyricist, Songwriter |
-| | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 2 | Producer |
-| | 전부연 (Jeon, Bu-yeon) | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb091c34da2d67e72099260882" alt="" width="50" /> | HyunA | 3 | Lyricist |
 | | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 2 | Producer |
+| | Kako | 2 | Arranger, Songwriter |
+| | MOJO | 2 | Lyricist, Songwriter, Arranger |
+| | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 2 | Producer |
 | | Boytoy | 2 | Lyricist, Songwriter, Arranger |
-| | MINNIE | 2 | Lyricist, Songwriter |
 | | Likey | 2 | Arranger, Songwriter |
-| | 조씨아저씨 (Mr. Cho) | 2 | Producer |
 | | Daily | 2 | Arranger, Songwriter |
+| | MINNIE | 2 | Lyricist, Songwriter |
+| | 로 (Raw) | 1 | Arranger |
 | | FCM 후디니 (FCM Houdini) | 1 | Arranger, Lyricist, Songwriter |
 | | Milli Oshyun | 1 | Arranger, Songwriter |
 | | DRK | 1 | Producer |
@@ -121,15 +122,14 @@ Appears as:
 | | 강선영 (강선영) | 1 | Producer |
 | | 홍승성 (Hong, Seung-sung) | 1 | Producer |
 | | Siixk Jun | 1 | Arranger, Songwriter |
-| | [양영은 (Yang, Young-eun)](../../producers/양영은_(yang,_young-eun)/overview.md) | 1 | Producer |
 | | JENCI | 1 | Arranger, Songwriter |
-| | 로 (Raw) | 1 | Arranger |
+| | 이승훈 (Lee, Seunghoon) | 1 | Arranger, Songwriter |
 | | HouDini | 1 | Arranger |
 | | 전지윤 (Jeon, Ji Yoon) | 1 | Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb61f92702ca14484aa263a931" alt="" width="50" /> | Skrillex | 1 | Arranger, Songwriter |
 | | Melli | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb61f92702ca14484aa263a931" alt="" width="50" /> | Skrillex | 1 | Arranger, Songwriter |
+| | [양영은 (Yang, Young-eun)](../../producers/양영은_(yang,_young-eun)/overview.md) | 1 | Producer |
 | | 제인스 (Jayins) | 1 | Lyricist, Songwriter |
-| | 이승훈 (Lee, Seunghoon) | 1 | Arranger, Songwriter |
 | | 213 | 1 | Arranger, Lyricist, Songwriter |
 
 </details>
@@ -165,7 +165,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | VILLAIN DIES | I NEVER DIE | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 89 | 💚 | [🔗](https://open.spotify.com/track/6adPuBjUw3Zh6wK27d8Rgv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Wife | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 78 | 💚 | [🔗](https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | Like It | No.1 | [CLC](../../artists/clc/overview.md) | [CUBE ENTERTAINMENT](.) | 51 | 💚 | [🔗](https://open.spotify.com/track/6ioP0snRYjhfWKNMMLKOde) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | Sparkling Night | IN:VITE U | [PENTAGON](../../artists/pentagon/overview.md) | [Cube Entertainment](.) | 41 | 💚 | [🔗](https://open.spotify.com/track/5muXLxcyjv5RY2sGwl68TL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | Sparkling Night | IN:VITE U | [PENTAGON](../../artists/pentagon/overview.md) | [Cube Entertainment](.) | 44 | 💚 | [🔗](https://open.spotify.com/track/5muXLxcyjv5RY2sGwl68TL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb58e97e2e4b1cac28d6ba23" alt="" width="50" /> | Hmm BOP | WHU IS ME : Complex | Hui | [Cube Entertainment](.) | 16 | | [🔗](https://open.spotify.com/track/02b8ldrByRJbFE5M71q34w) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c89d6d3da4431db2eb42acb2" alt="" width="50" /> | Fiction | Fiction And Fact | Beast | [CUBE ENTERTAINMENT](.) | 0 | | [🔗](https://open.spotify.com/track/69QlYqNJeZG14R4an2aoJv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf83c1a01156fb93b564160" alt="" width="50" /> | Bubble Pop! | Bubble Pop! | HyunA | [CUBE Entertainment](.) | 0 | | [🔗](https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU) |

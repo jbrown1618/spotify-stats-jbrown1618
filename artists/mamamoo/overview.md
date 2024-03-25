@@ -19,7 +19,7 @@ MAMAMOO:
 
 ## Artist Rank
 MAMAMOO is currently:
-- The #24 artist of the last month
+- The #23 artist of the last month
 - The #36 artist of the last 6 months
 - The #30 artist of all time
 
@@ -111,7 +111,7 @@ MAMAMOO is currently:
 
 | | Moon Byul | Solar | Whee In | [HWASA](../hwasa/overview.md) |
 |:---|---:|---:|---:|---:|
-| Lyricist | 3 | 2 | 0 | 3 |
+| Lyricist | 4 | 3 | 0 | 4 |
 | Songwriter | 1 | 0 | 0 | 1 |
 | Vocal | 1 | 1 | 1 | 3 |
 ### Production Credits
@@ -119,7 +119,8 @@ MAMAMOO is currently:
 | Art | Track | Members | Credit Types |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27338fc902e1d368df7fc0d77a3" alt="" width="50" /> | You’re the Best | Moon Byul, Solar | Lyricist |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737709b0a8ba9059fc46fefcb2" alt="" width="50" /> | Yes I Am | [HWASA](../../hwasa/overview.md), Moon Byul, Solar | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b273733b6abfa76a28b999feb572" alt="" width="50" /> | Décalcomanie | Moon Byul, Solar, [HWASA](../../hwasa/overview.md) | Lyricist |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737709b0a8ba9059fc46fefcb2" alt="" width="50" /> | Yes I Am | Moon Byul, Solar, [HWASA](../../hwasa/overview.md) | Lyricist |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | Maria | [HWASA](../../hwasa/overview.md) | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731dfb11871aa63ac9010c0619" alt="" width="50" /> | I`m a B | [HWASA](../../hwasa/overview.md) | Lyricist |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c8e39cbee7aa7192c706534" alt="" width="50" /> | Save Me | Moon Byul | Lyricist, Songwriter |
@@ -128,15 +129,17 @@ MAMAMOO is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [김도훈 (Kim, Do-hoon)](../../producers/김도훈_(kim,_do-hoon)/overview.md) | 3 | Arranger, Songwriter, Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5bfb46687cb00b51b9e65c50" alt="" width="50" /> | Moon Byul | 2 | Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | Solar | 2 | Lyricist |
+| | [김도훈 (Kim, Do-hoon)](../../producers/김도훈_(kim,_do-hoon)/overview.md) | 5 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5bfb46687cb00b51b9e65c50" alt="" width="50" /> | Moon Byul | 3 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | Solar | 3 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | [HWASA](../hwasa/overview.md) | 2 | Lyricist |
 | | 에스나 (Esna) | 1 | Songwriter |
 | | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 1 | Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | [HWASA](../hwasa/overview.md) | 1 | Lyricist |
+| | 민연재 (Min, Yun-jae) | 1 | Lyricist |
+| | 박우상 (Park, Woo-sang) | 1 | Arranger |
 | | 이단옆차기 (Duble Sidekick) | 1 | Songwriter |
 
-![Bar chart of top 7 producers](../../images/artists/mamamoo/producers.png)
+![Bar chart of top 9 producers](../../images/artists/mamamoo/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |

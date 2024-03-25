@@ -30,7 +30,7 @@
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | enchanted night ~ white night | the Billage of perception: chapter three | [Billlie](../../overview.md) | [MYSTIC STORY](../../../../labels/mystic_story) | 5722 | 💚 | [🔗](https://open.spotify.com/track/0rTXn4ovXalJGkJMx5hsnX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | enchanted night ~ white night | the Billage of perception: chapter three | [Billlie](../../overview.md) | [MYSTIC STORY](../../../../labels/mystic_story) | 5725 | 💚 | [🔗](https://open.spotify.com/track/0rTXn4ovXalJGkJMx5hsnX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | nevertheless | the Billage of perception: chapter three | [Billlie](../../overview.md) | [MYSTIC STORY](../../../../labels/mystic_story) | 71 | 💚 | [🔗](https://open.spotify.com/track/26fVl2CYeXXxD4yEqmhrpM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | EUNOIA | the Billage of perception: chapter three | [Billlie](../../overview.md) | [MYSTIC STORY](../../../../labels/mystic_story) | 7019 | 💚 | [🔗](https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="" width="50" /> | B’rave ~ a song for Matilda | the Billage of perception: chapter two | [Billlie](../../overview.md) | [MYSTIC STORY](../../../../labels/mystic_story) | 0 | | [🔗](https://open.spotify.com/track/78Kr4lzSgXyE11fq4ncILK) |

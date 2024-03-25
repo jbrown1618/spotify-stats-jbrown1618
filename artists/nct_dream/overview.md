@@ -22,9 +22,9 @@ NCT DREAM:
 
 ## Artist Rank
 NCT DREAM is currently:
-- The #32 artist of the last month
+- The #30 artist of the last month
 - The #45 artist of the last 6 months
-- The #24 artist of all time
+- The #28 artist of all time
 
 ![Rank of NCT DREAM over time](../../images/artists/nct_dream/rank_time_series.png)
 ## Top Tracks

@@ -31,6 +31,7 @@ NCT 127 is currently:
 ![Rank of NCT 127 over time](../../images/artists/nct_127/rank_time_series.png)
 ## Top Tracks
 
+- 2 Baddies is the #47 track of the last month
 
 ### Top tracks, aggregated
 
@@ -113,7 +114,7 @@ NCT 127 is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | 2 Baddies | 2 Baddies - The 4th Album | [NCT 127](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 3949 | 💚 | [🔗](https://open.spotify.com/track/1WKLxJpDqkQ9x1qEDNutoX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | 2 Baddies | 2 Baddies - The 4th Album | [NCT 127](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 3953 | 💚 | [🔗](https://open.spotify.com/track/1WKLxJpDqkQ9x1qEDNutoX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | Sticker | Sticker - The 3rd Album | [NCT 127](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 403 | 💚 | [🔗](https://open.spotify.com/track/1iGQpclvzonFNzy7Ko89V7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732159a29c68303b4b0076b741" alt="" width="50" /> | Highway to Heaven - English Version | Highway to Heaven (English Version) | [NCT 127](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 65 | | [🔗](https://open.spotify.com/track/3WNuXdBxk8tQ2VI020dqvE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | Lemonade | Sticker - The 3rd Album | [NCT 127](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 8 | 💚 | [🔗](https://open.spotify.com/track/6txVOdSbg928oeGhlVUrdK) |

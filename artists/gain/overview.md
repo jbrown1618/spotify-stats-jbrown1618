@@ -5,6 +5,8 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="Gain" width="100" />
 
 ## Artist Rank
+Gain is currently:
+- The #48 artist of the last month
 
 ![Rank of Gain over time](../../images/artists/gain/rank_time_series.png)
 ## Top Tracks
@@ -49,8 +51,8 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 3 | Lyricist |
-| | 이민수 (이민수) | 2 | Arranger, Songwriter |
+| | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 4 | Lyricist |
+| | 이민수 (이민수) | 3 | Arranger, Songwriter |
 | | 정석원 (Jung, Seok-won) | 1 | Arranger, Songwriter |
 
 ![Bar chart of top 3 producers](../../images/artists/gain/producers.png)

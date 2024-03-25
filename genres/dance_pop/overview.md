@@ -118,7 +118,7 @@
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
 |:---|:---|---:|:---|:---|---:|
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c041fe9e3c9de436047d86b" alt="I Am The Best" width="50" /> | I Am The Best | 32688 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | [Leave The Door Open](../../artists/bruno_mars/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="ELVIS (Original Motion Picture Soundtrack)" width="50" /> | [Vegas](../../artists/doja_cat/overview.md) | 236 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="Tangled" width="50" /> | When Will My Life Begin? - From "Tangled" / Soundtrack Version | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="ELVIS (Original Motion Picture Soundtrack)" width="50" /> | [Vegas](../../artists/doja_cat/overview.md) | 208 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="Tangled" width="50" /> | When Will My Life Begin? - From "Tangled" / Soundtrack Version | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738136c2c2762cba40cb51f9aa" alt="The Evolution" width="50" /> | Get Up (feat. Chamillionaire) | 196 | <img src="https://i.scdn.co/image/ab67616d0000b27306b7221a0ecc0dd36f4f8f18" alt="React" width="50" /> | React | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f" alt="Merry Christmas" width="50" /> | All I Want for Christmas Is You | 102 | <img src="https://i.scdn.co/image/ab67616d0000b2737a6339d6ddfd579f77559b3c" alt="Animal (Expanded Edition)" width="50" /> | TiK ToK | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" alt="FutureSex/LoveSounds" width="50" /> | SexyBack (feat. Timbaland) | 90 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="Doo-Wops &amp; Hooligans" width="50" /> | [The Other Side (feat. CeeLo Green and B.o.B)](../../artists/bruno_mars/overview.md) | 0 |
@@ -330,11 +330,12 @@
 | | [RedOne](../../producers/redone/overview.md) | 5 | Producer, Songwriter, Arranger |
 | | Dr. Luke | 4 | Producer |
 | | Brody Brown | 4 | Songwriter |
-| | The Smeezingtons | 4 | Producer |
+| | [TEDDY](../../producers/teddy/overview.md) | 4 | Arranger, Lyricist, Producer, Songwriter |
 | | Rami | 4 | Songwriter, Producer |
 | | James Fauntleroy | 4 | Songwriter |
 | | Ari Levine | 4 | Producer, Songwriter |
 | | Frank Dukes | 4 | Songwriter, Producer |
+| | The Smeezingtons | 4 | Producer |
 | | Brandon Paak Anderson | 3 | Songwriter |
 | | Ray McCullough | 3 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="" width="50" /> | [Jason Derulo](../../artists/jason_derulo/overview.md) | 3 | Songwriter |
@@ -342,7 +343,6 @@
 | | Caroline Ailin | 3 | Songwriter, Producer |
 | | [Tony Maserati](../../producers/tony_maserati/overview.md) | 3 | Producer |
 | | Robert Orton | 3 | Producer |
-| | [TEDDY](../../producers/teddy/overview.md) | 3 | Arranger, Lyricist, Producer, Songwriter |
 | | Andrew Wyatt | 3 | Songwriter, Producer |
 | | D'Mile | 3 | Producer, Songwriter |
 | | Jaycen Joshua | 3 | Producer |
@@ -392,14 +392,15 @@
 | | Ali Tamposi | 2 | Songwriter |
 | | Larry Gold | 2 | Arranger |
 | | Sarah Hudson | 2 | Songwriter |
-| | Jussifer | 2 | Producer, Songwriter |
 | | John Amatiello | 2 | Producer |
+| | Jussifer | 2 | Producer, Songwriter |
 | | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | Pharrell Williams | 2 | Songwriter |
 | | Boo Mitchell | 2 | Producer |
 | | Emily Warren | 2 | Songwriter |
 | | Afrojack | 1 | Producer |
-| | Jacob Olofsson | 1 | Songwriter |
+| | Alejandro Guillermo Marambio Altamirano | 1 | Songwriter |
+| | Ron Fair | 1 | Arranger, Producer |
 | | Iain Hill | 1 | Producer |
 | | Jason Roberts | 1 | Producer |
 | | Matt Beckley | 1 | Producer |
@@ -409,12 +410,11 @@
 | | Brian T. Littrell | 1 | Songwriter |
 | | Akon | 1 | Songwriter |
 | | Tal Herzberg | 1 | Producer |
-| | Alejandro Guillermo Marambio Altamirano | 1 | Songwriter |
+| | Jacob Olofsson | 1 | Songwriter |
+| | Wayne Gordon | 1 | Producer |
 | | Jarami | 1 | Producer |
-| | Jacob Schulze | 1 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | Nicki Minaj | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | Juicy J | 1 | Songwriter |
-| | David Campbell | 1 | Arranger |
 
 </details>
 

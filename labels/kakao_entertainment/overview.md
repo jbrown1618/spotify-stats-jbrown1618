@@ -66,13 +66,14 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 4 | Lyricist |
+| | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 5 | Lyricist |
 | | 이민수 (이민수) | 2 | Arranger, Songwriter |
+| | G. Gorilla | 2 | Arranger, Lyricist, Songwriter |
+| | Saintbinary | 1 | Songwriter |
 | | 정석원 (Jung, Seok-won) | 1 | Arranger, Songwriter |
 | | 外山和彦 (Toyama, Kazuhiko) | 1 | Arranger |
-| | G. Gorilla | 1 | Arranger, Lyricist, Songwriter |
 
-![Bar chart of top 5 producers](../../images/labels/kakao_entertainment/producers.png)
+![Bar chart of top 6 producers](../../images/labels/kakao_entertainment/producers.png)
 ## Tracks released under Kakao Entertainment
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
@@ -80,7 +81,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1d785640d9421ec17ea8fe6" alt="" width="50" /> | BBIBBI | BBIBBI | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 47181 | 💚 | [🔗](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | Modern Times | Modern Times | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 335 | 💚 | [🔗](https://open.spotify.com/track/38Dwg8OrUClCZl2wzUKrmi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | YOU&I | Last Fantasy | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 229 | 💚 | [🔗](https://open.spotify.com/track/37S86pw74OH8j96ZmMnrpR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | The Red Shoes | Modern Times | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 176 | 💚 | [🔗](https://open.spotify.com/track/3atsk5EWI5fNxLMIJnfYfJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | The Red Shoes | Modern Times | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 179 | 💚 | [🔗](https://open.spotify.com/track/3atsk5EWI5fNxLMIJnfYfJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | above the time | Love poem | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 146 | 💚 | [🔗](https://open.spotify.com/track/2qKZnheMe0HhqYC1XJcdaA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | unlucky | Love poem | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 117 | 💚 | [🔗](https://open.spotify.com/track/1jsY6pQeNaEConZWGau1L4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335dbb67e8e2d12ab91d449b5" alt="" width="50" /> | Scary Fairy Tale | REAL+ | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 111 | 💚 | [🔗](https://open.spotify.com/track/4I7QHqHq3luA1ygpWZqqBV) |

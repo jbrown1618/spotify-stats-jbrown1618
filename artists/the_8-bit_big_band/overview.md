@@ -6,7 +6,7 @@
 
 ## Artist Rank
 The 8-Bit Big Band is currently:
-- The #20 artist of the last month
+- The #19 artist of the last month
 
 ![Rank of The 8-Bit Big Band over time](../../images/artists/the_8-bit_big_band/rank_time_series.png)
 ## Top Tracks

@@ -10,7 +10,7 @@
 
 ## Artist Rank
 Taylor Swift is currently:
-- The #16 artist of the last month
+- The #14 artist of the last month
 - The #14 artist of the last 6 months
 - The #21 artist of all time
 

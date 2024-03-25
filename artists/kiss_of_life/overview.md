@@ -14,7 +14,7 @@ KISS OF LIFE:
 
 ## Artist Rank
 KISS OF LIFE is currently:
-- The #27 artist of the last month
+- The #26 artist of the last month
 - The #48 artist of the last 6 months
 
 ![Rank of KISS OF LIFE over time](../../images/artists/kiss_of_life/rank_time_series.png)

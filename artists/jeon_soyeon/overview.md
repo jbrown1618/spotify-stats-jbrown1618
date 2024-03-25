@@ -11,7 +11,7 @@ JEON SOYEON:
 
 ## Artist Rank
 JEON SOYEON is currently:
-- The #46 artist of the last month
+- The #50 artist of the last month
 - The #41 artist of all time
 
 ![Rank of JEON SOYEON over time](../../images/artists/jeon_soyeon/rank_time_series.png)

@@ -297,15 +297,15 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | [Ollounder](../../producers/ollounder/overview.md) | 7 | Arranger, Lyricist, Songwriter |
-| | 김석민 (Kim Seog-min) | 6 | Producer |
 | | [LEEZ](../../producers/leez/overview.md) | 6 | Arranger, Lyricist, Songwriter, Producer |
+| | 김석민 (Kim Seog-min) | 6 | Producer |
 | | [FINNEAS](../../producers/finneas/overview.md) | 5 | Lyricist, Producer, Songwriter, Arranger |
 | | Rob Kinelski | 4 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 4 | Songwriter |
 | | 정창현 (Jung, Chang-hyun) | 4 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5d1e7a339dc928b7e54c530c" alt="" width="50" /> | YUQI | 3 | Lyricist, Songwriter |
 | | 이수만 (Lee, Soo-Man) | 3 | Producer |
 | | 유키 (Yuki) | 3 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5d1e7a339dc928b7e54c530c" alt="" width="50" /> | YUQI | 3 | Lyricist, Songwriter |
 
 
 <details>
@@ -313,31 +313,30 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 2 | Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | [BIBI](../../artists/bibi/overview.md) | 2 | Lyricist, Songwriter |
-| | Sally Herbert | 2 | Arranger |
-| | [Kenzie](../../producers/kenzie/overview.md) | 2 | Lyricist, Songwriter |
+| | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 3 | Lyricist |
 | | 이민수 (이민수) | 2 | Arranger, Songwriter |
 | | [Paul Epworth](../../producers/paul_epworth/overview.md) | 2 | Lyricist, Producer, Songwriter |
 | | MOJO | 2 | Lyricist, Songwriter, Arranger |
-| | 남궁진 (Nam Goong, Jin) | 2 | Producer |
+| | [Kenzie](../../producers/kenzie/overview.md) | 2 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | [BIBI](../../artists/bibi/overview.md) | 2 | Lyricist, Songwriter |
+| | 김보은 (Kim, Bo-eun) | 2 | Lyricist |
 | | [강지원 (Kang, Jiwon)](../../producers/강지원_(kang,_jiwon)/overview.md) | 2 | Producer, Arranger, Lyricist, Songwriter |
+| | 남궁진 (Nam Goong, Jin) | 2 | Producer |
+| | Sally Herbert | 2 | Arranger |
 | | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 2 | Producer |
 | | Boytoy | 2 | Lyricist, Songwriter, Arranger |
-| | 김보은 (Kim, Bo-eun) | 2 | Lyricist |
 | | 나고은 (Na, Go-eun) | 2 | Lyricist |
-| | [Florence Welch](../../producers/florence_welch/overview.md) | 2 | Lyricist, Songwriter |
 | | [조윤경 (Jo, Yoon Kyung)](../../producers/조윤경_(jo,_yoon_kyung)/overview.md) | 2 | Lyricist |
-| | Alexander Holmgren | 1 | Arranger, Songwriter |
-| | twlv | 1 | Songwriter |
-| | Annalise Morelli | 1 | Songwriter |
-| | 이성호 (Lee, Sung-ho) | 1 | Producer |
-| | 서재우 (Seo, Jae-woo) | 1 | Arranger, Lyricist, Songwriter |
+| | [Florence Welch](../../producers/florence_welch/overview.md) | 2 | Lyricist, Songwriter |
 | | 손영진 (Son, Young-jin) | 1 | Arranger, Lyricist, Songwriter |
 | | 김준혁 (Kim Joonhyuk) | 1 | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | [Eminem](../../artists/eminem/overview.md) | 1 | Songwriter |
+| | 이성호 (Lee, Sung-ho) | 1 | Producer |
+| | 서재우 (Seo, Jae-woo) | 1 | Arranger, Lyricist, Songwriter |
+| | Alexander Holmgren | 1 | Arranger, Songwriter |
+| | twlv | 1 | Songwriter |
+| | Annalise Morelli | 1 | Songwriter |
 | | Jimmy Napes | 1 | Songwriter |
-| | Robert Allen | 1 | Songwriter |
 | | 노민지 (Noh, Min-ji) | 1 | Producer |
 | | Cathy Dennis | 1 | Arranger |
 | | Yuth | 1 | Arranger, Songwriter |
@@ -353,8 +352,9 @@
 | | 이승훈 (Lee, Seunghoon) | 1 | Arranger, Songwriter |
 | | Joachim Vermeulen Windsant | 1 | Arranger |
 | | Chris Kasych | 1 | Producer |
+| | [ILYA](../../producers/ilya/overview.md) | 1 | Songwriter |
 | | [Daniel Nigro](../../producers/daniel_nigro/overview.md) | 1 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 1 | Lyricist |
+| | Robert Allen | 1 | Songwriter |
 | | Frequency | 1 | Producer, Songwriter |
 | | IMLAY | 1 | Arranger |
 | | Cazzi Opeia | 1 | Lyricist, Songwriter |
@@ -388,10 +388,10 @@
 | | Ellen Berg Tollbom | 1 | Lyricist, Songwriter |
 | | Sophie Ellis-Bextor | 1 | Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 1 | Songwriter |
-| | [ILYA](../../producers/ilya/overview.md) | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 1 | Lyricist |
 | | Zac Baird | 1 | Producer |
 | | Sebastien Najand | 1 | Lyricist, Producer, Songwriter |
-| | David Hodges | 1 | Producer, Songwriter |
+| | Blake Slatkin | 1 | Songwriter |
 | | 홍현걸 (Hong, Hyeon-Geol) | 1 | Lyricist |
 | | Jon Bellion | 1 | Songwriter |
 | | Max Levin | 1 | Arranger, Songwriter |
@@ -412,14 +412,14 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | [Illusion](../../artists/aespa/overview.md) | 39291 | <img src="https://i.scdn.co/image/ab67616d0000b27367ebaeedc3ad203e0589e6eb" alt="Re-Original" width="50" /> | VENOM | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | [Illusion](../../artists/aespa/overview.md) | 39255 | <img src="https://i.scdn.co/image/ab67616d0000b27367ebaeedc3ad203e0589e6eb" alt="Re-Original" width="50" /> | VENOM | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="Run Devil Run - The 2nd Album Repackage" width="50" /> | [Run Devil Run](../../artists/girls__generation/overview.md) | 23059 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | [Up All Night (Bang Chan, Changbin, Felix, Seungmin)](../../artists/stray_kids/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | [Oh my god](../../artists/(g)i-dle/overview.md) | 16317 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="Wings" width="50" /> | Wings | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | [Oh my god](../../artists/(g)i-dle/overview.md) | 16320 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="Wings" width="50" /> | Wings | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="Drama - The 4th Mini Album" width="50" /> | [Trick or Trick](../../artists/aespa/overview.md) | 13031 | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | [Wet Nightmare](../../artists/bibi/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="28 Reasons - The 1st Mini Album" width="50" /> | [28 Reasons](../../artists/seulgi/overview.md) | 12150 | <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="SEVENTEEN 11th Mini Album &#x27;SEVENTEENTH HEAVEN&#x27;" width="50" /> | [Monster](../../artists/seventeen/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="28 Reasons - The 1st Mini Album" width="50" /> | [28 Reasons](../../artists/seulgi/overview.md) | 12162 | <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="SEVENTEEN 11th Mini Album &#x27;SEVENTEENTH HEAVEN&#x27;" width="50" /> | [Monster](../../artists/seventeen/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="the Billage of perception : chapter one" width="50" /> | [RING X RING](../../artists/billlie/overview.md) | 11666 | <img src="https://i.scdn.co/image/ab67616d0000b2737eed64905d129d52667201f2" alt="DEJAYOU" width="50" /> | DEJAYOU | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | [Sacrifice (Eat Me Up)](../../artists/enhypen/overview.md) | 10056 | <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="Pink Tape - The 2nd Album" width="50" /> | 미행 (그림자 : Shadow) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="Chill Kill - The 3rd Album" width="50" /> | [One Kiss](../../artists/red_velvet/overview.md) | 8083 | <img src="https://i.scdn.co/image/ab67616d0000b2730c1f1054d3a170ee26430c79" alt="AGASSY" width="50" /> | AGASSY | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="Chill Kill - The 3rd Album" width="50" /> | [One Kiss](../../artists/red_velvet/overview.md) | 8095 | <img src="https://i.scdn.co/image/ab67616d0000b2730c1f1054d3a170ee26430c79" alt="AGASSY" width="50" /> | AGASSY | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | [Animal Farm](../../artists/bibi/overview.md) | 7361 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [bad guy](../../artists/billie_eilish/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="Chill Kill - The 3rd Album" width="50" /> | [Nightmare](../../artists/red_velvet/overview.md) | 7100 | <img src="https://i.scdn.co/image/ab67616d0000b27325adc6ae87e26bc7e556af71" alt="Favorite - The 3rd Album Repackage" width="50" /> | [Favorite (Vampire)](../../artists/nct_127/overview.md) | 0 |
 

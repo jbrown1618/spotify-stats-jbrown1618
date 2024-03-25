@@ -22,6 +22,8 @@ NCT U:
 - is a subgroup of NCT
 
 ## Artist Rank
+NCT U is currently:
+- The #46 artist of the last month
 
 
 ## Top Tracks

@@ -15,7 +15,7 @@ TEN:
 
 ## Artist Rank
 TEN is currently:
-- The #26 artist of the last month
+- The #25 artist of the last month
 - The #39 artist of the last 6 months
 - The #46 artist of all time
 
@@ -72,12 +72,16 @@ TEN is currently:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | pixelwave | 1 | Arranger, Songwriter |
+| | SQUAR | 1 | Arranger, Producer, Songwriter |
 | | Steve Manovski | 1 | Arranger, Producer, Songwriter |
 | | Young Chance | 1 | Lyricist, Songwriter |
 | | GRAY | 1 | Lyricist, Songwriter |
+| | 이아일 (Oiaisle) | 1 | Songwriter |
+| | Adrian McKinnon | 1 | Lyricist |
 | | Corey Sanders | 1 | Lyricist, Songwriter |
+| | Sami Khan | 1 | Lyricist |
 
-![Bar chart of top 5 producers](../../images/artists/ten/producers.png)
+![Bar chart of top 9 producers](../../images/artists/ten/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |

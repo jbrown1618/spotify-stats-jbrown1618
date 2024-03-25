@@ -412,15 +412,15 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 45 | Producer, Arranger |
-| | [TEDDY](../../producers/teddy/overview.md) | 31 | Lyricist, Producer, Songwriter, Arranger |
+| | [TEDDY](../../producers/teddy/overview.md) | 32 | Lyricist, Producer, Songwriter, Arranger |
 | | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 20 | Arranger, Songwriter, Lyricist, Producer |
 | | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 18 | Producer |
-| | [24](../../producers/24/overview.md) | 17 | Arranger, Producer, Songwriter |
 | | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 17 | Lyricist |
-| | [구혜진 (Gu, Hye-jin)](../../producers/구혜진_(gu,_hye-jin)/overview.md) | 16 | Producer |
+| | [24](../../producers/24/overview.md) | 17 | Arranger, Producer, Songwriter |
 | | [엄세희 (Um, Se-Hee)](../../producers/엄세희_(um,_se-hee)/overview.md) | 16 | Producer |
+| | [구혜진 (Gu, Hye-jin)](../../producers/구혜진_(gu,_hye-jin)/overview.md) | 16 | Producer |
+| | [유영진 (Yoo, Young-jin)](../../producers/유영진_(yoo,_young-jin)/overview.md) | 15 | Arranger, Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 15 | Lyricist, Arranger, Songwriter |
-| | [양영은 (Yang, Young-eun)](../../producers/양영은_(yang,_young-eun)/overview.md) | 15 | Producer |
 
 
 <details>
@@ -428,96 +428,96 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | [양영은 (Yang, Young-eun)](../../producers/양영은_(yang,_young-eun)/overview.md) | 15 | Producer |
 | | [방시혁 (Bang, Si-Hyuk)](../../producers/방시혁_(bang,_si-hyuk)/overview.md) | 15 | Songwriter, Lyricist |
-| | [R.Tee](../../producers/r_tee/overview.md) | 14 | Arranger, Producer, Songwriter, Lyricist |
 | | [블랙아이드필승 (Black Eyed Pilseung)](../../producers/블랙아이드필승_(black_eyed_pilseung)/overview.md) | 14 | Lyricist, Songwriter, Arranger, Producer |
 | | [Ollounder](../../producers/ollounder/overview.md) | 14 | Arranger, Lyricist, Songwriter |
-| | [라도 (Rado)](../../producers/라도_(rado)/overview.md) | 13 | Arranger, Lyricist, Songwriter, Producer |
-| | [조윤경 (Jo, Yoon Kyung)](../../producers/조윤경_(jo,_yoon_kyung)/overview.md) | 13 | Lyricist, Songwriter |
-| | [유영진 (Yoo, Young-jin)](../../producers/유영진_(yoo,_young-jin)/overview.md) | 13 | Arranger, Lyricist, Producer, Songwriter |
+| | [R.Tee](../../producers/r_tee/overview.md) | 14 | Arranger, Producer, Songwriter, Lyricist |
 | | [LEEZ](../../producers/leez/overview.md) | 13 | Arranger, Lyricist, Songwriter, Producer |
+| | [조윤경 (Jo, Yoon Kyung)](../../producers/조윤경_(jo,_yoon_kyung)/overview.md) | 13 | Lyricist, Songwriter |
+| | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 13 | Lyricist |
+| | [라도 (Rado)](../../producers/라도_(rado)/overview.md) | 13 | Arranger, Lyricist, Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 12 | Lyricist, Songwriter |
 | | [Pdogg](../../producers/pdogg/overview.md) | 11 | Producer, Songwriter, Arranger |
+| | [김도훈 (Kim, Do-hoon)](../../producers/김도훈_(kim,_do-hoon)/overview.md) | 11 | Arranger, Lyricist, Songwriter |
 | | [SCORE](../../producers/score/overview.md) | 11 | Songwriter, Arranger, Lyricist, Producer |
-| | [김병석 (Kim, Byung-seok)](../../producers/김병석_(kim,_byung-seok)/overview.md) | 11 | Songwriter, Arranger, Lyricist, Producer |
-| | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 11 | Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | RM | 11 | Songwriter, Arranger, Producer, Lyricist |
+| | [김병석 (Kim, Byung-seok)](../../producers/김병석_(kim,_byung-seok)/overview.md) | 11 | Songwriter, Arranger, Lyricist, Producer |
 | | [Tony Maserati](../../producers/tony_maserati/overview.md) | 11 | Producer |
-| | 13 | 10 | Producer |
-| | Kriz | 10 | Songwriter, Arranger |
 | | [전군 (Jeon Goon)](../../producers/전군_(jeon_goon)/overview.md) | 10 | Lyricist, Songwriter, Producer |
+| | Kriz | 10 | Songwriter, Arranger |
+| | 13 | 10 | Producer |
 | | 이수만 (Lee, Soo-Man) | 10 | Producer |
 | | 이태섭 (Lee, Tae-Sub) | 10 | Producer |
-| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 9 | Producer |
 | | 김석민 (Kim Seog-min) | 9 | Producer |
-| | [김도훈 (Kim, Do-hoon)](../../producers/김도훈_(kim,_do-hoon)/overview.md) | 9 | Lyricist, Songwriter, Arranger |
+| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 9 | Producer |
 | | 윤원권 (Yoon, Won-kwon) | 9 | Producer |
-| | [Fuxxy](../../producers/fuxxy/overview.md) | 9 | Lyricist, Songwriter, Arranger |
-| | [Kenzie](../../producers/kenzie/overview.md) | 9 | Songwriter, Arranger, Lyricist, Producer |
-| | [Supreme Boi](../../producers/supreme_boi/overview.md) | 9 | Songwriter, Lyricist |
-| | [danke](../../producers/danke/overview.md) | 9 | Lyricist, Songwriter |
 | | Alawn | 9 | Producer, Arranger |
-| | Jason Roberts | 8 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 8 | Producer, Songwriter, Arranger, Lyricist |
-| | 정의석 (Jung, Euisuk) | 8 | Producer |
-| | [심은지 (Sim, Eunjee)](../../producers/심은지_(sim,_eunjee)/overview.md) | 8 | Arranger, Lyricist, Producer, Songwriter |
-| | DRK | 8 | Producer |
-| | 김영현 (Kim, Young-hyun) | 8 | Producer |
-| | 황민희 (Hwang, Min-hee) | 8 | Producer |
-| | Danny Chung | 8 | Lyricist |
+| | [Supreme Boi](../../producers/supreme_boi/overview.md) | 9 | Songwriter, Lyricist |
+| | [Fuxxy](../../producers/fuxxy/overview.md) | 9 | Lyricist, Songwriter, Arranger |
+| | [danke](../../producers/danke/overview.md) | 9 | Lyricist, Songwriter |
+| | [Kenzie](../../producers/kenzie/overview.md) | 9 | Songwriter, Arranger, Lyricist, Producer |
 | | 이상엽 (Lee, Sang-yeob) | 8 | Producer |
+| | 정의석 (Jung, Euisuk) | 8 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 8 | Producer, Songwriter, Arranger, Lyricist |
 | | 남궁진 (Nam Goong, Jin) | 8 | Producer |
+| | DRK | 8 | Producer |
+| | 황민희 (Hwang, Min-hee) | 8 | Producer |
+| | 김영현 (Kim, Young-hyun) | 8 | Producer |
+| | [심은지 (Sim, Eunjee)](../../producers/심은지_(sim,_eunjee)/overview.md) | 8 | Arranger, Lyricist, Producer, Songwriter |
+| | Jason Roberts | 8 | Producer |
+| | Danny Chung | 8 | Lyricist |
+| | 최예지 (Choi, Ye-ji) | 7 | Producer |
 | | YOUNGJU BANG | 7 | Producer |
 | | 유키 (Yuki) | 7 | Lyricist |
-| | Melanie Joy Fontana | 7 | Lyricist, Songwriter |
-| | 최예지 (Choi, Ye-ji) | 7 | Producer |
 | | 이연수 (Lee, Yeon-soo) | 7 | Producer |
-| | Jason Robert | 6 | Producer |
-| | Anna Timgren | 6 | Lyricist, Songwriter |
-| | 이스란 (Lee, Seran) | 6 | Lyricist |
-| | [VINCENZO](../../producers/vincenzo/overview.md) | 6 | Arranger, Lyricist, Songwriter |
-| | 김준혁 (Kim Joonhyuk) | 6 | Producer, Songwriter, Lyricist |
-| | 고현정 (Go, Hyeon-Jeong) | 6 | Producer |
-| | [FLYT](../../producers/flyt/overview.md) | 6 | Arranger, Songwriter, Producer |
+| | Melanie Joy Fontana | 7 | Lyricist, Songwriter |
+| | 전부연 (Jeon, Bu-yeon) | 7 | Producer |
 | | Dr.JO | 6 | Lyricist, Songwriter, Arranger |
-| | 최혜진 (Cho, Hye-jin) | 6 | Producer |
 | | 이민규 (Lee, Min-kyu) | 6 | Producer |
-| | 신지영 (Shin, Ji-young) | 6 | Producer |
-| | 전부연 (Jeon, Bu-yeon) | 6 | Producer |
-| | [Arschtritt Lindgren](../../producers/arschtritt_lindgren/overview.md) | 6 | Arranger, Songwriter, Producer |
+| | 이민수 (이민수) | 6 | Arranger, Songwriter |
+| | 고현정 (Go, Hyeon-Jeong) | 6 | Producer |
+| | 이스란 (Lee, Seran) | 6 | Lyricist |
 | | [Pop Time](../../producers/pop_time/overview.md) | 6 | Arranger, Songwriter |
+| | Anna Timgren | 6 | Lyricist, Songwriter |
+| | [VINCENZO](../../producers/vincenzo/overview.md) | 6 | Arranger, Lyricist, Songwriter |
+| | Jason Robert | 6 | Producer |
+| | [FLYT](../../producers/flyt/overview.md) | 6 | Arranger, Songwriter, Producer |
+| | [Arschtritt Lindgren](../../producers/arschtritt_lindgren/overview.md) | 6 | Arranger, Songwriter, Producer |
+| | 정창현 (Jung, Chang-hyun) | 6 | Producer |
+| | 신재빈 (Shin, Jae Bin) | 6 | Producer |
 | | 이지홍 (Lee, Ji-hong) | 6 | Producer |
 | | [강지원 (Kang, Jiwon)](../../producers/강지원_(kang,_jiwon)/overview.md) | 6 | Producer, Arranger, Lyricist, Songwriter |
-| | 정창현 (Jung, Chang-hyun) | 6 | Producer |
-| | Bokyeong Wang | 5 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc1e2ce68a6bdcc8e03e882e7" alt="" width="50" /> | [SUNMI](../../artists/sunmi/overview.md) | 5 | Lyricist, Songwriter |
-| | Cazzi Opeia | 5 | Songwriter, Lyricist |
-| | 이민수 (이민수) | 5 | Arranger, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | [BIBI](../../artists/bibi/overview.md) | 5 | Lyricist, Songwriter |
-| | 김홍중 (Kim, Hong Joong) | 5 | Songwriter, Lyricist |
-| | Charli Taft | 5 | Arranger, Songwriter, Lyricist |
-| | 강선영 (강선영) | 5 | Producer |
-| | Gigi | 5 | Lyricist |
-| | Nermin Harambašić (Harambašić, Nermin) | 5 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8e075c754be58cc33e30905a" alt="" width="50" /> | [CHUNG HA](../../artists/chung_ha/overview.md) | 5 | Lyricist |
-| | Rick Bridges | 5 | Lyricist, Songwriter |
-| | 이경원 (Lee, Kyung-won) | 5 | Producer |
-| | 손명갑 (Son, Myung-gap) | 5 | Producer |
-| | 임홍진 (Im, Hong-Jin) | 5 | Producer |
-| | Young Chance | 5 | Lyricist, Songwriter |
+| | 최혜진 (Cho, Hye-jin) | 6 | Producer |
+| | 신지영 (Shin, Ji-young) | 6 | Producer |
+| | 김준혁 (Kim Joonhyuk) | 6 | Producer, Songwriter, Lyricist |
+| | 조씨아저씨 (Mr. Cho) | 6 | Producer |
 | | 김철순 (Kim, Chul-Soon) | 5 | Producer |
 | | Kyler Niko | 5 | Lyricist, Songwriter |
-| | 조씨아저씨 (Mr. Cho) | 5 | Producer |
-| | 임찬미 (Kim, Chan-mi) | 5 | Producer |
-| | [LDN Noise](../../producers/ldn_noise/overview.md) | 5 | Arranger, Songwriter, Producer |
-| | 신재빈 (Shin, Jae Bin) | 5 | Producer |
-| | Paulina Cerrilla | 5 | Lyricist, Songwriter |
+| | 강선영 (강선영) | 5 | Producer |
+| | Rick Bridges | 5 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc1e2ce68a6bdcc8e03e882e7" alt="" width="50" /> | [SUNMI](../../artists/sunmi/overview.md) | 5 | Lyricist, Songwriter |
+| | Charli Taft | 5 | Arranger, Songwriter, Lyricist |
+| | Cazzi Opeia | 5 | Songwriter, Lyricist |
+| | 김홍중 (Kim, Hong Joong) | 5 | Songwriter, Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8e075c754be58cc33e30905a" alt="" width="50" /> | [CHUNG HA](../../artists/chung_ha/overview.md) | 5 | Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | [IU](../../artists/iu/overview.md) | 5 | Lyricist, Songwriter |
-| | Anne Judith Wik | 5 | Arranger, Songwriter, Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc3ac1bd308a02d51b44697fa" alt="" width="50" /> | HUH YUNJIN | 5 | Songwriter, Lyricist |
-| | Pyungwook Lee | 5 | Producer |
+| | 빅싼초 (Bicksancho) | 5 | Songwriter, Arranger, Lyricist |
+| | Gigi | 5 | Lyricist |
+| | 임홍진 (Im, Hong-Jin) | 5 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | [BIBI](../../artists/bibi/overview.md) | 5 | Lyricist, Songwriter |
+| | 손명갑 (Son, Myung-gap) | 5 | Producer |
+| | 임찬미 (Kim, Chan-mi) | 5 | Producer |
 | | Ylva Dimberg | 5 | Lyricist, Songwriter, Arranger |
-| | Jang Yi-jeong | 4 | Arranger, Songwriter, Producer |
+| | Bokyeong Wang | 5 | Producer |
+| | Pyungwook Lee | 5 | Producer |
+| | Young Chance | 5 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3ac1bd308a02d51b44697fa" alt="" width="50" /> | HUH YUNJIN | 5 | Songwriter, Lyricist |
+| | [LDN Noise](../../producers/ldn_noise/overview.md) | 5 | Arranger, Songwriter, Producer |
+| | Nermin Harambašić (Harambašić, Nermin) | 5 | Lyricist, Songwriter |
+| | Anne Judith Wik | 5 | Arranger, Songwriter, Lyricist |
+| | 이경원 (Lee, Kyung-won) | 5 | Producer |
+| | Paulina Cerrilla | 5 | Lyricist, Songwriter |
 
 </details>
 
@@ -527,15 +527,15 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | [Savage](../../artists/aespa/overview.md) | 71135 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="INVU - The 3rd Album" width="50" /> | [Set Myself On Fire](../../artists/taeyeon/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | [Savage](../../artists/aespa/overview.md) | 71147 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="INVU - The 3rd Album" width="50" /> | [Set Myself On Fire](../../artists/taeyeon/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="reality in BLACK" width="50" /> | [HIP](../../artists/mamamoo/overview.md) | 70855 | <img src="https://i.scdn.co/image/ab67616d0000b2736cfc57e5358c5e39e79bccbd" alt="Gangnam Style (강남스타일)" width="50" /> | Gangnam Style (강남스타일) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="Next Level" width="50" /> | [Next Level](../../artists/aespa/overview.md) | 67954 | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="D-2" width="50" /> | [Moonlight](../../artists/agust_d/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [Pretty Savage](../../artists/blackpink/overview.md) | 61350 | <img src="https://i.scdn.co/image/ab67616d0000b27354d483dff87402bfe717f738" alt="What Do I Call You - The 4th Mini Album" width="50" /> | [To the moon](../../artists/taeyeon/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [Pretty Savage](../../artists/blackpink/overview.md) | 61353 | <img src="https://i.scdn.co/image/ab67616d0000b27354d483dff87402bfe717f738" alt="What Do I Call You - The 4th Mini Album" width="50" /> | [To the moon](../../artists/taeyeon/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="María" width="50" /> | [Maria](../../artists/hwasa/overview.md) | 60353 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="MAXIDENT" width="50" /> | [SUPER BOARD](../../artists/stray_kids/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="KILL THIS LOVE" width="50" /> | [Kill This Love](../../artists/blackpink/overview.md) | 59595 | <img src="https://i.scdn.co/image/ab67616d0000b2739756c6519e249c1c7c060e60" alt="Never Gonna Dance Again : Act 1 - The 3rd Album" width="50" /> | Clockwork | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [Crazy Over You](../../artists/blackpink/overview.md) | 57691 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | [Masquerade](../../artists/chung_ha/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [How You Like That](../../artists/blackpink/overview.md) | 57492 | <img src="https://i.scdn.co/image/ab67616d0000b27363afb50f4fcb52f570c5fed5" alt="DALALA" width="50" /> | DALALA | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="Heng:garæ" width="50" /> | [Left & Right](../../artists/seventeen/overview.md) | 57015 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="Taste of Love" width="50" /> | [Alcohol-Free](../../artists/twice/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="Heng:garæ" width="50" /> | [Left & Right](../../artists/seventeen/overview.md) | 56919 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="Taste of Love" width="50" /> | [Alcohol-Free](../../artists/twice/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | [Gotta Go](../../artists/chung_ha/overview.md) | 56855 | <img src="https://i.scdn.co/image/ab67616d0000b2734fbde4c63b86079e0517b1cb" alt="Beatbox - The 2nd Album Repackage" width="50" /> | [Beatbox](../../artists/nct_dream/overview.md) | 0 |
 
 ## Years
