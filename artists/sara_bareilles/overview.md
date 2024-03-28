@@ -10,9 +10,9 @@
 
 ## Artist Rank
 Sara Bareilles is currently:
-- The #17 artist of the last month
-- The #17 artist of the last 6 months
-- The #20 artist of all time
+- The #6 artist of the last month
+- The #10 artist of the last 6 months
+- The #18 artist of all time
 
 ![Rank of Sara Bareilles over time](../../images/artists/sara_bareilles/rank_time_series.png)
 ## Top Tracks

@@ -24,7 +24,7 @@
 | 엄세희 | [엄세희 (Um, Se-Hee)](../엄세희_(um,_se-hee)/overview.md) | 3 |
 | 심은지 | [심은지 (Sim, Eunjee)](../심은지_(sim,_eunjee)/overview.md) | 2 |
 | GG Ramirez | GG Ramirez | 2 |
-| 이태섭 | 이태섭 (Lee, Tae-Sub) | 2 |
+| 이태섭 | [이태섭 (Lee, Tae-Sub)](../이태섭_(lee,_tae-sub)/overview.md) | 2 |
 | j-hope | j-hope | 2 |
 | SUGA | [SUGA](../suga/overview.md) | 2 |
 | RM | [RM](../rm/overview.md) | 2 |

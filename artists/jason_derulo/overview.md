@@ -9,7 +9,6 @@
 ![Rank of Jason Derulo over time](../../images/artists/jason_derulo/rank_time_series.png)
 ## Top Tracks
 
-- Get Ugly is the #49 track of the last month
 
 ### Top tracks, aggregated
 

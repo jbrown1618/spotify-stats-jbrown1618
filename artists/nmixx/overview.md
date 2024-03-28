@@ -22,13 +22,13 @@ NMIXX:
 ## Artist Rank
 NMIXX is currently:
 - The #19 artist of the last 6 months
-- The #19 artist of all time
+- The #21 artist of all time
 
 ![Rank of NMIXX over time](../../images/artists/nmixx/rank_time_series.png)
 ## Top Tracks
 
-- DASH is the #1 track of the On Repeat playlist
-- Soñar (Breaker) is the #17 track of the On Repeat playlist
+- DASH is the #3 track of the On Repeat playlist
+- Soñar (Breaker) is the #21 track of the On Repeat playlist
 
 ### Top tracks, aggregated
 
@@ -60,7 +60,7 @@ NMIXX is currently:
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | 5 | 3 | expérgo | 2023-03-20 | [🔗](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | 3 | 2 | Fe3O4: BREAK | 2024-01-15 | [🔗](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | 3 | 3 | Fe3O4: BREAK | 2024-01-15 | [🔗](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | 2 | 2 | AD MARE | 2022-02-22 | [🔗](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | 1 | 1 | ENTWURF | 2022-09-19 | [🔗](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b75c539083b9fc36d7cc7f59" alt="" width="50" /> | 1 | 0 | AD MARE | 2022-02-22 | [🔗](https://open.spotify.com/album/0QkOWJsNjhHQwhmhy4bstt) |
@@ -70,7 +70,7 @@ NMIXX is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 11 | 8 | [Republic Records](../../labels/republic_records/overview.md) |
+| 11 | 9 | [Republic Records](../../labels/republic_records/overview.md) |
 | 2 | 0 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 
 ## Genres
@@ -84,27 +84,27 @@ NMIXX is currently:
 
 | Credit Type | Tracks |
 |:---|---:|
-| Performer | 5 |
+| Performer | 6 |
 
 ### Member Credits
 
 | | JINI | Lily Jin Morrow | 김지우 (Kim, Ji-woo) | 배진솔 (Bae, Jin-sol) | 설윤아 (Seol, Yoo-nah) | 오해원 (Oh, Hae-won) | 장규진 (Jang, Kyu-jin) |
 |:---|---:|---:|---:|---:|---:|---:|---:|
-| Vocal | 2 | 5 | 5 | 5 | 5 | 5 | 5 |
+| Vocal | 2 | 6 | 6 | 6 | 6 | 6 | 6 |
 ## Top Producers
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Brian U | 3 | Songwriter, Arranger |
 | | Dr.JO | 3 | Lyricist, Arranger |
+| | Ayushy | 3 | Songwriter, Arranger |
+| | Brian U | 3 | Songwriter, Arranger |
+| | [엄세희 (Um, Se-Hee)](../../producers/엄세희_(um,_se-hee)/overview.md) | 3 | Producer |
 | | 오현선 (Oh, Hyun-sun) | 3 | Lyricist |
-| | [구혜진 (Gu, Hye-jin)](../../producers/구혜진_(gu,_hye-jin)/overview.md) | 2 | Producer |
-| | Frankie Day | 2 | Songwriter |
-| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 2 | Producer |
+| | [구혜진 (Gu, Hye-jin)](../../producers/구혜진_(gu,_hye-jin)/overview.md) | 3 | Producer |
+| | Frankie Day | 3 | Songwriter, Lyricist |
 | | 김영현 (Kim, Young-hyun) | 2 | Producer |
-| | Charlotte Wilson | 2 | Songwriter, Arranger |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 2 | Producer |
 | | 임찬미 (Kim, Chan-mi) | 2 | Producer |
-| | [엄세희 (Um, Se-Hee)](../../producers/엄세희_(um,_se-hee)/overview.md) | 2 | Producer |
 
 
 <details>
@@ -112,37 +112,44 @@ NMIXX is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Ayushy | 2 | Songwriter, Arranger |
+| | Charlotte Wilson | 2 | Songwriter, Arranger |
 | | 백새임 (Baek, Sae-im) | 2 | Lyricist |
-| | Chanti | 1 | Songwriter |
-| | MarkAlong | 1 | Songwriter |
-| | Joseph K | 1 | Arranger, Songwriter |
-| | Zaya | 1 | Lyricist |
-| | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 1 | Producer |
-| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 1 | Producer |
-| | Deanna | 1 | Songwriter |
-| | Jonkind | 1 | Songwriter |
-| | Dem Jointz | 1 | Arranger, Songwriter |
-| | 차이린 (Chailin) | 1 | Lyricist |
-| | MJ | 1 | Producer |
-| | 김인 (Kim, In) | 1 | Lyricist |
-| | 박지현 (Park, Ji-hyun) | 1 | Lyricist |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 2 | Producer |
 | | Enan | 1 | Songwriter |
 | | Brown Panda | 1 | Arranger, Songwriter |
-| | 성유진 (Sung, Yoojin) | 1 | Lyricist |
-| | Awry | 1 | Songwriter |
-| | Deza | 1 | Lyricist |
-| | 오유원 (Oh, Yoo-won) | 1 | Lyricist |
+| | Jonkind | 1 | Songwriter |
+| | Deanna | 1 | Songwriter |
+| | [이태섭 (Lee, Tae-Sub)](../../producers/이태섭_(lee,_tae-sub)/overview.md) | 1 | Producer |
 | | 이경원 (Lee, Kyung-won) | 1 | Producer |
+| | Joseph K | 1 | Arranger, Songwriter |
+| | [LDN Noise](../../producers/ldn_noise/overview.md) | 1 | Arranger |
+| | Chanti | 1 | Songwriter |
+| | 오유원 (Oh, Yoo-won) | 1 | Lyricist |
+| | Zaya | 1 | Lyricist |
+| | Deza | 1 | Lyricist |
+| | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 1 | Producer |
+| | Dem Jointz | 1 | Arranger, Songwriter |
+| | MarkAlong | 1 | Songwriter |
+| | MJ | 1 | Producer |
+| | Awry | 1 | Songwriter |
+| | 성유진 (Sung, Yoojin) | 1 | Lyricist |
+| | Taet Chesterton | 1 | Songwriter |
+| | 김인 (Kim, In) | 1 | Lyricist |
 | | 원지애 (Won, Jiae) | 1 | Lyricist |
+| | 서은일 (Seo, Eun-il) | 1 | Producer |
+| | Greg Bonnick | 1 | Songwriter |
+| | 박지현 (Park, Ji-hyun) | 1 | Lyricist |
+| | 강영현 (Kang, Young-hyun) | 1 | Lyricist |
+| | 차이린 (Chailin) | 1 | Lyricist |
 | | Ericka Coulter | 1 | Songwriter |
 | | NVR know | 1 | Arranger, Songwriter |
-| | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 1 | Arranger, Songwriter |
+| | 이스란 (Lee, Seran) | 1 | Lyricist |
 | | PUFF | 1 | Arranger, Songwriter |
 | | 복주영 (Bok, Ju Young) | 1 | Lyricist |
 | | WKLY | 1 | Lyricist |
 | | EJAE | 1 | Songwriter |
 | | Rajan Muse | 1 | Songwriter |
+| | [Kriz](../../producers/kriz/overview.md) | 1 | Arranger |
 | | HONEY NOISE | 1 | Arranger, Producer, Songwriter |
 | | 랑가 (Langa) | 1 | Arranger, Songwriter |
 | | Strong Dragon | 1 | Arranger, Songwriter |
@@ -151,11 +158,15 @@ NMIXX is currently:
 | | 강선영 (강선영) | 1 | Producer |
 | | Alawn | 1 | Producer |
 | | Jan Baars | 1 | Songwriter |
+| | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 1 | Arranger, Songwriter |
 | | 아르마딜로 (Armadillo) | 1 | Arranger, Songwriter |
 | | AFTRSHOK | 1 | Arranger, Songwriter |
 | | Matthew Jaragin | 1 | Songwriter |
 | | 형근 (Hyeongeun) | 1 | Lyricist |
+| | 이상엽 (Lee, Sang-yeob) | 1 | Producer |
 | | [danke](../../producers/danke/overview.md) | 1 | Lyricist |
+| | Danny Shah | 1 | Songwriter |
+| | Hayden Chapman | 1 | Songwriter |
 | | C'SA | 1 | Arranger, Producer, Songwriter |
 | | Jacob Aaron | 1 | Songwriter |
 | | Awrii | 1 | Arranger, Songwriter |
@@ -173,10 +184,10 @@ NMIXX is currently:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Love Me Like This | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 5961 | 💚 | [🔗](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | HOME | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 327 | 💚 | [🔗](https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | DASH | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 232 | 💚 | [🔗](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Soñar (Breaker) | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 129 | 💚 | [🔗](https://open.spotify.com/track/6UwrPxRaR5HPNLDDl7RcT9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | DASH | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 316 | 💚 | [🔗](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Soñar (Breaker) | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 159 | 💚 | [🔗](https://open.spotify.com/track/6UwrPxRaR5HPNLDDl7RcT9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | TANK | AD MARE | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 100 | 💚 | [🔗](https://open.spotify.com/track/4ZbXs9DzvdWlsQfA9ZUkCV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Run For Roses | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 88 | | [🔗](https://open.spotify.com/track/4byr9TsXs4qtm8rG2FfwRW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Run For Roses | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 88 | 💚 | [🔗](https://open.spotify.com/track/4byr9TsXs4qtm8rG2FfwRW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | O.O | AD MARE | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b75c539083b9fc36d7cc7f59" alt="" width="50" /> | TANK | AD MARE | [NMIXX](overview.md) | [JYP Entertainment](../../labels/jyp_entertainment) | 0 | | [🔗](https://open.spotify.com/track/2AtshmTKGwbtCybUmYxB4u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | DICE | ENTWURF | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) |

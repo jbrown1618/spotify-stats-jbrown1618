@@ -4,7 +4,7 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Producer | 17 |
+| Producer | 18 |
 
 ## Produces for Artists
 
@@ -12,7 +12,7 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c6952f39ba680489149a54c" alt="" width="50" /> | 6 | 6 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a" alt="" width="50" /> | 6 | 5 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1edc72b57c227d48e28888b1" alt="" width="50" /> | 2 | 2 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1edc72b57c227d48e28888b1" alt="" width="50" /> | 3 | 3 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc6b06646a678916fab69b37e" alt="" width="50" /> | 2 | 2 | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
 | | 1 | 1 | Felix (Stray Kids) | [🔗](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) |
 
@@ -20,16 +20,16 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| 엄세희 | [엄세희 (Um, Se-Hee)](../엄세희_(um,_se-hee)/overview.md) | 8 |
+| 엄세희 | [엄세희 (Um, Se-Hee)](../엄세희_(um,_se-hee)/overview.md) | 9 |
+| 이상엽 | 이상엽 (Lee, Sang-yeob) | 5 |
+| 이태섭 | [이태섭 (Lee, Tae-Sub)](../이태섭_(lee,_tae-sub)/overview.md) | 5 |
 | 심은지 | [심은지 (Sim, Eunjee)](../심은지_(sim,_eunjee)/overview.md) | 5 |
-| 임찬미 | 임찬미 (Kim, Chan-mi) | 4 |
-| 이태섭 | 이태섭 (Lee, Tae-Sub) | 4 |
 | 김영현 | 김영현 (Kim, Young-hyun) | 4 |
-| 이상엽 | 이상엽 (Lee, Sang-yeob) | 4 |
 | Tony Maserati | [Tony Maserati](../tony_maserati/overview.md) | 4 |
+| 임찬미 | 임찬미 (Kim, Chan-mi) | 4 |
+| Hayden Chapman | Hayden Chapman | 3 |
 | 이경원 | 이경원 (Lee, Kyung-won) | 3 |
-| earattack | [earattack](../earattack/overview.md) | 3 |
-| 이스란 | 이스란 (Lee, Seran) | 2 |
+| Greg Bonnick | Greg Bonnick | 3 |
 
 
 <details>
@@ -37,29 +37,32 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| 임홍진 | 임홍진 (Im, Hong-Jin) | 2 |
-| 구종필 | [구종필 (Koo, Jong-Pil)](../구종필_(koo,_jong-pil)/overview.md) | 2 |
-| Melanie Joy Fontana | Melanie Joy Fontana | 2 |
-| Greg Bonnick | Greg Bonnick | 2 |
+| earattack | [earattack](../earattack/overview.md) | 3 |
+| 이스란 | 이스란 (Lee, Seran) | 3 |
+| LDN Noise | [LDN Noise](../ldn_noise/overview.md) | 3 |
 | 오현선 | 오현선 (Oh, Hyun-sun) | 2 |
+| Melanie Joy Fontana | Melanie Joy Fontana | 2 |
+| 서은일 | 서은일 (Seo, Eun-il) | 2 |
+| Frankie Day | Frankie Day | 2 |
 | 윤원권 | 윤원권 (Yoon, Won-kwon) | 2 |
 | 이우현 | 이우현 (Lee, Woo-hyun) | 2 |
-| Hayden Chapman | Hayden Chapman | 2 |
 | Noday | Noday | 2 |
-| LDN Noise | [LDN Noise](../ldn_noise/overview.md) | 2 |
-| Karin Wilhemina Eurenius | Karin Wilhemina Eurenius | 1 |
-| 방혜현 | 방혜현 (Bang, Hye Hyun) | 1 |
-| Zarah Christenson | Zarah Christenson | 1 |
-| Arschtritt Lindgren | [Arschtritt Lindgren](../arschtritt_lindgren/overview.md) | 1 |
+| Ayushy | Ayushy | 2 |
+| 임홍진 | 임홍진 (Im, Hong-Jin) | 2 |
+| 구종필 | [구종필 (Koo, Jong-Pil)](../구종필_(koo,_jong-pil)/overview.md) | 2 |
+| 정은경 | [정은경 (Jung, Eun-Kyung)](../정은경_(jung,_eun-kyung)/overview.md) | 2 |
+| 손채영 | 손채영 (Son, Chae-young) | 1 |
+| Kelsey Klingensmith | Kelsey Klingensmith | 1 |
 | SELAH | SELAH | 1 |
+| 정다연 | 정다연 (Jeong, Dayeon) | 1 |
+| Zarah Christenson | Zarah Christenson | 1 |
+| 방혜현 | 방혜현 (Bang, Hye Hyun) | 1 |
+| Arschtritt Lindgren | [Arschtritt Lindgren](../arschtritt_lindgren/overview.md) | 1 |
 | Sam Carter | Sam Carter | 1 |
 | TBHits | TBHits | 1 |
-| 손채영 | 손채영 (Son, Chae-young) | 1 |
 | Joseph K | Joseph K | 1 |
-| 정은경 | [정은경 (Jung, Eun-Kyung)](../정은경_(jung,_eun-kyung)/overview.md) | 1 |
-| Kelsey Klingensmith | Kelsey Klingensmith | 1 |
-| 정다연 | 정다연 (Jeong, Dayeon) | 1 |
-| 김인 | 김인 (Kim, In) | 1 |
+| Karin Wilhemina Eurenius | Karin Wilhemina Eurenius | 1 |
+| Ellen Berg Tollbom | Ellen Berg Tollbom | 1 |
 | Kyler Niko | Kyler Niko | 1 |
 | 이민영 | 이민영 (Lee, Min-young) | 1 |
 | Kaedi Dalley | Kaedi Dalley | 1 |
@@ -70,15 +73,15 @@
 | Gingerbread | Gingerbread | 1 |
 | 성유진 | 성유진 (Sung, Yoojin) | 1 |
 | Arineh Karimi | Arineh Karimi | 1 |
-| 서은일 | 서은일 (Seo, Eun-il) | 1 |
+| Taet Chesterton | Taet Chesterton | 1 |
 | Brian U | Brian U | 1 |
-| Frankie Day | Frankie Day | 1 |
 | Brown Panda | Brown Panda | 1 |
 | Anne-Marie | Anne-Marie | 1 |
 | Josh Gudwin | [Josh Gudwin](../josh_gudwin/overview.md) | 1 |
+| 강영현 | 강영현 (Kang, Young-hyun) | 1 |
 | 송희진 | 송희진 (Song, Hee-jin) | 1 |
-| Ellen Berg Tollbom | Ellen Berg Tollbom | 1 |
 | Gusten Dahlqvist | Gusten Dahlqvist | 1 |
+| 김인 | 김인 (Kim, In) | 1 |
 | 常楽寺澪 | 常楽寺澪 (Jorakuji, Mio) | 1 |
 | IRIS Yerin Lee | IRIS Yerin Lee | 1 |
 | 원지애 | 원지애 (Won, Jiae) | 1 |
@@ -93,19 +96,19 @@
 | Kenzie | [Kenzie](../kenzie/overview.md) | 1 |
 | LSY | LSY | 1 |
 | Gray Trainer | Gray Trainer | 1 |
-| 여민수 | 여민수 (Yeo, Min Soo) | 1 |
+| 형근 | 형근 (Hyeongeun) | 1 |
 | Christoffer Semelius | Christoffer Semelius | 1 |
 | 마치 | 마치 (MRCH) | 1 |
 | HONEY NOISE | HONEY NOISE | 1 |
+| Kriz | [Kriz](../kriz/overview.md) | 1 |
 | EJAE | EJAE | 1 |
 | WKLY | WKLY | 1 |
 | 복주영 | 복주영 (Bok, Ju Young) | 1 |
 | PUFF | PUFF | 1 |
-| Ayushy | Ayushy | 1 |
 | Musikality | Musikality | 1 |
-| 형근 | 형근 (Hyeongeun) | 1 |
 | Mr. Franks | Mr. Franks | 1 |
-| Nina Ann Nelson | Nina Ann Nelson | 1 |
+| 여민수 | 여민수 (Yeo, Min Soo) | 1 |
+| KayOne | KayOne | 1 |
 | Shift K3Y | Shift K3Y | 1 |
 | Paulina Cerrilla | Paulina Cerrilla | 1 |
 | Barry Cohen | Barry Cohen | 1 |
@@ -114,11 +117,12 @@
 | 새봄 | 새봄 (Sae Bom) | 1 |
 | NVR know | NVR know | 1 |
 | Chris Galland | Chris Galland | 1 |
-| KayOne | KayOne | 1 |
 | Awrii | Awrii | 1 |
+| Nina Ann Nelson | Nina Ann Nelson | 1 |
 | Jacob Aaron | Jacob Aaron | 1 |
 | YUE | YUE | 1 |
 | C'SA | C'SA | 1 |
+| Danny Shah | Danny Shah | 1 |
 | 케빈오빠 | 케빈오빠 (Kevinoppa) | 1 |
 | Manny Marroquin | [Manny Marroquin](../manny_marroquin/overview.md) | 1 |
 | Kobee | Kobee | 1 |
@@ -146,5 +150,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | UNTOUCHABLE | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | BORN TO BE | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | DASH | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Run For Roses | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | ONE SPARK | Producer |
 | | nan | Producer |

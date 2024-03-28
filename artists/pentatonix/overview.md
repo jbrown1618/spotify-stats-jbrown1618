@@ -20,7 +20,7 @@ Pentatonix:
 
 ## Artist Rank
 Pentatonix is currently:
-- The #38 artist of the last month
+- The #40 artist of the last month
 - The #25 artist of the last 6 months
 - The #31 artist of all time
 
@@ -137,7 +137,7 @@ Pentatonix is currently:
 | | Louis Bell | 1 | Songwriter |
 | | Andrew Watt | 1 | Songwriter |
 | | Howard Lawrence | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](../camila_cabello/overview.md) | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb99a94361a732b7eb49342d35" alt="" width="50" /> | [Camila Cabello](../camila_cabello/overview.md) | 1 | Songwriter |
 | | Kevin Figueiredo | 1 | Songwriter |
 | | Ali Tamposi | 1 | Songwriter |
 | | Alex da Kid | 1 | Songwriter |

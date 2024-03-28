@@ -22,7 +22,7 @@
 | Producer | Producer | Tracks |
 |:---|:---|---:|
 | 정은경 | [정은경 (Jung, Eun-Kyung)](../정은경_(jung,_eun-kyung)/overview.md) | 14 |
-| Kriz | Kriz | 9 |
+| Kriz | [Kriz](../kriz/overview.md) | 9 |
 | Ryan S. Jhun | [Ryan S. Jhun](../ryan_s__jhun/overview.md) | 7 |
 | Alawn | Alawn | 7 |
 | 서지음 | [서지음 (Seo, Ji Eum)](../서지음_(seo,_ji_eum)/overview.md) | 5 |

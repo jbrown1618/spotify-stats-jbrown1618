@@ -74,12 +74,16 @@ TVXQ!:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | Thomas Troelsen | 2 | Songwriter, Arranger |
 | | Mikkel Remee Sigvardt | 1 | Songwriter |
 | | Lucas | 1 | Songwriter |
+| | [Kenzie](../../producers/kenzie/overview.md) | 1 | Lyricist |
+| | Donald Augustus Sales | 1 | Arranger, Songwriter |
 | | [유영진 (Yoo, Young-jin)](../../producers/유영진_(yoo,_young-jin)/overview.md) | 1 | Arranger, Lyricist |
-| | Thomas Troelsen | 1 | Songwriter |
+| | 이경남 (Lee, Kyung Nam) | 1 | Lyricist |
+| | 이슬비 (Lee, Seul Bi) | 1 | Lyricist |
 
-![Bar chart of top 4 producers](../../images/artists/tvxq!/producers.png)
+![Bar chart of top 8 producers](../../images/artists/tvxq!/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |

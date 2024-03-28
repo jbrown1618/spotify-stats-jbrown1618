@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e021f5de98907a7f969ea7c28dbab67616d00001e02992cdb975f91efd91b998628ab67616d00001e02addef7fad07f17acdf7d6b98ab67616d00001e02e827c21f833661043f8dd588" alt="누구?" width="100" />
 
-[54 tracks (29 liked) 🔗](https://open.spotify.com/playlist/4JrgU3rcLuATwzM1jVVgyC)
+[55 tracks (29 liked) 🔗](https://open.spotify.com/playlist/4JrgU3rcLuATwzM1jVVgyC)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 36 artists</summary>
+<summary>See all 37 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -43,6 +43,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbf52c8bad49f00cee3618346" alt="" width="50" /> | 1 | 0 | Raon | [🔗](https://open.spotify.com/artist/6grPDYoluzn0yi8qloRKst) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb495b108feba6164e2c01b15e" alt="" width="50" /> | 1 | 0 | CRAVITY | [🔗](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e353dd3ed8f6d88521547c4" alt="" width="50" /> | 1 | 0 | TRI.BE | [🔗](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a31c40563eff9dc5e96db03b" alt="" width="50" /> | 1 | 0 | RESCENE | [🔗](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2efa47f150ed10401bde6d85" alt="" width="50" /> | 1 | 0 | BVNDIT | [🔗](https://open.spotify.com/artist/5dEBuZjTtE68uDgCs23Kuv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba123a8867dccb4d414e7d2f9" alt="" width="50" /> | 1 | 0 | BE'O | [🔗](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb27605f3330d7fea5d8670749" alt="" width="50" /> | 1 | 0 | H1-KEY | [🔗](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) |
@@ -81,7 +82,7 @@
 
 
 <details>
-<summary>See all 52 albums</summary>
+<summary>See all 53 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -110,6 +111,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27318a15ed7d84a6c773126b12b" alt="" width="50" /> | 1 | 0 | We play | 2021-03-17 | [🔗](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731f5de98907a7f969ea7c28db" alt="" width="50" /> | 1 | 0 | TAKE A CHANCE | 2022-10-04 | [🔗](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff44dc02d7ac33078fbbe1cf" alt="" width="50" /> | 1 | 0 | Show Me The Money 10 Episode 3 | 2021-11-20 | [🔗](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb692ba736f1102246f7994f" alt="" width="50" /> | 1 | 0 | Re:Scene | 2024-03-26 | [🔗](https://open.spotify.com/album/1C78MdRvc88435lTnGxGUF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27367ebaeedc3ad203e0589e6eb" alt="" width="50" /> | 1 | 0 | Re-Original | 2022-05-25 | [🔗](https://open.spotify.com/album/4vb8wQPnaNgnmUrrmnISOU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733c82a88c1d031bcac1949277" alt="" width="50" /> | 1 | 0 | REBEL | 2022-04-28 | [🔗](https://open.spotify.com/album/7EMQBRGlIDhP9SwjOx9xgF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c4382c3305785dfd04d5d01" alt="" width="50" /> | 1 | 0 | Liminality - EP.LOVE | 2022-11-14 | [🔗](https://open.spotify.com/album/5zh19l4Nbzqd8h9Y7F74do) |
@@ -150,7 +152,7 @@
 
 
 <details>
-<summary>See all 34 labels</summary>
+<summary>See all 35 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -159,7 +161,7 @@
 | 1 | 1 | ㈜ 동요엔터테인먼트 |
 | 1 | 1 | Think Ent. |
 | 1 | 1 | SAI-Ent. |
-| 1 | 1 | [S2 ENTERTAINMENT INC.](../../labels/s2_entertainment_inc_/overview.md) |
+| 1 | 1 | S2 ENTERTAINMENT INC. |
 | 1 | 1 | Mydoll Ent. |
 | 1 | 1 | MODHAUS |
 | 1 | 1 | IOK COMPANY |
@@ -174,6 +176,7 @@
 | 1 | 0 | 브레이브 엔터테인먼트 |
 | 1 | 0 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 1 | 0 | TOP MEDIA |
+| 1 | 0 | THE MUZE ENTERTAINMENT |
 | 1 | 0 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
 | 1 | 0 | RAIN COMPANY Co. |
 | 1 | 0 | GLG |
@@ -200,16 +203,16 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 용배 (Seo, Yong-bae) | 3 | Arranger, Lyricist, Songwriter |
+| | [용배 (Seo, Yong-bae)](../../producers/용배_(seo,_yong-bae)/overview.md) | 3 | Arranger, Lyricist, Songwriter |
+| | 이상호 (Lee, Sang-Ho) | 3 | Arranger, Lyricist, Songwriter |
 | | Inner Child | 2 | Lyricist, Songwriter |
 | | Rick Bridges | 2 | Lyricist, Songwriter |
-| | 이상호 (Lee, Sang-Ho) | 2 | Arranger, Lyricist, Songwriter |
 | | RAVN | 2 | Lyricist |
-| | 김승수 (Kim, Seung-soo) | 1 | Arranger, Lyricist, Songwriter |
-| | ギガP (GigaP) | 1 | Arranger, Songwriter |
-| | 우민정 (Umin, Je-ong) | 1 | Producer |
-| | 희창 (Hee-chang) | 1 | Arranger, Songwriter |
-| | 김승수 (Kim, Seungsu) | 1 | Lyricist, Songwriter |
+| | [김도훈 (Kim, Do-hoon)](../../producers/김도훈_(kim,_do-hoon)/overview.md) | 2 | Lyricist, Songwriter |
+| | 밍키 (Mingki) | 2 | Arranger, Lyricist, Songwriter |
+| | THE HUB 88 | 1 | Songwriter |
+| | [이태섭 (Lee, Tae-Sub)](../../producers/이태섭_(lee,_tae-sub)/overview.md) | 1 | Producer |
+| | Belle | 1 | Lyricist, Songwriter |
 
 
 <details>
@@ -217,25 +220,27 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 김민구 (Kim, Min-goo) | 1 | Arranger, Lyricist, Songwriter |
-| | THE HUB 88 | 1 | Songwriter |
 | | TAK | 1 | Arranger, Songwriter |
-| | Belle | 1 | Lyricist, Songwriter |
-| | 이태섭 (Lee, Tae-Sub) | 1 | Producer |
+| | 김승수 (Kim, Seungsu) | 1 | Lyricist, Songwriter |
+| | 김민구 (Kim, Min-goo) | 1 | Arranger, Lyricist, Songwriter |
+| | 김승수 (Kim, Seung-soo) | 1 | Arranger, Lyricist, Songwriter |
+| | 희창 (Hee-chang) | 1 | Arranger, Songwriter |
+| | 우민정 (Umin, Je-ong) | 1 | Producer |
+| | ギガP (GigaP) | 1 | Arranger, Songwriter |
 | | 차유빈 (Cha, Yu-bin) | 1 | Lyricist |
-| | Natty | 1 | Songwriter |
-| | hongsamman | 1 | Arranger, Songwriter |
 | | Noerio | 1 | Songwriter |
+| | hongsamman | 1 | Arranger, Songwriter |
+| | Natty | 1 | Songwriter |
+| | 한성호 (Han, Seong Ho) | 1 | Lyricist |
 | | Jacob Aaron | 1 | Songwriter |
-| | [김도훈 (Kim, Do-hoon)](../../producers/김도훈_(kim,_do-hoon)/overview.md) | 1 | Lyricist, Songwriter |
 | | 이후상 (Lee, Hoo-sang) | 1 | Arranger, Lyricist, Songwriter |
-| | 밍키 (Mingki) | 1 | Arranger, Lyricist, Songwriter |
 | | Julie Han | 1 | Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb39bf033dbb25e5483994f51c" alt="" width="50" /> | Basick | 1 | Lyricist |
 | | 이도 (Leedo) | 1 | Lyricist |
 | | Le'mon | 1 | Lyricist |
 | | Dr.JO | 1 | Lyricist |
 | | Eltz | 1 | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | Jimin | 1 | Lyricist |
 | | Strawberrybananaclub | 1 | Arranger, Lyricist, Songwriter |
 
 </details>
@@ -248,14 +253,14 @@
 |:---|:---|---:|:---|:---|---:|
 | <img src="https://i.scdn.co/image/ab67616d0000b2738cab1c75d2271af37c3e2db9" alt="First Howling : ME" width="50" /> | Scent of you | 5241 | <img src="https://i.scdn.co/image/ab67616d0000b273b068508a55c13c676bf74d6b" alt="FACE ME" width="50" /> | PHOTO | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b27340320ca58cbadbad78598e36" alt="EPEX 5th EP Album Prelude of Love Chapter 2. &#x27;Growing Pains&#x27;" width="50" /> | Sunshower | 1069 | <img src="https://i.scdn.co/image/ab67616d0000b27395e1a12145290ca7d783eb1d" alt="BINARY CODE" width="50" /> | BLACK MIRROR | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Bewitched | 480 | <img src="https://i.scdn.co/image/ab67616d0000b2737694471cc29815e2b3864637" alt="HELLO Chapter 3: Hello, Strange Time" width="50" /> | Jungle | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Bewitched | 510 | <img src="https://i.scdn.co/image/ab67616d0000b2737694471cc29815e2b3864637" alt="HELLO Chapter 3: Hello, Strange Time" width="50" /> | Jungle | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b0f7fd5522eff959055b20d8" alt="Cherry Rush" width="50" /> | Love So Sweet | 132 | <img src="https://i.scdn.co/image/ab67616d0000b27367ebaeedc3ad203e0589e6eb" alt="Re-Original" width="50" /> | VENOM | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359fcda8d47bbd0f6c2bf1647" alt="Bizarre Story" width="50" /> | 기괴한 이야기 : Get Out | 109 | <img src="https://i.scdn.co/image/ab67616d0000b273a436d1d155cb24679e84c3bd" alt="Cherry Wish" width="50" /> | Love In Space | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4171e1732961f5da0de0c1e" alt="WIN-DOW" width="50" /> | Love is New Gravity | 100 | <img src="https://i.scdn.co/image/ab67616d0000b273e827c21f833661043f8dd588" alt="LIMITED EDITION ‘1TAN’" width="50" /> | DU DU DU | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | KARMA | 96 | <img src="https://i.scdn.co/image/ab67616d0000b273eb74400c53d5bbe784ea3cd7" alt="Joker is Alive" width="50" /> | Joker | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="Macarena" width="50" /> | Macarena | 53 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="Wings" width="50" /> | Wings | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="LEVIOSA" width="50" /> | KISS | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2731be910fd8122cd805d651a8d" alt="Acid Angel from Asia &lt;ACCESS&gt;" width="50" /> | Generation | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="KISS OF LIFE" width="50" /> | [Shhh](../../artists/kiss_of_life/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273a6afb253632c318f79697cf2" alt="Jelly box Flower Way SEJEONG" width="50" /> | Flower Way (Prod. By ZICO) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb692ba736f1102246f7994f" alt="Re:Scene" width="50" /> | UhUh | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273a6afb253632c318f79697cf2" alt="Jelly box Flower Way SEJEONG" width="50" /> | Flower Way (Prod. By ZICO) | 0 |
 
 ## Years
 
@@ -265,13 +270,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27376ac47ccb37484a1f5ca821e" alt="÷ (NANUGI)" width="50" /> | ÷ (NANUGI) (2023-10-09) | <img src="https://i.scdn.co/image/ab67616d0000b273eb74400c53d5bbe784ea3cd7" alt="Joker is Alive" width="50" /> | Joker is Alive (2015-04-15) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273569689ef998a192f7809467a" alt="Target: ME" width="50" /> | Target: ME (2023-09-19) | <img src="https://i.scdn.co/image/ab67616d0000b27395ab9a02d082c6df434aee14" alt="MYST3RY" width="50" /> | MYST3RY (2016-02-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="KISS OF LIFE" width="50" /> | KISS OF LIFE (2023-07-05) | <img src="https://i.scdn.co/image/ab67616d0000b273a6afb253632c318f79697cf2" alt="Jelly box Flower Way SEJEONG" width="50" /> | Jelly box Flower Way SEJEONG (2016-11-23) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eefa62737df26882a4e51b0f" alt="BOYHOOD" width="50" /> | BOYHOOD (2023-06-07) | <img src="https://i.scdn.co/image/ab67616d0000b273addef7fad07f17acdf7d6b98" alt="B:COMPLETE" width="50" /> | B:COMPLETE (2019-05-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27340320ca58cbadbad78598e36" alt="EPEX 5th EP Album Prelude of Love Chapter 2. &#x27;Growing Pains&#x27;" width="50" /> | EPEX 5th EP Album Prelude of Love Chapter 2. 'Growing Pains' (2023-04-26) | <img src="https://i.scdn.co/image/ab67616d0000b273a359467cf1e245c2cdf5dad5" alt="HELLO Chapter 1: Hello, Stranger" width="50" /> | HELLO Chapter 1: Hello, Stranger (2019-07-23) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="Macarena" width="50" /> | Macarena (2023-04-24) | <img src="https://i.scdn.co/image/ab67616d0000b2730041c88ac5b6429b5d34e7b7" alt="Fantasy" width="50" /> | Fantasy (2019-08-05) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736d4752386c432c3acaa46cf7" alt="♡Like Like♡" width="50" /> | ♡Like Like♡ (2023-03-15) | <img src="https://i.scdn.co/image/ab67616d0000b273b068508a55c13c676bf74d6b" alt="FACE ME" width="50" /> | FACE ME (2020-01-07) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | CHOSEN KARMA (2023-03-10) | <img src="https://i.scdn.co/image/ab67616d0000b273bdf5051b85408bc0967122f9" alt="Hands Up" width="50" /> | Hands Up (2020-02-11) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1dfa7d187cb7c67dd2e6d1c" alt="LIMELIGHT DEBUT EP &#x27;LOVE &amp; HAPPINESS&#x27;" width="50" /> | LIMELIGHT DEBUT EP 'LOVE & HAPPINESS' (2023-02-17) | <img src="https://i.scdn.co/image/ab67616d0000b27305de9858d5c447c247f6ce21" alt="LUPIN" width="50" /> | LUPIN (2020-03-15) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273992cdb975f91efd91b998628" alt="8TURNRISE" width="50" /> | 8TURNRISE (2023-01-30) | <img src="https://i.scdn.co/image/ab67616d0000b2739911a4e948cb80a3f2d3dc61" alt="1ST DESIRE [GREED]" width="50" /> | 1ST DESIRE [GREED] (2020-05-25) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb692ba736f1102246f7994f" alt="Re:Scene" width="50" /> | Re:Scene (2024-03-26) | <img src="https://i.scdn.co/image/ab67616d0000b273eb74400c53d5bbe784ea3cd7" alt="Joker is Alive" width="50" /> | Joker is Alive (2015-04-15) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27376ac47ccb37484a1f5ca821e" alt="÷ (NANUGI)" width="50" /> | ÷ (NANUGI) (2023-10-09) | <img src="https://i.scdn.co/image/ab67616d0000b27395ab9a02d082c6df434aee14" alt="MYST3RY" width="50" /> | MYST3RY (2016-02-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273569689ef998a192f7809467a" alt="Target: ME" width="50" /> | Target: ME (2023-09-19) | <img src="https://i.scdn.co/image/ab67616d0000b273a6afb253632c318f79697cf2" alt="Jelly box Flower Way SEJEONG" width="50" /> | Jelly box Flower Way SEJEONG (2016-11-23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="KISS OF LIFE" width="50" /> | KISS OF LIFE (2023-07-05) | <img src="https://i.scdn.co/image/ab67616d0000b273addef7fad07f17acdf7d6b98" alt="B:COMPLETE" width="50" /> | B:COMPLETE (2019-05-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eefa62737df26882a4e51b0f" alt="BOYHOOD" width="50" /> | BOYHOOD (2023-06-07) | <img src="https://i.scdn.co/image/ab67616d0000b273a359467cf1e245c2cdf5dad5" alt="HELLO Chapter 1: Hello, Stranger" width="50" /> | HELLO Chapter 1: Hello, Stranger (2019-07-23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27340320ca58cbadbad78598e36" alt="EPEX 5th EP Album Prelude of Love Chapter 2. &#x27;Growing Pains&#x27;" width="50" /> | EPEX 5th EP Album Prelude of Love Chapter 2. 'Growing Pains' (2023-04-26) | <img src="https://i.scdn.co/image/ab67616d0000b2730041c88ac5b6429b5d34e7b7" alt="Fantasy" width="50" /> | Fantasy (2019-08-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="Macarena" width="50" /> | Macarena (2023-04-24) | <img src="https://i.scdn.co/image/ab67616d0000b273b068508a55c13c676bf74d6b" alt="FACE ME" width="50" /> | FACE ME (2020-01-07) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736d4752386c432c3acaa46cf7" alt="♡Like Like♡" width="50" /> | ♡Like Like♡ (2023-03-15) | <img src="https://i.scdn.co/image/ab67616d0000b273bdf5051b85408bc0967122f9" alt="Hands Up" width="50" /> | Hands Up (2020-02-11) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | CHOSEN KARMA (2023-03-10) | <img src="https://i.scdn.co/image/ab67616d0000b27305de9858d5c447c247f6ce21" alt="LUPIN" width="50" /> | LUPIN (2020-03-15) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1dfa7d187cb7c67dd2e6d1c" alt="LIMELIGHT DEBUT EP &#x27;LOVE &amp; HAPPINESS&#x27;" width="50" /> | LIMELIGHT DEBUT EP 'LOVE & HAPPINESS' (2023-02-17) | <img src="https://i.scdn.co/image/ab67616d0000b2739911a4e948cb80a3f2d3dc61" alt="1ST DESIRE [GREED]" width="50" /> | 1ST DESIRE [GREED] (2020-05-25) |

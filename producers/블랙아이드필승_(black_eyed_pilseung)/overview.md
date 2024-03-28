@@ -5,9 +5,9 @@
 | Credit Type | Tracks |
 |:---|---:|
 | Arranger | 1 |
-| Lyricist | 11 |
+| Lyricist | 12 |
 | Producer | 1 |
-| Songwriter | 14 |
+| Songwriter | 15 |
 
 ## Produces for Artists
 
@@ -15,17 +15,18 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb784d2270653c1d5d1cf43778" alt="" width="50" /> | 11 | 11 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c6952f39ba680489149a54c" alt="" width="50" /> | 3 | 3 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | 1 | 1 | SISTAR | [🔗](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) |
 
 ## Works with Producers
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| 라도 | [라도 (Rado)](../라도_(rado)/overview.md) | 12 |
+| 라도 | [라도 (Rado)](../라도_(rado)/overview.md) | 13 |
 | 전군 | [전군 (Jeon Goon)](../전군_(jeon_goon)/overview.md) | 10 |
 | 정은경 | [정은경 (Jung, Eun-Kyung)](../정은경_(jung,_eun-kyung)/overview.md) | 8 |
 | FLYT | [FLYT](../flyt/overview.md) | 6 |
 | DRK | DRK | 5 |
-| 이태섭 | 이태섭 (Lee, Tae-Sub) | 3 |
+| 이태섭 | [이태섭 (Lee, Tae-Sub)](../이태섭_(lee,_tae-sub)/overview.md) | 3 |
 | Sam Lewis | Sam Lewis | 3 |
 | 고현정 | 고현정 (Go, Hyeon-Jeong) | 3 |
 | 최혜진 | 최혜진 (Cho, Hye-jin) | 3 |
@@ -51,6 +52,7 @@
 
 | Art | Track | Credit Types |
 |:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | Touch my body | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="" width="50" /> | Like Ooh-Ahh | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e9e3a1adcc32090690fd0b6" alt="" width="50" /> | CHEER UP | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="" width="50" /> | TT | Songwriter |

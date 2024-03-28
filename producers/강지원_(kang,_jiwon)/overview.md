@@ -23,7 +23,7 @@
 | 나고은 | 나고은 (Na, Go-eun) | 4 |
 | 김도훈 | [김도훈 (Kim, Do-hoon)](../김도훈_(kim,_do-hoon)/overview.md) | 3 |
 | 채인 | 채인 (Chaein) | 2 |
-| 용배 | 용배 (Seo, Yong-bae) | 1 |
+| 용배 | [용배 (Seo, Yong-bae)](../용배_(seo,_yong-bae)/overview.md) | 1 |
 | 수안 | 수안 (SWAN) | 1 |
 | Dr.JO | Dr.JO | 1 |
 | 이후상 | 이후상 (Lee, Hoo-sang) | 1 |

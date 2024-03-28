@@ -16,7 +16,6 @@ SEULGI:
 ![Rank of SEULGI over time](../../images/artists/seulgi/rank_time_series.png)
 ## Top Tracks
 
-- 28 Reasons is the #46 track of all time
 
 ### Top tracks, aggregated
 

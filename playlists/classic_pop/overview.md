@@ -206,8 +206,8 @@
 | 3 | 2 | [lounge](../../genres/lounge/overview.md) |
 | 3 | 2 | disco |
 | 5 | 1 | memphis soul |
+| 4 | 1 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 3 | 1 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
-| 3 | 1 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 3 | 1 | rock-and-roll |
 | 3 | 1 | outlaw country |
 | 3 | 1 | bubblegum pop |

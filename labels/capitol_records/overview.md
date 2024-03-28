@@ -109,11 +109,11 @@ Appears as:
 | 1 | 1 | boy band |
 | 4 | 0 | easy listening |
 | 2 | 0 | [uk pop](../../genres/uk_pop/overview.md) |
+| 2 | 0 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 2 | 0 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 2 | 0 | folk rock |
 | 1 | 0 | sunshine pop |
 | 1 | 0 | [soft rock](../../genres/soft_rock/overview.md) |
-| 1 | 0 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 1 | 0 | [rock](../../genres/rock/overview.md) |
 | 1 | 0 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 1 | 0 | new wave pop |

@@ -59,7 +59,7 @@
 | LDN Noise | [LDN Noise](../ldn_noise/overview.md) | 1 |
 | A. Wright | A. Wright | 1 |
 | Jenson Vaughan | Jenson Vaughan | 1 |
-| 이태섭 | 이태섭 (Lee, Tae-Sub) | 1 |
+| 이태섭 | [이태섭 (Lee, Tae-Sub)](../이태섭_(lee,_tae-sub)/overview.md) | 1 |
 | Nea | Nea | 1 |
 | Mr. Franks | Mr. Franks | 1 |
 | Manny Marroquin | [Manny Marroquin](../manny_marroquin/overview.md) | 1 |

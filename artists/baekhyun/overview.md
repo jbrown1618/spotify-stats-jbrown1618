@@ -19,7 +19,6 @@ BAEKHYUN:
 ![Rank of BAEKHYUN over time](../../images/artists/baekhyun/rank_time_series.png)
 ## Top Tracks
 
-- Amusement Park is the #46 track of the last month
 
 ### Top tracks, aggregated
 

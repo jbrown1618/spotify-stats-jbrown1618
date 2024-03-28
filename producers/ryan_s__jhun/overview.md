@@ -43,7 +43,7 @@
 |:---|:---|---:|
 | 정은경 | [정은경 (Jung, Eun-Kyung)](../정은경_(jung,_eun-kyung)/overview.md) | 8 |
 | 양영은 | [양영은 (Yang, Young-eun)](../양영은_(yang,_young-eun)/overview.md) | 7 |
-| Kriz | Kriz | 6 |
+| Kriz | [Kriz](../kriz/overview.md) | 6 |
 | 서지음 | [서지음 (Seo, Ji Eum)](../서지음_(seo,_ji_eum)/overview.md) | 6 |
 | Alawn | Alawn | 5 |
 | Lauritz Emil Christiansen | Lauritz Emil Christiansen | 3 |

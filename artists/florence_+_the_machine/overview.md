@@ -20,6 +20,8 @@ Florence + The Machine:
 - has member Florence Welch
 
 ## Artist Rank
+Florence + The Machine is currently:
+- The #50 artist of the last 6 months
 
 ![Rank of Florence + The Machine over time](../../images/artists/florence_+_the_machine/rank_time_series.png)
 ## Top Tracks

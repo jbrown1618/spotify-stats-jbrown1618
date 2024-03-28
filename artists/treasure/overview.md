@@ -25,7 +25,6 @@ TREASURE:
 ![Rank of TREASURE over time](../../images/artists/treasure/rank_time_series.png)
 ## Top Tracks
 
-- DARARI is the #41 track of the last month
 
 ### Top tracks, aggregated
 

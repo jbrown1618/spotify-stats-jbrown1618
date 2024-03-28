@@ -10,15 +10,14 @@
 
 ## Artist Rank
 Jacob Collier is currently:
-- The #12 artist of the last month
-- The #10 artist of the last 6 months
+- The #17 artist of the last month
+- The #11 artist of the last 6 months
 - The #23 artist of all time
 
 ![Rank of Jacob Collier over time](../../images/artists/jacob_collier/rank_time_series.png)
 ## Top Tracks
 
-- Over You (feat. aespa & Chris Martin) is the #21 track of the On Repeat playlist
-- In My Bones (feat. Kimbra & Tank and The Bangas) is the #35 track of the last month
+- Over You (feat. aespa & Chris Martin) is the #18 track of the On Repeat playlist
 
 ### Top tracks, aggregated
 
@@ -120,10 +119,10 @@ Jacob Collier is currently:
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | He Won't Hold You (feat. Rapsody) | Djesse Vol. 3 | [Jacob Collier](overview.md), Rapsody | [Decca (UMO)](../../labels/decca_(umo)) | 196 | 💚 | [🔗](https://open.spotify.com/track/3mSoxi4aC7oiTGJjsLLkaM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="" width="50" /> | Over You (feat. aespa & Chris Martin) | Djesse Vol. 4 | [Jacob Collier](overview.md), [aespa](../aespa/overview.md), Chris Martin | [Decca (UMO)](../../labels/decca_(umo)) | 105 | 💚 | [🔗](https://open.spotify.com/track/7MSZg4Km8CM7NRXTeJoANZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | In My Bones (feat. Kimbra & Tank and The Bangas) | Djesse Vol. 3 | [Jacob Collier](overview.md), [Kimbra](../kimbra/overview.md), Tank and The Bangas | [Decca (UMO)](../../labels/decca_(umo)) | 98 | 💚 | [🔗](https://open.spotify.com/track/06PNiDGtPIMOq9VU2ftVCk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | Running Outta Love (feat. Tori Kelly) | Djesse Vol. 3 | [Jacob Collier](overview.md), Tori Kelly | [Decca (UMO)](../../labels/decca_(umo)) | 91 | 💚 | [🔗](https://open.spotify.com/track/18kV8FzhGXE6XndMdiv4Ox) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="" width="50" /> | Every Little Thing She Does Is Magic | Djesse Vol. 1 | [Jacob Collier](overview.md), Metropole Orkest, Jules Buckley | [Decca (UMO)](../../labels/decca_(umo)) | 89 | 💚 | [🔗](https://open.spotify.com/track/0xuz9pSNwyWljXUgEGEhjp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="" width="50" /> | Over You (feat. aespa & Chris Martin) | Djesse Vol. 4 | [Jacob Collier](overview.md), [aespa](../aespa/overview.md), Chris Martin | [Decca (UMO)](../../labels/decca_(umo)) | 66 | 💚 | [🔗](https://open.spotify.com/track/7MSZg4Km8CM7NRXTeJoANZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="" width="50" /> | Moon River | Djesse Vol. 2 | [Jacob Collier](overview.md) | [Decca (UMO)](../../labels/decca_(umo)) | 46 | 💚 | [🔗](https://open.spotify.com/track/1IRRqn75jaZHp7zMT1NGbZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343c7453d0338f82a05464751" alt="" width="50" /> | Flintstones | In My Room | [Jacob Collier](overview.md) | Hajanga Records | 0 | | [🔗](https://open.spotify.com/track/731rnSkAluFeKZaGTHig7W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343c7453d0338f82a05464751" alt="" width="50" /> | Hajanga | In My Room | [Jacob Collier](overview.md) | Hajanga Records | 0 | 💚 | [🔗](https://open.spotify.com/track/3VW8i6i8zT9YbIiZXmZFoQ) |

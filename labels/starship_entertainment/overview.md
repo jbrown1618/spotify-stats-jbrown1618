@@ -99,7 +99,7 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Kriz | 9 | Arranger |
+| | [Kriz](../../producers/kriz/overview.md) | 9 | Arranger |
 | | [양영은 (Yang, Young-eun)](../../producers/양영은_(yang,_young-eun)/overview.md) | 9 | Producer |
 | | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 8 | Producer |
 | | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 7 | Arranger, Songwriter, Lyricist, Producer |
@@ -117,44 +117,46 @@ Appears as:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | RISC | 2 | Arranger |
-| | Simon Bergseth | 2 | Producer |
+| | Nick Hahn | 2 | Arranger, Songwriter |
 | | Audun Agnar | 2 | Arranger, Songwriter |
 | | BlackSmith | 2 | Songwriter |
+| | Simon Bergseth | 2 | Producer |
 | | Starsmith | 2 | Arranger, Songwriter |
 | | 가을 (GAEUL) | 2 | Lyricist |
 | | Exy | 2 | Lyricist |
 | | Elle Campbell | 2 | Songwriter |
-| | Nick Hahn | 2 | Arranger, Songwriter |
 | | SOHLHEE | 1 | Lyricist |
 | | 이경원 (Lee, Kyung-won) | 1 | Producer |
 | | Benjamin Pinkus | 1 | Arranger, Songwriter |
+| | [블랙아이드필승 (Black Eyed Pilseung)](../../producers/블랙아이드필승_(black_eyed_pilseung)/overview.md) | 1 | Lyricist, Songwriter |
 | | Emily Harbakk | 1 | Songwriter |
 | | 이단옆차기 (Duble Sidekick) | 1 | Lyricist, Songwriter |
 | | 페리 (Perrie) | 1 | Lyricist |
 | | BIG Naughty | 1 | Lyricist |
-| | Iselin Solheim | 1 | Songwriter |
 | | Elof Loelv | 1 | Arranger, Songwriter |
+| | Stally | 1 | Arranger, Songwriter |
+| | Iselin Solheim | 1 | Songwriter |
 | | Markus Gustafson | 1 | Producer |
 | | e.one | 1 | Arranger, Lyricist, Songwriter |
 | | Eline Noelia | 1 | Songwriter |
 | | Hilda Stenmalm | 1 | Songwriter |
-| | Kyle Joseph Faulkner | 1 | Songwriter |
 | | Brave Brothers | 1 | Arranger, Lyricist, Songwriter |
-| | Stally | 1 | Arranger, Songwriter |
+| | Kyle Joseph Faulkner | 1 | Songwriter |
 | | Lars Kristian Rosness | 1 | Arranger, Songwriter |
 | | 신사동호랭이 (Shinsadong Tiger) | 1 | Arranger |
-| | Alexander Pavelich | 1 | Songwriter |
+| | 황현 (Hwang, Hyeon) | 1 | Lyricist |
 | | 서정아 (Seo, Jung Ah) | 1 | Lyricist |
 | | Anders Nilsen | 1 | Arranger, Songwriter |
 | | Adriana Caldas de Barros | 1 | Songwriter |
 | | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 1 | Lyricist |
+| | [라도 (Rado)](../../producers/라도_(rado)/overview.md) | 1 | Arranger |
 | | LOSTBOY | 1 | Arranger, Songwriter |
 | | 이스란 (Lee, Seran) | 1 | Lyricist |
 | | Avin | 1 | Arranger |
 | | Tea Carpenter | 1 | Songwriter |
 | | Andre Davidson | 1 | Songwriter |
-| | 황현 (Hwang, Hyeon) | 1 | Lyricist |
 | | Sean Davidson | 1 | Songwriter |
+| | Alexander Pavelich | 1 | Songwriter |
 | | Bård Bonsaksen (Bonsaken, Bård) | 1 | Songwriter |
 | | Sivert Hjeltnes Hagtvet | 1 | Arranger, Songwriter |
 | | Kristin Marie | 1 | Arranger, Songwriter |
@@ -175,15 +177,15 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | I AM | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 5915 | 💚 | [🔗](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | I AM | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 5921 | 💚 | [🔗](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5" alt="" width="50" /> | After LIKE | After LIKE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 1867 | 💚 | [🔗](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Baddie | I'VE MINE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 898 | 💚 | [🔗](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | LOVE DIVE | LOVE DIVE | [IVE](../../artists/ive/overview.md) | [STARSHIP Entertainment](.) | 384 | 💚 | [🔗](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Lips | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 291 | 💚 | [🔗](https://open.spotify.com/track/0dRSOmb7pqkkmjXCu5BYbe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8a007b9e0ba32eee1651227" alt="" width="50" /> | Alone | ALONE | SISTAR | [Starship Entertainment](.) | 195 | 💚 | [🔗](https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27365414519ff7d939ddfb53c21" alt="" width="50" /> | One way love | LOVE & HATE | HYOLYN | [Starship Entertainment](.) | 142 | 💚 | [🔗](https://open.spotify.com/track/2UIXAxLWIPM6ALPGCeeXfH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="" width="50" /> | Beautiful Liar | REASON | MONSTA X | [Starship Entertainment](.) | 60 | 💚 | [🔗](https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 섬찟 (Hypnosis) | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 55 | 💚 | [🔗](https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="" width="50" /> | Beautiful Liar | REASON | MONSTA X | [Starship Entertainment](.) | 43 | 💚 | [🔗](https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Blue Blood | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 25 | 💚 | [🔗](https://open.spotify.com/track/2avdbiswb0d5AFmyyz68xP) |
 
 

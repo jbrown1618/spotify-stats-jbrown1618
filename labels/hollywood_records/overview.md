@@ -1,13 +1,13 @@
 # Hollywood Records
 
-22 songs
+23 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Hollywood Records (22 tracks)
+- Hollywood Records (23 tracks)
 
 ## Top Artists
 
@@ -15,8 +15,9 @@ Appears as:
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 20 | 13 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcf674ecb51186e6408cd18c0" alt="" width="50" /> | 2 | 1 | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb4ba86c361191d48cbeb4b32" alt="" width="50" /> | 1 | 0 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 
-
+![Bar chart of top 3 artists](../../images/labels/hollywood_records/artists.png)
 
 ## Top Albums
 
@@ -35,11 +36,12 @@ Appears as:
 
 
 <details>
-<summary>See all 15 albums</summary>
+<summary>See all 16 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc386376636cb6b383221fd8" alt="" width="50" /> | 1 | 0 | The Works | 1984-02-27 | [🔗](https://open.spotify.com/album/0FbnXAGmgmWBmNthZSgm43) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d6c3ad6a2a27471e1d5e8103" alt="" width="50" /> | 1 | 0 | The Time Of Our Lives | 2009-01-01 | [🔗](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a7602f0e508660b2ba40f8c" alt="" width="50" /> | 1 | 0 | Stone Cold Classics | 2006-01-01 | [🔗](https://open.spotify.com/album/7C2DKB8C12LqxMkfJRwTo9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b7c95b538308aebf58cc4f6" alt="" width="50" /> | 1 | 0 | Jazz | 1978-11-10 | [🔗](https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="" width="50" /> | 1 | 0 | Demi | 2013-01-01 | [🔗](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) |
@@ -48,7 +50,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 15 albums](../../images/labels/hollywood_records/albums.png)
+![Bar chart of top 16 albums](../../images/labels/hollywood_records/albums.png)
 
 ## Genres
 
@@ -57,8 +59,8 @@ Appears as:
 | 20 | 13 | [rock](../../genres/rock/overview.md) |
 | 20 | 13 | [glam rock](../../genres/glam_rock/overview.md) |
 | 20 | 13 | [classic rock](../../genres/classic_rock/overview.md) |
+| 3 | 1 | [pop](../../genres/pop/overview.md) |
 | 2 | 1 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
-| 2 | 1 | [pop](../../genres/pop/overview.md) |
 
 ![Bar chart of top 5 genres](../../images/labels/hollywood_records/genres.png)
 
@@ -126,6 +128,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34" alt="" width="50" /> | Innuendo - Remastered 2011 | Innuendo | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/2OuImA1gcBXJVMrVH9Kn9p) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | The Show Must Go On | Innuendo | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | 0 | | [🔗](https://open.spotify.com/track/3m86qx7aIeqFcYcQ1UXUvP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a7602f0e508660b2ba40f8c" alt="" width="50" /> | Bohemian Rhapsody | Stone Cold Classics | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | 0 | | [🔗](https://open.spotify.com/track/6l8GvAyoUZwWDgF1e4822w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d6c3ad6a2a27471e1d5e8103" alt="" width="50" /> | Party In The U.S.A. | The Time Of Our Lives | Miley Cyrus | [Hollywood Records](.) | 0 | | [🔗](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b" alt="" width="50" /> | Heart Attack | Demi | Demi Lovato | [Hollywood Records](.) | 0 | | [🔗](https://open.spotify.com/track/1V6gIisPpYqgFeWbMLI0bA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed164cf1c10f028e8f528784" alt="" width="50" /> | Stone Cold | Confident | Demi Lovato | [Hollywood Records](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/3by8IfnW9dZ2t4pZw1WVxz) |
 

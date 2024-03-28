@@ -33,7 +33,7 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe74b7398634a741f74858dc7" alt="" width="50" /> | 1 | 0 | Alessia Cara | [🔗](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 1 | 0 | Kendrick Lamar | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 1 | 0 | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf556662d187b9191c421be1c" alt="" width="50" /> | 1 | 0 | 2 Chainz | [🔗](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb270176cea649f3afe50ac3b0" alt="" width="50" /> | 1 | 0 | DaniLeigh | [🔗](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd9cfdc05548d1655bc265f85" alt="" width="50" /> | 1 | 0 | G-Eazy | [🔗](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) |
@@ -89,19 +89,18 @@ Appears as:
 
 
 <details>
-<summary>See all 14 genres</summary>
+<summary>See all 13 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 1 | 0 | rap latina |
 | 1 | 0 | [r&b](../../genres/r_b/overview.md) |
-| 1 | 0 | pop r&b |
 | 1 | 0 | atl hip hop |
 
 </details>
 
 
-![Bar chart of top 14 genres](../../images/labels/def_jam_recordings/genres.png)
+![Bar chart of top 13 genres](../../images/labels/def_jam_recordings/genres.png)
 
 ## Top Producers
 
@@ -191,7 +190,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Half Of Me | Unapologetic (Deluxe) | [Rihanna](../../artists/rihanna/overview.md) | [Def Jam Recordings](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/4bXImuY3OhNXhbQbVLFHKp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cfdf40cf325b609a52457805" alt="" width="50" /> | 1-800-273-8255 | Everybody | Logic, Alessia Cara, Khalid | [Def Jam Recordings](.) | 0 | | [🔗](https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e19b1b51cdd35051e17cf6dc" alt="" width="50" /> | Everyday | Bobby Tarantino II | Logic, Marshmello | [Def Jam Recordings](.) | 0 | | [🔗](https://open.spotify.com/track/4EAV2cKiqKP5UPZmY6dejk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="" width="50" /> | Momma I Hit A Lick (feat. Kendrick Lamar) | Rap Or Go To The League | 2 Chainz, Kendrick Lamar | [Gamebread, LLC / Def Jam Recordings](.) | 0 | | [🔗](https://open.spotify.com/track/7jKUnzzOGhAlPjr7LkIUlE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="" width="50" /> | Momma I Hit A Lick (feat. Kendrick Lamar) | Rap Or Go To The League | 2 Chainz, [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | [Gamebread, LLC / Def Jam Recordings](.) | 0 | | [🔗](https://open.spotify.com/track/7jKUnzzOGhAlPjr7LkIUlE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="" width="50" /> | Homicide (feat. Eminem) | Confessions of a Dangerous Mind | Logic, [Eminem](../../artists/eminem/overview.md) | [Def Jam Recordings](.) | 0 | | [🔗](https://open.spotify.com/track/7M2tXmeS15NAzEn7ABFeBg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="" width="50" /> | Cravin (feat. G-Eazy) | Cravin | DaniLeigh, G-Eazy | [Def Jam Recordings](.) | 0 | | [🔗](https://open.spotify.com/track/69eXHDgEEQ6itzt03E7fKz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | Lonely (with benny blanco) | Lonely (with benny blanco) | [Justin Bieber](../../artists/justin_bieber/overview.md), benny blanco | Friends Keep Secrets, [Def Jam Recordings](.), [Interscope Records](../interscope_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) |

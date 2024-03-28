@@ -2,7 +2,7 @@
 # Camila Cabello
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="Camila Cabello" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb99a94361a732b7eb49342d35" alt="Camila Cabello" width="100" />
 
 ## Relationships
 
@@ -73,7 +73,7 @@ Camila Cabello:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13" alt="" width="50" /> | [Camila Cabello](overview.md) | 6 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb99a94361a732b7eb49342d35" alt="" width="50" /> | [Camila Cabello](overview.md) | 6 | Songwriter |
 | | Frank Dukes | 4 | Songwriter, Producer |
 | | [John Hanes](../../producers/john_hanes/overview.md) | 3 | Producer |
 | | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 3 | Producer |

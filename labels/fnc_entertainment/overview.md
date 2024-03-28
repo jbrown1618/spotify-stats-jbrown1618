@@ -62,18 +62,34 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | 한성호 (Han, Seong Ho) | 1 | Lyricist |
-| | 용배 (Seo, Yong-bae) | 1 | Arranger, Lyricist, Songwriter |
+| | 한성호 (Han, Seong Ho) | 2 | Lyricist |
+| | 밍키 (Mingki) | 2 | Arranger, Lyricist, Songwriter |
+| | Chakun | 2 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | Jimin | 1 | Lyricist |
+| | [용배 (Seo, Yong-bae)](../../producers/용배_(seo,_yong-bae)/overview.md) | 1 | Arranger, Lyricist, Songwriter |
 | | 이스란 (Lee, Seran) | 1 | Lyricist |
+| | 이상호 (Lee, Sang-Ho) | 1 | Arranger, Lyricist, Songwriter |
 | | MRey | 1 | Arranger, Songwriter |
-| | 밍키 (Mingki) | 1 | Arranger, Lyricist, Songwriter |
-| | Chakun | 1 | Lyricist |
+| | [김도훈 (Kim, Do-hoon)](../../producers/김도훈_(kim,_do-hoon)/overview.md) | 1 | Lyricist, Songwriter |
+| | Brave Brothers | 1 | Arranger, Lyricist, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | 이정민 (Lee, Jung-Min) | 1 | Arranger |
 | | 최영미 (Choi, Yeong-mi) | 1 | Lyricist |
 | | Davey Nate | 1 | Songwriter |
+| | 코끼리왕국 (ElephantKingdom) | 1 | Arranger, Songwriter |
 | | 신혁 (Shin, Hyuk) | 1 | Arranger, Songwriter |
 | | 이지은 (Lee, Ji-eun) | 1 | Lyricist |
 
-![Bar chart of top 10 producers](../../images/labels/fnc_entertainment/producers.png)
+</details>
+
+
+![Bar chart of top 16 producers](../../images/labels/fnc_entertainment/producers.png)
 ## Tracks released under FNC ENTERTAINMENT
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |

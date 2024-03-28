@@ -41,7 +41,7 @@
 | 정은경 | [정은경 (Jung, Eun-Kyung)](../정은경_(jung,_eun-kyung)/overview.md) | 6 |
 | 양영은 | [양영은 (Yang, Young-eun)](../양영은_(yang,_young-eun)/overview.md) | 5 |
 | Alawn | Alawn | 5 |
-| Kriz | Kriz | 5 |
+| Kriz | [Kriz](../kriz/overview.md) | 5 |
 | 정의석 | 정의석 (Jung, Euisuk) | 3 |
 | Sophia Brenan | Sophia Brenan | 2 |
 | Steven Lee | Steven Lee | 2 |

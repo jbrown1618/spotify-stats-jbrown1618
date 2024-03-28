@@ -28,7 +28,7 @@
 | 임찬미 | 임찬미 (Kim, Chan-mi) | 3 |
 | 구혜진 | [구혜진 (Gu, Hye-jin)](../구혜진_(gu,_hye-jin)/overview.md) | 3 |
 | 구종필 | [구종필 (Koo, Jong-Pil)](../구종필_(koo,_jong-pil)/overview.md) | 2 |
-| 이태섭 | 이태섭 (Lee, Tae-Sub) | 2 |
+| 이태섭 | [이태섭 (Lee, Tae-Sub)](../이태섭_(lee,_tae-sub)/overview.md) | 2 |
 | 이경원 | 이경원 (Lee, Kyung-won) | 2 |
 | Melanie Joy Fontana | Melanie Joy Fontana | 2 |
 | 홍장미 | 홍장미 (Hong, Jangmi) | 2 |
