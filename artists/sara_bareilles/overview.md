@@ -10,9 +10,9 @@
 
 ## Artist Rank
 Sara Bareilles is currently:
-- The #6 artist of the last month
+- The #3 artist of the last month
 - The #10 artist of the last 6 months
-- The #18 artist of all time
+- The #17 artist of all time
 
 ![Rank of Sara Bareilles over time](../../images/artists/sara_bareilles/rank_time_series.png)
 ## Top Tracks
@@ -25,8 +25,8 @@ Sara Bareilles is currently:
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e020e402844f1b6be3102d339f2ab67616d00001e023378545422c5257483f6230eab67616d00001e02db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 61 | [Singer-Songwriter](../../playlists/singer-songwriter/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e022118bf9b198b05a95ded6300ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02deec12a28d1e336c5052e9aa" alt="" width="50" /> | 7 | [Relax](../../playlists/relax/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0211213770e112f78d4075b61fab67616d00001e022f8d9427fea9dd36a4fb4f1bab67616d00001e0267a1610b21721a06ed7d378eab67616d00001e02d72fb5571087bca0a2fed008" alt="" width="50" /> | 7 | [Musicals](../../playlists/musicals/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e022118bf9b198b05a95ded6300ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02deec12a28d1e336c5052e9aa" alt="" width="50" /> | 6 | [Relax](../../playlists/relax/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022d73b1bb77cee09f0278be04ab67616d00001e026f50b3400595b123a916e0dcab67616d00001e029ab215825eb77076b1b4b387ab67616d00001e02ff0dae802acb38075786b58c" alt="" width="50" /> | 6 | [Karaoke](../../playlists/karaoke/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 5 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 4 | [Pop](../../playlists/pop/overview.md) |

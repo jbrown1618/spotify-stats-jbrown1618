@@ -10,26 +10,27 @@
 
 ## Artist Rank
 IU is currently:
-- The #3 artist of the last month
-- The #5 artist of the last 6 months
+- The #4 artist of the last month
+- The #6 artist of the last 6 months
 - The #3 artist of all time
 
 ![Rank of IU over time](../../images/artists/iu/rank_time_series.png)
 ## Top Tracks
 
-- My sea is the #17 track of all time
+- My sea is the #15 track of all time
 - Jam Jam is:
-    - the #27 track of the last month
-    - the #25 track of all time
-- Holssi is:
-    - the #1 track of the On Repeat playlist
-    - the #3 track of the last month
-    - the #17 track of the last 6 months
+    - the #37 track of the last month
+    - the #27 track of all time
 - The Red Shoes is:
     - the #4 track of the last month
-    - the #38 track of the last 6 months
+    - the #30 track of the last 6 months
+    - the #36 track of all time
+- Holssi is:
+    - the #1 track of the On Repeat playlist
+    - the #1 track of the last month
+    - the #12 track of the last 6 months
 - Love wins all is the #19 track of the On Repeat playlist
-- BBIBBI is the #24 track of the last month
+- BBIBBI is the #29 track of the last month
 
 ### Top tracks, aggregated
 
@@ -189,15 +190,15 @@ IU is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1d785640d9421ec17ea8fe6" alt="" width="50" /> | BBIBBI | BBIBBI | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 47208 | 💚 | [🔗](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | My sea | IU 5th Album 'LILAC' | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 43017 | 💚 | [🔗](https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1d785640d9421ec17ea8fe6" alt="" width="50" /> | BBIBBI | BBIBBI | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 47230 | 💚 | [🔗](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | My sea | IU 5th Album 'LILAC' | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 43449 | 💚 | [🔗](https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | Coin | IU 5th Album 'LILAC' | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 37021 | 💚 | [🔗](https://open.spotify.com/track/7CZRguMolNqIobnXxpV735) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | LILAC | IU 5th Album 'LILAC' | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 29531 | 💚 | [🔗](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | Jam Jam | Palette | [IU](overview.md) | Fave Entertainment | 11652 | 💚 | [🔗](https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | Holssi | The Winning | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 2012 | 💚 | [🔗](https://open.spotify.com/track/0UTtK6hregIBOsefavRI26) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | Jam Jam | Palette | [IU](overview.md) | Fave Entertainment | 11954 | 💚 | [🔗](https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | Holssi | The Winning | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 2386 | 💚 | [🔗](https://open.spotify.com/track/0UTtK6hregIBOsefavRI26) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | The Red Shoes | Modern Times | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 657 | 💚 | [🔗](https://open.spotify.com/track/3atsk5EWI5fNxLMIJnfYfJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | Modern Times | Modern Times | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 335 | 💚 | [🔗](https://open.spotify.com/track/38Dwg8OrUClCZl2wzUKrmi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | The Red Shoes | Modern Times | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 304 | 💚 | [🔗](https://open.spotify.com/track/3atsk5EWI5fNxLMIJnfYfJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | Love wins all | The Winning | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 282 | 💚 | [🔗](https://open.spotify.com/track/53g7ZIvZE47H9pwXPFYMCH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | Love wins all | The Winning | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 318 | 💚 | [🔗](https://open.spotify.com/track/53g7ZIvZE47H9pwXPFYMCH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | YOU&I | Last Fantasy | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 229 | 💚 | [🔗](https://open.spotify.com/track/37S86pw74OH8j96ZmMnrpR) |
 
 

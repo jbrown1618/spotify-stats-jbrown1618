@@ -17,14 +17,13 @@ PURPLE KISS:
 
 ## Artist Rank
 PURPLE KISS is currently:
-- The #11 artist of the last month
-- The #40 artist of the last 6 months
-- The #42 artist of all time
+- The #13 artist of the last month
+- The #41 artist of the last 6 months
+- The #41 artist of all time
 
 ![Rank of PURPLE KISS over time](../../images/artists/purple_kiss/rank_time_series.png)
 ## Top Tracks
 
-- Sweet Juice is the #38 track of all time
 
 ### Top tracks, aggregated
 

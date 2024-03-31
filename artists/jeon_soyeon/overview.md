@@ -17,7 +17,7 @@ JEON SOYEON is currently:
 ## Top Tracks
 
 - NOBODY is the #11 track of the last 6 months
-- BEAM BEAM is the #36 track of the last month
+- BEAM BEAM is the #42 track of the last month
 
 ### Top tracks, aggregated
 
@@ -128,9 +128,9 @@ JEON SOYEON is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | BEAM BEAM | Windy | [JEON SOYEON](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 53083 | 💚 | [🔗](https://open.spotify.com/track/1VjIS4qoyD6JS2rNZQgE00) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | BEAM BEAM | Windy | [JEON SOYEON](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 53092 | 💚 | [🔗](https://open.spotify.com/track/1VjIS4qoyD6JS2rNZQgE00) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735b3685b06e22d32bed46c962" alt="" width="50" /> | DESSERT | DESSERT | HYO, Loopy, [JEON SOYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 45024 | 💚 | [🔗](https://open.spotify.com/track/6u0pZe0Uv7GBR0iKptfWRf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273edac9c0484d3c89b0439c3ed" alt="" width="50" /> | NOBODY | NOBODY | [JEON SOYEON](overview.md), [WINTER](../winter/overview.md), LIZ (IVE) | Studio Beyond | 5059 | 💚 | [🔗](https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273edac9c0484d3c89b0439c3ed" alt="" width="50" /> | NOBODY | NOBODY | [JEON SOYEON](overview.md), [WINTER](../winter/overview.md), LIZ (IVE) | Studio Beyond | 5299 | 💚 | [🔗](https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Psycho | Windy | [JEON SOYEON](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 111 | 💚 | [🔗](https://open.spotify.com/track/57LioO1gSll1wvPDAjiET3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Weather | Windy | [JEON SOYEON](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 58 | 💚 | [🔗](https://open.spotify.com/track/15ngHJXClzsYatjQxFVNUO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="" width="50" /> | Wow Thing | Wow Thing | [SEULGI](../seulgi/overview.md), [CHUNG HA](../chung_ha/overview.md), SinB, [JEON SOYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1 | 💚 | [🔗](https://open.spotify.com/track/5MwfxCtqMFGYp9Nc1BkTrS) |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e0298d4c378a8c78e84bfcf7743ab67616d00001e02b0ed835957dbf3c63184a3bcab67616d00001e02ca96a3471c3cb5128e64195fab67616d00001e02f6749fd9a1027b244f061e87" alt="Alt-Pop" width="100" />
 
-[189 tracks (133 liked) 🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI)
+[191 tracks (135 liked) 🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI)
 
 [See Track Features](audio_features.md)
 
@@ -13,9 +13,9 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 20 | 17 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 21 | 18 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 16 | 14 | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | 14 | 13 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd634ba9399374d9482a0b6a3" alt="" width="50" /> | 14 | 13 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | 18 | 11 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 17 | 9 | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | 9 | 7 | [Imogen Heap](../../artists/imogen_heap/overview.md) | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
@@ -32,6 +32,7 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eba454f0e9a4c7f464347e9cfa" alt="" width="50" /> | 5 | 3 | Elizaveta | [🔗](https://open.spotify.com/artist/2a9bCkqCkLvXM0s3uPvR7M) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb118be643c10bd1268f034d28" alt="" width="50" /> | 4 | 3 | Faouzia | [🔗](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb30602b43a0900ae84529c838" alt="" width="50" /> | 3 | 3 | säje | [🔗](https://open.spotify.com/artist/7iitvSs52z6e7UvIo2LCYi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5f772eb53e18d4c2d7ffe744" alt="" width="50" /> | 5 | 2 | Andrew Joslyn | [🔗](https://open.spotify.com/artist/5dSCgfYs71v0zjg2AwUq9n) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | 3 | 2 | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3" alt="" width="50" /> | 3 | 2 | Lorde | [🔗](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) |
@@ -45,7 +46,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebef6fc1d1e5d9e55fae0c9bad" alt="" width="50" /> | 1 | 1 | half•alive | [🔗](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8eb619c6c9f94dc9f6412612" alt="" width="50" /> | 1 | 1 | Lindsey Lomis | [🔗](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3f8c36a57018e5221c8c458c" alt="" width="50" /> | 1 | 1 | Vulfpeck | [🔗](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb30602b43a0900ae84529c838" alt="" width="50" /> | 1 | 1 | säje | [🔗](https://open.spotify.com/artist/7iitvSs52z6e7UvIo2LCYi) |
 | <img src="https://i.scdn.co/image/8346ac26edb6d8745dcd69849816e15658c6e3c4" alt="" width="50" /> | 1 | 1 | Roman GianArthur | [🔗](https://open.spotify.com/artist/7hgRzsQGjlm1zifNoigyB9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61769824ec381aca10903955" alt="" width="50" /> | 1 | 1 | Wyvern Lingo | [🔗](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b3c0f33bc5e3f6a53f84d7" alt="" width="50" /> | 1 | 1 | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
@@ -66,6 +66,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb63592d2f45f3cbb873b49dd6" alt="" width="50" /> | 1 | 1 | EyeLoveBrandon | [🔗](https://open.spotify.com/artist/5nlf0Hcw7PI00zee655ZYX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebab810a44a4d387152d610d93" alt="" width="50" /> | 1 | 1 | Jules Buckley | [🔗](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fb2c2049b583374c9fc7576" alt="" width="50" /> | 1 | 1 | Tank and The Bangas | [🔗](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfc91ccfbb4b00f9160cd5025" alt="" width="50" /> | 1 | 1 | Michael Mayo | [🔗](https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfc2b1e6fbd5b5dbd41ff1788" alt="" width="50" /> | 1 | 1 | Varijashree Venugopal | [🔗](https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba688abfbbed1037befa47232" alt="" width="50" /> | 1 | 1 | HAIM | [🔗](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba52d6095be04ca6691ba9a96" alt="" width="50" /> | 1 | 1 | Jess Glynne | [🔗](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) |
@@ -119,7 +120,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb53a4b7b7926630c0d69b0589" alt="" width="50" /> | 1 | 0 | Ryan Lott | [🔗](https://open.spotify.com/artist/0rLLyTr5rx0qYKb63MdVW9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe926dd683e1700a6d65bd835" alt="" width="50" /> | 1 | 0 | John Mayer | [🔗](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba55b91f04d6b3c3c8dd9108b" alt="" width="50" /> | 1 | 0 | Adra Boo | [🔗](https://open.spotify.com/artist/0YahlVgicneX5hdN8XyIpp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb83671efd372de7007f612e2" alt="" width="50" /> | 1 | 0 | Jukebox The Ghost | [🔗](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) |
 
 </details>
 
@@ -163,6 +163,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | 3 | 1 | Ultraviolence (Deluxe) | 2014-01-01 | [🔗](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273933e69748e2993ca43dbd644" alt="" width="50" /> | 3 | 1 | A Reckoning | 2023-01-27 | [🔗](https://open.spotify.com/album/2LXTIciAcMZ6wa96d9sLnM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | 3 | 0 | Norman Fucking Rockwell! | 2019-08-30 | [🔗](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ae4e5ffa47db3bfd7fb033ad" alt="" width="50" /> | 2 | 2 | säje | 2023-08-25 | [🔗](https://open.spotify.com/album/6L4rGy7MjjQFUhbeSFlcBr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="" width="50" /> | 2 | 2 | dont smile at me | 2017-12-22 | [🔗](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27337fb0680110fbb107740de5d" alt="" width="50" /> | 2 | 2 | What Is Love? (Deluxe Edition) | 2018-11-30 | [🔗](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | 2 | 2 | Hozier (Expanded Edition) | 2014-09-19 | [🔗](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) |
@@ -238,7 +239,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a" alt="" width="50" /> | 1 | 0 | Honeymoon | 2015-09-18 | [🔗](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="" width="50" /> | 1 | 0 | High As Hope | 2018-06-29 | [🔗](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389d2970ad135571a0243ca31" alt="" width="50" /> | 1 | 0 | Goodnight And Go | 2006-05-02 | [🔗](https://open.spotify.com/album/3JYjYjUAoBjxXr1W8eDVLV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27385c5e6c686ced3e43bae2748" alt="" width="50" /> | 1 | 0 | Drunk | 2017-02-24 | [🔗](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) |
 
 </details>
 
@@ -271,6 +271,7 @@
 | 5 | 3 | [Bad Boy](../../labels/bad_boy/overview.md) |
 | 4 | 3 | Wondaland |
 | 4 | 3 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
+| 3 | 3 | sajevoices |
 | 3 | 3 | Sony BMG Music UK |
 | 3 | 3 | Hajanga Records |
 | 5 | 2 | Lux Finite Music |
@@ -280,7 +281,6 @@
 | 4 | 1 | ATO Records |
 | 3 | 1 | Kimbra |
 | 2 | 1 | Universal Music New Zealand Limited |
-| 1 | 1 | sajevoices |
 | 1 | 1 | half·alive |
 | 1 | 1 | ZAR |
 | 1 | 1 | Wyvern Lingo |
@@ -345,7 +345,7 @@
 
 
 <details>
-<summary>See all 85 genres</summary>
+<summary>See all 83 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -360,7 +360,6 @@
 | 5 | 4 | [piano rock](../../genres/piano_rock/overview.md) |
 | 5 | 4 | alt z |
 | 4 | 4 | [lilith](../../genres/lilith/overview.md) |
-| 4 | 4 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 9 | 3 | nyc pop |
 | 6 | 3 | afrofuturism |
 | 5 | 3 | [r&b](../../genres/r_b/overview.md) |
@@ -416,7 +415,6 @@
 | 1 | 0 | swedish indie pop |
 | 1 | 0 | swedish electropop |
 | 1 | 0 | swedish alternative rock |
-| 1 | 0 | shimmer pop |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 1 | 0 | new rave |
 | 1 | 0 | dance-punk |
@@ -437,7 +435,7 @@
 | | [FINNEAS](../../producers/finneas/overview.md) | 13 | Lyricist, Producer, Songwriter, Arranger |
 | | [Florence Welch](../../producers/florence_welch/overview.md) | 13 | Songwriter, Lyricist |
 | | Rob Kinelski | 10 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 10 | Lyricist, Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd634ba9399374d9482a0b6a3" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 10 | Lyricist, Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | 9 | Songwriter, Lyricist, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 8 | Lyricist, Producer, Songwriter |
 | | [Paul Epworth](../../producers/paul_epworth/overview.md) | 8 | Producer, Lyricist, Songwriter |
@@ -558,8 +556,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [He Won't Hold You (feat. Rapsody)](../../artists/jacob_collier/overview.md) | 196 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="Primal Heart" width="50" /> | [Recovery](../../artists/kimbra/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | [Off To The Races](../../artists/lana_del_rey/overview.md) | 195 | <img src="https://i.scdn.co/image/ab67616d0000b2738c8d5428b693308705e7caca" alt="Far" width="50" /> | Eet | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [bury a friend](../../artists/billie_eilish/overview.md) | 142 | <img src="https://i.scdn.co/image/ab67616d0000b27374b226f1b53ca4902dedce2a" alt="Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1)" width="50" /> | Yellow Flicker Beat | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | [Over You (feat. aespa & Chris Martin)](../../artists/jacob_collier/overview.md) | 105 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="Norman Fucking Rockwell!" width="50" /> | [Doin' Time](../../artists/lana_del_rey/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [What The Water Gave Me](../../artists/florence_+_the_machine/overview.md) | 100 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | [A Rock Somewhere (feat. Anoushka Shankar & Varijashree Venugopal)](../../artists/jacob_collier/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | [Over You (feat. aespa & Chris Martin)](../../artists/jacob_collier/overview.md) | 120 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="Norman Fucking Rockwell!" width="50" /> | [Doin' Time](../../artists/lana_del_rey/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | [Summertime Sadness](../../artists/lana_del_rey/overview.md) | 102 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | [A Rock Somewhere (feat. Anoushka Shankar & Varijashree Venugopal)](../../artists/jacob_collier/overview.md) | 0 |
 
 ## Years
 
@@ -570,7 +568,7 @@
 | Year | Number of Tracks |
 |:---|---:|
 | 2024 | 6 |
-| 2023 | 7 |
+| 2023 | 9 |
 | 2022 | 9 |
 | 2021 | 6 |
 | 2020 | 15 |
@@ -600,12 +598,12 @@
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | Djesse Vol. 4 (2024-03-01) | <img src="https://i.scdn.co/image/ab67616d0000b273120a4749a5ea995604bf60ff" alt="Watermark" width="50" /> | Watermark (1988) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27384afbe0583f7a6489d442880" alt="WELLLL" width="50" /> | WELLLL (2023-07-14) | <img src="https://i.scdn.co/image/ab67616d0000b27370dd4e18b9c3431ee7a9b8a1" alt="A Day Without Rain" width="50" /> | A Day Without Rain (2000-11-11) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e" alt="What Was I Made For? [From The Motion Picture &quot;Barbie&quot;]" width="50" /> | What Was I Made For? [From The Motion Picture "Barbie"] (2023-07-13) | <img src="https://i.scdn.co/image/ab67616d0000b273cd519fa579f43e384aa891f1" alt="Finally Woken" width="50" /> | Finally Woken (2004-03-23) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395ca6a9b4083a86c149934ae" alt="Daylight" width="50" /> | Daylight (2023-04-14) | <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="Speak for Yourself" width="50" /> | Speak for Yourself (2005-07-18) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" alt="This Is Why" width="50" /> | This Is Why (2023-02-10) | <img src="https://i.scdn.co/image/ab67616d0000b2739cf4ac84b224a02f34d2e4f6" alt="Writer&#x27;s Block" width="50" /> | Writer's Block (2006-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273933e69748e2993ca43dbd644" alt="A Reckoning" width="50" /> | A Reckoning (2023-01-27) | <img src="https://i.scdn.co/image/ab67616d0000b27389d2970ad135571a0243ca31" alt="Goodnight And Go" width="50" /> | Goodnight And Go (2006-05-02) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="Surrender" width="50" /> | Surrender (2022-07-29) | <img src="https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e" alt="Begin to Hope" width="50" /> | Begin to Hope (2006-06-13) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27384fa33d8a369d7e8187bd272" alt="Chasing Tomorrow" width="50" /> | Chasing Tomorrow (2022-07-22) | <img src="https://i.scdn.co/image/ab67616d0000b273b17d3cdd360973516ade9e6d" alt="The Reminder" width="50" /> | The Reminder (2007-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734dcc2837e0aa90e8c8dbba3f" alt="Never Gonna Be Alone (feat. Lizzy McAlpine &amp; John Mayer)" width="50" /> | Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer) (2022-06-10) | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | Lungs (2009-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="CITIZENS" width="50" /> | CITIZENS (2022-05-19) | <img src="https://i.scdn.co/image/ab67616d0000b27398d4c378a8c78e84bfcf7743" alt="Anjulie" width="50" /> | Anjulie (2009-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ae4e5ffa47db3bfd7fb033ad" alt="säje" width="50" /> | säje (2023-08-25) | <img src="https://i.scdn.co/image/ab67616d0000b27370dd4e18b9c3431ee7a9b8a1" alt="A Day Without Rain" width="50" /> | A Day Without Rain (2000-11-11) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27384afbe0583f7a6489d442880" alt="WELLLL" width="50" /> | WELLLL (2023-07-14) | <img src="https://i.scdn.co/image/ab67616d0000b273cd519fa579f43e384aa891f1" alt="Finally Woken" width="50" /> | Finally Woken (2004-03-23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e" alt="What Was I Made For? [From The Motion Picture &quot;Barbie&quot;]" width="50" /> | What Was I Made For? [From The Motion Picture "Barbie"] (2023-07-13) | <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="Speak for Yourself" width="50" /> | Speak for Yourself (2005-07-18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395ca6a9b4083a86c149934ae" alt="Daylight" width="50" /> | Daylight (2023-04-14) | <img src="https://i.scdn.co/image/ab67616d0000b2739cf4ac84b224a02f34d2e4f6" alt="Writer&#x27;s Block" width="50" /> | Writer's Block (2006-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" alt="This Is Why" width="50" /> | This Is Why (2023-02-10) | <img src="https://i.scdn.co/image/ab67616d0000b27389d2970ad135571a0243ca31" alt="Goodnight And Go" width="50" /> | Goodnight And Go (2006-05-02) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273933e69748e2993ca43dbd644" alt="A Reckoning" width="50" /> | A Reckoning (2023-01-27) | <img src="https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e" alt="Begin to Hope" width="50" /> | Begin to Hope (2006-06-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="Surrender" width="50" /> | Surrender (2022-07-29) | <img src="https://i.scdn.co/image/ab67616d0000b273b17d3cdd360973516ade9e6d" alt="The Reminder" width="50" /> | The Reminder (2007-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27384fa33d8a369d7e8187bd272" alt="Chasing Tomorrow" width="50" /> | Chasing Tomorrow (2022-07-22) | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | Lungs (2009-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734dcc2837e0aa90e8c8dbba3f" alt="Never Gonna Be Alone (feat. Lizzy McAlpine &amp; John Mayer)" width="50" /> | Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer) (2022-06-10) | <img src="https://i.scdn.co/image/ab67616d0000b27398d4c378a8c78e84bfcf7743" alt="Anjulie" width="50" /> | Anjulie (2009-01-01) |

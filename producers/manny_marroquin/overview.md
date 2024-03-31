@@ -71,7 +71,7 @@
 | Ben McKee | Ben McKee | 2 |
 | Josh Mosser | Josh Mosser | 2 |
 | Andrew Wyatt | Andrew Wyatt | 2 |
-| Sounwave | Sounwave | 2 |
+| Sounwave | [Sounwave](../sounwave/overview.md) | 2 |
 | Pontus Petersson | Pontus Petersson | 2 |
 | Tim Maxey | Tim Maxey | 2 |
 | Lizzo | Lizzo | 2 |

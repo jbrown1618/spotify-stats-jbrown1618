@@ -1,6 +1,6 @@
 # Epic
 
-108 songs
+105 songs
 
 [See Track Features](audio_features.md)
 
@@ -10,12 +10,11 @@ Appears as:
 - Epic (79 tracks)
 - Syco Music/Epic (11 tracks)
 - Epic/Legacy (5 tracks)
-- FAX Records/Epic (4 tracks)
 - Epic/Not So Fast (2 tracks)
 - Epic/Phonogenic (2 tracks)
+- FAX Records/Epic (2 tracks)
 - Ode/Epic/Legacy (2 tracks)
 - Epic/London Ent. (1 tracks)
-- Wilburn Holding Co./Boominati/Epic/Republic (1 tracks)
 - Wondaland Records/Epic (1 tracks)
 
 ## Top Artists
@@ -26,8 +25,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 9 | 6 | [Michael Jackson](../../artists/michael_jackson/overview.md) | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99a94361a732b7eb49342d35" alt="" width="50" /> | 7 | 6 | [Camila Cabello](../../artists/camila_cabello/overview.md) | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaee73c0f0458b95091845ee1" alt="" width="50" /> | 3 | 2 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcc628db5cd6fffcb659decab" alt="" width="50" /> | 2 | 2 | Tyla | [🔗](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb17287dc33dcde4a69fd71b59" alt="" width="50" /> | 2 | 2 | The Script | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcc628db5cd6fffcb659decab" alt="" width="50" /> | 4 | 1 | Tyla | [🔗](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | 4 | 1 | Fifth Harmony | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0219b6643b1ec449b0951bfe" alt="" width="50" /> | 2 | 1 | Giveon | [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | 2 | 1 | Kansas | [🔗](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) |
@@ -35,7 +34,7 @@ Appears as:
 
 
 <details>
-<summary>See all 37 artists</summary>
+<summary>See all 34 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -61,11 +60,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 1 | 0 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | 1 | 0 | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
 | <img src="https://i.scdn.co/image/215c26ee517c4faf54722335cc79f375d178fb71" alt="" width="50" /> | 1 | 0 | Elmo & Patsy | [🔗](https://open.spotify.com/artist/3Ubvmshojm0HJHWWr4C6GF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 1 | 0 | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6ef89e23678018c6d8630825" alt="" width="50" /> | 1 | 0 | Future | [🔗](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe43df4cc104a9cc9c11b0b97" alt="" width="50" /> | 1 | 0 | Tyla Yaweh | [🔗](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb09346c91165702351da32f07" alt="" width="50" /> | 1 | 0 | The Fray | [🔗](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebdf9a1555f53a20087b8c5a5c" alt="" width="50" /> | 1 | 0 | Metro Boomin | [🔗](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) |
 
 </details>
 
@@ -85,15 +81,14 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | 5 | 4 | Once Upon Another Time | 2012-05-22 | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | 3 | 3 | Camila | 2018-01-12 | [🔗](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | 3 | 2 | Romance | 2019-12-06 | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273af0b5968b8bad3923b2ea76b" alt="" width="50" /> | 3 | 0 | TYLA | 2024-03-22 | [🔗](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | 2 | 2 | The Script | 2008-07-14 | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
 
 
 <details>
-<summary>See all 42 albums</summary>
+<summary>See all 41 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | 2 | 2 | The Script | 2008-07-14 | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | 2 | 1 | Bad (Remastered) | 1987-08-31 | [🔗](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | 2 | 0 | Tapestry | 1971 | [🔗](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d03fa6f4e758282b7920b5c8" alt="" width="50" /> | 2 | 0 | 7/27 (Deluxe) | 2016-05-27 | [🔗](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) |
@@ -101,6 +96,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d419ed4f1e89669ce14bd369" alt="" width="50" /> | 1 | 1 | Wild Cherry | 1976 | [🔗](https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d20231861e86a6f74ef2393e" alt="" width="50" /> | 1 | 1 | Water | 2023-07-28 | [🔗](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273752d2becbb91841a31c556b8" alt="" width="50" /> | 1 | 1 | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | 2010-05-07 | [🔗](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273af0b5968b8bad3923b2ea76b" alt="" width="50" /> | 1 | 1 | TYLA | 2024-03-22 | [🔗](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735bdd9e580fdda5e676a25e6a" alt="" width="50" /> | 1 | 1 | Reflection (Deluxe) | 2015-01-30 | [🔗](https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | 1 | 1 | Point Of Know Return (Expanded Edition) | 1977 | [🔗](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27327ddd747545c0d0cfe7595fa" alt="" width="50" /> | 1 | 1 | Oral Fixation, Vol. 2 (Expanded Edition) | 2005-11-28 | [🔗](https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU) |
@@ -112,7 +108,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b08f59c7648a7a67130ca0ea" alt="" width="50" /> | 1 | 1 | Greatest Hits | 1970-11-21 | [🔗](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956" alt="" width="50" /> | 1 | 1 | Faith | 1987-10-30 | [🔗](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | 1 | 1 | Cry for Me | 2019-10-04 | [🔗](https://open.spotify.com/album/2dq4ae5hiyxlFPG1s8rlq5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a46b07c291e6dfdee13b3ee8" alt="" width="50" /> | 1 | 0 | WE DON'T TRUST YOU | 2024-03-22 | [🔗](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733317fc12f8b9a9a0b8459766" alt="" width="50" /> | 1 | 0 | TAKE TIME | 2020-03-27 | [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | 1 | 0 | Off the Wall | 1979-08-10 | [🔗](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da313ff0ee1a50bee49dfc72" alt="" width="50" /> | 1 | 0 | More Love - Songs from Little Voice Season One | 2020-09-04 | [🔗](https://open.spotify.com/album/52fzvqGSm991mT6pBgAS6g) |
@@ -148,7 +143,7 @@ Appears as:
 
 
 <details>
-<summary>See all 56 genres</summary>
+<summary>See all 52 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -171,7 +166,6 @@ Appears as:
 | 2 | 1 | new wave pop |
 | 2 | 1 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 2 | 1 | [hard rock](../../genres/hard_rock/overview.md) |
-| 2 | 1 | atl hip hop |
 | 2 | 1 | [album rock](../../genres/album_rock/overview.md) |
 | 1 | 1 | women's music |
 | 1 | 1 | southern soul |
@@ -182,18 +176,15 @@ Appears as:
 | 1 | 1 | funk |
 | 1 | 1 | classic soul |
 | 1 | 1 | [canadian pop](../../genres/canadian_pop/overview.md) |
+| 1 | 1 | atl hip hop |
 | 1 | 1 | alternative r&b |
 | 1 | 1 | afrofuturism |
 | 2 | 0 | folk rock |
 | 2 | 0 | brill building pop |
-| 1 | 0 | trap |
-| 1 | 0 | southern hip hop |
-| 1 | 0 | [rap](../../genres/rap/overview.md) |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 1 | 0 | novelty |
 | 1 | 0 | new romantic |
 | 1 | 0 | melodic rap |
-| 1 | 0 | [hip hop](../../genres/hip_hop/overview.md) |
 | 1 | 0 | dark pop |
 | 1 | 0 | chamber pop |
 | 1 | 0 | cali rap |
@@ -435,10 +426,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273da313ff0ee1a50bee49dfc72" alt="" width="50" /> | Little Voice | More Love - Songs from Little Voice Season One | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 0 | | [🔗](https://open.spotify.com/track/6bbmyaEU6k26teJfCsIKNb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d20231861e86a6f74ef2393e" alt="" width="50" /> | Water | Water | Tyla | [FAX Records/Epic](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d3a523c771cecab6c0633e50" alt="" width="50" /> | City Of Dreams (feat. Chris Brown) | Heart Full of Rage 2 | Tyla Yaweh, Chris Brown | [Epic/London Ent.](.) | 0 | | [🔗](https://open.spotify.com/track/2nLKcpdoIX6oFo5npWHVF4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273af0b5968b8bad3923b2ea76b" alt="" width="50" /> | ART | TYLA | Tyla | [FAX Records/Epic](.) | 0 | | [🔗](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273af0b5968b8bad3923b2ea76b" alt="" width="50" /> | On and On | TYLA | Tyla | [FAX Records/Epic](.) | 0 | | [🔗](https://open.spotify.com/track/6VvJi5zSrMupsi5hxw60bn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273af0b5968b8bad3923b2ea76b" alt="" width="50" /> | Truth or Dare | TYLA | Tyla | [FAX Records/Epic](.) | 0 | | [🔗](https://open.spotify.com/track/7axl6v0Yv4ksLVMt6XItpc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a46b07c291e6dfdee13b3ee8" alt="" width="50" /> | Like That | WE DON'T TRUST YOU | Future, Metro Boomin, [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | Boominati, Wilburn Holding Co., [Epic](.), [Republic Records](../republic_records) | 0 | | [🔗](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273af0b5968b8bad3923b2ea76b" alt="" width="50" /> | Truth or Dare | TYLA | Tyla | [FAX Records/Epic](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/7axl6v0Yv4ksLVMt6XItpc) |
 
 </details>
 

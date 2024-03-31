@@ -1,6 +1,6 @@
 # RCA Records Label
 
-103 songs
+102 songs
 
 [See Track Features](audio_features.md)
 
@@ -11,8 +11,8 @@ Appears as:
 - Monkey Puzzle Records/RCA Records (7 tracks)
 - Kemosabe Records/RCA Records (6 tracks)
 - Citizen Queen/RCA Records (5 tracks)
-- Top Dawg Entertainment/RCA Records (3 tracks)
 - SM Entertainment/RCA Records (2 tracks)
+- Top Dawg Entertainment/RCA Records (2 tracks)
 - BPG/RVG/RCA Records (1 tracks)
 - Chris Brown Entertainment/300 Entertainment/RCA Records (1 tracks)
 - Cult Records/RCA Records (1 tracks)
@@ -30,8 +30,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb746dd598cf914934bd27ed7e" alt="" width="50" /> | 43 | 16 | [Pentatonix](../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 8 | 7 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="" width="50" /> | 7 | 7 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | 4 | 3 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | 4 | 3 | [Imogen Heap](../../artists/imogen_heap/overview.md) | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | 3 | 3 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | 3 | 2 | P!nk | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089" alt="" width="50" /> | 3 | 2 | The Strokes | [🔗](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb36c6fa1b8ff851988de641f8" alt="" width="50" /> | 2 | 2 | [Lindsey Stirling](../../artists/lindsey_stirling/overview.md) | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
@@ -103,7 +103,6 @@ Appears as:
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="" width="50" /> | 3 | 1 | PTX Presents: Top Pop, Vol. I | 2018-04-13 | [🔗](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a58f9ec8f85fab3e17ee75e" alt="" width="50" /> | 3 | 0 | PTXmas (Deluxe Edition) | 2012-11-12 | [🔗](https://open.spotify.com/album/5ZwH7KH8Zw0m76hYwANMos) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | 2 | 1 | SOS | 2022-12-09 | [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="" width="50" /> | 2 | 1 | PTX | 2014-09-19 | [🔗](https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="" width="50" /> | 2 | 0 | Christmas Is Here! | 2018-10-19 | [🔗](https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27398acfa8c055deedc25e6081d" alt="" width="50" /> | 1 | 1 | When It's Dark Out | 2015-12-04 | [🔗](https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu) |
@@ -112,6 +111,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="" width="50" /> | 1 | 1 | The New Abnormal | 2020-04-10 | [🔗](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21" alt="" width="50" /> | 1 | 1 | Teatro d'ira - Vol. I | 2021-03-19 | [🔗](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b2347cfc60cddd4836e5e01" alt="" width="50" /> | 1 | 1 | Talk Saxy | 2023-10-27 | [🔗](https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | 1 | 1 | SOS | 2022-12-09 | [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5" alt="" width="50" /> | 1 | 1 | SOS | 2022-12-08 | [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="" width="50" /> | 1 | 1 | Room On Fire | 2003-10-28 | [🔗](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30" alt="" width="50" /> | 1 | 1 | Paint The Town Red | 2023-08-04 | [🔗](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) |
@@ -162,14 +162,14 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 29 | 22 | [pop](../../genres/pop/overview.md) |
+| 28 | 22 | [pop](../../genres/pop/overview.md) |
 | 43 | 16 | [viral pop](../../genres/viral_pop/overview.md) |
 | 43 | 16 | [a cappella](../../genres/a_cappella/overview.md) |
 | 17 | 12 | [dance pop](../../genres/dance_pop/overview.md) |
 | 7 | 7 | australian pop |
 | 7 | 7 | australian dance |
-| 7 | 5 | [rap](../../genres/rap/overview.md) |
-| 6 | 4 | [r&b](../../genres/r_b/overview.md) |
+| 6 | 5 | [rap](../../genres/rap/overview.md) |
+| 5 | 4 | [r&b](../../genres/r_b/overview.md) |
 | 4 | 3 | metropopolis |
 | 4 | 3 | etherpop |
 
@@ -226,15 +226,15 @@ Appears as:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 8 | Producer |
-| | [Łukasz Gottwald (Gottwald, Łukasz)](../../producers/łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 7 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="" width="50" /> | [Sia](../../artists/sia/overview.md) | 7 | Producer, Songwriter |
+| | [Łukasz Gottwald (Gottwald, Łukasz)](../../producers/łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 7 | Songwriter |
 | | [John Hanes](../../producers/john_hanes/overview.md) | 6 | Producer |
+| | [Greg Kurstin](../../producers/greg_kurstin/overview.md) | 6 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 6 | Songwriter |
 | | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 6 | Producer |
-| | [Greg Kurstin](../../producers/greg_kurstin/overview.md) | 6 | Producer, Songwriter |
 | | Alex Pasco | 5 | Producer |
-| | Dr. Luke | 4 | Producer |
-| | Julian Burg | 4 | Producer |
+| | Jesse Shatkin | 4 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | [Imogen Heap](../../artists/imogen_heap/overview.md) | 4 | Lyricist, Producer, Songwriter |
 
 
 <details>
@@ -242,96 +242,96 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | [Imogen Heap](../../artists/imogen_heap/overview.md) | 4 | Lyricist, Producer, Songwriter |
-| | Jesse Shatkin | 4 | Producer, Songwriter |
+| | Dr. Luke | 4 | Producer |
 | | Ben Bram | 4 | Songwriter, Arranger |
-| | Kirstin | 3 | Songwriter |
-| | Kevin Olusola | 3 | Songwriter |
-| | Yeti Beats | 3 | Producer, Songwriter |
-| | Mitch Grassi | 3 | Songwriter |
+| | Julian Burg | 4 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | SZA | 3 | Songwriter |
 | | Avi Kaplan | 3 | Songwriter |
+| | Kirstin | 3 | Songwriter |
+| | Mitch Grassi | 3 | Songwriter |
 | | Scott Hoying | 3 | Songwriter |
+| | Yeti Beats | 3 | Producer, Songwriter |
+| | Kevin Olusola | 3 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb746dd598cf914934bd27ed7e" alt="" width="50" /> | [Pentatonix](../../artists/pentatonix/overview.md) | 2 | Arranger |
+| | Rogét Chahayed (Chahayed, Rogét) | 2 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 2 | Lyricist, Songwriter |
+| | Dan Reynolds | 2 | Producer, Songwriter |
+| | Carter Lang | 2 | Producer, Songwriter |
+| | Jimmy Napes | 2 | Songwriter |
 | | Jeff Bhasker | 2 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/5d5dec419f704181b9a23dd9c55562632817c442" alt="" width="50" /> | Nate Ruess | 2 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | SZA | 2 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb746dd598cf914934bd27ed7e" alt="" width="50" /> | [Pentatonix](../../artists/pentatonix/overview.md) | 2 | Arranger |
-| | Jimmy Napes | 2 | Songwriter |
-| | Rogét Chahayed (Chahayed, Rogét) | 2 | Producer, Songwriter |
+| | Chris Braide | 2 | Producer, Songwriter |
+| | [Cirkut](../../producers/cirkut/overview.md) | 2 | Songwriter, Producer |
 | | Bryce Bordone | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | P!nk | 2 | Songwriter |
 | | Rian Lewis | 2 | Producer |
-| | [Cirkut](../../producers/cirkut/overview.md) | 2 | Songwriter, Producer |
-| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 2 | Lyricist, Songwriter |
-| | Dan Reynolds | 2 | Producer, Songwriter |
-| | Chris Braide | 2 | Producer, Songwriter |
-| | Carter Lang | 2 | Producer, Songwriter |
-| | Ben Baptie | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | Christina Aguilera | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcc129f1c9b5047760d66aae2" alt="" width="50" /> | Stromae | 1 | Songwriter |
-| | Joe Visciano | 1 | Producer |
-| | Kiyanu Kim | 1 | Songwriter |
-| | Yoko Ono | 1 | Lyricist |
-| | Rob Bisel | 1 | Songwriter |
-| | 방혜현 (Bang, Hye Hyun) | 1 | Lyricist |
-| | John X. Volaitis | 1 | Producer |
-| | Nikolai Fraiture | 1 | Songwriter |
-| | Emiko Bankson | 1 | Songwriter |
-| | Stephan Moccio | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 1 | Songwriter |
-| | Boyan Chowdhury | 1 | Songwriter |
-| | Derek Pacuk | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb93edab94acfe329cfcd339ec" alt="" width="50" /> | Kesha | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba90aa331d770d2a2f003cd96" alt="" width="50" /> | Lucky Daye | 1 | Songwriter |
+| | James Krausse | 1 | Producer, Songwriter |
 | | Tom Elmhirst | 1 | Producer |
+| | Boyan Chowdhury | 1 | Songwriter |
+| | John X. Volaitis | 1 | Producer |
+| | Daniel Davidsen | 1 | Songwriter |
+| | Fabrizio Moretti | 1 | Songwriter |
+| | Emiko Bankson | 1 | Songwriter |
+| | Nikolai Fraiture | 1 | Songwriter |
+| | Andrew Watt | 1 | Songwriter |
+| | 방혜현 (Bang, Hye Hyun) | 1 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | Christina Aguilera | 1 | Songwriter |
+| | Yoko Ono | 1 | Lyricist |
+| | Joe Visciano | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcc129f1c9b5047760d66aae2" alt="" width="50" /> | Stromae | 1 | Songwriter |
+| | Derek Pacuk | 1 | Producer |
+| | Tyson Trax | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba90aa331d770d2a2f003cd96" alt="" width="50" /> | Lucky Daye | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf01727aa674ddefa777797a" alt="" width="50" /> | Diplo | 1 | Producer |
-| | Tyler Johnson | 1 | Producer |
-| | Maurice White | 1 | Songwriter |
 | | Fred Falke | 1 | Producer |
 | | Marc Jameson | 1 | Producer |
-| | Sergio Chavez | 1 | Producer |
 | | Albert Hammond, Jr. | 1 | Songwriter |
 | | Kaan Gunesberk | 1 | Songwriter |
-| | Isaac Earl Bynum | 1 | Songwriter |
 | | Ben Samama | 1 | Songwriter |
 | | Dom Morley | 1 | Producer |
 | | Thomas Pentz | 1 | Songwriter |
-| | Starrah | 1 | Songwriter |
-| | James Krausse | 1 | Producer, Songwriter |
-| | Daniel Davidsen | 1 | Songwriter |
+| | Josh Taylor | 1 | Songwriter |
+| | David Campbell | 1 | Arranger |
+| | Yogesh Tulsiani | 1 | Songwriter |
+| | Ben Baptie | 1 | Producer |
+| | Andrew Swanson | 1 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 1 | Producer, Songwriter |
-| | Savan Kotecha | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb305a7cc6760b53a67aaae19d" alt="" width="50" /> | Kelly Clarkson | 1 | Songwriter |
-| | Terry Shaddick | 1 | Songwriter |
+| | Stephan Moccio | 1 | Songwriter |
+| | Rob Bisel | 1 | Songwriter |
+| | Kiyanu Kim | 1 | Songwriter |
+| | Maurice White | 1 | Songwriter |
+| | Sergio Chavez | 1 | Producer |
+| | Isaac Earl Bynum | 1 | Songwriter |
+| | Starrah | 1 | Songwriter |
+| | Elof Loelv | 1 | Songwriter |
+| | Tyler Johnson | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089" alt="" width="50" /> | The Strokes | 1 | Arranger |
-| | Lydia Asrat | 1 | Songwriter |
-| | Christoph Andersson | 1 | Producer, Songwriter |
 | | Gabe Burch | 1 | Producer |
 | | Tim Roberts | 1 | Producer |
-| | 신나리 (Shin, Na Ri) | 1 | Lyricist |
-| | Gordon Raphael | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 1 | Songwriter |
-| | Abi Harding | 1 | Songwriter |
-| | Tim Suby | 1 | Songwriter |
-| | Jason Lader | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | The Weeknd | 1 | Songwriter |
-| | Jean-Baptiste Kouame | 1 | Songwriter |
-| | Jacob Kasher | 1 | Songwriter |
-| | Luigi Creatore | 1 | Songwriter |
-| | David Campbell | 1 | Arranger |
-| | Ben McKee | 1 | Songwriter |
 | | [Sam Holland](../../producers/sam_holland/overview.md) | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | Juicy J | 1 | Songwriter |
-| | Elof Loelv | 1 | Songwriter |
-| | J. Tyler Johnson | 1 | Songwriter |
-| | Louis Bell | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb93edab94acfe329cfcd339ec" alt="" width="50" /> | Kesha | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb305a7cc6760b53a67aaae19d" alt="" width="50" /> | Kelly Clarkson | 1 | Songwriter |
+| | Jacob Kasher | 1 | Songwriter |
 | | Peter Wallevik | 1 | Songwriter |
-| | Yogesh Tulsiani | 1 | Songwriter |
-| | Tyson Trax | 1 | Producer |
-| | Andrew Swanson | 1 | Producer, Songwriter |
-| | Josh Taylor | 1 | Songwriter |
-| | Fabrizio Moretti | 1 | Songwriter |
+| | Terry Shaddick | 1 | Songwriter |
+| | Louis Bell | 1 | Songwriter |
+| | J. Tyler Johnson | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 1 | Producer |
-| | Andrew Watt | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | Juicy J | 1 | Songwriter |
+| | Ben McKee | 1 | Songwriter |
+| | George David Weiss | 1 | Songwriter |
+| | Jean-Baptiste Kouame | 1 | Songwriter |
+| | Savan Kotecha | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | The Weeknd | 1 | Songwriter |
+| | Jason Lader | 1 | Producer |
+| | Tim Suby | 1 | Songwriter |
+| | Abi Harding | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 1 | Songwriter |
+| | Gordon Raphael | 1 | Producer |
+| | 신나리 (Shin, Na Ri) | 1 | Lyricist |
+| | Christoph Andersson | 1 | Producer, Songwriter |
+| | Lydia Asrat | 1 | Songwriter |
 
 </details>
 
@@ -341,8 +341,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738773ae7641a2ee7d8b9e532e" alt="" width="50" /> | Get A Guitar | Get A Guitar | RIIZE | [RCA Records Label](.), [SM Entertainment](../sm_entertainment) | 690 | 💚 | [🔗](https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | Kill Bill | SOS | SZA | [Top Dawg Entertainment/RCA Records](.) | 415 | 💚 | [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738773ae7641a2ee7d8b9e532e" alt="" width="50" /> | Get A Guitar | Get A Guitar | RIIZE | [RCA Records Label](.), [SM Entertainment](../sm_entertainment) | 868 | 💚 | [🔗](https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="" width="50" /> | Vegas | ELVIS (Original Motion Picture Soundtrack) | [Doja Cat](../../artists/doja_cat/overview.md) | [House of Iona/RCA Records](.) | 208 | 💚 | [🔗](https://open.spotify.com/track/3FWwi61OP7vXEikwqhZCPZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Problem (Ariana Grande Cover) | PTX, Vol. III | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 150 | 💚 | [🔗](https://open.spotify.com/track/45h4cCw7ccsRXb0Orle2an) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="" width="50" /> | Beggin' | Chosen | Måneskin | [RCA Records Label](.) | 97 | 💚 | [🔗](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) |
@@ -351,6 +350,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Let It Go | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 17 | | [🔗](https://open.spotify.com/track/2G7K3Op9y3HhqrF2TdHP95) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Mary, Did You Know? | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 12 | | [🔗](https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273786cb106c8bb0c15c86a93a0" alt="" width="50" /> | Hustle | Hurts 2B Human | P!nk | [RCA Records Label](.) | 9 | 💚 | [🔗](https://open.spotify.com/track/6BVmygBQhe4pTZQgKkzstD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f14aa81116510d3a6df8432b" alt="" width="50" /> | Say So | Hot Pink | [Doja Cat](../../artists/doja_cat/overview.md) | [Kemosabe Records/RCA Records](.) | 7 | 💚 | [🔗](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) |
 
 
 <details>
@@ -358,7 +358,6 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f14aa81116510d3a6df8432b" alt="" width="50" /> | Say So | Hot Pink | [Doja Cat](../../artists/doja_cat/overview.md) | [Kemosabe Records/RCA Records](.) | 7 | 💚 | [🔗](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="" width="50" /> | Imagine | PTX Vol. IV - Classics | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 5 | 💚 | [🔗](https://open.spotify.com/track/1UaTmLT3nB1sNBfv1hkqU1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Dance of the Sugar Plum Fairy | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 3 | | [🔗](https://open.spotify.com/track/0u0TlASkQWH2bGIZRu0HLh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732b9aca3204e667980ce6a939" alt="" width="50" /> | Go DJ (feat. SiR) | BUBBA | KAYTRANADA, SiR | [KAYTRANADA/RCA Records](.) | 3 | | [🔗](https://open.spotify.com/track/5goFCtUGQHU4kQuwIupc5D) |
@@ -447,7 +446,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a" alt="" width="50" /> | You Right | Planet Her | [Doja Cat](../../artists/doja_cat/overview.md), The Weeknd | [Kemosabe Records/RCA Records](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d272936b9368c8d7fd2e6ef" alt="" width="50" /> | Freaky Deaky | Freaky Deaky | Tyga, [Doja Cat](../../artists/doja_cat/overview.md) | [Kemosabe / RCA Records / Last Kings Music / EMPIRE](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5" alt="" width="50" /> | Kill Bill | SOS | SZA | [Top Dawg Entertainment/RCA Records](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | Snooze | SOS | SZA | [Top Dawg Entertainment/RCA Records](.) | 0 | | [🔗](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | Snooze | SOS | SZA | [Top Dawg Entertainment/RCA Records](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30" alt="" width="50" /> | Paint The Town Red | Paint The Town Red | [Doja Cat](../../artists/doja_cat/overview.md) | [Kemosabe Records/RCA Records](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d03c8d74d7f963dee63ef893" alt="" width="50" /> | Smoke (feat. Lucky Daye) | JAGUAR II | Victoria Monét, Lucky Daye | [Lovett Music/RCA Records](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/1Zej3ztnuVElDfYGYBBhJP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b2347cfc60cddd4836e5e01" alt="" width="50" /> | Talk Saxy | Talk Saxy | RIIZE | [RCA Records Label](.), [SM Entertainment](../sm_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND) |

@@ -14,23 +14,26 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | 10 | 8 | [Janelle Monáe](../../artists/janelle_monáe/overview.md) | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 9 | 6 | [Michael Jackson](../../artists/michael_jackson/overview.md) | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb716114797a4a644c67c5fa72" alt="" width="50" /> | 4 | 2 | USHER | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | 3 | 2 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | 2 | 2 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb90e3fd86189f24d3f7dcb399" alt="" width="50" /> | 2 | 2 | Ciara | [🔗](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0219b6643b1ec449b0951bfe" alt="" width="50" /> | 2 | 1 | Giveon | [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) |
 | <img src="https://i.scdn.co/image/8346ac26edb6d8745dcd69849816e15658c6e3c4" alt="" width="50" /> | 1 | 1 | Roman GianArthur | [🔗](https://open.spotify.com/artist/7hgRzsQGjlm1zifNoigyB9) |
+| <img src="https://i.scdn.co/image/9837f337431ea4a73bf699e24c4d588028bb0fce" alt="" width="50" /> | 1 | 1 | Chamillionaire | [🔗](https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | 1 | 1 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb149ebd20c454545fc4fb7487" alt="" width="50" /> | 1 | 1 | Victoria Monét | [🔗](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | 1 | 1 | Juicy J | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
 
 
 <details>
-<summary>See all 40 artists</summary>
+<summary>See all 41 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb149ebd20c454545fc4fb7487" alt="" width="50" /> | 1 | 1 | Victoria Monét | [🔗](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | 1 | 1 | Juicy J | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba90aa331d770d2a2f003cd96" alt="" width="50" /> | 1 | 1 | Lucky Daye | [🔗](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1412a6c6ccf340d8623cd6ab" alt="" width="50" /> | 1 | 1 | Jidenna | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebebfd16a3bca87c31c1e20576" alt="" width="50" /> | 1 | 1 | Alicia Keys | [🔗](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4669166b571594eade778990" alt="" width="50" /> | 1 | 1 | Miguel | [🔗](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7a5cfe2597665a3d160e805e" alt="" width="50" /> | 1 | 1 | Justin Timberlake | [🔗](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f3c0dffb5229c8734ff60b2" alt="" width="50" /> | 1 | 1 | Big Boi | [🔗](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb631cf0aa859e5a20e836f14f" alt="" width="50" /> | 1 | 1 | Solange | [🔗](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6fcd1b700654bccf1adee3ed" alt="" width="50" /> | 1 | 1 | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
@@ -41,13 +44,11 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | 1 | 0 | Lil Jon | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb1bc9e7ca44d473641b7842" alt="" width="50" /> | 1 | 0 | Erykah Badu | [🔗](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3ef779aa0d271adb2b6a3ded" alt="" width="50" /> | 1 | 0 | Childish Gambino | [🔗](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) |
-| <img src="https://i.scdn.co/image/9837f337431ea4a73bf699e24c4d588028bb0fce" alt="" width="50" /> | 1 | 0 | Chamillionaire | [🔗](https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf4710a4c927b222cfa785257" alt="" width="50" /> | 1 | 0 | Estelle | [🔗](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a" alt="" width="50" /> | 1 | 0 | Kanye West | [🔗](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfade412170364e8067c9df7a" alt="" width="50" /> | 1 | 0 | Summer Walker | [🔗](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 1 | 0 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 1 | 0 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb90e3fd86189f24d3f7dcb399" alt="" width="50" /> | 1 | 0 | Ciara | [🔗](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9592a41ec193fd20c5372ed3" alt="" width="50" /> | 1 | 0 | Cassie | [🔗](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca118e3822061f7b7f6bc537" alt="" width="50" /> | 1 | 0 | Ne-Yo | [🔗](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf75e64532704bd6acf0b4e76" alt="" width="50" /> | 1 | 0 | Destiny's Child | [🔗](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) |
@@ -67,9 +68,9 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="SOS" width="50" /> | Kill Bill | 415 | <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="Metropolis: The Chase Suite (Special Edition)" width="50" /> | [Sincerely, Jane](../../artists/janelle_monáe/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738136c2c2762cba40cb51f9aa" alt="The Evolution" width="50" /> | Get Up (feat. Chamillionaire) | 231 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="All I Want Is You" width="50" /> | Sure Thing | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="Yoga" width="50" /> | [Yoga](../../artists/janelle_monáe/overview.md) | 117 | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="Dangerously In Love" width="50" /> | [Naughty Girl](../../artists/beyoncé/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738136c2c2762cba40cb51f9aa" alt="The Evolution" width="50" /> | Get Up (feat. Chamillionaire) | 264 | <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="Metropolis: The Chase Suite (Special Edition)" width="50" /> | [Sincerely, Jane](../../artists/janelle_monáe/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="Yoga" width="50" /> | [Yoga](../../artists/janelle_monáe/overview.md) | 117 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="All I Want Is You" width="50" /> | Sure Thing | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737fbdcafad432ea5d248788bf" alt="Fantasy Ride" width="50" /> | Love Sex Magic (feat. Justin Timberlake) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="Dangerously In Love" width="50" /> | [Naughty Girl](../../artists/beyoncé/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="Over It" width="50" /> | Body | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="Lemonade" width="50" /> | [Hold Up](../../artists/beyoncé/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731325a9351844f7806a8309c5" alt="Sweetest Pie" width="50" /> | Sweetest Pie | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="Thriller" width="50" /> | [P.Y.T. (Pretty Young Thing)](../../artists/michael_jackson/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4c4ee507c2558262869f415" alt="Cassie (U.S. Version)" width="50" /> | Me & U | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="I AM...SASHA FIERCE" width="50" /> | [Sweet Dreams](../../artists/beyoncé/overview.md) | 0 |
@@ -88,22 +89,23 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27357cc241e3fc4e95eea8c4b20" alt="" width="50" /> | 3 | 2 | The Electric Lady | 2013-09-06 | [🔗](https://open.spotify.com/album/3bnHtSmmsgJiG82hGCmsq9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="" width="50" /> | 3 | 2 | Dirty Computer | 2018-04-27 | [🔗](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="" width="50" /> | 2 | 2 | The ArchAndroid | 2010-05-17 | [🔗](https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | 2 | 1 | SOS | 2022-12-09 | [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="" width="50" /> | 2 | 1 | Raymond v Raymond (Expanded Edition) | 2010-03-30 | [🔗](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | 2 | 1 | Lemonade | 2016-04-23 | [🔗](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | 2 | 1 | Dangerously In Love | 2003-06-24 | [🔗](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | 2 | 1 | Bad (Remastered) | 1987-08-31 | [🔗](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) |
 
 
 <details>
-<summary>See all 39 albums</summary>
+<summary>See all 40 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | 2 | 1 | Bad (Remastered) | 1987-08-31 | [🔗](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | 2 | 1 | B'Day Deluxe Edition | 2007-05-29 | [🔗](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | 1 | 1 | Yoga | 2015-03-31 | [🔗](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738136c2c2762cba40cb51f9aa" alt="" width="50" /> | 1 | 1 | The Evolution | 2006 | [🔗](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356ff19308ebeb48e2ba6094b" alt="" width="50" /> | 1 | 1 | The Diary Of Alicia Keys | 2003-12-02 | [🔗](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731325a9351844f7806a8309c5" alt="" width="50" /> | 1 | 1 | Sweetest Pie | 2022-03-11 | [🔗](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | 1 | 1 | SOS | 2022-12-09 | [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5" alt="" width="50" /> | 1 | 1 | SOS | 2022-12-08 | [🔗](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e8e488284a2cf00a613c0a1" alt="" width="50" /> | 1 | 1 | Music From The Motion Picture Cadillac Records | 2008-11-28 | [🔗](https://open.spotify.com/album/4b2zuwf7CPesdiTg1kFDjU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="" width="50" /> | 1 | 1 | Metropolis: The Chase Suite (Special Edition) | 2008-08-12 | [🔗](https://open.spotify.com/album/3T3bJi3cvwR5U7ihwgEwF1) |
@@ -111,10 +113,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | 1 | 1 | I Don't Mind (feat. Juicy J) | 2014-11-21 | [🔗](https://open.spotify.com/album/5BAqg5IJQ7XFKfdoCiOlJw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b0d2119e477ebbb543f19ed7" alt="" width="50" /> | 1 | 1 | Heartbreak Anniversary | 2020-02-21 | [🔗](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="" width="50" /> | 1 | 1 | HIStory - PAST, PRESENT AND FUTURE - BOOK I | 1995-06-16 | [🔗](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737fbdcafad432ea5d248788bf" alt="" width="50" /> | 1 | 1 | Fantasy Ride | 2009-05-05 | [🔗](https://open.spotify.com/album/5bIi3gz4jULkZV38aTwLPn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="" width="50" /> | 1 | 1 | All I Want Is You | 2010-11-26 | [🔗](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="" width="50" /> | 1 | 1 | A Beautiful World | 2002-12-13 | [🔗](https://open.spotify.com/album/76wI74XuASLFrY9pUVLhO9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb04fff9fd19fd8f65b86e1" alt="" width="50" /> | 1 | 0 | The Lion King (Original Motion Picture Soundtrack) | 2019-07-11 | [🔗](https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738136c2c2762cba40cb51f9aa" alt="" width="50" /> | 1 | 0 | The Evolution | 2006 | [🔗](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733317fc12f8b9a9a0b8459766" alt="" width="50" /> | 1 | 0 | TAKE TIME | 2020-03-27 | [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="" width="50" /> | 1 | 0 | Survivor | 2001-05-01 | [🔗](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="" width="50" /> | 1 | 0 | Slime & B | 2020-05-08 | [🔗](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) |
@@ -143,10 +145,10 @@
 | 10 | 7 | [Bad Boy](../../labels/bad_boy/overview.md) |
 | 6 | 5 | Wondaland |
 | 7 | 4 | Parkwood Entertainment |
-| 6 | 4 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
+| 5 | 4 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
+| 6 | 3 | LaFace Records |
 | 5 | 3 | Music World Music |
-| 3 | 2 | Top Dawg Entertainment |
-| 5 | 1 | LaFace Records |
+| 2 | 2 | Top Dawg Entertainment |
 | 2 | 1 | Not So Fast |
 
 
@@ -182,15 +184,15 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb247f44069c0bd1781df2f785" alt="" width="50" /> | [Beyoncé](../../artists/beyoncé/overview.md) | 8 | Producer, Songwriter |
-| | Quincy Jones | 5 | Producer, Arranger, Songwriter |
 | | Bruce Swedien | 5 | Producer |
-| | Jerry Hey | 3 | Arranger |
+| | Quincy Jones | 5 | Producer, Arranger, Songwriter |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 3 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 3 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | [Michael Jackson](../../artists/michael_jackson/overview.md) | 3 | Lyricist, Producer, Songwriter, Arranger |
+| | Jerry Hey | 3 | Arranger |
 | | [John Hanes](../../producers/john_hanes/overview.md) | 3 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | [Janelle Monáe](../../artists/janelle_monáe/overview.md) | 3 | Songwriter, Producer |
-| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 3 | Producer |
-| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 2 | Producer |
-| | DJ Swivel | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | SZA | 2 | Songwriter |
 
 
 <details>
@@ -198,56 +200,62 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | Shea Taylor | 2 | Producer, Songwriter |
 | | Rod Temperton | 2 | Arranger, Lyricist, Songwriter |
 | | The-Dream | 2 | Songwriter |
-| | Shea Taylor | 2 | Producer, Songwriter |
+| | DJ Swivel | 2 | Producer |
 | | Jim Caruana | 2 | Producer |
 | | [Ryan Tedder](../../producers/ryan_tedder/overview.md) | 2 | Arranger, Producer, Songwriter |
-| | Rob Bisel | 1 | Songwriter |
-| | Anne Preven | 1 | Songwriter |
-| | Donna Summer | 1 | Songwriter |
-| | Matt Friedman | 1 | Songwriter |
-| | Derek Dixie | 1 | Producer |
-| | Diana Gordon | 1 | Songwriter |
-| | Danny Morris | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6fcd1b700654bccf1adee3ed" alt="" width="50" /> | Megan Thee Stallion | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba90aa331d770d2a2f003cd96" alt="" width="50" /> | Lucky Daye | 1 | Songwriter |
-| | Stephen Kozmeniuk | 1 | Songwriter |
-| | Kevin Cossom | 1 | Songwriter |
-| | Nathaniel Irvin, III | 1 | Songwriter |
-| | Clarence Coffee Jr. | 1 | Songwriter |
-| | Kuk Harrell | 1 | Producer |
-| | Timothy Thomas | 1 | Songwriter |
-| | Scott Cutler | 1 | Songwriter |
-| | Patrick L. Brown | 1 | Songwriter |
-| | KOZ | 1 | Producer |
-| | [Łukasz Gottwald (Gottwald, Łukasz)](../../producers/łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 1 | Songwriter |
-| | Robert Waller | 1 | Songwriter |
+| | Greg Phillinganes | 1 | Producer |
+| | Paul Foley | 1 | Producer |
 | | Michael Bivins | 1 | Songwriter |
+| | Robert Waller | 1 | Songwriter |
+| | Donn Landee | 1 | Producer |
+| | [Łukasz Gottwald (Gottwald, Łukasz)](../../producers/łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 1 | Songwriter |
+| | Donna Summer | 1 | Songwriter |
+| | Derek Dixie | 1 | Producer |
+| | Nathaniel Irvin, III | 1 | Songwriter |
+| | Stephen Kozmeniuk | 1 | Songwriter |
+| | Scott Cutler | 1 | Songwriter |
+| | Diana Gordon | 1 | Songwriter |
+| | Timothy Thomas | 1 | Songwriter |
+| | Kuk Harrell | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba90aa331d770d2a2f003cd96" alt="" width="50" /> | Lucky Daye | 1 | Songwriter |
+| | Clarence Coffee Jr. | 1 | Songwriter |
+| | Yogesh Tulsiani | 1 | Songwriter |
+| | Anne Preven | 1 | Songwriter |
+| | Romano | 1 | Producer |
+| | Ray Murray | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | Juicy J | 1 | Songwriter |
+| | KOZ | 1 | Producer |
+| | Robin Tadross | 1 | Songwriter |
+| | Patrick L. Brown | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6fcd1b700654bccf1adee3ed" alt="" width="50" /> | Megan Thee Stallion | 1 | Songwriter |
+| | Danny Morris | 1 | Songwriter |
+| | Matt Friedman | 1 | Songwriter |
+| | Bill Wolfer | 1 | Producer |
 | | Frank Romano | 1 | Songwriter |
+| | Maurice White | 1 | Songwriter |
+| | Rob Bisel | 1 | Songwriter |
+| | Kevin Cossom | 1 | Songwriter |
 | | Cainon Lamb | 1 | Songwriter |
 | | BC Jean | 1 | Songwriter |
 | | Toby Gad | 1 | Arranger, Producer, Songwriter |
 | | Platinum Library | 1 | Producer |
-| | Maurice White | 1 | Songwriter |
 | | Jacob Kasher | 1 | Songwriter |
 | | E. Kidd Bogart | 1 | Songwriter |
 | | Brent Kutzle | 1 | Producer |
-| | Yogesh Tulsiani | 1 | Songwriter |
 | | Tim Suby | 1 | Songwriter |
 | | Jim Jonsin | 1 | Songwriter |
-| | Greg Phillinganes | 1 | Producer |
 | | David Campbell | 1 | Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | Juicy J | 1 | Songwriter |
-| | Ray Murray | 1 | Songwriter |
-| | Bill Wolfer | 1 | Producer |
-| | Romano | 1 | Producer |
-| | Jolie Levine | 1 | Arranger |
-| | Donn Landee | 1 | Producer |
 | | Theron Thomas | 1 | Songwriter |
+| | Rico Love | 1 | Songwriter |
+| | Jolie Levine | 1 | Arranger |
+| | Scott Storch | 1 | Producer, Songwriter |
+| | Blair Ferguson | 1 | Songwriter |
+| | Pete Bellotte | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb149ebd20c454545fc4fb7487" alt="" width="50" /> | Victoria Monét | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4669166b571594eade778990" alt="" width="50" /> | Miguel | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | SZA | 1 | Songwriter |
 | | Carter Lang | 1 | Songwriter |
 | | Nate "Rocket" Wonder | 1 | Producer |
 | | Henry Krieger | 1 | Songwriter |
@@ -255,6 +263,7 @@
 | | The Underdogs | 1 | Producer |
 | | James Ingram | 1 | Arranger, Songwriter |
 | | Anthony Marinelli | 1 | Producer |
+| | The Y's | 1 | Producer |
 | | Alex Delicata | 1 | Producer, Songwriter |
 | | Angela Beyince | 1 | Songwriter |
 | | Happy Perez | 1 | Songwriter |
@@ -266,28 +275,21 @@
 | | Chuck Lightning | 1 | Producer |
 | | Ester Dean | 1 | Songwriter |
 | | Shawn "Source" Jarrett | 1 | Producer |
-| | Pete Bellotte | 1 | Songwriter |
 | | Robin Fredriksson | 1 | Songwriter |
-| | Scott Storch | 1 | Producer, Songwriter |
-| | Carlos Bedoya | 1 | Producer |
-| | Rico Wade | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb716114797a4a644c67c5fa72" alt="" width="50" /> | USHER | 1 | Songwriter |
 | | Mark Shick | 1 | Producer |
-| | Rico Love | 1 | Songwriter |
+| | Giorgio Moroder | 1 | Songwriter |
+| | Babyface | 1 | Songwriter |
+| | Rico Wade | 1 | Songwriter |
 | | Steve Porcaro | 1 | Producer |
 | | [Tony Maserati](../../producers/tony_maserati/overview.md) | 1 | Producer |
 | | Mike Dean | 1 | Producer |
+| | Khristopher Riddick-Tynes | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 1 | Songwriter |
+| | Mike Elizondo | 1 | Songwriter |
 | | Chris Spilfogel | 1 | Producer |
 | | Rommel Nino Villanueva | 1 | Producer |
-| | Diane Warren | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb716114797a4a644c67c5fa72" alt="" width="50" /> | USHER | 1 | Songwriter |
-| | Wanya Morris | 1 | Songwriter |
-| | D'Mile | 1 | Songwriter |
-| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 1 | Producer |
-| | Julia Michaels | 1 | Songwriter |
-| | OG Parker | 1 | Producer, Songwriter |
-| | Julie Frost | 1 | Songwriter |
-| | Stuart White | 1 | Producer |
+| | Carlos Bedoya | 1 | Producer |
 
 </details>
 

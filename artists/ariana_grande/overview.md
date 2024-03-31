@@ -10,13 +10,14 @@
 
 ## Artist Rank
 Ariana Grande is currently:
-- The #14 artist of the last month
-- The #21 artist of the last 6 months
-- The #27 artist of all time
+- The #10 artist of the last month
+- The #16 artist of the last 6 months
+- The #25 artist of all time
 
 ![Rank of Ariana Grande over time](../../images/artists/ariana_grande/rank_time_series.png)
 ## Top Tracks
 
+- Problem is the #26 track of the last month
 
 ### Top tracks, aggregated
 
@@ -214,6 +215,7 @@ Ariana Grande is currently:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5" alt="" width="50" /> | Santa Tell Me | Santa Tell Me | [Ariana Grande](overview.md) | [Universal Records](../../labels/universal_music_llc) | 112 | | [🔗](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | imagine | thank u, next | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | 58 | 💚 | [🔗](https://open.spotify.com/track/39LmTF9RgyakzSYX8txrow) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | Problem | My Everything (Deluxe) | [Ariana Grande](overview.md), Iggy Azalea | [Universal Records](../../labels/universal_music_llc) | 25 | 💚 | [🔗](https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c053ee476f7ce576369241e" alt="" width="50" /> | Last Christmas | Christmas Kisses | [Ariana Grande](overview.md) | [Universal Records](../../labels/universal_music_llc) | 0 | | [🔗](https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c053ee476f7ce576369241e" alt="" width="50" /> | Santa Baby | Christmas Kisses | [Ariana Grande](overview.md), Liz Gillies | [Universal Records](../../labels/universal_music_llc) | 0 | | [🔗](https://open.spotify.com/track/6YJdPrH3i2POzu7hdHIRrb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e" alt="" width="50" /> | Baby I | Yours Truly | [Ariana Grande](overview.md) | [Universal Records](../../labels/universal_music_llc) | 0 | 💚 | [🔗](https://open.spotify.com/track/6EIsMa5lbvljYxqCkjZVDi) |
@@ -221,7 +223,6 @@ Ariana Grande is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | Bang Bang | My Everything (Deluxe) | Jessie J, [Ariana Grande](overview.md), Nicki Minaj | [Universal Records](../../labels/universal_music_llc) | 0 | 💚 | [🔗](https://open.spotify.com/track/466s1BacUmiRdR3ISvNjyx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | Break Free | My Everything (Deluxe) | [Ariana Grande](overview.md), Zedd | [Universal Records](../../labels/universal_music_llc) | 0 | | [🔗](https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | My Everything | My Everything (Deluxe) | [Ariana Grande](overview.md) | [Universal Records](../../labels/universal_music_llc) | 0 | 💚 | [🔗](https://open.spotify.com/track/4eumFsTnduH3zRfaASoAPs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | One Last Time | My Everything (Deluxe) | [Ariana Grande](overview.md) | [Universal Records](../../labels/universal_music_llc) | 0 | 💚 | [🔗](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) |
 
 
 <details>
@@ -229,7 +230,7 @@ Ariana Grande is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | Problem | My Everything (Deluxe) | [Ariana Grande](overview.md), Iggy Azalea | [Universal Records](../../labels/universal_music_llc) | 0 | 💚 | [🔗](https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | One Last Time | My Everything (Deluxe) | [Ariana Grande](overview.md) | [Universal Records](../../labels/universal_music_llc) | 0 | 💚 | [🔗](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | Focus | Focus | [Ariana Grande](overview.md) | [Universal Records](../../labels/universal_music_llc) | 0 | 💚 | [🔗](https://open.spotify.com/track/1cdzfFjEbUbgTm5nv3FgXR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Dangerous Woman | Dangerous Woman | [Ariana Grande](overview.md) | [Universal Records](../../labels/universal_music_llc) | 0 | 💚 | [🔗](https://open.spotify.com/track/6RUhbFEhrvGISaQ8u2j2JN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Greedy | Dangerous Woman | [Ariana Grande](overview.md) | [Universal Records](../../labels/universal_music_llc) | 0 | | [🔗](https://open.spotify.com/track/1FFUXkoWIc9of8yOscGiaC) |

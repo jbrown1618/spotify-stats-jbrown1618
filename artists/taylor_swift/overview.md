@@ -2,7 +2,7 @@
 # Taylor Swift
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="Taylor Swift" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="Taylor Swift" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -10,7 +10,7 @@
 
 ## Artist Rank
 Taylor Swift is currently:
-- The #13 artist of the last month
+- The #12 artist of the last month
 - The #14 artist of the last 6 months
 - The #19 artist of all time
 
@@ -146,7 +146,7 @@ Taylor Swift is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | [Taylor Swift](overview.md) | 39 | Songwriter, Lyricist, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | [Taylor Swift](overview.md) | 39 | Songwriter, Lyricist, Producer |
 | | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 27 | Producer |
 | | [Laura Sisk](../../producers/laura_sisk/overview.md) | 20 | Producer |
 | | [Jack Antonoff](../../producers/jack_antonoff/overview.md) | 16 | Producer, Songwriter |
@@ -167,7 +167,7 @@ Taylor Swift is currently:
 | | Bryce Dessner | 6 | Arranger |
 | | Kyle Resnick | 4 | Producer |
 | | Justin Niebank | 3 | Producer |
-| | Sounwave | 3 | Producer, Songwriter |
+| | [Sounwave](../../producers/sounwave/overview.md) | 3 | Producer, Songwriter |
 | | Nathan Chapman | 3 | Producer |
 | | James McAlister | 3 | Producer |
 | | Dann Huff | 2 | Producer |

@@ -19,7 +19,7 @@ ITZY:
 
 ## Artist Rank
 ITZY is currently:
-- The #9 artist of the last month
+- The #8 artist of the last month
 - The #4 artist of the last 6 months
 - The #4 artist of all time
 
@@ -27,20 +27,21 @@ ITZY is currently:
 ## Top Tracks
 
 - LOCO is:
-    - the #44 track of the last month
-    - the #11 track of all time
+    - the #49 track of the last month
+    - the #9 track of all time
 - Mr. Vampire is:
-    - the #4 track of the On Repeat playlist
-    - the #3 track of the last 6 months
-    - the #32 track of all time
-- Cheshire is the #36 track of all time
+    - the #6 track of the On Repeat playlist
+    - the #31 track of the last month
+    - the #2 track of the last 6 months
+    - the #22 track of all time
 - BORN TO BE is:
-    - the #22 track of the On Repeat playlist
+    - the #18 track of the On Repeat playlist
     - the #23 track of the last 6 months
-- RINGO is the #43 track of the last 6 months
-- UNTOUCHABLE is the #9 track of the On Repeat playlist
-- Run Away (RYUJIN) is the #28 track of the On Repeat playlist
-- Voltage is the #48 track of the last month
+- RINGO is the #41 track of the last 6 months
+- UNTOUCHABLE is:
+    - the #11 track of the On Repeat playlist
+    - the #50 track of the last 6 months
+- Voltage is the #38 track of the last month
 
 ### Top tracks, aggregated
 
@@ -64,8 +65,8 @@ ITZY is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022270d3bd1d13133edf0be836ab67616d00001e026017bca98dea58ceddea77c1ab67616d00001e02a0df2d59f0ae9426cba3eb36ab67616d00001e02cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 7 | [Cursed English](../../playlists/cursed_english/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020c1f1054d3a170ee26430c79ab67616d00001e022bca95a658fdf653a35a3710ab67616d00001e0296d36aec71bf25f59df5cc96ab67616d00001e02c54e39f2ae0dd10731f93c08" alt="" width="50" /> | 5 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://wrapped-images.spotifycdn.com/image/yts-2022/default/your-top-songs-2022_default_en.jpg" alt="" width="50" /> | 5 | [Your Top Songs 2022](../../playlists/your_top_songs_2022/overview.md) |
-| <img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg" alt="" width="50" /> | 4 | [On Repeat](../../playlists/on_repeat/overview.md) |
-| <img src="https://daily-mix.scdn.co/covers/backtracks/PZN_Repeat_Rewind2_DEFAULT-en.jpg" alt="" width="50" /> | 2 | [Repeat Rewind](../../playlists/repeat_rewind/overview.md) |
+| <img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg" alt="" width="50" /> | 3 | [On Repeat](../../playlists/on_repeat/overview.md) |
+| <img src="https://daily-mix.scdn.co/covers/backtracks/PZN_Repeat_Rewind2_DEFAULT-en.jpg" alt="" width="50" /> | 3 | [Repeat Rewind](../../playlists/repeat_rewind/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0220adea47ebd9e98d2e7d2247ab67616d00001e022ce067b763f6a4938cb8a501ab67616d00001e02583c60000e8abc8283853e10ab67616d00001e0273e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 2 | [K-Memes](../../playlists/k-memes/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02830de2e836036f181df598d0ab67616d00001e02af2fda9fb591d43c355c2ac3ab67616d00001e02cc6f76f75551af499b5cd0cbab67616d00001e02da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e025c041fe9e3c9de436047d86bab67616d00001e027a393b04e8ced571618223e8ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e02829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k-pop_101/overview.md) |
@@ -214,16 +215,16 @@ ITZY is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | LOCO | CRAZY IN LOVE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 43787 | 💚 | [🔗](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | LOCO | CRAZY IN LOVE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 44293 | 💚 | [🔗](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Cheshire | CHESHIRE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 15401 | 💚 | [🔗](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Mr. Vampire | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 7848 | 💚 | [🔗](https://open.spotify.com/track/3uI6jqO0fFBoFryc8SJOXw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | CAKE | KILL MY DOUBT | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 7683 | 💚 | [🔗](https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Mr. Vampire | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 7111 | 💚 | [🔗](https://open.spotify.com/track/3uI6jqO0fFBoFryc8SJOXw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Snowy | CHESHIRE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 4356 | 💚 | [🔗](https://open.spotify.com/track/1i0NAz5emJMbRWSkADMsL7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | Kill Shot | KILL MY DOUBT | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 4099 | 💚 | [🔗](https://open.spotify.com/track/3i7Z0CI7QIwnU4MVL0XJB9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | BORN TO BE | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 2746 | 💚 | [🔗](https://open.spotify.com/track/45lXSvtDt6uKiGZIXB4LLF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | BORN TO BE | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 2953 | 💚 | [🔗](https://open.spotify.com/track/45lXSvtDt6uKiGZIXB4LLF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | BET ON ME | KILL MY DOUBT | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 1746 | 💚 | [🔗](https://open.spotify.com/track/5BCPIye83pj24VjCzQuL5F) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | UNTOUCHABLE | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 878 | 💚 | [🔗](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Be In Love | Not Shy | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 350 | 💚 | [🔗](https://open.spotify.com/track/0FGeJSm4Iix7OdvjvENrwx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | UNTOUCHABLE | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 944 | 💚 | [🔗](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bc615fe0e1b49a5283c47075" alt="" width="50" /> | RINGO | RINGO | [ITZY](overview.md) | [WM Japan](../../labels/wm_japan) | 363 | 💚 | [🔗](https://open.spotify.com/track/2zRz0XfYEtsHuVfrM8KaOP) |
 
 
 <details>
@@ -231,11 +232,11 @@ ITZY is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273bc615fe0e1b49a5283c47075" alt="" width="50" /> | RINGO | RINGO | [ITZY](overview.md) | [WM Japan](../../labels/wm_japan) | 303 | 💚 | [🔗](https://open.spotify.com/track/2zRz0XfYEtsHuVfrM8KaOP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Be In Love | Not Shy | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 350 | 💚 | [🔗](https://open.spotify.com/track/0FGeJSm4Iix7OdvjvENrwx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Crown On My Head (YEJI) | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 269 | 💚 | [🔗](https://open.spotify.com/track/7us3VPvRjtjuMEexfyRsMC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | #Twenty | CRAZY IN LOVE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 212 | | [🔗](https://open.spotify.com/track/0deWmYkaZHaElUm15oVXkE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | In the morning | GUESS WHO | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 120 | 💚 | [🔗](https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273682903728c049526580f0363" alt="" width="50" /> | Voltage | Voltage | [ITZY](overview.md) | [WM Japan](../../labels/wm_japan) | 94 | 💚 | [🔗](https://open.spotify.com/track/7e65OAe9L0xWPSHDiahjQe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273682903728c049526580f0363" alt="" width="50" /> | Voltage | Voltage | [ITZY](overview.md) | [WM Japan](../../labels/wm_japan) | 107 | 💚 | [🔗](https://open.spotify.com/track/7e65OAe9L0xWPSHDiahjQe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | None of My Business | KILL MY DOUBT | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 84 | 💚 | [🔗](https://open.spotify.com/track/6iYfUvWNdKulAgX2TOhk5u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Run Away (RYUJIN) | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 78 | 💚 | [🔗](https://open.spotify.com/track/4e94KIas5maH8RixY26LiN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389a8fc641c956dc899c0b168" alt="" width="50" /> | DALLA DALLA | IT'z Different | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 62 | 💚 | [🔗](https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6) |

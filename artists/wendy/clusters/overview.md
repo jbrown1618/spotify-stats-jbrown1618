@@ -33,6 +33,6 @@
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Wish You Hell | Wish You Hell - The 2nd Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 177 | 💚 | [🔗](https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Wish You Hell | Wish You Hell - The 2nd Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 231 | 💚 | [🔗](https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Queen Of The Party | Wish You Hell - The 2nd Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/7owXmiwfpFAZW24qNPyYfr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | Why Can't You Love Me? | Like Water - The 1st Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/0CyydmXI4QhgUWrZsPOTXA) |

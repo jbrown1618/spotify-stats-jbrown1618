@@ -10,14 +10,11 @@
 
 ## Artist Rank
 Billy Joel is currently:
-- The #19 artist of the last month
-- The #32 artist of the last 6 months
+- The #18 artist of the last month
+- The #35 artist of the last 6 months
 - The #36 artist of all time
 
 ![Rank of Billy Joel over time](../../images/artists/billy_joel/rank_time_series.png)
-## Top Tracks
-
-- Just the Way You Are is the #49 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

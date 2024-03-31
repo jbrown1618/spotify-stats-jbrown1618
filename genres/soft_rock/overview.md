@@ -1,6 +1,6 @@
 # soft rock
 
-74 songs
+75 songs
 
 [See Track Features](audio_features.md)
 
@@ -23,7 +23,7 @@
 
 
 <details>
-<summary>See all 27 artists</summary>
+<summary>See all 28 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -33,6 +33,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb338d6964565206f741d5ad1" alt="" width="50" /> | 1 | 1 | Foreigner | [🔗](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | 1 | 1 | Harry Chapin | [🔗](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbab088e2157b02848dfcbc1e" alt="" width="50" /> | 1 | 1 | Chicago | [🔗](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfdd9bd42889cb7bdeb631931" alt="" width="50" /> | 1 | 1 | Bonnie Tyler | [🔗](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba59a5bcab211f964fe9bfb06" alt="" width="50" /> | 1 | 1 | TOTO | [🔗](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | 2 | 0 | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
 | <img src="https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a" alt="" width="50" /> | 2 | 0 | Carole King | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
@@ -48,7 +49,7 @@
 </details>
 
 
-![Bar chart of top 27 artists](../../images/genres/soft_rock/artists.png)
+![Bar chart of top 28 artists](../../images/genres/soft_rock/artists.png)
 
 ![Comparison of Artist](../../images/genres/soft_rock/artists_comparison.png)
 ## Most and least listened tracks
@@ -82,7 +83,7 @@
 
 
 <details>
-<summary>See all 55 albums</summary>
+<summary>See all 56 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -96,6 +97,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273375445cc7a2aedff11361b51" alt="" width="50" /> | 1 | 1 | The Joker | 1973-01-01 | [🔗](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388f0f719259b0dec23a7c367" alt="" width="50" /> | 1 | 1 | The Grand Illusion | 1977-01-01 | [🔗](https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="" width="50" /> | 1 | 1 | The Bridge | 1986-07-28 | [🔗](https://open.spotify.com/album/2fRxSC6FtiAkhEDVZr2seH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d2675cb6847d1b1da9fc28a3" alt="" width="50" /> | 1 | 1 | Secret Dreams and Forbidden Fire | 1986-05-05 | [🔗](https://open.spotify.com/album/4doea7KA9jw7nkm3IOs0PR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | 1 | 1 | Point Of Know Return (Expanded Edition) | 1977 | [🔗](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="" width="50" /> | 1 | 1 | Pieces Of Eight | 1978-01-01 | [🔗](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="" width="50" /> | 1 | 1 | More of The Monkees (Deluxe Edition) | 1967-01-09 | [🔗](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) |
@@ -150,14 +152,15 @@
 | 2 | 2 | [EMI](../../labels/emi/overview.md) |
 | 5 | 1 | [Epic](../../labels/epic/overview.md) |
 | 2 | 1 | [MOTOWN](../../labels/motown/overview.md) |
-| 1 | 1 | Rhino Atlantic |
+| 1 | 1 | Sony Music CG |
 
 
 <details>
-<summary>See all 20 labels</summary>
+<summary>See all 21 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 1 | 1 | Rhino Atlantic |
 | 1 | 1 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 1 | 1 | CAPITOL CATALOG MKT (C92) |
 | 2 | 0 | RCA Victor |
@@ -172,7 +175,7 @@
 </details>
 
 
-![Bar chart of top 20 record labels](../../images/genres/soft_rock/labels.png)
+![Bar chart of top 21 record labels](../../images/genres/soft_rock/labels.png)
 
 ## Top Producers
 
@@ -181,15 +184,15 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
-| | Phil Ramone | 9 | Producer |
 | | Jim Boyer | 9 | Producer |
+| | Phil Ramone | 9 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | Paul Simon | 4 | Lyricist, Producer, Songwriter |
 | | Art Garfunkel | 3 | Producer |
 | | Roy Halee | 3 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | Styx | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | Fleetwood Mac | 2 | Producer |
+| | David DeVore | 2 | Producer |
 | | Barry Mraz | 2 | Producer |
-| | Eric Stewart | 2 | Producer, Songwriter |
 
 
 <details>
@@ -197,54 +200,60 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | Eric Stewart | 2 | Producer, Songwriter |
 | | Keith Olsen | 2 | Producer |
 | | Ron Malo | 2 | Producer |
 | | Ted Brosnan | 2 | Producer |
 | | Dennis DeYoung | 2 | Lyricist, Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 2 | Lyricist, Producer, Songwriter |
 | | Mick Jones | 2 | Producer, Songwriter |
-| | Graham Gouldman | 2 | Producer, Songwriter |
 | | Michael Omartian | 2 | Arranger |
 | | Stevie Nicks | 2 | Lyricist, Songwriter |
-| | David DeVore | 2 | Producer |
+| | Graham Gouldman | 2 | Producer, Songwriter |
 | | Don Puluse | 2 | Producer |
-| | Rob Kingsland | 2 | Producer |
 | | Michael Stewart | 2 | Producer |
-| | Leanne Ungar | 1 | Producer |
-| | Glyn Johns | 1 | Producer |
-| | Robert Lamm | 1 | Lyricist, Songwriter |
-| | John Sinclair | 1 | Producer |
-| | Freddie Perren | 1 | Songwriter |
-| | Liberty DeVitto | 1 | Arranger |
+| | Rob Kingsland | 2 | Producer |
+| | Holly Sherwood | 1 | Arranger |
 | | Bruce Botnick | 1 | Producer |
+| | Glyn Johns | 1 | Producer |
+| | John Jansen | 1 | Producer |
+| | Robert Lamm | 1 | Lyricist, Songwriter |
+| | Tommy Shaw | 1 | Lyricist, Songwriter |
+| | John Sinclair | 1 | Producer |
+| | Eric Troyer | 1 | Arranger |
+| | Liberty DeVitto | 1 | Arranger |
+| | Rory Dodd | 1 | Arranger |
 | | Jim Ed Norman | 1 | Arranger |
 | | Ian McDonald | 1 | Producer |
 | | Jeff Glixman | 1 | Producer |
+| | Freddie Perren | 1 | Songwriter |
 | | Terry Becker | 1 | Producer |
 | | Aynsley Dunbar | 1 | Producer |
-| | Steve Perry | 1 | Songwriter |
-| | Tommy Shaw | 1 | Lyricist, Songwriter |
-| | Neil Diamond | 1 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/bd85e05d8bb8ad24515a232174cbe20925048566" alt="" width="50" /> | 10cc | 1 | Producer |
-| | Tony Brown | 1 | Producer |
-| | Steve Miller | 1 | Producer, Songwriter |
-| | Justin Niebank | 1 | Producer |
-| | Fred Tenny | 1 | Producer |
-| | Glenn Frey | 1 | Songwriter |
-| | Jimmy Douglass | 1 | Producer |
+| | Neil Diamond | 1 | Lyricist, Songwriter |
 | | Ahmet Ertegun | 1 | Songwriter |
-| | Lewis Merenstein | 1 | Producer |
-| | Don Henley | 1 | Songwriter |
-| | Steve Lindsey | 1 | Arranger, Producer |
-| | John Hendrickson | 1 | Producer |
-| | James Anthony Carmichael | 1 | Producer |
+| | Ellen Foley | 1 | Arranger |
+| | Leanne Ungar | 1 | Producer |
+| | Tony Brown | 1 | Producer |
+| | Dean Pitchford | 1 | Lyricist |
 | | Doug Stegmeyer | 1 | Arranger |
+| | James Anthony Carmichael | 1 | Producer |
+| | John Hendrickson | 1 | Producer |
+| | Steve Lindsey | 1 | Arranger, Producer |
+| | Don Henley | 1 | Songwriter |
+| | Steve Perry | 1 | Songwriter |
+| | Jimmy Douglass | 1 | Producer |
+| | Glenn Frey | 1 | Songwriter |
+| | Fred Tenny | 1 | Producer |
+| | Justin Niebank | 1 | Producer |
+| | Lewis Merenstein | 1 | Producer |
+| | Steve Miller | 1 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin | 1 | Songwriter |
 | | Eddie Curtis | 1 | Songwriter |
 | | Jim Horn | 1 | Arranger |
-| | Elliot Scheiner | 1 | Producer |
-| | Bradshaw Leigh | 1 | Producer |
+| | Lionel Richie | 1 | Lyricist, Songwriter |
 | | James William Guercio | 1 | Producer |
+| | Arthur Payson | 1 | Producer |
 | | Gregg Rolie | 1 | Producer |
 | | Bill Schnee | 1 | Producer |
 | | John Bradley | 1 | Producer |
@@ -254,33 +263,33 @@
 | | Robert Charles | 1 | Producer |
 | | Brian Ross-Myring | 1 | Producer |
 | | Lou Waxman | 1 | Producer |
+| | Neil Dorfsman | 1 | Producer |
 | | Ed Walsh | 1 | Producer |
 | | Steve Boyer | 1 | Producer |
 | | Randy Mason | 1 | Producer |
 | | Lou Gramm | 1 | Songwriter |
 | | Gary Lyons | 1 | Producer |
 | | Jim Tomlinson | 1 | Arranger |
-| | Lionel Richie | 1 | Lyricist, Songwriter |
+| | John Philip Shenale | 1 | Producer |
+| | Bradshaw Leigh | 1 | Producer |
 | | Geoff Workman | 1 | Producer |
+| | Elliot Scheiner | 1 | Producer |
 | | Jay Healy | 1 | Producer |
-| | Ed Cherney | 1 | Producer |
 | | Kevin Herron | 1 | Producer |
-| | Ira Newborn | 1 | Arranger |
+| | Jim Steinman | 1 | Producer, Songwriter |
 | | Kenny Ascher | 1 | Arranger |
+| | Ira Newborn | 1 | Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | Kansas | 1 | Arranger |
 | | Chris Hinshaw | 1 | Producer |
 | | Leonard Cohen | 1 | Lyricist, Songwriter |
 | | Ross Valory | 1 | Producer |
+| | Ed Cherney | 1 | Producer |
 | | Brooks Arthur | 1 | Producer |
-| | Jim DeMain | 1 | Producer |
 | | Tom Wilson | 1 | Producer |
 | | Sandra Campbell Chapin | 1 | Songwriter |
+| | Tom "Bones" Malone | 1 | Arranger |
 | | Neal Schon | 1 | Producer, Songwriter |
 | | Roy Thomas Baker | 1 | Producer |
-| | Niko Bolas | 1 | Producer |
-| | Michael Getlin | 1 | Producer |
-| | Danny Kortchmar | 1 | Producer |
-| | Kerry Livgren | 1 | Lyricist, Songwriter |
 
 </details>
 

@@ -22,9 +22,9 @@ NCT DREAM:
 
 ## Artist Rank
 NCT DREAM is currently:
-- The #34 artist of the last month
-- The #46 artist of the last 6 months
-- The #28 artist of all time
+- The #17 artist of the last month
+- The #33 artist of the last 6 months
+- The #20 artist of all time
 
 ![Rank of NCT DREAM over time](../../images/artists/nct_dream/rank_time_series.png)
 ## Top Tracks
@@ -44,23 +44,22 @@ NCT DREAM is currently:
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 12 | [K-Pop](../../playlists/k-pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 13 | [K-Pop](../../playlists/k-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 5 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e029d260564eafe7ae16b22797aab67616d00001e02a271cb19e4bbf852072f0271ab67616d00001e02c4addfbacd0314054cf87bc9ab67616d00001e02edc2e69064e470718ef065b7" alt="" width="50" /> | 5 | [Check Out Later](../../playlists/check_out_later/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [Summer](../../playlists/summer/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e020c1f1054d3a170ee26430c79ab67616d00001e022bca95a658fdf653a35a3710ab67616d00001e0296d36aec71bf25f59df5cc96ab67616d00001e02c54e39f2ae0dd10731f93c08" alt="" width="50" /> | 2 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://wrapped-images.spotifycdn.com/image/yts-2022/default/your-top-songs-2022_default_en.jpg" alt="" width="50" /> | 2 | [Your Top Songs 2022](../../playlists/your_top_songs_2022/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e026f248f7695eb544a3a1955c5ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e028acb7bac073f378d59bf228eab67616d00001e02b3be3b970fc89a02f301c9da" alt="" width="50" /> | 2 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020c053ee476f7ce576369241eab67616d00001e02119e4094f07a8123b471ac1dab67616d00001e022a0face7d69df61c20a6db2bab67616d00001e027c78b57a88c7c109176bc999" alt="" width="50" /> | 2 | [Christmas](../../playlists/christmas/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e025c041fe9e3c9de436047d86bab67616d00001e027a393b04e8ced571618223e8ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e02829305487c8f3b96a1d955b3" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k-pop_101/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e020c1f1054d3a170ee26430c79ab67616d00001e022bca95a658fdf653a35a3710ab67616d00001e0296d36aec71bf25f59df5cc96ab67616d00001e02c54e39f2ae0dd10731f93c08" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="" width="50" /> | 6 | 1 | DREAM( )SCAPE | 2024-03-25 | [🔗](https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1ee973dde5ec47914ebc0e1" alt="" width="50" /> | 2 | 1 | ISTJ - The 3rd Album | 2023-07-17 | [🔗](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c013775f357bb9ad1eb9e1a7" alt="" width="50" /> | 2 | 1 | Glitch Mode - The 2nd Album | 2022-03-28 | [🔗](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="" width="50" /> | 2 | 1 | DREAM( )SCAPE | 2024-03-25 | [🔗](https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="" width="50" /> | 1 | 1 | We Boom - The 3rd Mini Album | 2019-07-26 | [🔗](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ec123b44bb80bb94fc5c237" alt="" width="50" /> | 1 | 1 | Reload | 2020-04-29 | [🔗](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739dec4de4b22d56be408ee2fd" alt="" width="50" /> | 1 | 1 | Hot Sauce - The 1st Album | 2021-05-10 | [🔗](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) |
@@ -84,7 +83,7 @@ NCT DREAM is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 17 | 9 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 13 | 9 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 1 | 0 | [avex trax](../../labels/avex_trax/overview.md) |
 
 ## Genres
@@ -132,11 +131,7 @@ NCT DREAM is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738db0372a58515f8d2dcbf548" alt="" width="50" /> | Best Friend Ever | Best Friend Ever | [NCT DREAM](overview.md) | [avex trax](../../labels/avex_trax) | 0 | | [🔗](https://open.spotify.com/track/1Z5Dmg7Dvu0X4oSdqLZ3Lu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1ee973dde5ec47914ebc0e1" alt="" width="50" /> | Broken Melodies | ISTJ - The 3rd Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 0 | | [🔗](https://open.spotify.com/track/63Czf03uph6EyJDL1z3x3z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="" width="50" /> | BOX | DREAM( )SCAPE | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 0 | | [🔗](https://open.spotify.com/track/4I95uQMtIwg7779WEDy8Mc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="" width="50" /> | Breathing | DREAM( )SCAPE | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 0 | | [🔗](https://open.spotify.com/track/0PXc6KmjeUEc39MOTmjEMq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="" width="50" /> | Carat Cake | DREAM( )SCAPE | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 0 | | [🔗](https://open.spotify.com/track/1rmfuohSVfLQF3nPiSd1ja) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="" width="50" /> | Smoothie | DREAM( )SCAPE | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="" width="50" /> | UNKNOWN | DREAM( )SCAPE | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 0 | | [🔗](https://open.spotify.com/track/4uagvpI1cLBr4CX6lKItFG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="" width="50" /> | icantfeelanything | DREAM( )SCAPE | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 0 | | [🔗](https://open.spotify.com/track/1D11R41GrNKopqfY4JsfTf) |
 
 </details>
 

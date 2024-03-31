@@ -65,7 +65,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb098ada25bad2c88d4b590dc1" alt="" width="50" /> | 1 | 0 | Seth Rogen | [🔗](https://open.spotify.com/artist/7xX39IyguhWsTIg4eU2reH) |
 | | 1 | 0 | Jason Raize | [🔗](https://open.spotify.com/artist/7wtyPvLmy8LAf2CO0Xwy4p) |
 | <img src="https://i.scdn.co/image/ab6772690000c46c4165ef3e7669f249706b8999" alt="" width="50" /> | 1 | 0 | Sally Dworsky | [🔗](https://open.spotify.com/artist/7vK6xoR5zT4DypEu0blUku) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273714c74df27b96c46e4590e0d" alt="" width="50" /> | 1 | 0 | Verna Felton | [🔗](https://open.spotify.com/artist/7aU90hxXexP47nEeMee6xM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732fa17f03805db6002c7715b3" alt="" width="50" /> | 1 | 0 | Verna Felton | [🔗](https://open.spotify.com/artist/7aU90hxXexP47nEeMee6xM) |
 | | 1 | 0 | Billy Bletcher | [🔗](https://open.spotify.com/artist/7MCVs8C2nykvXVyTyrUoVd) |
 | | 1 | 0 | Harvey Fierstein | [🔗](https://open.spotify.com/artist/7G6zawIBBtDX1WvuT97Ei9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a2beebe9dc1435cf5118f0b" alt="" width="50" /> | 1 | 0 | Vaneese Thomas | [🔗](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK) |

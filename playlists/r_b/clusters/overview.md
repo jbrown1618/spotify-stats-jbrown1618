@@ -4,23 +4,39 @@
 
 ## Cluster #1
 
-38 tracks
+40 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="" width="50" /> | Sincerely, Jane | Metropolis: The Chase Suite (Special Edition) | [Janelle Monáe](../../../../artists/janelle_monáe/overview.md) | [Bad Boy Records](../../../../labels/bad_boy) | 0 | 💚 | [🔗](https://open.spotify.com/track/06I6iDFVtZDGcRu9BgHraA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357cc241e3fc4e95eea8c4b20" alt="" width="50" /> | Electric Lady (feat. Solange) | The Electric Lady | [Janelle Monáe](../../../../artists/janelle_monáe/overview.md), Roman GianArthur, Solange | [Bad Boy/Wondaland](../../../../labels/bad_boy) | 0 | 💚 | [🔗](https://open.spotify.com/track/69vzkewKl2LPquyEiqD8BB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga | Yoga | [Janelle Monáe](../../../../artists/janelle_monáe/overview.md), Jidenna | [Wondaland Records/Epic](../../../../labels/epic) | 117 | 💚 | [🔗](https://open.spotify.com/track/3IJCSQoLF4YzPAKaxq2JLb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093" alt="" width="50" /> | Love On The Brain | ANTI (Deluxe) | [Rihanna](../../../../artists/rihanna/overview.md) | Roc Nation / Rihanna | 0 | 💚 | [🔗](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="" width="50" /> | Sure Thing | All I Want Is You | Miguel | [Jive](../../../../labels/jive) | 0 | 💚 | [🔗](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | Best Thing I Never Had | 4 | [Beyoncé](../../../../artists/beyoncé/overview.md) | [Parkwood Entertainment/Columbia](../../../../labels/columbia) | 0 | | [🔗](https://open.spotify.com/track/3lBRNqXjPp2j3JMTCXDTNO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="" width="50" /> | Easy | Commodores | Commodores | [Motown](../../../../labels/motown) | 0 | 💚 | [🔗](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d51081892dbe3f1ddf28914" alt="" width="50" /> | Truth Hurts | Cuz I Love You (Deluxe) | Lizzo | [Nice Life/Atlantic](../../../../labels/atlantic_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/5qmq61DAAOUaW8AUo8xKhh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | Snooze | SOS | SZA | [Top Dawg Entertainment/RCA Records](../../../../labels/rca_records_label) | 0 | | [🔗](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5" alt="" width="50" /> | Kill Bill | SOS | SZA | [Top Dawg Entertainment/RCA Records](../../../../labels/rca_records_label) | 0 | 💚 | [🔗](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | Snooze | SOS | SZA | [Top Dawg Entertainment/RCA Records](../../../../labels/rca_records_label) | 0 | 💚 | [🔗](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="" width="50" /> | Wet The Bed (feat. Ludacris) | F.A.M.E. (Expanded Edition) | Chris Brown, Ludacris | [Jive](../../../../labels/jive) | 0 | | [🔗](https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="" width="50" /> | There Goes My Baby | Raymond v Raymond (Expanded Edition) | USHER | LaFace Records | 0 | 💚 | [🔗](https://open.spotify.com/track/6IUiqtI8tE49sqGbmtrNd8) |
 ## Cluster #2
 
-51 tracks
+22 tracks
+
+| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | When I Was Your Man | Unorthodox Jukebox | [Bruno Mars](../../../../artists/bruno_mars/overview.md) | [Atlantic Records](../../../../labels/atlantic_records) | 7 | 💚 | [🔗](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037" alt="" width="50" /> | Best Part (feat. H.E.R.) | Freudian | Daniel Caesar, H.E.R. | Golden Child Recordings | 0 | 💚 | [🔗](https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c70176fa51326491ecc5f79e" alt="" width="50" /> | Who Hurt You? | Who Hurt You? | Daniel Caesar | Golden Child Recordings | 0 | | [🔗](https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="" width="50" /> | I'd Rather Go Blind | Tell Mama | Etta James | [Geffen](../../../../labels/geffen) | 0 | 💚 | [🔗](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="" width="50" /> | All of Me | Love In The Future (Expanded Edition) | John Legend | [G.O.O.D. Music/Columbia](../../../../labels/columbia) | 0 | 💚 | [🔗](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b0d2119e477ebbb543f19ed7" alt="" width="50" /> | Heartbreak Anniversary | Heartbreak Anniversary | Giveon | [Epic/Not So Fast](../../../../labels/epic) | 0 | 💚 | [🔗](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733317fc12f8b9a9a0b8459766" alt="" width="50" /> | Heartbreak Anniversary | TAKE TIME | Giveon | [Epic/Not So Fast](../../../../labels/epic) | 0 | | [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273af06f5c40adb2bc287c46cc2" alt="" width="50" /> | How Can I | How Can I | H 3 F | H 3 F | 0 | 💚 | [🔗](https://open.spotify.com/track/3Ka0IJwEvxI3ssqbF48SWZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356ff19308ebeb48e2ba6094b" alt="" width="50" /> | If I Ain't Got You | The Diary Of Alicia Keys | Alicia Keys | J Records | 0 | 💚 | [🔗](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="" width="50" /> | Mushroom Chocolate (with 6LACK) | LUCID | QUIN, 6LACK | [Fantasy Soul/Interscope Records](../../../../labels/interscope_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/6DEhBd4RGr8MbSAtSNNtai) |
+## Cluster #3
+
+48 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
@@ -34,19 +50,3 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Talk Dirty (feat. 2 Chainz) | Talk Dirty | [Jason Derulo](../../../../artists/jason_derulo/overview.md), 2 Chainz | [Beluga Heights/Warner Records](../../../../labels/warner_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/6g6A7qNhTfUgOSH7ROOxTD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d629b7dd61cb5d580acad39" alt="" width="50" /> | Swalla (feat. Nicki Minaj & Ty Dolla $ign) | Swalla (feat. Nicki Minaj & Ty Dolla $ign) | [Jason Derulo](../../../../artists/jason_derulo/overview.md), Nicki Minaj, Ty Dolla $ign | [Beluga Heights/Warner Records](../../../../labels/warner_records) | 0 | | [🔗](https://open.spotify.com/track/6kex4EBAj0WHXDKZMEJaaF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384a1d313a00f16b5a29ff46c" alt="" width="50" /> | Hit 'Em Up Style (Oops!) | Bittersweet | Blu Cantrell | Arista | 0 | 💚 | [🔗](https://open.spotify.com/track/3flAV51ACbtIcEixb0QeZv) |
-## Cluster #3
-
-18 tracks
-
-| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | When I Was Your Man | Unorthodox Jukebox | [Bruno Mars](../../../../artists/bruno_mars/overview.md) | [Atlantic Records](../../../../labels/atlantic_records) | 7 | 💚 | [🔗](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Trumpets | Talk Dirty | [Jason Derulo](../../../../artists/jason_derulo/overview.md) | [Beluga Heights/Warner Records](../../../../labels/warner_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/5KONnBIQ9LqCxyeSPin26k) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037" alt="" width="50" /> | Best Part (feat. H.E.R.) | Freudian | Daniel Caesar, H.E.R. | Golden Child Recordings | 0 | 💚 | [🔗](https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c70176fa51326491ecc5f79e" alt="" width="50" /> | Who Hurt You? | Who Hurt You? | Daniel Caesar | Golden Child Recordings | 0 | | [🔗](https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="" width="50" /> | I'd Rather Go Blind | Tell Mama | Etta James | [Geffen](../../../../labels/geffen) | 0 | 💚 | [🔗](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78" alt="" width="50" /> | All of Me | Love In The Future (Expanded Edition) | John Legend | [G.O.O.D. Music/Columbia](../../../../labels/columbia) | 0 | 💚 | [🔗](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b0d2119e477ebbb543f19ed7" alt="" width="50" /> | Heartbreak Anniversary | Heartbreak Anniversary | Giveon | [Epic/Not So Fast](../../../../labels/epic) | 0 | 💚 | [🔗](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733317fc12f8b9a9a0b8459766" alt="" width="50" /> | Heartbreak Anniversary | TAKE TIME | Giveon | [Epic/Not So Fast](../../../../labels/epic) | 0 | | [🔗](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273af06f5c40adb2bc287c46cc2" alt="" width="50" /> | How Can I | How Can I | H 3 F | H 3 F | 0 | 💚 | [🔗](https://open.spotify.com/track/3Ka0IJwEvxI3ssqbF48SWZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="" width="50" /> | Mushroom Chocolate (with 6LACK) | LUCID | QUIN, 6LACK | [Fantasy Soul/Interscope Records](../../../../labels/interscope_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/6DEhBd4RGr8MbSAtSNNtai) |

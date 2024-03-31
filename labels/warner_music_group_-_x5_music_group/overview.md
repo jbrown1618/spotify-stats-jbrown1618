@@ -22,7 +22,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f022aaaaf1d12aa3461c78b" alt="" width="50" /> | 2 | 0 | Roberte Mamou | [🔗](https://open.spotify.com/artist/6DsbdauTI2Fn2NN4B1EIUN) |
 | <img src="https://i.scdn.co/image/7360142a8274b7d0487de1d1e4b176e6fc34c112" alt="" width="50" /> | 2 | 0 | Berliner Symphoniker | [🔗](https://open.spotify.com/artist/5pF76lplGIvEFGb8lI48hA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c9c75b24d53ba6a1df95ff3" alt="" width="50" /> | 2 | 0 | Gerard Oskamp | [🔗](https://open.spotify.com/artist/4TWzdKT6XMuddLAoj6PgXi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e839aab1adff3637d359f75" alt="" width="50" /> | 2 | 0 | Munich Youth Orchestra | [🔗](https://open.spotify.com/artist/3jgBofW8eFrbtrsSbLy8Br) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273156753578c852f7b694408db" alt="" width="50" /> | 2 | 0 | Munich Youth Orchestra | [🔗](https://open.spotify.com/artist/3jgBofW8eFrbtrsSbLy8Br) |
 
 
 <details>

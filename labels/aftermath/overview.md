@@ -14,10 +14,10 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 7 | 4 | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | 4 | 4 | [Eminem](../../artists/eminem/overview.md) | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 7 | 3 | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 2 | 2 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebdb78fbd1c000f16792795648" alt="" width="50" /> | 1 | 0 | Zacari | [🔗](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdb78fbd1c000f16792795648" alt="" width="50" /> | 1 | 1 | Zacari | [🔗](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c48431caf52a2d0f38433ff" alt="" width="50" /> | 1 | 0 | Jay Rock | [🔗](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) |
 
 ![Bar chart of top 5 artists](../../images/labels/aftermath/artists.png)
@@ -26,7 +26,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | 3 | 1 | DAMN. | 2017-04-14 | [🔗](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | 3 | 2 | DAMN. | 2017-04-14 | [🔗](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | 2 | 2 | Mr. Morale & The Big Steppers | 2022-05-13 | [🔗](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | 1 | 1 | The Marshall Mathers LP2 | 2013-11-05 | [🔗](https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="" width="50" /> | 1 | 1 | Relapse: Refill | 2009-05-15 | [🔗](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) |
@@ -41,11 +41,11 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 11 | 7 | [rap](../../genres/rap/overview.md) |
-| 11 | 7 | [hip hop](../../genres/hip_hop/overview.md) |
+| 11 | 8 | [rap](../../genres/rap/overview.md) |
+| 11 | 8 | [hip hop](../../genres/hip_hop/overview.md) |
+| 7 | 4 | west coast rap |
+| 7 | 4 | conscious hip hop |
 | 4 | 4 | detroit hip hop |
-| 7 | 3 | west coast rap |
-| 7 | 3 | conscious hip hop |
 
 ![Bar chart of top 5 genres](../../images/labels/aftermath/genres.png)
 
@@ -54,15 +54,15 @@ Appears as:
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | [Eminem](../../artists/eminem/overview.md) | 4 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | 3 | Songwriter |
+| | [Sounwave](../../producers/sounwave/overview.md) | 3 | Producer, Songwriter |
 | | Mike Strange | 3 | Producer |
-| | Tim Maxey | 2 | Producer, Songwriter |
-| | Sounwave | 2 | Producer, Songwriter |
+| | J.LBS | 2 | Producer, Songwriter |
 | | OKLAMA | 2 | Producer |
 | | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 2 | Producer |
-| | J.LBS | 2 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | 2 | Songwriter |
-| | Skylar Grey | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../../artists/rihanna/overview.md) | 1 | Songwriter |
+| | Derek Ali | 2 | Producer |
+| | Tim Maxey | 2 | Producer, Songwriter |
+| | Cyrus "Nois" Taghipour | 1 | Producer |
 
 
 <details>
@@ -70,31 +70,38 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Luis Resto | 1 | Producer, Songwriter |
-| | Doc Ish | 1 | Producer |
 | | Frequency | 1 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 1 | Songwriter |
-| | Beach Noise | 1 | Producer |
-| | Johnathan Turner | 1 | Producer |
-| | Mauricio "Veto" Iragorri | 1 | Producer |
-| | [Marcos Tovar](../../producers/marcos_tovar/overview.md) | 1 | Producer |
 | | Duval Timothy | 1 | Producer, Songwriter |
+| | Skylar Grey | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 1 | Songwriter |
+| | Luis Resto | 1 | Producer, Songwriter |
+| | Beach Noise | 1 | Producer |
+| | [Greg Kurstin](../../producers/greg_kurstin/overview.md) | 1 | Producer, Songwriter |
+| | Doc Ish | 1 | Producer |
+| | Mauricio "Veto" Iragorri | 1 | Producer |
+| | Johnathan Turner | 1 | Producer |
+| | Zeke Mishanec | 1 | Producer |
+| | [Marcos Tovar](../../producers/marcos_tovar/overview.md) | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdb78fbd1c000f16792795648" alt="" width="50" /> | Zacari | 1 | Songwriter |
 | | Ray Charles Brown, Jr | 1 | Producer |
-| | Makeba | 1 | Producer |
-| | Alex da Kid | 1 | Producer, Songwriter |
-| | Aalias | 1 | Songwriter |
-| | Sam Dew | 1 | Songwriter |
-| | Dr. Dre | 1 | Producer |
-| | Mike WiLL Made-It | 1 | Producer, Songwriter |
-| | DJ Dahi | 1 | Producer |
-| | Johnny Kosich | 1 | Producer, Songwriter |
-| | Matt Schaeffer | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | [Rihanna](../../artists/rihanna/overview.md) | 1 | Songwriter |
 | | Jake Kosich | 1 | Songwriter |
-| | Derek Ali | 1 | Producer |
-| | Steve King | 1 | Producer |
-| | Jon Bellion | 1 | Songwriter |
-| | Jeff Bass | 1 | Producer, Songwriter |
+| | Anthony Tiffith | 1 | Producer, Songwriter |
+| | Alex da Kid | 1 | Producer, Songwriter |
 | | James Hunt | 1 | Producer |
+| | Jeff Bass | 1 | Producer, Songwriter |
+| | Jon Bellion | 1 | Songwriter |
+| | Steve King | 1 | Producer |
+| | Teddy Walton | 1 | Producer, Songwriter |
+| | Matt Schaeffer | 1 | Producer, Songwriter |
+| | Makeba | 1 | Producer |
+| | Johnny Kosich | 1 | Producer, Songwriter |
+| | DJ Dahi | 1 | Producer |
+| | Mike WiLL Made-It | 1 | Producer, Songwriter |
+| | Dr. Dre | 1 | Producer |
+| | Sam Dew | 1 | Songwriter |
+| | Aalias | 1 | Songwriter |
+| | Brendan Silas Perry | 1 | Producer |
 | | Maki Athanasiou | 1 | Songwriter |
 
 </details>
@@ -113,7 +120,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1" alt="" width="50" /> | Alright | To Pimp A Butterfly | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | [Aftermath](.) | 0 | | [🔗](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | DNA. | DAMN. | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | [Aftermath](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | HUMBLE. | DAMN. | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | [Aftermath](.) | 0 | | [🔗](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | LOVE. FEAT. ZACARI. | DAMN. | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md), Zacari | [Aftermath](.) | 0 | | [🔗](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | LOVE. FEAT. ZACARI. | DAMN. | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md), Zacari | [Aftermath](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | Count Me Out | Mr. Morale & The Big Steppers | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | Top Dawg Entertainment, [Aftermath](.), [Interscope Records](../interscope_records), pgLang | 0 | 💚 | [🔗](https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M) |
 
 

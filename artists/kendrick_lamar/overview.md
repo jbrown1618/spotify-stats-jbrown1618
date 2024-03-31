@@ -15,8 +15,7 @@ Kendrick Lamar:
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e020b1cfc3df4d9d5d4cbce9208ab67616d00001e0210356a0e81371e6644cb1371ab67616d00001e0231aafa752187cb0284307200ab67616d00001e02c450c89d3eb750d3535b0a0c" alt="" width="50" /> | 6 | [Hip Hop](../../playlists/hip_hop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e029d260564eafe7ae16b22797aab67616d00001e02a271cb19e4bbf852072f0271ab67616d00001e02c4addfbacd0314054cf87bc9ab67616d00001e02edc2e69064e470718ef065b7" alt="" width="50" /> | 4 | [Check Out Later](../../playlists/check_out_later/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e020b1cfc3df4d9d5d4cbce9208ab67616d00001e0210356a0e81371e6644cb1371ab67616d00001e0231aafa752187cb0284307200ab67616d00001e02c450c89d3eb750d3535b0a0c" alt="" width="50" /> | 9 | [Hip Hop](../../playlists/hip_hop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e025a7602f0e508660b2ba40f8cab67616d00001e027a393b04e8ced571618223e8ab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Beat Drop!](../../playlists/beat_drop!/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02830de2e836036f181df598d0ab67616d00001e02af2fda9fb591d43c355c2ac3ab67616d00001e02cc6f76f75551af499b5cd0cbab67616d00001e02da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 
@@ -24,30 +23,25 @@ Kendrick Lamar:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | 3 | 1 | DAMN. | 2017-04-14 | [🔗](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | 3 | 2 | DAMN. | 2017-04-14 | [🔗](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | 2 | 2 | Mr. Morale & The Big Steppers | 2022-05-13 | [🔗](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888" alt="" width="50" /> | 1 | 1 | Black Panther The Album Music From And Inspired By | 2018-02-09 | [🔗](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797" alt="" width="50" /> | 1 | 0 | good kid, m.A.A.d city | 2012 | [🔗](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a46b07c291e6dfdee13b3ee8" alt="" width="50" /> | 1 | 0 | WE DON'T TRUST YOU | 2024-03-22 | [🔗](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1" alt="" width="50" /> | 1 | 0 | To Pimp A Butterfly | 2015-03-16 | [🔗](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="" width="50" /> | 1 | 0 | Rap Or Go To The League | 2019-03-01 | [🔗](https://open.spotify.com/album/1BR69wIifGZUSimcuTjWVg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888" alt="" width="50" /> | 1 | 0 | Black Panther The Album Music From And Inspired By | 2018-02-09 | [🔗](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) |
 
 ## Top Record Labels
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 7 | 3 | [Aftermath](../../labels/aftermath/overview.md) |
+| 7 | 4 | [Aftermath](../../labels/aftermath/overview.md) |
 | 2 | 2 | pgLang |
 | 2 | 2 | Top Dawg Entertainment |
 | 2 | 2 | [Interscope Records](../../labels/interscope_records/overview.md) |
-| 1 | 0 | Wilburn Holding Co. |
-| 1 | 0 | [Republic Records](../../labels/republic_records/overview.md) |
+| 1 | 1 | DMG) PS |
+| 1 | 1 | Black Panther (TDE |
 | 1 | 0 | Gamebread |
-| 1 | 0 | [Epic](../../labels/epic/overview.md) |
 | 1 | 0 | [Def Jam Recordings](../../labels/def_jam_recordings/overview.md) |
-| 1 | 0 | DMG) PS |
-| 1 | 0 | Boominati |
-| 1 | 0 | Black Panther (TDE |
 
 ## Genres
 
@@ -63,13 +57,15 @@ Kendrick Lamar:
 | Credit Type | Tracks |
 |:---|---:|
 | Producer | 2 |
-| Songwriter | 2 |
+| Songwriter | 4 |
 
 ### Production Credits
 
 | Art | Track | Credit Types |
 |:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | DNA. | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | LOVE. FEAT. ZACARI. | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888" alt="" width="50" /> | All The Stars (with SZA) | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | United In Grief | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | Count Me Out | Producer |
 
@@ -77,16 +73,16 @@ Kendrick Lamar:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | J.LBS | 2 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | [Kendrick Lamar](overview.md) | 2 | Songwriter |
+| | [Sounwave](../../producers/sounwave/overview.md) | 4 | Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | [Kendrick Lamar](overview.md) | 4 | Songwriter |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 2 | Producer |
+| | Derek Ali | 2 | Producer |
 | | Tim Maxey | 2 | Producer, Songwriter |
 | | OKLAMA | 2 | Producer |
-| | Sounwave | 2 | Producer, Songwriter |
-| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 2 | Producer |
-| | Sam Dew | 1 | Songwriter |
-| | Beach Noise | 1 | Producer |
-| | Johnathan Turner | 1 | Producer |
-| | Duval Timothy | 1 | Producer, Songwriter |
+| | Matt Schaeffer | 2 | Producer, Songwriter |
+| | J.LBS | 2 | Producer, Songwriter |
+| | Anthony Tiffith | 2 | Producer, Songwriter |
+| | Teddy Walton | 1 | Producer, Songwriter |
 
 
 <details>
@@ -94,19 +90,30 @@ Kendrick Lamar:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Ray Charles Brown, Jr | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdb78fbd1c000f16792795648" alt="" width="50" /> | Zacari | 1 | Songwriter |
+| | Zeke Mishanec | 1 | Producer |
+| | [Greg Kurstin](../../producers/greg_kurstin/overview.md) | 1 | Producer, Songwriter |
+| | Beach Noise | 1 | Producer |
+| | Cyrus "Nois" Taghipour | 1 | Producer |
+| | Sam Ricci | 1 | Producer |
+| | Johnathan Turner | 1 | Producer |
 | | James Hunt | 1 | Producer |
+| | Duval Timothy | 1 | Producer, Songwriter |
+| | Jake Kosich | 1 | Songwriter |
+| | Sam Dew | 1 | Songwriter |
+| | Ezinma | 1 | Arranger |
+| | Mike WiLL Made-It | 1 | Producer, Songwriter |
+| | Brendan Silas Perry | 1 | Producer |
 | | DJ Dahi | 1 | Producer |
 | | Johnny Kosich | 1 | Producer, Songwriter |
-| | Matt Schaeffer | 1 | Producer, Songwriter |
-| | Jake Kosich | 1 | Songwriter |
-| | Derek Ali | 1 | Producer |
-| | Mike WiLL Made-It | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | SZA | 1 | Songwriter |
+| | Al Shux | 1 | Producer, Songwriter |
+| | Ray Charles Brown, Jr | 1 | Producer |
 
 </details>
 
 
-![Bar chart of top 18 producers](../../images/artists/kendrick_lamar/producers.png)
+![Bar chart of top 29 producers](../../images/artists/kendrick_lamar/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
@@ -115,9 +122,8 @@ Kendrick Lamar:
 | <img src="https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1" alt="" width="50" /> | Alright | To Pimp A Butterfly | [Kendrick Lamar](overview.md) | [Aftermath](../../labels/aftermath) | 0 | | [🔗](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | DNA. | DAMN. | [Kendrick Lamar](overview.md) | [Aftermath](../../labels/aftermath) | 0 | 💚 | [🔗](https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | HUMBLE. | DAMN. | [Kendrick Lamar](overview.md) | [Aftermath](../../labels/aftermath) | 0 | | [🔗](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | LOVE. FEAT. ZACARI. | DAMN. | [Kendrick Lamar](overview.md), Zacari | [Aftermath](../../labels/aftermath) | 0 | | [🔗](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888" alt="" width="50" /> | All The Stars (with SZA) | Black Panther The Album Music From And Inspired By | [Kendrick Lamar](overview.md), SZA | Black Panther (TDE/DMG) PS | 0 | | [🔗](https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | LOVE. FEAT. ZACARI. | DAMN. | [Kendrick Lamar](overview.md), Zacari | [Aftermath](../../labels/aftermath) | 0 | 💚 | [🔗](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888" alt="" width="50" /> | All The Stars (with SZA) | Black Panther The Album Music From And Inspired By | [Kendrick Lamar](overview.md), SZA | Black Panther (TDE/DMG) PS | 0 | 💚 | [🔗](https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="" width="50" /> | Momma I Hit A Lick (feat. Kendrick Lamar) | Rap Or Go To The League | 2 Chainz, [Kendrick Lamar](overview.md) | [Gamebread, LLC / Def Jam Recordings](../../labels/def_jam_recordings) | 0 | | [🔗](https://open.spotify.com/track/7jKUnzzOGhAlPjr7LkIUlE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | Count Me Out | Mr. Morale & The Big Steppers | [Kendrick Lamar](overview.md) | Top Dawg Entertainment, [Aftermath](../../labels/aftermath), [Interscope Records](../../labels/interscope_records), pgLang | 0 | 💚 | [🔗](https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | United In Grief | Mr. Morale & The Big Steppers | [Kendrick Lamar](overview.md) | Top Dawg Entertainment, [Aftermath](../../labels/aftermath), [Interscope Records](../../labels/interscope_records), pgLang | 0 | 💚 | [🔗](https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a46b07c291e6dfdee13b3ee8" alt="" width="50" /> | Like That | WE DON'T TRUST YOU | Future, Metro Boomin, [Kendrick Lamar](overview.md) | Boominati, Wilburn Holding Co., [Epic](../../labels/epic), [Republic Records](../../labels/republic_records) | 0 | | [🔗](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) |

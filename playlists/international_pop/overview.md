@@ -30,7 +30,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf9ad208bbff79c1ce09c77c1" alt="" width="50" /> | 2 | 2 | Daddy Yankee | [🔗](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1e649a414170a0a4f8d74386" alt="" width="50" /> | 2 | 2 | Daddy Yankee | [🔗](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfaf557d3e442fd4634e54f09" alt="" width="50" /> | 2 | 2 | Christopher | [🔗](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c74ddf959a8b4b7f5babfc7" alt="" width="50" /> | 2 | 2 | Mahalini | [🔗](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb24690a5cfac78c3ab19c1746" alt="" width="50" /> | 2 | 2 | Perfume | [🔗](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) |
@@ -56,7 +56,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcc129f1c9b5047760d66aae2" alt="" width="50" /> | 1 | 1 | Stromae | [🔗](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) |
 | | 1 | 1 | Blær | [🔗](https://open.spotify.com/artist/5W6FVpHHiRfqUU4d9FfXWZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfc2b1e6fbd5b5dbd41ff1788" alt="" width="50" /> | 1 | 1 | Varijashree Venugopal | [🔗](https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27351385160f3c0eb42f9c62262" alt="" width="50" /> | 1 | 1 | 張楚寒 | [🔗](https://open.spotify.com/artist/4zzzvh8xX7laDArf8Gt7iw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739cf85a1cea3cd1cc8f9e22c3" alt="" width="50" /> | 1 | 1 | 張楚寒 | [🔗](https://open.spotify.com/artist/4zzzvh8xX7laDArf8Gt7iw) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61b2cf23c52a0963ae5feb27" alt="" width="50" /> | 1 | 1 | Netta | [🔗](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba610d6b45f06d6f7d1c6ca76" alt="" width="50" /> | 1 | 1 | Ermal Meta | [🔗](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d405f4858ce3cd52d409c98" alt="" width="50" /> | 1 | 1 | Burna Boy | [🔗](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) |
@@ -483,7 +483,7 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf9ad208bbff79c1ce09c77c1" alt="" width="50" /> | Daddy Yankee | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1e649a414170a0a4f8d74386" alt="" width="50" /> | Daddy Yankee | 2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaee73c0f0458b95091845ee1" alt="" width="50" /> | Shakira | 2 | Songwriter |
 | | Adrian Breakspear | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc" alt="" width="50" /> | Fujii Kaze | 1 | Lyricist, Songwriter |

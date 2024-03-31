@@ -5,8 +5,6 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="Gain" width="100" />
 
 ## Artist Rank
-Gain is currently:
-- The #49 artist of the last month
 
 ![Rank of Gain over time](../../images/artists/gain/rank_time_series.png)
 ## Top Tracks

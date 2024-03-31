@@ -250,7 +250,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 95 | 95 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
-| 31 | 31 | [Republic Records](../../labels/republic_records/overview.md) |
+| 32 | 32 | [Republic Records](../../labels/republic_records/overview.md) |
 | 24 | 24 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 13 | 13 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 12 | 12 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
@@ -272,12 +272,12 @@
 | 6 | 6 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
 | 5 | 5 | [WM Japan](../../labels/wm_japan/overview.md) |
 | 5 | 5 | [Kakao Entertainment](../../labels/kakao_entertainment/overview.md) |
-| 5 | 5 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 5 | 5 | [High Up Entertainment](../../labels/high_up_entertainment/overview.md) |
 | 5 | 5 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 5 | 5 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 4 | 4 | [MYSTIC STORY](../../labels/mystic_story/overview.md) |
 | 4 | 4 | [MNH ENTERTAINMENT](../../labels/mnh_entertainment/overview.md) |
+| 4 | 4 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 4 | 4 | [EDAM Entertainment](../../labels/edam_entertainment/overview.md) |
 | 4 | 4 | [ADOR](../../labels/ador/overview.md) |
 | 3 | 3 | [WM Korea](../../labels/wm_korea/overview.md) |
@@ -478,16 +478,16 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | [Savage](../../artists/aespa/overview.md) | 71687 | <img src="https://i.scdn.co/image/ab67616d0000b2734fbde4c63b86079e0517b1cb" alt="Beatbox - The 2nd Album Repackage" width="50" /> | [Beatbox](../../artists/nct_dream/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="reality in BLACK" width="50" /> | [HIP](../../artists/mamamoo/overview.md) | 70894 | <img src="https://i.scdn.co/image/ab67616d0000b273362abddb1ef89c5dbc738fe6" alt="Hush" width="50" /> | Hush | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="Next Level" width="50" /> | [Next Level](../../artists/aespa/overview.md) | 67954 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="NOEASY" width="50" /> | [Red Lights (Bang Chan, Hyunjin)](../../artists/stray_kids/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [Pretty Savage](../../artists/blackpink/overview.md) | 61353 | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="WE:TH" width="50" /> | [Daisy](../../artists/pentagon/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="María" width="50" /> | [Maria](../../artists/hwasa/overview.md) | 60353 | <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="Super One -The 1st Album" width="50" /> | Tiger Inside | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="KILL THIS LOVE" width="50" /> | [Kill This Love](../../artists/blackpink/overview.md) | 59595 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="‘The ReVe Festival’ Finale" width="50" /> | [La Rouge - Special Track](../../artists/red_velvet/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [Crazy Over You](../../artists/blackpink/overview.md) | 57691 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="DIMENSION : DILEMMA" width="50" /> | [Tamed-Dashed](../../artists/enhypen/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [How You Like That](../../artists/blackpink/overview.md) | 57492 | <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="A Page" width="50" /> | Bonnie & Clyde | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="Heng:garæ" width="50" /> | [Left & Right](../../artists/seventeen/overview.md) | 57039 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | [Lucky Girl](../../artists/red_velvet/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | [Gotta Go](../../artists/chung_ha/overview.md) | 56855 | <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="MAP OF THE SOUL : 7" width="50" /> | [Black Swan](../../artists/bts/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | [Savage](../../artists/aespa/overview.md) | 72227 | <img src="https://i.scdn.co/image/ab67616d0000b2734fbde4c63b86079e0517b1cb" alt="Beatbox - The 2nd Album Repackage" width="50" /> | [Beatbox](../../artists/nct_dream/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="reality in BLACK" width="50" /> | [HIP](../../artists/mamamoo/overview.md) | 70931 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="NOEASY" width="50" /> | [Red Lights (Bang Chan, Hyunjin)](../../artists/stray_kids/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="Next Level" width="50" /> | [Next Level](../../artists/aespa/overview.md) | 67954 | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="WE:TH" width="50" /> | [Daisy](../../artists/pentagon/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [Pretty Savage](../../artists/blackpink/overview.md) | 61353 | <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="Super One -The 1st Album" width="50" /> | Tiger Inside | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="María" width="50" /> | [Maria](../../artists/hwasa/overview.md) | 60353 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="‘The ReVe Festival’ Finale" width="50" /> | [La Rouge - Special Track](../../artists/red_velvet/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="KILL THIS LOVE" width="50" /> | [Kill This Love](../../artists/blackpink/overview.md) | 59595 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="DIMENSION : DILEMMA" width="50" /> | [Tamed-Dashed](../../artists/enhypen/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [Crazy Over You](../../artists/blackpink/overview.md) | 57691 | <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="A Page" width="50" /> | Bonnie & Clyde | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [How You Like That](../../artists/blackpink/overview.md) | 57492 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | [Lucky Girl](../../artists/red_velvet/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="Heng:garæ" width="50" /> | [Left & Right](../../artists/seventeen/overview.md) | 57159 | <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="MAP OF THE SOUL : 7" width="50" /> | [Black Swan](../../artists/bts/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | [Gotta Go](../../artists/chung_ha/overview.md) | 56855 | <img src="https://i.scdn.co/image/ab67616d0000b2732c8feb0da36a6a8bc1a0d9f5" alt="Talk about S." width="50" /> | [Tinkerbell](../../artists/gain/overview.md) | 0 |
 
 ## Years
 
@@ -530,4 +530,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | ORANGE BLOOD (2023-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b273d8a007b9e0ba32eee1651227" alt="ALONE" width="50" /> | ALONE (2012-04-12) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6e894ccfb8214d3f68b0cb4" alt="wonderego" width="50" /> | wonderego (2023-11-14) | <img src="https://i.scdn.co/image/ab67616d0000b2732c8feb0da36a6a8bc1a0d9f5" alt="Talk about S." width="50" /> | Talk about S. (2012-10-05) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="Chill Kill - The 3rd Album" width="50" /> | Chill Kill - The 3rd Album (2023-11-13) | <img src="https://i.scdn.co/image/ab67616d0000b2735292f306c4d8210b521cea4d" alt="1,2,3,4" width="50" /> | 1,2,3,4 (2012-10-29) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="Drama - The 4th Mini Album" width="50" /> | Drama - The 4th Mini Album (2023-11-10) | <img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="I GOT A BOY - The 4th Album" width="50" /> | I GOT A BOY - The 4th Album (2013-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="ROCK-STAR" width="50" /> | ROCK-STAR (2023-11-10) | <img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="I GOT A BOY - The 4th Album" width="50" /> | I GOT A BOY - The 4th Album (2013-01-01) |

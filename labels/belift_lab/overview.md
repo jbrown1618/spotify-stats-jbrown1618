@@ -1,20 +1,20 @@
 # BELIFT LAB
 
-35 songs
+34 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- BELIFT LAB (35 tracks)
+- BELIFT LAB (34 tracks)
 
 ## Top Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a48a236a01fa62db8c7a6f6" alt="" width="50" /> | 31 | 25 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5884b5e3bdc71d42b62bfcfd" alt="" width="50" /> | 4 | 0 | ILLIT | [🔗](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5884b5e3bdc71d42b62bfcfd" alt="" width="50" /> | 3 | 1 | ILLIT | [🔗](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) |
 
 
 
@@ -29,7 +29,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | 4 | 3 | BORDER : CARNIVAL | 2021-04-26 | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="" width="50" /> | 4 | 2 | ORANGE BLOOD | 2023-11-17 | [🔗](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="" width="50" /> | 4 | 2 | DIMENSION : ANSWER | 2022-01-10 | [🔗](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="" width="50" /> | 4 | 0 | SUPER REAL ME | 2024-03-25 | [🔗](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="" width="50" /> | 3 | 1 | SUPER REAL ME | 2024-03-25 | [🔗](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc8b0918267ea555921863e8" alt="" width="50" /> | 1 | 1 | One In A Billion | 2022-09-06 | [🔗](https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328980bc854e40cb7a31fec98" alt="" width="50" /> | 1 | 1 | CRIMINAL LOVE | 2023-07-31 | [🔗](https://open.spotify.com/album/6S8BCiVrtzm5TEOnjyyCfJ) |
 
@@ -48,10 +48,10 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | ParadoXXX Invasion | MANIFESTO : DAY 1 | [ENHYPEN](../../artists/enhypen/overview.md) | [BELIFT LAB](.) | 42492 | 💚 | [🔗](https://open.spotify.com/track/3OC2C8IpFhbUJTeMe55QYn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="" width="50" /> | Sacrifice (Eat Me Up) | DARK BLOOD | [ENHYPEN](../../artists/enhypen/overview.md) | [BELIFT LAB](.) | 10518 | 💚 | [🔗](https://open.spotify.com/track/58ItBuVuKc03DvqSeZFnH1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="" width="50" /> | Sweet Venom | ORANGE BLOOD | [ENHYPEN](../../artists/enhypen/overview.md) | [BELIFT LAB](.) | 8771 | 💚 | [🔗](https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="" width="50" /> | Bills | DARK BLOOD | [ENHYPEN](../../artists/enhypen/overview.md) | [BELIFT LAB](.) | 7617 | 💚 | [🔗](https://open.spotify.com/track/2nfluhFVrO5OBXPzRWlwlz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | ParadoXXX Invasion | MANIFESTO : DAY 1 | [ENHYPEN](../../artists/enhypen/overview.md) | [BELIFT LAB](.) | 42720 | 💚 | [🔗](https://open.spotify.com/track/3OC2C8IpFhbUJTeMe55QYn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="" width="50" /> | Sacrifice (Eat Me Up) | DARK BLOOD | [ENHYPEN](../../artists/enhypen/overview.md) | [BELIFT LAB](.) | 11010 | 💚 | [🔗](https://open.spotify.com/track/58ItBuVuKc03DvqSeZFnH1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="" width="50" /> | Sweet Venom | ORANGE BLOOD | [ENHYPEN](../../artists/enhypen/overview.md) | [BELIFT LAB](.) | 9113 | 💚 | [🔗](https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="" width="50" /> | Bills | DARK BLOOD | [ENHYPEN](../../artists/enhypen/overview.md) | [BELIFT LAB](.) | 7833 | 💚 | [🔗](https://open.spotify.com/track/2nfluhFVrO5OBXPzRWlwlz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328980bc854e40cb7a31fec98" alt="" width="50" /> | CRIMINAL LOVE | CRIMINAL LOVE | [ENHYPEN](../../artists/enhypen/overview.md) | [BELIFT LAB](.) | 6661 | 💚 | [🔗](https://open.spotify.com/track/0Eglu3fErlG196PtTwCUPM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | Just A Little Bit | DIMENSION : DILEMMA | [ENHYPEN](../../artists/enhypen/overview.md) | [BELIFT LAB](.) | 5140 | 💚 | [🔗](https://open.spotify.com/track/3QdjLOemIcMZovVOnvJP7P) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="" width="50" /> | Polaroid Love | DIMENSION : ANSWER | [ENHYPEN](../../artists/enhypen/overview.md) | [BELIFT LAB](.) | 4782 | 💚 | [🔗](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) |
@@ -86,9 +86,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc8b0918267ea555921863e8" alt="" width="50" /> | One In A Billion | One In A Billion | [ENHYPEN](../../artists/enhypen/overview.md) | [BELIFT LAB](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/66wQlkJP6zHNOzRkyo5yZS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="" width="50" /> | Orange Flower (You Complete Me) | ORANGE BLOOD | [ENHYPEN](../../artists/enhypen/overview.md) | [BELIFT LAB](.) | 0 | | [🔗](https://open.spotify.com/track/5Cb3JSisvjlZhjSfYD6d7C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="" width="50" /> | Still Monster | ORANGE BLOOD | [ENHYPEN](../../artists/enhypen/overview.md) | [BELIFT LAB](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/6tuTpe37ljVcrJeZAAKBE1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="" width="50" /> | Lucky Girl Syndrome | SUPER REAL ME | ILLIT | [BELIFT LAB](.) | 0 | | [🔗](https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="" width="50" /> | Magnetic | SUPER REAL ME | ILLIT | [BELIFT LAB](.) | 0 | | [🔗](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="" width="50" /> | Midnight Fiction | SUPER REAL ME | ILLIT | [BELIFT LAB](.) | 0 | | [🔗](https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="" width="50" /> | Midnight Fiction | SUPER REAL ME | ILLIT | [BELIFT LAB](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="" width="50" /> | My World | SUPER REAL ME | ILLIT | [BELIFT LAB](.) | 0 | | [🔗](https://open.spotify.com/track/2Xiaplc23BureS4EDeE8xa) |
 
 </details>

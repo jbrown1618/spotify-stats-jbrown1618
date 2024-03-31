@@ -1,6 +1,6 @@
 # rock
 
-236 songs
+237 songs
 
 [See Track Features](audio_features.md)
 
@@ -13,7 +13,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | 32 | 22 | [The Beatles](../../artists/the_beatles/overview.md) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 25 | 17 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | 17 | 15 | [Radiohead](../../artists/radiohead/overview.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
-| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 20 | 13 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
+| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 21 | 13 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
 | <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | 6 | 6 | [The Who](../../artists/the_who/overview.md) | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | 6 | 5 | [Daft Punk](../../artists/daft_punk/overview.md) | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 5 | 5 | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
@@ -222,7 +222,7 @@
 | 41 | 29 | [Columbia](../../labels/columbia/overview.md) |
 | 31 | 21 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
 | 17 | 15 | [XL Recordings](../../labels/xl_recordings/overview.md) |
-| 20 | 13 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
+| 21 | 13 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
 | 24 | 10 | [Warner Records](../../labels/warner_records/overview.md) |
 | 14 | 5 | [Rhino](../../labels/rhino/overview.md) |
 | 9 | 5 | [Fueled By Ramen](../../labels/fueled_by_ramen/overview.md) |
@@ -406,7 +406,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Evolve (2017-06-23) | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> | Wednesday Morning, 3 A.M. (1964-10-19) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343f594be3179178ce058786f" alt="The Ultimate Collection" width="50" /> | The Ultimate Collection (2017-02-03) | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> | Out Of Our Heads (1965-07-30) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb" alt="Heathens" width="50" /> | Heathens (2016-06-16) | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> | Help! (Remastered) (1965-08-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="The Essential Van Morrison" width="50" /> | The Essential Van Morrison (2015-12-04) | <img src="https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4" alt="Rubber Soul (Remastered)" width="50" /> | Rubber Soul (Remastered) (1965-12-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273352e5ec301a02278ffe53d14" alt="Blurryface" width="50" /> | Blurryface (2015-05-15) | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="My Generation (Stereo Version)" width="50" /> | My Generation (Stereo Version) (1965-12-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="The Essential Van Morrison" width="50" /> | The Essential Van Morrison (2015-12-04) | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="My Generation (Stereo Version)" width="50" /> | My Generation (Stereo Version) (1965-12-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273352e5ec301a02278ffe53d14" alt="Blurryface" width="50" /> | Blurryface (2015-05-15) | <img src="https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4" alt="Rubber Soul (Remastered)" width="50" /> | Rubber Soul (Remastered) (1965-12-03) |
 
 ![Bar chart of number of songs by year](../../images/genres/rock/years.png)

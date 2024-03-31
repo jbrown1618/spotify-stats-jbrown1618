@@ -41,7 +41,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0011a003b54943e02654e1f4" alt="" width="50" /> | 4 | 0 | Samantha Barks | [🔗](https://open.spotify.com/artist/4gOl5m9dY7IGAipqpul7GZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9b9b8bf2a5275cf34a5350a" alt="" width="50" /> | 4 | 0 | Rosemary Ashe | [🔗](https://open.spotify.com/artist/3Oju6zkuJzum4svKeVhKiK) |
 | | 3 | 0 | Janet Devenish | [🔗](https://open.spotify.com/artist/7Ev9dg2zamUgQsRUp9DdRl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ebeba683d4b477ef2748c3bd" alt="" width="50" /> | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d64bc71c5b3f176aed9763fb" alt="" width="50" /> | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
 | | 3 | 0 | John Savident | [🔗](https://open.spotify.com/artist/2V0W4YzPCESOh86ss7D2QE) |
 | | 3 | 0 | Mary Millar | [🔗](https://open.spotify.com/artist/1SBvpcra5uod7N0rxJxa3J) |
 | <img src="https://i.scdn.co/image/09f4a0a499359540e40075f8e912d7c3e94bc4a6" alt="" width="50" /> | 3 | 0 | Anne Hathaway | [🔗](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) |
@@ -226,7 +226,7 @@ Appears as:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | Shades Of Cool | Ultraviolence (Deluxe) | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [Polydor Records](.) | 235 | 💚 | [🔗](https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Off To The Races | Born To Die | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [Polydor Records](.) | 195 | 💚 | [🔗](https://open.spotify.com/track/7grzMnF1FHponm2aJBWj8E) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Summertime Sadness | Born To Die | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [Polydor Records](.) | 71 | 💚 | [🔗](https://open.spotify.com/track/4cKtn8Shw999egpwBmWQmp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Summertime Sadness | Born To Die | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [Polydor Records](.) | 102 | 💚 | [🔗](https://open.spotify.com/track/4cKtn8Shw999egpwBmWQmp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | Baba O'Riley | Who's Next (Deluxe Edition) | [The Who](../../artists/the_who/overview.md) | [Polydor Records](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | Behind Blue Eyes | Who's Next (Deluxe Edition) | [The Who](../../artists/the_who/overview.md) | [Polydor Records](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5296d028b3e255aec56fc3c" alt="" width="50" /> | Funkytown | Mouth To Mouth | Lipps Inc. | [Polydor](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/2XVQdI3m0giGxNrwUhV3yP) |

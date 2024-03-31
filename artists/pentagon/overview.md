@@ -20,13 +20,13 @@ PENTAGON:
 
 ## Artist Rank
 PENTAGON is currently:
-- The #32 artist of the last month
-- The #35 artist of the last 6 months
+- The #26 artist of the last month
+- The #31 artist of the last 6 months
 
 ![Rank of PENTAGON over time](../../images/artists/pentagon/rank_time_series.png)
 ## Top Tracks
 
-- Sparkling Night is the #45 track of the last month
+- Sparkling Night is the #50 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -69,7 +69,7 @@ PENTAGON is currently:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | Sparkling Night | IN:VITE U | [PENTAGON](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 50 | 💚 | [🔗](https://open.spotify.com/track/5muXLxcyjv5RY2sGwl68TL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | Sparkling Night | IN:VITE U | [PENTAGON](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 51 | 💚 | [🔗](https://open.spotify.com/track/5muXLxcyjv5RY2sGwl68TL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e099e697d0068b652fe6814e" alt="" width="50" /> | Shine | Positive | [PENTAGON](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 0 | 💚 | [🔗](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b6ab2f6b02f2a9e6713b47d" alt="" width="50" /> | Humph! | SUM(ME:R) | [PENTAGON](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 0 | | [🔗](https://open.spotify.com/track/0m3W71Oliiv3gQWXi2YAmJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350ca782144d408e0c3ab2b7a" alt="" width="50" /> | Dr. BeBe | Universe : The Black Hall | [PENTAGON](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 0 | | [🔗](https://open.spotify.com/track/2z0LVG9G2SpFaT5bHyWwjK) |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e022118bf9b198b05a95ded6300ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02deec12a28d1e336c5052e9aa" alt="Relax" width="100" />
 
-[43 tracks (41 liked) 🔗](https://open.spotify.com/playlist/4rnlD7JdUQNdPCBhL69dCg)
+[44 tracks (42 liked) 🔗](https://open.spotify.com/playlist/4rnlD7JdUQNdPCBhL69dCg)
 
 [See Track Features](audio_features.md)
 
@@ -13,8 +13,8 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 7 | 7 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | 6 | 6 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 6 | 6 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb097877542866c981757e9592" alt="" width="50" /> | 6 | 4 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 4 | 4 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 3 | 3 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
@@ -44,7 +44,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fd1861f4c260b5855fd3a90" alt="" width="50" /> | 1 | 1 | nævis | [🔗](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb89064bc3e362d345bb6035f3" alt="" width="50" /> | 1 | 1 | JOY | [🔗](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | 1 | 1 | [MAMAMOO](../../artists/mamamoo/overview.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | 1 | 1 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | 1 | 1 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 
 </details>
 
@@ -61,12 +61,12 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | 2 | 2 | The Blessed Unrest | 2013-07-16 | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | 2 | 2 | Once Upon Another Time | 2012-05-22 | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | 2 | 2 | Love poem | 2019-11-18 | [🔗](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | 2 | 2 | Kaleidoscope Heart | 2010-09-07 | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | 1 | 1 | ‘The ReVe Festival 2022 - Feel My Rhythm’ | 2022-03-21 | [🔗](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ae843591bcdace9489c86fb0" alt="" width="50" /> | 1 | 1 | WAW | 2021-06-02 | [🔗](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | 1 | 1 | The Winning | 2024-02-20 | [🔗](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381fb7e4e392f0a99b3947eb6" alt="" width="50" /> | 1 | 1 | The Velvet - The 2nd Mini Album | 2016-03-17 | [🔗](https://open.spotify.com/album/2qgl7dAgslqL1w2l2wQhMA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e7c7f3bafee5562a4c01658b" alt="" width="50" /> | 1 | 1 | Song of the Bandits (Original Soundtrack from the Netflix Series) | 2023-09-22 | [🔗](https://open.spotify.com/album/1TXOVlZGrd3KbphTcXN8vw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273470483222eb038c3b60e71f6" alt="" width="50" /> | 1 | 1 | Slightly Tipsy (She is My Type♡ X SANDEUL) | 2020-07-20 | [🔗](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) |
 
 
 <details>
@@ -74,6 +74,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273470483222eb038c3b60e71f6" alt="" width="50" /> | 1 | 1 | Slightly Tipsy (She is My Type♡ X SANDEUL) | 2020-07-20 | [🔗](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | 1 | 1 | SEOULITE | 2016-03-09 | [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | 1 | 1 | Red | 2012-10-22 | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27316e21608ece123c20bd24306" alt="" width="50" /> | 1 | 1 | Rain - SM STATION | 2016-02-03 | [🔗](https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L) |
@@ -86,7 +87,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273cb95963709806e12d93128d4" alt="" width="50" /> | 1 | 1 | Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2 | 2016-08-29 | [🔗](https://open.spotify.com/album/68xTLBWjoRADRf86WYmTmy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | 1 | 1 | MY WORLD - The 3rd Mini Album | 2023-05-08 | [🔗](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | 1 | 1 | Little Voice | 2007-07-03 | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | 1 | 1 | Kaleidoscope Heart | 2010-09-07 | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | 1 | 1 | IU 5th Album 'LILAC' | 2021-03-25 | [🔗](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27331996f8836156158d3605ce9" alt="" width="50" /> | 1 | 1 | Hotel del Luna (Original Television Soundtrack) Pt.3 | 2019-07-21 | [🔗](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="" width="50" /> | 1 | 1 | Hong Gil Dong OST | 2008-01-23 | [🔗](https://open.spotify.com/album/5Efud8Wmo7vBQjSJI1WcJ7) |
@@ -113,7 +113,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 15 | 13 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
-| 6 | 6 | [Epic](../../labels/epic/overview.md) |
+| 7 | 7 | [Epic](../../labels/epic/overview.md) |
 | 5 | 5 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 4 | 4 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 3 | 3 | [EDAM Entertainment](../../labels/edam_entertainment/overview.md) |
@@ -153,13 +153,13 @@
 |---:|---:|:---|
 | 29 | 27 | [k-pop](../../genres/k-pop/overview.md) |
 | 10 | 10 | [pop](../../genres/pop/overview.md) |
-| 7 | 7 | [neo mellow](../../genres/neo_mellow/overview.md) |
-| 6 | 6 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
-| 6 | 6 | [pop rock](../../genres/pop_rock/overview.md) |
-| 6 | 6 | [lilith](../../genres/lilith/overview.md) |
+| 8 | 8 | [neo mellow](../../genres/neo_mellow/overview.md) |
+| 7 | 7 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
+| 7 | 7 | [pop rock](../../genres/pop_rock/overview.md) |
+| 7 | 7 | [lilith](../../genres/lilith/overview.md) |
+| 7 | 7 | [ectofolk](../../genres/ectofolk/overview.md) |
+| 7 | 7 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 6 | 6 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
-| 6 | 6 | [ectofolk](../../genres/ectofolk/overview.md) |
-| 6 | 6 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 4 | 4 | [korean pop](../../genres/korean_pop/overview.md) |
 
 
@@ -184,7 +184,8 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 3 | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 4 | Lyricist, Songwriter, Producer |
+| | Neal Avron | 2 | Arranger |
 | | John O'Mahony | 2 | Producer |
 | | Dann Huff | 1 | Producer |
 | | 강효민 (Kang, Hyo-min) | 1 | Producer |
@@ -193,7 +194,6 @@
 | | Willy Moon | 1 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | [IU](../../artists/iu/overview.md) | 1 | Lyricist |
 | | 봉은영 (Bong, Eun Young) | 1 | Lyricist |
-| | 이승주 (Lee Sung-joo) | 1 | Arranger |
 
 
 <details>
@@ -201,32 +201,32 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | 이승주 (Lee Sung-joo) | 1 | Arranger |
 | | [24](../../producers/24/overview.md) | 1 | Arranger, Songwriter |
 | | Mafly | 1 | Lyricist |
 | | Justin Niebank | 1 | Producer |
 | | 황찬희 (Hwang, Chan-Hee) | 1 | Arranger, Producer, Songwriter |
 | | TBHits | 1 | Producer, Songwriter |
-| | 위프리키 (Wipeuriki) | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 1 | Songwriter |
-| | 남궁진 (Nam Goong, Jin) | 1 | Producer |
-| | YOUNGJU BANG | 1 | Producer |
 | | Tayla Parx | 1 | Songwriter |
+| | 남궁진 (Nam Goong, Jin) | 1 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 1 | Producer |
 | | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 1 | Producer |
 | | 김희원 (Kim, Hee-won) | 1 | Songwriter |
 | | Francis White | 1 | Songwriter |
+| | Tommy Walter | 1 | Producer |
 | | 황성제 (Hwang, Sung Je) | 1 | Arranger |
 | | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 1 | Producer |
 | | 정의석 (Jung, Euisuk) | 1 | Producer |
-| | Neal Avron | 1 | Arranger |
 | | Kurt Uenala | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 1 | Songwriter |
 | | 오성근 (Oh, Seong-Keun) | 1 | Producer |
 | | [TEDDY](../../producers/teddy/overview.md) | 1 | Producer |
 | | Nathan Chapman | 1 | Producer |
-| | [John Hanes](../../producers/john_hanes/overview.md) | 1 | Producer |
+| | 위프리키 (Wipeuriki) | 1 | Songwriter |
 | | Jeremy Darby | 1 | Producer |
-| | Aaron Benward | 1 | Songwriter |
-| | 이유진 (Lee, Yoo-Jin) | 1 | Lyricist |
+| | YOUNGJU BANG | 1 | Producer |
+| | Steve Marcantonio | 1 | Producer |
 | | Justin Vernon | 1 | Lyricist, Songwriter |
 | | 이나일 (E, Na-Il) | 1 | Arranger |
 | | 김형곤 (Kim, Hyeong-kon) | 1 | Producer |
@@ -236,13 +236,13 @@
 | | Jeff Gartenbaum | 1 | Producer |
 | | Christian Vinten | 1 | Arranger, Songwriter |
 | | Teddy Sinclair | 1 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 1 | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 1 | Lyricist, Producer, Songwriter |
 | | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 1 | Lyricist |
 | | Olivia Holt | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb149ebd20c454545fc4fb7487" alt="" width="50" /> | Victoria Monét | 1 | Producer, Songwriter |
 | | JONGHYUN | 1 | Lyricist, Songwriter |
-| | Steve Marcantonio | 1 | Producer |
 | | 장우영 (Jang, Wooyoung) | 1 | Producer |
+| | Aaron Benward | 1 | Songwriter |
 | | Andreas Öberg (Öberg, Andreas) | 1 | Songwriter |
 | | 손명갑 (Son, Myung-gap) | 1 | Producer |
 | | 박인영 (Park, In-Young) | 1 | Arranger |
@@ -256,6 +256,7 @@
 | | Felicia Barton | 1 | Songwriter |
 | | 유정연 (Yoo, Jeong-Yeon) | 1 | Songwriter |
 | | Alex Gilbert | 1 | Producer |
+| | 이유진 (Lee, Yoo-Jin) | 1 | Lyricist |
 | | 홍소진 (Hong So-jin) | 1 | Arranger |
 
 </details>
@@ -266,16 +267,16 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 51311 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Manhattan](../../artists/sara_bareilles/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | [My sea](../../artists/iu/overview.md) | 43017 | <img src="https://i.scdn.co/image/ab67616d0000b273ae843591bcdace9489c86fb0" alt="WAW" width="50" /> | [Where Are We Now](../../artists/mamamoo/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="Like Water - The 1st Mini Album" width="50" /> | [When This Rain Stops](../../artists/wendy/overview.md) | 42246 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="Perfect Velvet - The 2nd Album" width="50" /> | [Moonlight Melody](../../artists/red_velvet/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 28068 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> | [The Happiest Girl](../../artists/blackpink/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | [Welcome To MY World (feat. nævis)](../../artists/aespa/overview.md) | 25062 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Stay](../../artists/sara_bareilles/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="Dream" width="50" /> | Dream | 17853 | <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="Purpose - The 2nd Album" width="50" /> | [Wine](../../artists/taeyeon/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="Like Water - The 1st Mini Album" width="50" /> | [Like Water](../../artists/wendy/overview.md) | 9186 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="Palette" width="50" /> | [Through the Night](../../artists/iu/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | [ONLY](../../artists/leehi/overview.md) | 7090 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Bluebird](../../artists/sara_bareilles/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381fb7e4e392f0a99b3947eb6" alt="The Velvet - The 2nd Mini Album" width="50" /> | [7월 7일 One Of These Nights](../../artists/red_velvet/overview.md) | 5520 | <img src="https://i.scdn.co/image/ab67616d0000b2733661c01b54e181d01bd439a1" alt="Birdy" width="50" /> | Skinny Love | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27316e21608ece123c20bd24306" alt="Rain - SM STATION" width="50" /> | [Rain](../../artists/taeyeon/overview.md) | 361 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything (Deluxe)" width="50" /> | [My Everything](../../artists/ariana_grande/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 51526 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Breathe Again](../../artists/sara_bareilles/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | [My sea](../../artists/iu/overview.md) | 43449 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Manhattan](../../artists/sara_bareilles/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="Like Water - The 1st Mini Album" width="50" /> | [When This Rain Stops](../../artists/wendy/overview.md) | 42246 | <img src="https://i.scdn.co/image/ab67616d0000b273ae843591bcdace9489c86fb0" alt="WAW" width="50" /> | [Where Are We Now](../../artists/mamamoo/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 28068 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="Perfect Velvet - The 2nd Album" width="50" /> | [Moonlight Melody](../../artists/red_velvet/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | [Welcome To MY World (feat. nævis)](../../artists/aespa/overview.md) | 25781 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> | [The Happiest Girl](../../artists/blackpink/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="Dream" width="50" /> | Dream | 17853 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Stay](../../artists/sara_bareilles/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="Like Water - The 1st Mini Album" width="50" /> | [Like Water](../../artists/wendy/overview.md) | 9186 | <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="Purpose - The 2nd Album" width="50" /> | [Wine](../../artists/taeyeon/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | [ONLY](../../artists/leehi/overview.md) | 7502 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="Palette" width="50" /> | [Through the Night](../../artists/iu/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381fb7e4e392f0a99b3947eb6" alt="The Velvet - The 2nd Mini Album" width="50" /> | [7월 7일 One Of These Nights](../../artists/red_velvet/overview.md) | 5874 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Bluebird](../../artists/sara_bareilles/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27316e21608ece123c20bd24306" alt="Rain - SM STATION" width="50" /> | [Rain](../../artists/taeyeon/overview.md) | 361 | <img src="https://i.scdn.co/image/ab67616d0000b2733661c01b54e181d01bd439a1" alt="Birdy" width="50" /> | Skinny Love | 0 |
 
 ## Years
 

@@ -23,7 +23,7 @@ NCT U:
 
 ## Artist Rank
 NCT U is currently:
-- The #48 artist of the last month
+- The #47 artist of the last month
 
 ![Rank of NCT U over time](../../images/artists/nct_u/rank_time_series.png)
 ## Top Tracks

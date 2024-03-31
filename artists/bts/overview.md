@@ -21,9 +21,9 @@ BTS:
 
 ## Artist Rank
 BTS is currently:
-- The #28 artist of the last month
+- The #29 artist of the last month
 - The #28 artist of the last 6 months
-- The #32 artist of all time
+- The #31 artist of all time
 
 ![Rank of BTS over time](../../images/artists/bts/rank_time_series.png)
 ## Top Tracks

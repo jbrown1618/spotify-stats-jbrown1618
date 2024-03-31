@@ -23,8 +23,6 @@ The Beatles:
 - has member Stuart Sutcliffe
 
 ## Artist Rank
-The Beatles is currently:
-- The #41 artist of the last month
 
 ![Rank of The Beatles over time](../../images/artists/the_beatles/rank_time_series.png)
 ## Top Tracks

@@ -53,7 +53,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4c77549095c86acb4e77b37" alt="" width="50" /> | 1 | 1 | AC/DC | [🔗](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c58bc0900410699cdfe2489" alt="" width="50" /> | 1 | 1 | Powfu | [🔗](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb69fe9645ff5eafe34e38f4f3" alt="" width="50" /> | 1 | 1 | Harlem Yu | [🔗](https://open.spotify.com/artist/6VbRanWSU3pdDhJnhSfGmY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebdb68d678df6d89bf8a55d052" alt="" width="50" /> | 1 | 1 | The Chainsmokers | [🔗](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9c0f09a8247c54ecba74819d" alt="" width="50" /> | 1 | 1 | The Chainsmokers | [🔗](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | 1 | 1 | [MOMOLAND](../../artists/momoland/overview.md) | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba688abfbbed1037befa47232" alt="" width="50" /> | 1 | 1 | HAIM | [🔗](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9722e16a886767adf1178f92" alt="" width="50" /> | 1 | 1 | Earth, Wind & Fire | [🔗](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) |
@@ -73,7 +73,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | 1 | 0 | Lil Jon | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | 1 | 0 | Calvin Harris | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb152cf48cf9541c7061570857" alt="" width="50" /> | 1 | 0 | Johnny Cash | [🔗](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb440230373e8ffaf11c36f96d" alt="" width="50" /> | 1 | 0 | Billy Ray Cyrus | [🔗](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4bfffdfbc6383f5cac847b77" alt="" width="50" /> | 1 | 0 | Billy Ray Cyrus | [🔗](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 1 | 0 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/0463291ed74637e96108fef43446c03b309dcad6" alt="" width="50" /> | 1 | 0 | Deniece Williams | [🔗](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) |
 | <img src="https://i.scdn.co/image/66a7fe2b2fd9388cf860f88e8636910f161be6cd" alt="" width="50" /> | 1 | 0 | Gene Autry | [🔗](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) |

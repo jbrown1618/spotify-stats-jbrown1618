@@ -21,7 +21,7 @@
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="" width="50" /> | Ditto | Ditto | [NewJeans](../../overview.md) | [ADOR](../../../../labels/ador) | 15841 | 💚 | [🔗](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="" width="50" /> | Ditto | Ditto | [NewJeans](../../overview.md) | [ADOR](../../../../labels/ador) | 16201 | 💚 | [🔗](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) |
 ## Cluster #3
 
 4 tracks

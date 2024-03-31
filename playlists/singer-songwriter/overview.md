@@ -14,7 +14,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 61 | 40 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | 61 | 38 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | 61 | 38 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 24 | 17 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 18 | 10 | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | 9 | 8 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
@@ -251,7 +251,7 @@
 | 77 | 51 | [lilith](../../genres/lilith/overview.md) |
 | 80 | 49 | [pop](../../genres/pop/overview.md) |
 | 72 | 48 | [neo mellow](../../genres/neo_mellow/overview.md) |
-| 68 | 47 | [ectofolk](../../genres/ectofolk/overview.md) |
+| 64 | 43 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 60 | 40 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 60 | 40 | [pop rock](../../genres/pop_rock/overview.md) |
 | 38 | 25 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
@@ -260,7 +260,7 @@
 
 
 <details>
-<summary>See all 62 genres</summary>
+<summary>See all 63 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -313,6 +313,7 @@
 | 2 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 2 | 0 | dark pop |
 | 2 | 0 | brill building pop |
+| 1 | 0 | neo r&b |
 | 1 | 0 | minneapolis indie |
 | 1 | 0 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 1 | 0 | canadian indie |
@@ -326,7 +327,7 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 38 | Songwriter, Lyricist, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 38 | Songwriter, Lyricist, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 31 | Lyricist, Songwriter, Producer |
 | | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 27 | Producer |
 | | [Laura Sisk](../../producers/laura_sisk/overview.md) | 20 | Producer |
@@ -371,7 +372,7 @@
 | | Nathan Chapman | 3 | Producer |
 | | James McAlister | 3 | Producer |
 | | David Kahne | 3 | Producer |
-| | Sounwave | 3 | Producer, Songwriter |
+| | [Sounwave](../../producers/sounwave/overview.md) | 3 | Producer, Songwriter |
 | | Craig Bishop | 3 | Producer |
 | | Zoë Kravitz (Kravitz, Zoë) | 2 | Songwriter |
 | | Todor Kobakov | 2 | Arranger |
@@ -451,7 +452,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Machine Gun](../../artists/sara_bareilles/overview.md) | 163 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Meant | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Fairytale](../../artists/sara_bareilles/overview.md) | 161 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Satellite Call](../../artists/sara_bareilles/overview.md) | 0 |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Between the Lines](../../artists/sara_bareilles/overview.md) | 103 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [the 1](../../artists/taylor_swift/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | [Summertime Sadness](../../artists/lana_del_rey/overview.md) | 71 | <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="Song to a Seagull" width="50" /> | [The Dawntreader](../../artists/joni_mitchell/overview.md) | 0 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | [Summertime Sadness](../../artists/lana_del_rey/overview.md) | 102 | <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="Song to a Seagull" width="50" /> | [The Dawntreader](../../artists/joni_mitchell/overview.md) | 0 |
 
 ## Years
 
