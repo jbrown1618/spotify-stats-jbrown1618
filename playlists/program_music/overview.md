@@ -49,6 +49,29 @@
 
 ![Comparison of Artist](../../images/playlists/program_music/artists_comparison.png)
 
+## Top Tracks
+
+
+
+
+<details>
+<summary>Most and least listened tracks</summary>
+
+| ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
+|:---|:---|---:|:---|:---|---:|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="Mendelssohn: A Midsummer Night&#x27;s Dream" width="50" /> | Overture to "A Midsummer Night's Dream", Op. 21: Allegro di molto | nan | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | Pictures at an Exhibition (Orch. Ravel): Promenade III | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | Pictures at an Exhibition (Orch. Ravel): Promenade II | nan | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | Pictures at an Exhibition (Orch. Ravel): X. The Great Gate of Kiev | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | Pictures at an Exhibition (Orch. Ravel): II. The Old Castle | nan | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | [Swan Lake Suite, Op. 20a: II. Waltz](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | Pictures at an Exhibition (Orch. Ravel): Promenade IV | nan | <img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="Holst: The Planets" width="50" /> | The Planets, Op. 32: 2. Venus, the Bringer of Peace | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | Pictures at an Exhibition (Orch. Ravel): V. Ballet of the Unhatched Chicks | nan | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | Pictures at an Exhibition (Orch. Ravel): VI. Samuel Goldenberg und Schmuÿle | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | Pictures at an Exhibition (Orch. Ravel): VIIIa. Catacombae (Sepulchrum Romanum) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="Holst: The Planets" width="50" /> | The Planets, Op. 32: 1. Mars, the Bringer of War | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | Night on Bald Mountain | nan | <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="Mendelssohn: A Midsummer Night&#x27;s Dream" width="50" /> | A Midsummer Night's Dream, Incidental Music, Op. 61: "Ay Me! For Aught That I Could Ever Read" | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="Holst: The Planets" width="50" /> | The Planets, Op. 32: 5. Saturn, the Bringer of Old Age | nan | <img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="Holst: The Planets" width="50" /> | The Planets, Op. 32: 7. Neptune, the Mystic | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="Mendelssohn: A Midsummer Night&#x27;s Dream" width="50" /> | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2, L'istesso tempo | nan | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | Pictures at an Exhibition (Orch. Ravel): IV. Bydlo | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="Mendelssohn: A Midsummer Night&#x27;s Dream" width="50" /> | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 4, Andante | nan | <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="Mendelssohn: A Midsummer Night&#x27;s Dream" width="50" /> | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 3, Lied mit Chor | nan |
+
+</details>
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -87,20 +110,6 @@
 | 3 | 0 | impressionism |
 
 ![Bar chart of top 9 genres](../../images/playlists/program_music/genres.png)
-
-## Most and least listened tracks
-| ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
-|:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="Mendelssohn: A Midsummer Night&#x27;s Dream" width="50" /> | Overture to "A Midsummer Night's Dream", Op. 21: Allegro di molto | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | Pictures at an Exhibition (Orch. Ravel): Promenade III | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | Pictures at an Exhibition (Orch. Ravel): Promenade II | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | Pictures at an Exhibition (Orch. Ravel): X. The Great Gate of Kiev | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | Pictures at an Exhibition (Orch. Ravel): II. The Old Castle | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | [Swan Lake Suite, Op. 20a: II. Waltz](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | Pictures at an Exhibition (Orch. Ravel): Promenade IV | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="Holst: The Planets" width="50" /> | The Planets, Op. 32: 2. Venus, the Bringer of Peace | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | Pictures at an Exhibition (Orch. Ravel): V. Ballet of the Unhatched Chicks | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | Pictures at an Exhibition (Orch. Ravel): VI. Samuel Goldenberg und Schmuÿle | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | Pictures at an Exhibition (Orch. Ravel): VIIIa. Catacombae (Sepulchrum Romanum) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="Holst: The Planets" width="50" /> | The Planets, Op. 32: 1. Mars, the Bringer of War | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | Night on Bald Mountain | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="Mendelssohn: A Midsummer Night&#x27;s Dream" width="50" /> | A Midsummer Night's Dream, Incidental Music, Op. 61: "Ay Me! For Aught That I Could Ever Read" | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="Holst: The Planets" width="50" /> | The Planets, Op. 32: 5. Saturn, the Bringer of Old Age | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="Holst: The Planets" width="50" /> | The Planets, Op. 32: 7. Neptune, the Mystic | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="Mendelssohn: A Midsummer Night&#x27;s Dream" width="50" /> | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 2, L'istesso tempo | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="Mussorgsky: Pictures At An Exhibition" width="50" /> | Pictures at an Exhibition (Orch. Ravel): IV. Bydlo | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="Mendelssohn: A Midsummer Night&#x27;s Dream" width="50" /> | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 4, Andante | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="Mendelssohn: A Midsummer Night&#x27;s Dream" width="50" /> | A Midsummer Night's Dream, Incidental Music, Op. 61: No. 3, Lied mit Chor | 0 |
 
 ## Years
 

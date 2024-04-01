@@ -27,7 +27,7 @@
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS | CIRCUS | [Stray Kids](../../../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](../..) | 66 | 💚 | [🔗](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS | CIRCUS | [Stray Kids](../../../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](../..) | 72 | 💚 | [🔗](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c59b4214590e91eb283d86d" alt="" width="50" /> | Thunderous | NOEASY | [Stray Kids](../../../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](../..) | 0 | | [🔗](https://open.spotify.com/track/3XHJUG5I2zYqOEmEZUX68n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="" width="50" /> | There | There | [Stray Kids](../../../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](../..) | 0 | 💚 | [🔗](https://open.spotify.com/track/6gHeWGamtOYHBd1LBZ7Fv6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a2272c8966971b7b04066241" alt="" width="50" /> | 白日 | CEREMONY | King Gnu | [Sony Music Labels Inc.](../..) | 0 | | [🔗](https://open.spotify.com/track/172fMG26G2OoEzzg0wn26r) |

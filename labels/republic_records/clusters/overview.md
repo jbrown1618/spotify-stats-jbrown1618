@@ -24,7 +24,7 @@
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | SET ME FREE | READY TO BE | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../..) | 4710 | 💚 | [🔗](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | SET ME FREE | READY TO BE | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../..) | 5047 | 💚 | [🔗](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | SET ME FREE (ENG) | READY TO BE | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../..) | 0 | | [🔗](https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | SAY SOMETHING | Eyes Wide Open | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../..) | 0 | | [🔗](https://open.spotify.com/track/2gagYYY4R8QimbnFqd96ST) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | HELL IN HEAVEN | Eyes Wide Open | [TWICE](../../../../artists/twice/overview.md) | [Republic Records](../..) | 0 | 💚 | [🔗](https://open.spotify.com/track/3KCreWc88InXH3XuL54C5a) |
@@ -33,7 +33,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | In the morning | GUESS WHO | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../..) | 120 | 💚 | [🔗](https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273544a6e99632cd340e1619796" alt="" width="50" /> | Why So Lonely | Why So Lonely | Wonder Girls | [Republic Records](../..) | 39 | | [🔗](https://open.spotify.com/track/2FBNkgK3GbF2tVWxKNFRjX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Young, Dumb, Stupid | expérgo | [NMIXX](../../../../artists/nmixx/overview.md) | [Republic Records](../..) | 0 | | [🔗](https://open.spotify.com/track/5eD83TX5ERuyJ7chfed3MQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | DASH | Fe3O4: BREAK | [NMIXX](../../../../artists/nmixx/overview.md) | [Republic Records](../..) | 400 | 💚 | [🔗](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | DASH | Fe3O4: BREAK | [NMIXX](../../../../artists/nmixx/overview.md) | [Republic Records](../..) | 484 | 💚 | [🔗](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) |
 ## Cluster #3
 
 42 tracks
@@ -43,7 +43,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a916eb5cb60ec476b75fc807" alt="" width="50" /> | 24 Hours | 24 Hours | [SUNMI](../../../../artists/sunmi/overview.md) | [Republic Records](../..) | 0 | 💚 | [🔗](https://open.spotify.com/track/4ayWErdGIvSo4o6a3lMVLt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | Silent Cry | NOEASY | [Stray Kids](../../../../artists/stray_kids/overview.md) | [Republic Records](../..) | 0 | | [🔗](https://open.spotify.com/track/5kBJH5gU89axZDauhfddpy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Stars and Raindrops (Seungmin) | SKZ-REPLAY | [Stray Kids](../../../../artists/stray_kids/overview.md) | [Republic Records](../..) | 0 | | [🔗](https://open.spotify.com/track/5kFGqKqHzVVMMI7V7uoID1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="" width="50" /> | MEGAVERSE | ROCK-STAR | [Stray Kids](../../../../artists/stray_kids/overview.md) | [Republic Records](../..) | 5231 | 💚 | [🔗](https://open.spotify.com/track/5Q1tv4GTxP3IJeGMOKdrFO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="" width="50" /> | MEGAVERSE | ROCK-STAR | [Stray Kids](../../../../artists/stray_kids/overview.md) | [Republic Records](../..) | 5483 | 💚 | [🔗](https://open.spotify.com/track/5Q1tv4GTxP3IJeGMOKdrFO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Not Shy | Not Shy | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../..) | 51 | 💚 | [🔗](https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | LOCO - English Ver. | CRAZY IN LOVE | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../..) | 0 | | [🔗](https://open.spotify.com/track/0QPYsEvaoEJzZLSF5Cq390) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | Sorry Not Sorry | GUESS WHO | [ITZY](../../../../artists/itzy/overview.md) | [Republic Records](../..) | 0 | | [🔗](https://open.spotify.com/track/4BV9bZOeH869aewS9lwTtM) |

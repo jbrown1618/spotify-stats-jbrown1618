@@ -23,6 +23,29 @@
 
 
 
+## Top Tracks
+
+
+
+
+<details>
+<summary>Most and least listened tracks</summary>
+
+| ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
+|:---|:---|---:|:---|:---|---:|
+| <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | String Quartet No. 3 In B Flat, Op. 67: 2. Andante | nan | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms: The Symphonies" width="50" /> | Brahms: Symphony No. 3 in F Major, Op. 90: III. Poco allegretto | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms: The Symphonies" width="50" /> | Brahms: Symphony No. 4 in E Minor, Op. 98: III. Allegro giocoso | nan | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | String Quartet No. 2 In A Minor, Op. 51 No. 2: 1. Allegro non troppo | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms: The Symphonies" width="50" /> | Brahms: Symphony No. 2 in D Major, Op. 73: II. Adagio non troppo | nan | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | String Quartet No. 2 In A Minor, Op. 51 No. 2: 4. Finale (Allegro non assai - Più vivace) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | String Quartet No. 3 In B Flat, Op. 67: 1. Vivace | nan | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | String Quartet No. 1 In C Minor, Op. 51 No. 1: 2. Romanze (Poco adagio) - 2007 Recording | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms: The Symphonies" width="50" /> | Brahms: Symphony No. 3 in F Major, Op. 90: I. Allegro con brio | nan | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | String Quartet No. 2 In A Minor, Op. 51 No. 2: 2. Andante moderato | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms: The Symphonies" width="50" /> | Brahms: Symphony No. 4 in E Minor, Op. 98: IV. Allegro energico e passionato | nan | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | Piano Quintet in F minor, Op. 34: 3. Scherzo (Allegro) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms: The Symphonies" width="50" /> | Brahms: Symphony No. 4 in E Minor, Op. 98: I. Allegro non troppo | nan | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | Piano Quintet in F minor, Op. 34: 2. Andante, un poco adagio | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms: The Symphonies" width="50" /> | Brahms: Symphony No. 3 in F Major, Op. 90: II. Andante | nan | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | String Quartet No. 2 In A Minor, Op. 51 No. 2: 3. Quasi minuetto, moderato - Allegretto vivace | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms: The Symphonies" width="50" /> | Brahms: Symphony No. 1 in C Minor, Op. 68: I. Un poco sostenuto - Allegro | nan | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms: The Symphonies" width="50" /> | Brahms: Symphony No. 4 in E Minor, Op. 98: II. Andante moderato | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | String Quartet No. 1 In C Minor, Op. 51 No. 1: 1. Allegro - 2007 Recording | nan | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | Piano Quintet in F minor, Op. 34: 1. Allegro non troppo | nan |
+
+</details>
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -50,20 +73,6 @@
 | 32 | 0 | [classical](../../genres/classical/overview.md) |
 
 ![Bar chart of top 3 genres](../../images/playlists/brahms/genres.png)
-
-## Most and least listened tracks
-| ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
-|:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | String Quartet No. 3 In B Flat, Op. 67: 2. Andante | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms: The Symphonies" width="50" /> | Brahms: Symphony No. 3 in F Major, Op. 90: III. Poco allegretto | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms: The Symphonies" width="50" /> | Brahms: Symphony No. 4 in E Minor, Op. 98: III. Allegro giocoso | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | String Quartet No. 2 In A Minor, Op. 51 No. 2: 1. Allegro non troppo | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms: The Symphonies" width="50" /> | Brahms: Symphony No. 2 in D Major, Op. 73: II. Adagio non troppo | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | String Quartet No. 2 In A Minor, Op. 51 No. 2: 4. Finale (Allegro non assai - Più vivace) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | String Quartet No. 3 In B Flat, Op. 67: 1. Vivace | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | String Quartet No. 1 In C Minor, Op. 51 No. 1: 2. Romanze (Poco adagio) - 2007 Recording | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms: The Symphonies" width="50" /> | Brahms: Symphony No. 3 in F Major, Op. 90: I. Allegro con brio | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | String Quartet No. 2 In A Minor, Op. 51 No. 2: 2. Andante moderato | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms: The Symphonies" width="50" /> | Brahms: Symphony No. 4 in E Minor, Op. 98: IV. Allegro energico e passionato | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | Piano Quintet in F minor, Op. 34: 3. Scherzo (Allegro) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms: The Symphonies" width="50" /> | Brahms: Symphony No. 4 in E Minor, Op. 98: I. Allegro non troppo | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | Piano Quintet in F minor, Op. 34: 2. Andante, un poco adagio | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms: The Symphonies" width="50" /> | Brahms: Symphony No. 3 in F Major, Op. 90: II. Andante | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | String Quartet No. 2 In A Minor, Op. 51 No. 2: 3. Quasi minuetto, moderato - Allegretto vivace | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms: The Symphonies" width="50" /> | Brahms: Symphony No. 1 in C Minor, Op. 68: I. Un poco sostenuto - Allegro | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27317adbf4b1899ea006e880996" alt="Brahms: The Symphonies" width="50" /> | Brahms: Symphony No. 4 in E Minor, Op. 98: II. Andante moderato | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | String Quartet No. 1 In C Minor, Op. 51 No. 1: 1. Allegro - 2007 Recording | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="Brahms: String Quartets &amp; Piano Quintet" width="50" /> | Piano Quintet in F minor, Op. 34: 1. Allegro non troppo | 0 |
 
 ## Years
 

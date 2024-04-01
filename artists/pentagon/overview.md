@@ -24,9 +24,6 @@ PENTAGON is currently:
 - The #31 artist of the last 6 months
 
 ![Rank of PENTAGON over time](../../images/artists/pentagon/rank_time_series.png)
-## Top Tracks
-
-- Sparkling Night is the #50 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

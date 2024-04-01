@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e0206ce0d1f846c525e847d60e7ab67616d00001e0222219b7ba681368a16c219feab67616d00001e0223350feac07f56d8b96f33d5ab67616d00001e026aa9314b7ddfbd8f036ba3ac" alt="Classic Pop" width="100" />
 
-[64 tracks (34 liked) 🔗](https://open.spotify.com/playlist/6oXUc88JlAQTNdKvn529pD)
+[62 tracks (33 liked) 🔗](https://open.spotify.com/playlist/6oXUc88JlAQTNdKvn529pD)
 
 [See Track Features](audio_features.md)
 
@@ -13,7 +13,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 9 | 6 | [Michael Jackson](../../artists/michael_jackson/overview.md) | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 8 | 5 | [Michael Jackson](../../artists/michael_jackson/overview.md) | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 5 | 5 | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd919dbf4e6ed3e695ba6339d" alt="" width="50" /> | 3 | 3 | George Michael | [🔗](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | 6 | 2 | Elton John | [🔗](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) |
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 32 artists</summary>
+<summary>See all 31 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -45,7 +45,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eba9ac31bda8fe26b884522422" alt="" width="50" /> | 1 | 0 | The Foundations | [🔗](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) |
 | <img src="https://i.scdn.co/image/22c8cd28a71661b4dbd462e2d45b04b3e1b78572" alt="" width="50" /> | 1 | 0 | Ben E. King | [🔗](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfaeabbf20cf22ba59c117785" alt="" width="50" /> | 1 | 0 | The Beach Boys | [🔗](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd2e2b04b7ba5d60b72f54506" alt="" width="50" /> | 1 | 0 | Creedence Clearwater Revival | [🔗](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fbc98da6995bb0a504ed363d" alt="" width="50" /> | 1 | 0 | The Archies | [🔗](https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh) |
 | <img src="https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a" alt="" width="50" /> | 1 | 0 | Carole King | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
 | <img src="https://i.scdn.co/image/733bf3eb9178fd24dbce4a9a5ec64d0c870ea822" alt="" width="50" /> | 1 | 0 | Katrina & The Waves | [🔗](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) |
@@ -59,6 +58,29 @@
 ![Bar chart of top 30 artists](../../images/playlists/classic_pop/artists.png)
 
 ![Comparison of Artist](../../images/playlists/classic_pop/artists_comparison.png)
+
+## Top Tracks
+
+![Track score ranking over time](../../images/playlists/classic_pop/top_tracks_time_series.png)
+
+
+<details>
+<summary>Most and least listened tracks</summary>
+
+| ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
+|:---|:---|---:|:---|:---|---:|
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> | Your Song | 271 | <img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" alt="Katrina &amp; The Waves" width="50" /> | Walking On Sunshine | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e2c1f7c1ee0ee027f41178fd" alt="Feels So Good" width="50" /> | Feels So Good | 388 | <img src="https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956" alt="Faith" width="50" /> | Faith - Remastered | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="I Never Loved a Man the Way I Love You" width="50" /> | Respect | nan | <img src="https://i.scdn.co/image/ab67616d0000b273d8fb5b4308dc27f210064ef4" alt="Bookends" width="50" /> | [Mrs. Robinson - From "The Graduate" Soundtrack](../../artists/simon___garfunkel/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322219b7ba681368a16c219fe" alt="The Ultimate Bee Gees" width="50" /> | Stayin Alive | nan | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="Graceland (25th Anniversary Deluxe Edition)" width="50" /> | You Can Call Me Al | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" alt="20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor" width="50" /> | I Will Survive - Single Version | nan | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="Tapestry" width="50" /> | I Feel the Earth Move | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The &#x27;70s, &#x27;80s, &#x27;90s" width="50" /> | Papa Was A Rollin' Stone - Single Version | nan | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="Thriller" width="50" /> | [P.Y.T. (Pretty Young Thing)](../../artists/michael_jackson/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="Thriller" width="50" /> | [Billie Jean](../../artists/michael_jackson/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="Commodores" width="50" /> | Easy | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f77cbbb100e98c8995dccba6" alt="Celebration (Bonus Track Version)" width="50" /> | Like a Prayer | nan | <img src="https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b" alt="Goodbye Yellow Brick Road (Remastered)" width="50" /> | Candle In The Wind - Remastered 2014 | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="Bridge Over Troubled Water" width="50" /> | [The Boxer](../../artists/simon___garfunkel/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2736b18e58a06aac7763abe319a" alt="Like a Virgin" width="50" /> | Like a Virgin | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | My Girl | nan | <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="The Definitive Collection" width="50" /> | Superstition - Single Version | nan |
+
+</details>
 
 ## Top Albums
 
@@ -77,7 +99,7 @@
 
 
 <details>
-<summary>See all 55 albums</summary>
+<summary>See all 53 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -91,7 +113,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27329c1c454ed1b2acfa64dc37f" alt="" width="50" /> | 1 | 1 | Listen Without Prejudice / MTV Unplugged (Deluxe) | 2017-10-20 | [🔗](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736b18e58a06aac7763abe319a" alt="" width="50" /> | 1 | 1 | Like a Virgin | 1984-11-12 | [🔗](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27364c19b24ce947ffa363f8f96" alt="" width="50" /> | 1 | 1 | Ladies And Gentlemen... The Best Of George Michael | 1998-11-09 | [🔗](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="" width="50" /> | 1 | 1 | HIStory - PAST, PRESENT AND FUTURE - BOOK I | 1995-06-16 | [🔗](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e2c1f7c1ee0ee027f41178fd" alt="" width="50" /> | 1 | 1 | Feels So Good | 1977-12-08 | [🔗](https://open.spotify.com/album/5w0p1F0Q1wBqsX2UiX6CCD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956" alt="" width="50" /> | 1 | 1 | Faith | 1987-10-30 | [🔗](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="" width="50" /> | 1 | 1 | Elton John | 1970-04-10 | [🔗](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) |
@@ -108,7 +129,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a075160177aa7b7508c4fc9e" alt="" width="50" /> | 1 | 0 | The Foundations | 1968-01-01 | [🔗](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | 1 | 0 | Tapestry | 1971 | [🔗](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="" width="50" /> | 1 | 0 | Songs In The Key Of Life | 1976-09-28 | [🔗](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b7a4a59ac03447db7491f37" alt="" width="50" /> | 1 | 0 | Pendulum | 1970-12-07 | [🔗](https://open.spotify.com/album/3tbpe74iBR23O8uiQlLrXC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | 1 | 0 | Off the Wall | 1979-08-10 | [🔗](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="" width="50" /> | 1 | 0 | Meet The Temptations | 1964 | [🔗](https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d03ab2da904d8251a87bbc31" alt="" width="50" /> | 1 | 0 | Madman Across The Water | 1971-11-05 | [🔗](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) |
@@ -136,8 +156,8 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 11 | 7 | [Epic](../../labels/epic/overview.md) |
 | 13 | 6 | [MOTOWN](../../labels/motown/overview.md) |
+| 10 | 6 | [Epic](../../labels/epic/overview.md) |
 | 8 | 5 | [UNI](../../labels/uni/overview.md) |
 | 6 | 5 | [Columbia](../../labels/columbia/overview.md) |
 | 4 | 2 | [Warner Records](../../labels/warner_records/overview.md) |
@@ -149,7 +169,7 @@
 
 
 <details>
-<summary>See all 28 labels</summary>
+<summary>See all 27 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -168,40 +188,39 @@
 | 1 | 0 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 1 | 0 | Ode |
 | 1 | 0 | Legacy Recordings |
-| 1 | 0 | Fantasy Records |
 | 1 | 0 | Castle Communications |
 | 1 | 0 | CAPITOL CATALOG MKT (C92) |
 
 </details>
 
 
-![Bar chart of top 28 record labels](../../images/playlists/classic_pop/labels.png)
+![Bar chart of top 27 record labels](../../images/playlists/classic_pop/labels.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 26 | 13 | [soul](../../genres/soul/overview.md) |
+| 25 | 12 | [soul](../../genres/soul/overview.md) |
 | 17 | 9 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 12 | 9 | [soft rock](../../genres/soft_rock/overview.md) |
-| 17 | 8 | [rock](../../genres/rock/overview.md) |
+| 16 | 8 | [rock](../../genres/rock/overview.md) |
 | 13 | 6 | motown |
-| 10 | 6 | [classic rock](../../genres/classic_rock/overview.md) |
-| 9 | 6 | [r&b](../../genres/r_b/overview.md) |
 | 9 | 6 | folk rock |
+| 9 | 6 | [classic rock](../../genres/classic_rock/overview.md) |
 | 8 | 6 | [folk](../../genres/folk/overview.md) |
+| 8 | 5 | [r&b](../../genres/r_b/overview.md) |
 | 5 | 5 | melancholia |
 
 
 <details>
-<summary>See all 55 genres</summary>
+<summary>See all 52 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 5 | 4 | new wave pop |
 | 4 | 3 | [adult standards](../../genres/adult_standards/overview.md) |
 | 6 | 2 | [piano rock](../../genres/piano_rock/overview.md) |
-| 6 | 2 | [glam rock](../../genres/glam_rock/overview.md) |
+| 6 | 2 | glam rock |
 | 6 | 2 | classic soul |
 | 4 | 2 | [pop](../../genres/pop/overview.md) |
 | 4 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
@@ -216,7 +235,6 @@
 | 3 | 1 | arkansas country |
 | 2 | 1 | swing |
 | 2 | 1 | southern soul |
-| 2 | 1 | country rock |
 | 1 | 1 | southern hip hop |
 | 1 | 1 | smooth jazz |
 | 1 | 1 | [rap](../../genres/rap/overview.md) |
@@ -230,10 +248,9 @@
 | 1 | 1 | funk |
 | 1 | 1 | europop |
 | 1 | 1 | dirty south rap |
+| 1 | 1 | country rock |
 | 1 | 1 | atl hip hop |
 | 2 | 0 | sunshine pop |
-| 1 | 0 | swamp rock |
-| 1 | 0 | southern rock |
 | 1 | 0 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 1 | 0 | neo soul |
@@ -242,7 +259,6 @@
 | 1 | 0 | classic canadian rock |
 | 1 | 0 | brill building pop |
 | 1 | 0 | baroque pop |
-| 1 | 0 | [album rock](../../genres/album_rock/overview.md) |
 
 </details>
 
@@ -348,20 +364,6 @@
 
 
 ![Bar chart of top 30 producers](../../images/playlists/classic_pop/producers.png)
-
-## Most and least listened tracks
-| ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
-|:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> | Your Song | 308 | <img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" alt="Katrina &amp; The Waves" width="50" /> | Walking On Sunshine | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e2c1f7c1ee0ee027f41178fd" alt="Feels So Good" width="50" /> | Feels So Good | 159 | <img src="https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956" alt="Faith" width="50" /> | Faith - Remastered | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="I Never Loved a Man the Way I Love You" width="50" /> | Respect | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273d8fb5b4308dc27f210064ef4" alt="Bookends" width="50" /> | [Mrs. Robinson - From "The Graduate" Soundtrack](../../artists/simon___garfunkel/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27322219b7ba681368a16c219fe" alt="The Ultimate Bee Gees" width="50" /> | Stayin Alive | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="Graceland (25th Anniversary Deluxe Edition)" width="50" /> | You Can Call Me Al | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" alt="20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor" width="50" /> | I Will Survive - Single Version | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="Tapestry" width="50" /> | I Feel the Earth Move | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The &#x27;70s, &#x27;80s, &#x27;90s" width="50" /> | Papa Was A Rollin' Stone - Single Version | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="Thriller" width="50" /> | [P.Y.T. (Pretty Young Thing)](../../artists/michael_jackson/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="Thriller" width="50" /> | [Billie Jean](../../artists/michael_jackson/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="Commodores" width="50" /> | Easy | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f77cbbb100e98c8995dccba6" alt="Celebration (Bonus Track Version)" width="50" /> | Like a Prayer | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b" alt="Goodbye Yellow Brick Road (Remastered)" width="50" /> | Candle In The Wind - Remastered 2014 | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="Bridge Over Troubled Water" width="50" /> | [The Boxer](../../artists/simon___garfunkel/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2736b18e58a06aac7763abe319a" alt="Like a Virgin" width="50" /> | Like a Virgin | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | My Girl | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="The Definitive Collection" width="50" /> | Superstition - Single Version | 0 |
 
 ## Years
 

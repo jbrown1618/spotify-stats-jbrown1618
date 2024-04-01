@@ -89,7 +89,7 @@ Appears as:
 |---:|---:|:---|
 | 2 | 0 | [rock](../../genres/rock/overview.md) |
 | 1 | 0 | [modern rock](../../genres/modern_rock/overview.md) |
-| 1 | 0 | [glam rock](../../genres/glam_rock/overview.md) |
+| 1 | 0 | glam rock |
 | 1 | 0 | disco |
 | 1 | 0 | [classic rock](../../genres/classic_rock/overview.md) |
 | 1 | 0 | [art rock](../../genres/art_rock/overview.md) |
@@ -139,7 +139,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="" width="50" /> | Hold On Tight | Hold On Tight | [aespa](../../artists/aespa/overview.md) | [Parlophone UK](.) | 20799 | 💚 | [🔗](https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="" width="50" /> | Hold On Tight | Hold On Tight | [aespa](../../artists/aespa/overview.md) | [Parlophone UK](.) | 21351 | 💚 | [🔗](https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="" width="50" /> | Daisy 2.0 (feat. Hatsune Miku) | Daisy 2.0 (feat. Hatsune Miku) | Ashnikko, Hatsune Miku | [Parlophone UK](.) | 166 | 💚 | [🔗](https://open.spotify.com/track/0s8RXkQW9lwGEV6WlG8KDq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733395f3e809dfbc2b1101d464" alt="" width="50" /> | Space Oddity - 2015 Remaster | David Bowie (aka Space Oddity) [2015 Remaster] | David Bowie | [Parlophone UK](.) | 0 | | [🔗](https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a03bcdbf45f9ed71cf0947bd" alt="" width="50" /> | You Sexy Thing | Hot Chocolate | Hot Chocolate | [Parlophone UK](.) | 0 | | [🔗](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) |

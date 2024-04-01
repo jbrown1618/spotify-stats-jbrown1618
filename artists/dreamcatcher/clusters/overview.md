@@ -8,11 +8,11 @@
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | Scream | 1st Album [Dystopia : The Tree of Language] | [Dreamcatcher](../../overview.md) | [Dreamcatcher Company](../../../../labels/dreamcatcher_company) | 0 | 💚 | [🔗](https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273787a8631e249c68889453f86" alt="" width="50" /> | Odd Eye | [Dystopia : Road to Utopia] | [Dreamcatcher](../../overview.md) | [DREAMCATCHER COMPANY](../../../../labels/dreamcatcher_company) | 21 | | [🔗](https://open.spotify.com/track/1RtlbxsPpDBsHHmGTb7ah2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273107ade016c96b4769c200bc4" alt="" width="50" /> | Scream | 1st Album [Dystopia : The Tree of Language] | [Dreamcatcher](../../overview.md) | [Dreamcatcher Company](../../../../labels/dreamcatcher_company) | 0 | 💚 | [🔗](https://open.spotify.com/track/7FxshQAsTWmogWU959hz3T) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273787a8631e249c68889453f86" alt="" width="50" /> | Odd Eye | [Dystopia : Road to Utopia] | [Dreamcatcher](../../overview.md) | [DREAMCATCHER COMPANY](../../../../labels/dreamcatcher_company) | 21 | 💚 | [🔗](https://open.spotify.com/track/1RtlbxsPpDBsHHmGTb7ah2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | MAISON | [Apocalypse : Save us] | [Dreamcatcher](../../overview.md) | [DREAMCATCHER COMPANY](../../../../labels/dreamcatcher_company) | 0 | 💚 | [🔗](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | Starlight | [Apocalypse : Save us] | [Dreamcatcher](../../overview.md) | [DREAMCATCHER COMPANY](../../../../labels/dreamcatcher_company) | 0 | 💚 | [🔗](https://open.spotify.com/track/5i5WNh302rkoveunUdZwG2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="" width="50" /> | VISION | [Apocalypse : Follow us] | [Dreamcatcher](../../overview.md) | [DREAMCATCHER COMPANY](../../../../labels/dreamcatcher_company) | 0 | 💚 | [🔗](https://open.spotify.com/track/1nmc8ngLcvccw7Lay5v5SP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731e998666727247d231c75cf8" alt="" width="50" /> | Odd Eye | ［Dystopia : Road to Utopia］ | [Dreamcatcher](../../overview.md) | [DREAMCATCHER COMPANY](../../../../labels/dreamcatcher_company) | 263 | 💚 | [🔗](https://open.spotify.com/track/28Jwll1H52Hr4JzQ6vMoul) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27393dc875f5465891061acef62" alt="" width="50" /> | REASON | [REASON] | [Dreamcatcher](../../overview.md) | [DREAMCATCHER COMPANY](../../../../labels/dreamcatcher_company) | 0 | | [🔗](https://open.spotify.com/track/2RqjrPwWWk6MOo6YzqYJ6U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a95bc64165227445ad40054" alt="" width="50" /> | DEMIAN | [Apocalypse : From us] | [Dreamcatcher](../../overview.md) | [DREAMCATCHER COMPANY](../../../../labels/dreamcatcher_company) | 0 | | [🔗](https://open.spotify.com/track/2k2stGWMSU85UayvEGlm5W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="" width="50" /> | BEcause | [Summer Holiday] | [Dreamcatcher](../../overview.md) | [DREAMCATCHER COMPANY](../../../../labels/dreamcatcher_company) | 0 | 💚 | [🔗](https://open.spotify.com/track/3L74uwShK0JqEUZ5Y2JoDW) |
@@ -24,15 +24,12 @@
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | Jazz Bar | 1st Album [Dystopia : The Tree of Language] | [Dreamcatcher](../../overview.md) | [Dreamcatcher Company](../../../../labels/dreamcatcher_company) | 0 | 💚 | [🔗](https://open.spotify.com/track/4dIZBPtKfOvo8YuundgcwH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273107ade016c96b4769c200bc4" alt="" width="50" /> | Jazz Bar | 1st Album [Dystopia : The Tree of Language] | [Dreamcatcher](../../overview.md) | [Dreamcatcher Company](../../../../labels/dreamcatcher_company) | 0 | | [🔗](https://open.spotify.com/track/5XVjj6hJTWgYiDx72Wo5QS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | Locked Inside A Door | [Apocalypse : Save us] | [Dreamcatcher](../../overview.md) | [DREAMCATCHER COMPANY](../../../../labels/dreamcatcher_company) | 0 | | [🔗](https://open.spotify.com/track/3MIXS3voZb2QFTnjKeYVT6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27331b95b252ae186111fb347d8" alt="" width="50" /> | Sleep-walking | Prequel | [Dreamcatcher](../../overview.md) | 해피페이스 엔터테인먼트 | 10 | 💚 | [🔗](https://open.spotify.com/track/5PYR7g3AmuYE5Yaay7s3us) |
 ## Cluster #3
 
-4 tracks
+1 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | Black Or White | 1st Album [Dystopia : The Tree of Language] | [Dreamcatcher](../../overview.md) | [Dreamcatcher Company](../../../../labels/dreamcatcher_company) | 0 | 💚 | [🔗](https://open.spotify.com/track/11wbEfF8uFBY6T2gNH7cI5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27319224fae0aa53341020f5b12" alt="" width="50" /> | Red Sun | 1st Album [Dystopia : The Tree of Language] | [Dreamcatcher](../../overview.md) | [Dreamcatcher Company](../../../../labels/dreamcatcher_company) | 0 | 💚 | [🔗](https://open.spotify.com/track/5lwWpQ71GKN3sWmk8zZr9g) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | Locked Inside A Door | [Apocalypse : Save us] | [Dreamcatcher](../../overview.md) | [DREAMCATCHER COMPANY](../../../../labels/dreamcatcher_company) | 0 | | [🔗](https://open.spotify.com/track/3MIXS3voZb2QFTnjKeYVT6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27331b95b252ae186111fb347d8" alt="" width="50" /> | Sleep-walking | Prequel | [Dreamcatcher](../../overview.md) | 해피페이스 엔터테인먼트 | 10 | 💚 | [🔗](https://open.spotify.com/track/5PYR7g3AmuYE5Yaay7s3us) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273107ade016c96b4769c200bc4" alt="" width="50" /> | Jazz Bar | 1st Album [Dystopia : The Tree of Language] | [Dreamcatcher](../../overview.md) | [Dreamcatcher Company](../../../../labels/dreamcatcher_company) | 0 | 💚 | [🔗](https://open.spotify.com/track/5XVjj6hJTWgYiDx72Wo5QS) |

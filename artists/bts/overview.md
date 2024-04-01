@@ -60,7 +60,7 @@ BTS is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | 3 | 2 | Love Yourself 承 'Her' | 2017-09-18 | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | 3 | 1 | MAP OF THE SOUL : PERSONA | 2019-04-12 | [🔗](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | 2 | 2 | Wings | 2016-10-10 | [🔗](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | 2 | 1 | Proof | 2022-06-10 | [🔗](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | 2 | 2 | Proof | 2022-06-10 | [🔗](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | 2 | 0 | Dark & Wild | 2014-08-20 | [🔗](https://open.spotify.com/album/7FxxU3EP37uMsZf8FilkDR) |
 
 
@@ -73,7 +73,6 @@ BTS is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" alt="" width="50" /> | 1 | 1 | You Never Walk Alone | 2017-02-13 | [🔗](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | 1 | 1 | Skool Luv Affair | 2014-02-12 | [🔗](https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | 1 | 1 | SUGA's Interlude | 2019-12-06 | [🔗](https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed656680374294d5217193fa" alt="" width="50" /> | 1 | 1 | Butter | 2021-05-21 | [🔗](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e0936633c4c927ac22818e1" alt="" width="50" /> | 1 | 0 | Savage Love (Laxed - Siren Beat) [BTS Remix] | 2020-10-02 | [🔗](https://open.spotify.com/album/5O6izFQ2veRaZOcQSyOi4o) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da9c76ed020a7894443a3f97" alt="" width="50" /> | 1 | 0 | MAP OF THE SOUL : 7 ~ THE JOURNEY ~ | 2020-07-14 | [🔗](https://open.spotify.com/album/1nScVw87kRJiT2bg2Kswhp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a40e041dc865ed53f8ea8144" alt="" width="50" /> | 1 | 0 | Dynamite (Holiday Remix) | 2020-12-11 | [🔗](https://open.spotify.com/album/3HVNK5OxW9qfkySXjHWehH) |
@@ -86,8 +85,8 @@ BTS is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 36 | 22 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
-| 9 | 3 | [HYBE](../../labels/hybe/overview.md) |
+| 35 | 22 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
+| 8 | 2 | HYBE |
 | 1 | 1 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 1 | 0 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 1 | 0 | [Columbia](../../labels/columbia/overview.md) |
@@ -114,7 +113,7 @@ BTS is currently:
 | Instrument | 0 | 0 | 0 | 0 | 1 | 0 | 0 |
 | Lyricist | 0 | 0 | 0 | 1 | 1 | 0 | 0 |
 | Producer | 0 | 0 | 0 | 2 | 2 | 0 | 0 |
-| Songwriter | 0 | 1 | 0 | 10 | 7 | 0 | 4 |
+| Songwriter | 0 | 1 | 0 | 11 | 7 | 0 | 4 |
 | Vocal | 1 | 3 | 6 | 2 | 3 | 2 | 2 |
 ### Production Credits
 
@@ -139,8 +138,8 @@ BTS is currently:
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | Black Swan | RM | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c63be04ae902b1da7a54d247" alt="" width="50" /> | eight(Prod.&Feat. SUGA of BTS) | SUGA | Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed656680374294d5217193fa" alt="" width="50" /> | Butter | RM | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cab1d5724ddfed3aa8a4fd0f" alt="" width="50" /> | That That (prod. & feat. SUGA of BTS) | SUGA | Arranger, Lyricist, Producer, Songwriter |
+| | nan | RM | Songwriter |
 
 </details>
 
@@ -231,11 +230,11 @@ BTS is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Run BTS | Proof | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 50 | 💚 | [🔗](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Singularity | Love Yourself 結 'Answer' | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 28 | 💚 | [🔗](https://open.spotify.com/track/2ApfJvLr7RbhJl6NOVhEu6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e0936633c4c927ac22818e1" alt="" width="50" /> | Savage Love (Laxed – Siren Beat) [BTS Remix] | Savage Love (Laxed - Siren Beat) [BTS Remix] | Jawsh 685, [Jason Derulo](../jason_derulo/overview.md), [BTS](overview.md) | [Columbia](../../labels/columbia) | 12 | | [🔗](https://open.spotify.com/track/4TgxFMOn5yoESW6zCidCXL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | Like | 2 Cool 4 Skool | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music), [HYBE](../../labels/hybe) | 0 | | [🔗](https://open.spotify.com/track/1HQHuPpr2s2z3VIBTLtUmv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | No More Dream | 2 Cool 4 Skool | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music), [HYBE](../../labels/hybe) | 0 | | [🔗](https://open.spotify.com/track/4frlkLwlnm58ejpNwWjxyl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | Like | 2 Cool 4 Skool | [BTS](overview.md) | [BIGHIT MUSIC / HYBE](../../labels/bighit_music) | 0 | | [🔗](https://open.spotify.com/track/1HQHuPpr2s2z3VIBTLtUmv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27349a0f2ca62742d289da81509" alt="" width="50" /> | No More Dream | 2 Cool 4 Skool | [BTS](overview.md) | [BIGHIT MUSIC / HYBE](../../labels/bighit_music) | 0 | | [🔗](https://open.spotify.com/track/4frlkLwlnm58ejpNwWjxyl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | Boy in Luv | Skool Luv Affair | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 0 | 💚 | [🔗](https://open.spotify.com/track/3FnDv33WrrMtuEr7hNR3ev) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | Danger | Dark & Wild | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music), [HYBE](../../labels/hybe) | 0 | | [🔗](https://open.spotify.com/track/6njl4FfPUwVmoIR1RKLq05) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | War of Hormone | Dark & Wild | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music), [HYBE](../../labels/hybe) | 0 | | [🔗](https://open.spotify.com/track/3D26URfsMlCNaa51mj9jOt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | Danger | Dark & Wild | [BTS](overview.md) | [BIGHIT MUSIC / HYBE](../../labels/bighit_music) | 0 | | [🔗](https://open.spotify.com/track/6njl4FfPUwVmoIR1RKLq05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | War of Hormone | Dark & Wild | [BTS](overview.md) | [BIGHIT MUSIC / HYBE](../../labels/bighit_music) | 0 | | [🔗](https://open.spotify.com/track/3D26URfsMlCNaa51mj9jOt) |
 
 
 <details>
@@ -249,9 +248,9 @@ BTS is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Blood Sweat & Tears | Wings | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 0 | 💚 | [🔗](https://open.spotify.com/track/2u54HNQamwFuOMLSuhSRom) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Lie | Wings | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 0 | 💚 | [🔗](https://open.spotify.com/track/1nWB8isqs2tviWk20G5pow) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" alt="" width="50" /> | Spring Day | You Never Walk Alone | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 0 | 💚 | [🔗](https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | DNA | Love Yourself 承 'Her' | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music), [HYBE](../../labels/hybe) | 0 | 💚 | [🔗](https://open.spotify.com/track/5SE57ljOIUJ1ybL9U6CuBH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | MIC Drop | Love Yourself 承 'Her' | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music), [HYBE](../../labels/hybe) | 0 | 💚 | [🔗](https://open.spotify.com/track/2SYa5Lx1uoCvyDIW4oee9b) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | dimple | Love Yourself 承 'Her' | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music), [HYBE](../../labels/hybe) | 0 | | [🔗](https://open.spotify.com/track/3ryjLm3oupIjJFGc39naNi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | DNA | Love Yourself 承 'Her' | [BTS](overview.md) | [BIGHIT MUSIC / HYBE](../../labels/bighit_music) | 0 | 💚 | [🔗](https://open.spotify.com/track/5SE57ljOIUJ1ybL9U6CuBH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | MIC Drop | Love Yourself 承 'Her' | [BTS](overview.md) | [BIGHIT MUSIC / HYBE](../../labels/bighit_music) | 0 | 💚 | [🔗](https://open.spotify.com/track/2SYa5Lx1uoCvyDIW4oee9b) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | dimple | Love Yourself 承 'Her' | [BTS](overview.md) | [BIGHIT MUSIC / HYBE](../../labels/bighit_music) | 0 | | [🔗](https://open.spotify.com/track/3ryjLm3oupIjJFGc39naNi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Airplane pt.2 | Love Yourself 轉 'Tear' | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 0 | 💚 | [🔗](https://open.spotify.com/track/4lAE47gj539h8R1yxPhhGG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Anpanman | Love Yourself 轉 'Tear' | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 0 | 💚 | [🔗](https://open.spotify.com/track/34OSqW5ULWxmCEMjJ1ZgVW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | FAKE LOVE | Love Yourself 轉 'Tear' | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 0 | 💚 | [🔗](https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR) |
@@ -269,9 +268,8 @@ BTS is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | Dynamite | BE | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 0 | 💚 | [🔗](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | Life Goes On | BE | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 0 | 💚 | [🔗](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | Telepathy | BE | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 0 | 💚 | [🔗](https://open.spotify.com/track/6Fnvi5QnVkTskSzeRvvQds) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a40e041dc865ed53f8ea8144" alt="" width="50" /> | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music), [HYBE](../../labels/hybe) | 0 | | [🔗](https://open.spotify.com/track/6SM3TJaWkmT8Iq8l9J0BIS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed656680374294d5217193fa" alt="" width="50" /> | Butter | Butter | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music), [HYBE](../../labels/hybe) | 0 | 💚 | [🔗](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Butter | Proof | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 0 | | [🔗](https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a40e041dc865ed53f8ea8144" alt="" width="50" /> | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | [BTS](overview.md) | [BIGHIT MUSIC / HYBE](../../labels/bighit_music) | 0 | | [🔗](https://open.spotify.com/track/6SM3TJaWkmT8Iq8l9J0BIS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Butter | Proof | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 0 | 💚 | [🔗](https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS) |
 
 </details>
 

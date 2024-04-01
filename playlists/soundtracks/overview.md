@@ -54,6 +54,29 @@
 
 ![Comparison of Artist](../../images/playlists/soundtracks/artists_comparison.png)
 
+## Top Tracks
+
+![Track score ranking over time](../../images/playlists/soundtracks/top_tracks_time_series.png)
+
+
+<details>
+<summary>Most and least listened tracks</summary>
+
+| ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
+|:---|:---|---:|:---|:---|---:|
+| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Tetris Theme A (From "Tetris")](../../artists/the_8-bit_big_band/overview.md) | 241 | <img src="https://i.scdn.co/image/ab67616d0000b273c835f5fb3ad632c14b4e7099" alt="The Legend of Zelda: Ocarina of Time" width="50" /> | Lost Woods | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | Anduril | 322 | <img src="https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f" alt="The Lord of the Rings: The Fellowship of the Ring - the Complete Recordings" width="50" /> | The Passing of the Elves | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | The Steward of Gondor (feat. Billy Boyd) | 667 | <img src="https://i.scdn.co/image/ab67616d0000b273c835f5fb3ad632c14b4e7099" alt="The Legend of Zelda: Ocarina of Time" width="50" /> | Gerudo Valley | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7" alt="The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)" width="50" /> | Helm's Deep | nan | <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | The Return of the King (feat. Sir James Galway, Viggo Mortensen and Renee Fleming) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27392b4abaaa250a8d1b00d5bc5" alt="Zelda: Ocarina of Time - Piano" width="50" /> | Lost Woods | nan | <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Still Alive (From "Portal")](../../artists/the_8-bit_big_band/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c835f5fb3ad632c14b4e7099" alt="The Legend of Zelda: Ocarina of Time" width="50" /> | Fairy's Fountain | nan | <img src="https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7" alt="The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)" width="50" /> | Samwise the Brave | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27392f051ce3c585b5c2db21d52" alt="Jurassic Park" width="50" /> | Welcome To Jurassic Park | nan | <img src="https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce" alt="The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack)" width="50" /> | Many Meetings | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce" alt="The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack)" width="50" /> | May It Be | nan | <img src="https://i.scdn.co/image/ab67616d0000b2731e479a85aa1a26b20137f86a" alt="Pokemon Red &amp; Blue Game Boy Classics" width="50" /> | Trainer Battle | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735edd9d6529b42a5ac6121ef2" alt="Zelda: Link&#x27;s Ocarina Orchestrated" width="50" /> | Song Of Storms | nan | <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | Into the West | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334222e48d075ace5ed2c2e9e" alt="Jurassic Park (Soundtrack)" width="50" /> | Theme From Jurassic Park - From "Jurassic Park" Soundtrack | nan | <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | The Grey Havens (feat. Sir James Galway) | nan |
+
+</details>
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -200,20 +223,6 @@
 | | Jonathan Coulton | 1 | Lyricist, Songwriter |
 
 ![Bar chart of top 7 producers](../../images/playlists/soundtracks/producers.png)
-
-## Most and least listened tracks
-| ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
-|:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Tetris Theme A (From "Tetris")](../../artists/the_8-bit_big_band/overview.md) | 325 | <img src="https://i.scdn.co/image/ab67616d0000b273c835f5fb3ad632c14b4e7099" alt="The Legend of Zelda: Ocarina of Time" width="50" /> | Lost Woods | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | Anduril | 218 | <img src="https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f" alt="The Lord of the Rings: The Fellowship of the Ring - the Complete Recordings" width="50" /> | The Passing of the Elves | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | The Steward of Gondor (feat. Billy Boyd) | 9 | <img src="https://i.scdn.co/image/ab67616d0000b273c835f5fb3ad632c14b4e7099" alt="The Legend of Zelda: Ocarina of Time" width="50" /> | Gerudo Valley | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7" alt="The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)" width="50" /> | Helm's Deep | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | The Return of the King (feat. Sir James Galway, Viggo Mortensen and Renee Fleming) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27392b4abaaa250a8d1b00d5bc5" alt="Zelda: Ocarina of Time - Piano" width="50" /> | Lost Woods | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Still Alive (From "Portal")](../../artists/the_8-bit_big_band/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c835f5fb3ad632c14b4e7099" alt="The Legend of Zelda: Ocarina of Time" width="50" /> | Fairy's Fountain | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7" alt="The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)" width="50" /> | Samwise the Brave | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27392f051ce3c585b5c2db21d52" alt="Jurassic Park" width="50" /> | Welcome To Jurassic Park | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce" alt="The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack)" width="50" /> | Many Meetings | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce" alt="The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack)" width="50" /> | May It Be | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2731e479a85aa1a26b20137f86a" alt="Pokemon Red &amp; Blue Game Boy Classics" width="50" /> | Trainer Battle | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735edd9d6529b42a5ac6121ef2" alt="Zelda: Link&#x27;s Ocarina Orchestrated" width="50" /> | Song Of Storms | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | Into the West | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334222e48d075ace5ed2c2e9e" alt="Jurassic Park (Soundtrack)" width="50" /> | Theme From Jurassic Park - From "Jurassic Park" Soundtrack | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | The Grey Havens (feat. Sir James Galway) | 0 |
 
 ## Years
 

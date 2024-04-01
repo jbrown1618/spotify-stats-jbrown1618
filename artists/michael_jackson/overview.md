@@ -16,7 +16,7 @@ Michael Jackson:
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e0206ce0d1f846c525e847d60e7ab67616d00001e0222219b7ba681368a16c219feab67616d00001e0223350feac07f56d8b96f33d5ab67616d00001e026aa9314b7ddfbd8f036ba3ac" alt="" width="50" /> | 9 | [Classic Pop](../../playlists/classic_pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0206ce0d1f846c525e847d60e7ab67616d00001e0222219b7ba681368a16c219feab67616d00001e0223350feac07f56d8b96f33d5ab67616d00001e026aa9314b7ddfbd8f036ba3ac" alt="" width="50" /> | 8 | [Classic Pop](../../playlists/classic_pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020f7e2aa2f1d7ea0fd2e206c0ab67616d00001e0216aaf05fe82237576a7d0e38ab67616d00001e0220112a0321d2efc7384db456ab67616d00001e02f93159d78849714fcf118bb3" alt="" width="50" /> | 1 | [Funk](../../playlists/funk/overview.md) |
 
 ## Top Albums
@@ -25,14 +25,13 @@ Michael Jackson:
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | 5 | 4 | Thriller | 1982-11-30 | [🔗](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | 2 | 1 | Bad (Remastered) | 1987-08-31 | [🔗](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="" width="50" /> | 1 | 1 | HIStory - PAST, PRESENT AND FUTURE - BOOK I | 1995-06-16 | [🔗](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | 1 | 0 | Off the Wall | 1979-08-10 | [🔗](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) |
 
 ## Top Record Labels
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 9 | 6 | [Epic](../../labels/epic/overview.md) |
+| 8 | 5 | [Epic](../../labels/epic/overview.md) |
 | 2 | 1 | [Legacy](../../labels/legacy/overview.md) |
 
 ## Genres
@@ -101,4 +100,3 @@ Michael Jackson:
 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Wanna Be Startin' Somethin' | Thriller | [Michael Jackson](overview.md) | [Epic](../../labels/epic) | 0 | | [🔗](https://open.spotify.com/track/1hu2s7qkm5bo03eODpRQO3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Man in the Mirror - 2012 Remaster | Bad (Remastered) | [Michael Jackson](overview.md) | [Epic](../../labels/epic), [Legacy](../../labels/legacy) | 0 | | [🔗](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Smooth Criminal - 2012 Remaster | Bad (Remastered) | [Michael Jackson](overview.md) | [Epic](../../labels/epic), [Legacy](../../labels/legacy) | 0 | 💚 | [🔗](https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="" width="50" /> | Beat It | HIStory - PAST, PRESENT AND FUTURE - BOOK I | [Michael Jackson](overview.md) | [Epic](../../labels/epic) | 0 | 💚 | [🔗](https://open.spotify.com/track/52xaypL0Kjzk0ngwv3oBPR) |

@@ -27,6 +27,29 @@
 
 
 
+## Top Tracks
+
+![Track score ranking over time](../../images/playlists/electronic/top_tracks_time_series.png)
+
+
+<details>
+<summary>Most and least listened tracks</summary>
+
+| ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
+|:---|:---|---:|:---|:---|---:|
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Get Lucky (feat. Pharrell Williams and Nile Rodgers)](../../artists/daft_punk/overview.md) | 315 | <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="Discovery" width="50" /> | [One More Time](../../artists/daft_punk/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735062dabfa4007e1b72981edf" alt="Badster" width="50" /> | Badster | nan | <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="Human After All" width="50" /> | [Technologic](../../artists/daft_punk/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="Discovery" width="50" /> | [Harder, Better, Faster, Stronger](../../artists/daft_punk/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="SAWAYAMA" width="50" /> | XS | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="Lindsey Stirling" width="50" /> | [Crystallize](../../artists/lindsey_stirling/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="Lindsey Stirling" width="50" /> | [Song of the Caged Bird](../../artists/lindsey_stirling/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="SAWAYAMA" width="50" /> | Comme Des Garçons (Like The Boys) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="Shatter Me" width="50" /> | [Shatter Me Featuring Lzzy Hale](../../artists/lindsey_stirling/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="Starboy" width="50" /> | I Feel It Coming | nan | <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="Discovery" width="50" /> | [Digital Love](../../artists/daft_punk/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="Artemis" width="50" /> | [Underground](../../artists/lindsey_stirling/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Instant Crush (feat. Julian Casablancas)](../../artists/daft_punk/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="3-D The Catalogue" width="50" /> | Pocket Calculator / Dentaku | nan | <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="3-D The Catalogue" width="50" /> | Pocket Calculator / Dentaku | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Instant Crush (feat. Julian Casablancas)](../../artists/daft_punk/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="Artemis" width="50" /> | [Underground](../../artists/lindsey_stirling/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="Discovery" width="50" /> | [Digital Love](../../artists/daft_punk/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="Starboy" width="50" /> | I Feel It Coming | nan |
+
+</details>
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -131,20 +154,6 @@
 
 
 ![Bar chart of top 21 producers](../../images/playlists/electronic/producers.png)
-
-## Most and least listened tracks
-| ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
-|:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Get Lucky (feat. Pharrell Williams and Nile Rodgers)](../../artists/daft_punk/overview.md) | 244 | <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="Discovery" width="50" /> | [One More Time](../../artists/daft_punk/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735062dabfa4007e1b72981edf" alt="Badster" width="50" /> | Badster | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="Human After All" width="50" /> | [Technologic](../../artists/daft_punk/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="Discovery" width="50" /> | [Harder, Better, Faster, Stronger](../../artists/daft_punk/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="SAWAYAMA" width="50" /> | XS | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="Lindsey Stirling" width="50" /> | [Crystallize](../../artists/lindsey_stirling/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="Lindsey Stirling" width="50" /> | [Song of the Caged Bird](../../artists/lindsey_stirling/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="SAWAYAMA" width="50" /> | Comme Des Garçons (Like The Boys) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="Shatter Me" width="50" /> | [Shatter Me Featuring Lzzy Hale](../../artists/lindsey_stirling/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="Starboy" width="50" /> | I Feel It Coming | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="Discovery" width="50" /> | [Digital Love](../../artists/daft_punk/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="Artemis" width="50" /> | [Underground](../../artists/lindsey_stirling/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Instant Crush (feat. Julian Casablancas)](../../artists/daft_punk/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="3-D The Catalogue" width="50" /> | Pocket Calculator / Dentaku | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="3-D The Catalogue" width="50" /> | Pocket Calculator / Dentaku | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Instant Crush (feat. Julian Casablancas)](../../artists/daft_punk/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="Artemis" width="50" /> | [Underground](../../artists/lindsey_stirling/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="Discovery" width="50" /> | [Digital Love](../../artists/daft_punk/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="Starboy" width="50" /> | I Feel It Coming | 0 |
 
 ## Years
 

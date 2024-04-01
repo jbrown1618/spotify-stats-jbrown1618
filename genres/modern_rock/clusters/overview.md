@@ -20,6 +20,22 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="" width="50" /> | The Pretender | Echoes, Silence, Patience & Grace | Foo Fighters | [RCA Records Label](../../../../labels/rca_records_label) | 0 | | [🔗](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) |
 ## Cluster #2
 
+33 tracks
+
+| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="" width="50" /> | That's What You Get | Riot! | Paramore | [Fueled By Ramen](../../../../labels/fueled_by_ramen) | 0 | | [🔗](https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="" width="50" /> | Misery Business | Riot! | Paramore | [Fueled By Ramen](../../../../labels/fueled_by_ramen) | 378 | 💚 | [🔗](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fd0ad203a3d2a2343d889a95" alt="" width="50" /> | We Didn’t Start The Fire (Bonus Track) | So Much (For) Stardust | Fall Out Boy | [Fueled By Ramen](../../../../labels/fueled_by_ramen) | 0 | | [🔗](https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" alt="" width="50" /> | Sugar, We're Goin Down | From Under The Cork Tree | Fall Out Boy | [Island Records](../../../../labels/island_records) | 0 | | [🔗](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273352e5ec301a02278ffe53d14" alt="" width="50" /> | Ride | Blurryface | Twenty One Pilots | [Fueled By Ramen](../../../../labels/fueled_by_ramen) | 0 | 💚 | [🔗](https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730a8881b0d247346c3c447bf3" alt="" width="50" /> | I Write Sins Not Tragedies | A Fever You Can't Sweat Out | Panic! At The Disco | [Decaydance Records / Fueled By Ramen](../../../../labels/fueled_by_ramen) | 0 | | [🔗](https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739cf4ac84b224a02f34d2e4f6" alt="" width="50" /> | Young Folks | Writer's Block | Peter Bjorn and John | Universal Music AB | 0 | | [🔗](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d991176cbf36bd168e00a0a" alt="" width="50" /> | HandClap | Fitz and The Tantrums (Deluxe Edition) | Fitz and The Tantrums | Elektra (NEK) | 0 | 💚 | [🔗](https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="" width="50" /> | The Adults Are Talking | The New Abnormal | The Strokes | [Cult Records/RCA Records](../../../../labels/rca_records_label) | 0 | 💚 | [🔗](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="" width="50" /> | Learn to Fly | There Is Nothing Left To Lose | Foo Fighters | [RCA Records Label](../../../../labels/rca_records_label) | 0 | | [🔗](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) |
+## Cluster #3
+
 8 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
@@ -32,19 +48,3 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d0a13a643d83342430c07da" alt="" width="50" /> | Timshel | Sigh No More | Mumford & Sons | Glassnote Entertainment Group LLC | 0 | | [🔗](https://open.spotify.com/track/4c3zZWPPYkvjSV07Cv95oJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="" width="50" /> | What Sarah Said | Plans | Death Cab for Cutie | [Atlantic Records](../../../../labels/atlantic_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/2JFrlsJBH4IDt3Suot97dP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="" width="50" /> | I Will Follow You into the Dark | Plans | Death Cab for Cutie | [Atlantic Records](../../../../labels/atlantic_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ) |
-## Cluster #3
-
-35 tracks
-
-| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="" width="50" /> | That's What You Get | Riot! | Paramore | [Fueled By Ramen](../../../../labels/fueled_by_ramen) | 0 | | [🔗](https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="" width="50" /> | Misery Business | Riot! | Paramore | [Fueled By Ramen](../../../../labels/fueled_by_ramen) | 378 | 💚 | [🔗](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fd0ad203a3d2a2343d889a95" alt="" width="50" /> | We Didn’t Start The Fire (Bonus Track) | So Much (For) Stardust | Fall Out Boy | [Fueled By Ramen](../../../../labels/fueled_by_ramen) | 0 | | [🔗](https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" alt="" width="50" /> | Sugar, We're Goin Down | From Under The Cork Tree | Fall Out Boy | [Island Records](../../../../labels/island_records) | 0 | | [🔗](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273352e5ec301a02278ffe53d14" alt="" width="50" /> | Ride | Blurryface | Twenty One Pilots | [Fueled By Ramen](../../../../labels/fueled_by_ramen) | 0 | 💚 | [🔗](https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="" width="50" /> | Everybody Talks | Picture Show | Neon Trees | Mercury Records | 49 | 💚 | [🔗](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730a8881b0d247346c3c447bf3" alt="" width="50" /> | I Write Sins Not Tragedies | A Fever You Can't Sweat Out | Panic! At The Disco | [Decaydance Records / Fueled By Ramen](../../../../labels/fueled_by_ramen) | 0 | | [🔗](https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d991176cbf36bd168e00a0a" alt="" width="50" /> | HandClap | Fitz and The Tantrums (Deluxe Edition) | Fitz and The Tantrums | Elektra (NEK) | 0 | 💚 | [🔗](https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="" width="50" /> | The Adults Are Talking | The New Abnormal | The Strokes | [Cult Records/RCA Records](../../../../labels/rca_records_label) | 0 | 💚 | [🔗](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731759635c92b6314d3d3c9fe9" alt="" width="50" /> | Learn to Fly | There Is Nothing Left To Lose | Foo Fighters | [RCA Records Label](../../../../labels/rca_records_label) | 0 | | [🔗](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) |

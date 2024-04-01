@@ -45,7 +45,7 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 5 | 2 | [mellow gold](../../genres/mellow_gold/overview.md) |
-| 5 | 2 | [glam rock](../../genres/glam_rock/overview.md) |
+| 5 | 2 | glam rock |
 | 2 | 2 | yacht rock |
 | 2 | 2 | symphonic rock |
 | 2 | 2 | [soft rock](../../genres/soft_rock/overview.md) |

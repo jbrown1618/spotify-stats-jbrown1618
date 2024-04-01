@@ -73,6 +73,29 @@
 
 ![Comparison of Artist](../../images/playlists/your_top_songs_2023/artists_comparison.png)
 
+## Top Tracks
+
+![Track score ranking over time](../../images/playlists/your_top_songs_2023/top_tracks_time_series.png)
+
+
+<details>
+<summary>Most and least listened tracks</summary>
+
+| ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
+|:---|:---|---:|:---|:---|---:|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | [Savage](../../artists/aespa/overview.md) | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273cc4aba9d86a65fdab6306fa9" alt="ZONE" width="50" /> | Killin′ Me Good | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="Next Level" width="50" /> | [Next Level](../../artists/aespa/overview.md) | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="UNFORGIVEN" width="50" /> | [ANTIFRAGILE](../../artists/le_sserafim/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | [러시안 룰렛 Russian Roulette](../../artists/red_velvet/overview.md) | 11 | <img src="https://i.scdn.co/image/ab67616d0000b273a24cfa5179fc2493c8a82025" alt="GUESS WHO" width="50" /> | [In the morning](../../artists/itzy/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b64001fa6292caefc7605550" alt="The Perfect Red Velvet - The 2nd Album Repackage" width="50" /> | [Bad Boy](../../artists/red_velvet/overview.md) | 12 | <img src="https://i.scdn.co/image/ab67616d0000b27385c2017d95afd6319c3466b8" alt="KILL MY DOUBT" width="50" /> | [CAKE](../../artists/itzy/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 14 | <img src="https://i.scdn.co/image/ab67616d0000b273c57525299436d02bdd908fb5" alt="CHESHIRE" width="50" /> | [Cheshire](../../artists/itzy/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | [My sea](../../artists/iu/overview.md) | 18 | <img src="https://i.scdn.co/image/ab67616d0000b2736997d60d0d2319c7a2a7025b" alt="READY TO BE" width="50" /> | [SET ME FREE](../../artists/twice/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="MANIFESTO : DAY 1" width="50" /> | [ParadoXXX Invasion](../../artists/enhypen/overview.md) | 20 | <img src="https://i.scdn.co/image/ab67616d0000b2734687e95bc88740e997be9e6b" alt="Formula of Love: O+T=&lt;3" width="50" /> | [The Feels](../../artists/twice/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | [Illusion](../../artists/aespa/overview.md) | 23 | <img src="https://i.scdn.co/image/ab67616d0000b2736997d60d0d2319c7a2a7025b" alt="READY TO BE" width="50" /> | [MOONLIGHT SUNRISE](../../artists/twice/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="I am" width="50" /> | [LATATA](../../artists/(g)i-dle/overview.md) | 24 | <img src="https://i.scdn.co/image/ab67616d0000b2730f950609e26eb0654253bb9a" alt="The Boys" width="50" /> | [The Boys](../../artists/girls__generation/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | [Coin](../../artists/iu/overview.md) | 27 | <img src="https://i.scdn.co/image/ab67616d0000b2736997d60d0d2319c7a2a7025b" alt="READY TO BE" width="50" /> | [WALLFLOWER](../../artists/twice/overview.md) | nan |
+
+</details>
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -345,20 +368,6 @@
 
 
 ![Bar chart of top 30 producers](../../images/playlists/your_top_songs_2023/producers.png)
-
-## Most and least listened tracks
-| ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
-|:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | [Savage](../../artists/aespa/overview.md) | 72227 | <img src="https://i.scdn.co/image/ab67616d0000b273cc4aba9d86a65fdab6306fa9" alt="ZONE" width="50" /> | Killin′ Me Good | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="Next Level" width="50" /> | [Next Level](../../artists/aespa/overview.md) | 67954 | <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="UNFORGIVEN" width="50" /> | [ANTIFRAGILE](../../artists/le_sserafim/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | [러시안 룰렛 Russian Roulette](../../artists/red_velvet/overview.md) | 55511 | <img src="https://i.scdn.co/image/ab67616d0000b273a24cfa5179fc2493c8a82025" alt="GUESS WHO" width="50" /> | [In the morning](../../artists/itzy/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b64001fa6292caefc7605550" alt="The Perfect Red Velvet - The 2nd Album Repackage" width="50" /> | [Bad Boy](../../artists/red_velvet/overview.md) | 55053 | <img src="https://i.scdn.co/image/ab67616d0000b27385c2017d95afd6319c3466b8" alt="KILL MY DOUBT" width="50" /> | [CAKE](../../artists/itzy/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 51526 | <img src="https://i.scdn.co/image/ab67616d0000b273c57525299436d02bdd908fb5" alt="CHESHIRE" width="50" /> | [Cheshire](../../artists/itzy/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | [My sea](../../artists/iu/overview.md) | 43449 | <img src="https://i.scdn.co/image/ab67616d0000b2736997d60d0d2319c7a2a7025b" alt="READY TO BE" width="50" /> | [SET ME FREE](../../artists/twice/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="MANIFESTO : DAY 1" width="50" /> | [ParadoXXX Invasion](../../artists/enhypen/overview.md) | 42720 | <img src="https://i.scdn.co/image/ab67616d0000b2734687e95bc88740e997be9e6b" alt="Formula of Love: O+T=&lt;3" width="50" /> | [The Feels](../../artists/twice/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | [Illusion](../../artists/aespa/overview.md) | 40467 | <img src="https://i.scdn.co/image/ab67616d0000b2736997d60d0d2319c7a2a7025b" alt="READY TO BE" width="50" /> | [MOONLIGHT SUNRISE](../../artists/twice/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="I am" width="50" /> | [LATATA](../../artists/(g)i-dle/overview.md) | 38828 | <img src="https://i.scdn.co/image/ab67616d0000b2730f950609e26eb0654253bb9a" alt="The Boys" width="50" /> | [The Boys](../../artists/girls__generation/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | [Coin](../../artists/iu/overview.md) | 37021 | <img src="https://i.scdn.co/image/ab67616d0000b2736997d60d0d2319c7a2a7025b" alt="READY TO BE" width="50" /> | [WALLFLOWER](../../artists/twice/overview.md) | 0 |
 
 ## Years
 

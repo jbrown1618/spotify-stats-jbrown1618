@@ -80,6 +80,29 @@
 
 ![Comparison of Artist](../../images/playlists/choral/artists_comparison.png)
 
+## Top Tracks
+
+
+
+
+<details>
+<summary>Most and least listened tracks</summary>
+
+| ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
+|:---|:---|---:|:---|:---|---:|
+| <img src="https://i.scdn.co/image/ab67616d0000b273509c950c926aaa1a71232ce4" alt="Karajan - Mozart" width="50" /> | [Requiem In D Minor, K.626: 5. Sanctus](../../artists/wolfgang_amadeus_mozart/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: XIII. "Dnes spaseniye" | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273509c950c926aaa1a71232ce4" alt="Karajan - Mozart" width="50" /> | [Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu](../../artists/wolfgang_amadeus_mozart/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273509c950c926aaa1a71232ce4" alt="Karajan - Mozart" width="50" /> | [Requiem In D Minor, K.626: 3. Sequentia: Recordare](../../artists/wolfgang_amadeus_mozart/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e3e10be41297c622a0ec2e0d" alt="Tchaikovsky: Sacred Choral Music" width="50" /> | [9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273509c950c926aaa1a71232ce4" alt="Karajan - Mozart" width="50" /> | [Requiem In D Minor, K.626: 6. Benedictus](../../artists/wolfgang_amadeus_mozart/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: VIII. "Kvalite imya Gospodne" | nan | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: IX. "Blagosloven esi, Gospodi" | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light &amp; Gold" width="50" /> | Whitacre: Sleep | nan | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Loch Lomond | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light &amp; Gold" width="50" /> | Whitacre: Three Songs Of Faith: I Thank You God For Most This Amazing Day | nan | <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: V. "Nyne otpushchayeshi" | nan | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Requiem in D Minor, Op. 48: V. Agnus Dei | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Requiem in D Minor, Op. 48: VI. Libera Me | nan | <img src="https://i.scdn.co/image/ab67616d0000b273d782656735b33a18ac499ee6" alt="Our Heart&#x27;s Joy: A Chanticleer Christmas" width="50" /> | Ave Maria (Franz Biebl) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273397c1f0c407ebd9a318b25fa" alt="Allegri - Miserere" width="50" /> | Miserere mei, Deus | nan | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Scarborough Fair | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273509c950c926aaa1a71232ce4" alt="Karajan - Mozart" width="50" /> | [Requiem In D Minor, K.626: 8.Communio: Lux aeterna](../../artists/wolfgang_amadeus_mozart/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | nan |
+
+</details>
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -187,20 +210,6 @@
 
 
 ![Bar chart of top 28 genres](../../images/playlists/choral/genres.png)
-
-## Most and least listened tracks
-| ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
-|:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273509c950c926aaa1a71232ce4" alt="Karajan - Mozart" width="50" /> | [Requiem In D Minor, K.626: 5. Sanctus](../../artists/wolfgang_amadeus_mozart/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: XIII. "Dnes spaseniye" | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273509c950c926aaa1a71232ce4" alt="Karajan - Mozart" width="50" /> | [Requiem In D Minor, K.626: 4. Offertorium: Domine Jesu](../../artists/wolfgang_amadeus_mozart/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273509c950c926aaa1a71232ce4" alt="Karajan - Mozart" width="50" /> | [Requiem In D Minor, K.626: 3. Sequentia: Recordare](../../artists/wolfgang_amadeus_mozart/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e3e10be41297c622a0ec2e0d" alt="Tchaikovsky: Sacred Choral Music" width="50" /> | [9 Sacred Pieces, TH 78: No. 1, Cherubic Hymn No. 1](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273509c950c926aaa1a71232ce4" alt="Karajan - Mozart" width="50" /> | [Requiem In D Minor, K.626: 6. Benedictus](../../artists/wolfgang_amadeus_mozart/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: VIII. "Kvalite imya Gospodne" | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: IX. "Blagosloven esi, Gospodi" | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light &amp; Gold" width="50" /> | Whitacre: Sleep | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Loch Lomond | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737f49ec19a186736ff30651ed" alt="Light &amp; Gold" width="50" /> | Whitacre: Three Songs Of Faith: I Thank You God For Most This Amazing Day | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour le temps de Noël, FP 152: No. 4, Hodie Christus natus est | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="Rachmaninov: Vespers - All Night Vigil" width="50" /> | Vespers, Op. 37: V. "Nyne otpushchayeshi" | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Requiem in D Minor, Op. 48: V. Agnus Dei | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="Fauré: Requiem; Pavane" width="50" /> | Requiem in D Minor, Op. 48: VI. Libera Me | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273d782656735b33a18ac499ee6" alt="Our Heart&#x27;s Joy: A Chanticleer Christmas" width="50" /> | Ave Maria (Franz Biebl) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273397c1f0c407ebd9a318b25fa" alt="Allegri - Miserere" width="50" /> | Miserere mei, Deus | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273efbc193171a2f99fe94911c6" alt="Folk Songs Of The British Isles" width="50" /> | Scarborough Fair | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273509c950c926aaa1a71232ce4" alt="Karajan - Mozart" width="50" /> | [Requiem In D Minor, K.626: 8.Communio: Lux aeterna](../../artists/wolfgang_amadeus_mozart/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2730baa26fb49c09c910a031d24" alt="Poulenc: Motets and Mass" width="50" /> | 4 Motets pour un temps de pénitence, FP 97: No. 4, Tristis est anima mea | 0 |
 
 ## Years
 

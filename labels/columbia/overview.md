@@ -262,8 +262,8 @@ Appears as:
 | 1 | 1 | australian rock |
 | 1 | 1 | afrobeats |
 | 6 | 0 | jazz |
+| 5 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
 | 5 | 0 | bebop |
-| 4 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
 | 3 | 0 | jazz quartet |
 | 3 | 0 | jazz piano |
 | 3 | 0 | contemporary post-bop |

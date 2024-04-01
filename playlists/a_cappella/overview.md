@@ -128,6 +128,29 @@
 
 ![Comparison of Artist](../../images/playlists/a_cappella/artists_comparison.png)
 
+## Top Tracks
+
+![Track score ranking over time](../../images/playlists/a_cappella/top_tracks_time_series.png)
+
+
+<details>
+<summary>Most and least listened tracks</summary>
+
+| ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
+|:---|:---|---:|:---|:---|---:|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="PTX, Vol. III" width="50" /> | [Problem (Ariana Grande Cover)](../../artists/pentatonix/overview.md) | 396 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | We Found Love | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="The Teal Album" width="50" /> | [I See Fire](../../artists/the_tarpeggios/overview.md) | 611 | <img src="https://i.scdn.co/image/ab67616d0000b27379b679128839141600389209" alt="Stages" width="50" /> | Say Something | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Let It Go](../../artists/pentatonix/overview.md) | 640 | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="PTX, Vol. 2" width="50" /> | [Natural Disaster](../../artists/pentatonix/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="Carolina State of Mind" width="50" /> | [Settle Down](../../artists/the_tarpeggios/overview.md) | 646 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="BOCA 2012: Best Of College A Cappella" width="50" /> | Brand New Jones | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="PTX Vol. IV - Classics" width="50" /> | [Imagine](../../artists/pentatonix/overview.md) | 692 | <img src="https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc" alt="A Pentatonix Christmas Deluxe" width="50" /> | [Hallelujah](../../artists/pentatonix/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Dance of the Sugar Plum Fairy](../../artists/pentatonix/overview.md) | 700 | <img src="https://i.scdn.co/image/ab67616d0000b27334ceeb441ebadc373617e460" alt="Breakdown!" width="50" /> | Closer | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d35ee785862f82a5ada29b6" alt="Gold" width="50" /> | Shenandoah - Arr. Bob Chilcott | nan | <img src="https://i.scdn.co/image/ab67616d0000b273394e39d14be7ff810d0cbf4a" alt="GQ" width="50" /> | Fly Away - Intro | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="BOCA 2006: Best Of College A Cappella" width="50" /> | My Happy Ending | nan | <img src="https://i.scdn.co/image/ab67616d0000b27381514ee26162b9fed3c39be7" alt="Pitch Slapped - EP" width="50" /> | Without Your Love | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273759fbdcd40288d874a398749" alt="RISE" width="50" /> | Alive | nan | <img src="https://i.scdn.co/image/ab67616d0000b273fe9bb826b4677ad094f49fa3" alt="Legendary Folk Songs" width="50" /> | Poor Wayfaring Stranger | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="BOCA 2011: Best Of College A Cappella" width="50" /> | High And Dry | nan | <img src="https://i.scdn.co/image/ab67616d0000b273fe9bb826b4677ad094f49fa3" alt="Legendary Folk Songs" width="50" /> | Greensleeves | nan |
+
+</details>
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -424,20 +447,6 @@
 
 
 ![Bar chart of top 30 producers](../../images/playlists/a_cappella/producers.png)
-
-## Most and least listened tracks
-| ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
-|:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="PTX, Vol. III" width="50" /> | [Problem (Ariana Grande Cover)](../../artists/pentatonix/overview.md) | 150 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | We Found Love | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="The Teal Album" width="50" /> | [I See Fire](../../artists/the_tarpeggios/overview.md) | 26 | <img src="https://i.scdn.co/image/ab67616d0000b27379b679128839141600389209" alt="Stages" width="50" /> | Say Something | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Let It Go](../../artists/pentatonix/overview.md) | 17 | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="PTX, Vol. 2" width="50" /> | [Natural Disaster](../../artists/pentatonix/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="Carolina State of Mind" width="50" /> | [Settle Down](../../artists/the_tarpeggios/overview.md) | 14 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="BOCA 2012: Best Of College A Cappella" width="50" /> | Brand New Jones | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="PTX Vol. IV - Classics" width="50" /> | [Imagine](../../artists/pentatonix/overview.md) | 5 | <img src="https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc" alt="A Pentatonix Christmas Deluxe" width="50" /> | [Hallelujah](../../artists/pentatonix/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Dance of the Sugar Plum Fairy](../../artists/pentatonix/overview.md) | 3 | <img src="https://i.scdn.co/image/ab67616d0000b27334ceeb441ebadc373617e460" alt="Breakdown!" width="50" /> | Closer | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733d35ee785862f82a5ada29b6" alt="Gold" width="50" /> | Shenandoah - Arr. Bob Chilcott | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273394e39d14be7ff810d0cbf4a" alt="GQ" width="50" /> | Fly Away - Intro | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="BOCA 2006: Best Of College A Cappella" width="50" /> | My Happy Ending | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27381514ee26162b9fed3c39be7" alt="Pitch Slapped - EP" width="50" /> | Without Your Love | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273759fbdcd40288d874a398749" alt="RISE" width="50" /> | Alive | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273fe9bb826b4677ad094f49fa3" alt="Legendary Folk Songs" width="50" /> | Poor Wayfaring Stranger | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="BOCA 2011: Best Of College A Cappella" width="50" /> | High And Dry | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273fe9bb826b4677ad094f49fa3" alt="Legendary Folk Songs" width="50" /> | Greensleeves | 0 |
 
 ## Years
 

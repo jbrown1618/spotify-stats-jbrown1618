@@ -12,22 +12,22 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 13 | 13 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
+| <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 12 | 12 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
 
 ## Works with Producers
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Brian May | [Brian May](../brian_may/overview.md) | 10 |
+| Brian May | [Brian May](../brian_may/overview.md) | 9 |
 | Freddie Mercury | [Freddie Mercury](../freddie_mercury/overview.md) | 8 |
-| Roger Taylor | Roger Taylor | 7 |
-| Mike Stone | Mike Stone | 6 |
-| Roy Thomas Baker | Roy Thomas Baker | 5 |
-| John Deacon | John Deacon | 4 |
-| Kris Fredriksson | Kris Fredriksson | 3 |
+| Roger Taylor | Roger Taylor | 6 |
+| Mike Stone | Mike Stone | 5 |
+| Roy Thomas Baker | Roy Thomas Baker | 4 |
+| John Deacon | John Deacon | 3 |
 | Mack | Mack | 3 |
 | Peter Meechan | Peter Meechan | 2 |
 | Geoff Workman | Geoff Workman | 2 |
+| John Etchells | John Etchells | 2 |
 
 
 <details>
@@ -35,7 +35,7 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| John Etchells | John Etchells | 2 |
+| Kris Fredriksson | Kris Fredriksson | 2 |
 | David Richards | David Richards | 2 |
 | Justin Shirley-Smith | Justin Shirley-Smith | 1 |
 
@@ -47,7 +47,6 @@
 | Art | Track | Credit Types |
 |:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2739bf8e3a3c31986c1c0536532" alt="" width="50" /> | Killer Queen | Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395ca1a6d0a8ec540e876cdf2" alt="" width="50" /> | You're My Best Friend | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="" width="50" /> | Bohemian Rhapsody - Remastered 2011 | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369c47467a7964a67d6dbcf14" alt="" width="50" /> | Somebody To Love | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d" alt="" width="50" /> | We Will Rock You - Remastered 2011 | Producer |
@@ -58,3 +57,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27307744e2ed983efa3e6620a47" alt="" width="50" /> | Crazy Little Thing Called Love - Remastered 2011 | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b27307744e2ed983efa3e6620a47" alt="" width="50" /> | Another One Bites The Dust - Remastered 2011 | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131" alt="" width="50" /> | Innuendo | Producer |
+| | nan | Producer |

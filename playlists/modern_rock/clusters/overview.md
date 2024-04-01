@@ -9,7 +9,7 @@
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="" width="50" /> | Mr. Brightside | Hot Fuss | The Killers | [Island Records](../../../../labels/island_records) | 0 | | [🔗](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Paranoid Android | OK Computer | [Radiohead](../../../../artists/radiohead/overview.md) | [XL Recordings](../../../../labels/xl_recordings) | 84 | 💚 | [🔗](https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Paranoid Android | OK Computer | [Radiohead](../../../../artists/radiohead/overview.md) | [XL Recordings](../../../../labels/xl_recordings) | 117 | 💚 | [🔗](https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="" width="50" /> | Strip My Mind | Stadium Arcadium | Red Hot Chili Peppers | [Warner Records](../../../../labels/warner_records) | 0 | | [🔗](https://open.spotify.com/track/0J3ytriezGZ3KCREfHKDOI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="" width="50" /> | Yellow | Parachutes | [Coldplay](../../../../artists/coldplay/overview.md) | [Parlophone UK](../../../../labels/parlophone_uk) | 0 | 💚 | [🔗](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="" width="50" /> | Paradise | Mylo Xyloto | [Coldplay](../../../../artists/coldplay/overview.md) | [Parlophone UK](../../../../labels/parlophone_uk) | 0 | | [🔗](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D) |
@@ -20,7 +20,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc452e32475d74850c7eec51" alt="" width="50" /> | The Phantom Of The Opera | Century Child | Nightwish | Spin-Farm Oy | 0 | 💚 | [🔗](https://open.spotify.com/track/2WmbbiWfFEKsSZe6E5GeVe) |
 ## Cluster #2
 
-19 tracks
+20 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
@@ -32,11 +32,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f69bd9abbfeb819840993207" alt="" width="50" /> | Hurt | The Downward Spiral | Nine Inch Nails | TVT Records | 0 | 💚 | [🔗](https://open.spotify.com/track/1lo9k4PrxFd5Np4cAxXoKo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4aa9c49f8fedf1df4f84051" alt="" width="50" /> | Honeybee | The 2¢ Show | Steam Powered Giraffe | Steam Powered Giraffe | 0 | 💚 | [🔗](https://open.spotify.com/track/3MZjOGeXhpHbQ9ESMNFFnH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="" width="50" /> | What Sarah Said | Plans | Death Cab for Cutie | [Atlantic Records](../../../../labels/atlantic_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/2JFrlsJBH4IDt3Suot97dP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="" width="50" /> | I Will Follow You into the Dark | Plans | Death Cab for Cutie | [Atlantic Records](../../../../labels/atlantic_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c330e261afcd6e0ae256f3aa" alt="" width="50" /> | yellow is the color of her eyes | color theory | Soccer Mommy | Loma Vista Recordings | 0 | 💚 | [🔗](https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736d53f0ab7b9da9c0911dbdcc" alt="" width="50" /> | Relimerence | Concentrate | The Happy Fits | The Happy Fits Records | 0 | 💚 | [🔗](https://open.spotify.com/track/77fgmofMCNb6Lra5ZMvEDE) |
 ## Cluster #3
 
-67 tracks
+65 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
@@ -46,7 +46,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="" width="50" /> | That's What You Get | Riot! | Paramore | [Fueled By Ramen](../../../../labels/fueled_by_ramen) | 0 | | [🔗](https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="" width="50" /> | Misery Business | Riot! | Paramore | [Fueled By Ramen](../../../../labels/fueled_by_ramen) | 378 | 💚 | [🔗](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35" alt="" width="50" /> | Ain't It Fun | Paramore | Paramore | [Fueled By Ramen](../../../../labels/fueled_by_ramen) | 0 | 💚 | [🔗](https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fd0ad203a3d2a2343d889a95" alt="" width="50" /> | We Didn’t Start The Fire (Bonus Track) | So Much (For) Stardust | Fall Out Boy | [Fueled By Ramen](../../../../labels/fueled_by_ramen) | 0 | | [🔗](https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e2af63e82adb0206f1296834" alt="" width="50" /> | Half of the Way | Hill Climber | Vulfpeck, Theo Katzman | Vulf Records | 0 | 💚 | [🔗](https://open.spotify.com/track/3uFp6gGgNMtSEmzx1cHTG4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730a8881b0d247346c3c447bf3" alt="" width="50" /> | I Write Sins Not Tragedies | A Fever You Can't Sweat Out | Panic! At The Disco | [Decaydance Records / Fueled By Ramen](../../../../labels/fueled_by_ramen) | 0 | | [🔗](https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="" width="50" /> | The Adults Are Talking | The New Abnormal | The Strokes | [Cult Records/RCA Records](../../../../labels/rca_records_label) | 0 | 💚 | [🔗](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" alt="" width="50" /> | Smells Like Teen Spirit | Nevermind (Remastered) | Nirvana | [Geffen](../../../../labels/geffen) | 0 | | [🔗](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) |

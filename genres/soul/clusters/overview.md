@@ -4,6 +4,38 @@
 
 ## Cluster #1
 
+20 tracks
+
+| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27356849c42c652a7e4025fd6eb" alt="" width="50" /> | Sleigh Ride | Ella Wishes You A Swinging Christmas (Expanded Edition) | Ella Fitzgerald | Verve Reissues | 0 | | [🔗](https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="" width="50" /> | Mack the Knife | The Great American Songbook | Louis Armstrong | [Columbia](../../../../labels/columbia), [Legacy](../../../../labels/legacy) | 183 | | [🔗](https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="" width="50" /> | I'd Rather Go Blind | Tell Mama | Etta James | [Geffen](../../../../labels/geffen) | 0 | 💚 | [🔗](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aff6573c5110e0732fbab3d8" alt="" width="50" /> | I Heard It Through The Grapevine | In The Groove | Marvin Gaye | [Motown](../../../../labels/motown) | 0 | | [🔗](https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739173e50e99bdea2400222f02" alt="" width="50" /> | Ain't No Mountain High Enough | United | Marvin Gaye, Tammi Terrell | [MOTOWN](../../../../labels/motown), [UNI](../../../../labels/uni) | 0 | | [🔗](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="" width="50" /> | L-O-V-E | Unforgettable: With Love | Natalie Cole | [Craft Recordings](../../../../labels/craft_recordings) | 0 | | [🔗](https://open.spotify.com/track/637xWjdmJY7CAQJsnsT7Fs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="" width="50" /> | L-O-V-E - 2000 Remaster | Romance | Nat King Cole | [UME - Global Clearing House](../../../../labels/ume_-_global_clearing_house) | 0 | | [🔗](https://open.spotify.com/track/6OHPdG4tYiHRPUHwf68nRU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="" width="50" /> | My Girl | The Temptations Sing Smokey | The Temptations | [MOTOWN](../../../../labels/motown), [UNI](../../../../labels/uni) | 0 | 💚 | [🔗](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731813ea8f590a0aab2820f922" alt="" width="50" /> | Stand By Me | Don't Play That Song (Mono) | Ben E. King | Rhino Atlantic | 0 | | [🔗](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c813101657895c26f990b719" alt="" width="50" /> | I Got You (I Feel Good) | I Got You (I Feel Good) | James Brown & The Famous Flames | [Universal Records](../../../../labels/universal_music_llc) | 0 | | [🔗](https://open.spotify.com/track/5haXbSJqjjM0TCJ5XkfEaC) |
+## Cluster #2
+
+28 tracks
+
+| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f" alt="" width="50" /> | Papa's Got A Brand New Bag | Star Time | James Brown | [Universal/Island Def Jam](../../../../labels/universal_music_llc) | 0 | | [🔗](https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f" alt="" width="50" /> | Get Up (I Feel Like Being A) Sex Machine | Star Time | James Brown | [Universal/Island Def Jam](../../../../labels/universal_music_llc) | 0 | 💚 | [🔗](https://open.spotify.com/track/2ivdsb1RcEJjIs5tuHkUC9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea8ab1a548312b79ac955266" alt="" width="50" /> | Higher Ground | Innervisions | Stevie Wonder | [Motown](../../../../labels/motown) | 0 | 💚 | [🔗](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b" alt="" width="50" /> | Signed, Sealed, Delivered (I'm Yours) | Signed, Sealed And Delivered | Stevie Wonder | [MOTOWN](../../../../labels/motown), [UNI](../../../../labels/uni) | 0 | 💚 | [🔗](https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738fe161ba4859b25909bcc24a" alt="" width="50" /> | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | [MOTOWN](../../../../labels/motown), [UNI](../../../../labels/uni) | 0 | | [🔗](https://open.spotify.com/track/4rMWDm28mERZcRPc1f3yir) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | P.Y.T. (Pretty Young Thing) | Thriller | [Michael Jackson](../../../../artists/michael_jackson/overview.md) | [Epic](../../../../labels/epic) | 0 | 💚 | [🔗](https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Beat It | Thriller | [Michael Jackson](../../../../artists/michael_jackson/overview.md) | [Epic](../../../../labels/epic) | 0 | 💚 | [🔗](https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | Don't Stop 'Til You Get Enough | Off the Wall | [Michael Jackson](../../../../artists/michael_jackson/overview.md) | [Epic](../../../../labels/epic) | 0 | | [🔗](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317f9e7e7784ed40b223e261c" alt="" width="50" /> | Super Freak | Street Songs (Deluxe Edition) | Rick James | [Motown](../../../../labels/motown) | 0 | 💚 | [🔗](https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="" width="50" /> | Respect | I Never Loved a Man the Way I Love You | Aretha Franklin | Rhino Atlantic | 0 | | [🔗](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) |
+## Cluster #3
+
 15 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
@@ -18,35 +50,3 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | Nature Boy | The Nat King Cole Story | Nat King Cole | [Capitol Records](../../../../labels/capitol_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27330dc6027fd140c7ba68e900c" alt="" width="50" /> | The Christmas Song (Merry Christmas To You) | The Christmas Song (Expanded Edition) | Nat King Cole | CAPITOL CATALOG MKT (C92) | 281 | | [🔗](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="" width="50" /> | Unforgettable | Unforgettable | Nat King Cole | CAPITOL CATALOG MKT (C92) | 0 | | [🔗](https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL) |
-## Cluster #2
-
-26 tracks
-
-| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f" alt="" width="50" /> | Papa's Got A Brand New Bag | Star Time | James Brown | [Universal/Island Def Jam](../../../../labels/universal_music_llc) | 0 | | [🔗](https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f" alt="" width="50" /> | Get Up (I Feel Like Being A) Sex Machine | Star Time | James Brown | [Universal/Island Def Jam](../../../../labels/universal_music_llc) | 0 | 💚 | [🔗](https://open.spotify.com/track/2ivdsb1RcEJjIs5tuHkUC9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea8ab1a548312b79ac955266" alt="" width="50" /> | Higher Ground | Innervisions | Stevie Wonder | [Motown](../../../../labels/motown) | 0 | 💚 | [🔗](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b" alt="" width="50" /> | Signed, Sealed, Delivered (I'm Yours) | Signed, Sealed And Delivered | Stevie Wonder | [MOTOWN](../../../../labels/motown), [UNI](../../../../labels/uni) | 0 | 💚 | [🔗](https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738fe161ba4859b25909bcc24a" alt="" width="50" /> | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | [MOTOWN](../../../../labels/motown), [UNI](../../../../labels/uni) | 0 | | [🔗](https://open.spotify.com/track/4rMWDm28mERZcRPc1f3yir) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Beat It | Thriller | [Michael Jackson](../../../../artists/michael_jackson/overview.md) | [Epic](../../../../labels/epic) | 0 | 💚 | [🔗](https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | Don't Stop 'Til You Get Enough | Off the Wall | [Michael Jackson](../../../../artists/michael_jackson/overview.md) | [Epic](../../../../labels/epic) | 0 | | [🔗](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="" width="50" /> | Beat It | HIStory - PAST, PRESENT AND FUTURE - BOOK I | [Michael Jackson](../../../../artists/michael_jackson/overview.md) | [Epic](../../../../labels/epic) | 0 | 💚 | [🔗](https://open.spotify.com/track/52xaypL0Kjzk0ngwv3oBPR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d80928fb032fdf43d32399d2" alt="" width="50" /> | Let's Hear It for the Boy - From "Footloose" Original Soundtrack | Let's Hear It for the Boy (Expanded Edition) | Deniece Williams | [Columbia](../../../../labels/columbia), [Legacy](../../../../labels/legacy) | 0 | | [🔗](https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="" width="50" /> | Respect | I Never Loved a Man the Way I Love You | Aretha Franklin | Rhino Atlantic | 0 | | [🔗](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) |
-## Cluster #3
-
-23 tracks
-
-| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="" width="50" /> | Mack the Knife | The Great American Songbook | Louis Armstrong | [Columbia](../../../../labels/columbia), [Legacy](../../../../labels/legacy) | 183 | | [🔗](https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27330bb42e5271f2e046fd36972" alt="" width="50" /> | Shining Star | That's The Way Of The World | Earth, Wind & Fire | [Columbia](../../../../labels/columbia) | 0 | 💚 | [🔗](https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="" width="50" /> | I'd Rather Go Blind | Tell Mama | Etta James | [Geffen](../../../../labels/geffen) | 0 | 💚 | [🔗](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739173e50e99bdea2400222f02" alt="" width="50" /> | Ain't No Mountain High Enough | United | Marvin Gaye, Tammi Terrell | [MOTOWN](../../../../labels/motown), [UNI](../../../../labels/uni) | 0 | | [🔗](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="" width="50" /> | L-O-V-E | Unforgettable: With Love | Natalie Cole | [Craft Recordings](../../../../labels/craft_recordings) | 0 | | [🔗](https://open.spotify.com/track/637xWjdmJY7CAQJsnsT7Fs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="" width="50" /> | L-O-V-E - 2000 Remaster | Romance | Nat King Cole | [UME - Global Clearing House](../../../../labels/ume_-_global_clearing_house) | 0 | | [🔗](https://open.spotify.com/track/6OHPdG4tYiHRPUHwf68nRU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f2a0dd6e587c7b1b6020d5e5" alt="" width="50" /> | One Nation Under a Groove | Young Soul Rebels (Original Soundtrack) [Digitally Remastered] | Funkadelic | Conscious Manifesto / Essential Media Group | 0 | 💚 | [🔗](https://open.spotify.com/track/2nqpN3cSmL0tTlJ724fE2a) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="" width="50" /> | My Girl | The Temptations Sing Smokey | The Temptations | [MOTOWN](../../../../labels/motown), [UNI](../../../../labels/uni) | 0 | 💚 | [🔗](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="" width="50" /> | My Guy | Mary Wells Sings My Guy | Mary Wells | [MOTOWN](../../../../labels/motown), [UNI](../../../../labels/uni) | 0 | 💚 | [🔗](https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c813101657895c26f990b719" alt="" width="50" /> | I Got You (I Feel Good) | I Got You (I Feel Good) | James Brown & The Famous Flames | [Universal Records](../../../../labels/universal_music_llc) | 0 | | [🔗](https://open.spotify.com/track/5haXbSJqjjM0TCJ5XkfEaC) |

@@ -25,6 +25,29 @@
 
 
 
+## Top Tracks
+
+
+
+
+<details>
+<summary>Most and least listened tracks</summary>
+
+| ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
+|:---|:---|---:|:---|:---|---:|
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59" alt="Chopin: Nocturnes" width="50" /> | [Nocturne No. 16 In E Flat, Op. 55 No. 2](../../artists/frédéric_chopin/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes &amp; Nocturnes" width="50" /> | Waltz No.10 Op.69-2 B Minor | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="Chopin: Waltzes; 4 Scherzos; 26 Preludes" width="50" /> | [24 Préludes, Op. 28: No. 17 in A-Flat Major: Allegretto](../../artists/frédéric_chopin/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="Chopin: Waltzes; 4 Scherzos; 26 Preludes" width="50" /> | [Waltz No. 8 in A-Flat Major, Op. 64 No. 3](../../artists/frédéric_chopin/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="Chopin: Polonaises" width="50" /> | [Feuille d'album in E, Op. posth.](../../artists/frédéric_chopin/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59" alt="Chopin: Nocturnes" width="50" /> | [Nocturne No. 19 In E Minor, Op. 72 No. 1](../../artists/frédéric_chopin/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="Chopin: Preludes; Sonata No.2" width="50" /> | [24 Préludes, Op. 28: No. 13 in F-Sharp Major](../../artists/frédéric_chopin/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="Chopin: Waltzes; 4 Scherzos; 26 Preludes" width="50" /> | [Waltz No. 18 in E flat, Op. posth.](../../artists/frédéric_chopin/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="Chopin: Nocturnes; Four Ballades" width="50" /> | [Nocturne No. 19 in E minor, Op. 72, No 1](../../artists/frédéric_chopin/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="Chopin: Nocturnes; Four Ballades" width="50" /> | [Nocturne No. 9 in B Major, Op. 32 No. 1](../../artists/frédéric_chopin/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="Chopin: Preludes; Sonata No.2" width="50" /> | [24 Préludes, Op. 28: No. 11 in B Major](../../artists/frédéric_chopin/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="Chopin: Nocturnes; Four Ballades" width="50" /> | [Nocturne No. 1 in B-Flat Minor, Op. 9 No. 1](../../artists/frédéric_chopin/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="Chopin: Preludes; Sonata No.2" width="50" /> | [24 Préludes, Op. 28: No. 21 in B-Flat Major](../../artists/frédéric_chopin/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="Chopin: Polonaises" width="50" /> | [Galop Marquis](../../artists/frédéric_chopin/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="Chopin: Waltzes; 4 Scherzos; 26 Preludes" width="50" /> | [24 Préludes, Op. 28: No. 10 in C-Sharp Minor: Molto allegro](../../artists/frédéric_chopin/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="Chopin: Polonaises" width="50" /> | [Tarantelle In A Flat, Op. 43](../../artists/frédéric_chopin/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="Chopin: Nocturnes; Four Ballades" width="50" /> | [Ballade No. 3 in A flat major, Op. 47](../../artists/frédéric_chopin/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2734a7a2e0cab8f2db75a1c3f55" alt="Chopin: Ballades; Barcarolle; Fantaisie" width="50" /> | [Ballade No. 3 In A-Flat Major, Op. 47](../../artists/frédéric_chopin/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="Chopin: Nocturnes; Four Ballades" width="50" /> | [Nocturne No. 4 in F Major, Op. 15 No. 1](../../artists/frédéric_chopin/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="Chopin: Waltzes; 4 Scherzos; 26 Preludes" width="50" /> | [Waltz No. 5 in A-Flat Major, Op. 42](../../artists/frédéric_chopin/overview.md) | nan |
+
+</details>
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -63,20 +86,6 @@
 | 15 | 0 | german classical piano |
 
 ![Bar chart of top 4 genres](../../images/playlists/chopin/genres.png)
-
-## Most and least listened tracks
-| ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
-|:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59" alt="Chopin: Nocturnes" width="50" /> | [Nocturne No. 16 In E Flat, Op. 55 No. 2](../../artists/frédéric_chopin/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes &amp; Nocturnes" width="50" /> | Waltz No.10 Op.69-2 B Minor | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="Chopin: Waltzes; 4 Scherzos; 26 Preludes" width="50" /> | [24 Préludes, Op. 28: No. 17 in A-Flat Major: Allegretto](../../artists/frédéric_chopin/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="Chopin: Waltzes; 4 Scherzos; 26 Preludes" width="50" /> | [Waltz No. 8 in A-Flat Major, Op. 64 No. 3](../../artists/frédéric_chopin/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="Chopin: Polonaises" width="50" /> | [Feuille d'album in E, Op. posth.](../../artists/frédéric_chopin/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59" alt="Chopin: Nocturnes" width="50" /> | [Nocturne No. 19 In E Minor, Op. 72 No. 1](../../artists/frédéric_chopin/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="Chopin: Preludes; Sonata No.2" width="50" /> | [24 Préludes, Op. 28: No. 13 in F-Sharp Major](../../artists/frédéric_chopin/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="Chopin: Waltzes; 4 Scherzos; 26 Preludes" width="50" /> | [Waltz No. 18 in E flat, Op. posth.](../../artists/frédéric_chopin/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="Chopin: Nocturnes; Four Ballades" width="50" /> | [Nocturne No. 19 in E minor, Op. 72, No 1](../../artists/frédéric_chopin/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="Chopin: Nocturnes; Four Ballades" width="50" /> | [Nocturne No. 9 in B Major, Op. 32 No. 1](../../artists/frédéric_chopin/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="Chopin: Preludes; Sonata No.2" width="50" /> | [24 Préludes, Op. 28: No. 11 in B Major](../../artists/frédéric_chopin/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="Chopin: Nocturnes; Four Ballades" width="50" /> | [Nocturne No. 1 in B-Flat Minor, Op. 9 No. 1](../../artists/frédéric_chopin/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="Chopin: Preludes; Sonata No.2" width="50" /> | [24 Préludes, Op. 28: No. 21 in B-Flat Major](../../artists/frédéric_chopin/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="Chopin: Polonaises" width="50" /> | [Galop Marquis](../../artists/frédéric_chopin/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="Chopin: Waltzes; 4 Scherzos; 26 Preludes" width="50" /> | [24 Préludes, Op. 28: No. 10 in C-Sharp Minor: Molto allegro](../../artists/frédéric_chopin/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="Chopin: Polonaises" width="50" /> | [Tarantelle In A Flat, Op. 43](../../artists/frédéric_chopin/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="Chopin: Nocturnes; Four Ballades" width="50" /> | [Ballade No. 3 in A flat major, Op. 47](../../artists/frédéric_chopin/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2734a7a2e0cab8f2db75a1c3f55" alt="Chopin: Ballades; Barcarolle; Fantaisie" width="50" /> | [Ballade No. 3 In A-Flat Major, Op. 47](../../artists/frédéric_chopin/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="Chopin: Nocturnes; Four Ballades" width="50" /> | [Nocturne No. 4 in F Major, Op. 15 No. 1](../../artists/frédéric_chopin/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="Chopin: Waltzes; 4 Scherzos; 26 Preludes" width="50" /> | [Waltz No. 5 in A-Flat Major, Op. 42](../../artists/frédéric_chopin/overview.md) | 0 |
 
 ## Years
 

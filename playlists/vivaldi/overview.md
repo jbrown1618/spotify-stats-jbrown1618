@@ -26,6 +26,29 @@
 
 
 
+## Top Tracks
+
+
+
+
+<details>
+<summary>Most and least listened tracks</summary>
+
+| ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
+|:---|:---|---:|:---|:---|---:|
+| <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in F Major, Op. 8 No. 3, RV 293 "Autumn": III. Allegro "La caccia" | nan | <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="Vivaldi: Four Seasons" width="50" /> | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="Vivaldi: Four Seasons" width="50" /> | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | nan | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in F Major, Op. 8 No. 3, RV 293 "Autumn": II. Adagio molto | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="Vivaldi: Four Seasons" width="50" /> | Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": III. Allegro (La caccia) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: Violin Concerto in G Minor, Op. 12 No. 1, RV 317: III. Allegro | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: L'estro armonico, Violin Concerto in A Minor, Op. 3 No. 6, RV 356: I. Allegro | nan | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in F Major, Op. 8 No. 3, RV 293 "Autumn": I. Allegro | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="Vivaldi: Four Seasons" width="50" /> | Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": I. Allegro (Ballo, e canto de' villanelli) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="Vivaldi: Four Seasons" width="50" /> | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": II. Largo | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": I. Allegro non molto | nan | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": I. Allegro non molto | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 "Spring": II. Largo e pianissimo sempre | nan | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 "Spring": I. Allegro | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="Vivaldi: Four Seasons" width="50" /> | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="Vivaldi: Four Seasons" width="50" /> | Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": II. Largo | nan | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": III. Presto | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 "Spring": III. Allegro | nan | <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="Vivaldi: Four Seasons" width="50" /> | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": I. Allegro non molto | nan |
+
+</details>
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -54,20 +77,6 @@
 | 34 | 0 | [baroque](../../genres/baroque/overview.md) |
 
 ![Bar chart of top 4 genres](../../images/playlists/vivaldi/genres.png)
-
-## Most and least listened tracks
-| ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
-|:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in F Major, Op. 8 No. 3, RV 293 "Autumn": III. Allegro "La caccia" | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="Vivaldi: Four Seasons" width="50" /> | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="Vivaldi: Four Seasons" width="50" /> | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in F Major, Op. 8 No. 3, RV 293 "Autumn": II. Adagio molto | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="Vivaldi: Four Seasons" width="50" /> | Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": III. Allegro (La caccia) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: Violin Concerto in G Minor, Op. 12 No. 1, RV 317: III. Allegro | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: L'estro armonico, Violin Concerto in A Minor, Op. 3 No. 6, RV 356: I. Allegro | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in F Major, Op. 8 No. 3, RV 293 "Autumn": I. Allegro | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="Vivaldi: Four Seasons" width="50" /> | Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": I. Allegro (Ballo, e canto de' villanelli) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="Vivaldi: Four Seasons" width="50" /> | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": II. Largo | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": I. Allegro non molto | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": I. Allegro non molto | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 "Spring": II. Largo e pianissimo sempre | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 "Spring": I. Allegro | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="Vivaldi: Four Seasons" width="50" /> | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="Vivaldi: Four Seasons" width="50" /> | Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 "Winter": II. Largo | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 "Summer": III. Presto | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273377b94c377eac47079799c28" alt="Vivaldi: The Four Seasons." width="50" /> | Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 "Spring": III. Allegro | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="Vivaldi: Four Seasons" width="50" /> | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": I. Allegro non molto | 0 |
 
 ## Years
 

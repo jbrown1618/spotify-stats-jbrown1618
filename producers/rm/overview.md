@@ -7,7 +7,7 @@
 | Arranger | 1 |
 | Lyricist | 1 |
 | Producer | 2 |
-| Songwriter | 10 |
+| Songwriter | 11 |
 | Vocal | 2 |
 
 ## Produces for Artists
@@ -88,4 +88,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | Mikrokosmos | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | ON | Arranger, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | Black Swan | Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed656680374294d5217193fa" alt="" width="50" /> | Butter | Songwriter |
+| | nan | Songwriter |

@@ -33,7 +33,7 @@ j-hope:
 |---:|---:|:---|
 | 5 | 5 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 1 | 1 | 피네이션 |
-| 1 | 1 | [HYBE](../../labels/hybe/overview.md) |
+| 1 | 1 | HYBE |
 
 ## Genres
 
@@ -62,7 +62,7 @@ j-hope:
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | [j-hope](overview.md), Becky G | [BIGHIT MUSIC](../../labels/bighit_music), [HYBE](../../labels/hybe) | 0 | 💚 | [🔗](https://open.spotify.com/track/6wyr4ReB05D9sJB1Rsmcqo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | [j-hope](overview.md), Becky G | [BIGHIT MUSIC / HYBE](../../labels/bighit_music) | 0 | 💚 | [🔗](https://open.spotify.com/track/6wyr4ReB05D9sJB1Rsmcqo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | = (Equal Sign) | Jack In The Box | [j-hope](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 0 | 💚 | [🔗](https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | MORE | Jack In The Box | [j-hope](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 0 | 💚 | [🔗](https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | Pandora's Box | Jack In The Box | [j-hope](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 0 | 💚 | [🔗](https://open.spotify.com/track/2On611HXKQAbaYkuc4NQAm) |

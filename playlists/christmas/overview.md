@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e020c053ee476f7ce576369241eab67616d00001e02119e4094f07a8123b471ac1dab67616d00001e022a0face7d69df61c20a6db2bab67616d00001e027c78b57a88c7c109176bc999" alt="Christmas" width="100" />
 
-[102 tracks (7 liked) 🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8)
+[102 tracks (8 liked) 🔗](https://open.spotify.com/playlist/7fuGiFfUaZPvDH5eSyfMr8)
 
 [See Track Features](audio_features.md)
 
@@ -20,9 +20,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 2 | 1 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb49cfa92440a7629ab21a8561" alt="" width="50" /> | 2 | 1 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb611e60f2b061c920476b2df3" alt="" width="50" /> | 1 | 1 | [BAEKHYUN](../../artists/baekhyun/overview.md) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7d2e812e63d6df77ee087b47" alt="" width="50" /> | 1 | 1 | Fleet Foxes | [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a" alt="" width="50" /> | 1 | 1 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb746dd598cf914934bd27ed7e" alt="" width="50" /> | 9 | 0 | [Pentatonix](../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 5 | 0 | [Michael Bublé](../../artists/michael_bublé/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 
 
 <details>
@@ -30,6 +30,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 5 | 0 | [Michael Bublé](../../artists/michael_bublé/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb097877542866c981757e9592" alt="" width="50" /> | 4 | 0 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 3 | 0 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaf3c4b988a6fef40843cdc83" alt="" width="50" /> | 3 | 0 | [EXO](../../artists/exo/overview.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
@@ -79,7 +80,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ecfefcddb02c66f45ac79ac4" alt="" width="50" /> | 1 | 0 | Jan Utbult | [🔗](https://open.spotify.com/artist/4cdzuhtmHpWvdn1nXn2Aga) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4ea49bdca366a3baa5cbb006" alt="" width="50" /> | 1 | 0 | Brenda Lee | [🔗](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb73f96bdf146d008680149954" alt="" width="50" /> | 1 | 0 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7d2e812e63d6df77ee087b47" alt="" width="50" /> | 1 | 0 | Fleet Foxes | [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a93e273380982dff84c0d7c" alt="" width="50" /> | 1 | 0 | Elvis Presley | [🔗](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c1772d943403a20c4eebc0bf" alt="" width="50" /> | 1 | 0 | Dorothy Kirsten | [🔗](https://open.spotify.com/artist/3mMDsLh0ODpEuwpvn9sitk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb86b13e4d2e65ebf694384ef4" alt="" width="50" /> | 1 | 0 | John Williams | [🔗](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) |
@@ -118,6 +118,29 @@
 
 ![Comparison of Artist](../../images/playlists/christmas/artists_comparison.png)
 
+## Top Tracks
+
+![Track score ranking over time](../../images/playlists/christmas/top_tracks_time_series.png)
+
+
+<details>
+<summary>Most and least listened tracks</summary>
+
+| ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
+|:---|:---|---:|:---|:---|---:|
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 33 | <img src="https://i.scdn.co/image/ab67616d0000b27308a0fe33e91b991d2c9c9cde" alt="Christmas Album" width="50" /> | I Saw Mommy Kissing Santa Claus | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ca13e5d59a3a25e68fd7764" alt="Jingle Bell Rock" width="50" /> | [Jingle Bell Rock](../../artists/aespa/overview.md) | 86 | <img src="https://i.scdn.co/image/ab67616d0000b27397337e6b853756f20af2c29f" alt="Santa Bring Me a Dinosaur" width="50" /> | Santa Bring Me a Dinosaur | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | [Snowy](../../artists/itzy/overview.md) | 126 | <img src="https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d" alt="Under The Mistletoe (Deluxe Edition)" width="50" /> | [All I Want For Christmas Is You (SuperFestive!) Duet with Mariah Carey](../../artists/justin_bieber/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> | [Beautiful Christmas](../../artists/red_velvet/overview.md) | 163 | <img src="https://i.scdn.co/image/ab67616d0000b273340f355a2a27e941a30dda56" alt="Have Yourself A Merry Little Christmas" width="50" /> | Have Yourself A Merry Little Christmas | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aa509be2dd24fb6c753cf292" alt="Elvis&#x27; Christmas Album" width="50" /> | Blue Christmas | 214 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="Lover" width="50" /> | [Lover](../../artists/taylor_swift/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | [Christmas EveL](../../artists/stray_kids/overview.md) | 221 | <img src="https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d" alt="LAST CHRISTMAS" width="50" /> | Last Christmas | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="Candy - Winter Special Mini Album" width="50" /> | [Candy](../../artists/nct_dream/overview.md) | 224 | <img src="https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b" alt="The Taylor Swift Holiday Collection" width="50" /> | [Last Christmas](../../artists/taylor_swift/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="Merry &amp; Happy" width="50" /> | [Merry & Happy](../../artists/twice/overview.md) | 227 | <img src="https://i.scdn.co/image/1ceac60d2f06f961b026ac5ecf77b060e263e7a9" alt="12월의 기적 Miracles in December" width="50" /> | [첫 눈](../../artists/exo/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | [Winter Falls](../../artists/stray_kids/overview.md) | 238 | <img src="https://i.scdn.co/image/ab67616d0000b273ff45701e8447016848c70485" alt="This Christmas – Winter is Coming" width="50" /> | [The Magic of Christmas Time](../../artists/taeyeon/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f456ca5659f2d0169061b310" alt="Perfect Night (Holiday Remix)" width="50" /> | [Perfect Night (Holiday Remix)](../../artists/le_sserafim/overview.md) | 257 | <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="Christmas Is Here!" width="50" /> | [Rockin' Around the Christmas Tree](../../artists/pentatonix/overview.md) | nan |
+
+</details>
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -142,6 +165,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea" alt="" width="50" /> | 2 | 0 | A Winter Romance | 1959-01-01 | [🔗](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d378c4756c4fc34b7d3eeaf" alt="" width="50" /> | 1 | 1 | Pieces | 2021-12-29 | [🔗](https://open.spotify.com/album/3ivhPVStd9RrtczBFwjkMQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | 1 | 1 | Lover | 2019-08-23 | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733818b4c636e2a7fdea3bf965" alt="" width="50" /> | 1 | 1 | Fleet Foxes | 2008-06-03 | [🔗](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="" width="50" /> | 1 | 1 | Candy - Winter Special Mini Album | 2022-12-16 | [🔗](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | 1 | 1 | CHESHIRE | 2022-11-30 | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="" width="50" /> | 1 | 1 | Amusement Park | 2020-12-21 | [🔗](https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ) |
@@ -190,7 +214,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9dfe5788911744490bfb431" alt="" width="50" /> | 1 | 0 | Have A Holly Jolly Christmas | 1965-01-01 | [🔗](https://open.spotify.com/album/5r5iTtNflB2DAKO1t5ih8f) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f967f977ef9139af5dd04e9d" alt="" width="50" /> | 1 | 0 | Grandma Got Run Over By A Reindeer | 1984 | [🔗](https://open.spotify.com/album/1Yb2OydAnf7uyfKeNs7awC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27387b3fbe945e07da0e7af5e88" alt="" width="50" /> | 1 | 0 | Glow | 2016-10-28 | [🔗](https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735a6f22825fd502166c181564" alt="" width="50" /> | 1 | 0 | Fleet Foxes | 2008-06-03 | [🔗](https://open.spotify.com/album/6XzZ5pg9buAKNYg293KOQ8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fec199ea327123ad967a3946" alt="" width="50" /> | 1 | 0 | Fairytale of New York | 2017-11-24 | [🔗](https://open.spotify.com/album/1gknqNegsva4cyjTlrXDps) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa509be2dd24fb6c753cf292" alt="" width="50" /> | 1 | 0 | Elvis' Christmas Album | 1957-10-15 | [🔗](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="" width="50" /> | 1 | 0 | Ella: The Legendary Decca Recordings | 1995-08-29 | [🔗](https://open.spotify.com/album/0G5ZHFj5VmvIWEAuF8NEIT) |
@@ -224,13 +247,13 @@
 | 18 | 3 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 6 | 2 | [Republic Records](../../labels/republic_records/overview.md) |
 | 1 | 1 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
+| 1 | 1 | Sub Pop Records |
 | 1 | 1 | [EDAM Entertainment](../../labels/edam_entertainment/overview.md) |
 | 9 | 0 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 5 | 0 | [Columbia](../../labels/columbia/overview.md) |
 | 4 | 0 | [Reprise](../../labels/reprise/overview.md) |
 | 4 | 0 | [Geffen](../../labels/geffen/overview.md) |
 | 4 | 0 | [143](../../labels/143/overview.md) |
-| 3 | 0 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 
 
 <details>
@@ -238,6 +261,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 3 | 0 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 3 | 0 | [Legacy](../../labels/legacy/overview.md) |
 | 3 | 0 | [Epic](../../labels/epic/overview.md) |
 | 3 | 0 | [Capitol Records](../../labels/capitol_records/overview.md) |
@@ -258,7 +282,6 @@
 | 1 | 0 | WaterTower Music |
 | 1 | 0 | [Walt Disney Records](../../labels/walt_disney_records/overview.md) |
 | 1 | 0 | [Syco Music](../../labels/syco_music/overview.md) |
-| 1 | 0 | Sub Pop Records |
 | 1 | 0 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 1 | 0 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
 | 1 | 0 | Sony Music Entertainment |
@@ -275,7 +298,7 @@
 | 1 | 0 | [Kakao Entertainment](../../labels/kakao_entertainment/overview.md) |
 | 1 | 0 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 1 | 0 | IST Entertainment |
-| 1 | 0 | [HYBE](../../labels/hybe/overview.md) |
+| 1 | 0 | HYBE |
 | 1 | 0 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 1 | 0 | Cre.ker Entertainment |
 | 1 | 0 | [Craft Recordings](../../labels/craft_recordings/overview.md) |
@@ -297,12 +320,12 @@
 | 23 | 3 | [pop](../../genres/pop/overview.md) |
 | 13 | 2 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 11 | 2 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
-| 14 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
-| 12 | 0 | [lounge](../../genres/lounge/overview.md) |
-| 10 | 0 | [a cappella](../../genres/a_cappella/overview.md) |
-| 9 | 0 | [viral pop](../../genres/viral_pop/overview.md) |
-| 6 | 0 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
-| 6 | 0 | easy listening |
+| 1 | 1 | stomp and holler |
+| 1 | 1 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
+| 1 | 1 | seattle indie |
+| 1 | 1 | [modern rock](../../genres/modern_rock/overview.md) |
+| 1 | 1 | indietronica |
+| 1 | 1 | indie rock |
 
 
 <details>
@@ -310,6 +333,15 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 1 | 1 | indie folk |
+| 1 | 1 | [folk](../../genres/folk/overview.md) |
+| 1 | 1 | chamber pop |
+| 14 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
+| 12 | 0 | [lounge](../../genres/lounge/overview.md) |
+| 10 | 0 | [a cappella](../../genres/a_cappella/overview.md) |
+| 9 | 0 | [viral pop](../../genres/viral_pop/overview.md) |
+| 6 | 0 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
+| 6 | 0 | easy listening |
 | 6 | 0 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 5 | 0 | [soul](../../genres/soul/overview.md) |
 | 4 | 0 | novelty |
@@ -330,11 +362,8 @@
 | 1 | 0 | traditional country |
 | 1 | 0 | torch song |
 | 1 | 0 | talent show |
-| 1 | 0 | stomp and holler |
 | 1 | 0 | [soft rock](../../genres/soft_rock/overview.md) |
-| 1 | 0 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 1 | 0 | [show tunes](../../genres/show_tunes/overview.md) |
-| 1 | 0 | seattle indie |
 | 1 | 0 | retro soul |
 | 1 | 0 | [post-romantic era](../../genres/post-romantic_era/overview.md) |
 | 1 | 0 | pop soul |
@@ -343,16 +372,11 @@
 | 1 | 0 | new wave pop |
 | 1 | 0 | new romantic |
 | 1 | 0 | neo soul |
-| 1 | 0 | [modern rock](../../genres/modern_rock/overview.md) |
 | 1 | 0 | modern country rock |
 | 1 | 0 | [k-rap](../../genres/k-rap/overview.md) |
 | 1 | 0 | jazz trio |
-| 1 | 0 | indietronica |
-| 1 | 0 | indie rock |
-| 1 | 0 | indie folk |
 | 1 | 0 | hollywood |
 | 1 | 0 | girl group |
-| 1 | 0 | [folk](../../genres/folk/overview.md) |
 | 1 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
 | 1 | 0 | cowboy western |
 | 1 | 0 | country road |
@@ -360,7 +384,6 @@
 | 1 | 0 | contemporary country |
 | 1 | 0 | classic oklahoma country |
 | 1 | 0 | classic girl group |
-| 1 | 0 | chamber pop |
 | 1 | 0 | brill building pop |
 | 1 | 0 | boy soprano |
 | 1 | 0 | american folk revival |
@@ -377,23 +400,10 @@
 | | [Jack Antonoff](../../producers/jack_antonoff/overview.md) | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 1 | Lyricist, Producer, Songwriter |
 | | [Laura Sisk](../../producers/laura_sisk/overview.md) | 1 | Producer |
+| | Robin Pecknold | 1 | Lyricist, Songwriter |
 | | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 1 | Producer |
 
-![Bar chart of top 4 producers](../../images/playlists/christmas/producers.png)
-
-## Most and least listened tracks
-| ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
-|:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 28068 | <img src="https://i.scdn.co/image/ab67616d0000b27308a0fe33e91b991d2c9c9cde" alt="Christmas Album" width="50" /> | I Saw Mommy Kissing Santa Claus | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731ca13e5d59a3a25e68fd7764" alt="Jingle Bell Rock" width="50" /> | [Jingle Bell Rock](../../artists/aespa/overview.md) | 7632 | <img src="https://i.scdn.co/image/ab67616d0000b27397337e6b853756f20af2c29f" alt="Santa Bring Me a Dinosaur" width="50" /> | Santa Bring Me a Dinosaur | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | [Snowy](../../artists/itzy/overview.md) | 4356 | <img src="https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d" alt="Under The Mistletoe (Deluxe Edition)" width="50" /> | [All I Want For Christmas Is You (SuperFestive!) Duet with Mariah Carey](../../artists/justin_bieber/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> | [Beautiful Christmas](../../artists/red_velvet/overview.md) | 1928 | <img src="https://i.scdn.co/image/ab67616d0000b273340f355a2a27e941a30dda56" alt="Have Yourself A Merry Little Christmas" width="50" /> | Have Yourself A Merry Little Christmas | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aa509be2dd24fb6c753cf292" alt="Elvis&#x27; Christmas Album" width="50" /> | Blue Christmas | 501 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="Lover" width="50" /> | [Lover](../../artists/taylor_swift/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="Candy - Winter Special Mini Album" width="50" /> | [Candy](../../artists/nct_dream/overview.md) | 438 | <img src="https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d" alt="LAST CHRISTMAS" width="50" /> | Last Christmas | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="Merry &amp; Happy" width="50" /> | [Merry & Happy](../../artists/twice/overview.md) | 422 | <img src="https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b" alt="The Taylor Swift Holiday Collection" width="50" /> | [Last Christmas](../../artists/taylor_swift/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | [Christmas EveL](../../artists/stray_kids/overview.md) | 420 | <img src="https://i.scdn.co/image/1ceac60d2f06f961b026ac5ecf77b060e263e7a9" alt="12월의 기적 Miracles in December" width="50" /> | [첫 눈](../../artists/exo/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | [Winter Falls](../../artists/stray_kids/overview.md) | 370 | <img src="https://i.scdn.co/image/ab67616d0000b273ff45701e8447016848c70485" alt="This Christmas – Winter is Coming" width="50" /> | [The Magic of Christmas Time](../../artists/taeyeon/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f456ca5659f2d0169061b310" alt="Perfect Night (Holiday Remix)" width="50" /> | [Perfect Night (Holiday Remix)](../../artists/le_sserafim/overview.md) | 330 | <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="Christmas Is Here!" width="50" /> | [Rockin' Around the Christmas Tree](../../artists/pentatonix/overview.md) | 0 |
+![Bar chart of top 5 producers](../../images/playlists/christmas/producers.png)
 
 ## Years
 

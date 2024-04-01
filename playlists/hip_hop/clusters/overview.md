@@ -20,6 +20,21 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c0c05243a846dda6c84607f9" alt="" width="50" /> | It's A Vibe | Pretty Girls Like Trap Music | 2 Chainz, Ty Dolla $ign, Trey Songz, Jhené Aiko | 2Chainz PS/Def Jam | 0 | | [🔗](https://open.spotify.com/track/6H0AwSQ20mo62jGlPGB8S6) |
 ## Cluster #2
 
+9 tracks
+
+| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="" width="50" /> | Love The Way You Lie | Recovery | [Eminem](../../../../artists/eminem/overview.md), [Rihanna](../../../../artists/rihanna/overview.md) | [Aftermath](../../../../labels/aftermath) | 0 | 💚 | [🔗](https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30" alt="" width="50" /> | Ni**as In Paris | Watch The Throne | JAY-Z, Kanye West | Roc Nation/RocAFella/IDJ | 0 | | [🔗](https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10" alt="" width="50" /> | Empire State Of Mind | The Blueprint 3 | JAY-Z, Alicia Keys | Roc Nation / Jay-Z | 0 | | [🔗](https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" alt="" width="50" /> | Numb / Encore | Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course | JAY-Z, Linkin Park | [Warner Records/Roc-A-Fella](../../../../labels/warner_records) | 0 | | [🔗](https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27343f15453faa4973061411a79" alt="" width="50" /> | Super Bass | Pink Friday | Nicki Minaj | Nicki Minaj/Cash Money | 0 | 💚 | [🔗](https://open.spotify.com/track/2jSwKQBouf0brIcxGfA9CZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737d8dfcfd507069d7f2062caf" alt="" width="50" /> | Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) | Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors) | Lil Wayne, Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic, Ty Dolla $ign | [Atlantic Records](../../../../labels/atlantic_records) | 0 | | [🔗](https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732b9aca3204e667980ce6a939" alt="" width="50" /> | Go DJ (feat. SiR) | BUBBA | KAYTRANADA, SiR | [KAYTRANADA/RCA Records](../../../../labels/rca_records_label) | 3 | | [🔗](https://open.spotify.com/track/5goFCtUGQHU4kQuwIupc5D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5" alt="" width="50" /> | Dior | Meet The Woo | Pop Smoke | [Victor Victor Worldwide/Republic Records](../../../../labels/republic_records) | 0 | | [🔗](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="" width="50" /> | Hello Good Morning | Last Train To Paris | Diddy - Dirty Money, T.I. | [Bad Boy](../../../../labels/bad_boy), [Interscope Records](../../../../labels/interscope_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/7yzSijmAyOMBcHrK6Tfsoe) |
+## Cluster #3
+
 10 tracks
 
 | Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
@@ -34,19 +49,3 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | United In Grief | Mr. Morale & The Big Steppers | [Kendrick Lamar](../../../../artists/kendrick_lamar/overview.md) | Top Dawg Entertainment, [Aftermath](../../../../labels/aftermath), [Interscope Records](../../../../labels/interscope_records), pgLang | 0 | 💚 | [🔗](https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27399da48a530f6ca2ef86da3cc" alt="" width="50" /> | Work Out | Cole World: The Sideline Story | J. Cole | Roc Nation LLC | 0 | 💚 | [🔗](https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d905e78cad304de028db39b7" alt="" width="50" /> | Turn Down for What | Turn Down for What | DJ Snake, Lil Jon | [Columbia](../../../../labels/columbia) | 0 | | [🔗](https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs) |
-## Cluster #3
-
-10 tracks
-
-| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="" width="50" /> | Love The Way You Lie | Recovery | [Eminem](../../../../artists/eminem/overview.md), [Rihanna](../../../../artists/rihanna/overview.md) | [Aftermath](../../../../labels/aftermath) | 0 | 💚 | [🔗](https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30" alt="" width="50" /> | Ni**as In Paris | Watch The Throne | JAY-Z, Kanye West | Roc Nation/RocAFella/IDJ | 0 | | [🔗](https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10" alt="" width="50" /> | Empire State Of Mind | The Blueprint 3 | JAY-Z, Alicia Keys | Roc Nation / Jay-Z | 0 | | [🔗](https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735c837cc621c1ec82bf3c81ac" alt="" width="50" /> | Ni**as In Paris | Watch The Throne (Deluxe) | JAY-Z, Kanye West | Roc Nation/RocAFella/IDJ | 0 | | [🔗](https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" alt="" width="50" /> | Numb / Encore | Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course | JAY-Z, Linkin Park | [Warner Records/Roc-A-Fella](../../../../labels/warner_records) | 0 | | [🔗](https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27343f15453faa4973061411a79" alt="" width="50" /> | Super Bass | Pink Friday | Nicki Minaj | Nicki Minaj/Cash Money | 0 | 💚 | [🔗](https://open.spotify.com/track/2jSwKQBouf0brIcxGfA9CZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737d8dfcfd507069d7f2062caf" alt="" width="50" /> | Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) | Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors) | Lil Wayne, Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic, Ty Dolla $ign | [Atlantic Records](../../../../labels/atlantic_records) | 0 | | [🔗](https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732b9aca3204e667980ce6a939" alt="" width="50" /> | Go DJ (feat. SiR) | BUBBA | KAYTRANADA, SiR | [KAYTRANADA/RCA Records](../../../../labels/rca_records_label) | 3 | | [🔗](https://open.spotify.com/track/5goFCtUGQHU4kQuwIupc5D) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5" alt="" width="50" /> | Dior | Meet The Woo | Pop Smoke | [Victor Victor Worldwide/Republic Records](../../../../labels/republic_records) | 0 | | [🔗](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="" width="50" /> | Hello Good Morning | Last Train To Paris | Diddy - Dirty Money, T.I. | [Bad Boy](../../../../labels/bad_boy), [Interscope Records](../../../../labels/interscope_records) | 0 | 💚 | [🔗](https://open.spotify.com/track/7yzSijmAyOMBcHrK6Tfsoe) |

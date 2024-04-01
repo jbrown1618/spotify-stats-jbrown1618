@@ -44,6 +44,29 @@
 
 ![Comparison of Artist](../../images/playlists/ballet/artists_comparison.png)
 
+## Top Tracks
+
+
+
+
+<details>
+<summary>Most and least listened tracks</summary>
+
+| ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
+|:---|:---|---:|:---|:---|---:|
+| <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> | Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="Stravinsky: Petrushka, Jeu de cartes" width="50" /> | Jeu de cartes: II. Second Deal | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="Tchaikovsky: The Nutcracker" width="50" /> | [Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12c, Divertissement. Tea, Chinese Dance](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> | Coppélia / Tableau 1: No. 4 Scène | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="Tchaikovsky: Swan Lake" width="50" /> | [Tchaikovsky: Swan Lake, Op. 20, Act 3, Appendix I: Pas de deux](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273f0eb5b09e87f24415266d723" alt="Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra" width="50" /> | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Spring Rounds | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="Tchaikovsky: The Nutcracker" width="50" /> | [Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 1, Decoration of the Christmas Tree](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="Tchaikovsky: The Nutcracker" width="50" /> | [Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 2, March](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="Tchaikovsky: Swan Lake" width="50" /> | [Tchaikovsky: Swan Lake, Op. 20, Act 1: No. 2, Waltz](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> | Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> | Coppélia / Tableau 2: No. 18 Scène (Final) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="Tchaikovsky: The Nutcracker" width="50" /> | [Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 13, Waltz of the Flowers](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> | Coppélia / Tableau 2: No. 12 Scène | nan | <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="Tchaikovsky: Swan Lake" width="50" /> | [Tchaikovsky: Swan Lake, Op. 20, Act 3, Appendix II: No. 20a, Russian Dance](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="Tchaikovsky: The Nutcracker" width="50" /> | [Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 10, The Enchanted Palace of Confiturembourg, the Kingdom of Sweets](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> | Coppélia / Tableau 2: No. 9 Scène | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="Tchaikovsky: The Nutcracker" width="50" /> | [Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 5, Scene and Grandfather Dance](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="Tchaikovsky: The Nutcracker" width="50" /> | [Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14b, Pas de deux. Variation I "Tarantella"](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> | Sylvia / Act 2: No. 12 Chant bachique | nan | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> | Coppélia / Tableau 2: No. 15 Scène | nan |
+
+</details>
+
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
@@ -82,20 +105,6 @@
 | 39 | 0 | french opera |
 
 ![Bar chart of top 8 genres](../../images/playlists/ballet/genres.png)
-
-## Most and least listened tracks
-| ​ | Most listened tracks | Score | ​​ | Least listened tracks | Score |
-|:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> | Coppélia / Tableau 3: No. 20 Fête de la cloche: V. L'hymen (Noce villageoise) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="Stravinsky: Petrushka, Jeu de cartes" width="50" /> | Jeu de cartes: II. Second Deal | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="Tchaikovsky: The Nutcracker" width="50" /> | [Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 12c, Divertissement. Tea, Chinese Dance](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> | Coppélia / Tableau 1: No. 4 Scène | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="Tchaikovsky: Swan Lake" width="50" /> | [Tchaikovsky: Swan Lake, Op. 20, Act 3, Appendix I: Pas de deux](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273f0eb5b09e87f24415266d723" alt="Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra" width="50" /> | Le Sacre du Printemps - Revised version for Orchestra (published 1947) / Part 1: The Adoration of the Earth: Spring Rounds | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="Tchaikovsky: The Nutcracker" width="50" /> | [Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 1, Decoration of the Christmas Tree](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="Tchaikovsky: The Nutcracker" width="50" /> | [Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 2, March](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="Tchaikovsky: Swan Lake" width="50" /> | [Tchaikovsky: Swan Lake, Op. 20, Act 1: No. 2, Waltz](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> | Coppélia / Tableau 3: No. 20 Fête de la cloche: IV. Le travail (La fileuse) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> | Coppélia / Tableau 2: No. 18 Scène (Final) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="Tchaikovsky: The Nutcracker" width="50" /> | [Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 13, Waltz of the Flowers](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> | Coppélia / Tableau 2: No. 12 Scène | 0 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="Tchaikovsky: Swan Lake" width="50" /> | [Tchaikovsky: Swan Lake, Op. 20, Act 3, Appendix II: No. 20a, Russian Dance](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="Tchaikovsky: The Nutcracker" width="50" /> | [Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 10, The Enchanted Palace of Confiturembourg, the Kingdom of Sweets](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> | Coppélia / Tableau 2: No. 9 Scène | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="Tchaikovsky: The Nutcracker" width="50" /> | [Tchaikovsky: The Nutcracker, Op. 71, Act I, Scene 1: No. 5, Scene and Grandfather Dance](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273f1972145094112a1268035f1" alt="Tchaikovsky: The Nutcracker" width="50" /> | [Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14b, Pas de deux. Variation I "Tarantella"](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | 0 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> | Sylvia / Act 2: No. 12 Chant bachique | 0 | <img src="https://i.scdn.co/image/ab67616d0000b273471dedcd7b83cd630cf87a72" alt="Coppélia" width="50" /> | Coppélia / Tableau 2: No. 15 Scène | 0 |
 
 ## Years
 
