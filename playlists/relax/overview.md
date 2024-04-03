@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e022118bf9b198b05a95ded6300ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02deec12a28d1e336c5052e9aa" alt="Relax" width="100" />
 
-[44 tracks (42 liked) 🔗](https://open.spotify.com/playlist/4rnlD7JdUQNdPCBhL69dCg)
+[43 tracks (41 liked) 🔗](https://open.spotify.com/playlist/4rnlD7JdUQNdPCBhL69dCg)
 
 [See Track Features](audio_features.md)
 
@@ -17,10 +17,10 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | 6 | 6 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb097877542866c981757e9592" alt="" width="50" /> | 6 | 4 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 4 | 4 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 3 | 3 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb13e8057399bcfc4d4ec4c5dc" alt="" width="50" /> | 3 | 3 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb611e60f2b061c920476b2df3" alt="" width="50" /> | 2 | 2 | [BAEKHYUN](../../artists/baekhyun/overview.md) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5fc114ab8f521a8f6070cab" alt="" width="50" /> | 2 | 2 | [WINTER](../../artists/winter/overview.md) | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 2 | 2 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf5ef01e430d31a4b0680126f" alt="" width="50" /> | 1 | 1 | [Crush](../../artists/crush/overview.md) | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7" alt="" width="50" /> | 1 | 1 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 
@@ -71,7 +71,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="Dream" width="50" /> | Dream | 48 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Stay](../../artists/sara_bareilles/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="Like Water - The 1st Mini Album" width="50" /> | [Like Water](../../artists/wendy/overview.md) | 77 | <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="Purpose - The 2nd Album" width="50" /> | [Wine](../../artists/taeyeon/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | [ONLY](../../artists/leehi/overview.md) | 84 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="Palette" width="50" /> | [Through the Night](../../artists/iu/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381fb7e4e392f0a99b3947eb6" alt="The Velvet - The 2nd Mini Album" width="50" /> | [7월 7일 One Of These Nights](../../artists/red_velvet/overview.md) | 101 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Bluebird](../../artists/sara_bareilles/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381fb7e4e392f0a99b3947eb6" alt="The Velvet - The 2nd Mini Album" width="50" /> | [7월 7일 One Of These Nights](../../artists/red_velvet/overview.md) | 104 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Bluebird](../../artists/sara_bareilles/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27316e21608ece123c20bd24306" alt="Rain - SM STATION" width="50" /> | [Rain](../../artists/taeyeon/overview.md) | 243 | <img src="https://i.scdn.co/image/ab67616d0000b2733661c01b54e181d01bd439a1" alt="Birdy" width="50" /> | Skinny Love | nan |
 
 </details>
@@ -85,19 +85,18 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | 2 | 2 | Once Upon Another Time | 2012-05-22 | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | 2 | 2 | Love poem | 2019-11-18 | [🔗](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | 2 | 2 | Kaleidoscope Heart | 2010-09-07 | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | 1 | 1 | ‘The ReVe Festival 2022 - Feel My Rhythm’ | 2022-03-21 | [🔗](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ae843591bcdace9489c86fb0" alt="" width="50" /> | 1 | 1 | WAW | 2021-06-02 | [🔗](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | 1 | 1 | The Winning | 2024-02-20 | [🔗](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381fb7e4e392f0a99b3947eb6" alt="" width="50" /> | 1 | 1 | The Velvet - The 2nd Mini Album | 2016-03-17 | [🔗](https://open.spotify.com/album/2qgl7dAgslqL1w2l2wQhMA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e7c7f3bafee5562a4c01658b" alt="" width="50" /> | 1 | 1 | Song of the Bandits (Original Soundtrack from the Netflix Series) | 2023-09-22 | [🔗](https://open.spotify.com/album/1TXOVlZGrd3KbphTcXN8vw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273470483222eb038c3b60e71f6" alt="" width="50" /> | 1 | 1 | Slightly Tipsy (She is My Type♡ X SANDEUL) | 2020-07-20 | [🔗](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) |
 
 
 <details>
-<summary>See all 38 albums</summary>
+<summary>See all 37 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273470483222eb038c3b60e71f6" alt="" width="50" /> | 1 | 1 | Slightly Tipsy (She is My Type♡ X SANDEUL) | 2020-07-20 | [🔗](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | 1 | 1 | SEOULITE | 2016-03-09 | [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | 1 | 1 | Red | 2012-10-22 | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27316e21608ece123c20bd24306" alt="" width="50" /> | 1 | 1 | Rain - SM STATION | 2016-02-03 | [🔗](https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L) |
@@ -135,7 +134,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 15 | 13 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 14 | 12 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 7 | 7 | [Epic](../../labels/epic/overview.md) |
 | 5 | 5 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 4 | 4 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
@@ -174,7 +173,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 29 | 27 | [k-pop](../../genres/k-pop/overview.md) |
+| 28 | 26 | [k-pop](../../genres/k-pop/overview.md) |
 | 10 | 10 | [pop](../../genres/pop/overview.md) |
 | 8 | 8 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 7 | 7 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
@@ -182,7 +181,7 @@
 | 7 | 7 | [lilith](../../genres/lilith/overview.md) |
 | 7 | 7 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 7 | 7 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
-| 6 | 6 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 5 | 5 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 4 | 4 | [korean pop](../../genres/korean_pop/overview.md) |
 
 
@@ -302,6 +301,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="Floral Sense - The 1st Album (Special Version)" width="50" /> | Floral Sense - The 1st Album (Special Version) (2023-02-27) | <img src="https://i.scdn.co/image/ab67616d0000b2733661c01b54e181d01bd439a1" alt="Birdy" width="50" /> | Birdy (2011-11-04) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> | BORN PINK (2022-09-16) | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | Once Upon Another Time (2012-05-22) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d5c8b45ab7a204c4de48605" alt="Our Blues, Pt. 10 (Original Television Soundtrack)" width="50" /> | Our Blues, Pt. 10 (Original Television Soundtrack) (2022-05-22) | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="Red" width="50" /> | Red (2012-10-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="‘The ReVe Festival 2022 - Feel My Rhythm’" width="50" /> | ‘The ReVe Festival 2022 - Feel My Rhythm’ (2022-03-21) | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | The Blessed Unrest (2013-07-16) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730d378c4756c4fc34b7d3eeaf" alt="Pieces" width="50" /> | Pieces (2021-12-29) | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything (Deluxe)" width="50" /> | My Everything (Deluxe) (2014-08-25) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | 4 ONLY (2021-09-09) | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="Dream" width="50" /> | Dream (2016-01-07) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d378c4756c4fc34b7d3eeaf" alt="Pieces" width="50" /> | Pieces (2021-12-29) | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | The Blessed Unrest (2013-07-16) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | 4 ONLY (2021-09-09) | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything (Deluxe)" width="50" /> | My Everything (Deluxe) (2014-08-25) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ae843591bcdace9489c86fb0" alt="WAW" width="50" /> | WAW (2021-06-02) | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="Dream" width="50" /> | Dream (2016-01-07) |

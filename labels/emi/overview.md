@@ -14,7 +14,7 @@ Appears as:
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/bd85e05d8bb8ad24515a232174cbe20925048566" alt="" width="50" /> | 2 | 2 | 10cc | [🔗](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05859a430915d19cd6e67bbb" alt="" width="50" /> | 1 | 1 | Kim Petras | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba8eef8322e55fc49ab436eea" alt="" width="50" /> | 1 | 1 | Sam Smith | [🔗](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7ba9b5726cdd0814dc0cda2e" alt="" width="50" /> | 1 | 1 | Sam Smith | [🔗](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdcb57d08016c41fca3e221ab" alt="" width="50" /> | 1 | 1 | Corinne Bailey Rae | [🔗](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | 3 | 0 | Elton John | [🔗](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcad5051d3069454d070cc945" alt="" width="50" /> | 1 | 0 | James Smith | [🔗](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) |
@@ -90,7 +90,7 @@ Appears as:
 | | Steve Chrisanthou | 1 | Producer, Songwriter |
 | | Blake Slatkin | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05859a430915d19cd6e67bbb" alt="" width="50" /> | Kim Petras | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba8eef8322e55fc49ab436eea" alt="" width="50" /> | Sam Smith | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7ba9b5726cdd0814dc0cda2e" alt="" width="50" /> | Sam Smith | 1 | Songwriter |
 | | Jimmy Hogarth | 1 | Producer |
 | | [ILYA](../../producers/ilya/overview.md) | 1 | Songwriter |
 | | Jeremy Wheatley | 1 | Producer |
@@ -113,15 +113,15 @@ Appears as:
 ![Bar chart of top 15 producers](../../images/labels/emi/producers.png)
 ## Tracks released under EMI
 
-| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
+| Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d03ab2da904d8251a87bbc31" alt="" width="50" /> | Tiny Dancer | Madman Across The Water | Elton John | [EMI](.) | 0 | | [🔗](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733009007708ab5134936a58b3" alt="" width="50" /> | Rocket Man (I Think It's Going To Be A Long, Long Time) | Honky Chateau | Elton John | [EMI](.) | 0 | | [🔗](https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f67fbf0d465cca2b3e25af96" alt="" width="50" /> | Crocodile Rock | Don't Shoot Me I'm Only The Piano Player | Elton John | [EMI](.) | 0 | | [🔗](https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f93159d78849714fcf118bb3" alt="" width="50" /> | Good Morning Judge | Deceptive Bends | 10cc | [EMI](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/1fMGRxKRtIKNyaMMGrzInM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27364c6ef51927c575ed9f464cf" alt="" width="50" /> | Dreadlock Holiday | Bloody Tourists | 10cc | [EMI](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/1LOZMYF5s8qhW7Rv4w2gun) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731ec9b096319afbcc2dca6879" alt="" width="50" /> | Put Your Records On | Corinne Bailey Rae | Corinne Bailey Rae | [EMI Records](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739f48d446654c7b8b9b7bc58b" alt="" width="50" /> | Just The Way You Are | Little Love - EP | James Smith | [EMI](.) | 0 | | [🔗](https://open.spotify.com/track/1YwbObIsxLhBTjSI5lwJz6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="" width="50" /> | Hunger | High As Hope | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [EMI](.) | 0 | | [🔗](https://open.spotify.com/track/6Ju28M6P8Y8sLjBgWjyUUD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273044a5466dac00f7b3c570b99" alt="" width="50" /> | telepatía | Sin Miedo (del Amor y Otros Demonios) ∞ | Kali Uchis | [EMI](.), [Interscope Records](../interscope_records) | 0 | | [🔗](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a935e4689f15953311772cc4" alt="" width="50" /> | Unholy (feat. Kim Petras) | Unholy (feat. Kim Petras) | Sam Smith, Kim Petras | [Capitol Records UK / EMI](.) | 0 | 💚 | [🔗](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d03ab2da904d8251a87bbc31" alt="" width="50" /> | Tiny Dancer | Madman Across The Water | Elton John | [EMI](.) | nan | | [🔗](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733009007708ab5134936a58b3" alt="" width="50" /> | Rocket Man (I Think It's Going To Be A Long, Long Time) | Honky Chateau | Elton John | [EMI](.) | nan | | [🔗](https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f67fbf0d465cca2b3e25af96" alt="" width="50" /> | Crocodile Rock | Don't Shoot Me I'm Only The Piano Player | Elton John | [EMI](.) | nan | | [🔗](https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f93159d78849714fcf118bb3" alt="" width="50" /> | Good Morning Judge | Deceptive Bends | 10cc | [EMI](.) | nan | 💚 | [🔗](https://open.spotify.com/track/1fMGRxKRtIKNyaMMGrzInM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27364c6ef51927c575ed9f464cf" alt="" width="50" /> | Dreadlock Holiday | Bloody Tourists | 10cc | [EMI](.) | nan | 💚 | [🔗](https://open.spotify.com/track/1LOZMYF5s8qhW7Rv4w2gun) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ec9b096319afbcc2dca6879" alt="" width="50" /> | Put Your Records On | Corinne Bailey Rae | Corinne Bailey Rae | [EMI Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739f48d446654c7b8b9b7bc58b" alt="" width="50" /> | Just The Way You Are | Little Love - EP | James Smith | [EMI](.) | nan | | [🔗](https://open.spotify.com/track/1YwbObIsxLhBTjSI5lwJz6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="" width="50" /> | Hunger | High As Hope | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [EMI](.) | nan | | [🔗](https://open.spotify.com/track/6Ju28M6P8Y8sLjBgWjyUUD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273044a5466dac00f7b3c570b99" alt="" width="50" /> | telepatía | Sin Miedo (del Amor y Otros Demonios) ∞ | Kali Uchis | [EMI](.), [Interscope Records](../interscope_records) | nan | | [🔗](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a935e4689f15953311772cc4" alt="" width="50" /> | Unholy (feat. Kim Petras) | Unholy (feat. Kim Petras) | Sam Smith, Kim Petras | [Capitol Records UK / EMI](.) | nan | 💚 | [🔗](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) |

@@ -76,7 +76,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba10593e25ec51a3ba4296a0" alt="" width="50" /> | 1 | 1 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | 1 | 1 | B.o.B | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | 1 | 1 | CeeLo Green | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 1 | 1 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | 1 | 1 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb713079a55dcf937d241dd2b" alt="" width="50" /> | 1 | 1 | Timbaland | [🔗](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf9fb2a341d6852c012a5d5ee" alt="" width="50" /> | 1 | 1 | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb191d43dca6f2f5a126e43e4b" alt="" width="50" /> | 1 | 1 | [Agust D](../../artists/agust_d/overview.md) | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
@@ -562,10 +562,10 @@
 | Year | Number of Tracks |
 |:---|---:|
 | 2024 | 5 |
-| [2023](2023.md) | 36 |
-| [2022](2022.md) | 26 |
-| [2021](2021.md) | 31 |
-| [2020](2020.md) | 31 |
+| [2023](2023/overview.md) | 36 |
+| [2022](2022/overview.md) | 26 |
+| [2021](2021/overview.md) | 31 |
+| [2020](2020/overview.md) | 31 |
 | 2019 | 16 |
 | 2018 | 9 |
 | 2017 | 11 |
@@ -592,7 +592,7 @@
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="Fe3O4: BREAK" width="50" /> | Fe3O4: BREAK (2024-01-15) | <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="Hunting High and Low" width="50" /> | Hunting High and Low (1985-06-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="BORN TO BE" width="50" /> | BORN TO BE (2024-01-08) | <img src="https://i.scdn.co/image/ab67616d0000b273f82c7e4376cf8267fb396b7d" alt="Mack Daddy" width="50" /> | Mack Daddy (1992-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27324e7d3f6bcc7f5594638a4f0" alt="BABYMONSTER Debut Digital Single [BATTER UP]" width="50" /> | BABYMONSTER Debut Digital Single [BATTER UP] (2023-11-27) | <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="A BEST" width="50" /> | A BEST (2001-03-28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27324e7d3f6bcc7f5594638a4f0" alt="BATTER UP" width="50" /> | BATTER UP (2023-11-27) | <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="A BEST" width="50" /> | A BEST (2001-03-28) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | ORANGE BLOOD (2023-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd" alt="Genesis" width="50" /> | Genesis (2001-11-07) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="ROCK-STAR" width="50" /> | ROCK-STAR (2023-11-10) | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> | Black Holes and Revelations (2006-06-19) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="Drama - The 4th Mini Album" width="50" /> | Drama - The 4th Mini Album (2023-11-10) | <img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" alt="FutureSex/LoveSounds" width="50" /> | FutureSex/LoveSounds (2006-09-12) |

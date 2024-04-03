@@ -63,7 +63,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2444e9b2ef714c2d1e7bae64" alt="" width="50" /> | 1 | 1 | HYO | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | 1 | 1 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d74a6d4cd2de13c11ace8e2" alt="" width="50" /> | 1 | 1 | CRAXY | [🔗](https://open.spotify.com/artist/3C13AlJZ4QWHSruAWe9VPI) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba8eef8322e55fc49ab436eea" alt="" width="50" /> | 1 | 1 | Sam Smith | [🔗](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7ba9b5726cdd0814dc0cda2e" alt="" width="50" /> | 1 | 1 | Sam Smith | [🔗](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0b37426761bbaa441615c5b" alt="" width="50" /> | 1 | 1 | Madison Beer | [🔗](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0001b1abdae41d669a446b7" alt="" width="50" /> | 1 | 1 | [SHINee](../../artists/shinee/overview.md) | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61b0348367c6466a6282f5a5" alt="" width="50" /> | 1 | 1 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
@@ -100,7 +100,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="Run Devil Run - The 2nd Album Repackage" width="50" /> | [Run Devil Run](../../artists/girls__generation/overview.md) | 39 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | [Up All Night (Bang Chan, Changbin, Felix, Seungmin)](../../artists/stray_kids/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | [Oh my god](../../artists/(g)i-dle/overview.md) | 47 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="Wings" width="50" /> | Wings | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="Drama - The 4th Mini Album" width="50" /> | [Trick or Trick](../../artists/aespa/overview.md) | 57 | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | [Wet Nightmare](../../artists/bibi/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="the Billage of perception : chapter one" width="50" /> | [RING X RING](../../artists/billlie/overview.md) | 62 | <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="SEVENTEEN 11th Mini Album &#x27;SEVENTEENTH HEAVEN&#x27;" width="50" /> | [Monster](../../artists/seventeen/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="the Billage of perception : chapter one" width="50" /> | [RING X RING](../../artists/billlie/overview.md) | 61 | <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="SEVENTEEN 11th Mini Album &#x27;SEVENTEENTH HEAVEN&#x27;" width="50" /> | [Monster](../../artists/seventeen/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="28 Reasons - The 1st Mini Album" width="50" /> | [28 Reasons](../../artists/seulgi/overview.md) | 66 | <img src="https://i.scdn.co/image/ab67616d0000b2737eed64905d129d52667201f2" alt="DEJAYOU" width="50" /> | DEJAYOU | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | [Sacrifice (Eat Me Up)](../../artists/enhypen/overview.md) | 67 | <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="Pink Tape - The 2nd Album" width="50" /> | 미행 (그림자 : Shadow) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="Chill Kill - The 3rd Album" width="50" /> | [One Kiss](../../artists/red_velvet/overview.md) | 75 | <img src="https://i.scdn.co/image/ab67616d0000b2730c1f1054d3a170ee26430c79" alt="AGASSY" width="50" /> | AGASSY | nan |
@@ -441,8 +441,8 @@
 | Year | Number of Tracks |
 |:---|---:|
 | 2024 | 6 |
-| [2023](2023.md) | 22 |
-| [2022](2022.md) | 24 |
+| [2023](2023/overview.md) | 22 |
+| [2022](2022/overview.md) | 24 |
 | 2021 | 17 |
 | 2020 | 7 |
 | 2019 | 8 |

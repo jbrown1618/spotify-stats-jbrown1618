@@ -19,7 +19,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 15 | 12 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd634ba9399374d9482a0b6a3" alt="" width="50" /> | 14 | 12 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | 14 | 9 | [Lady Gaga](../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 11 | 9 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | 11 | 9 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | 14 | 8 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="" width="50" /> | 8 | 8 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99a94361a732b7eb49342d35" alt="" width="50" /> | 8 | 7 | [Camila Cabello](../../artists/camila_cabello/overview.md) | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
@@ -97,7 +97,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb118be643c10bd1268f034d28" alt="" width="50" /> | 2 | 1 | Faouzia | [🔗](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb66b27eccb69756f8eceabc23" alt="" width="50" /> | 2 | 1 | Glass Animals | [🔗](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 2 | 1 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba8eef8322e55fc49ab436eea" alt="" width="50" /> | 2 | 1 | Sam Smith | [🔗](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7ba9b5726cdd0814dc0cda2e" alt="" width="50" /> | 2 | 1 | Sam Smith | [🔗](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf801e3d9ecb568a1c3c62393" alt="" width="50" /> | 2 | 1 | Zedd | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe5bc630548fb3517cf90edb8" alt="" width="50" /> | 2 | 1 | Daniel Caesar | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3c753851496854e29abff7a" alt="" width="50" /> | 2 | 1 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
@@ -140,14 +140,14 @@
 |:---|:---|---:|:---|:---|---:|
 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [you should see me in a crown](../../artists/billie_eilish/overview.md) | 226 | <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="Dreamland (+ Bonus Levels)" width="50" /> | Heat Waves | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="No Time To Die" width="50" /> | [No Time To Die](../../artists/billie_eilish/overview.md) | 242 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | [Leave The Door Open](../../artists/bruno_mars/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | [What Now](../../artists/rihanna/overview.md) | 248 | <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="Metropolis: The Chase Suite (Special Edition)" width="50" /> | [Sincerely, Jane](../../artists/janelle_monáe/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | [What Now](../../artists/rihanna/overview.md) | 247 | <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="Metropolis: The Chase Suite (Special Edition)" width="50" /> | [Sincerely, Jane](../../artists/janelle_monáe/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Me And My Broken Heart | 262 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="1989" width="50" /> | [Clean](../../artists/taylor_swift/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Get Lucky (feat. Pharrell Williams and Nile Rodgers)](../../artists/daft_punk/overview.md) | 315 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="reputation" width="50" /> | [This Is Why We Can't Have Nice Things](../../artists/taylor_swift/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f4269ee2c76394d8f3d1309" alt="7G" width="50" /> | Show Me What | 344 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="Loud" width="50" /> | [S&M](../../artists/rihanna/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="ELVIS (Original Motion Picture Soundtrack)" width="50" /> | [Vegas](../../artists/doja_cat/overview.md) | 349 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [epiphany](../../artists/taylor_swift/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [I Choose You](../../artists/sara_bareilles/overview.md) | 363 | <img src="https://i.scdn.co/image/ab67616d0000b273e859698c8fe21d42a13ec252" alt="SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)" width="50" /> | SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" alt="GUTS" width="50" /> | [vampire](../../artists/olivia_rodrigo/overview.md) | 367 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | [Clocks](../../artists/coldplay/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | Take It All | 372 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="Good Girl Gone Bad: Reloaded" width="50" /> | [Don't Stop The Music](../../artists/rihanna/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [I Choose You](../../artists/sara_bareilles/overview.md) | 362 | <img src="https://i.scdn.co/image/ab67616d0000b273e859698c8fe21d42a13ec252" alt="SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)" width="50" /> | SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" alt="GUTS" width="50" /> | [vampire](../../artists/olivia_rodrigo/overview.md) | 366 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | [Clocks](../../artists/coldplay/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | Take It All | 371 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="Good Girl Gone Bad: Reloaded" width="50" /> | [Don't Stop The Music](../../artists/rihanna/overview.md) | nan |
 
 </details>
 
@@ -390,7 +390,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 334 | 238 | [pop](../../genres/pop/overview.md) |
-| 107 | 74 | [dance pop](../../genres/dance_pop/overview.md) |
+| 106 | 74 | [dance pop](../../genres/dance_pop/overview.md) |
 | 34 | 26 | [art pop](../../genres/art_pop/overview.md) |
 | 36 | 22 | [uk pop](../../genres/uk_pop/overview.md) |
 | 23 | 18 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
@@ -538,7 +538,7 @@
 | | [Marcos Tovar](../../producers/marcos_tovar/overview.md) | 9 | Producer |
 | | Philip Lawrence | 9 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="" width="50" /> | [Sia](../../artists/sia/overview.md) | 8 | Lyricist, Songwriter, Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 8 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 8 | Songwriter |
 | | Savan Kotecha | 8 | Songwriter, Producer |
 | | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 8 | Producer |
 | | [Mikkel Storleer Eriksen](../../producers/mikkel_storleer_eriksen/overview.md) | 7 | Songwriter, Producer |
@@ -630,20 +630,20 @@
 | 2024 | 7 |
 | 2023 | 7 |
 | 2022 | 14 |
-| [2021](2021.md) | 26 |
-| [2020](2020.md) | 54 |
-| [2019](2019.md) | 48 |
-| [2018](2018.md) | 26 |
-| [2017](2017.md) | 27 |
-| [2016](2016.md) | 26 |
-| [2015](2015.md) | 20 |
-| [2014](2014.md) | 23 |
+| [2021](2021/overview.md) | 26 |
+| [2020](2020/overview.md) | 54 |
+| [2019](2019/overview.md) | 48 |
+| [2018](2018/overview.md) | 26 |
+| [2017](2017/overview.md) | 27 |
+| [2016](2016/overview.md) | 26 |
+| [2015](2015/overview.md) | 20 |
+| [2014](2014/overview.md) | 23 |
 | 2013 | 17 |
 | 2012 | 19 |
 | 2011 | 14 |
-| [2010](2010.md) | 23 |
+| [2010](2010/overview.md) | 23 |
 | 2009 | 6 |
-| [2008](2008.md) | 22 |
+| [2008](2008/overview.md) | 22 |
 | 2007 | 9 |
 | 2006 | 6 |
 | 2005 | 6 |

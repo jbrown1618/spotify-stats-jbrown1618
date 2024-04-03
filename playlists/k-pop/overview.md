@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="K-Pop" width="100" />
 
-[1258 tracks (914 liked) 🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7)
+[1260 tracks (916 liked) 🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7)
 
 [See Track Features](audio_features.md)
 
@@ -84,6 +84,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40a7268dd742e5f63759b960" alt="" width="50" /> | 5 | 4 | Jung Kook | [🔗](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | 5 | 4 | BIGBANG | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb791dd8450bdde549ec172ead" alt="" width="50" /> | 5 | 4 | [YENA](../../artists/yena/overview.md) | [🔗](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb5fc114ab8f521a8f6070cab" alt="" width="50" /> | 5 | 4 | [WINTER](../../artists/winter/overview.md) | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb91269cd424c78943a1fcbeb3" alt="" width="50" /> | 5 | 4 | XG | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | 4 | 4 | SUGA | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdd834bb7e70b6c23c0d33909" alt="" width="50" /> | 4 | 4 | MISAMO | [🔗](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) |
@@ -101,7 +102,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | 4 | 3 | IZ*ONE | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc1dc943555dfa1ee2a107e5" alt="" width="50" /> | 4 | 3 | K/DA | [🔗](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe80d1ffb81aa6503ad41c574" alt="" width="50" /> | 4 | 3 | League of Legends | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb5fc114ab8f521a8f6070cab" alt="" width="50" /> | 4 | 3 | [WINTER](../../artists/winter/overview.md) | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb20e1b84fe2767e52c4c828fd" alt="" width="50" /> | 4 | 3 | 2NE1 | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | 4 | 3 | J.Y. Park | [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb65f946e1c1bdc8bc9b75b049" alt="" width="50" /> | 3 | 3 | MAX CHANGMIN | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
@@ -147,7 +147,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [Crazy Over You](../../artists/blackpink/overview.md) | 7 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | [Masquerade](../../artists/chung_ha/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [How You Like That](../../artists/blackpink/overview.md) | 8 | <img src="https://i.scdn.co/image/ab67616d0000b27363afb50f4fcb52f570c5fed5" alt="DALALA" width="50" /> | DALALA | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="Heng:garæ" width="50" /> | [Left & Right](../../artists/seventeen/overview.md) | 9 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="Taste of Love" width="50" /> | [Alcohol-Free](../../artists/twice/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | [Gotta Go](../../artists/chung_ha/overview.md) | 10 | <img src="https://i.scdn.co/image/ab67616d0000b2734fbde4c63b86079e0517b1cb" alt="Beatbox - The 2nd Album Repackage" width="50" /> | [Beatbox](../../artists/nct_dream/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | [Gotta Go](../../artists/chung_ha/overview.md) | 10 | <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="Wish You Hell - The 2nd Mini Album" width="50" /> | [Better Judgement](../../artists/wendy/overview.md) | nan |
 
 </details>
 
@@ -274,7 +274,7 @@
 |---:|---:|:---|
 | 319 | 243 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 140 | 99 | [Republic Records](../../labels/republic_records/overview.md) |
-| 64 | 48 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
+| 65 | 49 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 66 | 43 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 57 | 40 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 49 | 34 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
@@ -301,9 +301,9 @@
 | 18 | 10 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 13 | 10 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 11 | 10 | [EDAM Entertainment](../../labels/edam_entertainment/overview.md) |
+| 17 | 9 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 13 | 9 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company/overview.md) |
 | 10 | 9 | [MNH ENTERTAINMENT](../../labels/mnh_entertainment/overview.md) |
-| 16 | 8 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 12 | 8 | [ADOR](../../labels/ador/overview.md) |
 | 11 | 7 | [WM Entertainment](../../labels/wm_entertainment/overview.md) |
 | 10 | 7 | [WM Japan](../../labels/wm_japan/overview.md) |
@@ -555,18 +555,18 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2024](2024.md) | 50 |
-| [2023](2023.md) | 237 |
-| [2022](2022.md) | 264 |
-| [2021](2021.md) | 193 |
-| [2020](2020.md) | 124 |
-| [2019](2019.md) | 77 |
-| [2018](2018.md) | 68 |
-| [2017](2017.md) | 61 |
-| [2016](2016.md) | 50 |
-| [2015](2015.md) | 42 |
+| [2024](2024/overview.md) | 52 |
+| [2023](2023/overview.md) | 237 |
+| [2022](2022/overview.md) | 264 |
+| [2021](2021/overview.md) | 193 |
+| [2020](2020/overview.md) | 124 |
+| [2019](2019/overview.md) | 77 |
+| [2018](2018/overview.md) | 68 |
+| [2017](2017/overview.md) | 61 |
+| [2016](2016/overview.md) | 50 |
+| [2015](2015/overview.md) | 42 |
 | 2014 | 18 |
-| [2013](2013.md) | 26 |
+| [2013](2013/overview.md) | 26 |
 | 2012 | 12 |
 | 2011 | 9 |
 | 2010 | 8 |
@@ -585,13 +585,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b75a7d2227a1a032a8a776e5" alt="Fraggle Rock: Back To The Rock - Season 2 (Apple TV+ Original Series Soundtrack)" width="50" /> | Fraggle Rock: Back To The Rock - Season 2 (Apple TV+ Original Series Soundtrack) (2024-03-29) | <img src="https://i.scdn.co/image/ab67616d0000b273b892f687976fc0a8ba4cca19" alt="Seotaiji and Boys" width="50" /> | Seotaiji and Boys (1992-03-23) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f36e973cb830845b56621f78" alt="Emptiness" width="50" /> | Emptiness (2024-03-26) | <img src="https://i.scdn.co/image/ab67616d0000b273e9e1fd55a8798bc0a49fe28c" alt="No.1 - The 2nd Album" width="50" /> | No.1 - The 2nd Album (2002-01-04) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb692ba736f1102246f7994f" alt="Re:Scene" width="50" /> | Re:Scene (2024-03-26) | <img src="https://i.scdn.co/image/ab67616d0000b273a193f0e1f6d7fb40727c5e30" alt="Hug" width="50" /> | Hug (2004-01-14) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="SUPER REAL ME" width="50" /> | SUPER REAL ME (2024-03-25) | <img src="https://i.scdn.co/image/ab67616d0000b27382b88b49dd9a1b387cb3f0c6" alt="TRI-ANGLE - 1st Album" width="50" /> | TRI-ANGLE - 1st Album (2004-10-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="DREAM( )SCAPE" width="50" /> | DREAM( )SCAPE (2024-03-25) | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="It&#x27;s Raining" width="50" /> | It's Raining (2004-10-08) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f7540ea5cd0831b2c7e4ff9" alt="BXX" width="50" /> | BXX (2024-03-19) | <img src="https://i.scdn.co/image/ab67616d0000b27301f2ffc72e8c0556b3abad4c" alt="Girls On Top" width="50" /> | Girls On Top (2005-06-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f42a976b1e82a3247873f929" alt="Borderline" width="50" /> | Borderline (2024-03-14) | <img src="https://i.scdn.co/image/ab67616d0000b273c5f539a520f9ce9f28ccd1e5" alt="The Wonder Years" width="50" /> | The Wonder Years (2007-09-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="Wish You Hell - The 2nd Mini Album" width="50" /> | Wish You Hell - The 2nd Mini Album (2024-03-12) | <img src="https://i.scdn.co/image/ab67616d0000b2731111b7562b4b46870d27f98b" alt="Girls&#x27; Generation" width="50" /> | Girls' Generation (2007-11-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="EENIE MEENIE" width="50" /> | EENIE MEENIE (2024-03-11) | <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> | So Hot (2008-06-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | Djesse Vol. 4 (2024-03-01) | <img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="The SHINee World - The First Album" width="50" /> | The SHINee World - The First Album (2008-08-28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bf32f4be80afeb0e1a09b27d" alt="Officially Cool" width="50" /> | Officially Cool (2024-04-02) | <img src="https://i.scdn.co/image/ab67616d0000b273b892f687976fc0a8ba4cca19" alt="Seotaiji and Boys" width="50" /> | Seotaiji and Boys (1992-03-23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734f6afc385052250c766a5683" alt="BABYMONS7ER" width="50" /> | BABYMONS7ER (2024-04-01) | <img src="https://i.scdn.co/image/ab67616d0000b273e9e1fd55a8798bc0a49fe28c" alt="No.1 - The 2nd Album" width="50" /> | No.1 - The 2nd Album (2002-01-04) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b75a7d2227a1a032a8a776e5" alt="Fraggle Rock: Back To The Rock - Season 2 (Apple TV+ Original Series Soundtrack)" width="50" /> | Fraggle Rock: Back To The Rock - Season 2 (Apple TV+ Original Series Soundtrack) (2024-03-29) | <img src="https://i.scdn.co/image/ab67616d0000b273a193f0e1f6d7fb40727c5e30" alt="Hug" width="50" /> | Hug (2004-01-14) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f36e973cb830845b56621f78" alt="Emptiness" width="50" /> | Emptiness (2024-03-26) | <img src="https://i.scdn.co/image/ab67616d0000b27382b88b49dd9a1b387cb3f0c6" alt="TRI-ANGLE - 1st Album" width="50" /> | TRI-ANGLE - 1st Album (2004-10-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb692ba736f1102246f7994f" alt="Re:Scene" width="50" /> | Re:Scene (2024-03-26) | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="It&#x27;s Raining" width="50" /> | It's Raining (2004-10-08) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="SUPER REAL ME" width="50" /> | SUPER REAL ME (2024-03-25) | <img src="https://i.scdn.co/image/ab67616d0000b27301f2ffc72e8c0556b3abad4c" alt="Girls On Top" width="50" /> | Girls On Top (2005-06-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="DREAM( )SCAPE" width="50" /> | DREAM( )SCAPE (2024-03-25) | <img src="https://i.scdn.co/image/ab67616d0000b273c5f539a520f9ce9f28ccd1e5" alt="The Wonder Years" width="50" /> | The Wonder Years (2007-09-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f7540ea5cd0831b2c7e4ff9" alt="BXX" width="50" /> | BXX (2024-03-19) | <img src="https://i.scdn.co/image/ab67616d0000b2731111b7562b4b46870d27f98b" alt="Girls&#x27; Generation" width="50" /> | Girls' Generation (2007-11-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f42a976b1e82a3247873f929" alt="Borderline" width="50" /> | Borderline (2024-03-14) | <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> | So Hot (2008-06-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="Wish You Hell - The 2nd Mini Album" width="50" /> | Wish You Hell - The 2nd Mini Album (2024-03-12) | <img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="The SHINee World - The First Album" width="50" /> | The SHINee World - The First Album (2008-08-28) |

@@ -83,7 +83,7 @@
 | Year | Number of Tracks |
 |:---|---:|
 | 1995 | 19 |
-| [1983](1983.md) | 36 |
+| [1983](1983/overview.md) | 36 |
 
 </details>
 

@@ -1,6 +1,6 @@
 # dance pop
 
-143 songs
+141 songs
 
 [See Track Features](audio_features.md)
 
@@ -12,7 +12,7 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 14 | 10 | [Bruno Mars](../../artists/bruno_mars/overview.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | 14 | 9 | [Lady Gaga](../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 9 | 8 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | 9 | 8 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | 13 | 7 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99a94361a732b7eb49342d35" alt="" width="50" /> | 6 | 5 | [Camila Cabello](../../artists/camila_cabello/overview.md) | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="" width="50" /> | 6 | 5 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
@@ -23,7 +23,7 @@
 
 
 <details>
-<summary>See all 94 artists</summary>
+<summary>See all 90 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -75,10 +75,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf556662d187b9191c421be1c" alt="" width="50" /> | 1 | 1 | 2 Chainz | [🔗](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb581efa688945cbb092df1726" alt="" width="50" /> | 1 | 1 | Avril Lavigne | [🔗](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb02582bb3fa9d68f44a247f39" alt="" width="50" /> | 1 | 1 | Robin Thicke | [🔗](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | 2 | 0 | Lil Jon | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | 2 | 0 | Calvin Harris | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4b6c50f5fdfc89384b19cc68" alt="" width="50" /> | 2 | 0 | DJ Snake | [🔗](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb65c99d6d784dc2cabd2a5492" alt="" width="50" /> | 2 | 0 | Mandy Moore | [🔗](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba12641edfc4ffbbdf58f7d15" alt="" width="50" /> | 1 | 0 | Lil Jon | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c44e078944196a8c1eec256" alt="" width="50" /> | 1 | 0 | Colby O'Donis | [🔗](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b3c0f33bc5e3f6a53f84d7" alt="" width="50" /> | 1 | 0 | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb15f9e9bf9aa9069d53fec1ce" alt="" width="50" /> | 1 | 0 | Cher | [🔗](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) |
@@ -88,7 +87,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb44f424402a1933b745019107" alt="" width="50" /> | 1 | 0 | Lil' Kim | [🔗](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb84505d89ff27a88fca05f56d" alt="" width="50" /> | 1 | 0 | Alejandro Sanz | [🔗](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 1 | 0 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8543b9b2b5d153d37c46606d" alt="" width="50" /> | 1 | 0 | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0550f0badff3ad04802b1e86" alt="" width="50" /> | 1 | 0 | RAYE | [🔗](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) |
 | <img src="https://i.scdn.co/image/2103311f1aedbaa1c8c9514d79c45f4c3ddbca96" alt="" width="50" /> | 1 | 0 | Bootsy Collins | [🔗](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21b66418f7f3b86967f85bce" alt="" width="50" /> | 1 | 0 | Mariah Carey | [🔗](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) |
@@ -105,9 +103,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9592a41ec193fd20c5372ed3" alt="" width="50" /> | 1 | 0 | Cassie | [🔗](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca118e3822061f7b7f6bc537" alt="" width="50" /> | 1 | 0 | Ne-Yo | [🔗](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9047f938310ea16b68a5bdeb" alt="" width="50" /> | 1 | 0 | Rauw Alejandro | [🔗](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc80f303b208a480f52e8180b" alt="" width="50" /> | 1 | 0 | Ozuna | [🔗](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf75e64532704bd6acf0b4e76" alt="" width="50" /> | 1 | 0 | Destiny's Child | [🔗](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6fcd1b700654bccf1adee3ed" alt="" width="50" /> | 1 | 0 | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e91ffbba84e8e94bafbc6d7" alt="" width="50" /> | 1 | 0 | Spice Girls | [🔗](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebee07b5820dd91d15d397e29c" alt="" width="50" /> | 1 | 0 | Pitbull | [🔗](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7356ae4581e46319f99c813a" alt="" width="50" /> | 1 | 0 | TLC | [🔗](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) |
@@ -124,13 +120,13 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c041fe9e3c9de436047d86b" alt="I Am The Best" width="50" /> | I Am The Best | 30 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | [Leave The Door Open](../../artists/bruno_mars/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738136c2c2762cba40cb51f9aa" alt="The Evolution" width="50" /> | Get Up (feat. Chamillionaire) | 277 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="Tangled" width="50" /> | When Will My Life Begin? - From "Tangled" / Soundtrack Version | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="ELVIS (Original Motion Picture Soundtrack)" width="50" /> | [Vegas](../../artists/doja_cat/overview.md) | 349 | <img src="https://i.scdn.co/image/ab67616d0000b27306b7221a0ecc0dd36f4f8f18" alt="React" width="50" /> | React | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f" alt="Merry Christmas" width="50" /> | All I Want for Christmas Is You | 456 | <img src="https://i.scdn.co/image/ab67616d0000b2737a6339d6ddfd579f77559b3c" alt="Animal (Expanded Edition)" width="50" /> | TiK ToK | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f" alt="Merry Christmas" width="50" /> | All I Want for Christmas Is You | 455 | <img src="https://i.scdn.co/image/ab67616d0000b2737a6339d6ddfd579f77559b3c" alt="Animal (Expanded Edition)" width="50" /> | TiK ToK | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" alt="FutureSex/LoveSounds" width="50" /> | SexyBack (feat. Timbaland) | 474 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="Doo-Wops &amp; Hooligans" width="50" /> | [The Other Side (feat. CeeLo Green and B.o.B)](../../artists/bruno_mars/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="Chromatica" width="50" /> | [Sour Candy (with BLACKPINK)](../../artists/lady_gaga/overview.md) | 542 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | [That's What I Like](../../artists/bruno_mars/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="We Sing. We Dance. We Steal Things." width="50" /> | Lucky | 607 | <img src="https://i.scdn.co/image/ab67616d0000b27300164c96548a622d34b39828" alt="Beautiful Trauma" width="50" /> | What About Us | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273786cb106c8bb0c15c86a93a0" alt="Hurts 2B Human" width="50" /> | Hustle | 672 | <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="Born This Way" width="50" /> | [Judas](../../artists/lady_gaga/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f2d10189a41c7345a5a0337" alt="To Anyone" width="50" /> | Can't Nobody | 683 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="The Fame Monster (Deluxe Edition)" width="50" /> | [Bad Romance](../../artists/lady_gaga/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f14aa81116510d3a6df8432b" alt="Hot Pink" width="50" /> | [Say So](../../artists/doja_cat/overview.md) | 680 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="The Fame" width="50" /> | [LoveGame](../../artists/lady_gaga/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="We Sing. We Dance. We Steal Things." width="50" /> | Lucky | 614 | <img src="https://i.scdn.co/image/ab67616d0000b27300164c96548a622d34b39828" alt="Beautiful Trauma" width="50" /> | What About Us | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273786cb106c8bb0c15c86a93a0" alt="Hurts 2B Human" width="50" /> | Hustle | 675 | <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="Born This Way" width="50" /> | [Judas](../../artists/lady_gaga/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f2d10189a41c7345a5a0337" alt="To Anyone" width="50" /> | Can't Nobody | 689 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="The Fame Monster (Deluxe Edition)" width="50" /> | [Bad Romance](../../artists/lady_gaga/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f14aa81116510d3a6df8432b" alt="Hot Pink" width="50" /> | [Say So](../../artists/doja_cat/overview.md) | 690 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="The Fame" width="50" /> | [LoveGame](../../artists/lady_gaga/overview.md) | nan |
 
 ## Top Albums
 
@@ -149,7 +145,7 @@
 
 
 <details>
-<summary>See top 100 albums</summary>
+<summary>See all 99 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -213,7 +209,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="" width="50" /> | 1 | 1 | ...Baby One More Time (Digital Deluxe Version) | 1999-01-12 | [🔗](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6a328ced07af494400584b" alt="" width="50" /> | 1 | 0 | souljaboytellem.com | 2007-01-01 | [🔗](https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d883d3f10af481faa3c7e04" alt="" width="50" /> | 1 | 0 | You Don't Know Me | 2016-12-09 | [🔗](https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d905e78cad304de028db39b7" alt="" width="50" /> | 1 | 0 | Turn Down for What | 2013-12-18 | [🔗](https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273969438a8091085c2472a0766" alt="" width="50" /> | 1 | 0 | Til It Happens To You | 2015-09-18 | [🔗](https://open.spotify.com/album/00qjYaNSNpQCZHhCpAlH60) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d9aa52355e062f5de060adbf" alt="" width="50" /> | 1 | 0 | This Is What You Came For | 2016-04-29 | [🔗](https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c999354430ff7eac3e0d9bc8" alt="" width="50" /> | 1 | 0 | This Is The End: Original Motion Picture Soundtrack | 2013-06-10 | [🔗](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) |
@@ -222,7 +217,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c83e8f225e70de4bb866c96" alt="" width="50" /> | 1 | 0 | Survivor | 2001-05-01 | [🔗](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363facc42e4a35eb3aa182b59" alt="" width="50" /> | 1 | 0 | Spice | 1996-01-01 | [🔗](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ff8bc258e3ebc835ffe14ca" alt="" width="50" /> | 1 | 0 | Save Me, San Francisco (Golden Gate Edition) | 2010-12-01 | [🔗](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="" width="50" /> | 1 | 0 | SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) | 2021-10-22 | [🔗](https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d09f96d82310d4d77c14c108" alt="" width="50" /> | 1 | 0 | One Kiss (with Dua Lipa) | 2018-04-06 | [🔗](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273687e8a165b272440a68a480f" alt="" width="50" /> | 1 | 0 | Moulin Rouge | 2001-01-01 | [🔗](https://open.spotify.com/album/1Kg7AyuyIMTfD6geg9VghI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f" alt="" width="50" /> | 1 | 0 | Merry Christmas | 1994-10-28 | [🔗](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) |
@@ -243,6 +237,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27324e1589fb3eab8ae8831f388" alt="" width="50" /> | 1 | 0 | Blown Away | 2012-05-01 | [🔗](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27306ce0d1f846c525e847d60e7" alt="" width="50" /> | 1 | 0 | Believe | 1998 | [🔗](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27300164c96548a622d34b39828" alt="" width="50" /> | 1 | 0 | Beautiful Trauma | 2017-10-13 | [🔗](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737ed87984e7f39ba42ee1b50a" alt="" width="50" /> | 1 | 0 | All I Ever Wanted | 2009-03-06 | [🔗](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) |
 
 </details>
 
@@ -266,7 +261,7 @@
 
 
 <details>
-<summary>See all 43 labels</summary>
+<summary>See all 42 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -293,14 +288,13 @@
 | 1 | 1 | Bad Dreams Records |
 | 1 | 1 | Access Records |
 | 1 | 1 | A&M |
-| 5 | 0 | [Columbia](../../labels/columbia/overview.md) |
+| 4 | 0 | [Columbia](../../labels/columbia/overview.md) |
 | 2 | 0 | [Walt Disney Records](../../labels/walt_disney_records/overview.md) |
 | 1 | 0 | Sony Music UK |
 | 1 | 0 | Silent Records IGA |
 | 1 | 0 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 1 | 0 | Moulin Rouge |
 | 1 | 0 | Def Soul |
-| 1 | 0 | DJ Snake Music Productions Limited |
 | 1 | 0 | Collipark |
 | 1 | 0 | [Bad Boy](../../labels/bad_boy/overview.md) |
 
@@ -319,7 +313,7 @@
 | | [John Hanes](../../producers/john_hanes/overview.md) | 13 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 10 | Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 10 | Songwriter, Producer, Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 8 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 8 | Songwriter |
 | | [Łukasz Gottwald (Gottwald, Łukasz)](../../producers/łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 7 | Songwriter |
 | | Philip Lawrence | 7 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 6 | Songwriter |
@@ -436,8 +430,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739a9716c90ceeb1890921e44f" alt="Te Felicito" width="50" /> | Te Felicito (2022-04-21) | <img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="...Baby One More Time (Digital Deluxe Version)" width="50" /> | ...Baby One More Time (Digital Deluxe Version) (1999-01-12) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="Love&#x27;s Train" width="50" /> | Love's Train (2022-02-14) | <img src="https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95" alt="Fanmail" width="50" /> | Fanmail (1999-02-23) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | An Evening With Silk Sonic (2021-11-11) | <img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="Millennium" width="50" /> | Millennium (1999-05-18) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="SG (with Ozuna, Megan Thee Stallion &amp; LISA of BLACKPINK)" width="50" /> | SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (2021-10-22) | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> | No Strings Attached (2000-03-21) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a" alt="Planet Her" width="50" /> | Planet Her (2021-06-25) | <img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="Oops!... I Did It Again" width="50" /> | Oops!... I Did It Again (2000-05-16) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="Better Mistakes" width="50" /> | Better Mistakes (2021-05-07) | <img src="https://i.scdn.co/image/ab67616d0000b273687e8a165b272440a68a480f" alt="Moulin Rouge" width="50" /> | Moulin Rouge (2001-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a" alt="Planet Her" width="50" /> | Planet Her (2021-06-25) | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> | No Strings Attached (2000-03-21) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="Better Mistakes" width="50" /> | Better Mistakes (2021-05-07) | <img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="Oops!... I Did It Again" width="50" /> | Oops!... I Did It Again (2000-05-16) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c031afd210aed3084f80956" alt="Kiss Me More (feat. SZA)" width="50" /> | Kiss Me More (feat. SZA) (2021-04-09) | <img src="https://i.scdn.co/image/ab67616d0000b273687e8a165b272440a68a480f" alt="Moulin Rouge" width="50" /> | Moulin Rouge (2001-01-01) |
 
 ![Bar chart of number of songs by year](../../images/genres/dance_pop/years.png)

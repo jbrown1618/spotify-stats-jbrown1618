@@ -49,7 +49,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | Girls (0.325) | <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="MAGIC MAN" width="50" /> | Cruel (0.0309) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="IN:VITE U" width="50" /> | Sparkling Night (0.299) | <img src="https://i.scdn.co/image/ab67616d0000b273a93c207b94cbb802b1efefa1" alt="MOTH" width="50" /> | Phase Me (0.0309) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730723ae056bdcdb6d2872a13f" alt="Golden Age - The 4th Album" width="50" /> | Baggy Jeans (0.289) | <img src="https://i.scdn.co/image/ab67616d0000b273ace0e90dab0e51a4aec4f50a" alt="HANN (Alone)" width="50" /> | HANN (Alone) (0.0312) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | Gas Me Up (0.286) | <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="Purpose - The 2nd Album" width="50" /> | Here I Am (0.0315) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="Hold On Tight" width="50" /> | Hold On Tight (0.283) | <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="Purpose - The 2nd Album" width="50" /> | Here I Am (0.0315) |
 
 ## Acousticness
 
@@ -100,7 +100,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273cc6f76f75551af499b5cd0cb" alt="Step Back" width="50" /> | Step Back (0.596) | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="KILL MY DOUBT" width="50" /> | CAKE (0.0431) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | Animal Farm (0.579) | <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="We Boom - The 3rd Mini Album" width="50" /> | BOOM (0.0441) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="I GOT A BOY - The 4th Album" width="50" /> | I GOT A BOY (0.538) | <img src="https://i.scdn.co/image/ab67616d0000b27392b61d0844e0d9fbfff2ca43" alt="ZONE" width="50" /> | Killin’ Me Good (0.0449) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f919108974e4213d86b83805" alt="Monster - The 1st Mini Album" width="50" /> | Monster (0.537) | <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="ELEVEN" width="50" /> | ELEVEN (0.048) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f919108974e4213d86b83805" alt="Monster - The 1st Mini Album" width="50" /> | Monster (0.537) | <img src="https://i.scdn.co/image/ab67616d0000b2734f6afc385052250c766a5683" alt="BABYMONS7ER" width="50" /> | SHEESH (0.0473) |
 
 ## Valence
 

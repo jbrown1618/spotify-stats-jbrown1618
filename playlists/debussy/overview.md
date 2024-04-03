@@ -81,7 +81,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [1994](1994.md) | 20 |
+| [1994](1994/overview.md) | 20 |
 | 1989 | 3 |
 
 </details>

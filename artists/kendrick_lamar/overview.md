@@ -10,6 +10,8 @@ Kendrick Lamar:
 - is also known as OKLAMA
 
 ## Artist Rank
+Kendrick Lamar is currently:
+- The #47 artist of the last month
 
 
 ## Featured on Playlists
@@ -116,14 +118,14 @@ Kendrick Lamar:
 ![Bar chart of top 29 producers](../../images/artists/kendrick_lamar/producers.png)
 ## Tracks
 
-| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
+| Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797" alt="" width="50" /> | Money Trees | good kid, m.A.A.d city | [Kendrick Lamar](overview.md), Jay Rock | [Aftermath](../../labels/aftermath) | 0 | | [🔗](https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1" alt="" width="50" /> | Alright | To Pimp A Butterfly | [Kendrick Lamar](overview.md) | [Aftermath](../../labels/aftermath) | 0 | | [🔗](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | DNA. | DAMN. | [Kendrick Lamar](overview.md) | [Aftermath](../../labels/aftermath) | 0 | 💚 | [🔗](https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | HUMBLE. | DAMN. | [Kendrick Lamar](overview.md) | [Aftermath](../../labels/aftermath) | 0 | | [🔗](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | LOVE. FEAT. ZACARI. | DAMN. | [Kendrick Lamar](overview.md), Zacari | [Aftermath](../../labels/aftermath) | 0 | 💚 | [🔗](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888" alt="" width="50" /> | All The Stars (with SZA) | Black Panther The Album Music From And Inspired By | [Kendrick Lamar](overview.md), SZA | Black Panther (TDE/DMG) PS | 0 | 💚 | [🔗](https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="" width="50" /> | Momma I Hit A Lick (feat. Kendrick Lamar) | Rap Or Go To The League | 2 Chainz, [Kendrick Lamar](overview.md) | [Gamebread, LLC / Def Jam Recordings](../../labels/def_jam_recordings) | 0 | | [🔗](https://open.spotify.com/track/7jKUnzzOGhAlPjr7LkIUlE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | Count Me Out | Mr. Morale & The Big Steppers | [Kendrick Lamar](overview.md) | Top Dawg Entertainment, [Aftermath](../../labels/aftermath), [Interscope Records](../../labels/interscope_records), pgLang | 0 | 💚 | [🔗](https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | United In Grief | Mr. Morale & The Big Steppers | [Kendrick Lamar](overview.md) | Top Dawg Entertainment, [Aftermath](../../labels/aftermath), [Interscope Records](../../labels/interscope_records), pgLang | 0 | 💚 | [🔗](https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797" alt="" width="50" /> | Money Trees | good kid, m.A.A.d city | [Kendrick Lamar](overview.md), Jay Rock | [Aftermath](../../labels/aftermath) | nan | | [🔗](https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1" alt="" width="50" /> | Alright | To Pimp A Butterfly | [Kendrick Lamar](overview.md) | [Aftermath](../../labels/aftermath) | nan | | [🔗](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | DNA. | DAMN. | [Kendrick Lamar](overview.md) | [Aftermath](../../labels/aftermath) | nan | 💚 | [🔗](https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | HUMBLE. | DAMN. | [Kendrick Lamar](overview.md) | [Aftermath](../../labels/aftermath) | nan | | [🔗](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | LOVE. FEAT. ZACARI. | DAMN. | [Kendrick Lamar](overview.md), Zacari | [Aftermath](../../labels/aftermath) | nan | 💚 | [🔗](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888" alt="" width="50" /> | All The Stars (with SZA) | Black Panther The Album Music From And Inspired By | [Kendrick Lamar](overview.md), SZA | Black Panther (TDE/DMG) PS | nan | 💚 | [🔗](https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="" width="50" /> | Momma I Hit A Lick (feat. Kendrick Lamar) | Rap Or Go To The League | 2 Chainz, [Kendrick Lamar](overview.md) | [Gamebread, LLC / Def Jam Recordings](../../labels/def_jam_recordings) | nan | | [🔗](https://open.spotify.com/track/7jKUnzzOGhAlPjr7LkIUlE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | Count Me Out | Mr. Morale & The Big Steppers | [Kendrick Lamar](overview.md) | Top Dawg Entertainment, [Aftermath](../../labels/aftermath), [Interscope Records](../../labels/interscope_records), pgLang | nan | 💚 | [🔗](https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | United In Grief | Mr. Morale & The Big Steppers | [Kendrick Lamar](overview.md) | Top Dawg Entertainment, [Aftermath](../../labels/aftermath), [Interscope Records](../../labels/interscope_records), pgLang | nan | 💚 | [🔗](https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL) |

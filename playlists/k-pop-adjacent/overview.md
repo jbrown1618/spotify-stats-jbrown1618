@@ -60,7 +60,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcff7038d323f4db7d0e90c9c" alt="" width="50" /> | 1 | 1 | Bishop Briggs | [🔗](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f" alt="" width="50" /> | 1 | 1 | Måneskin | [🔗](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | 1 | 1 | Yuuri | [🔗](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd2657bcafcb300d90816523f" alt="" width="50" /> | 1 | 1 | Kehlani | [🔗](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb257217c67faea40445b21169" alt="" width="50" /> | 1 | 1 | Kehlani | [🔗](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="" width="50" /> | 1 | 1 | Lee Young Ji | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0d53f158f4070d5a72190c4c" alt="" width="50" /> | 1 | 1 | Stephanie Poetri | [🔗](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb13e8057399bcfc4d4ec4c5dc" alt="" width="50" /> | 1 | 1 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
@@ -108,11 +108,11 @@
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="ALL OUT" width="50" /> | VILLAIN | 147 | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> | [I'll Show You](../../artists/justin_bieber/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="Love&#x27;s Battery" width="50" /> | Love's Battery | 449 | <img src="https://i.scdn.co/image/ab67616d0000b2731ccae05cfc0a4def5804bb60" alt="perfect blues" width="50" /> | perfect blues | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="Love&#x27;s Battery" width="50" /> | Love's Battery | 446 | <img src="https://i.scdn.co/image/ab67616d0000b2731ccae05cfc0a4def5804bb60" alt="perfect blues" width="50" /> | perfect blues | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Beggin' | 461 | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="The Prelude" width="50" /> | At My Worst | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | ドライフラワー | 523 | <img src="https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f" alt="El Mal Querer" width="50" /> | MALAMENTE - Cap.1: Augurio | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> | [Off My Face](../../artists/justin_bieber/overview.md) | 606 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0beba9fb519b91d5485ef9" alt="미녀는 괴로워 Original Motion picture Soundtrack" width="50" /> | Maria | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="We Sing. We Dance. We Steal Things." width="50" /> | Lucky | 607 | <img src="https://i.scdn.co/image/ab67616d0000b27309d039265f637b5749c927a8" alt="Sneaky Snitch" width="50" /> | Sneaky Snitch | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | ドライフラワー | 520 | <img src="https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f" alt="El Mal Querer" width="50" /> | MALAMENTE - Cap.1: Augurio | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> | [Off My Face](../../artists/justin_bieber/overview.md) | 610 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0beba9fb519b91d5485ef9" alt="미녀는 괴로워 Original Motion picture Soundtrack" width="50" /> | Maria | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="We Sing. We Dance. We Steal Things." width="50" /> | Lucky | 614 | <img src="https://i.scdn.co/image/ab67616d0000b27309d039265f637b5749c927a8" alt="Sneaky Snitch" width="50" /> | Sneaky Snitch | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734df81e72c09afdd3f50c6d22" alt="Fast &amp; Furious Presents: Hobbs &amp; Shaw (Original Motion Picture Soundtrack)" width="50" /> | Next Level | nan | <img src="https://i.scdn.co/image/ab67616d0000b27376205e74bef31f32a779d970" alt="REMIND" width="50" /> | Blue Whale - 2016 Version | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b627441824c5d0748c8cb077" alt="Dua Lipa" width="50" /> | [Hotter Than Hell](../../artists/dua_lipa/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="Salute (Expanded Edition)" width="50" /> | Salute | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd222052a2594be29a6616b5" alt="Endless Summer Vacation" width="50" /> | Flowers | nan | <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> | Light Switch | nan |
@@ -258,7 +258,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 17 | 10 | [pop](../../genres/pop/overview.md) |
-| 5 | 3 | [dance pop](../../genres/dance_pop/overview.md) |
+| 4 | 3 | [dance pop](../../genres/dance_pop/overview.md) |
 | 6 | 2 | [r&b](../../genres/r_b/overview.md) |
 | 2 | 2 | [korean pop](../../genres/korean_pop/overview.md) |
 | 2 | 2 | korean indie rock |

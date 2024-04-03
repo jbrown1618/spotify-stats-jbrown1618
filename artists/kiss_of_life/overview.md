@@ -22,8 +22,8 @@ KISS OF LIFE is currently:
 
 - Nobody Knows is:
     - the #2 track of the On Repeat playlist
-    - the #21 track of the last 6 months
-- Bad News is the #21 track of the On Repeat playlist
+    - the #22 track of the last 6 months
+- Bad News is the #29 track of the On Repeat playlist
 
 ### Top tracks, aggregated
 
@@ -36,8 +36,8 @@ KISS OF LIFE is currently:
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 8 | [K-Pop](../../playlists/k-pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e020c1f1054d3a170ee26430c79ab67616d00001e022bca95a658fdf653a35a3710ab67616d00001e0296d36aec71bf25f59df5cc96ab67616d00001e02c54e39f2ae0dd10731f93c08" alt="" width="50" /> | 4 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e023b414bbbf73c81957c8b7541ab67616d00001e02470d0ba5f707b141d1337cf2ab67616d00001e0281d97a31253b898bc4149195ab67616d00001e02c74be23f27696b57c67f5489" alt="" width="50" /> | 2 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg" alt="" width="50" /> | 2 | [On Repeat](../../playlists/on_repeat/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020f7e2aa2f1d7ea0fd2e206c0ab67616d00001e0216aaf05fe82237576a7d0e38ab67616d00001e0220112a0321d2efc7384db456ab67616d00001e02f93159d78849714fcf118bb3" alt="" width="50" /> | 1 | [Funk](../../playlists/funk/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e021f5de98907a7f969ea7c28dbab67616d00001e02992cdb975f91efd91b998628ab67616d00001e02addef7fad07f17acdf7d6b98ab67616d00001e02e827c21f833661043f8dd588" alt="" width="50" /> | 1 | [누구?](../../playlists/누구_/overview.md) |
@@ -121,13 +121,13 @@ KISS OF LIFE is currently:
 ![Bar chart of top 18 producers](../../images/artists/kiss_of_life/producers.png)
 ## Tracks
 
-| Art | Track | Album | Artists | Label | Score | 💚 | 🔗 |
+| Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Nobody Knows | Born to be XX | [KISS OF LIFE](overview.md) | S2 ENTERTAINMENT INC. | 2790 | 💚 | [🔗](https://open.spotify.com/track/70efTlnBNM8BvfhfPiqOBN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Bad News | Born to be XX | [KISS OF LIFE](overview.md) | S2 ENTERTAINMENT INC. | 432 | 💚 | [🔗](https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Countdown (BELLE Solo) | KISS OF LIFE | [KISS OF LIFE](overview.md) | S2 ENTERTAINMENT INC. | 0 | 💚 | [🔗](https://open.spotify.com/track/3pJbio7BQLvqNne62Xe73I) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Kitty Cat (JULIE Solo) | KISS OF LIFE | [KISS OF LIFE](overview.md) | S2 ENTERTAINMENT INC. | 0 | | [🔗](https://open.spotify.com/track/6MiodzZmp1bKamgF3qhmre) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Shhh | KISS OF LIFE | [KISS OF LIFE](overview.md) | S2 ENTERTAINMENT INC. | 0 | 💚 | [🔗](https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Sugarcoat (NATTY Solo) | KISS OF LIFE | [KISS OF LIFE](overview.md) | S2 ENTERTAINMENT INC. | 0 | 💚 | [🔗](https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Gentleman | Born to be XX | [KISS OF LIFE](overview.md) | S2 ENTERTAINMENT INC. | 0 | 💚 | [🔗](https://open.spotify.com/track/5JjVCxjqX1zwZc5MRa39ly) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | My 808 | Born to be XX | [KISS OF LIFE](overview.md) | S2 ENTERTAINMENT INC. | 0 | | [🔗](https://open.spotify.com/track/4eYHnUeE6mVXKg6S7kOatk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Nobody Knows | Born to be XX | [KISS OF LIFE](overview.md) | S2 ENTERTAINMENT INC. | 149 | 💚 | [🔗](https://open.spotify.com/track/70efTlnBNM8BvfhfPiqOBN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Bad News | Born to be XX | [KISS OF LIFE](overview.md) | S2 ENTERTAINMENT INC. | 229 | 💚 | [🔗](https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Countdown (BELLE Solo) | KISS OF LIFE | [KISS OF LIFE](overview.md) | S2 ENTERTAINMENT INC. | nan | 💚 | [🔗](https://open.spotify.com/track/3pJbio7BQLvqNne62Xe73I) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Kitty Cat (JULIE Solo) | KISS OF LIFE | [KISS OF LIFE](overview.md) | S2 ENTERTAINMENT INC. | nan | | [🔗](https://open.spotify.com/track/6MiodzZmp1bKamgF3qhmre) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Shhh | KISS OF LIFE | [KISS OF LIFE](overview.md) | S2 ENTERTAINMENT INC. | nan | 💚 | [🔗](https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Sugarcoat (NATTY Solo) | KISS OF LIFE | [KISS OF LIFE](overview.md) | S2 ENTERTAINMENT INC. | nan | 💚 | [🔗](https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Gentleman | Born to be XX | [KISS OF LIFE](overview.md) | S2 ENTERTAINMENT INC. | nan | 💚 | [🔗](https://open.spotify.com/track/5JjVCxjqX1zwZc5MRa39ly) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | My 808 | Born to be XX | [KISS OF LIFE](overview.md) | S2 ENTERTAINMENT INC. | nan | | [🔗](https://open.spotify.com/track/4eYHnUeE6mVXKg6S7kOatk) |

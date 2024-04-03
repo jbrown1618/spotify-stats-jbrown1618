@@ -1,6 +1,6 @@
 # Liked Tracks
 
-1882 tracks
+1884 tracks
 
 [See Track Features](audio_features.md)
 
@@ -61,7 +61,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 10 | 10 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 10 | 10 | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | 9 | 9 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | 9 | 9 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | 9 | 9 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1925e6520e474e569c971b36" alt="" width="50" /> | 9 | 9 | [BoA](../../artists/boa/overview.md) | [🔗](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1edc72b57c227d48e28888b1" alt="" width="50" /> | 9 | 9 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb49cfa92440a7629ab21a8561" alt="" width="50" /> | 9 | 9 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
@@ -91,6 +91,7 @@
 | <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | 6 | 6 | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [🔗](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a6eda4c3bb829e35333dc07" alt="" width="50" /> | 6 | 6 | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [🔗](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="" width="50" /> | 6 | 6 | [Gain](../../artists/gain/overview.md) | [🔗](https://open.spotify.com/artist/4R60A85t9mTZzCqJlVswuo) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb5fc114ab8f521a8f6070cab" alt="" width="50" /> | 6 | 6 | [WINTER](../../artists/winter/overview.md) | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb62a8a58d9c39c6ace6fafc82" alt="" width="50" /> | 6 | 6 | [TREASURE](../../artists/treasure/overview.md) | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba66f2ec19992e8c33e5f3c06" alt="" width="50" /> | 6 | 6 | [P1Harmony](../../artists/p1harmony/overview.md) | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0001b1abdae41d669a446b7" alt="" width="50" /> | 6 | 6 | [SHINee](../../artists/shinee/overview.md) | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
@@ -110,7 +111,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | 5 | 5 | [Daft Punk](../../artists/daft_punk/overview.md) | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | 5 | 5 | [Coldplay](../../artists/coldplay/overview.md) | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb791dd8450bdde549ec172ead" alt="" width="50" /> | 5 | 5 | [YENA](../../artists/yena/overview.md) | [🔗](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb5fc114ab8f521a8f6070cab" alt="" width="50" /> | 5 | 5 | [WINTER](../../artists/winter/overview.md) | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 5 | 5 | [Michael Jackson](../../artists/michael_jackson/overview.md) | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb300fc4526b63fe9e2190e1fb" alt="" width="50" /> | 5 | 5 | [TEN](../../artists/ten/overview.md) | [🔗](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb36c6fa1b8ff851988de641f8" alt="" width="50" /> | 5 | 5 | [Lindsey Stirling](../../artists/lindsey_stirling/overview.md) | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
@@ -272,7 +272,7 @@
 | 245 | 245 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 114 | 114 | [Republic Records](../../labels/republic_records/overview.md) |
 | 77 | 77 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
-| 67 | 67 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
+| 68 | 68 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 67 | 67 | [Epic](../../labels/epic/overview.md) |
 | 65 | 65 | [Columbia](../../labels/columbia/overview.md) |
 | 61 | 61 | [Warner Records](../../labels/warner_records/overview.md) |
@@ -316,9 +316,9 @@
 | 11 | 11 | [Jive](../../labels/jive/overview.md) |
 | 11 | 11 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 11 | 11 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment/overview.md) |
+| 10 | 10 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 10 | 10 | [EDAM Entertainment](../../labels/edam_entertainment/overview.md) |
 | 10 | 10 | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company/overview.md) |
-| 9 | 9 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 9 | 9 | [MOTOWN](../../labels/motown/overview.md) |
 | 9 | 9 | [MNH ENTERTAINMENT](../../labels/mnh_entertainment/overview.md) |
 | 9 | 9 | [Bad Boy](../../labels/bad_boy/overview.md) |
@@ -598,7 +598,7 @@
 | | [danke](../../producers/danke/overview.md) | 9 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | [Imogen Heap](../../artists/imogen_heap/overview.md) | 9 | Songwriter, Lyricist, Producer |
 | | Alawn | 9 | Producer, Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 8 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 8 | Songwriter |
 | | 김석민 (Kim Seog-min) | 8 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 8 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="" width="50" /> | [Sia](../../artists/sia/overview.md) | 8 | Lyricist, Songwriter, Producer |
@@ -624,24 +624,24 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2024](2024.md) | 51 |
-| [2023](2023.md) | 227 |
-| [2022](2022.md) | 250 |
-| [2021](2021.md) | 190 |
-| [2020](2020.md) | 150 |
-| [2019](2019.md) | 134 |
-| [2018](2018.md) | 95 |
-| [2017](2017.md) | 81 |
-| [2016](2016.md) | 81 |
-| [2015](2015.md) | 65 |
-| [2014](2014.md) | 46 |
-| [2013](2013.md) | 60 |
-| [2012](2012.md) | 58 |
-| [2011](2011.md) | 38 |
-| [2010](2010.md) | 38 |
-| [2009](2009.md) | 33 |
-| [2008](2008.md) | 24 |
-| [2007](2007.md) | 27 |
+| [2024](2024/overview.md) | 53 |
+| [2023](2023/overview.md) | 227 |
+| [2022](2022/overview.md) | 250 |
+| [2021](2021/overview.md) | 190 |
+| [2020](2020/overview.md) | 150 |
+| [2019](2019/overview.md) | 134 |
+| [2018](2018/overview.md) | 95 |
+| [2017](2017/overview.md) | 81 |
+| [2016](2016/overview.md) | 81 |
+| [2015](2015/overview.md) | 65 |
+| [2014](2014/overview.md) | 46 |
+| [2013](2013/overview.md) | 60 |
+| [2012](2012/overview.md) | 58 |
+| [2011](2011/overview.md) | 38 |
+| [2010](2010/overview.md) | 38 |
+| [2009](2009/overview.md) | 33 |
+| [2008](2008/overview.md) | 24 |
+| [2007](2007/overview.md) | 27 |
 | 2006 | 15 |
 | 2005 | 16 |
 | 2004 | 9 |
@@ -695,13 +695,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b75a7d2227a1a032a8a776e5" alt="Fraggle Rock: Back To The Rock - Season 2 (Apple TV+ Original Series Soundtrack)" width="50" /> | Fraggle Rock: Back To The Rock - Season 2 (Apple TV+ Original Series Soundtrack) (2024-03-29) | <img src="https://i.scdn.co/image/ab67616d0000b2737bc42f3bfb5b7cfe28fbee25" alt="After Hours" width="50" /> | After Hours (1955-04-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f36e973cb830845b56621f78" alt="Emptiness" width="50" /> | Emptiness (2024-03-26) | <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="At Last!" width="50" /> | At Last! (1960) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="DREAM( )SCAPE" width="50" /> | DREAM( )SCAPE (2024-03-25) | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="The Nat King Cole Story" width="50" /> | The Nat King Cole Story (1961-09-25) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="SUPER REAL ME" width="50" /> | SUPER REAL ME (2024-03-25) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Sinatra/Basie: The Complete Reprise Studio Recordings (1962-12-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273af0b5968b8bad3923b2ea76b" alt="TYLA" width="50" /> | TYLA (2024-03-22) | <img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> | Ring Of Fire: The Best Of Johnny Cash (1963-08-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734063d624ebf8ff67bc3701ee" alt="GUTS (spilled)" width="50" /> | GUTS (spilled) (2024-03-22) | <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> | With The Beatles (Remastered) (1963-11-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="Wish You Hell - The 2nd Mini Album" width="50" /> | Wish You Hell - The 2nd Mini Album (2024-03-12) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="EENIE MEENIE" width="50" /> | EENIE MEENIE (2024-03-11) | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> | Mary Wells Sings My Guy (1964) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="eternal sunshine" width="50" /> | eternal sunshine (2024-03-08) | <img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day&#x27;s Night (Remastered)" width="50" /> | A Hard Day's Night (Remastered) (1964-07-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | Djesse Vol. 4 (2024-03-01) | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> | Wednesday Morning, 3 A.M. (1964-10-19) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bf32f4be80afeb0e1a09b27d" alt="Officially Cool" width="50" /> | Officially Cool (2024-04-02) | <img src="https://i.scdn.co/image/ab67616d0000b2737bc42f3bfb5b7cfe28fbee25" alt="After Hours" width="50" /> | After Hours (1955-04-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734f6afc385052250c766a5683" alt="BABYMONS7ER" width="50" /> | BABYMONS7ER (2024-04-01) | <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="At Last!" width="50" /> | At Last! (1960) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b75a7d2227a1a032a8a776e5" alt="Fraggle Rock: Back To The Rock - Season 2 (Apple TV+ Original Series Soundtrack)" width="50" /> | Fraggle Rock: Back To The Rock - Season 2 (Apple TV+ Original Series Soundtrack) (2024-03-29) | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="The Nat King Cole Story" width="50" /> | The Nat King Cole Story (1961-09-25) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f36e973cb830845b56621f78" alt="Emptiness" width="50" /> | Emptiness (2024-03-26) | <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="Sinatra/Basie: The Complete Reprise Studio Recordings" width="50" /> | Sinatra/Basie: The Complete Reprise Studio Recordings (1962-12-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="DREAM( )SCAPE" width="50" /> | DREAM( )SCAPE (2024-03-25) | <img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="Ring Of Fire: The Best Of Johnny Cash" width="50" /> | Ring Of Fire: The Best Of Johnny Cash (1963-08-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="SUPER REAL ME" width="50" /> | SUPER REAL ME (2024-03-25) | <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="With The Beatles (Remastered)" width="50" /> | With The Beatles (Remastered) (1963-11-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734063d624ebf8ff67bc3701ee" alt="GUTS (spilled)" width="50" /> | GUTS (spilled) (2024-03-22) | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | Days Of Wine And Roses, Moon River And Other Academy Award Winners (1964) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273af0b5968b8bad3923b2ea76b" alt="TYLA" width="50" /> | TYLA (2024-03-22) | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="Mary Wells Sings My Guy" width="50" /> | Mary Wells Sings My Guy (1964) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="Wish You Hell - The 2nd Mini Album" width="50" /> | Wish You Hell - The 2nd Mini Album (2024-03-12) | <img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day&#x27;s Night (Remastered)" width="50" /> | A Hard Day's Night (Remastered) (1964-07-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="EENIE MEENIE" width="50" /> | EENIE MEENIE (2024-03-11) | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> | Wednesday Morning, 3 A.M. (1964-10-19) |

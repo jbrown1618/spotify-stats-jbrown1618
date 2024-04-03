@@ -98,14 +98,14 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb84505d89ff27a88fca05f56d" alt="" width="50" /> | 1 | 0 | Alejandro Sanz | [🔗](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb7b791269f85b4faaf2be90a" alt="" width="50" /> | 1 | 0 | THE TOYS | [🔗](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb81da066644c2a0f0179b596" alt="" width="50" /> | 1 | 0 | Lowsheen | [🔗](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf60f9b359ad44d9b796d5267" alt="" width="50" /> | 1 | 0 | Eric Chou | [🔗](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb808fd5178cbeb5ab3c825069" alt="" width="50" /> | 1 | 0 | Eric Chou | [🔗](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb308ae265cf261595dce0edcd" alt="" width="50" /> | 1 | 0 | Synne Vo | [🔗](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcab7641233163bb5d6c5d527" alt="" width="50" /> | 1 | 0 | Master KG | [🔗](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb179aad93276b141b9848ca1" alt="" width="50" /> | 1 | 0 | Angela Chang | [🔗](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0910ff09d3b54b114d233aa3" alt="" width="50" /> | 1 | 0 | Dadju | [🔗](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb56c0e871603f6da8fdf0ac38" alt="" width="50" /> | 1 | 0 | Afgan | [🔗](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ba4584e515db2e33c8b920d" alt="" width="50" /> | 1 | 0 | Nkosazana Daughter | [🔗](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737c20fb440980c4f2f24346c5" alt="" width="50" /> | 1 | 0 | David Tao | [🔗](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4" alt="" width="50" /> | 1 | 0 | David Tao | [🔗](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba51bae36c3e40b129f925fe" alt="" width="50" /> | 1 | 0 | Kawaguchi Yurina | [🔗](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f3d35703bdcd917dad51c4f" alt="" width="50" /> | 1 | 0 | Shae Gill | [🔗](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1f53bd1b4653831dd12ba990" alt="" width="50" /> | 1 | 0 | Heuss L'enfoiré | [🔗](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) |
@@ -138,14 +138,14 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="アイドル" width="50" /> | アイドル | 258 | <img src="https://i.scdn.co/image/ab67616d0000b2739792873842bcfa921ffceebf" alt="i&#x27;mperfect" width="50" /> | abnormalize | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="アイドル" width="50" /> | アイドル | 259 | <img src="https://i.scdn.co/image/ab67616d0000b2739792873842bcfa921ffceebf" alt="i&#x27;mperfect" width="50" /> | abnormalize | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736305e51741ae5f4acda89fe2" alt="Schwarzes Herz" width="50" /> | Hässlich | 279 | <img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="Evils Theater" width="50" /> | 悪ノ娘 | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | [KARATE](../../artists/babymetal/overview.md) | 312 | <img src="https://i.scdn.co/image/ab67616d0000b273b28db1e5c8c53e67c6969c06" alt="Vintage" width="50" /> | Meleğim | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | [KARATE](../../artists/babymetal/overview.md) | 311 | <img src="https://i.scdn.co/image/ab67616d0000b273b28db1e5c8c53e67c6969c06" alt="Vintage" width="50" /> | Meleğim | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732433cb43f0f2f0f23b7c8b82" alt="Brol" width="50" /> | Tout oublier | 321 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | [A Rock Somewhere (feat. Anoushka Shankar & Varijashree Venugopal)](../../artists/jacob_collier/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | [Headbangeeeeerrrrr!!!!!](../../artists/babymetal/overview.md) | 374 | <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="A BEST" width="50" /> | Boys & Girls | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | [Awadama Fever](../../artists/babymetal/overview.md) | 376 | <img src="https://i.scdn.co/image/ab67616d0000b2733e4b149dd3110f1432bfeca0" alt="Niche Syndrome" width="50" /> | Wherever you are | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="Daisy 2.0 (feat. Hatsune Miku)" width="50" /> | Daisy 2.0 (feat. Hatsune Miku) | 379 | <img src="https://i.scdn.co/image/ab67616d0000b27314b31a0ac21c8645919204a8" alt="Ne reviens pas" width="50" /> | Ne reviens pas | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="海のまにまに" width="50" /> | 海のまにまに | 399 | <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="青のすみか" width="50" /> | 青のすみか | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | [Headbangeeeeerrrrr!!!!!](../../artists/babymetal/overview.md) | 373 | <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="A BEST" width="50" /> | Boys & Girls | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | [Awadama Fever](../../artists/babymetal/overview.md) | 375 | <img src="https://i.scdn.co/image/ab67616d0000b2733e4b149dd3110f1432bfeca0" alt="Niche Syndrome" width="50" /> | Wherever you are | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="Daisy 2.0 (feat. Hatsune Miku)" width="50" /> | Daisy 2.0 (feat. Hatsune Miku) | 378 | <img src="https://i.scdn.co/image/ab67616d0000b27314b31a0ac21c8645919204a8" alt="Ne reviens pas" width="50" /> | Ne reviens pas | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="海のまにまに" width="50" /> | 海のまにまに | 401 | <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="青のすみか" width="50" /> | 青のすみか | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Beggin' | 461 | <img src="https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2" alt="Traveler" width="50" /> | Pretender | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322805a1b17e41ae357bd98bc" alt="HELP EVER HURT NEVER" width="50" /> | Shinunoga E-Wa | 468 | <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | [Gimme Chocolate!!](../../artists/babymetal/overview.md) | nan |
 
@@ -581,7 +581,7 @@
 |:---|---:|
 | 2024 | 2 |
 | 2023 | 15 |
-| [2022](2022.md) | 21 |
+| [2022](2022/overview.md) | 21 |
 | 2021 | 12 |
 | 2020 | 12 |
 | 2019 | 16 |

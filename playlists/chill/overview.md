@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e021c1ea5bfa5680ac877acdd55ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="Chill" width="100" />
 
-[222 tracks (174 liked) 🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb)
+[223 tracks (175 liked) 🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb)
 
 [See Track Features](audio_features.md)
 
@@ -38,6 +38,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd634ba9399374d9482a0b6a3" alt="" width="50" /> | 3 | 3 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb15422eafa9652b98103d4a52" alt="" width="50" /> | 3 | 3 | Wonstein | [🔗](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb73f96bdf146d008680149954" alt="" width="50" /> | 3 | 3 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb5fc114ab8f521a8f6070cab" alt="" width="50" /> | 3 | 3 | [WINTER](../../artists/winter/overview.md) | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 3 | 3 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb13e8057399bcfc4d4ec4c5dc" alt="" width="50" /> | 5 | 2 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb784d2270653c1d5d1cf43778" alt="" width="50" /> | 4 | 2 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
@@ -52,7 +53,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb897d3a31965b6c024704c71" alt="" width="50" /> | 2 | 2 | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb72f8abb4e1d34336c60fd338" alt="" width="50" /> | 2 | 2 | YUKIKA | [🔗](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | 2 | 2 | BIGBANG | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb5fc114ab8f521a8f6070cab" alt="" width="50" /> | 2 | 2 | [WINTER](../../artists/winter/overview.md) | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb29971b8d9d19fef176338e4a" alt="" width="50" /> | 2 | 2 | Loco | [🔗](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 2 | 2 | [PENTAGON](../../artists/pentagon/overview.md) | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e6641ca1d8e86529cccdd32" alt="" width="50" /> | 2 | 2 | SURAN | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
@@ -117,9 +117,9 @@
 | | 1 | 1 | Choi Hyunwook | [🔗](https://open.spotify.com/artist/1z2J8XtoQxczs0U1lMWEiZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0ec0f75f443359ff6ff4d481" alt="" width="50" /> | 1 | 1 | TAEIL | [🔗](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 1 | 1 | [Justin Bieber](../../artists/justin_bieber/overview.md) | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3bf07fd8d593d5e9a5aa50e5" alt="" width="50" /> | 1 | 1 | BANG YEDAM | [🔗](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb55083bec4696aa1fb3a146e8" alt="" width="50" /> | 1 | 1 | KIMSEJEONG | [🔗](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | 1 | 1 | [Jackson Wang](../../artists/jackson_wang/overview.md) | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb23e614922b351df9c2e93a2b" alt="" width="50" /> | 1 | 1 | MAX | [🔗](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) |
 
 </details>
 
@@ -146,7 +146,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="Dream" width="50" /> | Dream | 48 | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="2 Baddies - The 4th Album" width="50" /> | [Gold Dust](../../artists/nct_127/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="My Voice - The 1st Album" width="50" /> | [I Got Love](../../artists/taeyeon/overview.md) | 51 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [the 1](../../artists/taylor_swift/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="Ditto" width="50" /> | [Ditto](../../artists/newjeans/overview.md) | 52 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="eternal sunshine" width="50" /> | [the boy is mine](../../artists/ariana_grande/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="ANTIFRAGILE" width="50" /> | [Impurities](../../artists/le_sserafim/overview.md) | 61 | <img src="https://i.scdn.co/image/ab67616d0000b273688707e08ae4799421936329" alt="Hotel del Luna (Original Television Soundtrack) Pt.12" width="50" /> | Done For Me | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="ANTIFRAGILE" width="50" /> | [Impurities](../../artists/le_sserafim/overview.md) | 62 | <img src="https://i.scdn.co/image/ab67616d0000b273688707e08ae4799421936329" alt="Hotel del Luna (Original Television Soundtrack) Pt.12" width="50" /> | Done For Me | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="NewJeans &#x27;OMG&#x27;" width="50" /> | [OMG](../../artists/newjeans/overview.md) | 80 | <img src="https://i.scdn.co/image/ab67616d0000b2738c0903b4b02840c57f103db4" alt="City Lights - The 1st Mini Album" width="50" /> | [UN Village](../../artists/baekhyun/overview.md) | nan |
 
 </details>
@@ -234,6 +234,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="" width="50" /> | 1 | 1 | Parachutes | 2000-07-10 | [🔗](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | 1 | 1 | Palette | 2017-04-21 | [🔗](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d5c8b45ab7a204c4de48605" alt="" width="50" /> | 1 | 1 | Our Blues, Pt. 10 (Original Television Soundtrack) | 2022-05-22 | [🔗](https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bf32f4be80afeb0e1a09b27d" alt="" width="50" /> | 1 | 1 | Officially Cool | 2024-04-02 | [🔗](https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="" width="50" /> | 1 | 1 | NewJeans 'OMG' | 2023-01-02 | [🔗](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2f5eb6302fa961ec097d466" alt="" width="50" /> | 1 | 1 | New Chapter #1: The Chance of Love - The 8th Album | 2018-03-28 | [🔗](https://open.spotify.com/album/0ipyHYAE0cMf4aDJNIDIU1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a90c2921f01f4b0b2e54b32" alt="" width="50" /> | 1 | 1 | NEON | 2019-02-22 | [🔗](https://open.spotify.com/album/2tF9C0qTzRdaZShK4iK0UD) |
@@ -261,7 +262,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | 1 | 1 | Kaleidoscope Heart | 2010-09-07 | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd" alt="" width="50" /> | 1 | 1 | KWON JI YONG | 2017-06-08 | [🔗](https://open.spotify.com/album/2koSNfchdUxqw1rPJO87aH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354260e31027fc151dcb7161e" alt="" width="50" /> | 1 | 1 | Jirisan (Original Television Soundtrack) Pt. 4 | 2021-11-07 | [🔗](https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="" width="50" /> | 1 | 1 | Ice Cream Cake - The 1st Mini Album | 2015-03-17 | [🔗](https://open.spotify.com/album/27cBQ5FDqv0xLgiJ7qNpZr) |
 
 </details>
 
@@ -298,6 +298,7 @@
 | 3 | 3 | [Epic](../../labels/epic/overview.md) |
 | 3 | 3 | [Darkroom](../../labels/darkroom/overview.md) |
 | 4 | 2 | [High Up Entertainment](../../labels/high_up_entertainment/overview.md) |
+| 3 | 2 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 3 | 2 | [MYSTIC STORY](../../labels/mystic_story/overview.md) |
 | 3 | 2 | [Kakao Entertainment](../../labels/kakao_entertainment/overview.md) |
 | 2 | 2 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
@@ -308,7 +309,6 @@
 | 2 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 2 | 2 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 3 | 1 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
-| 2 | 1 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 2 | 1 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
 | 2 | 1 | MAGIC STRAWBERRY SOUND |
 | 2 | 1 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
@@ -584,14 +584,14 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| 2024 | 4 |
+| 2024 | 5 |
 | 2023 | 15 |
-| [2022](2022.md) | 47 |
-| [2021](2021.md) | 35 |
-| [2020](2020.md) | 30 |
-| [2019](2019.md) | 21 |
+| [2022](2022/overview.md) | 47 |
+| [2021](2021/overview.md) | 35 |
+| [2020](2020/overview.md) | 30 |
+| [2019](2019/overview.md) | 21 |
 | 2018 | 13 |
-| [2017](2017.md) | 20 |
+| [2017](2017/overview.md) | 20 |
 | 2016 | 13 |
 | 2015 | 3 |
 | 2014 | 3 |
@@ -612,13 +612,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="eternal sunshine" width="50" /> | eternal sunshine (2024-03-08) | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="Commodores" width="50" /> | Commodores (1977-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733b414bbbf73c81957c8b7541" alt="Last Winter" width="50" /> | Last Winter (2023-12-07) | <img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="Parachutes" width="50" /> | Parachutes (2000-07-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="To. X - The 5th Mini Album" width="50" /> | To. X - The 5th Mini Album (2023-11-27) | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="It&#x27;s Raining" width="50" /> | It's Raining (2004-10-08) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273058833119cfac69bc09b11a2" alt="DIE 4 YOU" width="50" /> | DIE 4 YOU (2023-11-18) | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="X&amp;Y" width="50" /> | X&Y (2005-06-07) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | ORANGE BLOOD (2023-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b2731ec9b096319afbcc2dca6879" alt="Corinne Bailey Rae" width="50" /> | Corinne Bailey Rae (2006-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273774a45080cbfcc55a661ffbe" alt="Door" width="50" /> | Door (2023-09-04) | <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="The ArchAndroid" width="50" /> | The ArchAndroid (2010-05-17) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | MY WORLD - The 3rd Mini Album (2023-05-08) | <img src="https://i.scdn.co/image/ab67616d0000b273d17ca02a739a9a24933cf805" alt="Solar International" width="50" /> | Solar International (2010-08-19) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="Down to Earth" width="50" /> | Down to Earth (2023-04-25) | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | Kaleidoscope Heart (2010-09-07) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> | the Billage of perception: chapter three (2023-03-28) | <img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="F.A.M.E. (Expanded Edition)" width="50" /> | F.A.M.E. (Expanded Edition) (2011-03-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="Stamp On It - The 1st Mini Album" width="50" /> | Stamp On It - The 1st Mini Album (2023-01-16) | <img src="https://i.scdn.co/image/ab67616d0000b2733661c01b54e181d01bd439a1" alt="Birdy" width="50" /> | Birdy (2011-11-04) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bf32f4be80afeb0e1a09b27d" alt="Officially Cool" width="50" /> | Officially Cool (2024-04-02) | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="Commodores" width="50" /> | Commodores (1977-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="eternal sunshine" width="50" /> | eternal sunshine (2024-03-08) | <img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="Parachutes" width="50" /> | Parachutes (2000-07-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733b414bbbf73c81957c8b7541" alt="Last Winter" width="50" /> | Last Winter (2023-12-07) | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="It&#x27;s Raining" width="50" /> | It's Raining (2004-10-08) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="To. X - The 5th Mini Album" width="50" /> | To. X - The 5th Mini Album (2023-11-27) | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="X&amp;Y" width="50" /> | X&Y (2005-06-07) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273058833119cfac69bc09b11a2" alt="DIE 4 YOU" width="50" /> | DIE 4 YOU (2023-11-18) | <img src="https://i.scdn.co/image/ab67616d0000b2731ec9b096319afbcc2dca6879" alt="Corinne Bailey Rae" width="50" /> | Corinne Bailey Rae (2006-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | ORANGE BLOOD (2023-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="The ArchAndroid" width="50" /> | The ArchAndroid (2010-05-17) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273774a45080cbfcc55a661ffbe" alt="Door" width="50" /> | Door (2023-09-04) | <img src="https://i.scdn.co/image/ab67616d0000b273d17ca02a739a9a24933cf805" alt="Solar International" width="50" /> | Solar International (2010-08-19) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | MY WORLD - The 3rd Mini Album (2023-05-08) | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | Kaleidoscope Heart (2010-09-07) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="Down to Earth" width="50" /> | Down to Earth (2023-04-25) | <img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="F.A.M.E. (Expanded Edition)" width="50" /> | F.A.M.E. (Expanded Edition) (2011-03-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> | the Billage of perception: chapter three (2023-03-28) | <img src="https://i.scdn.co/image/ab67616d0000b2733661c01b54e181d01bd439a1" alt="Birdy" width="50" /> | Birdy (2011-11-04) |
