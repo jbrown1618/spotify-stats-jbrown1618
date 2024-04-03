@@ -9,7 +9,7 @@
 
 ## Top Tracks
 
-- Hmm-cheat is the #9 track of the last month
+- Hmm-cheat is the #13 track of the last month
 
 ### Top tracks, aggregated
 
@@ -56,8 +56,8 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273a8c4052083fb4e80d1819445" alt="" width="50" /> | For You | For You | [LeeHi](../leehi/overview.md), [Crush](overview.md) | AOMG | 288 | 💚 | [🔗](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c6e894ccfb8214d3f68b0cb4" alt="" width="50" /> | Hmm-cheat | wonderego | [Crush](overview.md) | P NATION | 419 | 💚 | [🔗](https://open.spotify.com/track/7hYGWflgiI2aa25jOgL6eg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a8c4052083fb4e80d1819445" alt="" width="50" /> | For You | For You | [LeeHi](../leehi/overview.md), [Crush](overview.md) | AOMG | 289 | 💚 | [🔗](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c6e894ccfb8214d3f68b0cb4" alt="" width="50" /> | Hmm-cheat | wonderego | [Crush](overview.md) | P NATION | 425 | 💚 | [🔗](https://open.spotify.com/track/7hYGWflgiI2aa25jOgL6eg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273010bed9776d417a0da12cc9c" alt="" width="50" /> | Love Story (Feat. CRUSH) | Love Story | SURAN, [Crush](overview.md) | Million Market,Inc | nan | 💚 | [🔗](https://open.spotify.com/track/5rUZeNNC4R65U6UeElMoss) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738368fc4dff4622c0e00e6dbf" alt="" width="50" /> | Make Up (Feat. Crush) | Sun And Moon | Sam Kim, [Crush](overview.md) | Antenna | nan | 💚 | [🔗](https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cab1d5724ddfed3aa8a4fd0f" alt="" width="50" /> | Happier (feat. Crush) | PSY 9th | PSY, [Crush](overview.md) | P NATION | nan | | [🔗](https://open.spotify.com/track/6idH1Qz9jcXzKcZeNIa9uU) |

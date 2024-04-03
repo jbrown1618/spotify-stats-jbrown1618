@@ -1,13 +1,13 @@
 # Sony Music Labels Inc.
 
-17 songs
+16 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Sony Music Labels Inc. (13 tracks)
+- Sony Music Labels Inc. (12 tracks)
 - Sony Classical/Sony Music (3 tracks)
 - Sony Music/Vorsicht Musik (1 tracks)
 
@@ -16,7 +16,7 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | 4 | 2 | Yuuri | [🔗](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0610877c41cb9cc12ad39cc0" alt="" width="50" /> | 3 | 2 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0610877c41cb9cc12ad39cc0" alt="" width="50" /> | 2 | 2 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcbe7ddc503fe3f14a2a56ac7" alt="" width="50" /> | 1 | 1 | Lou Bega | [🔗](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | 3 | 0 | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f3b2ac021a12b2bd5f19edd" alt="" width="50" /> | 1 | 0 | Tatsuya Kitani | [🔗](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) |
@@ -60,11 +60,10 @@ Appears as:
 
 
 <details>
-<summary>See all 14 albums</summary>
+<summary>See all 13 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2735c59b4214590e91eb283d86d" alt="" width="50" /> | 1 | 0 | NOEASY | 2021-08-23 | [🔗](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe52879ebfec0050a2aa89ff" alt="" width="50" /> | 1 | 0 | Make you happy | 2020-06-30 | [🔗](https://open.spotify.com/album/1wIIu2i7A56TlMD99CVNQD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a2272c8966971b7b04066241" alt="" width="50" /> | 1 | 0 | CEREMONY | 2020-01-15 | [🔗](https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f038f68827e437530b3a80a8" alt="" width="50" /> | 1 | 0 | BOOTLEG | 2017-11-01 | [🔗](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) |
@@ -72,7 +71,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 14 albums](../../images/labels/sony_music_labels_inc_/albums.png)
+![Bar chart of top 13 albums](../../images/labels/sony_music_labels_inc_/albums.png)
 
 ## Genres
 
@@ -81,9 +80,9 @@ Appears as:
 | 8 | 2 | j-pop |
 | 5 | 2 | japanese singer-songwriter |
 | 4 | 2 | japanese teen pop |
-| 3 | 2 | [pop](../../genres/pop/overview.md) |
-| 3 | 2 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
-| 3 | 2 | [k-pop](../../genres/k-pop/overview.md) |
+| 2 | 2 | [pop](../../genres/pop/overview.md) |
+| 2 | 2 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
+| 2 | 2 | [k-pop](../../genres/k-pop/overview.md) |
 | 1 | 1 | latin pop |
 | 2 | 0 | [anime](../../genres/anime/overview.md) |
 | 1 | 0 | west end |
@@ -130,8 +129,8 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS | CIRCUS | [Stray Kids](../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](.) | 510 | 💚 | [🔗](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](.) | 520 | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS | CIRCUS | [Stray Kids](../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](.) | 514 | 💚 | [🔗](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](.) | 521 | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" alt="" width="50" /> | Mambo No. 5 (a Little Bit of...) | A Little Bit of Mambo | Lou Bega | [Sony Music/Vorsicht Musik](.) | nan | 💚 | [🔗](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | All I Ask of You | Cappella | Andrew Lloyd Webber, The King's Singers | [Sony Classical](../sony_classical), [Sony Music Labels Inc.](.) | nan | | [🔗](https://open.spotify.com/track/5JTRLqApDZKaIwcopt1d9p) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | Ave Maria | Cappella | Josquin des Prez, The King's Singers | [Sony Classical](../sony_classical), [Sony Music Labels Inc.](.) | nan | | [🔗](https://open.spotify.com/track/6xBGuah2AMT6y5S0HlztUU) |
@@ -148,7 +147,6 @@ Appears as:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27359c2f8304319dcd03eb4ead7" alt="" width="50" /> | PINK BLOOD | PINK BLOOD | Hikaru Utada | [Sony Music Labels Inc.](.) | nan | | [🔗](https://open.spotify.com/track/39lq5gU4lPc0rYVaRo0stH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735c59b4214590e91eb283d86d" alt="" width="50" /> | Thunderous | NOEASY | [Stray Kids](../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](.) | nan | | [🔗](https://open.spotify.com/track/3XHJUG5I2zYqOEmEZUX68n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ベテルギウス | 壱 | Yuuri | [Sony Music Labels Inc.](.) | nan | | [🔗](https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1a46144fd6a2c5e2cc5872" alt="" width="50" /> | 恋人じゃなくなった日 | 恋人じゃなくなった日 | Yuuri | [Sony Music Labels Inc.](.) | nan | | [🔗](https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="" width="50" /> | There | There | [Stray Kids](../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](.) | nan | 💚 | [🔗](https://open.spotify.com/track/6gHeWGamtOYHBd1LBZ7Fv6) |

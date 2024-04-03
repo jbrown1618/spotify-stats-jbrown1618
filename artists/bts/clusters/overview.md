@@ -17,14 +17,14 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f31818d30fdb7f44fd57713" alt="" width="50" /> | Danger | Dark & Wild | [BTS](../../overview.md) | [BIGHIT MUSIC / HYBE](../../../../labels/bighit_music) | nan | | [🔗](https://open.spotify.com/track/6njl4FfPUwVmoIR1RKLq05) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | Boy in Luv | Skool Luv Affair | [BTS](../../overview.md) | [BIGHIT MUSIC](../../../../labels/bighit_music) | nan | 💚 | [🔗](https://open.spotify.com/track/3FnDv33WrrMtuEr7hNR3ev) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | Life Goes On | BE | [BTS](../../overview.md) | [BIGHIT MUSIC](../../../../labels/bighit_music) | nan | 💚 | [🔗](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e0936633c4c927ac22818e1" alt="" width="50" /> | Savage Love (Laxed – Siren Beat) [BTS Remix] | Savage Love (Laxed - Siren Beat) [BTS Remix] | Jawsh 685, [Jason Derulo](../../../jason_derulo/overview.md), [BTS](../../overview.md) | [Columbia](../../../../labels/columbia) | 659 | | [🔗](https://open.spotify.com/track/4TgxFMOn5yoESW6zCidCXL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e0936633c4c927ac22818e1" alt="" width="50" /> | Savage Love (Laxed – Siren Beat) [BTS Remix] | Savage Love (Laxed - Siren Beat) [BTS Remix] | Jawsh 685, [Jason Derulo](../../../jason_derulo/overview.md), [BTS](../../overview.md) | [Columbia](../../../../labels/columbia) | 660 | | [🔗](https://open.spotify.com/track/4TgxFMOn5yoESW6zCidCXL) |
 ## Cluster #2
 
 5 tracks
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Singularity | Love Yourself 結 'Answer' | [BTS](../../overview.md) | [BIGHIT MUSIC](../../../../labels/bighit_music) | 609 | 💚 | [🔗](https://open.spotify.com/track/2ApfJvLr7RbhJl6NOVhEu6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Singularity | Love Yourself 結 'Answer' | [BTS](../../overview.md) | [BIGHIT MUSIC](../../../../labels/bighit_music) | 611 | 💚 | [🔗](https://open.spotify.com/track/2ApfJvLr7RbhJl6NOVhEu6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | Butterfly | The Most Beautiful Moment in Life: Young Forever | [BTS](../../overview.md) | [BIGHIT MUSIC](../../../../labels/bighit_music) | nan | 💚 | [🔗](https://open.spotify.com/track/2QP1vvLPtAVOVAFabpqypA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | FAKE LOVE | Love Yourself 轉 'Tear' | [BTS](../../overview.md) | [BIGHIT MUSIC](../../../../labels/bighit_music) | nan | 💚 | [🔗](https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | The Truth Untold (feat. Steve Aoki) | Love Yourself 轉 'Tear' | [BTS](../../overview.md), Steve Aoki | [BIGHIT MUSIC](../../../../labels/bighit_music) | nan | | [🔗](https://open.spotify.com/track/7DEKa5Z7Cl8s3Y7imb88OM) |

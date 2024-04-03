@@ -72,7 +72,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3ef779aa0d271adb2b6a3ded" alt="" width="50" /> | 1 | 0 | Childish Gambino | [🔗](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371ae0c6c06eee99c706924f1" alt="" width="50" /> | 1 | 0 | Laura Williams | [🔗](https://open.spotify.com/artist/6wIj7GdxBjFtw6ySpzazwo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb247f44069c0bd1781df2f785" alt="" width="50" /> | 1 | 0 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734979afe7767788a5f22eb4ce" alt="" width="50" /> | 1 | 0 | Agatha Lee Monn | [🔗](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp) |
+| | 1 | 0 | Agatha Lee Monn | [🔗](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp) |
 | | 1 | 0 | Max Casella | [🔗](https://open.spotify.com/artist/6ZpL3BxODab84CTGSL7UO8) |
 | <img src="https://i.scdn.co/image/f18d69d006ccd5bce40592da9c8b244ed5814070" alt="" width="50" /> | 1 | 0 | Jeremy Irons | [🔗](https://open.spotify.com/artist/6QRb3jE2lCfMU1iUuVQMaV) |
 | <img src="https://i.scdn.co/image/f372f0bc303e9ebbcc49227f256428d52961ab9f" alt="" width="50" /> | 1 | 0 | Carmen Twillie | [🔗](https://open.spotify.com/artist/6O3ZB5Cz5CNT3wQWouKcNJ) |
@@ -85,7 +85,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b9f3c46017f630cb024056a" alt="" width="50" /> | 1 | 0 | Donny Osmond | [🔗](https://open.spotify.com/artist/5ZEAzHE2TzAwUcOj6jMIgf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af3b56ff58ed402be417316b" alt="" width="50" /> | 1 | 0 | Rowan Atkinson | [🔗](https://open.spotify.com/artist/5U4QDnlOlmZx9MHV45EoDE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd1ed154ee983c5af04e74" alt="" width="50" /> | 1 | 0 | Lillias White | [🔗](https://open.spotify.com/artist/5TKKPpY9zr2qrz3JM3Vawq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ebd189b554fe7da4ffa2bfd" alt="" width="50" /> | 1 | 0 | Katie Lopez | [🔗](https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ) |
+| | 1 | 0 | Katie Lopez | [🔗](https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ) |
 | | 1 | 0 | Donna Murphy | [🔗](https://open.spotify.com/artist/5BuTOT6mPoNZ5EmaPheBI9) |
 | | 1 | 0 | Jesse Corti | [🔗](https://open.spotify.com/artist/53vhGhGRoi9ARM7kr3jrz5) |
 | <img src="https://i.scdn.co/image/85e8343b215c98ad063417ac2f6b63919557721a" alt="" width="50" /> | 1 | 0 | Louis Prima | [🔗](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) |
@@ -219,7 +219,7 @@
 
 
 <details>
-<summary>See all 33 genres</summary>
+<summary>See all 34 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -227,6 +227,7 @@
 | 1 | 0 | traditional blues |
 | 1 | 0 | swing |
 | 1 | 0 | [soul](../../genres/soul/overview.md) |
+| 1 | 0 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 1 | 0 | roots rock |
 | 1 | 0 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 0 | [pop](../../genres/pop/overview.md) |

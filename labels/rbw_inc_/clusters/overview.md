@@ -20,18 +20,18 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="" width="50" /> | LUNATIC (English Ver.) | 6equence | Moon Byul | [RBW Inc.](../..) | nan | | [🔗](https://open.spotify.com/track/6iQQ9sg5NSauLU4TzKFOsY) |
 ## Cluster #2
 
-13 tracks
+12 tracks
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c8e39cbee7aa7192c706534" alt="" width="50" /> | Save Me | Save Me | MAMAMOO+ | [RBW Inc.](../..) | 410 | | [🔗](https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732325e0aa6cad94d104ea055e" alt="" width="50" /> | LUNA | BLOOD MOON | ONEUS | [RBW Inc.](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/5L2uuQUMiub01LRhTKRCFj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736e3cf1788fa660f04ac43e23" alt="" width="50" /> | Egotistic | RED MOON | [MAMAMOO](../../../../artists/mamamoo/overview.md) | [RBW, Inc.](../..) | 700 | | [🔗](https://open.spotify.com/track/3a7OyTsoZ8CCBdvEEvzLBv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="" width="50" /> | AYA | TRAVEL | [MAMAMOO](../../../../artists/mamamoo/overview.md) | [RBW Inc.](../..) | 144 | 💚 | [🔗](https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="" width="50" /> | Egotistic | RED MOON | [MAMAMOO](../../../../artists/mamamoo/overview.md) | [RBW, Inc.](../..) | 34 | 💚 | [🔗](https://open.spotify.com/track/5Z4aqpT39KpY8gbHoJWdou) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | Maria | María | [HWASA](../../../../artists/hwasa/overview.md) | [RBW, Inc](../..) | 5 | 💚 | [🔗](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346c377827f3ad9fa6b0f64df" alt="" width="50" /> | TWIT | TWIT | [HWASA](../../../../artists/hwasa/overview.md) | [RBW, Inc](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273548e75657d21c646111cfa1d" alt="" width="50" /> | Can We Talk Again | Can We Talk Again | [PURPLE KISS](../../../../artists/purple_kiss/overview.md) | [RBW Inc.](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/0zuOKdFHYFIOTyJi0aOIuo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27345e7faa0d84701c0447e4188" alt="" width="50" /> | Ponzona | INTO VIOLET | [PURPLE KISS](../../../../artists/purple_kiss/overview.md) | [RBW Inc.](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/597wvQ0bqfJgszRg4eDVy1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356035da9eacd668ffdfacb36" alt="" width="50" /> | DARK ROMANCE | Starlit of Muse | Moon Byul | [RBW Inc.](../..) | nan | | [🔗](https://open.spotify.com/track/3tXCpt80T5wTq9QUOBFmOV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273294c757e724cc58bbbd29287" alt="" width="50" /> | SELFISH (Feat. SEULGI Of Red Velvet) | SELFISH | Moon Byul, [SEULGI](../../../../artists/seulgi/overview.md) | [RBW, Inc](../..) | nan | | [🔗](https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj) |
 ## Cluster #3

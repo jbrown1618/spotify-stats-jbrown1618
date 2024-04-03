@@ -134,7 +134,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> | [Beautiful Christmas](../../artists/red_velvet/overview.md) | 163 | <img src="https://i.scdn.co/image/ab67616d0000b273340f355a2a27e941a30dda56" alt="Have Yourself A Merry Little Christmas" width="50" /> | Have Yourself A Merry Little Christmas | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa509be2dd24fb6c753cf292" alt="Elvis&#x27; Christmas Album" width="50" /> | Blue Christmas | 214 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="Lover" width="50" /> | [Lover](../../artists/taylor_swift/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | [Christmas EveL](../../artists/stray_kids/overview.md) | 220 | <img src="https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d" alt="LAST CHRISTMAS" width="50" /> | Last Christmas | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="Candy - Winter Special Mini Album" width="50" /> | [Candy](../../artists/nct_dream/overview.md) | 224 | <img src="https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b" alt="The Taylor Swift Holiday Collection" width="50" /> | [Last Christmas](../../artists/taylor_swift/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="Candy - Winter Special Mini Album" width="50" /> | [Candy](../../artists/nct_dream/overview.md) | 223 | <img src="https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b" alt="The Taylor Swift Holiday Collection" width="50" /> | [Last Christmas](../../artists/taylor_swift/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="Merry &amp; Happy" width="50" /> | [Merry & Happy](../../artists/twice/overview.md) | 227 | <img src="https://i.scdn.co/image/1ceac60d2f06f961b026ac5ecf77b060e263e7a9" alt="12월의 기적 Miracles in December" width="50" /> | [첫 눈](../../artists/exo/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | [Winter Falls](../../artists/stray_kids/overview.md) | 238 | <img src="https://i.scdn.co/image/ab67616d0000b273ff45701e8447016848c70485" alt="This Christmas – Winter is Coming" width="50" /> | [The Magic of Christmas Time](../../artists/taeyeon/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f456ca5659f2d0169061b310" alt="Perfect Night (Holiday Remix)" width="50" /> | [Perfect Night (Holiday Remix)](../../artists/le_sserafim/overview.md) | 257 | <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="Christmas Is Here!" width="50" /> | [Rockin' Around the Christmas Tree](../../artists/pentatonix/overview.md) | nan |
@@ -329,7 +329,7 @@
 
 
 <details>
-<summary>See all 64 genres</summary>
+<summary>See all 65 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -357,6 +357,7 @@
 | 2 | 0 | australian pop |
 | 2 | 0 | australian dance |
 | 1 | 0 | yodeling |
+| 1 | 0 | western swing |
 | 1 | 0 | ukrainian classical |
 | 1 | 0 | [uk pop](../../genres/uk_pop/overview.md) |
 | 1 | 0 | traditional country |

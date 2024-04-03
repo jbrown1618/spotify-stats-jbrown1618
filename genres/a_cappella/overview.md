@@ -1,6 +1,6 @@
 # a cappella
 
-90 songs
+89 songs
 
 [See Track Features](audio_features.md)
 
@@ -12,14 +12,14 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb746dd598cf914934bd27ed7e" alt="" width="50" /> | 43 | 16 | [Pentatonix](../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb36c6fa1b8ff851988de641f8" alt="" width="50" /> | 2 | 2 | [Lindsey Stirling](../../artists/lindsey_stirling/overview.md) | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 2 | 1 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb46a8b2fd0f5b0a0d7e5f3f8a" alt="" width="50" /> | 2 | 1 | Straight No Chaser | [🔗](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebee310fa1ea1733fd31d9866c" alt="" width="50" /> | 1 | 1 | Tink | [🔗](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="" width="50" /> | 1 | 1 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc63e900506fdff4b6177f920" alt="" width="50" /> | 11 | 0 | The Swingle Singers | [🔗](https://open.spotify.com/artist/1ZlFYysRdc6YaUH5FkxPl8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8cb389217e22c8ecb1846122" alt="" width="50" /> | 9 | 0 | Vanderbilt Melodores | [🔗](https://open.spotify.com/artist/7HkF8fT7TZlrQsjSgWUEXN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e0ad34c3e72d947a63a60f2" alt="" width="50" /> | 9 | 0 | The Loreleis | [🔗](https://open.spotify.com/artist/1fqMjreaczGwFmdmG6AvJs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb504c57086f85855719dba0e3" alt="" width="50" /> | 3 | 0 | Tufts Beelzebubs | [🔗](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) |
+| | 2 | 0 | Deke Sharon | [🔗](https://open.spotify.com/artist/6eWNb9yuroBpPcQ4sOkL1e) |
+| | 2 | 0 | Don Gooding | [🔗](https://open.spotify.com/artist/66iv9KzffeiANddjYouG6U) |
 
 
 <details>
@@ -27,8 +27,6 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| | 2 | 0 | Deke Sharon | [🔗](https://open.spotify.com/artist/6eWNb9yuroBpPcQ4sOkL1e) |
-| | 2 | 0 | Don Gooding | [🔗](https://open.spotify.com/artist/66iv9KzffeiANddjYouG6U) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8be60bf944b4dfa165ed2995" alt="" width="50" /> | 2 | 0 | Vocal Point (University of Delaware) | [🔗](https://open.spotify.com/artist/4nrhXBXu7FnxWeSbB21bfk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fde41e3d8cc4859202436340" alt="" width="50" /> | 2 | 0 | Acappology | [🔗](https://open.spotify.com/artist/21v1APtcWJHRmeKdBRVbYs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c2efff2353592d5820407e14" alt="" width="50" /> | 2 | 0 | Bill Hare | [🔗](https://open.spotify.com/artist/10WhKnqdsfpYWDgZhjrday) |
@@ -42,7 +40,9 @@
 | | 1 | 0 | Gabe Hendifar | [🔗](https://open.spotify.com/artist/3YIBM4yvZHT4lRQa14eHQh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfac39467586b60aaebed83eb" alt="" width="50" /> | 1 | 0 | The Vassar Devils | [🔗](https://open.spotify.com/artist/31EncJhuSBcAIsZGA3G1GK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d920cc55d75078e9dbcc809" alt="" width="50" /> | 1 | 0 | Elizabeth Wright | [🔗](https://open.spotify.com/artist/2tQ7EzEpu1KFpseMdHGSzL) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 0 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd6758093c92bc8d0c21ba72" alt="" width="50" /> | 1 | 0 | Penn Masala | [🔗](https://open.spotify.com/artist/2MhJb1ljKttJewuYZTpXxr) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb46a8b2fd0f5b0a0d7e5f3f8a" alt="" width="50" /> | 1 | 0 | Straight No Chaser | [🔗](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6d2ff3db79aa33c9be0f2630" alt="" width="50" /> | 1 | 0 | Upper Structure | [🔗](https://open.spotify.com/artist/1tlKq97YGAGBavozMVeddE) |
 | | 1 | 0 | Erika Petty | [🔗](https://open.spotify.com/artist/15YH0MYEIRY7AmrrwfVO4W) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a74848f51265ee39eab8621" alt="" width="50" /> | 1 | 0 | New Dominions | [🔗](https://open.spotify.com/artist/0PzFyYSC4Y7JarVyByrJPc) |
@@ -58,11 +58,11 @@
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
 | <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="PTX, Vol. III" width="50" /> | [Problem (Ariana Grande Cover)](../../artists/pentatonix/overview.md) | 397 | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="PTX, Vol. 2" width="50" /> | [Natural Disaster](../../artists/pentatonix/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Sleigh Ride](../../artists/pentatonix/overview.md) | 642 | <img src="https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc" alt="A Pentatonix Christmas Deluxe" width="50" /> | [Hallelujah](../../artists/pentatonix/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Let It Go](../../artists/pentatonix/overview.md) | 648 | <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="BOCA 2004: Best Of College A Cappella" width="50" /> | Gravity | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Mary, Did You Know?](../../artists/pentatonix/overview.md) | 662 | <img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="The Sound of Silence" width="50" /> | [The Sound of Silence](../../artists/pentatonix/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="PTX Vol. IV - Classics" width="50" /> | [Imagine](../../artists/pentatonix/overview.md) | 696 | <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="PTX, Vol. 1" width="50" /> | [Show You How to Love](../../artists/pentatonix/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Dance of the Sugar Plum Fairy](../../artists/pentatonix/overview.md) | 712 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9d3239217b0c4f75c15562" alt="Unwrapped" width="50" /> | Amazing Grace | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Sleigh Ride](../../artists/pentatonix/overview.md) | 646 | <img src="https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc" alt="A Pentatonix Christmas Deluxe" width="50" /> | [Hallelujah](../../artists/pentatonix/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Let It Go](../../artists/pentatonix/overview.md) | 647 | <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="BOCA 2004: Best Of College A Cappella" width="50" /> | Gravity | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Mary, Did You Know?](../../artists/pentatonix/overview.md) | 663 | <img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="The Sound of Silence" width="50" /> | [The Sound of Silence](../../artists/pentatonix/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="PTX Vol. IV - Classics" width="50" /> | [Imagine](../../artists/pentatonix/overview.md) | 702 | <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="PTX, Vol. 1" width="50" /> | [Show You How to Love](../../artists/pentatonix/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Dance of the Sugar Plum Fairy](../../artists/pentatonix/overview.md) | 708 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9d3239217b0c4f75c15562" alt="Unwrapped" width="50" /> | Amazing Grace | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="BOCA 2006: Best Of College A Cappella" width="50" /> | My Happy Ending | nan | <img src="https://i.scdn.co/image/ab67616d0000b27331c35347cbb989e84ccccf8e" alt="M" width="50" /> | I Will Follow You Into the Dark | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="PTX" width="50" /> | [Radioactive](../../artists/pentatonix/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="PTX, Vol. 2" width="50" /> | [Love Again](../../artists/pentatonix/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="BOCA 2009: Best Of College A Cappella" width="50" /> | Sound Of Silence | nan | <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="PTX Presents: Top Pop, Vol. I" width="50" /> | [Havana](../../artists/pentatonix/overview.md) | nan |
@@ -85,7 +85,7 @@
 
 
 <details>
-<summary>See all 39 albums</summary>
+<summary>See all 38 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -99,7 +99,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="" width="50" /> | 2 | 0 | Christmas Is Here! | 2018-10-19 | [🔗](https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="" width="50" /> | 2 | 0 | BOCA 2008: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/4Z0ju0i47UZ2Y4icq2f3wZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ee681b6eddc77fd366693a84" alt="" width="50" /> | 2 | 0 | A Kick & A Wallop | 2012-03-24 | [🔗](https://open.spotify.com/album/5wnXtRvlemaPLxZFTpWtix) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273503a8e191d85be10bab38410" alt="" width="50" /> | 1 | 1 | Under the Influence (Ultimate Edition) | 2013-05-07 | [🔗](https://open.spotify.com/album/2jeIoe6RbirPCprvXQnqqn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="" width="50" /> | 1 | 0 | The Sound of Silence | 2019-02-15 | [🔗](https://open.spotify.com/album/2d5CHsmyOYGqfjDaPrdEzc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736390fb1ebb92fb38e7c99aaf" alt="" width="50" /> | 1 | 0 | The Reading Room Sessions (Fall 2017) | 2017 | [🔗](https://open.spotify.com/album/4xbXu4kEwTS8NOTX6aRwkg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b1bdafdc4fd1983a8a8a198" alt="" width="50" /> | 1 | 0 | Spotlight on Bach | 2010-02-22 | [🔗](https://open.spotify.com/album/3qHHoQNFqZptsQE9Y3esLh) |
@@ -129,7 +128,6 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 43 | 16 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
-| 2 | 1 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 17 | 0 | [Varsity Vocals](../../labels/varsity_vocals/overview.md) |
 | 8 | 0 | Vanderbilt Melodores |
 | 5 | 0 | The Loreleis |
@@ -138,6 +136,7 @@
 | 3 | 0 | [A Cappella Records](../../labels/a_cappella_records/overview.md) |
 | 2 | 0 | world village |
 | 1 | 0 | Sonoton Music |
+| 1 | 0 | Signum OMP |
 
 
 <details>
@@ -145,8 +144,8 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 1 | 0 | Signum OMP |
 | 1 | 0 | Loudr |
+| 1 | 0 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 1 | 0 | Atco |
 
 </details>

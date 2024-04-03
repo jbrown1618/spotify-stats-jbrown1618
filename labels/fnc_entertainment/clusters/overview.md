@@ -17,9 +17,9 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b0f7fd5522eff959055b20d8" alt="" width="50" /> | Love So Sweet | Cherry Rush | Cherry Bullet | [FNC ENTERTAINMENT](../..) | 416 | 💚 | [🔗](https://open.spotify.com/track/0Z2DbHevn9qtSKAWcYB2tM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b0f7fd5522eff959055b20d8" alt="" width="50" /> | Love So Sweet | Cherry Rush | Cherry Bullet | [FNC ENTERTAINMENT](../..) | 417 | 💚 | [🔗](https://open.spotify.com/track/0Z2DbHevn9qtSKAWcYB2tM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bdf5051b85408bc0967122f9" alt="" width="50" /> | Hands Up | Hands Up | Cherry Bullet | [FNC Entertainment](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/6KxACudfT4vVXnDUkjU6lN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bdbc6077205378b6271af4bf" alt="" width="50" /> | Do It Like This | DISHARMONY : FIND OUT | [P1Harmony](../../../../artists/p1harmony/overview.md) | [FNC ENTERTAINMENT](../..) | 726 | 💚 | [🔗](https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bdbc6077205378b6271af4bf" alt="" width="50" /> | Do It Like This | DISHARMONY : FIND OUT | [P1Harmony](../../../../artists/p1harmony/overview.md) | [FNC ENTERTAINMENT](../..) | 724 | 💚 | [🔗](https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738cf0e84e77a46b5317c09924" alt="" width="50" /> | Killin' It | Killin' It | [P1Harmony](../../../../artists/p1harmony/overview.md) | [FNC ENTERTAINMENT](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d55f8c4b87267bcb003d57d" alt="" width="50" /> | Secret Sauce | HARMONY : SET IN | [P1Harmony](../../../../artists/p1harmony/overview.md) | [FNC ENTERTAINMENT](../..) | nan | | [🔗](https://open.spotify.com/track/31wuLarPgLZJSlohr7OCjj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d55f8c4b87267bcb003d57d" alt="" width="50" /> | Back Down | HARMONY : SET IN | [P1Harmony](../../../../artists/p1harmony/overview.md) | [FNC ENTERTAINMENT](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/7EP9G7AIKrywWGdYsYZzGv) |

@@ -8,7 +8,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="" width="50" /> | The Great Gig in the Sky | The Dark Side of the Moon | Pink Floyd | Pink Floyd Records | 633 | | [🔗](https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="" width="50" /> | The Great Gig in the Sky | The Dark Side of the Moon | Pink Floyd | Pink Floyd Records | 634 | | [🔗](https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="" width="50" /> | Breathe (In the Air) | The Dark Side of the Moon | Pink Floyd | Pink Floyd Records | nan | 💚 | [🔗](https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b4fcfed39d199fe50b20b7f" alt="" width="50" /> | Set the Controls for the Heart of the Sun | A Saucerful of Secrets | Pink Floyd | Pink Floyd Records | nan | 💚 | [🔗](https://open.spotify.com/track/6p9UFDNfGrzS5Byd2r9KPk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ee314008c5ae6e98904ebfe0" alt="" width="50" /> | Peaches En Regalia | Hot Rats | Frank Zappa | Frank Zappa Catalog | nan | | [🔗](https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l) |
@@ -28,7 +28,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27385b05f4bb3c88cf252f96b68" alt="" width="50" /> | Don't Eat The Yellow Snow | Apostrophe(') | Frank Zappa | Frank Zappa Catalog | nan | | [🔗](https://open.spotify.com/track/1QY4TdhuNIOX2SHLdElzd5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739f39192f9f8ca1c90847b3e5" alt="" width="50" /> | Fortunate Son | Willy And The Poor Boys (Expanded Edition) | Creedence Clearwater Revival | [Craft Recordings](../../../../labels/craft_recordings) | nan | | [🔗](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e2dd4e821bcc3f70dc0c8ffd" alt="" width="50" /> | Losing My Religion | Out Of Time (25th Anniversary Edition) | R.E.M. | Concord Records | nan | | [🔗](https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730ac413b28547dbc45412a3ce" alt="" width="50" /> | 25 or 6 to 4 | Chicago IX: Chicago's Greatest Hits | Chicago | [Rhino](../../../../labels/rhino) | 672 | 💚 | [🔗](https://open.spotify.com/track/65eRcjlStTnk8opG5eIQ8Z) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730ac413b28547dbc45412a3ce" alt="" width="50" /> | 25 or 6 to 4 | Chicago IX: Chicago's Greatest Hits | Chicago | [Rhino](../../../../labels/rhino) | 671 | 💚 | [🔗](https://open.spotify.com/track/65eRcjlStTnk8opG5eIQ8Z) |
 ## Cluster #3
 
 45 tracks

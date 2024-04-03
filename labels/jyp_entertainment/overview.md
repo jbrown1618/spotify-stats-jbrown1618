@@ -1,13 +1,13 @@
 # JYP Entertainment
 
-21 songs
+20 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- JYP Entertainment (20 tracks)
+- JYP Entertainment (19 tracks)
 - MYSTIC ENTERTAINMENT, ChoongangICS, SM ENTERTAINMENT, JYP ENTERTAINMENT (1 tracks)
 
 ## Top Artists
@@ -32,9 +32,9 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6772690000c46c10d90fee3240f733c26f161f" alt="" width="50" /> | 2 | 0 | Rain | [🔗](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1edc72b57c227d48e28888b1" alt="" width="50" /> | 2 | 0 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba1ab452846e085c36097def9" alt="" width="50" /> | 1 | 0 | Jessi | [🔗](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb125d29add59b1d82aa236423" alt="" width="50" /> | 1 | 0 | 2PM | [🔗](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1edc72b57c227d48e28888b1" alt="" width="50" /> | 1 | 0 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 
 </details>
 
@@ -58,7 +58,7 @@ Appears as:
 
 
 <details>
-<summary>See all 20 albums</summary>
+<summary>See all 19 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -69,22 +69,21 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2730096339f4c20185bf521c12b" alt="" width="50" /> | 1 | 0 | No.5 | 2015-06-15 | [🔗](https://open.spotify.com/album/7il4UShdCQt4HcsAng0Om2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27366bcce2a19a9ccfd5d83f2a1" alt="" width="50" /> | 1 | 0 | MAD | 2015-09-29 | [🔗](https://open.spotify.com/album/3MPrK5Op0AZAql78coCQLA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c2fd5798faa7d82dadb1b330" alt="" width="50" /> | 1 | 0 | FLIGHT LOG : TURBULENCE | 2016-09-27 | [🔗](https://open.spotify.com/album/4m7ocqdUZh1ohn3nxurMf0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b75c539083b9fc36d7cc7f59" alt="" width="50" /> | 1 | 0 | AD MARE | 2022-02-22 | [🔗](https://open.spotify.com/album/0QkOWJsNjhHQwhmhy4bstt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ca0444983448696f2e2fd71" alt="" width="50" /> | 1 | 0 | 24/34 | 2015-04-12 | [🔗](https://open.spotify.com/album/7cPUxsJL1nMh87bld2LyTo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="" width="50" /> | 1 | 0 | 1st Intermixxion Single <Funky Glitter Christmas> | 2022-11-23 | [🔗](https://open.spotify.com/album/6cuwtxgP5dcbc87iAgSc25) |
 
 </details>
 
 
-![Bar chart of top 20 albums](../../images/labels/jyp_entertainment/albums.png)
+![Bar chart of top 19 albums](../../images/labels/jyp_entertainment/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 15 | 8 | [k-pop](../../genres/k-pop/overview.md) |
+| 14 | 8 | [k-pop](../../genres/k-pop/overview.md) |
 | 8 | 4 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
-| 7 | 4 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 6 | 4 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 4 | 1 | classic k-pop |
 | 1 | 1 | [korean pop](../../genres/korean_pop/overview.md) |
 
@@ -151,7 +150,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a34da2654db7f75cee1d080" alt="" width="50" /> | ICY | IT'z ICY | [ITZY](../../artists/itzy/overview.md) | [JYP Entertainment](.) | nan | 💚 | [🔗](https://open.spotify.com/track/7zFBtYAVURF3bUVqEQ6UUu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e4d85babdbdecf2c21568ea0" alt="" width="50" /> | You Calling My Name | Call My Name | GOT7 | [JYP Entertainment](.) | nan | 💚 | [🔗](https://open.spotify.com/track/6f4wghlwYWGLqGEIKc6HDQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a984930c218438701634e11" alt="" width="50" /> | When We Disco | When We Disco | J.Y. Park, [SUNMI](../../artists/sunmi/overview.md) | [JYP Entertainment](.) | nan | 💚 | [🔗](https://open.spotify.com/track/6t9nnPyEZfjcn1aLJ4l9AK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b75c539083b9fc36d7cc7f59" alt="" width="50" /> | TANK | AD MARE | [NMIXX](../../artists/nmixx/overview.md) | [JYP Entertainment](.) | nan | | [🔗](https://open.spotify.com/track/2AtshmTKGwbtCybUmYxB4u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733533304e73925a884af026ab" alt="" width="50" /> | Strawberry Cake | Hello, world! | Xdinary Heroes | [JYP Entertainment](.) | nan | 💚 | [🔗](https://open.spotify.com/track/6E8EAroyZLFR80NO8Ucliy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="" width="50" /> | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | [NMIXX](../../artists/nmixx/overview.md) | [JYP Entertainment](.) | nan | | [🔗](https://open.spotify.com/track/7ra9FZOGKDhiodoH5fuYsy) |
 

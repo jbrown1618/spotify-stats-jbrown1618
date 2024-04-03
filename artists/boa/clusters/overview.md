@@ -28,7 +28,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273beb813f48fd0a37fe0969024" alt="" width="50" /> | Better | BETTER - The 10th Album | [BoA](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 278 | | [🔗](https://open.spotify.com/track/2k44rKotfi2k55hwwiCImN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f90ab96d121ae92f4f763a6" alt="" width="50" /> | Eat You Up | Eat You Up | [BoA](../../overview.md) | Fontana South | nan | 💚 | [🔗](https://open.spotify.com/track/3lrwnoggORNfLs0jiGqBhA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9e1fd55a8798bc0a49fe28c" alt="" width="50" /> | No.1 | No.1 - The 2nd Album | [BoA](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | nan | | [🔗](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27301f2ffc72e8c0556b3abad4c" alt="" width="50" /> | Girls On Top | Girls On Top | [BoA](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 640 | | [🔗](https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27301f2ffc72e8c0556b3abad4c" alt="" width="50" /> | Girls On Top | Girls On Top | [BoA](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 641 | | [🔗](https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ) |
 ## Cluster #3
 
 1 tracks

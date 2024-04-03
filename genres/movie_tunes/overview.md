@@ -45,7 +45,7 @@
 | | 1 | 0 | Harvey Fierstein | [🔗](https://open.spotify.com/artist/7G6zawIBBtDX1WvuT97Ei9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a2beebe9dc1435cf5118f0b" alt="" width="50" /> | 1 | 0 | Vaneese Thomas | [🔗](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371ae0c6c06eee99c706924f1" alt="" width="50" /> | 1 | 0 | Laura Williams | [🔗](https://open.spotify.com/artist/6wIj7GdxBjFtw6ySpzazwo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734979afe7767788a5f22eb4ce" alt="" width="50" /> | 1 | 0 | Agatha Lee Monn | [🔗](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp) |
+| | 1 | 0 | Agatha Lee Monn | [🔗](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp) |
 | <img src="https://i.scdn.co/image/f18d69d006ccd5bce40592da9c8b244ed5814070" alt="" width="50" /> | 1 | 0 | Jeremy Irons | [🔗](https://open.spotify.com/artist/6QRb3jE2lCfMU1iUuVQMaV) |
 | <img src="https://i.scdn.co/image/f372f0bc303e9ebbcc49227f256428d52961ab9f" alt="" width="50" /> | 1 | 0 | Carmen Twillie | [🔗](https://open.spotify.com/artist/6O3ZB5Cz5CNT3wQWouKcNJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0864dea3c557afdb250248b" alt="" width="50" /> | 1 | 0 | Paul Kandel | [🔗](https://open.spotify.com/artist/6M3XR163Q68THc9IFMwfAH) |
@@ -58,7 +58,7 @@
 | <img src="https://i.scdn.co/image/b7cb8a2d95ba2ca94fc0e133611b5b680014c52e" alt="" width="50" /> | 1 | 0 | Auli'i Cravalho | [🔗](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af3b56ff58ed402be417316b" alt="" width="50" /> | 1 | 0 | Rowan Atkinson | [🔗](https://open.spotify.com/artist/5U4QDnlOlmZx9MHV45EoDE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd1ed154ee983c5af04e74" alt="" width="50" /> | 1 | 0 | Lillias White | [🔗](https://open.spotify.com/artist/5TKKPpY9zr2qrz3JM3Vawq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ebd189b554fe7da4ffa2bfd" alt="" width="50" /> | 1 | 0 | Katie Lopez | [🔗](https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ) |
+| | 1 | 0 | Katie Lopez | [🔗](https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ) |
 | <img src="https://i.scdn.co/image/41c63be4487e9b02f319fa25dc89524bbc83c1b3" alt="" width="50" /> | 1 | 0 | Alessandro Safina | [🔗](https://open.spotify.com/artist/5ITJs06INM9JWxK5hROEj3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733179327b8f6c31d3791bbc26" alt="" width="50" /> | 1 | 0 | Thurl Ravenscroft | [🔗](https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL) |
 | | 1 | 0 | Donna Murphy | [🔗](https://open.spotify.com/artist/5BuTOT6mPoNZ5EmaPheBI9) |

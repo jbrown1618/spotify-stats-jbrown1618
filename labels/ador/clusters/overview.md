@@ -28,7 +28,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | Cool With You | NewJeans 2nd EP 'Get Up' | [NewJeans](../../../../artists/newjeans/overview.md) | [ADOR](../..) | 573 | | [🔗](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | Cool With You | NewJeans 2nd EP 'Get Up' | [NewJeans](../../../../artists/newjeans/overview.md) | [ADOR](../..) | 568 | | [🔗](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | ASAP | NewJeans 2nd EP 'Get Up' | [NewJeans](../../../../artists/newjeans/overview.md) | [ADOR](../..) | 183 | 💚 | [🔗](https://open.spotify.com/track/5fpyAakgFOm4YTXkgfPzvV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | New Jeans | NewJeans 2nd EP 'Get Up' | [NewJeans](../../../../artists/newjeans/overview.md) | [ADOR](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/7woEDtme8YkFiWeyiinIjy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | Hurt | NewJeans 1st EP 'New Jeans' | [NewJeans](../../../../artists/newjeans/overview.md) | [ADOR](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) |

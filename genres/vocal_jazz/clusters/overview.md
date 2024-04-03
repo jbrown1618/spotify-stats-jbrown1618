@@ -19,7 +19,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="" width="50" /> | Cheek To Cheek | The Complete Ella And Louis On Verve | Ella Fitzgerald, Louis Armstrong | Verve Reissues | 577 | | [🔗](https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="" width="50" /> | Cheek To Cheek | The Complete Ella And Louis On Verve | Ella Fitzgerald, Louis Armstrong | Verve Reissues | 579 | | [🔗](https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356849c42c652a7e4025fd6eb" alt="" width="50" /> | Sleigh Ride | Ella Wishes You A Swinging Christmas (Expanded Edition) | Ella Fitzgerald | Verve Reissues | nan | | [🔗](https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273845a5660b804e5f3e821fbed" alt="" width="50" /> | Dream A Little Dream Of Me | What A Wonderful World | Louis Armstrong | [GRP](../../../../labels/grp) | nan | | [🔗](https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="" width="50" /> | I'd Rather Go Blind | Tell Mama | Etta James | [Geffen](../../../../labels/geffen) | nan | 💚 | [🔗](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) |
@@ -27,7 +27,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="" width="50" /> | L-O-V-E | Unforgettable: With Love | Natalie Cole | [Craft Recordings](../../../../labels/craft_recordings) | nan | | [🔗](https://open.spotify.com/track/637xWjdmJY7CAQJsnsT7Fs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="" width="50" /> | L-O-V-E - 2000 Remaster | Romance | Nat King Cole | [UME - Global Clearing House](../../../../labels/ume_-_global_clearing_house) | nan | | [🔗](https://open.spotify.com/track/6OHPdG4tYiHRPUHwf68nRU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea" alt="" width="50" /> | Baby, It's Cold Outside | A Winter Romance | Dean Martin | [Capitol Records](../../../../labels/capitol_records) | nan | | [🔗](https://open.spotify.com/track/4MrfQL4TYQXJBlZYpAHTuE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273611ea3fb281f7956ffd33b77" alt="" width="50" /> | Blue Train | Blue Train | John Coltrane | Blue Note Records | 625 | | [🔗](https://open.spotify.com/track/3zIuHdD8dkh1vPxQu334T7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273611ea3fb281f7956ffd33b77" alt="" width="50" /> | Blue Train | Blue Train | John Coltrane | Blue Note Records | 628 | | [🔗](https://open.spotify.com/track/3zIuHdD8dkh1vPxQu334T7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273417cc363d7286a88489dee3c" alt="" width="50" /> | The Girl From Ipanema | Getz/Gilberto (Expanded Edition) | Stan Getz | Verve Reissues | nan | | [🔗](https://open.spotify.com/track/7znjbX9XdoQayIrVNdd50Z) |
 ## Cluster #3
 
