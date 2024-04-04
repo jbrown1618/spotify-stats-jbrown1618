@@ -27,7 +27,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273632620401c34d07336a091bc" alt="" width="50" /> | Natural | Natural | GSoul | [WM Korea](../..) | nan | | [🔗](https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ffd2d252ce504dac86a25efc" alt="" width="50" /> | Running Through The Night | ?depacse ohw | Seori | [WM Korea](../..) | nan | | [🔗](https://open.spotify.com/track/3UZ46DvXvB2R7sBUZornlv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="" width="50" /> | Cupid | The Beginning: Cupid | FIFTY FIFTY | [WM Korea](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="" width="50" /> | Cupid - Twin Ver. | The Beginning: Cupid | FIFTY FIFTY | [WM Korea](../..) | 279 | | [🔗](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="" width="50" /> | Cupid - Twin Ver. | The Beginning: Cupid | FIFTY FIFTY | [WM Korea](../..) | 282 | | [🔗](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27390eea4a1744d67c2de3db575" alt="" width="50" /> | When It Snows mmm (feat. Wheein) | When It Snows mmm (feat. Wheein) | Basick, Whee In | [WM Korea](../..) | 712 | | [🔗](https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV) |
 ## Cluster #3
 
