@@ -25,6 +25,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4669166b571594eade778990" alt="" width="50" /> | 1 | 1 | Miguel | [🔗](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f3c0dffb5229c8734ff60b2" alt="" width="50" /> | 1 | 1 | Big Boi | [🔗](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 1 | 1 | [Sara Bareilles](../../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | 1 | 1 | P!nk | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | 1 | 1 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaee73c0f0458b95091845ee1" alt="" width="50" /> | 1 | 1 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | 2 | 0 | [Taylor Swift](../../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
@@ -57,6 +58,7 @@
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27386498c6e8ee965fa665a9c3d" alt="" width="50" /> | 1 | 1 | Hands All Over (Deluxe) | 2010 | [🔗](https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730eb56329734f9400c1639359" alt="" width="50" /> | 1 | 1 | Greatest Hits...So Far!!! | 2010-11-12 | [🔗](https://open.spotify.com/album/2dpS2uYlkzDsPjl3IZbNjD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a6339d6ddfd579f77559b3c" alt="" width="50" /> | 1 | 1 | Animal (Expanded Edition) | 2010-01-01 | [🔗](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="" width="50" /> | 1 | 1 | All I Want Is You | 2010-11-26 | [🔗](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ff8bc258e3ebc835ffe14ca" alt="" width="50" /> | 1 | 0 | Save Me, San Francisco (Golden Gate Edition) | 2010-12-01 | [🔗](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) |
@@ -97,6 +99,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015" alt="" width="50" /> | Mean | Speak Now | [Taylor Swift](../../../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](../../../labels/big_machine_records) | nan | | [🔗](https://open.spotify.com/track/5yEPktRqvIhko5QFF3aBhQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" alt="" width="50" /> | Fuck You | The Lady Killer | CeeLo Green | Radiculture/Elektra | nan | 💚 | [🔗](https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" alt="" width="50" /> | Old Fashioned | The Lady Killer | CeeLo Green | Radiculture/Elektra | nan | 💚 | [🔗](https://open.spotify.com/track/3lVoGZoKXQUElnJbU668Jf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730eb56329734f9400c1639359" alt="" width="50" /> | F**kin' Perfect | Greatest Hits...So Far!!! | P!nk | LaFace Records | nan | 💚 | [🔗](https://open.spotify.com/track/3MGJF1CDFGfjXESL2Heva0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | Only Girl (In The World) | Loud | [Rihanna](../../../artists/rihanna/overview.md) | [Def Jam Recordings](../../../labels/def_jam_recordings) | nan | 💚 | [🔗](https://open.spotify.com/track/1VDXQhu7YGdbM6UeEIfsaX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | S&M | Loud | [Rihanna](../../../artists/rihanna/overview.md) | [Def Jam Recordings](../../../labels/def_jam_recordings) | nan | 💚 | [🔗](https://open.spotify.com/track/08Bfk5Y2S5fCxgxk371Eel) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="" width="50" /> | Sure Thing | All I Want Is You | Miguel | [Jive](../../../labels/jive) | nan | 💚 | [🔗](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) |

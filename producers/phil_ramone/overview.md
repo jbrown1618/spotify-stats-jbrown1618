@@ -1,0 +1,40 @@
+# Phil Ramone (Producer)
+
+## Credits by Type
+
+| Credit Type | Tracks |
+|:---|---:|
+| Producer | 11 |
+
+## Produces for Artists
+
+| Art | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 11 | 11 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
+
+## Works with Producers
+
+| Producer | Producer | Tracks |
+|:---|:---|---:|
+| Billy Joel | [Billy Joel](../billy_joel/overview.md) | 11 |
+| Jim Boyer | [Jim Boyer](../jim_boyer/overview.md) | 11 |
+| Steve Boyer | Steve Boyer | 1 |
+| David Dickson | David Dickson | 1 |
+| Bradshaw Leigh | Bradshaw Leigh | 1 |
+| Fred Tenny | Fred Tenny | 1 |
+
+## Production Credits
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | Just the Way You Are | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | Scenes from an Italian Restaurant | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | Only the Good Die Young | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | Movin' Out (Anthony's Song) | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | The Stranger | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | Vienna | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="" width="50" /> | Big Shot | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="" width="50" /> | My Life | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="" width="50" /> | Don't Ask Me Why | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="" width="50" /> | The Longest Time | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="" width="50" /> | A Matter of Trust | Producer |

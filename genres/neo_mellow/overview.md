@@ -10,7 +10,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 61 | 40 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 61 | 42 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 16 | 14 | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | 7 | 4 | A Fine Frenzy | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9dadab92d8236e846b16fe3a" alt="" width="50" /> | 4 | 2 | Mumford & Sons | [🔗](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) |
@@ -51,16 +51,16 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Many the Miles](../../artists/sara_bareilles/overview.md) | 242 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Say You're Sorry](../../artists/sara_bareilles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Lie To Me](../../artists/sara_bareilles/overview.md) | 321 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="Tangled" width="50" /> | When Will My Life Begin? - From "Tangled" / Soundtrack Version | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [I Choose You](../../artists/sara_bareilles/overview.md) | 368 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Sweet As Whole](../../artists/sara_bareilles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Machine Gun](../../artists/sara_bareilles/overview.md) | 389 | <img src="https://i.scdn.co/image/ab67616d0000b27309ec47c2a2173e984d8461e9" alt="Chariot - Stripped" width="50" /> | Chariot | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Fairytale](../../artists/sara_bareilles/overview.md) | 390 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | [You've Got The Love](../../artists/florence_+_the_machine/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="Barton Hollow" width="50" /> | Poison & Wine | 400 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Satellite Call](../../artists/sara_bareilles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Between the Lines](../../artists/sara_bareilles/overview.md) | 453 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Breathe Again](../../artists/sara_bareilles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [What The Water Gave Me](../../artists/florence_+_the_machine/overview.md) | 460 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | [Kiss With A Fist](../../artists/florence_+_the_machine/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Not Alone](../../artists/sara_bareilles/overview.md) | 530 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Manhattan](../../artists/sara_bareilles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="Picture Show" width="50" /> | Everybody Talks | 558 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Come Round Soon](../../artists/sara_bareilles/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Many the Miles](../../artists/sara_bareilles/overview.md) | 245 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Say You're Sorry](../../artists/sara_bareilles/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Lie To Me](../../artists/sara_bareilles/overview.md) | 326 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="Tangled" width="50" /> | When Will My Life Begin? - From "Tangled" / Soundtrack Version | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [I Choose You](../../artists/sara_bareilles/overview.md) | 371 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Sweet As Whole](../../artists/sara_bareilles/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Machine Gun](../../artists/sara_bareilles/overview.md) | 393 | <img src="https://i.scdn.co/image/ab67616d0000b27309ec47c2a2173e984d8461e9" alt="Chariot - Stripped" width="50" /> | Chariot | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Fairytale](../../artists/sara_bareilles/overview.md) | 395 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Satellite Call](../../artists/sara_bareilles/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="Barton Hollow" width="50" /> | Poison & Wine | 407 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Breathe Again](../../artists/sara_bareilles/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Between the Lines](../../artists/sara_bareilles/overview.md) | 461 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Manhattan](../../artists/sara_bareilles/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [What The Water Gave Me](../../artists/florence_+_the_machine/overview.md) | 466 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Come Round Soon](../../artists/sara_bareilles/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Not Alone](../../artists/sara_bareilles/overview.md) | 532 | <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="Lungs (Deluxe Edition)" width="50" /> | [Kiss With A Fist](../../artists/florence_+_the_machine/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="Picture Show" width="50" /> | Everybody Talks | 560 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Eden](../../artists/sara_bareilles/overview.md) | nan |
 
 ## Top Albums
 
@@ -69,11 +69,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | 13 | 10 | Kaleidoscope Heart | 2010-09-07 | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | 12 | 12 | The Blessed Unrest | 2013-07-16 | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | 12 | 8 | Little Voice | 2007-07-03 | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | 10 | 5 | Amidst the Chaos (Bonus Version) | 2019-05-10 | [🔗](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | 6 | 6 | Lungs | 2009-01-01 | [🔗](https://open.spotify.com/album/2KAK58PimXHF4lSoKO3RxA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | 10 | 6 | Amidst the Chaos (Bonus Version) | 2019-05-10 | [🔗](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | 6 | 6 | Lungs (Deluxe Edition) | 2009 | [🔗](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | 6 | 6 | Ceremonials (Deluxe Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | 6 | 1 | What's Inside: Songs from Waitress | 2015-11-06 | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | 5 | 4 | Once Upon Another Time | 2012-05-22 | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | 5 | 5 | Once Upon Another Time | 2012-05-22 | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273119ad2ebc0d33edf847ed8c6" alt="" width="50" /> | 3 | 2 | One Cell In The Sea | 2007 | [🔗](https://open.spotify.com/album/0Ot7MEgreG2R93aN42M9iK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | 3 | 2 | How Big, How Blue, How Beautiful | 2015-06-01 | [🔗](https://open.spotify.com/album/2btszoya78vyT8fwelmVnz) |
 
@@ -118,7 +118,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 62 | 41 | [Epic](../../labels/epic/overview.md) |
+| 62 | 43 | [Epic](../../labels/epic/overview.md) |
 | 15 | 14 | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_/overview.md) |
 | 10 | 5 | [Virgin Records](../../labels/virgin_records/overview.md) |
 | 4 | 2 | Glassnote Entertainment Group LLC |
@@ -157,15 +157,15 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 31 | Lyricist, Songwriter, Producer |
-| | [Florence Welch](../../producers/florence_welch/overview.md) | 13 | Songwriter, Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 32 | Lyricist, Songwriter, Producer |
+| | [Florence Welch](../../producers/florence_welch/overview.md) | 12 | Lyricist, Songwriter |
 | | John O'Mahony | 9 | Producer |
 | | [Paul Epworth](../../producers/paul_epworth/overview.md) | 7 | Producer, Lyricist, Songwriter |
 | | Kurt Uenala | 7 | Producer |
+| | T-Bone Burnett | 6 | Producer |
 | | Isabella Summers | 6 | Songwriter, Producer, Lyricist |
+| | Jason Wormer | 6 | Producer |
 | | Neal Avron | 6 | Arranger, Producer |
-| | T-Bone Burnett | 5 | Producer |
-| | Jason Wormer | 5 | Producer |
 | | Cenzo Townshend | 4 | Producer |
 
 
@@ -176,45 +176,43 @@
 |:---|:---|---:|:---|
 | | Craig Silvey | 4 | Producer |
 | | Markus Dravs | 4 | Producer |
-| | Mark Endert | 3 | Producer |
 | | Robin Baynton | 3 | Producer |
 | | Jimmy Robertson | 3 | Producer |
+| | Mark Endert | 3 | Producer |
 | | Sally Herbert | 3 | Arranger |
 | | James Ford | 3 | Producer |
-| | [Jack Antonoff](../../producers/jack_antonoff/overview.md) | 2 | Songwriter |
 | | Todor Kobakov | 2 | Arranger |
-| | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9dadab92d8236e846b16fe3a" alt="" width="50" /> | Mumford & Sons | 2 | Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | Jason Mraz | 2 | Lyricist, Songwriter, Producer |
 | | Jeremy Darby | 2 | Producer |
 | | Hal Cragin | 2 | Producer, Songwriter |
 | | Marcus Mumford | 2 | Songwriter |
 | | Alison Sudol | 2 | Lyricist, Songwriter |
-| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 2 | Producer |
 | | Lukas Burton | 2 | Producer, Songwriter |
 | | Ted Dwane | 2 | Songwriter |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 2 | Producer |
 | | Tom Elmhirst | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9dadab92d8236e846b16fe3a" alt="" width="50" /> | Mumford & Sons | 2 | Arranger |
+| | [Jack Antonoff](../../producers/jack_antonoff/overview.md) | 2 | Songwriter |
 | | Martin Terefe | 2 | Producer |
 | | Mike Piersante | 2 | Producer |
 | | Matt Hales | 2 | Songwriter |
-| | Bullion | 2 | Producer |
 | | Winston Marshall | 2 | Songwriter |
 | | Ruadhri Cushnan | 2 | Producer |
+| | Bullion | 2 | Producer |
 | | Ben Lovett | 2 | Songwriter |
-| | Patrick Benson | 1 | Producer |
-| | Steve Mackey | 1 | Producer |
+| | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 2 | Songwriter |
 | | Bruno Ellingham | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb08635ff0ed30023d2ee764a1" alt="" width="50" /> | Colbie Caillat | 1 | Songwriter |
 | | Rush | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb08635ff0ed30023d2ee764a1" alt="" width="50" /> | Colbie Caillat | 1 | Songwriter |
+| | Patrick Benson | 1 | Producer |
 | | Josh Diamond | 1 | Songwriter |
 | | Aaron Sterling | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8f9c3f0a123aecf196868c9c" alt="" width="50" /> | Michael Andrews | 1 | Producer |
 | | Steve Osborne | 1 | Producer |
 | | Ren Swan | 1 | Producer |
 | | Mike Campbell | 1 | Songwriter |
-| | Javier Dunn | 1 | Songwriter |
-| | Jason Blynn | 1 | Songwriter |
 | | Ali Helnwein | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8f9c3f0a123aecf196868c9c" alt="" width="50" /> | Michael Andrews | 1 | Producer |
+| | Jason Blynn | 1 | Songwriter |
 | | Will Owen | 1 | Arranger |
 | | Suzie Katayama | 1 | Arranger |
 | | Chad Vaccarino | 1 | Songwriter |
@@ -223,10 +221,10 @@
 | | Brian Degraw | 1 | Songwriter |
 | | Tommy Walter | 1 | Producer |
 | | Pete Harper | 1 | Songwriter |
+| | Javier Dunn | 1 | Songwriter |
 | | Billy Bush | 1 | Producer |
-| | Tim Dewit | 1 | Songwriter |
 | | Tyler Glenn | 1 | Songwriter |
-| | François Chevallier (Chevallier, François) | 1 | Producer |
+| | Zachary Dawes | 1 | Producer |
 | | Anthony B. Stephens | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc97b9b892e5fa7fef9ac8571" alt="" width="50" /> | Gary Jules | 1 | Producer |
 | | Justin Tranter | 1 | Songwriter |
@@ -243,24 +241,23 @@
 | | Iain Hill | 1 | Producer |
 | | Justin Vernon | 1 | Lyricist, Songwriter |
 | | Joseph Lorge | 1 | Producer |
+| | François Chevallier (Chevallier, François) | 1 | Producer |
 | | Michael Brauer | 1 | Producer |
-| | Richard Flack | 1 | Producer |
-| | Matt Allchin | 1 | Songwriter |
-| | Zachary Dawes | 1 | Producer |
+| | Lori McKenna | 1 | Songwriter |
 | | Andy Green | 1 | Producer |
 | | Lizzi Bougatsos | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | KT Tunstall | 1 | Lyricist, Songwriter |
 | | John Bellamy | 1 | Songwriter |
+| | Tim Dewit | 1 | Songwriter |
 | | Charlie Hugall | 1 | Producer |
-| | Lori McKenna | 1 | Songwriter |
 | | Carl Lieberman, RPT | 1 | Producer |
+| | Justin Meldal-Johnsen | 1 | Producer |
 | | Roland Orzabal | 1 | Lyricist, Songwriter |
 | | [Tony Maserati](../../producers/tony_maserati/overview.md) | 1 | Producer |
 | | Mark "Top" Rankin | 1 | Producer |
 | | Alex Gilbert | 1 | Producer |
 | | Dyre Gormsen | 1 | Producer |
 | | Ian Axel | 1 | Songwriter |
-| | Justin Meldal-Johnsen | 1 | Producer |
 | | Sam Farrar | 1 | Songwriter |
 
 </details>

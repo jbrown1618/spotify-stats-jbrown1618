@@ -20,17 +20,14 @@ Radiohead:
 
 ## Artist Rank
 Radiohead is currently:
-- The #28 artist of the last month
-- The #30 artist of the last 6 months
-- The #43 artist of all time
+- The #30 artist of the last month
+- The #33 artist of the last 6 months
+- The #42 artist of all time
 
 ![Rank of Radiohead over time](../../images/artists/radiohead/rank_time_series.png)
 ## Top Tracks
 
-- Paranoid Android is the #9 track of the On Repeat playlist
-- Creep is the #15 track of the On Repeat playlist
-- Fake Plastic Trees is the #20 track of the On Repeat playlist
-- Karma Police is the #28 track of the On Repeat playlist
+- Paranoid Android is the #21 track of the On Repeat playlist
 
 ### Top tracks, aggregated
 
@@ -39,9 +36,10 @@ Radiohead is currently:
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02028c3bb4b81ee71dd73d1596ab67616d00001e025675e83f707f1d7271e5cf8aab67616d00001e027948eec521c67e76cafe30a0ab67616d00001e02c985bcc18dd81da80839e5a9" alt="" width="50" /> | 17 | [Modern Rock](../../playlists/modern_rock/overview.md) |
-| <img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg" alt="" width="50" /> | 4 | [On Repeat](../../playlists/on_repeat/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e0286ca91e718866f411c01db5eab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Beat Drop!](../../playlists/beat_drop!/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e022d73b1bb77cee09f0278be04ab67616d00001e026f50b3400595b123a916e0dcab67616d00001e029ab215825eb77076b1b4b387ab67616d00001e02ff0dae802acb38075786b58c" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 6 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e0286ca91e718866f411c01db5eab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02ce4f1737bc8a646c8c4bd25a" alt="" width="50" /> | 1 | [Beat Drop!](../../playlists/beat_drop!/overview.md) |
+| <img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg" alt="" width="50" /> | 1 | [On Repeat](../../playlists/on_repeat/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
 
 ## Top Albums
 
@@ -163,13 +161,13 @@ Radiohead is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Exit Music (For A Film) | OK Computer | [Radiohead](overview.md) | [XL Recordings](../../labels/xl_recordings) | 302 | 💚 | [🔗](https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Paranoid Android | OK Computer | [Radiohead](overview.md) | [XL Recordings](../../labels/xl_recordings) | 346 | 💚 | [🔗](https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | Fake Plastic Trees | The Bends | [Radiohead](overview.md) | [XL Recordings](../../labels/xl_recordings) | 419 | 💚 | [🔗](https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="" width="50" /> | Creep | Pablo Honey | [Radiohead](overview.md) | [XL Recordings](../../labels/xl_recordings) | 448 | 💚 | [🔗](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | Jigsaw Falling Into Place | In Rainbows | [Radiohead](overview.md) | [XL Recordings](../../labels/xl_recordings) | 485 | 💚 | [🔗](https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | Street Spirit (Fade Out) | The Bends | [Radiohead](overview.md) | [XL Recordings](../../labels/xl_recordings) | 543 | 💚 | [🔗](https://open.spotify.com/track/2QwObYJWyJTiozvs0RI7CF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Karma Police | OK Computer | [Radiohead](overview.md) | [XL Recordings](../../labels/xl_recordings) | 551 | 💚 | [🔗](https://open.spotify.com/track/63OQupATfueTdZMWTxW03A) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Exit Music (For A Film) | OK Computer | [Radiohead](overview.md) | [XL Recordings](../../labels/xl_recordings) | 307 | 💚 | [🔗](https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Paranoid Android | OK Computer | [Radiohead](overview.md) | [XL Recordings](../../labels/xl_recordings) | 321 | 💚 | [🔗](https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | Fake Plastic Trees | The Bends | [Radiohead](overview.md) | [XL Recordings](../../labels/xl_recordings) | 423 | 💚 | [🔗](https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="" width="50" /> | Creep | Pablo Honey | [Radiohead](overview.md) | [XL Recordings](../../labels/xl_recordings) | 454 | 💚 | [🔗](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | Jigsaw Falling Into Place | In Rainbows | [Radiohead](overview.md) | [XL Recordings](../../labels/xl_recordings) | 490 | 💚 | [🔗](https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | Street Spirit (Fade Out) | The Bends | [Radiohead](overview.md) | [XL Recordings](../../labels/xl_recordings) | 544 | 💚 | [🔗](https://open.spotify.com/track/2QwObYJWyJTiozvs0RI7CF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Karma Police | OK Computer | [Radiohead](overview.md) | [XL Recordings](../../labels/xl_recordings) | 554 | 💚 | [🔗](https://open.spotify.com/track/63OQupATfueTdZMWTxW03A) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | High and Dry | The Bends | [Radiohead](overview.md) | [XL Recordings](../../labels/xl_recordings) | nan | 💚 | [🔗](https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Let Down | OK Computer | [Radiohead](overview.md) | [XL Recordings](../../labels/xl_recordings) | nan | 💚 | [🔗](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | No Surprises | OK Computer | [Radiohead](overview.md) | [XL Recordings](../../labels/xl_recordings) | nan | 💚 | [🔗](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) |

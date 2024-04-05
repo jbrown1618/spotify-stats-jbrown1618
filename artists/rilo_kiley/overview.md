@@ -20,7 +20,8 @@ Rilo Kiley:
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02028c3bb4b81ee71dd73d1596ab67616d00001e025675e83f707f1d7271e5cf8aab67616d00001e027948eec521c67e76cafe30a0ab67616d00001e02c985bcc18dd81da80839e5a9" alt="" width="50" /> | 6 | [Modern Rock](../../playlists/modern_rock/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e022d73b1bb77cee09f0278be04ab67616d00001e026f50b3400595b123a916e0dcab67616d00001e029ab215825eb77076b1b4b387ab67616d00001e02ff0dae802acb38075786b58c" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 2 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
 
 ## Top Albums
 

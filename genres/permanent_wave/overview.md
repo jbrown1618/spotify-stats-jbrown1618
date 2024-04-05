@@ -15,11 +15,11 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | 5 | 4 | Muse | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089" alt="" width="50" /> | 3 | 2 | The Strokes | [🔗](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8" alt="" width="50" /> | 6 | 1 | Red Hot Chili Peppers | [🔗](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | 2 | 1 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb67dc4da82c968767d994f3c3" alt="" width="50" /> | 1 | 1 | Blondie | [🔗](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0168ba8148c07c2cdeb7d067" alt="" width="50" /> | 1 | 1 | a-ha | [🔗](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc884df599abc793c116cdf15" alt="" width="50" /> | 4 | 0 | Foo Fighters | [🔗](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ff0cd5ef2ecf733804984bb" alt="" width="50" /> | 3 | 0 | Green Day | [🔗](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | 2 | 0 | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
 
 
 <details>
@@ -27,7 +27,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | 2 | 0 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | 2 | 0 | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb78f77c5583ae99472dd4a49" alt="" width="50" /> | 2 | 0 | David Bowie | [🔗](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9fdb4dab484a9f12e347c216" alt="" width="50" /> | 2 | 0 | Sting | [🔗](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb207b21f3ed0ee96adce3166a" alt="" width="50" /> | 2 | 0 | The Killers | [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) |
@@ -49,14 +49,14 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Exit Music (For A Film)](../../artists/radiohead/overview.md) | 302 | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | Mr. Brightside | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Paranoid Android](../../artists/radiohead/overview.md) | 346 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="In Rainbows" width="50" /> | [Reckoner](../../artists/radiohead/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | [Fake Plastic Trees](../../artists/radiohead/overview.md) | 419 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> | Slow Cheetah | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> | [Creep](../../artists/radiohead/overview.md) | 448 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | [Clocks](../../artists/coldplay/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="In Rainbows" width="50" /> | [Jigsaw Falling Into Place](../../artists/radiohead/overview.md) | 485 | <img src="https://i.scdn.co/image/ab67616d0000b273653b110d9560eb1656f4c583" alt="Ten Summoner&#x27;s Tales" width="50" /> | Fields Of Gold | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> | Madness | 503 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> | Strip My Mind | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | [Street Spirit (Fade Out)](../../artists/radiohead/overview.md) | 543 | <img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="Tidal" width="50" /> | Shadowboxer | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Karma Police](../../artists/radiohead/overview.md) | 551 | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="Graceland (25th Anniversary Deluxe Edition)" width="50" /> | You Can Call Me Al | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Exit Music (For A Film)](../../artists/radiohead/overview.md) | 307 | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | Mr. Brightside | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Paranoid Android](../../artists/radiohead/overview.md) | 321 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="In Rainbows" width="50" /> | [Reckoner](../../artists/radiohead/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | [Fake Plastic Trees](../../artists/radiohead/overview.md) | 423 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> | Slow Cheetah | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> | [Creep](../../artists/radiohead/overview.md) | 454 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | [Clocks](../../artists/coldplay/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="In Rainbows" width="50" /> | [Jigsaw Falling Into Place](../../artists/radiohead/overview.md) | 490 | <img src="https://i.scdn.co/image/ab67616d0000b273653b110d9560eb1656f4c583" alt="Ten Summoner&#x27;s Tales" width="50" /> | Fields Of Gold | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> | Madness | 505 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> | Strip My Mind | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | [Street Spirit (Fade Out)](../../artists/radiohead/overview.md) | 544 | <img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="Tidal" width="50" /> | Shadowboxer | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Karma Police](../../artists/radiohead/overview.md) | 554 | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="Graceland (25th Anniversary Deluxe Edition)" width="50" /> | You Can Call Me Al | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="Echoes, Silence, Patience &amp; Grace" width="50" /> | The Pretender | nan | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> | Dani California | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> | Knights of Cydonia | nan | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [No Surprises](../../artists/radiohead/overview.md) | nan |
 
@@ -90,6 +90,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="" width="50" /> | 1 | 1 | Kid A | 2000-10-02 | [🔗](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="" width="50" /> | 1 | 1 | Hunting High and Low | 1985-06-01 | [🔗](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730da53e8f58e59f28a79c10c7" alt="" width="50" /> | 1 | 1 | Hail To the Thief | 2003-06-09 | [🔗](https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="" width="50" /> | 1 | 1 | Graceland (25th Anniversary Deluxe Edition) | 1986-08-12 | [🔗](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27313cbe3e4dfa81fe5b91f2f1c" alt="" width="50" /> | 1 | 1 | Call Me | 2004-01-01 | [🔗](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27301b50e75c5aa46fb8ce0cd32" alt="" width="50" /> | 1 | 1 | Amnesiac | 2001-03-12 | [🔗](https://open.spotify.com/album/6V9YnBmFjWmXCBaUVRCVXP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="" width="50" /> | 1 | 0 | Tidal | 1996-07-23 | [🔗](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) |
@@ -105,7 +106,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="" width="50" /> | 1 | 0 | Is This It | 2001-07-30 | [🔗](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72" alt="" width="50" /> | 1 | 0 | In Your Honor | 2005-06-14 | [🔗](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="" width="50" /> | 1 | 0 | Greatest Hits: God's Favorite Band | 2017-11-17 | [🔗](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="" width="50" /> | 1 | 0 | Graceland (25th Anniversary Deluxe Edition) | 1986-08-12 | [🔗](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="" width="50" /> | 1 | 0 | Good Vibrations | 1993 | [🔗](https://open.spotify.com/album/10IUKCLZPs9onPwXfQVxfv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9" alt="" width="50" /> | 1 | 0 | Fetch The Bolt Cutters | 2020-04-17 | [🔗](https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="" width="50" /> | 1 | 0 | Eyes Open | 2006-01-01 | [🔗](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) |
@@ -133,10 +133,10 @@
 | 8 | 2 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
 | 7 | 2 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 1 | 1 | [Rhino](../../labels/rhino/overview.md) |
+| 1 | 1 | Legacy Recordings |
 | 1 | 1 | Cult Records |
 | 1 | 1 | Chrysalis\EMI Records (USA) |
 | 3 | 0 | [Reprise](../../labels/reprise/overview.md) |
-| 2 | 0 | [Island Records](../../labels/island_records/overview.md) |
 
 
 <details>
@@ -144,13 +144,13 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 2 | 0 | [Island Records](../../labels/island_records/overview.md) |
 | 2 | 0 | A&M |
 | 1 | 0 | Work |
 | 1 | 0 | [Virgin Records](../../labels/virgin_records/overview.md) |
 | 1 | 0 | RCA Victor |
 | 1 | 0 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 1 | 0 | Moulin Rouge |
-| 1 | 0 | Legacy Recordings |
 | 1 | 0 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 1 | 0 | [Geffen](../../labels/geffen/overview.md) |
 | 1 | 0 | [Epic](../../labels/epic/overview.md) |
@@ -168,16 +168,16 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [Philip Selway](../../producers/philip_selway/overview.md) | 13 | Songwriter |
 | | [Ed O'Brien](../../producers/ed_o_brien/overview.md) | 13 | Songwriter |
+| | [Philip Selway](../../producers/philip_selway/overview.md) | 13 | Songwriter |
 | | [Nigel Godrich](../../producers/nigel_godrich/overview.md) | 13 | Producer |
-| | [Colin Greenwood](../../producers/colin_greenwood/overview.md) | 13 | Songwriter |
 | | [Thom Yorke](../../producers/thom_yorke/overview.md) | 13 | Lyricist, Producer, Songwriter, Arranger |
+| | [Colin Greenwood](../../producers/colin_greenwood/overview.md) | 13 | Songwriter |
 | | [Jonny Greenwood](../../producers/jonny_greenwood/overview.md) | 13 | Songwriter, Arranger, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | [Radiohead](../../artists/radiohead/overview.md) | 12 | Arranger, Producer, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb45de7ab990a1246c812128b6" alt="" width="50" /> | Chris Martin | 5 | Songwriter |
-| | Jonny Buckland | 5 | Songwriter |
+| | Will Champion | 5 | Songwriter |
 | | Guy Berryman | 5 | Songwriter |
+| | Jonny Buckland | 5 | Songwriter |
 
 
 <details>
@@ -185,7 +185,7 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Will Champion | 5 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb45de7ab990a1246c812128b6" alt="" width="50" /> | Chris Martin | 5 | Songwriter |
 | | Ken Nelson | 4 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 4 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | 4 | Producer |
@@ -193,67 +193,71 @@
 | | John Leckie | 3 | Producer |
 | | Michael Brauer | 3 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 3 | Producer |
-| | Matt Bellamy | 3 | Lyricist, Songwriter |
 | | Sean Slade | 3 | Producer |
+| | Matt Bellamy | 3 | Lyricist, Songwriter |
 | | Rik Simpson | 3 | Producer |
-| | Chris Blair | 2 | Producer |
 | | Richard Woodcraft | 2 | Producer |
-| | Tommaso Colliva | 2 | Producer |
 | | Jason Lader | 2 | Producer |
-| | Mark Phythian | 2 | Producer |
 | | Adrian Bushby | 2 | Producer |
+| | Chris Blair | 2 | Producer |
+| | Mark Phythian | 2 | Producer |
 | | Hugo Nicolson | 2 | Producer |
+| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 2 | Lyricist, Songwriter |
 | | Jim Warren | 2 | Producer |
 | | Rick Rubin | 2 | Producer |
 | | Dan Grech-Marguerat | 2 | Producer |
-| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 2 | Lyricist, Songwriter |
-| | Gerard Navarro | 1 | Producer |
+| | Tommaso Colliva | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089" alt="" width="50" /> | The Strokes | 1 | Arranger |
-| | John Ratcliff | 1 | Producer |
-| | Ryan Hewitt | 1 | Producer |
-| | Fabrizio Moretti | 1 | Songwriter |
 | | Nikolai Fraiture | 1 | Songwriter |
+| | Ryan Hewitt | 1 | Producer |
+| | John Cornfield | 1 | Producer |
+| | John Ratcliff | 1 | Producer |
+| | Gerard Navarro | 1 | Producer |
 | | Mark Linett | 1 | Producer |
 | | Ben Baptie | 1 | Producer |
-| | Rich Costey | 1 | Producer |
 | | John Frusciante | 1 | Songwriter |
+| | Fabrizio Moretti | 1 | Songwriter |
+| | Rich Costey | 1 | Producer |
 | | Andrew Scheps | 1 | Producer |
-| | Gordon Raphael | 1 | Producer |
 | | Graeme Stewart | 1 | Producer |
 | | Chris Holmes | 1 | Producer |
-| | John Cornfield | 1 | Producer |
 | | Chad Smith | 1 | Songwriter |
-| | Audrey Riley | 1 | Arranger |
-| | Markus Dravs | 1 | Producer |
-| | Darrell Thorp | 1 | Producer |
 | | Albert Hammond, Jr. | 1 | Songwriter |
-| | Paul Read | 1 | Producer |
+| | Markus Dravs | 1 | Producer |
+| | Audrey Riley | 1 | Arranger |
+| | Gordon Raphael | 1 | Producer |
+| | Anthony Kiedis | 1 | Songwriter |
+| | Mike Hazlewood | 1 | Songwriter |
+| | Anthony Newley | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | Paul Simon | 1 | Lyricist, Producer, Songwriter |
 | | Andy Wallace | 1 | Producer |
 | | Jon Hopkins | 1 | Producer |
 | | Simon "Barny" Barnicott | 1 | Producer |
 | | Paul Waaktaar-Savoy | 1 | Songwriter |
 | | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 1 | Producer |
+| | Rob Mounsey | 1 | Arranger |
 | | Magne Furuholmen | 1 | Songwriter |
 | | Leslie Bricusse | 1 | Songwriter |
 | | Morten Harket | 1 | Songwriter |
+| | Chikapa "Ray" Phiri | 1 | Arranger |
 | | Flea | 1 | Songwriter |
 | | Deborah Harry | 1 | Songwriter |
 | | Andrea Wright | 1 | Producer |
 | | Albert Hammond | 1 | Songwriter |
+| | Paul Read | 1 | Producer |
 | | Nick Valensi | 1 | Songwriter |
-| | Mike Hazlewood | 1 | Songwriter |
 | | Giorgio Moroder | 1 | Songwriter |
 | | Ric Peet | 1 | Producer |
 | | Alan Tarney | 1 | Producer |
 | | Chris Lord-Alge | 1 | Producer |
+| | Roy Halee | 1 | Producer |
 | | Pete Min | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0168ba8148c07c2cdeb7d067" alt="" width="50" /> | a-ha | 1 | Producer |
 | | Toshikazu Yoshioka | 1 | Producer |
-| | Anthony Kiedis | 1 | Songwriter |
 | | Claudius Mittendorfer | 1 | Producer |
+| | Darrell Thorp | 1 | Producer |
 | | Jon Coles | 1 | Producer |
 | | Dana Nielsen | 1 | Producer |
-| | Anthony Newley | 1 | Songwriter |
 | | Brian Eno | 1 | Producer |
 
 </details>

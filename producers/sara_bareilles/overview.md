@@ -4,17 +4,17 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Instrument | 23 |
-| Lyricist | 21 |
+| Instrument | 24 |
+| Lyricist | 22 |
 | Producer | 12 |
-| Songwriter | 31 |
-| Vocal | 31 |
+| Songwriter | 32 |
+| Vocal | 32 |
 
 ## Produces for Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 31 | 31 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 32 | 32 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 
 ## Works with Producers
 
@@ -22,9 +22,9 @@
 |:---|:---|---:|
 | John O'Mahony | John O'Mahony | 9 |
 | Kurt Uenala | Kurt Uenala | 7 |
+| T-Bone Burnett | T-Bone Burnett | 6 |
 | Neal Avron | Neal Avron | 6 |
-| T-Bone Burnett | T-Bone Burnett | 5 |
-| Jason Wormer | Jason Wormer | 5 |
+| Jason Wormer | Jason Wormer | 6 |
 | Mark Endert | Mark Endert | 3 |
 | Todor Kobakov | Todor Kobakov | 2 |
 | Jeremy Darby | Jeremy Darby | 2 |
@@ -93,3 +93,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Armor | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Miss Simone | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | No Such Thing | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Wicked Love | Lyricist, Songwriter |

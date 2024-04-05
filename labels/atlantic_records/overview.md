@@ -56,7 +56,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | 1 | 1 | CeeLo Green | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | 1 | 1 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d8e3ecf59f556b8e4fafce8" alt="" width="50" /> | 1 | 1 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb25806739a86070d817a9588d" alt="" width="50" /> | 1 | 1 | Ava Max | [🔗](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf4827e6db5b9b3ada7888dee" alt="" width="50" /> | 1 | 1 | Ava Max | [🔗](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba52d6095be04ca6691ba9a96" alt="" width="50" /> | 1 | 1 | Jess Glynne | [🔗](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e4be3cd76cff0dd9c80c7133" alt="" width="50" /> | 1 | 1 | Sydney James Harcourt | [🔗](https://open.spotify.com/artist/2fHcpUAFhqmfloo2HkBN3e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8cb645e0a77bf015feda7fb9" alt="" width="50" /> | 1 | 1 | Rina Sawayama | [🔗](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) |
@@ -275,7 +275,7 @@ Appears as:
 | | Jeff Bhasker | 1 | Producer |
 | | Teddy Geiger | 1 | Producer, Songwriter |
 | | Jens Jungkurth | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb25806739a86070d817a9588d" alt="" width="50" /> | Ava Max | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf4827e6db5b9b3ada7888dee" alt="" width="50" /> | Ava Max | 1 | Songwriter |
 | | Digital Farm Animals | 1 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B | 1 | Songwriter |
 | | Ethan Shumaker | 1 | Producer |
@@ -339,9 +339,9 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | Santa's Coming for Us | Everyday Is Christmas (Deluxe Edition) | [Sia](../../artists/sia/overview.md) | [Monkey Puzzle/Atlantic](.) | 351 | | [🔗](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="" width="50" /> | Lucky | We Sing. We Dance. We Steal Things. | Jason Mraz, Colbie Caillat | [Atlantic Records/ATG](.) | 618 | 💚 | [🔗](https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | When I Was Your Man | Unorthodox Jukebox | [Bruno Mars](../../artists/bruno_mars/overview.md) | [Atlantic Records](.) | 688 | 💚 | [🔗](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | Santa's Coming for Us | Everyday Is Christmas (Deluxe Edition) | [Sia](../../artists/sia/overview.md) | [Monkey Puzzle/Atlantic](.) | 356 | | [🔗](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="" width="50" /> | Lucky | We Sing. We Dance. We Steal Things. | Jason Mraz, Colbie Caillat | [Atlantic Records/ATG](.) | 624 | 💚 | [🔗](https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | When I Was Your Man | Unorthodox Jukebox | [Bruno Mars](../../artists/bruno_mars/overview.md) | [Atlantic Records](.) | 699 | 💚 | [🔗](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="" width="50" /> | Immigrant Song - Remaster | Led Zeppelin III (Remaster) | Led Zeppelin | [Atlantic Records](.) | nan | | [🔗](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="" width="50" /> | Black Dog - Remaster | Led Zeppelin IV (Deluxe Edition) | Led Zeppelin | [Atlantic Records](.) | nan | | [🔗](https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="" width="50" /> | Stairway to Heaven - Remaster | Led Zeppelin IV (Deluxe Edition) | Led Zeppelin | [Atlantic Records](.) | nan | | [🔗](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc) |

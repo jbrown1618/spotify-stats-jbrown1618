@@ -10,16 +10,16 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 25 | 17 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 25 | 19 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 | <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | 8 | 6 | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [🔗](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d2e812e63d6df77ee087b47" alt="" width="50" /> | 3 | 3 | Fleet Foxes | [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 4 | 2 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbdef7f178c9cf2e8d50cb9b9" alt="" width="50" /> | 2 | 1 | The Monkees | [🔗](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | 2 | 1 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb624ddceb90bdf808ed4e2e35" alt="" width="50" /> | 1 | 1 | Steve Miller Band | [🔗](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdbd28dd134a8828825088de" alt="" width="50" /> | 1 | 1 | Indigo Girls | [🔗](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | 1 | 1 | Harry Chapin | [🔗](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | 2 | 0 | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | 2 | 0 | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
 
 
 <details>
@@ -27,8 +27,8 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | 2 | 0 | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
 | <img src="https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a" alt="" width="50" /> | 2 | 0 | Carole King | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | 2 | 0 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
 | <img src="https://i.scdn.co/image/fb1b39783fdc9625bcba0837e7da9882969eaa03" alt="" width="50" /> | 1 | 0 | Annie Lennox | [🔗](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe86f788af4e127154da1257f" alt="" width="50" /> | 1 | 0 | Bonnie Raitt | [🔗](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfaeabbf20cf22ba59c117785" alt="" width="50" /> | 1 | 0 | The Beach Boys | [🔗](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) |
@@ -43,16 +43,16 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733818b4c636e2a7fdea3bf965" alt="Fleet Foxes" width="50" /> | White Winter Hymnal | 354 | <img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="The Essential Van Morrison" width="50" /> | Crazy Love | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | [Just the Way You Are](../../artists/billy_joel/overview.md) | 715 | <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="Song to a Seagull" width="50" /> | [The Dawntreader](../../artists/joni_mitchell/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97" alt="The Birds, The Bees, &amp; The Monkees" width="50" /> | Daydream Believer | nan | <img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="Tidal" width="50" /> | Shadowboxer | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e79dc1438d650f426b5e99a7" alt="Blue" width="50" /> | [A Case of You](../../artists/joni_mitchell/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | Into the West | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | [Vienna](../../artists/billy_joel/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="Graceland (25th Anniversary Deluxe Edition)" width="50" /> | You Can Call Me Al | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Piano Man" width="50" /> | [Piano Man](../../artists/billy_joel/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273e79dc1438d650f426b5e99a7" alt="Blue" width="50" /> | [Carey](../../artists/joni_mitchell/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9" alt="Fetch The Bolt Cutters" width="50" /> | I Want You To Love Me | nan | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="Tapestry" width="50" /> | I Feel the Earth Move | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="Turnstiles" width="50" /> | [New York State of Mind](../../artists/billy_joel/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273925babfc090a918c3a516a1c" alt="Turn the Lights Back On" width="50" /> | [Turn the Lights Back On](../../artists/billy_joel/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="Song to a Seagull" width="50" /> | [I Had a King](../../artists/joni_mitchell/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273375445cc7a2aedff11361b51" alt="The Joker" width="50" /> | The Joker | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="Glass Houses" width="50" /> | [Don't Ask Me Why](../../artists/billy_joel/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2730c66d628abf2dcaadf3f3940" alt="Greatest Hits Vol. III" width="50" /> | [Light As the Breeze](../../artists/billy_joel/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733818b4c636e2a7fdea3bf965" alt="Fleet Foxes" width="50" /> | White Winter Hymnal | 357 | <img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="The Essential Van Morrison" width="50" /> | Crazy Love | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="The Bridge" width="50" /> | [A Matter of Trust](../../artists/billy_joel/overview.md) | 675 | <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="Song to a Seagull" width="50" /> | [The Dawntreader](../../artists/joni_mitchell/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | [Just the Way You Are](../../artists/billy_joel/overview.md) | 729 | <img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="Tidal" width="50" /> | Shadowboxer | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97" alt="The Birds, The Bees, &amp; The Monkees" width="50" /> | Daydream Believer | nan | <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | Into the West | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e79dc1438d650f426b5e99a7" alt="Blue" width="50" /> | [A Case of You](../../artists/joni_mitchell/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="Graceland (25th Anniversary Deluxe Edition)" width="50" /> | You Can Call Me Al | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | [Vienna](../../artists/billy_joel/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273e79dc1438d650f426b5e99a7" alt="Blue" width="50" /> | [Carey](../../artists/joni_mitchell/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Piano Man" width="50" /> | [Piano Man](../../artists/billy_joel/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="Tapestry" width="50" /> | I Feel the Earth Move | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9" alt="Fetch The Bolt Cutters" width="50" /> | I Want You To Love Me | nan | <img src="https://i.scdn.co/image/ab67616d0000b273925babfc090a918c3a516a1c" alt="Turn the Lights Back On" width="50" /> | [Turn the Lights Back On](../../artists/billy_joel/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="Turnstiles" width="50" /> | [New York State of Mind](../../artists/billy_joel/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273375445cc7a2aedff11361b51" alt="The Joker" width="50" /> | The Joker | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="Song to a Seagull" width="50" /> | [I Had a King](../../artists/joni_mitchell/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2730c66d628abf2dcaadf3f3940" alt="Greatest Hits Vol. III" width="50" /> | [Light As the Breeze](../../artists/billy_joel/overview.md) | nan |
 
 ## Top Albums
 
@@ -63,9 +63,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273e79dc1438d650f426b5e99a7" alt="" width="50" /> | 3 | 2 | Blue | 1971-06-22 | [🔗](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 2 | 2 | Piano Man | 1973-11-09 | [🔗](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="" width="50" /> | 2 | 2 | An Innocent Man | 1983-08-08 | [🔗](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="" width="50" /> | 2 | 2 | 52nd Street | 1978-10-13 | [🔗](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="" width="50" /> | 2 | 1 | Storm Front | 1989-10-17 | [🔗](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="" width="50" /> | 2 | 1 | River Of Dreams | 1993-08-10 | [🔗](https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="" width="50" /> | 2 | 1 | 52nd Street | 1978-10-13 | [🔗](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | 2 | 0 | Tapestry | 1971 | [🔗](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="" width="50" /> | 2 | 0 | Good Vibrations | 1993 | [🔗](https://open.spotify.com/album/10IUKCLZPs9onPwXfQVxfv) |
 
@@ -86,6 +86,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a1ffd75bb148e58ce2a6cac" alt="" width="50" /> | 1 | 1 | Moondance (Deluxe Edition) | 1970-02 | [🔗](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b80ea8399313aeffb10b0acb" alt="" width="50" /> | 1 | 1 | Ladies of the Canyon | 1970-03-01 | [🔗](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c66d628abf2dcaadf3f3940" alt="" width="50" /> | 1 | 1 | Greatest Hits Vol. III | 1997-06-13 | [🔗](https://open.spotify.com/album/3cJ6ZymbUcNGe1T8YZtGyE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="" width="50" /> | 1 | 1 | Graceland (25th Anniversary Deluxe Edition) | 1986-08-12 | [🔗](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="" width="50" /> | 1 | 1 | Glass Houses | 1980-03-12 | [🔗](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733818b4c636e2a7fdea3bf965" alt="" width="50" /> | 1 | 1 | Fleet Foxes | 2008-06-03 | [🔗](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a36bd4a8c9d1b1b5c8c0136d" alt="" width="50" /> | 1 | 1 | First Collection 2006-2009 | 2018-11-09 | [🔗](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739569f3e5cca8dce07cc7e5a7" alt="" width="50" /> | 1 | 1 | Court and Spark | 1974-01-17 | [🔗](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) |
@@ -98,8 +100,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97" alt="" width="50" /> | 1 | 0 | The Birds, The Bees, & The Monkees | 1968-04-22 | [🔗](https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739ee9ec388e0827c88bfdfbd7" alt="" width="50" /> | 1 | 0 | Moondance (Expanded Edition) | 1970-02 | [🔗](https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | 1 | 0 | Luck Of The Draw | 1991-01-01 | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="" width="50" /> | 1 | 0 | Graceland (25th Anniversary Deluxe Edition) | 1986-08-12 | [🔗](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="" width="50" /> | 1 | 0 | Glass Houses | 1980-03-12 | [🔗](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9" alt="" width="50" /> | 1 | 0 | Fetch The Bolt Cutters | 2020-04-17 | [🔗](https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738039be895428386c4bc90851" alt="" width="50" /> | 1 | 0 | Cold Spring Harbor | 1971-11-01 | [🔗](https://open.spotify.com/album/274rMlKrr22086ohmwAJZA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27310d709d905d269d37a41d4c4" alt="" width="50" /> | 1 | 0 | 50 Big Ones: Greatest Hits | 2012-01-01 | [🔗](https://open.spotify.com/album/6cSZPNsr3tMEHo5QrMjk1F) |
@@ -113,16 +113,16 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 25 | 18 | [Columbia](../../labels/columbia/overview.md) |
+| 25 | 20 | [Columbia](../../labels/columbia/overview.md) |
 | 11 | 8 | [Rhino](../../labels/rhino/overview.md) |
 | 2 | 2 | Sub Pop Records |
 | 4 | 1 | [Epic](../../labels/epic/overview.md) |
 | 3 | 1 | [Legacy](../../labels/legacy/overview.md) |
 | 2 | 1 | [Warner Records](../../labels/warner_records/overview.md) |
+| 2 | 1 | Legacy Recordings |
 | 1 | 1 | Epitaph |
 | 1 | 1 | Elektra |
 | 1 | 1 | CAPITOL CATALOG MKT (C92) |
-| 1 | 1 | Anti |
 
 
 <details>
@@ -130,9 +130,9 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 1 | 1 | Anti |
 | 2 | 0 | RCA Victor |
 | 2 | 0 | Ode |
-| 2 | 0 | Legacy Recordings |
 | 2 | 0 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 1 | 0 | Work |
 | 1 | 0 | [Walt Disney Records](../../labels/walt_disney_records/overview.md) |
@@ -150,16 +150,16 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
-| | Jim Boyer | 9 | Producer |
-| | Phil Ramone | 9 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 17 | Lyricist, Producer, Songwriter, Arranger |
+| | [Jim Boyer](../../producers/jim_boyer/overview.md) | 11 | Producer |
+| | [Phil Ramone](../../producers/phil_ramone/overview.md) | 11 | Producer |
 | <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | 5 | Lyricist, Songwriter, Producer |
 | | Michael Stewart | 2 | Producer |
-| | Robin Pecknold | 2 | Lyricist, Songwriter |
 | | Michael Omartian | 2 | Arranger |
+| | Robin Pecknold | 2 | Lyricist, Songwriter |
 | | Ron Malo | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 2 | Lyricist, Producer, Songwriter |
-| | Steve Miller | 1 | Producer, Songwriter |
+| | Tony Brown | 1 | Producer |
 
 
 <details>
@@ -167,45 +167,49 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Elliot Scheiner | 1 | Producer |
+| | Neil Diamond | 1 | Lyricist, Songwriter |
 | | Ahmet Ertegun | 1 | Songwriter |
+| | Lewis Merenstein | 1 | Producer |
+| | Elliot Scheiner | 1 | Producer |
 | | Jim Horn | 1 | Arranger |
 | | Liberty DeVitto | 1 | Arranger |
-| | Neil Diamond | 1 | Lyricist, Songwriter |
 | | Justin Niebank | 1 | Producer |
-| | Tony Brown | 1 | Producer |
+| | Steve Miller | 1 | Producer, Songwriter |
+| | Leanne Ungar | 1 | Producer |
 | | Fred Tenny | 1 | Producer |
-| | Lewis Merenstein | 1 | Producer |
+| | Leonard Cohen | 1 | Lyricist, Songwriter |
 | | Scott Litt | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin | 1 | Songwriter |
 | | Steve Lindsey | 1 | Arranger, Producer |
 | | John Hendrickson | 1 | Producer |
 | | Doug Stegmeyer | 1 | Arranger |
-| | Leanne Ungar | 1 | Producer |
-| | Kenny Ascher | 1 | Arranger |
 | | Henry Lewy | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | Paul Simon | 1 | Lyricist, Producer, Songwriter |
+| | Kenny Ascher | 1 | Arranger |
+| | Ed Cherney | 1 | Producer |
 | | Ira Newborn | 1 | Arranger |
-| | Bill Schnee | 1 | Producer |
 | | Ellis Sorkin | 1 | Producer |
 | | Eddie Curtis | 1 | Songwriter |
+| | Rob Mounsey | 1 | Arranger |
 | | Steve Boyer | 1 | Producer |
 | | Lou Waxman | 1 | Producer |
 | | Don Puluse | 1 | Producer |
 | | Robert Charles | 1 | Producer |
 | | David Dickson | 1 | Producer |
 | | Bert Russell Berns | 1 | Producer |
+| | Chikapa "Ray" Phiri | 1 | Arranger |
 | | John Bradley | 1 | Producer |
+| | Bill Schnee | 1 | Producer |
 | | Bradshaw Leigh | 1 | Producer |
-| | Leonard Cohen | 1 | Lyricist, Songwriter |
 | | Jay Healy | 1 | Producer |
 | | Mick Jones | 1 | Producer |
 | | Jim DeMain | 1 | Producer |
 | | Danny Kortchmar | 1 | Producer |
 | | Niko Bolas | 1 | Producer |
+| | Roy Halee | 1 | Producer |
 | | Emily Saliers | 1 | Lyricist, Songwriter |
 | | Sandra Campbell Chapin | 1 | Songwriter |
 | | Brooks Arthur | 1 | Producer |
-| | Ed Cherney | 1 | Producer |
 | | Bruce Botnick | 1 | Producer |
 
 </details>

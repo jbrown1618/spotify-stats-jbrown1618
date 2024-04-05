@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e022433cb43f0f2f0f23b7c8b82ab67616d00001e023a44a5105549a15dd92ed0c3ab67616d00001e024ccc03169b086af698178a99ab67616d00001e029922157daa474131bb3a0fbc" alt="International Pop" width="100" />
 
-[126 tracks (68 liked) 🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf)
+[128 tracks (69 liked) 🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf)
 
 [See Track Features](audio_features.md)
 
@@ -15,13 +15,13 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c0d80b9de67c2819bb4dbc0" alt="" width="50" /> | 8 | 6 | [BABYMETAL](../../artists/babymetal/overview.md) | [🔗](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb83e2d0c9611f1fb6baafcb36" alt="" width="50" /> | 6 | 4 | YOASOBI | [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb118be643c10bd1268f034d28" alt="" width="50" /> | 4 | 3 | Faouzia | [🔗](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12207a91d8fa9a82f7136e56" alt="" width="50" /> | 3 | 3 | Daði Freyr | [🔗](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | 5 | 2 | Hatsune Miku | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | 4 | 2 | Yuuri | [🔗](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaee73c0f0458b95091845ee1" alt="" width="50" /> | 4 | 2 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc" alt="" width="50" /> | 3 | 2 | Fujii Kaze | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbdaffe3725449701e3261e47" alt="" width="50" /> | 2 | 2 | Reol | [🔗](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb118be643c10bd1268f034d28" alt="" width="50" /> | 2 | 2 | Faouzia | [🔗](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebea86ab131cc7c098c07dccc8" alt="" width="50" /> | 2 | 2 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
 
 
@@ -40,7 +40,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03862437b06f5865ab89fd7" alt="" width="50" /> | 3 | 1 | Anna Zak | [🔗](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb00bfcedce3845ae969c8277a" alt="" width="50" /> | 2 | 1 | KAROL G | [🔗](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb610b9e669ad98b784906fc97" alt="" width="50" /> | 2 | 1 | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4e53e5e26c3cc924a4ca0ceb" alt="" width="50" /> | 2 | 1 | Pom Poko | [🔗](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb38ae306fb16d18144e08f02c" alt="" width="50" /> | 2 | 1 | Pom Poko | [🔗](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | 1 | 1 | ROSALÍA | [🔗](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0d30477dce2b89e7c6a13bc" alt="" width="50" /> | 1 | 1 | Aitana | [🔗](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb221a9d814fac6d1ebe15cc4" alt="" width="50" /> | 1 | 1 | ANNA | [🔗](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) |
@@ -95,6 +95,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb182c574eaa4ca25386730d82" alt="" width="50" /> | 1 | 0 | WARPs UP | [🔗](https://open.spotify.com/artist/6ZhCKGX2nkK7s8vdUvaocx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcf674ecb51186e6408cd18c0" alt="" width="50" /> | 1 | 0 | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2b9e1d7fb3af9f51efddfbeb" alt="" width="50" /> | 1 | 0 | Käärijä | [🔗](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebba10593e25ec51a3ba4296a0" alt="" width="50" /> | 1 | 0 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb84505d89ff27a88fca05f56d" alt="" width="50" /> | 1 | 0 | Alejandro Sanz | [🔗](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb7b791269f85b4faaf2be90a" alt="" width="50" /> | 1 | 0 | THE TOYS | [🔗](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb81da066644c2a0f0179b596" alt="" width="50" /> | 1 | 0 | Lowsheen | [🔗](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU) |
@@ -105,7 +106,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0910ff09d3b54b114d233aa3" alt="" width="50" /> | 1 | 0 | Dadju | [🔗](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb56c0e871603f6da8fdf0ac38" alt="" width="50" /> | 1 | 0 | Afgan | [🔗](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ba4584e515db2e33c8b920d" alt="" width="50" /> | 1 | 0 | Nkosazana Daughter | [🔗](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4" alt="" width="50" /> | 1 | 0 | David Tao | [🔗](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737c20fb440980c4f2f24346c5" alt="" width="50" /> | 1 | 0 | David Tao | [🔗](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba51bae36c3e40b129f925fe" alt="" width="50" /> | 1 | 0 | Kawaguchi Yurina | [🔗](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f3d35703bdcd917dad51c4f" alt="" width="50" /> | 1 | 0 | Shae Gill | [🔗](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1f53bd1b4653831dd12ba990" alt="" width="50" /> | 1 | 0 | Heuss L'enfoiré | [🔗](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) |
@@ -119,7 +120,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb639904df84c9ae5e3888ccc2" alt="" width="50" /> | 1 | 0 | Gradur | [🔗](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ad0e4ab865f24a17c0de9d7" alt="" width="50" /> | 1 | 0 | OAFF | [🔗](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb92fe66324c095393a9362225" alt="" width="50" /> | 1 | 0 | Wanitwa Mos | [🔗](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb55dec5a16ce1b01f59d5bc24" alt="" width="50" /> | 1 | 0 | Anamanaguchi | [🔗](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL) |
 
 </details>
 
@@ -138,16 +138,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="アイドル" width="50" /> | アイドル | 261 | <img src="https://i.scdn.co/image/ab67616d0000b2739792873842bcfa921ffceebf" alt="i&#x27;mperfect" width="50" /> | abnormalize | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736305e51741ae5f4acda89fe2" alt="Schwarzes Herz" width="50" /> | Hässlich | 283 | <img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="Evils Theater" width="50" /> | 悪ノ娘 | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | [KARATE](../../artists/babymetal/overview.md) | 316 | <img src="https://i.scdn.co/image/ab67616d0000b273b28db1e5c8c53e67c6969c06" alt="Vintage" width="50" /> | Meleğim | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732433cb43f0f2f0f23b7c8b82" alt="Brol" width="50" /> | Tout oublier | 325 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | [A Rock Somewhere (feat. Anoushka Shankar & Varijashree Venugopal)](../../artists/jacob_collier/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | [Headbangeeeeerrrrr!!!!!](../../artists/babymetal/overview.md) | 378 | <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="A BEST" width="50" /> | Boys & Girls | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | [Awadama Fever](../../artists/babymetal/overview.md) | 380 | <img src="https://i.scdn.co/image/ab67616d0000b2733e4b149dd3110f1432bfeca0" alt="Niche Syndrome" width="50" /> | Wherever you are | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="Daisy 2.0 (feat. Hatsune Miku)" width="50" /> | Daisy 2.0 (feat. Hatsune Miku) | 383 | <img src="https://i.scdn.co/image/ab67616d0000b27314b31a0ac21c8645919204a8" alt="Ne reviens pas" width="50" /> | Ne reviens pas | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="海のまにまに" width="50" /> | 海のまにまに | 406 | <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="青のすみか" width="50" /> | 青のすみか | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Beggin' | 464 | <img src="https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2" alt="Traveler" width="50" /> | Pretender | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27322805a1b17e41ae357bd98bc" alt="HELP EVER HURT NEVER" width="50" /> | Shinunoga E-Wa | 476 | <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | [Gimme Chocolate!!](../../artists/babymetal/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="アイドル" width="50" /> | アイドル | 266 | <img src="https://i.scdn.co/image/ab67616d0000b2739792873842bcfa921ffceebf" alt="i&#x27;mperfect" width="50" /> | abnormalize | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736305e51741ae5f4acda89fe2" alt="Schwarzes Herz" width="50" /> | Hässlich | 285 | <img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="Evils Theater" width="50" /> | 悪ノ娘 | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | [KARATE](../../artists/babymetal/overview.md) | 318 | <img src="https://i.scdn.co/image/ab67616d0000b273b28db1e5c8c53e67c6969c06" alt="Vintage" width="50" /> | Meleğim | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732433cb43f0f2f0f23b7c8b82" alt="Brol" width="50" /> | Tout oublier | 329 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | [A Rock Somewhere (feat. Anoushka Shankar & Varijashree Venugopal)](../../artists/jacob_collier/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | [Headbangeeeeerrrrr!!!!!](../../artists/babymetal/overview.md) | 383 | <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="A BEST" width="50" /> | Boys & Girls | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | [Awadama Fever](../../artists/babymetal/overview.md) | 385 | <img src="https://i.scdn.co/image/ab67616d0000b2733e4b149dd3110f1432bfeca0" alt="Niche Syndrome" width="50" /> | Wherever you are | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="Daisy 2.0 (feat. Hatsune Miku)" width="50" /> | Daisy 2.0 (feat. Hatsune Miku) | 389 | <img src="https://i.scdn.co/image/ab67616d0000b27314b31a0ac21c8645919204a8" alt="Ne reviens pas" width="50" /> | Ne reviens pas | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="海のまにまに" width="50" /> | 海のまにまに | 411 | <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="CITIZENS" width="50" /> | Minefields | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Beggin' | 470 | <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="青のすみか" width="50" /> | 青のすみか | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322805a1b17e41ae357bd98bc" alt="HELP EVER HURT NEVER" width="50" /> | Shinunoga E-Wa | 478 | <img src="https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2" alt="Traveler" width="50" /> | Pretender | nan |
 
 </details>
 
@@ -164,7 +164,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | 2 | 1 | 壱 | 2022-01-12 | [🔗](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273714fc63956d45e97196c7af7" alt="" width="50" /> | 2 | 1 | EXPLORE! | 2015-11-25 | [🔗](https://open.spotify.com/album/6TXaOwBLoyJrD6vem7L8Ba) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ced33a22eacf5ead6169c3b0" alt="" width="50" /> | 2 | 1 | Cheater | 2021-01-15 | [🔗](https://open.spotify.com/album/59vf7ECdQd6ZIbfc3zPwey) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1" alt="" width="50" /> | 2 | 0 | THE BOOK | 2021-01-06 | [🔗](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="" width="50" /> | 2 | 1 | CITIZENS | 2022-05-19 | [🔗](https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp) |
 
 
 <details>
@@ -172,6 +172,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1" alt="" width="50" /> | 2 | 0 | THE BOOK | 2021-01-06 | [🔗](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a" alt="" width="50" /> | 2 | 0 | Editorial | 2021-08-18 | [🔗](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735900a9808de7e716bdd49526" alt="" width="50" /> | 1 | 1 | 醒不来的梦 | 2020-12-15 | [🔗](https://open.spotify.com/album/6C9V6icEpoNhYtd75PM3OS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f66f9c01e819b80a87af4f2d" alt="" width="50" /> | 1 | 1 | 白月光与朱砂痣 | 2021-01-01 | [🔗](https://open.spotify.com/album/22QqokF4etKGtDv3BrNvXK) |
@@ -220,9 +221,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273896ffcd42561c44fea2bae7b" alt="" width="50" /> | 1 | 1 | Con Calma | 2019-01-24 | [🔗](https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="" width="50" /> | 1 | 1 | Chosen | 2017-12-08 | [🔗](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27393aa3d384efb79e00fe57555" alt="" width="50" /> | 1 | 1 | Cara Italia | 2018-05-02 | [🔗](https://open.spotify.com/album/3E3S8FQudapOj9Mpxc5v3N) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="" width="50" /> | 1 | 1 | CITIZENS | 2022-05-19 | [🔗](https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273709a3fc128e4d453fab4d14e" alt="" width="50" /> | 1 | 1 | Bunny | 2020-11-25 | [🔗](https://open.spotify.com/album/7KJoNDndoJuxoFVl57NaVk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732433cb43f0f2f0f23b7c8b82" alt="" width="50" /> | 1 | 1 | Brol | 2018-10-05 | [🔗](https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273623e3c5fc66ac6fb9c5c8bc6" alt="" width="50" /> | 1 | 1 | Born Without a Heart | 2019-03-28 | [🔗](https://open.spotify.com/album/5EOIYFpu56h7AgQxCRcyZG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ee7af6e271d04c728d8a47ba" alt="" width="50" /> | 1 | 1 | Bando | 2020-01-31 | [🔗](https://open.spotify.com/album/3UtdQcbHhNlEi79pS3282l) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da49cfeacb25379ce1c0f6c0" alt="" width="50" /> | 1 | 1 | Amigos (with Becky G) | 2023-11-17 | [🔗](https://open.spotify.com/album/3HtYZEKcsbFqEzKX8xntam) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395605660a166c33bbf6d4a25" alt="" width="50" /> | 1 | 1 | & Co. | 2019-06-12 | [🔗](https://open.spotify.com/album/4pS7NXSZNbvREVxKkOge3I) |
@@ -261,7 +262,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03" alt="" width="50" /> | 1 | 0 | MAÑANA SERÁ BONITO (BICHOTA SEASON) | 2023-08-10 | [🔗](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736a986d5aa5b6567ca683f653" alt="" width="50" /> | 1 | 0 | Lykke te | 2022-05-27 | [🔗](https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="" width="50" /> | 1 | 0 | Look At Me | 2022-03-21 | [🔗](https://open.spotify.com/album/3mp41Up4LNhAVLGxl7BAUR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389" alt="" width="50" /> | 1 | 0 | LOVE ALL SERVE ALL | 2022-03-23 | [🔗](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) |
 
 </details>
 
@@ -291,11 +291,13 @@
 |---:|---:|:---|
 | 2 | 2 | Parlophone Denmark |
 | 2 | 2 | Hits records |
+| 2 | 2 | Faouzia 2019 |
 | 2 | 2 | [Decca (UMO)](../../labels/decca_(umo)/overview.md) |
 | 2 | 1 | Linfair |
 | 2 | 1 | ITModels under exclusive license to D-Music |
 | 2 | 1 | [Epic](../../labels/epic/overview.md) |
 | 2 | 1 | Bella Union |
+| 2 | 1 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 1 | 1 | 鲸鱼向海 |
 | 1 | 1 | 一寸光年 |
 | 1 | 1 | YRF Music |
@@ -320,11 +322,9 @@
 | 1 | 1 | Mescal |
 | 1 | 1 | LIT ENTERTAINMENT |
 | 1 | 1 | Feel Ghood Music |
-| 1 | 1 | Faouzia 2019 |
 | 1 | 1 | Epidemic Sound |
 | 1 | 1 | El Cartel Records (EC3) |
 | 1 | 1 | CMMG |
-| 1 | 1 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 1 | 1 | Angèle VL Records |
 | 1 | 1 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 2 | 0 | Universal Music Division Capitol Music France |
@@ -379,9 +379,9 @@
 | 8 | 6 | idol rock |
 | 8 | 4 | latin pop |
 | 5 | 4 | japanese electropop |
+| 5 | 4 | alt z |
 | 4 | 4 | italian pop |
 | 6 | 3 | japanese singer-songwriter |
-| 6 | 3 | indonesian pop |
 
 
 <details>
@@ -389,13 +389,14 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 6 | 3 | indonesian pop |
 | 5 | 3 | urbano latino |
 | 5 | 3 | trap latino |
 | 5 | 3 | reggaeton |
 | 5 | 3 | [pop](../../genres/pop/overview.md) |
+| 4 | 3 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 3 | 3 | sunnlensk tonlist |
 | 3 | 3 | icelandic pop |
-| 3 | 3 | alt z |
 | 5 | 2 | colombian pop |
 | 5 | 2 | anime rock |
 | 4 | 2 | j-pop girl group |
@@ -412,7 +413,6 @@
 | 2 | 2 | french pop |
 | 2 | 2 | danish pop |
 | 2 | 2 | chinese viral pop |
-| 2 | 2 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 2 | 2 | belgian pop |
 | 8 | 1 | mandopop |
 | 4 | 1 | indonesian r&b |
@@ -581,10 +581,10 @@
 |:---|---:|
 | 2024 | 2 |
 | 2023 | 15 |
-| [2022](2022/overview.md) | 21 |
+| [2022](2022/overview.md) | 22 |
 | 2021 | 12 |
 | 2020 | 12 |
-| 2019 | 16 |
+| 2019 | 17 |
 | 2018 | 12 |
 | 2017 | 6 |
 | 2016 | 8 |

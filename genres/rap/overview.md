@@ -10,7 +10,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 9 | 5 | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 9 | 6 | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | 5 | 4 | [Eminem](../../artists/eminem/overview.md) | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | 3 | 3 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e8a7e14e2f602eb9af24e31" alt="" width="50" /> | 3 | 3 | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
@@ -19,7 +19,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 2 | 2 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6fcd1b700654bccf1adee3ed" alt="" width="50" /> | 2 | 2 | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | 2 | 1 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a" alt="" width="50" /> | 1 | 1 | J. Cole | [🔗](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b053c29fd4b317ff825f0dc" alt="" width="50" /> | 1 | 1 | J. Cole | [🔗](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) |
 
 
 <details>
@@ -81,9 +81,9 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="SOS" width="50" /> | Kill Bill | 230 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="Flockaveli" width="50" /> | No Hands (feat. Roscoe Dash & Wale) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="The Marshall Mathers LP2" width="50" /> | [The Monster](../../artists/eminem/overview.md) | 495 | <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="Please Me" width="50" /> | Please Me | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | [We Made You](../../artists/eminem/overview.md) | 616 | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Can't Tell Me Nothing | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="SOS" width="50" /> | Kill Bill | 233 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="Flockaveli" width="50" /> | No Hands (feat. Roscoe Dash & Wale) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="The Marshall Mathers LP2" width="50" /> | [The Monster](../../artists/eminem/overview.md) | 500 | <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="Please Me" width="50" /> | Please Me | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | [We Made You](../../artists/eminem/overview.md) | 622 | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Can't Tell Me Nothing | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="Over It" width="50" /> | Body | nan | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="Recovery" width="50" /> | [Love The Way You Lie](../../artists/eminem/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733eecc265c134153c14794aab" alt="Area Codes" width="50" /> | Area Codes | nan | <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Late Registration" width="50" /> | Gold Digger | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731325a9351844f7806a8309c5" alt="Sweetest Pie" width="50" /> | Sweetest Pie | nan | <img src="https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30" alt="Watch The Throne" width="50" /> | Ni**as In Paris | nan |
@@ -96,7 +96,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | 3 | 2 | DAMN. | 2017-04-14 | [🔗](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | 3 | 3 | DAMN. | 2017-04-14 | [🔗](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | 2 | 2 | SOS | 2022-12-09 | [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | 2 | 2 | Mr. Morale & The Big Steppers | 2022-05-13 | [🔗](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79" alt="" width="50" /> | 2 | 1 | Raymond v Raymond (Expanded Edition) | 2010-03-30 | [🔗](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) |
@@ -160,7 +160,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 11 | 8 | [Aftermath](../../labels/aftermath/overview.md) |
+| 11 | 9 | [Aftermath](../../labels/aftermath/overview.md) |
 | 6 | 5 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 4 | 4 | Top Dawg Entertainment |
 | 5 | 2 | Roc-A-Fella |
@@ -220,16 +220,16 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | 5 | Songwriter |
 | | [Sounwave](../../producers/sounwave/overview.md) | 4 | Producer, Songwriter, Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | 4 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | [Eminem](../../artists/eminem/overview.md) | 4 | Producer, Songwriter |
-| | Mike Strange | 3 | Producer |
+| | Derek Ali | 3 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | SZA | 3 | Songwriter |
 | | Mike Dean | 3 | Producer, Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e8a7e14e2f602eb9af24e31" alt="" width="50" /> | Cardi B | 3 | Songwriter |
+| | Mike Strange | 3 | Producer |
 | | Matt Schaeffer | 2 | Producer, Songwriter |
 | | Tim Maxey | 2 | Producer, Songwriter |
-| | Jordan Thorpe | 2 | Songwriter |
 
 
 <details>
@@ -237,23 +237,24 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | J.LBS | 2 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a" alt="" width="50" /> | Kanye West | 2 | Producer, Songwriter |
+| | Jordan Thorpe | 2 | Songwriter |
 | | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a" alt="" width="50" /> | Kanye West | 2 | Producer, Songwriter |
+| | Mike WiLL Made-It | 2 | Producer, Songwriter |
 | | Anthony Kilhoffer | 2 | Producer |
 | | OKLAMA | 2 | Producer |
 | | Andrew Dawson | 2 | Producer |
 | | [Marcos Tovar](../../producers/marcos_tovar/overview.md) | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 2 | Songwriter, Producer |
-| | Derek Ali | 2 | Producer |
+| | J.LBS | 2 | Producer, Songwriter |
 | | Shawn "Source" Jarrett | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | Nicki Minaj | 2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6fcd1b700654bccf1adee3ed" alt="" width="50" /> | Megan Thee Stallion | 2 | Songwriter |
 | | Anthony Tiffith | 2 | Producer, Songwriter |
-| | Rob Bisel | 1 | Songwriter |
+| | Beach Noise | 1 | Producer |
 | | Clarence Coffee Jr. | 1 | Songwriter |
-| | Leslie Brathwaite | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 1 | Producer, Songwriter |
+| | Tony Rey | 1 | Producer |
 | | KOZ | 1 | Producer |
 | | JMIKE | 1 | Producer, Songwriter |
 | | Brent Kolatalo | 1 | Producer |
@@ -274,40 +275,40 @@
 | | James Foye III | 1 | Songwriter |
 | | Theron Thomas | 1 | Songwriter |
 | | Robert Hannon | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a" alt="" width="50" /> | J. Cole | 1 | Producer |
-| | Tony Rey | 1 | Producer |
-| | [Łukasz Gottwald (Gottwald, Łukasz)](../../producers/łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b053c29fd4b317ff825f0dc" alt="" width="50" /> | J. Cole | 1 | Producer |
+| | Leslie Brathwaite | 1 | Producer |
 | | Kane Beatz | 1 | Producer, Songwriter |
-| | Beach Noise | 1 | Producer |
-| | Kid Cudi | 1 | Songwriter |
+| | Mauricio "Veto" Iragorri | 1 | Producer |
+| | Rob Bisel | 1 | Songwriter |
 | | Ray Romulus | 1 | Songwriter |
 | | Southside | 1 | Producer, Songwriter |
 | | Platinum Library | 1 | Producer |
 | | Jacob Kasher | 1 | Songwriter |
 | | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 1 | Producer |
-| | Frank Romano | 1 | Songwriter |
+| | Kid Cudi | 1 | Songwriter |
 | | Christoph Andersson | 1 | Producer, Songwriter |
 | | CuBeatz | 1 | Producer |
 | | Jim Jonsin | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | Juicy J | 1 | Songwriter |
 | | Cyrus "Nois" Taghipour | 1 | Producer |
 | | Frequency | 1 | Producer, Songwriter |
-| | Danny Morris | 1 | Songwriter |
+| | Frank Romano | 1 | Songwriter |
 | | André Benjamin (Benjamin, André) | 1 | Lyricist, Songwriter |
 | | Ayo the Producer | 1 | Producer, Songwriter |
+| | Danny Morris | 1 | Songwriter |
 | | Mark Shick | 1 | Producer |
 | | Skylar Grey | 1 | Songwriter |
 | | Jeremy Reeves | 1 | Songwriter |
-| | [Greg Kurstin](../../producers/greg_kurstin/overview.md) | 1 | Producer, Songwriter |
 | | Frank Ski | 1 | Songwriter |
 | | Tim Gomringer | 1 | Songwriter |
+| | [Greg Kurstin](../../producers/greg_kurstin/overview.md) | 1 | Producer, Songwriter |
 | | Lido | 1 | Producer |
-| | Mauricio "Veto" Iragorri | 1 | Producer |
 | | Luis Resto | 1 | Producer, Songwriter |
+| | [Łukasz Gottwald (Gottwald, Łukasz)](../../producers/łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdb78fbd1c000f16792795648" alt="" width="50" /> | Zacari | 1 | Songwriter |
 | | Romano | 1 | Producer |
 | | Babyface | 1 | Songwriter |
-| | Teddy Walton | 1 | Producer, Songwriter |
+| | Rico Love | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb716114797a4a644c67c5fa72" alt="" width="50" /> | USHER | 1 | Songwriter |
 | | Blair Ferguson | 1 | Songwriter |
 | | Noah Goldstein | 1 | Producer |
@@ -326,7 +327,6 @@
 | | Tommy Danvers | 1 | Producer |
 | | Ernest Clark | 1 | Songwriter |
 | | James Hunt | 1 | Producer |
-| | Marcos Palacios | 1 | Songwriter |
 
 </details>
 

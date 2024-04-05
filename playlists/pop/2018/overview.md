@@ -25,6 +25,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 1 | 1 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb90c77d2ffb0fe10130f03230" alt="" width="50" /> | 1 | 1 | LANY | [🔗](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 1 | 1 | [BLACKPINK](../../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2e55922ed7b80e66863f3345" alt="" width="50" /> | 1 | 1 | ABIR | [🔗](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22" alt="" width="50" /> | 1 | 1 | Sean Paul | [🔗](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb67013e289b84440ce3d1c88e" alt="" width="50" /> | 1 | 1 | Anne-Marie | [🔗](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7619ca2683b434e139040f70" alt="" width="50" /> | 1 | 1 | Zara Larsson | [🔗](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) |
@@ -36,7 +37,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb4ba86c361191d48cbeb4b32" alt="" width="50" /> | 1 | 0 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | 1 | 0 | Mark Ronson | [🔗](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa2d9bd207a62adc3edf6631" alt="" width="50" /> | 1 | 0 | Florida Georgia Line | [🔗](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2e55922ed7b80e66863f3345" alt="" width="50" /> | 1 | 0 | ABIR | [🔗](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe5bc630548fb3517cf90edb8" alt="" width="50" /> | 1 | 0 | Daniel Caesar | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
 
 </details>
@@ -64,13 +64,13 @@
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4dae9528b2a8408f463eb17" alt="" width="50" /> | 1 | 1 | Malibu Nights | 2018-10-05 | [🔗](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="" width="50" /> | 1 | 1 | MINT | 2018-10-19 | [🔗](https://open.spotify.com/album/5hUQgovUfTYN47QGQXF8k2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | 1 | 1 | Fifty Shades Freed (Original Motion Picture Soundtrack) | 2018-02-09 | [🔗](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738cae5034066af45cdfbc4266" alt="" width="50" /> | 1 | 1 | Church Of Scars | 2018-04-20 | [🔗](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c70176fa51326491ecc5f79e" alt="" width="50" /> | 1 | 0 | Who Hurt You? | 2018-10-16 | [🔗](https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273269423eb6467e308c0fbce24" alt="" width="50" /> | 1 | 0 | Shawn Mendes | 2018-05-25 | [🔗](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d09f96d82310d4d77c14c108" alt="" width="50" /> | 1 | 0 | One Kiss (with Dua Lipa) | 2018-04-06 | [🔗](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ad79d30f49891b2a2f7757f8" alt="" width="50" /> | 1 | 0 | Nothing Breaks Like a Heart (feat. Miley Cyrus) | 2018-11-30 | [🔗](https://open.spotify.com/album/2hBfao8GWZwHlUGDB8HVQO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="" width="50" /> | 1 | 0 | MINT | 2018-10-19 | [🔗](https://open.spotify.com/album/5hUQgovUfTYN47QGQXF8k2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361fe6d3a50c0beaa3cfe33e9" alt="" width="50" /> | 1 | 0 | Expectations | 2018-06-22 | [🔗](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) |
 
 </details>
@@ -111,7 +111,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c70176fa51326491ecc5f79e" alt="" width="50" /> | Who Hurt You? | Who Hurt You? | Daniel Caesar | Golden Child Recordings | nan | | [🔗](https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ae395b47b186c2bc8c458e0f" alt="" width="50" /> | Kiss and Make Up | Dua Lipa (Complete Edition) | [Dua Lipa](../../../artists/dua_lipa/overview.md), [BLACKPINK](../../../artists/blackpink/overview.md) | [Warner Records](../../../labels/warner_records) | nan | 💚 | [🔗](https://open.spotify.com/track/7jr3iPu4O4bTCVwLMbdU2i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ae395b47b186c2bc8c458e0f" alt="" width="50" /> | New Rules | Dua Lipa (Complete Edition) | [Dua Lipa](../../../artists/dua_lipa/overview.md) | [Warner Records](../../../labels/warner_records) | nan | 💚 | [🔗](https://open.spotify.com/track/43oK4OAWUsRZUDVeHtKI4U) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="" width="50" /> | Tango | MINT | ABIR | Fez's Finest, LLC | nan | | [🔗](https://open.spotify.com/track/24jrwTJSlYOCguuLa4j28A) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="" width="50" /> | Tango | MINT | ABIR | Fez's Finest, LLC | nan | 💚 | [🔗](https://open.spotify.com/track/24jrwTJSlYOCguuLa4j28A) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ad79d30f49891b2a2f7757f8" alt="" width="50" /> | Nothing Breaks Like a Heart (feat. Miley Cyrus) | Nothing Breaks Like a Heart (feat. Miley Cyrus) | Mark Ronson, Miley Cyrus | [Columbia](../../../labels/columbia) | nan | | [🔗](https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27337fb0680110fbb107740de5d" alt="" width="50" /> | Rockabye (feat. Sean Paul & Anne-Marie) | What Is Love? (Deluxe Edition) | [Clean Bandit](../../../artists/clean_bandit/overview.md), Sean Paul, Anne-Marie | Atlantic Records UK | nan | 💚 | [🔗](https://open.spotify.com/track/2hrUO4drrO63i7FYbCLBl2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27337fb0680110fbb107740de5d" alt="" width="50" /> | Symphony (feat. Zara Larsson) | What Is Love? (Deluxe Edition) | [Clean Bandit](../../../artists/clean_bandit/overview.md), Zara Larsson | Atlantic Records UK | nan | 💚 | [🔗](https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal) |

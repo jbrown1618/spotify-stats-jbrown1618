@@ -9,7 +9,6 @@
 ![Rank of Gain over time](../../images/artists/gain/rank_time_series.png)
 ## Top Tracks
 
-- Paradise Lost is the #50 track of the last 6 months
 
 ### Top tracks, aggregated
 
@@ -22,10 +21,10 @@
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 6 | [K-Pop](../../playlists/k-pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e0215cf3110f19687b1a24943d1ab67616d00001e024897a7925914a3a10ce68c31ab67616d00001e0271a70331062453ece06f8b79ab67616d00001e02bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | 2 | [Retro Kpop](../../playlists/retro_kpop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e024897a7925914a3a10ce68c31ab67616d00001e025babc6b49ac8a93fc5fc464aab67616d00001e0267f8236540d6f145e2f0baa1ab67616d00001e0271a70331062453ece06f8b79" alt="" width="50" /> | 2 | [Retro Kpop](../../playlists/retro_kpop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e023613e1e0d35867a0814005a9ab67616d00001e024a8e5eaab8b02db02e487c27ab67616d00001e0259fcda8d47bbd0f6c2bf1647ab67616d00001e028bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 1 | [Halloween](../../playlists/halloween/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e021c1ea5bfa5680ac877acdd55ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 1 | [Chill](../../playlists/chill/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022c0252c4e4a988f024e4d262ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 1 | [Chill](../../playlists/chill/overview.md) |
 
 ## Top Albums
 
@@ -61,7 +60,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="" width="50" /> | Paradise Lost | Hawwah | [Gain](overview.md) | APOP Entertainment, MYSTIC Entertainment | 204 | 💚 | [🔗](https://open.spotify.com/track/1PVluFXbdOTv29475JS2Mj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="" width="50" /> | Paradise Lost | Hawwah | [Gain](overview.md) | APOP Entertainment, MYSTIC Entertainment | 206 | 💚 | [🔗](https://open.spotify.com/track/1PVluFXbdOTv29475JS2Mj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c8feb0da36a6a8bc1a0d9f5" alt="" width="50" /> | Bloom | Talk about S. | [Gain](overview.md) | Kakao M Corp. | nan | 💚 | [🔗](https://open.spotify.com/track/3lcdPSfDGg11Qyimx2ONYH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c8feb0da36a6a8bc1a0d9f5" alt="" width="50" /> | Tinkerbell | Talk about S. | [Gain](overview.md) | Kakao M Corp. | nan | 💚 | [🔗](https://open.spotify.com/track/2KCMmpIOEl1Ydb3I9jIaYp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d4c12eacfb21d74cd24a97f6" alt="" width="50" /> | Brunch | Romantic Spring | [Gain](overview.md), HYUNGWOO | Kakao M Corp. | nan | 💚 | [🔗](https://open.spotify.com/track/5wiWryEZLvo30nopnOEbdJ) |

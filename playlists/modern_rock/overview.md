@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e02028c3bb4b81ee71dd73d1596ab67616d00001e025675e83f707f1d7271e5cf8aab67616d00001e027948eec521c67e76cafe30a0ab67616d00001e02c985bcc18dd81da80839e5a9" alt="Modern Rock" width="100" />
 
-[144 tracks (88 liked) 🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe)
+[145 tracks (88 liked) 🔗](https://open.spotify.com/playlist/1PjJceUCPGCW1uMWAs5dMe)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 69 artists</summary>
+<summary>See all 70 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -42,7 +42,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8" alt="" width="50" /> | 6 | 1 | Red Hot Chili Peppers | [🔗](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8457f57bc526c37bd804b924" alt="" width="50" /> | 3 | 1 | KT Tunstall | [🔗](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb362011ebe6064c38e97e9aac" alt="" width="50" /> | 3 | 1 | Fall Out Boy | [🔗](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4e53e5e26c3cc924a4ca0ceb" alt="" width="50" /> | 2 | 1 | Pom Poko | [🔗](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb38ae306fb16d18144e08f02c" alt="" width="50" /> | 2 | 1 | Pom Poko | [🔗](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3f8c36a57018e5221c8c458c" alt="" width="50" /> | 1 | 1 | Vulfpeck | [🔗](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8d23b8a8834a0057adf617f3" alt="" width="50" /> | 1 | 1 | ONE OK ROCK | [🔗](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816" alt="" width="50" /> | 1 | 1 | The Neighbourhood | [🔗](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) |
@@ -77,6 +77,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 1 | 0 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd85f631779e65b01349d747" alt="" width="50" /> | 1 | 0 | The Smashing Pumpkins | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb78125a2515bc78080b2833e8" alt="" width="50" /> | 1 | 0 | cherryfilter | [🔗](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe93b88b6103a78ede975ebbe" alt="" width="50" /> | 1 | 0 | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c" alt="" width="50" /> | 1 | 0 | Guns N' Roses | [🔗](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) |
 | <img src="https://i.scdn.co/image/731f5f71de27c36300d2cf71a7f9cd7f389d0bf7" alt="" width="50" /> | 1 | 0 | Neutral Milk Hotel | [🔗](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd58661b3aa9d077580e8aa4e" alt="" width="50" /> | 1 | 0 | Smash Mouth | [🔗](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) |
@@ -107,16 +108,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="Bleed American" width="50" /> | The Middle | 220 | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | Mr. Brightside | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" alt="Fallen" width="50" /> | Bring Me To Life | 233 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="In Rainbows" width="50" /> | [Reckoner](../../artists/radiohead/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="Riot!" width="50" /> | Misery Business | 239 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> | Slow Cheetah | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Me And My Broken Heart | 265 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | [Clocks](../../artists/coldplay/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81" alt="Strange Trails" width="50" /> | The Night We Met | 272 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> | Strip My Mind | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Exit Music (For A Film)](../../artists/radiohead/overview.md) | 302 | <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="Under The Blacklight (Standard Version)" width="50" /> | [Silver Lining](../../artists/rilo_kiley/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Paranoid Android](../../artists/radiohead/overview.md) | 346 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Believer | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733818b4c636e2a7fdea3bf965" alt="Fleet Foxes" width="50" /> | White Winter Hymnal | 354 | <img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="Eye To The Telescope" width="50" /> | Black Horse And The Cherry Tree | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | [Fake Plastic Trees](../../artists/radiohead/overview.md) | 419 | <img src="https://i.scdn.co/image/ab67616d0000b273d0493658f351b1972a3f174a" alt="Made In Korea?" width="50" /> | sweet little kitty | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> | [Creep](../../artists/radiohead/overview.md) | 448 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> | Dani California | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="Bleed American" width="50" /> | The Middle | 223 | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | Mr. Brightside | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" alt="Fallen" width="50" /> | Bring Me To Life | 236 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="In Rainbows" width="50" /> | [Reckoner](../../artists/radiohead/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="Riot!" width="50" /> | Misery Business | 242 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> | Slow Cheetah | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Me And My Broken Heart | 269 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | [Clocks](../../artists/coldplay/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81" alt="Strange Trails" width="50" /> | The Night We Met | 277 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> | Strip My Mind | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Exit Music (For A Film)](../../artists/radiohead/overview.md) | 307 | <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="Under The Blacklight (Standard Version)" width="50" /> | [Silver Lining](../../artists/rilo_kiley/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Paranoid Android](../../artists/radiohead/overview.md) | 321 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Believer | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733818b4c636e2a7fdea3bf965" alt="Fleet Foxes" width="50" /> | White Winter Hymnal | 357 | <img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="Eye To The Telescope" width="50" /> | Black Horse And The Cherry Tree | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | [Fake Plastic Trees](../../artists/radiohead/overview.md) | 423 | <img src="https://i.scdn.co/image/ab67616d0000b273d0493658f351b1972a3f174a" alt="Made In Korea?" width="50" /> | sweet little kitty | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> | [Creep](../../artists/radiohead/overview.md) | 454 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> | Dani California | nan |
 
 </details>
 
@@ -226,11 +227,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce70cb2d7063cf869f9f1239" alt="" width="50" /> | 1 | 0 | Hands All Over | 2010 | [🔗](https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82" alt="" width="50" /> | 1 | 0 | Greatest Hits: God's Favorite Band | 2017-11-17 | [🔗](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" alt="" width="50" /> | 1 | 0 | From Under The Cork Tree | 2005-05-03 | [🔗](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="" width="50" /> | 1 | 0 | Eyes Open | 2006-01-01 | [🔗](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273733913465adb99353020b805" alt="" width="50" /> | 1 | 0 | Everyday Life | 2019-11-22 | [🔗](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" alt="" width="50" /> | 1 | 0 | Enema Of The State | 1999-06-01 | [🔗](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="" width="50" /> | 1 | 0 | Echoes, Silence, Patience & Grace | 2007-09-25 | [🔗](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f98edbc89407338a90437d34" alt="" width="50" /> | 1 | 0 | Don't You Fake It | 2006-01-01 | [🔗](https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" alt="" width="50" /> | 1 | 0 | Californication (Deluxe Edition) | 1999-06-08 | [🔗](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) |
 
 </details>
 
@@ -254,7 +255,7 @@
 
 
 <details>
-<summary>See all 59 labels</summary>
+<summary>See all 60 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -302,6 +303,7 @@
 | 1 | 0 | Universal Music AB |
 | 1 | 0 | S-Curve Records |
 | 1 | 0 | Relapse Records |
+| 1 | 0 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 1 | 0 | Music Farm |
 | 1 | 0 | Merge Records |
 | 1 | 0 | Guns N Roses P&D |
@@ -318,8 +320,8 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 65 | 37 | [rock](../../genres/rock/overview.md) |
-| 51 | 27 | [permanent wave](../../genres/permanent_wave/overview.md) |
-| 47 | 26 | [modern rock](../../genres/modern_rock/overview.md) |
+| 52 | 27 | [permanent wave](../../genres/permanent_wave/overview.md) |
+| 48 | 26 | [modern rock](../../genres/modern_rock/overview.md) |
 | 43 | 26 | [alternative rock](../../genres/alternative_rock/overview.md) |
 | 34 | 20 | [pop](../../genres/pop/overview.md) |
 | 19 | 17 | [art rock](../../genres/art_rock/overview.md) |
@@ -343,13 +345,13 @@
 | 5 | 5 | stomp and holler |
 | 5 | 5 | seattle indie |
 | 5 | 5 | modern alternative rock |
-| 11 | 4 | [pop rock](../../genres/pop_rock/overview.md) |
+| 12 | 4 | [pop rock](../../genres/pop_rock/overview.md) |
 | 4 | 4 | indie folk |
 | 4 | 4 | canadian indie |
 | 14 | 3 | alternative metal |
 | 11 | 3 | post-grunge |
 | 9 | 3 | pop punk |
-| 8 | 3 | [neo mellow](../../genres/neo_mellow/overview.md) |
+| 9 | 3 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 5 | 3 | candy pop |
 | 3 | 3 | steampunk |
 | 3 | 3 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
@@ -558,8 +560,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0ad203a3d2a2343d889a95" alt="So Much (For) Stardust" width="50" /> | So Much (For) Stardust (2023-03-24) | <img src="https://i.scdn.co/image/ab67616d0000b273f93159d78849714fcf118bb3" alt="Deceptive Bends" width="50" /> | Deceptive Bends (1977) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" alt="This Is Why" width="50" /> | This Is Why (2023-02-10) | <img src="https://i.scdn.co/image/ab67616d0000b27364c6ef51927c575ed9f464cf" alt="Bloody Tourists" width="50" /> | Bloody Tourists (1978) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21" alt="Teatro d&#x27;ira - Vol. I" width="50" /> | Teatro d'ira - Vol. I (2021-03-19) | <img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" alt="Appetite For Destruction" width="50" /> | Appetite For Destruction (1987-07-21) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ced33a22eacf5ead6169c3b0" alt="Cheater" width="50" /> | Cheater (2021-01-15) | <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="Metallica" width="50" /> | Metallica (1991-08-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734908c0ea9f3884cee21e85c1" alt="Shore" width="50" /> | Shore (2020-09-22) | <img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" alt="Metallica (Remastered)" width="50" /> | Metallica (Remastered) (1991-08-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ced33a22eacf5ead6169c3b0" alt="Cheater" width="50" /> | Cheater (2021-01-15) | <img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" alt="Metallica (Remastered)" width="50" /> | Metallica (Remastered) (1991-08-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734908c0ea9f3884cee21e85c1" alt="Shore" width="50" /> | Shore (2020-09-22) | <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="Metallica" width="50" /> | Metallica (1991-08-12) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730db4898026f2f0d478abf0e7" alt="Ashes" width="50" /> | Ashes (2020-05-03) | <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" alt="Nevermind (Remastered)" width="50" /> | Nevermind (Remastered) (1991-09-26) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="The New Abnormal" width="50" /> | The New Abnormal (2020-04-10) | <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> | Pablo Honey (1993-02-22) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c330e261afcd6e0ae256f3aa" alt="color theory" width="50" /> | color theory (2020-02-28) | <img src="https://i.scdn.co/image/ab67616d0000b273f69bd9abbfeb819840993207" alt="The Downward Spiral" width="50" /> | The Downward Spiral (1994-03-08) |

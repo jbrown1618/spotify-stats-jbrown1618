@@ -22,7 +22,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | 6 | 6 | Lungs | 2009-01-01 | [🔗](https://open.spotify.com/album/2KAK58PimXHF4lSoKO3RxA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | 6 | 6 | Lungs (Deluxe Edition) | 2009 | [🔗](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | 6 | 6 | Ceremonials (Deluxe Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | 3 | 2 | How Big, How Blue, How Beautiful | 2015-06-01 | [🔗](https://open.spotify.com/album/2btszoya78vyT8fwelmVnz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52" alt="" width="50" /> | 2 | 2 | Back To Black | 2006-10-27 | [🔗](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) |
@@ -48,16 +48,16 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [Florence Welch](../../producers/florence_welch/overview.md) | 13 | Songwriter, Lyricist |
+| | [Florence Welch](../../producers/florence_welch/overview.md) | 12 | Lyricist, Songwriter |
 | | [Paul Epworth](../../producers/paul_epworth/overview.md) | 7 | Producer, Lyricist, Songwriter |
 | | Isabella Summers | 6 | Songwriter, Producer, Lyricist |
 | | Craig Silvey | 4 | Producer |
 | | Cenzo Townshend | 4 | Producer |
 | | Tom Elmhirst | 3 | Producer |
-| | James Ford | 3 | Producer |
 | | Sally Herbert | 3 | Arranger |
+| | James Ford | 3 | Producer |
 | | Jimmy Robertson | 3 | Producer |
-| | Robin Baynton | 2 | Producer |
+| | Bullion | 2 | Producer |
 
 
 <details>
@@ -65,28 +65,25 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 2 | Arranger, Producer, Songwriter |
 | | Markus Dravs | 2 | Producer |
-| | Bullion | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 2 | Arranger, Producer, Songwriter |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 2 | Producer |
 | | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | Amy Winehouse | 2 | Lyricist, Songwriter |
+| | Robin Baynton | 2 | Producer |
+| | Mat Bartram | 1 | Producer |
 | | Ali Helnwein | 1 | Arranger |
 | | Vaughan Merrick | 1 | Producer |
-| | Steve Mackey | 1 | Producer |
 | | Francis White | 1 | Lyricist, Songwriter |
 | | Brian Degraw | 1 | Songwriter |
 | | Will Owen | 1 | Arranger |
-| | Mat Bartram | 1 | Producer |
 | | Charlie Hugall | 1 | Producer |
 | | Rush | 1 | Songwriter |
-| | Richard Flack | 1 | Producer |
 | | Lizzi Bougatsos | 1 | Songwriter |
 | | John Bellamy | 1 | Songwriter |
 | | Tim Dewit | 1 | Songwriter |
 | | Bosco Mann | 1 | Arranger |
 | | Mark "Top" Rankin | 1 | Producer |
-| | Matt Allchin | 1 | Songwriter |
 | | Chris Elliott | 1 | Arranger |
 | | Anthony B. Stephens | 1 | Songwriter |
 | | Pete Prokopiw | 1 | Producer |
@@ -101,16 +98,16 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | What The Water Gave Me | Ceremonials (Deluxe Edition) | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | 460 | 💚 | [🔗](https://open.spotify.com/track/3RiOPzAvhNKuMIdPYOrKV8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Seven Devils | Ceremonials (Deluxe Edition) | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | 670 | 💚 | [🔗](https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52" alt="" width="50" /> | Back To Black | Back To Black | Amy Winehouse | [Universal-Island Records Ltd.](.) | 673 | 💚 | [🔗](https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | What The Water Gave Me | Ceremonials (Deluxe Edition) | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | 466 | 💚 | [🔗](https://open.spotify.com/track/3RiOPzAvhNKuMIdPYOrKV8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Never Let Me Go | Ceremonials (Deluxe Edition) | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | 612 | 💚 | [🔗](https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Seven Devils | Ceremonials (Deluxe Edition) | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | 680 | 💚 | [🔗](https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52" alt="" width="50" /> | Back To Black | Back To Black | Amy Winehouse | [Universal-Island Records Ltd.](.) | 690 | 💚 | [🔗](https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27376ffb5b5ab045d22c81235c1" alt="" width="50" /> | Valerie - Live At BBC Radio 1 Live Lounge, London / 2007 | Back To Black (Deluxe Edition) | Amy Winehouse | [Universal-Island Records Ltd.](.) | nan | | [🔗](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52" alt="" width="50" /> | Rehab | Back To Black | Amy Winehouse | [Universal-Island Records Ltd.](.) | nan | 💚 | [🔗](https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Between Two Lungs | Lungs | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | nan | 💚 | [🔗](https://open.spotify.com/track/5w7sVlGwbDE72HH9OzpDXw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Dog Days Are Over | Lungs | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | nan | 💚 | [🔗](https://open.spotify.com/track/416zj01H28D6uQP43LL6x3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | I'm Not Calling You A Liar | Lungs | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | nan | 💚 | [🔗](https://open.spotify.com/track/7u5oRKGjNovOvg8s1q4OTU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Kiss With A Fist | Lungs | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | nan | 💚 | [🔗](https://open.spotify.com/track/0ZMK3QwoE3PiLO4evS4JGv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Rabbit Heart (Raise It Up) | Lungs | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | nan | 💚 | [🔗](https://open.spotify.com/track/49B24HYYfECzzbJzCTAkpa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | Between Two Lungs | Lungs (Deluxe Edition) | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | nan | 💚 | [🔗](https://open.spotify.com/track/5WnYyCWBbJyLChmd2sbZK9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | Dog Days Are Over | Lungs (Deluxe Edition) | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | nan | 💚 | [🔗](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | I'm Not Calling You A Liar | Lungs (Deluxe Edition) | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | nan | 💚 | [🔗](https://open.spotify.com/track/3euILOYDltKArnqpupsE1W) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | Kiss With A Fist | Lungs (Deluxe Edition) | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | nan | 💚 | [🔗](https://open.spotify.com/track/0jv5OcbvTUHgO8FgHhya8b) |
 
 
 <details>
@@ -118,9 +115,9 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | You've Got The Love | Lungs | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | nan | 💚 | [🔗](https://open.spotify.com/track/0DyToChmZxd4js5BY9Jf2G) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | Rabbit Heart (Raise It Up) | Lungs (Deluxe Edition) | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | nan | 💚 | [🔗](https://open.spotify.com/track/5RoLLyMmaEG4WiVMlp7r59) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | You've Got The Love | Lungs (Deluxe Edition) | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | nan | 💚 | [🔗](https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Lover To Lover | Ceremonials (Deluxe Edition) | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | nan | 💚 | [🔗](https://open.spotify.com/track/1LsZVVQxkbmL9izqfy1RRK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Never Let Me Go | Ceremonials (Deluxe Edition) | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | nan | 💚 | [🔗](https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | No Light, No Light | Ceremonials (Deluxe Edition) | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | nan | 💚 | [🔗](https://open.spotify.com/track/5nkYDYUSb1bvLJ4nP8CnQ1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Shake It Out | Ceremonials (Deluxe Edition) | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | nan | 💚 | [🔗](https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | Delilah | How Big, How Blue, How Beautiful | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | nan | 💚 | [🔗](https://open.spotify.com/track/3o9qzsqkT0mvfxcusUaXsN) |

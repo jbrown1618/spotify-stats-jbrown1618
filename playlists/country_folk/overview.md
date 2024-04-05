@@ -1,9 +1,9 @@
 # Country/Folk
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d00001e0224e1589fb3eab8ae8831f388ab67616d00001e025726e327fd968a6fb5974350ab67616d00001e02724bd326692d222c5906b0b0ab67616d00001e02aa2ce07c8b78b4c96f604734" alt="Country/Folk" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d00001e0203668e3f13559554eca8ccc6ab67616d00001e025726e327fd968a6fb5974350ab67616d00001e02724bd326692d222c5906b0b0ab67616d00001e02aa2ce07c8b78b4c96f604734" alt="Country/Folk" width="100" />
 
-[40 tracks (19 liked) 🔗](https://open.spotify.com/playlist/6M7uIRzByJjX0q7wGcujJo)
+[40 tracks (21 liked) 🔗](https://open.spotify.com/playlist/6M7uIRzByJjX0q7wGcujJo)
 
 [See Track Features](audio_features.md)
 
@@ -13,9 +13,9 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc1c077c305eb4b2bcac25fd5" alt="" width="50" /> | 4 | 3 | Carrie Underwood | [🔗](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc1c077c305eb4b2bcac25fd5" alt="" width="50" /> | 4 | 4 | Carrie Underwood | [🔗](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb16325c9bc0f975fe49370ff9" alt="" width="50" /> | 5 | 3 | Delta Rae | [🔗](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb43d9d87bba466538f5c40901" alt="" width="50" /> | 3 | 3 | The Chicks | [🔗](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb16325c9bc0f975fe49370ff9" alt="" width="50" /> | 5 | 2 | Delta Rae | [🔗](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb152cf48cf9541c7061570857" alt="" width="50" /> | 4 | 2 | Johnny Cash | [🔗](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9dadab92d8236e846b16fe3a" alt="" width="50" /> | 4 | 2 | Mumford & Sons | [🔗](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae8ba82eaf7e63af515c9f" alt="" width="50" /> | 2 | 2 | The Civil Wars | [🔗](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) |
@@ -54,7 +54,7 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="Barton Hollow" width="50" /> | Poison & Wine | 400 | <img src="https://i.scdn.co/image/ab67616d0000b2739ab215825eb77076b1b4b387" alt="Nickel Creek" width="50" /> | The Lighthouse's Tale | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="Barton Hollow" width="50" /> | Poison & Wine | 407 | <img src="https://i.scdn.co/image/ab67616d0000b2739ab215825eb77076b1b4b387" alt="Nickel Creek" width="50" /> | The Lighthouse's Tale | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27324644751fe5ed07c106115d5" alt="How To Grow A Woman From The Ground" width="50" /> | Heart In A Cage | nan | <img src="https://i.scdn.co/image/ab67616d0000b27389847614971c417b722c4d97" alt="Home" width="50" /> | Travelin' Soldier | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d0a13a643d83342430c07da" alt="Sigh No More" width="50" /> | The Cave | nan | <img src="https://i.scdn.co/image/ab67616d0000b2736ae87ba9541e21c4e5a5926d" alt="The Firewatcher&#x27;s Daughter" width="50" /> | The Eye | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349aaf14f0936159764cd728a" alt="Carry the Fire" width="50" /> | Is There Anyone out There | nan | <img src="https://i.scdn.co/image/ab67616d0000b273724bd326692d222c5906b0b0" alt="Some Hearts" width="50" /> | Before He Cheats | nan |
@@ -72,7 +72,7 @@
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2739ab215825eb77076b1b4b387" alt="" width="50" /> | 5 | 1 | Nickel Creek | 2000 | [🔗](https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27349aaf14f0936159764cd728a" alt="" width="50" /> | 4 | 2 | Carry the Fire | 2012-06-19 | [🔗](https://open.spotify.com/album/42NjSADnDs97o75bICIqs0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27349aaf14f0936159764cd728a" alt="" width="50" /> | 4 | 3 | Carry the Fire | 2012-06-19 | [🔗](https://open.spotify.com/album/42NjSADnDs97o75bICIqs0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d0a13a643d83342430c07da" alt="" width="50" /> | 3 | 1 | Sigh No More | 2009-10-02 | [🔗](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303668e3f13559554eca8ccc6" alt="" width="50" /> | 2 | 2 | Play On | 2009 | [🔗](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389847614971c417b722c4d97" alt="" width="50" /> | 2 | 2 | Home | 2002-08-27 | [🔗](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) |
@@ -91,6 +91,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273724bd326692d222c5906b0b0" alt="" width="50" /> | 1 | 1 | Some Hearts | 2005-11-14 | [🔗](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="" width="50" /> | 1 | 1 | Ring Of Fire: The Best Of Johnny Cash | 1963-08-06 | [🔗](https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737cdb143bd2e9906d39c5eb04" alt="" width="50" /> | 1 | 1 | Carencro | 2004-08-03 | [🔗](https://open.spotify.com/album/15dP7BadtY55t9VvFlVrBA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27324e1589fb3eab8ae8831f388" alt="" width="50" /> | 1 | 1 | Blown Away | 2012-05-01 | [🔗](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e2407383e952808a0602b0d" alt="" width="50" /> | 1 | 1 | Babel (Deluxe Version) | 2012-09-25 | [🔗](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f4f62da3d811b6501a69ffa" alt="" width="50" /> | 1 | 1 | American IV: The Man Comes Around | 2002-01-01 | [🔗](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739f39192f9f8ca1c90847b3e5" alt="" width="50" /> | 1 | 0 | Willy And The Poor Boys (Expanded Edition) | 1969-11-02 | [🔗](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) |
@@ -99,7 +100,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91" alt="" width="50" /> | 1 | 0 | Pendulum (Expanded Edition) | 1970-12-07 | [🔗](https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730cf212ffc3719550dfab899d" alt="" width="50" /> | 1 | 0 | I Walk the Line (Stereo Version) | 1964-06-13 | [🔗](https://open.spotify.com/album/1kd7QnBNMg5kygoclVuDqZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b03f0ae196287dab658906ba" alt="" width="50" /> | 1 | 0 | Daybreak | 2011-01-01 | [🔗](https://open.spotify.com/album/4NikL2T7EDGcB6FyTFQ7rn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27324e1589fb3eab8ae8831f388" alt="" width="50" /> | 1 | 0 | Blown Away | 2012-05-01 | [🔗](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731afccd261170f1d8f3cadb3d" alt="" width="50" /> | 1 | 0 | Bayou Country (Expanded Edition) | 1969-01-05 | [🔗](https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a04593b7c149dc7b725683e" alt="" width="50" /> | 1 | 0 | At Folsom Prison | 1968-05-01 | [🔗](https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273672d3c160471692595698564" alt="" width="50" /> | 1 | 0 | After It All | 2015-04-07 | [🔗](https://open.spotify.com/album/0HvAm2vysVverWiodCEhON) |
@@ -114,13 +114,13 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 5 | 3 | Sire |
 | 4 | 3 | [Columbia](../../labels/columbia/overview.md) |
 | 3 | 3 | Open Wide |
+| 3 | 3 | Arista Nashville |
+| 3 | 3 | 19 Recordings Limited |
 | 7 | 2 | Sugar Hill Records |
-| 5 | 2 | Sire |
 | 4 | 2 | Glassnote Entertainment Group LLC |
-| 3 | 2 | Arista Nashville |
-| 3 | 2 | 19 Recordings Limited |
 | 2 | 2 | sensibility recordings |
 | 2 | 2 | Monument |
 | 3 | 1 | Big Machine Label Group |
@@ -151,16 +151,16 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 10 | 7 | country dawn |
-| 10 | 7 | country |
-| 10 | 7 | contemporary country |
+| 10 | 8 | country dawn |
+| 10 | 8 | country |
+| 10 | 8 | contemporary country |
 | 6 | 4 | stomp and holler |
 | 6 | 4 | [neo mellow](../../genres/neo_mellow/overview.md) |
+| 4 | 4 | [pop](../../genres/pop/overview.md) |
+| 4 | 4 | [dance pop](../../genres/dance_pop/overview.md) |
+| 4 | 4 | classic oklahoma country |
 | 4 | 4 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 | 5 | 3 | modern folk rock |
-| 4 | 3 | [pop](../../genres/pop/overview.md) |
-| 4 | 3 | [dance pop](../../genres/dance_pop/overview.md) |
-| 4 | 3 | classic oklahoma country |
 
 
 <details>
@@ -168,14 +168,14 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 5 | 3 | folk-pop |
 | 3 | 3 | new americana |
 | 3 | 3 | indie folk |
-| 9 | 2 | progressive bluegrass |
+| 10 | 2 | progressive bluegrass |
 | 9 | 2 | mandolin |
 | 9 | 2 | instrumental bluegrass |
 | 9 | 2 | bluegrass |
 | 7 | 2 | [rock](../../genres/rock/overview.md) |
-| 5 | 2 | folk-pop |
 | 4 | 2 | uk americana |
 | 4 | 2 | outlaw country |
 | 4 | 2 | [modern rock](../../genres/modern_rock/overview.md) |
@@ -203,15 +203,15 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | Marcus Mumford | 2 | Songwriter |
-| | Winston Marshall | 2 | Songwriter |
-| | Ruadhri Cushnan | 2 | Producer |
+| | Mark Bright | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9dadab92d8236e846b16fe3a" alt="" width="50" /> | Mumford & Sons | 2 | Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb43d9d87bba466538f5c40901" alt="" width="50" /> | The Chicks | 2 | Producer |
+| | Ruadhri Cushnan | 2 | Producer |
 | | Markus Dravs | 2 | Producer |
-| | Gary Paczosa | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb43d9d87bba466538f5c40901" alt="" width="50" /> | The Chicks | 2 | Producer |
+| | Chris Tompkins | 2 | Songwriter |
 | | Ted Dwane | 2 | Songwriter |
-| | Ben Lovett | 2 | Songwriter |
-| | Eric Bickel | 2 | Producer |
+| | Gary Paczosa | 2 | Producer |
+| | Winston Marshall | 2 | Songwriter |
 
 
 <details>
@@ -219,31 +219,30 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | Ben Lovett | 2 | Songwriter |
+| | Josh Kear | 2 | Songwriter |
+| | Eric Bickel | 2 | Producer |
 | | Lloyd Maines | 2 | Producer |
 | | Rick Rubin | 2 | Producer |
-| | Josh Kear | 1 | Songwriter |
-| | Dan Wilson | 1 | Lyricist, Songwriter |
 | | David Ferguson | 1 | Producer |
 | | Bruce Robison | 1 | Lyricist, Songwriter |
 | | Stevie Nicks | 1 | Lyricist, Songwriter |
 | | Brett James | 1 | Songwriter |
-| | David Campbell | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0075eabc8cb60f363e13d308" alt="" width="50" /> | Chris Thile | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e35e5ceab6998278006481" alt="" width="50" /> | Brandi Carlile | 1 | Songwriter |
 | | Trent Reznor | 1 | Lyricist, Songwriter |
 | | Robin Baynton | 1 | Producer |
-| | Adam McKenzie | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0075eabc8cb60f363e13d308" alt="" width="50" /> | Chris Thile | 1 | Songwriter |
-| | Chris Tompkins | 1 | Songwriter |
-| | Emily Robison | 1 | Lyricist, Songwriter |
+| | David Campbell | 1 | Arranger |
 | | Joe Zook | 1 | Producer |
+| | Emily Robison | 1 | Lyricist, Songwriter |
+| | Dan Wilson | 1 | Lyricist, Songwriter |
 | | Jim Scott | 1 | Producer |
+| | Adam McKenzie | 1 | Songwriter |
 | | Shannon Sanders | 1 | Producer |
-| | Frank Jones | 1 | Producer |
 | | Chris Testa | 1 | Producer |
 | | Drew Ramsey | 1 | Producer |
 | | Martie Maguire | 1 | Arranger, Lyricist, Songwriter |
 | | Greg Fidelman | 1 | Producer |
-| | Mark Bright | 1 | Producer |
 | | John Carter Cash | 1 | Producer |
 | | Tim Hanseroth | 1 | Songwriter |
 | | Richard Dodd | 1 | Producer |
@@ -256,6 +255,7 @@
 | | Mike Elizondo | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1c077c305eb4b2bcac25fd5" alt="" width="50" /> | Carrie Underwood | 1 | Songwriter |
 | | Paul Worley | 1 | Producer |
+| | Frank Jones | 1 | Producer |
 | | Merle Kilgore | 1 | Songwriter |
 
 </details>

@@ -51,22 +51,22 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | [Over You (feat. aespa & Chris Martin)](../../artists/jacob_collier/overview.md) | 359 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | [You've Got The Love](../../artists/florence_+_the_machine/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [He Won't Hold You (feat. Rapsody)](../../artists/jacob_collier/overview.md) | 361 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | [A Rock Somewhere (feat. Anoushka Shankar & Varijashree Venugopal)](../../artists/jacob_collier/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [What The Water Gave Me](../../artists/florence_+_the_machine/overview.md) | 460 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | [Kiss With A Fist](../../artists/florence_+_the_machine/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [In My Bones (feat. Kimbra & Tank and The Bangas)](../../artists/jacob_collier/overview.md) | 463 | <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="Djesse Vol. 1" width="50" /> | [With The Love In My Heart](../../artists/jacob_collier/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [Running Outta Love (feat. Tori Kelly)](../../artists/jacob_collier/overview.md) | 474 | <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="Djesse Vol. 2" width="50" /> | [Here Comes The Sun (feat. dodie)](../../artists/jacob_collier/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="Djesse Vol. 1" width="50" /> | [Every Little Thing She Does Is Magic](../../artists/jacob_collier/overview.md) | 480 | <img src="https://i.scdn.co/image/ab67616d0000b27343c7453d0338f82a05464751" alt="In My Room" width="50" /> | [You And I](../../artists/jacob_collier/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="Djesse Vol. 2" width="50" /> | [Moon River](../../artists/jacob_collier/overview.md) | 564 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [All I Need (with Mahalia & Ty Dolla $ign)](../../artists/jacob_collier/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Seven Devils](../../artists/florence_+_the_machine/overview.md) | 670 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Lover To Lover](../../artists/florence_+_the_machine/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | [I'm Not Calling You A Liar](../../artists/florence_+_the_machine/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [Time Alone With You (feat. Daniel Caesar)](../../artists/jacob_collier/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | [Over You (feat. aespa & Chris Martin)](../../artists/jacob_collier/overview.md) | 351 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | [A Rock Somewhere (feat. Anoushka Shankar & Varijashree Venugopal)](../../artists/jacob_collier/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [He Won't Hold You (feat. Rapsody)](../../artists/jacob_collier/overview.md) | 366 | <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="Djesse Vol. 1" width="50" /> | [With The Love In My Heart](../../artists/jacob_collier/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [What The Water Gave Me](../../artists/florence_+_the_machine/overview.md) | 466 | <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="Djesse Vol. 2" width="50" /> | [Here Comes The Sun (feat. dodie)](../../artists/jacob_collier/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [In My Bones (feat. Kimbra & Tank and The Bangas)](../../artists/jacob_collier/overview.md) | 469 | <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="Lungs (Deluxe Edition)" width="50" /> | [Kiss With A Fist](../../artists/florence_+_the_machine/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [Running Outta Love (feat. Tori Kelly)](../../artists/jacob_collier/overview.md) | 482 | <img src="https://i.scdn.co/image/ab67616d0000b27343c7453d0338f82a05464751" alt="In My Room" width="50" /> | [You And I](../../artists/jacob_collier/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="Djesse Vol. 1" width="50" /> | [Every Little Thing She Does Is Magic](../../artists/jacob_collier/overview.md) | 486 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [All I Need (with Mahalia & Ty Dolla $ign)](../../artists/jacob_collier/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="Djesse Vol. 2" width="50" /> | [Moon River](../../artists/jacob_collier/overview.md) | 568 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Lover To Lover](../../artists/florence_+_the_machine/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Never Let Me Go](../../artists/florence_+_the_machine/overview.md) | 612 | <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="Lungs (Deluxe Edition)" width="50" /> | [Dog Days Are Over](../../artists/florence_+_the_machine/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Seven Devils](../../artists/florence_+_the_machine/overview.md) | 680 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [Time Alone With You (feat. Daniel Caesar)](../../artists/jacob_collier/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="Djesse Vol. 2" width="50" /> | [Feel (feat. Lianne La Havas)](../../artists/jacob_collier/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b27343c7453d0338f82a05464751" alt="In My Room" width="50" /> | [In My Room](../../artists/jacob_collier/overview.md) | nan |
 
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | 6 | 6 | Lungs | 2009-01-01 | [🔗](https://open.spotify.com/album/2KAK58PimXHF4lSoKO3RxA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | 6 | 6 | Lungs (Deluxe Edition) | 2009 | [🔗](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | 6 | 6 | Ceremonials (Deluxe Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="" width="50" /> | 6 | 5 | Djesse Vol. 4 | 2024-03-01 | [🔗](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | 5 | 5 | Djesse Vol. 3 | 2020-08-14 | [🔗](https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8) |
@@ -107,7 +107,7 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [Florence Welch](../../producers/florence_welch/overview.md) | 13 | Songwriter, Lyricist |
+| | [Florence Welch](../../producers/florence_welch/overview.md) | 12 | Lyricist, Songwriter |
 | | [Paul Epworth](../../producers/paul_epworth/overview.md) | 7 | Producer, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | [Jacob Collier](../../artists/jacob_collier/overview.md) | 6 | Arranger, Producer, Songwriter |
 | | Isabella Summers | 6 | Songwriter, Producer, Lyricist |
@@ -124,35 +124,32 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 2 | Songwriter |
-| | Tom Elmhirst | 2 | Producer |
 | | Robin Baynton | 2 | Producer |
-| | Markus Dravs | 2 | Producer |
-| | Bullion | 2 | Producer |
 | | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 2 | Producer |
-| | Francis White | 1 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebff937725369c064d38beaf4a" alt="" width="50" /> | Rapsody | 1 | Producer, Songwriter |
+| | Bullion | 2 | Producer |
+| | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 2 | Songwriter |
+| | Markus Dravs | 2 | Producer |
+| | Tom Elmhirst | 2 | Producer |
 | | Mat Bartram | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe5bc630548fb3517cf90edb8" alt="" width="50" /> | Daniel Caesar | 1 | Songwriter |
-| | Brian Degraw | 1 | Songwriter |
 | | Ali Helnwein | 1 | Arranger |
+| | Charlie Hugall | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebff937725369c064d38beaf4a" alt="" width="50" /> | Rapsody | 1 | Producer, Songwriter |
+| | Francis White | 1 | Lyricist, Songwriter |
+| | Rush | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd1a7ecd79e63927c5a765535" alt="" width="50" /> | Tori Kelly | 1 | Songwriter |
 | | Will Owen | 1 | Arranger |
-| | Steve Mackey | 1 | Producer |
 | | Josh Diamond | 1 | Songwriter |
-| | Rush | 1 | Songwriter |
-| | Charlie Hugall | 1 | Producer |
+| | Brian Degraw | 1 | Songwriter |
+| | Lizzi Bougatsos | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe5bc630548fb3517cf90edb8" alt="" width="50" /> | Daniel Caesar | 1 | Songwriter |
 | | Johnny Mercer | 1 | Lyricist |
-| | Richard Flack | 1 | Producer |
 | | Tarriona 'Tank' Ball | 1 | Songwriter |
 | | DJ Fai | 1 | Producer |
-| | Lizzi Bougatsos | 1 | Songwriter |
 | | John Bellamy | 1 | Songwriter |
 | | Tim Dewit | 1 | Songwriter |
 | | Henry Mancini | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b3c0f33bc5e3f6a53f84d7" alt="" width="50" /> | Ty Dolla $ign | 1 | Songwriter |
 | | Mark "Top" Rankin | 1 | Producer |
-| | Matt Allchin | 1 | Songwriter |
 | | Anthony B. Stephens | 1 | Songwriter |
 | | Wissam Ghorayeb | 1 | Producer |
 | | Pete Prokopiw | 1 | Producer |
@@ -165,7 +162,7 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | Djesse Vol. 4 (2024-03-01) | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | Lungs (2009-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | Djesse Vol. 4 (2024-03-01) | <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="Lungs (Deluxe Edition)" width="50" /> | Lungs (Deluxe Edition) (2009) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384afbe0583f7a6489d442880" alt="WELLLL" width="50" /> | WELLLL (2023-07-14) | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | Ceremonials (Deluxe Edition) (2011-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734dcc2837e0aa90e8c8dbba3f" alt="Never Gonna Be Alone (feat. Lizzy McAlpine &amp; John Mayer)" width="50" /> | Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer) (2022-06-10) | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="How Big, How Blue, How Beautiful" width="50" /> | How Big, How Blue, How Beautiful (2015-06-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | Djesse Vol. 3 (2020-08-14) | <img src="https://i.scdn.co/image/ab67616d0000b27343c7453d0338f82a05464751" alt="In My Room" width="50" /> | In My Room (2016-07-01) |

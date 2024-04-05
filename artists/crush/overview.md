@@ -9,7 +9,7 @@
 
 ## Top Tracks
 
-- Hmm-cheat is the #13 track of the last month
+- Hmm-cheat is the #26 track of the last month
 
 ### Top tracks, aggregated
 
@@ -20,9 +20,9 @@
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0255d0265cc488deebe40d79a6ab67616d00001e0278551e802bd7b81d7af67dfbab67616d00001e02ae46d76700c51479a66e8c34ab67616d00001e02bc8e5c838dd8564b5a4f1453" alt="" width="50" /> | 4 | [K-R&B](../../playlists/k-r_b/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 2 | [K-Pop](../../playlists/k-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e021c1ea5bfa5680ac877acdd55ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 2 | [Chill](../../playlists/chill/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022c0252c4e4a988f024e4d262ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 2 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02830de2e836036f181df598d0ab67616d00001e02af2fda9fb591d43c355c2ac3ab67616d00001e02cc6f76f75551af499b5cd0cbab67616d00001e02da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e022118bf9b198b05a95ded6300ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02deec12a28d1e336c5052e9aa" alt="" width="50" /> | 1 | [Relax](../../playlists/relax/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e021c3e0a58f3ee28af2922e351ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e02d5d11b6ac4242aaa41c8be69ab67616d00001e02d8856d19e1f5784ed643d862" alt="" width="50" /> | 1 | [Relax](../../playlists/relax/overview.md) |
 
 ## Top Albums
 
@@ -56,8 +56,8 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273a8c4052083fb4e80d1819445" alt="" width="50" /> | For You | For You | [LeeHi](../leehi/overview.md), [Crush](overview.md) | AOMG | 290 | 💚 | [🔗](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c6e894ccfb8214d3f68b0cb4" alt="" width="50" /> | Hmm-cheat | wonderego | [Crush](overview.md) | P NATION | 386 | 💚 | [🔗](https://open.spotify.com/track/7hYGWflgiI2aa25jOgL6eg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a8c4052083fb4e80d1819445" alt="" width="50" /> | For You | For You | [LeeHi](../leehi/overview.md), [Crush](overview.md) | AOMG | 292 | 💚 | [🔗](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c6e894ccfb8214d3f68b0cb4" alt="" width="50" /> | Hmm-cheat | wonderego | [Crush](overview.md) | P NATION | 374 | 💚 | [🔗](https://open.spotify.com/track/7hYGWflgiI2aa25jOgL6eg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273010bed9776d417a0da12cc9c" alt="" width="50" /> | Love Story (Feat. CRUSH) | Love Story | SURAN, [Crush](overview.md) | Million Market,Inc | nan | 💚 | [🔗](https://open.spotify.com/track/5rUZeNNC4R65U6UeElMoss) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738368fc4dff4622c0e00e6dbf" alt="" width="50" /> | Make Up (Feat. Crush) | Sun And Moon | Sam Kim, [Crush](overview.md) | Antenna | nan | 💚 | [🔗](https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cab1d5724ddfed3aa8a4fd0f" alt="" width="50" /> | Happier (feat. Crush) | PSY 9th | PSY, [Crush](overview.md) | P NATION | nan | | [🔗](https://open.spotify.com/track/6idH1Qz9jcXzKcZeNIa9uU) |

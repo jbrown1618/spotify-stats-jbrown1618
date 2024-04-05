@@ -145,9 +145,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="MANIFESTO : DAY 1" width="50" /> | [ParadoXXX Invasion](../../artists/enhypen/overview.md) | 20 | <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="Discovery" width="50" /> | [One More Time](../../artists/daft_punk/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="The Red - The 1st Album" width="50" /> | [Dumb Dumb](../../artists/red_velvet/overview.md) | 26 | <img src="https://i.scdn.co/image/ab67616d0000b2737a6339d6ddfd579f77559b3c" alt="Animal (Expanded Edition)" width="50" /> | TiK ToK | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | [LILAC](../../artists/iu/overview.md) | 32 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="BETWEEN 1&amp;2" width="50" /> | [Talk that Talk](../../artists/twice/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="Ice Cream Cake - The 1st Mini Album" width="50" /> | [Ice Cream Cake](../../artists/red_velvet/overview.md) | 38 | <img src="https://i.scdn.co/image/ab67616d0000b273e2a93f34e3c52c12f2a5578f" alt="New Eyes" width="50" /> | [Rather Be (feat. Jess Glynne)](../../artists/clean_bandit/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="Hello - Special Album" width="50" /> | Hello | 39 | <img src="https://i.scdn.co/image/ab67616d0000b273b4fd0ba98f675df97c5748b1" alt="Dingga" width="50" /> | [Dingga](../../artists/mamamoo/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | [Spicy](../../artists/aespa/overview.md) | 42 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="Red" width="50" /> | [Red](../../artists/taylor_swift/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="Hello - Special Album" width="50" /> | Hello | 38 | <img src="https://i.scdn.co/image/ab67616d0000b273e2a93f34e3c52c12f2a5578f" alt="New Eyes" width="50" /> | [Rather Be (feat. Jess Glynne)](../../artists/clean_bandit/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | [Spicy](../../artists/aespa/overview.md) | 40 | <img src="https://i.scdn.co/image/ab67616d0000b273b4fd0ba98f675df97c5748b1" alt="Dingga" width="50" /> | [Dingga](../../artists/mamamoo/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="Ice Cream Cake - The 1st Mini Album" width="50" /> | [Ice Cream Cake](../../artists/red_velvet/overview.md) | 41 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="Red" width="50" /> | [Red](../../artists/taylor_swift/overview.md) | nan |
 
 </details>
 
@@ -505,7 +505,7 @@
 | | Caroline Ailin | 2 | Producer, Songwriter |
 | | Charles Moniz | 2 | Producer |
 | | Yeti Beats | 2 | Producer, Songwriter |
-| | Phil Ramone | 2 | Producer |
+| | [Phil Ramone](../../producers/phil_ramone/overview.md) | 2 | Producer |
 | | 웅킴 (Woong, Kim) | 2 | Arranger, Songwriter |
 | | Geoff Workman | 2 | Producer |
 | | Lauren Dyson | 2 | Songwriter, Arranger |
@@ -538,7 +538,7 @@
 | | 최혜진 (Cho, Hye-jin) | 2 | Producer |
 | | Ellen Berg Tollbom | 2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaee73c0f0458b95091845ee1" alt="" width="50" /> | Shakira | 2 | Songwriter |
-| | Jim Boyer | 2 | Producer |
+| | [Jim Boyer](../../producers/jim_boyer/overview.md) | 2 | Producer |
 | | 김동현 (Kim, Dong-hyun) | 2 | Lyricist |
 | | [Supreme Boi](../../producers/supreme_boi/overview.md) | 2 | Lyricist, Songwriter |
 | | Paulina Cerrilla | 2 | Lyricist, Songwriter |

@@ -1,6 +1,6 @@
 # hard rock
 
-35 songs
+34 songs
 
 [See Track Features](audio_features.md)
 
@@ -13,11 +13,11 @@
 | <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | 6 | 6 | [The Who](../../artists/the_who/overview.md) | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44" alt="" width="50" /> | 3 | 2 | Metallica | [🔗](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | 2 | 2 | Styx | [🔗](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe848dfb35ea4969099662dfd" alt="" width="50" /> | 4 | 1 | Journey | [🔗](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | 2 | 2 | Kansas | [🔗](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe848dfb35ea4969099662dfd" alt="" width="50" /> | 3 | 1 | Journey | [🔗](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5733401b4689b2064458e7d" alt="" width="50" /> | 2 | 1 | Aerosmith | [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4870cd833ebe1092601820c3" alt="" width="50" /> | 2 | 1 | Black Sabbath | [🔗](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c" alt="" width="50" /> | 2 | 1 | Guns N' Roses | [🔗](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | 2 | 1 | Kansas | [🔗](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4c77549095c86acb4e77b37" alt="" width="50" /> | 1 | 1 | AC/DC | [🔗](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb624ddceb90bdf808ed4e2e35" alt="" width="50" /> | 1 | 1 | Steve Miller Band | [🔗](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) |
 
@@ -45,9 +45,9 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="Pieces Of Eight" width="50" /> | Renegade | 447 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> | Hard To Handle | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="Who Are You" width="50" /> | [Who Are You](../../artists/the_who/overview.md) | 484 | <img src="https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae" alt="Back In Black" width="50" /> | Back In Black | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" alt="Appetite For Destruction" width="50" /> | Welcome To The Jungle | 540 | <img src="https://i.scdn.co/image/ab67616d0000b27388f0f719259b0dec23a7c367" alt="The Grand Illusion" width="50" /> | Come Sail Away | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="Pieces Of Eight" width="50" /> | Renegade | 453 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> | Hard To Handle | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="Who Are You" width="50" /> | [Who Are You](../../artists/the_who/overview.md) | 489 | <img src="https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae" alt="Back In Black" width="50" /> | Back In Black | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" alt="Appetite For Destruction" width="50" /> | Welcome To The Jungle | 542 | <img src="https://i.scdn.co/image/ab67616d0000b27388f0f719259b0dec23a7c367" alt="The Grand Illusion" width="50" /> | Come Sail Away | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f05202b83eb981e943ca7767" alt="Foreigner (Expanded)" width="50" /> | Cold as Ice | nan | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="Who&#x27;s Next (Deluxe Edition)" width="50" /> | [Behind Blue Eyes](../../artists/the_who/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" alt="Appetite For Destruction" width="50" /> | Sweet Child O' Mine | nan | <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="Metallica" width="50" /> | Nothing Else Matters | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac" alt="Second Helping (Expanded Edition)" width="50" /> | Sweet Home Alabama | nan | <img src="https://i.scdn.co/image/ab67616d0000b273291b0e8f1a74c2bc9f9d3110" alt="Piece of Mind (2015 - Remaster)" width="50" /> | The Trooper - 2015 Remaster | nan |
@@ -73,7 +73,7 @@
 
 
 <details>
-<summary>See all 31 albums</summary>
+<summary>See all 30 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -83,6 +83,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="" width="50" /> | 1 | 1 | Pieces Of Eight | 1978-01-01 | [🔗](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="" width="50" /> | 1 | 1 | My Generation (Stereo Version) | 1965-12-03 | [🔗](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" alt="" width="50" /> | 1 | 1 | Metallica (Remastered) | 1991-08-12 | [🔗](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | 1 | 1 | Leftoverture (Expanded Edition) | 1976 | [🔗](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d" alt="" width="50" /> | 1 | 1 | Infinity | 1978 | [🔗](https://open.spotify.com/album/7K4Nk5fHkCuzNm5A6mdo2U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f05202b83eb981e943ca7767" alt="" width="50" /> | 1 | 1 | Foreigner (Expanded) | 1977-03-08 | [🔗](https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae" alt="" width="50" /> | 1 | 1 | Back In Black | 1980-07-25 | [🔗](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) |
@@ -93,9 +94,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273291b0e8f1a74c2bc9f9d3110" alt="" width="50" /> | 1 | 0 | Piece of Mind (2015 - Remaster) | 1983-05-16 | [🔗](https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" alt="" width="50" /> | 1 | 0 | Paranoid (Remaster) | 1970-09-18 | [🔗](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bc9b44e950d5440ff65ea926" alt="" width="50" /> | 1 | 0 | Machine Head | 1972-03-25 | [🔗](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | 1 | 0 | Leftoverture (Expanded Edition) | 1976 | [🔗](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="" width="50" /> | 1 | 0 | Led Zeppelin III (Remaster) | 1970 | [🔗](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c5653f9038e42efad2f8a266" alt="" width="50" /> | 1 | 0 | Escape (Bonus Track Version) | 1981 | [🔗](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363fa4751355b66f236943275" alt="" width="50" /> | 1 | 0 | Escape (2022 Remaster) | 1981-07-17 | [🔗](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e8045e318486885fe243817" alt="" width="50" /> | 1 | 0 | Departure | 1980 | [🔗](https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5) |
 
@@ -108,16 +107,16 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 8 | 4 | [Columbia](../../labels/columbia/overview.md) |
+| 7 | 4 | [Columbia](../../labels/columbia/overview.md) |
+| 6 | 3 | [Legacy](../../labels/legacy/overview.md) |
 | 4 | 3 | [Geffen](../../labels/geffen/overview.md) |
-| 6 | 2 | [Legacy](../../labels/legacy/overview.md) |
 | 3 | 2 | Blackened Recordings |
 | 2 | 2 | [Polydor Records](../../labels/polydor_records/overview.md) |
+| 2 | 2 | [Epic](../../labels/epic/overview.md) |
 | 2 | 2 | A&M |
 | 3 | 1 | [Warner Records](../../labels/warner_records/overview.md) |
 | 3 | 1 | [Rhino](../../labels/rhino/overview.md) |
 | 2 | 1 | Guns N Roses P&D |
-| 2 | 1 | [Epic](../../labels/epic/overview.md) |
 
 
 <details>
@@ -147,13 +146,13 @@
 | | Pete Townshend | 5 | Lyricist, Songwriter |
 | | Glyn Johns | 4 | Producer |
 | <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | [The Who](../../artists/the_who/overview.md) | 3 | Producer |
-| | Bob Rock | 2 | Producer |
+| | Kerry Livgren | 2 | Lyricist, Songwriter |
+| | Randy Staub | 2 | Producer |
 | | Barry Mraz | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfef3008e708e59efaa5667ed" alt="" width="50" /> | Styx | 2 | Producer |
 | | Dennis DeYoung | 2 | Lyricist, Songwriter, Producer |
-| | Lars Ulrich | 2 | Producer, Songwriter |
-| | Rob Kingsland | 2 | Producer |
-| | Randy Staub | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | Kansas | 2 | Arranger |
+| | James Hetfield | 2 | Producer, Songwriter |
 
 
 <details>
@@ -161,37 +160,38 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | James Hetfield | 2 | Producer, Songwriter |
+| | Bob Rock | 2 | Producer |
+| | Lars Ulrich | 2 | Producer, Songwriter |
+| | Jeff Glixman | 2 | Producer |
+| | Rob Kingsland | 2 | Producer |
+| | Jon Astley | 1 | Producer |
 | | Ray Colcord | 1 | Producer |
-| | Alvertis Isbell | 1 | Songwriter |
-| | Rodger Bain | 1 | Producer |
-| | Jimmy Douglass | 1 | Producer |
-| | George Drakoulias | 1 | Producer |
-| | Steve Miller | 1 | Producer, Songwriter |
-| | Axl Rose | 1 | Songwriter |
-| | Angus Young | 1 | Songwriter |
-| | John Sinclair | 1 | Producer |
-| | Izzy Stradlin | 1 | Songwriter |
-| | Rick Rubin | 1 | Producer |
-| | Steven Adler | 1 | Songwriter |
-| | Ahmet Ertegun | 1 | Songwriter |
 | | Aynsley Dunbar | 1 | Producer |
+| | John Sinclair | 1 | Producer |
 | | Terry Becker | 1 | Producer |
 | | Tommy Shaw | 1 | Lyricist, Songwriter |
 | | Caryl Weinstock | 1 | Producer |
 | | Kit Lambert | 1 | Producer |
+| | Angus Young | 1 | Songwriter |
 | | Duff McKagan | 1 | Songwriter |
-| | Michael Barbiero | 1 | Producer |
-| | Tony Platt | 1 | Producer |
-| | Jon Astley | 1 | Producer |
+| | Ahmet Ertegun | 1 | Songwriter |
+| | George Drakoulias | 1 | Producer |
+| | Steve Miller | 1 | Producer, Songwriter |
+| | Jimmy Douglass | 1 | Producer |
 | | Malcolm Young | 1 | Songwriter |
-| | Keith Moon | 1 | Producer |
-| | Brad Samuelsohn | 1 | Producer |
-| | Tony Iommi | 1 | Songwriter |
-| | Ian McDonald | 1 | Producer |
+| | Rodger Bain | 1 | Producer |
+| | Alvertis Isbell | 1 | Songwriter |
+| | Izzy Stradlin | 1 | Songwriter |
+| | Axl Rose | 1 | Songwriter |
+| | Steven Adler | 1 | Songwriter |
 | | Bill Ward | 1 | Songwriter |
-| | Ozzy Osbourne | 1 | Songwriter |
-| | Jeff Glixman | 1 | Producer |
+| | Michael Barbiero | 1 | Producer |
+| | Tony Iommi | 1 | Songwriter |
+| | Brad Samuelsohn | 1 | Producer |
+| | Keith Moon | 1 | Producer |
+| | Tony Platt | 1 | Producer |
+| | Rick Rubin | 1 | Producer |
+| | Ian McDonald | 1 | Producer |
 | | Brian Johnson | 1 | Songwriter |
 | | Ross Valory | 1 | Producer |
 | | Eddie Curtis | 1 | Songwriter |
@@ -214,16 +214,16 @@
 | | Neal Schon | 1 | Producer, Songwriter |
 | | Steve Thompson | 1 | Producer |
 | | Allen Jones | 1 | Songwriter |
+| | Bill "Bleu" Evans | 1 | Producer |
 | | Slash | 1 | Songwriter |
 | | Robert John "Mutt" Lange | 1 | Producer |
 | | Mike Clink | 1 | Producer |
 | | Adrian Barber | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | Kansas | 1 | Arranger |
 | | Chris Stamp | 1 | Producer |
 | | Steven Tyler | 1 | Lyricist, Songwriter |
 | | Otis Redding | 1 | Songwriter |
 | | Steve Perry | 1 | Songwriter |
-| | Kerry Livgren | 1 | Lyricist, Songwriter |
+| | Ozzy Osbourne | 1 | Songwriter |
 
 </details>
 
@@ -240,6 +240,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273291b0e8f1a74c2bc9f9d3110" alt="Piece of Mind (2015 - Remaster)" width="50" /> | Piece of Mind (2015 - Remaster) (1983-05-16) | <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="Led Zeppelin IV (Deluxe Edition)" width="50" /> | Led Zeppelin IV (Deluxe Edition) (1971-11-08) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a052b99c042dc15f933145b" alt="Toto IV" width="50" /> | Toto IV (1982-04-08) | <img src="https://i.scdn.co/image/ab67616d0000b273bc9b44e950d5440ff65ea926" alt="Machine Head" width="50" /> | Machine Head (1972-03-25) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363fa4751355b66f236943275" alt="Escape (2022 Remaster)" width="50" /> | Escape (2022 Remaster) (1981-07-17) | <img src="https://i.scdn.co/image/ab67616d0000b273375445cc7a2aedff11361b51" alt="The Joker" width="50" /> | The Joker (1973-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c5653f9038e42efad2f8a266" alt="Escape (Bonus Track Version)" width="50" /> | Escape (Bonus Track Version) (1981) | <img src="https://i.scdn.co/image/ab67616d0000b273b11078ee23dcd99e085ac33e" alt="Aerosmith" width="50" /> | Aerosmith (1973-01-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae" alt="Back In Black" width="50" /> | Back In Black (1980-07-25) | <img src="https://i.scdn.co/image/ab67616d0000b273b11078ee23dcd99e085ac33e" alt="Aerosmith" width="50" /> | Aerosmith (1973-01-05) |
 
 ![Bar chart of number of songs by year](../../images/genres/hard_rock/years.png)

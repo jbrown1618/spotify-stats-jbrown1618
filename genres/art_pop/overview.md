@@ -1,6 +1,6 @@
 # art pop
 
-58 songs
+59 songs
 
 [See Track Features](audio_features.md)
 
@@ -16,10 +16,10 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8cb645e0a77bf015feda7fb9" alt="" width="50" /> | 4 | 2 | Rina Sawayama | [🔗](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | 3 | 2 | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3" alt="" width="50" /> | 3 | 2 | Lorde | [🔗](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe062176ee3682ca24d6fddd7" alt="" width="50" /> | 2 | 1 | Feist | [🔗](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb247f44069c0bd1781df2f785" alt="" width="50" /> | 1 | 1 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5be3f26e0c3aa322637a975f" alt="" width="50" /> | 1 | 1 | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d9229c6ab9a1cbb8924ce10" alt="" width="50" /> | 1 | 1 | Soccer Mommy | [🔗](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 1 | 1 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 
 
 <details>
@@ -27,9 +27,9 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 1 | 1 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | 2 | 0 | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c44e078944196a8c1eec256" alt="" width="50" /> | 1 | 0 | Colby O'Donis | [🔗](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe062176ee3682ca24d6fddd7" alt="" width="50" /> | 1 | 0 | Feist | [🔗](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 1 | 0 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46fcb25c1d37f61e5fb2a5fd" alt="" width="50" /> | 1 | 0 | A. G. Cook | [🔗](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46d43d4f87876abe90c71f6c" alt="" width="50" /> | 1 | 0 | VERNON | [🔗](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) |
@@ -43,16 +43,16 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [you should see me in a crown](../../artists/billie_eilish/overview.md) | 227 | <img src="https://i.scdn.co/image/ab67616d0000b27374b226f1b53ca4902dedce2a" alt="Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1)" width="50" /> | Yellow Flicker Beat | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="No Time To Die" width="50" /> | [No Time To Die](../../artists/billie_eilish/overview.md) | 244 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="Norman Fucking Rockwell!" width="50" /> | [Doin' Time](../../artists/lana_del_rey/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="Ultraviolence (Deluxe)" width="50" /> | [Shades Of Cool](../../artists/lana_del_rey/overview.md) | 330 | <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="Born This Way" width="50" /> | [Judas](../../artists/lady_gaga/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336" alt="Melodrama" width="50" /> | Green Light | 358 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="The Fame Monster (Deluxe Edition)" width="50" /> | [Bad Romance](../../artists/lady_gaga/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | [Off To The Races](../../artists/lana_del_rey/overview.md) | 364 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="The Fame" width="50" /> | [LoveGame](../../artists/lady_gaga/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | [Summertime Sadness](../../artists/lana_del_rey/overview.md) | 393 | <img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="Tidal" width="50" /> | Shadowboxer | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [bury a friend](../../artists/billie_eilish/overview.md) | 412 | <img src="https://i.scdn.co/image/ab67616d0000b273969438a8091085c2472a0766" alt="Til It Happens To You" width="50" /> | [Til It Happens To You](../../artists/lady_gaga/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="Chromatica" width="50" /> | [Sour Candy (with BLACKPINK)](../../artists/lady_gaga/overview.md) | 548 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | [Dark Paradise](../../artists/lana_del_rey/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> | [GOLDWING](../../artists/billie_eilish/overview.md) | 584 | <img src="https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c" alt="lovely (with Khalid)" width="50" /> | [lovely (with Khalid)](../../artists/billie_eilish/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [xanny](../../artists/billie_eilish/overview.md) | 724 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> | Beg for You (feat. Rina Sawayama) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [you should see me in a crown](../../artists/billie_eilish/overview.md) | 230 | <img src="https://i.scdn.co/image/ab67616d0000b27374b226f1b53ca4902dedce2a" alt="Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1)" width="50" /> | Yellow Flicker Beat | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="No Time To Die" width="50" /> | [No Time To Die](../../artists/billie_eilish/overview.md) | 247 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="Norman Fucking Rockwell!" width="50" /> | [Doin' Time](../../artists/lana_del_rey/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="Ultraviolence (Deluxe)" width="50" /> | [Shades Of Cool](../../artists/lana_del_rey/overview.md) | 335 | <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="Born This Way" width="50" /> | [Judas](../../artists/lady_gaga/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336" alt="Melodrama" width="50" /> | Green Light | 364 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="The Fame Monster (Deluxe Edition)" width="50" /> | [Bad Romance](../../artists/lady_gaga/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | [Off To The Races](../../artists/lana_del_rey/overview.md) | 369 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="The Fame" width="50" /> | [LoveGame](../../artists/lady_gaga/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | [Summertime Sadness](../../artists/lana_del_rey/overview.md) | 399 | <img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="Tidal" width="50" /> | Shadowboxer | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [bury a friend](../../artists/billie_eilish/overview.md) | 416 | <img src="https://i.scdn.co/image/ab67616d0000b273969438a8091085c2472a0766" alt="Til It Happens To You" width="50" /> | [Til It Happens To You](../../artists/lady_gaga/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="Chromatica" width="50" /> | [Sour Candy (with BLACKPINK)](../../artists/lady_gaga/overview.md) | 551 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | [Dark Paradise](../../artists/lana_del_rey/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> | [GOLDWING](../../artists/billie_eilish/overview.md) | 588 | <img src="https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c" alt="lovely (with Khalid)" width="50" /> | [lovely (with Khalid)](../../artists/billie_eilish/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [xanny](../../artists/billie_eilish/overview.md) | 739 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> | Beg for You (feat. Rina Sawayama) | nan |
 
 ## Top Albums
 
@@ -76,6 +76,7 @@
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342" alt="" width="50" /> | 2 | 2 | A Star Is Born Soundtrack | 2018-10-05 | [🔗](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b17d3cdd360973516ade9e6d" alt="" width="50" /> | 2 | 1 | The Reminder | 2007-01-01 | [🔗](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="" width="50" /> | 2 | 1 | SAWAYAMA | 2020-04-17 | [🔗](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="" width="50" /> | 2 | 1 | Lust For Life | 2017-07-21 | [🔗](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | 2 | 1 | Chromatica | 2020-05-29 | [🔗](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) |
@@ -90,7 +91,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="50" /> | 1 | 0 | Young And Beautiful | 2013-01-01 | [🔗](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273969438a8091085c2472a0766" alt="" width="50" /> | 1 | 0 | Til It Happens To You | 2015-09-18 | [🔗](https://open.spotify.com/album/00qjYaNSNpQCZHhCpAlH60) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="" width="50" /> | 1 | 0 | Tidal | 1996-07-23 | [🔗](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b17d3cdd360973516ade9e6d" alt="" width="50" /> | 1 | 0 | The Reminder | 2007-01-01 | [🔗](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336" alt="" width="50" /> | 1 | 0 | Melodrama | 2017-06-16 | [🔗](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1" alt="" width="50" /> | 1 | 0 | Joanne (Deluxe) | 2016-10-21 | [🔗](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a" alt="" width="50" /> | 1 | 0 | Honeymoon | 2015-09-18 | [🔗](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) |
@@ -113,10 +113,10 @@
 | 2 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 2 | 2 | A Star is Born OST |
 | 2 | 1 | Universal Music New Zealand Limited |
+| 2 | 1 | Universal Music Division Decca Records France |
 | 2 | 1 | Dirty Hit |
 | 1 | 1 | Mockingjay |
 | 1 | 1 | Loma Vista Recordings |
-| 1 | 1 | Hunger Games 3 |
 
 
 <details>
@@ -124,8 +124,8 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 1 | 1 | Hunger Games 3 |
 | 1 | 0 | Work |
-| 1 | 0 | Universal Music Division Decca Records France |
 | 1 | 0 | [Epic](../../labels/epic/overview.md) |
 | 1 | 0 | Clean Slate |
 | 1 | 0 | Atlantic Records UK |
@@ -162,28 +162,29 @@
 | | Dave Russell | 3 | Producer |
 | | Justin Parker | 3 | Producer, Songwriter |
 | | Joel Little | 2 | Producer, Songwriter |
-| | Tim Larcombe | 2 | Songwriter, Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8cb645e0a77bf015feda7fb9" alt="" width="50" /> | Rina Sawayama | 2 | Songwriter |
 | | Benjamin Rice | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3" alt="" width="50" /> | Lorde | 2 | Songwriter |
 | | Tom Elmhirst | 2 | Producer |
-| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 2 | Producer |
+| | Tim Larcombe | 2 | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3" alt="" width="50" /> | Lorde | 2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | Charli XCX | 2 | Songwriter |
-| | Ben Hogarth | 1 | Producer |
 | | Rami | 1 | Songwriter |
 | | Bram Inscore | 1 | Producer, Songwriter |
-| | Louiguy | 1 | Songwriter |
+| | Horace Ward | 1 | Producer |
 | | Nicole Morier | 1 | Songwriter |
+| | Louiguy | 1 | Songwriter |
+| | Renaud Letang | 1 | Producer |
 | | Paul Foley | 1 | Producer |
 | | Brent Kolatalo | 1 | Producer |
 | | Alexander Soifer | 1 | Producer, Songwriter |
-| | Horace Ward | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe062176ee3682ca24d6fddd7" alt="" width="50" /> | Feist | 1 | Producer, Songwriter |
 | | Lionel Crasta | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 1 | Arranger, Producer |
-| | Tom Ware | 1 | Producer |
+| | Ben Hogarth | 1 | Producer |
 | | Thomas Warren | 1 | Producer |
 | | Oscar Holter | 1 | Producer, Songwriter |
-| | BURNS | 1 | Producer, Songwriter |
+| | Nick Monson | 1 | Arranger, Producer, Songwriter |
 | | Dan Auerbach | 1 | Producer |
 | | Olle Romo | 1 | Producer |
 | | DJ White Shadow | 1 | Producer, Songwriter |
@@ -191,28 +192,30 @@
 | | Digital Farm Animals | 1 | Producer, Songwriter |
 | | Dae Bennett | 1 | Producer |
 | | Noonie Bao | 1 | Songwriter |
+| | BURNS | 1 | Producer, Songwriter |
 | | BloodPop® (BloodPop) | 1 | Producer, Songwriter |
-| | Nick Monson | 1 | Arranger, Producer, Songwriter |
 | | Robopop | 1 | Producer |
 | | Eli Heisler | 1 | Producer |
 | | Madison Love | 1 | Songwriter |
+| | Ben Mink | 1 | Producer |
 | | Matt Dunkley | 1 | Arranger |
 | | Gabe Wax | 1 | Producer |
 | | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 1 | Producer |
 | | Anoo Bhagavan | 1 | Songwriter |
 | | Lazonate Franklin | 1 | Songwriter |
-| | [John Hanes](../../producers/john_hanes/overview.md) | 1 | Producer |
-| | Collin Dupuis | 1 | Producer |
-| | Matt Wiggins | 1 | Producer |
+| | Tom Ware | 1 | Producer |
+| | Chilly Gonzales | 1 | Producer |
+| | Trevor Muzzy | 1 | Producer |
 | | Jonas von der Burg | 1 | Songwriter |
 | | Lukas Nelson | 1 | Songwriter |
 | | SORANA | 1 | Songwriter |
 | | Robin Fredriksson | 1 | Songwriter |
 | | Kieron Menzies | 1 | Producer |
 | | Roland Spreckley | 1 | Songwriter |
+| | Sally Seltmann | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5be3f26e0c3aa322637a975f" alt="" width="50" /> | Khalid | 1 | Lyricist, Songwriter |
-| | Trevor Muzzy | 1 | Producer |
 | | Casey Cuayo | 1 | Producer |
+| | Jonathan Gilmore | 1 | Producer |
 | | Chris Garcia | 1 | Producer |
 | | Mark Nilan, Jr. | 1 | Arranger, Producer, Songwriter |
 | | Aaron Raitiere | 1 | Songwriter |
@@ -222,18 +225,20 @@
 | | LaShawn Daniels | 1 | Songwriter |
 | | Mattias Larsson | 1 | Songwriter |
 | | Mike "Handz" Donaldson | 1 | Producer |
-| | Jonathan Gilmore | 1 | Producer |
 | | Édith Piaf (Piaf, Édith) | 1 | Lyricist, Songwriter |
-| | Lars Stalfors | 1 | Producer |
+| | Collin Dupuis | 1 | Producer |
+| | Kevin Grainger | 1 | Producer |
+| | Matt Wiggins | 1 | Producer |
 | | Brian Newman | 1 | Producer |
 | | Carl Bagge | 1 | Arranger |
 | | Stephen Lipson | 1 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb247f44069c0bd1781df2f785" alt="" width="50" /> | [Beyoncé](../../artists/beyoncé/overview.md) | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d9229c6ab9a1cbb8924ce10" alt="" width="50" /> | Soccer Mommy | 1 | Songwriter |
 | | Dean Reid | 1 | Producer |
-| | Kevin Grainger | 1 | Producer |
-| | Hisashi Mizoguchi | 1 | Producer |
+| | Lars Stalfors | 1 | Producer |
 | | Daniel Law Heath | 1 | Songwriter |
+| | Hisashi Mizoguchi | 1 | Producer |
 | | Antonio Tucci Jr. | 1 | Producer |
 | | Andrew Wyatt | 1 | Arranger, Producer |
 | | [Paul Epworth](../../producers/paul_epworth/overview.md) | 1 | Producer |

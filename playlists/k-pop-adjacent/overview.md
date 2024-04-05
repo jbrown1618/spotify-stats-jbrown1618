@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e023317fc12f8b9a9a0b8459766ab67616d00001e0263e0ddbb488d0eeec0e738fcab67616d00001e0284095737f6056e682666d6f9ab67616d00001e02f2bf9685109a09bdc176fb43" alt="K-Pop-Adjacent" width="100" />
 
-[51 tracks (34 liked) 🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk)
+[52 tracks (36 liked) 🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 69 artists</summary>
+<summary>See all 70 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -48,7 +48,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eba3a7b2e3fbc33e79765760fe" alt="" width="50" /> | 1 | 1 | QUIN | [🔗](https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | 1 | 1 | Little Mix | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05859a430915d19cd6e67bbb" alt="" width="50" /> | 1 | 1 | Kim Petras | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2e55922ed7b80e66863f3345" alt="" width="50" /> | 1 | 1 | ABIR | [🔗](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebebfd16a3bca87c31c1e20576" alt="" width="50" /> | 1 | 1 | Alicia Keys | [🔗](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4669166b571594eade778990" alt="" width="50" /> | 1 | 1 | Miguel | [🔗](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf801e3d9ecb568a1c3c62393" alt="" width="50" /> | 1 | 1 | Zedd | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d599789ce2de9b742b804e3" alt="" width="50" /> | 1 | 1 | george | [🔗](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0b37426761bbaa441615c5b" alt="" width="50" /> | 1 | 1 | Madison Beer | [🔗](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) |
@@ -75,7 +77,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4dcddba215809727c04aa897" alt="" width="50" /> | 1 | 0 | Kevin MacLeod | [🔗](https://open.spotify.com/artist/4fSMtiyC6lF5BUO1tUMWMs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb464b6e9d7967b1ec6e5132c2" alt="" width="50" /> | 1 | 0 | A$ton Wyld | [🔗](https://open.spotify.com/artist/4MqATzsmSOuGh7de1Q4AzX) |
 | <img src="https://i.scdn.co/image/adcc1cb654e89f2e404688ae0d1bbc942ce02e5d" alt="" width="50" /> | 1 | 0 | Ludacris | [🔗](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2e55922ed7b80e66863f3345" alt="" width="50" /> | 1 | 0 | ABIR | [🔗](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb63f822970678ee3f506f0a20" alt="" width="50" /> | 1 | 0 | RuPaul | [🔗](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6be070445b03e0b63147c2c1" alt="" width="50" /> | 1 | 0 | Post Malone | [🔗](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb256ae9a4b82bfff97776ae2" alt="" width="50" /> | 1 | 0 | Panic! At The Disco | [🔗](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) |
@@ -107,16 +108,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="ALL OUT" width="50" /> | VILLAIN | 149 | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> | [I'll Show You](../../artists/justin_bieber/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="Love&#x27;s Battery" width="50" /> | Love's Battery | 449 | <img src="https://i.scdn.co/image/ab67616d0000b2731ccae05cfc0a4def5804bb60" alt="perfect blues" width="50" /> | perfect blues | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Beggin' | 464 | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="The Prelude" width="50" /> | At My Worst | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | ドライフラワー | 527 | <img src="https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f" alt="El Mal Querer" width="50" /> | MALAMENTE - Cap.1: Augurio | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> | [Off My Face](../../artists/justin_bieber/overview.md) | 614 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0beba9fb519b91d5485ef9" alt="미녀는 괴로워 Original Motion picture Soundtrack" width="50" /> | Maria | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="We Sing. We Dance. We Steal Things." width="50" /> | Lucky | 618 | <img src="https://i.scdn.co/image/ab67616d0000b27309d039265f637b5749c927a8" alt="Sneaky Snitch" width="50" /> | Sneaky Snitch | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734df81e72c09afdd3f50c6d22" alt="Fast &amp; Furious Presents: Hobbs &amp; Shaw (Original Motion Picture Soundtrack)" width="50" /> | Next Level | nan | <img src="https://i.scdn.co/image/ab67616d0000b27376205e74bef31f32a779d970" alt="REMIND" width="50" /> | Blue Whale - 2016 Version | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b627441824c5d0748c8cb077" alt="Dua Lipa" width="50" /> | [Hotter Than Hell](../../artists/dua_lipa/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="Salute (Expanded Edition)" width="50" /> | Salute | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cd222052a2594be29a6616b5" alt="Endless Summer Vacation" width="50" /> | Flowers | nan | <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> | Light Switch | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731351b9b5479c81f76ce7d419" alt="A Kind Of Magic" width="50" /> | [A Kind Of Magic](../../artists/queen/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2734c0f17fbae890e66fe861b29" alt="Street Woman Fighter2 (SWF2) Class Mission" width="50" /> | Smoke (Prod. Dynamicduo, Padi) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="ALL OUT" width="50" /> | VILLAIN | 150 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="All I Want Is You" width="50" /> | Sure Thing | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="Love&#x27;s Battery" width="50" /> | Love's Battery | 456 | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> | [I'll Show You](../../artists/justin_bieber/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Beggin' | 470 | <img src="https://i.scdn.co/image/ab67616d0000b2731ccae05cfc0a4def5804bb60" alt="perfect blues" width="50" /> | perfect blues | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | ドライフラワー | 528 | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="The Prelude" width="50" /> | At My Worst | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> | [Off My Face](../../artists/justin_bieber/overview.md) | 621 | <img src="https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f" alt="El Mal Querer" width="50" /> | MALAMENTE - Cap.1: Augurio | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="We Sing. We Dance. We Steal Things." width="50" /> | Lucky | 624 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0beba9fb519b91d5485ef9" alt="미녀는 괴로워 Original Motion picture Soundtrack" width="50" /> | Maria | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734df81e72c09afdd3f50c6d22" alt="Fast &amp; Furious Presents: Hobbs &amp; Shaw (Original Motion Picture Soundtrack)" width="50" /> | Next Level | nan | <img src="https://i.scdn.co/image/ab67616d0000b27309d039265f637b5749c927a8" alt="Sneaky Snitch" width="50" /> | Sneaky Snitch | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b627441824c5d0748c8cb077" alt="Dua Lipa" width="50" /> | [Hotter Than Hell](../../artists/dua_lipa/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b27376205e74bef31f32a779d970" alt="REMIND" width="50" /> | Blue Whale - 2016 Version | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd222052a2594be29a6616b5" alt="Endless Summer Vacation" width="50" /> | Flowers | nan | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="Salute (Expanded Edition)" width="50" /> | Salute | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731351b9b5479c81f76ce7d419" alt="A Kind Of Magic" width="50" /> | [A Kind Of Magic](../../artists/queen/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> | Light Switch | nan |
 
 </details>
 
@@ -137,7 +138,7 @@
 
 
 <details>
-<summary>See all 50 albums</summary>
+<summary>See all 51 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -148,6 +149,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27376205e74bef31f32a779d970" alt="" width="50" /> | 1 | 1 | REMIND | 2016-10-26 | [🔗](https://open.spotify.com/album/2wA8OXIv1JXX9kTY2ddfR4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b93c6b37cb0e0a9fbf26b766" alt="" width="50" /> | 1 | 1 | Mr. Rover | 2022-07-15 | [🔗](https://open.spotify.com/album/0mkxSResK0c4KS5VFcQPhH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f3ebb80519c23d6d08e49ec6" alt="" width="50" /> | 1 | 1 | Magical | 2018-09-04 | [🔗](https://open.spotify.com/album/2rUeXUM8fCb2D26NPoy0Y3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="" width="50" /> | 1 | 1 | MINT | 2018-10-19 | [🔗](https://open.spotify.com/album/5hUQgovUfTYN47QGQXF8k2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="" width="50" /> | 1 | 1 | Love's Battery | 2009-06-19 | [🔗](https://open.spotify.com/album/03IVWQyi8lzS4t2WQKu5iI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="" width="50" /> | 1 | 1 | LUCID | 2019-11-15 | [🔗](https://open.spotify.com/album/5qQhQ1rmPjqQgv8RmfaQU3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="" width="50" /> | 1 | 1 | Justice | 2021-03-19 | [🔗](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) |
@@ -163,6 +165,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d0b7e069c048966d4862787" alt="" width="50" /> | 1 | 1 | Boat | 2017-11-17 | [🔗](https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="" width="50" /> | 1 | 1 | Better Mistakes | 2021-05-07 | [🔗](https://open.spotify.com/album/0ypVp54cO3kexiJNu33wYp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730db4898026f2f0d478abf0e7" alt="" width="50" /> | 1 | 1 | Ashes | 2020-05-03 | [🔗](https://open.spotify.com/album/41gMZm0ib3Je8hU0eFNUwS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="" width="50" /> | 1 | 1 | All I Want Is You | 2010-11-26 | [🔗](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | 1 | ALL OUT | 2020-11-06 | [🔗](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273341a47b9de6f523f1969e9a2" alt="" width="50" /> | 1 | 0 | The Juice: Vol. II | 2019-11-08 | [🔗](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309d039265f637b5749c927a8" alt="" width="50" /> | 1 | 0 | Sneaky Snitch | 2014-12-27 | [🔗](https://open.spotify.com/album/3Rs66sqYGwhu6uFxFXoP1T) |
@@ -170,7 +173,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="" width="50" /> | 1 | 0 | SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) | 2021-10-22 | [🔗](https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="" width="50" /> | 1 | 0 | Purpose (Deluxe) | 2015-11-13 | [🔗](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="" width="50" /> | 1 | 0 | Motley Crew | 2021-07-09 | [🔗](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="" width="50" /> | 1 | 0 | MINT | 2018-10-19 | [🔗](https://open.spotify.com/album/5hUQgovUfTYN47QGQXF8k2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | 1 | 0 | Lover | 2019-08-23 | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27378e172661e9902180548593b" alt="" width="50" /> | 1 | 0 | Livelock | 2023-10-11 | [🔗](https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734df81e72c09afdd3f50c6d22" alt="" width="50" /> | 1 | 0 | Fast & Furious Presents: Hobbs & Shaw (Original Motion Picture Soundtrack) | 2019-07-26 | [🔗](https://open.spotify.com/album/6Y1wIHHmTIqv3mnVvQNJNH) |
@@ -200,7 +202,7 @@
 | 2 | 2 | BAHNG ENTERTAINMENT LLC |
 | 2 | 1 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 2 | 1 | RBMG |
-| 2 | 1 | Def Jam |
+| 2 | 1 | [Jive](../../labels/jive/overview.md) |
 
 
 <details>
@@ -208,6 +210,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 2 | 1 | Def Jam |
 | 1 | 1 | 코어콘텐츠미디어 |
 | 1 | 1 | 케이엠컬쳐 |
 | 1 | 1 | 스타엔트리엔터테인먼트 |
@@ -226,6 +229,7 @@
 | 1 | 1 | J Records |
 | 1 | 1 | [Island Records](../../labels/island_records/overview.md) |
 | 1 | 1 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
+| 1 | 1 | Fez's Finest |
 | 1 | 1 | Fantasy Soul |
 | 1 | 1 | Epidemic Sound |
 | 1 | 1 | CRAFT AND JUN |
@@ -238,9 +242,7 @@
 | 1 | 0 | RuCo |
 | 1 | 0 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 1 | 0 | Parkwood Entertainment |
-| 1 | 0 | [Jive](../../labels/jive/overview.md) |
 | 1 | 0 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
-| 1 | 0 | Fez's Finest |
 | 1 | 0 | [Def Jam Recordings](../../labels/def_jam_recordings/overview.md) |
 | 1 | 0 | DJ Snake Music Productions Limited |
 | 1 | 0 | Chris Brown Entertainment |
@@ -258,8 +260,8 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 17 | 10 | [pop](../../genres/pop/overview.md) |
+| 7 | 3 | [r&b](../../genres/r_b/overview.md) |
 | 4 | 3 | [dance pop](../../genres/dance_pop/overview.md) |
-| 6 | 2 | [r&b](../../genres/r_b/overview.md) |
 | 2 | 2 | [korean pop](../../genres/korean_pop/overview.md) |
 | 2 | 2 | korean indie rock |
 | 2 | 2 | k-rock |
@@ -270,12 +272,13 @@
 
 
 <details>
-<summary>See all 53 genres</summary>
+<summary>See all 54 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 2 | 1 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
+| 1 | 1 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
 | 1 | 1 | trot |
 | 1 | 1 | talent show |
 | 1 | 1 | social media pop |
@@ -327,15 +330,15 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | Jake Torrey | 2 | Producer, Songwriter |
 | | Jaycen Joshua | 2 | Producer |
 | | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 2 | Producer |
-| | Jake Torrey | 2 | Producer, Songwriter |
 | | Mark Jackson | 1 | Songwriter |
-| | Perrie Edwards | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 1 | Lyricist, Songwriter |
 | | Aaron Joseph Aguilar | 1 | Arranger |
 | | Martin Terefe | 1 | Producer |
 | | Sebastien Najand | 1 | Lyricist, Producer, Songwriter |
+| | Perrie Edwards | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | Jason Mraz | 1 | Producer, Songwriter |
 
 
@@ -350,9 +353,10 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb4ba86c361191d48cbeb4b32" alt="" width="50" /> | Miley Cyrus | 1 | Songwriter |
 | | El Guincho | 1 | Arranger, Lyricist, Producer, Songwriter |
 | | Leigh-Anne | 1 | Songwriter |
+| | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 1 | Producer |
 | | Louis Bell | 1 | Producer, Songwriter |
 | | Alexander "Scherzophrenia" Temple | 1 | Lyricist, Songwriter |
-| | Peter Kelleher | 1 | Songwriter |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 1 | Producer |
 | | Jacob Kasher | 1 | Songwriter |
 | | TMS | 1 | Producer |
 | | Nicky D'Silva | 1 | Producer |
@@ -367,15 +371,16 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcff7038d323f4db7d0e90c9c" alt="" width="50" /> | Bishop Briggs | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08635ff0ed30023d2ee764a1" alt="" width="50" /> | Colbie Caillat | 1 | Songwriter |
 | | Jade Thirlwall | 1 | Songwriter |
-| | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 1 | Producer |
-| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 1 | Producer |
+| | Peter Kelleher | 1 | Songwriter |
+| | Michael Pollack | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99a94361a732b7eb49342d35" alt="" width="50" /> | [Camila Cabello](../../artists/camila_cabello/overview.md) | 1 | Songwriter |
-| | Jussifer | 1 | Producer, Songwriter |
+| | Dyre Gormsen | 1 | Producer |
 | | Brian Rajaratnam | 1 | Producer |
 | | Riot Games Music Team | 1 | Producer |
 | | [Ryan Tedder](../../producers/ryan_tedder/overview.md) | 1 | Songwriter |
 | | Ben Kohn | 1 | Songwriter |
 | | Kole Audio Solutions | 1 | Lyricist, Songwriter |
+| | Happy Perez | 1 | Songwriter |
 | | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 1 | Producer |
 | | Iain Hill | 1 | Producer |
 | | Jason Walsh | 1 | Lyricist, Songwriter |
@@ -384,8 +389,9 @@
 | | Thomas Barnes | 1 | Songwriter |
 | | Bob Gaudio | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | ROSALÍA | 1 | Arranger, Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4669166b571594eade778990" alt="" width="50" /> | Miguel | 1 | Songwriter |
+| | Jussifer | 1 | Producer, Songwriter |
 | | Evelynn | 1 | Producer |
-| | Michael Pollack | 1 | Songwriter |
 | | Gregory Hein | 1 | Songwriter |
 | | Justin Tranter | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | Yuuri | 1 | Lyricist, Songwriter |
@@ -398,7 +404,6 @@
 | | Chris "Tek" O'Ryan | 1 | Producer |
 | | Dreamlab | 1 | Producer |
 | | Mike Elizondo | 1 | Producer |
-| | Dyre Gormsen | 1 | Producer |
 | | Frank Dukes | 1 | Producer, Songwriter |
 
 </details>
@@ -419,8 +424,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd222052a2594be29a6616b5" alt="Endless Summer Vacation" width="50" /> | Endless Summer Vacation (2023-08-18) | <img src="https://i.scdn.co/image/ab67616d0000b2734e0beba9fb519b91d5485ef9" alt="미녀는 괴로워 Original Motion picture Soundtrack" width="50" /> | 미녀는 괴로워 Original Motion picture Soundtrack (2006-12-12) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731ccae05cfc0a4def5804bb60" alt="perfect blues" width="50" /> | perfect blues (2023-07-14) | <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="We Sing. We Dance. We Steal Things." width="50" /> | We Sing. We Dance. We Steal Things. (2008-05-12) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb9ff6f34a355d6ce77ff6a4" alt="Flowers (Cover)" width="50" /> | Flowers (Cover) (2023-03-20) | <img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="Love&#x27;s Battery" width="50" /> | Love's Battery (2009-06-19) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> | CHARLIE (2022-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="F.A.M.E. (Expanded Edition)" width="50" /> | F.A.M.E. (Expanded Edition) (2011-03-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b93c6b37cb0e0a9fbf26b766" alt="Mr. Rover" width="50" /> | Mr. Rover (2022-07-15) | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="Salute (Expanded Edition)" width="50" /> | Salute (Expanded Edition) (2013-11-11) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | 壱 (2022-01-12) | <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="BEYONCÉ [Platinum Edition]" width="50" /> | BEYONCÉ [Platinum Edition] (2014-11-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="SG (with Ozuna, Megan Thee Stallion &amp; LISA of BLACKPINK)" width="50" /> | SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (2021-10-22) | <img src="https://i.scdn.co/image/ab67616d0000b27309d039265f637b5749c927a8" alt="Sneaky Snitch" width="50" /> | Sneaky Snitch (2014-12-27) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="Motley Crew" width="50" /> | Motley Crew (2021-07-09) | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> | Purpose (Deluxe) (2015-11-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> | CHARLIE (2022-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="All I Want Is You" width="50" /> | All I Want Is You (2010-11-26) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b93c6b37cb0e0a9fbf26b766" alt="Mr. Rover" width="50" /> | Mr. Rover (2022-07-15) | <img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="F.A.M.E. (Expanded Edition)" width="50" /> | F.A.M.E. (Expanded Edition) (2011-03-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | 壱 (2022-01-12) | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="Salute (Expanded Edition)" width="50" /> | Salute (Expanded Edition) (2013-11-11) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="SG (with Ozuna, Megan Thee Stallion &amp; LISA of BLACKPINK)" width="50" /> | SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (2021-10-22) | <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="BEYONCÉ [Platinum Edition]" width="50" /> | BEYONCÉ [Platinum Edition] (2014-11-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="Motley Crew" width="50" /> | Motley Crew (2021-07-09) | <img src="https://i.scdn.co/image/ab67616d0000b27309d039265f637b5749c927a8" alt="Sneaky Snitch" width="50" /> | Sneaky Snitch (2014-12-27) |

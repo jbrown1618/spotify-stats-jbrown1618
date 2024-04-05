@@ -6,27 +6,27 @@
 |:---|---:|
 | Arranger | 3 |
 | Instrument | 4 |
-| Producer | 22 |
+| Producer | 23 |
 
 ## Produces for Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | 22 | 22 | [The Beatles](../../artists/the_beatles/overview.md) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | 23 | 23 | [The Beatles](../../artists/the_beatles/overview.md) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
 
 ## Works with Producers
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| John Lennon | [John Lennon](../john_lennon/overview.md) | 20 |
-| Paul McCartney | [Paul McCartney](../paul_mccartney/overview.md) | 20 |
+| John Lennon | [John Lennon](../john_lennon/overview.md) | 21 |
+| Paul McCartney | [Paul McCartney](../paul_mccartney/overview.md) | 21 |
 | Geoff Emerick | Geoff Emerick | 10 |
 | Phil McDonald | Phil McDonald | 8 |
 | Norman Smith | Norman Smith | 5 |
+| Ken Scott | Ken Scott | 4 |
 | Glyn Johns | Glyn Johns | 4 |
+| Phil Spector | Phil Spector | 3 |
 | Chris Thomas | Chris Thomas | 3 |
-| Ken Scott | Ken Scott | 3 |
-| Barry Sheffield | Barry Sheffield | 2 |
 | George Harrison | George Harrison | 2 |
 
 
@@ -36,9 +36,12 @@
 | Producer | Producer | Tracks |
 |:---|:---|---:|
 | Jeff Jarratt | Jeff Jarratt | 2 |
-| Phil Spector | Phil Spector | 2 |
+| Barry Sheffield | Barry Sheffield | 2 |
 | John Mills | John Mills | 1 |
+| Lauren Scott | Lauren Scott | 1 |
+| Peter Bown | Peter Bown | 1 |
 | Ron Pender | Ron Pender | 1 |
+| Martin Benge | Martin Benge | 1 |
 
 </details>
 
@@ -67,5 +70,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | Oh! Darling - Remastered 2009 | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | I Want You (She's So Heavy) - Remastered 2009 | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Get Back - Remastered 2009 | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Across The Universe - Remastered 2009 | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Let It Be - Remastered 2009 | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="" width="50" /> | Day Tripper - Remastered 2015 | Producer |

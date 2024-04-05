@@ -39,23 +39,23 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [What The Water Gave Me](../../artists/florence_+_the_machine/overview.md) | 460 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | [You've Got The Love](../../artists/florence_+_the_machine/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="SUGA&#x27;s Interlude" width="50" /> | SUGA's Interlude | 479 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="Primal Heart" width="50" /> | [Recovery](../../artists/kimbra/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Seven Devils](../../artists/florence_+_the_machine/overview.md) | 670 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | [Kiss With A Fist](../../artists/florence_+_the_machine/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="Vows (Deluxe Version)" width="50" /> | [Limbo](../../artists/kimbra/overview.md) | 707 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="Primal Heart" width="50" /> | [Lightyears](../../artists/kimbra/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730f7ad6d8d829906c17cae210" alt="hopeless fountain kingdom (Deluxe)" width="50" /> | Bad At Love | nan | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="Primal Heart" width="50" /> | [Top of the World](../../artists/kimbra/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | [I'm Not Calling You A Liar](../../artists/florence_+_the_machine/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="Life in Cartoon Motion" width="50" /> | Lollipop | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="Vows (Deluxe Version)" width="50" /> | [Two Way Street](../../artists/kimbra/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Lover To Lover](../../artists/florence_+_the_machine/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="Life in Cartoon Motion" width="50" /> | Grace Kelly | nan | <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="SAWAYAMA" width="50" /> | XS | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="How Big, How Blue, How Beautiful" width="50" /> | [How Big, How Blue, How Beautiful](../../artists/florence_+_the_machine/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="Life in Cartoon Motion" width="50" /> | Happy Ending | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="Vows (Deluxe Version)" width="50" /> | [Cameo Lover](../../artists/kimbra/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="Primal Heart" width="50" /> | [Like They Do on the TV](../../artists/kimbra/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [What The Water Gave Me](../../artists/florence_+_the_machine/overview.md) | 466 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="Primal Heart" width="50" /> | [Recovery](../../artists/kimbra/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="SUGA&#x27;s Interlude" width="50" /> | SUGA's Interlude | 487 | <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="Lungs (Deluxe Edition)" width="50" /> | [Kiss With A Fist](../../artists/florence_+_the_machine/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Never Let Me Go](../../artists/florence_+_the_machine/overview.md) | 612 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="Primal Heart" width="50" /> | [Lightyears](../../artists/kimbra/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="Vows (Deluxe Version)" width="50" /> | [Settle Down](../../artists/kimbra/overview.md) | 626 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="Primal Heart" width="50" /> | [Top of the World](../../artists/kimbra/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Seven Devils](../../artists/florence_+_the_machine/overview.md) | 680 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="Life in Cartoon Motion" width="50" /> | Lollipop | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="Vows (Deluxe Version)" width="50" /> | [Limbo](../../artists/kimbra/overview.md) | 715 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Lover To Lover](../../artists/florence_+_the_machine/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730f7ad6d8d829906c17cae210" alt="hopeless fountain kingdom (Deluxe)" width="50" /> | Bad At Love | nan | <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="SAWAYAMA" width="50" /> | XS | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="Vows (Deluxe Version)" width="50" /> | [Two Way Street](../../artists/kimbra/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="Lungs (Deluxe Edition)" width="50" /> | [Dog Days Are Over](../../artists/florence_+_the_machine/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="Life in Cartoon Motion" width="50" /> | Grace Kelly | nan | <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="Life in Cartoon Motion" width="50" /> | Happy Ending | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="How Big, How Blue, How Beautiful" width="50" /> | [How Big, How Blue, How Beautiful](../../artists/florence_+_the_machine/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="Primal Heart" width="50" /> | [Like They Do on the TV](../../artists/kimbra/overview.md) | nan |
 
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | 7 | 7 | Vows (Deluxe Version) | 2011 | [🔗](https://open.spotify.com/album/6V9rvW05Um5bIHePPfeI8p) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | 6 | 6 | Lungs | 2009-01-01 | [🔗](https://open.spotify.com/album/2KAK58PimXHF4lSoKO3RxA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | 6 | 6 | Lungs (Deluxe Edition) | 2009 | [🔗](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | 6 | 6 | Ceremonials (Deluxe Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | 5 | 0 | Primal Heart | 2018-04-20 | [🔗](https://open.spotify.com/album/4pj0BkJ7u39i009oqe8V79) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="" width="50" /> | 3 | 3 | Life in Cartoon Motion | 2007-02-05 | [🔗](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) |
@@ -116,16 +116,16 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [Florence Welch](../../producers/florence_welch/overview.md) | 13 | Songwriter, Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 7 | Lyricist, Producer, Songwriter |
+| | [Florence Welch](../../producers/florence_welch/overview.md) | 12 | Lyricist, Songwriter |
 | | [Paul Epworth](../../producers/paul_epworth/overview.md) | 7 | Producer, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 7 | Lyricist, Producer, Songwriter |
 | | Isabella Summers | 6 | Songwriter, Producer, Lyricist |
 | | [François Tétaz (Tétaz, François)](../../producers/françois_tétaz_(tétaz,_françois)/overview.md) | 5 | Lyricist, Producer, Songwriter |
-| | Cenzo Townshend | 4 | Producer |
 | | Craig Silvey | 4 | Producer |
-| | James Ford | 3 | Producer |
+| | Cenzo Townshend | 4 | Producer |
 | | Jimmy Robertson | 3 | Producer |
-| | Sally Herbert | 3 | Arranger |
+| | James Ford | 3 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5adcd7630c57d002cc5a645" alt="" width="50" /> | MIKA | 3 | Lyricist, Songwriter, Producer |
 
 
 <details>
@@ -133,61 +133,58 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc5adcd7630c57d002cc5a645" alt="" width="50" /> | MIKA | 3 | Lyricist, Songwriter, Producer |
 | | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 3 | Producer |
+| | Sally Herbert | 3 | Arranger |
 | | Markus Dravs | 2 | Producer |
-| | Greg Wells | 2 | Producer |
-| | M-Phazes | 2 | Producer |
 | | Tom Elmhirst | 2 | Producer |
+| | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 2 | Songwriter |
 | | Robin Baynton | 2 | Producer |
 | | Bullion | 2 | Producer |
-| | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 2 | Songwriter |
-| | Bram Inscore | 1 | Producer, Songwriter |
-| | Blue Sky Black Death | 1 | Songwriter |
+| | M-Phazes | 2 | Producer |
+| | Greg Wells | 2 | Producer |
+| | Mat Bartram | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9c017e1e34973fabb15fc0a4" alt="" width="50" /> | Pink Siifu | 1 | Lyricist, Songwriter |
+| | Josh Diamond | 1 | Songwriter |
 | | Fabien Waltmann | 1 | Producer |
 | | Nicole Morier | 1 | Songwriter |
+| | Will Owen | 1 | Arranger |
 | | Rush | 1 | Songwriter |
+| | Fagan Wilcox | 1 | Producer |
 | | Nicolas Fournier | 1 | Producer |
-| | Steve Mackey | 1 | Producer |
-| | Jodi Marr | 1 | Songwriter |
-| | Earl Burroughs | 1 | Songwriter |
+| | Brian Degraw | 1 | Songwriter |
+| | Dan Warner | 1 | Songwriter |
+| | Francis White | 1 | Lyricist, Songwriter |
+| | Bram Inscore | 1 | Producer, Songwriter |
 | | Ryan Ritchie | 1 | Producer |
 | | Ali Helnwein | 1 | Arranger |
-| | Dan Warner | 1 | Songwriter |
-| | Mat Bartram | 1 | Producer |
 | | Rich Costey | 1 | Producer |
-| | Francis White | 1 | Lyricist, Songwriter |
-| | Brian Degraw | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9c017e1e34973fabb15fc0a4" alt="" width="50" /> | Pink Siifu | 1 | Lyricist, Songwriter |
-| | Fagan Wilcox | 1 | Producer |
-| | Will Owen | 1 | Arranger |
-| | Josh Diamond | 1 | Songwriter |
-| | Richard Flack | 1 | Producer |
-| | John Bellamy | 1 | Songwriter |
 | | Lizzi Bougatsos | 1 | Songwriter |
-| | George Stone | 1 | Lyricist, Songwriter |
-| | Tommy Raps | 1 | Lyricist, Songwriter |
+| | Jodi Marr | 1 | Songwriter |
+| | Daniel Johns | 1 | Songwriter |
+| | John Bellamy | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb53a4b7b7926630c0d69b0589" alt="" width="50" /> | Ryan Lott | 1 | Producer |
+| | Arnecia Michelle Harris | 1 | Songwriter |
+| | Eli Crews | 1 | Producer |
+| | Pete Prokopiw | 1 | Producer |
+| | Martin Cooke | 1 | Producer |
 | | Joe Chiccarelli | 1 | Producer |
+| | Earl Burroughs | 1 | Songwriter |
+| | Anthony B. Stephens | 1 | Songwriter |
+| | Tommy Raps | 1 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8cb645e0a77bf015feda7fb9" alt="" width="50" /> | Rina Sawayama | 1 | Songwriter |
 | | Jimi Maroudas | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb53a4b7b7926630c0d69b0589" alt="" width="50" /> | Ryan Lott | 1 | Producer |
-| | Martin Cooke | 1 | Producer |
-| | Matt Allchin | 1 | Songwriter |
-| | Pete Prokopiw | 1 | Producer |
-| | Eli Crews | 1 | Producer |
 | | John Rooney | 1 | Producer |
+| | Tim Dewit | 1 | Songwriter |
+| | George Stone | 1 | Lyricist, Songwriter |
 | | Bo Hill | 1 | Producer |
-| | Anthony B. Stephens | 1 | Songwriter |
 | | Jon Castelli | 1 | Producer |
 | | Mark "Top" Rankin | 1 | Producer |
 | | Joe Zook | 1 | Producer |
 | | John Merchant | 1 | Songwriter |
-| | Arnecia Michelle Harris | 1 | Songwriter |
 | | Charlie Hugall | 1 | Producer |
-| | Daniel Johns | 1 | Songwriter |
+| | Blue Sky Black Death | 1 | Songwriter |
 | | Nate Mercereau | 1 | Producer, Songwriter |
 | | Chris Nicolaides | 1 | Producer |
-| | Tim Dewit | 1 | Songwriter |
 | | Michael Tayler | 1 | Producer |
 
 </details>
@@ -197,7 +194,7 @@
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273933e69748e2993ca43dbd644" alt="A Reckoning" width="50" /> | A Reckoning (2023-01-27) | <img src="https://i.scdn.co/image/ab67616d0000b2739b9a3105ad4ffb91ad2e2798" alt="Life in Cartoon Motion" width="50" /> | Life in Cartoon Motion (2007-02-05) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="SAWAYAMA" width="50" /> | SAWAYAMA (2020-04-17) | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | Lungs (2009-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="SAWAYAMA" width="50" /> | SAWAYAMA (2020-04-17) | <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="Lungs (Deluxe Edition)" width="50" /> | Lungs (Deluxe Edition) (2009) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd" alt="Manic" width="50" /> | Manic (2020-01-17) | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="Vows (Deluxe Version)" width="50" /> | Vows (Deluxe Version) (2011) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="SUGA&#x27;s Interlude" width="50" /> | SUGA's Interlude (2019-12-06) | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | Ceremonials (Deluxe Edition) (2011-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="High As Hope" width="50" /> | High As Hope (2018-06-29) | <img src="https://i.scdn.co/image/ab67616d0000b27369b3dd10eee85bb2652c3b05" alt="The Golden Echo" width="50" /> | The Golden Echo (2014-08-15) |

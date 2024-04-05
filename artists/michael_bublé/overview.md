@@ -11,7 +11,7 @@
 ## Artist Rank
 Michael Bublé is currently:
 - The #35 artist of the last month
-- The #40 artist of the last 6 months
+- The #46 artist of the last 6 months
 
 ![Rank of Michael Bublé over time](../../images/artists/michael_bublé/rank_time_series.png)
 ## Top Tracks
@@ -23,10 +23,10 @@ Michael Bublé is currently:
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02068a5559744d17bd5e871740ab67616d00001e02a1113af3a19a41dc8eec534eab67616d00001e02ca96a3471c3cb5128e64195fab67616d00001e02cb81eb3c1238c60f2bbfd3b5" alt="" width="50" /> | 12 | [Jazz](../../playlists/jazz/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02792cd65d020fd66224b5b025ab67616d00001e02807cc4e6a97c1a67c8b69803ab67616d00001e02a1113af3a19a41dc8eec534eab67616d00001e02cb81eb3c1238c60f2bbfd3b5" alt="" width="50" /> | 12 | [Jazz](../../playlists/jazz/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020c053ee476f7ce576369241eab67616d00001e02119e4094f07a8123b471ac1dab67616d00001e022a0face7d69df61c20a6db2bab67616d00001e027c78b57a88c7c109176bc999" alt="" width="50" /> | 5 | [Christmas](../../playlists/christmas/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 2 | [Pop](../../playlists/pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e022d73b1bb77cee09f0278be04ab67616d00001e026f50b3400595b123a916e0dcab67616d00001e029ab215825eb77076b1b4b387ab67616d00001e02ff0dae802acb38075786b58c" alt="" width="50" /> | 2 | [Karaoke](../../playlists/karaoke/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 2 | [Karaoke](../../playlists/karaoke/overview.md) |
 
 ## Top Albums
 
@@ -110,11 +110,11 @@ Michael Bublé is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | Baby It's Cold Outside (with Michael Bublé) | Holiday Wishes | Idina Menzel, [Michael Bublé](overview.md) | [Warner Records](../../labels/warner_records) | 494 | | [🔗](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | Frosty the Snowman (feat. The Puppini Sisters) | Christmas (Deluxe Special Edition) | [Michael Bublé](overview.md), The Puppini Sisters | [143](../../labels/143), [Reprise](../../labels/reprise) | 569 | | [🔗](https://open.spotify.com/track/27TJMHguLnuW3y2UPqXeC2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | Feeling Good | It's Time | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 625 | 💚 | [🔗](https://open.spotify.com/track/72PwtNhRrZXNnYeRg5xQ46) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | It's Beginning to Look a Lot like Christmas | Christmas (Deluxe Special Edition) | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 706 | | [🔗](https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | Moondance | Michael Bublé | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 728 | 💚 | [🔗](https://open.spotify.com/track/25Yzff59UGjz7wNWmjM39h) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | Baby It's Cold Outside (with Michael Bublé) | Holiday Wishes | Idina Menzel, [Michael Bublé](overview.md) | [Warner Records](../../labels/warner_records) | 498 | | [🔗](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | Frosty the Snowman (feat. The Puppini Sisters) | Christmas (Deluxe Special Edition) | [Michael Bublé](overview.md), The Puppini Sisters | [143](../../labels/143), [Reprise](../../labels/reprise) | 573 | | [🔗](https://open.spotify.com/track/27TJMHguLnuW3y2UPqXeC2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | Feeling Good | It's Time | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 631 | 💚 | [🔗](https://open.spotify.com/track/72PwtNhRrZXNnYeRg5xQ46) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | It's Beginning to Look a Lot like Christmas | Christmas (Deluxe Special Edition) | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 716 | | [🔗](https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | Moondance | Michael Bublé | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 741 | 💚 | [🔗](https://open.spotify.com/track/25Yzff59UGjz7wNWmjM39h) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | The Way You Look Tonight | Michael Bublé | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | nan | | [🔗](https://open.spotify.com/track/4YGlRLe6TeBRiXFByBqldf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="" width="50" /> | Can't Help Falling in Love | Come Fly with Me | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | nan | | [🔗](https://open.spotify.com/track/7igk58Vs9uM2B0aaTUwv6F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | Home | It's Time | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | nan | 💚 | [🔗](https://open.spotify.com/track/3ISaSNZCxIzTGwQuBq6Xrr) |

@@ -20,8 +20,9 @@
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e023317fc12f8b9a9a0b8459766ab67616d00001e0263e0ddbb488d0eeec0e738fcab67616d00001e0284095737f6056e682666d6f9ab67616d00001e02f2bf9685109a09bdc176fb43" alt="" width="50" /> | 2 | [K-Pop-Adjacent](../../playlists/k-pop-adjacent/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020c053ee476f7ce576369241eab67616d00001e02119e4094f07a8123b471ac1dab67616d00001e022a0face7d69df61c20a6db2bab67616d00001e027c78b57a88c7c109176bc999" alt="" width="50" /> | 2 | [Christmas](../../playlists/christmas/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02830de2e836036f181df598d0ab67616d00001e02af2fda9fb591d43c355c2ac3ab67616d00001e02cc6f76f75551af499b5cd0cbab67616d00001e02da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e022d73b1bb77cee09f0278be04ab67616d00001e026f50b3400595b123a916e0dcab67616d00001e029ab215825eb77076b1b4b387ab67616d00001e02ff0dae802acb38075786b58c" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e021c1ea5bfa5680ac877acdd55ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 1 | [Chill](../../playlists/chill/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022c0252c4e4a988f024e4d262ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 1 | [Chill](../../playlists/chill/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 1 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
 
 ## Top Albums
 
@@ -121,7 +122,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="" width="50" /> | Off My Face | Justice | [Justin Bieber](overview.md) | RBMG/Def Jam | 614 | 💚 | [🔗](https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="" width="50" /> | Off My Face | Justice | [Justin Bieber](overview.md) | RBMG/Def Jam | 621 | 💚 | [🔗](https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d" alt="" width="50" /> | All I Want For Christmas Is You (SuperFestive!) Duet with Mariah Carey | Under The Mistletoe (Deluxe Edition) | [Justin Bieber](overview.md), Mariah Carey | RBMG/Def Jam | nan | | [🔗](https://open.spotify.com/track/1IUtgwxLYzDVd41EgbKUjX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d" alt="" width="50" /> | Mistletoe | Under The Mistletoe (Deluxe Edition) | [Justin Bieber](overview.md) | RBMG/Def Jam | nan | | [🔗](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="" width="50" /> | I'll Show You | Purpose (Deluxe) | [Justin Bieber](overview.md) | RBMG/Def Jam | nan | | [🔗](https://open.spotify.com/track/0SNIAtRCPVVLoGEPcuHSIc) |

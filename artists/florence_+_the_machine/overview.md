@@ -21,11 +21,13 @@ Florence + The Machine:
 
 ## Artist Rank
 Florence + The Machine is currently:
-- The #46 artist of the last 6 months
+- The #28 artist of the last month
+- The #43 artist of the last 6 months
 
 ![Rank of Florence + The Machine over time](../../images/artists/florence_+_the_machine/rank_time_series.png)
 ## Top Tracks
 
+- Never Let Me Go is the #19 track of the last month
 
 ### Top tracks, aggregated
 
@@ -34,16 +36,17 @@ Florence + The Machine is currently:
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0298d4c378a8c78e84bfcf7743ab67616d00001e02b0ed835957dbf3c63184a3bcab67616d00001e02ca96a3471c3cb5128e64195fab67616d00001e02f6749fd9a1027b244f061e87" alt="" width="50" /> | 16 | [Alt-Pop](../../playlists/alt-pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 3 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e023613e1e0d35867a0814005a9ab67616d00001e024a8e5eaab8b02db02e487c27ab67616d00001e0259fcda8d47bbd0f6c2bf1647ab67616d00001e028bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 2 | [Halloween](../../playlists/halloween/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e022d73b1bb77cee09f0278be04ab67616d00001e026f50b3400595b123a916e0dcab67616d00001e029ab215825eb77076b1b4b387ab67616d00001e02ff0dae802acb38075786b58c" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0203668e3f13559554eca8ccc6ab67616d00001e020eb56329734f9400c1639359ab67616d00001e0214ed51ab46ef0765182bb8a0ab67616d00001e02987a1825341694ec9bc62457" alt="" width="50" /> | 1 | [Tarps](../../playlists/tarps/overview.md) |
 
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | 6 | 6 | Lungs | 2009-01-01 | [🔗](https://open.spotify.com/album/2KAK58PimXHF4lSoKO3RxA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | 6 | 6 | Lungs (Deluxe Edition) | 2009 | [🔗](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | 6 | 6 | Ceremonials (Deluxe Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | 3 | 2 | How Big, How Blue, How Beautiful | 2015-06-01 | [🔗](https://open.spotify.com/album/2btszoya78vyT8fwelmVnz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="" width="50" /> | 1 | 0 | High As Hope | 2018-06-29 | [🔗](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) |
@@ -70,25 +73,25 @@ Florence + The Machine is currently:
 | | Christopher Lloyd Hayden | Isabella Summers | Mark Saunders | Robert Ackroyd | Rusty Bradshaw | Tom Moth | [Florence Welch](../../producers/florence_welch/overview.md) |
 |:---|---:|---:|---:|---:|---:|---:|---:|
 | Arranger | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
-| Instrument | 13 | 6 | 7 | 10 | 6 | 12 | 1 |
+| Instrument | 17 | 10 | 7 | 12 | 6 | 17 | 1 |
 | Lyricist | 0 | 1 | 0 | 0 | 0 | 0 | 6 |
-| Producer | 0 | 3 | 0 | 0 | 0 | 0 | 1 |
-| Songwriter | 0 | 6 | 0 | 0 | 0 | 0 | 14 |
-| Vocal | 5 | 0 | 5 | 0 | 0 | 0 | 15 |
+| Producer | 0 | 6 | 0 | 0 | 0 | 0 | 1 |
+| Songwriter | 0 | 9 | 0 | 0 | 0 | 0 | 18 |
+| Vocal | 5 | 0 | 5 | 0 | 0 | 0 | 20 |
 ### Production Credits
 
 | Art | Track | Members | Credit Types |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Kiss With A Fist | [Florence Welch](../../../producers/florence_welch/overview.md) | Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Dog Days Are Over | [Florence Welch](../../../producers/florence_welch/overview.md), Isabella Summers | Songwriter, Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Rabbit Heart (Raise It Up) | [Florence Welch](../../../producers/florence_welch/overview.md) | Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Between Two Lungs | [Florence Welch](../../../producers/florence_welch/overview.md), Isabella Summers | Songwriter, Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | I'm Not Calling You A Liar | [Florence Welch](../../../producers/florence_welch/overview.md), Isabella Summers | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | Dog Days Are Over | [Florence Welch](../../../producers/florence_welch/overview.md), Isabella Summers | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | I'm Not Calling You A Liar | [Florence Welch](../../../producers/florence_welch/overview.md), Isabella Summers | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | Between Two Lungs | [Florence Welch](../../../producers/florence_welch/overview.md), Isabella Summers | Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Lover To Lover | [Florence Welch](../../../producers/florence_welch/overview.md) | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | What The Water Gave Me | [Florence Welch](../../../producers/florence_welch/overview.md) | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Shake It Out | [Florence Welch](../../../producers/florence_welch/overview.md) | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | No Light, No Light | [Florence Welch](../../../producers/florence_welch/overview.md), Isabella Summers | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Seven Devils | [Florence Welch](../../../producers/florence_welch/overview.md) | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Never Let Me Go | [Florence Welch](../../../producers/florence_welch/overview.md) | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | Delilah | [Florence Welch](../../../producers/florence_welch/overview.md), Isabella Summers | Songwriter |
 
 
 <details>
@@ -96,9 +99,9 @@ Florence + The Machine is currently:
 
 | Art | Track | Members | Credit Types |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Never Let Me Go | [Florence Welch](../../../producers/florence_welch/overview.md) | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | Delilah | [Florence Welch](../../../producers/florence_welch/overview.md), Isabella Summers | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | How Big, How Blue, How Beautiful | [Florence Welch](../../../producers/florence_welch/overview.md), Isabella Summers | Songwriter |
+| | nan | [Florence Welch](../../../producers/florence_welch/overview.md) | Songwriter |
+| | nan | [Florence Welch](../../../producers/florence_welch/overview.md) | Songwriter |
 | | nan | [Florence Welch](../../../producers/florence_welch/overview.md), Tom Moth | Arranger, Producer, Songwriter |
 
 </details>
@@ -108,7 +111,7 @@ Florence + The Machine is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [Florence Welch](../../producers/florence_welch/overview.md) | 13 | Songwriter, Lyricist |
+| | [Florence Welch](../../producers/florence_welch/overview.md) | 12 | Lyricist, Songwriter |
 | | [Paul Epworth](../../producers/paul_epworth/overview.md) | 7 | Producer, Lyricist, Songwriter |
 | | Isabella Summers | 6 | Songwriter, Producer, Lyricist |
 | | Craig Silvey | 4 | Producer |
@@ -116,8 +119,8 @@ Florence + The Machine is currently:
 | | James Ford | 3 | Producer |
 | | Sally Herbert | 3 | Arranger |
 | | Jimmy Robertson | 3 | Producer |
-| | Bullion | 2 | Producer |
-| | Robin Baynton | 2 | Producer |
+| | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 2 | Songwriter |
+| | Markus Dravs | 2 | Producer |
 
 
 <details>
@@ -125,24 +128,21 @@ Florence + The Machine is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 2 | Producer |
 | | Tom Elmhirst | 2 | Producer |
-| | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 2 | Songwriter |
-| | Markus Dravs | 2 | Producer |
+| | Bullion | 2 | Producer |
+| | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 2 | Producer |
+| | Robin Baynton | 2 | Producer |
 | | Mat Bartram | 1 | Producer |
-| | Ali Helnwein | 1 | Arranger |
 | | Francis White | 1 | Lyricist, Songwriter |
 | | Brian Degraw | 1 | Songwriter |
+| | Ali Helnwein | 1 | Arranger |
 | | Will Owen | 1 | Arranger |
-| | Steve Mackey | 1 | Producer |
 | | Charlie Hugall | 1 | Producer |
-| | Rush | 1 | Songwriter |
-| | Richard Flack | 1 | Producer |
 | | Lizzi Bougatsos | 1 | Songwriter |
+| | Rush | 1 | Songwriter |
 | | John Bellamy | 1 | Songwriter |
 | | Tim Dewit | 1 | Songwriter |
 | | Mark "Top" Rankin | 1 | Producer |
-| | Matt Allchin | 1 | Songwriter |
 | | Anthony B. Stephens | 1 | Songwriter |
 | | Pete Prokopiw | 1 | Producer |
 | | Arnecia Michelle Harris | 1 | Songwriter |
@@ -151,21 +151,21 @@ Florence + The Machine is currently:
 </details>
 
 
-![Bar chart of top 30 producers](../../images/artists/florence_+_the_machine/producers.png)
+![Bar chart of top 29 producers](../../images/artists/florence_+_the_machine/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | What The Water Gave Me | Ceremonials (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 460 | 💚 | [🔗](https://open.spotify.com/track/3RiOPzAvhNKuMIdPYOrKV8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Seven Devils | Ceremonials (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 670 | 💚 | [🔗](https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Between Two Lungs | Lungs | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | nan | 💚 | [🔗](https://open.spotify.com/track/5w7sVlGwbDE72HH9OzpDXw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Dog Days Are Over | Lungs | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | nan | 💚 | [🔗](https://open.spotify.com/track/416zj01H28D6uQP43LL6x3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | I'm Not Calling You A Liar | Lungs | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | nan | 💚 | [🔗](https://open.spotify.com/track/7u5oRKGjNovOvg8s1q4OTU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Kiss With A Fist | Lungs | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | nan | 💚 | [🔗](https://open.spotify.com/track/0ZMK3QwoE3PiLO4evS4JGv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | Rabbit Heart (Raise It Up) | Lungs | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | nan | 💚 | [🔗](https://open.spotify.com/track/49B24HYYfECzzbJzCTAkpa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | You've Got The Love | Lungs | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | nan | 💚 | [🔗](https://open.spotify.com/track/0DyToChmZxd4js5BY9Jf2G) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | What The Water Gave Me | Ceremonials (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 466 | 💚 | [🔗](https://open.spotify.com/track/3RiOPzAvhNKuMIdPYOrKV8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Never Let Me Go | Ceremonials (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 612 | 💚 | [🔗](https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Seven Devils | Ceremonials (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 680 | 💚 | [🔗](https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | Between Two Lungs | Lungs (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | nan | 💚 | [🔗](https://open.spotify.com/track/5WnYyCWBbJyLChmd2sbZK9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | Dog Days Are Over | Lungs (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | nan | 💚 | [🔗](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | I'm Not Calling You A Liar | Lungs (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | nan | 💚 | [🔗](https://open.spotify.com/track/3euILOYDltKArnqpupsE1W) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | Kiss With A Fist | Lungs (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | nan | 💚 | [🔗](https://open.spotify.com/track/0jv5OcbvTUHgO8FgHhya8b) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | Rabbit Heart (Raise It Up) | Lungs (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | nan | 💚 | [🔗](https://open.spotify.com/track/5RoLLyMmaEG4WiVMlp7r59) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | You've Got The Love | Lungs (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | nan | 💚 | [🔗](https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Lover To Lover | Ceremonials (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | nan | 💚 | [🔗](https://open.spotify.com/track/1LsZVVQxkbmL9izqfy1RRK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Never Let Me Go | Ceremonials (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | nan | 💚 | [🔗](https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6) |
 
 
 <details>

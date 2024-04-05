@@ -23,6 +23,8 @@ The Beatles:
 - has member Stuart Sutcliffe
 
 ## Artist Rank
+The Beatles is currently:
+- The #36 artist of the last month
 
 ![Rank of The Beatles over time](../../images/artists/the_beatles/rank_time_series.png)
 ## Top Tracks
@@ -35,9 +37,10 @@ The Beatles:
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020b51f8d91f3a21e8426361aeab67616d00001e0284243a01af3c77b56fe01ab1ab67616d00001e028cffbbb7fe8645a486a85ea9ab67616d00001e02bbf0146981704a073405b6c2" alt="" width="50" /> | 32 | [Classic Rock](../../playlists/classic_rock/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e022d73b1bb77cee09f0278be04ab67616d00001e026f50b3400595b123a916e0dcab67616d00001e029ab215825eb77076b1b4b387ab67616d00001e02ff0dae802acb38075786b58c" alt="" width="50" /> | 5 | [Karaoke](../../playlists/karaoke/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e0203668e3f13559554eca8ccc6ab67616d00001e020eb56329734f9400c1639359ab67616d00001e0214ed51ab46ef0765182bb8a0ab67616d00001e02987a1825341694ec9bc62457" alt="" width="50" /> | 3 | [Tarps](../../playlists/tarps/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e0286ca91e718866f411c01db5eab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Beat Drop!](../../playlists/beat_drop!/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 5 | [Karaoke](../../playlists/karaoke/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 5 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0203668e3f13559554eca8ccc6ab67616d00001e020eb56329734f9400c1639359ab67616d00001e0214ed51ab46ef0765182bb8a0ab67616d00001e02987a1825341694ec9bc62457" alt="" width="50" /> | 4 | [Tarps](../../playlists/tarps/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e0286ca91e718866f411c01db5eab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02ce4f1737bc8a646c8c4bd25a" alt="" width="50" /> | 1 | [Beat Drop!](../../playlists/beat_drop!/overview.md) |
 
 ## Top Albums
 
@@ -45,9 +48,9 @@ The Beatles:
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | 9 | 6 | Abbey Road (Remastered) | 1969-09-26 | [🔗](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2" alt="" width="50" /> | 5 | 5 | The Beatles (Remastered) | 1968-11-22 | [🔗](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | 3 | 3 | Let It Be (Remastered) | 1970-05-08 | [🔗](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328b8b9b46428896e6491e97a" alt="" width="50" /> | 3 | 2 | Revolver (Remastered) | 1966-08-05 | [🔗](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273692d9189b2bd75525893f0c1" alt="" width="50" /> | 3 | 2 | Magical Mystery Tour (Remastered) | 1967-11-27 | [🔗](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | 3 | 2 | Let It Be (Remastered) | 1970-05-08 | [🔗](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a" alt="" width="50" /> | 2 | 0 | Sgt. Pepper's Lonely Hearts Club Band (Remastered) | 1967-06-01 | [🔗](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="" width="50" /> | 1 | 1 | With The Beatles (Remastered) | 1963-11-22 | [🔗](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4" alt="" width="50" /> | 1 | 1 | Rubber Soul (Remastered) | 1965-12-03 | [🔗](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) |
@@ -71,7 +74,7 @@ The Beatles:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 31 | 21 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
+| 31 | 22 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
 | 1 | 1 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
 
 ## Genres
@@ -88,10 +91,10 @@ The Beatles:
 
 | | George Harrison | Ringo Starr | [John Lennon](../../producers/john_lennon/overview.md) | [Paul McCartney](../../producers/paul_mccartney/overview.md) |
 |:---|---:|---:|---:|---:|
-| Instrument | 19 | 17 | 17 | 21 |
+| Instrument | 20 | 18 | 18 | 22 |
 | Lyricist | 2 | 0 | 1 | 0 |
-| Songwriter | 2 | 0 | 21 | 20 |
-| Vocal | 12 | 0 | 15 | 21 |
+| Songwriter | 2 | 0 | 22 | 21 |
+| Vocal | 12 | 0 | 16 | 21 |
 ### Production Credits
 
 | Art | Track | Members | Credit Types |
@@ -123,6 +126,7 @@ The Beatles:
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | Oh! Darling - Remastered 2009 | [John Lennon](../../../producers/john_lennon/overview.md), [Paul McCartney](../../../producers/paul_mccartney/overview.md) | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | I Want You (She's So Heavy) - Remastered 2009 | [John Lennon](../../../producers/john_lennon/overview.md), [Paul McCartney](../../../producers/paul_mccartney/overview.md) | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Get Back - Remastered 2009 | [John Lennon](../../../producers/john_lennon/overview.md), [Paul McCartney](../../../producers/paul_mccartney/overview.md) | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Across The Universe - Remastered 2009 | [John Lennon](../../../producers/john_lennon/overview.md), [Paul McCartney](../../../producers/paul_mccartney/overview.md) | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Let It Be - Remastered 2009 | [John Lennon](../../../producers/john_lennon/overview.md), [Paul McCartney](../../../producers/paul_mccartney/overview.md) | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="" width="50" /> | Day Tripper - Remastered 2015 | [John Lennon](../../../producers/john_lennon/overview.md), [Paul McCartney](../../../producers/paul_mccartney/overview.md) | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="" width="50" /> | Imagine | [John Lennon](../../../producers/john_lennon/overview.md) | Lyricist, Songwriter |
@@ -134,16 +138,16 @@ The Beatles:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [George Martin](../../producers/george_martin/overview.md) | 22 | Producer, Arranger |
-| | [John Lennon](../../producers/john_lennon/overview.md) | 20 | Songwriter |
-| | [Paul McCartney](../../producers/paul_mccartney/overview.md) | 20 | Songwriter |
+| | [George Martin](../../producers/george_martin/overview.md) | 23 | Producer, Arranger |
+| | [John Lennon](../../producers/john_lennon/overview.md) | 21 | Songwriter |
+| | [Paul McCartney](../../producers/paul_mccartney/overview.md) | 21 | Songwriter |
 | | Geoff Emerick | 10 | Producer |
 | | Phil McDonald | 8 | Producer |
 | | Norman Smith | 5 | Producer |
+| | Ken Scott | 4 | Producer |
 | | Glyn Johns | 4 | Producer |
+| | Phil Spector | 3 | Producer |
 | | Chris Thomas | 3 | Producer |
-| | Ken Scott | 3 | Producer |
-| | Barry Sheffield | 2 | Producer |
 
 
 <details>
@@ -153,20 +157,23 @@ The Beatles:
 |:---|:---|---:|:---|
 | | George Harrison | 2 | Lyricist, Songwriter |
 | | Jeff Jarratt | 2 | Producer |
-| | Phil Spector | 2 | Producer |
+| | Barry Sheffield | 2 | Producer |
 | | John Mills | 1 | Arranger |
+| | Lauren Scott | 1 | Arranger |
+| | Peter Bown | 1 | Producer |
 | | Ron Pender | 1 | Producer |
+| | Martin Benge | 1 | Producer |
 
 </details>
 
 
-![Bar chart of top 15 producers](../../images/artists/the_beatles/producers.png)
+![Bar chart of top 18 producers](../../images/artists/the_beatles/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | Because - Remastered 2009 | Abbey Road (Remastered) | [The Beatles](overview.md) | [EMI Catalogue](../../labels/emi_catalogue) | 267 | 💚 | [🔗](https://open.spotify.com/track/1rxoyGj1QuPoVi8fOft1Kt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="" width="50" /> | Day Tripper - Remastered 2015 | 1 (Remastered) | [The Beatles](overview.md) | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)) | 342 | 💚 | [🔗](https://open.spotify.com/track/29b2b96jozyD9GPCkOrVLs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | Because - Remastered 2009 | Abbey Road (Remastered) | [The Beatles](overview.md) | [EMI Catalogue](../../labels/emi_catalogue) | 270 | 💚 | [🔗](https://open.spotify.com/track/1rxoyGj1QuPoVi8fOft1Kt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="" width="50" /> | Day Tripper - Remastered 2015 | 1 (Remastered) | [The Beatles](overview.md) | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)) | 346 | 💚 | [🔗](https://open.spotify.com/track/29b2b96jozyD9GPCkOrVLs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbeec63ad914c973e75c24df" alt="" width="50" /> | Love Me Do - Remastered 2009 | Please Please Me (Remastered) | [The Beatles](overview.md) | [EMI Catalogue](../../labels/emi_catalogue) | nan | | [🔗](https://open.spotify.com/track/3VbGCXWRiouAq8VyMYN2MI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="" width="50" /> | All My Loving - Remastered 2009 | With The Beatles (Remastered) | [The Beatles](overview.md) | [EMI Catalogue](../../labels/emi_catalogue) | nan | 💚 | [🔗](https://open.spotify.com/track/4joiWvli4qJVEW6qZV2i2J) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="" width="50" /> | A Hard Day's Night - Remastered 2009 | A Hard Day's Night (Remastered) | [The Beatles](overview.md) | [EMI Catalogue](../../labels/emi_catalogue) | nan | 💚 | [🔗](https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ) |
@@ -201,7 +208,7 @@ The Beatles:
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | Oh! Darling - Remastered 2009 | Abbey Road (Remastered) | [The Beatles](overview.md) | [EMI Catalogue](../../labels/emi_catalogue) | nan | 💚 | [🔗](https://open.spotify.com/track/2mxByJWOajjiVsLWjNXvDJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | Something - Remastered 2009 | Abbey Road (Remastered) | [The Beatles](overview.md) | [EMI Catalogue](../../labels/emi_catalogue) | nan | 💚 | [🔗](https://open.spotify.com/track/0pNeVovbiZHkulpGeOx1Gj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | You Never Give Me Your Money - Remastered 2009 | Abbey Road (Remastered) | [The Beatles](overview.md) | [EMI Catalogue](../../labels/emi_catalogue) | nan | | [🔗](https://open.spotify.com/track/1jOLTO379yIu9aMnCkpMQl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Across The Universe - Remastered 2009 | Let It Be (Remastered) | [The Beatles](overview.md) | [EMI Catalogue](../../labels/emi_catalogue) | nan | | [🔗](https://open.spotify.com/track/4dkoqJrP0L8FXftrMZongF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Across The Universe - Remastered 2009 | Let It Be (Remastered) | [The Beatles](overview.md) | [EMI Catalogue](../../labels/emi_catalogue) | nan | 💚 | [🔗](https://open.spotify.com/track/4dkoqJrP0L8FXftrMZongF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Get Back - Remastered 2009 | Let It Be (Remastered) | [The Beatles](overview.md) | [EMI Catalogue](../../labels/emi_catalogue) | nan | 💚 | [🔗](https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Let It Be - Remastered 2009 | Let It Be (Remastered) | [The Beatles](overview.md) | [EMI Catalogue](../../labels/emi_catalogue) | nan | 💚 | [🔗](https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48) |
 

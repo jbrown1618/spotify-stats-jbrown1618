@@ -17,8 +17,9 @@ Simon & Garfunkel:
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0206ce0d1f846c525e847d60e7ab67616d00001e0222219b7ba681368a16c219feab67616d00001e0223350feac07f56d8b96f33d5ab67616d00001e026aa9314b7ddfbd8f036ba3ac" alt="" width="50" /> | 5 | [Classic Pop](../../playlists/classic_pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 2 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e022d73b1bb77cee09f0278be04ab67616d00001e026f50b3400595b123a916e0dcab67616d00001e029ab215825eb77076b1b4b387ab67616d00001e02ff0dae802acb38075786b58c" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0203668e3f13559554eca8ccc6ab67616d00001e020eb56329734f9400c1639359ab67616d00001e0214ed51ab46ef0765182bb8a0ab67616d00001e02987a1825341694ec9bc62457" alt="" width="50" /> | 1 | [Tarps](../../playlists/tarps/overview.md) |
 
 ## Top Albums
@@ -51,11 +52,11 @@ Simon & Garfunkel:
 
 | | Art Garfunkel | Paul Simon |
 |:---|---:|---:|
-| Instrument | 0 | 3 |
-| Lyricist | 0 | 4 |
-| Producer | 3 | 3 |
-| Songwriter | 0 | 4 |
-| Vocal | 4 | 4 |
+| Instrument | 0 | 4 |
+| Lyricist | 0 | 5 |
+| Producer | 3 | 4 |
+| Songwriter | 0 | 5 |
+| Vocal | 4 | 5 |
 ### Production Credits
 
 | Art | Track | Members | Credit Types |
@@ -64,6 +65,7 @@ Simon & Garfunkel:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8fb5b4308dc27f210064ef4" alt="" width="50" /> | Mrs. Robinson - From "The Graduate" Soundtrack | Paul Simon, Art Garfunkel | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Bridge Over Troubled Water | Paul Simon, Art Garfunkel | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | The Boxer | Paul Simon, Art Garfunkel | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="" width="50" /> | You Can Call Me Al | Paul Simon | Lyricist, Producer, Songwriter |
 
 ## Top Producers
 

@@ -15,11 +15,12 @@
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0245680a4a57c97894490a01c1ab67616d00001e0289992f4d7d4ab94937bf9e23ab67616d00001e02e13de7b8662b085b0885ffefab67616d00001e02ff5429125128b43572dbdccd" alt="" width="50" /> | 16 | [R&B](../../playlists/r_b/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 2 | [Pop](../../playlists/pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 5 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 1 | [Pop](../../playlists/pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e023317fc12f8b9a9a0b8459766ab67616d00001e0263e0ddbb488d0eeec0e738fcab67616d00001e0284095737f6056e682666d6f9ab67616d00001e02f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | [K-Pop-Adjacent](../../playlists/k-pop-adjacent/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022a8b6ce34511614c9373f423ab67616d00001e022bf585fa65e5608b365f4909ab67616d00001e02597905f8f46dfc60f5a6d11fab67616d00001e02660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | 1 | [Disney](../../playlists/disney/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e022d73b1bb77cee09f0278be04ab67616d00001e026f50b3400595b123a916e0dcab67616d00001e029ab215825eb77076b1b4b387ab67616d00001e02ff0dae802acb38075786b58c" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
 
 ## Top Albums
 
@@ -27,8 +28,8 @@
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | 4 | 3 | 4 | 2011-06-24 | [🔗](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | 4 | 2 | I AM...SASHA FIERCE | 2008-11-14 | [🔗](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | 2 | 2 | Dangerously In Love | 2003-06-24 | [🔗](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | 2 | 1 | Lemonade | 2016-04-23 | [🔗](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | 2 | 1 | Dangerously In Love | 2003-06-24 | [🔗](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | 2 | 1 | B'Day Deluxe Edition | 2007-05-29 | [🔗](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | 1 | 1 | The Fame Monster (Deluxe Edition) | 2009-11-05 | [🔗](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e8e488284a2cf00a613c0a1" alt="" width="50" /> | 1 | 1 | Music From The Motion Picture Cadillac Records | 2008-11-28 | [🔗](https://open.spotify.com/album/4b2zuwf7CPesdiTg1kFDjU) |
@@ -39,7 +40,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 16 | 9 | [Columbia](../../labels/columbia/overview.md) |
+| 16 | 10 | [Columbia](../../labels/columbia/overview.md) |
 | 7 | 4 | Parkwood Entertainment |
 | 5 | 3 | Music World Music |
 | 1 | 1 | [Interscope Records](../../labels/interscope_records/overview.md) |
@@ -57,15 +58,16 @@
 | Credit Type | Tracks |
 |:---|---:|
 | Performer | 1 |
-| Producer | 7 |
-| Songwriter | 8 |
-| Vocal | 8 |
+| Producer | 8 |
+| Songwriter | 9 |
+| Vocal | 9 |
 
 ### Production Credits
 
 | Art | Track | Credit Types |
 |:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Naughty Girl | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Crazy In Love (feat. Jay-Z) | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | Listen (From the Motion Picture "Dreamgirls") | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | If I Were a Boy | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | Halo | Producer, Songwriter |
@@ -74,22 +76,32 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | Countdown | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | I Was Here | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | Daddy Lessons | Producer, Songwriter |
+
+
+<details>
+<summary>View all</summary>
+
+| Art | Track | Credit Types |
+|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ccc03169b086af698178a99" alt="" width="50" /> | JA ARA E | Producer, Songwriter |
+
+</details>
+
 
 ## Top Producers
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb247f44069c0bd1781df2f785" alt="" width="50" /> | [Beyoncé](overview.md) | 9 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb247f44069c0bd1781df2f785" alt="" width="50" /> | [Beyoncé](overview.md) | 10 | Producer, Songwriter |
+| | Jim Caruana | 3 | Producer |
 | | [John Hanes](../../producers/john_hanes/overview.md) | 3 | Producer |
 | | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 3 | Producer |
 | | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 3 | Producer |
 | | [Ryan Tedder](../../producers/ryan_tedder/overview.md) | 2 | Arranger, Producer, Songwriter |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 2 | Producer |
 | | DJ Swivel | 2 | Producer |
-| | Shea Taylor | 2 | Producer, Songwriter |
-| | Jim Caruana | 2 | Producer |
 | | The-Dream | 2 | Songwriter |
-| | Donna Summer | 1 | Songwriter |
+| | Shea Taylor | 2 | Producer, Songwriter |
 
 
 <details>
@@ -97,38 +109,42 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Scott Cutler | 1 | Songwriter |
-| | Kuk Harrell | 1 | Producer |
-| | Lazonate Franklin | 1 | Songwriter |
+| | Derek Dixie | 1 | Producer |
 | | Anne Preven | 1 | Songwriter |
 | | Diana Gordon | 1 | Songwriter |
-| | Derek Dixie | 1 | Producer |
-| | LaShawn Daniels | 1 | Songwriter |
 | | Robert Waller | 1 | Songwriter |
+| | Lazonate Franklin | 1 | Songwriter |
+| | Kuk Harrell | 1 | Producer |
+| | Scott Cutler | 1 | Songwriter |
+| | Donna Summer | 1 | Songwriter |
+| | LaShawn Daniels | 1 | Songwriter |
 | | Michael Bivins | 1 | Songwriter |
-| | Jolie Levine | 1 | Arranger |
-| | David Campbell | 1 | Arranger |
+| | Pat Thrall | 1 | Producer |
+| | Paul Foley | 1 | Producer |
 | | Brent Kutzle | 1 | Producer |
 | | E. Kidd Bogart | 1 | Songwriter |
 | | Toby Gad | 1 | Arranger, Producer, Songwriter |
 | | BC Jean | 1 | Songwriter |
 | | Cainon Lamb | 1 | Songwriter |
 | | Kevin Cossom | 1 | Songwriter |
-| | Paul Foley | 1 | Producer |
-| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 1 | Producer |
+| | Rich Harrison | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | JAY-Z | 1 | Songwriter |
+| | David Campbell | 1 | Arranger |
 | | Hisashi Mizoguchi | 1 | Producer |
-| | Stuart White | 1 | Producer |
+| | Jolie Levine | 1 | Arranger |
+| | Ester Dean | 1 | Songwriter |
 | | Dabling Harward | 1 | Producer |
 | | Aaron Renner | 1 | Producer |
 | | Angela Beyince | 1 | Songwriter |
 | | Alex Delicata | 1 | Producer, Songwriter |
 | | The Underdogs | 1 | Producer |
+| | Eugene Record | 1 | Songwriter |
 | | Henry Krieger | 1 | Songwriter |
 | | Pete Bellotte | 1 | Songwriter |
 | | Scott Storch | 1 | Producer, Songwriter |
 | | Giorgio Moroder | 1 | Songwriter |
+| | Stuart White | 1 | Producer |
 | | Julie Frost | 1 | Songwriter |
-| | Ester Dean | 1 | Songwriter |
 | | Mike "Handz" Donaldson | 1 | Producer |
 | | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 1 | Producer |
 | | Rodney Jerkins | 1 | Producer, Songwriter |
@@ -148,7 +164,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Crazy In Love (feat. Jay-Z) | Dangerously In Love | [Beyoncé](overview.md), JAY-Z | [Columbia](../../labels/columbia) | nan | | [🔗](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Crazy In Love (feat. Jay-Z) | Dangerously In Love | [Beyoncé](overview.md), JAY-Z | [Columbia](../../labels/columbia) | nan | 💚 | [🔗](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Naughty Girl | Dangerously In Love | [Beyoncé](overview.md) | [Columbia](../../labels/columbia) | nan | 💚 | [🔗](https://open.spotify.com/track/0YGQ3hZcRLC5YX7o0hdmHg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | Irreplaceable | B'Day Deluxe Edition | [Beyoncé](overview.md) | [Columbia](../../labels/columbia) | nan | | [🔗](https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | Listen (From the Motion Picture "Dreamgirls") | B'Day Deluxe Edition | [Beyoncé](overview.md) | [Columbia](../../labels/columbia) | nan | 💚 | [🔗](https://open.spotify.com/track/4z7Ja0RNran3XpIvc1PIQz) |

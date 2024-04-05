@@ -1,6 +1,6 @@
 # uk pop
 
-42 songs
+43 songs
 
 [See Track Features](audio_features.md)
 
@@ -10,20 +10,20 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | 12 | 7 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 8 | 4 | Adele | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | 4 | 4 | Little Mix | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | 11 | 7 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 8 | 5 | [Adele](../../artists/adele/overview.md) | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | 6 | 4 | Little Mix | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a" alt="" width="50" /> | 6 | 3 | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | 3 | 2 | Charli XCX | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ba9b5726cdd0814dc0cda2e" alt="" width="50" /> | 3 | 1 | Sam Smith | [🔗](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8cb645e0a77bf015feda7fb9" alt="" width="50" /> | 2 | 1 | Rina Sawayama | [🔗](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | 1 | 1 | [HWASA](../../artists/hwasa/overview.md) | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3cb2184a3dfc288d25a1828b" alt="" width="50" /> | 1 | 1 | Ella Eyre | [🔗](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9c0eb37411c26ff54c29dcb6" alt="" width="50" /> | 1 | 1 | Lauv | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb173d69f77530d77a991984f" alt="" width="50" /> | 1 | 1 | Lauv | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
 
 
 <details>
-<summary>See all 24 artists</summary>
+<summary>See all 25 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -40,42 +40,43 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46fcb25c1d37f61e5fb2a5fd" alt="" width="50" /> | 1 | 0 | A. G. Cook | [🔗](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46d43d4f87876abe90c71f6c" alt="" width="50" /> | 1 | 0 | VERNON | [🔗](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 1 | 0 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="" width="50" /> | 1 | 0 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | 1 | 0 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 
 </details>
 
 
-![Bar chart of top 24 artists](../../images/genres/uk_pop/artists.png)
+![Bar chart of top 25 artists](../../images/genres/uk_pop/artists.png)
 
 ![Comparison of Artist](../../images/genres/uk_pop/artists_comparison.png)
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | Take It All | 343 | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="Fifty Shades Freed (Original Motion Picture Soundtrack)" width="50" /> | Love Me Like You Do | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="Future Nostalgia" width="50" /> | [Physical](../../artists/dua_lipa/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2735bec8b1a6a96e731dbd6f94f" alt="DNA (Expanded Edition)" width="50" /> | DNA | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ae395b47b186c2bc8c458e0f" alt="Dua Lipa (Complete Edition)" width="50" /> | [Kiss and Make Up](../../artists/dua_lipa/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b27350dba34377a595e35f81b0e4" alt="Easy On Me" width="50" /> | Easy On Me | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="Delirium" width="50" /> | Something In The Way You Move | nan | <img src="https://i.scdn.co/image/ab67616d0000b2733042c53026e29faf3a21c9f9" alt="Glory Days (Expanded Edition)" width="50" /> | Power | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b627441824c5d0748c8cb077" alt="Dua Lipa" width="50" /> | [Hotter Than Hell](../../artists/dua_lipa/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> | Beg for You (feat. Rina Sawayama) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | Set Fire to the Rain | nan | <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="Future Nostalgia" width="50" /> | [Don't Start Now](../../artists/dua_lipa/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f407037aabc6dffe5abb3bf8" alt="19" width="50" /> | Chasing Pavements | nan | <img src="https://i.scdn.co/image/ab67616d0000b273340f355a2a27e941a30dda56" alt="Have Yourself A Merry Little Christmas" width="50" /> | Have Yourself A Merry Little Christmas | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273995994477ea1ae8097978bf8" alt="Get Weird (Expanded Edition)" width="50" /> | Black Magic | nan | <img src="https://i.scdn.co/image/ab67616d0000b2739f48d446654c7b8b9b7bc58b" alt="Little Love - EP" width="50" /> | Just The Way You Are | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732737be35cc5245eef495be90" alt="Skyfall" width="50" /> | Skyfall | nan | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | Rolling in the Deep | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e689157967d6f852fc59a746" alt="Close To Me (Red Velvet Remix)" width="50" /> | Close To Me - Red Velvet Remix | nan | <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="Future Nostalgia" width="50" /> | [Levitating](../../artists/dua_lipa/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | [Take It All](../../artists/adele/overview.md) | 303 | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="Fifty Shades Freed (Original Motion Picture Soundtrack)" width="50" /> | Love Me Like You Do | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="Future Nostalgia" width="50" /> | [Physical](../../artists/dua_lipa/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2733042c53026e29faf3a21c9f9" alt="Glory Days (Expanded Edition)" width="50" /> | Shout Out to My Ex | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ae395b47b186c2bc8c458e0f" alt="Dua Lipa (Complete Edition)" width="50" /> | [Kiss and Make Up](../../artists/dua_lipa/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2735bec8b1a6a96e731dbd6f94f" alt="DNA (Expanded Edition)" width="50" /> | DNA | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="Delirium" width="50" /> | Something In The Way You Move | nan | <img src="https://i.scdn.co/image/ab67616d0000b27350dba34377a595e35f81b0e4" alt="Easy On Me" width="50" /> | [Easy On Me](../../artists/adele/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b627441824c5d0748c8cb077" alt="Dua Lipa" width="50" /> | [Hotter Than Hell](../../artists/dua_lipa/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2733042c53026e29faf3a21c9f9" alt="Glory Days (Expanded Edition)" width="50" /> | Power | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | [Set Fire to the Rain](../../artists/adele/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> | Beg for You (feat. Rina Sawayama) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f407037aabc6dffe5abb3bf8" alt="19" width="50" /> | [Chasing Pavements](../../artists/adele/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="Future Nostalgia" width="50" /> | [Don't Start Now](../../artists/dua_lipa/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273995994477ea1ae8097978bf8" alt="Get Weird (Expanded Edition)" width="50" /> | Black Magic | nan | <img src="https://i.scdn.co/image/ab67616d0000b273340f355a2a27e941a30dda56" alt="Have Yourself A Merry Little Christmas" width="50" /> | Have Yourself A Merry Little Christmas | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732737be35cc5245eef495be90" alt="Skyfall" width="50" /> | [Skyfall](../../artists/adele/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2739f48d446654c7b8b9b7bc58b" alt="Little Love - EP" width="50" /> | Just The Way You Are | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273995994477ea1ae8097978bf8" alt="Get Weird (Expanded Edition)" width="50" /> | Secret Love Song (feat. Jason Derulo) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | [Rolling in the Deep](../../artists/adele/overview.md) | nan |
 
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="" width="50" /> | 7 | 3 | Future Nostalgia | 2020-03-27 | [🔗](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | 4 | 2 | 21 | 2011-01-24 | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="" width="50" /> | 6 | 3 | Future Nostalgia | 2020-03-27 | [🔗](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | 4 | 3 | 21 | 2011-01-24 | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ae395b47b186c2bc8c458e0f" alt="" width="50" /> | 2 | 2 | Dua Lipa (Complete Edition) | 2018-10-19 | [🔗](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | 2 | 2 | CRASH | 2022-03-18 | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347aa67914674ad0dce5caa88" alt="" width="50" /> | 2 | 1 | Lights | 2011-01-01 | [🔗](https://open.spotify.com/album/3duZhvcaoqdNveQYXf9dMV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733042c53026e29faf3a21c9f9" alt="" width="50" /> | 2 | 1 | Glory Days (Expanded Edition) | 2016-11-18 | [🔗](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273995994477ea1ae8097978bf8" alt="" width="50" /> | 2 | 1 | Get Weird (Expanded Edition) | 2015-11-06 | [🔗](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a935e4689f15953311772cc4" alt="" width="50" /> | 1 | 1 | Unholy (feat. Kim Petras) | 2022-09-22 | [🔗](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="" width="50" /> | 1 | 1 | Slow Grenade | 2020-06-30 | [🔗](https://open.spotify.com/album/15Zgvxqql6EPHE3NJlUt0R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732737be35cc5245eef495be90" alt="" width="50" /> | 1 | 1 | Skyfall | 2012-10-04 | [🔗](https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="" width="50" /> | 1 | 1 | Salute (Expanded Edition) | 2013-11-11 | [🔗](https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27389fba37a3d30c462059917bd" alt="" width="50" /> | 1 | 1 | Physical (feat. Hwa Sa) | 2020-01-28 | [🔗](https://open.spotify.com/album/6apIJi4hf7U6cBOFwIqq1b) |
 
 
 <details>
@@ -83,9 +84,9 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="" width="50" /> | 1 | 1 | Salute (Expanded Edition) | 2013-11-11 | [🔗](https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389fba37a3d30c462059917bd" alt="" width="50" /> | 1 | 1 | Physical (feat. Hwa Sa) | 2020-01-28 | [🔗](https://open.spotify.com/album/6apIJi4hf7U6cBOFwIqq1b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb4278cf3d557dc89ca80ad5" alt="" width="50" /> | 1 | 1 | Ivy To Roses (Mixtape) | 2019-01-18 | [🔗](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733042c53026e29faf3a21c9f9" alt="" width="50" /> | 1 | 1 | Glory Days (Expanded Edition) | 2016-11-18 | [🔗](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273995994477ea1ae8097978bf8" alt="" width="50" /> | 1 | 1 | Get Weird (Expanded Edition) | 2015-11-06 | [🔗](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | 1 | 1 | Fifty Shades Freed (Original Motion Picture Soundtrack) | 2018-02-09 | [🔗](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334da09e702c7f9ca573981e5" alt="" width="50" /> | 1 | 1 | Ella Eyre | 2015-01-12 | [🔗](https://open.spotify.com/album/5J69OYtRXeI9dHDK2R95h5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350dba34377a595e35f81b0e4" alt="" width="50" /> | 1 | 1 | Easy On Me | 2021-10-14 | [🔗](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) |
@@ -113,10 +114,10 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 11 | 6 | [Warner Records](../../labels/warner_records/overview.md) |
-| 4 | 4 | [Syco Music](../../labels/syco_music/overview.md) |
+| 10 | 6 | [Warner Records](../../labels/warner_records/overview.md) |
+| 6 | 4 | [XL Recordings](../../labels/xl_recordings/overview.md) |
+| 6 | 4 | [Syco Music](../../labels/syco_music/overview.md) |
 | 7 | 3 | [Polydor Records](../../labels/polydor_records/overview.md) |
-| 6 | 3 | [XL Recordings](../../labels/xl_recordings/overview.md) |
 | 3 | 3 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 3 | 2 | [Columbia](../../labels/columbia/overview.md) |
 | 2 | 1 | [EMI](../../labels/emi/overview.md) |
@@ -149,14 +150,14 @@
 |:---|:---|---:|:---|
 | | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 6 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 6 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | Adele | 4 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | [Adele](../../artists/adele/overview.md) | 5 | Producer, Songwriter |
 | | [John Hanes](../../producers/john_hanes/overview.md) | 4 | Producer |
 | | Caroline Ailin | 4 | Songwriter, Producer |
 | | Maegan Cottone | 3 | Arranger, Producer, Songwriter |
 | | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 3 | Producer |
 | | KAMILLE | 3 | Songwriter |
-| | Andrew Watt | 2 | Songwriter, Producer |
-| | TMS | 2 | Producer |
+| | Tom Elmhirst | 3 | Producer |
+| | Emily Warren | 2 | Songwriter |
 
 
 <details>
@@ -164,33 +165,33 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | TMS | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a" alt="" width="50" /> | Ellie Goulding | 2 | Songwriter |
-| | Cameron Gower Poole | 2 | Producer |
-| | Tom Elmhirst | 2 | Producer |
+| | Andrew Watt | 2 | Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | Charli XCX | 2 | Songwriter |
 | | Ian Kirkpatrick | 2 | Producer, Songwriter |
 | | Ali Tamposi | 2 | Songwriter |
 | | Peter Kelleher | 2 | Songwriter |
 | | Clarence Coffee Jr. | 2 | Songwriter |
 | | Leigh-Anne | 2 | Songwriter |
-| | Emily Warren | 2 | Songwriter |
+| | Cameron Gower Poole | 2 | Producer |
 | | Perrie Edwards | 2 | Songwriter |
-| | Sarah Hudson | 2 | Songwriter |
 | | Thomas Barnes | 2 | Songwriter |
+| | Matt Radosevich | 2 | Producer |
+| | Ben Kohn | 2 | Songwriter |
 | | Ben Collier | 2 | Producer |
 | | Jade Thirlwall | 2 | Songwriter |
-| | Matt Radosevich | 2 | Producer |
+| | Sarah Hudson | 2 | Songwriter |
 | | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 2 | Producer |
-| | Ben Kohn | 2 | Songwriter |
 | | Jesy Nelson | 2 | Songwriter |
-| | Oscar Görres (Görres, Oscar) | 1 | Producer, Songwriter |
-| | Matt Snell | 1 | Producer |
-| | Julian Burg | 1 | Producer |
+| | Dan Wilson | 1 | Producer, Songwriter |
+| | Steve Churchyard | 1 | Producer |
 | | Michael Hutchence | 1 | Songwriter |
 | | Lionel Crasta | 1 | Producer |
 | | Stephen Kozmeniuk | 1 | Producer, Songwriter |
 | | Daniel Aslet | 1 | Producer |
-| | Simon Clarke | 1 | Arranger |
+| | Oscar Görres (Görres, Oscar) | 1 | Producer, Songwriter |
+| | Matt Snell | 1 | Producer |
 | | Jason Elliott | 1 | Producer |
 | | Ruffsound | 1 | Songwriter |
 | | Andrew Farriss | 1 | Songwriter |
@@ -200,32 +201,33 @@
 | | [ILYA](../../producers/ilya/overview.md) | 1 | Songwriter |
 | | Jordan Johnson | 1 | Songwriter |
 | | [TEDDY](../../producers/teddy/overview.md) | 1 | Songwriter |
-| | Steve Churchyard | 1 | Producer |
+| | Julian Burg | 1 | Producer |
 | | Screwface | 1 | Producer |
 | | Richard "Biff" Stannard | 1 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | DaBaby | 1 | Songwriter |
-| | Robopop | 1 | Producer, Songwriter |
+| | Jimmy Napes | 1 | Songwriter |
 | | Francis White | 1 | Songwriter |
 | | Thomas Warren | 1 | Producer |
 | | Nicky D'Silva | 1 | Producer |
+| | Simon Clarke | 1 | Arranger |
 | | KNY Factory | 1 | Songwriter |
 | | Noonie Bao | 1 | Songwriter |
 | | Anoo Bhagavan | 1 | Songwriter |
 | | Digital Farm Animals | 1 | Producer, Songwriter |
-| | Oscar Holter | 1 | Producer, Songwriter |
-| | Jimmy Napes | 1 | Songwriter |
+| | Fraser T. Smith | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | DaBaby | 1 | Songwriter |
 | | Omer Fedi | 1 | Songwriter |
 | | David Campbell | 1 | Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 1 | Producer, Songwriter |
 | | Alexander Soifer | 1 | Producer, Songwriter |
 | | Ash Howes | 1 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9c0eb37411c26ff54c29dcb6" alt="" width="50" /> | Lauv | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb173d69f77530d77a991984f" alt="" width="50" /> | Lauv | 1 | Songwriter |
 | | Henrik Barman Michelsen | 1 | Producer, Songwriter |
 | | Ben Hogarth | 1 | Producer |
-| | Fraser T. Smith | 1 | Songwriter |
+| | Robopop | 1 | Producer, Songwriter |
+| | Oscar Holter | 1 | Producer, Songwriter |
 | | Andrew Wyatt | 1 | Producer, Songwriter |
 | | Steve Mac | 1 | Producer, Songwriter |
-| | Billboard | 1 | Songwriter |
+| | Paul 'P Dub' Walton | 1 | Producer |
 | | SORANA | 1 | Songwriter |
 | | Drew Jurecka | 1 | Arranger, Producer |
 | | Paul LaMalfa | 1 | Producer |
@@ -237,8 +239,8 @@
 | | Roland Spreckley | 1 | Songwriter |
 | | Simon Rhodes | 1 | Producer |
 | | Ed Drewett | 1 | Songwriter |
-| | Paul 'P Dub' Walton | 1 | Producer |
 | | Daniel Pursey | 1 | Producer |
+| | Kevin Grainger | 1 | Producer |
 | | [Phil Tan](../../producers/phil_tan/overview.md) | 1 | Producer |
 | | Niclas von der Burg | 1 | Songwriter |
 | | Justin Vernon | 1 | Lyricist, Songwriter |
@@ -249,11 +251,10 @@
 | | Leland | 1 | Songwriter |
 | | Mattias Larsson | 1 | Songwriter |
 | | The Monsters & Strangerz | 1 | Producer |
+| | Philip Allen | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb76727262a3ebe73ccb1a7958" alt="" width="50" /> | Mabel | 1 | Songwriter |
+| | Billboard | 1 | Songwriter |
 | | Jonas von der Burg | 1 | Songwriter |
-| | Kevin Grainger | 1 | Producer |
-| | Stefan Johnson | 1 | Songwriter |
-| | Steve James | 1 | Producer |
 
 </details>
 

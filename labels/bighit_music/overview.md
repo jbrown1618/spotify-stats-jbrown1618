@@ -1,6 +1,6 @@
 # BIGHIT MUSIC
 
-60 songs
+59 songs
 
 [See Track Features](audio_features.md)
 
@@ -8,19 +8,19 @@
 
 Appears as:
 - BIGHIT MUSIC (57 tracks)
-- BIGHIT MUSIC / HYBE (3 tracks)
+- BIGHIT MUSIC / HYBE (2 tracks)
 
 ## Top Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 35 | 22 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 34 | 21 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb191d43dca6f2f5a126e43e4b" alt="" width="50" /> | 9 | 5 | [Agust D](../../artists/agust_d/overview.md) | [🔗](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 5 | 5 | [j-hope](../../artists/j-hope/overview.md) | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40a7268dd742e5f63759b960" alt="" width="50" /> | 5 | 4 | Jung Kook | [🔗](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | 3 | 2 | RM | [🔗](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | 2 | 2 | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a" alt="" width="50" /> | 1 | 1 | J. Cole | [🔗](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b053c29fd4b317ff825f0dc" alt="" width="50" /> | 1 | 1 | J. Cole | [🔗](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca6daabeb614243f96b2829f" alt="" width="50" /> | 1 | 1 | WOOSUNG | [🔗](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273006a347ff2700caa3e757c0a" alt="" width="50" /> | 1 | 1 | Youjeen | [🔗](https://open.spotify.com/artist/4wVcCedmr7FHtUlFnIeJIG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebea86ab131cc7c098c07dccc8" alt="" width="50" /> | 1 | 1 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
@@ -63,7 +63,7 @@ Appears as:
 
 
 <details>
-<summary>See all 26 albums</summary>
+<summary>See all 25 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -78,7 +78,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" alt="" width="50" /> | 1 | 1 | You Never Walk Alone | 2017-02-13 | [🔗](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a7f42c375578df426b37638d" alt="" width="50" /> | 1 | 1 | Still With You | 2020-06-05 | [🔗](https://open.spotify.com/album/0i3baFZqWSrjjgTWrhKunB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | 1 | 1 | Skool Luv Affair | 2014-02-12 | [🔗](https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | 1 | 1 | Love Yourself 承 'Her' | 2017-09-18 | [🔗](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | 1 | 1 | Chicken Noodle Soup (feat. Becky G) | 2019-09-27 | [🔗](https://open.spotify.com/album/76IRLp7YzBVLKsat6Ro9ae) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a40e041dc865ed53f8ea8144" alt="" width="50" /> | 1 | 0 | Dynamite (Holiday Remix) | 2020-12-11 | [🔗](https://open.spotify.com/album/3HVNK5OxW9qfkySXjHWehH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c0ff7c2c2de098875ec82997" alt="" width="50" /> | 1 | 0 | Butter (Holiday Remix) | 2021-12-03 | [🔗](https://open.spotify.com/album/4cmHvSMDrSRe2sLodew8sV) |
@@ -87,15 +86,15 @@ Appears as:
 </details>
 
 
-![Bar chart of top 26 albums](../../images/labels/bighit_music/albums.png)
+![Bar chart of top 25 albums](../../images/labels/bighit_music/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 47 | 33 | [k-pop](../../genres/k-pop/overview.md) |
-| 35 | 22 | [pop](../../genres/pop/overview.md) |
-| 35 | 22 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
+| 46 | 32 | [k-pop](../../genres/k-pop/overview.md) |
+| 34 | 21 | [pop](../../genres/pop/overview.md) |
+| 34 | 21 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 16 | 12 | [k-rap](../../genres/k-rap/overview.md) |
 
 ![Bar chart of top 4 genres](../../images/labels/bighit_music/genres.png)
@@ -185,15 +184,15 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c0ff7c2c2de098875ec82997" alt="" width="50" /> | Butter (Holiday Remix) | Butter (Holiday Remix) | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.) | 307 | | [🔗](https://open.spotify.com/track/3IA9LkBEVhJDOxOnh1nf8a) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | AMYGDALA | D-DAY | [Agust D](../../artists/agust_d/overview.md) | [BIGHIT MUSIC](.) | 337 | | [🔗](https://open.spotify.com/track/5fj32MKLHkut2Vod1UodcU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d" alt="" width="50" /> | Set Me Free Pt.2 | FACE | Jimin | [BIGHIT MUSIC](.) | 451 | 💚 | [🔗](https://open.spotify.com/track/1fpj1CJPxY3YvN3AMAEYvt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273741fd4807f442af3f7359316" alt="" width="50" /> | Standing Next to You | GOLDEN | Jung Kook | [BIGHIT MUSIC](.) | 466 | 💚 | [🔗](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273be8d64e8269a0844ad6bf2c9" alt="" width="50" /> | Masquerade (English Ver.) | Masquerade | MIDNATT | [BIGHIT MUSIC](.) | 491 | | [🔗](https://open.spotify.com/track/3Fqa3X4hbk54twe1ccbt1l) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Run BTS | Proof | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.) | 553 | 💚 | [🔗](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | People Pt.2 (feat. IU) | D-DAY | [Agust D](../../artists/agust_d/overview.md), [IU](../../artists/iu/overview.md) | [BIGHIT MUSIC](.) | 563 | 💚 | [🔗](https://open.spotify.com/track/41JPN7pZMTp1sumBOHOzHd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose) | D-DAY | [Agust D](../../artists/agust_d/overview.md), Ryuichi Sakamoto, WOOSUNG | [BIGHIT MUSIC](.) | 613 | 💚 | [🔗](https://open.spotify.com/track/4j3M8NrbGSXdMPwEVsnfHE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Singularity | Love Yourself 結 'Answer' | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.) | 615 | 💚 | [🔗](https://open.spotify.com/track/2ApfJvLr7RbhJl6NOVhEu6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c0ff7c2c2de098875ec82997" alt="" width="50" /> | Butter (Holiday Remix) | Butter (Holiday Remix) | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.) | 312 | | [🔗](https://open.spotify.com/track/3IA9LkBEVhJDOxOnh1nf8a) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | AMYGDALA | D-DAY | [Agust D](../../artists/agust_d/overview.md) | [BIGHIT MUSIC](.) | 339 | | [🔗](https://open.spotify.com/track/5fj32MKLHkut2Vod1UodcU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732b46078245d0120690eb560d" alt="" width="50" /> | Set Me Free Pt.2 | FACE | Jimin | [BIGHIT MUSIC](.) | 457 | 💚 | [🔗](https://open.spotify.com/track/1fpj1CJPxY3YvN3AMAEYvt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273741fd4807f442af3f7359316" alt="" width="50" /> | Standing Next to You | GOLDEN | Jung Kook | [BIGHIT MUSIC](.) | 473 | 💚 | [🔗](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273be8d64e8269a0844ad6bf2c9" alt="" width="50" /> | Masquerade (English Ver.) | Masquerade | MIDNATT | [BIGHIT MUSIC](.) | 495 | | [🔗](https://open.spotify.com/track/3Fqa3X4hbk54twe1ccbt1l) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Run BTS | Proof | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.) | 556 | 💚 | [🔗](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | People Pt.2 (feat. IU) | D-DAY | [Agust D](../../artists/agust_d/overview.md), [IU](../../artists/iu/overview.md) | [BIGHIT MUSIC](.) | 567 | 💚 | [🔗](https://open.spotify.com/track/41JPN7pZMTp1sumBOHOzHd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose) | D-DAY | [Agust D](../../artists/agust_d/overview.md), Ryuichi Sakamoto, WOOSUNG | [BIGHIT MUSIC](.) | 618 | 💚 | [🔗](https://open.spotify.com/track/4j3M8NrbGSXdMPwEVsnfHE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Singularity | Love Yourself 結 'Answer' | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.) | 623 | 💚 | [🔗](https://open.spotify.com/track/2ApfJvLr7RbhJl6NOVhEu6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732666df197eac73ae823e1e67" alt="" width="50" /> | No More Dream | 2 Cool 4 Skool | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.) | nan | | [🔗](https://open.spotify.com/track/089PFeXotzDLNQz9NCk6pF) |
 
 
@@ -212,7 +211,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Lie | Wings | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.) | nan | 💚 | [🔗](https://open.spotify.com/track/1nWB8isqs2tviWk20G5pow) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" alt="" width="50" /> | Spring Day | You Never Walk Alone | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.) | nan | 💚 | [🔗](https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | DNA | Love Yourself 承 'Her' | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.) | nan | | [🔗](https://open.spotify.com/track/3uRLwBjI2TahxslcMTvpFs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | MIC Drop | Love Yourself 承 'Her' | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC / HYBE](.) | nan | 💚 | [🔗](https://open.spotify.com/track/2SYa5Lx1uoCvyDIW4oee9b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | MIC Drop | Love Yourself 承 'Her' | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.) | nan | 💚 | [🔗](https://open.spotify.com/track/4gZGAVECoiutzp64KSHNjE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | dimple | Love Yourself 承 'Her' | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.) | nan | | [🔗](https://open.spotify.com/track/6pp6xf9zS55GD4nr318XUH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Airplane pt.2 | Love Yourself 轉 'Tear' | [BTS](../../artists/bts/overview.md) | [BIGHIT MUSIC](.) | nan | 💚 | [🔗](https://open.spotify.com/track/4lAE47gj539h8R1yxPhhGG) |

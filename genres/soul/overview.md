@@ -11,8 +11,8 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 8 | 5 | [Michael Jackson](../../artists/michael_jackson/overview.md) | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
+| <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | 5 | 4 | Stevie Wonder | [🔗](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) |
 | <img src="https://i.scdn.co/image/ab6772690000c46c4a0e9d5e55f9f3721c3243c5" alt="" width="50" /> | 7 | 3 | Louis Armstrong | [🔗](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) |
-| <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | 5 | 3 | Stevie Wonder | [🔗](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb058531dfd9746a96ad85265f" alt="" width="50" /> | 3 | 3 | Etta James | [🔗](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) |
 | <img src="https://i.scdn.co/image/3c1d23141059785c8a863137d176319329dc17ef" alt="" width="50" /> | 5 | 2 | Ella Fitzgerald | [🔗](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12cfc0c902710269d3a954aa" alt="" width="50" /> | 5 | 1 | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
@@ -55,13 +55,13 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b27330dc6027fd140c7ba68e900c" alt="The Christmas Song (Expanded Edition)" width="50" /> | The Christmas Song (Merry Christmas To You) | 291 | <img src="https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f" alt="Star Time" width="50" /> | Papa's Got A Brand New Bag | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="Billie Holiday" width="50" /> | I'll Be Seeing You | 312 | <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="Ella: The Legendary Decca Recordings" width="50" /> | Dream A Little Dream Of Me | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="The Great American Songbook" width="50" /> | Mack the Knife | 373 | <img src="https://i.scdn.co/image/ab67616d0000b27330bb42e5271f2e046fd36972" alt="That&#x27;s The Way Of The World" width="50" /> | Shining Star | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="Solitude" width="50" /> | Blue Moon | 401 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8ab1a548312b79ac955266" alt="Innervisions" width="50" /> | Higher Ground | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27330dc6027fd140c7ba68e900c" alt="The Christmas Song (Expanded Edition)" width="50" /> | The Christmas Song (Merry Christmas To You) | 293 | <img src="https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f" alt="Star Time" width="50" /> | Papa's Got A Brand New Bag | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="Billie Holiday" width="50" /> | I'll Be Seeing You | 315 | <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="Ella: The Legendary Decca Recordings" width="50" /> | Dream A Little Dream Of Me | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="The Great American Songbook" width="50" /> | Mack the Knife | 378 | <img src="https://i.scdn.co/image/ab67616d0000b27330bb42e5271f2e046fd36972" alt="That&#x27;s The Way Of The World" width="50" /> | Shining Star | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="Solitude" width="50" /> | Blue Moon | 406 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8ab1a548312b79ac955266" alt="Innervisions" width="50" /> | Higher Ground | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="At Last!" width="50" /> | Stormy Weather | 577 | <img src="https://i.scdn.co/image/ab67616d0000b273cd1ea8639de6d3f827fba218" alt="Satchmo Serenades" width="50" /> | La vie en rose - Single Version | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="The Complete Ella And Louis On Verve" width="50" /> | Cheek To Cheek | 582 | <img src="https://i.scdn.co/image/ab67616d0000b27308a0fe33e91b991d2c9c9cde" alt="Christmas Album" width="50" /> | I Saw Mommy Kissing Santa Claus | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="Ella: The Legendary Decca Recordings" width="50" /> | Baby It's Cold Outside | 699 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="Thriller" width="50" /> | [P.Y.T. (Pretty Young Thing)](../../artists/michael_jackson/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="The Complete Ella And Louis On Verve" width="50" /> | Cheek To Cheek | 586 | <img src="https://i.scdn.co/image/ab67616d0000b27308a0fe33e91b991d2c9c9cde" alt="Christmas Album" width="50" /> | I Saw Mommy Kissing Santa Claus | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="Ella: The Legendary Decca Recordings" width="50" /> | Baby It's Cold Outside | 705 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="Thriller" width="50" /> | [P.Y.T. (Pretty Young Thing)](../../artists/michael_jackson/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739173e50e99bdea2400222f02" alt="United" width="50" /> | Ain't No Mountain High Enough | nan | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="Commodores" width="50" /> | Easy | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="I Never Loved a Man the Way I Love You" width="50" /> | Respect | nan | <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="The Definitive Collection" width="50" /> | Superstition - Single Version | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The &#x27;70s, &#x27;80s, &#x27;90s" width="50" /> | Papa Was A Rollin' Stone - Single Version | nan | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="Thriller" width="50" /> | [Wanna Be Startin' Somethin'](../../artists/michael_jackson/overview.md) | nan |
@@ -92,6 +92,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27330bb42e5271f2e046fd36972" alt="" width="50" /> | 1 | 1 | That's The Way Of The World | 1975-03-15 | [🔗](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="" width="50" /> | 1 | 1 | Tell Mama | 1968-04-18 | [🔗](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317f9e7e7784ed40b223e261c" alt="" width="50" /> | 1 | 1 | Street Songs (Deluxe Edition) | 1981-04-07 | [🔗](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="" width="50" /> | 1 | 1 | Songs In The Key Of Life | 1976-09-28 | [🔗](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b" alt="" width="50" /> | 1 | 1 | Signed, Sealed And Delivered | 1970-08-07 | [🔗](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273777c5fdae315d921a3784f21" alt="" width="50" /> | 1 | 1 | Mothership Connection | 1975-12-15 | [🔗](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="" width="50" /> | 1 | 1 | Mary Wells Sings My Guy | 1964 | [🔗](https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP) |
@@ -108,7 +109,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="" width="50" /> | 1 | 0 | The Great American Songbook | 1929 | [🔗](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="" width="50" /> | 1 | 0 | The Complete Ella And Louis On Verve | 1997-05-20 | [🔗](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27330dc6027fd140c7ba68e900c" alt="" width="50" /> | 1 | 0 | The Christmas Song (Expanded Edition) | 1962 | [🔗](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="" width="50" /> | 1 | 0 | Songs In The Key Of Life | 1976-09-28 | [🔗](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="" width="50" /> | 1 | 0 | Solitude | 1956-01-01 | [🔗](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd1ea8639de6d3f827fba218" alt="" width="50" /> | 1 | 0 | Satchmo Serenades | 1952-04-01 | [🔗](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="" width="50" /> | 1 | 0 | Romance | 2021-02-12 | [🔗](https://open.spotify.com/album/5MuNxtOyex8o77Qdjaqeng) |
@@ -139,9 +139,9 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 21 | 8 | [MOTOWN](../../labels/motown/overview.md) |
+| 21 | 9 | [MOTOWN](../../labels/motown/overview.md) |
+| 11 | 6 | [UNI](../../labels/uni/overview.md) |
 | 9 | 6 | [Epic](../../labels/epic/overview.md) |
-| 11 | 5 | [UNI](../../labels/uni/overview.md) |
 | 3 | 3 | [Geffen](../../labels/geffen/overview.md) |
 | 7 | 2 | Verve Reissues |
 | 5 | 2 | [Legacy](../../labels/legacy/overview.md) |
@@ -183,9 +183,9 @@
 |:---|:---|---:|:---|
 | | Quincy Jones | 5 | Producer, Arranger, Songwriter |
 | | Bruce Swedien | 5 | Producer |
+| <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | Stevie Wonder | 4 | Arranger, Lyricist, Producer, Songwriter |
 | | Jerry Hey | 3 | Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | [Michael Jackson](../../artists/michael_jackson/overview.md) | 3 | Lyricist, Producer, Songwriter, Arranger |
-| <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | Stevie Wonder | 3 | Arranger, Lyricist, Producer, Songwriter |
 | | Rod Temperton | 2 | Arranger, Lyricist, Songwriter |
 | | Smokey Robinson | 2 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/2103311f1aedbaa1c8c9514d79c45f4c3ddbca96" alt="" width="50" /> | Bootsy Collins | 2 | Songwriter |

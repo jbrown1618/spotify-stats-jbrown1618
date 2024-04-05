@@ -56,22 +56,22 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="Bleed American" width="50" /> | The Middle | 220 | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | Mr. Brightside | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="Riot!" width="50" /> | Misery Business | 239 | <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="Dreamland (+ Bonus Levels)" width="50" /> | Heat Waves | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733818b4c636e2a7fdea3bf965" alt="Fleet Foxes" width="50" /> | White Winter Hymnal | 354 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | [You've Got The Love](../../artists/florence_+_the_machine/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [What The Water Gave Me](../../artists/florence_+_the_machine/overview.md) | 460 | <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | [Kiss With A Fist](../../artists/florence_+_the_machine/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> | Madness | 503 | <img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="Demon Days" width="50" /> | Feel Good Inc. | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="Picture Show" width="50" /> | Everybody Talks | 558 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Believer | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" alt="Night Visions" width="50" /> | Radioactive | 640 | <img src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23" alt="How To Be A Human Being" width="50" /> | The Other Side Of Paradise | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Seven Devils](../../artists/florence_+_the_machine/overview.md) | 670 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="Hozier (Expanded Edition)" width="50" /> | Take Me to Church | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="Echoes, Silence, Patience &amp; Grace" width="50" /> | The Pretender | nan | <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="Riot!" width="50" /> | That's What You Get | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="Lungs" width="50" /> | [I'm Not Calling You A Liar](../../artists/florence_+_the_machine/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Lover To Lover](../../artists/florence_+_the_machine/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="Bleed American" width="50" /> | The Middle | 223 | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | Mr. Brightside | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="Riot!" width="50" /> | Misery Business | 242 | <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="Dreamland (+ Bonus Levels)" width="50" /> | Heat Waves | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733818b4c636e2a7fdea3bf965" alt="Fleet Foxes" width="50" /> | White Winter Hymnal | 357 | <img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="Demon Days" width="50" /> | Feel Good Inc. | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [What The Water Gave Me](../../artists/florence_+_the_machine/overview.md) | 466 | <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="Lungs (Deluxe Edition)" width="50" /> | [Kiss With A Fist](../../artists/florence_+_the_machine/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> | Madness | 505 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Believer | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="Picture Show" width="50" /> | Everybody Talks | 560 | <img src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23" alt="How To Be A Human Being" width="50" /> | The Other Side Of Paradise | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Never Let Me Go](../../artists/florence_+_the_machine/overview.md) | 612 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="Hozier (Expanded Edition)" width="50" /> | Take Me to Church | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" alt="Night Visions" width="50" /> | Radioactive | 649 | <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="Riot!" width="50" /> | That's What You Get | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Seven Devils](../../artists/florence_+_the_machine/overview.md) | 680 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Lover To Lover](../../artists/florence_+_the_machine/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="Echoes, Silence, Patience &amp; Grace" width="50" /> | The Pretender | nan | <img src="https://i.scdn.co/image/ab67616d0000b27351729fae66d02122c4951153" alt="Young The Giant (Special Edition)" width="50" /> | Cough Syrup | nan |
 
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730baf707aa7c4020245f2ac67" alt="" width="50" /> | 6 | 6 | Lungs | 2009-01-01 | [🔗](https://open.spotify.com/album/2KAK58PimXHF4lSoKO3RxA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | 6 | 6 | Lungs (Deluxe Edition) | 2009 | [🔗](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | 6 | 6 | Ceremonials (Deluxe Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="" width="50" /> | 3 | 3 | An Awesome Wave | 2012-09-18 | [🔗](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | 3 | 2 | How Big, How Blue, How Beautiful | 2015-06-01 | [🔗](https://open.spotify.com/album/2btszoya78vyT8fwelmVnz) |
@@ -189,7 +189,7 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [Florence Welch](../../producers/florence_welch/overview.md) | 13 | Songwriter, Lyricist |
+| | [Florence Welch](../../producers/florence_welch/overview.md) | 12 | Lyricist, Songwriter |
 | | [Paul Epworth](../../producers/paul_epworth/overview.md) | 7 | Producer, Lyricist, Songwriter |
 | | Isabella Summers | 6 | Songwriter, Producer, Lyricist |
 | | Craig Silvey | 5 | Producer |
@@ -217,45 +217,53 @@
 | | Wayne Sermon | 3 | Songwriter |
 | | Gwil Sainsbury | 3 | Songwriter |
 | | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 3 | Producer |
-| | Tom Elmhirst | 2 | Producer |
-| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 2 | Lyricist, Songwriter |
-| | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 2 | Songwriter |
-| | Alex da Kid | 2 | Producer, Songwriter |
-| | Rob Kirwan | 2 | Producer |
-| | Adrian Bushby | 2 | Producer |
-| | Robin Pecknold | 2 | Lyricist, Songwriter |
-| | Justin Meldal-Johnsen | 2 | Producer |
-| | Ted Dwane | 2 | Songwriter |
-| | Tyler Joseph | 2 | Lyricist, Producer, Songwriter |
-| | Chris Walla | 2 | Producer |
-| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 2 | Producer |
-| | Tommaso Colliva | 2 | Producer |
-| | Beau Sorenson | 2 | Producer |
-| | Benjamin Gibbard | 2 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9dadab92d8236e846b16fe3a" alt="" width="50" /> | Mumford & Sons | 2 | Arranger |
-| | Marcus Mumford | 2 | Songwriter |
-| | Ben Lovett | 2 | Songwriter |
-| | [Ricky Reed](../../producers/ricky_reed/overview.md) | 2 | Producer, Songwriter |
-| | Hayley Williams | 2 | Songwriter |
-| | Bullion | 2 | Producer |
-| | Neal Avron | 2 | Producer |
-| | Josh Mosser | 2 | Producer, Songwriter |
-| | Winston Marshall | 2 | Songwriter |
-| | Ruadhri Cushnan | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | Hozier | 2 | Arranger, Lyricist, Producer, Songwriter |
-| | Adam Hawkins | 1 | Producer |
-| | Mattman & Robin | 1 | Producer |
+| | Justin Meldal-Johnsen | 2 | Producer |
+| | Adrian Bushby | 2 | Producer |
+| | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 2 | Songwriter |
+| | Tommaso Colliva | 2 | Producer |
+| | Robin Pecknold | 2 | Lyricist, Songwriter |
+| | Winston Marshall | 2 | Songwriter |
+| | [Ricky Reed](../../producers/ricky_reed/overview.md) | 2 | Producer, Songwriter |
+| | Rob Kirwan | 2 | Producer |
+| | Hayley Williams | 2 | Songwriter |
+| | Chris Walla | 2 | Producer |
+| | Tom Elmhirst | 2 | Producer |
+| | Tyler Joseph | 2 | Lyricist, Producer, Songwriter |
+| | Alex da Kid | 2 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9dadab92d8236e846b16fe3a" alt="" width="50" /> | Mumford & Sons | 2 | Arranger |
+| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 2 | Lyricist, Songwriter |
+| | Benjamin Gibbard | 2 | Lyricist, Songwriter |
+| | Beau Sorenson | 2 | Producer |
+| | Ben Lovett | 2 | Songwriter |
+| | Neal Avron | 2 | Producer |
+| | Ted Dwane | 2 | Songwriter |
+| | Bullion | 2 | Producer |
+| | Ruadhri Cushnan | 2 | Producer |
+| | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 2 | Producer |
+| | Marcus Mumford | 2 | Songwriter |
+| | Josh Mosser | 2 | Producer, Songwriter |
+| | Nick Harmer | 1 | Songwriter |
+| | Jason Lader | 1 | Producer |
+| | Mattias Larsson | 1 | Songwriter |
+| | Charlie Hugall | 1 | Producer |
+| | Ragnar þórhallsson (Ragnar þórhallsson) | 1 | Songwriter |
+| | Justyn Pilbrow | 1 | Producer |
+| | Jim Adkins | 1 | Songwriter |
+| | Rick Rubin | 1 | Producer |
+| | Pete Min | 1 | Producer |
+| | Ali Helnwein | 1 | Arranger |
 | | Aron Arnarsson | 1 | Producer |
-| | Rush | 1 | Songwriter |
-| | John Cornfield | 1 | Producer |
+| | Adam Hawkins | 1 | Producer |
 | | Fabrizio Moretti | 1 | Songwriter |
+| | Joe Trohman | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | Chris Brown | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | Jimmy Eat World | 1 | Producer |
+| | Ric Peet | 1 | Producer |
+| | Gordon Raphael | 1 | Producer |
+| | Billy Bush | 1 | Producer |
 | | Nikolai Fraiture | 1 | Songwriter |
-| | Steve Mackey | 1 | Producer |
-| | Jason Lader | 1 | Producer |
-| | Rick Rubin | 1 | Producer |
-| | Francis White | 1 | Lyricist, Songwriter |
+| | Claudius Mittendorfer | 1 | Producer |
 | | Josh Diamond | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089" alt="" width="50" /> | The Strokes | 1 | Arranger |
 | | Andrew Scheps | 1 | Producer |
@@ -263,39 +271,31 @@
 | | Will Owen | 1 | Arranger |
 | | Taylor York | 1 | Producer, Songwriter |
 | | Joe Viers | 1 | Producer |
-| | Claudius Mittendorfer | 1 | Producer |
+| | Robin Fredriksson | 1 | Songwriter |
+| | Ben Baptie | 1 | Producer |
 | | Brian Degraw | 1 | Songwriter |
+| | Francis White | 1 | Lyricist, Songwriter |
 | | Rich Costey | 1 | Producer |
-| | Jim Adkins | 1 | Songwriter |
+| | Nick Valensi | 1 | Songwriter |
+| | Justin Tranter | 1 | Songwriter |
 | | Daniel Platzman | 1 | Songwriter |
 | | Mat Bartram | 1 | Producer |
-| | Ben Baptie | 1 | Producer |
-| | Billy Bush | 1 | Producer |
-| | Ali Helnwein | 1 | Arranger |
-| | Gordon Raphael | 1 | Producer |
-| | Mattias Larsson | 1 | Songwriter |
-| | Charlie Hugall | 1 | Producer |
-| | Ragnar þórhallsson (Ragnar þórhallsson) | 1 | Songwriter |
-| | Tyler Glenn | 1 | Songwriter |
-| | Pete Wentz | 1 | Songwriter |
-| | Andrew Kapner | 1 | Producer |
-| | Andy Hurley | 1 | Songwriter |
-| | Arnecia Michelle Harris | 1 | Songwriter |
-| | Matt Allchin | 1 | Songwriter |
-| | Pete Min | 1 | Producer |
-| | Pete Prokopiw | 1 | Producer |
-| | Patrick Stump | 1 | Songwriter |
-| | Dave Bayley | 1 | Songwriter |
-| | François Chevallier (Chevallier, François) | 1 | Producer |
-| | Chris Lord-Alge | 1 | Producer |
-| | David Bendeth | 1 | Producer |
-| | Jeremy Freedman | 1 | Songwriter |
-| | Josh Farro | 1 | Songwriter |
+| | Rush | 1 | Songwriter |
 | | Anthony B. Stephens | 1 | Songwriter |
 | | Rick Burch | 1 | Songwriter |
-| | Ric Peet | 1 | Producer |
-| | Joe Trohman | 1 | Songwriter |
-| | Nick Harmer | 1 | Songwriter |
+| | Pete Prokopiw | 1 | Producer |
+| | Chris Lord-Alge | 1 | Producer |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 1 | Producer |
+| | Mark Trombino | 1 | Producer |
+| | Leslie Bricusse | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7ef3783488fcf0dab0708970" alt="" width="50" /> | Fitz and The Tantrums | 1 | Songwriter |
+| | François Chevallier (Chevallier, François) | 1 | Producer |
+| | Jesse | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf29db93f7f6a72cbf5f96b59" alt="" width="50" /> | Young the Giant | 1 | Songwriter |
+| | Nanna Bryndís Hilmarsdóttir (Nanna Bryndís Hilmarsdóttir) | 1 | Songwriter |
+| | Dave Bayley | 1 | Songwriter |
+| | Mark "Top" Rankin | 1 | Producer |
+| | Toshikazu Yoshioka | 1 | Producer |
 
 </details>
 

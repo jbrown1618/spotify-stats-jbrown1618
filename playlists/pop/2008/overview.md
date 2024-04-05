@@ -23,9 +23,9 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6772690000c46c50e750d1aed632c37a450ffb" alt="" width="50" /> | 1 | 1 | Duffy | [🔗](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | 3 | 0 | [Taylor Swift](../../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3a49b0a3954e460a8a76ed90" alt="" width="50" /> | 2 | 0 | Britney Spears | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3a49b0a3954e460a8a76ed90" alt="" width="50" /> | 2 | 0 | [Britney Spears](../../../artists/britney_spears/overview.md) | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c44e078944196a8c1eec256" alt="" width="50" /> | 1 | 0 | Colby O'Donis | [🔗](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 1 | 0 | Adele | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 1 | 0 | [Adele](../../../artists/adele/overview.md) | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 1 | 0 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
 
 </details>
@@ -64,14 +64,14 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="" width="50" /> | Lucky | We Sing. We Dance. We Steal Things. | Jason Mraz, Colbie Caillat | [Atlantic Records/ATG](../../../labels/atlantic_records) | 618 | 💚 | [🔗](https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="" width="50" /> | Lucky | We Sing. We Dance. We Steal Things. | Jason Mraz, Colbie Caillat | [Atlantic Records/ATG](../../../labels/atlantic_records) | 624 | 💚 | [🔗](https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735da1093d047cc15eb66d27cf" alt="" width="50" /> | We All Need Saving | OK Now | Jon McLaughlin | Island Def Jam | nan | 💚 | [🔗](https://open.spotify.com/track/4Q9lPZNK2RB3ytuU1tCc1J) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27387c95c59b33bdfdafc25a813" alt="" width="50" /> | Mercy | Rockferry | Duffy | [Polydor Records](../../../labels/polydor_records) | nan | 💚 | [🔗](https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | Just Dance | The Fame | [Lady Gaga](../../../artists/lady_gaga/overview.md), Colby O'Donis | [Interscope](../../../labels/interscope_records) | nan | | [🔗](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | LoveGame | The Fame | [Lady Gaga](../../../artists/lady_gaga/overview.md) | [Interscope](../../../labels/interscope_records) | nan | 💚 | [🔗](https://open.spotify.com/track/0TcJ7QWpggdSg8t0fHThHm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | Paparazzi | The Fame | [Lady Gaga](../../../artists/lady_gaga/overview.md) | [Interscope](../../../labels/interscope_records) | nan | | [🔗](https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | Poker Face | The Fame | [Lady Gaga](../../../artists/lady_gaga/overview.md) | [Interscope](../../../labels/interscope_records) | nan | 💚 | [🔗](https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f407037aabc6dffe5abb3bf8" alt="" width="50" /> | Chasing Pavements | 19 | Adele | [XL Recordings](../../../labels/xl_recordings) | nan | | [🔗](https://open.spotify.com/track/71WAtDcWVYMoCsblD2uQXx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f407037aabc6dffe5abb3bf8" alt="" width="50" /> | Chasing Pavements | 19 | [Adele](../../../artists/adele/overview.md) | [XL Recordings](../../../labels/xl_recordings) | nan | | [🔗](https://open.spotify.com/track/71WAtDcWVYMoCsblD2uQXx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="" width="50" /> | I'm Yours | We Sing. We Dance. We Steal Things. | Jason Mraz | [Atlantic Records/ATG](../../../labels/atlantic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e" alt="" width="50" /> | Viva La Vida | Viva La Vida or Death and All His Friends | [Coldplay](../../../artists/coldplay/overview.md) | [Parlophone UK](../../../labels/parlophone_uk) | nan | 💚 | [🔗](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) |
 
@@ -91,8 +91,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Forever & Always | Fearless | [Taylor Swift](../../../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](../../../labels/big_machine_records) | nan | | [🔗](https://open.spotify.com/track/47HtKpfzpAt8rQjjXWotFj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Love Story | Fearless | [Taylor Swift](../../../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](../../../labels/big_machine_records) | nan | | [🔗](https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | You Belong With Me | Fearless | [Taylor Swift](../../../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](../../../labels/big_machine_records) | nan | | [🔗](https://open.spotify.com/track/3GCL1PydwsLodcpv0Ll1ch) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199" alt="" width="50" /> | If U Seek Amy | Circus (Deluxe Version) | Britney Spears | [Jive](../../../labels/jive) | nan | | [🔗](https://open.spotify.com/track/2hdy9Wt9qp7M7d0U3ossu2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199" alt="" width="50" /> | Womanizer | Circus (Deluxe Version) | Britney Spears | [Jive](../../../labels/jive) | nan | | [🔗](https://open.spotify.com/track/4fixebDZAVToLbUCuEloa2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199" alt="" width="50" /> | If U Seek Amy | Circus (Deluxe Version) | [Britney Spears](../../../artists/britney_spears/overview.md) | [Jive](../../../labels/jive) | nan | | [🔗](https://open.spotify.com/track/2hdy9Wt9qp7M7d0U3ossu2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199" alt="" width="50" /> | Womanizer | Circus (Deluxe Version) | [Britney Spears](../../../artists/britney_spears/overview.md) | [Jive](../../../labels/jive) | nan | | [🔗](https://open.spotify.com/track/4fixebDZAVToLbUCuEloa2) |
 
 </details>
 

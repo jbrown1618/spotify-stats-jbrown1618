@@ -79,11 +79,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6" alt="Sofa Silahlane" width="50" /> | Sofa Silahlane (0.531) | <img src="https://i.scdn.co/image/ab67616d0000b27314b31a0ac21c8645919204a8" alt="Ne reviens pas" width="50" /> | Ne reviens pas (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bb4e77f30c614c2a7b67b9d" alt="METAL GALAXY" width="50" /> | Shanti Shanti Shanti (0.318) | <img src="https://i.scdn.co/image/ab67616d0000b273ee7af6e271d04c728d8a47ba" alt="Bando" width="50" /> | Bando (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b835b4be5631a28c4725a14" alt="בשורות טובות" width="50" /> | בשורות טובות (0.211) | <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="Daisy 2.0 (feat. Hatsune Miku)" width="50" /> | Daisy 2.0 (feat. Hatsune Miku) (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | KARATE (0.172) | <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="青のすみか" width="50" /> | 青のすみか (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739792873842bcfa921ffceebf" alt="i&#x27;mperfect" width="50" /> | abnormalize (0.151) | <img src="https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2" alt="Traveler" width="50" /> | Pretender (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | A Rock Somewhere (feat. Anoushka Shankar & Varijashree Venugopal) (0.13) | <img src="https://i.scdn.co/image/ab67616d0000b273a2272c8966971b7b04066241" alt="CEREMONY" width="50" /> | 白日 (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ced33a22eacf5ead6169c3b0" alt="Cheater" width="50" /> | Like A Lady (0.125) | <img src="https://i.scdn.co/image/ab67616d0000b273e742841accccf949d7af1b75" alt="Racine Carrée (Standard US Version)" width="50" /> | Papaoutai (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | Headbangeeeeerrrrr!!!!! (0.0611) | <img src="https://i.scdn.co/image/ab67616d0000b2737eed64905d129d52667201f2" alt="DEJAYOU" width="50" /> | DEJAYOU (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | KARATE (0.172) | <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="CITIZENS" width="50" /> | Minefields (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739792873842bcfa921ffceebf" alt="i&#x27;mperfect" width="50" /> | abnormalize (0.151) | <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="青のすみか" width="50" /> | 青のすみか (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | A Rock Somewhere (feat. Anoushka Shankar & Varijashree Venugopal) (0.13) | <img src="https://i.scdn.co/image/ab67616d0000b2739c4ba827e585fabd3cfd90f2" alt="Traveler" width="50" /> | Pretender (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ced33a22eacf5ead6169c3b0" alt="Cheater" width="50" /> | Like A Lady (0.125) | <img src="https://i.scdn.co/image/ab67616d0000b273a2272c8966971b7b04066241" alt="CEREMONY" width="50" /> | 白日 (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | Headbangeeeeerrrrr!!!!! (0.0611) | <img src="https://i.scdn.co/image/ab67616d0000b273e742841accccf949d7af1b75" alt="Racine Carrée (Standard US Version)" width="50" /> | Papaoutai (0.0) |
 
 ## Liveness
 
@@ -117,7 +117,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7778a0dded534f3b95145e" alt="次の足跡 Type A &lt;初回限定盤&gt;" width="50" /> | 恋するフォーチュンクッキー (0.924) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | No Rain, No Rainbow (0.225) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f038f68827e437530b3a80a8" alt="BOOTLEG" width="50" /> | 砂の惑星 ( + 初音ミク ) (0.917) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | KARATE (0.23) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="Habit" width="50" /> | Habit (0.912) | <img src="https://i.scdn.co/image/ab67616d0000b2735900a9808de7e716bdd49526" alt="醒不来的梦" width="50" /> | 醒不来的梦 (0.238) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27348cbdef454b5636ee5ebeb34" alt="No title-" width="50" /> | No title (0.884) | <img src="https://i.scdn.co/image/ab67616d0000b27388ba123609044eff4466b67b" alt="改變自己" width="50" /> | 落葉歸根 (0.253) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348cbdef454b5636ee5ebeb34" alt="No title-" width="50" /> | No title (0.884) | <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="CITIZENS" width="50" /> | Minefields (0.243) |
 
 ## Tempo
 

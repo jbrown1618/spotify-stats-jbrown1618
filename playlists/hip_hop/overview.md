@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e020b1cfc3df4d9d5d4cbce9208ab67616d00001e0210356a0e81371e6644cb1371ab67616d00001e02c08d5fa5c0f1a834acef5100ab67616d00001e02c450c89d3eb750d3535b0a0c" alt="Hip Hop" width="100" />
 
-[48 tracks (25 liked) 🔗](https://open.spotify.com/playlist/7trD87dfibqZnzSIqufO75)
+[48 tracks (26 liked) 🔗](https://open.spotify.com/playlist/7trD87dfibqZnzSIqufO75)
 
 [See Track Features](audio_features.md)
 
@@ -13,10 +13,10 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 9 | 5 | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 9 | 6 | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | 5 | 4 | [Eminem](../../artists/eminem/overview.md) | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a" alt="" width="50" /> | 6 | 2 | Kanye West | [🔗](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a" alt="" width="50" /> | 2 | 2 | J. Cole | [🔗](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b053c29fd4b317ff825f0dc" alt="" width="50" /> | 2 | 2 | J. Cole | [🔗](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 2 | 2 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | 2 | 2 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e8a7e14e2f602eb9af24e31" alt="" width="50" /> | 2 | 2 | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
@@ -90,10 +90,10 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" alt="Kings Of Crunk" width="50" /> | Get Low | 328 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="Flockaveli" width="50" /> | No Hands (feat. Roscoe Dash & Wale) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="The Marshall Mathers LP2" width="50" /> | [The Monster](../../artists/eminem/overview.md) | 495 | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Can't Tell Me Nothing | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | [We Made You](../../artists/eminem/overview.md) | 616 | <img src="https://i.scdn.co/image/ab67616d0000b2735db09bde92cc685403d7068f" alt="Elephunk" width="50" /> | Where Is The Love? | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732b9aca3204e667980ce6a939" alt="BUBBA" width="50" /> | Go DJ (feat. SiR) | 708 | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="Recovery" width="50" /> | [Love The Way You Lie](../../artists/eminem/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" alt="Kings Of Crunk" width="50" /> | Get Low | 331 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="Flockaveli" width="50" /> | No Hands (feat. Roscoe Dash & Wale) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="The Marshall Mathers LP2" width="50" /> | [The Monster](../../artists/eminem/overview.md) | 500 | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Can't Tell Me Nothing | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | [We Made You](../../artists/eminem/overview.md) | 622 | <img src="https://i.scdn.co/image/ab67616d0000b2735db09bde92cc685403d7068f" alt="Elephunk" width="50" /> | Where Is The Love? | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732b9aca3204e667980ce6a939" alt="BUBBA" width="50" /> | Go DJ (feat. SiR) | 721 | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="Recovery" width="50" /> | [Love The Way You Lie](../../artists/eminem/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="Last Train To Paris" width="50" /> | Hello Good Morning | nan | <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Late Registration" width="50" /> | Gold Digger | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733eecc265c134153c14794aab" alt="Area Codes" width="50" /> | Area Codes | nan | <img src="https://i.scdn.co/image/ab67616d0000b273f82c7e4376cf8267fb396b7d" alt="Mack Daddy" width="50" /> | Baby Got Back | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="Rap Or Go To The League" width="50" /> | Momma I Hit A Lick (feat. Kendrick Lamar) | nan | <img src="https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30" alt="Watch The Throne" width="50" /> | Ni**as In Paris | nan |
@@ -107,7 +107,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | 3 | 2 | DAMN. | 2017-04-14 | [🔗](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | 3 | 3 | DAMN. | 2017-04-14 | [🔗](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | 2 | 2 | Mr. Morale & The Big Steppers | 2022-05-13 | [🔗](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="" width="50" /> | 1 | 1 | on the street (with J. Cole) | 2023-03-03 | [🔗](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="" width="50" /> | 1 | 1 | WAP (feat. Megan Thee Stallion) | 2020-08-07 | [🔗](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) |
@@ -169,7 +169,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 11 | 8 | [Aftermath](../../labels/aftermath/overview.md) |
+| 11 | 9 | [Aftermath](../../labels/aftermath/overview.md) |
 | 4 | 3 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 5 | 2 | Roc-A-Fella |
 | 4 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
@@ -227,11 +227,11 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 35 | 16 | [rap](../../genres/rap/overview.md) |
-| 28 | 13 | [hip hop](../../genres/hip_hop/overview.md) |
+| 35 | 17 | [rap](../../genres/rap/overview.md) |
+| 28 | 14 | [hip hop](../../genres/hip_hop/overview.md) |
+| 12 | 7 | conscious hip hop |
 | 9 | 7 | [pop](../../genres/pop/overview.md) |
-| 12 | 6 | conscious hip hop |
-| 8 | 5 | west coast rap |
+| 8 | 6 | west coast rap |
 | 6 | 5 | [dance pop](../../genres/dance_pop/overview.md) |
 | 15 | 4 | pop rap |
 | 4 | 4 | detroit hip hop |
@@ -284,16 +284,16 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | 4 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | 5 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | [Eminem](../../artists/eminem/overview.md) | 4 | Producer, Songwriter |
 | | [Sounwave](../../producers/sounwave/overview.md) | 4 | Producer, Songwriter, Arranger |
+| | Derek Ali | 3 | Producer |
 | | Mike Strange | 3 | Producer |
 | | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 3 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 2 | Songwriter |
-| | Derek Ali | 2 | Producer |
 | | Jordan Thorpe | 2 | Songwriter |
 | | Matt Schaeffer | 2 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/07b5316f828fe20d0efe0029797157f394ae7640" alt="" width="50" /> | Sir Mix-A-Lot | 2 | Songwriter, Arranger, Lyricist, Producer |
+| | Mike WiLL Made-It | 2 | Producer, Songwriter |
 
 
 <details>
@@ -301,18 +301,19 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Mike Dean | 2 | Producer, Arranger |
+| <img src="https://i.scdn.co/image/07b5316f828fe20d0efe0029797157f394ae7640" alt="" width="50" /> | Sir Mix-A-Lot | 2 | Songwriter, Arranger, Lyricist, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e8a7e14e2f602eb9af24e31" alt="" width="50" /> | Cardi B | 2 | Songwriter |
+| | [Marcos Tovar](../../producers/marcos_tovar/overview.md) | 2 | Producer |
 | | Andrew Dawson | 2 | Producer |
 | | OKLAMA | 2 | Producer |
 | | Anthony Kilhoffer | 2 | Producer |
 | | Tim Maxey | 2 | Producer, Songwriter |
-| | [Marcos Tovar](../../producers/marcos_tovar/overview.md) | 2 | Producer |
+| | Mike Dean | 2 | Producer, Arranger |
 | | J.LBS | 2 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | Nicki Minaj | 2 | Songwriter |
 | | Anthony Tiffith | 2 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a" alt="" width="50" /> | Kanye West | 2 | Producer, Songwriter |
-| | Jeff Bass | 1 | Producer, Songwriter |
+| | Fergie | 1 | Songwriter |
 | | Jeff Bhasker | 1 | Producer, Songwriter |
 | | Ron Fair | 1 | Arranger, Producer |
 | | Luis Resto | 1 | Producer, Songwriter |
@@ -338,7 +339,7 @@
 | | Bryce Bordone | 1 | Producer |
 | | Printz Board | 1 | Songwriter |
 | | Frank Ski | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a" alt="" width="50" /> | J. Cole | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b053c29fd4b317ff825f0dc" alt="" width="50" /> | J. Cole | 1 | Producer |
 | | Skylar Grey | 1 | Songwriter |
 | | Imad Royal | 1 | Producer, Songwriter |
 | | Jamal Jones | 1 | Songwriter |
@@ -364,24 +365,25 @@
 | | Ayo the Producer | 1 | Producer, Songwriter |
 | | Shawn "Source" Jarrett | 1 | Producer |
 | | Karl Rubin | 1 | Songwriter |
-| | Mike Fratantuno | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdb78fbd1c000f16792795648" alt="" width="50" /> | Zacari | 1 | Songwriter |
-| | Marcos Palacios | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | SZA | 1 | Songwriter |
+| | Mike Fratantuno | 1 | Songwriter |
+| | apl.de.ap | 1 | Songwriter |
 | | DJ Dahi | 1 | Producer |
 | | Johnny Kosich | 1 | Producer, Songwriter |
 | | J. Curtis | 1 | Songwriter |
-| | apl.de.ap | 1 | Songwriter |
+| | Ernest Clark | 1 | Songwriter |
 | | Hal David | 1 | Songwriter |
 | | Taj Tilghman | 1 | Producer |
 | | Al Shux | 1 | Producer, Songwriter |
-| | Ernest Clark | 1 | Songwriter |
+| | Tommy Danvers | 1 | Producer |
 | | Jake Kosich | 1 | Songwriter |
 | | Teddy Walton | 1 | Producer, Songwriter |
 | | George Pajon, Jr. | 1 | Songwriter |
-| | Tommy Danvers | 1 | Producer |
+| | Aldrin Davis | 1 | Songwriter |
 | | Drumma Boy | 1 | Producer |
 | | Sky Adams | 1 | Producer, Songwriter |
-| | Aldrin Davis | 1 | Songwriter |
+| | Jeff Bass | 1 | Producer, Songwriter |
 | | Noah Goldstein | 1 | Producer |
 | | Steve King | 1 | Producer |
 | | Ken Lewis | 1 | Arranger |
@@ -389,8 +391,6 @@
 | | DJ Toomp | 1 | Producer |
 | | Kevin Gomringer | 1 | Songwriter |
 | | Burt Bacharach | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | SZA | 1 | Songwriter |
-| | James Hunt | 1 | Producer |
 
 </details>
 

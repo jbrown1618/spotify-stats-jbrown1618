@@ -5,17 +5,17 @@
 | Credit Type | Tracks |
 |:---|---:|
 | Arranger | 1 |
-| Lyricist | 4 |
+| Lyricist | 5 |
 | Performer | 2 |
-| Producer | 8 |
-| Songwriter | 15 |
-| Vocal | 9 |
+| Producer | 9 |
+| Songwriter | 16 |
+| Vocal | 10 |
 
 ## Produces for Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 14 | 14 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 15 | 15 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | 2 | 2 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | 1 | 1 | Iggy Azalea | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | 1 | 1 | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
@@ -26,14 +26,14 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| ILYA | [ILYA](../ilya/overview.md) | 9 |
-| Serban Ghenea | [Serban Ghenea](../serban_ghenea/overview.md) | 9 |
-| Max Martin | [Max Martin](../max_martin/overview.md) | 8 |
-| Sam Holland | [Sam Holland](../sam_holland/overview.md) | 6 |
+| Serban Ghenea | [Serban Ghenea](../serban_ghenea/overview.md) | 10 |
+| ILYA | [ILYA](../ilya/overview.md) | 10 |
+| Max Martin | [Max Martin](../max_martin/overview.md) | 9 |
+| Sam Holland | [Sam Holland](../sam_holland/overview.md) | 7 |
 | Savan Kotecha | Savan Kotecha | 6 |
-| Lou Carrao | Lou Carrao | 3 |
+| Bryce Bordone | Bryce Bordone | 4 |
+| Lou Carrao | Lou Carrao | 4 |
 | TBHits | TBHits | 3 |
-| Bryce Bordone | Bryce Bordone | 3 |
 | Billy Hickey | Billy Hickey | 3 |
 | John Hanes | [John Hanes](../john_hanes/overview.md) | 2 |
 
@@ -49,23 +49,23 @@
 | Peter Svensson | Peter Svensson | 2 |
 | Victoria Monét | Victoria Monét (Victoria Monét) | 2 |
 | Justin Bieber | Justin Bieber | 1 |
-| Shellback | [Shellback](../shellback/overview.md) | 1 |
-| Scootie | Scootie | 1 |
-| Devin Nakao | Devin Nakao | 1 |
-| Noah Passovoy | Noah Passovoy | 1 |
 | Oscar Hammerstein II | Oscar Hammerstein II | 1 |
+| Scootie | Scootie | 1 |
+| Alexander Kronlund | Alexander Kronlund | 1 |
+| Devin Nakao | Devin Nakao | 1 |
 | Joe Gallagher | Joe Gallagher | 1 |
+| Noah Passovoy | Noah Passovoy | 1 |
 | Lionel Crasta | Lionel Crasta | 1 |
 | Jameel Roberts | Jameel Roberts | 1 |
+| Shellback | [Shellback](../shellback/overview.md) | 1 |
 | Peter Kahm | Peter Kahm | 1 |
 | Pop Wansel | Pop Wansel | 1 |
 | Angelina Barrett | Angelina Barrett | 1 |
 | Josh Gudwin | [Josh Gudwin](../josh_gudwin/overview.md) | 1 |
-| Alexander Kronlund | Alexander Kronlund | 1 |
 | Priscilla Renea | Priscilla Renea | 1 |
-| Rafael Fadul | Rafael Fadul | 1 |
+| Jason Evigan | Jason Evigan | 1 |
 | Gregg Rominiecki | Gregg Rominiecki | 1 |
-| Scooter Braun | Scooter Braun | 1 |
+| Richard Rodgers | Richard Rodgers | 1 |
 | Happy Perez | Happy Perez | 1 |
 | Nicki Minaj | Nicki Minaj | 1 |
 | Michael "Mikey" Foster | Michael "Mikey" Foster | 1 |
@@ -73,15 +73,17 @@
 | Davide Rossi | Davide Rossi | 1 |
 | Brian Vincent Bates | Brian Vincent Bates | 1 |
 | Njomza | Njomza | 1 |
-| Richard Rodgers | Richard Rodgers | 1 |
-| Freddy Wexler | Freddy Wexler | 1 |
+| Scooter Braun | Scooter Braun | 1 |
 | Peter Carlsson | Peter Carlsson | 1 |
+| Rafael Fadul | Rafael Fadul | 1 |
 | Skyler Stonestreet | Skyler Stonestreet | 1 |
+| DaviDior | DaviDior | 1 |
+| Shintaro Yasuda | Shintaro Yasuda | 1 |
 | Whitney Phillips | Whitney Phillips | 1 |
 | Mr. Franks | Mr. Franks | 1 |
 | Kaydence | Kaydence | 1 |
 | London on da Track | London on da Track | 1 |
-| Jason Evigan | Jason Evigan | 1 |
+| Freddy Wexler | Freddy Wexler | 1 |
 | Gian Stone | Gian Stone | 1 |
 
 </details>
@@ -102,6 +104,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | 7 rings | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732babb9dbd8f5146112f1bf86" alt="" width="50" /> | Stuck with U (with Justin Bieber) | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | positions | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | the boy is mine | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | we can't be friends (wait for your love) | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | yes, and? | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | imperfect for you | Lyricist, Producer, Songwriter |

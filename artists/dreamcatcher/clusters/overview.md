@@ -8,7 +8,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273787a8631e249c68889453f86" alt="" width="50" /> | Odd Eye | [Dystopia : Road to Utopia] | [Dreamcatcher](../../overview.md) | [DREAMCATCHER COMPANY](../../../../labels/dreamcatcher_company) | 529 | 💚 | [🔗](https://open.spotify.com/track/1RtlbxsPpDBsHHmGTb7ah2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273787a8631e249c68889453f86" alt="" width="50" /> | Odd Eye | [Dystopia : Road to Utopia] | [Dreamcatcher](../../overview.md) | [DREAMCATCHER COMPANY](../../../../labels/dreamcatcher_company) | 524 | 💚 | [🔗](https://open.spotify.com/track/1RtlbxsPpDBsHHmGTb7ah2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | MAISON | [Apocalypse : Save us] | [Dreamcatcher](../../overview.md) | [DREAMCATCHER COMPANY](../../../../labels/dreamcatcher_company) | nan | 💚 | [🔗](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="" width="50" /> | VISION | [Apocalypse : Follow us] | [Dreamcatcher](../../overview.md) | [DREAMCATCHER COMPANY](../../../../labels/dreamcatcher_company) | nan | 💚 | [🔗](https://open.spotify.com/track/1nmc8ngLcvccw7Lay5v5SP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a95bc64165227445ad40054" alt="" width="50" /> | DEMIAN | [Apocalypse : From us] | [Dreamcatcher](../../overview.md) | [DREAMCATCHER COMPANY](../../../../labels/dreamcatcher_company) | nan | | [🔗](https://open.spotify.com/track/2k2stGWMSU85UayvEGlm5W) |
@@ -20,10 +20,10 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273107ade016c96b4769c200bc4" alt="" width="50" /> | Red Sun | 1st Album [Dystopia : The Tree of Language] | [Dreamcatcher](../../overview.md) | [Dreamcatcher Company](../../../../labels/dreamcatcher_company) | 423 | 💚 | [🔗](https://open.spotify.com/track/0WXmPCkeeLjpTddcBI98GV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273107ade016c96b4769c200bc4" alt="" width="50" /> | Jazz Bar | 1st Album [Dystopia : The Tree of Language] | [Dreamcatcher](../../overview.md) | [Dreamcatcher Company](../../../../labels/dreamcatcher_company) | 554 | 💚 | [🔗](https://open.spotify.com/track/5XVjj6hJTWgYiDx72Wo5QS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273107ade016c96b4769c200bc4" alt="" width="50" /> | Red Sun | 1st Album [Dystopia : The Tree of Language] | [Dreamcatcher](../../overview.md) | [Dreamcatcher Company](../../../../labels/dreamcatcher_company) | 426 | 💚 | [🔗](https://open.spotify.com/track/0WXmPCkeeLjpTddcBI98GV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273107ade016c96b4769c200bc4" alt="" width="50" /> | Jazz Bar | 1st Album [Dystopia : The Tree of Language] | [Dreamcatcher](../../overview.md) | [Dreamcatcher Company](../../../../labels/dreamcatcher_company) | 529 | 💚 | [🔗](https://open.spotify.com/track/5XVjj6hJTWgYiDx72Wo5QS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | Locked Inside A Door | [Apocalypse : Save us] | [Dreamcatcher](../../overview.md) | [DREAMCATCHER COMPANY](../../../../labels/dreamcatcher_company) | nan | | [🔗](https://open.spotify.com/track/3MIXS3voZb2QFTnjKeYVT6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27331b95b252ae186111fb347d8" alt="" width="50" /> | Sleep-walking | Prequel | [Dreamcatcher](../../overview.md) | 해피페이스 엔터테인먼트 | 669 | 💚 | [🔗](https://open.spotify.com/track/5PYR7g3AmuYE5Yaay7s3us) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27331b95b252ae186111fb347d8" alt="" width="50" /> | Sleep-walking | Prequel | [Dreamcatcher](../../overview.md) | 해피페이스 엔터테인먼트 | 679 | 💚 | [🔗](https://open.spotify.com/track/5PYR7g3AmuYE5Yaay7s3us) |
 ## Cluster #3
 
 4 tracks

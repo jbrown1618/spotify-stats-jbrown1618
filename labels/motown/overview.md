@@ -15,7 +15,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | 5 | 3 | Stevie Wonder | [🔗](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) |
+| <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | 5 | 4 | Stevie Wonder | [🔗](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) |
 | <img src="https://i.scdn.co/image/19f768d93f6c80f7d4ca5b906e1c0376a3704389" alt="" width="50" /> | 5 | 1 | The Jackson 5 | [🔗](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec212a39ffa4182a0fff4e3c" alt="" width="50" /> | 4 | 1 | The Temptations | [🔗](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | 2 | 1 | Commodores | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
@@ -36,12 +36,12 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="" width="50" /> | 1 | 1 | The Temptations Sing Smokey | 1965-03-22 | [🔗](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="" width="50" /> | 1 | 1 | The Definitive Collection | 2002-10-29 | [🔗](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317f9e7e7784ed40b223e261c" alt="" width="50" /> | 1 | 1 | Street Songs (Deluxe Edition) | 1981-04-07 | [🔗](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="" width="50" /> | 1 | 1 | Songs In The Key Of Life | 1976-09-28 | [🔗](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b" alt="" width="50" /> | 1 | 1 | Signed, Sealed And Delivered | 1970-08-07 | [🔗](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="" width="50" /> | 1 | 1 | Mary Wells Sings My Guy | 1964 | [🔗](https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8ab1a548312b79ac955266" alt="" width="50" /> | 1 | 1 | Innervisions | 1973-08-03 | [🔗](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737028679269dc6a5a29ce8f36" alt="" width="50" /> | 1 | 1 | FATHER OF 4 | 2019-02-22 | [🔗](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" alt="" width="50" /> | 1 | 1 | Diana Ross Presents The Jackson 5 | 1969-12-18 | [🔗](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739173e50e99bdea2400222f02" alt="" width="50" /> | 1 | 0 | United | 1967-08-29 | [🔗](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) |
 
 
 <details>
@@ -49,8 +49,8 @@ Appears as:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2739173e50e99bdea2400222f02" alt="" width="50" /> | 1 | 0 | United | 1967-08-29 | [🔗](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27320112a0321d2efc7384db456" alt="" width="50" /> | 1 | 0 | Third Album | 1970-09-08 | [🔗](https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="" width="50" /> | 1 | 0 | Songs In The Key Of Life | 1976-09-28 | [🔗](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="" width="50" /> | 1 | 0 | Meet The Temptations | 1964 | [🔗](https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f0a26e4100c490bc384003" alt="" width="50" /> | 1 | 0 | Let's Get It On | 1973-08-28 | [🔗](https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fe161ba4859b25909bcc24a" alt="" width="50" /> | 1 | 0 | Jackson Five Christmas Album | 1970-01-01 | [🔗](https://open.spotify.com/album/6J7kk80VywP59lPn8E5Cal) |
@@ -70,8 +70,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 21 | 8 | [soul](../../genres/soul/overview.md) |
-| 21 | 8 | motown |
+| 21 | 9 | [soul](../../genres/soul/overview.md) |
+| 21 | 9 | motown |
 | 8 | 2 | classic soul |
 | 6 | 2 | quiet storm |
 | 3 | 2 | funk |
@@ -107,7 +107,7 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | Stevie Wonder | 3 | Arranger, Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | Stevie Wonder | 4 | Arranger, Lyricist, Producer, Songwriter |
 | | Berry Gordy | 2 | Songwriter |
 | | Smokey Robinson | 2 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb628143c3dd14fc995f925d56" alt="" width="50" /> | Offset | 1 | Lyricist, Songwriter |
@@ -167,7 +167,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27308a0fe33e91b991d2c9c9cde" alt="" width="50" /> | I Saw Mommy Kissing Santa Claus | Christmas Album | The Jackson 5 | [MOTOWN](.), [UNI](../uni) | nan | | [🔗](https://open.spotify.com/track/15sxLiiChE5dCW3Y756oas) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8ab1a548312b79ac955266" alt="" width="50" /> | Higher Ground | Innervisions | Stevie Wonder | [Motown](.) | nan | 💚 | [🔗](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f0a26e4100c490bc384003" alt="" width="50" /> | Let's Get It On | Let's Get It On | Marvin Gaye | [Motown](.) | nan | | [🔗](https://open.spotify.com/track/627teoJpK7qZOxRRY8TNnv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="" width="50" /> | Isn't She Lovely | Songs In The Key Of Life | Stevie Wonder | [MOTOWN](.), [UNI](../uni) | nan | | [🔗](https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="" width="50" /> | Isn't She Lovely | Songs In The Key Of Life | Stevie Wonder | [MOTOWN](.), [UNI](../uni) | nan | 💚 | [🔗](https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="" width="50" /> | Brick House | Commodores | Commodores | [Motown](.) | nan | | [🔗](https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="" width="50" /> | Easy | Commodores | Commodores | [Motown](.) | nan | 💚 | [🔗](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317f9e7e7784ed40b223e261c" alt="" width="50" /> | Super Freak | Street Songs (Deluxe Edition) | Rick James | [Motown](.) | nan | 💚 | [🔗](https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca) |

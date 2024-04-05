@@ -32,7 +32,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="The Fame Monster (Deluxe Edition)" width="50" /> | Bad Romance (0.921) | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="Tangled" width="50" /> | When Will My Life Begin? - From "Tangled" / Soundtrack Version (0.42) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27306ce0d1f846c525e847d60e7" alt="Believe" width="50" /> | Believe (0.917) | <img src="https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1" alt="Joanne (Deluxe)" width="50" /> | Million Reasons (0.423) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ff8bc258e3ebc835ffe14ca" alt="Save Me, San Francisco (Golden Gate Edition)" width="50" /> | Hey, Soul Sister (0.886) | <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="We Sing. We Dance. We Steal Things." width="50" /> | I'm Yours (0.444) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="Future Nostalgia" width="50" /> | Levitating (0.884) | <img src="https://i.scdn.co/image/ab67616d0000b273f4c4ee507c2558262869f415" alt="Cassie (U.S. Version)" width="50" /> | Me & U (0.454) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f77cbbb100e98c8995dccba6" alt="Celebration (Bonus Track Version)" width="50" /> | Material Girl (0.883) | <img src="https://i.scdn.co/image/ab67616d0000b273f4c4ee507c2558262869f415" alt="Cassie (U.S. Version)" width="50" /> | Me & U (0.454) |
 
 ## Speechiness
 
@@ -117,7 +117,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="Finesse (Remix) [feat. Cardi B]" width="50" /> | Finesse - Remix; feat. Cardi B (0.926) | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> | I Thought She Knew (0.198) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4" alt="In The Zone" width="50" /> | Toxic (0.924) | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="Who You Are (Platinum Edition)" width="50" /> | Who You Are (0.215) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="Future Nostalgia" width="50" /> | Levitating (feat. DaBaby) (0.915) | <img src="https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199" alt="Circus (Deluxe Version)" width="50" /> | Womanizer (0.235) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="Future Nostalgia" width="50" /> | Levitating (0.914) | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="Camila" width="50" /> | Never Be the Same (0.243) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | 777 (0.909) | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="Camila" width="50" /> | Never Be the Same (0.243) |
 
 ## Tempo
 

@@ -20,14 +20,14 @@ STAYC:
 
 ## Artist Rank
 STAYC is currently:
-- The #29 artist of the last month
-- The #22 artist of the last 6 months
-- The #14 artist of all time
+- The #31 artist of the last month
+- The #24 artist of the last 6 months
+- The #15 artist of all time
 
 ![Rank of STAYC over time](../../images/artists/stayc/rank_time_series.png)
 ## Top Tracks
 
-- Bubble is the #24 track of the last 6 months
+- Bubble is the #28 track of the last 6 months
 
 ### Top tracks, aggregated
 
@@ -43,7 +43,7 @@ STAYC is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 6 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 6 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e026f248f7695eb544a3a1955c5ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e028acb7bac073f378d59bf228eab67616d00001e02b3be3b970fc89a02f301c9da" alt="" width="50" /> | 4 | [Workout](../../playlists/workout/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e021c1ea5bfa5680ac877acdd55ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 4 | [Chill](../../playlists/chill/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022c0252c4e4a988f024e4d262ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 4 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://wrapped-images.spotifycdn.com/image/yts-2023/default/your-top-songs-2023_DEFAULT_en.jpg" alt="" width="50" /> | 3 | [Your Top Songs 2023](../../playlists/your_top_songs_2023/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e021544041d0285585cc92c2709ab67616d00001e0235cdd6d3f5815afac043758eab67616d00001e02714e56679ab196354e2e443eab67616d00001e0282f9c612adc8bc8d1d62461a" alt="" width="50" /> | 3 | [애교！](../../playlists/애교！/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02830de2e836036f181df598d0ab67616d00001e02af2fda9fb591d43c355c2ac3ab67616d00001e02cc6f76f75551af499b5cd0cbab67616d00001e02da343b21617aac0c57e332bb" alt="" width="50" /> | 2 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
@@ -127,12 +127,12 @@ STAYC is currently:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | Bubble | TEENFRESH | [STAYC](overview.md) | [High Up Entertainment](../../labels/high_up_entertainment) | 81 | 💚 | [🔗](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="" width="50" /> | POPPY - Japanese Ver. | POPPY (Japanese Ver.) | [STAYC](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 121 | 💚 | [🔗](https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | ﻿Not Like You | TEENFRESH | [STAYC](overview.md) | [High Up Entertainment](../../labels/high_up_entertainment) | 188 | 💚 | [🔗](https://open.spotify.com/track/1HnJhU3MhAnRQzdkFm6xQr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bc125f40131dd5869b2ec36c" alt="" width="50" /> | SO BAD | Star To A Young Culture | [STAYC](overview.md) | [High Up Entertainment](../../labels/high_up_entertainment) | 224 | 💚 | [🔗](https://open.spotify.com/track/13KR2yNRDrbKwR3dOKCDl4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ea860a3e6904b875629d672" alt="" width="50" /> | BUTTERFLY | YOUNG-LUV.COM | [STAYC](overview.md) | [High Up Entertainment](../../labels/high_up_entertainment) | 349 | 💚 | [🔗](https://open.spotify.com/track/1q97NRLZfQlXYvZJAQ7tln) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="" width="50" /> | Teddy Bear | Teddy Bear | [STAYC](overview.md) | [High Up Entertainment](../../labels/high_up_entertainment) | 432 | 💚 | [🔗](https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ea860a3e6904b875629d672" alt="" width="50" /> | RUN2U | YOUNG-LUV.COM | [STAYC](overview.md) | [High Up Entertainment](../../labels/high_up_entertainment) | 499 | 💚 | [🔗](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735c1dca4c993850471d5d8f14" alt="" width="50" /> | STEREOTYPE | STEREOTYPE | [STAYC](overview.md) | [High Up Entertainment](../../labels/high_up_entertainment) | 511 | 💚 | [🔗](https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | ﻿Not Like You | TEENFRESH | [STAYC](overview.md) | [High Up Entertainment](../../labels/high_up_entertainment) | 189 | 💚 | [🔗](https://open.spotify.com/track/1HnJhU3MhAnRQzdkFm6xQr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bc125f40131dd5869b2ec36c" alt="" width="50" /> | SO BAD | Star To A Young Culture | [STAYC](overview.md) | [High Up Entertainment](../../labels/high_up_entertainment) | 226 | 💚 | [🔗](https://open.spotify.com/track/13KR2yNRDrbKwR3dOKCDl4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ea860a3e6904b875629d672" alt="" width="50" /> | BUTTERFLY | YOUNG-LUV.COM | [STAYC](overview.md) | [High Up Entertainment](../../labels/high_up_entertainment) | 355 | 💚 | [🔗](https://open.spotify.com/track/1q97NRLZfQlXYvZJAQ7tln) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733" alt="" width="50" /> | Teddy Bear | Teddy Bear | [STAYC](overview.md) | [High Up Entertainment](../../labels/high_up_entertainment) | 436 | 💚 | [🔗](https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ea860a3e6904b875629d672" alt="" width="50" /> | RUN2U | YOUNG-LUV.COM | [STAYC](overview.md) | [High Up Entertainment](../../labels/high_up_entertainment) | 502 | 💚 | [🔗](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c1dca4c993850471d5d8f14" alt="" width="50" /> | STEREOTYPE | STEREOTYPE | [STAYC](overview.md) | [High Up Entertainment](../../labels/high_up_entertainment) | 513 | 💚 | [🔗](https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | ASAP | STAYDOM | [STAYC](overview.md) | [High Up Entertainment](../../labels/high_up_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | LOVE FOOL | STAYDOM | [STAYC](overview.md) | [High Up Entertainment](../../labels/high_up_entertainment) | nan | | [🔗](https://open.spotify.com/track/2OhOkew9BkkLTGBG9cFOz5) |
 

@@ -1,9 +1,9 @@
 # Jazz
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d00001e02068a5559744d17bd5e871740ab67616d00001e02a1113af3a19a41dc8eec534eab67616d00001e02ca96a3471c3cb5128e64195fab67616d00001e02cb81eb3c1238c60f2bbfd3b5" alt="Jazz" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d00001e02792cd65d020fd66224b5b025ab67616d00001e02807cc4e6a97c1a67c8b69803ab67616d00001e02a1113af3a19a41dc8eec534eab67616d00001e02cb81eb3c1238c60f2bbfd3b5" alt="Jazz" width="100" />
 
-[99 tracks (30 liked) 🔗](https://open.spotify.com/playlist/58yLhLYn4iDQPCN53MfiDI)
+[100 tracks (30 liked) 🔗](https://open.spotify.com/playlist/58yLhLYn4iDQPCN53MfiDI)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 42 artists</summary>
+<summary>See all 44 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -57,8 +57,10 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb714fcc98a53a73bdcc537200" alt="" width="50" /> | 1 | 0 | Cécile McLorin Salvant | [🔗](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb365984489dac7a79eac204e3" alt="" width="50" /> | 1 | 0 | Meghan Trainor | [🔗](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe86f788af4e127154da1257f" alt="" width="50" /> | 1 | 0 | Bonnie Raitt | [🔗](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6be533248c7e096ab0119387" alt="" width="50" /> | 1 | 0 | Mndsgn | [🔗](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) |
 | <img src="https://i.scdn.co/image/6e6382aacddd7daad02fe915b77644798884c9e5" alt="" width="50" /> | 1 | 0 | Randy Waldman | [🔗](https://open.spotify.com/artist/4DoFQoqKcSPw8CSzyh7trt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c1b4f6daa33cab6310c0035" alt="" width="50" /> | 1 | 0 | Lianne La Havas | [🔗](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe07fdc10170ec7e5973ad565" alt="" width="50" /> | 1 | 0 | Sofie Royer | [🔗](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb716f61b47a89c749e686ce3a" alt="" width="50" /> | 1 | 0 | dodie | [🔗](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb45dd470659deedf47618968e" alt="" width="50" /> | 1 | 0 | Stan Getz | [🔗](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) |
 | <img src="https://i.scdn.co/image/e0fcfb2e4dbb9cb9c408ba7fad9bdd3526ef6ed8" alt="" width="50" /> | 1 | 0 | Wes Montgomery | [🔗](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) |
@@ -80,16 +82,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Tetris Theme A (From "Tetris")](../../artists/the_8-bit_big_band/overview.md) | 235 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="Inner Motion" width="50" /> | South East Quarter | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="Billie Holiday" width="50" /> | I'll Be Seeing You | 312 | <img src="https://i.scdn.co/image/ab67616d0000b2732def9ef3f6a82c8d6fd8c143" alt="Duke Ellington &amp; John Coltrane" width="50" /> | In A Sentimental Mood | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [He Won't Hold You (feat. Rapsody)](../../artists/jacob_collier/overview.md) | 361 | <img src="https://i.scdn.co/image/ab67616d0000b273bcaf6f097b310e20504f2de0" alt="Chet Baker Sings" width="50" /> | I Fall In Love Too Easily | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="The Great American Songbook" width="50" /> | Mack the Knife | 373 | <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="Ella: The Legendary Decca Recordings" width="50" /> | Dream A Little Dream Of Me | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="Solitude" width="50" /> | Blue Moon | 401 | <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Still Alive (From "Portal")](../../artists/the_8-bit_big_band/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [Running Outta Love (feat. Tori Kelly)](../../artists/jacob_collier/overview.md) | 474 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="Inner Motion" width="50" /> | Coconut Roads | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="Djesse Vol. 1" width="50" /> | [Every Little Thing She Does Is Magic](../../artists/jacob_collier/overview.md) | 480 | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | [The Way You Look Tonight](../../artists/frank_sinatra/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="Djesse Vol. 2" width="50" /> | [Moon River](../../artists/jacob_collier/overview.md) | 564 | <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="Djesse Vol. 2" width="50" /> | [Here Comes The Sun (feat. dodie)](../../artists/jacob_collier/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Tetris Theme A (From "Tetris")](../../artists/the_8-bit_big_band/overview.md) | 238 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="Inner Motion" width="50" /> | South East Quarter | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="Billie Holiday" width="50" /> | I'll Be Seeing You | 315 | <img src="https://i.scdn.co/image/ab67616d0000b2732def9ef3f6a82c8d6fd8c143" alt="Duke Ellington &amp; John Coltrane" width="50" /> | In A Sentimental Mood | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [He Won't Hold You (feat. Rapsody)](../../artists/jacob_collier/overview.md) | 366 | <img src="https://i.scdn.co/image/ab67616d0000b273bcaf6f097b310e20504f2de0" alt="Chet Baker Sings" width="50" /> | I Fall In Love Too Easily | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="The Great American Songbook" width="50" /> | Mack the Knife | 378 | <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="Ella: The Legendary Decca Recordings" width="50" /> | Dream A Little Dream Of Me | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="Solitude" width="50" /> | Blue Moon | 406 | <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Still Alive (From "Portal")](../../artists/the_8-bit_big_band/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [Running Outta Love (feat. Tori Kelly)](../../artists/jacob_collier/overview.md) | 482 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="Inner Motion" width="50" /> | Coconut Roads | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="Djesse Vol. 1" width="50" /> | [Every Little Thing She Does Is Magic](../../artists/jacob_collier/overview.md) | 486 | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | [The Way You Look Tonight](../../artists/frank_sinatra/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="Djesse Vol. 2" width="50" /> | [Moon River](../../artists/jacob_collier/overview.md) | 568 | <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="Djesse Vol. 2" width="50" /> | [Here Comes The Sun (feat. dodie)](../../artists/jacob_collier/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="At Last!" width="50" /> | Stormy Weather | 577 | <img src="https://i.scdn.co/image/ab67616d0000b27372fb9383a4e394271146d94c" alt="Breakfast on the Morning Tram" width="50" /> | Breakfast on the Morning Tram | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="The Complete Ella And Louis On Verve" width="50" /> | Cheek To Cheek | 582 | <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> | [Someday (feat. Meghan Trainor)](../../artists/michael_bublé/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="The Complete Ella And Louis On Verve" width="50" /> | Cheek To Cheek | 586 | <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> | [Someday (feat. Meghan Trainor)](../../artists/michael_bublé/overview.md) | nan |
 
 </details>
 
@@ -110,7 +112,7 @@
 
 
 <details>
-<summary>See all 58 albums</summary>
+<summary>See all 59 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -142,6 +144,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="" width="50" /> | 1 | 0 | Songs For Swingin' Lovers! (Remastered) | 1956-03 | [🔗](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd7d4673627a7674f0103c1d" alt="" width="50" /> | 1 | 0 | Solo Monk (Expanded Edition) | 1964 | [🔗](https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="" width="50" /> | 1 | 0 | Solitude | 1956-01-01 | [🔗](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f018a687cc12aa41e7b4cd80" alt="" width="50" /> | 1 | 0 | Sofie's SOS Tape | 2016-12-16 | [🔗](https://open.spotify.com/album/4HSL9qNMgDUNQFngd3ODit) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd1ea8639de6d3f827fba218" alt="" width="50" /> | 1 | 0 | Satchmo Serenades | 1952-04-01 | [🔗](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27302400024139ed6d658f812f9" alt="" width="50" /> | 1 | 0 | SONGBOOK | 2019-12-11 | [🔗](https://open.spotify.com/album/2UwPx0FeKzZKO8c0fQDwg8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="" width="50" /> | 1 | 0 | Romance | 2021-02-12 | [🔗](https://open.spotify.com/album/5MuNxtOyex8o77Qdjaqeng) |
@@ -185,7 +188,7 @@
 
 
 <details>
-<summary>See all 31 labels</summary>
+<summary>See all 32 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -203,6 +206,7 @@
 | 3 | 0 | Blue Note Records |
 | 1 | 0 | Verve |
 | 1 | 0 | [UME - Global Clearing House](../../labels/ume_-_global_clearing_house/overview.md) |
+| 1 | 0 | Stones Throw Records |
 | 1 | 0 | Private Curve |
 | 1 | 0 | Prestige |
 | 1 | 0 | Original Jazz Classics |
@@ -233,7 +237,7 @@
 
 
 <details>
-<summary>See all 50 genres</summary>
+<summary>See all 55 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -262,12 +266,16 @@
 | 2 | 0 | quiet storm |
 | 2 | 0 | jazz saxophone |
 | 2 | 0 | disco |
+| 1 | 0 | wonky |
+| 1 | 0 | synth funk |
 | 1 | 0 | [soft rock](../../genres/soft_rock/overview.md) |
 | 1 | 0 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 1 | 0 | samba-jazz |
 | 1 | 0 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 1 | 0 | latin jazz |
 | 1 | 0 | jazz guitar |
+| 1 | 0 | instrumental hip hop |
+| 1 | 0 | indie soul |
 | 1 | 0 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 1 | 0 | hard bop |
 | 1 | 0 | free jazz |
@@ -277,6 +285,7 @@
 | 1 | 0 | country rock |
 | 1 | 0 | bossa nova |
 | 1 | 0 | african-american classical |
+| 1 | 0 | abstract beats |
 
 </details>
 
@@ -366,5 +375,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="Djesse Vol. 1" width="50" /> | Djesse Vol. 1 (2018-12-07) | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="Songs For Swingin&#x27; Lovers! (Remastered)" width="50" /> | Songs For Swingin' Lovers! (Remastered) (1956-03) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="love (Deluxe Edition)" width="50" /> | love (Deluxe Edition) (2018-11-16) | <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="Billie Holiday" width="50" /> | Billie Holiday (1957-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734024c75e846d1e13a4c70e0e" alt="Db in April" width="50" /> | Db in April (2018-04-24) | <img src="https://i.scdn.co/image/ab67616d0000b273611ea3fb281f7956ffd33b77" alt="Blue Train" width="50" /> | Blue Train (1957-11-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> | Nobody but Me (2016-10-21) | <img src="https://i.scdn.co/image/ab67616d0000b273ab2083ab4b97f7948ff163a1" alt="Relaxin&#x27; With The Miles Davis Quintet" width="50" /> | Relaxin' With The Miles Davis Quintet (1958) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27343c7453d0338f82a05464751" alt="In My Room" width="50" /> | In My Room (2016-07-01) | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Expanded Edition)" width="50" /> | Come Fly With Me (Expanded Edition) (1958) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f018a687cc12aa41e7b4cd80" alt="Sofie&#x27;s SOS Tape" width="50" /> | Sofie's SOS Tape (2016-12-16) | <img src="https://i.scdn.co/image/ab67616d0000b273ab2083ab4b97f7948ff163a1" alt="Relaxin&#x27; With The Miles Davis Quintet" width="50" /> | Relaxin' With The Miles Davis Quintet (1958) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> | Nobody but Me (2016-10-21) | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="Come Fly With Me (Expanded Edition)" width="50" /> | Come Fly With Me (Expanded Edition) (1958) |

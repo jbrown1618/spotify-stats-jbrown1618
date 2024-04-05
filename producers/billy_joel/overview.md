@@ -5,24 +5,24 @@
 | Credit Type | Tracks |
 |:---|---:|
 | Arranger | 1 |
-| Instrument | 13 |
-| Lyricist | 15 |
+| Instrument | 15 |
+| Lyricist | 17 |
 | Producer | 2 |
-| Songwriter | 15 |
-| Vocal | 15 |
+| Songwriter | 17 |
+| Vocal | 17 |
 
 ## Produces for Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 16 | 16 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 18 | 18 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 
 ## Works with Producers
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Jim Boyer | Jim Boyer | 9 |
-| Phil Ramone | Phil Ramone | 9 |
+| Jim Boyer | [Jim Boyer](../jim_boyer/overview.md) | 11 |
+| Phil Ramone | [Phil Ramone](../phil_ramone/overview.md) | 11 |
 | Michael Stewart | Michael Stewart | 2 |
 | Michael Omartian | Michael Omartian | 2 |
 | Ron Malo | Ron Malo | 2 |
@@ -66,7 +66,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | Movin' Out (Anthony's Song) | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | The Stranger | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | Vienna | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="" width="50" /> | Big Shot | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="" width="50" /> | My Life | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="" width="50" /> | Don't Ask Me Why | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="" width="50" /> | The Longest Time | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="" width="50" /> | Uptown Girl | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="" width="50" /> | A Matter of Trust | Lyricist, Songwriter |

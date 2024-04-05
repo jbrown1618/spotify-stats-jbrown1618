@@ -10,14 +10,14 @@
 
 ## Artist Rank
 Ariana Grande is currently:
-- The #15 artist of the last month
-- The #16 artist of the last 6 months
+- The #14 artist of the last month
+- The #17 artist of the last 6 months
 - The #25 artist of all time
 
 ![Rank of Ariana Grande over time](../../images/artists/ariana_grande/rank_time_series.png)
 ## Top Tracks
 
-- Problem is the #28 track of the last month
+- Problem is the #12 track of the last month
 
 ### Top tracks, aggregated
 
@@ -26,16 +26,17 @@ Ariana Grande is currently:
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 31 | [Pop](../../playlists/pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e021c1ea5bfa5680ac877acdd55ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 7 | [Chill](../../playlists/chill/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 9 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022c0252c4e4a988f024e4d262ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 7 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e026f248f7695eb544a3a1955c5ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e028acb7bac073f378d59bf228eab67616d00001e02b3be3b970fc89a02f301c9da" alt="" width="50" /> | 4 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020c053ee476f7ce576369241eab67616d00001e02119e4094f07a8123b471ac1dab67616d00001e022a0face7d69df61c20a6db2bab67616d00001e027c78b57a88c7c109176bc999" alt="" width="50" /> | 3 | [Christmas](../../playlists/christmas/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e022118bf9b198b05a95ded6300ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02deec12a28d1e336c5052e9aa" alt="" width="50" /> | 1 | [Relax](../../playlists/relax/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e021c3e0a58f3ee28af2922e351ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e02d5d11b6ac4242aaa41c8be69ab67616d00001e02d8856d19e1f5784ed643d862" alt="" width="50" /> | 1 | [Relax](../../playlists/relax/overview.md) |
 
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | 6 | 3 | eternal sunshine | 2024-03-08 | [🔗](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | 6 | 4 | eternal sunshine | 2024-03-08 | [🔗](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | 5 | 4 | My Everything (Deluxe) | 2014-08-25 | [🔗](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | 4 | 3 | Dangerous Woman | 2016-05-20 | [🔗](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | 4 | 2 | thank u, next | 2019-02-08 | [🔗](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) |
@@ -65,7 +66,7 @@ Ariana Grande is currently:
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 15 | 10 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
-| 16 | 8 | [Republic Records](../../labels/republic_records/overview.md) |
+| 16 | 9 | [Republic Records](../../labels/republic_records/overview.md) |
 | 1 | 1 | Ariana Grande & Justin Bieber "Stuck With U"- Charity |
 | 1 | 0 | Silver Cloud |
 | 1 | 0 | [Interscope Records](../../labels/interscope_records/overview.md) |
@@ -82,11 +83,11 @@ Ariana Grande is currently:
 | Credit Type | Tracks |
 |:---|---:|
 | Arranger | 1 |
-| Lyricist | 4 |
+| Lyricist | 5 |
 | Performer | 2 |
-| Producer | 8 |
-| Songwriter | 15 |
-| Vocal | 9 |
+| Producer | 9 |
+| Songwriter | 16 |
+| Vocal | 10 |
 
 ### Production Credits
 
@@ -110,6 +111,7 @@ Ariana Grande is currently:
 | Art | Track | Credit Types |
 |:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | positions | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | the boy is mine | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | we can't be friends (wait for your love) | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | yes, and? | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | imperfect for you | Lyricist, Producer, Songwriter |
@@ -122,16 +124,16 @@ Ariana Grande is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | [Ariana Grande](overview.md) | 13 | Lyricist, Producer, Songwriter, Arranger |
-| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 11 | Producer |
-| | [ILYA](../../producers/ilya/overview.md) | 10 | Producer, Arranger, Songwriter |
-| | [Max Martin](../../producers/max_martin/overview.md) | 9 | Producer, Songwriter, Arranger, Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | [Ariana Grande](overview.md) | 14 | Lyricist, Producer, Songwriter, Arranger |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 12 | Producer |
+| | [ILYA](../../producers/ilya/overview.md) | 11 | Producer, Arranger, Songwriter |
+| | [Max Martin](../../producers/max_martin/overview.md) | 10 | Producer, Songwriter, Arranger, Lyricist |
+| | [Sam Holland](../../producers/sam_holland/overview.md) | 8 | Producer |
 | | Savan Kotecha | 7 | Songwriter, Producer |
-| | [Sam Holland](../../producers/sam_holland/overview.md) | 7 | Producer |
+| | Bryce Bordone | 4 | Producer |
 | | TBHits | 4 | Producer, Songwriter |
 | | [John Hanes](../../producers/john_hanes/overview.md) | 4 | Producer |
-| | Billy Hickey | 3 | Producer |
-| | Peter Carlsson | 3 | Producer |
+| | Lou Carrao | 4 | Producer |
 
 
 <details>
@@ -139,43 +141,44 @@ Ariana Grande is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | Peter Carlsson | 3 | Producer |
+| | Billy Hickey | 3 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb149ebd20c454545fc4fb7487" alt="" width="50" /> | Victoria Monét | 3 | Producer, Songwriter |
-| | Lou Carrao | 3 | Producer |
-| | Bryce Bordone | 3 | Producer |
-| | [Shellback](../../producers/shellback/overview.md) | 2 | Producer |
-| | Paul Boutin | 2 | Producer |
-| | Brendan Morawski | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | Nicki Minaj | 2 | Songwriter |
-| | Peter Svensson | 2 | Songwriter |
-| | Tayla Parx | 2 | Songwriter |
+| | Babyface | 2 | Producer, Songwriter |
 | | Khristopher Riddick-Tynes | 2 | Producer, Songwriter |
 | | Antonio Dixon | 2 | Arranger, Producer, Songwriter |
-| | Babyface | 2 | Producer, Songwriter |
-| | Noah Passovoy | 1 | Producer |
-| | Lionel Crasta | 1 | Producer |
-| | Rami | 1 | Producer, Songwriter |
-| | Jameel Roberts | 1 | Songwriter |
-| | Oscar Hammerstein II | 1 | Lyricist |
+| | Brendan Morawski | 2 | Producer |
+| | Paul Boutin | 2 | Producer |
+| | Tayla Parx | 2 | Songwriter |
+| | [Shellback](../../producers/shellback/overview.md) | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | Nicki Minaj | 2 | Songwriter |
+| | Peter Svensson | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](../justin_bieber/overview.md) | 1 | Songwriter |
+| | Gian Stone | 1 | Producer, Songwriter |
+| | Scootie | 1 | Producer, Songwriter |
+| | Kuk Harrell | 1 | Producer |
 | | Alexander Kronlund | 1 | Songwriter |
-| | Priscilla Renea | 1 | Songwriter |
+| | Noah Passovoy | 1 | Producer |
+| | Oscar Hammerstein II | 1 | Lyricist |
+| | Devin Nakao | 1 | Producer |
+| | Lionel Crasta | 1 | Producer |
+| | Joe Gallagher | 1 | Producer |
+| | Giorgio Tuinfort | 1 | Producer, Songwriter |
+| | Carl Falk | 1 | Producer, Songwriter |
+| | Jameel Roberts | 1 | Songwriter |
+| | Rami | 1 | Producer, Songwriter |
 | | Peter Kahm | 1 | Producer, Songwriter |
 | | Dennis Jenkins | 1 | Songwriter |
+| | Jaycen Joshua | 1 | Producer |
 | | Pop Wansel | 1 | Producer, Songwriter |
 | | Randy Ellis | 1 | Arranger |
-| | Giorgio Tuinfort | 1 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](../justin_bieber/overview.md) | 1 | Songwriter |
-| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 1 | Producer |
 | | Angelina Barrett | 1 | Songwriter |
-| | Jaycen Joshua | 1 | Producer |
-| | Carl Falk | 1 | Producer, Songwriter |
-| | Joe Gallagher | 1 | Producer |
-| | Devin Nakao | 1 | Producer |
-| | Scootie | 1 | Producer, Songwriter |
-| | Gian Stone | 1 | Producer, Songwriter |
-| | Kuk Harrell | 1 | Producer |
-| | Ross Golan | 1 | Songwriter |
 | | Gregg Rominiecki | 1 | Producer |
+| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 1 | Producer |
+| | Priscilla Renea | 1 | Songwriter |
+| | Rafael Fadul | 1 | Producer |
 | | Eric Weaver | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea | 1 | Songwriter |
 | | Happy Perez | 1 | Producer, Songwriter |
 | | Roahn Hylton | 1 | Songwriter |
 | | Travis Sayles | 1 | Producer, Songwriter |
@@ -189,9 +192,11 @@ Ariana Grande is currently:
 | | Scooter Braun | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf150017ca69c8793503c2d4f" alt="" width="50" /> | David Guetta | 1 | Songwriter |
 | | Richard Rodgers | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | Iggy Azalea | 1 | Songwriter |
 | | Skyler Stonestreet | 1 | Songwriter |
+| | The Rascals | 1 | Producer |
+| | DaviDior | 1 | Arranger, Producer, Songwriter |
 | | Leon Thomas | 1 | Songwriter |
+| | Shintaro Yasuda | 1 | Arranger, Producer, Songwriter |
 | | Rickard Göransson (Göransson, Rickard) | 1 | Producer, Songwriter |
 | | Whitney Phillips | 1 | Songwriter |
 | | Mr. Franks | 1 | Producer, Songwriter |
@@ -199,10 +204,9 @@ Ariana Grande is currently:
 | | London on da Track | 1 | Producer, Songwriter |
 | | Jason Evigan | 1 | Producer |
 | | [Tony Maserati](../../producers/tony_maserati/overview.md) | 1 | Producer |
-| | Rafael Fadul | 1 | Producer |
 | | Freddy Wexler | 1 | Producer, Songwriter |
+| | Ross Golan | 1 | Songwriter |
 | | Matt Squire | 1 | Producer |
-| | The Rascals | 1 | Producer |
 | | Johan Carlsson | 1 | Songwriter |
 
 </details>
@@ -213,8 +217,8 @@ Ariana Grande is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5" alt="" width="50" /> | Santa Tell Me | Santa Tell Me | [Ariana Grande](overview.md) | [Universal Records](../../labels/universal_music_llc) | 442 | | [🔗](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | Problem | My Everything (Deluxe) | [Ariana Grande](overview.md), Iggy Azalea | [Universal Records](../../labels/universal_music_llc) | 506 | 💚 | [🔗](https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5" alt="" width="50" /> | Santa Tell Me | Santa Tell Me | [Ariana Grande](overview.md) | [Universal Records](../../labels/universal_music_llc) | 447 | | [🔗](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | Problem | My Everything (Deluxe) | [Ariana Grande](overview.md), Iggy Azalea | [Universal Records](../../labels/universal_music_llc) | 450 | 💚 | [🔗](https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | imagine | thank u, next | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | 535 | 💚 | [🔗](https://open.spotify.com/track/39LmTF9RgyakzSYX8txrow) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c053ee476f7ce576369241e" alt="" width="50" /> | Last Christmas | Christmas Kisses | [Ariana Grande](overview.md) | [Universal Records](../../labels/universal_music_llc) | nan | | [🔗](https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c053ee476f7ce576369241e" alt="" width="50" /> | Santa Baby | Christmas Kisses | [Ariana Grande](overview.md), Liz Gillies | [Universal Records](../../labels/universal_music_llc) | nan | | [🔗](https://open.spotify.com/track/6YJdPrH3i2POzu7hdHIRrb) |
@@ -250,7 +254,7 @@ Ariana Grande is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | pov | Positions | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | nan | | [🔗](https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | imperfect for you | eternal sunshine | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/6XXKB32Om6WuXg3uEWwTob) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | ordinary things (feat. Nonna) | eternal sunshine | [Ariana Grande](overview.md), Nonna | [Republic Records](../../labels/republic_records) | nan | | [🔗](https://open.spotify.com/track/4mHM5d2fK3n8xgymjf92w2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | the boy is mine | eternal sunshine | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | nan | | [🔗](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | the boy is mine | eternal sunshine | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | true story | eternal sunshine | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | nan | | [🔗](https://open.spotify.com/track/14kyXBpg91RVq8bNRDS1q2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | we can't be friends (wait for your love) | eternal sunshine | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | yes, and? | eternal sunshine | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/5D34wRmbFS29AjtTOP2QJe) |

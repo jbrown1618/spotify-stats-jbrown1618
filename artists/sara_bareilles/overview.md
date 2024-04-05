@@ -10,9 +10,9 @@
 
 ## Artist Rank
 Sara Bareilles is currently:
-- The #9 artist of the last month
+- The #6 artist of the last month
 - The #10 artist of the last 6 months
-- The #17 artist of all time
+- The #16 artist of all time
 
 ![Rank of Sara Bareilles over time](../../images/artists/sara_bareilles/rank_time_series.png)
 ## Top Tracks
@@ -25,13 +25,14 @@ Sara Bareilles is currently:
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e020e402844f1b6be3102d339f2ab67616d00001e023378545422c5257483f6230eab67616d00001e02db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 61 | [Singer-Songwriter](../../playlists/singer-songwriter/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e022118bf9b198b05a95ded6300ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02deec12a28d1e336c5052e9aa" alt="" width="50" /> | 7 | [Relax](../../playlists/relax/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 16 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e021c3e0a58f3ee28af2922e351ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e02d5d11b6ac4242aaa41c8be69ab67616d00001e02d8856d19e1f5784ed643d862" alt="" width="50" /> | 7 | [Relax](../../playlists/relax/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0211213770e112f78d4075b61fab67616d00001e022f8d9427fea9dd36a4fb4f1bab67616d00001e0267a1610b21721a06ed7d378eab67616d00001e02d72fb5571087bca0a2fed008" alt="" width="50" /> | 7 | [Musicals](../../playlists/musicals/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e022d73b1bb77cee09f0278be04ab67616d00001e026f50b3400595b123a916e0dcab67616d00001e029ab215825eb77076b1b4b387ab67616d00001e02ff0dae802acb38075786b58c" alt="" width="50" /> | 6 | [Karaoke](../../playlists/karaoke/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 6 | [Karaoke](../../playlists/karaoke/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 5 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 4 | [Pop](../../playlists/pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e021c1ea5bfa5680ac877acdd55ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 3 | [Chill](../../playlists/chill/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02068a5559744d17bd5e871740ab67616d00001e02a1113af3a19a41dc8eec534eab67616d00001e02ca96a3471c3cb5128e64195fab67616d00001e02cb81eb3c1238c60f2bbfd3b5" alt="" width="50" /> | 1 | [Jazz](../../playlists/jazz/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022c0252c4e4a988f024e4d262ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 3 | [Chill](../../playlists/chill/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02792cd65d020fd66224b5b025ab67616d00001e02807cc4e6a97c1a67c8b69803ab67616d00001e02a1113af3a19a41dc8eec534eab67616d00001e02cb81eb3c1238c60f2bbfd3b5" alt="" width="50" /> | 1 | [Jazz](../../playlists/jazz/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e025d990e8b45c848dc22885f89ab67616d00001e0262f44cdb37183a309fc1032fab67616d00001e0284470dd6235917e2e40e11f0ab67616d00001e02bb7018e16a77e5ce4744fa93" alt="" width="50" /> | 1 | [A Cappella](../../playlists/a_cappella/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020c053ee476f7ce576369241eab67616d00001e02119e4094f07a8123b471ac1dab67616d00001e022a0face7d69df61c20a6db2bab67616d00001e027c78b57a88c7c109176bc999" alt="" width="50" /> | 1 | [Christmas](../../playlists/christmas/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0203668e3f13559554eca8ccc6ab67616d00001e020eb56329734f9400c1639359ab67616d00001e0214ed51ab46ef0765182bb8a0ab67616d00001e02987a1825341694ec9bc62457" alt="" width="50" /> | 1 | [Tarps](../../playlists/tarps/overview.md) |
@@ -43,9 +44,9 @@ Sara Bareilles is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | 13 | 10 | Kaleidoscope Heart | 2010-09-07 | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | 12 | 12 | The Blessed Unrest | 2013-07-16 | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | 12 | 8 | Little Voice | 2007-07-03 | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | 10 | 5 | Amidst the Chaos (Bonus Version) | 2019-05-10 | [🔗](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | 10 | 6 | Amidst the Chaos (Bonus Version) | 2019-05-10 | [🔗](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | 6 | 1 | What's Inside: Songs from Waitress | 2015-11-06 | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | 5 | 4 | Once Upon Another Time | 2012-05-22 | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | 5 | 5 | Once Upon Another Time | 2012-05-22 | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273913c7a28b9dbce0ec35a7045" alt="" width="50" /> | 1 | 1 | Music Is Better Than Words | 2011-01-01 | [🔗](https://open.spotify.com/album/6VojJdbXviFkMuemAQ2Ivo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf31c7be8a9eea69d98c37c4" alt="" width="50" /> | 1 | 0 | Sides | 2020-01-17 | [🔗](https://open.spotify.com/album/5alIr9JGPvOQwPLphm0beJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da313ff0ee1a50bee49dfc72" alt="" width="50" /> | 1 | 0 | More Love - Songs from Little Voice Season One | 2020-09-04 | [🔗](https://open.spotify.com/album/52fzvqGSm991mT6pBgAS6g) |
@@ -68,7 +69,7 @@ Sara Bareilles is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 60 | 40 | [Epic](../../labels/epic/overview.md) |
+| 60 | 42 | [Epic](../../labels/epic/overview.md) |
 | 1 | 1 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 1 | 1 | Fuzzy Door Productions |
 | 1 | 0 | [Varsity Vocals](../../labels/varsity_vocals/overview.md) |
@@ -91,11 +92,11 @@ Sara Bareilles is currently:
 
 | Credit Type | Tracks |
 |:---|---:|
-| Instrument | 23 |
-| Lyricist | 21 |
+| Instrument | 24 |
+| Lyricist | 22 |
 | Producer | 12 |
-| Songwriter | 31 |
-| Vocal | 31 |
+| Songwriter | 32 |
+| Vocal | 32 |
 
 ### Production Credits
 
@@ -139,6 +140,7 @@ Sara Bareilles is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Armor | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Miss Simone | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | No Such Thing | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Wicked Love | Lyricist, Songwriter |
 
 </details>
 
@@ -147,12 +149,12 @@ Sara Bareilles is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](overview.md) | 31 | Lyricist, Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](overview.md) | 32 | Lyricist, Songwriter, Producer |
 | | John O'Mahony | 9 | Producer |
 | | Kurt Uenala | 7 | Producer |
+| | T-Bone Burnett | 6 | Producer |
+| | Jason Wormer | 6 | Producer |
 | | Neal Avron | 6 | Arranger, Producer |
-| | T-Bone Burnett | 5 | Producer |
-| | Jason Wormer | 5 | Producer |
 | | Mark Endert | 3 | Producer |
 | | Matt Hales | 2 | Songwriter |
 | | Jeremy Darby | 2 | Producer |
@@ -193,15 +195,15 @@ Sara Bareilles is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Many the Miles | Little Voice | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 242 | 💚 | [🔗](https://open.spotify.com/track/03kCR9HZpX5muU7D8xYPOL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Lie To Me | Once Upon Another Time | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 321 | 💚 | [🔗](https://open.spotify.com/track/15zarGPJkaG3btC3Co7Luo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | I Choose You | The Blessed Unrest | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 368 | 💚 | [🔗](https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Machine Gun | Kaleidoscope Heart | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 389 | 💚 | [🔗](https://open.spotify.com/track/2ZfnsQ81jNuY4MHAshnxyp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Fairytale | Little Voice | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 390 | 💚 | [🔗](https://open.spotify.com/track/1q8eyTNRSGEAqSvTATTgIG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Between the Lines | Little Voice | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 453 | 💚 | [🔗](https://open.spotify.com/track/2t3b5MZMzsArvQflOUo804) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Not Alone | Kaleidoscope Heart | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 530 | 💚 | [🔗](https://open.spotify.com/track/5ksNgN3RWCBbq2sUB1KoNv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Poetry by Dead Men | Amidst the Chaos (Bonus Version) | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 557 | | [🔗](https://open.spotify.com/track/1rY7zvbYYWaj1OVa3YlwLv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Hercules | The Blessed Unrest | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 612 | 💚 | [🔗](https://open.spotify.com/track/1Ng4tk8lYfiwXbw4t8gdA2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Many the Miles | Little Voice | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 245 | 💚 | [🔗](https://open.spotify.com/track/03kCR9HZpX5muU7D8xYPOL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Lie To Me | Once Upon Another Time | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 326 | 💚 | [🔗](https://open.spotify.com/track/15zarGPJkaG3btC3Co7Luo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | I Choose You | The Blessed Unrest | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 371 | 💚 | [🔗](https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Machine Gun | Kaleidoscope Heart | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 393 | 💚 | [🔗](https://open.spotify.com/track/2ZfnsQ81jNuY4MHAshnxyp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Fairytale | Little Voice | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 395 | 💚 | [🔗](https://open.spotify.com/track/1q8eyTNRSGEAqSvTATTgIG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Between the Lines | Little Voice | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 461 | 💚 | [🔗](https://open.spotify.com/track/2t3b5MZMzsArvQflOUo804) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Not Alone | Kaleidoscope Heart | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 532 | 💚 | [🔗](https://open.spotify.com/track/5ksNgN3RWCBbq2sUB1KoNv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Poetry by Dead Men | Amidst the Chaos (Bonus Version) | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 561 | | [🔗](https://open.spotify.com/track/1rY7zvbYYWaj1OVa3YlwLv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Hercules | The Blessed Unrest | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 620 | 💚 | [🔗](https://open.spotify.com/track/1Ng4tk8lYfiwXbw4t8gdA2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="" width="50" /> | Gravity | BOCA 2004: Best Of College A Cappella | Awaken A Cappella, [Sara Bareilles](overview.md), Don Gooding, Bill Hare, Gabe Hendifar, Deke Sharon | [Varsity Vocals](../../labels/varsity_vocals) | nan | | [🔗](https://open.spotify.com/track/0W94b6tM78Miftv7W5tOX2) |
 
 
@@ -231,7 +233,7 @@ Sara Bareilles is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | The Light | Kaleidoscope Heart | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | nan | 💚 | [🔗](https://open.spotify.com/track/54byd42gABS9onpYHipyoP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Uncharted | Kaleidoscope Heart | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | nan | 💚 | [🔗](https://open.spotify.com/track/7hEbLvHSHpmMZXuuw2nmmH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273913c7a28b9dbce0ec35a7045" alt="" width="50" /> | Love Won't Let You Get Away | Music Is Better Than Words | Seth MacFarlane, [Sara Bareilles](overview.md) | [Fuzzy Door Productions/Universal](../../labels/universal_music_llc) | nan | 💚 | [🔗](https://open.spotify.com/track/5xNdKpcKqES50j78ac9woY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Bright Lights and Cityscapes | Once Upon Another Time | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | nan | | [🔗](https://open.spotify.com/track/7CEWZ0h4rez5BqMQwx4QXf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Bright Lights and Cityscapes | Once Upon Another Time | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | nan | 💚 | [🔗](https://open.spotify.com/track/7CEWZ0h4rez5BqMQwx4QXf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Once Upon Another Time | Once Upon Another Time | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | nan | 💚 | [🔗](https://open.spotify.com/track/7KG9zriC6iP8F1CNihtR8Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Stay | Once Upon Another Time | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | nan | 💚 | [🔗](https://open.spotify.com/track/24xqELXbmKDFLKkR3271jb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Sweet As Whole | Once Upon Another Time | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | nan | 💚 | [🔗](https://open.spotify.com/track/04BcODyhCDTV7SBFeJHOXe) |
@@ -261,7 +263,7 @@ Sara Bareilles is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | No Such Thing | Amidst the Chaos (Bonus Version) | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | nan | 💚 | [🔗](https://open.spotify.com/track/6UpCNcYmYBrkqbNQAR9U3H) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Orpheus | Amidst the Chaos (Bonus Version) | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | nan | | [🔗](https://open.spotify.com/track/3sC62j1Cjeea5tAhcyGcs8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Someone Who Loves Me | Amidst the Chaos (Bonus Version) | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | nan | | [🔗](https://open.spotify.com/track/5d9bKlSjNIf9hTnRDXeN0F) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Wicked Love | Amidst the Chaos (Bonus Version) | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | nan | | [🔗](https://open.spotify.com/track/6ZLTqJo17uCkBKjokcwbds) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Wicked Love | Amidst the Chaos (Bonus Version) | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | nan | 💚 | [🔗](https://open.spotify.com/track/6ZLTqJo17uCkBKjokcwbds) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf31c7be8a9eea69d98c37c4" alt="" width="50" /> | Teach You - Acoustic | Sides | Emily King, [Sara Bareilles](overview.md) | ATO Records | nan | | [🔗](https://open.spotify.com/track/6Esc0Q4YRbnlJHb3dy6MdS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da313ff0ee1a50bee49dfc72" alt="" width="50" /> | Little Voice | More Love - Songs from Little Voice Season One | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | nan | | [🔗](https://open.spotify.com/track/6bbmyaEU6k26teJfCsIKNb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | Maybe They're Magic | Into The Woods (2022 Broadway Cast Recording) | [Sara Bareilles](overview.md), Brian D'Arcy James | [Craft Recordings](../../labels/craft_recordings) | nan | | [🔗](https://open.spotify.com/track/6Aj19aOQntdfSpHDl9DxOw) |

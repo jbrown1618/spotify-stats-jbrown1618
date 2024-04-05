@@ -70,14 +70,15 @@ Appears as:
 | 1 | 0 | west end |
 | 1 | 0 | sunshine pop |
 | 1 | 0 | renaissance |
-| 1 | 0 | orchestra |
+| 1 | 0 | progressive bluegrass |
 
 
 <details>
-<summary>See all 16 genres</summary>
+<summary>See all 17 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 1 | 0 | orchestra |
 | 1 | 0 | medieval |
 | 1 | 0 | franco-flemish school |
 | 1 | 0 | [broadway](../../genres/broadway/overview.md) |
@@ -88,7 +89,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 16 genres](../../images/labels/sony_classical/genres.png)
+![Bar chart of top 17 genres](../../images/labels/sony_classical/genres.png)
 
 ## Tracks released under Sony Classical
 

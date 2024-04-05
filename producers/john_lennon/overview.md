@@ -4,32 +4,32 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Instrument | 17 |
+| Instrument | 18 |
 | Lyricist | 1 |
-| Songwriter | 21 |
-| Vocal | 15 |
+| Songwriter | 22 |
+| Vocal | 16 |
 
 ## Produces for Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | 22 | 22 | [The Beatles](../../artists/the_beatles/overview.md) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | 23 | 23 | [The Beatles](../../artists/the_beatles/overview.md) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb746dd598cf914934bd27ed7e" alt="" width="50" /> | 1 | 1 | [Pentatonix](../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
 
 ## Works with Producers
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| George Martin | [George Martin](../george_martin/overview.md) | 20 |
-| Paul McCartney | [Paul McCartney](../paul_mccartney/overview.md) | 20 |
+| George Martin | [George Martin](../george_martin/overview.md) | 21 |
+| Paul McCartney | [Paul McCartney](../paul_mccartney/overview.md) | 21 |
 | Geoff Emerick | Geoff Emerick | 9 |
 | Phil McDonald | Phil McDonald | 7 |
 | Norman Smith | Norman Smith | 5 |
+| Phil Spector | Phil Spector | 3 |
+| Ken Scott | Ken Scott | 3 |
 | Glyn Johns | Glyn Johns | 3 |
 | Barry Sheffield | Barry Sheffield | 2 |
 | Chris Thomas | Chris Thomas | 2 |
-| Ken Scott | Ken Scott | 2 |
-| Phil Spector | Phil Spector | 2 |
 
 
 <details>
@@ -37,10 +37,13 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
+| Peter Bown | Peter Bown | 1 |
 | John Mills | John Mills | 1 |
 | Ron Pender | Ron Pender | 1 |
 | Yoko Ono | Yoko Ono | 1 |
 | Jeff Jarratt | Jeff Jarratt | 1 |
+| Martin Benge | Martin Benge | 1 |
+| Lauren Scott | Lauren Scott | 1 |
 
 </details>
 
@@ -67,6 +70,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | Oh! Darling - Remastered 2009 | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | I Want You (She's So Heavy) - Remastered 2009 | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Get Back - Remastered 2009 | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Across The Universe - Remastered 2009 | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Let It Be - Remastered 2009 | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="" width="50" /> | Day Tripper - Remastered 2015 | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="" width="50" /> | Imagine | Lyricist, Songwriter |

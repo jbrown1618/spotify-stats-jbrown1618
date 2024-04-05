@@ -19,14 +19,14 @@ NewJeans:
 
 ## Artist Rank
 NewJeans is currently:
-- The #36 artist of the last month
-- The #47 artist of the last 6 months
-- The #24 artist of all time
+- The #37 artist of the last month
+- The #48 artist of the last 6 months
+- The #26 artist of all time
 
 ![Rank of NewJeans over time](../../images/artists/newjeans/rank_time_series.png)
 ## Top Tracks
 
-- Ditto is the #21 track of all time
+- Ditto is the #20 track of all time
 
 ### Top tracks, aggregated
 
@@ -45,7 +45,7 @@ NewJeans is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 12 | [K-Pop](../../playlists/k-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 4 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02830de2e836036f181df598d0ab67616d00001e02af2fda9fb591d43c355c2ac3ab67616d00001e02cc6f76f75551af499b5cd0cbab67616d00001e02da343b21617aac0c57e332bb" alt="" width="50" /> | 4 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e021c1ea5bfa5680ac877acdd55ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 4 | [Chill](../../playlists/chill/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022c0252c4e4a988f024e4d262ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 4 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://wrapped-images.spotifycdn.com/image/yts-2023/default/your-top-songs-2023_DEFAULT_en.jpg" alt="" width="50" /> | 3 | [Your Top Songs 2023](../../playlists/your_top_songs_2023/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e021869a85947a5ea00df8c936fab67616d00001e025048ed32fafe7b9a50d0e410ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [Recommendations for Chris](../../playlists/recommendations_for_chris/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
@@ -139,12 +139,12 @@ NewJeans is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="" width="50" /> | Ditto | Ditto | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 52 | 💚 | [🔗](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="" width="50" /> | OMG | NewJeans 'OMG' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 80 | 💚 | [🔗](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="" width="50" /> | Ditto | Ditto | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 51 | 💚 | [🔗](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="" width="50" /> | OMG | NewJeans 'OMG' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 84 | 💚 | [🔗](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | Hype Boy | NewJeans 1st EP 'New Jeans' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 98 | 💚 | [🔗](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | ASAP | NewJeans 2nd EP 'Get Up' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 184 | 💚 | [🔗](https://open.spotify.com/track/5fpyAakgFOm4YTXkgfPzvV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | ETA | NewJeans 2nd EP 'Get Up' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 470 | 💚 | [🔗](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | Cool With You | NewJeans 2nd EP 'Get Up' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 573 | | [🔗](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | ASAP | NewJeans 2nd EP 'Get Up' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 186 | 💚 | [🔗](https://open.spotify.com/track/5fpyAakgFOm4YTXkgfPzvV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | ETA | NewJeans 2nd EP 'Get Up' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 476 | 💚 | [🔗](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | Cool With You | NewJeans 2nd EP 'Get Up' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 581 | | [🔗](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | Attention | NewJeans 1st EP 'New Jeans' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | nan | 💚 | [🔗](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | Cookie | NewJeans 1st EP 'New Jeans' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | nan | | [🔗](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | Hurt | NewJeans 1st EP 'New Jeans' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | nan | 💚 | [🔗](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) |

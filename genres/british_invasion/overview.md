@@ -10,7 +10,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | 32 | 22 | [The Beatles](../../artists/the_beatles/overview.md) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | 32 | 23 | [The Beatles](../../artists/the_beatles/overview.md) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
 | <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | 6 | 6 | [The Who](../../artists/the_who/overview.md) | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4cea917b68726aadb4854b8" alt="" width="50" /> | 2 | 2 | The Rolling Stones | [🔗](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) |
 
@@ -20,9 +20,9 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Because - Remastered 2009](../../artists/the_beatles/overview.md) | 267 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Golden Slumbers - Remastered 2009](../../artists/the_beatles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="1 (Remastered)" width="50" /> | [Day Tripper - Remastered 2015](../../artists/the_beatles/overview.md) | 342 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="Who&#x27;s Next (Deluxe Edition)" width="50" /> | [Behind Blue Eyes](../../artists/the_who/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="Who Are You" width="50" /> | [Who Are You](../../artists/the_who/overview.md) | 484 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a" alt="Sgt. Pepper&#x27;s Lonely Hearts Club Band (Remastered)" width="50" /> | [A Day In The Life - Remastered 2009](../../artists/the_beatles/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Because - Remastered 2009](../../artists/the_beatles/overview.md) | 270 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Golden Slumbers - Remastered 2009](../../artists/the_beatles/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="1 (Remastered)" width="50" /> | [Day Tripper - Remastered 2015](../../artists/the_beatles/overview.md) | 346 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="Who&#x27;s Next (Deluxe Edition)" width="50" /> | [Behind Blue Eyes](../../artists/the_who/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="Who Are You" width="50" /> | [Who Are You](../../artists/the_who/overview.md) | 489 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a" alt="Sgt. Pepper&#x27;s Lonely Hearts Club Band (Remastered)" width="50" /> | [A Day In The Life - Remastered 2009](../../artists/the_beatles/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="Let It Be (Remastered)" width="50" /> | [Let It Be - Remastered 2009](../../artists/the_beatles/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Something - Remastered 2009](../../artists/the_beatles/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273692d9189b2bd75525893f0c1" alt="Magical Mystery Tour (Remastered)" width="50" /> | [I Am The Walrus - Remastered 2009](../../artists/the_beatles/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Octopus's Garden - Remastered 2009](../../artists/the_beatles/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27374ecb94bc3e5d851a39a0334" alt="Tommy" width="50" /> | [Pinball Wizard](../../artists/the_who/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4" alt="Rubber Soul (Remastered)" width="50" /> | [Norwegian Wood (This Bird Has Flown) - Remastered 2009](../../artists/the_beatles/overview.md) | nan |
@@ -37,9 +37,9 @@
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | 9 | 6 | Abbey Road (Remastered) | 1969-09-26 | [🔗](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2" alt="" width="50" /> | 5 | 5 | The Beatles (Remastered) | 1968-11-22 | [🔗](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | 3 | 3 | Let It Be (Remastered) | 1970-05-08 | [🔗](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328b8b9b46428896e6491e97a" alt="" width="50" /> | 3 | 2 | Revolver (Remastered) | 1966-08-05 | [🔗](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273692d9189b2bd75525893f0c1" alt="" width="50" /> | 3 | 2 | Magical Mystery Tour (Remastered) | 1967-11-27 | [🔗](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | 3 | 2 | Let It Be (Remastered) | 1970-05-08 | [🔗](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | 2 | 2 | Who's Next (Deluxe Edition) | 1971-08-14 | [🔗](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a" alt="" width="50" /> | 2 | 0 | Sgt. Pepper's Lonely Hearts Club Band (Remastered) | 1967-06-01 | [🔗](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="" width="50" /> | 1 | 1 | With The Beatles (Remastered) | 1963-11-22 | [🔗](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) |
@@ -72,7 +72,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 31 | 21 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
+| 31 | 22 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
 | 3 | 3 | [Geffen](../../labels/geffen/overview.md) |
 | 2 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
 | 2 | 2 | [Polydor Records](../../labels/polydor_records/overview.md) |
@@ -82,20 +82,20 @@
 
 ## Top Producers
 
-![Bar chart of top 27 producers](../../images/genres/british_invasion/producers.png)
+![Bar chart of top 30 producers](../../images/genres/british_invasion/producers.png)
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [George Martin](../../producers/george_martin/overview.md) | 22 | Producer, Arranger |
-| | [Paul McCartney](../../producers/paul_mccartney/overview.md) | 20 | Songwriter |
-| | [John Lennon](../../producers/john_lennon/overview.md) | 20 | Songwriter |
+| | [George Martin](../../producers/george_martin/overview.md) | 23 | Producer, Arranger |
+| | [Paul McCartney](../../producers/paul_mccartney/overview.md) | 21 | Songwriter |
+| | [John Lennon](../../producers/john_lennon/overview.md) | 21 | Songwriter |
 | | Geoff Emerick | 10 | Producer |
 | | Phil McDonald | 8 | Producer |
 | | Glyn Johns | 8 | Producer |
-| | Norman Smith | 5 | Producer |
 | | Pete Townshend | 5 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | [The Who](../../artists/the_who/overview.md) | 3 | Producer |
-| | Chris Thomas | 3 | Producer |
+| | Norman Smith | 5 | Producer |
+| | Ken Scott | 4 | Producer |
+| | Phil Spector | 3 | Producer |
 
 
 <details>
@@ -103,23 +103,26 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Ken Scott | 3 | Producer |
+| | Chris Thomas | 3 | Producer |
+| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | [The Who](../../artists/the_who/overview.md) | 3 | Producer |
 | | Jeff Jarratt | 2 | Producer |
-| | Phil Spector | 2 | Producer |
-| | George Harrison | 2 | Lyricist, Songwriter |
 | | Barry Sheffield | 2 | Producer |
-| | David Hassinger | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe4cea917b68726aadb4854b8" alt="" width="50" /> | The Rolling Stones | 1 | Arranger |
+| | George Harrison | 2 | Lyricist, Songwriter |
+| | Lauren Scott | 1 | Arranger |
 | | John Mills | 1 | Arranger |
-| | Mick Jagger | 1 | Songwriter |
-| | Damon Lyon-Shaw | 1 | Producer |
 | | Chris Stamp | 1 | Producer |
-| | Keith Moon | 1 | Producer |
 | | Andrew Loog Oldham | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe4cea917b68726aadb4854b8" alt="" width="50" /> | The Rolling Stones | 1 | Arranger |
+| | Ron Pender | 1 | Producer |
+| | Mick Jagger | 1 | Songwriter |
+| | David Hassinger | 1 | Producer |
+| | Martin Benge | 1 | Producer |
+| | Keith Moon | 1 | Producer |
+| | Damon Lyon-Shaw | 1 | Producer |
 | | Jon Astley | 1 | Producer |
 | | Keith Richards | 1 | Songwriter |
 | | Kit Lambert | 1 | Producer |
-| | Ron Pender | 1 | Producer |
+| | Peter Bown | 1 | Producer |
 
 </details>
 

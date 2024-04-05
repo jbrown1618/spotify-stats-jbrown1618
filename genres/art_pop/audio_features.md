@@ -99,8 +99,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="Lust For Life" width="50" /> | Cherry (0.384) | <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="dont smile at me" width="50" /> | ocean eyes (0.084) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="Born This Way" width="50" /> | Judas (0.355) | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="The Fame Monster (Deluxe Edition)" width="50" /> | Bad Romance (0.0842) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="Chromatica" width="50" /> | Rain On Me (with Ariana Grande) (0.323) | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | Radio (0.0876) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="The Fame" width="50" /> | LoveGame (0.317) | <img src="https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336" alt="Melodrama" width="50" /> | Green Light (0.0879) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | xanny (0.265) | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | Video Games (0.0887) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="The Fame" width="50" /> | LoveGame (0.317) | <img src="https://i.scdn.co/image/ab67616d0000b273b17d3cdd360973516ade9e6d" alt="The Reminder" width="50" /> | 1234 (0.0879) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | xanny (0.265) | <img src="https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336" alt="Melodrama" width="50" /> | Green Light (0.0879) |
 
 ## Valence
 

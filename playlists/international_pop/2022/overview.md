@@ -5,11 +5,11 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc" alt="" width="50" /> | 2 | 1 | Fujii Kaze | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb118be643c10bd1268f034d28" alt="" width="50" /> | 2 | 1 | Faouzia | [🔗](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03862437b06f5865ab89fd7" alt="" width="50" /> | 2 | 1 | Anna Zak | [🔗](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | 2 | 1 | Yuuri | [🔗](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb463b39bbf9ac7ad2ee3b7795" alt="" width="50" /> | 1 | 1 | DARA | [🔗](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb83e2d0c9611f1fb6baafcb36" alt="" width="50" /> | 1 | 1 | YOASOBI | [🔗](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb118be643c10bd1268f034d28" alt="" width="50" /> | 1 | 1 | Faouzia | [🔗](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe7b7fa8d03a2e3b6a800bdb4" alt="" width="50" /> | 1 | 1 | Hoàng Thùy Linh | [🔗](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb37db43b7d0bcd10e2b090521" alt="" width="50" /> | 1 | 0 | Lothika | [🔗](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1b54ac2809d664b9e1031e" alt="" width="50" /> | 1 | 0 | הפשוטע | [🔗](https://open.spotify.com/artist/7m92aMieltH5ZpodCEHfnb) |
@@ -24,6 +24,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8d9e30e6bbc36be6bcec3499" alt="" width="50" /> | 1 | 0 | Eden Hason | [🔗](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | 1 | 0 | Hatsune Miku | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb673d13d8099cba09a73f699d" alt="" width="50" /> | 1 | 0 | Jimbo J | [🔗](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebba10593e25ec51a3ba4296a0" alt="" width="50" /> | 1 | 0 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb81da066644c2a0f0179b596" alt="" width="50" /> | 1 | 0 | Lowsheen | [🔗](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb308ae265cf261595dce0edcd" alt="" width="50" /> | 1 | 0 | Synne Vo | [🔗](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcab7641233163bb5d6c5d527" alt="" width="50" /> | 1 | 0 | Master KG | [🔗](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF) |
@@ -49,12 +50,12 @@
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | 2 | 1 | 壱 | 2022-01-12 | [🔗](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="" width="50" /> | 2 | 1 | CITIZENS | 2022-05-19 | [🔗](https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="" width="50" /> | 1 | 1 | 海のまにまに | 2022-11-18 | [🔗](https://open.spotify.com/album/6M4p4S5t8PuRZiq7zvMEPB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731bccd0e65da477d7f815e229" alt="" width="50" /> | 1 | 1 | מי זאת | 2022-05-22 | [🔗](https://open.spotify.com/album/3vAQYVlLZrzs7lrjisl5VC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b302a279cfab9f1a28d2d35" alt="" width="50" /> | 1 | 1 | See Tình | 2022-02-20 | [🔗](https://open.spotify.com/album/1AttOIOFrGkOPNSq5mB4pd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b93c6b37cb0e0a9fbf26b766" alt="" width="50" /> | 1 | 1 | Mr. Rover | 2022-07-15 | [🔗](https://open.spotify.com/album/0mkxSResK0c4KS5VFcQPhH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27393f551abf615209c537fb4d4" alt="" width="50" /> | 1 | 1 | Kirari Remixes (Asia Edition) | 2022-01-14 | [🔗](https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="" width="50" /> | 1 | 1 | CITIZENS | 2022-05-19 | [🔗](https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347e6c8b41b5546781d84b5e7" alt="" width="50" /> | 1 | 0 | עושה לי צרות | 2022-05-22 | [🔗](https://open.spotify.com/album/2FHZElS1XugIYG10xE80aR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273caae7b75fb240dd81f3f7129" alt="" width="50" /> | 1 | 0 | ממותה | 2022-02-11 | [🔗](https://open.spotify.com/album/0F59OTwMP1IRvvX3CzeO9G) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec71813c0c13422d225981da" alt="" width="50" /> | 1 | 0 | לך לישון | 2022-01-02 | [🔗](https://open.spotify.com/album/6Wh0It79i26j0IWWzm3axe) |
@@ -85,8 +86,8 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="" width="50" /> | 海のまにまに | 海のまにまに | YOASOBI | YOASOBI | 406 | 💚 | [🔗](https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](../../../labels/sony_music_labels_inc_) | 527 | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="" width="50" /> | 海のまにまに | 海のまにまに | YOASOBI | YOASOBI | 411 | 💚 | [🔗](https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](../../../labels/sony_music_labels_inc_) | 528 | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec71813c0c13422d225981da" alt="" width="50" /> | לך לישון | לך לישון | Anna Zak | ITModels under exclusive license to D-Music | nan | | [🔗](https://open.spotify.com/track/3fCS3m3uWUgAFm3purs15C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ベテルギウス | 壱 | Yuuri | [Sony Music Labels Inc.](../../../labels/sony_music_labels_inc_) | nan | | [🔗](https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27393f551abf615209c537fb4d4" alt="" width="50" /> | きらり | Kirari Remixes (Asia Edition) | Fujii Kaze | [Universal Music LLC](../../../labels/universal_music_llc) | nan | 💚 | [🔗](https://open.spotify.com/track/51oc6MEsXTpnPn6GOw5VuP) |
@@ -106,6 +107,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739a9716c90ceeb1890921e44f" alt="" width="50" /> | Te Felicito | Te Felicito | Shakira, Rauw Alejandro | Sony Music Latin | nan | | [🔗](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="" width="50" /> | Habit | Habit | SEKAI NO OWARI | [Universal Music LLC](../../../labels/universal_music_llc) | nan | | [🔗](https://open.spotify.com/track/2uMNMcjjUz8oNIxjIu20qE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6" alt="" width="50" /> | Sofa Silahlane | Sofa Silahlane | Wanitwa Mos, Master KG, Lowsheen, Nkosazana Daughter | Wanitwa Mos Entertainment | nan | | [🔗](https://open.spotify.com/track/67SKXlAbYNG5nAtadBfPm0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="" width="50" /> | Minefields | CITIZENS | Faouzia, John Legend | [Atlantic Records](../../../labels/atlantic_records) | nan | | [🔗](https://open.spotify.com/track/0vH52Icuf6LzOFrkHE8mZG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="" width="50" /> | RIP, Love | CITIZENS | Faouzia | [Atlantic Records](../../../labels/atlantic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/4pDenOoD01LCPgkzJgu437) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731bccd0e65da477d7f815e229" alt="" width="50" /> | מי זאת | מי זאת | Anna Zak | ITModels under exclusive license to D-Music | nan | 💚 | [🔗](https://open.spotify.com/track/3iJQ54fGO6CyP374UzvDJu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347e6c8b41b5546781d84b5e7" alt="" width="50" /> | עושה לי צרות | עושה לי צרות | Eden Hason | Mobile1 Music | nan | | [🔗](https://open.spotify.com/track/4I9NVCnjIRVriXfNE7VhE0) |

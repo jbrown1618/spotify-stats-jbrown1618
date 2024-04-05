@@ -21,8 +21,8 @@
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Shhh | KISS OF LIFE | [KISS OF LIFE](../../../../artists/kiss_of_life/overview.md) | [S2 ENTERTAINMENT INC.](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Gentleman | Born to be XX | [KISS OF LIFE](../../../../artists/kiss_of_life/overview.md) | [S2 ENTERTAINMENT INC.](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/5JjVCxjqX1zwZc5MRa39ly) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Nobody Knows | Born to be XX | [KISS OF LIFE](../../../../artists/kiss_of_life/overview.md) | [S2 ENTERTAINMENT INC.](../..) | 147 | 💚 | [🔗](https://open.spotify.com/track/70efTlnBNM8BvfhfPiqOBN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Bad News | Born to be XX | [KISS OF LIFE](../../../../artists/kiss_of_life/overview.md) | [S2 ENTERTAINMENT INC.](../..) | 231 | 💚 | [🔗](https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Nobody Knows | Born to be XX | [KISS OF LIFE](../../../../artists/kiss_of_life/overview.md) | [S2 ENTERTAINMENT INC.](../..) | 144 | 💚 | [🔗](https://open.spotify.com/track/70efTlnBNM8BvfhfPiqOBN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Bad News | Born to be XX | [KISS OF LIFE](../../../../artists/kiss_of_life/overview.md) | [S2 ENTERTAINMENT INC.](../..) | 234 | 💚 | [🔗](https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj) |
 ## Cluster #3
 
 1 tracks

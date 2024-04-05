@@ -11,21 +11,21 @@ Kendrick Lamar:
 
 ## Artist Rank
 Kendrick Lamar is currently:
-- The #47 artist of the last month
+- The #48 artist of the last month
 
-
+![Rank of Kendrick Lamar over time](../../images/artists/kendrick_lamar/rank_time_series.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020b1cfc3df4d9d5d4cbce9208ab67616d00001e0210356a0e81371e6644cb1371ab67616d00001e02c08d5fa5c0f1a834acef5100ab67616d00001e02c450c89d3eb750d3535b0a0c" alt="" width="50" /> | 9 | [Hip Hop](../../playlists/hip_hop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e0286ca91e718866f411c01db5eab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Beat Drop!](../../playlists/beat_drop!/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e0286ca91e718866f411c01db5eab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02ce4f1737bc8a646c8c4bd25a" alt="" width="50" /> | 1 | [Beat Drop!](../../playlists/beat_drop!/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02830de2e836036f181df598d0ab67616d00001e02af2fda9fb591d43c355c2ac3ab67616d00001e02cc6f76f75551af499b5cd0cbab67616d00001e02da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | 3 | 2 | DAMN. | 2017-04-14 | [🔗](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | 3 | 3 | DAMN. | 2017-04-14 | [🔗](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | 2 | 2 | Mr. Morale & The Big Steppers | 2022-05-13 | [🔗](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888" alt="" width="50" /> | 1 | 1 | Black Panther The Album Music From And Inspired By | 2018-02-09 | [🔗](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797" alt="" width="50" /> | 1 | 0 | good kid, m.A.A.d city | 2012 | [🔗](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) |
@@ -36,7 +36,7 @@ Kendrick Lamar is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 7 | 4 | [Aftermath](../../labels/aftermath/overview.md) |
+| 7 | 5 | [Aftermath](../../labels/aftermath/overview.md) |
 | 2 | 2 | pgLang |
 | 2 | 2 | Top Dawg Entertainment |
 | 2 | 2 | [Interscope Records](../../labels/interscope_records/overview.md) |
@@ -59,7 +59,7 @@ Kendrick Lamar is currently:
 | Credit Type | Tracks |
 |:---|---:|
 | Producer | 2 |
-| Songwriter | 4 |
+| Songwriter | 5 |
 
 ### Production Credits
 
@@ -67,6 +67,7 @@ Kendrick Lamar is currently:
 |:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | DNA. | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | LOVE. FEAT. ZACARI. | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | HUMBLE. | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888" alt="" width="50" /> | All The Stars (with SZA) | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | United In Grief | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | Count Me Out | Producer |
@@ -75,16 +76,16 @@ Kendrick Lamar is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | [Kendrick Lamar](overview.md) | 5 | Songwriter |
 | | [Sounwave](../../producers/sounwave/overview.md) | 4 | Producer, Songwriter, Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | [Kendrick Lamar](overview.md) | 4 | Songwriter |
+| | Derek Ali | 3 | Producer |
 | | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 2 | Producer |
-| | Derek Ali | 2 | Producer |
+| | Matt Schaeffer | 2 | Producer, Songwriter |
 | | Tim Maxey | 2 | Producer, Songwriter |
 | | OKLAMA | 2 | Producer |
-| | Matt Schaeffer | 2 | Producer, Songwriter |
+| | Mike WiLL Made-It | 2 | Producer, Songwriter |
 | | J.LBS | 2 | Producer, Songwriter |
 | | Anthony Tiffith | 2 | Producer, Songwriter |
-| | Teddy Walton | 1 | Producer, Songwriter |
 
 
 <details>
@@ -92,7 +93,8 @@ Kendrick Lamar is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebdb78fbd1c000f16792795648" alt="" width="50" /> | Zacari | 1 | Songwriter |
+| | Jake Kosich | 1 | Songwriter |
+| | Al Shux | 1 | Producer, Songwriter |
 | | Zeke Mishanec | 1 | Producer |
 | | [Greg Kurstin](../../producers/greg_kurstin/overview.md) | 1 | Producer, Songwriter |
 | | Beach Noise | 1 | Producer |
@@ -100,16 +102,15 @@ Kendrick Lamar is currently:
 | | Sam Ricci | 1 | Producer |
 | | Johnathan Turner | 1 | Producer |
 | | James Hunt | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdb78fbd1c000f16792795648" alt="" width="50" /> | Zacari | 1 | Songwriter |
 | | Duval Timothy | 1 | Producer, Songwriter |
-| | Jake Kosich | 1 | Songwriter |
 | | Sam Dew | 1 | Songwriter |
 | | Ezinma | 1 | Arranger |
-| | Mike WiLL Made-It | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | SZA | 1 | Songwriter |
 | | Brendan Silas Perry | 1 | Producer |
 | | DJ Dahi | 1 | Producer |
 | | Johnny Kosich | 1 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | SZA | 1 | Songwriter |
-| | Al Shux | 1 | Producer, Songwriter |
+| | Teddy Walton | 1 | Producer, Songwriter |
 | | Ray Charles Brown, Jr | 1 | Producer |
 
 </details>
@@ -123,7 +124,7 @@ Kendrick Lamar is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797" alt="" width="50" /> | Money Trees | good kid, m.A.A.d city | [Kendrick Lamar](overview.md), Jay Rock | [Aftermath](../../labels/aftermath) | nan | | [🔗](https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1" alt="" width="50" /> | Alright | To Pimp A Butterfly | [Kendrick Lamar](overview.md) | [Aftermath](../../labels/aftermath) | nan | | [🔗](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | DNA. | DAMN. | [Kendrick Lamar](overview.md) | [Aftermath](../../labels/aftermath) | nan | 💚 | [🔗](https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | HUMBLE. | DAMN. | [Kendrick Lamar](overview.md) | [Aftermath](../../labels/aftermath) | nan | | [🔗](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | HUMBLE. | DAMN. | [Kendrick Lamar](overview.md) | [Aftermath](../../labels/aftermath) | nan | 💚 | [🔗](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | LOVE. FEAT. ZACARI. | DAMN. | [Kendrick Lamar](overview.md), Zacari | [Aftermath](../../labels/aftermath) | nan | 💚 | [🔗](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888" alt="" width="50" /> | All The Stars (with SZA) | Black Panther The Album Music From And Inspired By | [Kendrick Lamar](overview.md), SZA | Black Panther (TDE/DMG) PS | nan | 💚 | [🔗](https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="" width="50" /> | Momma I Hit A Lick (feat. Kendrick Lamar) | Rap Or Go To The League | 2 Chainz, [Kendrick Lamar](overview.md) | [Gamebread, LLC / Def Jam Recordings](../../labels/def_jam_recordings) | nan | | [🔗](https://open.spotify.com/track/7jKUnzzOGhAlPjr7LkIUlE) |

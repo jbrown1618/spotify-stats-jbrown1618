@@ -32,9 +32,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0550f0badff3ad04802b1e86" alt="" width="50" /> | 1 | 0 | RAYE | [🔗](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | 1 | 0 | [Daft Punk](../../../artists/daft_punk/overview.md) | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb09b06c6e39518619ecd56ec5" alt="" width="50" /> | 1 | 0 | Jax Jones | [🔗](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6be533248c7e096ab0119387" alt="" width="50" /> | 1 | 0 | Mndsgn | [🔗](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb274df4dfcb960867eccedfb5" alt="" width="50" /> | 1 | 0 | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe07fdc10170ec7e5973ad565" alt="" width="50" /> | 1 | 0 | Sofie Royer | [🔗](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba6ab3c4df02cec59758ae3fa" alt="" width="50" /> | 1 | 0 | Chance the Rapper | [🔗](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | 1 | 0 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | 1 | 0 | [Lady Gaga](../../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
@@ -68,7 +66,6 @@
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d9aa52355e062f5de060adbf" alt="" width="50" /> | 1 | 0 | This Is What You Came For | 2016-04-29 | [🔗](https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="" width="50" /> | 1 | 0 | Starboy | 2016-11-25 | [🔗](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f018a687cc12aa41e7b4cd80" alt="" width="50" /> | 1 | 0 | Sofie's SOS Tape | 2016-12-16 | [🔗](https://open.spotify.com/album/4HSL9qNMgDUNQFngd3ODit) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3724ff57308e247c99101dd" alt="" width="50" /> | 1 | 0 | Show Me Love (feat. Chance The Rapper, Moses Sumney and Robin Hannibal) [Skrillex Remix] | 2016-03-22 | [🔗](https://open.spotify.com/album/7pPVcx3O9eZrPCgBmpW5HV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1" alt="" width="50" /> | 1 | 0 | Joanne (Deluxe) | 2016-10-21 | [🔗](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c77bcf5f5a227d270d23370" alt="" width="50" /> | 1 | 0 | In the Name of Love | 2016-07-29 | [🔗](https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK) |
@@ -116,7 +113,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="" width="50" /> | I Feel It Coming | Starboy | The Weeknd, [Daft Punk](../../../artists/daft_punk/overview.md) | Universal Republic Records | nan | | [🔗](https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ae921f082ae5db4d3da818f" alt="" width="50" /> | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN, [Taylor Swift](../../../artists/taylor_swift/overview.md) | Universal Music Group | nan | | [🔗](https://open.spotify.com/track/3NdDpSvN911VPGivFlV5d0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d883d3f10af481faa3c7e04" alt="" width="50" /> | You Don't Know Me | You Don't Know Me | Jax Jones, RAYE | [Polydor Records](../../../labels/polydor_records) | nan | | [🔗](https://open.spotify.com/track/1rFMYAZxBoAKSzXI54brMu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f018a687cc12aa41e7b4cd80" alt="" width="50" /> | Abeja | Sofie's SOS Tape | Mndsgn, Sofie Royer | Stones Throw Records | nan | | [🔗](https://open.spotify.com/track/3mvaD4yyX71CV1idcd5lfJ) |
 
 </details>
 

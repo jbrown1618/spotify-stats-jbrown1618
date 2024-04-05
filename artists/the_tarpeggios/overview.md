@@ -24,8 +24,7 @@ The Tarpeggios:
 
 ## Artist Rank
 The Tarpeggios is currently:
-- The #43 artist of the last month
-- The #50 artist of all time
+- The #45 artist of the last month
 
 ![Rank of The Tarpeggios over time](../../images/artists/the_tarpeggios/rank_time_series.png)
 ## Top Tracks
@@ -64,10 +63,10 @@ The Tarpeggios is currently:
 
 | | George Harrison | Ringo Starr | [John Lennon](../../producers/john_lennon/overview.md) | [Paul McCartney](../../producers/paul_mccartney/overview.md) |
 |:---|---:|---:|---:|---:|
-| Instrument | 19 | 17 | 17 | 21 |
+| Instrument | 20 | 18 | 18 | 22 |
 | Lyricist | 2 | 0 | 1 | 0 |
-| Songwriter | 2 | 0 | 21 | 20 |
-| Vocal | 12 | 0 | 15 | 21 |
+| Songwriter | 2 | 0 | 22 | 21 |
+| Vocal | 12 | 0 | 16 | 21 |
 ### Production Credits
 
 | Art | Track | Members | Credit Types |
@@ -99,6 +98,7 @@ The Tarpeggios is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | Oh! Darling - Remastered 2009 | [John Lennon](../../../producers/john_lennon/overview.md), [Paul McCartney](../../../producers/paul_mccartney/overview.md) | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | I Want You (She's So Heavy) - Remastered 2009 | [John Lennon](../../../producers/john_lennon/overview.md), [Paul McCartney](../../../producers/paul_mccartney/overview.md) | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Get Back - Remastered 2009 | [John Lennon](../../../producers/john_lennon/overview.md), [Paul McCartney](../../../producers/paul_mccartney/overview.md) | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Across The Universe - Remastered 2009 | [John Lennon](../../../producers/john_lennon/overview.md), [Paul McCartney](../../../producers/paul_mccartney/overview.md) | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | Let It Be - Remastered 2009 | [John Lennon](../../../producers/john_lennon/overview.md), [Paul McCartney](../../../producers/paul_mccartney/overview.md) | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="" width="50" /> | Day Tripper - Remastered 2015 | [John Lennon](../../../producers/john_lennon/overview.md), [Paul McCartney](../../../producers/paul_mccartney/overview.md) | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="" width="50" /> | Imagine | [John Lennon](../../../producers/john_lennon/overview.md) | Lyricist, Songwriter |
@@ -110,8 +110,8 @@ The Tarpeggios is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | I See Fire | The Teal Album | [The Tarpeggios](overview.md) | The Unc - Chapel Hill Tarpeggios | 624 | 💚 | [🔗](https://open.spotify.com/track/4Mp2l1tCHxnm65a6yQ8lph) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Settle Down | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | 656 | 💚 | [🔗](https://open.spotify.com/track/2RGGnyqlJ65QcpA4FggZ2x) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | I See Fire | The Teal Album | [The Tarpeggios](overview.md) | The Unc - Chapel Hill Tarpeggios | 628 | 💚 | [🔗](https://open.spotify.com/track/4Mp2l1tCHxnm65a6yQ8lph) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Settle Down | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | 661 | 💚 | [🔗](https://open.spotify.com/track/2RGGnyqlJ65QcpA4FggZ2x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Carolina State of Mind | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | 💚 | [🔗](https://open.spotify.com/track/60xweUiIfi93UhZEDN3DKY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Chariot | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/0of5rsasONYN34mx4rSgsn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Home | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | 💚 | [🔗](https://open.spotify.com/track/5EiVVKFfodbFiHTCFEB1i3) |
