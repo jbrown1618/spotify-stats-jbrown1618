@@ -261,7 +261,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273cab1d5724ddfed3aa8a4fd0f" alt="" width="50" /> | 3 | 2 | PSY 9th | 2022-04-29 | [🔗](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="" width="50" /> | 3 | 2 | ORANGE BLOOD | 2023-11-17 | [🔗](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735fb4a9cfbeb3b7beb337ed02" alt="" width="50" /> | 3 | 2 | IM NAYEON | 2022-06-24 | [🔗](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730d55f8c4b87267bcb003d57d" alt="" width="50" /> | 3 | 2 | HARMONY : SET IN | 2022-11-30 | [🔗](https://open.spotify.com/album/1JDHisMjuJ1QkhcXiiLnnX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730cbf8dc7b194aa11242ec3a7" alt="" width="50" /> | 3 | 2 | HEAT | 2023-10-04 | [🔗](https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m) |
 
 </details>
 
@@ -389,7 +389,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 970 | 704 | [k-pop](../../genres/k-pop/overview.md) |
+| 969 | 704 | [k-pop](../../genres/k-pop/overview.md) |
 | 520 | 396 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 307 | 204 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 194 | 139 | [pop](../../genres/pop/overview.md) |
@@ -590,8 +590,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273bf32f4be80afeb0e1a09b27d" alt="Officially Cool" width="50" /> | Officially Cool (2024-04-02) | <img src="https://i.scdn.co/image/ab67616d0000b273a193f0e1f6d7fb40727c5e30" alt="Hug" width="50" /> | Hug (2004-01-14) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734f6afc385052250c766a5683" alt="BABYMONS7ER" width="50" /> | BABYMONS7ER (2024-04-01) | <img src="https://i.scdn.co/image/ab67616d0000b27382b88b49dd9a1b387cb3f0c6" alt="TRI-ANGLE - 1st Album" width="50" /> | TRI-ANGLE - 1st Album (2004-10-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b75a7d2227a1a032a8a776e5" alt="Fraggle Rock: Back To The Rock - Season 2 (Apple TV+ Original Series Soundtrack)" width="50" /> | Fraggle Rock: Back To The Rock - Season 2 (Apple TV+ Original Series Soundtrack) (2024-03-29) | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="It&#x27;s Raining" width="50" /> | It's Raining (2004-10-08) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb692ba736f1102246f7994f" alt="Re:Scene" width="50" /> | Re:Scene (2024-03-26) | <img src="https://i.scdn.co/image/ab67616d0000b27301f2ffc72e8c0556b3abad4c" alt="Girls On Top" width="50" /> | Girls On Top (2005-06-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f36e973cb830845b56621f78" alt="Emptiness" width="50" /> | Emptiness (2024-03-26) | <img src="https://i.scdn.co/image/ab67616d0000b273c5f539a520f9ce9f28ccd1e5" alt="The Wonder Years" width="50" /> | The Wonder Years (2007-09-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="SUPER REAL ME" width="50" /> | SUPER REAL ME (2024-03-25) | <img src="https://i.scdn.co/image/ab67616d0000b2731111b7562b4b46870d27f98b" alt="Girls&#x27; Generation" width="50" /> | Girls' Generation (2007-11-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="DREAM( )SCAPE" width="50" /> | DREAM( )SCAPE (2024-03-25) | <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> | So Hot (2008-06-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f36e973cb830845b56621f78" alt="Emptiness" width="50" /> | Emptiness (2024-03-26) | <img src="https://i.scdn.co/image/ab67616d0000b27301f2ffc72e8c0556b3abad4c" alt="Girls On Top" width="50" /> | Girls On Top (2005-06-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb692ba736f1102246f7994f" alt="Re:Scene" width="50" /> | Re:Scene (2024-03-26) | <img src="https://i.scdn.co/image/ab67616d0000b273c5f539a520f9ce9f28ccd1e5" alt="The Wonder Years" width="50" /> | The Wonder Years (2007-09-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="DREAM( )SCAPE" width="50" /> | DREAM( )SCAPE (2024-03-25) | <img src="https://i.scdn.co/image/ab67616d0000b2731111b7562b4b46870d27f98b" alt="Girls&#x27; Generation" width="50" /> | Girls' Generation (2007-11-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="SUPER REAL ME" width="50" /> | SUPER REAL ME (2024-03-25) | <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> | So Hot (2008-06-03) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f7540ea5cd0831b2c7e4ff9" alt="BXX" width="50" /> | BXX (2024-03-19) | <img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="The SHINee World - The First Album" width="50" /> | The SHINee World - The First Album (2008-08-28) |

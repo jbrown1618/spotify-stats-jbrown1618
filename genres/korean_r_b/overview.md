@@ -1,6 +1,6 @@
 # korean r&b
 
-63 songs
+64 songs
 
 [See Track Features](audio_features.md)
 
@@ -12,10 +12,10 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 10 | 10 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb56c617b7ca5ab250de5f8575" alt="" width="50" /> | 12 | 8 | [HEIZE](../../artists/heize/overview.md) | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0380068b5097515265c51f4b" alt="" width="50" /> | 6 | 4 | DEAN | [🔗](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf5ef01e430d31a4b0680126f" alt="" width="50" /> | 5 | 4 | [Crush](../../artists/crush/overview.md) | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e6641ca1d8e86529cccdd32" alt="" width="50" /> | 5 | 4 | SURAN | [🔗](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb496189630cd3cb0c7b593fee" alt="" width="50" /> | 5 | 3 | TAEYANG | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0380068b5097515265c51f4b" alt="" width="50" /> | 5 | 3 | DEAN | [🔗](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb897d3a31965b6c024704c71" alt="" width="50" /> | 4 | 3 | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b4f4e41ade4e4d1216ef20a" alt="" width="50" /> | 4 | 2 | WOODZ | [🔗](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb639dc73ec795e329d064dbb2" alt="" width="50" /> | 4 | 2 | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
@@ -63,16 +63,16 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="RISE" width="50" /> | 눈,코,입 (Eyes, Nose, Lips) | 43 | <img src="https://i.scdn.co/image/ab67616d0000b273632620401c34d07336a091bc" alt="Natural" width="50" /> | Natural | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="RISE" width="50" /> | 눈,코,입 (Eyes, Nose, Lips) | 44 | <img src="https://i.scdn.co/image/ab67616d0000b273632620401c34d07336a091bc" alt="Natural" width="50" /> | Natural | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | [Animal Farm](../../artists/bibi/overview.md) | 89 | <img src="https://i.scdn.co/image/ab67616d0000b273004951e81c300bdfe1634a39" alt="Doona! (Music from The Netflix Series)" width="50" /> | Full Moon | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c0252c4e4a988f024e4d262" alt="WINE" width="50" /> | WINE (Feat.Changmo) (Prod. SUGA) | 117 | <img src="https://i.scdn.co/image/ab67616d0000b2737f22ff3c2da84dfc06101e23" alt="And July" width="50" /> | [And July](../../artists/heize/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="Undo" width="50" /> | [Undo](../../artists/heize/overview.md) | 190 | <img src="https://i.scdn.co/image/ab67616d0000b2738368fc4dff4622c0e00e6dbf" alt="Sun And Moon" width="50" /> | Make Up (Feat. Crush) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="VingleVingle" width="50" /> | [VingleVingle (Prod. R.Tee)](../../artists/heize/overview.md) | 217 | <img src="https://i.scdn.co/image/ab67616d0000b2735ad10134b598cfca8792b9af" alt="Can&#x27;t Stop This Party" width="50" /> | Can't Stop This Party | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cb95963709806e12d93128d4" alt="Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2" width="50" /> | Say Yes | 263 | <img src="https://i.scdn.co/image/ab67616d0000b2734b378770cd6b77e86f8a6288" alt="WORLDWIDE" width="50" /> | MOMMAE (Feat. Ugly Duck) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733b414bbbf73c81957c8b7541" alt="Last Winter" width="50" /> | [FM 89.1](../../artists/heize/overview.md) | 274 | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | [Wet Nightmare](../../artists/bibi/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735c2efa8ce12c99a92b914e20" alt="Street Man Fighter Original Vol.3 (Mission by Rank)" width="50" /> | LAW (Prod. Czaer) | 295 | <img src="https://i.scdn.co/image/ab67616d0000b273168258bceeef84be1d0c9301" alt="HAPPEN" width="50" /> | [HAPPEN](../../artists/heize/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c5543b3cce74f3edafcc8f59" alt="Bam Yang Gang" width="50" /> | [Sugar Rush](../../artists/bibi/overview.md) | 311 | <img src="https://i.scdn.co/image/ab67616d0000b2739b5b9760a4d371d2253f4d6f" alt="HER" width="50" /> | JACKPOT | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="Down to Earth" width="50" /> | Shoong! (feat. LISA of BLACKPINK) | 370 | <img src="https://i.scdn.co/image/ab67616d0000b2737f22ff3c2da84dfc06101e23" alt="And July" width="50" /> | [Shut Up & Groove](../../artists/heize/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="VingleVingle" width="50" /> | [VingleVingle (Prod. R.Tee)](../../artists/heize/overview.md) | 220 | <img src="https://i.scdn.co/image/ab67616d0000b2735ad10134b598cfca8792b9af" alt="Can&#x27;t Stop This Party" width="50" /> | Can't Stop This Party | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733b414bbbf73c81957c8b7541" alt="Last Winter" width="50" /> | [FM 89.1](../../artists/heize/overview.md) | 229 | <img src="https://i.scdn.co/image/ab67616d0000b2734b378770cd6b77e86f8a6288" alt="WORLDWIDE" width="50" /> | MOMMAE (Feat. Ugly Duck) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cb95963709806e12d93128d4" alt="Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2" width="50" /> | Say Yes | 266 | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | [Wet Nightmare](../../artists/bibi/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c2efa8ce12c99a92b914e20" alt="Street Man Fighter Original Vol.3 (Mission by Rank)" width="50" /> | LAW (Prod. Czaer) | 285 | <img src="https://i.scdn.co/image/ab67616d0000b273168258bceeef84be1d0c9301" alt="HAPPEN" width="50" /> | [HAPPEN](../../artists/heize/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5543b3cce74f3edafcc8f59" alt="Bam Yang Gang" width="50" /> | [Sugar Rush](../../artists/bibi/overview.md) | 315 | <img src="https://i.scdn.co/image/ab67616d0000b2739b5b9760a4d371d2253f4d6f" alt="HER" width="50" /> | JACKPOT | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c6e894ccfb8214d3f68b0cb4" alt="wonderego" width="50" /> | [Hmm-cheat](../../artists/crush/overview.md) | 356 | <img src="https://i.scdn.co/image/ab67616d0000b2737f22ff3c2da84dfc06101e23" alt="And July" width="50" /> | [Shut Up & Groove](../../artists/heize/overview.md) | nan |
 
 ## Top Albums
 
@@ -84,10 +84,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c2efa8ce12c99a92b914e20" alt="" width="50" /> | 2 | 2 | Street Man Fighter Original Vol.3 (Mission by Rank) | 2022-09-06 | [🔗](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a55f6bf87219ecb5505e72e4" alt="" width="50" /> | 2 | 2 | ONLY LOVERS LEFT | 2021-10-05 | [🔗](https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5543b3cce74f3edafcc8f59" alt="" width="50" /> | 2 | 2 | Bam Yang Gang | 2024-02-13 | [🔗](https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="" width="50" /> | 2 | 2 | 130 Mood : TRBL | 2016-03-25 | [🔗](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c0f17fbae890e66fe861b29" alt="" width="50" /> | 2 | 1 | Street Woman Fighter2 (SWF2) Class Mission | 2023-09-05 | [🔗](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f22ff3c2da84dfc06101e23" alt="" width="50" /> | 2 | 1 | And July | 2016-07-18 | [🔗](https://open.spotify.com/album/3xUWeFeLn6m3NXKr0FlT3E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6e894ccfb8214d3f68b0cb4" alt="" width="50" /> | 1 | 1 | wonderego | 2023-11-14 | [🔗](https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e5b72a052cd11134380eeb8a" alt="" width="50" /> | 1 | 1 | Wish & Wind | 2018-03-08 | [🔗](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) |
 
 
 <details>
@@ -95,6 +95,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273e5b72a052cd11134380eeb8a" alt="" width="50" /> | 1 | 1 | Wish & Wind | 2018-03-08 | [🔗](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c0252c4e4a988f024e4d262" alt="" width="50" /> | 1 | 1 | WINE | 2017-04-27 | [🔗](https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="" width="50" /> | 1 | 1 | VingleVingle | 2023-04-05 | [🔗](https://open.spotify.com/album/10Ldh1KXu0ySjpfiX6qLXQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="" width="50" /> | 1 | 1 | Undo | 2022-06-30 | [🔗](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) |
@@ -123,7 +124,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ad10134b598cfca8792b9af" alt="" width="50" /> | 1 | 1 | Can't Stop This Party | 2022-03-22 | [🔗](https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da49cfeacb25379ce1c0f6c0" alt="" width="50" /> | 1 | 1 | Amigos (with Becky G) | 2023-11-17 | [🔗](https://open.spotify.com/album/3HtYZEKcsbFqEzKX8xntam) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a38fcfd623020295c4b0dd6f" alt="" width="50" /> | 1 | 1 | Abyss (Original Television Soundtrack), Pt. 1 | 2019-05-14 | [🔗](https://open.spotify.com/album/0OLyahO2nuY0qQKoykd7Vy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="" width="50" /> | 1 | 1 | 130 Mood : TRBL | 2016-03-25 | [🔗](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f8932cd9cb090069d7ba046" alt="" width="50" /> | 1 | 0 | Walkin' | 2017-06-02 | [🔗](https://open.spotify.com/album/2T09zKIYfKNHMOAkwHpEwp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b378770cd6b77e86f8a6288" alt="" width="50" /> | 1 | 0 | WORLDWIDE | 2015-11-05 | [🔗](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c9c58101394306d8fccaeeb8" alt="" width="50" /> | 1 | 0 | Very Good | 2013-10-02 | [🔗](https://open.spotify.com/album/5AujjoJ3gAth9YnrIXa7Ww) |
@@ -152,9 +152,9 @@
 | 5 | 5 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 4 | 4 | FeelGhoodMusic |
 | 4 | 4 | Feel Ghood Music |
+| 3 | 3 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 3 | 2 | Million Market |
 | 2 | 2 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
-| 2 | 2 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 3 | 1 | THEBLACKLABEL |
 | 3 | 1 | [Interscope Records](../../labels/interscope_records/overview.md) |
 

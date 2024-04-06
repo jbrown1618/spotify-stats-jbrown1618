@@ -1,6 +1,6 @@
 # pop
 
-652 songs
+653 songs
 
 [See Track Features](audio_features.md)
 
@@ -133,7 +133,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [How You Like That](../../artists/blackpink/overview.md) | 9 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="1989" width="50" /> | [Clean](../../artists/taylor_swift/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1d785640d9421ec17ea8fe6" alt="BBIBBI" width="50" /> | [BBIBBI](../../artists/iu/overview.md) | 15 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="MAXIDENT" width="50" /> | [SUPER BOARD](../../artists/stray_kids/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | [My sea](../../artists/iu/overview.md) | 18 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="reputation" width="50" /> | [This Is Why We Can't Have Nice Things](../../artists/taylor_swift/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="Eyes Wide Open" width="50" /> | [I CAN'T STOP ME](../../artists/twice/overview.md) | 19 | <img src="https://i.scdn.co/image/ab67616d0000b2732666df197eac73ae823e1e67" alt="2 Cool 4 Skool" width="50" /> | [No More Dream](../../artists/bts/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="Eyes Wide Open" width="50" /> | [I CAN'T STOP ME](../../artists/twice/overview.md) | 20 | <img src="https://i.scdn.co/image/ab67616d0000b2732666df197eac73ae823e1e67" alt="2 Cool 4 Skool" width="50" /> | [No More Dream](../../artists/bts/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | [Coin](../../artists/iu/overview.md) | 27 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="Loud" width="50" /> | [S&M](../../artists/rihanna/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | [LILAC](../../artists/iu/overview.md) | 32 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [epiphany](../../artists/taylor_swift/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="NOEASY" width="50" /> | [Thunderous](../../artists/stray_kids/overview.md) | 34 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | [Clocks](../../artists/coldplay/overview.md) | nan |
@@ -280,9 +280,9 @@
 | 15 | 13 | [Darkroom](../../labels/darkroom/overview.md) |
 | 23 | 12 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 14 | 12 | [Def Jam Recordings](../../labels/def_jam_recordings/overview.md) |
+| 18 | 11 | [Epic](../../labels/epic/overview.md) |
 | 17 | 11 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 17 | 11 | [Syco Music](../../labels/syco_music/overview.md) |
-| 17 | 11 | [Epic](../../labels/epic/overview.md) |
 | 14 | 10 | [Jive](../../labels/jive/overview.md) |
 | 11 | 10 | [EDAM Entertainment](../../labels/edam_entertainment/overview.md) |
 | 12 | 7 | [Capitol Records](../../labels/capitol_records/overview.md) |
@@ -353,6 +353,7 @@
 | 1 | 0 | [Virgin Records](../../labels/virgin_records/overview.md) |
 | 1 | 0 | Universal Republic Records |
 | 1 | 0 | Universal Music Group |
+| 1 | 0 | Tori Kelly |
 | 1 | 0 | Sony Music UK |
 | 1 | 0 | Silver Cloud |
 | 1 | 0 | Silent Records IGA |
@@ -365,7 +366,6 @@
 | 1 | 0 | Decaydance |
 | 1 | 0 | DJ Snake Music Productions Limited |
 | 1 | 0 | Charlie's Angels |
-| 1 | 0 | Capitol Records (CAP) |
 
 </details>
 
@@ -492,15 +492,15 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734063d624ebf8ff67bc3701ee" alt="GUTS (spilled)" width="50" /> | GUTS (spilled) (2024-03-22) | <img src="https://i.scdn.co/image/ab67616d0000b2736b18e58a06aac7763abe319a" alt="Like a Virgin" width="50" /> | Like a Virgin (1984-11-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="eternal sunshine" width="50" /> | eternal sunshine (2024-03-08) | <img src="https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f" alt="Merry Christmas" width="50" /> | Merry Christmas (1994-10-28) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="With YOU-th" width="50" /> | With YOU-th (2024-02-23) | <img src="https://i.scdn.co/image/ab67616d0000b27363facc42e4a35eb3aa182b59" alt="Spice" width="50" /> | Spice (1996-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="The Winning" width="50" /> | The Winning (2024-02-20) | <img src="https://i.scdn.co/image/ab67616d0000b27306ce0d1f846c525e847d60e7" alt="Believe" width="50" /> | Believe (1998) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="ROCK-STAR" width="50" /> | ROCK-STAR (2023-11-10) | <img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="...Baby One More Time (Digital Deluxe Version)" width="50" /> | ...Baby One More Time (Digital Deluxe Version) (1999-01-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" alt="GUTS" width="50" /> | GUTS (2023-09-08) | <img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="Millennium" width="50" /> | Millennium (1999-05-18) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cd222052a2594be29a6616b5" alt="Endless Summer Vacation" width="50" /> | Endless Summer Vacation (2023-08-18) | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> | No Strings Attached (2000-03-21) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30" alt="Paint The Town Red" width="50" /> | Paint The Town Red (2023-08-04) | <img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="Oops!... I Did It Again" width="50" /> | Oops!... I Did It Again (2000-05-16) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e" alt="What Was I Made For? [From The Motion Picture &quot;Barbie&quot;]" width="50" /> | What Was I Made For? [From The Motion Picture "Barbie"] (2023-07-13) | <img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="Parachutes" width="50" /> | Parachutes (2000-07-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481" alt="Speak Now (Taylor&#x27;s Version)" width="50" /> | Speak Now (Taylor's Version) (2023-07-07) | <img src="https://i.scdn.co/image/ab67616d0000b273687e8a165b272440a68a480f" alt="Moulin Rouge" width="50" /> | Moulin Rouge (2001-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ec242db89d7c0703ca2494f3" alt="TORI." width="50" /> | TORI. (2024-04-05) | <img src="https://i.scdn.co/image/ab67616d0000b2736b18e58a06aac7763abe319a" alt="Like a Virgin" width="50" /> | Like a Virgin (1984-11-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734063d624ebf8ff67bc3701ee" alt="GUTS (spilled)" width="50" /> | GUTS (spilled) (2024-03-22) | <img src="https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f" alt="Merry Christmas" width="50" /> | Merry Christmas (1994-10-28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="eternal sunshine" width="50" /> | eternal sunshine (2024-03-08) | <img src="https://i.scdn.co/image/ab67616d0000b27363facc42e4a35eb3aa182b59" alt="Spice" width="50" /> | Spice (1996-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="With YOU-th" width="50" /> | With YOU-th (2024-02-23) | <img src="https://i.scdn.co/image/ab67616d0000b27306ce0d1f846c525e847d60e7" alt="Believe" width="50" /> | Believe (1998) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="The Winning" width="50" /> | The Winning (2024-02-20) | <img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="...Baby One More Time (Digital Deluxe Version)" width="50" /> | ...Baby One More Time (Digital Deluxe Version) (1999-01-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="ROCK-STAR" width="50" /> | ROCK-STAR (2023-11-10) | <img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="Millennium" width="50" /> | Millennium (1999-05-18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" alt="GUTS" width="50" /> | GUTS (2023-09-08) | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> | No Strings Attached (2000-03-21) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd222052a2594be29a6616b5" alt="Endless Summer Vacation" width="50" /> | Endless Summer Vacation (2023-08-18) | <img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="Oops!... I Did It Again" width="50" /> | Oops!... I Did It Again (2000-05-16) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30" alt="Paint The Town Red" width="50" /> | Paint The Town Red (2023-08-04) | <img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="Parachutes" width="50" /> | Parachutes (2000-07-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e" alt="What Was I Made For? [From The Motion Picture &quot;Barbie&quot;]" width="50" /> | What Was I Made For? [From The Motion Picture "Barbie"] (2023-07-13) | <img src="https://i.scdn.co/image/ab67616d0000b273687e8a165b272440a68a480f" alt="Moulin Rouge" width="50" /> | Moulin Rouge (2001-01-01) |
 
 ![Bar chart of number of songs by year](../../images/genres/pop/years.png)

@@ -147,7 +147,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="Windy" width="50" /> | [BEAM BEAM](../../artists/jeon_soyeon/overview.md) | 13 | <img src="https://i.scdn.co/image/ab67616d0000b2737e727cab5d2d30dd47d99e30" alt="1+1=1" width="50" /> | PING PONG | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | [LOCO](../../artists/itzy/overview.md) | 16 | <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="MAP OF THE SOUL : 7" width="50" /> | [ON](../../artists/bts/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735b3685b06e22d32bed46c962" alt="DESSERT" width="50" /> | DESSERT | 17 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Believer | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="Eyes Wide Open" width="50" /> | [I CAN'T STOP ME](../../artists/twice/overview.md) | 19 | <img src="https://i.scdn.co/image/ab67616d0000b27349ae714ee0bf50ca0838ed0f" alt="THE WORLD EP.1 : MOVEMENT" width="50" /> | [Guerrilla](../../artists/ateez/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="MANIFESTO : DAY 1" width="50" /> | [ParadoXXX Invasion](../../artists/enhypen/overview.md) | 19 | <img src="https://i.scdn.co/image/ab67616d0000b27349ae714ee0bf50ca0838ed0f" alt="THE WORLD EP.1 : MOVEMENT" width="50" /> | [Guerrilla](../../artists/ateez/overview.md) | nan |
 
 </details>
 

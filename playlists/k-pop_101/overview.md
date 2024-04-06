@@ -95,8 +95,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1d785640d9421ec17ea8fe6" alt="BBIBBI" width="50" /> | [BBIBBI](../../artists/iu/overview.md) | 15 | <img src="https://i.scdn.co/image/ab67616d0000b273829305487c8f3b96a1d955b3" alt="Love Yourself 承 &#x27;Her&#x27;" width="50" /> | [DNA](../../artists/bts/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="LOVE SHOT– The 5th Album Repackage" width="50" /> | [Love Shot](../../artists/exo/overview.md) | 29 | <img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="HARMONY : ZERO IN" width="50" /> | [Doom Du Doom](../../artists/p1harmony/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c041fe9e3c9de436047d86b" alt="I Am The Best" width="50" /> | I Am The Best | 30 | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="AD MARE" width="50" /> | [O.O](../../artists/nmixx/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 33 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c07b020417770f3385448f" alt="回:Walpurgis Night" width="50" /> | MAGO | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="RISE" width="50" /> | 눈,코,입 (Eyes, Nose, Lips) | 43 | <img src="https://i.scdn.co/image/ab67616d0000b273a49014cd80722aa2ac64c87d" alt="Just Right" width="50" /> | Just Right | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 35 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c07b020417770f3385448f" alt="回:Walpurgis Night" width="50" /> | MAGO | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="RISE" width="50" /> | 눈,코,입 (Eyes, Nose, Lips) | 44 | <img src="https://i.scdn.co/image/ab67616d0000b273a49014cd80722aa2ac64c87d" alt="Just Right" width="50" /> | Just Right | nan |
 
 </details>
 

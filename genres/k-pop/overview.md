@@ -73,6 +73,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e75f2e6bee76a3cea21cd51" alt="" width="50" /> | 9 | 4 | TAEMIN | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb271110d977700b69d9548993" alt="" width="50" /> | 8 | 4 | EXID | [🔗](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | 6 | 4 | f(x) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0380068b5097515265c51f4b" alt="" width="50" /> | 6 | 4 | DEAN | [🔗](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | 6 | 4 | [Jackson Wang](../../artists/jackson_wang/overview.md) | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40a7268dd742e5f63759b960" alt="" width="50" /> | 5 | 4 | Jung Kook | [🔗](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | 5 | 4 | BIGBANG | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
@@ -83,7 +84,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bfb46687cb00b51b9e65c50" alt="" width="50" /> | 6 | 3 | Moon Byul | [🔗](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb496189630cd3cb0c7b593fee" alt="" width="50" /> | 5 | 3 | TAEYANG | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27336adcea4e93245f1fec547df" alt="" width="50" /> | 5 | 3 | AOA | [🔗](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0380068b5097515265c51f4b" alt="" width="50" /> | 5 | 3 | DEAN | [🔗](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | 5 | 3 | Wonder Girls | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8acf72a6c3da24a6483255fa" alt="" width="50" /> | 4 | 3 | JEON SOMI | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf58d1dda95d21ff6c0c8354f" alt="" width="50" /> | 4 | 3 | KAI | [🔗](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) |
@@ -268,7 +268,7 @@
 | 40 | 29 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
 | 37 | 27 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 25 | 20 | [Kakao Entertainment](../../labels/kakao_entertainment/overview.md) |
-| 25 | 14 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
+| 24 | 14 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
 
 
 <details>
@@ -276,7 +276,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 19 | 13 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
+| 20 | 14 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 19 | 13 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
 | 19 | 11 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 16 | 11 | [High Up Entertainment](../../labels/high_up_entertainment/overview.md) |
@@ -499,8 +499,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="EENIE MEENIE" width="50" /> | EENIE MEENIE (2024-03-11) | <img src="https://i.scdn.co/image/ab67616d0000b2731320580741caccf7a285ebc3" alt="メリクリ" width="50" /> | メリクリ (2004-12-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736b6962e774af860e8ad4dee0" alt="TAP - The 2nd Mini Album" width="50" /> | TAP - The 2nd Mini Album (2024-02-26) | <img src="https://i.scdn.co/image/ab67616d0000b27301f2ffc72e8c0556b3abad4c" alt="Girls On Top" width="50" /> | Girls On Top (2005-06-24) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="With YOU-th" width="50" /> | With YOU-th (2024-02-23) | <img src="https://i.scdn.co/image/ab67616d0000b273c5f539a520f9ce9f28ccd1e5" alt="The Wonder Years" width="50" /> | The Wonder Years (2007-09-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="The Winning" width="50" /> | The Winning (2024-02-20) | <img src="https://i.scdn.co/image/ab67616d0000b2731111b7562b4b46870d27f98b" alt="Girls&#x27; Generation" width="50" /> | Girls' Generation (2007-11-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27356035da9eacd668ffdfacb36" alt="Starlit of Muse" width="50" /> | Starlit of Muse (2024-02-20) | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> | Hong Gil Dong OST (2008-01-23) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c5543b3cce74f3edafcc8f59" alt="Bam Yang Gang" width="50" /> | Bam Yang Gang (2024-02-13) | <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> | So Hot (2008-06-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356035da9eacd668ffdfacb36" alt="Starlit of Muse" width="50" /> | Starlit of Muse (2024-02-20) | <img src="https://i.scdn.co/image/ab67616d0000b2731111b7562b4b46870d27f98b" alt="Girls&#x27; Generation" width="50" /> | Girls' Generation (2007-11-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="The Winning" width="50" /> | The Winning (2024-02-20) | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> | Hong Gil Dong OST (2008-01-23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="TEN - The 1st Mini Album" width="50" /> | TEN - The 1st Mini Album (2024-02-13) | <img src="https://i.scdn.co/image/ab67616d0000b2739633cfd2e42a610f3dafa801" alt="So Hot" width="50" /> | So Hot (2008-06-03) |
 
 ![Bar chart of number of songs by year](../../images/genres/k-pop/years.png)

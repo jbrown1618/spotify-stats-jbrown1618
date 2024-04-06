@@ -8,8 +8,6 @@ None
 
 | Album | Artists | Album Popularity | Release Date | Label | Tracks | Playlists |
 |:---|:---|---:|:---|:---|:---|:---|
-| HEAT [🔗](https://open.spotify.com/album/20iyYKtw1KjMRsMZWMPpVY) | (G)I-DLE [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | 63 | 2023-10-05 | CUBE ENTERTAINMENT INC./88rising Music | Eyes Roll [🔗](https://open.spotify.com/track/79yymC6QQaZ81jR2UYcPfy) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| HEAT [🔗](https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m) | (G)I-DLE [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | 56 | 2023-10-04 | CUBE ENTERTAINMENT INC./88rising Music | I DO [🔗](https://open.spotify.com/track/4SKwDW8Gg8CJxw2ElMhSTp),<br>I Want That [🔗](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Repeat Rewind [🔗](https://open.spotify.com/playlist/37i9dQZF1EpOIeFxMXFVG6),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO) |
 | A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 53 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Retro Kpop [🔗](https://open.spotify.com/playlist/1MW4AAPq55U0XWvSeu1jU5) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 48 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 54 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd),<br>Recommendations for Jeff [🔗](https://open.spotify.com/playlist/5Liek0UOC5GmdOjxdWhcob),<br>Relax [🔗](https://open.spotify.com/playlist/4rnlD7JdUQNdPCBhL69dCg),<br>Your Top Songs 2022 [🔗](https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit) |
@@ -42,7 +40,7 @@ None
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 79 |
 | ICY | IT'z ICY | ITZY | 0 | 0 | 73 |
 | 행복 (Happiness) | The 1st Single '행복(Happiness)' | Red Velvet | 0 | 0 | 71 |
-| React | React | The Pussycat Dolls | 0 | 0 | 68 |
+| React | React | The Pussycat Dolls | 0 | 0 | 69 |
 | 첫 눈 | 12월의 기적 Miracles in December | EXO | 0 | 0 | 70 |
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 53 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 49 |
@@ -78,7 +76,7 @@ None
 | So Hot | So Hot | Wonder Girls | 0 | 0 | 58 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 59 |
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 70 |
-| 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 78 |
+| 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | TOMORROW X TOGETHER | 0 | 0 | 79 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 0 | 0 | 70 |
 | Nothing Else Matters | Metallica | Metallica | 0 | 1 | 81 |
 | Enter Sandman | Metallica | Metallica | 1 | 1 | 81 |
@@ -91,7 +89,7 @@ None
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 66 |
 | ABC | ABC | The Jackson 5 | 0 | 0 | 66 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 33 |
-| Drink It | Drink It | THE BOYZ | 0 | 0 | 60 |
+| Drink It | Drink It | THE BOYZ | 0 | 0 | 61 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 52 |
 | Think About Things | Think About Things | Daði Freyr | 0 | 0 | 52 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 52 |
@@ -134,12 +132,12 @@ None
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 75 |
 | Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 67 |
 | Sweet Night | ITAEWON CLASS (Original Television Soundtrack) Pt. 12 | V | 1 | 0 | 83 |
-| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 76 |
+| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 77 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 78 |
-| I Do | It's Raining | Rain | 0 | 0 | 45 |
-| It′s Raining | It's Raining | Rain | 0 | 0 | 45 |
+| I Do | It's Raining | Rain | 0 | 0 | 46 |
+| It′s Raining | It's Raining | Rain | 0 | 0 | 46 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 87 |
-| Slide Away | Slide Away | Miley Cyrus | 2 | 1 | 85 |
+| Slide Away | Slide Away | Miley Cyrus | 2 | 1 | 86 |
 | Miku | Miku | Anamanaguchi | 0 | 0 | 52 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 44 |
 | Strawberry Cake | Hello, world! | Xdinary Heroes | 0 | 0 | 58 |
@@ -164,7 +162,7 @@ None
 | Call Me Mother | American | RuPaul | 0 | 0 | 56 |
 | Lose | Love Synonym #2 : Right for Us | WONHO | 2 | 2 | 45 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 67 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 48 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 47 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 56 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 46 |
 | Lost Woods | Zelda: Ocarina of Time - Piano | Wesley Sprayue | 0 | 0 | 41 |

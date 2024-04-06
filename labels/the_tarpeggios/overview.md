@@ -40,7 +40,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Settle Down | Carolina State of Mind | [The Tarpeggios](../../artists/the_tarpeggios/overview.md) | [The Tarpeggios](.) | 661 | 💚 | [🔗](https://open.spotify.com/track/2RGGnyqlJ65QcpA4FggZ2x) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Settle Down | Carolina State of Mind | [The Tarpeggios](../../artists/the_tarpeggios/overview.md) | [The Tarpeggios](.) | 663 | 💚 | [🔗](https://open.spotify.com/track/2RGGnyqlJ65QcpA4FggZ2x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Carolina State of Mind | Carolina State of Mind | [The Tarpeggios](../../artists/the_tarpeggios/overview.md) | [The Tarpeggios](.) | nan | 💚 | [🔗](https://open.spotify.com/track/60xweUiIfi93UhZEDN3DKY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Chariot | Carolina State of Mind | [The Tarpeggios](../../artists/the_tarpeggios/overview.md) | [The Tarpeggios](.) | nan | | [🔗](https://open.spotify.com/track/0of5rsasONYN34mx4rSgsn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Home | Carolina State of Mind | [The Tarpeggios](../../artists/the_tarpeggios/overview.md) | [The Tarpeggios](.) | nan | 💚 | [🔗](https://open.spotify.com/track/5EiVVKFfodbFiHTCFEB1i3) |

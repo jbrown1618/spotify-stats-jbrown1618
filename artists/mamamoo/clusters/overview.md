@@ -16,8 +16,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27338fc902e1d368df7fc0d77a3" alt="" width="50" /> | You’re the Best | Melting | [MAMAMOO](../../overview.md) | [Genie Music Corporation](../../../../labels/genie_music_corporation), [Stone Music Entertainment](../../../../labels/stone_music_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/3BUZUCu1uHaTvroizwqLHt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737709b0a8ba9059fc46fefcb2" alt="" width="50" /> | Yes I Am | Purple | [MAMAMOO](../../overview.md) | RADCOMM | nan | 💚 | [🔗](https://open.spotify.com/track/3RqUX4U46H6TPdH30gPy4k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="" width="50" /> | AYA | TRAVEL | [MAMAMOO](../../overview.md) | [RBW Inc.](../../../../labels/rbw_inc_) | 148 | 💚 | [🔗](https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="" width="50" /> | Egotistic | RED MOON | [MAMAMOO](../../overview.md) | [RBW, Inc.](../../../../labels/rbw_inc_) | 36 | 💚 | [🔗](https://open.spotify.com/track/5Z4aqpT39KpY8gbHoJWdou) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | gogobebe | White Wind | [MAMAMOO](../../overview.md) | [RBW, Inc](../../../../labels/rbw_inc_) | 415 | 💚 | [🔗](https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a8b951ff5979dc187340b1d" alt="" width="50" /> | Egotistic | RED MOON | [MAMAMOO](../../overview.md) | [RBW, Inc.](../../../../labels/rbw_inc_) | 37 | 💚 | [🔗](https://open.spotify.com/track/5Z4aqpT39KpY8gbHoJWdou) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | gogobebe | White Wind | [MAMAMOO](../../overview.md) | [RBW, Inc](../../../../labels/rbw_inc_) | 419 | 💚 | [🔗](https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8) |
 ## Cluster #2
 
 3 tracks
@@ -26,7 +26,7 @@
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6ea41f7103f07588c18bbdb" alt="" width="50" /> | AHH OOP! | Pink Funky | [MAMAMOO](../../overview.md) | [Genie Music Corporation](../../../../labels/genie_music_corporation), [Stone Music Entertainment](../../../../labels/stone_music_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/5bhPsVZrng5VjNKh822yJH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1f57af57a103eb28110c9d8" alt="" width="50" /> | Wind flower | BLUE;S | [MAMAMOO](../../overview.md) | [RBW, Inc](../../../../labels/rbw_inc_) | nan | | [🔗](https://open.spotify.com/track/2qwyjoSsSr3M7HTt611Q5O) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27367f8236540d6f145e2f0baa1" alt="" width="50" /> | Mr-Ambiguous | HELLO | [MAMAMOO](../../overview.md) | [Genie Music Corporation](../../../../labels/genie_music_corporation), [Stone Music Entertainment](../../../../labels/stone_music_entertainment) | 606 | 💚 | [🔗](https://open.spotify.com/track/4VOZzJeoNhvvTaGTztogVt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367f8236540d6f145e2f0baa1" alt="" width="50" /> | Mr-Ambiguous | HELLO | [MAMAMOO](../../overview.md) | [Genie Music Corporation](../../../../labels/genie_music_corporation), [Stone Music Entertainment](../../../../labels/stone_music_entertainment) | 609 | 💚 | [🔗](https://open.spotify.com/track/4VOZzJeoNhvvTaGTztogVt) |
 ## Cluster #3
 
 3 tracks

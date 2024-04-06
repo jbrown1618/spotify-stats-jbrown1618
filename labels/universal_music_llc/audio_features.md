@@ -66,7 +66,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Odi Et Amo (0.684) | <img src="https://i.scdn.co/image/ab67616d0000b2733fe0e026d4043e5d62c81328" alt="LOVE or TAKE" width="50" /> | DO or NOT (0.0122) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Dreamer (0.664) | <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="LEVIOSA" width="50" /> | KISS (0.0131) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbd5c6e6e365a3e70832780d" alt="さよならひとり" width="50" /> | さよならひとり (0.49) | <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="LATATA (English Ver.)" width="50" /> | LATATA - English Ver. (0.015) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c813101657895c26f990b719" alt="I Got You (I Feel Good)" width="50" /> | I Got You (I Feel Good) (0.412) | <img src="https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e" alt="Yours Truly" width="50" /> | Baby I (0.0154) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="130 Mood : TRBL" width="50" /> | Bonnie & Clyde (0.426) | <img src="https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e" alt="Yours Truly" width="50" /> | Baby I (0.0154) |
 
 ## Instrumentalness
 
@@ -91,16 +91,16 @@
 
 | ​ | 10 most Live tracks | ​​ | 10 least Live tracks |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Focus" width="50" /> | Focus (0.444) | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="Windy" width="50" /> | Is this bad b****** number? (0.0486) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="HELICOPTER" width="50" /> | HELICOPTER - English Version (0.425) | <img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="GAME" width="50" /> | チョコレイト・ディスコ (0.0519) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything (Deluxe)" width="50" /> | Bang Bang (0.396) | <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="130 Mood : TRBL" width="50" /> | D (Half Moon) (0.0573) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ced490e566f828ee9ca8d263" alt="潜潜話" width="50" /> | 脳裏上のクラッカー (0.384) | <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="i&#x27;M THE TREND" width="50" /> | i'M THE TREND (0.058) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="HELICOPTER" width="50" /> | HELICOPTER (0.383) | <img src="https://i.scdn.co/image/ab67616d0000b2739cbfec319f493499b31fba46" alt="4U : OUTSIDE" width="50" /> | Outsider (0.0611) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350ca782144d408e0c3ab2b7a" alt="Universe : The Black Hall" width="50" /> | Dr. BeBe (0.36) | <img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="Look At Me" width="50" /> | Look At Me (0.0623) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27393f551abf615209c537fb4d4" alt="Kirari Remixes (Asia Edition)" width="50" /> | きらり (0.357) | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | Luv U (0.0662) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="Dangerous Woman" width="50" /> | Dangerous Woman (0.356) | <img src="https://i.scdn.co/image/ab67616d0000b273f120cb333f68365ee0195cb6" alt="W.A.Y" width="50" /> | WITCH (0.0729) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e" alt="Yours Truly" width="50" /> | Baby I (0.354) | <img src="https://i.scdn.co/image/ab67616d0000b2736080e2389dee3e57f00ccc69" alt="DUMDi DUMDi" width="50" /> | DUMDi DUMDi (0.076) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e" alt="Yours Truly" width="50" /> | Honeymoon Avenue (0.348) | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="Windy" width="50" /> | Quit (0.0781) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="130 Mood : TRBL" width="50" /> | Bonnie & Clyde (0.672) | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="Windy" width="50" /> | Is this bad b****** number? (0.0486) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Focus" width="50" /> | Focus (0.444) | <img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="GAME" width="50" /> | チョコレイト・ディスコ (0.0519) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="HELICOPTER" width="50" /> | HELICOPTER - English Version (0.425) | <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="130 Mood : TRBL" width="50" /> | D (Half Moon) (0.0573) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything (Deluxe)" width="50" /> | Bang Bang (0.396) | <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="i&#x27;M THE TREND" width="50" /> | i'M THE TREND (0.058) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ced490e566f828ee9ca8d263" alt="潜潜話" width="50" /> | 脳裏上のクラッカー (0.384) | <img src="https://i.scdn.co/image/ab67616d0000b2739cbfec319f493499b31fba46" alt="4U : OUTSIDE" width="50" /> | Outsider (0.0611) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="HELICOPTER" width="50" /> | HELICOPTER (0.383) | <img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="Look At Me" width="50" /> | Look At Me (0.0623) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350ca782144d408e0c3ab2b7a" alt="Universe : The Black Hall" width="50" /> | Dr. BeBe (0.36) | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | Luv U (0.0662) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27393f551abf615209c537fb4d4" alt="Kirari Remixes (Asia Edition)" width="50" /> | きらり (0.357) | <img src="https://i.scdn.co/image/ab67616d0000b273f120cb333f68365ee0195cb6" alt="W.A.Y" width="50" /> | WITCH (0.0729) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="Dangerous Woman" width="50" /> | Dangerous Woman (0.356) | <img src="https://i.scdn.co/image/ab67616d0000b2736080e2389dee3e57f00ccc69" alt="DUMDi DUMDi" width="50" /> | DUMDi DUMDi (0.076) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e" alt="Yours Truly" width="50" /> | Baby I (0.354) | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="Windy" width="50" /> | Quit (0.0781) |
 
 ## Valence
 

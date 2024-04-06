@@ -8,7 +8,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Better Judgement | Wish You Hell - The 2nd Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 685 | | [🔗](https://open.spotify.com/track/0CjGCpqs4qBqZi7ibYyZLi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Better Judgement | Wish You Hell - The 2nd Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 655 | | [🔗](https://open.spotify.com/track/0CjGCpqs4qBqZi7ibYyZLi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | His Car Isn't Yours | Wish You Hell - The 2nd Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/5cvwFPDokfdI6T7O0HgzuM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | Best Friend (with SEULGI) | Like Water - The 1st Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/0F9Xy6OTbkqOv94pklkwKu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | The Road | Like Water - The 1st Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N) |
@@ -24,7 +24,7 @@
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8b444d9bac4765e069b31b" alt="" width="50" /> | Miracle | Miracle - SM STATION | [WENDY](../../overview.md), MeloMance | [SM Entertainment](../../../../labels/sm_entertainment) | nan | | [🔗](https://open.spotify.com/track/03foRBkthqRkysYT7FxWZV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | Like Water | Like Water - The 1st Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 78 | 💚 | [🔗](https://open.spotify.com/track/37LhFxchiyAJVop5JgRZgY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | When This Rain Stops | Like Water - The 1st Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 22 | 💚 | [🔗](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | When This Rain Stops | Like Water - The 1st Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 23 | 💚 | [🔗](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335c12c4ec54ac73462736b66" alt="" width="50" /> | Goodbye | The Beauty Inside Pt. 6 (Original Television Soundtrack) | [WENDY](../../overview.md) | 뮤직앤뉴, 스튜디오앤뉴 | nan | 💚 | [🔗](https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c2220e622cd370a4237727f8" alt="" width="50" /> | 봄인가 봐 Spring Love | 봄인가 봐 Spring Love - SM STATION | [WENDY](../../overview.md), Eric Nam | [SM Entertainment](../../../../labels/sm_entertainment) | nan | | [🔗](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) |
 ## Cluster #3
@@ -33,6 +33,6 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Wish You Hell | Wish You Hell - The 2nd Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 229 | 💚 | [🔗](https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Wish You Hell | Wish You Hell - The 2nd Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 222 | 💚 | [🔗](https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Queen Of The Party | Wish You Hell - The 2nd Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/7owXmiwfpFAZW24qNPyYfr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | Why Can't You Love Me? | Like Water - The 1st Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/0CyydmXI4QhgUWrZsPOTXA) |

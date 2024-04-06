@@ -171,7 +171,7 @@
 | 5 | 3 | folk-pop |
 | 3 | 3 | new americana |
 | 3 | 3 | indie folk |
-| 10 | 2 | progressive bluegrass |
+| 9 | 2 | progressive bluegrass |
 | 9 | 2 | mandolin |
 | 9 | 2 | instrumental bluegrass |
 | 9 | 2 | bluegrass |

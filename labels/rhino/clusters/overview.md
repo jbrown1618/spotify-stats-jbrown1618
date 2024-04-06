@@ -16,7 +16,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778" alt="" width="50" /> | Hotel California - 2013 Remaster | Hotel California (2013 Remaster) | Eagles | [Rhino/Elektra](../..) | nan | | [🔗](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273315994fdfb86d9bcb40337ba" alt="" width="50" /> | Cat's in the Cradle | Verities & Balderdash | Harry Chapin | [Rhino/Elektra](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97" alt="" width="50" /> | Daydream Believer | The Birds, The Bees, & The Monkees | The Monkees | [Rhino](../..) | nan | | [🔗](https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730ac413b28547dbc45412a3ce" alt="" width="50" /> | 25 or 6 to 4 | Chicago IX: Chicago's Greatest Hits | Chicago | [Rhino](../..) | 681 | 💚 | [🔗](https://open.spotify.com/track/65eRcjlStTnk8opG5eIQ8Z) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730ac413b28547dbc45412a3ce" alt="" width="50" /> | 25 or 6 to 4 | Chicago IX: Chicago's Greatest Hits | Chicago | [Rhino](../..) | 677 | 💚 | [🔗](https://open.spotify.com/track/65eRcjlStTnk8opG5eIQ8Z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b96c21e15c091eb98a6c88a4" alt="" width="50" /> | Can't Take My Eyes off You | The Very Best of Frankie Valli & The 4 Seasons | Frankie Valli | [Rhino](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb) |
 ## Cluster #2
 
