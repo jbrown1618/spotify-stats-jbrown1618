@@ -75,7 +75,7 @@
 | Michael Ilbert | Michael Ilbert | 4 |
 | Doja Cat | Doja Cat | 3 |
 | Jack Antonoff | [Jack Antonoff](../jack_antonoff/overview.md) | 3 |
-| Savan Kotecha | Savan Kotecha | 3 |
+| Savan Kotecha | [Savan Kotecha](../savan_kotecha/overview.md) | 3 |
 | Beyoncé | [Beyoncé (Beyoncé)](../beyoncé_(beyoncé)/overview.md) | 3 |
 | Charles Moniz | Charles Moniz | 3 |
 | Camila Cabello | Camila Cabello | 3 |

@@ -62,7 +62,7 @@
 | Jonatan Gusmark | Jonatan Gusmark | 1 |
 | Thomas Troelsen | Thomas Troelsen | 1 |
 | 장우영 | 장우영 (Jang, Woo-young) | 1 |
-| 이수만 | 이수만 (Lee, Soo-Man) | 1 |
+| 이수만 | [이수만 (Lee, Soo-Man)](../이수만_(lee,_soo-man)/overview.md) | 1 |
 | 신지영 | 신지영 (Shin, Ji-young) | 1 |
 | Hayden Chapman | Hayden Chapman | 1 |
 | Donald Augustus Sales | Donald Augustus Sales | 1 |

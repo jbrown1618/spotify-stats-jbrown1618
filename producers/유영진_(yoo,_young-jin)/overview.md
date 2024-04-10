@@ -4,9 +4,9 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Arranger | 11 |
-| Lyricist | 12 |
-| Producer | 10 |
+| Arranger | 12 |
+| Lyricist | 13 |
+| Producer | 11 |
 | Songwriter | 10 |
 | Vocal | 6 |
 
@@ -40,7 +40,7 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| 이수만 | 이수만 (Lee, Soo-Man) | 4 |
+| 이수만 | [이수만 (Lee, Soo-Man)](../이수만_(lee,_soo-man)/overview.md) | 4 |
 | Maxx Song | Maxx Song | 2 |
 | Tay Jasper | Tay Jasper | 2 |
 | Will Simms | Will Simms | 2 |
@@ -125,7 +125,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="" width="50" /> | MIROTIC | Arranger, Lyricist |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361d7b9988c77826dfb1db1b3" alt="" width="50" /> | The Boys | Lyricist, Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="" width="50" /> | I GOT A BOY | Arranger, Lyricist, Producer, Songwriter |
-| <img src="https://i.scdn.co/image/832d8e8fd86642db546f0f730915dde3b8d7ec0a" alt="" width="50" /> | 행복 (Happiness) | Arranger, Lyricist, Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ccd9a8fe25e9ae6039ac6ce6" alt="" width="50" /> | 행복 (Happiness) | Arranger, Lyricist, Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b27372ee4e2e933836a66e5869b6" alt="" width="50" /> | Be Natural | Arranger, Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b64001fa6292caefc7605550" alt="" width="50" /> | Bad Boy | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | The 7th Sense | Producer |

@@ -4,10 +4,10 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Arranger | 6 |
-| Instrument | 4 |
-| Lyricist | 4 |
-| Songwriter | 3 |
+| Arranger | 7 |
+| Instrument | 5 |
+| Lyricist | 5 |
+| Songwriter | 4 |
 | Vocal | 1 |
 
 ## Produces for Artists
@@ -64,9 +64,9 @@
 
 | Art | Track | Credit Types |
 |:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="" width="50" /> | PLAY | Arranger, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Demente (feat. Guaynaa) | Arranger, Lyricist |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Dream of You (with R3HAB) | Arranger, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Flying on Faith | Arranger |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Stay Tonight | Arranger, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Bicycle | Arranger, Lyricist |
+| | nan | Arranger, Lyricist, Songwriter |

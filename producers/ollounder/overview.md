@@ -4,25 +4,27 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Arranger | 18 |
-| Instrument | 15 |
-| Lyricist | 17 |
-| Songwriter | 18 |
+| Arranger | 24 |
+| Instrument | 21 |
+| Lyricist | 24 |
+| Producer | 1 |
+| Songwriter | 25 |
+| Vocal | 1 |
 
 ## Produces for Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf9fb2a341d6852c012a5d5ee" alt="" width="50" /> | 10 | 10 | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf9fb2a341d6852c012a5d5ee" alt="" width="50" /> | 11 | 11 | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9dd6110fc47f859a9bbd2d2" alt="" width="50" /> | 4 | 4 | [ATEEZ](../../artists/ateez/overview.md) | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 
 ## Works with Producers
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| LEEZ | [LEEZ](../leez/overview.md) | 13 |
-| 김석민 | 김석민 (Kim Seog-min) | 8 |
-| 정창현 | 정창현 (Jung, Chang-hyun) | 5 |
+| LEEZ | [LEEZ](../leez/overview.md) | 14 |
+| 김석민 | 김석민 (Kim Seog-min) | 9 |
+| 정창현 | 정창현 (Jung, Chang-hyun) | 6 |
 | 김홍중 | 김홍중 (Kim, Hong Joong) | 4 |
 | 송민기 | 송민기 (Song, Mingi) | 3 |
 | 정은경 | [정은경 (Jung, Eun-Kyung)](../정은경_(jung,_eun-kyung)/overview.md) | 3 |
@@ -64,18 +66,19 @@
 
 | Art | Track | Credit Types |
 |:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273dd525e34b35a55ca3763e28d" alt="" width="50" /> | Silent Night | Arranger, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dd525e34b35a55ca3763e28d" alt="" width="50" /> | 데자부 (Deja Vu) | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a5911f62f0fe24713fb9d0c8" alt="" width="50" /> | Deja Vu | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a5911f62f0fe24713fb9d0c8" alt="" width="50" /> | Silent Night | Arranger, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273be3a0f924ad08d95b4e25d9f" alt="" width="50" /> | Answer | Arranger, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273107ade016c96b4769c200bc4" alt="" width="50" /> | Red Sun | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273994278a5092323151972886f" alt="" width="50" /> | BOCA | Arranger, Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273787a8631e249c68889453f86" alt="" width="50" /> | Odd Eye | Arranger, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737c0618723e2fca9e617eec34" alt="" width="50" /> | BEcause | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d902c8faa0d5eb0fe7c29695" alt="" width="50" /> | BEcause | Arranger, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3e44ef30eacbbe0ec98598c" alt="" width="50" /> | The Black Cat Nero | Arranger |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733714e924e5570c4d2df97e09" alt="" width="50" /> | Deja Vu | Arranger, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | MAISON | Arranger, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5db2e57a278b11e009b5cc6" alt="" width="50" /> | Starlight | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27340fd215e68e55c626a16cd4e" alt="" width="50" /> | Starlight | Arranger, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349ae714ee0bf50ca0838ed0f" alt="" width="50" /> | Guerrilla | Arranger, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7d075ac409f015413350f6d" alt="" width="50" /> | VISION | Arranger, Lyricist, Songwriter |
+| | nan | Arranger, Lyricist, Songwriter |
+| | nan | Arranger, Lyricist, Songwriter |
 | | nan | Arranger, Lyricist, Songwriter |
 | | nan | Arranger, Lyricist, Songwriter |
 | | nan | Arranger, Lyricist, Songwriter |

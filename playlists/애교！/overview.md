@@ -60,16 +60,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="Hello - Special Album" width="50" /> | Hello | 38 | <img src="https://i.scdn.co/image/ab67616d0000b273266f95f6353cb2b974f67fa7" alt="miss me?" width="50" /> | Very Very Very | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="Drama - The 4th Mini Album" width="50" /> | [Hot Air Balloon](../../artists/aespa/overview.md) | 81 | <img src="https://i.scdn.co/image/ab67616d0000b2738a30df9ceed62f9c39069c9e" alt="Hmph!" width="50" /> | Hmph! | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="TEENFRESH" width="50" /> | [Bubble](../../artists/stayc/overview.md) | 83 | <img src="https://i.scdn.co/image/ab67616d0000b2730b6ab2f6b02f2a9e6713b47d" alt="SUM(ME:R)" width="50" /> | [Humph!](../../artists/pentagon/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="Hello - Special Album" width="50" /> | Hello | 39 | <img src="https://i.scdn.co/image/ab67616d0000b273266f95f6353cb2b974f67fa7" alt="miss me?" width="50" /> | Very Very Very | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="Drama - The 4th Mini Album" width="50" /> | [Hot Air Balloon](../../artists/aespa/overview.md) | 82 | <img src="https://i.scdn.co/image/ab67616d0000b2738a30df9ceed62f9c39069c9e" alt="Hmph!" width="50" /> | Hmph! | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="TEENFRESH" width="50" /> | [Bubble](../../artists/stayc/overview.md) | 85 | <img src="https://i.scdn.co/image/ab67616d0000b2730b6ab2f6b02f2a9e6713b47d" alt="SUM(ME:R)" width="50" /> | [Humph!](../../artists/pentagon/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d7610ec7724bad4e6c9e499" alt="POPPY (Japanese Ver.)" width="50" /> | [POPPY - Japanese Ver.](../../artists/stayc/overview.md) | 122 | <img src="https://i.scdn.co/image/ab67616d0000b273d07e49e3e5a8e79903713354" alt="SIGNAL" width="50" /> | [Signal](../../artists/twice/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="DIMENSION : ANSWER" width="50" /> | [Polaroid Love](../../artists/enhypen/overview.md) | 125 | <img src="https://i.scdn.co/image/ab67616d0000b273bcbe695c2af0990e57666f3b" alt="THE POYZ BANANA CHACHA" width="50" /> | [THE POYZ BANANA CHACHA (Korean Ver.)](../../artists/the_boyz/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="Summer Nights" width="50" /> | [What is Love](../../artists/twice/overview.md) | 129 | <img src="https://i.scdn.co/image/ab67616d0000b273140ba24506e300382e08e6ec" alt="YES or YES" width="50" /> | [YES or YES](../../artists/twice/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="Formula of Love: O+T=&lt;3" width="50" /> | [The Feels](../../artists/twice/overview.md) | 131 | <img src="https://i.scdn.co/image/ab67616d0000b273aa7646e7aa8a4e001cb8a805" alt="Gee - The First Mini Album" width="50" /> | [Gee](../../artists/girls__generation/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="NONSTOP" width="50" /> | [Dolphin](../../artists/oh_my_girl/overview.md) | 144 | <img src="https://i.scdn.co/image/ab67616d0000b2736207621becafe079ec6c9185" alt="The Dream Chapter: MAGIC" width="50" /> | [9 and Three Quarters (Run Away)](../../artists/tomorrow_x_together/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="DIMENSION : ANSWER" width="50" /> | [Polaroid Love](../../artists/enhypen/overview.md) | 126 | <img src="https://i.scdn.co/image/ab67616d0000b273bcbe695c2af0990e57666f3b" alt="THE POYZ BANANA CHACHA" width="50" /> | [THE POYZ BANANA CHACHA (Korean Ver.)](../../artists/the_boyz/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="Formula of Love: O+T=&lt;3" width="50" /> | [The Feels](../../artists/twice/overview.md) | 131 | <img src="https://i.scdn.co/image/ab67616d0000b2739389aab1165b6498eba04d8e" alt="The Dream Chapter: MAGIC" width="50" /> | [9 and Three Quarters (Run Away)](../../artists/tomorrow_x_together/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="Summer Nights" width="50" /> | [What is Love](../../artists/twice/overview.md) | 132 | <img src="https://i.scdn.co/image/ab67616d0000b273140ba24506e300382e08e6ec" alt="YES or YES" width="50" /> | [YES or YES](../../artists/twice/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="NONSTOP" width="50" /> | [Dolphin](../../artists/oh_my_girl/overview.md) | 144 | <img src="https://i.scdn.co/image/ab67616d0000b273aa7646e7aa8a4e001cb8a805" alt="Gee - The First Mini Album" width="50" /> | [Gee](../../artists/girls__generation/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="Merry &amp; Happy" width="50" /> | [Heart Shaker](../../artists/twice/overview.md) | 153 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | [Life's Too Short (English Version)](../../artists/aespa/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="Drama - The 4th Mini Album" width="50" /> | [YOLO](../../artists/aespa/overview.md) | 160 | <img src="https://i.scdn.co/image/ab67616d0000b27343b2533812791c25755cb440" alt="Keep Swimmin&#x27; Through" width="50" /> | [Keep Swimmin' Through](../../artists/enhypen/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="Drama - The 4th Mini Album" width="50" /> | [YOLO](../../artists/aespa/overview.md) | 162 | <img src="https://i.scdn.co/image/ab67616d0000b27343b2533812791c25755cb440" alt="Keep Swimmin&#x27; Through" width="50" /> | [Keep Swimmin' Through](../../artists/enhypen/overview.md) | nan |
 
 </details>
 
@@ -86,7 +86,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="" width="50" /> | 1 | 1 | Twicecoaster: Lane 1 | 2016-10-24 | [🔗](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="" width="50" /> | 1 | 1 | The Story Begins | 2015-10-20 | [🔗](https://open.spotify.com/album/72WWZVAx6GtSbEeGESwDLo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | 1 | 1 | The Red Summer - Summer Mini Album | 2017-07-09 | [🔗](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736207621becafe079ec6c9185" alt="" width="50" /> | 1 | 1 | The Dream Chapter: MAGIC | 2019-10-21 | [🔗](https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739389aab1165b6498eba04d8e" alt="" width="50" /> | 1 | 1 | The Dream Chapter: MAGIC | 2019-10-21 | [🔗](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) |
 
 
 <details>
@@ -138,7 +138,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 11 | 10 | [Republic Records](../../labels/republic_records/overview.md) |
+| 12 | 11 | [Republic Records](../../labels/republic_records/overview.md) |
 | 8 | 7 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 4 | 4 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 | 3 | 2 | [Warner Records](../../labels/warner_records/overview.md) |
@@ -151,14 +151,13 @@
 
 
 <details>
-<summary>See all 19 labels</summary>
+<summary>See all 18 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 2 | 1 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 1 | 1 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 1 | 1 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
-| 1 | 1 | Imperial Distribution |
 | 1 | 1 | DUBLEKICK COMPANY |
 | 1 | 1 | Cre.ker Entertainment |
 | 2 | 0 | ICONIX |
@@ -168,7 +167,7 @@
 </details>
 
 
-![Bar chart of top 19 record labels](../../images/playlists/애교！/labels.png)
+![Bar chart of top 18 record labels](../../images/playlists/애교！/labels.png)
 
 ## Genres
 
@@ -229,7 +228,7 @@
 | | 임홍진 (Im, Hong-Jin) | 1 | Producer |
 | | Lauritz Emil Christiansen | 1 | Arranger, Songwriter |
 | | 이상엽 (Lee, Sang-yeob) | 1 | Producer |
-| | 이수만 (Lee, Soo-Man) | 1 | Producer |
+| | [이수만 (Lee, Soo-Man)](../../producers/이수만_(lee,_soo-man)/overview.md) | 1 | Producer |
 | | Chloe Latimer | 1 | Arranger, Songwriter |
 | | [엄세희 (Um, Se-Hee)](../../producers/엄세희_(um,_se-hee)/overview.md) | 1 | Producer |
 | | 서정아 (Seo, Jung Ah) | 1 | Lyricist |

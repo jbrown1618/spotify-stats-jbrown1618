@@ -9,8 +9,8 @@
 | Lyricist | 2 |
 | Performer | 2 |
 | Producer | 7 |
-| Songwriter | 13 |
-| Vocal | 12 |
+| Songwriter | 14 |
+| Vocal | 13 |
 
 ## Produces for Artists
 
@@ -65,5 +65,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Karma Police | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Paranoid Android | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="" width="50" /> | Everything In Its Right Place | Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b27301b50e75c5aa46fb8ce0cd32" alt="" width="50" /> | Pyramid Song | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730da53e8f58e59f28a79c10c7" alt="" width="50" /> | There, There | Lyricist, Producer, Songwriter |
+| | nan | Songwriter |

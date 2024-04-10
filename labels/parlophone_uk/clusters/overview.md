@@ -23,7 +23,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="" width="50" /> | Paradise | Mylo Xyloto | [Coldplay](../../../../artists/coldplay/overview.md) | [Parlophone UK](../..) | nan | | [🔗](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f30d36db3dd22681531d1da" alt="" width="50" /> | Christmas Lights | Christmas Lights | [Coldplay](../../../../artists/coldplay/overview.md) | [Parlophone UK](../..) | nan | | [🔗](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="" width="50" /> | Hold On Tight | Hold On Tight | [aespa](../../../../artists/aespa/overview.md) | [Parlophone UK](../..) | 41 | 💚 | [🔗](https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="" width="50" /> | Daisy 2.0 (feat. Hatsune Miku) | Daisy 2.0 (feat. Hatsune Miku) | Ashnikko, Hatsune Miku | [Parlophone UK](../..) | 396 | 💚 | [🔗](https://open.spotify.com/track/0s8RXkQW9lwGEV6WlG8KDq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="" width="50" /> | Daisy 2.0 (feat. Hatsune Miku) | Daisy 2.0 (feat. Hatsune Miku) | Ashnikko, Hatsune Miku | [Parlophone UK](../..) | 398 | 💚 | [🔗](https://open.spotify.com/track/0s8RXkQW9lwGEV6WlG8KDq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733395f3e809dfbc2b1101d464" alt="" width="50" /> | Space Oddity - 2015 Remaster | David Bowie (aka Space Oddity) [2015 Remaster] | David Bowie | [Parlophone UK](../..) | nan | | [🔗](https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG) |
 ## Cluster #3
 

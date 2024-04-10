@@ -7,15 +7,15 @@
 | Arranger | 1 |
 | Lyricist | 5 |
 | Performer | 2 |
-| Producer | 9 |
-| Songwriter | 16 |
+| Producer | 10 |
+| Songwriter | 17 |
 | Vocal | 10 |
 
 ## Produces for Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 15 | 15 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 16 | 16 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | 2 | 2 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | 1 | 1 | Iggy Azalea | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | 1 | 1 | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
@@ -26,13 +26,13 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Serban Ghenea | [Serban Ghenea](../serban_ghenea/overview.md) | 10 |
-| ILYA | [ILYA](../ilya/overview.md) | 10 |
-| Max Martin | [Max Martin](../max_martin/overview.md) | 9 |
-| Sam Holland | [Sam Holland](../sam_holland/overview.md) | 7 |
-| Savan Kotecha | Savan Kotecha | 6 |
-| Bryce Bordone | Bryce Bordone | 4 |
+| Serban Ghenea | [Serban Ghenea](../serban_ghenea/overview.md) | 11 |
+| ILYA | [ILYA](../ilya/overview.md) | 11 |
+| Max Martin | [Max Martin](../max_martin/overview.md) | 10 |
+| Sam Holland | [Sam Holland](../sam_holland/overview.md) | 8 |
+| Savan Kotecha | [Savan Kotecha](../savan_kotecha/overview.md) | 7 |
 | Lou Carrao | Lou Carrao | 4 |
+| Bryce Bordone | Bryce Bordone | 4 |
 | TBHits | TBHits | 3 |
 | Billy Hickey | Billy Hickey | 3 |
 | John Hanes | [John Hanes](../john_hanes/overview.md) | 2 |
@@ -43,39 +43,40 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Brendan Morawski | Brendan Morawski | 2 |
+| Victoria Monét | Victoria Monét (Victoria Monét) | 2 |
 | Tayla Parx | Tayla Parx | 2 |
 | Iggy Azalea | Iggy Azalea | 2 |
 | Peter Svensson | Peter Svensson | 2 |
-| Victoria Monét | Victoria Monét (Victoria Monét) | 2 |
-| Justin Bieber | Justin Bieber | 1 |
+| Brendan Morawski | Brendan Morawski | 2 |
 | Oscar Hammerstein II | Oscar Hammerstein II | 1 |
+| Gregg Rominiecki | Gregg Rominiecki | 1 |
 | Scootie | Scootie | 1 |
 | Alexander Kronlund | Alexander Kronlund | 1 |
 | Devin Nakao | Devin Nakao | 1 |
-| Joe Gallagher | Joe Gallagher | 1 |
 | Noah Passovoy | Noah Passovoy | 1 |
+| Angelina Barrett | Angelina Barrett | 1 |
 | Lionel Crasta | Lionel Crasta | 1 |
-| Jameel Roberts | Jameel Roberts | 1 |
-| Shellback | [Shellback](../shellback/overview.md) | 1 |
+| Josh Gudwin | [Josh Gudwin](../josh_gudwin/overview.md) | 1 |
 | Peter Kahm | Peter Kahm | 1 |
 | Pop Wansel | Pop Wansel | 1 |
-| Angelina Barrett | Angelina Barrett | 1 |
-| Josh Gudwin | [Josh Gudwin](../josh_gudwin/overview.md) | 1 |
+| Joe Gallagher | Joe Gallagher | 1 |
+| Shellback | [Shellback](../shellback/overview.md) | 1 |
+| Justin Bieber | Justin Bieber | 1 |
+| Jameel Roberts | Jameel Roberts | 1 |
 | Priscilla Renea | Priscilla Renea | 1 |
+| Rafael Fadul | Rafael Fadul | 1 |
 | Jason Evigan | Jason Evigan | 1 |
-| Gregg Rominiecki | Gregg Rominiecki | 1 |
-| Richard Rodgers | Richard Rodgers | 1 |
 | Happy Perez | Happy Perez | 1 |
 | Nicki Minaj | Nicki Minaj | 1 |
 | Michael "Mikey" Foster | Michael "Mikey" Foster | 1 |
+| Mattias Bylund | Mattias Bylund | 1 |
 | Nija | Nija | 1 |
 | Davide Rossi | Davide Rossi | 1 |
 | Brian Vincent Bates | Brian Vincent Bates | 1 |
 | Njomza | Njomza | 1 |
 | Scooter Braun | Scooter Braun | 1 |
+| Richard Rodgers | Richard Rodgers | 1 |
 | Peter Carlsson | Peter Carlsson | 1 |
-| Rafael Fadul | Rafael Fadul | 1 |
 | Skyler Stonestreet | Skyler Stonestreet | 1 |
 | DaviDior | DaviDior | 1 |
 | Shintaro Yasuda | Shintaro Yasuda | 1 |
@@ -100,6 +101,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Side To Side | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394" alt="" width="50" /> | no tears left to cry | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394" alt="" width="50" /> | breathin | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | bloodline | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | imagine | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | 7 rings | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732babb9dbd8f5146112f1bf86" alt="" width="50" /> | Stuck with U (with Justin Bieber) | Producer, Songwriter |

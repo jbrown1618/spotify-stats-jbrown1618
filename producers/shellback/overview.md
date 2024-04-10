@@ -32,7 +32,7 @@
 | Peter Carlsson | Peter Carlsson | 3 |
 | Ali Payami | Ali Payami | 2 |
 | ILYA | [ILYA](../ilya/overview.md) | 2 |
-| Savan Kotecha | Savan Kotecha | 2 |
+| Savan Kotecha | [Savan Kotecha](../savan_kotecha/overview.md) | 2 |
 
 
 <details>

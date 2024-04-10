@@ -6,7 +6,7 @@
 |:---|---:|
 | Arranger | 6 |
 | Lyricist | 2 |
-| Producer | 10 |
+| Producer | 11 |
 | Songwriter | 2 |
 
 ## Produces for Artists
@@ -60,6 +60,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Karma Police | Arranger, Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Paranoid Android | Arranger, Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="" width="50" /> | Everything In Its Right Place | Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b27301b50e75c5aa46fb8ce0cd32" alt="" width="50" /> | Pyramid Song | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | Reckoner | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | Jigsaw Falling Into Place | Lyricist, Songwriter |
+| | nan | Producer |

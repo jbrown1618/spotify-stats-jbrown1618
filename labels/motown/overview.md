@@ -58,7 +58,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2739f06367f9a07d24fc9c641a9" alt="" width="50" /> | 1 | 0 | Gettin' Ready (Expanded Edition) | 1966 | [🔗](https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cab4dfee401a04dacfa11784" alt="" width="50" /> | 1 | 0 | For Once In My Life | 1968-12-01 | [🔗](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27308a0fe33e91b991d2c9c9cde" alt="" width="50" /> | 1 | 0 | Christmas Album | 1970-10-15 | [🔗](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c9f79fbe073eb95007ed48f" alt="" width="50" /> | 1 | 0 | ABC | 1970-05-08 | [🔗](https://open.spotify.com/album/3btVhknqDeGAEd1Qj7lL57) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739df68560791d0b3dab491867" alt="" width="50" /> | 1 | 0 | ABC | 1970-05-08 | [🔗](https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="" width="50" /> | 1 | 0 | 20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s | 2000-01-11 | [🔗](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) |
 
 </details>
@@ -154,7 +154,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273cab4dfee401a04dacfa11784" alt="" width="50" /> | For Once In My Life | For Once In My Life | Stevie Wonder | [Motown](.) | nan | | [🔗](https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" alt="" width="50" /> | I Want You Back | Diana Ross Presents The Jackson 5 | The Jackson 5 | [MOTOWN](.), [UNI](../uni) | nan | 💚 | [🔗](https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fe161ba4859b25909bcc24a" alt="" width="50" /> | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | [MOTOWN](.), [UNI](../uni) | nan | | [🔗](https://open.spotify.com/track/4rMWDm28mERZcRPc1f3yir) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c9f79fbe073eb95007ed48f" alt="" width="50" /> | ABC | ABC | The Jackson 5 | [Motown](.) | nan | | [🔗](https://open.spotify.com/track/6wDviYDtmSDZ0S6TVMM9Vc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739df68560791d0b3dab491867" alt="" width="50" /> | ABC | ABC | The Jackson 5 | [Motown](.) | nan | | [🔗](https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5) |
 
 
 <details>

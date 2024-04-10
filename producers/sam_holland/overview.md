@@ -4,14 +4,14 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Producer | 26 |
+| Producer | 27 |
 
 ## Produces for Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | 10 | 10 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 8 | 8 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 9 | 9 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | 4 | 4 | Katy Perry | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | 2 | 2 | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a398209a4ef3360dce2dec4" alt="" width="50" /> | 1 | 1 | Snoop Dogg | [🔗](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) |
@@ -25,16 +25,16 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Serban Ghenea | [Serban Ghenea](../serban_ghenea/overview.md) | 24 |
-| Max Martin | [Max Martin](../max_martin/overview.md) | 22 |
+| Serban Ghenea | [Serban Ghenea](../serban_ghenea/overview.md) | 25 |
+| Max Martin | [Max Martin](../max_martin/overview.md) | 23 |
 | John Hanes | [John Hanes](../john_hanes/overview.md) | 13 |
+| Michael Ilbert | Michael Ilbert | 10 |
 | Shellback | [Shellback](../shellback/overview.md) | 10 |
 | Taylor Swift | [Taylor Swift](../taylor_swift/overview.md) | 10 |
-| Michael Ilbert | Michael Ilbert | 10 |
-| ILYA | [ILYA](../ilya/overview.md) | 8 |
-| Ariana Grande | [Ariana Grande](../ariana_grande/overview.md) | 7 |
-| Łukasz Gottwald | [Łukasz Gottwald (Gottwald, Łukasz)](../łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 6 |
+| ILYA | [ILYA](../ilya/overview.md) | 9 |
+| Ariana Grande | [Ariana Grande](../ariana_grande/overview.md) | 8 |
 | Dr. Luke | Dr. Luke | 6 |
+| Łukasz Gottwald | [Łukasz Gottwald (Gottwald, Łukasz)](../łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 6 |
 
 
 <details>
@@ -43,35 +43,34 @@
 | Producer | Producer | Tracks |
 |:---|:---|---:|
 | Emily Wright | Emily Wright | 6 |
-| benny blanco | [benny blanco](../benny_blanco/overview.md) | 4 |
+| Savan Kotecha | [Savan Kotecha](../savan_kotecha/overview.md) | 5 |
 | Lou Carrao | Lou Carrao | 4 |
-| Savan Kotecha | Savan Kotecha | 4 |
-| Bryce Bordone | Bryce Bordone | 4 |
 | Katy Perry | Katy Perry | 4 |
+| Bryce Bordone | Bryce Bordone | 4 |
+| benny blanco | [benny blanco](../benny_blanco/overview.md) | 4 |
 | Peter Carlsson | Peter Carlsson | 3 |
 | Oscar Holter | Oscar Holter | 2 |
+| Mattias Bylund | Mattias Bylund | 2 |
 | Bonnie McKee | Bonnie McKee | 2 |
-| Noah Passovoy | Noah Passovoy | 1 |
-| Ammo | Ammo | 1 |
 | Fred Falke | Fred Falke | 1 |
-| Mike Caffrey | Mike Caffrey | 1 |
 | Shin Kamiyama | Shin Kamiyama | 1 |
+| Noah Passovoy | Noah Passovoy | 1 |
+| Mike Caffrey | Mike Caffrey | 1 |
+| The Weeknd | The Weeknd | 1 |
 | Cathy Dennis | Cathy Dennis | 1 |
 | Peter Kahm | Peter Kahm | 1 |
-| Kuk Harrell | Kuk Harrell | 1 |
-| The Weeknd | The Weeknd | 1 |
+| Calvin Broadus | Calvin Broadus | 1 |
 | Jessie J | Jessie J | 1 |
 | DaHeala | DaHeala | 1 |
 | Aniela Gottwald | Aniela Gottwald | 1 |
-| Calvin Broadus | Calvin Broadus | 1 |
+| Ammo | Ammo | 1 |
 | Belly | Belly | 1 |
+| Kuk Harrell | Kuk Harrell | 1 |
 | B.o.B | B.o.B | 1 |
-| Gregg Rominiecki | Gregg Rominiecki | 1 |
 | Ali Payami | Ali Payami | 1 |
 | Nicki Minaj | Nicki Minaj | 1 |
 | Jack Antonoff | [Jack Antonoff](../jack_antonoff/overview.md) | 1 |
 | Peter Svensson | Peter Svensson | 1 |
-| Mattias Bylund | Mattias Bylund | 1 |
 | Davide Rossi | Davide Rossi | 1 |
 | Claude Kelly | Claude Kelly | 1 |
 | Iggy Azalea | Iggy Azalea | 1 |
@@ -82,6 +81,7 @@
 | Tina Kennedy | Tina Kennedy | 1 |
 | Nick Banns | Nick Banns | 1 |
 | Laura Sisk | [Laura Sisk](../laura_sisk/overview.md) | 1 |
+| Gregg Rominiecki | Gregg Rominiecki | 1 |
 | Kesha | Kesha | 1 |
 
 </details>
@@ -111,6 +111,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | Dancing With Our Hands Tied | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394" alt="" width="50" /> | no tears left to cry | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394" alt="" width="50" /> | breathin | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | bloodline | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | Save Your Tears | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | the boy is mine | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | we can't be friends (wait for your love) | Producer |

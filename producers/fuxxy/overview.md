@@ -4,10 +4,10 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Arranger | 8 |
-| Instrument | 1 |
-| Lyricist | 2 |
-| Songwriter | 2 |
+| Arranger | 9 |
+| Instrument | 2 |
+| Lyricist | 3 |
+| Songwriter | 3 |
 | Vocal | 1 |
 
 ## Produces for Artists
@@ -91,7 +91,6 @@
 
 | Art | Track | Credit Types |
 |:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f662dabc03dbb3a127255b32" alt="" width="50" /> | PLAY | Arranger, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Demente (feat. Guaynaa) | Arranger |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Flying on Faith | Arranger |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Stay Tonight | Lyricist, Songwriter |
@@ -100,3 +99,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Crazy Like You (feat. BIBI) | Arranger |
 | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Sparkling | Arranger |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="" width="50" /> | EENIE MEENIE (Feat. Hongjoong of ATEEZ) | Arranger |
+| | nan | Arranger, Lyricist, Songwriter |

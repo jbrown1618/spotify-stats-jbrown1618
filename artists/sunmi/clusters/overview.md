@@ -15,7 +15,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27373e1cb392676000445e9cbce" alt="" width="50" /> | Oh Sorry Ya | Oh Sorry Ya | [SUNMI](../../overview.md) | Abyss Company | 328 | 💚 | [🔗](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27373e1cb392676000445e9cbce" alt="" width="50" /> | Oh Sorry Ya | Oh Sorry Ya | [SUNMI](../../overview.md) | Abyss Company | 329 | 💚 | [🔗](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b8c3953f7694fff8dcaec23f" alt="" width="50" /> | Siren | WARNING | [SUNMI](../../overview.md) | MAKEUS ENTERTAINMENT | nan | | [🔗](https://open.spotify.com/track/0gEnVDMhKKjF1qXuvBwq91) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e33d84e471094fe701f06860" alt="" width="50" /> | Gashina | SUNMI SPECIAL EDITION [Gashina] | [SUNMI](../../overview.md) | Makeus Entertainment, The Black Label | 206 | 💚 | [🔗](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c22dfd393c41eb98307dba3" alt="" width="50" /> | You can't sit with us | 1/6 | [SUNMI](../../overview.md) | Abyss Company | nan | 💚 | [🔗](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) |

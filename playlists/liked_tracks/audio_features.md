@@ -6,7 +6,7 @@
 
 | ​ | 10 most Danceable tracks | ​​ | 10 least Danceable tracks |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ead481e6a66480e84bdfcc5c" alt="Ievan Polkka" width="50" /> | Ievan Polkka (0.972) | <img src="https://i.scdn.co/image/ab67616d0000b27301b50e75c5aa46fb8ce0cd32" alt="Amnesiac" width="50" /> | Pyramid Song (0.127) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ead481e6a66480e84bdfcc5c" alt="Ievan Polkka" width="50" /> | Ievan Polkka (0.972) | <img src="https://i.scdn.co/image/ab67616d0000b273863e0e305637100311c91aa7" alt="Amnesiac" width="50" /> | Pyramid Song (0.12) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ee7af6e271d04c728d8a47ba" alt="Bando" width="50" /> | Bando (0.97) | <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="Djesse Vol. 2" width="50" /> | Moon River (0.144) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" alt="FutureSex/LoveSounds" width="50" /> | SexyBack (feat. Timbaland) (0.967) | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="Bridge Over Troubled Water" width="50" /> | Bridge Over Troubled Water (0.149) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738136c2c2762cba40cb51f9aa" alt="The Evolution" width="50" /> | Get Up (feat. Chamillionaire) (0.964) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | Amore (0.167) |
@@ -115,7 +115,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521" alt="Illuminate (Deluxe)" width="50" /> | There's Nothing Holdin' Me Back (0.969) | <img src="https://i.scdn.co/image/ab67616d0000b273ae4e5ffa47db3bfd7fb033ad" alt="säje" width="50" /> | In The Wee Small Hours of the Morning (0.0422) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736a0cfc4171d2a0cb9dc7c9ab" alt="CHAT-SHIRE" width="50" /> | Twenty-three (0.968) | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="reputation" width="50" /> | Delicate (0.0499) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273078e3c2e57ae77c82ab4b46c" alt="DEVIL - SUPER JUNIOR SPECIAL ALBUM" width="50" /> | Devil (0.968) | <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="No Time To Die" width="50" /> | No Time To Die (0.0517) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c5f539a520f9ce9f28ccd1e5" alt="The Wonder Years" width="50" /> | Tell Me (0.968) | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | xanny (0.0528) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ba5baf00d793695d029648ec" alt="The Wonder Years" width="50" /> | Tell Me (0.968) | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | xanny (0.0528) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736a6387ab37f64034cdc7b367" alt="Speakerboxxx/The Love Below" width="50" /> | Hey Ya! (0.965) | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | Once Upon Another Time (0.0551) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27387c95c59b33bdfdafc25a813" alt="Rockferry" width="50" /> | Mercy (0.964) | <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="Lindsey Stirling" width="50" /> | Crystallize (0.0563) |
 

@@ -22,8 +22,8 @@ BTS:
 ## Artist Rank
 BTS is currently:
 - The #31 artist of the last month
-- The #32 artist of the last 6 months
-- The #31 artist of all time
+- The #33 artist of the last 6 months
+- The #32 artist of all time
 
 ![Rank of BTS over time](../../images/artists/bts/rank_time_series.png)
 ## Top Tracks
@@ -57,8 +57,8 @@ BTS is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | 3 | 3 | BE | 2020-11-20 | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | 3 | 2 | The Most Beautiful Moment in Life: Young Forever | 2016-05-02 | [🔗](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | 3 | 2 | Love Yourself 結 'Answer' | 2018-08-24 | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 3 | 2 | Love Yourself 承 'Her' | 2017-09-18 | [🔗](https://open.spotify.com/album/07Rq17GzCnIdWJcyVHb57G) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | 3 | 1 | MAP OF THE SOUL : PERSONA | 2019-04-12 | [🔗](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 3 | 1 | Love Yourself 承 'Her' | 2017-09-18 | [🔗](https://open.spotify.com/album/07Rq17GzCnIdWJcyVHb57G) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | 2 | 2 | Wings | 2016-10-10 | [🔗](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | 2 | 2 | Proof | 2022-06-10 | [🔗](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273abe7090bc3ae94d741dfaf6b" alt="" width="50" /> | 2 | 0 | Dark & Wild | 2014-08-20 | [🔗](https://open.spotify.com/album/35voVqYGkotyJ945O9egDY) |
@@ -84,7 +84,7 @@ BTS is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 34 | 21 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
+| 34 | 22 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 | 1 | 1 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 1 | 0 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 1 | 0 | HYBE |
@@ -107,18 +107,19 @@ BTS is currently:
 
 | | JIN | Jimin | Jung Kook | RM | SUGA | V | [j-hope](../j-hope/overview.md) |
 |:---|---:|---:|---:|---:|---:|---:|---:|
-| Arranger | 0 | 0 | 0 | 1 | 1 | 0 | 0 |
-| Instrument | 0 | 0 | 0 | 0 | 1 | 0 | 0 |
-| Lyricist | 0 | 0 | 0 | 1 | 1 | 0 | 0 |
-| Producer | 0 | 0 | 0 | 2 | 2 | 0 | 0 |
-| Songwriter | 0 | 1 | 0 | 11 | 7 | 0 | 4 |
-| Vocal | 1 | 3 | 6 | 2 | 3 | 2 | 2 |
+| Arranger | 0 | 0 | 0 | 1 | 2 | 0 | 0 |
+| Instrument | 0 | 0 | 0 | 0 | 2 | 0 | 0 |
+| Lyricist | 0 | 0 | 0 | 1 | 2 | 0 | 0 |
+| Producer | 0 | 0 | 0 | 2 | 3 | 0 | 0 |
+| Songwriter | 0 | 1 | 0 | 12 | 9 | 0 | 4 |
+| Vocal | 1 | 3 | 6 | 2 | 4 | 2 | 2 |
 ### Production Credits
 
 | Art | Track | Members | Credit Types |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Lie | Jimin | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Blood Sweat & Tears | RM, SUGA, [j-hope](../../j-hope/overview.md) | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | DNA | RM, SUGA | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Anpanman | RM, SUGA | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Airplane pt.2 | RM, SUGA, [j-hope](../../j-hope/overview.md) | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | FAKE LOVE | RM | Songwriter |
@@ -126,7 +127,6 @@ BTS is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Singularity | RM | Lyricist |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | Mikrokosmos | RM, SUGA, [j-hope](../../j-hope/overview.md) | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | ON | RM, SUGA, [j-hope](../../j-hope/overview.md) | Arranger, Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | Black Swan | RM | Songwriter |
 
 
 <details>
@@ -134,10 +134,10 @@ BTS is currently:
 
 | Art | Track | Members | Credit Types |
 |:---|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | Black Swan | RM | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c63be04ae902b1da7a54d247" alt="" width="50" /> | eight(Prod.&Feat. SUGA of BTS) | SUGA | Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cab1d5724ddfed3aa8a4fd0f" alt="" width="50" /> | That That (prod. & feat. SUGA of BTS) | SUGA | Arranger, Lyricist, Producer, Songwriter |
-| | nan | RM, SUGA | Songwriter |
 | | nan | RM | Songwriter |
+| | nan | SUGA | Arranger, Lyricist, Producer, Songwriter |
 
 </details>
 
@@ -146,16 +146,16 @@ BTS is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | RM | 10 | Songwriter, Arranger, Producer, Lyricist |
-| | [Pdogg](../../producers/pdogg/overview.md) | 10 | Producer, Songwriter, Arranger |
-| | [방시혁 (Bang, Si-Hyuk)](../../producers/방시혁_(bang,_si-hyuk)/overview.md) | 7 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 5 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3b8f6208d84e28f63841e43c" alt="" width="50" /> | RM | 11 | Songwriter, Arranger, Producer, Lyricist |
+| | [Pdogg](../../producers/pdogg/overview.md) | 11 | Producer, Songwriter, Arranger |
+| | [방시혁 (Bang, Si-Hyuk)](../../producers/방시혁_(bang,_si-hyuk)/overview.md) | 8 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | SUGA | 6 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | [j-hope](../j-hope/overview.md) | 4 | Songwriter |
+| | [Supreme Boi](../../producers/supreme_boi/overview.md) | 3 | Songwriter |
 | | Ali Tamposi | 2 | Songwriter |
 | | Melanie Joy Fontana | 2 | Songwriter |
 | | Jaycen Joshua | 2 | Producer |
 | | Max Seaberg | 2 | Producer |
-| | Jang Yi-jeong | 2 | Producer |
 
 
 <details>
@@ -163,15 +163,15 @@ BTS is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | Jang Yi-jeong | 2 | Producer |
 | | DJ Riggins | 2 | Producer |
 | | [Arschtritt Lindgren](../../producers/arschtritt_lindgren/overview.md) | 2 | Songwriter |
-| | [Supreme Boi](../../producers/supreme_boi/overview.md) | 2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3be82c9ca8e6a7103debaf25" alt="" width="50" /> | ADORA | 2 | Producer |
 | | Jacob Richards | 2 | Producer |
 | | Roman | 2 | Songwriter |
 | | August Rigo | 2 | Songwriter |
 | | [danke](../../producers/danke/overview.md) | 1 | Songwriter |
-| | Marcus McCoan | 1 | Producer, Songwriter |
+| | Camilla Anne Stewart | 1 | Songwriter |
 | | Charlie J. Perry | 1 | Producer, Songwriter |
 | | Julia Ross | 1 | Songwriter |
 | | Frants | 1 | Producer |
@@ -180,8 +180,8 @@ BTS is currently:
 | | Hiss noise | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | Jimin | 1 | Songwriter |
 | | Hilda Stenmalm | 1 | Songwriter |
-| | Camilla Anne Stewart | 1 | Songwriter |
 | | Ryan Lawrie | 1 | Songwriter |
+| | Marcus McCoan | 1 | Producer, Songwriter |
 | | Arcades | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b924be9b846ac20bfecc676" alt="" width="50" /> | SUMIN | 1 | Songwriter |
 | | Lutra | 1 | Songwriter |
@@ -189,6 +189,7 @@ BTS is currently:
 | | Clyde Kelly | 1 | Songwriter |
 | | Matt Thomson | 1 | Songwriter |
 | | dae Jung | 1 | Songwriter |
+| | Kass | 1 | Songwriter |
 | | DOCSKIM | 1 | Songwriter |
 | | Tom Wiklund | 1 | Producer, Songwriter |
 | | DJ Swivel | 1 | Producer, Songwriter |
@@ -222,10 +223,10 @@ BTS is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c0ff7c2c2de098875ec82997" alt="" width="50" /> | Butter (Holiday Remix) | Butter (Holiday Remix) | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 319 | | [🔗](https://open.spotify.com/track/3IA9LkBEVhJDOxOnh1nf8a) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude | SUGA's Interlude | Halsey, SUGA, [BTS](overview.md) | [Capitol Records](../../labels/capitol_records) | 494 | 💚 | [🔗](https://open.spotify.com/track/5a0nHa7F4S9hb0Zi0zLS8w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c0ff7c2c2de098875ec82997" alt="" width="50" /> | Butter (Holiday Remix) | Butter (Holiday Remix) | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 321 | | [🔗](https://open.spotify.com/track/3IA9LkBEVhJDOxOnh1nf8a) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude | SUGA's Interlude | Halsey, SUGA, [BTS](overview.md) | [Capitol Records](../../labels/capitol_records) | 497 | 💚 | [🔗](https://open.spotify.com/track/5a0nHa7F4S9hb0Zi0zLS8w) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Run BTS | Proof | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 567 | 💚 | [🔗](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Singularity | Love Yourself 結 'Answer' | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 623 | 💚 | [🔗](https://open.spotify.com/track/2ApfJvLr7RbhJl6NOVhEu6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Singularity | Love Yourself 結 'Answer' | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 624 | 💚 | [🔗](https://open.spotify.com/track/2ApfJvLr7RbhJl6NOVhEu6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732666df197eac73ae823e1e67" alt="" width="50" /> | No More Dream | 2 Cool 4 Skool | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | nan | | [🔗](https://open.spotify.com/track/089PFeXotzDLNQz9NCk6pF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | Boy in Luv | Skool Luv Affair | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | nan | 💚 | [🔗](https://open.spotify.com/track/3FnDv33WrrMtuEr7hNR3ev) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273abe7090bc3ae94d741dfaf6b" alt="" width="50" /> | Danger | Dark & Wild | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | nan | | [🔗](https://open.spotify.com/track/0zzRxtfO5FGxKdqq4OKmlw) |
@@ -243,7 +244,7 @@ BTS is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Blood Sweat & Tears | Wings | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | nan | 💚 | [🔗](https://open.spotify.com/track/2u54HNQamwFuOMLSuhSRom) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Lie | Wings | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | nan | 💚 | [🔗](https://open.spotify.com/track/1nWB8isqs2tviWk20G5pow) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" alt="" width="50" /> | Spring Day | You Never Walk Alone | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | nan | 💚 | [🔗](https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | DNA | Love Yourself 承 'Her' | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | nan | | [🔗](https://open.spotify.com/track/3uRLwBjI2TahxslcMTvpFs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | DNA | Love Yourself 承 'Her' | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | nan | 💚 | [🔗](https://open.spotify.com/track/3uRLwBjI2TahxslcMTvpFs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | MIC Drop | Love Yourself 承 'Her' | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | nan | 💚 | [🔗](https://open.spotify.com/track/4gZGAVECoiutzp64KSHNjE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | dimple | Love Yourself 承 'Her' | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | nan | | [🔗](https://open.spotify.com/track/6pp6xf9zS55GD4nr318XUH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Airplane pt.2 | Love Yourself 轉 'Tear' | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | nan | 💚 | [🔗](https://open.spotify.com/track/4lAE47gj539h8R1yxPhhGG) |

@@ -4,14 +4,14 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Producer | 81 |
+| Producer | 82 |
 
 ## Produces for Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | 27 | 27 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 12 | 12 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 13 | 13 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | 5 | 5 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 5 | 5 | [Bruno Mars](../../artists/bruno_mars/overview.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | 4 | 4 | Katy Perry | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
@@ -62,13 +62,13 @@
 |:---|:---|---:|
 | John Hanes | [John Hanes](../john_hanes/overview.md) | 39 |
 | Taylor Swift | [Taylor Swift](../taylor_swift/overview.md) | 27 |
-| Max Martin | [Max Martin](../max_martin/overview.md) | 26 |
-| Sam Holland | [Sam Holland](../sam_holland/overview.md) | 24 |
+| Max Martin | [Max Martin](../max_martin/overview.md) | 27 |
+| Sam Holland | [Sam Holland](../sam_holland/overview.md) | 25 |
 | Laura Sisk | [Laura Sisk](../laura_sisk/overview.md) | 15 |
 | Jack Antonoff | [Jack Antonoff](../jack_antonoff/overview.md) | 15 |
 | Shellback | [Shellback](../shellback/overview.md) | 12 |
+| Ariana Grande | [Ariana Grande](../ariana_grande/overview.md) | 11 |
 | Michael Ilbert | Michael Ilbert | 10 |
-| Ariana Grande | [Ariana Grande](../ariana_grande/overview.md) | 10 |
 | Łukasz Gottwald | [Łukasz Gottwald (Gottwald, Łukasz)](../łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 10 |
 
 
@@ -78,107 +78,137 @@
 | Producer | Producer | Tracks |
 |:---|:---|---:|
 | Dr. Luke | Dr. Luke | 9 |
-| ILYA | [ILYA](../ilya/overview.md) | 8 |
+| ILYA | [ILYA](../ilya/overview.md) | 9 |
 | Bryce Bordone | Bryce Bordone | 6 |
 | Emily Wright | Emily Wright | 6 |
-| benny blanco | [benny blanco](../benny_blanco/overview.md) | 5 |
 | Doja Cat | Doja Cat | 5 |
+| benny blanco | [benny blanco](../benny_blanco/overview.md) | 5 |
 | Charles Moniz | Charles Moniz | 5 |
 | Bruno Mars | [Bruno Mars](../bruno_mars/overview.md) | 5 |
+| Savan Kotecha | [Savan Kotecha](../savan_kotecha/overview.md) | 5 |
 | Oscar Holter | Oscar Holter | 4 |
 | Lou Carrao | Lou Carrao | 4 |
 | Katy Perry | Katy Perry | 4 |
-| Savan Kotecha | Savan Kotecha | 4 |
 | Beyoncé | [Beyoncé (Beyoncé)](../beyoncé_(beyoncé)/overview.md) | 3 |
 | Jeremy Reeves | Jeremy Reeves | 3 |
 | James Fauntleroy | James Fauntleroy | 3 |
-| Sounwave | [Sounwave](../sounwave/overview.md) | 3 |
+| Ray McCullough | Ray McCullough | 3 |
 | The Weeknd | The Weeknd | 3 |
 | Philip Lawrence | Philip Lawrence | 3 |
 | Peter Carlsson | Peter Carlsson | 3 |
 | Ray Romulus | Ray Romulus | 3 |
 | TBHits | TBHits | 3 |
-| Ray McCullough | Ray McCullough | 3 |
-| Ryan Tedder | [Ryan Tedder](../ryan_tedder/overview.md) | 3 |
-| The Stereotypes | The Stereotypes | 3 |
-| Ali Payami | Ali Payami | 3 |
+| Sounwave | [Sounwave](../sounwave/overview.md) | 3 |
 | Jonathan Yip | Jonathan Yip | 3 |
 | Camila Cabello | Camila Cabello | 3 |
-| Kuk Harrell | Kuk Harrell | 2 |
-| Ali Tamposi | Ali Tamposi | 2 |
+| The Stereotypes | The Stereotypes | 3 |
+| Ali Payami | Ali Payami | 3 |
+| Ryan Tedder | [Ryan Tedder](../ryan_tedder/overview.md) | 3 |
+| Shampoo Press & Curl | Shampoo Press & Curl | 2 |
+| DaHeala | DaHeala | 2 |
+| Shea Taylor | Shea Taylor | 2 |
+| Noah Passovoy | Noah Passovoy | 2 |
+| Tayla Parx | Tayla Parx | 2 |
 | Bonnie McKee | Bonnie McKee | 2 |
 | Cirkut | [Cirkut](../cirkut/overview.md) | 2 |
 | Brendan Morawski | Brendan Morawski | 2 |
 | Mark Ronson | [Mark Ronson](../mark_ronson/overview.md) | 2 |
-| Shampoo Press & Curl | Shampoo Press & Curl | 2 |
-| Yeti Beats | Yeti Beats | 2 |
-| Zoë Kravitz | Zoë Kravitz (Kravitz, Zoë) | 2 |
-| Rogét Chahayed | Rogét Chahayed (Chahayed, Rogét) | 2 |
-| Caroline Ailin | Caroline Ailin | 2 |
-| Frank Dukes | Frank Dukes | 2 |
-| Bart Schoudel | Bart Schoudel | 2 |
-| Tayla Parx | Tayla Parx | 2 |
-| The-Dream | The-Dream | 2 |
 | Shin Kamiyama | Shin Kamiyama | 2 |
 | Billy Hickey | Billy Hickey | 2 |
-| Noah Passovoy | Noah Passovoy | 2 |
-| DJ Swivel | DJ Swivel | 2 |
 | Ammo | Ammo | 2 |
-| Belly | Belly | 2 |
-| Rian Lewis | Rian Lewis | 2 |
+| Yeti Beats | Yeti Beats | 2 |
+| Bart Schoudel | Bart Schoudel | 2 |
+| The-Dream | The-Dream | 2 |
 | P!nk | P!nk | 2 |
+| Zoë Kravitz | Zoë Kravitz (Kravitz, Zoë) | 2 |
+| Caroline Ailin | Caroline Ailin | 2 |
+| Rogét Chahayed | Rogét Chahayed (Chahayed, Rogét) | 2 |
+| DJ Swivel | DJ Swivel | 2 |
 | Andrew Watt | Andrew Watt | 2 |
-| Charli XCX | Charli XCX | 2 |
-| Shea Taylor | Shea Taylor | 2 |
-| Noonie Bao | Noonie Bao | 2 |
-| Jahaan Sweet | Jahaan Sweet | 2 |
 | Brody Brown | Brody Brown | 2 |
+| Mattias Bylund | Mattias Bylund | 2 |
 | Ken Lewis | Ken Lewis | 2 |
-| DaHeala | DaHeala | 2 |
+| Charli XCX | Charli XCX | 2 |
+| Noonie Bao | Noonie Bao | 2 |
+| Frank Dukes | Frank Dukes | 2 |
+| Ali Tamposi | Ali Tamposi | 2 |
+| Rian Lewis | Rian Lewis | 2 |
+| Jahaan Sweet | Jahaan Sweet | 2 |
+| Kuk Harrell | Kuk Harrell | 2 |
+| Belly | Belly | 2 |
 | Victoria Monét | Victoria Monét (Victoria Monét) | 2 |
+| Rami | Rami | 1 |
+| Matthew Stevens | Matthew Stevens | 1 |
+| Edvard Førre Erfjord | Edvard Førre Erfjord (Erfjord, Edvard Førre) | 1 |
+| Smith Carlson | Smith Carlson | 1 |
+| Ava Max | Ava Max | 1 |
+| Chris Kasych | Chris Kasych | 1 |
+| Jameel Roberts | Jameel Roberts | 1 |
+| Joe Visciano | Joe Visciano | 1 |
+| Cathy Dennis | Cathy Dennis | 1 |
+| B.o.B | B.o.B | 1 |
+| Julian Burg | Julian Burg | 1 |
 | Cook | Cook | 1 |
-| Carl Falk | Carl Falk | 1 |
-| Sasha Yatchenko | Sasha Yatchenko | 1 |
+| Nick Jonas | Nick Jonas | 1 |
+| David Biral | David Biral | 1 |
+| Oscar Hammerstein II | Oscar Hammerstein II | 1 |
+| Lionel Crasta | Lionel Crasta | 1 |
 | Daniel Aslet | Daniel Aslet | 1 |
+| Jason Elliott | Jason Elliott | 1 |
+| Michael Harris | Michael Harris | 1 |
+| Oscar Görres | Oscar Görres (Görres, Oscar) | 1 |
+| Kesha | Kesha | 1 |
+| Andrew Coleman | Andrew Coleman | 1 |
+| Sasha Yatchenko | Sasha Yatchenko | 1 |
+| Screwface | Screwface | 1 |
 | Braxton Cook | Braxton Cook | 1 |
+| Calvin Broadus | Calvin Broadus | 1 |
 | Adam Levine | Adam Levine | 1 |
 | Fred Falke | Fred Falke | 1 |
 | Jarami | Jarami | 1 |
-| Jacob Olofsson | Jacob Olofsson | 1 |
-| Scootie | Scootie | 1 |
-| Jeff Bhasker | Jeff Bhasker | 1 |
-| Oscar Hammerstein II | Oscar Hammerstein II | 1 |
-| Lionel Crasta | Lionel Crasta | 1 |
-| Julian Burg | Julian Burg | 1 |
-| Jesy Nelson | Jesy Nelson | 1 |
-| Matthew Stevens | Matthew Stevens | 1 |
-| Ava Max | Ava Max | 1 |
-| Edvard Førre Erfjord | Edvard Førre Erfjord (Erfjord, Edvard Førre) | 1 |
-| Cathy Dennis | Cathy Dennis | 1 |
-| Emily Weisband | Emily Weisband | 1 |
-| Kesha | Kesha | 1 |
-| Oscar Görres | Oscar Görres (Görres, Oscar) | 1 |
-| Ben Collier | Ben Collier | 1 |
-| B.o.B | B.o.B | 1 |
-| Chris Kasych | Chris Kasych | 1 |
-| Nick Jonas | Nick Jonas | 1 |
-| Isaac Earl Bynum | Isaac Earl Bynum | 1 |
-| Calvin Broadus | Calvin Broadus | 1 |
-| Henrik Janson | Henrik Janson | 1 |
 | Laleh | Laleh | 1 |
-| Amy Wadge | Amy Wadge | 1 |
-| Michael Harris | Michael Harris | 1 |
-| David Biral | David Biral | 1 |
-| Smith Carlson | Smith Carlson | 1 |
-| Andrew Coleman | Andrew Coleman | 1 |
-| Sergio Chavez | Sergio Chavez | 1 |
-| Dan Viafore | Dan Viafore | 1 |
-| Cainon Lamb | Cainon Lamb | 1 |
-| Jason Elliott | Jason Elliott | 1 |
-| Giorgio Tuinfort | Giorgio Tuinfort | 1 |
+| Jacob Olofsson | Jacob Olofsson | 1 |
+| Jeff Bhasker | Jeff Bhasker | 1 |
+| Scootie | Scootie | 1 |
+| Charlie Wilson | Charlie Wilson | 1 |
+| Angelina Barrett | Angelina Barrett | 1 |
+| Devin Nakao | Devin Nakao | 1 |
+| Jessie J | Jessie J | 1 |
+| Ben Baptie | Ben Baptie | 1 |
 | TMS | TMS | 1 |
-| Maggie Rogers | Maggie Rogers | 1 |
+| Kelly Clarkson | Kelly Clarkson | 1 |
 | Dan Reynolds | Dan Reynolds | 1 |
+| Thomas Warren | Thomas Warren | 1 |
+| TIX | TIX | 1 |
+| Madison Love | Madison Love | 1 |
+| Jonathan Gautier | Jonathan Gautier | 1 |
+| Aniela Gottwald | Aniela Gottwald | 1 |
+| Maggie Rogers | Maggie Rogers | 1 |
+| Cainon Lamb | Cainon Lamb | 1 |
+| Giorgio Tuinfort | Giorgio Tuinfort | 1 |
+| Jesy Nelson | Jesy Nelson | 1 |
+| Emily Weisband | Emily Weisband | 1 |
+| Sergio Chavez | Sergio Chavez | 1 |
+| Amy Wadge | Amy Wadge | 1 |
+| Ben Collier | Ben Collier | 1 |
+| Henrik Janson | Henrik Janson | 1 |
+| Isaac Earl Bynum | Isaac Earl Bynum | 1 |
+| Carl Falk | Carl Falk | 1 |
+| Dan Viafore | Dan Viafore | 1 |
+| Jacob Kasher | Jacob Kasher | 1 |
+| Terry Shaddick | Terry Shaddick | 1 |
+| Jade Thirlwall | Jade Thirlwall | 1 |
+| KAMILLE | KAMILLE | 1 |
+| Joe Gallagher | Joe Gallagher | 1 |
+| Wayne Gordon | Wayne Gordon | 1 |
+| Lana Del Rey | [Lana Del Rey](../lana_del_rey/overview.md) | 1 |
+| Doug McKean | Doug McKean | 1 |
+| Shawn Mendes | Shawn Mendes | 1 |
+| Fred Fairbrass | Fred Fairbrass | 1 |
+| Michael Bivins | Michael Bivins | 1 |
+| Pop Wansel | Pop Wansel | 1 |
+| Tim Roberts | Tim Roberts | 1 |
+| Daniel Nigro | [Daniel Nigro](../daniel_nigro/overview.md) | 1 |
 | Henrik Barman Michelsen | Henrik Barman Michelsen | 1 |
 | Louis Bell | Louis Bell | 1 |
 | Lauv | Lauv | 1 |
@@ -186,44 +216,14 @@
 | Jean-Baptiste Kouame | Jean-Baptiste Kouame | 1 |
 | Omer Fedi | Omer Fedi | 1 |
 | Gabe Burch | Gabe Burch | 1 |
-| Thomas Warren | Thomas Warren | 1 |
 | Denzel Baptiste | Denzel Baptiste | 1 |
-| Tim Roberts | Tim Roberts | 1 |
 | Lonnie Simmons | Lonnie Simmons | 1 |
-| Greg Kurstin | [Greg Kurstin](../greg_kurstin/overview.md) | 1 |
 | Brent Kutzle | Brent Kutzle | 1 |
-| KAMILLE | KAMILLE | 1 |
-| Terry Shaddick | Terry Shaddick | 1 |
-| Kelly Clarkson | Kelly Clarkson | 1 |
-| Jessie J | Jessie J | 1 |
-| Jacob Kasher | Jacob Kasher | 1 |
-| Daniel Nigro | [Daniel Nigro](../daniel_nigro/overview.md) | 1 |
-| Pop Wansel | Pop Wansel | 1 |
-| Joe Visciano | Joe Visciano | 1 |
-| Madison Love | Madison Love | 1 |
-| Ben Baptie | Ben Baptie | 1 |
-| Jameel Roberts | Jameel Roberts | 1 |
-| Rami | Rami | 1 |
-| Charlie Wilson | Charlie Wilson | 1 |
-| Devin Nakao | Devin Nakao | 1 |
-| Screwface | Screwface | 1 |
-| Aniela Gottwald | Aniela Gottwald | 1 |
-| Jonathan Gautier | Jonathan Gautier | 1 |
-| Jade Thirlwall | Jade Thirlwall | 1 |
-| Michael Bivins | Michael Bivins | 1 |
-| Joe Gallagher | Joe Gallagher | 1 |
-| Wayne Gordon | Wayne Gordon | 1 |
-| Lana Del Rey | [Lana Del Rey](../lana_del_rey/overview.md) | 1 |
-| Doug McKean | Doug McKean | 1 |
-| Shawn Mendes | Shawn Mendes | 1 |
-| Fred Fairbrass | Fred Fairbrass | 1 |
+| Greg Kurstin | [Greg Kurstin](../greg_kurstin/overview.md) | 1 |
 | Peter Kahm | Peter Kahm | 1 |
-| TIX | TIX | 1 |
-| Angelina Barrett | Angelina Barrett | 1 |
 | Leigh-Anne | Leigh-Anne | 1 |
 | Cashmere Cat | Cashmere Cat | 1 |
-| David Guetta | David Guetta | 1 |
-| Jerry Leiber | Jerry Leiber | 1 |
+| Boo Mitchell | Boo Mitchell | 1 |
 | Brian Vincent Bates | Brian Vincent Bates | 1 |
 | Carter Lang | Carter Lang | 1 |
 | The Neptunes | The Neptunes | 1 |
@@ -235,8 +235,8 @@
 | Alex Pasco | Alex Pasco | 1 |
 | tizhimself | tizhimself | 1 |
 | Cardi B | Cardi B | 1 |
+| David Guetta | David Guetta | 1 |
 | Zubin Thakkar | Zubin Thakkar | 1 |
-| Inaam Haq | Inaam Haq | 1 |
 | Brandon Bost | Brandon Bost | 1 |
 | Imogen Heap | [Imogen Heap](../imogen_heap/overview.md) | 1 |
 | Robin Fredriksson | Robin Fredriksson | 1 |
@@ -249,10 +249,10 @@
 | DaviDior | DaviDior | 1 |
 | Carl Rosen | Carl Rosen | 1 |
 | Shintaro Yasuda | Shintaro Yasuda | 1 |
-| Boo Mitchell | Boo Mitchell | 1 |
+| Jerry Leiber | Jerry Leiber | 1 |
 | Davide Rossi | Davide Rossi | 1 |
+| Robert Manzoli | Robert Manzoli | 1 |
 | Nija | Nija | 1 |
-| Thomas Barnes | Thomas Barnes | 1 |
 | Mike Caffrey | Mike Caffrey | 1 |
 | Riccardo Damian | Riccardo Damian | 1 |
 | Mike Stoller | Mike Stoller | 1 |
@@ -277,10 +277,10 @@
 | Michael "Mikey" Foster | Michael "Mikey" Foster | 1 |
 | Matt Radosevich | Matt Radosevich | 1 |
 | Maegan Cottone | Maegan Cottone | 1 |
-| Mattias Bylund | Mattias Bylund | 1 |
+| Thomas Barnes | Thomas Barnes | 1 |
 | Hal David | Hal David | 1 |
-| Robert Manzoli | Robert Manzoli | 1 |
 | Julie Frost | Julie Frost | 1 |
+| Inaam Haq | Inaam Haq | 1 |
 | Evan Smith | Evan Smith | 1 |
 | Jorgen Odegard | Jorgen Odegard | 1 |
 | Andrew Wyatt | Andrew Wyatt | 1 |
@@ -389,6 +389,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394" alt="" width="50" /> | no tears left to cry | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394" alt="" width="50" /> | breathin | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d658a02ba8931985bdc4e0da" alt="" width="50" /> | Light On | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | bloodline | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | imagine | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | 7 rings | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="" width="50" /> | Please Me | Producer |

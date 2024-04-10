@@ -1,7 +1,7 @@
 # Check Out Later
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d00001e021fcd19d56ad06561b76c1665ab67616d00001e023042c53026e29faf3a21c9f9ab67616d00001e02995994477ea1ae8097978bf8ab67616d00001e02ec242db89d7c0703ca2494f3" alt="Check Out Later" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d00001e023e8729bbf642d44e6e973e2dab67616d00001e0247ed0349f7557c5032e613d1ab67616d00001e0259a2a72ecab2e8b551eafe36ab67616d00001e02cf53b5c466a64daece07edc4" alt="Check Out Later" width="100" />
 
 [4 tracks (0 liked) 🔗](https://open.spotify.com/playlist/2FgMW8NMJOZgvHtvDOWBCe)
 
@@ -9,14 +9,12 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | 3 | 0 | Little Mix | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7bda087d6fb48d481efd3344" alt="" width="50" /> | 1 | 0 | Galantis | [🔗](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) |
-| | 1 | 0 | Kim Chaewon of LE SSERAFIM | [🔗](https://open.spotify.com/artist/39j6wByxxNDb92rODch4mT) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd1a7ecd79e63927c5a765535" alt="" width="50" /> | 1 | 0 | Tori Kelly | [🔗](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf150017ca69c8793503c2d4f" alt="" width="50" /> | 1 | 0 | David Guetta | [🔗](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="" width="50" /> | 1 | 0 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cf94646ea8265c485e2708be" alt="" width="50" /> | 1 | 0 | Rania | [🔗](https://open.spotify.com/artist/5sUKi0QlHVxvsCzmrhJsFO) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcae99c0bae2247ad4cb0c904" alt="" width="50" /> | 1 | 0 | fromis_9 | [🔗](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) |
+| <img src="https://i.scdn.co/image/cd8af1e4b3bcab50bc4457ea1d4bd21bb51654dc" alt="" width="50" /> | 1 | 0 | T-ARA | [🔗](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 1 | 0 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 
-![Bar chart of top 6 artists](../../images/playlists/check_out_later/artists.png)
+![Bar chart of top 4 artists](../../images/playlists/check_out_later/artists.png)
 
 
 
@@ -30,10 +28,10 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273995994477ea1ae8097978bf8" alt="Get Weird (Expanded Edition)" width="50" /> | Secret Love Song (feat. Jason Derulo) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2733042c53026e29faf3a21c9f9" alt="Glory Days (Expanded Edition)" width="50" /> | Shout Out to My Ex | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731fcd19d56ad06561b76c1665" alt="Heartbreak Anthem (with David Guetta &amp; Little Mix)" width="50" /> | Heartbreak Anthem (with David Guetta & Little Mix) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273ec242db89d7c0703ca2494f3" alt="TORI." width="50" /> | spruce (feat. KIM CHAEWON of LE SSERAFIM) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ec242db89d7c0703ca2494f3" alt="TORI." width="50" /> | spruce (feat. KIM CHAEWON of LE SSERAFIM) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2731fcd19d56ad06561b76c1665" alt="Heartbreak Anthem (with David Guetta &amp; Little Mix)" width="50" /> | Heartbreak Anthem (with David Guetta & Little Mix) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733042c53026e29faf3a21c9f9" alt="Glory Days (Expanded Edition)" width="50" /> | Shout Out to My Ex | nan | <img src="https://i.scdn.co/image/ab67616d0000b273995994477ea1ae8097978bf8" alt="Get Weird (Expanded Edition)" width="50" /> | Secret Love Song (feat. Jason Derulo) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347ed0349f7557c5032e613d1" alt="Breaking Heart" width="50" /> | 너 때문에 미쳐 | nan | <img src="https://i.scdn.co/image/ab67616d0000b273cf53b5c466a64daece07edc4" alt="Midnight Guest" width="50" /> | Escape Room | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359a2a72ecab2e8b551eafe36" alt="Catch Me If You Can" width="50" /> | [Catch Me If You Can - Korean Version](../../artists/girls__generation/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2733e8729bbf642d44e6e973e2d" alt="Just go" width="50" /> | Dr.feel good | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e8729bbf642d44e6e973e2d" alt="Just go" width="50" /> | Dr.feel good | nan | <img src="https://i.scdn.co/image/ab67616d0000b27359a2a72ecab2e8b551eafe36" alt="Catch Me If You Can" width="50" /> | [Catch Me If You Can - Korean Version](../../artists/girls__generation/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cf53b5c466a64daece07edc4" alt="Midnight Guest" width="50" /> | Escape Room | nan | <img src="https://i.scdn.co/image/ab67616d0000b27347ed0349f7557c5032e613d1" alt="Breaking Heart" width="50" /> | 너 때문에 미쳐 | nan |
 
 </details>
 
@@ -41,10 +39,10 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ec242db89d7c0703ca2494f3" alt="" width="50" /> | 1 | 0 | TORI. | 2024-04-05 | [🔗](https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731fcd19d56ad06561b76c1665" alt="" width="50" /> | 1 | 0 | Heartbreak Anthem (with David Guetta & Little Mix) | 2021-05-20 | [🔗](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733042c53026e29faf3a21c9f9" alt="" width="50" /> | 1 | 0 | Glory Days (Expanded Edition) | 2016-11-18 | [🔗](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273995994477ea1ae8097978bf8" alt="" width="50" /> | 1 | 0 | Get Weird (Expanded Edition) | 2015-11-06 | [🔗](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cf53b5c466a64daece07edc4" alt="" width="50" /> | 1 | 0 | Midnight Guest | 2022-01-17 | [🔗](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e8729bbf642d44e6e973e2d" alt="" width="50" /> | 1 | 0 | Just go | 2013-03-08 | [🔗](https://open.spotify.com/album/4rNbLQCtgRSSCvYjk12zX3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359a2a72ecab2e8b551eafe36" alt="" width="50" /> | 1 | 0 | Catch Me If You Can | 2015-04-10 | [🔗](https://open.spotify.com/album/4efZAcyaIaPMIeBQheHKOy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347ed0349f7557c5032e613d1" alt="" width="50" /> | 1 | 0 | Breaking Heart | 2010-02-23 | [🔗](https://open.spotify.com/album/7C3YPRZQVhmE7TStRdXshF) |
 
 ![Bar chart of top 4 albums](../../images/playlists/check_out_later/albums.png)
 
@@ -52,28 +50,21 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 2 | 0 | [Syco Music](../../labels/syco_music/overview.md) |
-| 1 | 0 | Tori Kelly |
-| 1 | 0 | [Epic](../../labels/epic/overview.md) |
-| 1 | 0 | Big Beat Records |
-| 1 | 0 | Beautiful Mind |
+| 1 | 0 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 1 | 0 | [PLEDIS Entertainment](../../labels/pledis_entertainment/overview.md) |
+| 1 | 0 | [Kakao Entertainment](../../labels/kakao_entertainment/overview.md) |
+| 1 | 0 | Beyond Music |
 
-![Bar chart of top 5 record labels](../../images/playlists/check_out_later/labels.png)
+![Bar chart of top 4 record labels](../../images/playlists/check_out_later/labels.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 4 | 0 | [pop](../../genres/pop/overview.md) |
-| 2 | 0 | [uk pop](../../genres/uk_pop/overview.md) |
-| 2 | 0 | talent show |
-| 2 | 0 | girl group |
-| 1 | 0 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
-| 1 | 0 | pop dance |
-| 1 | 0 | edm |
-| 1 | 0 | [dance pop](../../genres/dance_pop/overview.md) |
+| 4 | 0 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 3 | 0 | [k-pop](../../genres/k-pop/overview.md) |
 
-![Bar chart of top 8 genres](../../images/playlists/check_out_later/genres.png)
+
 
 ## Years
 
@@ -83,7 +74,7 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ec242db89d7c0703ca2494f3" alt="TORI." width="50" /> | TORI. (2024-04-05) | <img src="https://i.scdn.co/image/ab67616d0000b273995994477ea1ae8097978bf8" alt="Get Weird (Expanded Edition)" width="50" /> | Get Weird (Expanded Edition) (2015-11-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731fcd19d56ad06561b76c1665" alt="Heartbreak Anthem (with David Guetta &amp; Little Mix)" width="50" /> | Heartbreak Anthem (with David Guetta & Little Mix) (2021-05-20) | <img src="https://i.scdn.co/image/ab67616d0000b2733042c53026e29faf3a21c9f9" alt="Glory Days (Expanded Edition)" width="50" /> | Glory Days (Expanded Edition) (2016-11-18) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733042c53026e29faf3a21c9f9" alt="Glory Days (Expanded Edition)" width="50" /> | Glory Days (Expanded Edition) (2016-11-18) | <img src="https://i.scdn.co/image/ab67616d0000b2731fcd19d56ad06561b76c1665" alt="Heartbreak Anthem (with David Guetta &amp; Little Mix)" width="50" /> | Heartbreak Anthem (with David Guetta & Little Mix) (2021-05-20) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273995994477ea1ae8097978bf8" alt="Get Weird (Expanded Edition)" width="50" /> | Get Weird (Expanded Edition) (2015-11-06) | <img src="https://i.scdn.co/image/ab67616d0000b273ec242db89d7c0703ca2494f3" alt="TORI." width="50" /> | TORI. (2024-04-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cf53b5c466a64daece07edc4" alt="Midnight Guest" width="50" /> | Midnight Guest (2022-01-17) | <img src="https://i.scdn.co/image/ab67616d0000b27347ed0349f7557c5032e613d1" alt="Breaking Heart" width="50" /> | Breaking Heart (2010-02-23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359a2a72ecab2e8b551eafe36" alt="Catch Me If You Can" width="50" /> | Catch Me If You Can (2015-04-10) | <img src="https://i.scdn.co/image/ab67616d0000b2733e8729bbf642d44e6e973e2d" alt="Just go" width="50" /> | Just go (2013-03-08) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e8729bbf642d44e6e973e2d" alt="Just go" width="50" /> | Just go (2013-03-08) | <img src="https://i.scdn.co/image/ab67616d0000b27359a2a72ecab2e8b551eafe36" alt="Catch Me If You Can" width="50" /> | Catch Me If You Can (2015-04-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347ed0349f7557c5032e613d1" alt="Breaking Heart" width="50" /> | Breaking Heart (2010-02-23) | <img src="https://i.scdn.co/image/ab67616d0000b273cf53b5c466a64daece07edc4" alt="Midnight Guest" width="50" /> | Midnight Guest (2022-01-17) |

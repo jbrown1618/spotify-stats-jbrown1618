@@ -7,29 +7,29 @@
 | Arranger | 1 |
 | Lyricist | 1 |
 | Producer | 2 |
-| Songwriter | 11 |
+| Songwriter | 12 |
 | Vocal | 2 |
 
 ## Produces for Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 10 | 10 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 11 | 11 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 
 ## Works with Producers
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Pdogg | [Pdogg](../pdogg/overview.md) | 8 |
-| SUGA | [SUGA](../suga/overview.md) | 5 |
-| 방시혁 | [방시혁 (Bang, Si-Hyuk)](../방시혁_(bang,_si-hyuk)/overview.md) | 5 |
+| Pdogg | [Pdogg](../pdogg/overview.md) | 9 |
+| SUGA | [SUGA](../suga/overview.md) | 6 |
+| 방시혁 | [방시혁 (Bang, Si-Hyuk)](../방시혁_(bang,_si-hyuk)/overview.md) | 6 |
 | j-hope | j-hope | 4 |
+| Supreme Boi | [Supreme Boi](../supreme_boi/overview.md) | 3 |
 | Ali Tamposi | Ali Tamposi | 2 |
 | Jaycen Joshua | Jaycen Joshua | 2 |
 | Max Seaberg | Max Seaberg | 2 |
 | DJ Riggins | DJ Riggins | 2 |
 | Arschtritt Lindgren | [Arschtritt Lindgren](../arschtritt_lindgren/overview.md) | 2 |
-| Supreme Boi | [Supreme Boi](../supreme_boi/overview.md) | 2 |
 
 
 <details>
@@ -43,6 +43,7 @@
 | August Rigo | August Rigo | 2 |
 | Vince Nantes | Vince Nantes | 1 |
 | Julia Ross | Julia Ross | 1 |
+| Kass | Kass | 1 |
 | Matt Thomson | Matt Thomson | 1 |
 | Clyde Kelly | Clyde Kelly | 1 |
 | Antonina Armato | Antonina Armato | 1 |
@@ -78,6 +79,7 @@
 | Art | Track | Credit Types |
 |:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Blood Sweat & Tears | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | DNA | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Anpanman | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Airplane pt.2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | FAKE LOVE | Songwriter |
@@ -86,5 +88,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | Mikrokosmos | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | ON | Arranger, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | Black Swan | Songwriter |
-| | nan | Songwriter |
 | | nan | Songwriter |
