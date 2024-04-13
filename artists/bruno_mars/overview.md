@@ -176,7 +176,7 @@ Bruno Mars:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | When I Was Your Man | Unorthodox Jukebox | [Bruno Mars](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 699 | 💚 | [🔗](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | When I Was Your Man | Unorthodox Jukebox | [Bruno Mars](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 705 | 💚 | [🔗](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | Grenade | Doo-Wops & Hooligans | [Bruno Mars](overview.md) | [Atlantic Records](../../labels/atlantic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | The Other Side (feat. CeeLo Green and B.o.B) | Doo-Wops & Hooligans | [Bruno Mars](overview.md), B.o.B, CeeLo Green | [Atlantic Records](../../labels/atlantic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/0HasfWMrNxTjycDy9TkRtA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | Locked out of Heaven | Unorthodox Jukebox | [Bruno Mars](overview.md) | [Atlantic Records](../../labels/atlantic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) |

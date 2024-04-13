@@ -18,7 +18,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Stay | Unapologetic (Deluxe) | [Rihanna](../../overview.md), Mikky Ekko | [Def Jam Recordings](../../../../labels/def_jam_recordings) | 642 | 💚 | [🔗](https://open.spotify.com/track/1dEy9Pl81QopSxNsPxXQxv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Stay | Unapologetic (Deluxe) | [Rihanna](../../overview.md), Mikky Ekko | [Def Jam Recordings](../../../../labels/def_jam_recordings) | 645 | 💚 | [🔗](https://open.spotify.com/track/1dEy9Pl81QopSxNsPxXQxv) |
 ## Cluster #3
 
 13 tracks
@@ -34,4 +34,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | Watch n' Learn | Talk That Talk | [Rihanna](../../overview.md) | [Def Jam Recordings](../../../../labels/def_jam_recordings) | nan | 💚 | [🔗](https://open.spotify.com/track/1ROCX1nquOZ5i05YfGysu0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b21609e1a2d7c1b7ba8efae2" alt="" width="50" /> | Pon de Replay | Music Of The Sun | [Rihanna](../../overview.md) | [Def Jam Recordings](../../../../labels/def_jam_recordings) | nan | | [🔗](https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab647295c0c97446c1f1a3b5" alt="" width="50" /> | Rude Boy | Rated R | [Rihanna](../../overview.md) | [Def Jam Recordings](../../../../labels/def_jam_recordings) | nan | 💚 | [🔗](https://open.spotify.com/track/60jzFy6Nn4M0iD1d94oteF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | The Monster | The Marshall Mathers LP2 | [Eminem](../../../eminem/overview.md), [Rihanna](../../overview.md) | [Aftermath](../../../../labels/aftermath) | 512 | 💚 | [🔗](https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | The Monster | The Marshall Mathers LP2 | [Eminem](../../../eminem/overview.md), [Rihanna](../../overview.md) | [Aftermath](../../../../labels/aftermath) | 513 | 💚 | [🔗](https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C) |

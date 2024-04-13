@@ -36,7 +36,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5975f7e25f876ac8c3763003" alt="" width="50" /> | 1 | 0 | GSoul | [🔗](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb639dc73ec795e329d064dbb2" alt="" width="50" /> | 1 | 0 | Seori | [🔗](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 1 | 0 | [PENTAGON](../../artists/pentagon/overview.md) | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb3c633d8f23531e0d6458cae" alt="" width="50" /> | 1 | 0 | KINGDOM | [🔗](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb3c633d8f23531e0d6458cae" alt="" width="50" /> | 1 | 0 | The KingDom | [🔗](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) |
 
 </details>
 
@@ -133,10 +133,10 @@ Appears as:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2738683845c563e9e2a478e2edb" alt="" width="50" /> | Sensitive | Loossemble | Loossemble | [WM Korea](.) | 145 | 💚 | [🔗](https://open.spotify.com/track/6A1dCPrUYhg56ukp4zlEUw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="" width="50" /> | Cupid - Twin Ver. | The Beginning: Cupid | FIFTY FIFTY | [WM Korea](.) | 297 | | [🔗](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273864f04cb6debbb9057b04b30" alt="" width="50" /> | I Love My Body | I Love My Body | [HWASA](../../artists/hwasa/overview.md) | [WM Korea](.) | 301 | | [🔗](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bf32f4be80afeb0e1a09b27d" alt="" width="50" /> | Officially Cool | Officially Cool | BANG YEDAM, [WINTER](../../artists/winter/overview.md) | [WM Korea](.) | 406 | 💚 | [🔗](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273682ac678746ad21b6b799950" alt="" width="50" /> | Pity Party | Pity Party | JAMIE | [WM Korea](.) | 644 | 💚 | [🔗](https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27390eea4a1744d67c2de3db575" alt="" width="50" /> | When It Snows mmm (feat. Wheein) | When It Snows mmm (feat. Wheein) | Basick, Whee In | [WM Korea](.) | 720 | | [🔗](https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273864f04cb6debbb9057b04b30" alt="" width="50" /> | I Love My Body | I Love My Body | [HWASA](../../artists/hwasa/overview.md) | [WM Korea](.) | 302 | | [🔗](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bf32f4be80afeb0e1a09b27d" alt="" width="50" /> | Officially Cool | Officially Cool | BANG YEDAM, [WINTER](../../artists/winter/overview.md) | [WM Korea](.) | 338 | 💚 | [🔗](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273682ac678746ad21b6b799950" alt="" width="50" /> | Pity Party | Pity Party | JAMIE | [WM Korea](.) | 646 | 💚 | [🔗](https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27390eea4a1744d67c2de3db575" alt="" width="50" /> | When It Snows mmm (feat. Wheein) | When It Snows mmm (feat. Wheein) | Basick, Whee In | [WM Korea](.) | 723 | | [🔗](https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273addef7fad07f17acdf7d6b98" alt="" width="50" /> | BREATHE | B:COMPLETE | AB6IX | [WM Korea](.) | nan | 💚 | [🔗](https://open.spotify.com/track/4XbyRgWe6yU4wE6WShdTEs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a359467cf1e245c2cdf5dad5" alt="" width="50" /> | Movie Star | HELLO Chapter 1: Hello, Stranger | CIX | [WM Korea](.) | nan | | [🔗](https://open.spotify.com/track/65pVi11JqwSZqUuYAqLP36) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a359467cf1e245c2cdf5dad5" alt="" width="50" /> | What You Wanted | HELLO Chapter 1: Hello, Stranger | CIX | [WM Korea](.) | nan | | [🔗](https://open.spotify.com/track/76dpiZihYVl5VbiHNjVj5l) |
@@ -151,7 +151,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273f007ee1c134806d3ec34c83e" alt="" width="50" /> | I Don't Need You | I Don't Need You | LUNCH | [WM Korea](.) | nan | 💚 | [🔗](https://open.spotify.com/track/5I9mKWUEM2RICe6QJ26PyM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737694471cc29815e2b3864637" alt="" width="50" /> | Jungle | HELLO Chapter 3: Hello, Strange Time | CIX | [WM Korea](.) | nan | 💚 | [🔗](https://open.spotify.com/track/0QyLYuhCdzwVk9OkmvwAjh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735cc60fb32b74636be4f2e19e" alt="" width="50" /> | Mr. Santa | Mr. Santa | LUNCH | [WM Korea](.) | nan | | [🔗](https://open.spotify.com/track/5sKVq8eZao43FmumueYClP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27384e03542ff0782ce11bbe8f6" alt="" width="50" /> | Excalibur | History Of Kingdom: Pt. I. Arthur | KINGDOM | [WM Korea](.) | nan | | [🔗](https://open.spotify.com/track/5uNEmROkf5izWfrQ9oLvAQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27384e03542ff0782ce11bbe8f6" alt="" width="50" /> | Excalibur | History Of Kingdom: Pt. I. Arthur | The KingDom | [WM Korea](.) | nan | | [🔗](https://open.spotify.com/track/5uNEmROkf5izWfrQ9oLvAQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273632620401c34d07336a091bc" alt="" width="50" /> | Natural | Natural | GSoul | [WM Korea](.) | nan | | [🔗](https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273974662e5de6399232ea61a8d" alt="" width="50" /> | Make Me Happy | WHEE | Whee In | [WM Korea](.) | nan | 💚 | [🔗](https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27378672dc9ecfb1a2e87501284" alt="" width="50" /> | NANANA | GOT7 | GOT7 | [WM Korea](.) | nan | 💚 | [🔗](https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ) |

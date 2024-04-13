@@ -5,7 +5,7 @@
 | Credit Type | Tracks |
 |:---|---:|
 | Arranger | 1 |
-| Producer | 48 |
+| Producer | 49 |
 
 ## Produces for Artists
 

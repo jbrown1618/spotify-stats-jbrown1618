@@ -15,8 +15,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | That Wasn't Me | Bear Creek | Brandi Carlile | [Columbia](../../../../labels/columbia) | nan | 💚 | [🔗](https://open.spotify.com/track/6iqAJh3X8bf94eo4reme5L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="" width="50" /> | I Thought She Knew | No Strings Attached | *NSYNC | [Jive](../../../../labels/jive) | nan | 💚 | [🔗](https://open.spotify.com/track/0b4u7IhBY61kSmS8wVIPYg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed164cf1c10f028e8f528784" alt="" width="50" /> | Stone Cold | Confident | Demi Lovato | [Hollywood Records](../../../../labels/hollywood_records) | nan | 💚 | [🔗](https://open.spotify.com/track/3by8IfnW9dZ2t4pZw1WVxz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736b18d0490878750cd69abf2c" alt="" width="50" /> | Wrecking Ball | Bangerz (Deluxe Version) | Miley Cyrus | [RCA Records Label](../../../../labels/rca_records_label) | 652 | 💚 | [🔗](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="" width="50" /> | Poison & Wine | Barton Hollow | The Civil Wars | sensibility recordings | 414 | 💚 | [🔗](https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736b18d0490878750cd69abf2c" alt="" width="50" /> | Wrecking Ball | Bangerz (Deluxe Version) | Miley Cyrus | [RCA Records Label](../../../../labels/rca_records_label) | 585 | 💚 | [🔗](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="" width="50" /> | Poison & Wine | Barton Hollow | The Civil Wars | sensibility recordings | 419 | 💚 | [🔗](https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356080feb452fa7ad4ca61d8b" alt="" width="50" /> | Unknown (To You) | Village | Jacob Banks | UMGRI Interscope | nan | 💚 | [🔗](https://open.spotify.com/track/4jDDaKTqcZQWvgubuW6N7l) |
 ## Cluster #2
 

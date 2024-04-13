@@ -21,7 +21,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c017e1e34973fabb15fc0a4" alt="" width="50" /> | 1 | 1 | Pink Siifu | [🔗](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) |
 | | 1 | 1 | Tommy Raps | [🔗](https://open.spotify.com/artist/2jDVhHiltj9mEWoIGdBg3z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe5bc630548fb3517cf90edb8" alt="" width="50" /> | 1 | 1 | Daniel Caesar | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd1a7ecd79e63927c5a765535" alt="" width="50" /> | 1 | 1 | Tori Kelly | [🔗](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb544ba0da8dbe879efa20bcb9" alt="" width="50" /> | 1 | 1 | Tori Kelly | [🔗](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfee7db9b30ece7ac8b55f6d1" alt="" width="50" /> | 1 | 1 | Mahalia | [🔗](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) |
 
 ## Works with Producers

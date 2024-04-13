@@ -21,8 +21,8 @@ BTS:
 
 ## Artist Rank
 BTS is currently:
-- The #31 artist of the last month
-- The #33 artist of the last 6 months
+- The #32 artist of the last month
+- The #45 artist of the last 6 months
 - The #32 artist of all time
 
 ![Rank of BTS over time](../../images/artists/bts/rank_time_series.png)
@@ -223,10 +223,10 @@ BTS is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c0ff7c2c2de098875ec82997" alt="" width="50" /> | Butter (Holiday Remix) | Butter (Holiday Remix) | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 321 | | [🔗](https://open.spotify.com/track/3IA9LkBEVhJDOxOnh1nf8a) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude | SUGA's Interlude | Halsey, SUGA, [BTS](overview.md) | [Capitol Records](../../labels/capitol_records) | 497 | 💚 | [🔗](https://open.spotify.com/track/5a0nHa7F4S9hb0Zi0zLS8w) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Run BTS | Proof | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 567 | 💚 | [🔗](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Singularity | Love Yourself 結 'Answer' | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 624 | 💚 | [🔗](https://open.spotify.com/track/2ApfJvLr7RbhJl6NOVhEu6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c0ff7c2c2de098875ec82997" alt="" width="50" /> | Butter (Holiday Remix) | Butter (Holiday Remix) | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 324 | | [🔗](https://open.spotify.com/track/3IA9LkBEVhJDOxOnh1nf8a) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude | SUGA's Interlude | Halsey, SUGA, [BTS](overview.md) | [Capitol Records](../../labels/capitol_records) | 499 | 💚 | [🔗](https://open.spotify.com/track/5a0nHa7F4S9hb0Zi0zLS8w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Run BTS | Proof | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 570 | 💚 | [🔗](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Singularity | Love Yourself 結 'Answer' | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 629 | 💚 | [🔗](https://open.spotify.com/track/2ApfJvLr7RbhJl6NOVhEu6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732666df197eac73ae823e1e67" alt="" width="50" /> | No More Dream | 2 Cool 4 Skool | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | nan | | [🔗](https://open.spotify.com/track/089PFeXotzDLNQz9NCk6pF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | Boy in Luv | Skool Luv Affair | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | nan | 💚 | [🔗](https://open.spotify.com/track/3FnDv33WrrMtuEr7hNR3ev) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273abe7090bc3ae94d741dfaf6b" alt="" width="50" /> | Danger | Dark & Wild | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | nan | | [🔗](https://open.spotify.com/track/0zzRxtfO5FGxKdqq4OKmlw) |
@@ -252,7 +252,7 @@ BTS is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | FAKE LOVE | Love Yourself 轉 'Tear' | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | nan | 💚 | [🔗](https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | The Truth Untold (feat. Steve Aoki) | Love Yourself 轉 'Tear' | [BTS](overview.md), Steve Aoki | [BIGHIT MUSIC](../../labels/bighit_music) | nan | | [🔗](https://open.spotify.com/track/7DEKa5Z7Cl8s3Y7imb88OM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | IDOL | Love Yourself 結 'Answer' | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | nan | 💚 | [🔗](https://open.spotify.com/track/1e8J3XClxZbFmvIHLI8CE4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | MIC Drop (Steve Aoki Remix) - Full Length Edition | Love Yourself 結 'Answer' | [BTS](overview.md), Steve Aoki | [BIGHIT MUSIC](../../labels/bighit_music) | nan | | [🔗](https://open.spotify.com/track/01380RE6UfsPSdiUIwrCoH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | MIC Drop (Steve Aoki Remix) (Full Length Edition) | Love Yourself 結 'Answer' | [BTS](overview.md), Steve Aoki | [BIGHIT MUSIC](../../labels/bighit_music) | nan | | [🔗](https://open.spotify.com/track/01380RE6UfsPSdiUIwrCoH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | Boy With Luv (feat. Halsey) | MAP OF THE SOUL : PERSONA | [BTS](overview.md), Halsey | [BIGHIT MUSIC](../../labels/bighit_music) | nan | | [🔗](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | HOME | MAP OF THE SOUL : PERSONA | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | nan | | [🔗](https://open.spotify.com/track/6Yc3tjFCVR2bfAQFRTZBef) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | Mikrokosmos | MAP OF THE SOUL : PERSONA | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | nan | 💚 | [🔗](https://open.spotify.com/track/0jSccBRnhNU4KtACMQPvco) |

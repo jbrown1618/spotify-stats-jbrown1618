@@ -16,7 +16,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 21 | 16 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6af5c534d932dd7a5b39816b" alt="" width="50" /> | 3 | 3 | Metropole Orkest | [🔗](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebab810a44a4d387152d610d93" alt="" width="50" /> | 3 | 3 | Jules Buckley | [🔗](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd1a7ecd79e63927c5a765535" alt="" width="50" /> | 2 | 1 | Tori Kelly | [🔗](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb544ba0da8dbe879efa20bcb9" alt="" width="50" /> | 2 | 1 | Tori Kelly | [🔗](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8eb619c6c9f94dc9f6412612" alt="" width="50" /> | 1 | 1 | Lindsey Lomis | [🔗](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b3c0f33bc5e3f6a53f84d7" alt="" width="50" /> | 1 | 1 | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | 1 | 1 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
@@ -124,7 +124,7 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd1a7ecd79e63927c5a765535" alt="" width="50" /> | Tori Kelly | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb544ba0da8dbe879efa20bcb9" alt="" width="50" /> | Tori Kelly | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 1 | Songwriter |
 
 </details>
@@ -135,12 +135,12 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="" width="50" /> | Over You (feat. aespa & Chris Martin) | Djesse Vol. 4 | [Jacob Collier](../../artists/jacob_collier/overview.md), [aespa](../../artists/aespa/overview.md), Chris Martin | [Decca (UMO)](.) | 332 | 💚 | [🔗](https://open.spotify.com/track/7MSZg4Km8CM7NRXTeJoANZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | He Won't Hold You (feat. Rapsody) | Djesse Vol. 3 | [Jacob Collier](../../artists/jacob_collier/overview.md), Rapsody | [Decca (UMO)](.) | 376 | 💚 | [🔗](https://open.spotify.com/track/3mSoxi4aC7oiTGJjsLLkaM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="" width="50" /> | Over You (feat. aespa & Chris Martin) | Djesse Vol. 4 | [Jacob Collier](../../artists/jacob_collier/overview.md), [aespa](../../artists/aespa/overview.md), Chris Martin | [Decca (UMO)](.) | 335 | 💚 | [🔗](https://open.spotify.com/track/7MSZg4Km8CM7NRXTeJoANZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | He Won't Hold You (feat. Rapsody) | Djesse Vol. 3 | [Jacob Collier](../../artists/jacob_collier/overview.md), Rapsody | [Decca (UMO)](.) | 380 | 💚 | [🔗](https://open.spotify.com/track/3mSoxi4aC7oiTGJjsLLkaM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | In My Bones (feat. Kimbra & Tank and The Bangas) | Djesse Vol. 3 | [Jacob Collier](../../artists/jacob_collier/overview.md), [Kimbra](../../artists/kimbra/overview.md), Tank and The Bangas | [Decca (UMO)](.) | 480 | 💚 | [🔗](https://open.spotify.com/track/06PNiDGtPIMOq9VU2ftVCk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | Running Outta Love (feat. Tori Kelly) | Djesse Vol. 3 | [Jacob Collier](../../artists/jacob_collier/overview.md), Tori Kelly | [Decca (UMO)](.) | 492 | 💚 | [🔗](https://open.spotify.com/track/18kV8FzhGXE6XndMdiv4Ox) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="" width="50" /> | Every Little Thing She Does Is Magic | Djesse Vol. 1 | [Jacob Collier](../../artists/jacob_collier/overview.md), Metropole Orkest, Jules Buckley | [Decca (UMO)](.) | 496 | 💚 | [🔗](https://open.spotify.com/track/0xuz9pSNwyWljXUgEGEhjp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="" width="50" /> | Moon River | Djesse Vol. 2 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [Decca (UMO)](.) | 575 | 💚 | [🔗](https://open.spotify.com/track/1IRRqn75jaZHp7zMT1NGbZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | Running Outta Love (feat. Tori Kelly) | Djesse Vol. 3 | [Jacob Collier](../../artists/jacob_collier/overview.md), Tori Kelly | [Decca (UMO)](.) | 494 | 💚 | [🔗](https://open.spotify.com/track/18kV8FzhGXE6XndMdiv4Ox) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="" width="50" /> | Every Little Thing She Does Is Magic | Djesse Vol. 1 | [Jacob Collier](../../artists/jacob_collier/overview.md), Metropole Orkest, Jules Buckley | [Decca (UMO)](.) | 497 | 💚 | [🔗](https://open.spotify.com/track/0xuz9pSNwyWljXUgEGEhjp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="" width="50" /> | Moon River | Djesse Vol. 2 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [Decca (UMO)](.) | 578 | 💚 | [🔗](https://open.spotify.com/track/1IRRqn75jaZHp7zMT1NGbZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="" width="50" /> | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Antonio Vivaldi, Simon Standage, Elizabeth Wilcock, The English Concert, Trevor Pinnock | [Decca (UMO)](.) | nan | | [🔗](https://open.spotify.com/track/6y3VNh7JmGHIlk2zDXX6Wr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="" width="50" /> | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Antonio Vivaldi, Simon Standage, Elizabeth Wilcock, The English Concert, Trevor Pinnock | [Decca (UMO)](.) | nan | | [🔗](https://open.spotify.com/track/4QlEleNkTjc5gQ91bp36zu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a45a297144d0c087b2d328ad" alt="" width="50" /> | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro | Vivaldi: Four Seasons | Antonio Vivaldi, Simon Standage, Elizabeth Wilcock, The English Concert, Trevor Pinnock | [Decca (UMO)](.) | nan | | [🔗](https://open.spotify.com/track/2R1otrP1Kuu2LY3ho9127T) |

@@ -8,11 +8,7 @@ None
 
 | Album | Artists | Album Popularity | Release Date | Label | Tracks | Playlists |
 |:---|:---|---:|:---|:---|:---|:---|
-| Querencia [🔗](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | CHUNG HA [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | 33 | 2021-02-15 | MNH ENTERTAINMENT | Bicycle [🔗](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz),<br>Demente (feat. Guaynaa) [🔗](https://open.spotify.com/track/0NhHFXC06r5kK1rTUuOjxM),<br>Dream of You (with R3HAB) [🔗](https://open.spotify.com/track/1d8Arh7PushRWWJRs41rSa),<br>Flying on Faith [🔗](https://open.spotify.com/track/34v3Sm3KEc7DtGPP50jyrl),<br>Masquerade [🔗](https://open.spotify.com/track/0AABiBAIYQCMpLI0ODbDDL),<br>Stay Tonight [🔗](https://open.spotify.com/track/7Cn6R7YB4EjQkfci9DdceG) | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Workout [🔗](https://open.spotify.com/playlist/3NYClOhoC6ZSipLJBTsZfO),<br>Your Top Songs 2023 [🔗](https://open.spotify.com/playlist/37i9dQZF1Fa1IIVtEpGUcU) |
-| Querencia [🔗](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | CHUNG HA [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | 61 | 2021-02-15 | MNH ENTERTAINMENT | PLAY (feat. Changmo) [🔗](https://open.spotify.com/track/4gJLkQRcGRJRoHJAavP9iN) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| [Apocalypse : Save us] [🔗](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 0 | 2022-04-12 | DREAMCATCHER COMPANY | Locked Inside A Door [🔗](https://open.spotify.com/track/3MIXS3voZb2QFTnjKeYVT6) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| [Apocalypse : Save us] [🔗](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | Dreamcatcher [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | 55 | 2022-04-12 | DREAMCATCHER COMPANY | MAISON [🔗](https://open.spotify.com/track/2fyhv2ThM2PDqlc8HVs32e),<br>Starlight [🔗](https://open.spotify.com/track/5D9ooWK4X7TryJoqS6IuS3) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 53 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Retro Kpop [🔗](https://open.spotify.com/playlist/1MW4AAPq55U0XWvSeu1jU5) |
+| A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 53 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Retro Kpop [🔗](https://open.spotify.com/playlist/1MW4AAPq55U0XWvSeu1jU5) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 48 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 54 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd),<br>Recommendations for Jeff [🔗](https://open.spotify.com/playlist/5Liek0UOC5GmdOjxdWhcob),<br>Relax [🔗](https://open.spotify.com/playlist/4rnlD7JdUQNdPCBhL69dCg),<br>Your Top Songs 2022 [🔗](https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit) |
 | SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 40 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
@@ -37,12 +33,11 @@ None
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 65 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 50 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 65 |
-| Locked Inside A Door | [Apocalypse : Save us] | Dreamcatcher | 0 | 0 | 60 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 59 |
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 70 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 0 | 0 | 71 |
-| Nothing Else Matters | Metallica | Metallica | 0 | 1 | 81 |
-| Enter Sandman | Metallica | Metallica | 1 | 1 | 81 |
+| Nothing Else Matters | Metallica | Metallica | 0 | 1 | 82 |
+| Enter Sandman | Metallica | Metallica | 1 | 1 | 82 |
 | Wings | Wings | PIXY | 0 | 0 | 39 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 39 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 39 |
@@ -51,6 +46,7 @@ None
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 39 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 66 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 33 |
+| Illusion | Illusion | Dua Lipa | 0 | 0 | 88 |
 | Drink It | Drink It | THE BOYZ | 0 | 0 | 61 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 52 |
 | Think About Things | Think About Things | Daði Freyr | 0 | 0 | 52 |
@@ -68,7 +64,7 @@ None
 | Pokemon Theme | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 54 |
 | Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 53 |
 | The Legend Of Zelda: Twilight Princess - Midna's Desperate Hour | Piano/Instrumental Works: Video Game Themes - Volume I | Michael Tai | 0 | 0 | 40 |
-| Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | 0 | 0 | 56 |
+| Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | 0 | 0 | 57 |
 | Just The Way You Are | Little Love - EP | James Smith | 0 | 0 | 53 |
 | I will show you | Invitation | AILEE | 0 | 0 | 58 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 62 |
@@ -88,9 +84,9 @@ None
 | You Calling My Name | Call My Name | GOT7 | 0 | 0 | 60 |
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 27 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 75 |
-| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 76 |
+| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 77 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 74 |
-| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 75 |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 76 |
 | Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 67 |
 | Sweet Night | ITAEWON CLASS (Original Television Soundtrack) Pt. 12 | V | 1 | 0 | 83 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 77 |
@@ -109,21 +105,21 @@ None
 | When We Disco | When We Disco | J.Y. Park | 0 | 0 | 50 |
 | Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 50 |
 | When We Disco | When We Disco | SUNMI | 0 | 0 | 57 |
-| Who's Your Mama? | 24/34 | Jessi | 0 | 0 | 58 |
-| Djadja | Djadja | Aya Nakamura | 0 | 0 | 72 |
+| Who's Your Mama? | 24/34 | Jessi | 0 | 0 | 59 |
+| Djadja | Djadja | Aya Nakamura | 0 | 0 | 73 |
 | My House | No.5 | 2PM | 0 | 0 | 53 |
 | Still Alive | Portal 2: Songs to Test By (Collectors Edition) | Aperture Science Psychoacoustic Laboratories | 0 | 0 | 46 |
 | this is what falling in love feels like | this is what falling in love feels like | JVKE | 1 | 0 | 77 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 48 |
 | Zelda's Lullaby | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 47 |
 | Song Of Storms | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 47 |
-| Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 70 |
-| Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 70 |
+| Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 71 |
+| Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 71 |
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 26 |
-| Call Me Mother | American | RuPaul | 0 | 0 | 56 |
+| Call Me Mother | American | RuPaul | 0 | 0 | 57 |
 | Lose | Love Synonym #2 : Right for Us | WONHO | 2 | 2 | 45 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 67 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 47 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 46 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 56 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 46 |
 | Lost Woods | Zelda: Ocarina of Time - Piano | Wesley Sprayue | 0 | 0 | 41 |

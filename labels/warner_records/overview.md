@@ -1,13 +1,13 @@
 # Warner Records
 
-101 songs
+102 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Warner Records (52 tracks)
+- Warner Records (53 tracks)
 - SM Entertainment / Warner Records (18 tracks)
 - Rhino/Warner Records (14 tracks)
 - Beluga Heights/Warner Records (5 tracks)
@@ -23,7 +23,7 @@ Appears as:
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7" alt="" width="50" /> | 18 | 14 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | 13 | 8 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | 10 | 6 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | 11 | 6 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | 7 | 5 | [Jackson Wang](../../artists/jackson_wang/overview.md) | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | 5 | 4 | Muse | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="" width="50" /> | 5 | 4 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
@@ -100,7 +100,7 @@ Appears as:
 
 
 <details>
-<summary>See all 55 albums</summary>
+<summary>See all 56 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -121,7 +121,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="" width="50" /> | 1 | 1 | Origin of Symmetry | 2001 | [🔗](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a1ffd75bb148e58ce2a6cac" alt="" width="50" /> | 1 | 1 | Moondance (Deluxe Edition) | 1970-02 | [🔗](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d856e66d33e22746c21a09c" alt="" width="50" /> | 1 | 1 | Lose Control | 2023-06-23 | [🔗](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736b18e58a06aac7763abe319a" alt="" width="50" /> | 1 | 1 | Like a Virgin | 1984-11-12 | [🔗](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27399d424b0873a9a714279a9f3" alt="" width="50" /> | 1 | 1 | Like a Virgin | 1984-11-12 | [🔗](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a06f6d9e1b5fee1670cfffc" alt="" width="50" /> | 1 | 1 | IT'S YOU (feat. keshi) | 2022-09-09 | [🔗](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27312e36c27d935e955b44c6581" alt="" width="50" /> | 1 | 1 | Heaven knows | 2023-11-10 | [🔗](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273488df3d22b1f5c0ea15b686a" alt="" width="50" /> | 1 | 1 | Head In The Clouds II | 2019-10-11 | [🔗](https://open.spotify.com/album/7bOpX6Ilc9UCFmH9uGyUDy) |
@@ -141,6 +141,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273bc9b44e950d5440ff65ea926" alt="" width="50" /> | 1 | 0 | Machine Head | 1972-03-25 | [🔗](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da4910056497c667d6de40cf" alt="" width="50" /> | 1 | 0 | LMLY | 2021-03-26 | [🔗](https://open.spotify.com/album/09UJf8ZqCuv5NHRZIqTZgh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731ca13e5d59a3a25e68fd7764" alt="" width="50" /> | 1 | 0 | Jingle Bell Rock | 2023-11-24 | [🔗](https://open.spotify.com/album/7dSaBwUid0hjWdJ5QzIKyu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c01fb32d3c89474b4c5d17fd" alt="" width="50" /> | 1 | 0 | Illusion | 2024-04-11 | [🔗](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | 1 | 0 | Holiday Wishes | 2014-10-10 | [🔗](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361fe6d3a50c0beaa3cfe33e9" alt="" width="50" /> | 1 | 0 | Expectations | 2018-06-22 | [🔗](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b627441824c5d0748c8cb077" alt="" width="50" /> | 1 | 0 | Dua Lipa | 2017-06-02 | [🔗](https://open.spotify.com/album/2vlhlrgMaXqcnhRqIEV9AP) |
@@ -159,14 +160,14 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 23 | 14 | [pop](../../genres/pop/overview.md) |
-| 23 | 14 | [dance pop](../../genres/dance_pop/overview.md) |
+| 24 | 14 | [pop](../../genres/pop/overview.md) |
+| 24 | 14 | [dance pop](../../genres/dance_pop/overview.md) |
 | 18 | 14 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 24 | 12 | [rock](../../genres/rock/overview.md) |
 | 13 | 8 | nz pop |
 | 13 | 8 | [electropop](../../genres/electropop/overview.md) |
 | 13 | 8 | bergen indie |
-| 10 | 6 | [uk pop](../../genres/uk_pop/overview.md) |
+| 11 | 6 | [uk pop](../../genres/uk_pop/overview.md) |
 | 11 | 5 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 11 | 5 | [classic rock](../../genres/classic_rock/overview.md) |
 
@@ -364,14 +365,14 @@ Appears as:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Illusion | Girls - The 2nd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 20 | 💚 | [🔗](https://open.spotify.com/track/396FqjKmViUZ92Wmm4rx3i) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Welcome To MY World (feat. nævis) | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md), nævis | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 33 | 💚 | [🔗](https://open.spotify.com/track/3q5qpprtugUIEPExuI7tRD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Welcome To MY World (feat. nævis) | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md), nævis | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 32 | 💚 | [🔗](https://open.spotify.com/track/3q5qpprtugUIEPExuI7tRD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Spicy | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 38 | 💚 | [🔗](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Drama | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 44 | 💚 | [🔗](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c2bcf77ad1fe40f6c7b88609" alt="" width="50" /> | Better Things | Better Things | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 50 | 💚 | [🔗](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Trick or Trick | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 53 | 💚 | [🔗](https://open.spotify.com/track/3EI3OLBeM89B0o0UsIGCOx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Thirsty | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 58 | 💚 | [🔗](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Hot Air Balloon | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 82 | 💚 | [🔗](https://open.spotify.com/track/1mdtLny0zugh89vokWGG80) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731ca13e5d59a3a25e68fd7764" alt="" width="50" /> | Jingle Bell Rock | Jingle Bell Rock | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 87 | | [🔗](https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Drama | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 42 | 💚 | [🔗](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c2bcf77ad1fe40f6c7b88609" alt="" width="50" /> | Better Things | Better Things | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 49 | 💚 | [🔗](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Trick or Trick | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 52 | 💚 | [🔗](https://open.spotify.com/track/3EI3OLBeM89B0o0UsIGCOx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Thirsty | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 56 | 💚 | [🔗](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Hot Air Balloon | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 81 | 💚 | [🔗](https://open.spotify.com/track/1mdtLny0zugh89vokWGG80) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ca13e5d59a3a25e68fd7764" alt="" width="50" /> | Jingle Bell Rock | Jingle Bell Rock | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 86 | | [🔗](https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Salty & Sweet | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 110 | 💚 | [🔗](https://open.spotify.com/track/4wQDjZtXjsFtU3BLSiIH4t) |
 
 
@@ -380,17 +381,18 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | YOLO | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 162 | | [🔗](https://open.spotify.com/track/3OQWohbPUsvbXaH1AiRazX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | I'm Unhappy | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 173 | 💚 | [🔗](https://open.spotify.com/track/6fzio74FGqFFsenYkbGPzR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls | Girls - The 2nd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 182 | 💚 | [🔗](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | 'Til We Meet Again | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 218 | | [🔗](https://open.spotify.com/track/60Uio68M57PwKEgZxSutL6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | Blow | MAGIC MAN | [Jackson Wang](../../artists/jackson_wang/overview.md) | TEAM WANG records, [88rising Music](../88rising_music), [Warner Records](.) | 281 | 💚 | [🔗](https://open.spotify.com/track/53WD6QvMGh7wXQVP0U8Rnr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Settle Down | Vows (Deluxe Version) | [Kimbra](../../artists/kimbra/overview.md) | [Warner Records](.) | 479 | 💚 | [🔗](https://open.spotify.com/track/6cdslY3YKjh7pImxFhSBVG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | Baby It's Cold Outside (with Michael Bublé) | Holiday Wishes | Idina Menzel, [Michael Bublé](../../artists/michael_bublé/overview.md) | [Warner Records](.) | 510 | | [🔗](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | Madness | The 2nd Law | Muse | [Warner Records](.) | 517 | 💚 | [🔗](https://open.spotify.com/track/0c4IEciLCDdXEhhKxj4ThA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Life's Too Short | Girls - The 2nd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 590 | 💚 | [🔗](https://open.spotify.com/track/1uIN3VCVKzMXqF2A2Qlw5q) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Limbo | Vows (Deluxe Version) | [Kimbra](../../artists/kimbra/overview.md) | [Warner Records](.) | 717 | 💚 | [🔗](https://open.spotify.com/track/6go4VH47IaXtYlTGHizjhm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | Get Ugly | Everything Is 4 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [Beluga Heights/Warner Records](.) | 726 | 💚 | [🔗](https://open.spotify.com/track/1dl3vuXJS9anUXE7XnNP75) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | YOLO | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 164 | | [🔗](https://open.spotify.com/track/3OQWohbPUsvbXaH1AiRazX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | I'm Unhappy | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 174 | 💚 | [🔗](https://open.spotify.com/track/6fzio74FGqFFsenYkbGPzR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls | Girls - The 2nd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 185 | 💚 | [🔗](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | 'Til We Meet Again | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 222 | | [🔗](https://open.spotify.com/track/60Uio68M57PwKEgZxSutL6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | Blow | MAGIC MAN | [Jackson Wang](../../artists/jackson_wang/overview.md) | TEAM WANG records, [88rising Music](../88rising_music), [Warner Records](.) | 282 | 💚 | [🔗](https://open.spotify.com/track/53WD6QvMGh7wXQVP0U8Rnr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Settle Down | Vows (Deluxe Version) | [Kimbra](../../artists/kimbra/overview.md) | [Warner Records](.) | 443 | 💚 | [🔗](https://open.spotify.com/track/6cdslY3YKjh7pImxFhSBVG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | Baby It's Cold Outside (with Michael Bublé) | Holiday Wishes | Idina Menzel, [Michael Bublé](../../artists/michael_bublé/overview.md) | [Warner Records](.) | 511 | | [🔗](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | Madness | The 2nd Law | Muse | [Warner Records](.) | 519 | 💚 | [🔗](https://open.spotify.com/track/0c4IEciLCDdXEhhKxj4ThA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Life's Too Short | Girls - The 2nd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 594 | 💚 | [🔗](https://open.spotify.com/track/1uIN3VCVKzMXqF2A2Qlw5q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="" width="50" /> | Break My Heart Myself (feat. Travis Barker) | Better Mistakes | Bebe Rexha, Travis Barker | [Warner Records](.) | 678 | 💚 | [🔗](https://open.spotify.com/track/3UjGudrhckjEQjKHLR3p5G) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Limbo | Vows (Deluxe Version) | [Kimbra](../../artists/kimbra/overview.md) | [Warner Records](.) | 720 | 💚 | [🔗](https://open.spotify.com/track/6go4VH47IaXtYlTGHizjhm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | Get Ugly | Everything Is 4 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [Beluga Heights/Warner Records](.) | 731 | 💚 | [🔗](https://open.spotify.com/track/1dl3vuXJS9anUXE7XnNP75) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27330c348e8e33a9cdd1aa58152" alt="" width="50" /> | Tell Me a Bedtime Story | Fat Albert Rotunda | Herbie Hancock | [Rhino](../rhino), [Warner Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/6eimz6jvlZaPwtflDWCTa0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a1ffd75bb148e58ce2a6cac" alt="" width="50" /> | Moondance - 2013 Remaster | Moondance (Deluxe Edition) | Van Morrison | [Warner Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739ee9ec388e0827c88bfdfbd7" alt="" width="50" /> | Crazy Love - 2013 Remaster | Moondance (Expanded Edition) | Van Morrison | [Warner Records](.) | nan | | [🔗](https://open.spotify.com/track/2hjAc6x8EoSLhGxRNg8KEw) |
@@ -404,7 +406,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a2a55eaab314c41d8f6e512" alt="" width="50" /> | Sara - 2015 Remaster | Tusk (2015 Remaster) | Fleetwood Mac | [Rhino](../rhino), [Warner Records](.) | nan | | [🔗](https://open.spotify.com/track/59rSjZAHfFktNxjtx7oM4H) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | Purple Rain | Purple Rain | Prince | [Rhino](../rhino), [Warner Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | When Doves Cry | Purple Rain | Prince | [Rhino](../rhino), [Warner Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736b18e58a06aac7763abe319a" alt="" width="50" /> | Like a Virgin | Like a Virgin | Madonna | [Warner Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27399d424b0873a9a714279a9f3" alt="" width="50" /> | Like a Virgin | Like a Virgin | Madonna | [Warner Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273120a4749a5ea995604bf60ff" alt="" width="50" /> | Orinoco Flow | Watermark | Enya | [Rhino](../rhino), [Warner Records](.) | nan | | [🔗](https://open.spotify.com/track/14EUcXXpqrC03Dzzdj8bGr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27306ce0d1f846c525e847d60e7" alt="" width="50" /> | Believe | Believe | Cher | [Warner Records](.) | nan | | [🔗](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" alt="" width="50" /> | Californication | Californication (Deluxe Edition) | Red Hot Chili Peppers | [Warner Records](.) | nan | | [🔗](https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox) |
@@ -458,7 +460,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="" width="50" /> | Pretty Please | Future Nostalgia | [Dua Lipa](../../artists/dua_lipa/overview.md) | [Warner Records](.) | nan | | [🔗](https://open.spotify.com/track/5Pc594FhDA2Fa2prE75GT0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0927ea5b0dde802e65eb9b6" alt="" width="50" /> | Baby, I'm Jealous (feat. Doja Cat) | Baby, I'm Jealous (feat. Doja Cat) | Bebe Rexha, [Doja Cat](../../artists/doja_cat/overview.md) | [Warner Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/2fTdRdN73RgIgcUZN33dvt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da4910056497c667d6de40cf" alt="" width="50" /> | LMLY | LMLY | [Jackson Wang](../../artists/jackson_wang/overview.md) | [88rising Music](../88rising_music), [Warner Records](.) | nan | | [🔗](https://open.spotify.com/track/3Jbpo2slhW2bbVneiJnC9G) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="" width="50" /> | Break My Heart Myself (feat. Travis Barker) | Better Mistakes | Bebe Rexha, Travis Barker | [Warner Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/3UjGudrhckjEQjKHLR3p5G) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aeeb722667c831a4f5429ff0" alt="" width="50" /> | Build a Bitch | Build a Bitch | Bella Poarch | [Warner Records](.) | nan | | [🔗](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | ICU | Girls - The 2nd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | nan | | [🔗](https://open.spotify.com/track/11JpW4h96X4TlGt6LFpNCC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Life's Too Short (English Version) | Girls - The 2nd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/2ouguQxJZn4jXisuNREqe5) |
@@ -471,6 +472,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc948460a8f5b07124d98a9b" alt="" width="50" /> | Slow (with Ciara) | Cheetah | [Jackson Wang](../../artists/jackson_wang/overview.md), Ciara | TEAM WANG records, [88rising Music](../88rising_music), [Warner Records](.) | nan | | [🔗](https://open.spotify.com/track/4GJanLClwCh0D0EROpsHyd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d856e66d33e22746c21a09c" alt="" width="50" /> | Lose Control | Lose Control | Teddy Swims | [Warner Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27312e36c27d935e955b44c6581" alt="" width="50" /> | Boy's a liar Pt. 2 | Heaven knows | PinkPantheress, Ice Spice | [Warner Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/5CCr8msaN3MhgqBoa9yWhH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c01fb32d3c89474b4c5d17fd" alt="" width="50" /> | Illusion | Illusion | [Dua Lipa](../../artists/dua_lipa/overview.md) | [Warner Records](.) | nan | | [🔗](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) |
 
 </details>
 

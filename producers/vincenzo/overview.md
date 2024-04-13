@@ -4,10 +4,10 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Arranger | 7 |
-| Instrument | 5 |
-| Lyricist | 5 |
-| Songwriter | 4 |
+| Arranger | 8 |
+| Instrument | 6 |
+| Lyricist | 6 |
+| Songwriter | 5 |
 | Vocal | 1 |
 
 ## Produces for Artists

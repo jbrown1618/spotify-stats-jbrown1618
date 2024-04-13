@@ -8,7 +8,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | Take It All | 21 | [Adele](../../../../artists/adele/overview.md) | [XL Recordings](../../../../labels/xl_recordings) | 242 | 💚 | [🔗](https://open.spotify.com/track/08YJEcxGtYXwCGqXMZDiyQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | Take It All | 21 | [Adele](../../../../artists/adele/overview.md) | [XL Recordings](../../../../labels/xl_recordings) | 236 | 💚 | [🔗](https://open.spotify.com/track/08YJEcxGtYXwCGqXMZDiyQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | Someone Like You | 21 | [Adele](../../../../artists/adele/overview.md) | [XL Recordings](../../../../labels/xl_recordings) | nan | 💚 | [🔗](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350dba34377a595e35f81b0e4" alt="" width="50" /> | Easy On Me | Easy On Me | [Adele](../../../../artists/adele/overview.md) | [Columbia](../../../../labels/columbia) | nan | 💚 | [🔗](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732737be35cc5245eef495be90" alt="" width="50" /> | Skyfall | Skyfall | [Adele](../../../../artists/adele/overview.md) | [Columbia](../../../../labels/columbia), [XL Recordings](../../../../labels/xl_recordings) | nan | 💚 | [🔗](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm) |
@@ -18,12 +18,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733661c01b54e181d01bd439a1" alt="" width="50" /> | Skinny Love | Birdy | Birdy | Atlantic Records UK | nan | 💚 | [🔗](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) |
 ## Cluster #2
 
-15 tracks
+16 tracks
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27347aa67914674ad0dce5caa88" alt="" width="50" /> | Lights - Single Version | Lights | Ellie Goulding | [Polydor Records](../../../../labels/polydor_records) | nan | 💚 | [🔗](https://open.spotify.com/track/5qftsSFD6Qgndcx13SSqQj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="" width="50" /> | Slow Grenade | Slow Grenade | Ellie Goulding, Lauv | [Polydor Records](../../../../labels/polydor_records) | nan | 💚 | [🔗](https://open.spotify.com/track/5z8uLrYMcUVvzTV28twt44) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="" width="50" /> | Good Ones | CRASH | Charli XCX | [Atlantic Records](../../../../labels/atlantic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/2grSOc6HNTXQQXNoRKt9UM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="" width="50" /> | Don't Start Now | Future Nostalgia | [Dua Lipa](../../../../artists/dua_lipa/overview.md) | [Warner Records](../../../../labels/warner_records) | nan | 💚 | [🔗](https://open.spotify.com/track/1AVtceapuF36oZqI9gzp0o) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="" width="50" /> | Hallucinate | Future Nostalgia | [Dua Lipa](../../../../artists/dua_lipa/overview.md) | [Warner Records](../../../../labels/warner_records) | nan | | [🔗](https://open.spotify.com/track/2MUKw7zEirXqdZZ3xC4hOf) |
@@ -31,6 +30,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27389fba37a3d30c462059917bd" alt="" width="50" /> | Physical (feat. Hwa Sa) | Physical (feat. Hwa Sa) | [Dua Lipa](../../../../artists/dua_lipa/overview.md), [HWASA](../../../../artists/hwasa/overview.md) | [Warner Records](../../../../labels/warner_records) | nan | 💚 | [🔗](https://open.spotify.com/track/23jEeXRyrjFbfs2Q8tBwdI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ae395b47b186c2bc8c458e0f" alt="" width="50" /> | New Rules | Dua Lipa (Complete Edition) | [Dua Lipa](../../../../artists/dua_lipa/overview.md) | [Warner Records](../../../../labels/warner_records) | nan | 💚 | [🔗](https://open.spotify.com/track/43oK4OAWUsRZUDVeHtKI4U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ae395b47b186c2bc8c458e0f" alt="" width="50" /> | Kiss and Make Up | Dua Lipa (Complete Edition) | [Dua Lipa](../../../../artists/dua_lipa/overview.md), [BLACKPINK](../../../../artists/blackpink/overview.md) | [Warner Records](../../../../labels/warner_records) | nan | 💚 | [🔗](https://open.spotify.com/track/7jr3iPu4O4bTCVwLMbdU2i) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c01fb32d3c89474b4c5d17fd" alt="" width="50" /> | Illusion | Illusion | [Dua Lipa](../../../../artists/dua_lipa/overview.md) | [Warner Records](../../../../labels/warner_records) | nan | | [🔗](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d883d3f10af481faa3c7e04" alt="" width="50" /> | You Don't Know Me | You Don't Know Me | Jax Jones, RAYE | [Polydor Records](../../../../labels/polydor_records) | nan | | [🔗](https://open.spotify.com/track/1rFMYAZxBoAKSzXI54brMu) |
 ## Cluster #3
 

@@ -55,7 +55,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb55083bec4696aa1fb3a146e8" alt="" width="50" /> | 1 | 0 | KIMSEJEONG | [🔗](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736a15a465fa723c01518e1c21" alt="" width="50" /> | 1 | 0 | Ciipher | [🔗](https://open.spotify.com/artist/18VvNIaKQgZXhSBnu7p5z7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e1bde2755f73cbd55745b781" alt="" width="50" /> | 1 | 0 | Dalshabet | [🔗](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb3c633d8f23531e0d6458cae" alt="" width="50" /> | 1 | 0 | KINGDOM | [🔗](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb3c633d8f23531e0d6458cae" alt="" width="50" /> | 1 | 0 | The KingDom | [🔗](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3bb28d46fe37d80a631c6f95" alt="" width="50" /> | 1 | 0 | THE NEW SIX | [🔗](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) |
 
 </details>
@@ -75,14 +75,14 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738cab1c75d2271af37c3e2db9" alt="First Howling : ME" width="50" /> | Scent of you | 121 | <img src="https://i.scdn.co/image/ab67616d0000b273b068508a55c13c676bf74d6b" alt="FACE ME" width="50" /> | PHOTO | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27340320ca58cbadbad78598e36" alt="EPEX 5th EP Album Prelude of Love Chapter 2. &#x27;Growing Pains&#x27;" width="50" /> | Sunshower | 195 | <img src="https://i.scdn.co/image/ab67616d0000b27395e1a12145290ca7d783eb1d" alt="BINARY CODE" width="50" /> | BLACK MIRROR | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Bewitched | 213 | <img src="https://i.scdn.co/image/ab67616d0000b2737694471cc29815e2b3864637" alt="HELLO Chapter 3: Hello, Strange Time" width="50" /> | Jungle | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b0f7fd5522eff959055b20d8" alt="Cherry Rush" width="50" /> | Love So Sweet | 438 | <img src="https://i.scdn.co/image/ab67616d0000b27367ebaeedc3ad203e0589e6eb" alt="Re-Original" width="50" /> | VENOM | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359fcda8d47bbd0f6c2bf1647" alt="Bizarre Story" width="50" /> | 기괴한 이야기 : Get Out | 464 | <img src="https://i.scdn.co/image/ab67616d0000b273a436d1d155cb24679e84c3bd" alt="Cherry Wish" width="50" /> | Love In Space | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f4171e1732961f5da0de0c1e" alt="WIN-DOW" width="50" /> | Love is New Gravity | 478 | <img src="https://i.scdn.co/image/ab67616d0000b273e827c21f833661043f8dd588" alt="LIMITED EDITION ‘1TAN’" width="50" /> | DU DU DU | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | KARMA | 482 | <img src="https://i.scdn.co/image/ab67616d0000b273eb74400c53d5bbe784ea3cd7" alt="Joker is Alive" width="50" /> | Joker | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="Macarena" width="50" /> | Macarena | 561 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="Wings" width="50" /> | Wings | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738cab1c75d2271af37c3e2db9" alt="First Howling : ME" width="50" /> | Scent of you | 122 | <img src="https://i.scdn.co/image/ab67616d0000b273b068508a55c13c676bf74d6b" alt="FACE ME" width="50" /> | PHOTO | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27340320ca58cbadbad78598e36" alt="EPEX 5th EP Album Prelude of Love Chapter 2. &#x27;Growing Pains&#x27;" width="50" /> | Sunshower | 196 | <img src="https://i.scdn.co/image/ab67616d0000b27395e1a12145290ca7d783eb1d" alt="BINARY CODE" width="50" /> | BLACK MIRROR | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Bewitched | 217 | <img src="https://i.scdn.co/image/ab67616d0000b2737694471cc29815e2b3864637" alt="HELLO Chapter 3: Hello, Strange Time" width="50" /> | Jungle | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b0f7fd5522eff959055b20d8" alt="Cherry Rush" width="50" /> | Love So Sweet | 441 | <img src="https://i.scdn.co/image/ab67616d0000b27367ebaeedc3ad203e0589e6eb" alt="Re-Original" width="50" /> | VENOM | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359fcda8d47bbd0f6c2bf1647" alt="Bizarre Story" width="50" /> | 기괴한 이야기 : Get Out | 465 | <img src="https://i.scdn.co/image/ab67616d0000b273a436d1d155cb24679e84c3bd" alt="Cherry Wish" width="50" /> | Love In Space | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f4171e1732961f5da0de0c1e" alt="WIN-DOW" width="50" /> | Love is New Gravity | 477 | <img src="https://i.scdn.co/image/ab67616d0000b273e827c21f833661043f8dd588" alt="LIMITED EDITION ‘1TAN’" width="50" /> | DU DU DU | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | KARMA | 483 | <img src="https://i.scdn.co/image/ab67616d0000b273eb74400c53d5bbe784ea3cd7" alt="Joker is Alive" width="50" /> | Joker | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="Macarena" width="50" /> | Macarena | 564 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="Wings" width="50" /> | Wings | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="LEVIOSA" width="50" /> | KISS | nan | <img src="https://i.scdn.co/image/ab67616d0000b2731be910fd8122cd805d651a8d" alt="Acid Angel from Asia &lt;ACCESS&gt;" width="50" /> | Generation | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb692ba736f1102246f7994f" alt="Re:Scene" width="50" /> | UhUh | nan | <img src="https://i.scdn.co/image/ab67616d0000b273a6afb253632c318f79697cf2" alt="Jelly box Flower Way SEJEONG" width="50" /> | Flower Way (Prod. By ZICO) | nan |
 

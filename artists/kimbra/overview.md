@@ -10,12 +10,12 @@
 
 ## Artist Rank
 Kimbra is currently:
-- The #43 artist of the last month
+- The #39 artist of the last month
 
 ![Rank of Kimbra over time](../../images/artists/kimbra/rank_time_series.png)
 ## Top Tracks
 
-- Settle Down is the #29 track of the last month
+- Settle Down is the #22 track of the last month
 
 ### Top tracks, aggregated
 
@@ -129,9 +129,9 @@ Kimbra is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Settle Down | Vows (Deluxe Version) | [Kimbra](overview.md) | [Warner Records](../../labels/warner_records) | 479 | 💚 | [🔗](https://open.spotify.com/track/6cdslY3YKjh7pImxFhSBVG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Settle Down | Vows (Deluxe Version) | [Kimbra](overview.md) | [Warner Records](../../labels/warner_records) | 443 | 💚 | [🔗](https://open.spotify.com/track/6cdslY3YKjh7pImxFhSBVG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | In My Bones (feat. Kimbra & Tank and The Bangas) | Djesse Vol. 3 | [Jacob Collier](../jacob_collier/overview.md), [Kimbra](overview.md), Tank and The Bangas | [Decca (UMO)](../../labels/decca_(umo)) | 480 | 💚 | [🔗](https://open.spotify.com/track/06PNiDGtPIMOq9VU2ftVCk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Limbo | Vows (Deluxe Version) | [Kimbra](overview.md) | [Warner Records](../../labels/warner_records) | 717 | 💚 | [🔗](https://open.spotify.com/track/6go4VH47IaXtYlTGHizjhm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Limbo | Vows (Deluxe Version) | [Kimbra](overview.md) | [Warner Records](../../labels/warner_records) | 720 | 💚 | [🔗](https://open.spotify.com/track/6go4VH47IaXtYlTGHizjhm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Cameo Lover | Vows (Deluxe Version) | [Kimbra](overview.md) | [Warner Records](../../labels/warner_records) | nan | 💚 | [🔗](https://open.spotify.com/track/6mEDMe0zG5pYrsRxizjauk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Good Intent | Vows (Deluxe Version) | [Kimbra](overview.md) | [Warner Records](../../labels/warner_records) | nan | 💚 | [🔗](https://open.spotify.com/track/5vLJID1JbJEpYdYLWIGVXf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Old Flame | Vows (Deluxe Version) | [Kimbra](overview.md) | [Warner Records](../../labels/warner_records) | nan | 💚 | [🔗](https://open.spotify.com/track/6bGCWZagdKs2yZKt4H3IlV) |

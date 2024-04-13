@@ -14,6 +14,8 @@ f(x):
 - has member Victoria
 
 ## Artist Rank
+f(x) is currently:
+- The #50 artist of the last month
 
 
 ## Top Tracks
@@ -114,8 +116,8 @@ f(x):
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="" width="50" /> | 첫 사랑니 (Rum Pum Pum Pum) | Pink Tape - The 2nd Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 370 | 💚 | [🔗](https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="" width="50" /> | Dracula | Red Light - The 3rd Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 696 | 💚 | [🔗](https://open.spotify.com/track/5vClivCCQDK6sxmL6MhMFc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="" width="50" /> | 첫 사랑니 (Rum Pum Pum Pum) | Pink Tape - The 2nd Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 372 | 💚 | [🔗](https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="" width="50" /> | Dracula | Red Light - The 3rd Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 701 | 💚 | [🔗](https://open.spotify.com/track/5vClivCCQDK6sxmL6MhMFc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a58accf4805f4097859eeac" alt="" width="50" /> | Electric Shock | Electric Shock - The 2nd Mini Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="" width="50" /> | 미행 (그림자 : Shadow) | Pink Tape - The 2nd Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/1xbJNPLSTtIWgGTt3Uu4gl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="" width="50" /> | Red Light | Red Light - The 3rd Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | | [🔗](https://open.spotify.com/track/4ML3iXqwb35FHG0SW1HVGc) |

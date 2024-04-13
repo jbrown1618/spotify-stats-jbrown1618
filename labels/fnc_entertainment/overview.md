@@ -94,9 +94,9 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733b809d08ca5a7eafe2978998" alt="" width="50" /> | JUMP | HARMONY : ALL IN | [P1Harmony](../../artists/p1harmony/overview.md) | [FNC ENTERTAINMENT](.) | 316 | 💚 | [🔗](https://open.spotify.com/track/4vTXBC7QOjEbi8DcJvCNE2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b0f7fd5522eff959055b20d8" alt="" width="50" /> | Love So Sweet | Cherry Rush | Cherry Bullet | [FNC ENTERTAINMENT](.) | 438 | 💚 | [🔗](https://open.spotify.com/track/0Z2DbHevn9qtSKAWcYB2tM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bdbc6077205378b6271af4bf" alt="" width="50" /> | Do It Like This | DISHARMONY : FIND OUT | [P1Harmony](../../artists/p1harmony/overview.md) | [FNC ENTERTAINMENT](.) | 734 | 💚 | [🔗](https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733b809d08ca5a7eafe2978998" alt="" width="50" /> | JUMP | HARMONY : ALL IN | [P1Harmony](../../artists/p1harmony/overview.md) | [FNC ENTERTAINMENT](.) | 319 | 💚 | [🔗](https://open.spotify.com/track/4vTXBC7QOjEbi8DcJvCNE2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b0f7fd5522eff959055b20d8" alt="" width="50" /> | Love So Sweet | Cherry Rush | Cherry Bullet | [FNC ENTERTAINMENT](.) | 441 | 💚 | [🔗](https://open.spotify.com/track/0Z2DbHevn9qtSKAWcYB2tM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bdbc6077205378b6271af4bf" alt="" width="50" /> | Do It Like This | DISHARMONY : FIND OUT | [P1Harmony](../../artists/p1harmony/overview.md) | [FNC ENTERTAINMENT](.) | 736 | 💚 | [🔗](https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27336adcea4e93245f1fec547df" alt="" width="50" /> | Miniskirt | MINISKIRT | AOA | [FNC ENTERTAINMENT](.) | nan | 💚 | [🔗](https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733bab219d2c91bbfc6fe6fec9" alt="" width="50" /> | Heart Attack | Heart Attack | AOA | [FNC ENTERTAINMENT](.) | nan | | [🔗](https://open.spotify.com/track/7pm5uhK7xiEM9fQvuCE78l) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b3c3882231b3c8a5bb79f4" alt="" width="50" /> | Good Luck | AOA 4th Mini Album Good Luck | AOA | [FNC ENTERTAINMENT](.) | nan | 💚 | [🔗](https://open.spotify.com/track/577ckDBuyYNGeqetUhbv7d) |
