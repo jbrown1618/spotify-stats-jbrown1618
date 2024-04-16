@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e0248905438b9c1153978d9fbf4ab67616d00001e0279e8b529ce6c088a8027b2a1ab67616d00001e029b9b36b0e22870b9f542d937ab67616d00001e02d8601e15fa1b4351fe1fc6ae" alt="Electronic" width="100" />
 
-[15 tracks (10 liked) 🔗](https://open.spotify.com/playlist/3cWXIQgqhOUB6slIr3oglt)
+[16 tracks (11 liked) 🔗](https://open.spotify.com/playlist/3cWXIQgqhOUB6slIr3oglt)
 
 [See Track Features](audio_features.md)
 
@@ -17,15 +17,16 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb36c6fa1b8ff851988de641f8" alt="" width="50" /> | 4 | 3 | [Lindsey Stirling](../../artists/lindsey_stirling/overview.md) | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8cb645e0a77bf015feda7fb9" alt="" width="50" /> | 2 | 1 | Rina Sawayama | [🔗](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) |
 | <img src="https://i.scdn.co/image/6511b1fe261da3b6c6b69ae2aa771cfd307a18ae" alt="" width="50" /> | 1 | 1 | Nile Rodgers | [🔗](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | 1 | 1 | [f(x)](../../artists/f(x)/overview.md) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | 1 | 1 | Pharrell Williams | [🔗](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) |
 | <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | 1 | 1 | Julian Casablancas | [🔗](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc46999e5afaf35c91cbe652b" alt="" width="50" /> | 1 | 1 | Kraftwerk | [🔗](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2444e9b2ef714c2d1e7bae64" alt="" width="50" /> | 1 | 0 | HYO | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | 1 | 0 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 
-![Bar chart of top 9 artists](../../images/playlists/electronic/artists.png)
+![Bar chart of top 10 artists](../../images/playlists/electronic/artists.png)
 
-
+![Comparison of Artist](../../images/playlists/electronic/artists_comparison.png)
 
 ## Top Tracks
 
@@ -37,16 +38,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Get Lucky (feat. Pharrell Williams and Nile Rodgers)](../../artists/daft_punk/overview.md) | 333 | <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="Discovery" width="50" /> | [One More Time](../../artists/daft_punk/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735062dabfa4007e1b72981edf" alt="Badster" width="50" /> | Badster | nan | <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="Human After All" width="50" /> | [Technologic](../../artists/daft_punk/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="Discovery" width="50" /> | [Harder, Better, Faster, Stronger](../../artists/daft_punk/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="SAWAYAMA" width="50" /> | XS | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="Lindsey Stirling" width="50" /> | [Crystallize](../../artists/lindsey_stirling/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="Lindsey Stirling" width="50" /> | [Song of the Caged Bird](../../artists/lindsey_stirling/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="SAWAYAMA" width="50" /> | Comme Des Garçons (Like The Boys) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="Shatter Me" width="50" /> | [Shatter Me Featuring Lzzy Hale](../../artists/lindsey_stirling/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="Starboy" width="50" /> | I Feel It Coming | nan | <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="Discovery" width="50" /> | [Digital Love](../../artists/daft_punk/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="Artemis" width="50" /> | [Underground](../../artists/lindsey_stirling/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Instant Crush (feat. Julian Casablancas)](../../artists/daft_punk/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="3-D The Catalogue" width="50" /> | Pocket Calculator / Dentaku | nan | <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="3-D The Catalogue" width="50" /> | Pocket Calculator / Dentaku | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Instant Crush (feat. Julian Casablancas)](../../artists/daft_punk/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="Artemis" width="50" /> | [Underground](../../artists/lindsey_stirling/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="Discovery" width="50" /> | [Digital Love](../../artists/daft_punk/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="Starboy" width="50" /> | I Feel It Coming | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Get Lucky (feat. Pharrell Williams and Nile Rodgers)](../../artists/daft_punk/overview.md) | 336 | <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="Discovery" width="50" /> | [One More Time](../../artists/daft_punk/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a58accf4805f4097859eeac" alt="Electric Shock - The 2nd Mini Album" width="50" /> | [Electric Shock](../../artists/f(x)/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="Human After All" width="50" /> | [Technologic](../../artists/daft_punk/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735062dabfa4007e1b72981edf" alt="Badster" width="50" /> | Badster | nan | <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="SAWAYAMA" width="50" /> | XS | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="Discovery" width="50" /> | [Harder, Better, Faster, Stronger](../../artists/daft_punk/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="Lindsey Stirling" width="50" /> | [Song of the Caged Bird](../../artists/lindsey_stirling/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="Lindsey Stirling" width="50" /> | [Crystallize](../../artists/lindsey_stirling/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="Shatter Me" width="50" /> | [Shatter Me Featuring Lzzy Hale](../../artists/lindsey_stirling/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="SAWAYAMA" width="50" /> | Comme Des Garçons (Like The Boys) | nan | <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="Discovery" width="50" /> | [Digital Love](../../artists/daft_punk/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="Starboy" width="50" /> | I Feel It Coming | nan | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Instant Crush (feat. Julian Casablancas)](../../artists/daft_punk/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="Artemis" width="50" /> | [Underground](../../artists/lindsey_stirling/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="3-D The Catalogue" width="50" /> | Pocket Calculator / Dentaku | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="3-D The Catalogue" width="50" /> | Pocket Calculator / Dentaku | nan | <img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="Artemis" width="50" /> | [Underground](../../artists/lindsey_stirling/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Instant Crush (feat. Julian Casablancas)](../../artists/daft_punk/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="Starboy" width="50" /> | I Feel It Coming | nan |
 
 </details>
 
@@ -60,12 +61,23 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="" width="50" /> | 2 | 1 | SAWAYAMA | 2020-04-17 | [🔗](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="" width="50" /> | 1 | 1 | Shatter Me | 2014-04-29 | [🔗](https://open.spotify.com/album/2spbck4ETZz1aLq5Fi5phC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="" width="50" /> | 1 | 1 | Human After All | 2005-03-14 | [🔗](https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a58accf4805f4097859eeac" alt="" width="50" /> | 1 | 1 | Electric Shock - The 2nd Mini Album | 2012-06-10 | [🔗](https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="" width="50" /> | 1 | 1 | 3-D The Catalogue | 2017-05-26 | [🔗](https://open.spotify.com/album/6nnO5r6I1JtSZ8eTwwIiIF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="" width="50" /> | 1 | 0 | Starboy | 2016-11-25 | [🔗](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735062dabfa4007e1b72981edf" alt="" width="50" /> | 1 | 0 | Badster | 2019-07-20 | [🔗](https://open.spotify.com/album/4GA4vqEeOzVM8ib6HHy6Ij) |
+
+
+<details>
+<summary>See all 11 albums</summary>
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="" width="50" /> | 1 | 0 | Artemis | 2019-09-06 | [🔗](https://open.spotify.com/album/4YAtGpNUwcHesLlyYUIxur) |
 
-![Bar chart of top 10 albums](../../images/playlists/electronic/albums.png)
+</details>
+
+
+![Bar chart of top 11 albums](../../images/playlists/electronic/albums.png)
 
 ## Top Record Labels
 
@@ -75,10 +87,10 @@
 | 4 | 3 | ADA France |
 | 3 | 3 | Lindseystomp Records |
 | 2 | 2 | [Columbia](../../labels/columbia/overview.md) |
+| 2 | 1 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 2 | 1 | Dirty Hit |
 | 1 | 1 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
 | 1 | 0 | Universal Republic Records |
-| 1 | 0 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 1 | 0 | BMG Rights Management (US) LLC |
 
 ![Bar chart of top 9 record labels](../../images/playlists/electronic/labels.png)
@@ -92,45 +104,46 @@
 | 6 | 5 | filter house |
 | 4 | 3 | pop violin |
 | 4 | 3 | bow pop |
+| 2 | 1 | [k-pop](../../genres/k-pop/overview.md) |
 | 2 | 1 | indie pop |
 | 2 | 1 | escape room |
 | 2 | 1 | [electropop](../../genres/electropop/overview.md) |
 | 2 | 1 | [art pop](../../genres/art_pop/overview.md) |
-| 1 | 1 | synthpop |
 
 
 <details>
-<summary>See all 17 genres</summary>
+<summary>See all 18 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 1 | 1 | synthpop |
 | 1 | 1 | proto-techno |
+| 1 | 1 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 1 | 1 | early synthpop |
 | 1 | 1 | dusseldorf electronic |
 | 1 | 0 | [pop](../../genres/pop/overview.md) |
-| 1 | 0 | [k-pop](../../genres/k-pop/overview.md) |
 | 1 | 0 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 1 | 0 | canadian contemporary r&b |
 
 </details>
 
 
-![Bar chart of top 17 genres](../../images/playlists/electronic/genres.png)
+![Bar chart of top 18 genres](../../images/playlists/electronic/genres.png)
 
 ## Top Producers
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Thomas Bangalter | 5 | Producer, Songwriter |
 | | Guy-Manuel de Homem-Christo | 5 | Producer, Songwriter |
+| | Thomas Bangalter | 5 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb36c6fa1b8ff851988de641f8" alt="" width="50" /> | [Lindsey Stirling](../../artists/lindsey_stirling/overview.md) | 3 | Producer, Songwriter |
 | | Marko G | 2 | Producer, Songwriter |
 | | Ryan Wyler | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | [Daft Punk](../../artists/daft_punk/overview.md) | 1 | Producer |
+| | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 1 | Lyricist |
 | <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 1 | Producer, Songwriter |
-| | George Duke | 1 | Songwriter |
-| | Carlos Sosa | 1 | Songwriter |
-| | Emil Schult | 1 | Lyricist |
+| <img src="https://i.scdn.co/image/6511b1fe261da3b6c6b69ae2aa771cfd307a18ae" alt="" width="50" /> | Nile Rodgers | 1 | Songwriter |
+| | 남궁진 (Nam Goong, Jin) | 1 | Producer |
 
 
 <details>
@@ -138,12 +151,20 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Ralf Hütter (Hütter, Ralf) | 1 | Lyricist, Songwriter |
 | | Bram Inscore | 1 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/6511b1fe261da3b6c6b69ae2aa771cfd307a18ae" alt="" width="50" /> | Nile Rodgers | 1 | Songwriter |
-| | Mark Maxwell | 1 | Producer, Songwriter |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 1 | Producer |
+| | Ralf Hütter (Hütter, Ralf) | 1 | Lyricist, Songwriter |
+| | Emil Schult | 1 | Lyricist |
+| | Carlos Sosa | 1 | Songwriter |
+| | George Duke | 1 | Songwriter |
 | | Nicole Morier | 1 | Songwriter |
+| | William Laseroms | 1 | Arranger |
+| | Joachim Vermeulen Windsant | 1 | Arranger |
+| | 김지은 (Kim, Ji-eun) | 1 | Producer |
+| | Mark Maxwell | 1 | Producer, Songwriter |
+| | Maarten ten Hove | 1 | Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8cb645e0a77bf015feda7fb9" alt="" width="50" /> | Rina Sawayama | 1 | Songwriter |
+| | [이수만 (Lee, Soo-Man)](../../producers/이수만_(lee,_soo-man)/overview.md) | 1 | Producer |
 | | Edwin Birdsong | 1 | Songwriter |
 | | Karl Bartos | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
@@ -153,7 +174,7 @@
 </details>
 
 
-![Bar chart of top 21 producers](../../images/playlists/electronic/producers.png)
+![Bar chart of top 29 producers](../../images/playlists/electronic/producers.png)
 
 ## Years
 
@@ -166,10 +187,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="SAWAYAMA" width="50" /> | SAWAYAMA (2020-04-17) | <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="Discovery" width="50" /> | Discovery (2001-03-12) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="Artemis" width="50" /> | Artemis (2019-09-06) | <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="Human After All" width="50" /> | Human After All (2005-03-14) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735062dabfa4007e1b72981edf" alt="Badster" width="50" /> | Badster (2019-07-20) | <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="Lindsey Stirling" width="50" /> | Lindsey Stirling (2012) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="3-D The Catalogue" width="50" /> | 3-D The Catalogue (2017-05-26) | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | Random Access Memories (2013-05-20) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="Starboy" width="50" /> | Starboy (2016-11-25) | <img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="Shatter Me" width="50" /> | Shatter Me (2014-04-29) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="Shatter Me" width="50" /> | Shatter Me (2014-04-29) | <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="Starboy" width="50" /> | Starboy (2016-11-25) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | Random Access Memories (2013-05-20) | <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="3-D The Catalogue" width="50" /> | 3-D The Catalogue (2017-05-26) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="3-D The Catalogue" width="50" /> | 3-D The Catalogue (2017-05-26) | <img src="https://i.scdn.co/image/ab67616d0000b2735a58accf4805f4097859eeac" alt="Electric Shock - The 2nd Mini Album" width="50" /> | Electric Shock - The 2nd Mini Album (2012-06-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="Starboy" width="50" /> | Starboy (2016-11-25) | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | Random Access Memories (2013-05-20) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="Shatter Me" width="50" /> | Shatter Me (2014-04-29) | <img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="Shatter Me" width="50" /> | Shatter Me (2014-04-29) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | Random Access Memories (2013-05-20) | <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="Starboy" width="50" /> | Starboy (2016-11-25) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a58accf4805f4097859eeac" alt="Electric Shock - The 2nd Mini Album" width="50" /> | Electric Shock - The 2nd Mini Album (2012-06-10) | <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="3-D The Catalogue" width="50" /> | 3-D The Catalogue (2017-05-26) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="Lindsey Stirling" width="50" /> | Lindsey Stirling (2012) | <img src="https://i.scdn.co/image/ab67616d0000b2735062dabfa4007e1b72981edf" alt="Badster" width="50" /> | Badster (2019-07-20) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="Human After All" width="50" /> | Human After All (2005-03-14) | <img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="Artemis" width="50" /> | Artemis (2019-09-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="Discovery" width="50" /> | Discovery (2001-03-12) | <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="SAWAYAMA" width="50" /> | SAWAYAMA (2020-04-17) |

@@ -77,7 +77,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 8 | 2 | j-pop |
+| 8 | 2 | [j-pop](../../genres/j-pop/overview.md) |
 | 5 | 2 | japanese singer-songwriter |
 | 4 | 2 | japanese teen pop |
 | 2 | 2 | [pop](../../genres/pop/overview.md) |
@@ -90,12 +90,11 @@ Appears as:
 
 
 <details>
-<summary>See all 23 genres</summary>
+<summary>See all 22 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 1 | 0 | renaissance |
-| 1 | 0 | medieval |
 | 1 | 0 | japanese post-hardcore |
 | 1 | 0 | japanese math rock |
 | 1 | 0 | japanese emo |
@@ -111,7 +110,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 23 genres](../../images/labels/sony_music_labels_inc_/genres.png)
+![Bar chart of top 22 genres](../../images/labels/sony_music_labels_inc_/genres.png)
 
 ## Top Producers
 
@@ -129,8 +128,8 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS | CIRCUS | [Stray Kids](../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](.) | 535 | 💚 | [🔗](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](.) | 543 | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS | CIRCUS | [Stray Kids](../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](.) | 537 | 💚 | [🔗](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](.) | 545 | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" alt="" width="50" /> | Mambo No. 5 (a Little Bit of...) | A Little Bit of Mambo | Lou Bega | [Sony Music/Vorsicht Musik](.) | nan | 💚 | [🔗](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | All I Ask of You | Cappella | Andrew Lloyd Webber, The King's Singers | [Sony Classical](../sony_classical), [Sony Music Labels Inc.](.) | nan | | [🔗](https://open.spotify.com/track/5JTRLqApDZKaIwcopt1d9p) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | Ave Maria | Cappella | Josquin des Prez, The King's Singers | [Sony Classical](../sony_classical), [Sony Music Labels Inc.](.) | nan | | [🔗](https://open.spotify.com/track/6xBGuah2AMT6y5S0HlztUU) |

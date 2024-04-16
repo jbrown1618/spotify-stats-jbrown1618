@@ -73,7 +73,7 @@
 | | 1 | 0 | Roxorloops & Blady Kris | [🔗](https://open.spotify.com/artist/6HRJOlHBoo07WcZdXZAADI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca07421c1f955de405f70021" alt="" width="50" /> | 1 | 0 | BYU Vocal Point | [🔗](https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba10593e25ec51a3ba4296a0" alt="" width="50" /> | 1 | 0 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb978dc646062743efa22b7409" alt="" width="50" /> | 1 | 0 | The Statesmen | [🔗](https://open.spotify.com/artist/5m9J0qjRMcetcTxN535NBZ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf304b5e3a490e7a19fbcb749" alt="" width="50" /> | 1 | 0 | The Statesmen | [🔗](https://open.spotify.com/artist/5m9J0qjRMcetcTxN535NBZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf7f83495ac10e98072e8d6d3" alt="" width="50" /> | 1 | 0 | Dhamakapella | [🔗](https://open.spotify.com/artist/5j28H9tWwW4RlMNKyrONCV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27327167af8c348634b70c8a6d4" alt="" width="50" /> | 1 | 0 | Mike Love | [🔗](https://open.spotify.com/artist/5gr5OoQ4aQdJ3CqOr9v7Bt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe6929e51ab4408868a13cbd8" alt="" width="50" /> | 1 | 0 | The Swingles | [🔗](https://open.spotify.com/artist/5QvPTVBx6OlrUuPwC8W3uU) |
@@ -138,12 +138,12 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="PTX, Vol. III" width="50" /> | [Problem (Ariana Grande Cover)](../../artists/pentatonix/overview.md) | 422 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | We Found Love | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="The Teal Album" width="50" /> | [I See Fire](../../artists/the_tarpeggios/overview.md) | 632 | <img src="https://i.scdn.co/image/ab67616d0000b27379b679128839141600389209" alt="Stages" width="50" /> | Say Something | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Let It Go](../../artists/pentatonix/overview.md) | 661 | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="PTX, Vol. 2" width="50" /> | [Natural Disaster](../../artists/pentatonix/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="Carolina State of Mind" width="50" /> | [Settle Down](../../artists/the_tarpeggios/overview.md) | 669 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="BOCA 2012: Best Of College A Cappella" width="50" /> | Brand New Jones | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="PTX Vol. IV - Classics" width="50" /> | [Imagine](../../artists/pentatonix/overview.md) | 713 | <img src="https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc" alt="A Pentatonix Christmas Deluxe" width="50" /> | [Hallelujah](../../artists/pentatonix/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Dance of the Sugar Plum Fairy](../../artists/pentatonix/overview.md) | 724 | <img src="https://i.scdn.co/image/ab67616d0000b27334ceeb441ebadc373617e460" alt="Breakdown!" width="50" /> | Closer | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="PTX, Vol. III" width="50" /> | [Problem (Ariana Grande Cover)](../../artists/pentatonix/overview.md) | 425 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | We Found Love | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="The Teal Album" width="50" /> | [I See Fire](../../artists/the_tarpeggios/overview.md) | 640 | <img src="https://i.scdn.co/image/ab67616d0000b27379b679128839141600389209" alt="Stages" width="50" /> | Say Something | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Let It Go](../../artists/pentatonix/overview.md) | 664 | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="PTX, Vol. 2" width="50" /> | [Natural Disaster](../../artists/pentatonix/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="Carolina State of Mind" width="50" /> | [Settle Down](../../artists/the_tarpeggios/overview.md) | 670 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="BOCA 2012: Best Of College A Cappella" width="50" /> | Brand New Jones | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="PTX Vol. IV - Classics" width="50" /> | [Imagine](../../artists/pentatonix/overview.md) | 720 | <img src="https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc" alt="A Pentatonix Christmas Deluxe" width="50" /> | [Hallelujah](../../artists/pentatonix/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Dance of the Sugar Plum Fairy](../../artists/pentatonix/overview.md) | 730 | <img src="https://i.scdn.co/image/ab67616d0000b27334ceeb441ebadc373617e460" alt="Breakdown!" width="50" /> | Closer | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d35ee785862f82a5ada29b6" alt="Gold" width="50" /> | Shenandoah - Arr. Bob Chilcott | nan | <img src="https://i.scdn.co/image/ab67616d0000b273394e39d14be7ff810d0cbf4a" alt="GQ" width="50" /> | Fly Away - Intro | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="BOCA 2006: Best Of College A Cappella" width="50" /> | My Happy Ending | nan | <img src="https://i.scdn.co/image/ab67616d0000b27381514ee26162b9fed3c39be7" alt="Pitch Slapped - EP" width="50" /> | Without Your Love | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273759fbdcd40288d874a398749" alt="RISE" width="50" /> | Alive | nan | <img src="https://i.scdn.co/image/ab67616d0000b273fe9bb826b4677ad094f49fa3" alt="Legendary Folk Songs" width="50" /> | Poor Wayfaring Stranger | nan |
@@ -340,7 +340,7 @@
 
 
 <details>
-<summary>See all 38 genres</summary>
+<summary>See all 37 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -360,7 +360,6 @@
 | 1 | 0 | renaissance |
 | 1 | 0 | [piano rock](../../genres/piano_rock/overview.md) |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
-| 1 | 0 | medieval |
 | 1 | 0 | hengelliset laulut |
 | 1 | 0 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 1 | 0 | gregorian chant |

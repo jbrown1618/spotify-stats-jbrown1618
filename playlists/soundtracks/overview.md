@@ -65,8 +65,8 @@
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
 | <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Tetris Theme A (From "Tetris")](../../artists/the_8-bit_big_band/overview.md) | 250 | <img src="https://i.scdn.co/image/ab67616d0000b273c835f5fb3ad632c14b4e7099" alt="The Legend of Zelda: Ocarina of Time" width="50" /> | Lost Woods | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | Anduril | 329 | <img src="https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f" alt="The Lord of the Rings: The Fellowship of the Ring - the Complete Recordings" width="50" /> | The Passing of the Elves | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | The Steward of Gondor (feat. Billy Boyd) | 693 | <img src="https://i.scdn.co/image/ab67616d0000b273c835f5fb3ad632c14b4e7099" alt="The Legend of Zelda: Ocarina of Time" width="50" /> | Gerudo Valley | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | Anduril | 332 | <img src="https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f" alt="The Lord of the Rings: The Fellowship of the Ring - the Complete Recordings" width="50" /> | The Passing of the Elves | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | The Steward of Gondor (feat. Billy Boyd) | 697 | <img src="https://i.scdn.co/image/ab67616d0000b273c835f5fb3ad632c14b4e7099" alt="The Legend of Zelda: Ocarina of Time" width="50" /> | Gerudo Valley | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7" alt="The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)" width="50" /> | Helm's Deep | nan | <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | The Return of the King (feat. Sir James Galway, Viggo Mortensen and Renee Fleming) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27392b4abaaa250a8d1b00d5bc5" alt="Zelda: Ocarina of Time - Piano" width="50" /> | Lost Woods | nan | <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Still Alive (From "Portal")](../../artists/the_8-bit_big_band/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c835f5fb3ad632c14b4e7099" alt="The Legend of Zelda: Ocarina of Time" width="50" /> | Fairy's Fountain | nan | <img src="https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7" alt="The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)" width="50" /> | Samwise the Brave | nan |
@@ -185,6 +185,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 1 | 0 | video game music |
 | 1 | 0 | vgm remix |
 | 1 | 0 | synthpop |
 | 1 | 0 | [soft rock](../../genres/soft_rock/overview.md) |
@@ -203,7 +204,6 @@
 | 1 | 0 | [classical](../../genres/classical/overview.md) |
 | 1 | 0 | celtic |
 | 1 | 0 | british orchestra |
-| 1 | 0 | antiviral pop |
 
 </details>
 

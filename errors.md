@@ -46,7 +46,6 @@ None
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 39 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 66 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 33 |
-| Illusion | Illusion | Dua Lipa | 0 | 0 | 88 |
 | Drink It | Drink It | THE BOYZ | 0 | 0 | 61 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 52 |
 | Think About Things | Think About Things | Daði Freyr | 0 | 0 | 52 |
@@ -55,6 +54,7 @@ None
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 85 |
 | Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 85 |
 | Somebody To Love | A Day At The Races | Queen | 0 | 0 | 85 |
+| Don't Stop Me Now | Jazz | Queen | 2 | 2 | 85 |
 | A Kind Of Magic | A Kind Of Magic | Queen | 0 | 0 | 85 |
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 59 |
 | RED | RED | The Rose | 0 | 0 | 65 |
@@ -68,14 +68,14 @@ None
 | Just The Way You Are | Little Love - EP | James Smith | 0 | 0 | 53 |
 | I will show you | Invitation | AILEE | 0 | 0 | 58 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 62 |
-| FACE | WOLF | WOOSUNG | 0 | 0 | 56 |
+| FACE | WOLF | WOOSUNG | 0 | 0 | 57 |
 | Timshel | Sigh No More | Mumford & Sons | 0 | 1 | 72 |
 | Little Lion Man | Sigh No More | Mumford & Sons | 1 | 1 | 72 |
 | The Cave | Sigh No More | Mumford & Sons | 0 | 1 | 72 |
 | Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 56 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 54 |
-| The Phantom Of The Opera | Century Child | Nightwish | 0 | 0 | 65 |
-| End Of All Hope | Century Child | Nightwish | 0 | 0 | 65 |
+| The Phantom Of The Opera | Century Child | Nightwish | 0 | 1 | 65 |
+| End Of All Hope | Century Child | Nightwish | 0 | 1 | 65 |
 | Nemo | Once | Nightwish | 0 | 0 | 65 |
 | Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 0 | 0 | 60 |
 | Lullaby | Present : YOU | GOT7 | 0 | 0 | 60 |
@@ -89,7 +89,7 @@ None
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 76 |
 | Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 67 |
 | Sweet Night | ITAEWON CLASS (Original Television Soundtrack) Pt. 12 | V | 1 | 0 | 83 |
-| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 77 |
+| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 78 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 78 |
 | I Do | It's Raining | Rain | 0 | 0 | 46 |
 | It′s Raining | It's Raining | Rain | 0 | 0 | 46 |
@@ -101,7 +101,7 @@ None
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 50 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 51 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
-| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 76 |
+| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 77 |
 | When We Disco | When We Disco | J.Y. Park | 0 | 0 | 50 |
 | Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 50 |
 | When We Disco | When We Disco | SUNMI | 0 | 0 | 57 |
@@ -117,10 +117,10 @@ None
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 71 |
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 26 |
 | Call Me Mother | American | RuPaul | 0 | 0 | 57 |
-| Lose | Love Synonym #2 : Right for Us | WONHO | 2 | 2 | 45 |
-| Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 67 |
+| Lose | Love Synonym #2 : Right for Us | WONHO | 2 | 1 | 45 |
+| Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 68 |
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 46 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 56 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 46 |
 | Lost Woods | Zelda: Ocarina of Time - Piano | Wesley Sprayue | 0 | 0 | 41 |
-| Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 53 |
+| Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 54 |

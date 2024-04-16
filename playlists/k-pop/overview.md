@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="K-Pop" width="100" />
 
-[1266 tracks (923 liked) 🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7)
+[1267 tracks (923 liked) 🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7)
 
 [See Track Features](audio_features.md)
 
@@ -31,8 +31,8 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 30 | 23 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8e075c754be58cc33e30905a" alt="" width="50" /> | 19 | 15 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | 19 | 15 | [MAMAMOO](../../artists/mamamoo/overview.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8e075c754be58cc33e30905a" alt="" width="50" /> | 18 | 15 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb73f96bdf146d008680149954" alt="" width="50" /> | 14 | 13 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61916bb9f5c6a1a9ba1c9ab6" alt="" width="50" /> | 21 | 12 | [SEVENTEEN](../../artists/seventeen/overview.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf9fb2a341d6852c012a5d5ee" alt="" width="50" /> | 17 | 12 | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
@@ -349,6 +349,7 @@
 | 2 | 1 | 해피트라이브엔터테인먼트 |
 | 2 | 1 | 올라트엔터테인먼트 |
 | 2 | 1 | Parlophone Denmark |
+| 2 | 1 | MORE VISION |
 | 2 | 1 | MODHAUS |
 | 2 | 1 | Fantagio |
 | 2 | 1 | Cre.ker Entertainment |
@@ -378,7 +379,6 @@
 | 1 | 1 | Netflix Music |
 | 1 | 1 | Mydoll Ent. |
 | 1 | 1 | Million Market |
-| 1 | 1 | MORE VISION |
 
 </details>
 
@@ -389,7 +389,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 959 | 700 | [k-pop](../../genres/k-pop/overview.md) |
+| 960 | 700 | [k-pop](../../genres/k-pop/overview.md) |
 | 523 | 399 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 307 | 205 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 194 | 140 | [pop](../../genres/pop/overview.md) |
@@ -423,7 +423,7 @@
 | 1 | 1 | danish pop |
 | 1 | 1 | [art pop](../../genres/art_pop/overview.md) |
 | 1 | 0 | otacore |
-| 1 | 0 | j-pop |
+| 1 | 0 | [j-pop](../../genres/j-pop/overview.md) |
 
 </details>
 
@@ -555,7 +555,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2024](2024/overview.md) | 55 |
+| [2024](2024/overview.md) | 56 |
 | [2023](2023/overview.md) | 237 |
 | [2022](2022/overview.md) | 265 |
 | [2021](2021/overview.md) | 194 |

@@ -16,11 +16,15 @@ Rilo Kiley:
 ## Artist Rank
 
 
+## Top Tracks
+
+- Silver Lining is the #12 track of the On Repeat playlist
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02028c3bb4b81ee71dd73d1596ab67616d00001e025675e83f707f1d7271e5cf8aab67616d00001e027948eec521c67e76cafe30a0ab67616d00001e02c985bcc18dd81da80839e5a9" alt="" width="50" /> | 6 | [Modern Rock](../../playlists/modern_rock/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 2 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
+| <img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg" alt="" width="50" /> | 1 | [On Repeat](../../playlists/on_repeat/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022c0252c4e4a988f024e4d262ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 1 | [Chill](../../playlists/chill/overview.md) |
 
@@ -95,9 +99,9 @@ Rilo Kiley:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | Silver Lining | Under The Blacklight (Standard Version) | [Rilo Kiley](overview.md) | [Warner Records](../../labels/warner_records) | 558 | 💚 | [🔗](https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a385b4e412459ec73826be7" alt="" width="50" /> | A Better Son/Daughter | The Execution Of All Things | [Rilo Kiley](overview.md) | Saddle Creek | nan | | [🔗](https://open.spotify.com/track/1OrBPFs8yLkT02aLiloHQs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a385b4e412459ec73826be7" alt="" width="50" /> | The Execution Of All Things | The Execution Of All Things | [Rilo Kiley](overview.md) | Saddle Creek | nan | 💚 | [🔗](https://open.spotify.com/track/3POpqoO9i1UB6WzYZ0MvOC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Accidntel Deth | More Adventurous (U.S. Release) | [Rilo Kiley](overview.md) | [Brute/Beaute/Warner Records](../../labels/warner_records) | nan | 💚 | [🔗](https://open.spotify.com/track/7KJymi3dZGLPvxmOYyWwxz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Does He Love You? | More Adventurous (U.S. Release) | [Rilo Kiley](overview.md) | [Brute/Beaute/Warner Records](../../labels/warner_records) | nan | 💚 | [🔗](https://open.spotify.com/track/56J7o1BuXpJH2UXqElmsEF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Portions for Foxes | More Adventurous (U.S. Release) | [Rilo Kiley](overview.md) | [Brute/Beaute/Warner Records](../../labels/warner_records) | nan | 💚 | [🔗](https://open.spotify.com/track/4yY8JqTOQyi7K4O1QcQtBG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | Silver Lining | Under The Blacklight (Standard Version) | [Rilo Kiley](overview.md) | [Warner Records](../../labels/warner_records) | nan | 💚 | [🔗](https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc) |

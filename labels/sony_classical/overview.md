@@ -74,12 +74,11 @@ Appears as:
 
 
 <details>
-<summary>See all 17 genres</summary>
+<summary>See all 16 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 1 | 0 | orchestra |
-| 1 | 0 | medieval |
 | 1 | 0 | franco-flemish school |
 | 1 | 0 | [broadway](../../genres/broadway/overview.md) |
 | 1 | 0 | british orchestra |
@@ -89,7 +88,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 17 genres](../../images/labels/sony_classical/genres.png)
+![Bar chart of top 16 genres](../../images/labels/sony_classical/genres.png)
 
 ## Tracks released under Sony Classical
 

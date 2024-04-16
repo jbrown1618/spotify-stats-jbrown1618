@@ -99,8 +99,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="‘The ReVe Festival’ Day 1" width="50" /> | LP (0.714) | <img src="https://i.scdn.co/image/ab67616d0000b2736b6962e774af860e8ad4dee0" alt="TAP - The 2nd Mini Album" width="50" /> | TAP (0.0375) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="Oh! - The Second Album" width="50" /> | Genie (0.714) | <img src="https://i.scdn.co/image/ab67616d0000b273c013775f357bb9ad1eb9e1a7" alt="Glitch Mode - The 2nd Album" width="50" /> | Saturday Drip (0.0379) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e17d7c9f32167b7b7c8e9f21" alt="Peaches - The 2nd Mini Album" width="50" /> | Peaches (0.612) | <img src="https://i.scdn.co/image/ab67616d0000b273f531f18feaf3c28366ad52d4" alt="I - The 1st Mini Album" width="50" /> | Stress (0.0389) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cc6f76f75551af499b5cd0cb" alt="Step Back" width="50" /> | Step Back (0.596) | <img src="https://i.scdn.co/image/ab67616d0000b27358169e974a94b9a18c9d2a03" alt="Universe (Let&#x27;s Play Ball)" width="50" /> | Universe (Let's Play Ball) (0.0402) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="‘The ReVe Festival’ Day 1" width="50" /> | Parade (0.579) | <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="Red Light - The 3rd Album" width="50" /> | Red Light (0.0414) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cc6f76f75551af499b5cd0cb" alt="Step Back" width="50" /> | Step Back (0.596) | <img src="https://i.scdn.co/image/ab67616d0000b273514706325dd68e2df4f23326" alt="Beautiful - The 1st Mini Album" width="50" /> | SHAKE THAT BRASS (feat. Taeyeon) (0.039) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="‘The ReVe Festival’ Day 1" width="50" /> | Parade (0.579) | <img src="https://i.scdn.co/image/ab67616d0000b27358169e974a94b9a18c9d2a03" alt="Universe (Let&#x27;s Play Ball)" width="50" /> | Universe (Let's Play Ball) (0.0402) |
 
 ## Valence
 

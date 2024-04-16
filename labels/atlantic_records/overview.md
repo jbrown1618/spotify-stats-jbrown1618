@@ -1,6 +1,6 @@
 # Atlantic Records
 
-60 songs
+61 songs
 
 [See Track Features](audio_features.md)
 
@@ -9,9 +9,9 @@
 Appears as:
 - Atlantic Records (41 tracks)
 - Aftermath Entertainment/Atlantic (6 tracks)
+- Monkey Puzzle/Atlantic (3 tracks)
 - Atlantic Records/ATG (2 tracks)
 - Atlantic/KSR (2 tracks)
-- Monkey Puzzle/Atlantic (2 tracks)
 - Nice Life/Atlantic (2 tracks)
 - Warner Sunset/Nonesuch/Atlantic (2 tracks)
 - Atco/Atlantic (1 tracks)
@@ -62,9 +62,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8cb645e0a77bf015feda7fb9" alt="" width="50" /> | 1 | 1 | Rina Sawayama | [🔗](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb69bda36cbaa450c1c895b5cc" alt="" width="50" /> | 1 | 1 | Pink Sweat$ | [🔗](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6fcd1b700654bccf1adee3ed" alt="" width="50" /> | 1 | 1 | Megan Thee Stallion | [🔗](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="" width="50" /> | 3 | 0 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb86b13e4d2e65ebf694384ef4" alt="" width="50" /> | 3 | 0 | John Williams | [🔗](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) |
 | <img src="https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e" alt="" width="50" /> | 3 | 0 | Led Zeppelin | [🔗](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="" width="50" /> | 2 | 0 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735fe78562e8ab0b95a2349f54" alt="" width="50" /> | 2 | 0 | Renée Elise Goldsberry | [🔗](https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2cdddc4dd42f7403f0d7bb9c" alt="" width="50" /> | 2 | 0 | Wiz Khalifa | [🔗](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b3c0f33bc5e3f6a53f84d7" alt="" width="50" /> | 1 | 0 | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
@@ -106,7 +106,7 @@ Appears as:
 
 
 <details>
-<summary>See all 36 albums</summary>
+<summary>See all 37 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -131,6 +131,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e5df11b17b2727da2b718d8" alt="" width="50" /> | 1 | 0 | See You Again (feat. Charlie Puth) | 2015 | [🔗](https://open.spotify.com/album/5FXIqS1XqbpfOKNoi5VUwS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="" width="50" /> | 1 | 0 | Love's Train | 2022-02-14 | [🔗](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="" width="50" /> | 1 | 0 | Led Zeppelin III (Remaster) | 1970 | [🔗](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e503d029495d26255a63fb0f" alt="" width="50" /> | 1 | 0 | I Forgive You | 2024-04-12 | [🔗](https://open.spotify.com/album/3RPlxsjui6dOA6qMDBH70E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e8798f25a1997f0679b2382" alt="" width="50" /> | 1 | 0 | Hot In It | 2022-06-30 | [🔗](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb" alt="" width="50" /> | 1 | 0 | Heathens | 2016-06-16 | [🔗](https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27313f982aa5c43146c3d2c1964" alt="" width="50" /> | 1 | 0 | Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack | 2001-10-30 | [🔗](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) |
@@ -146,7 +147,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 32 | 23 | [pop](../../genres/pop/overview.md) |
+| 33 | 23 | [pop](../../genres/pop/overview.md) |
 | 18 | 14 | [dance pop](../../genres/dance_pop/overview.md) |
 | 10 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
 | 3 | 3 | [uk pop](../../genres/uk_pop/overview.md) |
@@ -159,7 +160,7 @@ Appears as:
 
 
 <details>
-<summary>See all 61 genres</summary>
+<summary>See all 60 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -188,17 +189,16 @@ Appears as:
 | 3 | 0 | orchestral soundtrack |
 | 3 | 0 | [hard rock](../../genres/hard_rock/overview.md) |
 | 3 | 0 | [classic rock](../../genres/classic_rock/overview.md) |
+| 3 | 0 | australian pop |
+| 3 | 0 | australian dance |
 | 3 | 0 | [album rock](../../genres/album_rock/overview.md) |
 | 2 | 0 | trap |
 | 2 | 0 | pop rap |
 | 2 | 0 | [hip hop](../../genres/hip_hop/overview.md) |
-| 2 | 0 | australian pop |
-| 2 | 0 | australian dance |
 | 1 | 0 | viral rap |
 | 1 | 0 | trance |
 | 1 | 0 | southern hip hop |
 | 1 | 0 | slap house |
-| 1 | 0 | progressive electro house |
 | 1 | 0 | pov: indie |
 | 1 | 0 | pop punk |
 | 1 | 0 | pop emo |
@@ -340,9 +340,9 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | Santa's Coming for Us | Everyday Is Christmas (Deluxe Edition) | [Sia](../../artists/sia/overview.md) | [Monkey Puzzle/Atlantic](.) | 367 | | [🔗](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="" width="50" /> | Lucky | We Sing. We Dance. We Steal Things. | Jason Mraz, Colbie Caillat | [Atlantic Records/ATG](.) | 630 | 💚 | [🔗](https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | When I Was Your Man | Unorthodox Jukebox | [Bruno Mars](../../artists/bruno_mars/overview.md) | [Atlantic Records](.) | 705 | 💚 | [🔗](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | Santa's Coming for Us | Everyday Is Christmas (Deluxe Edition) | [Sia](../../artists/sia/overview.md) | [Atlantic Records](.), [Monkey Puzzle](../monkey_puzzle) | 371 | | [🔗](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="" width="50" /> | Lucky | We Sing. We Dance. We Steal Things. | Jason Mraz, Colbie Caillat | [Atlantic Records/ATG](.) | 634 | 💚 | [🔗](https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | When I Was Your Man | Unorthodox Jukebox | [Bruno Mars](../../artists/bruno_mars/overview.md) | [Atlantic Records](.) | 709 | 💚 | [🔗](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="" width="50" /> | Immigrant Song - Remaster | Led Zeppelin III (Remaster) | Led Zeppelin | [Atlantic Records](.) | nan | | [🔗](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="" width="50" /> | Black Dog - Remaster | Led Zeppelin IV (Deluxe Edition) | Led Zeppelin | [Atlantic Records](.) | nan | | [🔗](https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="" width="50" /> | Stairway to Heaven - Remaster | Led Zeppelin IV (Deluxe Edition) | Led Zeppelin | [Atlantic Records](.) | nan | | [🔗](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc) |
@@ -382,7 +382,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | Finesse | 24K Magic | [Bruno Mars](../../artists/bruno_mars/overview.md) | [Atlantic Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | That's What I Like | 24K Magic | [Bruno Mars](../../artists/bruno_mars/overview.md) | [Atlantic Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="" width="50" /> | Finesse - Remix; feat. Cardi B | Finesse (Remix) [feat. Cardi B] | [Bruno Mars](../../artists/bruno_mars/overview.md), Cardi B | [Atlantic Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | Snowman | Everyday Is Christmas (Deluxe Edition) | [Sia](../../artists/sia/overview.md) | [Monkey Puzzle/Atlantic](.) | nan | | [🔗](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | Snowman | Everyday Is Christmas (Deluxe Edition) | [Sia](../../artists/sia/overview.md) | [Atlantic Records](.), [Monkey Puzzle](../monkey_puzzle) | nan | | [🔗](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734f89844c76d620ff098ef5c6" alt="" width="50" /> | Low Key (feat. Tyga) | Low Key (feat. Tyga) | Ally Brooke, Tyga | [Latium/Atlantic](.) | nan | 💚 | [🔗](https://open.spotify.com/track/7xhvCzIguRfyfQyGrnWuVn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="" width="50" /> | Please Me | Please Me | Cardi B, [Bruno Mars](../../artists/bruno_mars/overview.md) | [Atlantic/KSR](.) | nan | 💚 | [🔗](https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d51081892dbe3f1ddf28914" alt="" width="50" /> | Truth Hurts | Cuz I Love You (Deluxe) | Lizzo | [Nice Life/Atlantic](.) | nan | 💚 | [🔗](https://open.spotify.com/track/5qmq61DAAOUaW8AUo8xKhh) |
@@ -407,6 +407,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" alt="" width="50" /> | Running Out Of Time | This Is Why | Paramore | [Atlantic Records](.) | nan | | [🔗](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733eecc265c134153c14794aab" alt="" width="50" /> | Area Codes | Area Codes | Kaliii | [Atlantic Records](.) | nan | | [🔗](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192" alt="" width="50" /> | Dance The Night - From Barbie The Album | Dance The Night (From Barbie The Album) | [Dua Lipa](../../artists/dua_lipa/overview.md) | [Atlantic Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e503d029495d26255a63fb0f" alt="" width="50" /> | I Forgive You | I Forgive You | [Sia](../../artists/sia/overview.md) | [Atlantic Records](.), [Monkey Puzzle](../monkey_puzzle) | nan | | [🔗](https://open.spotify.com/track/2jh0kJheW38ljJucWMoaG6) |
 
 </details>
 

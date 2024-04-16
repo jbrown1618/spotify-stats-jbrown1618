@@ -24,7 +24,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="" width="50" /> | The Great Gig in the Sky | The Dark Side of the Moon | Pink Floyd | Pink Floyd Records | 648 | | [🔗](https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="" width="50" /> | The Great Gig in the Sky | The Dark Side of the Moon | Pink Floyd | Pink Floyd Records | 652 | | [🔗](https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="" width="50" /> | Breathe (In the Air) | The Dark Side of the Moon | Pink Floyd | Pink Floyd Records | nan | 💚 | [🔗](https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b4fcfed39d199fe50b20b7f" alt="" width="50" /> | Set the Controls for the Heart of the Sun | A Saucerful of Secrets | Pink Floyd | Pink Floyd Records | nan | 💚 | [🔗](https://open.spotify.com/track/6p9UFDNfGrzS5Byd2r9KPk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ee314008c5ae6e98904ebfe0" alt="" width="50" /> | Peaches En Regalia | Hot Rats | Frank Zappa | Frank Zappa Catalog | nan | | [🔗](https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l) |

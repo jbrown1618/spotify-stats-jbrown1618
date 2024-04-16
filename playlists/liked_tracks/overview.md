@@ -220,7 +220,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | 4 | 4 | Palette | 2017-04-21 | [🔗](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | 4 | 4 | PTX, Vol. III | 2014-09-23 | [🔗](https://open.spotify.com/album/32y54TelUHSUDWVOx4h1B4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | 4 | 4 | NOEASY | 2021-08-23 | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | 4 | 4 | My Everything (Deluxe) | 2014-08-25 | [🔗](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | 4 | 4 | My Everything (Deluxe) | 2014-08-22 | [🔗](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | 4 | 4 | Masterpiece | 2023-07-26 | [🔗](https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | 4 | 4 | MANIFESTO : DAY 1 | 2022-07-04 | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | 4 | 4 | Love poem | 2019-11-18 | [🔗](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) |
@@ -329,7 +329,7 @@
 | 7 | 7 | [WM Entertainment](../../labels/wm_entertainment/overview.md) |
 | 7 | 7 | The Unc - Chapel Hill Tarpeggios |
 | 7 | 7 | Sire |
-| 7 | 7 | Monkey Puzzle Records |
+| 7 | 7 | [Monkey Puzzle](../../labels/monkey_puzzle/overview.md) |
 | 7 | 7 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 | 7 | 7 | Cooking Vinyl Limited |
 | 6 | 6 | [Virgin Records](../../labels/virgin_records/overview.md) |
@@ -353,7 +353,7 @@
 | 5 | 5 | Arista |
 | 5 | 5 | [143](../../labels/143/overview.md) |
 | 4 | 4 | [avex trax](../../labels/avex_trax/overview.md) |
-| 4 | 4 | YOASOBI |
+| 4 | 4 | [YOASOBI](../../labels/yoasobi/overview.md) |
 | 4 | 4 | XGALX |
 | 4 | 4 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
 | 4 | 4 | Top Dawg Entertainment |
@@ -456,7 +456,7 @@
 | 11 | 11 | pop soul |
 | 11 | 11 | pop rap |
 | 11 | 11 | nz pop |
-| 11 | 11 | j-pop |
+| 11 | 11 | [j-pop](../../genres/j-pop/overview.md) |
 | 11 | 11 | chamber pop |
 | 11 | 11 | australian pop |
 | 11 | 11 | alternative r&b |

@@ -30,7 +30,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738683845c563e9e2a478e2edb" alt="" width="50" /> | 1 | 1 | Loossemble | [🔗](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb13c5e9862576312b8bb5aa38" alt="" width="50" /> | 1 | 1 | Loossemble | [🔗](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb39bf033dbb25e5483994f51c" alt="" width="50" /> | 1 | 0 | Basick | [🔗](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | 1 | 0 | [HWASA](../../artists/hwasa/overview.md) | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5975f7e25f876ac8c3763003" alt="" width="50" /> | 1 | 0 | GSoul | [🔗](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) |
@@ -131,12 +131,12 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738683845c563e9e2a478e2edb" alt="" width="50" /> | Sensitive | Loossemble | Loossemble | [WM Korea](.) | 145 | 💚 | [🔗](https://open.spotify.com/track/6A1dCPrUYhg56ukp4zlEUw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="" width="50" /> | Cupid - Twin Ver. | The Beginning: Cupid | FIFTY FIFTY | [WM Korea](.) | 297 | | [🔗](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273864f04cb6debbb9057b04b30" alt="" width="50" /> | I Love My Body | I Love My Body | [HWASA](../../artists/hwasa/overview.md) | [WM Korea](.) | 302 | | [🔗](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bf32f4be80afeb0e1a09b27d" alt="" width="50" /> | Officially Cool | Officially Cool | BANG YEDAM, [WINTER](../../artists/winter/overview.md) | [WM Korea](.) | 338 | 💚 | [🔗](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273682ac678746ad21b6b799950" alt="" width="50" /> | Pity Party | Pity Party | JAMIE | [WM Korea](.) | 646 | 💚 | [🔗](https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27390eea4a1744d67c2de3db575" alt="" width="50" /> | When It Snows mmm (feat. Wheein) | When It Snows mmm (feat. Wheein) | Basick, Whee In | [WM Korea](.) | 723 | | [🔗](https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738683845c563e9e2a478e2edb" alt="" width="50" /> | Sensitive | Loossemble | Loossemble | [WM Korea](.) | 146 | 💚 | [🔗](https://open.spotify.com/track/6A1dCPrUYhg56ukp4zlEUw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bf32f4be80afeb0e1a09b27d" alt="" width="50" /> | Officially Cool | Officially Cool | BANG YEDAM, [WINTER](../../artists/winter/overview.md) | [WM Korea](.) | 273 | 💚 | [🔗](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="" width="50" /> | Cupid - Twin Ver. | The Beginning: Cupid | FIFTY FIFTY | [WM Korea](.) | 301 | | [🔗](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273864f04cb6debbb9057b04b30" alt="" width="50" /> | I Love My Body | I Love My Body | [HWASA](../../artists/hwasa/overview.md) | [WM Korea](.) | 306 | | [🔗](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273682ac678746ad21b6b799950" alt="" width="50" /> | Pity Party | Pity Party | JAMIE | [WM Korea](.) | 651 | 💚 | [🔗](https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27390eea4a1744d67c2de3db575" alt="" width="50" /> | When It Snows mmm (feat. Wheein) | When It Snows mmm (feat. Wheein) | Basick, Whee In | [WM Korea](.) | 731 | | [🔗](https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273addef7fad07f17acdf7d6b98" alt="" width="50" /> | BREATHE | B:COMPLETE | AB6IX | [WM Korea](.) | nan | 💚 | [🔗](https://open.spotify.com/track/4XbyRgWe6yU4wE6WShdTEs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a359467cf1e245c2cdf5dad5" alt="" width="50" /> | Movie Star | HELLO Chapter 1: Hello, Stranger | CIX | [WM Korea](.) | nan | | [🔗](https://open.spotify.com/track/65pVi11JqwSZqUuYAqLP36) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a359467cf1e245c2cdf5dad5" alt="" width="50" /> | What You Wanted | HELLO Chapter 1: Hello, Stranger | CIX | [WM Korea](.) | nan | | [🔗](https://open.spotify.com/track/76dpiZihYVl5VbiHNjVj5l) |

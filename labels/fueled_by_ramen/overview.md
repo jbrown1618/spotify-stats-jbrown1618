@@ -61,7 +61,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 1 | 1 | j-pop |
+| 1 | 1 | [j-pop](../../genres/j-pop/overview.md) |
 | 1 | 0 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 1 | 0 | neon pop punk |
 

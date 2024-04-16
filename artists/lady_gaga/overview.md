@@ -130,7 +130,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Sour Candy (with BLACKPINK) | Chromatica | [Lady Gaga](overview.md), [BLACKPINK](../blackpink/overview.md) | [Interscope](../../labels/interscope_records) | 565 | 💚 | [🔗](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Sour Candy (with BLACKPINK) | Chromatica | [Lady Gaga](overview.md), [BLACKPINK](../blackpink/overview.md) | [Interscope](../../labels/interscope_records) | 568 | 💚 | [🔗](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | Just Dance | The Fame | [Lady Gaga](overview.md), Colby O'Donis | [Interscope](../../labels/interscope_records) | nan | | [🔗](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | LoveGame | The Fame | [Lady Gaga](overview.md) | [Interscope](../../labels/interscope_records) | nan | 💚 | [🔗](https://open.spotify.com/track/0TcJ7QWpggdSg8t0fHThHm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | Paparazzi | The Fame | [Lady Gaga](overview.md) | [Interscope](../../labels/interscope_records) | nan | | [🔗](https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM) |

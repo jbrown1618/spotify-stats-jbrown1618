@@ -11,7 +11,7 @@ Kendrick Lamar:
 
 ## Artist Rank
 Kendrick Lamar is currently:
-- The #46 artist of the last month
+- The #44 artist of the last month
 
 ![Rank of Kendrick Lamar over time](../../images/artists/kendrick_lamar/rank_time_series.png)
 ## Featured on Playlists

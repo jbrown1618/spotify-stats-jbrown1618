@@ -21,15 +21,15 @@ Florence + The Machine:
 
 ## Artist Rank
 Florence + The Machine is currently:
-- The #29 artist of the last month
-- The #42 artist of the last 6 months
+- The #27 artist of the last month
+- The #41 artist of the last 6 months
 
 ![Rank of Florence + The Machine over time](../../images/artists/florence_+_the_machine/rank_time_series.png)
 ## Top Tracks
 
 - Never Let Me Go is:
-    - the #16 track of the On Repeat playlist
-    - the #17 track of the last month
+    - the #10 track of the On Repeat playlist
+    - the #16 track of the last month
 
 ### Top tracks, aggregated
 
@@ -159,7 +159,7 @@ Florence + The Machine is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Never Let Me Go | Ceremonials (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 374 | 💚 | [🔗](https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Never Let Me Go | Ceremonials (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 294 | 💚 | [🔗](https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | What The Water Gave Me | Ceremonials (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 479 | 💚 | [🔗](https://open.spotify.com/track/3RiOPzAvhNKuMIdPYOrKV8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Seven Devils | Ceremonials (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 686 | 💚 | [🔗](https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | Between Two Lungs | Lungs (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | nan | 💚 | [🔗](https://open.spotify.com/track/5WnYyCWBbJyLChmd2sbZK9) |

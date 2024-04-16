@@ -14,16 +14,16 @@ KISS OF LIFE:
 
 ## Artist Rank
 KISS OF LIFE is currently:
-- The #13 artist of the last month
-- The #36 artist of the last 6 months
+- The #16 artist of the last month
+- The #37 artist of the last 6 months
 
 ![Rank of KISS OF LIFE over time](../../images/artists/kiss_of_life/rank_time_series.png)
 ## Top Tracks
 
 - Nobody Knows is:
-    - the #11 track of the On Repeat playlist
+    - the #3 track of the On Repeat playlist
     - the #14 track of the last 6 months
-- Midas Touch is the #5 track of the On Repeat playlist
+- Midas Touch is the #8 track of the On Repeat playlist
 
 ### Top tracks, aggregated
 
@@ -36,7 +36,7 @@ KISS OF LIFE is currently:
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 10 | [K-Pop](../../playlists/k-pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 3 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02470d0ba5f707b141d1337cf2ab67616d00001e0281d97a31253b898bc4149195ab67616d00001e029104b6efe6c3483f605d9633ab67616d00001e02c74be23f27696b57c67f5489" alt="" width="50" /> | 2 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg" alt="" width="50" /> | 2 | [On Repeat](../../playlists/on_repeat/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020f7e2aa2f1d7ea0fd2e206c0ab67616d00001e0216aaf05fe82237576a7d0e38ab67616d00001e0220112a0321d2efc7384db456ab67616d00001e02f93159d78849714fcf118bb3" alt="" width="50" /> | 1 | [Funk](../../playlists/funk/overview.md) |
@@ -126,9 +126,9 @@ KISS OF LIFE is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Nobody Knows | Born to be XX | [KISS OF LIFE](overview.md) | [S2 ENTERTAINMENT INC.](../../labels/s2_entertainment_inc_) | 128 | 💚 | [🔗](https://open.spotify.com/track/70efTlnBNM8BvfhfPiqOBN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Bad News | Born to be XX | [KISS OF LIFE](overview.md) | [S2 ENTERTAINMENT INC.](../../labels/s2_entertainment_inc_) | 245 | 💚 | [🔗](https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27307568782625b85282541394b" alt="" width="50" /> | Midas Touch | Midas Touch | [KISS OF LIFE](overview.md) | [S2 ENTERTAINMENT INC.](../../labels/s2_entertainment_inc_) | 515 | 💚 | [🔗](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Nobody Knows | Born to be XX | [KISS OF LIFE](overview.md) | [S2 ENTERTAINMENT INC.](../../labels/s2_entertainment_inc_) | 127 | 💚 | [🔗](https://open.spotify.com/track/70efTlnBNM8BvfhfPiqOBN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Bad News | Born to be XX | [KISS OF LIFE](overview.md) | [S2 ENTERTAINMENT INC.](../../labels/s2_entertainment_inc_) | 246 | 💚 | [🔗](https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307568782625b85282541394b" alt="" width="50" /> | Midas Touch | Midas Touch | [KISS OF LIFE](overview.md) | [S2 ENTERTAINMENT INC.](../../labels/s2_entertainment_inc_) | 429 | 💚 | [🔗](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Countdown (BELLE Solo) | KISS OF LIFE | [KISS OF LIFE](overview.md) | [S2 ENTERTAINMENT INC.](../../labels/s2_entertainment_inc_) | nan | 💚 | [🔗](https://open.spotify.com/track/3pJbio7BQLvqNne62Xe73I) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Kitty Cat (JULIE Solo) | KISS OF LIFE | [KISS OF LIFE](overview.md) | [S2 ENTERTAINMENT INC.](../../labels/s2_entertainment_inc_) | nan | | [🔗](https://open.spotify.com/track/6MiodzZmp1bKamgF3qhmre) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Shhh | KISS OF LIFE | [KISS OF LIFE](overview.md) | [S2 ENTERTAINMENT INC.](../../labels/s2_entertainment_inc_) | nan | 💚 | [🔗](https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8) |
