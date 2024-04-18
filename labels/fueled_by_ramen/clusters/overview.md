@@ -25,7 +25,7 @@
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="" width="50" /> | That's What You Get | Riot! | Paramore | [Fueled By Ramen](../..) | nan | | [🔗](https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="" width="50" /> | Misery Business | Riot! | Paramore | [Fueled By Ramen](../..) | 254 | 💚 | [🔗](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="" width="50" /> | Misery Business | Riot! | Paramore | [Fueled By Ramen](../..) | 257 | 💚 | [🔗](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35" alt="" width="50" /> | Ain't It Fun | Paramore | Paramore | [Fueled By Ramen](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35" alt="" width="50" /> | Still into You | Paramore | Paramore | [Fueled By Ramen](../..) | nan | | [🔗](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0ad203a3d2a2343d889a95" alt="" width="50" /> | We Didn’t Start The Fire (Bonus Track) | So Much (For) Stardust | Fall Out Boy | [Fueled By Ramen](../..) | nan | | [🔗](https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h) |

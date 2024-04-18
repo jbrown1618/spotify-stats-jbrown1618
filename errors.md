@@ -8,7 +8,7 @@ None
 
 | Album | Artists | Album Popularity | Release Date | Label | Tracks | Playlists |
 |:---|:---|---:|:---|:---|:---|:---|
-| A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 53 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Retro Kpop [🔗](https://open.spotify.com/playlist/1MW4AAPq55U0XWvSeu1jU5) |
+| A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 54 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Retro Kpop [🔗](https://open.spotify.com/playlist/1MW4AAPq55U0XWvSeu1jU5) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 48 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 54 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd),<br>Recommendations for Jeff [🔗](https://open.spotify.com/playlist/5Liek0UOC5GmdOjxdWhcob),<br>Relax [🔗](https://open.spotify.com/playlist/4rnlD7JdUQNdPCBhL69dCg),<br>Your Top Songs 2022 [🔗](https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit) |
 | SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 40 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-R&B [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
@@ -19,7 +19,7 @@ None
 |:---|:---|:---|---:|---:|---:|
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 87 |
 | Moonlight | D-2 | Agust D | 0 | 2 | 74 |
-| Daechwita | D-2 | Agust D | 1 | 2 | 74 |
+| Daechwita | D-2 | Agust D | 2 | 2 | 74 |
 | Burn It (feat. MAX) | D-2 | Agust D | 0 | 2 | 74 |
 | People | D-2 | Agust D | 1 | 2 | 74 |
 | Strange (feat. RM) | D-2 | Agust D | 0 | 2 | 74 |
@@ -73,9 +73,9 @@ None
 | Little Lion Man | Sigh No More | Mumford & Sons | 1 | 1 | 72 |
 | The Cave | Sigh No More | Mumford & Sons | 0 | 1 | 72 |
 | Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 56 |
-| That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 54 |
-| The Phantom Of The Opera | Century Child | Nightwish | 0 | 1 | 65 |
-| End Of All Hope | Century Child | Nightwish | 0 | 1 | 65 |
+| That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 1 | 54 |
+| The Phantom Of The Opera | Century Child | Nightwish | 0 | 0 | 65 |
+| End Of All Hope | Century Child | Nightwish | 0 | 0 | 65 |
 | Nemo | Once | Nightwish | 0 | 0 | 65 |
 | Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 0 | 0 | 60 |
 | Lullaby | Present : YOU | GOT7 | 0 | 0 | 60 |
@@ -108,8 +108,8 @@ None
 | Who's Your Mama? | 24/34 | Jessi | 0 | 0 | 59 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 73 |
 | My House | No.5 | 2PM | 0 | 0 | 53 |
-| Still Alive | Portal 2: Songs to Test By (Collectors Edition) | Aperture Science Psychoacoustic Laboratories | 0 | 0 | 46 |
-| this is what falling in love feels like | this is what falling in love feels like | JVKE | 1 | 0 | 77 |
+| Still Alive | Portal 2: Songs to Test By (Collectors Edition) | Aperture Science Psychoacoustic Laboratories | 0 | 0 | 47 |
+| this is what falling in love feels like | this is what falling in love feels like | JVKE | 2 | 0 | 77 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 48 |
 | Zelda's Lullaby | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 47 |
 | Song Of Storms | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 47 |
@@ -117,7 +117,7 @@ None
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 71 |
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 26 |
 | Call Me Mother | American | RuPaul | 0 | 0 | 57 |
-| Lose | Love Synonym #2 : Right for Us | WONHO | 2 | 1 | 45 |
+| Lose | Love Synonym #2 : Right for Us | WONHO | 1 | 1 | 45 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 68 |
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 46 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 56 |

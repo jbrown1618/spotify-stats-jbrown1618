@@ -38,7 +38,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d74a6d4cd2de13c11ace8e2" alt="" width="50" /> | 1 | 1 | CRAXY | [🔗](https://open.spotify.com/artist/3C13AlJZ4QWHSruAWe9VPI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba9409322bc70bd56bc4f0950" alt="" width="50" /> | 1 | 1 | TAN | [🔗](https://open.spotify.com/artist/34Ecdzh8yGKt2YvPG37PKu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaccf8c8763bf2fa909677c71" alt="" width="50" /> | 1 | 1 | DKZ | [🔗](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb72d24d422e132cf06497630f" alt="" width="50" /> | 1 | 1 | &TEAM | [🔗](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2045ada586251e5e0c5877bf" alt="" width="50" /> | 1 | 1 | &TEAM | [🔗](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb194b53f4785ed4ddef0061ca" alt="" width="50" /> | 1 | 1 | ALICE | [🔗](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbf52c8bad49f00cee3618346" alt="" width="50" /> | 1 | 0 | Raon | [🔗](https://open.spotify.com/artist/6grPDYoluzn0yi8qloRKst) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb495b108feba6164e2c01b15e" alt="" width="50" /> | 1 | 0 | CRAVITY | [🔗](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) |
@@ -48,7 +48,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eba123a8867dccb4d414e7d2f9" alt="" width="50" /> | 1 | 0 | BE'O | [🔗](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb27605f3330d7fea5d8670749" alt="" width="50" /> | 1 | 0 | H1-KEY | [🔗](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb568d2846f8b9c8267da1e34d" alt="" width="50" /> | 1 | 0 | KIM WOO SEOK | [🔗](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273901cc407ae13ee0006324bee" alt="" width="50" /> | 1 | 0 | DKB | [🔗](https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eeaf45611cfc43ad5281ff8f" alt="" width="50" /> | 1 | 0 | DKB | [🔗](https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbaab1c0bd5243ff2557dd0f2" alt="" width="50" /> | 1 | 0 | MINO | [🔗](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5589628948575bfe10b4cbbd" alt="" width="50" /> | 1 | 0 | JUST B | [🔗](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384e8d91b128dbc1eeab0e017" alt="" width="50" /> | 1 | 0 | LIMELIGHT | [🔗](https://open.spotify.com/artist/1mDDvUPSs2dSr4QKAQmOql) |
@@ -75,14 +75,14 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738cab1c75d2271af37c3e2db9" alt="First Howling : ME" width="50" /> | Scent of you | 124 | <img src="https://i.scdn.co/image/ab67616d0000b273b068508a55c13c676bf74d6b" alt="FACE ME" width="50" /> | PHOTO | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27340320ca58cbadbad78598e36" alt="EPEX 5th EP Album Prelude of Love Chapter 2. &#x27;Growing Pains&#x27;" width="50" /> | Sunshower | 197 | <img src="https://i.scdn.co/image/ab67616d0000b27395e1a12145290ca7d783eb1d" alt="BINARY CODE" width="50" /> | BLACK MIRROR | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Bewitched | 218 | <img src="https://i.scdn.co/image/ab67616d0000b2737694471cc29815e2b3864637" alt="HELLO Chapter 3: Hello, Strange Time" width="50" /> | Jungle | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b0f7fd5522eff959055b20d8" alt="Cherry Rush" width="50" /> | Love So Sweet | 442 | <img src="https://i.scdn.co/image/ab67616d0000b27367ebaeedc3ad203e0589e6eb" alt="Re-Original" width="50" /> | VENOM | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359fcda8d47bbd0f6c2bf1647" alt="Bizarre Story" width="50" /> | 기괴한 이야기 : Get Out | 466 | <img src="https://i.scdn.co/image/ab67616d0000b273a436d1d155cb24679e84c3bd" alt="Cherry Wish" width="50" /> | Love In Space | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f4171e1732961f5da0de0c1e" alt="WIN-DOW" width="50" /> | Love is New Gravity | 478 | <img src="https://i.scdn.co/image/ab67616d0000b273e827c21f833661043f8dd588" alt="LIMITED EDITION ‘1TAN’" width="50" /> | DU DU DU | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | KARMA | 484 | <img src="https://i.scdn.co/image/ab67616d0000b273eb74400c53d5bbe784ea3cd7" alt="Joker is Alive" width="50" /> | Joker | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="Macarena" width="50" /> | Macarena | 565 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="Wings" width="50" /> | Wings | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738cab1c75d2271af37c3e2db9" alt="First Howling : ME" width="50" /> | Scent of you | 125 | <img src="https://i.scdn.co/image/ab67616d0000b273b068508a55c13c676bf74d6b" alt="FACE ME" width="50" /> | PHOTO | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27340320ca58cbadbad78598e36" alt="EPEX 5th EP Album Prelude of Love Chapter 2. &#x27;Growing Pains&#x27;" width="50" /> | Sunshower | 198 | <img src="https://i.scdn.co/image/ab67616d0000b27395e1a12145290ca7d783eb1d" alt="BINARY CODE" width="50" /> | BLACK MIRROR | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Bewitched | 219 | <img src="https://i.scdn.co/image/ab67616d0000b2737694471cc29815e2b3864637" alt="HELLO Chapter 3: Hello, Strange Time" width="50" /> | Jungle | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b0f7fd5522eff959055b20d8" alt="Cherry Rush" width="50" /> | Love So Sweet | 445 | <img src="https://i.scdn.co/image/ab67616d0000b27367ebaeedc3ad203e0589e6eb" alt="Re-Original" width="50" /> | VENOM | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359fcda8d47bbd0f6c2bf1647" alt="Bizarre Story" width="50" /> | 기괴한 이야기 : Get Out | 470 | <img src="https://i.scdn.co/image/ab67616d0000b273a436d1d155cb24679e84c3bd" alt="Cherry Wish" width="50" /> | Love In Space | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f4171e1732961f5da0de0c1e" alt="WIN-DOW" width="50" /> | Love is New Gravity | 485 | <img src="https://i.scdn.co/image/ab67616d0000b273e827c21f833661043f8dd588" alt="LIMITED EDITION ‘1TAN’" width="50" /> | DU DU DU | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | KARMA | 489 | <img src="https://i.scdn.co/image/ab67616d0000b273eb74400c53d5bbe784ea3cd7" alt="Joker is Alive" width="50" /> | Joker | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="Macarena" width="50" /> | Macarena | 569 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="Wings" width="50" /> | Wings | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="LEVIOSA" width="50" /> | KISS | nan | <img src="https://i.scdn.co/image/ab67616d0000b2731be910fd8122cd805d651a8d" alt="Acid Angel from Asia &lt;ACCESS&gt;" width="50" /> | Generation | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb692ba736f1102246f7994f" alt="Re:Scene" width="50" /> | UhUh | nan | <img src="https://i.scdn.co/image/ab67616d0000b273a6afb253632c318f79697cf2" alt="Jelly box Flower Way SEJEONG" width="50" /> | Flower Way (Prod. By ZICO) | nan |
 

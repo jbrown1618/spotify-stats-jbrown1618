@@ -69,8 +69,8 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> | Your Song | 289 | <img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" alt="Katrina &amp; The Waves" width="50" /> | Walking On Sunshine | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e2c1f7c1ee0ee027f41178fd" alt="Feels So Good" width="50" /> | Feels So Good | 413 | <img src="https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956" alt="Faith" width="50" /> | Faith - Remastered | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> | Your Song | 292 | <img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" alt="Katrina &amp; The Waves" width="50" /> | Walking On Sunshine | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e2c1f7c1ee0ee027f41178fd" alt="Feels So Good" width="50" /> | Feels So Good | 415 | <img src="https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956" alt="Faith" width="50" /> | Faith - Remastered | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="I Never Loved a Man the Way I Love You" width="50" /> | Respect | nan | <img src="https://i.scdn.co/image/ab67616d0000b273d8fb5b4308dc27f210064ef4" alt="Bookends" width="50" /> | [Mrs. Robinson - From "The Graduate" Soundtrack](../../artists/simon___garfunkel/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322219b7ba681368a16c219fe" alt="The Ultimate Bee Gees" width="50" /> | Stayin Alive | nan | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="Graceland (25th Anniversary Deluxe Edition)" width="50" /> | You Can Call Me Al | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" alt="20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor" width="50" /> | I Will Survive - Single Version | nan | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="Tapestry" width="50" /> | I Feel the Earth Move | nan |
@@ -213,7 +213,7 @@
 
 
 <details>
-<summary>See all 51 genres</summary>
+<summary>See all 52 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -253,6 +253,7 @@
 | 1 | 1 | atl hip hop |
 | 2 | 0 | sunshine pop |
 | 1 | 0 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
+| 1 | 0 | neo soul |
 | 1 | 0 | jazz blues |
 | 1 | 0 | doo-wop |
 | 1 | 0 | classic canadian rock |

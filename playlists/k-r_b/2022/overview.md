@@ -21,7 +21,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb897d3a31965b6c024704c71" alt="" width="50" /> | 1 | 1 | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4285c7ae19f30ef904e4723a" alt="" width="50" /> | 1 | 1 | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1722d31b67b9f5a48e94e465" alt="" width="50" /> | 1 | 1 | AILEE | [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | 1 | 1 | [IU](../../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc32d61199d2cc9191b135e70" alt="" width="50" /> | 1 | 1 | pH-1 | [🔗](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) |
@@ -78,11 +78,11 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="" width="50" /> | Animal Farm | Lowlife Princess: Noir | [BIBI](../../../artists/bibi/overview.md) | [Feel Ghood Music/88risingMusic](../../../labels/88rising_music) | 91 | 💚 | [🔗](https://open.spotify.com/track/4g6ZT8vgKNq4iyEbezr3yI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="" width="50" /> | Undo | Undo | [HEIZE](../../../artists/heize/overview.md) | [Genie Music Corporation](../../../labels/genie_music_corporation), [Stone Music Entertainment](../../../labels/stone_music_entertainment) | 196 | 💚 | [🔗](https://open.spotify.com/track/6z1pJ3KUmQagUpMVqL62sa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="" width="50" /> | Animal Farm | Lowlife Princess: Noir | [BIBI](../../../artists/bibi/overview.md) | [Feel Ghood Music/88risingMusic](../../../labels/88rising_music) | 92 | 💚 | [🔗](https://open.spotify.com/track/4g6ZT8vgKNq4iyEbezr3yI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="" width="50" /> | Undo | Undo | [HEIZE](../../../artists/heize/overview.md) | [Genie Music Corporation](../../../labels/genie_music_corporation), [Stone Music Entertainment](../../../labels/stone_music_entertainment) | 197 | 💚 | [🔗](https://open.spotify.com/track/6z1pJ3KUmQagUpMVqL62sa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732918f236448bf544586e388a" alt="" width="50" /> | Event Horizon | YOUNHA 6th Album Repackage 'END THEORY : Final Edition' | Younha | C9 Entertainment | 441 | 💚 | [🔗](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735e24ed982c42289b1e7cbc19" alt="" width="50" /> | Love is a magic | LOVE & FEAR | MRCH | MRCH MUSIC | 512 | 💚 | [🔗](https://open.spotify.com/track/08ANRBOA33Hfn4shVjNBwi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c43c64f95f57743ac12f1f4f" alt="" width="50" /> | Murder On The Dance Floor | I'M LOVIN' AMY | AILEE | 더라이브레이블 | 754 | 💚 | [🔗](https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e24ed982c42289b1e7cbc19" alt="" width="50" /> | Love is a magic | LOVE & FEAR | MRCH | MRCH MUSIC | 516 | 💚 | [🔗](https://open.spotify.com/track/08ANRBOA33Hfn4shVjNBwi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c43c64f95f57743ac12f1f4f" alt="" width="50" /> | Murder On The Dance Floor | I'M LOVIN' AMY | AILEE | 더라이브레이블 | 748 | 💚 | [🔗](https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2c26082a6dd171731126d44" alt="" width="50" /> | 2 O' CLOCK | 2 O' CLOCK | dori | dori | nan | | [🔗](https://open.spotify.com/track/36PxJOUB8qFTcDFp2M0h6K) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e68e27ce09208c0ba0133df" alt="" width="50" /> | Sweet | Sweet (A Business Proposal OST Part.1) | Lee Mujin | FLEX M | nan | | [🔗](https://open.spotify.com/track/5JpftUHeUzx3zWE6rZtki5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c0defcb336a0296eb7d704a" alt="" width="50" /> | GANADARA (Feat. IU) | GANADARA | Jay Park, [IU](../../../artists/iu/overview.md) | MORE VISION | nan | 💚 | [🔗](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) |

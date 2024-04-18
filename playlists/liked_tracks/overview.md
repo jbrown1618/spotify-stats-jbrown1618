@@ -144,7 +144,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="Heng:garæ" width="50" /> | [Left & Right](../../artists/seventeen/overview.md) | 7 | <img src="https://i.scdn.co/image/ab67616d0000b2739ab215825eb77076b1b4b387" alt="Nickel Creek" width="50" /> | The Lighthouse's Tale | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [Crazy Over You](../../artists/blackpink/overview.md) | 8 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> | Hard To Handle | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [How You Like That](../../artists/blackpink/overview.md) | 9 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="Fleetwood Mac" width="50" /> | Rhiannon | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | [Gotta Go](../../artists/chung_ha/overview.md) | 10 | <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="Metropolis: The Chase Suite (Special Edition)" width="50" /> | [Sincerely, Jane](../../artists/janelle_monáe/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | [Gotta Go](../../artists/chung_ha/overview.md) | 10 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="1989" width="50" /> | [Clean](../../artists/taylor_swift/overview.md) | nan |
 
 </details>
 
@@ -403,11 +403,11 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 51 | 51 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 49 | 49 | [pop rock](../../genres/pop_rock/overview.md) |
 | 49 | 49 | [album rock](../../genres/album_rock/overview.md) |
 | 47 | 47 | [soft rock](../../genres/soft_rock/overview.md) |
 | 47 | 47 | [modern rock](../../genres/modern_rock/overview.md) |
-| 47 | 47 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 46 | 46 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 45 | 45 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 44 | 44 | [mellow gold](../../genres/mellow_gold/overview.md) |
