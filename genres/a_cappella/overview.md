@@ -1,6 +1,6 @@
 # a cappella
 
-88 songs
+89 songs
 
 [See Track Features](audio_features.md)
 
@@ -23,7 +23,7 @@
 
 
 <details>
-<summary>See all 29 artists</summary>
+<summary>See all 30 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -36,6 +36,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebed12016e0eb2c7d47357c136" alt="" width="50" /> | 1 | 0 | The Harmonics | [🔗](https://open.spotify.com/artist/528Rcthd9JqtIrlbrGKNsG) |
 | | 1 | 0 | Kat Dunbar Linker | [🔗](https://open.spotify.com/artist/512QZ1TM6L4uXmWCVOKHtV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739a9a592561eabf00f0a8ee4d" alt="" width="50" /> | 1 | 0 | Varsity Vocals | [🔗](https://open.spotify.com/artist/4bQp9Lm7LgRMLtqEsH3Bqf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363d448b5773d975d66974ce0" alt="" width="50" /> | 1 | 0 | Decadence | [🔗](https://open.spotify.com/artist/3uBUg8TtKXz6m3wY5aXa9I) |
 | | 1 | 0 | Gabe Hendifar | [🔗](https://open.spotify.com/artist/3YIBM4yvZHT4lRQa14eHQh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfac39467586b60aaebed83eb" alt="" width="50" /> | 1 | 0 | The Vassar Devils | [🔗](https://open.spotify.com/artist/31EncJhuSBcAIsZGA3G1GK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d920cc55d75078e9dbcc809" alt="" width="50" /> | 1 | 0 | Elizabeth Wright | [🔗](https://open.spotify.com/artist/2tQ7EzEpu1KFpseMdHGSzL) |
@@ -50,18 +51,18 @@
 </details>
 
 
-![Bar chart of top 29 artists](../../images/genres/a_cappella/artists.png)
+![Bar chart of top 30 artists](../../images/genres/a_cappella/artists.png)
 
 ![Comparison of Artist](../../images/genres/a_cappella/artists_comparison.png)
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="PTX, Vol. III" width="50" /> | [Problem (Ariana Grande Cover)](../../artists/pentatonix/overview.md) | 426 | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="PTX, Vol. 2" width="50" /> | [Natural Disaster](../../artists/pentatonix/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Sleigh Ride](../../artists/pentatonix/overview.md) | 668 | <img src="https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc" alt="A Pentatonix Christmas Deluxe" width="50" /> | [Hallelujah](../../artists/pentatonix/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Let It Go](../../artists/pentatonix/overview.md) | 669 | <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="BOCA 2004: Best Of College A Cappella" width="50" /> | Gravity | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Mary, Did You Know?](../../artists/pentatonix/overview.md) | 683 | <img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="The Sound of Silence" width="50" /> | [The Sound of Silence](../../artists/pentatonix/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="PTX Vol. IV - Classics" width="50" /> | [Imagine](../../artists/pentatonix/overview.md) | 717 | <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="PTX, Vol. 1" width="50" /> | [Show You How to Love](../../artists/pentatonix/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Dance of the Sugar Plum Fairy](../../artists/pentatonix/overview.md) | 731 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9d3239217b0c4f75c15562" alt="Unwrapped" width="50" /> | Amazing Grace | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="PTX, Vol. III" width="50" /> | [Problem (Ariana Grande Cover)](../../artists/pentatonix/overview.md) | 431 | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="PTX, Vol. 2" width="50" /> | [Natural Disaster](../../artists/pentatonix/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Sleigh Ride](../../artists/pentatonix/overview.md) | 664 | <img src="https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc" alt="A Pentatonix Christmas Deluxe" width="50" /> | [Hallelujah](../../artists/pentatonix/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Let It Go](../../artists/pentatonix/overview.md) | 670 | <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="BOCA 2004: Best Of College A Cappella" width="50" /> | Gravity | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Mary, Did You Know?](../../artists/pentatonix/overview.md) | 681 | <img src="https://i.scdn.co/image/ab67616d0000b273183ce7c015d33f55210a2b4a" alt="The Sound of Silence" width="50" /> | [The Sound of Silence](../../artists/pentatonix/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="PTX Vol. IV - Classics" width="50" /> | [Imagine](../../artists/pentatonix/overview.md) | 718 | <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="PTX, Vol. 1" width="50" /> | [Show You How to Love](../../artists/pentatonix/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Dance of the Sugar Plum Fairy](../../artists/pentatonix/overview.md) | 734 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9d3239217b0c4f75c15562" alt="Unwrapped" width="50" /> | Amazing Grace | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="BOCA 2006: Best Of College A Cappella" width="50" /> | My Happy Ending | nan | <img src="https://i.scdn.co/image/ab67616d0000b27331c35347cbb989e84ccccf8e" alt="M" width="50" /> | I Will Follow You Into the Dark | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="PTX" width="50" /> | [Radioactive](../../artists/pentatonix/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="PTX, Vol. 2" width="50" /> | [Love Again](../../artists/pentatonix/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="BOCA 2009: Best Of College A Cappella" width="50" /> | Sound Of Silence | nan | <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="PTX Presents: Top Pop, Vol. I" width="50" /> | [Havana](../../artists/pentatonix/overview.md) | nan |
@@ -84,7 +85,7 @@
 
 
 <details>
-<summary>See all 37 albums</summary>
+<summary>See all 38 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -108,6 +109,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271" alt="" width="50" /> | 1 | 0 | BOCA 2021: Best of College A Cappella | 2021-02-06 | [🔗](https://open.spotify.com/album/1eKkeTIlePsRpKkQre78tT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | 1 | 0 | BOCA 2016: Best Of College A Cappella | 2015-12-15 | [🔗](https://open.spotify.com/album/2AOr4esohQurJGXklhRH1a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="" width="50" /> | 1 | 0 | BOCA 2014: Best Of College A Cappella | 2014-01-31 | [🔗](https://open.spotify.com/album/7rZoAMtoZ8s5mLIlUTWgVT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | 1 | 0 | BOCA 2013: Best of College A Cappella | 2016 | [🔗](https://open.spotify.com/album/6Pqey2mc4EWSfYNH3bifbO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="" width="50" /> | 1 | 0 | BOCA 2012: Best Of College A Cappella | 2012-01-01 | [🔗](https://open.spotify.com/album/26eCHp86K2xLQj0B7Cr8he) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="" width="50" /> | 1 | 0 | BOCA 2010: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/3HSd3voAxPxS50UrfInBVJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="" width="50" /> | 1 | 0 | BOCA 2009: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/50WaSkL4pVvz9Crsca7oNV) |
@@ -126,7 +128,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 43 | 16 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
-| 16 | 0 | [Varsity Vocals](../../labels/varsity_vocals/overview.md) |
+| 17 | 0 | [Varsity Vocals](../../labels/varsity_vocals/overview.md) |
 | 8 | 0 | Vanderbilt Melodores |
 | 5 | 0 | The Loreleis |
 | 4 | 0 | SwingCD |
@@ -232,7 +234,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="PTX Presents: Top Pop, Vol. I" width="50" /> | PTX Presents: Top Pop, Vol. I (2018-04-13) | <img src="https://i.scdn.co/image/ab67616d0000b2738b1bdafdc4fd1983a8a8a198" alt="Spotlight on Bach" width="50" /> | Spotlight on Bach (2010-02-22) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d3f8430d5bac3daad32d93eb" alt="Where the Secret Lies" width="50" /> | Where the Secret Lies (2018) | <img src="https://i.scdn.co/image/ab67616d0000b273a6917e8b1af58ff8168434a7" alt="Rain Check" width="50" /> | Rain Check (2010-11-09) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc" alt="A Pentatonix Christmas Deluxe" width="50" /> | A Pentatonix Christmas Deluxe (2017-12-06) | <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="BOCA 2010: Best Of College A Cappella" width="50" /> | BOCA 2010: Best Of College A Cappella (2011-02-15) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="PTX Vol. IV - Classics" width="50" /> | PTX Vol. IV - Classics (2017-04-07) | <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="BOCA 2008: Best Of College A Cappella" width="50" /> | BOCA 2008: Best Of College A Cappella (2011-02-15) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736390fb1ebb92fb38e7c99aaf" alt="The Reading Room Sessions (Fall 2017)" width="50" /> | The Reading Room Sessions (Fall 2017) (2017) | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="BOCA 2009: Best Of College A Cappella" width="50" /> | BOCA 2009: Best Of College A Cappella (2011-02-15) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="PTX Vol. IV - Classics" width="50" /> | PTX Vol. IV - Classics (2017-04-07) | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="BOCA 2009: Best Of College A Cappella" width="50" /> | BOCA 2009: Best Of College A Cappella (2011-02-15) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736390fb1ebb92fb38e7c99aaf" alt="The Reading Room Sessions (Fall 2017)" width="50" /> | The Reading Room Sessions (Fall 2017) (2017) | <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="BOCA 2008: Best Of College A Cappella" width="50" /> | BOCA 2008: Best Of College A Cappella (2011-02-15) |
 
 ![Bar chart of number of songs by year](../../images/genres/a_cappella/years.png)

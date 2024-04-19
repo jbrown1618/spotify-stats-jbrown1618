@@ -61,7 +61,7 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="SEVENTEEN 11th Mini Album &#x27;SEVENTEENTH HEAVEN&#x27;" width="50" /> | [Back 2 Back](../../artists/seventeen/overview.md) | 688 | <img src="https://i.scdn.co/image/ab67616d0000b273a781283273e757736bbe120c" alt="I Get It Now" width="50" /> | I Get It Now | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="SEVENTEEN 11th Mini Album &#x27;SEVENTEENTH HEAVEN&#x27;" width="50" /> | [Back 2 Back](../../artists/seventeen/overview.md) | 693 | <img src="https://i.scdn.co/image/ab67616d0000b273a781283273e757736bbe120c" alt="I Get It Now" width="50" /> | I Get It Now | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734119e198ca7e3bbc2a7b5685" alt="Pit-a-Pat" width="50" /> | Rollercoaster | nan | <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | [manimani](../../artists/yoasobi/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | [Loving You](../../artists/yoasobi/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b27373ee88f3ea2be1df0a48a2b1" alt="QURIOUS" width="50" /> | Bad Girl | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735955254dc5bccba12df1df8a" alt="Bridge of Dreams" width="50" /> | La Luna | nan | <img src="https://i.scdn.co/image/ab67616d0000b273e22cf6897f58a1a0dbc6cf8b" alt="BLUSH" width="50" /> | BLUSH | nan |

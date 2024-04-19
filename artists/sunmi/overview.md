@@ -21,7 +21,7 @@ SUNMI is currently:
 ![Rank of SUNMI over time](../../images/artists/sunmi/rank_time_series.png)
 ## Top Tracks
 
-- Heart Burn is the #36 track of the last 6 months
+- Heart Burn is the #37 track of the last 6 months
 
 ### Top tracks, aggregated
 
@@ -125,11 +125,11 @@ SUNMI is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b78e41dc88b7ddda60738c9d" alt="" width="50" /> | Heart Burn | Heart Burn | [SUNMI](overview.md) | Abyss Company | 131 | 💚 | [🔗](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b78e41dc88b7ddda60738c9d" alt="" width="50" /> | Heart Burn | Heart Burn | [SUNMI](overview.md) | Abyss Company | 130 | 💚 | [🔗](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e33d84e471094fe701f06860" alt="" width="50" /> | Gashina | SUNMI SPECIAL EDITION [Gashina] | [SUNMI](overview.md) | Makeus Entertainment, The Black Label | 211 | 💚 | [🔗](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27373e1cb392676000445e9cbce" alt="" width="50" /> | Oh Sorry Ya | Oh Sorry Ya | [SUNMI](overview.md) | Abyss Company | 338 | 💚 | [🔗](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733de9733addfb0b91b8eb30b0" alt="" width="50" /> | STRANGER | STRANGER | [SUNMI](overview.md) | Abyss Company | 363 | 💚 | [🔗](https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b78e41dc88b7ddda60738c9d" alt="" width="50" /> | Childhood | Heart Burn | [SUNMI](overview.md) | Abyss Company | 634 | 💚 | [🔗](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27373e1cb392676000445e9cbce" alt="" width="50" /> | Oh Sorry Ya | Oh Sorry Ya | [SUNMI](overview.md) | Abyss Company | 343 | 💚 | [🔗](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733de9733addfb0b91b8eb30b0" alt="" width="50" /> | STRANGER | STRANGER | [SUNMI](overview.md) | Abyss Company | 364 | 💚 | [🔗](https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b78e41dc88b7ddda60738c9d" alt="" width="50" /> | Childhood | Heart Burn | [SUNMI](overview.md) | Abyss Company | 635 | 💚 | [🔗](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a916eb5cb60ec476b75fc807" alt="" width="50" /> | 24 Hours | 24 Hours | [SUNMI](overview.md) | [Republic Records](../../labels/republic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/4ayWErdGIvSo4o6a3lMVLt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b8c3953f7694fff8dcaec23f" alt="" width="50" /> | Siren | WARNING | [SUNMI](overview.md) | MAKEUS ENTERTAINMENT | nan | | [🔗](https://open.spotify.com/track/0gEnVDMhKKjF1qXuvBwq91) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cc9a4020b295d45b7255267" alt="" width="50" /> | pporappippam | pporappippam | [SUNMI](overview.md) | Makeus Entertainment | nan | 💚 | [🔗](https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU) |

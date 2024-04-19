@@ -19,7 +19,7 @@ None
 |:---|:---|:---|---:|---:|---:|
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 87 |
 | Moonlight | D-2 | Agust D | 0 | 2 | 74 |
-| Daechwita | D-2 | Agust D | 2 | 2 | 74 |
+| Daechwita | D-2 | Agust D | 1 | 2 | 74 |
 | Burn It (feat. MAX) | D-2 | Agust D | 0 | 2 | 74 |
 | People | D-2 | Agust D | 1 | 2 | 74 |
 | Strange (feat. RM) | D-2 | Agust D | 0 | 2 | 74 |
@@ -119,7 +119,7 @@ None
 | Call Me Mother | American | RuPaul | 0 | 0 | 57 |
 | Lose | Love Synonym #2 : Right for Us | WONHO | 1 | 1 | 45 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 68 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 46 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 45 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 56 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 46 |
 | Lost Woods | Zelda: Ocarina of Time - Piano | Wesley Sprayue | 0 | 0 | 41 |
