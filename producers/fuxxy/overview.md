@@ -4,17 +4,17 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Arranger | 10 |
+| Arranger | 11 |
 | Instrument | 3 |
 | Lyricist | 4 |
 | Songwriter | 4 |
-| Vocal | 1 |
+| Vocal | 2 |
 
 ## Produces for Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8e075c754be58cc33e30905a" alt="" width="50" /> | 9 | 9 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8e075c754be58cc33e30905a" alt="" width="50" /> | 10 | 10 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 1 | 1 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb06ffb2341b70acdcafa55599" alt="" width="50" /> | 1 | 1 | CHANGMO | [🔗](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) |
 | | 1 | 1 | Hongjoong of ATEEZ | [🔗](https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx) |
@@ -24,16 +24,16 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| 정은경 | [정은경 (Jung, Eun-Kyung)](../정은경_(jung,_eun-kyung)/overview.md) | 9 |
-| CHUNG HA | CHUNG HA | 5 |
+| 정은경 | [정은경 (Jung, Eun-Kyung)](../정은경_(jung,_eun-kyung)/overview.md) | 10 |
+| CHUNG HA | CHUNG HA | 6 |
 | 윤원권 | 윤원권 (Yoon, Won-kwon) | 5 |
 | VINCENZO | [VINCENZO](../vincenzo/overview.md) | 5 |
 | 양영은 | [양영은 (Yang, Young-eun)](../양영은_(yang,_young-eun)/overview.md) | 3 |
-| Mich Hansen | Mich Hansen | 2 |
+| 홍장미 | 홍장미 (Hong, Jangmi) | 2 |
 | Anna Timgren | Anna Timgren | 2 |
 | Cutfather | Cutfather | 2 |
+| Mich Hansen | Mich Hansen | 2 |
 | 조윤경 | [조윤경 (Jo, Yoon Kyung)](../조윤경_(jo,_yoon_kyung)/overview.md) | 2 |
-| 김재웅 | 김재웅 (Kim, Jae-ung) | 2 |
 
 
 <details>
@@ -41,29 +41,33 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
+| 김재웅 | 김재웅 (Kim, Jae-ung) | 2 |
 | 김지현 | 김지현 (Kim, Ji Hyun) | 2 |
+| 구종필 | [구종필 (Koo, Jong-Pil)](../구종필_(koo,_jong-pil)/overview.md) | 2 |
 | KLOË | KLOË (KLOE) | 1 |
 | Roberto Vazquez | Roberto Vazquez | 1 |
-| 구종필 | [구종필 (Koo, Jong-Pil)](../구종필_(koo,_jong-pil)/overview.md) | 1 |
 | Stay Tuned | Stay Tuned | 1 |
 | Sam Merrifield | Sam Merrifield | 1 |
 | Daniel Davidsen | Daniel Davidsen | 1 |
-| Rick Parkhouse | Rick Parkhouse | 1 |
-| Tom Hollings | Tom Hollings | 1 |
-| 홍장미 | 홍장미 (Hong, Jangmi) | 1 |
 | Daniel Mirza Salcedo | Daniel Mirza Salcedo | 1 |
+| Tom Hollings | Tom Hollings | 1 |
+| Rick Parkhouse | Rick Parkhouse | 1 |
 | Lao Ra | Lao Ra | 1 |
 | Daniel Kim | Daniel Kim | 1 |
 | Jeremy G | Jeremy G | 1 |
 | Celine Svanbäck | Celine Svanbäck (Svanbäck, Celine) | 1 |
 | Anne-Marie | Anne-Marie | 1 |
+| Digital Farm Animals | Digital Farm Animals | 1 |
 | DRK | DRK | 1 |
+| Jack Harvey | Jack Harvey | 1 |
 | 박재선 | 박재선 (Park, Jason) | 1 |
 | Sara Boe | Sara Boe | 1 |
 | Jeppe London Bilsby | Jeppe London Bilsby | 1 |
 | 창모 | 창모 (CHANGMO) | 1 |
 | luvssong | luvssong | 1 |
+| Maryjane | Maryjane | 1 |
 | Lucas | Lucas | 1 |
+| Joe Harvey | Joe Harvey | 1 |
 | BIBI | BIBI | 1 |
 | Red Triangle | Red Triangle | 1 |
 | Alawn | Alawn | 1 |
@@ -98,5 +102,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273df3abb2b0071d1b11200db47" alt="" width="50" /> | Killing Me | Arranger |
 | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Crazy Like You (feat. BIBI) | Arranger |
 | <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Sparkling | Arranger |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="" width="50" /> | I’m Ready | Arranger |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="" width="50" /> | EENIE MEENIE (Feat. Hongjoong of ATEEZ) | Arranger |
 | | nan | Arranger, Lyricist, Songwriter |

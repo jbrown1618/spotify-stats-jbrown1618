@@ -9,6 +9,8 @@
 [See Clusters](clusters/overview.md)
 
 ## Artist Rank
+Sia is currently:
+- The #45 artist of the last month
 
 ![Rank of Sia over time](../../images/artists/sia/rank_time_series.png)
 ## Top Tracks
@@ -21,10 +23,9 @@
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 8 | [Pop](../../playlists/pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e0298d4c378a8c78e84bfcf7743ab67616d00001e02b0ed835957dbf3c63184a3bcab67616d00001e02ca96a3471c3cb5128e64195fab67616d00001e02f6749fd9a1027b244f061e87" alt="" width="50" /> | 7 | [Alt-Pop](../../playlists/alt-pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0298d4c378a8c78e84bfcf7743ab67616d00001e02b0ed835957dbf3c63184a3bcab67616d00001e02ca96a3471c3cb5128e64195fab67616d00001e02f6749fd9a1027b244f061e87" alt="" width="50" /> | 8 | [Alt-Pop](../../playlists/alt-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 4 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020c053ee476f7ce576369241eab67616d00001e02119e4094f07a8123b471ac1dab67616d00001e022a0face7d69df61c20a6db2bab67616d00001e027c78b57a88c7c109176bc999" alt="" width="50" /> | 2 | [Christmas](../../playlists/christmas/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e023e8729bbf642d44e6e973e2dab67616d00001e0247ed0349f7557c5032e613d1ab67616d00001e0259a2a72ecab2e8b551eafe36ab67616d00001e02cf53b5c466a64daece07edc4" alt="" width="50" /> | 1 | [Check Out Later](../../playlists/check_out_later/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0203668e3f13559554eca8ccc6ab67616d00001e020eb56329734f9400c1639359ab67616d00001e0214ed51ab46ef0765182bb8a0ab67616d00001e02987a1825341694ec9bc62457" alt="" width="50" /> | 1 | [Tarps](../../playlists/tarps/overview.md) |
 
@@ -36,16 +37,16 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | 3 | 3 | This Is Acting (Deluxe Version) | 2016-10-21 | [🔗](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | 2 | 0 | Everyday Is Christmas (Deluxe Edition) | 2018-11-01 | [🔗](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a197a2ef3ad6704d1f44aa4e" alt="" width="50" /> | 1 | 1 | Nothing but the Beat 2.0 | 2011-08-24 | [🔗](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e503d029495d26255a63fb0f" alt="" width="50" /> | 1 | 0 | I Forgive You | 2024-04-12 | [🔗](https://open.spotify.com/album/3RPlxsjui6dOA6qMDBH70E) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e503d029495d26255a63fb0f" alt="" width="50" /> | 1 | 1 | I Forgive You | 2024-04-12 | [🔗](https://open.spotify.com/album/3RPlxsjui6dOA6qMDBH70E) |
 
 ## Top Record Labels
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 10 | 7 | [Monkey Puzzle](../../labels/monkey_puzzle/overview.md) |
+| 10 | 8 | [Monkey Puzzle](../../labels/monkey_puzzle/overview.md) |
 | 7 | 7 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
+| 3 | 1 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 1 | 1 | Parlophone (France) |
-| 3 | 0 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 
 ## Genres
 
@@ -116,7 +117,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | Santa's Coming for Us | Everyday Is Christmas (Deluxe Edition) | [Sia](overview.md) | [Atlantic Records](../../labels/atlantic_records), [Monkey Puzzle](../../labels/monkey_puzzle) | 378 | | [🔗](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | Santa's Coming for Us | Everyday Is Christmas (Deluxe Edition) | [Sia](overview.md) | [Atlantic Records](../../labels/atlantic_records), [Monkey Puzzle](../../labels/monkey_puzzle) | 381 | | [🔗](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a197a2ef3ad6704d1f44aa4e" alt="" width="50" /> | Titanium (feat. Sia) | Nothing but the Beat 2.0 | David Guetta, [Sia](overview.md) | Parlophone (France) | nan | 💚 | [🔗](https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | Big Girls Cry | 1000 Forms Of Fear (Deluxe Version) | [Sia](overview.md) | [Monkey Puzzle](../../labels/monkey_puzzle), [RCA Records Label](../../labels/rca_records_label) | nan | 💚 | [🔗](https://open.spotify.com/track/7zE6pyXLjUCOy8PG0UL5SZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | Chandelier | 1000 Forms Of Fear (Deluxe Version) | [Sia](overview.md) | [Monkey Puzzle](../../labels/monkey_puzzle), [RCA Records Label](../../labels/rca_records_label) | nan | 💚 | [🔗](https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV) |
@@ -133,7 +134,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273e503d029495d26255a63fb0f" alt="" width="50" /> | I Forgive You | I Forgive You | [Sia](overview.md) | [Atlantic Records](../../labels/atlantic_records), [Monkey Puzzle](../../labels/monkey_puzzle) | nan | | [🔗](https://open.spotify.com/track/2jh0kJheW38ljJucWMoaG6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e503d029495d26255a63fb0f" alt="" width="50" /> | I Forgive You | I Forgive You | [Sia](overview.md) | [Atlantic Records](../../labels/atlantic_records), [Monkey Puzzle](../../labels/monkey_puzzle) | nan | 💚 | [🔗](https://open.spotify.com/track/2jh0kJheW38ljJucWMoaG6) |
 
 </details>
 

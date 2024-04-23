@@ -9,7 +9,7 @@
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a197a2ef3ad6704d1f44aa4e" alt="" width="50" /> | Titanium (feat. Sia) | Nothing but the Beat 2.0 | David Guetta, [Sia](../../overview.md) | Parlophone (France) | nan | 💚 | [🔗](https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | Santa's Coming for Us | Everyday Is Christmas (Deluxe Edition) | [Sia](../../overview.md) | [Atlantic Records](../../../../labels/atlantic_records), [Monkey Puzzle](../../../../labels/monkey_puzzle) | 378 | | [🔗](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | Santa's Coming for Us | Everyday Is Christmas (Deluxe Edition) | [Sia](../../overview.md) | [Atlantic Records](../../../../labels/atlantic_records), [Monkey Puzzle](../../../../labels/monkey_puzzle) | 381 | | [🔗](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | Alive | This Is Acting (Deluxe Version) | [Sia](../../overview.md) | [Monkey Puzzle](../../../../labels/monkey_puzzle), [RCA Records Label](../../../../labels/rca_records_label) | nan | 💚 | [🔗](https://open.spotify.com/track/25R5Tdr4K7ENb6umHzdCXn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | Cheap Thrills | This Is Acting (Deluxe Version) | [Sia](../../overview.md) | [Monkey Puzzle](../../../../labels/monkey_puzzle), [RCA Records Label](../../../../labels/rca_records_label) | nan | 💚 | [🔗](https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | Bird Set Free | This Is Acting (Deluxe Version) | [Sia](../../overview.md) | [Monkey Puzzle](../../../../labels/monkey_puzzle), [RCA Records Label](../../../../labels/rca_records_label) | nan | 💚 | [🔗](https://open.spotify.com/track/6MowG7MRVgPfGlCMsXKMJ2) |
@@ -23,7 +23,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273e503d029495d26255a63fb0f" alt="" width="50" /> | I Forgive You | I Forgive You | [Sia](../../overview.md) | [Atlantic Records](../../../../labels/atlantic_records), [Monkey Puzzle](../../../../labels/monkey_puzzle) | nan | | [🔗](https://open.spotify.com/track/2jh0kJheW38ljJucWMoaG6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e503d029495d26255a63fb0f" alt="" width="50" /> | I Forgive You | I Forgive You | [Sia](../../overview.md) | [Atlantic Records](../../../../labels/atlantic_records), [Monkey Puzzle](../../../../labels/monkey_puzzle) | nan | 💚 | [🔗](https://open.spotify.com/track/2jh0kJheW38ljJucWMoaG6) |
 ## Cluster #3
 
 1 tracks

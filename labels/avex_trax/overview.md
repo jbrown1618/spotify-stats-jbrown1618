@@ -36,7 +36,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 8 | 4 | [k-pop](../../genres/k-pop/overview.md) |
+| 9 | 4 | [k-pop](../../genres/k-pop/overview.md) |
 | 4 | 2 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 2 | 0 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 1 | 0 | [j-pop](../../genres/j-pop/overview.md) |
@@ -49,8 +49,8 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731320580741caccf7a285ebc3" alt="" width="50" /> | THE CHRISTMAS SONG | メリクリ | [BoA](../../artists/boa/overview.md) | [avex trax](.) | 323 | | [🔗](https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d750d969d227e6506a2c176" alt="" width="50" /> | Marionette | Bloom | [Red Velvet](../../artists/red_velvet/overview.md) | [avex trax](.) | 397 | 💚 | [🔗](https://open.spotify.com/track/3KvMgB5V1FvQTCvvHz5aiO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731320580741caccf7a285ebc3" alt="" width="50" /> | THE CHRISTMAS SONG | メリクリ | [BoA](../../artists/boa/overview.md) | [avex trax](.) | 327 | | [🔗](https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d750d969d227e6506a2c176" alt="" width="50" /> | Marionette | Bloom | [Red Velvet](../../artists/red_velvet/overview.md) | [avex trax](.) | 399 | 💚 | [🔗](https://open.spotify.com/track/3KvMgB5V1FvQTCvvHz5aiO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="" width="50" /> | Boys & Girls | A BEST | Ayumi Hamasaki | [avex trax](.) | nan | | [🔗](https://open.spotify.com/track/0QcVKhVp9iHGZ1pj04yTbO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27397c91b59710371bdbc0138fe" alt="" width="50" /> | SCREAM | SCREAM | [TVXQ!](../../artists/tvxq!/overview.md) | [avex trax](.) | nan | | [🔗](https://open.spotify.com/track/7BXpFBu8T1uW4dJLycAM6d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739acd884a943f3630236a5ca3" alt="" width="50" /> | #Cookie Jar | #Cookie Jar | [Red Velvet](../../artists/red_velvet/overview.md) | [avex trax](.) | nan | | [🔗](https://open.spotify.com/track/3UgPJrKvOaTFgZ185X80Dx) |

@@ -27,5 +27,5 @@
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | Maybe They're Magic | Into The Woods (2022 Broadway Cast Recording) | [Sara Bareilles](../../../../artists/sara_bareilles/overview.md), Brian D'Arcy James | [Craft Recordings](../..) | nan | | [🔗](https://open.spotify.com/track/6Aj19aOQntdfSpHDl9DxOw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | Giants In The Sky | Into The Woods (2022 Broadway Cast Recording) | Cole Thompson | [Craft Recordings](../..) | 291 | | [🔗](https://open.spotify.com/track/3RDesmUopi3TgcFJdPAZnN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | Giants In The Sky | Into The Woods (2022 Broadway Cast Recording) | Cole Thompson | [Craft Recordings](../..) | 296 | | [🔗](https://open.spotify.com/track/3RDesmUopi3TgcFJdPAZnN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="" width="50" /> | L-O-V-E | Unforgettable: With Love | Natalie Cole | [Craft Recordings](../..) | nan | | [🔗](https://open.spotify.com/track/637xWjdmJY7CAQJsnsT7Fs) |
