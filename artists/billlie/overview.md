@@ -22,13 +22,12 @@ Billlie:
 ## Artist Rank
 Billlie is currently:
 - The #36 artist of the last 6 months
-- The #24 artist of all time
+- The #23 artist of all time
 
 ![Rank of Billlie over time](../../images/artists/billlie/rank_time_series.png)
 ## Top Tracks
 
-- RING X RING is the #30 track of all time
-- enchanted night ~ white night is the #34 track of all time
+- enchanted night ~ white night is the #33 track of all time
 
 ### Top tracks, aggregated
 
@@ -53,7 +52,7 @@ Billlie is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024897a7925914a3a10ce68c31ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e02bf5f4138ebc9ba3fd6f0cde9ab67616d00001e02d8856d19e1f5784ed643d862" alt="" width="50" /> | 1 | [Recommendations for Jeff](../../playlists/recommendations_for_jeff/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e023613e1e0d35867a0814005a9ab67616d00001e024a8e5eaab8b02db02e487c27ab67616d00001e0259fcda8d47bbd0f6c2bf1647ab67616d00001e028bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 1 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0282b88b49dd9a1b387cb3f0c6ab67616d00001e0293f60760427ff9cb94a5ba96ab67616d00001e02d2ef237da7f94762997c2083ab67616d00001e02e9cd59d664f597061a513038" alt="" width="50" /> | 1 | [Classical Samples](../../playlists/classical_samples/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e020c053ee476f7ce576369241eab67616d00001e02119e4094f07a8123b471ac1dab67616d00001e022a0face7d69df61c20a6db2bab67616d00001e027c78b57a88c7c109176bc999" alt="" width="50" /> | 1 | [Christmas](../../playlists/christmas/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e020c053ee476f7ce576369241eab67616d00001e02119e4094f07a8123b471ac1dab67616d00001e022a0face7d69df61c20a6db2bab67616d00001e02cfbcba7cc35a40e08e5aff67" alt="" width="50" /> | 1 | [Christmas](../../playlists/christmas/overview.md) |
 
 ## Top Albums
 
@@ -122,11 +121,11 @@ Billlie is currently:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="" width="50" /> | RING X RING | the Billage of perception : chapter one | [Billlie](overview.md) | [MYSTIC STORY](../../labels/mystic_story) | 62 | 💚 | [🔗](https://open.spotify.com/track/4hfF0FOFcaiOtwY3NP5hnv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | enchanted night ~ white night | the Billage of perception: chapter three | [Billlie](overview.md) | [MYSTIC STORY](../../labels/mystic_story) | 85 | 💚 | [🔗](https://open.spotify.com/track/0rTXn4ovXalJGkJMx5hsnX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | EUNOIA | the Billage of perception: chapter three | [Billlie](overview.md) | [MYSTIC STORY](../../labels/mystic_story) | 105 | 💚 | [🔗](https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | EUNOIA | the Billage of perception: chapter three | [Billlie](overview.md) | [MYSTIC STORY](../../labels/mystic_story) | 107 | 💚 | [🔗](https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738232e1aaaf4c9ed4b6946ce8" alt="" width="50" /> | RING ma Bell (what a wonderful world) | the Billage of perception: chapter two | [Billlie](overview.md) | [MYSTIC STORY](../../labels/mystic_story) | 180 | 💚 | [🔗](https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | nevertheless | the Billage of perception: chapter three | [Billlie](overview.md) | [MYSTIC STORY](../../labels/mystic_story) | 532 | 💚 | [🔗](https://open.spotify.com/track/26fVl2CYeXXxD4yEqmhrpM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="" width="50" /> | everybody's got a $ECRET | the Billage of perception : chapter one | [Billlie](overview.md) | [MYSTIC STORY](../../labels/mystic_story) | 542 | 💚 | [🔗](https://open.spotify.com/track/490hT7WcJnqR69Tgb7uY2U) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27337392cac38ca8efa2315b04e" alt="" width="50" /> | overlap (1/1) | the collective soul and unconscious: chapter one | [Billlie](overview.md) | [MYSTIC STORY](../../labels/mystic_story) | 625 | 💚 | [🔗](https://open.spotify.com/track/3VMbll8GQGlE1WuWaTPtxJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | nevertheless | the Billage of perception: chapter three | [Billlie](overview.md) | [MYSTIC STORY](../../labels/mystic_story) | 534 | 💚 | [🔗](https://open.spotify.com/track/26fVl2CYeXXxD4yEqmhrpM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="" width="50" /> | everybody's got a $ECRET | the Billage of perception : chapter one | [Billlie](overview.md) | [MYSTIC STORY](../../labels/mystic_story) | 545 | 💚 | [🔗](https://open.spotify.com/track/490hT7WcJnqR69Tgb7uY2U) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27337392cac38ca8efa2315b04e" alt="" width="50" /> | overlap (1/1) | the collective soul and unconscious: chapter one | [Billlie](overview.md) | [MYSTIC STORY](../../labels/mystic_story) | 626 | 💚 | [🔗](https://open.spotify.com/track/3VMbll8GQGlE1WuWaTPtxJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="" width="50" /> | flipp!ng a coin | the Billage of perception : chapter one | [Billlie](overview.md) | [MYSTIC STORY](../../labels/mystic_story) | nan | | [🔗](https://open.spotify.com/track/2UQLDRnG7IwlXrdmYTA6sv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="" width="50" /> | the eleventh day | the Billage of perception : chapter one | [Billlie](overview.md) | [MYSTIC STORY](../../labels/mystic_story) | nan | 💚 | [🔗](https://open.spotify.com/track/4YldhqpCghwJalBtiCRtl1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eca5679f2e7cab0dd314fce3" alt="" width="50" /> | snowy night | the collective soul and unconscious: snowy night | [Billlie](overview.md) | [MYSTIC STORY](../../labels/mystic_story) | nan | | [🔗](https://open.spotify.com/track/7ajApbhtm75giJ9Sj6qRnO) |

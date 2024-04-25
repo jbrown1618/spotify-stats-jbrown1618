@@ -11,13 +11,14 @@
 ## Artist Rank
 Sara Bareilles is currently:
 - The #7 artist of the last month
-- The #11 artist of the last 6 months
-- The #15 artist of all time
+- The #10 artist of the last 6 months
+- The #14 artist of all time
 
 ![Rank of Sara Bareilles over time](../../images/artists/sara_bareilles/rank_time_series.png)
 ## Top Tracks
 
-- Fairytale is the #18 track of the last month
+- Manhattan is the #46 track of the last month
+- Fairytale is the #50 track of the last month
 
 ### Top tracks, aggregated
 
@@ -35,7 +36,7 @@ Sara Bareilles is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022c0252c4e4a988f024e4d262ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 3 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02792cd65d020fd66224b5b025ab67616d00001e02807cc4e6a97c1a67c8b69803ab67616d00001e02a1113af3a19a41dc8eec534eab67616d00001e02cb81eb3c1238c60f2bbfd3b5" alt="" width="50" /> | 1 | [Jazz](../../playlists/jazz/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e025d990e8b45c848dc22885f89ab67616d00001e0262f44cdb37183a309fc1032fab67616d00001e0284470dd6235917e2e40e11f0ab67616d00001e02bb7018e16a77e5ce4744fa93" alt="" width="50" /> | 1 | [A Cappella](../../playlists/a_cappella/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e020c053ee476f7ce576369241eab67616d00001e02119e4094f07a8123b471ac1dab67616d00001e022a0face7d69df61c20a6db2bab67616d00001e027c78b57a88c7c109176bc999" alt="" width="50" /> | 1 | [Christmas](../../playlists/christmas/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e020c053ee476f7ce576369241eab67616d00001e02119e4094f07a8123b471ac1dab67616d00001e022a0face7d69df61c20a6db2bab67616d00001e02cfbcba7cc35a40e08e5aff67" alt="" width="50" /> | 1 | [Christmas](../../playlists/christmas/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0203668e3f13559554eca8ccc6ab67616d00001e020eb56329734f9400c1639359ab67616d00001e0214ed51ab46ef0765182bb8a0ab67616d00001e02987a1825341694ec9bc62457" alt="" width="50" /> | 1 | [Tarps](../../playlists/tarps/overview.md) |
 
 ## Top Albums
@@ -196,16 +197,16 @@ Sara Bareilles is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Many the Miles | Little Voice | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 264 | 💚 | [🔗](https://open.spotify.com/track/03kCR9HZpX5muU7D8xYPOL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Fairytale | Little Voice | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 323 | 💚 | [🔗](https://open.spotify.com/track/1q8eyTNRSGEAqSvTATTgIG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Lie To Me | Once Upon Another Time | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 351 | 💚 | [🔗](https://open.spotify.com/track/15zarGPJkaG3btC3Co7Luo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | I Choose You | The Blessed Unrest | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 397 | 💚 | [🔗](https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Machine Gun | Kaleidoscope Heart | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 420 | 💚 | [🔗](https://open.spotify.com/track/2ZfnsQ81jNuY4MHAshnxyp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Between the Lines | Little Voice | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 482 | 💚 | [🔗](https://open.spotify.com/track/2t3b5MZMzsArvQflOUo804) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Manhattan | The Blessed Unrest | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 529 | 💚 | [🔗](https://open.spotify.com/track/0aSgzAUObtmSSwh1yO6shv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Not Alone | Kaleidoscope Heart | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 556 | 💚 | [🔗](https://open.spotify.com/track/5ksNgN3RWCBbq2sUB1KoNv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Poetry by Dead Men | Amidst the Chaos (Bonus Version) | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 585 | | [🔗](https://open.spotify.com/track/1rY7zvbYYWaj1OVa3YlwLv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Hercules | The Blessed Unrest | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 634 | 💚 | [🔗](https://open.spotify.com/track/1Ng4tk8lYfiwXbw4t8gdA2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Many the Miles | Little Voice | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 268 | 💚 | [🔗](https://open.spotify.com/track/03kCR9HZpX5muU7D8xYPOL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Fairytale | Little Voice | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 325 | 💚 | [🔗](https://open.spotify.com/track/1q8eyTNRSGEAqSvTATTgIG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Lie To Me | Once Upon Another Time | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 354 | 💚 | [🔗](https://open.spotify.com/track/15zarGPJkaG3btC3Co7Luo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | I Choose You | The Blessed Unrest | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 399 | 💚 | [🔗](https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Machine Gun | Kaleidoscope Heart | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 421 | 💚 | [🔗](https://open.spotify.com/track/2ZfnsQ81jNuY4MHAshnxyp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Between the Lines | Little Voice | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 481 | 💚 | [🔗](https://open.spotify.com/track/2t3b5MZMzsArvQflOUo804) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Manhattan | The Blessed Unrest | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 526 | 💚 | [🔗](https://open.spotify.com/track/0aSgzAUObtmSSwh1yO6shv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Not Alone | Kaleidoscope Heart | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 559 | 💚 | [🔗](https://open.spotify.com/track/5ksNgN3RWCBbq2sUB1KoNv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Poetry by Dead Men | Amidst the Chaos (Bonus Version) | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 586 | | [🔗](https://open.spotify.com/track/1rY7zvbYYWaj1OVa3YlwLv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Hercules | The Blessed Unrest | [Sara Bareilles](overview.md) | [Epic](../../labels/epic) | 638 | 💚 | [🔗](https://open.spotify.com/track/1Ng4tk8lYfiwXbw4t8gdA2) |
 
 
 <details>

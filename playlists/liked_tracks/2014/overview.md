@@ -12,8 +12,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | 2 | 2 | Hozier | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 2 | 2 | [Red Velvet](../../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | 2 | 2 | [MAMAMOO](../../../artists/mamamoo/overview.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 2 | 2 | [Girls' Generation](../../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61769824ec381aca10903955" alt="" width="50" /> | 1 | 1 | Wyvern Lingo | [🔗](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | 1 | 1 | [Eminem](../../../artists/eminem/overview.md) | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
 
 
 <details>
@@ -21,6 +21,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | 1 | 1 | [Eminem](../../../artists/eminem/overview.md) | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe82185df85c3b8d172f1f4a7" alt="" width="50" /> | 1 | 1 | Junggigo | [🔗](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb496189630cd3cb0c7b593fee" alt="" width="50" /> | 1 | 1 | TAEYANG | [🔗](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | 1 | 1 | [Kimbra](../../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
@@ -46,7 +47,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3" alt="" width="50" /> | 1 | 1 | Lorde | [🔗](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba9add5f319d70026d4f3b8a1" alt="" width="50" /> | 1 | 1 | Rixton | [🔗](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | 1 | 1 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 1 | 1 | [Girls' Generation](../../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="" width="50" /> | 1 | 1 | [Maroon 5](../../../artists/maroon_5/overview.md) | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 1 | 1 | [Lana Del Rey](../../../artists/lana_del_rey/overview.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 
@@ -61,12 +61,12 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | 4 | 4 | PTX, Vol. III | 2014-09-23 | [🔗](https://open.spotify.com/album/32y54TelUHSUDWVOx4h1B4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | 4 | 4 | My Everything (Deluxe) | 2014-08-22 | [🔗](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="" width="50" /> | 2 | 2 | PLAY | 2014-04-07 | [🔗](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27341e9e282e569b2279c2171de" alt="" width="50" /> | 2 | 2 | Mr. Mr. - The 4th Mini Album | 2014-02-24 | [🔗](https://open.spotify.com/album/1WyHAY8OWdfCFWTF0Ufwjj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="" width="50" /> | 2 | 2 | Hozier (Expanded Edition) | 2014-09-19 | [🔗](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ccd9a8fe25e9ae6039ac6ce6" alt="" width="50" /> | 1 | 1 | 행복(Happiness) | 2014-08-01 | [🔗](https://open.spotify.com/album/6MMkaYzyM0aLZmDBce3nL6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27374b226f1b53ca4902dedce2a" alt="" width="50" /> | 1 | 1 | Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1) | 2014-09-30 | [🔗](https://open.spotify.com/album/7sg5iqMiDrM2aJqLAmv83V) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c" alt="" width="50" /> | 1 | 1 | V | 2014-09-02 | [🔗](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | 1 | 1 | Ultraviolence (Deluxe) | 2014-01-01 | [🔗](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736fbd5300d0f51be963360367" alt="" width="50" /> | 1 | 1 | The Widow Knows E.P. | 2014-08-14 | [🔗](https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe) |
 
 
 <details>
@@ -74,6 +74,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2736fbd5300d0f51be963360367" alt="" width="50" /> | 1 | 1 | The Widow Knows E.P. | 2014-08-14 | [🔗](https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369b3dd10eee85bb2652c3b05" alt="" width="50" /> | 1 | 1 | The Golden Echo | 2014-08-15 | [🔗](https://open.spotify.com/album/66hoUkjxM7tVQwu7bZocwP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | 1 | 1 | TOUCH N MOVE | 2014-07-21 | [🔗](https://open.spotify.com/album/0SeSM1CAqu7QUkive4jCKl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361166666e32b86c3e9a7b78b" alt="" width="50" /> | 1 | 1 | Some | 2014-02-07 | [🔗](https://open.spotify.com/album/2r1oAmMSnUasXigJ2fTwk6) |
@@ -85,7 +86,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="" width="50" /> | 1 | 1 | Piano Man | 2014-11-21 | [🔗](https://open.spotify.com/album/1kdURRaOTpDCQqsVIU5CiT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="" width="50" /> | 1 | 1 | PTX | 2014-09-19 | [🔗](https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e2a93f34e3c52c12f2a5578f" alt="" width="50" /> | 1 | 1 | New Eyes | 2014-06-02 | [🔗](https://open.spotify.com/album/4a6DxkhmMvvEdPXxm4ergN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27341e9e282e569b2279c2171de" alt="" width="50" /> | 1 | 1 | Mr. Mr. - The 4th Mini Album | 2014-02-24 | [🔗](https://open.spotify.com/album/1WyHAY8OWdfCFWTF0Ufwjj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27336adcea4e93245f1fec547df" alt="" width="50" /> | 1 | 1 | MINISKIRT | 2014-01-16 | [🔗](https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbb82cf845a6d574224a0d33" alt="" width="50" /> | 1 | 1 | MAMACITA - The 7th Album | 2014-08-29 | [🔗](https://open.spotify.com/album/53i190Z2uGOLljuS3DCvz2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="" width="50" /> | 1 | 1 | Let The Road | 2014-01-01 | [🔗](https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd) |
@@ -106,16 +106,16 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2735c041fe9e3c9de436047d86b" alt="" width="50" /> | I Am The Best | I Am The Best | 2NE1 | Capitol Records (CAP) | 30 | 💚 | [🔗](https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="" width="50" /> | 눈,코,입 (Eyes, Nose, Lips) | RISE | TAEYANG | [YG Entertainment](../../../labels/yg_entertainment) | 47 | 💚 | [🔗](https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | Problem | My Everything (Deluxe) | [Ariana Grande](../../../artists/ariana_grande/overview.md), Iggy Azalea | [Universal Records](../../../labels/universal_music_llc) | 244 | 💚 | [🔗](https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="" width="50" /> | Me And My Broken Heart | Let The Road | Rixton | Silent Records/Giant Little Man | 288 | 💚 | [🔗](https://open.spotify.com/track/1oew3nFNY3vMacJAsvry0S) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | Shades Of Cool | Ultraviolence (Deluxe) | [Lana Del Rey](../../../artists/lana_del_rey/overview.md) | [Polydor Records](../../../labels/polydor_records) | 360 | 💚 | [🔗](https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c041fe9e3c9de436047d86b" alt="" width="50" /> | I Am The Best | I Am The Best | 2NE1 | Capitol Records (CAP) | 31 | 💚 | [🔗](https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="" width="50" /> | 눈,코,입 (Eyes, Nose, Lips) | RISE | TAEYANG | [YG Entertainment](../../../labels/yg_entertainment) | 48 | 💚 | [🔗](https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | Problem | My Everything (Deluxe) | [Ariana Grande](../../../artists/ariana_grande/overview.md), Iggy Azalea | [Universal Records](../../../labels/universal_music_llc) | 245 | 💚 | [🔗](https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="" width="50" /> | Me And My Broken Heart | Let The Road | Rixton | Silent Records/Giant Little Man | 295 | 💚 | [🔗](https://open.spotify.com/track/1oew3nFNY3vMacJAsvry0S) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | Shades Of Cool | Ultraviolence (Deluxe) | [Lana Del Rey](../../../artists/lana_del_rey/overview.md) | [Polydor Records](../../../labels/polydor_records) | 361 | 💚 | [🔗](https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Problem (Ariana Grande Cover) | PTX, Vol. III | [Pentatonix](../../../artists/pentatonix/overview.md) | [RCA Records Label](../../../labels/rca_records_label) | 433 | 💚 | [🔗](https://open.spotify.com/track/45h4cCw7ccsRXb0Orle2an) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dbb82cf845a6d574224a0d33" alt="" width="50" /> | Mamacita (아야야) | MAMACITA - The 7th Album | [SUPER JUNIOR](../../../artists/super_junior/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 504 | 💚 | [🔗](https://open.spotify.com/track/23z7nLq4CD83EyzeeIokkt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27367f8236540d6f145e2f0baa1" alt="" width="50" /> | Mr-Ambiguous | HELLO | [MAMAMOO](../../../artists/mamamoo/overview.md) | [Genie Music Corporation](../../../labels/genie_music_corporation), [Stone Music Entertainment](../../../labels/stone_music_entertainment) | 568 | 💚 | [🔗](https://open.spotify.com/track/4VOZzJeoNhvvTaGTztogVt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="" width="50" /> | Melted | PLAY | [AKMU](../../../artists/akmu/overview.md) | [YG Entertainment](../../../labels/yg_entertainment) | 607 | 💚 | [🔗](https://open.spotify.com/track/2tYPFWrbGbsGKafe5pP64z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ccd9a8fe25e9ae6039ac6ce6" alt="" width="50" /> | 행복 (Happiness) | 행복(Happiness) | [Red Velvet](../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 630 | 💚 | [🔗](https://open.spotify.com/track/6XP9L7di5JnOc9WaeAW8oe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dbb82cf845a6d574224a0d33" alt="" width="50" /> | Mamacita (아야야) | MAMACITA - The 7th Album | [SUPER JUNIOR](../../../artists/super_junior/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 505 | 💚 | [🔗](https://open.spotify.com/track/23z7nLq4CD83EyzeeIokkt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367f8236540d6f145e2f0baa1" alt="" width="50" /> | Mr-Ambiguous | HELLO | [MAMAMOO](../../../artists/mamamoo/overview.md) | [Genie Music Corporation](../../../labels/genie_music_corporation), [Stone Music Entertainment](../../../labels/stone_music_entertainment) | 569 | 💚 | [🔗](https://open.spotify.com/track/4VOZzJeoNhvvTaGTztogVt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="" width="50" /> | Melted | PLAY | [AKMU](../../../artists/akmu/overview.md) | [YG Entertainment](../../../labels/yg_entertainment) | 606 | 💚 | [🔗](https://open.spotify.com/track/2tYPFWrbGbsGKafe5pP64z) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ccd9a8fe25e9ae6039ac6ce6" alt="" width="50" /> | 행복 (Happiness) | 행복(Happiness) | [Red Velvet](../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 632 | 💚 | [🔗](https://open.spotify.com/track/6XP9L7di5JnOc9WaeAW8oe) |
 
 
 <details>
@@ -123,13 +123,14 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="" width="50" /> | Piano Man | Piano Man | [MAMAMOO](../../../artists/mamamoo/overview.md) | [Genie Music Corporation](../../../labels/genie_music_corporation), [Stone Music Entertainment](../../../labels/stone_music_entertainment) | 697 | 💚 | [🔗](https://open.spotify.com/track/2CC7fLFEcJBrO82NUwi9Op) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="" width="50" /> | Dracula | Red Light - The 3rd Album | [f(x)](../../../artists/f(x)/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 709 | 💚 | [🔗](https://open.spotify.com/track/5vClivCCQDK6sxmL6MhMFc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="" width="50" /> | Piano Man | Piano Man | [MAMAMOO](../../../artists/mamamoo/overview.md) | [Genie Music Corporation](../../../labels/genie_music_corporation), [Stone Music Entertainment](../../../labels/stone_music_entertainment) | 701 | 💚 | [🔗](https://open.spotify.com/track/2CC7fLFEcJBrO82NUwi9Op) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="" width="50" /> | Dracula | Red Light - The 3rd Album | [f(x)](../../../artists/f(x)/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 715 | 💚 | [🔗](https://open.spotify.com/track/5vClivCCQDK6sxmL6MhMFc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27336adcea4e93245f1fec547df" alt="" width="50" /> | Miniskirt | MINISKIRT | AOA | [FNC ENTERTAINMENT](../../../labels/fnc_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | Say Something | Is There Anybody Out There? | A Great Big World, Christina Aguilera | [Epic](../../../labels/epic) | nan | 💚 | [🔗](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361166666e32b86c3e9a7b78b" alt="" width="50" /> | Some (feat. Lil Boi) | Some | SOYOU, Junggigo, lIlBOI | Starship Ent. | nan | 💚 | [🔗](https://open.spotify.com/track/0g1AmSKokPboFrxmG1dxKx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | Boy in Luv | Skool Luv Affair | [BTS](../../../artists/bts/overview.md) | [BIGHIT MUSIC](../../../labels/bighit_music) | nan | 💚 | [🔗](https://open.spotify.com/track/3FnDv33WrrMtuEr7hNR3ev) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27341e9e282e569b2279c2171de" alt="" width="50" /> | Mr.Mr. | Mr. Mr. - The 4th Mini Album | [Girls' Generation](../../../artists/girls__generation/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/3JaMGQXJmtbAhvgl0nBPPN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27341e9e282e569b2279c2171de" alt="" width="50" /> | Soul | Mr. Mr. - The 4th Mini Album | [Girls' Generation](../../../artists/girls__generation/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/76ssTbsB9z3eXcAfcEx19r) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="" width="50" /> | 200% | PLAY | [AKMU](../../../artists/akmu/overview.md) | [YG Entertainment](../../../labels/yg_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="" width="50" /> | Shatter Me Featuring Lzzy Hale | Shatter Me | [Lindsey Stirling](../../../artists/lindsey_stirling/overview.md) | Lindseystomp Records | nan | 💚 | [🔗](https://open.spotify.com/track/2K7j4xrQENCi5r3Hii4cVe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8ac90d6852487a82df1b443" alt="" width="50" /> | Pierrot laughs at us | A flower bookmark | [IU](../../../artists/iu/overview.md) | [Kakao Entertainment](../../../labels/kakao_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) |

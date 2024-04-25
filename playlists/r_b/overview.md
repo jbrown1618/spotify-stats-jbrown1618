@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e0245680a4a57c97894490a01c1ab67616d00001e0289992f4d7d4ab94937bf9e23ab67616d00001e02e13de7b8662b085b0885ffefab67616d00001e02ff5429125128b43572dbdccd" alt="R&amp;B" width="100" />
 
-[113 tracks (85 liked) 🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb)
+[114 tracks (85 liked) 🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb)
 
 [See Track Features](audio_features.md)
 
@@ -18,8 +18,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 11 | 10 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | 9 | 8 | [Janelle Monáe](../../artists/janelle_monáe/overview.md) | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="" width="50" /> | 6 | 5 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 7 | 3 | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | 6 | 3 | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 6 | 3 | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 | <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | 4 | 3 | Stevie Wonder | [🔗](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | 3 | 3 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb716114797a4a644c67c5fa72" alt="" width="50" /> | 4 | 2 | USHER | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
@@ -115,16 +115,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="SOS" width="50" /> | Kill Bill | 250 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | [Leave The Door Open](../../artists/bruno_mars/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738136c2c2762cba40cb51f9aa" alt="The Evolution" width="50" /> | Get Up (feat. Chamillionaire) | 268 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="Loud" width="50" /> | [S&M](../../artists/rihanna/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | [What Now](../../artists/rihanna/overview.md) | 271 | <img src="https://i.scdn.co/image/ab67616d0000b273e859698c8fe21d42a13ec252" alt="SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)" width="50" /> | SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="SOS" width="50" /> | Kill Bill | 251 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | [Leave The Door Open](../../artists/bruno_mars/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738136c2c2762cba40cb51f9aa" alt="The Evolution" width="50" /> | Get Up (feat. Chamillionaire) | 274 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="Loud" width="50" /> | [S&M](../../artists/rihanna/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | [What Now](../../artists/rihanna/overview.md) | 277 | <img src="https://i.scdn.co/image/ab67616d0000b273e859698c8fe21d42a13ec252" alt="SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)" width="50" /> | SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="ELVIS (Original Motion Picture Soundtrack)" width="50" /> | [Vegas](../../artists/doja_cat/overview.md) | 384 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="Good Girl Gone Bad: Reloaded" width="50" /> | [Don't Stop The Music](../../artists/rihanna/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="Yoga" width="50" /> | [Yoga](../../artists/janelle_monáe/overview.md) | 464 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="Doo-Wops &amp; Hooligans" width="50" /> | [The Other Side (feat. CeeLo Green and B.o.B)](../../artists/bruno_mars/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="After Hours" width="50" /> | Blinding Lights | 538 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="All I Want Is You" width="50" /> | Sure Thing | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="Metropolis: The Chase Suite (Special Edition)" width="50" /> | [Sincerely, Jane](../../artists/janelle_monáe/overview.md) | 544 | <img src="https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17" alt="Red Moon In Venus" width="50" /> | Moonlight | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="Yoga" width="50" /> | [Yoga](../../artists/janelle_monáe/overview.md) | 463 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="Doo-Wops &amp; Hooligans" width="50" /> | [The Other Side (feat. CeeLo Green and B.o.B)](../../artists/bruno_mars/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="After Hours" width="50" /> | Blinding Lights | 540 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="All I Want Is You" width="50" /> | Sure Thing | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="Metropolis: The Chase Suite (Special Edition)" width="50" /> | [Sincerely, Jane](../../artists/janelle_monáe/overview.md) | 547 | <img src="https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17" alt="Red Moon In Venus" width="50" /> | Moonlight | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | [Stay](../../artists/rihanna/overview.md) | 658 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | [That's What I Like](../../artists/bruno_mars/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="Unorthodox Jukebox" width="50" /> | [When I Was Your Man](../../artists/bruno_mars/overview.md) | 715 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="Talk That Talk" width="50" /> | [We Found Love](../../artists/rihanna/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="Everything Is 4" width="50" /> | [Get Ugly](../../artists/jason_derulo/overview.md) | 741 | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="Dangerously In Love" width="50" /> | [Naughty Girl](../../artists/beyoncé/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="Unorthodox Jukebox" width="50" /> | [When I Was Your Man](../../artists/bruno_mars/overview.md) | 692 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="Talk That Talk" width="50" /> | [We Found Love](../../artists/rihanna/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="Everything Is 4" width="50" /> | [Get Ugly](../../artists/jason_derulo/overview.md) | 744 | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="Dangerously In Love" width="50" /> | [Naughty Girl](../../artists/beyoncé/overview.md) | nan |
 
 </details>
 
@@ -145,7 +145,7 @@
 
 
 <details>
-<summary>See all 83 albums</summary>
+<summary>See all 84 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -212,6 +212,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8245ce2a727675a0a232b2f" alt="" width="50" /> | 1 | 0 | Preach | 2019-02-15 | [🔗](https://open.spotify.com/album/32r4o1R9a1lK5DoVXGEC7E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f52b26a6ddd6376f966e509" alt="" width="50" /> | 1 | 0 | Pandora : Beneath the Paradise, Pt. 3 (Original Television Soundtrack) | 2023-04-02 | [🔗](https://open.spotify.com/album/28afuQsobhUrDWQRaJWclH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="" width="50" /> | 1 | 0 | Meet The Temptations | 1964 | [🔗](https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8e77075414234fd77fce32b" alt="" width="50" /> | 1 | 0 | Malibu | 2016-01-15 | [🔗](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="" width="50" /> | 1 | 0 | Love's Train | 2022-02-14 | [🔗](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273260e2444b3431b3b8b559bc3" alt="" width="50" /> | 1 | 0 | Jordin Sparks | 2007-11-20 | [🔗](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="" width="50" /> | 1 | 0 | In My Own Words | 2006-01-01 | [🔗](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) |
@@ -245,7 +246,7 @@
 
 
 <details>
-<summary>See all 51 labels</summary>
+<summary>See all 55 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -286,9 +287,13 @@
 | 1 | 1 | Def Jam |
 | 1 | 1 | Arista |
 | 1 | 1 | ATL |
+| 1 | 0 | Steel Wool |
+| 1 | 0 | OBE |
 | 1 | 0 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
+| 1 | 0 | EMPIRE |
 | 1 | 0 | Def Soul |
 | 1 | 0 | Castle Communications |
+| 1 | 0 | Art Club |
 | 1 | 0 | 19 Recordings Limited |
 
 </details>
@@ -304,7 +309,7 @@
 | 42 | 29 | [r&b](../../genres/r_b/overview.md) |
 | 35 | 24 | [dance pop](../../genres/dance_pop/overview.md) |
 | 27 | 19 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
-| 17 | 15 | neo soul |
+| 18 | 15 | neo soul |
 | 14 | 11 | atl hip hop |
 | 12 | 11 | alternative r&b |
 | 11 | 10 | barbadian pop |
@@ -313,7 +318,7 @@
 
 
 <details>
-<summary>See all 52 genres</summary>
+<summary>See all 54 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -328,6 +333,7 @@
 | 4 | 1 | memphis soul |
 | 4 | 1 | classic soul |
 | 2 | 1 | pop rap |
+| 2 | 1 | escape room |
 | 1 | 1 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
 | 1 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
 | 1 | 1 | uk dance |
@@ -346,7 +352,6 @@
 | 1 | 1 | ghanaian pop |
 | 1 | 1 | ghanaian alternative |
 | 1 | 1 | funk |
-| 1 | 1 | escape room |
 | 1 | 1 | disco |
 | 1 | 1 | colombian pop |
 | 1 | 1 | [canadian pop](../../genres/canadian_pop/overview.md) |
@@ -357,6 +362,8 @@
 | 1 | 1 | [adult standards](../../genres/adult_standards/overview.md) |
 | 1 | 0 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 1 | 0 | [k-pop](../../genres/k-pop/overview.md) |
+| 1 | 0 | indie soul |
+| 1 | 0 | [hip hop](../../genres/hip_hop/overview.md) |
 | 1 | 0 | girl group |
 | 1 | 0 | bubblegum pop |
 

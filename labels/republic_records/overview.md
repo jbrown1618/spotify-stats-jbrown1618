@@ -1,6 +1,6 @@
 # Republic Records
 
-191 songs
+192 songs
 
 [See Track Features](audio_features.md)
 
@@ -11,7 +11,7 @@ Appears as:
 - Republic Records - TWICE (45 tracks)
 - Republic Records - ITZY (38 tracks)
 - Republic Records (21 tracks)
-- Republic Records - NMIXX (11 tracks)
+- Republic Records - NMIXX (12 tracks)
 - Republic Records - TXT (11 tracks)
 - Republic Records - JYP Entertainment (8 tracks)
 - Lava Music/Republic Records (2 tracks)
@@ -25,11 +25,11 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0c6952f39ba680489149a54c" alt="" width="50" /> | 45 | 33 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0c6952f39ba680489149a54c" alt="" width="50" /> | 45 | 34 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a" alt="" width="50" /> | 38 | 25 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0610877c41cb9cc12ad39cc0" alt="" width="50" /> | 49 | 23 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb91d28ed74ef3451d30ffab6a" alt="" width="50" /> | 49 | 23 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 17 | 10 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1edc72b57c227d48e28888b1" alt="" width="50" /> | 11 | 9 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1edc72b57c227d48e28888b1" alt="" width="50" /> | 12 | 10 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3835e2ba41427e8356bbd091" alt="" width="50" /> | 11 | 7 | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | 5 | 3 | Wonder Girls | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | 2 | 2 | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
@@ -101,8 +101,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | 3 | 3 | With YOU-th | 2024-02-23 | [🔗](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | 3 | 3 | Taste of Love | 2021-06-11 | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | 3 | 3 | Fe3O4: BREAK | 2024-01-15 | [🔗](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | 3 | 3 | Eyes Wide Open | 2020-10-26 | [🔗](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | 3 | 2 | The Chaos Chapter: FREEZE | 2021-05-31 | [🔗](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | 3 | 2 | Eyes Wide Open | 2020-10-26 | [🔗](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | 3 | 2 | CHESHIRE | 2022-11-30 | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | 3 | 2 | BETWEEN 1&2 | 2022-08-26 | [🔗](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | 3 | 2 | 5-STAR | 2023-06-02 | [🔗](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) |
@@ -114,6 +114,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | 2 | 2 | Summer Nights | 2018-07-09 | [🔗](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | 2 | 2 | Not Shy | 2020-08-17 | [🔗](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="" width="50" /> | 2 | 2 | IN LIFE | 2020-09-14 | [🔗](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | 2 | 2 | ENTWURF | 2022-09-19 | [🔗](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | 2 | 2 | After Hours | 2020-03-20 | [🔗](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | 2 | 2 | AD MARE | 2022-02-22 | [🔗](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="" width="50" /> | 2 | 1 | Twicetagram | 2017-10-30 | [🔗](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) |
@@ -139,7 +140,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | 1 | 1 | Fifty Shades Freed (Original Motion Picture Soundtrack) | 2018-02-09 | [🔗](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273197065762b87f256af869d47" alt="" width="50" /> | 1 | 1 | FEVER | 2019-12-01 | [🔗](https://open.spotify.com/album/1AF9DPA6J8zveFttZ247O0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 1 | 1 | FANCY YOU | 2019-04-22 | [🔗](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | 1 | 1 | ENTWURF | 2022-09-19 | [🔗](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6a335d613d151c626895a83" alt="" width="50" /> | 1 | 1 | Despacito Feat. Justin Bieber (Remix) | 2017-04-17 | [🔗](https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273869bb5c720b743357fd402bd" alt="" width="50" /> | 1 | 1 | Clé 2 : Yellow Wood | 2019-06-19 | [🔗](https://open.spotify.com/album/7a3luOh8mK0q8YsRkNUjrU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cbb25c0de45e6a6ded073802" alt="" width="50" /> | 1 | 1 | Clé 1 : MIROH | 2019-03-25 | [🔗](https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00) |
@@ -175,9 +175,9 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 162 | 103 | [k-pop](../../genres/k-pop/overview.md) |
-| 101 | 72 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
-| 118 | 71 | [pop](../../genres/pop/overview.md) |
+| 163 | 105 | [k-pop](../../genres/k-pop/overview.md) |
+| 102 | 74 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 118 | 72 | [pop](../../genres/pop/overview.md) |
 | 61 | 30 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 2 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 2 | classic k-pop |
@@ -214,11 +214,11 @@ Appears as:
 | | [엄세희 (Um, Se-Hee)](../../producers/엄세희_(um,_se-hee)/overview.md) | 18 | Producer |
 | | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 14 | Producer |
 | | [구혜진 (Gu, Hye-jin)](../../producers/구혜진_(gu,_hye-jin)/overview.md) | 14 | Producer |
+| | [이태섭 (Lee, Tae-Sub)](../../producers/이태섭_(lee,_tae-sub)/overview.md) | 12 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 10 | Lyricist, Producer, Songwriter, Arranger |
-| | [이태섭 (Lee, Tae-Sub)](../../producers/이태섭_(lee,_tae-sub)/overview.md) | 10 | Producer |
 | | [Sam Holland](../../producers/sam_holland/overview.md) | 9 | Producer |
-| | [Max Martin](../../producers/max_martin/overview.md) | 9 | Producer, Songwriter, Arranger, Lyricist |
 | | 이상엽 (Lee, Sang-yeob) | 9 | Producer |
+| | [Max Martin](../../producers/max_martin/overview.md) | 9 | Producer, Songwriter, Arranger, Lyricist |
 | | [ILYA](../../producers/ilya/overview.md) | 7 | Arranger, Producer, Songwriter |
 | | 최혜진 (Cho, Hye-jin) | 6 | Producer |
 
@@ -228,96 +228,96 @@ Appears as:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 6 | Producer |
 | | [심은지 (Sim, Eunjee)](../../producers/심은지_(sim,_eunjee)/overview.md) | 6 | Arranger, Lyricist, Producer, Songwriter |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 6 | Producer |
+| | 임찬미 (Kim, Chan-mi) | 6 | Producer |
 | | Melanie Joy Fontana | 5 | Lyricist, Songwriter |
-| | Sophia Pae | 5 | Arranger |
 | | 임홍진 (Im, Hong-Jin) | 5 | Producer |
-| | 임찬미 (Kim, Chan-mi) | 5 | Producer |
-| | Lou Carrao | 4 | Producer |
-| | [라도 (Rado)](../../producers/라도_(rado)/overview.md) | 4 | Lyricist, Songwriter, Arranger, Producer |
-| | [earattack](../../producers/earattack/overview.md) | 4 | Arranger, Producer, Songwriter, Lyricist |
-| | Bryce Bordone | 4 | Producer |
+| | Sophia Pae | 5 | Arranger |
 | | [Arschtritt Lindgren](../../producers/arschtritt_lindgren/overview.md) | 4 | Arranger, Songwriter, Producer |
+| | [earattack](../../producers/earattack/overview.md) | 4 | Arranger, Producer, Songwriter, Lyricist |
 | | 김영현 (Kim, Young-hyun) | 4 | Producer |
+| | Bryce Bordone | 4 | Producer |
 | | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 4 | Producer |
-| | Sam Lewis | 3 | Lyricist, Songwriter |
-| | Brian U | 3 | Songwriter, Arranger |
-| | KayOne | 3 | Producer |
+| | Lou Carrao | 4 | Producer |
+| | 신지영 (Shin, Ji-young) | 4 | Producer |
+| | [라도 (Rado)](../../producers/라도_(rado)/overview.md) | 4 | Lyricist, Songwriter, Arranger, Producer |
+| | 박은정 (박은정) | 3 | Producer |
 | | Dr.JO | 3 | Lyricist, Arranger |
 | | [Savan Kotecha](../../producers/savan_kotecha/overview.md) | 3 | Songwriter |
-| | [블랙아이드필승 (Black Eyed Pilseung)](../../producers/블랙아이드필승_(black_eyed_pilseung)/overview.md) | 3 | Songwriter, Lyricist |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 3 | Producer |
 | | 오현선 (Oh, Hyun-sun) | 3 | Lyricist |
+| | Brian U | 3 | Songwriter, Arranger |
+| | [블랙아이드필승 (Black Eyed Pilseung)](../../producers/블랙아이드필승_(black_eyed_pilseung)/overview.md) | 3 | Songwriter, Lyricist |
 | | 윤원권 (Yoon, Won-kwon) | 3 | Producer |
 | | TBHits | 3 | Arranger, Songwriter, Producer |
-| | 신지영 (Shin, Ji-young) | 3 | Producer |
-| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 3 | Producer |
-| | Frankie Day | 3 | Songwriter, Lyricist |
-| | Ayushy | 3 | Songwriter, Arranger |
+| | KayOne | 3 | Producer |
+| | Sam Lewis | 3 | Lyricist, Songwriter |
 | | 이해솔 (Lee, Hae Sol) | 3 | Arranger, Songwriter, Producer, Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | J.Y. Park | 3 | Lyricist, Arranger, Songwriter |
+| | Frankie Day | 3 | Songwriter, Lyricist |
 | | 서은일 (Seo, Eun-il) | 3 | Producer |
 | | 이경원 (Lee, Kyung-won) | 3 | Producer |
+| | Ayushy | 3 | Songwriter, Arranger |
 | | 이우현 (Lee, Woo-hyun) | 3 | Arranger, Songwriter, Lyricist, Producer |
-| | Hayden Chapman | 2 | Songwriter |
-| | 백새임 (Baek, Sae-im) | 2 | Lyricist |
-| | 박은정 (박은정) | 2 | Producer |
-| | EJAE | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | J.Y. Park | 3 | Lyricist, Arranger, Songwriter |
+| | Lauren Dyson | 2 | Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | The Weeknd | 2 | Producer, Songwriter |
 | | Greg Bonnick | 2 | Songwriter |
 | | 이우민 (Yiwoomin) | 2 | Arranger, Lyricist, Producer, Songwriter |
 | | Brendan Morawski | 2 | Producer |
-| | Shin Kamiyama | 2 | Producer |
-| | [danke](../../producers/danke/overview.md) | 2 | Lyricist |
-| | Bang Chan | 2 | Arranger, Songwriter, Lyricist |
-| | Oscar Holter | 2 | Producer, Songwriter |
-| | 한 (Han) | 2 | Songwriter, Lyricist |
-| | Kobee | 2 | Arranger, Producer, Songwriter |
-| | [John Hanes](../../producers/john_hanes/overview.md) | 2 | Producer |
-| | Mr. Franks | 2 | Arranger, Songwriter, Producer |
-| | 창빈 (Changbin) | 2 | Songwriter, Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | The Weeknd | 2 | Producer, Songwriter |
-| | 김용운 (Gim, Yong-un) | 2 | Producer |
-| | 이스란 (Lee, Seran) | 2 | Lyricist |
-| | [LDN Noise](../../producers/ldn_noise/overview.md) | 2 | Arranger, Producer |
+| | 백새임 (Baek, Sae-im) | 2 | Lyricist |
 | | Noday | 2 | Arranger, Lyricist, Songwriter |
-| | Lauren Dyson | 2 | Songwriter, Arranger |
-| | Billy Hickey | 2 | Producer |
+| | 아르마딜로 (Armadillo) | 2 | Arranger, Songwriter |
+| | 창빈 (Changbin) | 2 | Songwriter, Lyricist |
+| | Mr. Franks | 2 | Arranger, Songwriter, Producer |
+| | EJAE | 2 | Songwriter |
+| | [danke](../../producers/danke/overview.md) | 2 | Lyricist |
+| | Kobee | 2 | Arranger, Producer, Songwriter |
 | | Charlotte Wilson | 2 | Songwriter, Arranger |
-| | DaHeala | 2 | Songwriter |
-| | Belly | 2 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J | 2 | Songwriter |
+| | Hayden Chapman | 2 | Songwriter |
+| | Shin Kamiyama | 2 | Producer |
+| | 한 (Han) | 2 | Songwriter, Lyricist |
+| | Billy Hickey | 2 | Producer |
+| | [LDN Noise](../../producers/ldn_noise/overview.md) | 2 | Arranger, Producer |
+| | Oscar Holter | 2 | Producer, Songwriter |
+| | [John Hanes](../../producers/john_hanes/overview.md) | 2 | Producer |
 | | GG Ramirez | 2 | Lyricist, Songwriter |
+| | 김용운 (Gim, Yong-un) | 2 | Producer |
+| | DaHeala | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | Jessie J | 2 | Songwriter |
+| | Bang Chan | 2 | Arranger, Songwriter, Lyricist |
+| | 이스란 (Lee, Seran) | 2 | Lyricist |
 | | 홍장미 (Hong, Jangmi) | 2 | Producer |
-| | Zarah Christenson | 1 | Songwriter |
-| | Joseph K | 1 | Arranger, Songwriter |
-| | Gusten Dahlqvist | 1 | Arranger, Producer, Songwriter |
-| | Noah Passovoy | 1 | Producer |
-| | Chanti | 1 | Songwriter |
-| | Poo Bear | 1 | Songwriter |
-| | Oscar Hammerstein II | 1 | Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B | 1 | Songwriter |
-| | Boy Matthews | 1 | Lyricist |
+| | Belly | 2 | Songwriter |
+| | Joe Gallagher | 1 | Producer |
 | | Zaya | 1 | Lyricist |
-| | Lexxi Saal | 1 | Lyricist, Songwriter |
-| | Erika Ender | 1 | Songwriter |
-| | Cameron Neilson | 1 | Songwriter |
+| | 오유원 (Oh, Yoo-won) | 1 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3b6f1762e81e53df14990f57" alt="" width="50" /> | B.o.B | 1 | Songwriter |
 | | 방혜현 (Bang, Hye Hyun) | 1 | Lyricist |
 | | Daniel Mikael Caesar | 1 | Songwriter |
+| | Call Me Loop | 1 | Lyricist, Songwriter |
+| | Gusten Dahlqvist | 1 | Arranger, Producer, Songwriter |
+| | Mich Hansen | 1 | Songwriter |
+| | Rick Bridges | 1 | Lyricist |
+| | Cameron Neilson | 1 | Songwriter |
+| | Boy Matthews | 1 | Lyricist |
+| | Jonah Marais | 1 | Lyricist, Songwriter |
+| | Scootie | 1 | Producer, Songwriter |
+| | Chanti | 1 | Songwriter |
+| | Oscar Hammerstein II | 1 | Lyricist |
+| | HOJI | 1 | Songwriter |
+| | Poo Bear | 1 | Songwriter |
 | | IRIS Yerin Lee | 1 | Lyricist, Songwriter |
+| | Noah Passovoy | 1 | Producer |
 | | 김다현 (Kim, Da-hyun) | 1 | Lyricist |
+| | Kaedi Dalley | 1 | Lyricist, Songwriter |
+| | Hannah Robinson | 1 | Lyricist, Songwriter |
 | | Jameel Roberts | 1 | Songwriter |
-| | Andrew Watt | 1 | Songwriter |
-| | SELAH | 1 | Arranger |
-| | Enan | 1 | Songwriter |
+| | Joseph K | 1 | Arranger, Songwriter |
+| | 72 | 1 | Songwriter |
+| | dwilly | 1 | Arranger, Lyricist, Songwriter |
+| | Erika Ender | 1 | Songwriter |
 | | Alma Goodman | 1 | Songwriter |
-| | Cazzi Opeia | 1 | Songwriter |
-| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb679c995b0d4a641ba32aa5f0" alt="" width="50" /> | Anne-Marie | 1 | Songwriter |
-| | Brown Panda | 1 | Arranger, Songwriter |
-| | Taet Chesterton | 1 | Songwriter |
-| | Arineh Karimi | 1 | Songwriter |
-| | Angelina Barrett | 1 | Songwriter |
-| | 성유진 (Sung, Yoojin) | 1 | Lyricist |
 
 </details>
 
@@ -330,13 +330,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | LOCO | CRAZY IN LOVE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 15 | 💚 | [🔗](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | I CAN'T STOP ME | Eyes Wide Open | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 21 | 💚 | [🔗](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | Thunderous | NOEASY | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 32 | 💚 | [🔗](https://open.spotify.com/track/0nwTMzpatarzvLvtwwzdCt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Mr. Vampire | BORN TO BE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 54 | 💚 | [🔗](https://open.spotify.com/track/3uI6jqO0fFBoFryc8SJOXw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Mr. Vampire | BORN TO BE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 53 | 💚 | [🔗](https://open.spotify.com/track/3uI6jqO0fFBoFryc8SJOXw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Cheshire | CHESHIRE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 61 | 💚 | [🔗](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | SET ME FREE | READY TO BE | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 92 | 💚 | [🔗](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="" width="50" /> | MEGAVERSE | ROCK-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 94 | 💚 | [🔗](https://open.spotify.com/track/5Q1tv4GTxP3IJeGMOKdrFO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | CAKE | KILL MY DOUBT | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 98 | 💚 | [🔗](https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | BORN TO BE | BORN TO BE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 106 | 💚 | [🔗](https://open.spotify.com/track/45lXSvtDt6uKiGZIXB4LLF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Love Me Like This | expérgo | [NMIXX](../../artists/nmixx/overview.md) | [Republic Records](.) | 115 | 💚 | [🔗](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | SET ME FREE | READY TO BE | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 90 | 💚 | [🔗](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="" width="50" /> | MEGAVERSE | ROCK-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 93 | 💚 | [🔗](https://open.spotify.com/track/5Q1tv4GTxP3IJeGMOKdrFO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | CAKE | KILL MY DOUBT | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 99 | 💚 | [🔗](https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | BORN TO BE | BORN TO BE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 101 | 💚 | [🔗](https://open.spotify.com/track/45lXSvtDt6uKiGZIXB4LLF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Love Me Like This | expérgo | [NMIXX](../../artists/nmixx/overview.md) | [Republic Records](.) | 117 | 💚 | [🔗](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) |
 
 
 <details>
@@ -344,65 +344,65 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | The Feels | Formula of Love: O+T=<3 | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 132 | 💚 | [🔗](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Snowy | CHESHIRE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 134 | 💚 | [🔗](https://open.spotify.com/track/1i0NAz5emJMbRWSkADMsL7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | The Feels | Formula of Love: O+T=<3 | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 133 | 💚 | [🔗](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Snowy | CHESHIRE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 135 | 💚 | [🔗](https://open.spotify.com/track/1i0NAz5emJMbRWSkADMsL7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | What is Love | Summer Nights | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 136 | 💚 | [🔗](https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="" width="50" /> | Back Door | IN LIFE | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 139 | 💚 | [🔗](https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | Kill Shot | KILL MY DOUBT | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 141 | 💚 | [🔗](https://open.spotify.com/track/3i7Z0CI7QIwnU4MVL0XJB9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | WALLFLOWER | READY TO BE | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 145 | 💚 | [🔗](https://open.spotify.com/track/6EGkbPJrb88STcdfMu1j1y) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | WALLFLOWER | READY TO BE | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 147 | 💚 | [🔗](https://open.spotify.com/track/6EGkbPJrb88STcdfMu1j1y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="" width="50" /> | Heart Shaker | Merry & Happy | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 158 | 💚 | [🔗](https://open.spotify.com/track/52FCAZn0YEkZfF0BtiAUMW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | DASH | Fe3O4: BREAK | [NMIXX](../../artists/nmixx/overview.md) | [Republic Records](.) | 162 | 💚 | [🔗](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | BLAME IT ON ME | READY TO BE | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 166 | 💚 | [🔗](https://open.spotify.com/track/2hQdmjAhYEuMuqNWZCsz1J) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | UNTOUCHABLE | BORN TO BE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 171 | 💚 | [🔗](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="" width="50" /> | Social Path (Feat. LiSA) (Korean Ver.) | ROCK-STAR | [Stray Kids](../../artists/stray_kids/overview.md), LiSA | [Republic Records](.) | 174 | 💚 | [🔗](https://open.spotify.com/track/5w6HF09YaD6wWlC90NaeVP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | BET ON ME | KILL MY DOUBT | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 183 | 💚 | [🔗](https://open.spotify.com/track/5BCPIye83pj24VjCzQuL5F) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | miss you (Hyunjin) | SKZ-REPLAY | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 184 | | [🔗](https://open.spotify.com/track/1BwFLLe233S6HR1ravS3yi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | DASH | Fe3O4: BREAK | [NMIXX](../../artists/nmixx/overview.md) | [Republic Records](.) | 159 | 💚 | [🔗](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | BLAME IT ON ME | READY TO BE | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 167 | 💚 | [🔗](https://open.spotify.com/track/2hQdmjAhYEuMuqNWZCsz1J) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | UNTOUCHABLE | BORN TO BE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 169 | 💚 | [🔗](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="" width="50" /> | Social Path (Feat. LiSA) (Korean Ver.) | ROCK-STAR | [Stray Kids](../../artists/stray_kids/overview.md), LiSA | [Republic Records](.) | 172 | 💚 | [🔗](https://open.spotify.com/track/5w6HF09YaD6wWlC90NaeVP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | miss you (Hyunjin) | SKZ-REPLAY | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 183 | | [🔗](https://open.spotify.com/track/1BwFLLe233S6HR1ravS3yi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | BET ON ME | KILL MY DOUBT | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 184 | 💚 | [🔗](https://open.spotify.com/track/5BCPIye83pj24VjCzQuL5F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Soñar (Breaker) | Fe3O4: BREAK | [NMIXX](../../artists/nmixx/overview.md) | [Republic Records](.) | 186 | 💚 | [🔗](https://open.spotify.com/track/6UwrPxRaR5HPNLDDl7RcT9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Run Away (RYUJIN) | BORN TO BE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 228 | 💚 | [🔗](https://open.spotify.com/track/4e94KIas5maH8RixY26LiN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="" width="50" /> | LALALALA | ROCK-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 232 | 💚 | [🔗](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Christmas EveL | Christmas EveL | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 238 | 💚 | [🔗](https://open.spotify.com/track/5npCUsfrlhdyjxyCa32maW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ae9084b7cfa8281932d9cb9" alt="" width="50" /> | CRY FOR ME | CRY FOR ME | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 240 | 💚 | [🔗](https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="" width="50" /> | Merry & Happy | Merry & Happy | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 249 | | [🔗](https://open.spotify.com/track/59TGiILFEI1NYSFcxyFiUZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Winter Falls | Christmas EveL | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 261 | | [🔗](https://open.spotify.com/track/0BeqHPNJSLzfH8TZ7Adpb3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Be In Love | Not Shy | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 269 | 💚 | [🔗](https://open.spotify.com/track/0FGeJSm4Iix7OdvjvENrwx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Run For Roses | Fe3O4: BREAK | [NMIXX](../../artists/nmixx/overview.md) | [Republic Records](.) | 274 | 💚 | [🔗](https://open.spotify.com/track/4byr9TsXs4qtm8rG2FfwRW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | Give Me Your TMI | MAXIDENT | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 276 | 💚 | [🔗](https://open.spotify.com/track/7CQhZA3qNDZBoTKWqjD7gR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | HOME | expérgo | [NMIXX](../../artists/nmixx/overview.md) | [Republic Records](.) | 284 | 💚 | [🔗](https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | ONE SPARK | With YOU-th | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 291 | 💚 | [🔗](https://open.spotify.com/track/7cIn67LEvk16v6komC8znS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | BLOOM | With YOU-th | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 303 | 💚 | [🔗](https://open.spotify.com/track/4bheT1Drc2vyQgN5VTwr8W) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Crown On My Head (YEJI) | BORN TO BE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 329 | 💚 | [🔗](https://open.spotify.com/track/7us3VPvRjtjuMEexfyRsMC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | First Time | Taste of Love | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 336 | 💚 | [🔗](https://open.spotify.com/track/3YdqewCLgGsFhruA3EhILy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | TOPLINE (Feat. Tiger JK) | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md), Tiger JK | [Republic Records](.) | 372 | | [🔗](https://open.spotify.com/track/0jvZ9caE53ubCQXMki6W23) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | #Twenty | CRAZY IN LOVE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 379 | | [🔗](https://open.spotify.com/track/0deWmYkaZHaElUm15oVXkE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Hug Me (I.N) | SKZ-REPLAY | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 387 | | [🔗](https://open.spotify.com/track/5gXUFmE5AKFiInKyHVVEnL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733bb056e3160b85ee86c1194d" alt="" width="50" /> | Devil by the Window | The Name Chapter: TEMPTATION | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [Republic Records](.) | 401 | 💚 | [🔗](https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | S-Class | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 428 | 💚 | [🔗](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | In the morning | GUESS WHO | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 460 | 💚 | [🔗](https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | VENOM | ODDINARY | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 480 | 💚 | [🔗](https://open.spotify.com/track/4b3rGL8LDSkbARUUA20136) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Run Away (RYUJIN) | BORN TO BE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 225 | 💚 | [🔗](https://open.spotify.com/track/4e94KIas5maH8RixY26LiN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="" width="50" /> | LALALALA | ROCK-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 233 | 💚 | [🔗](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Christmas EveL | Christmas EveL | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 240 | 💚 | [🔗](https://open.spotify.com/track/5npCUsfrlhdyjxyCa32maW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ae9084b7cfa8281932d9cb9" alt="" width="50" /> | CRY FOR ME | CRY FOR ME | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 243 | 💚 | [🔗](https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="" width="50" /> | Merry & Happy | Merry & Happy | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 250 | | [🔗](https://open.spotify.com/track/59TGiILFEI1NYSFcxyFiUZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Run For Roses | Fe3O4: BREAK | [NMIXX](../../artists/nmixx/overview.md) | [Republic Records](.) | 266 | 💚 | [🔗](https://open.spotify.com/track/4byr9TsXs4qtm8rG2FfwRW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Winter Falls | Christmas EveL | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 267 | | [🔗](https://open.spotify.com/track/0BeqHPNJSLzfH8TZ7Adpb3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Be In Love | Not Shy | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 276 | 💚 | [🔗](https://open.spotify.com/track/0FGeJSm4Iix7OdvjvENrwx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | Give Me Your TMI | MAXIDENT | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 282 | 💚 | [🔗](https://open.spotify.com/track/7CQhZA3qNDZBoTKWqjD7gR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | ONE SPARK | With YOU-th | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 288 | 💚 | [🔗](https://open.spotify.com/track/7cIn67LEvk16v6komC8znS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | BLOOM | With YOU-th | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 289 | 💚 | [🔗](https://open.spotify.com/track/4bheT1Drc2vyQgN5VTwr8W) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | HOME | expérgo | [NMIXX](../../artists/nmixx/overview.md) | [Republic Records](.) | 292 | 💚 | [🔗](https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Crown On My Head (YEJI) | BORN TO BE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 331 | 💚 | [🔗](https://open.spotify.com/track/7us3VPvRjtjuMEexfyRsMC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | First Time | Taste of Love | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 338 | 💚 | [🔗](https://open.spotify.com/track/3YdqewCLgGsFhruA3EhILy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | TOPLINE (Feat. Tiger JK) | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md), Tiger JK | [Republic Records](.) | 374 | | [🔗](https://open.spotify.com/track/0jvZ9caE53ubCQXMki6W23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | #Twenty | CRAZY IN LOVE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 381 | | [🔗](https://open.spotify.com/track/0deWmYkaZHaElUm15oVXkE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Hug Me (I.N) | SKZ-REPLAY | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 389 | | [🔗](https://open.spotify.com/track/5gXUFmE5AKFiInKyHVVEnL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733bb056e3160b85ee86c1194d" alt="" width="50" /> | Devil by the Window | The Name Chapter: TEMPTATION | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [Republic Records](.) | 405 | 💚 | [🔗](https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | S-Class | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 429 | 💚 | [🔗](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | In the morning | GUESS WHO | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 461 | 💚 | [🔗](https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | VENOM | ODDINARY | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 483 | 💚 | [🔗](https://open.spotify.com/track/4b3rGL8LDSkbARUUA20136) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | TANK | AD MARE | [NMIXX](../../artists/nmixx/overview.md) | [Republic Records](.) | 488 | 💚 | [🔗](https://open.spotify.com/track/4ZbXs9DzvdWlsQfA9ZUkCV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="" width="50" /> | Like Ooh-Ahh | The Story Begins | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 496 | 💚 | [🔗](https://open.spotify.com/track/3c0CJ0DBgsGZ7I79lyx02Z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | None of My Business | KILL MY DOUBT | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 514 | 💚 | [🔗](https://open.spotify.com/track/6iYfUvWNdKulAgX2TOhk5u) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | MANIAC | ODDINARY | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 517 | 💚 | [🔗](https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | I GOT IT (HAN) | SKZ-REPLAY | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 524 | 💚 | [🔗](https://open.spotify.com/track/4atsZkGtoHHPugKK5wzAE1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | Blinding Lights | After Hours | The Weeknd | [Republic Records](.) | 538 | 💚 | [🔗](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | I GOT YOU | With YOU-th | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 546 | 💚 | [🔗](https://open.spotify.com/track/0mgveJEIGjcN51w4JIQtI6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | None of My Business | KILL MY DOUBT | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 517 | 💚 | [🔗](https://open.spotify.com/track/6iYfUvWNdKulAgX2TOhk5u) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | MANIAC | ODDINARY | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 520 | 💚 | [🔗](https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | I GOT IT (HAN) | SKZ-REPLAY | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 527 | 💚 | [🔗](https://open.spotify.com/track/4atsZkGtoHHPugKK5wzAE1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | Blinding Lights | After Hours | The Weeknd | [Republic Records](.) | 540 | 💚 | [🔗](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | I GOT YOU | With YOU-th | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 549 | 💚 | [🔗](https://open.spotify.com/track/0mgveJEIGjcN51w4JIQtI6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389a8fc641c956dc899c0b168" alt="" width="50" /> | DALLA DALLA | IT'z Different | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 554 | 💚 | [🔗](https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | imagine | thank u, next | [Ariana Grande](../../artists/ariana_grande/overview.md) | [Republic Records](.) | 565 | 💚 | [🔗](https://open.spotify.com/track/39LmTF9RgyakzSYX8txrow) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Not Shy | Not Shy | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 582 | 💚 | [🔗](https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea4729d0fc9ab5b6f27ed20a" alt="" width="50" /> | Hush | Hush | miss A | [Republic Records](.) | 602 | 💚 | [🔗](https://open.spotify.com/track/3jb7gznZVfqyMQGJo4hzG2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | Hall of Fame | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 611 | 💚 | [🔗](https://open.spotify.com/track/5podb1asONjqwKk1iMVOeG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | Dance The Night Away | Summer Nights | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 612 | 💚 | [🔗](https://open.spotify.com/track/4DYIDSMIB5y2UmZFv9fxeX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | Bratty | KILL MY DOUBT | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 619 | | [🔗](https://open.spotify.com/track/5Z0gyPr6idyscwLribVpFH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | FANCY | FANCY YOU | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 623 | 💚 | [🔗](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | CRAZY STUPID LOVE | READY TO BE | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 631 | 💚 | [🔗](https://open.spotify.com/track/0jn8sYeWOdYHjdF2cBmF75) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Maknae On Top (I.N) | SKZ-REPLAY | [Stray Kids](../../artists/stray_kids/overview.md), Bang Chan, Changbin (Stray Kids) | [Republic Records](.) | 652 | 💚 | [🔗](https://open.spotify.com/track/1J0qupz0gVGSB5jcRY35tL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | imagine | thank u, next | [Ariana Grande](../../artists/ariana_grande/overview.md) | [Republic Records](.) | 564 | 💚 | [🔗](https://open.spotify.com/track/39LmTF9RgyakzSYX8txrow) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Not Shy | Not Shy | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 581 | 💚 | [🔗](https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea4729d0fc9ab5b6f27ed20a" alt="" width="50" /> | Hush | Hush | miss A | [Republic Records](.) | 601 | 💚 | [🔗](https://open.spotify.com/track/3jb7gznZVfqyMQGJo4hzG2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | Hall of Fame | 5-STAR | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 612 | 💚 | [🔗](https://open.spotify.com/track/5podb1asONjqwKk1iMVOeG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | Dance The Night Away | Summer Nights | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 614 | 💚 | [🔗](https://open.spotify.com/track/4DYIDSMIB5y2UmZFv9fxeX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | Bratty | KILL MY DOUBT | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 620 | | [🔗](https://open.spotify.com/track/5Z0gyPr6idyscwLribVpFH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | FANCY | FANCY YOU | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 625 | 💚 | [🔗](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | CRAZY STUPID LOVE | READY TO BE | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 633 | 💚 | [🔗](https://open.spotify.com/track/0jn8sYeWOdYHjdF2cBmF75) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Maknae On Top (I.N) | SKZ-REPLAY | [Stray Kids](../../artists/stray_kids/overview.md), Bang Chan, Changbin (Stray Kids) | [Republic Records](.) | 655 | 💚 | [🔗](https://open.spotify.com/track/1J0qupz0gVGSB5jcRY35tL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc620c06721e90a534cc5dab" alt="" width="50" /> | WANNABE | IT'z ME | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 657 | 💚 | [🔗](https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | MOONLIGHT SUNRISE | READY TO BE | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 666 | 💚 | [🔗](https://open.spotify.com/track/5IN9W6eUfk3014My9awagX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | SCIENTIST | Formula of Love: O+T=<3 | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 713 | 💚 | [🔗](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | Free Fall | CHECKMATE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 728 | 💚 | [🔗](https://open.spotify.com/track/3bW8vRr2qQwtmz46OEPZKk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | MOONLIGHT SUNRISE | READY TO BE | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 670 | 💚 | [🔗](https://open.spotify.com/track/5IN9W6eUfk3014My9awagX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | SCIENTIST | Formula of Love: O+T=<3 | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 716 | 💚 | [🔗](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | Free Fall | CHECKMATE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 727 | 💚 | [🔗](https://open.spotify.com/track/3bW8vRr2qQwtmz46OEPZKk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | CASE 143 | MAXIDENT | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | 732 | 💚 | [🔗](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="" width="50" /> | Likey | Twicetagram | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 744 | 💚 | [🔗](https://open.spotify.com/track/0IEVKWduAaMcZepZQVr80T) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | WHAT I WANT | CHECKMATE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 754 | 💚 | [🔗](https://open.spotify.com/track/28E5sYRuv2gpZPEdNAwMkE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="" width="50" /> | Likey | Twicetagram | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | 745 | 💚 | [🔗](https://open.spotify.com/track/0IEVKWduAaMcZepZQVr80T) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | WHAT I WANT | CHECKMATE | [ITZY](../../artists/itzy/overview.md) | [Republic Records](.) | 763 | 💚 | [🔗](https://open.spotify.com/track/28E5sYRuv2gpZPEdNAwMkE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba5baf00d793695d029648ec" alt="" width="50" /> | Tell Me | The Wonder Years | Wonder Girls | [Republic Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/2UuKZDzjZ7cVMOvpmuAMYj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273911ec384e21ccdf7ad8c045b" alt="" width="50" /> | So Hot | So Hot | Wonder Girls | [Republic Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/34ur063WdATV4hGzCeEAsx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273abada41dbdde14489722619c" alt="" width="50" /> | Nobody | The Wonder Years - Trilogy | Wonder Girls | [Republic Records](.) | nan | | [🔗](https://open.spotify.com/track/6DEN0NHItNNdepd9IhlC3H) |
@@ -451,7 +451,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e2f86e459a48cfb891bd70d" alt="" width="50" /> | MORE & MORE (English Version) | MORE & MORE (English Version) | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | nan | | [🔗](https://open.spotify.com/track/03wvlNaxFKB9sge4U6vyPE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="" width="50" /> | Any | IN LIFE | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/5S7kMbtEikXwCAHMu3R3jw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | HELL IN HEAVEN | Eyes Wide Open | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/3KCreWc88InXH3XuL54C5a) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | SAY SOMETHING | Eyes Wide Open | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | nan | | [🔗](https://open.spotify.com/track/2gagYYY4R8QimbnFqd96ST) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | SAY SOMETHING | Eyes Wide Open | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/2gagYYY4R8QimbnFqd96ST) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c6cdb00ed42b1d6315f0bc1" alt="" width="50" /> | Blue Hour | minisode1 : Blue Hour | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [Republic Records](.) | nan | | [🔗](https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | motive (with Doja Cat) | Positions | [Ariana Grande](../../artists/ariana_grande/overview.md), [Doja Cat](../../artists/doja_cat/overview.md) | [Republic Records](.) | nan | | [🔗](https://open.spotify.com/track/5GkQIP5mWPi4KZLLXeuFTT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | positions | Positions | [Ariana Grande](../../artists/ariana_grande/overview.md) | [Republic Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0) |
@@ -501,6 +501,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | Basics | BETWEEN 1&2 | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/63mL1DdcSFfxVJ9XGnSRQz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | Brave | BETWEEN 1&2 | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | nan | | [🔗](https://open.spotify.com/track/2peoFPokM6eYAIwLm9IQ8E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3040848e6ef0e132c5c8340" alt="" width="50" /> | Talk that Talk | BETWEEN 1&2 | [TWICE](../../artists/twice/overview.md) | [Republic Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | COOL (Your rainbow) | ENTWURF | [NMIXX](../../artists/nmixx/overview.md) | [Republic Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/3D5t7S7W8BABJvA1SAIAHb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | DICE | ENTWURF | [NMIXX](../../artists/nmixx/overview.md) | [Republic Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | 3RACHA (Bang Chan, Changbin, HAN) | MAXIDENT | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | nan | | [🔗](https://open.spotify.com/track/6T4o4xEh61CpgM9v4jG5DJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | SUPER BOARD | MAXIDENT | [Stray Kids](../../artists/stray_kids/overview.md) | [Republic Records](.) | nan | | [🔗](https://open.spotify.com/track/078fJxqEUz0LvbHSM6AoXJ) |

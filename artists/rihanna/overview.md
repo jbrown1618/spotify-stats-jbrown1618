@@ -28,7 +28,6 @@
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0203668e3f13559554eca8ccc6ab67616d00001e020eb56329734f9400c1639359ab67616d00001e0214ed51ab46ef0765182bb8a0ab67616d00001e02987a1825341694ec9bc62457" alt="" width="50" /> | 2 | [Tarps](../../playlists/tarps/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020b1cfc3df4d9d5d4cbce9208ab67616d00001e0210356a0e81371e6644cb1371ab67616d00001e02c08d5fa5c0f1a834acef5100ab67616d00001e02c450c89d3eb750d3535b0a0c" alt="" width="50" /> | 2 | [Hip Hop](../../playlists/hip_hop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02028c3bb4b81ee71dd73d1596ab67616d00001e025675e83f707f1d7271e5cf8aab67616d00001e027948eec521c67e76cafe30a0ab67616d00001e02c985bcc18dd81da80839e5a9" alt="" width="50" /> | 1 | [Modern Rock](../../playlists/modern_rock/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e022270d3bd1d13133edf0be836ab67616d00001e028ecc33f195df6aa257c39eaaab67616d00001e029829da8e2bddc09a80099b9dab67616d00001e02dd17db8d3e7c325762a0ad3d" alt="" width="50" /> | 1 | [Check Out Later](../../playlists/check_out_later/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
 
 ## Top Albums
@@ -44,7 +43,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab647295c0c97446c1f1a3b5" alt="" width="50" /> | 1 | 1 | Rated R | 2009-11-20 | [🔗](https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093" alt="" width="50" /> | 1 | 1 | ANTI (Deluxe) | 2016-01-28 | [🔗](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d9aa52355e062f5de060adbf" alt="" width="50" /> | 1 | 0 | This Is What You Came For | 2016-04-29 | [🔗](https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f70dcec206fbdbcc9816664a" alt="" width="50" /> | 1 | 0 | Talk That Talk (Deluxe) | 2012-07-18 | [🔗](https://open.spotify.com/album/3sW7wD2qdMjs7KncaOoIJ5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="" width="50" /> | 1 | 0 | Mylo Xyloto | 2011-10-24 | [🔗](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) |
 
 
 <details>
@@ -52,7 +51,6 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="" width="50" /> | 1 | 0 | Mylo Xyloto | 2011-10-24 | [🔗](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b21609e1a2d7c1b7ba8efae2" alt="" width="50" /> | 1 | 0 | Music Of The Sun | 2005-08-29 | [🔗](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) |
 
 </details>
@@ -62,7 +60,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 14 | 11 | [Def Jam Recordings](../../labels/def_jam_recordings/overview.md) |
+| 13 | 11 | [Def Jam Recordings](../../labels/def_jam_recordings/overview.md) |
 | 2 | 2 | [Aftermath](../../labels/aftermath/overview.md) |
 | 1 | 1 | Roc Nation |
 | 1 | 1 | Rihanna |
@@ -168,8 +166,8 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | What Now | Unapologetic (Deluxe) | [Rihanna](overview.md) | [Def Jam Recordings](../../labels/def_jam_recordings) | 271 | 💚 | [🔗](https://open.spotify.com/track/0aUWfpD3PlSv3FTTKcT2rN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | The Monster | The Marshall Mathers LP2 | [Eminem](../eminem/overview.md), [Rihanna](overview.md) | [Aftermath](../../labels/aftermath) | 522 | 💚 | [🔗](https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | What Now | Unapologetic (Deluxe) | [Rihanna](overview.md) | [Def Jam Recordings](../../labels/def_jam_recordings) | 277 | 💚 | [🔗](https://open.spotify.com/track/0aUWfpD3PlSv3FTTKcT2rN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | The Monster | The Marshall Mathers LP2 | [Eminem](../eminem/overview.md), [Rihanna](overview.md) | [Aftermath](../../labels/aftermath) | 524 | 💚 | [🔗](https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Stay | Unapologetic (Deluxe) | [Rihanna](overview.md), Mikky Ekko | [Def Jam Recordings](../../labels/def_jam_recordings) | 658 | 💚 | [🔗](https://open.spotify.com/track/1dEy9Pl81QopSxNsPxXQxv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b21609e1a2d7c1b7ba8efae2" alt="" width="50" /> | Pon de Replay | Music Of The Sun | [Rihanna](overview.md) | [Def Jam Recordings](../../labels/def_jam_recordings) | nan | | [🔗](https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Disturbia | Good Girl Gone Bad: Reloaded | [Rihanna](overview.md) | [Def Jam Recordings](../../labels/def_jam_recordings) | nan | 💚 | [🔗](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc) |
@@ -190,7 +188,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="" width="50" /> | Princess of China | Mylo Xyloto | [Coldplay](../coldplay/overview.md), [Rihanna](overview.md) | [Parlophone UK](../../labels/parlophone_uk) | nan | | [🔗](https://open.spotify.com/track/4HXOBjwv2RnLpGG4xWOO6N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | Watch n' Learn | Talk That Talk | [Rihanna](overview.md) | [Def Jam Recordings](../../labels/def_jam_recordings) | nan | 💚 | [🔗](https://open.spotify.com/track/1ROCX1nquOZ5i05YfGysu0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | We Found Love | Talk That Talk | [Rihanna](overview.md), Calvin Harris | [Def Jam Recordings](../../labels/def_jam_recordings) | nan | 💚 | [🔗](https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f70dcec206fbdbcc9816664a" alt="" width="50" /> | Cockiness (Love It) | Talk That Talk (Deluxe) | [Rihanna](overview.md) | [Def Jam Recordings](../../labels/def_jam_recordings) | nan | | [🔗](https://open.spotify.com/track/76d2uYjE6NkCak2wyCAw5d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Half Of Me | Unapologetic (Deluxe) | [Rihanna](overview.md) | [Def Jam Recordings](../../labels/def_jam_recordings) | nan | 💚 | [🔗](https://open.spotify.com/track/4bXImuY3OhNXhbQbVLFHKp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093" alt="" width="50" /> | Love On The Brain | ANTI (Deluxe) | [Rihanna](overview.md) | Roc Nation / Rihanna | nan | 💚 | [🔗](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d9aa52355e062f5de060adbf" alt="" width="50" /> | This Is What You Came For | This Is What You Came For | Calvin Harris, [Rihanna](overview.md) | [Columbia](../../labels/columbia) | nan | | [🔗](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y) |

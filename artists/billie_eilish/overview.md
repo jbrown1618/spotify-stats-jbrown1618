@@ -10,7 +10,7 @@
 
 ## Artist Rank
 Billie Eilish is currently:
-- The #46 artist of the last month
+- The #39 artist of the last month
 - The #40 artist of the last 6 months
 - The #37 artist of all time
 
@@ -114,11 +114,11 @@ Billie Eilish is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | you should see me in a crown | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom), [Interscope Records](../../labels/interscope_records) | 248 | 💚 | [🔗](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | No Time To Die | No Time To Die | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom), [Interscope Records](../../labels/interscope_records) | 266 | 💚 | [🔗](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | bury a friend | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom), [Interscope Records](../../labels/interscope_records) | 440 | 💚 | [🔗](https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | GOLDWING | Happier Than Ever | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom), [Interscope Records](../../labels/interscope_records) | 610 | 💚 | [🔗](https://open.spotify.com/track/0FfqyjhB6Kspvit1oOo7ax) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | xanny | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom), [Interscope Records](../../labels/interscope_records) | 755 | 💚 | [🔗](https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | you should see me in a crown | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom), [Interscope Records](../../labels/interscope_records) | 249 | 💚 | [🔗](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | No Time To Die | No Time To Die | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom), [Interscope Records](../../labels/interscope_records) | 270 | 💚 | [🔗](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | bury a friend | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom), [Interscope Records](../../labels/interscope_records) | 441 | 💚 | [🔗](https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | GOLDWING | Happier Than Ever | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom), [Interscope Records](../../labels/interscope_records) | 611 | 💚 | [🔗](https://open.spotify.com/track/0FfqyjhB6Kspvit1oOo7ax) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | xanny | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom), [Interscope Records](../../labels/interscope_records) | 752 | 💚 | [🔗](https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="" width="50" /> | ocean eyes | dont smile at me | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom) | nan | 💚 | [🔗](https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="" width="50" /> | watch | dont smile at me | [Billie Eilish](overview.md) | [Darkroom](../../labels/darkroom) | nan | 💚 | [🔗](https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c" alt="" width="50" /> | lovely (with Khalid) | lovely (with Khalid) | [Billie Eilish](overview.md), Khalid | [Darkroom](../../labels/darkroom) | nan | 💚 | [🔗](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) |

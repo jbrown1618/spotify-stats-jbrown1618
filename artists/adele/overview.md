@@ -9,7 +9,7 @@
 
 ## Top Tracks
 
-- Take It All is the #48 track of the last month
+- Take It All is the #43 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

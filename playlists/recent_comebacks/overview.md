@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e02470d0ba5f707b141d1337cf2ab67616d00001e0281d97a31253b898bc4149195ab67616d00001e029104b6efe6c3483f605d9633ab67616d00001e02c74be23f27696b57c67f5489" alt="Recent Comebacks" width="100" />
 
-[58 tracks (48 liked) 🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI)
+[61 tracks (51 liked) 🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI)
 
 [See Track Features](audio_features.md)
 
@@ -21,20 +21,22 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb13e8057399bcfc4d4ec4c5dc" alt="" width="50" /> | 4 | 3 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c6952f39ba680489149a54c" alt="" width="50" /> | 3 | 3 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1edc72b57c227d48e28888b1" alt="" width="50" /> | 3 | 3 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1f141491bdd708422f8dbab3" alt="" width="50" /> | 3 | 3 | [YUQI](../../artists/yuqi/overview.md) | [🔗](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb73f96bdf146d008680149954" alt="" width="50" /> | 3 | 2 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 2 | 2 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 
 
 <details>
-<summary>See all 33 artists</summary>
+<summary>See all 35 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 2 | 2 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a6eda4c3bb829e35333dc07" alt="" width="50" /> | 2 | 2 | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [🔗](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e075c754be58cc33e30905a" alt="" width="50" /> | 2 | 2 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5884b5e3bdc71d42b62bfcfd" alt="" width="50" /> | 3 | 1 | ILLIT | [🔗](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdfe2e3b3a3739053ba87c1c5" alt="" width="50" /> | 2 | 1 | RIIZE | [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb49cfa92440a7629ab21a8561" alt="" width="50" /> | 2 | 1 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9ec01c462c51ab9c67572abe" alt="" width="50" /> | 1 | 1 | Lexie Liu | [🔗](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46c7620b97e6eb932d79d97a" alt="" width="50" /> | 1 | 1 | TAEYONG | [🔗](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4f66a54f209012eec464efef" alt="" width="50" /> | 1 | 1 | SISTAR19 | [🔗](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1925e6520e474e569c971b36" alt="" width="50" /> | 1 | 1 | [BoA](../../artists/boa/overview.md) | [🔗](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) |
@@ -71,16 +73,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="BORN TO BE" width="50" /> | [Mr. Vampire](../../artists/itzy/overview.md) | 54 | <img src="https://i.scdn.co/image/ab67616d0000b2735f7540ea5cd0831b2c7e4ff9" alt="BXX" width="50" /> | [BBB](../../artists/purple_kiss/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="BORN TO BE" width="50" /> | [BORN TO BE](../../artists/itzy/overview.md) | 106 | <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="SUPER REAL ME" width="50" /> | Magnetic | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="The Winning" width="50" /> | [Holssi](../../artists/iu/overview.md) | 109 | <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="EENIE MEENIE" width="50" /> | [I’m Ready](../../artists/chung_ha/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="2" width="50" /> | [Doll](../../artists/(g)i-dle/overview.md) | 149 | <img src="https://i.scdn.co/image/ab67616d0000b2738cf0e84e77a46b5317c09924" alt="Killin&#x27; It" width="50" /> | [Killin' It](../../artists/p1harmony/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="Fe3O4: BREAK" width="50" /> | [DASH](../../artists/nmixx/overview.md) | 162 | <img src="https://i.scdn.co/image/ab67616d0000b273a6821d337117c8f69235080a" alt="Impossible" width="50" /> | Siren | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="TEN - The 1st Mini Album" width="50" /> | [Dangerous](../../artists/ten/overview.md) | 164 | <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="DREAM( )SCAPE" width="50" /> | [BOX](../../artists/nct_dream/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273110f5426b8c149e80804912a" alt="EASY" width="50" /> | [Swan Song](../../artists/le_sserafim/overview.md) | 168 | <img src="https://i.scdn.co/image/ab67616d0000b273110f5426b8c149e80804912a" alt="EASY" width="50" /> | [Smart](../../artists/le_sserafim/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="BORN TO BE" width="50" /> | [UNTOUCHABLE](../../artists/itzy/overview.md) | 171 | <img src="https://i.scdn.co/image/ab67616d0000b273f36e973cb830845b56621f78" alt="Emptiness" width="50" /> | [Emptiness](../../artists/boa/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c74be23f27696b57c67f5489" alt="Regret of the Times (2024 aespa Remake Version) - SM STATION" width="50" /> | [Regret of the Times - 2024 aespa Remake Version](../../artists/aespa/overview.md) | 175 | <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="Wish You Hell - The 2nd Mini Album" width="50" /> | [His Car Isn't Yours](../../artists/wendy/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="Fe3O4: BREAK" width="50" /> | [Soñar (Breaker)](../../artists/nmixx/overview.md) | 186 | <img src="https://i.scdn.co/image/ab67616d0000b273a6821d337117c8f69235080a" alt="Impossible" width="50" /> | Impossible | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="BORN TO BE" width="50" /> | [Mr. Vampire](../../artists/itzy/overview.md) | 53 | <img src="https://i.scdn.co/image/ab67616d0000b2735f7540ea5cd0831b2c7e4ff9" alt="BXX" width="50" /> | [BBB](../../artists/purple_kiss/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="BORN TO BE" width="50" /> | [BORN TO BE](../../artists/itzy/overview.md) | 101 | <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="SUPER REAL ME" width="50" /> | Magnetic | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="The Winning" width="50" /> | [Holssi](../../artists/iu/overview.md) | 104 | <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="EENIE MEENIE" width="50" /> | [I’m Ready](../../artists/chung_ha/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="2" width="50" /> | [Doll](../../artists/(g)i-dle/overview.md) | 145 | <img src="https://i.scdn.co/image/ab67616d0000b2738cf0e84e77a46b5317c09924" alt="Killin&#x27; It" width="50" /> | [Killin' It](../../artists/p1harmony/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="Fe3O4: BREAK" width="50" /> | [DASH](../../artists/nmixx/overview.md) | 159 | <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="YUQ1" width="50" /> | [On Clap](../../artists/yuqi/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="TEN - The 1st Mini Album" width="50" /> | [Dangerous](../../artists/ten/overview.md) | 160 | <img src="https://i.scdn.co/image/ab67616d0000b273a6821d337117c8f69235080a" alt="Impossible" width="50" /> | Siren | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273110f5426b8c149e80804912a" alt="EASY" width="50" /> | [Swan Song](../../artists/le_sserafim/overview.md) | 166 | <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="DREAM( )SCAPE" width="50" /> | [BOX](../../artists/nct_dream/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="BORN TO BE" width="50" /> | [UNTOUCHABLE](../../artists/itzy/overview.md) | 169 | <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="YUQ1" width="50" /> | [Red Rover](../../artists/yuqi/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c74be23f27696b57c67f5489" alt="Regret of the Times (2024 aespa Remake Version) - SM STATION" width="50" /> | [Regret of the Times - 2024 aespa Remake Version](../../artists/aespa/overview.md) | 174 | <img src="https://i.scdn.co/image/ab67616d0000b273110f5426b8c149e80804912a" alt="EASY" width="50" /> | [Smart](../../artists/le_sserafim/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="Fe3O4: BREAK" width="50" /> | [Soñar (Breaker)](../../artists/nmixx/overview.md) | 186 | <img src="https://i.scdn.co/image/ab67616d0000b273f36e973cb830845b56621f78" alt="Emptiness" width="50" /> | [Emptiness](../../artists/boa/overview.md) | nan |
 
 </details>
 
@@ -93,18 +95,19 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | 4 | 3 | Wish You Hell - The 2nd Mini Album | 2024-03-12 | [🔗](https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | 4 | 3 | The Winning | 2024-02-20 | [🔗](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="" width="50" /> | 4 | 3 | TEN - The 1st Mini Album | 2024-02-13 | [🔗](https://open.spotify.com/album/50Zo1vf3YCQtXLUZr2oBiQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | 3 | 3 | YUQ1 | 2024-04-23 | [🔗](https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | 3 | 3 | With YOU-th | 2024-02-23 | [🔗](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | 3 | 3 | Fe3O4: BREAK | 2024-01-15 | [🔗](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273110f5426b8c149e80804912a" alt="" width="50" /> | 3 | 2 | EASY | 2024-02-19 | [🔗](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="" width="50" /> | 3 | 1 | SUPER REAL ME | 2024-03-25 | [🔗](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27307568782625b85282541394b" alt="" width="50" /> | 2 | 2 | Midas Touch | 2024-04-03 | [🔗](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) |
 
 
 <details>
-<summary>See all 28 albums</summary>
+<summary>See all 29 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27307568782625b85282541394b" alt="" width="50" /> | 2 | 2 | Midas Touch | 2024-04-03 | [🔗](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="" width="50" /> | 2 | 2 | EENIE MEENIE | 2024-03-11 | [🔗](https://open.spotify.com/album/1q2RNzz09Vx3bOKK1yTyyg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5543b3cce74f3edafcc8f59" alt="" width="50" /> | 2 | 2 | Bam Yang Gang | 2024-02-13 | [🔗](https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6821d337117c8f69235080a" alt="" width="50" /> | 2 | 1 | Impossible | 2024-04-18 | [🔗](https://open.spotify.com/album/1M6NqKR4E8SISWegTJZsWR) |
@@ -127,7 +130,7 @@
 </details>
 
 
-![Bar chart of top 28 albums](../../images/playlists/recent_comebacks/albums.png)
+![Bar chart of top 29 albums](../../images/playlists/recent_comebacks/albums.png)
 
 ## Top Record Labels
 
@@ -135,7 +138,7 @@
 |---:|---:|:---|
 | 15 | 11 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 11 | 11 | [Republic Records](../../labels/republic_records/overview.md) |
-| 5 | 5 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
+| 8 | 8 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 4 | 3 | [EDAM Entertainment](../../labels/edam_entertainment/overview.md) |
 | 3 | 2 | [SOURCE MUSIC](../../labels/source_music/overview.md) |
 | 2 | 2 | [S2 ENTERTAINMENT INC.](../../labels/s2_entertainment_inc_/overview.md) |
@@ -203,7 +206,7 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | [Pop Time](../../producers/pop_time/overview.md) | 3 | Arranger, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1f141491bdd708422f8dbab3" alt="" width="50" /> | YUQI | 2 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1f141491bdd708422f8dbab3" alt="" width="50" /> | [YUQI](../../artists/yuqi/overview.md) | 2 | Lyricist, Songwriter |
 | | 이스란 (Lee, Seran) | 2 | Lyricist |
 | | Kobee | 2 | Arranger, Producer, Songwriter |
 | | Melanie Joy Fontana | 2 | Songwriter, Lyricist |
@@ -306,7 +309,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2024](2024/overview.md) | 58 |
+| [2024](2024/overview.md) | 61 |
 
 </details>
 
@@ -315,13 +318,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273a6821d337117c8f69235080a" alt="Impossible" width="50" /> | Impossible (2024-04-18) | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="BORN TO BE" width="50" /> | BORN TO BE (2024-01-08) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27311c27127b91e1e4266152362" alt="Die Trying" width="50" /> | Die Trying (2024-04-04) | <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="Fe3O4: BREAK" width="50" /> | Fe3O4: BREAK (2024-01-15) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="YUQ1" width="50" /> | YUQ1 (2024-04-23) | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="BORN TO BE" width="50" /> | BORN TO BE (2024-01-08) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a6821d337117c8f69235080a" alt="Impossible" width="50" /> | Impossible (2024-04-18) | <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="Fe3O4: BREAK" width="50" /> | Fe3O4: BREAK (2024-01-15) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27311c27127b91e1e4266152362" alt="Die Trying" width="50" /> | Die Trying (2024-04-04) | <img src="https://i.scdn.co/image/ab67616d0000b2739104b6efe6c3483f605d9633" alt="GOOD MORNING" width="50" /> | GOOD MORNING (2024-01-15) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27307568782625b85282541394b" alt="Midas Touch" width="50" /> | Midas Touch (2024-04-03) | <img src="https://i.scdn.co/image/ab67616d0000b273c74be23f27696b57c67f5489" alt="Regret of the Times (2024 aespa Remake Version) - SM STATION" width="50" /> | Regret of the Times (2024 aespa Remake Version) - SM STATION (2024-01-15) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bf32f4be80afeb0e1a09b27d" alt="Officially Cool" width="50" /> | Officially Cool (2024-04-02) | <img src="https://i.scdn.co/image/ab67616d0000b2739104b6efe6c3483f605d9633" alt="GOOD MORNING" width="50" /> | GOOD MORNING (2024-01-15) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734f6afc385052250c766a5683" alt="BABYMONS7ER" width="50" /> | BABYMONS7ER (2024-04-01) | <img src="https://i.scdn.co/image/ab67616d0000b273fd1b7473a9dc977501d1e8b0" alt="NO MORE (MA BOY)" width="50" /> | NO MORE (MA BOY) (2024-01-16) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b75a7d2227a1a032a8a776e5" alt="Fraggle Rock: Back To The Rock - Season 2 (Apple TV+ Original Series Soundtrack)" width="50" /> | Fraggle Rock: Back To The Rock - Season 2 (Apple TV+ Original Series Soundtrack) (2024-03-29) | <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="2" width="50" /> | 2 (2024-01-29) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f36e973cb830845b56621f78" alt="Emptiness" width="50" /> | Emptiness (2024-03-26) | <img src="https://i.scdn.co/image/ab67616d0000b2738cf0e84e77a46b5317c09924" alt="Killin&#x27; It" width="50" /> | Killin' It (2024-02-05) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="DREAM( )SCAPE" width="50" /> | DREAM( )SCAPE (2024-03-25) | <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="TEN - The 1st Mini Album" width="50" /> | TEN - The 1st Mini Album (2024-02-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bf32f4be80afeb0e1a09b27d" alt="Officially Cool" width="50" /> | Officially Cool (2024-04-02) | <img src="https://i.scdn.co/image/ab67616d0000b273fd1b7473a9dc977501d1e8b0" alt="NO MORE (MA BOY)" width="50" /> | NO MORE (MA BOY) (2024-01-16) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734f6afc385052250c766a5683" alt="BABYMONS7ER" width="50" /> | BABYMONS7ER (2024-04-01) | <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="2" width="50" /> | 2 (2024-01-29) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b75a7d2227a1a032a8a776e5" alt="Fraggle Rock: Back To The Rock - Season 2 (Apple TV+ Original Series Soundtrack)" width="50" /> | Fraggle Rock: Back To The Rock - Season 2 (Apple TV+ Original Series Soundtrack) (2024-03-29) | <img src="https://i.scdn.co/image/ab67616d0000b2738cf0e84e77a46b5317c09924" alt="Killin&#x27; It" width="50" /> | Killin' It (2024-02-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f36e973cb830845b56621f78" alt="Emptiness" width="50" /> | Emptiness (2024-03-26) | <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="TEN - The 1st Mini Album" width="50" /> | TEN - The 1st Mini Album (2024-02-13) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="SUPER REAL ME" width="50" /> | SUPER REAL ME (2024-03-25) | <img src="https://i.scdn.co/image/ab67616d0000b273c5543b3cce74f3edafcc8f59" alt="Bam Yang Gang" width="50" /> | Bam Yang Gang (2024-02-13) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f7540ea5cd0831b2c7e4ff9" alt="BXX" width="50" /> | BXX (2024-03-19) | <img src="https://i.scdn.co/image/ab67616d0000b273110f5426b8c149e80804912a" alt="EASY" width="50" /> | EASY (2024-02-19) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="DREAM( )SCAPE" width="50" /> | DREAM( )SCAPE (2024-03-25) | <img src="https://i.scdn.co/image/ab67616d0000b273110f5426b8c149e80804912a" alt="EASY" width="50" /> | EASY (2024-02-19) |

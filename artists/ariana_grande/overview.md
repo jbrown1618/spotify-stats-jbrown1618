@@ -10,14 +10,13 @@
 
 ## Artist Rank
 Ariana Grande is currently:
-- The #26 artist of the last month
+- The #22 artist of the last month
 - The #17 artist of the last 6 months
-- The #30 artist of all time
+- The #29 artist of all time
 
 ![Rank of Ariana Grande over time](../../images/artists/ariana_grande/rank_time_series.png)
 ## Top Tracks
 
-- Problem is the #4 track of the last month
 
 ### Top tracks, aggregated
 
@@ -29,7 +28,7 @@ Ariana Grande is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 9 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022c0252c4e4a988f024e4d262ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 7 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e026f248f7695eb544a3a1955c5ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e028acb7bac073f378d59bf228eab67616d00001e02b3be3b970fc89a02f301c9da" alt="" width="50" /> | 4 | [Workout](../../playlists/workout/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e020c053ee476f7ce576369241eab67616d00001e02119e4094f07a8123b471ac1dab67616d00001e022a0face7d69df61c20a6db2bab67616d00001e027c78b57a88c7c109176bc999" alt="" width="50" /> | 3 | [Christmas](../../playlists/christmas/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e020c053ee476f7ce576369241eab67616d00001e02119e4094f07a8123b471ac1dab67616d00001e022a0face7d69df61c20a6db2bab67616d00001e02cfbcba7cc35a40e08e5aff67" alt="" width="50" /> | 3 | [Christmas](../../playlists/christmas/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02830de2e836036f181df598d0ab67616d00001e02af2fda9fb591d43c355c2ac3ab67616d00001e02cc6f76f75551af499b5cd0cbab67616d00001e02da343b21617aac0c57e332bb" alt="" width="50" /> | 2 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e021c3e0a58f3ee28af2922e351ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e02d5d11b6ac4242aaa41c8be69ab67616d00001e02d8856d19e1f5784ed643d862" alt="" width="50" /> | 1 | [Relax](../../playlists/relax/overview.md) |
 
@@ -220,9 +219,9 @@ Ariana Grande is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | Problem | My Everything (Deluxe) | [Ariana Grande](overview.md), Iggy Azalea | [Universal Records](../../labels/universal_music_llc) | 244 | 💚 | [🔗](https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5" alt="" width="50" /> | Santa Tell Me | Santa Tell Me | [Ariana Grande](overview.md) | [Universal Records](../../labels/universal_music_llc) | 469 | | [🔗](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | imagine | thank u, next | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | 565 | 💚 | [🔗](https://open.spotify.com/track/39LmTF9RgyakzSYX8txrow) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | Problem | My Everything (Deluxe) | [Ariana Grande](overview.md), Iggy Azalea | [Universal Records](../../labels/universal_music_llc) | 245 | 💚 | [🔗](https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5" alt="" width="50" /> | Santa Tell Me | Santa Tell Me | [Ariana Grande](overview.md) | [Universal Records](../../labels/universal_music_llc) | 470 | | [🔗](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | imagine | thank u, next | [Ariana Grande](overview.md) | [Republic Records](../../labels/republic_records) | 564 | 💚 | [🔗](https://open.spotify.com/track/39LmTF9RgyakzSYX8txrow) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c053ee476f7ce576369241e" alt="" width="50" /> | Last Christmas | Christmas Kisses | [Ariana Grande](overview.md) | [Universal Records](../../labels/universal_music_llc) | nan | | [🔗](https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c053ee476f7ce576369241e" alt="" width="50" /> | Santa Baby | Christmas Kisses | [Ariana Grande](overview.md), Liz Gillies | [Universal Records](../../labels/universal_music_llc) | nan | | [🔗](https://open.spotify.com/track/6YJdPrH3i2POzu7hdHIRrb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e" alt="" width="50" /> | Baby I | Yours Truly | [Ariana Grande](overview.md) | [Universal Records](../../labels/universal_music_llc) | nan | 💚 | [🔗](https://open.spotify.com/track/6EIsMa5lbvljYxqCkjZVDi) |

@@ -16,15 +16,15 @@ WENDY:
 
 ## Artist Rank
 WENDY is currently:
-- The #19 artist of the last month
+- The #17 artist of the last month
 - The #37 artist of the last 6 months
-- The #42 artist of all time
+- The #41 artist of all time
 
 ![Rank of WENDY over time](../../images/artists/wendy/rank_time_series.png)
 ## Top Tracks
 
 - Wish You Hell is the #23 track of the On Repeat playlist
-- Better Judgement is the #30 track of the last month
+- Better Judgement is the #27 track of the last month
 
 ### Top tracks, aggregated
 
@@ -53,7 +53,7 @@ WENDY is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e023317fc12f8b9a9a0b8459766ab67616d00001e0263e0ddbb488d0eeec0e738fcab67616d00001e0284095737f6056e682666d6f9ab67616d00001e02f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | [K-Pop-Adjacent](../../playlists/k-pop-adjacent/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024897a7925914a3a10ce68c31ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e02bf5f4138ebc9ba3fd6f0cde9ab67616d00001e02d8856d19e1f5784ed643d862" alt="" width="50" /> | 1 | [Recommendations for Jeff](../../playlists/recommendations_for_jeff/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e021869a85947a5ea00df8c936fab67616d00001e025048ed32fafe7b9a50d0e410ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Recommendations for Chris](../../playlists/recommendations_for_chris/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e020c053ee476f7ce576369241eab67616d00001e02119e4094f07a8123b471ac1dab67616d00001e022a0face7d69df61c20a6db2bab67616d00001e027c78b57a88c7c109176bc999" alt="" width="50" /> | 1 | [Christmas](../../playlists/christmas/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e020c053ee476f7ce576369241eab67616d00001e02119e4094f07a8123b471ac1dab67616d00001e022a0face7d69df61c20a6db2bab67616d00001e02cfbcba7cc35a40e08e5aff67" alt="" width="50" /> | 1 | [Christmas](../../playlists/christmas/overview.md) |
 
 ## Top Albums
 
@@ -100,8 +100,8 @@ WENDY is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | When This Rain Stops | Like Water - The 1st Mini Album | [WENDY](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 23 | 💚 | [🔗](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Time After Time | 2022 Winter SMTOWN : SMCU PALACE | [BoA](../boa/overview.md), [WENDY](overview.md), NINGNING | [SM Entertainment](../../labels/sm_entertainment) | 59 | 💚 | [🔗](https://open.spotify.com/track/6LGcOydwjfaquaRgJwlPkK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | Like Water | Like Water - The 1st Mini Album | [WENDY](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 88 | 💚 | [🔗](https://open.spotify.com/track/37LhFxchiyAJVop5JgRZgY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Wish You Hell | Wish You Hell - The 2nd Mini Album | [WENDY](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 215 | 💚 | [🔗](https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Better Judgement | Wish You Hell - The 2nd Mini Album | [WENDY](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 550 | | [🔗](https://open.spotify.com/track/0CjGCpqs4qBqZi7ibYyZLi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Wish You Hell | Wish You Hell - The 2nd Mini Album | [WENDY](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 216 | 💚 | [🔗](https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Better Judgement | Wish You Hell - The 2nd Mini Album | [WENDY](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 512 | | [🔗](https://open.spotify.com/track/0CjGCpqs4qBqZi7ibYyZLi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c2220e622cd370a4237727f8" alt="" width="50" /> | 봄인가 봐 Spring Love | 봄인가 봐 Spring Love - SM STATION | [WENDY](overview.md), Eric Nam | [SM Entertainment](../../labels/sm_entertainment) | nan | | [🔗](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb5333f17b22081d93856e43" alt="" width="50" /> | Have Yourself A Merry Little Christmas | Have Yourself A Merry Little Christmas - SM STATION | Jay JungJae Moon, [WENDY](overview.md), Nile Lee | [SM Entertainment](../../labels/sm_entertainment) | nan | | [🔗](https://open.spotify.com/track/6SmFhQAavuPzBm3OUH1Kzs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386468c650757ef3eb49ba6d3" alt="" width="50" /> | Doll | Doll - SM STATION | [WENDY](overview.md), [SEULGI](../seulgi/overview.md), KANGTA | [SM Entertainment](../../labels/sm_entertainment) | nan | | [🔗](https://open.spotify.com/track/5Iy48VE6KN7Ywml5hlOd9u) |

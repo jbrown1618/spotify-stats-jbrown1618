@@ -1,6 +1,6 @@
 # show tunes
 
-36 songs
+37 songs
 
 [See Track Features](audio_features.md)
 
@@ -23,7 +23,7 @@
 
 
 <details>
-<summary>See all 49 artists</summary>
+<summary>See all 51 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -44,6 +44,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fcbddbda90806eeb748831e8" alt="" width="50" /> | 1 | 0 | Aaron Tveit | [🔗](https://open.spotify.com/artist/68h2f0WXn4zEctSgNYozXx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739df743876af625c169430dee" alt="" width="50" /> | 1 | 0 | Amanda Seyfried | [🔗](https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u) |
 | | 1 | 0 | Jan Neuberger | [🔗](https://open.spotify.com/artist/5LATQYuPWELZCDEdGYN5YH) |
+| <img src="https://i.scdn.co/image/41c63be4487e9b02f319fa25dc89524bbc83c1b3" alt="" width="50" /> | 1 | 0 | Alessandro Safina | [🔗](https://open.spotify.com/artist/5ITJs06INM9JWxK5hROEj3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8fc84f7c80e1310b0cd5453d" alt="" width="50" /> | 1 | 0 | Sean McCourt | [🔗](https://open.spotify.com/artist/53KxkH27mKZgcCmtdKYBl7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd8ebafdbc2ea4e2461a5d29" alt="" width="50" /> | 1 | 0 | John Tartaglia | [🔗](https://open.spotify.com/artist/4L7TL4CnvDR3iZQuVy6ESm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350ff984b366cb285a53254f3" alt="" width="50" /> | 1 | 0 | Cast - The Little Mermaid | [🔗](https://open.spotify.com/artist/433fI3xZoJp1D1dizEkJ3R) |
@@ -64,6 +65,7 @@
 | | 1 | 0 | Jacob Tremblay | [🔗](https://open.spotify.com/artist/1RuyU38m8bFrOef3EeRHM8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 1 | 0 | [Michael Bublé](../../artists/michael_bublé/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 | | 1 | 0 | Kajuana Shuford | [🔗](https://open.spotify.com/artist/19lzhCGyMdYlxjtCwHi1Ee) |
+| <img src="https://i.scdn.co/image/4f4b7d3b7f76e3c57d3004ba0d99368cdb7e3276" alt="" width="50" /> | 1 | 0 | Ewan McGregor | [🔗](https://open.spotify.com/artist/105Paee9vmV5rfLSG652e1) |
 | | 1 | 0 | Ensemble - The Lion King | [🔗](https://open.spotify.com/artist/0s0Hfb6ckk9qTjDeUOZXJp) |
 | <img src="https://i.scdn.co/image/09f4a0a499359540e40075f8e912d7c3e94bc4a6" alt="" width="50" /> | 1 | 0 | Anne Hathaway | [🔗](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) |
 
@@ -76,8 +78,8 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="Into The Woods (2022 Broadway Cast Recording)" width="50" /> | Giants In The Sky | 296 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Who Am I? - From "Les Miserables'' | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> | Baby It's Cold Outside (with Michael Bublé) | 520 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | One Last Time | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="Into The Woods (2022 Broadway Cast Recording)" width="50" /> | Giants In The Sky | 301 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Who Am I? - From "Les Miserables'' | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> | Baby It's Cold Outside (with Michael Bublé) | 523 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | One Last Time | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Wait for It | nan | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | The Election of 1800 | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27391eee92ba7620a88de647ade" alt="The Little Mermaid (Original Motion Picture Soundtrack)" width="50" /> | Under the Sea | nan | <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="Wicked (Original Broadway Cast Recording / Deluxe Edition)" width="50" /> | No One Mourns The Wicked - From "Wicked" Original Broadway Cast Recording/2003 | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | The Schuyler Sisters | nan | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Do You Hear The People Sing? | nan |
@@ -96,13 +98,24 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="" width="50" /> | 8 | 0 | Wicked (Original Broadway Cast Recording / Deluxe Edition) | 2013-01-01 | [🔗](https://open.spotify.com/album/1woCvthHJakakroP6dXNxs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27391eee92ba7620a88de647ade" alt="" width="50" /> | 2 | 0 | The Little Mermaid (Original Motion Picture Soundtrack) | 2023-05-19 | [🔗](https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736cb0475872d38753052ac35a" alt="" width="50" /> | 1 | 0 | The Lion King: Original Broadway Cast Recording | 1997-01-01 | [🔗](https://open.spotify.com/album/1y6p6tINBthUWsQVQJmiYK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273687e8a165b272440a68a480f" alt="" width="50" /> | 1 | 0 | Moulin Rouge | 2001-01-01 | [🔗](https://open.spotify.com/album/1Kg7AyuyIMTfD6geg9VghI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | 1 | 0 | Into The Woods (2022 Broadway Cast Recording) | 2022-09-30 | [🔗](https://open.spotify.com/album/5z6BFXI711HbSAXDjgOAHE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | 1 | 0 | Holiday Wishes | 2014-10-10 | [🔗](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735929af1edd645142df679910" alt="" width="50" /> | 1 | 0 | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) | 2019-11-15 | [🔗](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a985e1e7c6b095da213eaa7c" alt="" width="50" /> | 1 | 0 | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) | 2013-01-01 | [🔗](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) |
+
+
+<details>
+<summary>See all 11 albums</summary>
+
+| Art | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273353e8e2e9f685ebc5b785d1e" alt="" width="50" /> | 1 | 0 | Avenue Q (Original Broadway Cast Recording) | 2003-10-06 | [🔗](https://open.spotify.com/album/4Ok0WpQf9ucxEbd0wJV5Cx) |
 
-![Bar chart of top 10 albums](../../images/genres/show_tunes/albums.png)
+</details>
+
+
+![Bar chart of top 11 albums](../../images/genres/show_tunes/albums.png)
 
 ## Top Record Labels
 
@@ -113,10 +126,12 @@
 | 8 | 0 | [Verve (Adult Contemporary) MC](../../labels/verve_(adult_contemporary)_mc/overview.md) |
 | 5 | 0 | [Walt Disney Records](../../labels/walt_disney_records/overview.md) |
 | 1 | 0 | [Warner Records](../../labels/warner_records/overview.md) |
+| 1 | 0 | Moulin Rouge |
 | 1 | 0 | Masterworks Broadway |
+| 1 | 0 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 1 | 0 | [Craft Recordings](../../labels/craft_recordings/overview.md) |
 
-![Bar chart of top 7 record labels](../../images/genres/show_tunes/labels.png)
+![Bar chart of top 9 record labels](../../images/genres/show_tunes/labels.png)
 
 ## Top Producers
 
@@ -131,14 +146,14 @@
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27391eee92ba7620a88de647ade" alt="The Little Mermaid (Original Motion Picture Soundtrack)" width="50" /> | The Little Mermaid (Original Motion Picture Soundtrack) (2023-05-19) | <img src="https://i.scdn.co/image/ab67616d0000b2736cb0475872d38753052ac35a" alt="The Lion King: Original Broadway Cast Recording" width="50" /> | The Lion King: Original Broadway Cast Recording (1997-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="Into The Woods (2022 Broadway Cast Recording)" width="50" /> | Into The Woods (2022 Broadway Cast Recording) (2022-09-30) | <img src="https://i.scdn.co/image/ab67616d0000b273353e8e2e9f685ebc5b785d1e" alt="Avenue Q (Original Broadway Cast Recording)" width="50" /> | Avenue Q (Original Broadway Cast Recording) (2003-10-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735929af1edd645142df679910" alt="Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) (2019-11-15) | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Hamilton (Original Broadway Cast Recording) (2015-09-25) | <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="Wicked (Original Broadway Cast Recording / Deluxe Edition)" width="50" /> | Wicked (Original Broadway Cast Recording / Deluxe Edition) (2013-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> | Holiday Wishes (2014-10-10) | <img src="https://i.scdn.co/image/ab67616d0000b273a985e1e7c6b095da213eaa7c" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> | Holiday Wishes (2014-10-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="Wicked (Original Broadway Cast Recording / Deluxe Edition)" width="50" /> | Wicked (Original Broadway Cast Recording / Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Hamilton (Original Broadway Cast Recording) (2015-09-25) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a985e1e7c6b095da213eaa7c" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2735929af1edd645142df679910" alt="Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) (2019-11-15) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273353e8e2e9f685ebc5b785d1e" alt="Avenue Q (Original Broadway Cast Recording)" width="50" /> | Avenue Q (Original Broadway Cast Recording) (2003-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="Into The Woods (2022 Broadway Cast Recording)" width="50" /> | Into The Woods (2022 Broadway Cast Recording) (2022-09-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736cb0475872d38753052ac35a" alt="The Lion King: Original Broadway Cast Recording" width="50" /> | The Lion King: Original Broadway Cast Recording (1997-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b27391eee92ba7620a88de647ade" alt="The Little Mermaid (Original Motion Picture Soundtrack)" width="50" /> | The Little Mermaid (Original Motion Picture Soundtrack) (2023-05-19) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="Into The Woods (2022 Broadway Cast Recording)" width="50" /> | Into The Woods (2022 Broadway Cast Recording) (2022-09-30) | <img src="https://i.scdn.co/image/ab67616d0000b273687e8a165b272440a68a480f" alt="Moulin Rouge" width="50" /> | Moulin Rouge (2001-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735929af1edd645142df679910" alt="Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) (2019-11-15) | <img src="https://i.scdn.co/image/ab67616d0000b273353e8e2e9f685ebc5b785d1e" alt="Avenue Q (Original Broadway Cast Recording)" width="50" /> | Avenue Q (Original Broadway Cast Recording) (2003-10-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Hamilton (Original Broadway Cast Recording) (2015-09-25) | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> | Holiday Wishes (2014-10-10) | <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="Wicked (Original Broadway Cast Recording / Deluxe Edition)" width="50" /> | Wicked (Original Broadway Cast Recording / Deluxe Edition) (2013-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273a985e1e7c6b095da213eaa7c" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="Wicked (Original Broadway Cast Recording / Deluxe Edition)" width="50" /> | Wicked (Original Broadway Cast Recording / Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> | Holiday Wishes (2014-10-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a985e1e7c6b095da213eaa7c" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Hamilton (Original Broadway Cast Recording) (2015-09-25) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273353e8e2e9f685ebc5b785d1e" alt="Avenue Q (Original Broadway Cast Recording)" width="50" /> | Avenue Q (Original Broadway Cast Recording) (2003-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b2735929af1edd645142df679910" alt="Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)" width="50" /> | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) (2019-11-15) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273687e8a165b272440a68a480f" alt="Moulin Rouge" width="50" /> | Moulin Rouge (2001-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="Into The Woods (2022 Broadway Cast Recording)" width="50" /> | Into The Woods (2022 Broadway Cast Recording) (2022-09-30) |
 
 ![Bar chart of number of songs by year](../../images/genres/show_tunes/years.png)

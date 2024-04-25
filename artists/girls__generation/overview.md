@@ -25,13 +25,14 @@ Girls' Generation:
 
 ## Artist Rank
 Girls' Generation is currently:
-- The #41 artist of all time
+- The #42 artist of the last month
+- The #40 artist of all time
 
 ![Rank of Girls' Generation over time](../../images/artists/girls__generation/rank_time_series.png)
 ## Top Tracks
 
-- The Boys is the #19 track of all time
-- Run Devil Run is the #50 track of the last month
+- The Boys is the #18 track of all time
+- Run Devil Run is the #45 track of the last month
 
 ### Top tracks, aggregated
 
@@ -47,7 +48,7 @@ Girls' Generation is currently:
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 17 | [K-Pop](../../playlists/k-pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 19 | [K-Pop](../../playlists/k-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 7 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 4 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e023613e1e0d35867a0814005a9ab67616d00001e024a8e5eaab8b02db02e487c27ab67616d00001e0259fcda8d47bbd0f6c2bf1647ab67616d00001e028bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 3 | [Halloween](../../playlists/halloween/overview.md) |
@@ -63,12 +64,12 @@ Girls' Generation is currently:
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | 5 | 3 | FOREVER 1 - The 7th Album | 2022-08-05 | [🔗](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27341e9e282e569b2279c2171de" alt="" width="50" /> | 2 | 2 | Mr. Mr. - The 4th Mini Album | 2014-02-24 | [🔗](https://open.spotify.com/album/1WyHAY8OWdfCFWTF0Ufwjj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | 2 | 1 | Oh! - The Second Album | 2010-01-28 | [🔗](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="" width="50" /> | 2 | 1 | Lion Heart - The 5th Album | 2015-08-19 | [🔗](https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="" width="50" /> | 2 | 1 | I GOT A BOY - The 4th Album | 2013-01-01 | [🔗](https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361d7b9988c77826dfb1db1b3" alt="" width="50" /> | 1 | 1 | The Boys - The 3rd Album | 2011-10-19 | [🔗](https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="" width="50" /> | 1 | 1 | Run Devil Run - The 2nd Album Repackage | 2010-03-22 | [🔗](https://open.spotify.com/album/2b4JQKXl0gwf3bnAfhZwLA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27341e9e282e569b2279c2171de" alt="" width="50" /> | 1 | 1 | Mr. Mr. - The 4th Mini Album | 2014-02-24 | [🔗](https://open.spotify.com/album/1WyHAY8OWdfCFWTF0Ufwjj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="" width="50" /> | 1 | 1 | Lion Heart - The 5th Album | 2015-08-19 | [🔗](https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa7646e7aa8a4e001cb8a805" alt="" width="50" /> | 1 | 1 | Gee - The First Mini Album | 2009-01-05 | [🔗](https://open.spotify.com/album/4YroJ4NELkaJ34JjEZ6RyJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359a2a72ecab2e8b551eafe36" alt="" width="50" /> | 1 | 1 | Catch Me If You Can | 2015-04-10 | [🔗](https://open.spotify.com/album/4efZAcyaIaPMIeBQheHKOy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ee58f0e04b175603c1f56668" alt="" width="50" /> | 1 | 0 | Holiday Night - The 6th Album | 2017-08-04 | [🔗](https://open.spotify.com/album/5MQM8Jw1FvT21Dny8cOXjF) |
@@ -88,7 +89,7 @@ Girls' Generation is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 17 | 11 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 19 | 12 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 
 ## Genres
 
@@ -166,7 +167,7 @@ Girls' Generation is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273286903a9b4f8bce214f1dffa" alt="" width="50" /> | Run Devil Run | Run Devil Run - The 2nd Album Repackage | [Girls' Generation](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 46 | 💚 | [🔗](https://open.spotify.com/track/0U9jNoTJeTxXToakhsb7pV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361d7b9988c77826dfb1db1b3" alt="" width="50" /> | The Boys | The Boys - The 3rd Album | [Girls' Generation](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 55 | 💚 | [🔗](https://open.spotify.com/track/4sRQg2aoec0VIvQ7GZPGMy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="" width="50" /> | Lion Heart | Lion Heart - The 5th Album | [Girls' Generation](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 60 | 💚 | [🔗](https://open.spotify.com/track/405SQUJdQut02dxtuQ0CZ3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="" width="50" /> | I GOT A BOY | I GOT A BOY - The 4th Album | [Girls' Generation](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 595 | 💚 | [🔗](https://open.spotify.com/track/2WkPfNd237yc0l5KewCDpp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="" width="50" /> | I GOT A BOY | I GOT A BOY - The 4th Album | [Girls' Generation](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 592 | 💚 | [🔗](https://open.spotify.com/track/2WkPfNd237yc0l5KewCDpp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731111b7562b4b46870d27f98b" alt="" width="50" /> | Into the New World | Girls' Generation | [Girls' Generation](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | | [🔗](https://open.spotify.com/track/1RTW9UthqmZwr8Od6CH4i8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa7646e7aa8a4e001cb8a805" alt="" width="50" /> | Gee | Gee - The First Mini Album | [Girls' Generation](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/2BQIMF7CyLe2xAKzh74A4C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b57e9b31c831fb2137c38e2" alt="" width="50" /> | Genie | Oh! - The Second Album | [Girls' Generation](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/6kN3vvzDiVZP2hiPA0ApMd) |
@@ -180,7 +181,9 @@ Girls' Generation is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27341e9e282e569b2279c2171de" alt="" width="50" /> | Soul | Mr. Mr. - The 4th Mini Album | [Girls' Generation](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/76ssTbsB9z3eXcAfcEx19r) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359a2a72ecab2e8b551eafe36" alt="" width="50" /> | Catch Me If You Can - Korean Version | Catch Me If You Can | [Girls' Generation](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/5mejZAeca4Ry7Sptw7LnvS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="" width="50" /> | Check | Lion Heart - The 5th Album | [Girls' Generation](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | | [🔗](https://open.spotify.com/track/3EQC9pepDeytAuIC6zShEF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ee58f0e04b175603c1f56668" alt="" width="50" /> | Holiday | Holiday Night - The 6th Album | [Girls' Generation](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | | [🔗](https://open.spotify.com/track/1Bjy9ZtwMle3uhVgoBgiGN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | Closer | FOREVER 1 - The 7th Album | [Girls' Generation](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | | [🔗](https://open.spotify.com/track/7JWXQE9QBQ8BAPFKAwnUWP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | FOREVER 1 | FOREVER 1 - The 7th Album | [Girls' Generation](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) |

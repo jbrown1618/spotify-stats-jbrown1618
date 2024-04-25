@@ -14,8 +14,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27311d3a0bab62d67dfc7645745" alt="WOLF" width="50" /> | FACE (0.954) | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | Born To Die (0.18) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | Ah puh (0.954) | <img src="https://i.scdn.co/image/ab67616d0000b273fc82939fb76760e640d7edca" alt="Homeward" width="50" /> | You Take My Breath Away (0.192) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fde8f652864b52fc8c266dee" alt="STELLA I" width="50" /> | Villain (0.95) | <img src="https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d" alt="Infinity" width="50" /> | Lights (0.193) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="WAP (feat. Megan Thee Stallion)" width="50" /> | WAP (feat. Megan Thee Stallion) (0.935) | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="The Nat King Cole Story" width="50" /> | Nature Boy (0.203) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="NewJeans 2nd EP &#x27;Get Up&#x27;" width="50" /> | ASAP (0.934) | <img src="https://i.scdn.co/image/ab67616d0000b2737bc42f3bfb5b7cfe28fbee25" alt="After Hours" width="50" /> | Just Friends (0.203) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="YUQ1" width="50" /> | On Clap (0.949) | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="The Nat King Cole Story" width="50" /> | Nature Boy (0.203) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="WAP (feat. Megan Thee Stallion)" width="50" /> | WAP (feat. Megan Thee Stallion) (0.935) | <img src="https://i.scdn.co/image/ab67616d0000b2737bc42f3bfb5b7cfe28fbee25" alt="After Hours" width="50" /> | Just Friends (0.203) |
 
 ## Energy
 

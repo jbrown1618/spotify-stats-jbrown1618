@@ -21,7 +21,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 4 | 4 | 1000 Forms Of Fear (Deluxe Version) | 2015-05-04 | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | 3 | 3 | This Is Acting (Deluxe Version) | 2016-10-21 | [🔗](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | 2 | 0 | Everyday Is Christmas (Deluxe Edition) | 2018-11-01 | [🔗](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e503d029495d26255a63fb0f" alt="" width="50" /> | 1 | 1 | I Forgive You | 2024-04-12 | [🔗](https://open.spotify.com/album/3RPlxsjui6dOA6qMDBH70E) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273838bb28e567263d01c1efc01" alt="" width="50" /> | 1 | 1 | I Forgive You | 2024-04-12 | [🔗](https://open.spotify.com/album/3RPlxsjui6dOA6qMDBH70E) |
 
 ![Bar chart of top 4 albums](../../images/labels/monkey_puzzle/albums.png)
 
@@ -69,7 +69,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | Santa's Coming for Us | Everyday Is Christmas (Deluxe Edition) | [Sia](../../artists/sia/overview.md) | [Atlantic Records](../atlantic_records), [Monkey Puzzle](.) | 381 | | [🔗](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | Santa's Coming for Us | Everyday Is Christmas (Deluxe Edition) | [Sia](../../artists/sia/overview.md) | [Atlantic Records](../atlantic_records), [Monkey Puzzle](.) | 382 | | [🔗](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | Big Girls Cry | 1000 Forms Of Fear (Deluxe Version) | [Sia](../../artists/sia/overview.md) | [Monkey Puzzle](.), [RCA Records Label](../rca_records_label) | nan | 💚 | [🔗](https://open.spotify.com/track/7zE6pyXLjUCOy8PG0UL5SZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | Chandelier | 1000 Forms Of Fear (Deluxe Version) | [Sia](../../artists/sia/overview.md) | [Monkey Puzzle](.), [RCA Records Label](../rca_records_label) | nan | 💚 | [🔗](https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | Elastic Heart | 1000 Forms Of Fear (Deluxe Version) | [Sia](../../artists/sia/overview.md) | [Monkey Puzzle](.), [RCA Records Label](../rca_records_label) | nan | 💚 | [🔗](https://open.spotify.com/track/5S9lfZu1YF8xKkgSsqL2Bd) |
@@ -78,4 +78,4 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | Bird Set Free | This Is Acting (Deluxe Version) | [Sia](../../artists/sia/overview.md) | [Monkey Puzzle](.), [RCA Records Label](../rca_records_label) | nan | 💚 | [🔗](https://open.spotify.com/track/6MowG7MRVgPfGlCMsXKMJ2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837" alt="" width="50" /> | Cheap Thrills | This Is Acting (Deluxe Version) | [Sia](../../artists/sia/overview.md) | [Monkey Puzzle](.), [RCA Records Label](../rca_records_label) | nan | 💚 | [🔗](https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | Snowman | Everyday Is Christmas (Deluxe Edition) | [Sia](../../artists/sia/overview.md) | [Atlantic Records](../atlantic_records), [Monkey Puzzle](.) | nan | | [🔗](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e503d029495d26255a63fb0f" alt="" width="50" /> | I Forgive You | I Forgive You | [Sia](../../artists/sia/overview.md) | [Atlantic Records](../atlantic_records), [Monkey Puzzle](.) | nan | 💚 | [🔗](https://open.spotify.com/track/2jh0kJheW38ljJucWMoaG6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273838bb28e567263d01c1efc01" alt="" width="50" /> | I Forgive You | I Forgive You | [Sia](../../artists/sia/overview.md) | [Atlantic Records](../atlantic_records), [Monkey Puzzle](.) | nan | 💚 | [🔗](https://open.spotify.com/track/2jh0kJheW38ljJucWMoaG6) |

@@ -8,6 +8,7 @@ recording_mbid,recording_title,recording_language
 01bb5b05-4424-42b5-ab34-eec81d3e63b2,Feels So Good,
 01c2a40e-cafb-4a92-a83b-551fbc64e666,Don’t Speak,
 01e1696b-b3c7-4ffe-a42b-ec2c952f7429,You Can Call Me Al,eng
+01e1cfa1-ee04-4e35-bca7-03c017ad86e3,"So Long, London",eng
 0210f62e-05cd-46e8-8a18-fe8ddb1aecdc,Sweet Juice,mul
 02251981-33fa-4249-9724-2a87293586c4,obsessed,eng
 025262a0-6b15-4192-aaf8-bfc40622b053,Forgive Me,kor
@@ -107,6 +108,7 @@ recording_mbid,recording_title,recording_language
 10f04445-5ef1-4511-b5ef-1f436e915a7f,Zero,
 1109d8da-ce4a-4739-9414-242dc3e9b81c,Despacito,spa
 11294597-b4ac-4717-8e95-f99d665c1ece,We Found Love,eng
+114bb25a-4120-4513-8bc4-909d604ebe80,Red Rover,
 1195e3a3-d78c-4521-a5d8-6765d86d4d09,I’d Rather Go Blind,eng
 11cd940f-6693-4af2-9319-94cabf2816de,Why Can’t You Love Me?,
 1228007c-cfec-4b62-ab34-a5f129c6ed37,LALALALA,
@@ -331,6 +333,7 @@ recording_mbid,recording_title,recording_language
 2e763307-db63-420d-9efc-d0a780e080dc,Old Flame,eng
 2eb1482d-5b8a-4142-a110-54d813195fcd,Melt Away,
 2ef0762b-b19d-4355-b19a-7af087497599,Grenade,eng
+2f0f4d3b-f190-4746-861a-fb23eeab25e0,COOL (Your rainbow),mul
 2f103895-6fb4-4c8e-a75a-a4623d078db0,Falling,eng
 2f126ad4-7fc5-4e5a-8fac-571f38f4e977,Underwater,
 2f649db8-fbff-48c6-84d3-ae0e43069d58,imperfect for you,eng
@@ -379,6 +382,7 @@ recording_mbid,recording_title,recording_language
 358acfec-9929-46a0-9f6c-d37e71802669,Wrap Me in Plastic,
 35afc00f-ddbc-4159-b6da-ea4f325ea5b8,PING PONG,
 35bdd7d1-4529-496a-aad4-060000d9cc99,Trick or Trick,
+35cbd3bd-5424-44ad-90e1-39c7c31d558b,On Clap,
 35f32fae-ad82-4324-bf16-72dd6cabadbf,A New Kind of Love,eng
 3604eb06-4bc2-4416-9b31-ceadae51bc70,We Are the Champions,eng
 36206928-d110-4873-9988-59d15f5ece1d,Delilah,eng
@@ -388,6 +392,7 @@ recording_mbid,recording_title,recording_language
 3725301f-848e-45a5-80d0-38ffd637e7fe,분홍신,kor
 37347a97-76f6-4294-a02b-a16a53008f88,Karma,eng
 375d6b2b-9726-4040-94e9-b4afe90d26d1,Dolphin,kor
+3776b736-2686-430d-8ee3-cbc74c50f8ee,Soul,
 3777c060-6ef0-4132-a4a0-cd337d844c7c,The Light,
 3780cb7f-f33a-4e6a-85d8-6667a571a707,BLAME IT ON ME,
 37db00a3-50f4-4492-ab1d-eb122d52946f,Yummy Yummy Love,
@@ -420,6 +425,7 @@ recording_mbid,recording_title,recording_language
 3b4a3bd3-944d-45f4-ac92-ab72a7448ba2,Goodnight and Go,eng
 3bc5a4fc-5a57-4758-8590-524f3642fce7,Guilty,
 3c295fcb-ceec-433b-ba0e-d40c471187ba,Shh..,
+3c31de53-e354-4813-a8f9-69fabd031130,SAY SOMETHING,mul
 3c37ee70-6a4b-499e-9bb3-51e5a16bad44,Cecilia,
 3c5d6093-aead-41f7-95ef-88b20593a6e8,Unknown (to You),eng
 3cb1dd01-8d21-4f00-bb9c-8edaf9cd4df4,Love Lee,
@@ -493,6 +499,7 @@ recording_mbid,recording_title,recording_language
 48d9340a-0c6a-469a-b043-eeaec9f577c6,Technologic,
 48e2a8ad-ab5c-4877-8cc6-d3ecc1d1775b,GENTO,
 4952857d-5834-466b-9f92-46328376da76,NO PROBLEM,eng
+4967326c-38e5-4d49-8744-0b788e4eaad0,FREAK,
 4976bc58-cf5b-4b05-8d6b-a6832e9882dc,FIRE,jpn
 49c8f770-507e-424c-a1a8-247763225e52,Caroline,
 49cb34a2-07c6-4d00-a12d-03708038efc5,스트레스 (Stress),
@@ -990,6 +997,7 @@ recording_mbid,recording_title,recording_language
 936f701e-cc59-4267-ba99-b8d6a465cd3f,HOLO,
 9378ff00-b811-4232-a6cb-487b2e8637a7,부작용,kor
 93bf25c2-f2dc-410e-90bd-0c5e6e484e53,I’m a 빛,mul
+940a2ac0-be80-4b48-a6cc-d1ac04a7d448,I Can Do It With a Broken Heart,eng
 94125d92-a9d5-4c68-b401-5b95b1ac88d2,the boy is mine,eng
 9436c9cc-c96d-4296-aa63-1fcea5e91fa3,Like a Virgin,eng
 944e74b1-e340-4282-b8be-4a516c6c56a9,Love Me Like You Do,eng
@@ -1272,6 +1280,7 @@ bfbe89a4-5178-4f12-b258-2d8718881094,Like a Prayer,eng
 bfd37140-14fd-497a-a39d-c133011ac244,Ring of Fire,eng
 bfff4f17-db90-4580-bef8-5fa822ae5d22,Animals,eng
 c00bf011-d2b2-439e-a274-0ca1ce137bb7,UNTOUCHABLE,mul
+c00ecaf0-a180-4df6-bfd7-6721b3c24705,Time Lapse,
 c03d0c17-b702-4cd9-82b4-7361008f0933,Tessellate,eng
 c05194a3-f6f0-4f52-b78a-13fb5580bc0f,Yesterday,eng
 c0814515-f632-445d-b075-06e2cf5413bb,가면무도회,kor
@@ -1673,6 +1682,7 @@ fb51d0fe-2f5c-480b-8382-5150d92cdc78,Is this bad b****** number?,
 fb7963d0-d06f-45ca-a647-2b00a963179f,Closer,eng
 fbb78c87-66fa-49d0-8089-22d1b46aad99,怪物,jpn
 fbcd0a63-2565-4610-a1e8-612d59851df7,Love on Top,eng
+fbce29f2-bf0b-4013-8920-10dcc473ebd9,Plastic Candy,mul
 fbd32ed7-4a3a-423d-b3cc-f6beb3214e93,Little Black Dress,eng
 fbd6b7c2-b1ee-4674-ad6a-d248c18a1fbb,Electric Twist,
 fc5e1882-7196-4e02-b16f-bbdb3675d1b1,Bite Me,

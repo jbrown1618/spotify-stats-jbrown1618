@@ -69,7 +69,7 @@ Appears as:
 | | 1 | 0 | University of Michigan G-Men | [🔗](https://open.spotify.com/artist/1jANAnjCBrwxiT4c33eeNc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e0ad34c3e72d947a63a60f2" alt="" width="50" /> | 1 | 0 | The Loreleis | [🔗](https://open.spotify.com/artist/1fqMjreaczGwFmdmG6AvJs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba3bc32b6443df62c9300facc" alt="" width="50" /> | 1 | 0 | Tufts Jackson Jills | [🔗](https://open.spotify.com/artist/1dUJZ0lbobmanl4W14h0a2) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3f2a993147433ee1eb593bef" alt="" width="50" /> | 1 | 0 | BYU Noteworthy | [🔗](https://open.spotify.com/artist/1ZknN7FbjjjMTmdU42OEeX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb63d068e2f73f2bb3019f83b1" alt="" width="50" /> | 1 | 0 | BYU Noteworthy | [🔗](https://open.spotify.com/artist/1ZknN7FbjjjMTmdU42OEeX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326f8d98a82475c320a41a919" alt="" width="50" /> | 1 | 0 | Academical Village People | [🔗](https://open.spotify.com/artist/1Vjug1h4HXCeplbouQEbV3) |
 | | 1 | 0 | Erika Petty | [🔗](https://open.spotify.com/artist/15YH0MYEIRY7AmrrwfVO4W) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb44b7da1ed96c2af6f91602c2" alt="" width="50" /> | 1 | 0 | The Virginia Gentlemen | [🔗](https://open.spotify.com/artist/0steWfkS4hwaErh84SlHMW) |

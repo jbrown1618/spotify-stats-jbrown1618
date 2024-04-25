@@ -8,7 +8,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Better Judgement | Wish You Hell - The 2nd Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 550 | | [🔗](https://open.spotify.com/track/0CjGCpqs4qBqZi7ibYyZLi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Better Judgement | Wish You Hell - The 2nd Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 512 | | [🔗](https://open.spotify.com/track/0CjGCpqs4qBqZi7ibYyZLi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Vermilion | Wish You Hell - The 2nd Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | nan | | [🔗](https://open.spotify.com/track/3Oo9zqlxcXNEaINhiXOrBm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | Best Friend (with SEULGI) | Like Water - The 1st Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/0F9Xy6OTbkqOv94pklkwKu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | Like Water | Like Water - The 1st Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 88 | 💚 | [🔗](https://open.spotify.com/track/37LhFxchiyAJVop5JgRZgY) |
@@ -22,7 +22,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Wish You Hell | Wish You Hell - The 2nd Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 215 | 💚 | [🔗](https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Wish You Hell | Wish You Hell - The 2nd Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | 216 | 💚 | [🔗](https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Queen Of The Party | Wish You Hell - The 2nd Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/7owXmiwfpFAZW24qNPyYfr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | Why Can't You Love Me? | Like Water - The 1st Mini Album | [WENDY](../../overview.md) | [SM Entertainment](../../../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/0CyydmXI4QhgUWrZsPOTXA) |
 ## Cluster #3

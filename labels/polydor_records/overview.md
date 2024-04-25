@@ -21,7 +21,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb173d69f77530d77a991984f" alt="" width="50" /> | 1 | 1 | Lauv | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb90c77d2ffb0fe10130f03230" alt="" width="50" /> | 1 | 1 | LANY | [🔗](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) |
 | <img src="https://i.scdn.co/image/ab6772690000c46c50e750d1aed632c37a450ffb" alt="" width="50" /> | 1 | 1 | Duffy | [🔗](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb76727262a3ebe73ccb1a7958" alt="" width="50" /> | 1 | 1 | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5c0e1d109d8a876076187f1" alt="" width="50" /> | 1 | 1 | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcf5fb42825076ab99ff7a991" alt="" width="50" /> | 1 | 1 | Lipps Inc. | [🔗](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a6fd8ebc62d68a372d51516" alt="" width="50" /> | 21 | 0 | Andrew Lloyd Webber | [🔗](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) |
 
@@ -41,7 +41,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0011a003b54943e02654e1f4" alt="" width="50" /> | 4 | 0 | Samantha Barks | [🔗](https://open.spotify.com/artist/4gOl5m9dY7IGAipqpul7GZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9b9b8bf2a5275cf34a5350a" alt="" width="50" /> | 4 | 0 | Rosemary Ashe | [🔗](https://open.spotify.com/artist/3Oju6zkuJzum4svKeVhKiK) |
 | | 3 | 0 | Janet Devenish | [🔗](https://open.spotify.com/artist/7Ev9dg2zamUgQsRUp9DdRl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d64bc71c5b3f176aed9763fb" alt="" width="50" /> | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ebeba683d4b477ef2748c3bd" alt="" width="50" /> | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
 | | 3 | 0 | John Savident | [🔗](https://open.spotify.com/artist/2V0W4YzPCESOh86ss7D2QE) |
 | | 3 | 0 | Mary Millar | [🔗](https://open.spotify.com/artist/1SBvpcra5uod7N0rxJxa3J) |
 | <img src="https://i.scdn.co/image/09f4a0a499359540e40075f8e912d7c3e94bc4a6" alt="" width="50" /> | 3 | 0 | Anne Hathaway | [🔗](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) |
@@ -205,7 +205,7 @@ Appears as:
 | | Chris Laws | 1 | Producer |
 | | Dino Fekaris | 1 | Songwriter |
 | | Kieron Menzies | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb76727262a3ebe73ccb1a7958" alt="" width="50" /> | Mabel | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5c0e1d109d8a876076187f1" alt="" width="50" /> | Mabel | 1 | Songwriter |
 | | Leland | 1 | Songwriter |
 | | Steven Malcolmson | 1 | Producer |
 | | Daniel Law Heath | 1 | Songwriter |
@@ -225,9 +225,9 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | Shades Of Cool | Ultraviolence (Deluxe) | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [Polydor Records](.) | 360 | 💚 | [🔗](https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Off To The Races | Born To Die | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [Polydor Records](.) | 395 | 💚 | [🔗](https://open.spotify.com/track/7grzMnF1FHponm2aJBWj8E) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Summertime Sadness | Born To Die | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [Polydor Records](.) | 425 | 💚 | [🔗](https://open.spotify.com/track/4cKtn8Shw999egpwBmWQmp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | Shades Of Cool | Ultraviolence (Deluxe) | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [Polydor Records](.) | 361 | 💚 | [🔗](https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Off To The Races | Born To Die | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [Polydor Records](.) | 397 | 💚 | [🔗](https://open.spotify.com/track/7grzMnF1FHponm2aJBWj8E) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Summertime Sadness | Born To Die | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [Polydor Records](.) | 426 | 💚 | [🔗](https://open.spotify.com/track/4cKtn8Shw999egpwBmWQmp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | Baba O'Riley | Who's Next (Deluxe Edition) | [The Who](../../artists/the_who/overview.md) | [Polydor Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | Behind Blue Eyes | Who's Next (Deluxe Edition) | [The Who](../../artists/the_who/overview.md) | [Polydor Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5296d028b3e255aec56fc3c" alt="" width="50" /> | Funkytown | Mouth To Mouth | Lipps Inc. | [Polydor](.) | nan | 💚 | [🔗](https://open.spotify.com/track/2XVQdI3m0giGxNrwUhV3yP) |

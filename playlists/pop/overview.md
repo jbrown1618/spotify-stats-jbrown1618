@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[421 tracks (307 liked) 🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh)
+[426 tracks (309 liked) 🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh)
 
 [See Track Features](audio_features.md)
 
@@ -13,7 +13,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | 50 | 33 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | 55 | 35 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 32 | 21 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 16 | 12 | [Bruno Mars](../../artists/bruno_mars/overview.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 15 | 12 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
@@ -82,7 +82,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 2 | 2 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 2 | 2 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a" alt="" width="50" /> | 2 | 2 | Hozier | [🔗](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb76727262a3ebe73ccb1a7958" alt="" width="50" /> | 2 | 2 | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5c0e1d109d8a876076187f1" alt="" width="50" /> | 2 | 2 | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897" alt="" width="50" /> | 2 | 2 | Niall Horan | [🔗](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 2 | 2 | [Michael Bublé](../../artists/michael_bublé/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3" alt="" width="50" /> | 2 | 2 | Lorde | [🔗](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) |
@@ -139,15 +139,15 @@
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | [Take It All](../../artists/adele/overview.md) | 230 | <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="Dreamland (+ Bonus Levels)" width="50" /> | Heat Waves | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything (Deluxe)" width="50" /> | [Problem](../../artists/ariana_grande/overview.md) | 244 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | [Leave The Door Open](../../artists/bruno_mars/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [you should see me in a crown](../../artists/billie_eilish/overview.md) | 248 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="1989" width="50" /> | [Clean](../../artists/taylor_swift/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="SOS" width="50" /> | Kill Bill | 250 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="reputation" width="50" /> | [This Is Why We Can't Have Nice Things](../../artists/taylor_swift/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="No Time To Die" width="50" /> | [No Time To Die](../../artists/billie_eilish/overview.md) | 266 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="Loud" width="50" /> | [S&M](../../artists/rihanna/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | [What Now](../../artists/rihanna/overview.md) | 271 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [epiphany](../../artists/taylor_swift/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Me And My Broken Heart | 288 | <img src="https://i.scdn.co/image/ab67616d0000b273e859698c8fe21d42a13ec252" alt="SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)" width="50" /> | SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Get Lucky (feat. Pharrell Williams and Nile Rodgers)](../../artists/daft_punk/overview.md) | 349 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | [Clocks](../../artists/coldplay/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="minor" width="50" /> | I miss you, I’m sorry | 366 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="Good Girl Gone Bad: Reloaded" width="50" /> | [Don't Stop The Music](../../artists/rihanna/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f4269ee2c76394d8f3d1309" alt="7G" width="50" /> | Show Me What | 377 | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="Fifty Shades Freed (Original Motion Picture Soundtrack)" width="50" /> | Love Me Like You Do | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything (Deluxe)" width="50" /> | [Problem](../../artists/ariana_grande/overview.md) | 245 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | [Leave The Door Open](../../artists/bruno_mars/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [you should see me in a crown](../../artists/billie_eilish/overview.md) | 249 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="1989" width="50" /> | [Clean](../../artists/taylor_swift/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="SOS" width="50" /> | Kill Bill | 251 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="reputation" width="50" /> | [This Is Why We Can't Have Nice Things](../../artists/taylor_swift/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="No Time To Die" width="50" /> | [No Time To Die](../../artists/billie_eilish/overview.md) | 270 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="Loud" width="50" /> | [S&M](../../artists/rihanna/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | [What Now](../../artists/rihanna/overview.md) | 277 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [epiphany](../../artists/taylor_swift/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Me And My Broken Heart | 295 | <img src="https://i.scdn.co/image/ab67616d0000b273e859698c8fe21d42a13ec252" alt="SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)" width="50" /> | SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Get Lucky (feat. Pharrell Williams and Nile Rodgers)](../../artists/daft_punk/overview.md) | 351 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | [Clocks](../../artists/coldplay/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="minor" width="50" /> | I miss you, I’m sorry | 365 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="Good Girl Gone Bad: Reloaded" width="50" /> | [Don't Stop The Music](../../artists/rihanna/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f4269ee2c76394d8f3d1309" alt="7G" width="50" /> | Show Me What | 378 | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="Fifty Shades Freed (Original Motion Picture Soundtrack)" width="50" /> | Love Me Like You Do | nan |
 
 </details>
 
@@ -172,6 +172,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | 5 | 2 | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | 2024-04-19 | [🔗](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 4 | 4 | 1000 Forms Of Fear (Deluxe Version) | 2015-05-04 | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | 4 | 3 | Teenage Dream | 2010-01-01 | [🔗](https://open.spotify.com/album/3BoUxfC7YhxNq3TpOfnRif) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | 4 | 3 | Red | 2012-10-22 | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
@@ -261,7 +262,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27361a13426a99fd3500e2fff54" alt="" width="50" /> | 1 | 1 | St. Elsewhere | 2006-05-02 | [🔗](https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481" alt="" width="50" /> | 1 | 1 | Speak Now (Taylor's Version) | 2023-07-07 | [🔗](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce94afb9aa5d73f00852a45b" alt="" width="50" /> | 1 | 1 | Somebody Else | 2016-09-09 | [🔗](https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27367eda217860e86c43481a5cb" alt="" width="50" /> | 1 | 1 | Solo (feat. Demi Lovato) | 2018-05-17 | [🔗](https://open.spotify.com/album/1q7a5wZeti0neU2jDn8Dz3) |
 
 </details>
 
@@ -276,10 +276,10 @@
 | 31 | 27 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 34 | 25 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 27 | 19 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
+| 27 | 16 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
 | 24 | 16 | [Republic Records](../../labels/republic_records/overview.md) |
 | 21 | 15 | [Warner Records](../../labels/warner_records/overview.md) |
 | 18 | 15 | [Epic](../../labels/epic/overview.md) |
-| 22 | 14 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
 | 22 | 14 | [Columbia](../../labels/columbia/overview.md) |
 | 14 | 12 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 
@@ -389,7 +389,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 334 | 242 | [pop](../../genres/pop/overview.md) |
+| 339 | 244 | [pop](../../genres/pop/overview.md) |
 | 107 | 76 | [dance pop](../../genres/dance_pop/overview.md) |
 | 34 | 26 | [art pop](../../genres/art_pop/overview.md) |
 | 34 | 23 | [uk pop](../../genres/uk_pop/overview.md) |
@@ -506,16 +506,16 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 72 | Producer |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 74 | Producer |
 | | [John Hanes](../../producers/john_hanes/overview.md) | 37 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 36 | Producer, Songwriter, Lyricist |
 | | [Max Martin](../../producers/max_martin/overview.md) | 35 | Producer, Songwriter, Lyricist, Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 34 | Songwriter, Lyricist, Producer |
 | | [Sam Holland](../../producers/sam_holland/overview.md) | 26 | Producer |
 | | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 19 | Producer |
-| | [Laura Sisk](../../producers/laura_sisk/overview.md) | 15 | Producer |
+| | [Laura Sisk](../../producers/laura_sisk/overview.md) | 16 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 15 | Lyricist, Producer, Songwriter, Arranger |
-| | [FINNEAS](../../producers/finneas/overview.md) | 13 | Lyricist, Producer, Songwriter, Arranger |
-| | [Jack Antonoff](../../producers/jack_antonoff/overview.md) | 13 | Producer, Songwriter |
+| | [Jack Antonoff](../../producers/jack_antonoff/overview.md) | 14 | Producer, Songwriter |
+| | [Shellback](../../producers/shellback/overview.md) | 13 | Producer, Songwriter, Lyricist |
 
 
 <details>
@@ -524,95 +524,95 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | [ILYA](../../producers/ilya/overview.md) | 13 | Producer, Songwriter, Arranger |
-| | [Łukasz Gottwald (Gottwald, Łukasz)](../../producers/łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 13 | Songwriter |
-| | [Shellback](../../producers/shellback/overview.md) | 13 | Producer, Songwriter, Lyricist |
+| | [FINNEAS](../../producers/finneas/overview.md) | 13 | Lyricist, Producer, Songwriter, Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 13 | Songwriter, Producer |
+| | [Łukasz Gottwald (Gottwald, Łukasz)](../../producers/łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 13 | Songwriter |
 | | [Mark "Spike" Stent](../../producers/mark__spike__stent/overview.md) | 12 | Producer |
-| | Michael Ilbert | 10 | Producer |
 | | Dr. Luke | 10 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 10 | Songwriter, Producer, Arranger |
+| | Michael Ilbert | 10 | Producer |
 | | [Phil Tan](../../producers/phil_tan/overview.md) | 10 | Producer |
-| | Rob Kinelski | 9 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 10 | Songwriter, Producer, Arranger |
+| | Kuk Harrell | 9 | Producer |
+| | [Marcos Tovar](../../producers/marcos_tovar/overview.md) | 9 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 9 | Lyricist, Songwriter, Producer |
 | | Philip Lawrence | 9 | Songwriter |
+| | Rob Kinelski | 9 | Producer |
 | | [Savan Kotecha](../../producers/savan_kotecha/overview.md) | 9 | Songwriter, Producer |
-| | [Marcos Tovar](../../producers/marcos_tovar/overview.md) | 9 | Producer |
-| | Kuk Harrell | 9 | Producer |
-| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 8 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="" width="50" /> | [Sia](../../artists/sia/overview.md) | 8 | Lyricist, Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 8 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 7 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 7 | Producer, Songwriter |
-| | [Mikkel Storleer Eriksen](../../producers/mikkel_storleer_eriksen/overview.md) | 7 | Songwriter, Producer |
-| | Tom Elmhirst | 7 | Producer |
-| | Stargate | 7 | Producer |
-| | [Greg Kurstin](../../producers/greg_kurstin/overview.md) | 7 | Producer, Songwriter |
+| | Bryce Bordone | 8 | Producer |
+| | Jonathan Low | 8 | Producer |
+| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 8 | Producer |
+| | [Aaron Dessner](../../producers/aaron_dessner/overview.md) | 7 | Producer, Songwriter |
 | | Charles Moniz | 7 | Producer |
-| | Jonathan Low | 7 | Producer |
+| | Stargate | 7 | Producer |
+| | [Mikkel Storleer Eriksen](../../producers/mikkel_storleer_eriksen/overview.md) | 7 | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | [Dua Lipa](../../artists/dua_lipa/overview.md) | 7 | Songwriter |
 | | Tor Erik Hermansen | 7 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | [Adele](../../artists/adele/overview.md) | 6 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 6 | Producer, Songwriter, Arranger |
-| | Emily Wright | 6 | Producer |
+| | [Greg Kurstin](../../producers/greg_kurstin/overview.md) | 7 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | benny blanco | 7 | Producer, Songwriter |
+| | Tom Elmhirst | 7 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99a94361a732b7eb49342d35" alt="" width="50" /> | [Camila Cabello](../../artists/camila_cabello/overview.md) | 6 | Songwriter |
-| | Alex Pasco | 6 | Producer |
-| | Bryce Bordone | 6 | Producer |
-| | [Ricky Reed](../../producers/ricky_reed/overview.md) | 6 | Producer, Songwriter, Arranger |
-| | [Aaron Dessner](../../producers/aaron_dessner/overview.md) | 6 | Producer, Songwriter |
 | | Bryce Dessner | 6 | Arranger |
-| | Tyler Johnson | 5 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | [Adele](../../artists/adele/overview.md) | 6 | Producer, Songwriter |
+| | [Ricky Reed](../../producers/ricky_reed/overview.md) | 6 | Producer, Songwriter, Arranger |
+| | Alex Pasco | 6 | Producer |
+| | Emily Wright | 6 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 6 | Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4" alt="" width="50" /> | [Olivia Rodrigo](../../artists/olivia_rodrigo/overview.md) | 5 | Songwriter, Lyricist |
 | | Guy Berryman | 5 | Songwriter |
-| | Julian Burg | 5 | Producer |
-| | Adam Levine | 5 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb45de7ab990a1246c812128b6" alt="" width="50" /> | Chris Martin | 5 | Songwriter |
-| | Jaycen Joshua | 5 | Producer |
-| | Jack Patterson | 5 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](../../artists/justin_bieber/overview.md) | 5 | Songwriter |
 | | Will Champion | 5 | Songwriter |
+| | Julian Burg | 5 | Producer |
+| | Louis Bell | 5 | Songwriter, Producer |
+| | [RedOne](../../producers/redone/overview.md) | 5 | Producer, Songwriter, Arranger |
+| | Jaycen Joshua | 5 | Producer |
+| | [Daniel Nigro](../../producers/daniel_nigro/overview.md) | 5 | Producer, Songwriter, Lyricist |
+| | Tyler Johnson | 5 | Producer, Songwriter |
+| | Jonny Buckland | 5 | Songwriter |
+| | Rami | 5 | Songwriter, Producer |
+| | Ari Levine | 5 | Producer, Songwriter |
+| | Jack Patterson | 5 | Producer, Songwriter |
 | | Jacob Kasher | 5 | Songwriter |
 | | James Fauntleroy | 5 | Songwriter |
-| | [RedOne](../../producers/redone/overview.md) | 5 | Producer, Songwriter, Arranger |
-| | Ari Levine | 5 | Producer, Songwriter |
-| | Rami | 5 | Songwriter, Producer |
-| | [Daniel Nigro](../../producers/daniel_nigro/overview.md) | 5 | Producer, Songwriter, Lyricist |
-| | Louis Bell | 5 | Songwriter, Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4" alt="" width="50" /> | [Olivia Rodrigo](../../artists/olivia_rodrigo/overview.md) | 5 | Songwriter, Lyricist |
 | | Andrew Watt | 5 | Songwriter, Producer |
-| | Jonny Buckland | 5 | Songwriter |
-| | Ali Tamposi | 5 | Songwriter |
-| | [Cirkut](../../producers/cirkut/overview.md) | 5 | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](../../artists/justin_bieber/overview.md) | 5 | Songwriter |
 | | Brody Brown | 5 | Songwriter |
+| | [Cirkut](../../producers/cirkut/overview.md) | 5 | Songwriter, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb45de7ab990a1246c812128b6" alt="" width="50" /> | Chris Martin | 5 | Songwriter |
+| | Ali Tamposi | 5 | Songwriter |
 | | Frank Dukes | 5 | Songwriter, Producer |
-| | Jason Evigan | 4 | Songwriter, Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 4 | Producer |
+| | Adam Levine | 5 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | Nicki Minaj | 4 | Songwriter |
 | | Ray McCullough | 4 | Songwriter |
 | | The Smeezingtons | 4 | Producer |
-| | Jesse Shatkin | 4 | Producer, Songwriter |
+| | Jeff Bhasker | 4 | Producer, Songwriter |
+| | TBHits | 4 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 4 | Producer |
+| | Ken Nelson | 4 | Producer |
 | | KAMILLE | 4 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | Nicki Minaj | 4 | Songwriter |
+| | Jesse Shatkin | 4 | Producer, Songwriter |
+| | Caroline Ailin | 4 | Songwriter, Producer |
+| | Peter Carlsson | 4 | Producer |
+| | Ray Romulus | 4 | Songwriter |
 | | Oscar Holter | 4 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | Katy Perry | 4 | Songwriter |
+| | Jason Evigan | 4 | Songwriter, Producer |
+| | Justin Tranter | 4 | Songwriter |
 | | Jeremy Reeves | 4 | Songwriter |
 | | Jonathan Yip | 4 | Songwriter |
-| | Ken Nelson | 4 | Producer |
-| | Peter Carlsson | 4 | Producer |
-| | Justin Tranter | 4 | Songwriter |
-| | Jeff Bhasker | 4 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | Katy Perry | 4 | Songwriter |
-| | Caroline Ailin | 4 | Songwriter, Producer |
-| | Ray Romulus | 4 | Songwriter |
-| | Kyle Resnick | 4 | Producer |
 | | Lou Carrao | 4 | Producer |
-| | TBHits | 4 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 3 | Songwriter, Lyricist |
-| | Julian Bunetta | 3 | Songwriter, Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | The Weeknd | 3 | Producer, Songwriter |
+| | Kyle Resnick | 4 | Producer |
+| | Michael Brauer | 3 | Producer |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 3 | Producer |
+| | The Stereotypes | 3 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb149ebd20c454545fc4fb7487" alt="" width="50" /> | Victoria Monét | 3 | Producer, Songwriter |
+| | Sarah Hudson | 3 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | Charli XCX | 3 | Songwriter |
+| | [Ryan Tedder](../../producers/ryan_tedder/overview.md) | 3 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | 3 | Songwriter, Lyricist |
 | | D'Mile | 3 | Producer, Songwriter |
-| | Ian Kirkpatrick | 3 | Producer, Songwriter |
-| | Priscilla Renea | 3 | Songwriter |
-| | [Kid Harpoon](../../producers/kid_harpoon/overview.md) | 3 | Producer, Songwriter |
-| | Justin Niebank | 3 | Producer |
-| | Yeti Beats | 3 | Producer, Songwriter |
-| | Andrew Wyatt | 3 | Songwriter, Producer |
+| | Ester Dean | 3 | Songwriter |
+| | St. Vincent | 3 | Songwriter |
 
 </details>
 
@@ -627,7 +627,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| 2024 | 7 |
+| 2024 | 12 |
 | 2023 | 7 |
 | 2022 | 14 |
 | [2021](2021/overview.md) | 26 |
@@ -662,13 +662,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734063d624ebf8ff67bc3701ee" alt="GUTS (spilled)" width="50" /> | GUTS (spilled) (2024-03-22) | <img src="https://i.scdn.co/image/ab67616d0000b27363facc42e4a35eb3aa182b59" alt="Spice" width="50" /> | Spice (1996-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="eternal sunshine" width="50" /> | eternal sunshine (2024-03-08) | <img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="...Baby One More Time (Digital Deluxe Version)" width="50" /> | ...Baby One More Time (Digital Deluxe Version) (1999-01-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27312e36c27d935e955b44c6581" alt="Heaven knows" width="50" /> | Heaven knows (2023-11-10) | <img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="Millennium" width="50" /> | Millennium (1999-05-18) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" alt="GUTS" width="50" /> | GUTS (2023-09-08) | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> | No Strings Attached (2000-03-21) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cd222052a2594be29a6616b5" alt="Endless Summer Vacation" width="50" /> | Endless Summer Vacation (2023-08-18) | <img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="Oops!... I Did It Again" width="50" /> | Oops!... I Did It Again (2000-05-16) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30" alt="Paint The Town Red" width="50" /> | Paint The Town Red (2023-08-04) | <img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="Parachutes" width="50" /> | Parachutes (2000-07-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481" alt="Speak Now (Taylor&#x27;s Version)" width="50" /> | Speak Now (Taylor's Version) (2023-07-07) | <img src="https://i.scdn.co/image/ab67616d0000b273e1a4e01cb7a1ecff468bbead" alt="Britney (Digital Deluxe Version)" width="50" /> | Britney (Digital Deluxe Version) (2001-10-31) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d856e66d33e22746c21a09c" alt="Lose Control" width="50" /> | Lose Control (2023-06-23) | <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="Songs About Jane" width="50" /> | Songs About Jane (2002-06-25) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192" alt="Dance The Night (From Barbie The Album)" width="50" /> | Dance The Night (From Barbie The Album) (2023-05-25) | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | A Rush of Blood to the Head (2002-08-08) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="SOS" width="50" /> | SOS (2022-12-09) | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> | A Beautiful World (2002-12-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY" width="50" /> | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY (2024-04-19) | <img src="https://i.scdn.co/image/ab67616d0000b27363facc42e4a35eb3aa182b59" alt="Spice" width="50" /> | Spice (1996-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734063d624ebf8ff67bc3701ee" alt="GUTS (spilled)" width="50" /> | GUTS (spilled) (2024-03-22) | <img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="...Baby One More Time (Digital Deluxe Version)" width="50" /> | ...Baby One More Time (Digital Deluxe Version) (1999-01-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="eternal sunshine" width="50" /> | eternal sunshine (2024-03-08) | <img src="https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b" alt="Millennium" width="50" /> | Millennium (1999-05-18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27312e36c27d935e955b44c6581" alt="Heaven knows" width="50" /> | Heaven knows (2023-11-10) | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> | No Strings Attached (2000-03-21) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" alt="GUTS" width="50" /> | GUTS (2023-09-08) | <img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="Oops!... I Did It Again" width="50" /> | Oops!... I Did It Again (2000-05-16) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd222052a2594be29a6616b5" alt="Endless Summer Vacation" width="50" /> | Endless Summer Vacation (2023-08-18) | <img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="Parachutes" width="50" /> | Parachutes (2000-07-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30" alt="Paint The Town Red" width="50" /> | Paint The Town Red (2023-08-04) | <img src="https://i.scdn.co/image/ab67616d0000b273e1a4e01cb7a1ecff468bbead" alt="Britney (Digital Deluxe Version)" width="50" /> | Britney (Digital Deluxe Version) (2001-10-31) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481" alt="Speak Now (Taylor&#x27;s Version)" width="50" /> | Speak Now (Taylor's Version) (2023-07-07) | <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="Songs About Jane" width="50" /> | Songs About Jane (2002-06-25) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d856e66d33e22746c21a09c" alt="Lose Control" width="50" /> | Lose Control (2023-06-23) | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | A Rush of Blood to the Head (2002-08-08) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192" alt="Dance The Night (From Barbie The Album)" width="50" /> | Dance The Night (From Barbie The Album) (2023-05-25) | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> | A Beautiful World (2002-12-13) |

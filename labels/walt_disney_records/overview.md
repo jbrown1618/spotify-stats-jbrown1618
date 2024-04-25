@@ -187,7 +187,7 @@ Appears as:
 
 
 <details>
-<summary>See all 37 genres</summary>
+<summary>See all 38 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -197,6 +197,7 @@ Appears as:
 | 1 | 0 | traditional blues |
 | 1 | 0 | swing |
 | 1 | 0 | [soul](../../genres/soul/overview.md) |
+| 1 | 0 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 1 | 0 | roots rock |
 | 1 | 0 | retro soul |
 | 1 | 0 | [r&b](../../genres/r_b/overview.md) |
@@ -228,7 +229,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1bb1c7d7eef55a31fb995ad" alt="" width="50" /> | Santa Claus Is Comin' to Town | Noelle (Original Motion Picture Soundtrack) | Lawrence, Stolen Jars | [Walt Disney Records](.) | 376 | | [🔗](https://open.spotify.com/track/7mE5nyoRdlZq7hKW2Uzxkl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1bb1c7d7eef55a31fb995ad" alt="" width="50" /> | Santa Claus Is Comin' to Town | Noelle (Original Motion Picture Soundtrack) | Lawrence, Stolen Jars | [Walt Disney Records](.) | 377 | | [🔗](https://open.spotify.com/track/7mE5nyoRdlZq7hKW2Uzxkl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ae87b6dbcfeea612ceb74685" alt="" width="50" /> | Yoda's Theme | Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack) | John Williams, [London Symphony Orchestra](../../artists/london_symphony_orchestra/overview.md) | [Walt Disney Records](.) | nan | | [🔗](https://open.spotify.com/track/5fsT9U41OCFlaKA5XTCHtz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Be Our Guest | Beauty and the Beast | Angela Lansbury, Jerry Orbach, Chorus - Beauty And the Beast, Disney | [Walt Disney Records](.) | nan | | [🔗](https://open.spotify.com/track/6btdYzQ8eZFBrOlUKVHuz0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Beauty and the Beast | Beauty and the Beast | Angela Lansbury, Disney | [Walt Disney Records](.) | nan | | [🔗](https://open.spotify.com/track/2rJFFUEl1LURkV0b0OARXx) |

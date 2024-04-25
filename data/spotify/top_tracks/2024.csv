@@ -1,4 +1,5 @@
 track_uri,term,index,as_of_date
+spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,long_term,1,2024-04-25
 spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,long_term,1,2024-04-23
 spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,long_term,1,2024-04-16
 spotify:track:3q5qpprtugUIEPExuI7tRD,long_term,1,2024-04-13
@@ -40,6 +41,7 @@ spotify:track:3q5qpprtugUIEPExuI7tRD,long_term,1,2024-04-06
 spotify:track:3q5qpprtugUIEPExuI7tRD,long_term,1,2024-04-07
 spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,long_term,1,2024-04-18
 spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,long_term,1,2024-04-19
+spotify:track:3q5qpprtugUIEPExuI7tRD,long_term,2,2024-04-25
 spotify:track:3q5qpprtugUIEPExuI7tRD,long_term,2,2024-04-23
 spotify:track:3q5qpprtugUIEPExuI7tRD,long_term,2,2024-04-16
 spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,long_term,2,2024-04-13
@@ -81,6 +83,7 @@ spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,long_term,2,2024-04-06
 spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,long_term,2,2024-04-07
 spotify:track:3q5qpprtugUIEPExuI7tRD,long_term,2,2024-04-18
 spotify:track:3q5qpprtugUIEPExuI7tRD,long_term,2,2024-04-19
+spotify:track:1ULdASrNy5rurl1TZfFaMP,long_term,3,2024-04-25
 spotify:track:1ULdASrNy5rurl1TZfFaMP,long_term,3,2024-04-23
 spotify:track:1ULdASrNy5rurl1TZfFaMP,long_term,3,2024-04-16
 spotify:track:1ULdASrNy5rurl1TZfFaMP,long_term,3,2024-04-13
@@ -122,6 +125,7 @@ spotify:track:1ULdASrNy5rurl1TZfFaMP,long_term,3,2024-04-06
 spotify:track:1ULdASrNy5rurl1TZfFaMP,long_term,3,2024-04-07
 spotify:track:1ULdASrNy5rurl1TZfFaMP,long_term,3,2024-04-18
 spotify:track:1ULdASrNy5rurl1TZfFaMP,long_term,3,2024-04-19
+spotify:track:56Yxkm62GtEpnPyG7TvwLY,long_term,4,2024-04-25
 spotify:track:56Yxkm62GtEpnPyG7TvwLY,long_term,4,2024-04-23
 spotify:track:56Yxkm62GtEpnPyG7TvwLY,long_term,4,2024-04-16
 spotify:track:56Yxkm62GtEpnPyG7TvwLY,long_term,4,2024-04-13
@@ -163,6 +167,7 @@ spotify:track:7eBpUuPnDTfbeP1P4P93CS,long_term,4,2024-04-06
 spotify:track:7eBpUuPnDTfbeP1P4P93CS,long_term,4,2024-04-07
 spotify:track:56Yxkm62GtEpnPyG7TvwLY,long_term,4,2024-04-18
 spotify:track:56Yxkm62GtEpnPyG7TvwLY,long_term,4,2024-04-19
+spotify:track:3dbLT62Cvs46Ju7a8gpr36,long_term,5,2024-04-25
 spotify:track:3dbLT62Cvs46Ju7a8gpr36,long_term,5,2024-04-23
 spotify:track:7eBpUuPnDTfbeP1P4P93CS,long_term,5,2024-04-16
 spotify:track:7eBpUuPnDTfbeP1P4P93CS,long_term,5,2024-04-13
@@ -204,6 +209,7 @@ spotify:track:1o844wI52S3TjXGBwvGcc7,long_term,5,2024-04-06
 spotify:track:1o844wI52S3TjXGBwvGcc7,long_term,5,2024-04-07
 spotify:track:3dbLT62Cvs46Ju7a8gpr36,long_term,5,2024-04-18
 spotify:track:3dbLT62Cvs46Ju7a8gpr36,long_term,5,2024-04-19
+spotify:track:3uI6jqO0fFBoFryc8SJOXw,long_term,6,2024-04-25
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,long_term,6,2024-04-23
 spotify:track:3dbLT62Cvs46Ju7a8gpr36,long_term,6,2024-04-16
 spotify:track:3dbLT62Cvs46Ju7a8gpr36,long_term,6,2024-04-13
@@ -245,6 +251,7 @@ spotify:track:3dbLT62Cvs46Ju7a8gpr36,long_term,6,2024-04-06
 spotify:track:3dbLT62Cvs46Ju7a8gpr36,long_term,6,2024-04-07
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,long_term,6,2024-04-18
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,long_term,6,2024-04-19
+spotify:track:7eBpUuPnDTfbeP1P4P93CS,long_term,7,2024-04-25
 spotify:track:7eBpUuPnDTfbeP1P4P93CS,long_term,7,2024-04-23
 spotify:track:0nwTMzpatarzvLvtwwzdCt,long_term,7,2024-04-16
 spotify:track:0nwTMzpatarzvLvtwwzdCt,long_term,7,2024-04-13
@@ -286,6 +293,7 @@ spotify:track:0nwTMzpatarzvLvtwwzdCt,long_term,7,2024-04-06
 spotify:track:0nwTMzpatarzvLvtwwzdCt,long_term,7,2024-04-07
 spotify:track:396FqjKmViUZ92Wmm4rx3i,long_term,7,2024-04-18
 spotify:track:396FqjKmViUZ92Wmm4rx3i,long_term,7,2024-04-19
+spotify:track:396FqjKmViUZ92Wmm4rx3i,long_term,8,2024-04-25
 spotify:track:396FqjKmViUZ92Wmm4rx3i,long_term,8,2024-04-23
 spotify:track:396FqjKmViUZ92Wmm4rx3i,long_term,8,2024-04-16
 spotify:track:396FqjKmViUZ92Wmm4rx3i,long_term,8,2024-04-13
@@ -327,6 +335,7 @@ spotify:track:396FqjKmViUZ92Wmm4rx3i,long_term,8,2024-04-06
 spotify:track:396FqjKmViUZ92Wmm4rx3i,long_term,8,2024-04-07
 spotify:track:7eBpUuPnDTfbeP1P4P93CS,long_term,8,2024-04-18
 spotify:track:7eBpUuPnDTfbeP1P4P93CS,long_term,8,2024-04-19
+spotify:track:6zZWoHlF2zNSLUNLvx4GUl,long_term,9,2024-04-25
 spotify:track:6zZWoHlF2zNSLUNLvx4GUl,long_term,9,2024-04-23
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,long_term,9,2024-04-16
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,long_term,9,2024-04-13
@@ -368,6 +377,7 @@ spotify:track:56Yxkm62GtEpnPyG7TvwLY,long_term,9,2024-04-06
 spotify:track:56Yxkm62GtEpnPyG7TvwLY,long_term,9,2024-04-07
 spotify:track:3cGp1jXxLReLKz7QgVbWZR,long_term,9,2024-04-18
 spotify:track:3cGp1jXxLReLKz7QgVbWZR,long_term,9,2024-04-19
+spotify:track:2DmRXiyn03tOqKgEJXlaiJ,long_term,10,2024-04-25
 spotify:track:2DmRXiyn03tOqKgEJXlaiJ,long_term,10,2024-04-23
 spotify:track:1o844wI52S3TjXGBwvGcc7,long_term,10,2024-04-16
 spotify:track:1o844wI52S3TjXGBwvGcc7,long_term,10,2024-04-13
@@ -409,6 +419,7 @@ spotify:track:3cGp1jXxLReLKz7QgVbWZR,long_term,10,2024-04-06
 spotify:track:3cGp1jXxLReLKz7QgVbWZR,long_term,10,2024-04-07
 spotify:track:6zZWoHlF2zNSLUNLvx4GUl,long_term,10,2024-04-18
 spotify:track:6zZWoHlF2zNSLUNLvx4GUl,long_term,10,2024-04-19
+spotify:track:3cGp1jXxLReLKz7QgVbWZR,long_term,11,2024-04-25
 spotify:track:3cGp1jXxLReLKz7QgVbWZR,long_term,11,2024-04-23
 spotify:track:3cGp1jXxLReLKz7QgVbWZR,long_term,11,2024-04-16
 spotify:track:3cGp1jXxLReLKz7QgVbWZR,long_term,11,2024-04-13
@@ -450,6 +461,7 @@ spotify:track:6stcJnJHPO8RrYx5LLz5OP,long_term,11,2024-04-06
 spotify:track:6stcJnJHPO8RrYx5LLz5OP,long_term,11,2024-04-07
 spotify:track:2DmRXiyn03tOqKgEJXlaiJ,long_term,11,2024-04-18
 spotify:track:2DmRXiyn03tOqKgEJXlaiJ,long_term,11,2024-04-19
+spotify:track:6TBJkXHPhu3EsMk1bshwuI,long_term,12,2024-04-25
 spotify:track:0nwTMzpatarzvLvtwwzdCt,long_term,12,2024-04-23
 spotify:track:6zZWoHlF2zNSLUNLvx4GUl,long_term,12,2024-04-16
 spotify:track:6zZWoHlF2zNSLUNLvx4GUl,long_term,12,2024-04-13
@@ -491,6 +503,7 @@ spotify:track:6zZWoHlF2zNSLUNLvx4GUl,long_term,12,2024-04-06
 spotify:track:6zZWoHlF2zNSLUNLvx4GUl,long_term,12,2024-04-07
 spotify:track:0nwTMzpatarzvLvtwwzdCt,long_term,12,2024-04-18
 spotify:track:0nwTMzpatarzvLvtwwzdCt,long_term,12,2024-04-19
+spotify:track:58ItBuVuKc03DvqSeZFnH1,long_term,13,2024-04-25
 spotify:track:6TBJkXHPhu3EsMk1bshwuI,long_term,13,2024-04-23
 spotify:track:2DmRXiyn03tOqKgEJXlaiJ,long_term,13,2024-04-16
 spotify:track:2DmRXiyn03tOqKgEJXlaiJ,long_term,13,2024-04-13
@@ -532,6 +545,7 @@ spotify:track:2DmRXiyn03tOqKgEJXlaiJ,long_term,13,2024-04-06
 spotify:track:2DmRXiyn03tOqKgEJXlaiJ,long_term,13,2024-04-07
 spotify:track:6TBJkXHPhu3EsMk1bshwuI,long_term,13,2024-04-18
 spotify:track:6TBJkXHPhu3EsMk1bshwuI,long_term,13,2024-04-19
+spotify:track:0nwTMzpatarzvLvtwwzdCt,long_term,14,2024-04-25
 spotify:track:58ItBuVuKc03DvqSeZFnH1,long_term,14,2024-04-23
 spotify:track:6stcJnJHPO8RrYx5LLz5OP,long_term,14,2024-04-16
 spotify:track:6stcJnJHPO8RrYx5LLz5OP,long_term,14,2024-04-13
@@ -573,6 +587,7 @@ spotify:track:3uI6jqO0fFBoFryc8SJOXw,long_term,14,2024-04-06
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,long_term,14,2024-04-07
 spotify:track:58ItBuVuKc03DvqSeZFnH1,long_term,14,2024-04-18
 spotify:track:58ItBuVuKc03DvqSeZFnH1,long_term,14,2024-04-19
+spotify:track:1o844wI52S3TjXGBwvGcc7,long_term,15,2024-04-25
 spotify:track:1o844wI52S3TjXGBwvGcc7,long_term,15,2024-04-23
 spotify:track:6TBJkXHPhu3EsMk1bshwuI,long_term,15,2024-04-16
 spotify:track:58ItBuVuKc03DvqSeZFnH1,long_term,15,2024-04-13
@@ -614,6 +629,7 @@ spotify:track:58ItBuVuKc03DvqSeZFnH1,long_term,15,2024-04-06
 spotify:track:58ItBuVuKc03DvqSeZFnH1,long_term,15,2024-04-07
 spotify:track:1o844wI52S3TjXGBwvGcc7,long_term,15,2024-04-18
 spotify:track:1o844wI52S3TjXGBwvGcc7,long_term,15,2024-04-19
+spotify:track:6koMMQlsRWBwHZXdtWxgUk,long_term,16,2024-04-25
 spotify:track:6stcJnJHPO8RrYx5LLz5OP,long_term,16,2024-04-23
 spotify:track:58ItBuVuKc03DvqSeZFnH1,long_term,16,2024-04-16
 spotify:track:1IgRQvTqj7BKjNWRzjFEE0,long_term,16,2024-04-13
@@ -655,6 +671,7 @@ spotify:track:1IgRQvTqj7BKjNWRzjFEE0,long_term,16,2024-04-06
 spotify:track:1IgRQvTqj7BKjNWRzjFEE0,long_term,16,2024-04-07
 spotify:track:6stcJnJHPO8RrYx5LLz5OP,long_term,16,2024-04-18
 spotify:track:6stcJnJHPO8RrYx5LLz5OP,long_term,16,2024-04-19
+spotify:track:2oBMZYteeO8DyXV9gDx6Za,long_term,17,2024-04-25
 spotify:track:6koMMQlsRWBwHZXdtWxgUk,long_term,17,2024-04-23
 spotify:track:1IgRQvTqj7BKjNWRzjFEE0,long_term,17,2024-04-16
 spotify:track:4sRQg2aoec0VIvQ7GZPGMy,long_term,17,2024-04-13
@@ -696,6 +713,7 @@ spotify:track:4sRQg2aoec0VIvQ7GZPGMy,long_term,17,2024-04-06
 spotify:track:4sRQg2aoec0VIvQ7GZPGMy,long_term,17,2024-04-07
 spotify:track:6koMMQlsRWBwHZXdtWxgUk,long_term,17,2024-04-18
 spotify:track:6koMMQlsRWBwHZXdtWxgUk,long_term,17,2024-04-19
+spotify:track:4sRQg2aoec0VIvQ7GZPGMy,long_term,18,2024-04-25
 spotify:track:2oBMZYteeO8DyXV9gDx6Za,long_term,18,2024-04-23
 spotify:track:4sRQg2aoec0VIvQ7GZPGMy,long_term,18,2024-04-16
 spotify:track:6TBJkXHPhu3EsMk1bshwuI,long_term,18,2024-04-13
@@ -737,6 +755,7 @@ spotify:track:6TBJkXHPhu3EsMk1bshwuI,long_term,18,2024-04-06
 spotify:track:6TBJkXHPhu3EsMk1bshwuI,long_term,18,2024-04-07
 spotify:track:2oBMZYteeO8DyXV9gDx6Za,long_term,18,2024-04-18
 spotify:track:2oBMZYteeO8DyXV9gDx6Za,long_term,18,2024-04-19
+spotify:track:7mpdNiaQvygj2rHoxkzMfa,long_term,19,2024-04-25
 spotify:track:4sRQg2aoec0VIvQ7GZPGMy,long_term,19,2024-04-23
 spotify:track:6koMMQlsRWBwHZXdtWxgUk,long_term,19,2024-04-16
 spotify:track:0mlxHb4jbPr1PUBUv0WHRS,long_term,19,2024-04-13
@@ -778,6 +797,7 @@ spotify:track:0mlxHb4jbPr1PUBUv0WHRS,long_term,19,2024-04-06
 spotify:track:0mlxHb4jbPr1PUBUv0WHRS,long_term,19,2024-04-07
 spotify:track:1IgRQvTqj7BKjNWRzjFEE0,long_term,19,2024-04-18
 spotify:track:1IgRQvTqj7BKjNWRzjFEE0,long_term,19,2024-04-19
+spotify:track:3r8RuvgbX9s7ammBn07D3W,long_term,20,2024-04-25
 spotify:track:7mpdNiaQvygj2rHoxkzMfa,long_term,20,2024-04-23
 spotify:track:3r8RuvgbX9s7ammBn07D3W,long_term,20,2024-04-16
 spotify:track:3r8RuvgbX9s7ammBn07D3W,long_term,20,2024-04-13
@@ -819,6 +839,7 @@ spotify:track:3r8RuvgbX9s7ammBn07D3W,long_term,20,2024-04-06
 spotify:track:3r8RuvgbX9s7ammBn07D3W,long_term,20,2024-04-07
 spotify:track:4sRQg2aoec0VIvQ7GZPGMy,long_term,20,2024-04-18
 spotify:track:4sRQg2aoec0VIvQ7GZPGMy,long_term,20,2024-04-19
+spotify:track:3EI3OLBeM89B0o0UsIGCOx,long_term,21,2024-04-25
 spotify:track:3EI3OLBeM89B0o0UsIGCOx,long_term,21,2024-04-23
 spotify:track:2oBMZYteeO8DyXV9gDx6Za,long_term,21,2024-04-16
 spotify:track:2oBMZYteeO8DyXV9gDx6Za,long_term,21,2024-04-13
@@ -860,6 +881,7 @@ spotify:track:4OtVQ2ZxS7yigIjGz5yKg1,long_term,21,2024-04-06
 spotify:track:4OtVQ2ZxS7yigIjGz5yKg1,long_term,21,2024-04-07
 spotify:track:3EI3OLBeM89B0o0UsIGCOx,long_term,21,2024-04-18
 spotify:track:3EI3OLBeM89B0o0UsIGCOx,long_term,21,2024-04-19
+spotify:track:6stcJnJHPO8RrYx5LLz5OP,long_term,22,2024-04-25
 spotify:track:3r8RuvgbX9s7ammBn07D3W,long_term,22,2024-04-23
 spotify:track:4OtVQ2ZxS7yigIjGz5yKg1,long_term,22,2024-04-16
 spotify:track:4OtVQ2ZxS7yigIjGz5yKg1,long_term,22,2024-04-13
@@ -901,6 +923,7 @@ spotify:track:2oBMZYteeO8DyXV9gDx6Za,long_term,22,2024-04-06
 spotify:track:2oBMZYteeO8DyXV9gDx6Za,long_term,22,2024-04-07
 spotify:track:6nICBdDevG4NZysIqDFPEa,long_term,22,2024-04-18
 spotify:track:6nICBdDevG4NZysIqDFPEa,long_term,22,2024-04-19
+spotify:track:73pehvxZUb87PhgyJJpTlw,long_term,23,2024-04-25
 spotify:track:73pehvxZUb87PhgyJJpTlw,long_term,23,2024-04-23
 spotify:track:4hfF0FOFcaiOtwY3NP5hnv,long_term,23,2024-04-16
 spotify:track:4hfF0FOFcaiOtwY3NP5hnv,long_term,23,2024-04-13
@@ -942,6 +965,7 @@ spotify:track:2TZTpkpnDIKUOfU6riqCfE,long_term,23,2024-04-06
 spotify:track:2TZTpkpnDIKUOfU6riqCfE,long_term,23,2024-04-07
 spotify:track:0mlxHb4jbPr1PUBUv0WHRS,long_term,23,2024-04-18
 spotify:track:0mlxHb4jbPr1PUBUv0WHRS,long_term,23,2024-04-19
+spotify:track:6nICBdDevG4NZysIqDFPEa,long_term,24,2024-04-25
 spotify:track:6nICBdDevG4NZysIqDFPEa,long_term,24,2024-04-23
 spotify:track:3EI3OLBeM89B0o0UsIGCOx,long_term,24,2024-04-16
 spotify:track:6l1dTAhX7P6EKvA11NLNuW,long_term,24,2024-04-13
@@ -983,6 +1007,7 @@ spotify:track:6l1dTAhX7P6EKvA11NLNuW,long_term,24,2024-04-06
 spotify:track:6l1dTAhX7P6EKvA11NLNuW,long_term,24,2024-04-07
 spotify:track:3r8RuvgbX9s7ammBn07D3W,long_term,24,2024-04-18
 spotify:track:3r8RuvgbX9s7ammBn07D3W,long_term,24,2024-04-19
+spotify:track:0mlxHb4jbPr1PUBUv0WHRS,long_term,25,2024-04-25
 spotify:track:0mlxHb4jbPr1PUBUv0WHRS,long_term,25,2024-04-23
 spotify:track:6nICBdDevG4NZysIqDFPEa,long_term,25,2024-04-16
 spotify:track:3EI3OLBeM89B0o0UsIGCOx,long_term,25,2024-04-13
@@ -1024,6 +1049,7 @@ spotify:track:3EI3OLBeM89B0o0UsIGCOx,long_term,25,2024-04-06
 spotify:track:3EI3OLBeM89B0o0UsIGCOx,long_term,25,2024-04-07
 spotify:track:2nfluhFVrO5OBXPzRWlwlz,long_term,25,2024-04-18
 spotify:track:2nfluhFVrO5OBXPzRWlwlz,long_term,25,2024-04-19
+spotify:track:2nfluhFVrO5OBXPzRWlwlz,long_term,26,2024-04-25
 spotify:track:2nfluhFVrO5OBXPzRWlwlz,long_term,26,2024-04-23
 spotify:track:0mlxHb4jbPr1PUBUv0WHRS,long_term,26,2024-04-16
 spotify:track:6nICBdDevG4NZysIqDFPEa,long_term,26,2024-04-13
@@ -1065,6 +1091,7 @@ spotify:track:0rTXn4ovXalJGkJMx5hsnX,long_term,26,2024-04-06
 spotify:track:0rTXn4ovXalJGkJMx5hsnX,long_term,26,2024-04-07
 spotify:track:3OC2C8IpFhbUJTeMe55QYn,long_term,26,2024-04-18
 spotify:track:3OC2C8IpFhbUJTeMe55QYn,long_term,26,2024-04-19
+spotify:track:4OtVQ2ZxS7yigIjGz5yKg1,long_term,27,2024-04-25
 spotify:track:4OtVQ2ZxS7yigIjGz5yKg1,long_term,27,2024-04-23
 spotify:track:0rTXn4ovXalJGkJMx5hsnX,long_term,27,2024-04-16
 spotify:track:0rTXn4ovXalJGkJMx5hsnX,long_term,27,2024-04-13
@@ -1106,6 +1133,7 @@ spotify:track:6koMMQlsRWBwHZXdtWxgUk,long_term,27,2024-04-06
 spotify:track:6koMMQlsRWBwHZXdtWxgUk,long_term,27,2024-04-07
 spotify:track:4OtVQ2ZxS7yigIjGz5yKg1,long_term,27,2024-04-18
 spotify:track:4OtVQ2ZxS7yigIjGz5yKg1,long_term,27,2024-04-19
+spotify:track:3OC2C8IpFhbUJTeMe55QYn,long_term,28,2024-04-25
 spotify:track:3OC2C8IpFhbUJTeMe55QYn,long_term,28,2024-04-23
 spotify:track:2nfluhFVrO5OBXPzRWlwlz,long_term,28,2024-04-16
 spotify:track:6koMMQlsRWBwHZXdtWxgUk,long_term,28,2024-04-13
@@ -1147,6 +1175,7 @@ spotify:track:6nICBdDevG4NZysIqDFPEa,long_term,28,2024-04-06
 spotify:track:6nICBdDevG4NZysIqDFPEa,long_term,28,2024-04-07
 spotify:track:4hfF0FOFcaiOtwY3NP5hnv,long_term,28,2024-04-18
 spotify:track:4hfF0FOFcaiOtwY3NP5hnv,long_term,28,2024-04-19
+spotify:track:4BSluGpjdLQihMmKgHXMxp,long_term,29,2024-04-25
 spotify:track:4BSluGpjdLQihMmKgHXMxp,long_term,29,2024-04-23
 spotify:track:3OC2C8IpFhbUJTeMe55QYn,long_term,29,2024-04-16
 spotify:track:3OC2C8IpFhbUJTeMe55QYn,long_term,29,2024-04-13
@@ -1188,6 +1217,7 @@ spotify:track:46wDG6evLn2iPoQ0F8CUWk,long_term,29,2024-04-06
 spotify:track:46wDG6evLn2iPoQ0F8CUWk,long_term,29,2024-04-07
 spotify:track:4BSluGpjdLQihMmKgHXMxp,long_term,29,2024-04-18
 spotify:track:4BSluGpjdLQihMmKgHXMxp,long_term,29,2024-04-19
+spotify:track:0dnkOK5hGUCmIJ7FDF0yHz,long_term,30,2024-04-25
 spotify:track:4hfF0FOFcaiOtwY3NP5hnv,long_term,30,2024-04-23
 spotify:track:4BSluGpjdLQihMmKgHXMxp,long_term,30,2024-04-16
 spotify:track:46wDG6evLn2iPoQ0F8CUWk,long_term,30,2024-04-13
@@ -1229,6 +1259,7 @@ spotify:track:3OC2C8IpFhbUJTeMe55QYn,long_term,30,2024-04-06
 spotify:track:3OC2C8IpFhbUJTeMe55QYn,long_term,30,2024-04-07
 spotify:track:7mpdNiaQvygj2rHoxkzMfa,long_term,30,2024-04-18
 spotify:track:7mpdNiaQvygj2rHoxkzMfa,long_term,30,2024-04-19
+spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,long_term,31,2024-04-25
 spotify:track:0dnkOK5hGUCmIJ7FDF0yHz,long_term,31,2024-04-23
 spotify:track:7mpdNiaQvygj2rHoxkzMfa,long_term,31,2024-04-16
 spotify:track:2nfluhFVrO5OBXPzRWlwlz,long_term,31,2024-04-13
@@ -1270,6 +1301,7 @@ spotify:track:3UKKwGrpWWamc0XNSKXjmz,long_term,31,2024-04-06
 spotify:track:3UKKwGrpWWamc0XNSKXjmz,long_term,31,2024-04-07
 spotify:track:0dnkOK5hGUCmIJ7FDF0yHz,long_term,31,2024-04-18
 spotify:track:0dnkOK5hGUCmIJ7FDF0yHz,long_term,31,2024-04-19
+spotify:track:4zIPZxvYp32y6ifjm1E30O,long_term,32,2024-04-25
 spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,long_term,32,2024-04-23
 spotify:track:0dnkOK5hGUCmIJ7FDF0yHz,long_term,32,2024-04-16
 spotify:track:4BSluGpjdLQihMmKgHXMxp,long_term,32,2024-04-13
@@ -1311,6 +1343,7 @@ spotify:track:2nfluhFVrO5OBXPzRWlwlz,long_term,32,2024-04-06
 spotify:track:2nfluhFVrO5OBXPzRWlwlz,long_term,32,2024-04-07
 spotify:track:73pehvxZUb87PhgyJJpTlw,long_term,32,2024-04-18
 spotify:track:73pehvxZUb87PhgyJJpTlw,long_term,32,2024-04-19
+spotify:track:0rTXn4ovXalJGkJMx5hsnX,long_term,33,2024-04-25
 spotify:track:4zIPZxvYp32y6ifjm1E30O,long_term,33,2024-04-23
 spotify:track:73pehvxZUb87PhgyJJpTlw,long_term,33,2024-04-16
 spotify:track:0dnkOK5hGUCmIJ7FDF0yHz,long_term,33,2024-04-13
@@ -1352,6 +1385,7 @@ spotify:track:4BSluGpjdLQihMmKgHXMxp,long_term,33,2024-04-06
 spotify:track:4BSluGpjdLQihMmKgHXMxp,long_term,33,2024-04-07
 spotify:track:0rTXn4ovXalJGkJMx5hsnX,long_term,33,2024-04-18
 spotify:track:4zIPZxvYp32y6ifjm1E30O,long_term,33,2024-04-19
+spotify:track:2qYdsdgdeMLFzpLcMQWG2W,long_term,34,2024-04-25
 spotify:track:0rTXn4ovXalJGkJMx5hsnX,long_term,34,2024-04-23
 spotify:track:3atsk5EWI5fNxLMIJnfYfJ,long_term,34,2024-04-16
 spotify:track:73pehvxZUb87PhgyJJpTlw,long_term,34,2024-04-13
@@ -1393,6 +1427,7 @@ spotify:track:4hfF0FOFcaiOtwY3NP5hnv,long_term,34,2024-04-06
 spotify:track:4hfF0FOFcaiOtwY3NP5hnv,long_term,34,2024-04-07
 spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,long_term,34,2024-04-18
 spotify:track:0rTXn4ovXalJGkJMx5hsnX,long_term,34,2024-04-19
+spotify:track:4OSVR8gq2l3ceJiXNR7iiM,long_term,35,2024-04-25
 spotify:track:2qYdsdgdeMLFzpLcMQWG2W,long_term,35,2024-04-23
 spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,long_term,35,2024-04-16
 spotify:track:3atsk5EWI5fNxLMIJnfYfJ,long_term,35,2024-04-13
@@ -1434,6 +1469,7 @@ spotify:track:4OSVR8gq2l3ceJiXNR7iiM,long_term,35,2024-04-06
 spotify:track:4OSVR8gq2l3ceJiXNR7iiM,long_term,35,2024-04-07
 spotify:track:4zIPZxvYp32y6ifjm1E30O,long_term,35,2024-04-18
 spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,long_term,35,2024-04-19
+spotify:track:68gQG2HpRMxIRom4pCugMq,long_term,36,2024-04-25
 spotify:track:4OSVR8gq2l3ceJiXNR7iiM,long_term,36,2024-04-23
 spotify:track:0P8lbWigAHXPKxUG60xh79,long_term,36,2024-04-16
 spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,long_term,36,2024-04-13
@@ -1475,6 +1511,7 @@ spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,long_term,36,2024-04-06
 spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,long_term,36,2024-04-07
 spotify:track:2qYdsdgdeMLFzpLcMQWG2W,long_term,36,2024-04-18
 spotify:track:2qYdsdgdeMLFzpLcMQWG2W,long_term,36,2024-04-19
+spotify:track:2YmfV4lAjrAQvuggKCUX6m,long_term,37,2024-04-25
 spotify:track:68gQG2HpRMxIRom4pCugMq,long_term,37,2024-04-23
 spotify:track:4zIPZxvYp32y6ifjm1E30O,long_term,37,2024-04-16
 spotify:track:4OSVR8gq2l3ceJiXNR7iiM,long_term,37,2024-04-13
@@ -1516,6 +1553,7 @@ spotify:track:2qYdsdgdeMLFzpLcMQWG2W,long_term,37,2024-04-06
 spotify:track:2qYdsdgdeMLFzpLcMQWG2W,long_term,37,2024-04-07
 spotify:track:4OSVR8gq2l3ceJiXNR7iiM,long_term,37,2024-04-18
 spotify:track:4OSVR8gq2l3ceJiXNR7iiM,long_term,37,2024-04-19
+spotify:track:1IgRQvTqj7BKjNWRzjFEE0,long_term,38,2024-04-25
 spotify:track:2YmfV4lAjrAQvuggKCUX6m,long_term,38,2024-04-23
 spotify:track:2qYdsdgdeMLFzpLcMQWG2W,long_term,38,2024-04-16
 spotify:track:0P8lbWigAHXPKxUG60xh79,long_term,38,2024-04-13
@@ -1557,6 +1595,7 @@ spotify:track:68gQG2HpRMxIRom4pCugMq,long_term,38,2024-04-06
 spotify:track:68gQG2HpRMxIRom4pCugMq,long_term,38,2024-04-07
 spotify:track:68gQG2HpRMxIRom4pCugMq,long_term,38,2024-04-18
 spotify:track:68gQG2HpRMxIRom4pCugMq,long_term,38,2024-04-19
+spotify:track:3h7WIL3B6nP3171zl6HWj8,long_term,39,2024-04-25
 spotify:track:1IgRQvTqj7BKjNWRzjFEE0,long_term,39,2024-04-23
 spotify:track:4OSVR8gq2l3ceJiXNR7iiM,long_term,39,2024-04-16
 spotify:track:4zIPZxvYp32y6ifjm1E30O,long_term,39,2024-04-13
@@ -1598,6 +1637,7 @@ spotify:track:1TF9k6wfT1rkHnRp1AqAum,long_term,39,2024-04-06
 spotify:track:1TF9k6wfT1rkHnRp1AqAum,long_term,39,2024-04-07
 spotify:track:2YmfV4lAjrAQvuggKCUX6m,long_term,39,2024-04-18
 spotify:track:2YmfV4lAjrAQvuggKCUX6m,long_term,39,2024-04-19
+spotify:track:4wQDjZtXjsFtU3BLSiIH4t,long_term,40,2024-04-25
 spotify:track:3h7WIL3B6nP3171zl6HWj8,long_term,40,2024-04-23
 spotify:track:68gQG2HpRMxIRom4pCugMq,long_term,40,2024-04-16
 spotify:track:2qYdsdgdeMLFzpLcMQWG2W,long_term,40,2024-04-13
@@ -1639,6 +1679,7 @@ spotify:track:5QGooKayQPVZMUDc8Qt3Dm,long_term,40,2024-04-06
 spotify:track:5QGooKayQPVZMUDc8Qt3Dm,long_term,40,2024-04-07
 spotify:track:3h7WIL3B6nP3171zl6HWj8,long_term,40,2024-04-18
 spotify:track:3h7WIL3B6nP3171zl6HWj8,long_term,40,2024-04-19
+spotify:track:0UTtK6hregIBOsefavRI26,long_term,41,2024-04-25
 spotify:track:4wQDjZtXjsFtU3BLSiIH4t,long_term,41,2024-04-23
 spotify:track:46wDG6evLn2iPoQ0F8CUWk,long_term,41,2024-04-16
 spotify:track:68gQG2HpRMxIRom4pCugMq,long_term,41,2024-04-13
@@ -1680,6 +1721,7 @@ spotify:track:2YmfV4lAjrAQvuggKCUX6m,long_term,41,2024-04-06
 spotify:track:2YmfV4lAjrAQvuggKCUX6m,long_term,41,2024-04-07
 spotify:track:4wQDjZtXjsFtU3BLSiIH4t,long_term,41,2024-04-18
 spotify:track:4wQDjZtXjsFtU3BLSiIH4t,long_term,41,2024-04-19
+spotify:track:2TZTpkpnDIKUOfU6riqCfE,long_term,42,2024-04-25
 spotify:track:0UTtK6hregIBOsefavRI26,long_term,42,2024-04-23
 spotify:track:2YmfV4lAjrAQvuggKCUX6m,long_term,42,2024-04-16
 spotify:track:3UKKwGrpWWamc0XNSKXjmz,long_term,42,2024-04-13
@@ -1721,6 +1763,7 @@ spotify:track:4zIPZxvYp32y6ifjm1E30O,long_term,42,2024-04-06
 spotify:track:4zIPZxvYp32y6ifjm1E30O,long_term,42,2024-04-07
 spotify:track:2TZTpkpnDIKUOfU6riqCfE,long_term,42,2024-04-18
 spotify:track:2TZTpkpnDIKUOfU6riqCfE,long_term,42,2024-04-19
+spotify:track:4as4XEOR03oGm1STUKl6pa,long_term,43,2024-04-25
 spotify:track:2TZTpkpnDIKUOfU6riqCfE,long_term,43,2024-04-23
 spotify:track:308Ir17KlNdlrbVLHWhlLe,long_term,43,2024-04-16
 spotify:track:2YmfV4lAjrAQvuggKCUX6m,long_term,43,2024-04-13
@@ -1762,6 +1805,7 @@ spotify:track:308Ir17KlNdlrbVLHWhlLe,long_term,43,2024-04-06
 spotify:track:308Ir17KlNdlrbVLHWhlLe,long_term,43,2024-04-07
 spotify:track:4as4XEOR03oGm1STUKl6pa,long_term,43,2024-04-18
 spotify:track:4as4XEOR03oGm1STUKl6pa,long_term,43,2024-04-19
+spotify:track:45lXSvtDt6uKiGZIXB4LLF,long_term,44,2024-04-25
 spotify:track:4as4XEOR03oGm1STUKl6pa,long_term,44,2024-04-23
 spotify:track:3h7WIL3B6nP3171zl6HWj8,long_term,44,2024-04-16
 spotify:track:308Ir17KlNdlrbVLHWhlLe,long_term,44,2024-04-13
@@ -1803,6 +1847,7 @@ spotify:track:4wQDjZtXjsFtU3BLSiIH4t,long_term,44,2024-04-06
 spotify:track:4wQDjZtXjsFtU3BLSiIH4t,long_term,44,2024-04-07
 spotify:track:45lXSvtDt6uKiGZIXB4LLF,long_term,44,2024-04-18
 spotify:track:45lXSvtDt6uKiGZIXB4LLF,long_term,44,2024-04-19
+spotify:track:51vRumtqbkNW9wrKfESwfu,long_term,45,2024-04-25
 spotify:track:45lXSvtDt6uKiGZIXB4LLF,long_term,45,2024-04-23
 spotify:track:4wQDjZtXjsFtU3BLSiIH4t,long_term,45,2024-04-16
 spotify:track:4wQDjZtXjsFtU3BLSiIH4t,long_term,45,2024-04-13
@@ -1844,6 +1889,7 @@ spotify:track:45lXSvtDt6uKiGZIXB4LLF,long_term,45,2024-04-06
 spotify:track:45lXSvtDt6uKiGZIXB4LLF,long_term,45,2024-04-07
 spotify:track:51vRumtqbkNW9wrKfESwfu,long_term,45,2024-04-18
 spotify:track:0UTtK6hregIBOsefavRI26,long_term,45,2024-04-19
+spotify:track:5Q1tv4GTxP3IJeGMOKdrFO,long_term,46,2024-04-25
 spotify:track:51vRumtqbkNW9wrKfESwfu,long_term,46,2024-04-23
 spotify:track:2TZTpkpnDIKUOfU6riqCfE,long_term,46,2024-04-16
 spotify:track:2TZTpkpnDIKUOfU6riqCfE,long_term,46,2024-04-13
@@ -1885,6 +1931,7 @@ spotify:track:0dnkOK5hGUCmIJ7FDF0yHz,long_term,46,2024-04-06
 spotify:track:0dnkOK5hGUCmIJ7FDF0yHz,long_term,46,2024-04-07
 spotify:track:5Q1tv4GTxP3IJeGMOKdrFO,long_term,46,2024-04-18
 spotify:track:51vRumtqbkNW9wrKfESwfu,long_term,46,2024-04-19
+spotify:track:5GKwq4sO5ZHKuWaDmdwMQc,long_term,47,2024-04-25
 spotify:track:5Q1tv4GTxP3IJeGMOKdrFO,long_term,47,2024-04-23
 spotify:track:4as4XEOR03oGm1STUKl6pa,long_term,47,2024-04-16
 spotify:track:3h7WIL3B6nP3171zl6HWj8,long_term,47,2024-04-13
@@ -1926,6 +1973,7 @@ spotify:track:3h7WIL3B6nP3171zl6HWj8,long_term,47,2024-04-06
 spotify:track:3h7WIL3B6nP3171zl6HWj8,long_term,47,2024-04-07
 spotify:track:0UTtK6hregIBOsefavRI26,long_term,47,2024-04-18
 spotify:track:5Q1tv4GTxP3IJeGMOKdrFO,long_term,47,2024-04-19
+spotify:track:3atsk5EWI5fNxLMIJnfYfJ,long_term,48,2024-04-25
 spotify:track:5GKwq4sO5ZHKuWaDmdwMQc,long_term,48,2024-04-23
 spotify:track:6l1dTAhX7P6EKvA11NLNuW,long_term,48,2024-04-16
 spotify:track:4as4XEOR03oGm1STUKl6pa,long_term,48,2024-04-13
@@ -1967,6 +2015,7 @@ spotify:track:5f2CcxzZoW7hNs1O8NhG6y,long_term,48,2024-04-06
 spotify:track:5f2CcxzZoW7hNs1O8NhG6y,long_term,48,2024-04-07
 spotify:track:3atsk5EWI5fNxLMIJnfYfJ,long_term,48,2024-04-18
 spotify:track:3atsk5EWI5fNxLMIJnfYfJ,long_term,48,2024-04-19
+spotify:track:14nturKxV48wR3lbknehiu,long_term,49,2024-04-25
 spotify:track:3atsk5EWI5fNxLMIJnfYfJ,long_term,49,2024-04-23
 spotify:track:45lXSvtDt6uKiGZIXB4LLF,long_term,49,2024-04-16
 spotify:track:45lXSvtDt6uKiGZIXB4LLF,long_term,49,2024-04-13
@@ -2008,6 +2057,7 @@ spotify:track:73pehvxZUb87PhgyJJpTlw,long_term,49,2024-04-06
 spotify:track:73pehvxZUb87PhgyJJpTlw,long_term,49,2024-04-07
 spotify:track:14nturKxV48wR3lbknehiu,long_term,49,2024-04-18
 spotify:track:14nturKxV48wR3lbknehiu,long_term,49,2024-04-19
+spotify:track:46wDG6evLn2iPoQ0F8CUWk,long_term,50,2024-04-25
 spotify:track:14nturKxV48wR3lbknehiu,long_term,50,2024-04-23
 spotify:track:51vRumtqbkNW9wrKfESwfu,long_term,50,2024-04-16
 spotify:track:5f2CcxzZoW7hNs1O8NhG6y,long_term,50,2024-04-13
@@ -2049,6 +2099,7 @@ spotify:track:5GKwq4sO5ZHKuWaDmdwMQc,long_term,50,2024-04-06
 spotify:track:5GKwq4sO5ZHKuWaDmdwMQc,long_term,50,2024-04-07
 spotify:track:2th6UWbfVz3hsSDzQAKqy2,long_term,50,2024-04-18
 spotify:track:2th6UWbfVz3hsSDzQAKqy2,long_term,50,2024-04-19
+spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,medium_term,1,2024-04-25
 spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,medium_term,1,2024-04-23
 spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,medium_term,1,2024-04-16
 spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,medium_term,1,2024-04-13
@@ -2090,6 +2141,7 @@ spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,medium_term,1,2024-04-06
 spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,medium_term,1,2024-04-07
 spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,medium_term,1,2024-04-18
 spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,medium_term,1,2024-04-19
+spotify:track:3uI6jqO0fFBoFryc8SJOXw,medium_term,2,2024-04-25
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,medium_term,2,2024-04-23
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,medium_term,2,2024-04-16
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,medium_term,2,2024-04-13
@@ -2131,6 +2183,7 @@ spotify:track:3uI6jqO0fFBoFryc8SJOXw,medium_term,2,2024-04-06
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,medium_term,2,2024-04-07
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,medium_term,2,2024-04-18
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,medium_term,2,2024-04-19
+spotify:track:3EI3OLBeM89B0o0UsIGCOx,medium_term,3,2024-04-25
 spotify:track:3EI3OLBeM89B0o0UsIGCOx,medium_term,3,2024-04-23
 spotify:track:3EI3OLBeM89B0o0UsIGCOx,medium_term,3,2024-04-16
 spotify:track:3EI3OLBeM89B0o0UsIGCOx,medium_term,3,2024-04-13
@@ -2172,6 +2225,7 @@ spotify:track:3EI3OLBeM89B0o0UsIGCOx,medium_term,3,2024-04-06
 spotify:track:3EI3OLBeM89B0o0UsIGCOx,medium_term,3,2024-04-07
 spotify:track:3EI3OLBeM89B0o0UsIGCOx,medium_term,3,2024-04-18
 spotify:track:3EI3OLBeM89B0o0UsIGCOx,medium_term,3,2024-04-19
+spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,medium_term,4,2024-04-25
 spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,medium_term,4,2024-04-23
 spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,medium_term,4,2024-04-16
 spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,medium_term,4,2024-04-13
@@ -2213,6 +2267,7 @@ spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,medium_term,4,2024-04-06
 spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,medium_term,4,2024-04-07
 spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,medium_term,4,2024-04-18
 spotify:track:4zIPZxvYp32y6ifjm1E30O,medium_term,4,2024-04-19
+spotify:track:4zIPZxvYp32y6ifjm1E30O,medium_term,5,2024-04-25
 spotify:track:4zIPZxvYp32y6ifjm1E30O,medium_term,5,2024-04-23
 spotify:track:4zIPZxvYp32y6ifjm1E30O,medium_term,5,2024-04-16
 spotify:track:4zIPZxvYp32y6ifjm1E30O,medium_term,5,2024-04-13
@@ -2254,6 +2309,7 @@ spotify:track:68gQG2HpRMxIRom4pCugMq,medium_term,5,2024-04-06
 spotify:track:68gQG2HpRMxIRom4pCugMq,medium_term,5,2024-04-07
 spotify:track:4zIPZxvYp32y6ifjm1E30O,medium_term,5,2024-04-18
 spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,medium_term,5,2024-04-19
+spotify:track:68gQG2HpRMxIRom4pCugMq,medium_term,6,2024-04-25
 spotify:track:68gQG2HpRMxIRom4pCugMq,medium_term,6,2024-04-23
 spotify:track:68gQG2HpRMxIRom4pCugMq,medium_term,6,2024-04-16
 spotify:track:68gQG2HpRMxIRom4pCugMq,medium_term,6,2024-04-13
@@ -2295,6 +2351,7 @@ spotify:track:2YmfV4lAjrAQvuggKCUX6m,medium_term,6,2024-04-06
 spotify:track:2YmfV4lAjrAQvuggKCUX6m,medium_term,6,2024-04-07
 spotify:track:68gQG2HpRMxIRom4pCugMq,medium_term,6,2024-04-18
 spotify:track:68gQG2HpRMxIRom4pCugMq,medium_term,6,2024-04-19
+spotify:track:2YmfV4lAjrAQvuggKCUX6m,medium_term,7,2024-04-25
 spotify:track:2YmfV4lAjrAQvuggKCUX6m,medium_term,7,2024-04-23
 spotify:track:2YmfV4lAjrAQvuggKCUX6m,medium_term,7,2024-04-16
 spotify:track:2YmfV4lAjrAQvuggKCUX6m,medium_term,7,2024-04-13
@@ -2336,6 +2393,7 @@ spotify:track:4zIPZxvYp32y6ifjm1E30O,medium_term,7,2024-04-06
 spotify:track:4zIPZxvYp32y6ifjm1E30O,medium_term,7,2024-04-07
 spotify:track:2YmfV4lAjrAQvuggKCUX6m,medium_term,7,2024-04-18
 spotify:track:2YmfV4lAjrAQvuggKCUX6m,medium_term,7,2024-04-19
+spotify:track:0UTtK6hregIBOsefavRI26,medium_term,8,2024-04-25
 spotify:track:0UTtK6hregIBOsefavRI26,medium_term,8,2024-04-23
 spotify:track:45lXSvtDt6uKiGZIXB4LLF,medium_term,8,2024-04-16
 spotify:track:45lXSvtDt6uKiGZIXB4LLF,medium_term,8,2024-04-13
@@ -2377,6 +2435,7 @@ spotify:track:45lXSvtDt6uKiGZIXB4LLF,medium_term,8,2024-04-06
 spotify:track:45lXSvtDt6uKiGZIXB4LLF,medium_term,8,2024-04-07
 spotify:track:45lXSvtDt6uKiGZIXB4LLF,medium_term,8,2024-04-18
 spotify:track:45lXSvtDt6uKiGZIXB4LLF,medium_term,8,2024-04-19
+spotify:track:45lXSvtDt6uKiGZIXB4LLF,medium_term,9,2024-04-25
 spotify:track:45lXSvtDt6uKiGZIXB4LLF,medium_term,9,2024-04-23
 spotify:track:5Q1tv4GTxP3IJeGMOKdrFO,medium_term,9,2024-04-16
 spotify:track:0UTtK6hregIBOsefavRI26,medium_term,9,2024-04-13
@@ -2418,6 +2477,7 @@ spotify:track:6zZWoHlF2zNSLUNLvx4GUl,medium_term,9,2024-04-06
 spotify:track:6zZWoHlF2zNSLUNLvx4GUl,medium_term,9,2024-04-07
 spotify:track:5Q1tv4GTxP3IJeGMOKdrFO,medium_term,9,2024-04-18
 spotify:track:0UTtK6hregIBOsefavRI26,medium_term,9,2024-04-19
+spotify:track:5Q1tv4GTxP3IJeGMOKdrFO,medium_term,10,2024-04-25
 spotify:track:5Q1tv4GTxP3IJeGMOKdrFO,medium_term,10,2024-04-23
 spotify:track:0UTtK6hregIBOsefavRI26,medium_term,10,2024-04-16
 spotify:track:6zZWoHlF2zNSLUNLvx4GUl,medium_term,10,2024-04-13
@@ -2459,6 +2519,7 @@ spotify:track:0UTtK6hregIBOsefavRI26,medium_term,10,2024-04-06
 spotify:track:0UTtK6hregIBOsefavRI26,medium_term,10,2024-04-07
 spotify:track:0UTtK6hregIBOsefavRI26,medium_term,10,2024-04-18
 spotify:track:5Q1tv4GTxP3IJeGMOKdrFO,medium_term,10,2024-04-19
+spotify:track:6zZWoHlF2zNSLUNLvx4GUl,medium_term,11,2024-04-25
 spotify:track:6zZWoHlF2zNSLUNLvx4GUl,medium_term,11,2024-04-23
 spotify:track:6zZWoHlF2zNSLUNLvx4GUl,medium_term,11,2024-04-16
 spotify:track:5Q1tv4GTxP3IJeGMOKdrFO,medium_term,11,2024-04-13
@@ -2500,6 +2561,7 @@ spotify:track:5Q1tv4GTxP3IJeGMOKdrFO,medium_term,11,2024-04-06
 spotify:track:5Q1tv4GTxP3IJeGMOKdrFO,medium_term,11,2024-04-07
 spotify:track:6zZWoHlF2zNSLUNLvx4GUl,medium_term,11,2024-04-18
 spotify:track:6zZWoHlF2zNSLUNLvx4GUl,medium_term,11,2024-04-19
+spotify:track:0jUDrSASok8h2xUIWe4KOG,medium_term,12,2024-04-25
 spotify:track:0jUDrSASok8h2xUIWe4KOG,medium_term,12,2024-04-23
 spotify:track:0jUDrSASok8h2xUIWe4KOG,medium_term,12,2024-04-16
 spotify:track:0jUDrSASok8h2xUIWe4KOG,medium_term,12,2024-04-13
@@ -2541,6 +2603,7 @@ spotify:track:0jUDrSASok8h2xUIWe4KOG,medium_term,12,2024-04-06
 spotify:track:0jUDrSASok8h2xUIWe4KOG,medium_term,12,2024-04-07
 spotify:track:0jUDrSASok8h2xUIWe4KOG,medium_term,12,2024-04-18
 spotify:track:0jUDrSASok8h2xUIWe4KOG,medium_term,12,2024-04-19
+spotify:track:56vA4AoGec8ae9nmdprBBI,medium_term,13,2024-04-25
 spotify:track:56vA4AoGec8ae9nmdprBBI,medium_term,13,2024-04-23
 spotify:track:4loUHO28CuvSbEiZXId1BD,medium_term,13,2024-04-16
 spotify:track:4loUHO28CuvSbEiZXId1BD,medium_term,13,2024-04-13
@@ -2582,6 +2645,7 @@ spotify:track:4loUHO28CuvSbEiZXId1BD,medium_term,13,2024-04-06
 spotify:track:4loUHO28CuvSbEiZXId1BD,medium_term,13,2024-04-07
 spotify:track:4loUHO28CuvSbEiZXId1BD,medium_term,13,2024-04-18
 spotify:track:4loUHO28CuvSbEiZXId1BD,medium_term,13,2024-04-19
+spotify:track:4loUHO28CuvSbEiZXId1BD,medium_term,14,2024-04-25
 spotify:track:4loUHO28CuvSbEiZXId1BD,medium_term,14,2024-04-23
 spotify:track:70efTlnBNM8BvfhfPiqOBN,medium_term,14,2024-04-16
 spotify:track:70efTlnBNM8BvfhfPiqOBN,medium_term,14,2024-04-13
@@ -2623,6 +2687,7 @@ spotify:track:70efTlnBNM8BvfhfPiqOBN,medium_term,14,2024-04-06
 spotify:track:70efTlnBNM8BvfhfPiqOBN,medium_term,14,2024-04-07
 spotify:track:70efTlnBNM8BvfhfPiqOBN,medium_term,14,2024-04-18
 spotify:track:70efTlnBNM8BvfhfPiqOBN,medium_term,14,2024-04-19
+spotify:track:70efTlnBNM8BvfhfPiqOBN,medium_term,15,2024-04-25
 spotify:track:70efTlnBNM8BvfhfPiqOBN,medium_term,15,2024-04-23
 spotify:track:1mdtLny0zugh89vokWGG80,medium_term,15,2024-04-16
 spotify:track:1mdtLny0zugh89vokWGG80,medium_term,15,2024-04-13
@@ -2664,6 +2729,7 @@ spotify:track:1mdtLny0zugh89vokWGG80,medium_term,15,2024-04-06
 spotify:track:1mdtLny0zugh89vokWGG80,medium_term,15,2024-04-07
 spotify:track:1mdtLny0zugh89vokWGG80,medium_term,15,2024-04-18
 spotify:track:1mdtLny0zugh89vokWGG80,medium_term,15,2024-04-19
+spotify:track:1mdtLny0zugh89vokWGG80,medium_term,16,2024-04-25
 spotify:track:1mdtLny0zugh89vokWGG80,medium_term,16,2024-04-23
 spotify:track:5nTemr4PG8L9jQoqxsZu6w,medium_term,16,2024-04-16
 spotify:track:5nTemr4PG8L9jQoqxsZu6w,medium_term,16,2024-04-13
@@ -2705,6 +2771,7 @@ spotify:track:5nTemr4PG8L9jQoqxsZu6w,medium_term,16,2024-04-06
 spotify:track:5nTemr4PG8L9jQoqxsZu6w,medium_term,16,2024-04-07
 spotify:track:5nTemr4PG8L9jQoqxsZu6w,medium_term,16,2024-04-18
 spotify:track:5nTemr4PG8L9jQoqxsZu6w,medium_term,16,2024-04-19
+spotify:track:5nTemr4PG8L9jQoqxsZu6w,medium_term,17,2024-04-25
 spotify:track:5nTemr4PG8L9jQoqxsZu6w,medium_term,17,2024-04-23
 spotify:track:4Pp6Ql9wV7A6VqHrmjMFv4,medium_term,17,2024-04-16
 spotify:track:4Pp6Ql9wV7A6VqHrmjMFv4,medium_term,17,2024-04-13
@@ -2746,6 +2813,7 @@ spotify:track:4Pp6Ql9wV7A6VqHrmjMFv4,medium_term,17,2024-04-06
 spotify:track:4Pp6Ql9wV7A6VqHrmjMFv4,medium_term,17,2024-04-07
 spotify:track:4Pp6Ql9wV7A6VqHrmjMFv4,medium_term,17,2024-04-18
 spotify:track:4Pp6Ql9wV7A6VqHrmjMFv4,medium_term,17,2024-04-19
+spotify:track:4Pp6Ql9wV7A6VqHrmjMFv4,medium_term,18,2024-04-25
 spotify:track:4Pp6Ql9wV7A6VqHrmjMFv4,medium_term,18,2024-04-23
 spotify:track:56vA4AoGec8ae9nmdprBBI,medium_term,18,2024-04-16
 spotify:track:3F2BLyGt6zYLrHYpbdTw5L,medium_term,18,2024-04-13
@@ -2787,6 +2855,7 @@ spotify:track:3F2BLyGt6zYLrHYpbdTw5L,medium_term,18,2024-04-06
 spotify:track:3F2BLyGt6zYLrHYpbdTw5L,medium_term,18,2024-04-07
 spotify:track:56vA4AoGec8ae9nmdprBBI,medium_term,18,2024-04-18
 spotify:track:56vA4AoGec8ae9nmdprBBI,medium_term,18,2024-04-19
+spotify:track:3F2BLyGt6zYLrHYpbdTw5L,medium_term,19,2024-04-25
 spotify:track:3F2BLyGt6zYLrHYpbdTw5L,medium_term,19,2024-04-23
 spotify:track:3F2BLyGt6zYLrHYpbdTw5L,medium_term,19,2024-04-16
 spotify:track:0dnkOK5hGUCmIJ7FDF0yHz,medium_term,19,2024-04-13
@@ -2828,6 +2897,7 @@ spotify:track:56vA4AoGec8ae9nmdprBBI,medium_term,19,2024-04-06
 spotify:track:56vA4AoGec8ae9nmdprBBI,medium_term,19,2024-04-07
 spotify:track:3F2BLyGt6zYLrHYpbdTw5L,medium_term,19,2024-04-18
 spotify:track:3F2BLyGt6zYLrHYpbdTw5L,medium_term,19,2024-04-19
+spotify:track:0dnkOK5hGUCmIJ7FDF0yHz,medium_term,20,2024-04-25
 spotify:track:0dnkOK5hGUCmIJ7FDF0yHz,medium_term,20,2024-04-23
 spotify:track:0dnkOK5hGUCmIJ7FDF0yHz,medium_term,20,2024-04-16
 spotify:track:56vA4AoGec8ae9nmdprBBI,medium_term,20,2024-04-13
@@ -2869,6 +2939,7 @@ spotify:track:2GquhrcHbl2zOnF5javAFp,medium_term,20,2024-04-06
 spotify:track:2GquhrcHbl2zOnF5javAFp,medium_term,20,2024-04-07
 spotify:track:0dnkOK5hGUCmIJ7FDF0yHz,medium_term,20,2024-04-18
 spotify:track:0dnkOK5hGUCmIJ7FDF0yHz,medium_term,20,2024-04-19
+spotify:track:4H65EdACzwqV8sTt3dDyA0,medium_term,21,2024-04-25
 spotify:track:4H65EdACzwqV8sTt3dDyA0,medium_term,21,2024-04-23
 spotify:track:4H65EdACzwqV8sTt3dDyA0,medium_term,21,2024-04-16
 spotify:track:4H65EdACzwqV8sTt3dDyA0,medium_term,21,2024-04-13
@@ -2910,6 +2981,7 @@ spotify:track:4C7PyWUlTLUUgVZQVboCma,medium_term,21,2024-04-06
 spotify:track:4C7PyWUlTLUUgVZQVboCma,medium_term,21,2024-04-07
 spotify:track:4H65EdACzwqV8sTt3dDyA0,medium_term,21,2024-04-18
 spotify:track:4H65EdACzwqV8sTt3dDyA0,medium_term,21,2024-04-19
+spotify:track:3Wu4lFjkhcXxB6WWaX9gtr,medium_term,22,2024-04-25
 spotify:track:3Wu4lFjkhcXxB6WWaX9gtr,medium_term,22,2024-04-23
 spotify:track:3Wu4lFjkhcXxB6WWaX9gtr,medium_term,22,2024-04-16
 spotify:track:2GquhrcHbl2zOnF5javAFp,medium_term,22,2024-04-13
@@ -2951,6 +3023,7 @@ spotify:track:1y8tPIOh9kR3eQE6TeBCwe,medium_term,22,2024-04-06
 spotify:track:1y8tPIOh9kR3eQE6TeBCwe,medium_term,22,2024-04-07
 spotify:track:3Wu4lFjkhcXxB6WWaX9gtr,medium_term,22,2024-04-18
 spotify:track:3Wu4lFjkhcXxB6WWaX9gtr,medium_term,22,2024-04-19
+spotify:track:2GquhrcHbl2zOnF5javAFp,medium_term,23,2024-04-25
 spotify:track:2GquhrcHbl2zOnF5javAFp,medium_term,23,2024-04-23
 spotify:track:2GquhrcHbl2zOnF5javAFp,medium_term,23,2024-04-16
 spotify:track:4C7PyWUlTLUUgVZQVboCma,medium_term,23,2024-04-13
@@ -2992,6 +3065,7 @@ spotify:track:2uJEnyojuGg31VVlLTQFpp,medium_term,23,2024-04-06
 spotify:track:2uJEnyojuGg31VVlLTQFpp,medium_term,23,2024-04-07
 spotify:track:2GquhrcHbl2zOnF5javAFp,medium_term,23,2024-04-18
 spotify:track:2GquhrcHbl2zOnF5javAFp,medium_term,23,2024-04-19
+spotify:track:4C7PyWUlTLUUgVZQVboCma,medium_term,24,2024-04-25
 spotify:track:4C7PyWUlTLUUgVZQVboCma,medium_term,24,2024-04-23
 spotify:track:4C7PyWUlTLUUgVZQVboCma,medium_term,24,2024-04-16
 spotify:track:1y8tPIOh9kR3eQE6TeBCwe,medium_term,24,2024-04-13
@@ -3033,6 +3107,7 @@ spotify:track:2DmRXiyn03tOqKgEJXlaiJ,medium_term,24,2024-04-06
 spotify:track:2DmRXiyn03tOqKgEJXlaiJ,medium_term,24,2024-04-07
 spotify:track:4C7PyWUlTLUUgVZQVboCma,medium_term,24,2024-04-18
 spotify:track:4C7PyWUlTLUUgVZQVboCma,medium_term,24,2024-04-19
+spotify:track:1y8tPIOh9kR3eQE6TeBCwe,medium_term,25,2024-04-25
 spotify:track:1y8tPIOh9kR3eQE6TeBCwe,medium_term,25,2024-04-23
 spotify:track:1y8tPIOh9kR3eQE6TeBCwe,medium_term,25,2024-04-16
 spotify:track:3atsk5EWI5fNxLMIJnfYfJ,medium_term,25,2024-04-13
@@ -3074,6 +3149,7 @@ spotify:track:0ijCESscFXtRc0dtDgu1Uv,medium_term,25,2024-04-06
 spotify:track:0ijCESscFXtRc0dtDgu1Uv,medium_term,25,2024-04-07
 spotify:track:1y8tPIOh9kR3eQE6TeBCwe,medium_term,25,2024-04-18
 spotify:track:1y8tPIOh9kR3eQE6TeBCwe,medium_term,25,2024-04-19
+spotify:track:2uJEnyojuGg31VVlLTQFpp,medium_term,26,2024-04-25
 spotify:track:3atsk5EWI5fNxLMIJnfYfJ,medium_term,26,2024-04-23
 spotify:track:3atsk5EWI5fNxLMIJnfYfJ,medium_term,26,2024-04-16
 spotify:track:2uJEnyojuGg31VVlLTQFpp,medium_term,26,2024-04-13
@@ -3115,6 +3191,7 @@ spotify:track:0dnkOK5hGUCmIJ7FDF0yHz,medium_term,26,2024-04-06
 spotify:track:0dnkOK5hGUCmIJ7FDF0yHz,medium_term,26,2024-04-07
 spotify:track:3atsk5EWI5fNxLMIJnfYfJ,medium_term,26,2024-04-18
 spotify:track:3atsk5EWI5fNxLMIJnfYfJ,medium_term,26,2024-04-19
+spotify:track:3atsk5EWI5fNxLMIJnfYfJ,medium_term,27,2024-04-25
 spotify:track:2uJEnyojuGg31VVlLTQFpp,medium_term,27,2024-04-23
 spotify:track:2uJEnyojuGg31VVlLTQFpp,medium_term,27,2024-04-16
 spotify:track:4P5ozkI1bxiGxA5rZ27jlO,medium_term,27,2024-04-13
@@ -3156,6 +3233,7 @@ spotify:track:4H65EdACzwqV8sTt3dDyA0,medium_term,27,2024-04-06
 spotify:track:4H65EdACzwqV8sTt3dDyA0,medium_term,27,2024-04-07
 spotify:track:2uJEnyojuGg31VVlLTQFpp,medium_term,27,2024-04-18
 spotify:track:2uJEnyojuGg31VVlLTQFpp,medium_term,27,2024-04-19
+spotify:track:2RoYgkPzUY0vY7lhUuyus1,medium_term,28,2024-04-25
 spotify:track:2RoYgkPzUY0vY7lhUuyus1,medium_term,28,2024-04-23
 spotify:track:4P5ozkI1bxiGxA5rZ27jlO,medium_term,28,2024-04-16
 spotify:track:2RoYgkPzUY0vY7lhUuyus1,medium_term,28,2024-04-13
@@ -3197,6 +3275,7 @@ spotify:track:4P5ozkI1bxiGxA5rZ27jlO,medium_term,28,2024-04-06
 spotify:track:4P5ozkI1bxiGxA5rZ27jlO,medium_term,28,2024-04-07
 spotify:track:2RoYgkPzUY0vY7lhUuyus1,medium_term,28,2024-04-18
 spotify:track:2RoYgkPzUY0vY7lhUuyus1,medium_term,28,2024-04-19
+spotify:track:4P5ozkI1bxiGxA5rZ27jlO,medium_term,29,2024-04-25
 spotify:track:4P5ozkI1bxiGxA5rZ27jlO,medium_term,29,2024-04-23
 spotify:track:2RoYgkPzUY0vY7lhUuyus1,medium_term,29,2024-04-16
 spotify:track:0ijCESscFXtRc0dtDgu1Uv,medium_term,29,2024-04-13
@@ -3238,6 +3317,7 @@ spotify:track:262jf0kGFJVl2AHsGJ6xiG,medium_term,29,2024-04-06
 spotify:track:262jf0kGFJVl2AHsGJ6xiG,medium_term,29,2024-04-07
 spotify:track:4P5ozkI1bxiGxA5rZ27jlO,medium_term,29,2024-04-18
 spotify:track:4P5ozkI1bxiGxA5rZ27jlO,medium_term,29,2024-04-19
+spotify:track:0ijCESscFXtRc0dtDgu1Uv,medium_term,30,2024-04-25
 spotify:track:0ijCESscFXtRc0dtDgu1Uv,medium_term,30,2024-04-23
 spotify:track:0ijCESscFXtRc0dtDgu1Uv,medium_term,30,2024-04-16
 spotify:track:2DmRXiyn03tOqKgEJXlaiJ,medium_term,30,2024-04-13
@@ -3279,6 +3359,7 @@ spotify:track:3atsk5EWI5fNxLMIJnfYfJ,medium_term,30,2024-04-06
 spotify:track:3atsk5EWI5fNxLMIJnfYfJ,medium_term,30,2024-04-07
 spotify:track:0ijCESscFXtRc0dtDgu1Uv,medium_term,30,2024-04-18
 spotify:track:0ijCESscFXtRc0dtDgu1Uv,medium_term,30,2024-04-19
+spotify:track:2DmRXiyn03tOqKgEJXlaiJ,medium_term,31,2024-04-25
 spotify:track:2DmRXiyn03tOqKgEJXlaiJ,medium_term,31,2024-04-23
 spotify:track:2DmRXiyn03tOqKgEJXlaiJ,medium_term,31,2024-04-16
 spotify:track:3Wu4lFjkhcXxB6WWaX9gtr,medium_term,31,2024-04-13
@@ -3320,6 +3401,7 @@ spotify:track:4JmbtS0Muijl37KP9lDscy,medium_term,31,2024-04-06
 spotify:track:4JmbtS0Muijl37KP9lDscy,medium_term,31,2024-04-07
 spotify:track:2DmRXiyn03tOqKgEJXlaiJ,medium_term,31,2024-04-18
 spotify:track:2DmRXiyn03tOqKgEJXlaiJ,medium_term,31,2024-04-19
+spotify:track:262jf0kGFJVl2AHsGJ6xiG,medium_term,32,2024-04-25
 spotify:track:262jf0kGFJVl2AHsGJ6xiG,medium_term,32,2024-04-23
 spotify:track:6koMMQlsRWBwHZXdtWxgUk,medium_term,32,2024-04-16
 spotify:track:262jf0kGFJVl2AHsGJ6xiG,medium_term,32,2024-04-13
@@ -3361,6 +3443,7 @@ spotify:track:2cZtazNq0IRRFymK7UaRa0,medium_term,32,2024-04-06
 spotify:track:2cZtazNq0IRRFymK7UaRa0,medium_term,32,2024-04-07
 spotify:track:6koMMQlsRWBwHZXdtWxgUk,medium_term,32,2024-04-18
 spotify:track:6koMMQlsRWBwHZXdtWxgUk,medium_term,32,2024-04-19
+spotify:track:1ukyvyEeSg1odSQvhlRAIU,medium_term,33,2024-04-25
 spotify:track:14nturKxV48wR3lbknehiu,medium_term,33,2024-04-23
 spotify:track:262jf0kGFJVl2AHsGJ6xiG,medium_term,33,2024-04-16
 spotify:track:14nturKxV48wR3lbknehiu,medium_term,33,2024-04-13
@@ -3402,6 +3485,7 @@ spotify:track:2HQALWSN6IF4BYrSADMJ0w,medium_term,33,2024-04-06
 spotify:track:2HQALWSN6IF4BYrSADMJ0w,medium_term,33,2024-04-07
 spotify:track:262jf0kGFJVl2AHsGJ6xiG,medium_term,33,2024-04-18
 spotify:track:262jf0kGFJVl2AHsGJ6xiG,medium_term,33,2024-04-19
+spotify:track:2HQALWSN6IF4BYrSADMJ0w,medium_term,34,2024-04-25
 spotify:track:1ukyvyEeSg1odSQvhlRAIU,medium_term,34,2024-04-23
 spotify:track:14nturKxV48wR3lbknehiu,medium_term,34,2024-04-16
 spotify:track:4JmbtS0Muijl37KP9lDscy,medium_term,34,2024-04-13
@@ -3443,6 +3527,7 @@ spotify:track:6UwrPxRaR5HPNLDDl7RcT9,medium_term,34,2024-04-06
 spotify:track:6UwrPxRaR5HPNLDDl7RcT9,medium_term,34,2024-04-07
 spotify:track:14nturKxV48wR3lbknehiu,medium_term,34,2024-04-18
 spotify:track:14nturKxV48wR3lbknehiu,medium_term,34,2024-04-19
+spotify:track:4JmbtS0Muijl37KP9lDscy,medium_term,35,2024-04-25
 spotify:track:2HQALWSN6IF4BYrSADMJ0w,medium_term,35,2024-04-23
 spotify:track:1ukyvyEeSg1odSQvhlRAIU,medium_term,35,2024-04-16
 spotify:track:2HQALWSN6IF4BYrSADMJ0w,medium_term,35,2024-04-13
@@ -3484,6 +3569,7 @@ spotify:track:6WJTEsLxWtSIlXML3NVSzA,medium_term,35,2024-04-06
 spotify:track:6WJTEsLxWtSIlXML3NVSzA,medium_term,35,2024-04-07
 spotify:track:1ukyvyEeSg1odSQvhlRAIU,medium_term,35,2024-04-18
 spotify:track:1ukyvyEeSg1odSQvhlRAIU,medium_term,35,2024-04-19
+spotify:track:6WJTEsLxWtSIlXML3NVSzA,medium_term,36,2024-04-25
 spotify:track:4JmbtS0Muijl37KP9lDscy,medium_term,36,2024-04-23
 spotify:track:4JmbtS0Muijl37KP9lDscy,medium_term,36,2024-04-16
 spotify:track:2cZtazNq0IRRFymK7UaRa0,medium_term,36,2024-04-13
@@ -3525,6 +3611,7 @@ spotify:track:5qI5EUqfDJpQ7w6sMECK7U,medium_term,36,2024-04-06
 spotify:track:5qI5EUqfDJpQ7w6sMECK7U,medium_term,36,2024-04-07
 spotify:track:4JmbtS0Muijl37KP9lDscy,medium_term,36,2024-04-18
 spotify:track:2HQALWSN6IF4BYrSADMJ0w,medium_term,36,2024-04-19
+spotify:track:14nturKxV48wR3lbknehiu,medium_term,37,2024-04-25
 spotify:track:6WJTEsLxWtSIlXML3NVSzA,medium_term,37,2024-04-23
 spotify:track:2HQALWSN6IF4BYrSADMJ0w,medium_term,37,2024-04-16
 spotify:track:6WJTEsLxWtSIlXML3NVSzA,medium_term,37,2024-04-13
@@ -3566,6 +3653,7 @@ spotify:track:5w6HF09YaD6wWlC90NaeVP,medium_term,37,2024-04-06
 spotify:track:5w6HF09YaD6wWlC90NaeVP,medium_term,37,2024-04-07
 spotify:track:2HQALWSN6IF4BYrSADMJ0w,medium_term,37,2024-04-18
 spotify:track:4JmbtS0Muijl37KP9lDscy,medium_term,37,2024-04-19
+spotify:track:2cZtazNq0IRRFymK7UaRa0,medium_term,38,2024-04-25
 spotify:track:2cZtazNq0IRRFymK7UaRa0,medium_term,38,2024-04-23
 spotify:track:2cZtazNq0IRRFymK7UaRa0,medium_term,38,2024-04-16
 spotify:track:6UwrPxRaR5HPNLDDl7RcT9,medium_term,38,2024-04-13
@@ -3607,6 +3695,7 @@ spotify:track:2RoYgkPzUY0vY7lhUuyus1,medium_term,38,2024-04-06
 spotify:track:2RoYgkPzUY0vY7lhUuyus1,medium_term,38,2024-04-07
 spotify:track:2cZtazNq0IRRFymK7UaRa0,medium_term,38,2024-04-18
 spotify:track:2cZtazNq0IRRFymK7UaRa0,medium_term,38,2024-04-19
+spotify:track:6UwrPxRaR5HPNLDDl7RcT9,medium_term,39,2024-04-25
 spotify:track:6UwrPxRaR5HPNLDDl7RcT9,medium_term,39,2024-04-23
 spotify:track:6WJTEsLxWtSIlXML3NVSzA,medium_term,39,2024-04-16
 spotify:track:5qI5EUqfDJpQ7w6sMECK7U,medium_term,39,2024-04-13
@@ -3648,6 +3737,7 @@ spotify:track:4Cyf87ul1le0xTWRFBoYd7,medium_term,39,2024-04-06
 spotify:track:4Cyf87ul1le0xTWRFBoYd7,medium_term,39,2024-04-07
 spotify:track:6WJTEsLxWtSIlXML3NVSzA,medium_term,39,2024-04-18
 spotify:track:6UwrPxRaR5HPNLDDl7RcT9,medium_term,39,2024-04-19
+spotify:track:5qI5EUqfDJpQ7w6sMECK7U,medium_term,40,2024-04-25
 spotify:track:5qI5EUqfDJpQ7w6sMECK7U,medium_term,40,2024-04-23
 spotify:track:6UwrPxRaR5HPNLDDl7RcT9,medium_term,40,2024-04-16
 spotify:track:5w6HF09YaD6wWlC90NaeVP,medium_term,40,2024-04-13
@@ -3689,6 +3779,7 @@ spotify:track:0IVwlMnmT0CS8opHfFZAWp,medium_term,40,2024-04-06
 spotify:track:0IVwlMnmT0CS8opHfFZAWp,medium_term,40,2024-04-07
 spotify:track:6UwrPxRaR5HPNLDDl7RcT9,medium_term,40,2024-04-18
 spotify:track:6WJTEsLxWtSIlXML3NVSzA,medium_term,40,2024-04-19
+spotify:track:5w6HF09YaD6wWlC90NaeVP,medium_term,41,2024-04-25
 spotify:track:5w6HF09YaD6wWlC90NaeVP,medium_term,41,2024-04-23
 spotify:track:5qI5EUqfDJpQ7w6sMECK7U,medium_term,41,2024-04-16
 spotify:track:0IVwlMnmT0CS8opHfFZAWp,medium_term,41,2024-04-13
@@ -3730,6 +3821,7 @@ spotify:track:1pvBm1ydKLXorYDdlIAeuj,medium_term,41,2024-04-06
 spotify:track:1pvBm1ydKLXorYDdlIAeuj,medium_term,41,2024-04-07
 spotify:track:5qI5EUqfDJpQ7w6sMECK7U,medium_term,41,2024-04-18
 spotify:track:5qI5EUqfDJpQ7w6sMECK7U,medium_term,41,2024-04-19
+spotify:track:6koMMQlsRWBwHZXdtWxgUk,medium_term,42,2024-04-25
 spotify:track:6koMMQlsRWBwHZXdtWxgUk,medium_term,42,2024-04-23
 spotify:track:5w6HF09YaD6wWlC90NaeVP,medium_term,42,2024-04-16
 spotify:track:1pvBm1ydKLXorYDdlIAeuj,medium_term,42,2024-04-13
@@ -3771,6 +3863,7 @@ spotify:track:3Wu4lFjkhcXxB6WWaX9gtr,medium_term,42,2024-04-06
 spotify:track:3Wu4lFjkhcXxB6WWaX9gtr,medium_term,42,2024-04-07
 spotify:track:5w6HF09YaD6wWlC90NaeVP,medium_term,42,2024-04-18
 spotify:track:5w6HF09YaD6wWlC90NaeVP,medium_term,42,2024-04-19
+spotify:track:0IVwlMnmT0CS8opHfFZAWp,medium_term,43,2024-04-25
 spotify:track:0IVwlMnmT0CS8opHfFZAWp,medium_term,43,2024-04-23
 spotify:track:0IVwlMnmT0CS8opHfFZAWp,medium_term,43,2024-04-16
 spotify:track:4e94KIas5maH8RixY26LiN,medium_term,43,2024-04-13
@@ -3812,6 +3905,7 @@ spotify:track:4e94KIas5maH8RixY26LiN,medium_term,43,2024-04-06
 spotify:track:4e94KIas5maH8RixY26LiN,medium_term,43,2024-04-07
 spotify:track:0IVwlMnmT0CS8opHfFZAWp,medium_term,43,2024-04-18
 spotify:track:0IVwlMnmT0CS8opHfFZAWp,medium_term,43,2024-04-19
+spotify:track:3q5qpprtugUIEPExuI7tRD,medium_term,44,2024-04-25
 spotify:track:3q5qpprtugUIEPExuI7tRD,medium_term,44,2024-04-23
 spotify:track:1pvBm1ydKLXorYDdlIAeuj,medium_term,44,2024-04-16
 spotify:track:5VRjJvpk6xL9cxkkWhfWkY,medium_term,44,2024-04-13
@@ -3853,6 +3947,7 @@ spotify:track:5VRjJvpk6xL9cxkkWhfWkY,medium_term,44,2024-04-06
 spotify:track:5VRjJvpk6xL9cxkkWhfWkY,medium_term,44,2024-04-07
 spotify:track:1pvBm1ydKLXorYDdlIAeuj,medium_term,44,2024-04-18
 spotify:track:1pvBm1ydKLXorYDdlIAeuj,medium_term,44,2024-04-19
+spotify:track:4e94KIas5maH8RixY26LiN,medium_term,45,2024-04-25
 spotify:track:4e94KIas5maH8RixY26LiN,medium_term,45,2024-04-23
 spotify:track:3q5qpprtugUIEPExuI7tRD,medium_term,45,2024-04-16
 spotify:track:4g6ZT8vgKNq4iyEbezr3yI,medium_term,45,2024-04-13
@@ -3894,6 +3989,7 @@ spotify:track:4g6ZT8vgKNq4iyEbezr3yI,medium_term,45,2024-04-06
 spotify:track:4g6ZT8vgKNq4iyEbezr3yI,medium_term,45,2024-04-07
 spotify:track:3q5qpprtugUIEPExuI7tRD,medium_term,45,2024-04-18
 spotify:track:3q5qpprtugUIEPExuI7tRD,medium_term,45,2024-04-19
+spotify:track:5VRjJvpk6xL9cxkkWhfWkY,medium_term,46,2024-04-25
 spotify:track:5VRjJvpk6xL9cxkkWhfWkY,medium_term,46,2024-04-23
 spotify:track:4e94KIas5maH8RixY26LiN,medium_term,46,2024-04-16
 spotify:track:3VBj0lzjmhTzVFPEDOjNCG,medium_term,46,2024-04-13
@@ -3935,6 +4031,7 @@ spotify:track:14nturKxV48wR3lbknehiu,medium_term,46,2024-04-06
 spotify:track:14nturKxV48wR3lbknehiu,medium_term,46,2024-04-07
 spotify:track:4e94KIas5maH8RixY26LiN,medium_term,46,2024-04-18
 spotify:track:4e94KIas5maH8RixY26LiN,medium_term,46,2024-04-19
+spotify:track:1njlnn8ZKHI77Pe9szIONR,medium_term,47,2024-04-25
 spotify:track:1njlnn8ZKHI77Pe9szIONR,medium_term,47,2024-04-23
 spotify:track:5VRjJvpk6xL9cxkkWhfWkY,medium_term,47,2024-04-16
 spotify:track:4Cyf87ul1le0xTWRFBoYd7,medium_term,47,2024-04-13
@@ -3976,6 +4073,7 @@ spotify:track:3VBj0lzjmhTzVFPEDOjNCG,medium_term,47,2024-04-06
 spotify:track:3VBj0lzjmhTzVFPEDOjNCG,medium_term,47,2024-04-07
 spotify:track:5VRjJvpk6xL9cxkkWhfWkY,medium_term,47,2024-04-18
 spotify:track:5VRjJvpk6xL9cxkkWhfWkY,medium_term,47,2024-04-19
+spotify:track:3VBj0lzjmhTzVFPEDOjNCG,medium_term,48,2024-04-25
 spotify:track:3VBj0lzjmhTzVFPEDOjNCG,medium_term,48,2024-04-23
 spotify:track:3VBj0lzjmhTzVFPEDOjNCG,medium_term,48,2024-04-16
 spotify:track:56Yxkm62GtEpnPyG7TvwLY,medium_term,48,2024-04-13
@@ -4017,6 +4115,7 @@ spotify:track:2zRz0XfYEtsHuVfrM8KaOP,medium_term,48,2024-04-06
 spotify:track:2zRz0XfYEtsHuVfrM8KaOP,medium_term,48,2024-04-07
 spotify:track:3VBj0lzjmhTzVFPEDOjNCG,medium_term,48,2024-04-18
 spotify:track:3VBj0lzjmhTzVFPEDOjNCG,medium_term,48,2024-04-19
+spotify:track:56Yxkm62GtEpnPyG7TvwLY,medium_term,49,2024-04-25
 spotify:track:4Cyf87ul1le0xTWRFBoYd7,medium_term,49,2024-04-23
 spotify:track:4Cyf87ul1le0xTWRFBoYd7,medium_term,49,2024-04-16
 spotify:track:1ukyvyEeSg1odSQvhlRAIU,medium_term,49,2024-04-13
@@ -4058,6 +4157,7 @@ spotify:track:1MsWVb6YW3AknP1EAZaKOQ,medium_term,49,2024-04-06
 spotify:track:1MsWVb6YW3AknP1EAZaKOQ,medium_term,49,2024-04-07
 spotify:track:4Cyf87ul1le0xTWRFBoYd7,medium_term,49,2024-04-18
 spotify:track:4Cyf87ul1le0xTWRFBoYd7,medium_term,49,2024-04-19
+spotify:track:2zRz0XfYEtsHuVfrM8KaOP,medium_term,50,2024-04-25
 spotify:track:56Yxkm62GtEpnPyG7TvwLY,medium_term,50,2024-04-23
 spotify:track:56Yxkm62GtEpnPyG7TvwLY,medium_term,50,2024-04-16
 spotify:track:2zRz0XfYEtsHuVfrM8KaOP,medium_term,50,2024-04-13
@@ -4099,6 +4199,7 @@ spotify:track:2dHoVW9AxJVSRebPRyV2aA,medium_term,50,2024-04-06
 spotify:track:2dHoVW9AxJVSRebPRyV2aA,medium_term,50,2024-04-07
 spotify:track:56Yxkm62GtEpnPyG7TvwLY,medium_term,50,2024-04-18
 spotify:track:56Yxkm62GtEpnPyG7TvwLY,medium_term,50,2024-04-19
+spotify:track:0UTtK6hregIBOsefavRI26,on_repeat,1,2024-04-25
 spotify:track:0UTtK6hregIBOsefavRI26,on_repeat,1,2024-04-23
 spotify:track:0UTtK6hregIBOsefavRI26,on_repeat,1,2024-04-16
 spotify:track:0UTtK6hregIBOsefavRI26,on_repeat,1,2024-04-13
@@ -4114,6 +4215,7 @@ spotify:track:0UTtK6hregIBOsefavRI26,on_repeat,1,2024-04-06
 spotify:track:0UTtK6hregIBOsefavRI26,on_repeat,1,2024-04-07
 spotify:track:0ieqq1wbtso2UjJWPqJ5Xc,on_repeat,1,2024-04-18
 spotify:track:0ieqq1wbtso2UjJWPqJ5Xc,on_repeat,1,2024-04-19
+spotify:track:4ToOfelAD6oEqbeHyTTKMS,on_repeat,2,2024-04-25
 spotify:track:4ToOfelAD6oEqbeHyTTKMS,on_repeat,2,2024-04-23
 spotify:track:52rdnAZoYsEbguqMwCOeLi,on_repeat,2,2024-04-16
 spotify:track:1njlnn8ZKHI77Pe9szIONR,on_repeat,2,2024-04-13
@@ -4129,6 +4231,7 @@ spotify:track:3uI6jqO0fFBoFryc8SJOXw,on_repeat,2,2024-04-06
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,on_repeat,2,2024-04-07
 spotify:track:52rdnAZoYsEbguqMwCOeLi,on_repeat,2,2024-04-18
 spotify:track:52rdnAZoYsEbguqMwCOeLi,on_repeat,2,2024-04-19
+spotify:track:5yGTiC0ypN09P4Nl6tE3FY,on_repeat,3,2024-04-25
 spotify:track:5yGTiC0ypN09P4Nl6tE3FY,on_repeat,3,2024-04-23
 spotify:track:70efTlnBNM8BvfhfPiqOBN,on_repeat,3,2024-04-16
 spotify:track:52rdnAZoYsEbguqMwCOeLi,on_repeat,3,2024-04-13
@@ -4144,6 +4247,7 @@ spotify:track:2RoYgkPzUY0vY7lhUuyus1,on_repeat,3,2024-04-06
 spotify:track:2RoYgkPzUY0vY7lhUuyus1,on_repeat,3,2024-04-07
 spotify:track:0vaxYDAuAO1nPolC6bQp7V,on_repeat,3,2024-04-18
 spotify:track:0vaxYDAuAO1nPolC6bQp7V,on_repeat,3,2024-04-19
+spotify:track:3uI6jqO0fFBoFryc8SJOXw,on_repeat,4,2024-04-25
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,on_repeat,4,2024-04-23
 spotify:track:2RoYgkPzUY0vY7lhUuyus1,on_repeat,4,2024-04-16
 spotify:track:3CYH422oy1cZNoo0GTG1TK,on_repeat,4,2024-04-13
@@ -4159,6 +4263,7 @@ spotify:track:70efTlnBNM8BvfhfPiqOBN,on_repeat,4,2024-04-06
 spotify:track:70efTlnBNM8BvfhfPiqOBN,on_repeat,4,2024-04-07
 spotify:track:3MZjOGeXhpHbQ9ESMNFFnH,on_repeat,4,2024-04-18
 spotify:track:3MZjOGeXhpHbQ9ESMNFFnH,on_repeat,4,2024-04-19
+spotify:track:52rdnAZoYsEbguqMwCOeLi,on_repeat,5,2024-04-25
 spotify:track:52rdnAZoYsEbguqMwCOeLi,on_repeat,5,2024-04-23
 spotify:track:6WJTEsLxWtSIlXML3NVSzA,on_repeat,5,2024-04-16
 spotify:track:0vaxYDAuAO1nPolC6bQp7V,on_repeat,5,2024-04-13
@@ -4174,6 +4279,7 @@ spotify:track:6WJTEsLxWtSIlXML3NVSzA,on_repeat,5,2024-04-06
 spotify:track:6WJTEsLxWtSIlXML3NVSzA,on_repeat,5,2024-04-07
 spotify:track:0UTtK6hregIBOsefavRI26,on_repeat,5,2024-04-18
 spotify:track:0UTtK6hregIBOsefavRI26,on_repeat,5,2024-04-19
+spotify:track:7FQCZ5i5bmQ76LoGHyVcX0,on_repeat,6,2024-04-25
 spotify:track:7FQCZ5i5bmQ76LoGHyVcX0,on_repeat,6,2024-04-23
 spotify:track:1njlnn8ZKHI77Pe9szIONR,on_repeat,6,2024-04-16
 spotify:track:5nv5aUcSKCogR7xMX3q0od,on_repeat,6,2024-04-13
@@ -4189,6 +4295,7 @@ spotify:track:14pjnaIqkpReO5D0tHofAS,on_repeat,6,2024-04-06
 spotify:track:14pjnaIqkpReO5D0tHofAS,on_repeat,6,2024-04-07
 spotify:track:7FQCZ5i5bmQ76LoGHyVcX0,on_repeat,6,2024-04-18
 spotify:track:7FQCZ5i5bmQ76LoGHyVcX0,on_repeat,6,2024-04-19
+spotify:track:73CKjW3vsUXRpy3NnX4H7F,on_repeat,7,2024-04-25
 spotify:track:73CKjW3vsUXRpy3NnX4H7F,on_repeat,7,2024-04-23
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,on_repeat,7,2024-04-16
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,on_repeat,7,2024-04-13
@@ -4204,6 +4311,7 @@ spotify:track:3CYH422oy1cZNoo0GTG1TK,on_repeat,7,2024-04-06
 spotify:track:3CYH422oy1cZNoo0GTG1TK,on_repeat,7,2024-04-07
 spotify:track:4ToOfelAD6oEqbeHyTTKMS,on_repeat,7,2024-04-18
 spotify:track:4ToOfelAD6oEqbeHyTTKMS,on_repeat,7,2024-04-19
+spotify:track:70efTlnBNM8BvfhfPiqOBN,on_repeat,8,2024-04-25
 spotify:track:70efTlnBNM8BvfhfPiqOBN,on_repeat,8,2024-04-23
 spotify:track:0vaxYDAuAO1nPolC6bQp7V,on_repeat,8,2024-04-16
 spotify:track:14pjnaIqkpReO5D0tHofAS,on_repeat,8,2024-04-13
@@ -4219,6 +4327,7 @@ spotify:track:1njlnn8ZKHI77Pe9szIONR,on_repeat,8,2024-04-06
 spotify:track:1njlnn8ZKHI77Pe9szIONR,on_repeat,8,2024-04-07
 spotify:track:6cC9RY7MoUx5z3aHjDTNI6,on_repeat,8,2024-04-18
 spotify:track:6cC9RY7MoUx5z3aHjDTNI6,on_repeat,8,2024-04-19
+spotify:track:6cC9RY7MoUx5z3aHjDTNI6,on_repeat,9,2024-04-25
 spotify:track:6cC9RY7MoUx5z3aHjDTNI6,on_repeat,9,2024-04-23
 spotify:track:5nv5aUcSKCogR7xMX3q0od,on_repeat,9,2024-04-16
 spotify:track:2RoYgkPzUY0vY7lhUuyus1,on_repeat,9,2024-04-13
@@ -4234,6 +4343,7 @@ spotify:track:5nv5aUcSKCogR7xMX3q0od,on_repeat,9,2024-04-06
 spotify:track:5nv5aUcSKCogR7xMX3q0od,on_repeat,9,2024-04-07
 spotify:track:14pjnaIqkpReO5D0tHofAS,on_repeat,9,2024-04-18
 spotify:track:14pjnaIqkpReO5D0tHofAS,on_repeat,9,2024-04-19
+spotify:track:3CYH422oy1cZNoo0GTG1TK,on_repeat,10,2024-04-25
 spotify:track:3CYH422oy1cZNoo0GTG1TK,on_repeat,10,2024-04-23
 spotify:track:6cC9RY7MoUx5z3aHjDTNI6,on_repeat,10,2024-04-16
 spotify:track:6WJTEsLxWtSIlXML3NVSzA,on_repeat,10,2024-04-13
@@ -4249,6 +4359,7 @@ spotify:track:7b8SkcdeiTuo6FQXdPgPWW,on_repeat,10,2024-04-06
 spotify:track:7b8SkcdeiTuo6FQXdPgPWW,on_repeat,10,2024-04-07
 spotify:track:3n69hLUdIsSa1WlRmjMZlW,on_repeat,10,2024-04-18
 spotify:track:3n69hLUdIsSa1WlRmjMZlW,on_repeat,10,2024-04-19
+spotify:track:5nv5aUcSKCogR7xMX3q0od,on_repeat,11,2024-04-25
 spotify:track:5nv5aUcSKCogR7xMX3q0od,on_repeat,11,2024-04-23
 spotify:track:3CYH422oy1cZNoo0GTG1TK,on_repeat,11,2024-04-16
 spotify:track:70efTlnBNM8BvfhfPiqOBN,on_repeat,11,2024-04-13
@@ -4264,6 +4375,7 @@ spotify:track:5yGTiC0ypN09P4Nl6tE3FY,on_repeat,11,2024-04-06
 spotify:track:5yGTiC0ypN09P4Nl6tE3FY,on_repeat,11,2024-04-07
 spotify:track:70efTlnBNM8BvfhfPiqOBN,on_repeat,11,2024-04-18
 spotify:track:70efTlnBNM8BvfhfPiqOBN,on_repeat,11,2024-04-19
+spotify:track:0vaxYDAuAO1nPolC6bQp7V,on_repeat,12,2024-04-25
 spotify:track:0vaxYDAuAO1nPolC6bQp7V,on_repeat,12,2024-04-23
 spotify:track:0ieqq1wbtso2UjJWPqJ5Xc,on_repeat,12,2024-04-16
 spotify:track:7b8SkcdeiTuo6FQXdPgPWW,on_repeat,12,2024-04-13
@@ -4279,6 +4391,7 @@ spotify:track:2YmfV4lAjrAQvuggKCUX6m,on_repeat,12,2024-04-06
 spotify:track:2YmfV4lAjrAQvuggKCUX6m,on_repeat,12,2024-04-07
 spotify:track:6cdslY3YKjh7pImxFhSBVG,on_repeat,12,2024-04-18
 spotify:track:6cdslY3YKjh7pImxFhSBVG,on_repeat,12,2024-04-19
+spotify:track:14pjnaIqkpReO5D0tHofAS,on_repeat,13,2024-04-25
 spotify:track:14pjnaIqkpReO5D0tHofAS,on_repeat,13,2024-04-23
 spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,on_repeat,13,2024-04-16
 spotify:track:1c6kkrWnpy68eYDfBdxNtF,on_repeat,13,2024-04-13
@@ -4294,6 +4407,7 @@ spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,on_repeat,13,2024-04-06
 spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,on_repeat,13,2024-04-07
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,on_repeat,13,2024-04-18
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,on_repeat,13,2024-04-19
+spotify:track:2RoYgkPzUY0vY7lhUuyus1,on_repeat,14,2024-04-25
 spotify:track:2RoYgkPzUY0vY7lhUuyus1,on_repeat,14,2024-04-23
 spotify:track:14pjnaIqkpReO5D0tHofAS,on_repeat,14,2024-04-16
 spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,on_repeat,14,2024-04-13
@@ -4309,6 +4423,7 @@ spotify:track:45lXSvtDt6uKiGZIXB4LLF,on_repeat,14,2024-04-06
 spotify:track:45lXSvtDt6uKiGZIXB4LLF,on_repeat,14,2024-04-07
 spotify:track:5yGTiC0ypN09P4Nl6tE3FY,on_repeat,14,2024-04-18
 spotify:track:5yGTiC0ypN09P4Nl6tE3FY,on_repeat,14,2024-04-19
+spotify:track:6LgJvl0Xdtc73RJ1mmpotq,on_repeat,15,2024-04-25
 spotify:track:6LgJvl0Xdtc73RJ1mmpotq,on_repeat,15,2024-04-23
 spotify:track:5yGTiC0ypN09P4Nl6tE3FY,on_repeat,15,2024-04-16
 spotify:track:1JxRZB6gjp3nsn2jUIaXMs,on_repeat,15,2024-04-13
@@ -4324,6 +4439,7 @@ spotify:track:1JxRZB6gjp3nsn2jUIaXMs,on_repeat,15,2024-04-06
 spotify:track:1JxRZB6gjp3nsn2jUIaXMs,on_repeat,15,2024-04-07
 spotify:track:2RoYgkPzUY0vY7lhUuyus1,on_repeat,15,2024-04-18
 spotify:track:2RoYgkPzUY0vY7lhUuyus1,on_repeat,15,2024-04-19
+spotify:track:1njlnn8ZKHI77Pe9szIONR,on_repeat,16,2024-04-25
 spotify:track:1njlnn8ZKHI77Pe9szIONR,on_repeat,16,2024-04-23
 spotify:track:3MZjOGeXhpHbQ9ESMNFFnH,on_repeat,16,2024-04-16
 spotify:track:6cC9RY7MoUx5z3aHjDTNI6,on_repeat,16,2024-04-13
@@ -4339,6 +4455,7 @@ spotify:track:2jaapqz7L9MpMf7vpkqU9I,on_repeat,16,2024-04-06
 spotify:track:2jaapqz7L9MpMf7vpkqU9I,on_repeat,16,2024-04-07
 spotify:track:73CKjW3vsUXRpy3NnX4H7F,on_repeat,16,2024-04-18
 spotify:track:73CKjW3vsUXRpy3NnX4H7F,on_repeat,16,2024-04-19
+spotify:track:0ieqq1wbtso2UjJWPqJ5Xc,on_repeat,17,2024-04-25
 spotify:track:0ieqq1wbtso2UjJWPqJ5Xc,on_repeat,17,2024-04-23
 spotify:track:4ToOfelAD6oEqbeHyTTKMS,on_repeat,17,2024-04-16
 spotify:track:4bheT1Drc2vyQgN5VTwr8W,on_repeat,17,2024-04-13
@@ -4354,6 +4471,7 @@ spotify:track:3WFTUAPrXvqg3SXC0bsukz,on_repeat,17,2024-04-06
 spotify:track:3WFTUAPrXvqg3SXC0bsukz,on_repeat,17,2024-04-07
 spotify:track:1njlnn8ZKHI77Pe9szIONR,on_repeat,17,2024-04-18
 spotify:track:1njlnn8ZKHI77Pe9szIONR,on_repeat,17,2024-04-19
+spotify:track:6cdslY3YKjh7pImxFhSBVG,on_repeat,18,2024-04-25
 spotify:track:6cdslY3YKjh7pImxFhSBVG,on_repeat,18,2024-04-23
 spotify:track:3n69hLUdIsSa1WlRmjMZlW,on_repeat,18,2024-04-16
 spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,on_repeat,18,2024-04-13
@@ -4369,6 +4487,7 @@ spotify:track:2HQALWSN6IF4BYrSADMJ0w,on_repeat,18,2024-04-06
 spotify:track:2HQALWSN6IF4BYrSADMJ0w,on_repeat,18,2024-04-07
 spotify:track:4zIPZxvYp32y6ifjm1E30O,on_repeat,18,2024-04-18
 spotify:track:4zIPZxvYp32y6ifjm1E30O,on_repeat,18,2024-04-19
+spotify:track:3MZjOGeXhpHbQ9ESMNFFnH,on_repeat,19,2024-04-25
 spotify:track:3MZjOGeXhpHbQ9ESMNFFnH,on_repeat,19,2024-04-23
 spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,on_repeat,19,2024-04-16
 spotify:track:45lXSvtDt6uKiGZIXB4LLF,on_repeat,19,2024-04-13
@@ -4384,6 +4503,7 @@ spotify:track:4zIPZxvYp32y6ifjm1E30O,on_repeat,19,2024-04-06
 spotify:track:4zIPZxvYp32y6ifjm1E30O,on_repeat,19,2024-04-07
 spotify:track:5nv5aUcSKCogR7xMX3q0od,on_repeat,19,2024-04-18
 spotify:track:5nv5aUcSKCogR7xMX3q0od,on_repeat,19,2024-04-19
+spotify:track:1JxRZB6gjp3nsn2jUIaXMs,on_repeat,20,2024-04-25
 spotify:track:1JxRZB6gjp3nsn2jUIaXMs,on_repeat,20,2024-04-23
 spotify:track:6cdslY3YKjh7pImxFhSBVG,on_repeat,20,2024-04-16
 spotify:track:5yGTiC0ypN09P4Nl6tE3FY,on_repeat,20,2024-04-13
@@ -4399,6 +4519,7 @@ spotify:track:52rdnAZoYsEbguqMwCOeLi,on_repeat,20,2024-04-06
 spotify:track:52rdnAZoYsEbguqMwCOeLi,on_repeat,20,2024-04-07
 spotify:track:06I6iDFVtZDGcRu9BgHraA,on_repeat,20,2024-04-18
 spotify:track:06I6iDFVtZDGcRu9BgHraA,on_repeat,20,2024-04-19
+spotify:track:3n69hLUdIsSa1WlRmjMZlW,on_repeat,21,2024-04-25
 spotify:track:3n69hLUdIsSa1WlRmjMZlW,on_repeat,21,2024-04-23
 spotify:track:1c6kkrWnpy68eYDfBdxNtF,on_repeat,21,2024-04-16
 spotify:track:2jaapqz7L9MpMf7vpkqU9I,on_repeat,21,2024-04-13
@@ -4414,6 +4535,7 @@ spotify:track:6LgJvl0Xdtc73RJ1mmpotq,on_repeat,21,2024-04-06
 spotify:track:6LgJvl0Xdtc73RJ1mmpotq,on_repeat,21,2024-04-07
 spotify:track:6LgJvl0Xdtc73RJ1mmpotq,on_repeat,21,2024-04-18
 spotify:track:6LgJvl0Xdtc73RJ1mmpotq,on_repeat,21,2024-04-19
+spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,on_repeat,22,2024-04-25
 spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,on_repeat,22,2024-04-23
 spotify:track:4zIPZxvYp32y6ifjm1E30O,on_repeat,22,2024-04-16
 spotify:track:2t3F6nsQqEw60KT8ma8dm4,on_repeat,22,2024-04-13
@@ -4429,6 +4551,7 @@ spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,on_repeat,22,2024-04-06
 spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,on_repeat,22,2024-04-07
 spotify:track:3CYH422oy1cZNoo0GTG1TK,on_repeat,22,2024-04-18
 spotify:track:3CYH422oy1cZNoo0GTG1TK,on_repeat,22,2024-04-19
+spotify:track:7b8SkcdeiTuo6FQXdPgPWW,on_repeat,23,2024-04-25
 spotify:track:7b8SkcdeiTuo6FQXdPgPWW,on_repeat,23,2024-04-23
 spotify:track:7b8SkcdeiTuo6FQXdPgPWW,on_repeat,23,2024-04-16
 spotify:track:53g7ZIvZE47H9pwXPFYMCH,on_repeat,23,2024-04-13
@@ -4444,6 +4567,7 @@ spotify:track:1c6kkrWnpy68eYDfBdxNtF,on_repeat,23,2024-04-06
 spotify:track:1c6kkrWnpy68eYDfBdxNtF,on_repeat,23,2024-04-07
 spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,on_repeat,23,2024-04-18
 spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,on_repeat,23,2024-04-19
+spotify:track:4zIPZxvYp32y6ifjm1E30O,on_repeat,24,2024-04-25
 spotify:track:4zIPZxvYp32y6ifjm1E30O,on_repeat,24,2024-04-23
 spotify:track:73CKjW3vsUXRpy3NnX4H7F,on_repeat,24,2024-04-16
 spotify:track:2YmfV4lAjrAQvuggKCUX6m,on_repeat,24,2024-04-13
@@ -4459,6 +4583,7 @@ spotify:track:22v5j98MRwc6p5KgwHvpBZ,on_repeat,24,2024-04-06
 spotify:track:22v5j98MRwc6p5KgwHvpBZ,on_repeat,24,2024-04-07
 spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,on_repeat,24,2024-04-18
 spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,on_repeat,24,2024-04-19
+spotify:track:1c6kkrWnpy68eYDfBdxNtF,on_repeat,25,2024-04-25
 spotify:track:1c6kkrWnpy68eYDfBdxNtF,on_repeat,25,2024-04-23
 spotify:track:53g7ZIvZE47H9pwXPFYMCH,on_repeat,25,2024-04-16
 spotify:track:4ToOfelAD6oEqbeHyTTKMS,on_repeat,25,2024-04-13
@@ -4474,6 +4599,7 @@ spotify:track:7cIn67LEvk16v6komC8znS,on_repeat,25,2024-04-06
 spotify:track:7cIn67LEvk16v6komC8znS,on_repeat,25,2024-04-07
 spotify:track:1JxRZB6gjp3nsn2jUIaXMs,on_repeat,25,2024-04-18
 spotify:track:1JxRZB6gjp3nsn2jUIaXMs,on_repeat,25,2024-04-19
+spotify:track:6WJTEsLxWtSIlXML3NVSzA,on_repeat,26,2024-04-25
 spotify:track:6WJTEsLxWtSIlXML3NVSzA,on_repeat,26,2024-04-23
 spotify:track:2jaapqz7L9MpMf7vpkqU9I,on_repeat,26,2024-04-16
 spotify:track:2HQALWSN6IF4BYrSADMJ0w,on_repeat,26,2024-04-13
@@ -4489,6 +4615,7 @@ spotify:track:7MSZg4Km8CM7NRXTeJoANZ,on_repeat,26,2024-04-06
 spotify:track:7MSZg4Km8CM7NRXTeJoANZ,on_repeat,26,2024-04-07
 spotify:track:1c6kkrWnpy68eYDfBdxNtF,on_repeat,26,2024-04-18
 spotify:track:1c6kkrWnpy68eYDfBdxNtF,on_repeat,26,2024-04-19
+spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,on_repeat,27,2024-04-25
 spotify:track:2gyCwrOcC6JBoaJ8JGJ7T8,on_repeat,27,2024-04-23
 spotify:track:1JxRZB6gjp3nsn2jUIaXMs,on_repeat,27,2024-04-16
 spotify:track:4zIPZxvYp32y6ifjm1E30O,on_repeat,27,2024-04-13
@@ -4504,6 +4631,7 @@ spotify:track:53g7ZIvZE47H9pwXPFYMCH,on_repeat,27,2024-04-06
 spotify:track:53g7ZIvZE47H9pwXPFYMCH,on_repeat,27,2024-04-07
 spotify:track:6WJTEsLxWtSIlXML3NVSzA,on_repeat,27,2024-04-18
 spotify:track:6WJTEsLxWtSIlXML3NVSzA,on_repeat,27,2024-04-19
+spotify:track:2HQALWSN6IF4BYrSADMJ0w,on_repeat,28,2024-04-25
 spotify:track:2HQALWSN6IF4BYrSADMJ0w,on_repeat,28,2024-04-23
 spotify:track:4Pp6Ql9wV7A6VqHrmjMFv4,on_repeat,28,2024-04-16
 spotify:track:56vA4AoGec8ae9nmdprBBI,on_repeat,28,2024-04-13
@@ -4519,6 +4647,7 @@ spotify:track:4Pp6Ql9wV7A6VqHrmjMFv4,on_repeat,28,2024-04-06
 spotify:track:4Pp6Ql9wV7A6VqHrmjMFv4,on_repeat,28,2024-04-07
 spotify:track:2HQALWSN6IF4BYrSADMJ0w,on_repeat,28,2024-04-18
 spotify:track:2HQALWSN6IF4BYrSADMJ0w,on_repeat,28,2024-04-19
+spotify:track:4Pp6Ql9wV7A6VqHrmjMFv4,on_repeat,29,2024-04-25
 spotify:track:4Pp6Ql9wV7A6VqHrmjMFv4,on_repeat,29,2024-04-23
 spotify:track:7FQCZ5i5bmQ76LoGHyVcX0,on_repeat,29,2024-04-16
 spotify:track:6LgJvl0Xdtc73RJ1mmpotq,on_repeat,29,2024-04-13
@@ -4534,6 +4663,7 @@ spotify:track:4bheT1Drc2vyQgN5VTwr8W,on_repeat,29,2024-04-06
 spotify:track:4bheT1Drc2vyQgN5VTwr8W,on_repeat,29,2024-04-07
 spotify:track:7b8SkcdeiTuo6FQXdPgPWW,on_repeat,29,2024-04-18
 spotify:track:7b8SkcdeiTuo6FQXdPgPWW,on_repeat,29,2024-04-19
+spotify:track:53g7ZIvZE47H9pwXPFYMCH,on_repeat,30,2024-04-25
 spotify:track:53g7ZIvZE47H9pwXPFYMCH,on_repeat,30,2024-04-23
 spotify:track:6LgJvl0Xdtc73RJ1mmpotq,on_repeat,30,2024-04-16
 spotify:track:3WFTUAPrXvqg3SXC0bsukz,on_repeat,30,2024-04-13
@@ -4549,6 +4679,7 @@ spotify:track:2t3F6nsQqEw60KT8ma8dm4,on_repeat,30,2024-04-06
 spotify:track:2t3F6nsQqEw60KT8ma8dm4,on_repeat,30,2024-04-07
 spotify:track:53g7ZIvZE47H9pwXPFYMCH,on_repeat,30,2024-04-18
 spotify:track:53g7ZIvZE47H9pwXPFYMCH,on_repeat,30,2024-04-19
+spotify:track:1njlnn8ZKHI77Pe9szIONR,short_term,1,2024-04-25
 spotify:track:1njlnn8ZKHI77Pe9szIONR,short_term,1,2024-04-23
 spotify:track:56vA4AoGec8ae9nmdprBBI,short_term,1,2024-04-16
 spotify:track:1njlnn8ZKHI77Pe9szIONR,short_term,1,2024-04-13
@@ -4590,6 +4721,7 @@ spotify:track:1njlnn8ZKHI77Pe9szIONR,short_term,1,2024-04-06
 spotify:track:1njlnn8ZKHI77Pe9szIONR,short_term,1,2024-04-07
 spotify:track:1njlnn8ZKHI77Pe9szIONR,short_term,1,2024-04-18
 spotify:track:1njlnn8ZKHI77Pe9szIONR,short_term,1,2024-04-19
+spotify:track:56vA4AoGec8ae9nmdprBBI,short_term,2,2024-04-25
 spotify:track:56vA4AoGec8ae9nmdprBBI,short_term,2,2024-04-23
 spotify:track:1njlnn8ZKHI77Pe9szIONR,short_term,2,2024-04-16
 spotify:track:0dnkOK5hGUCmIJ7FDF0yHz,short_term,2,2024-04-13
@@ -4631,6 +4763,7 @@ spotify:track:2qYdsdgdeMLFzpLcMQWG2W,short_term,2,2024-04-06
 spotify:track:2qYdsdgdeMLFzpLcMQWG2W,short_term,2,2024-04-07
 spotify:track:56vA4AoGec8ae9nmdprBBI,short_term,2,2024-04-18
 spotify:track:56vA4AoGec8ae9nmdprBBI,short_term,2,2024-04-19
+spotify:track:7tFiyTwD0nx5a1eklYtX2J,short_term,3,2024-04-25
 spotify:track:7tFiyTwD0nx5a1eklYtX2J,short_term,3,2024-04-23
 spotify:track:2qYdsdgdeMLFzpLcMQWG2W,short_term,3,2024-04-16
 spotify:track:2qYdsdgdeMLFzpLcMQWG2W,short_term,3,2024-04-13
@@ -4672,6 +4805,7 @@ spotify:track:56vA4AoGec8ae9nmdprBBI,short_term,3,2024-04-06
 spotify:track:56vA4AoGec8ae9nmdprBBI,short_term,3,2024-04-07
 spotify:track:7tFiyTwD0nx5a1eklYtX2J,short_term,3,2024-04-18
 spotify:track:7tFiyTwD0nx5a1eklYtX2J,short_term,3,2024-04-19
+spotify:track:45lXSvtDt6uKiGZIXB4LLF,short_term,4,2024-04-25
 spotify:track:7vS3Y0IKjde7Xg85LWIEdP,short_term,4,2024-04-23
 spotify:track:08YJEcxGtYXwCGqXMZDiyQ,short_term,4,2024-04-16
 spotify:track:56vA4AoGec8ae9nmdprBBI,short_term,4,2024-04-13
@@ -4713,6 +4847,7 @@ spotify:track:08YJEcxGtYXwCGqXMZDiyQ,short_term,4,2024-04-06
 spotify:track:08YJEcxGtYXwCGqXMZDiyQ,short_term,4,2024-04-07
 spotify:track:7vS3Y0IKjde7Xg85LWIEdP,short_term,4,2024-04-18
 spotify:track:7vS3Y0IKjde7Xg85LWIEdP,short_term,4,2024-04-19
+spotify:track:6cC9RY7MoUx5z3aHjDTNI6,short_term,5,2024-04-25
 spotify:track:6UwrPxRaR5HPNLDDl7RcT9,short_term,5,2024-04-23
 spotify:track:0dnkOK5hGUCmIJ7FDF0yHz,short_term,5,2024-04-16
 spotify:track:24nK8tW7Pt3Inh2utttuoG,short_term,5,2024-04-13
@@ -4754,6 +4889,7 @@ spotify:track:0dnkOK5hGUCmIJ7FDF0yHz,short_term,5,2024-04-06
 spotify:track:0dnkOK5hGUCmIJ7FDF0yHz,short_term,5,2024-04-07
 spotify:track:45lXSvtDt6uKiGZIXB4LLF,short_term,5,2024-04-18
 spotify:track:45lXSvtDt6uKiGZIXB4LLF,short_term,5,2024-04-19
+spotify:track:6cdslY3YKjh7pImxFhSBVG,short_term,6,2024-04-25
 spotify:track:6cC9RY7MoUx5z3aHjDTNI6,short_term,6,2024-04-23
 spotify:track:24nK8tW7Pt3Inh2utttuoG,short_term,6,2024-04-16
 spotify:track:3atsk5EWI5fNxLMIJnfYfJ,short_term,6,2024-04-13
@@ -4795,6 +4931,7 @@ spotify:track:0UTtK6hregIBOsefavRI26,short_term,6,2024-04-06
 spotify:track:0UTtK6hregIBOsefavRI26,short_term,6,2024-04-07
 spotify:track:6UwrPxRaR5HPNLDDl7RcT9,short_term,6,2024-04-18
 spotify:track:6UwrPxRaR5HPNLDDl7RcT9,short_term,6,2024-04-19
+spotify:track:2RoYgkPzUY0vY7lhUuyus1,short_term,7,2024-04-25
 spotify:track:45lXSvtDt6uKiGZIXB4LLF,short_term,7,2024-04-23
 spotify:track:7tFiyTwD0nx5a1eklYtX2J,short_term,7,2024-04-16
 spotify:track:08YJEcxGtYXwCGqXMZDiyQ,short_term,7,2024-04-13
@@ -4836,6 +4973,7 @@ spotify:track:45lXSvtDt6uKiGZIXB4LLF,short_term,7,2024-04-06
 spotify:track:45lXSvtDt6uKiGZIXB4LLF,short_term,7,2024-04-07
 spotify:track:08YJEcxGtYXwCGqXMZDiyQ,short_term,7,2024-04-18
 spotify:track:08YJEcxGtYXwCGqXMZDiyQ,short_term,7,2024-04-19
+spotify:track:2OuImA1gcBXJVMrVH9Kn9p,short_term,8,2024-04-25
 spotify:track:6cdslY3YKjh7pImxFhSBVG,short_term,8,2024-04-23
 spotify:track:7vS3Y0IKjde7Xg85LWIEdP,short_term,8,2024-04-16
 spotify:track:7tFiyTwD0nx5a1eklYtX2J,short_term,8,2024-04-13
@@ -4877,6 +5015,7 @@ spotify:track:6UwrPxRaR5HPNLDDl7RcT9,short_term,8,2024-04-06
 spotify:track:6UwrPxRaR5HPNLDDl7RcT9,short_term,8,2024-04-07
 spotify:track:3Wu4lFjkhcXxB6WWaX9gtr,short_term,8,2024-04-18
 spotify:track:3Wu4lFjkhcXxB6WWaX9gtr,short_term,8,2024-04-19
+spotify:track:2Xiaplc23BureS4EDeE8xa,short_term,9,2024-04-25
 spotify:track:2Xiaplc23BureS4EDeE8xa,short_term,9,2024-04-23
 spotify:track:45lXSvtDt6uKiGZIXB4LLF,short_term,9,2024-04-16
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,short_term,9,2024-04-13
@@ -4918,6 +5057,7 @@ spotify:track:2dHoVW9AxJVSRebPRyV2aA,short_term,9,2024-04-06
 spotify:track:2dHoVW9AxJVSRebPRyV2aA,short_term,9,2024-04-07
 spotify:track:3atsk5EWI5fNxLMIJnfYfJ,short_term,9,2024-04-18
 spotify:track:3atsk5EWI5fNxLMIJnfYfJ,short_term,9,2024-04-19
+spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,short_term,10,2024-04-25
 spotify:track:2RoYgkPzUY0vY7lhUuyus1,short_term,10,2024-04-23
 spotify:track:6UwrPxRaR5HPNLDDl7RcT9,short_term,10,2024-04-16
 spotify:track:45lXSvtDt6uKiGZIXB4LLF,short_term,10,2024-04-13
@@ -4959,6 +5099,7 @@ spotify:track:3atsk5EWI5fNxLMIJnfYfJ,short_term,10,2024-04-06
 spotify:track:3atsk5EWI5fNxLMIJnfYfJ,short_term,10,2024-04-07
 spotify:track:6cC9RY7MoUx5z3aHjDTNI6,short_term,10,2024-04-18
 spotify:track:6cC9RY7MoUx5z3aHjDTNI6,short_term,10,2024-04-19
+spotify:track:4byr9TsXs4qtm8rG2FfwRW,short_term,11,2024-04-25
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,short_term,11,2024-04-23
 spotify:track:0P8lbWigAHXPKxUG60xh79,short_term,11,2024-04-16
 spotify:track:7vS3Y0IKjde7Xg85LWIEdP,short_term,11,2024-04-13
@@ -5000,6 +5141,7 @@ spotify:track:6cFZ4PLC19taNlpl9pbGMf,short_term,11,2024-04-06
 spotify:track:6cFZ4PLC19taNlpl9pbGMf,short_term,11,2024-04-07
 spotify:track:2Xiaplc23BureS4EDeE8xa,short_term,11,2024-04-18
 spotify:track:6cdslY3YKjh7pImxFhSBVG,short_term,11,2024-04-19
+spotify:track:0P8lbWigAHXPKxUG60xh79,short_term,12,2024-04-25
 spotify:track:2OuImA1gcBXJVMrVH9Kn9p,short_term,12,2024-04-23
 spotify:track:1ukyvyEeSg1odSQvhlRAIU,short_term,12,2024-04-16
 spotify:track:6UwrPxRaR5HPNLDDl7RcT9,short_term,12,2024-04-13
@@ -5041,6 +5183,7 @@ spotify:track:7vS3Y0IKjde7Xg85LWIEdP,short_term,12,2024-04-06
 spotify:track:7vS3Y0IKjde7Xg85LWIEdP,short_term,12,2024-04-07
 spotify:track:6cdslY3YKjh7pImxFhSBVG,short_term,12,2024-04-18
 spotify:track:2RoYgkPzUY0vY7lhUuyus1,short_term,12,2024-04-19
+spotify:track:0UTtK6hregIBOsefavRI26,short_term,13,2024-04-25
 spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,short_term,13,2024-04-23
 spotify:track:2dHoVW9AxJVSRebPRyV2aA,short_term,13,2024-04-16
 spotify:track:0P8lbWigAHXPKxUG60xh79,short_term,13,2024-04-13
@@ -5082,6 +5225,7 @@ spotify:track:2Xiaplc23BureS4EDeE8xa,short_term,13,2024-04-06
 spotify:track:2Xiaplc23BureS4EDeE8xa,short_term,13,2024-04-07
 spotify:track:2RoYgkPzUY0vY7lhUuyus1,short_term,13,2024-04-18
 spotify:track:2Xiaplc23BureS4EDeE8xa,short_term,13,2024-04-19
+spotify:track:2GquhrcHbl2zOnF5javAFp,short_term,14,2024-04-25
 spotify:track:2vwlzO0Qp8kfEtzTsCXfyE,short_term,14,2024-04-23
 spotify:track:3Wu4lFjkhcXxB6WWaX9gtr,short_term,14,2024-04-16
 spotify:track:2dHoVW9AxJVSRebPRyV2aA,short_term,14,2024-04-13
@@ -5123,6 +5267,7 @@ spotify:track:3uI6jqO0fFBoFryc8SJOXw,short_term,14,2024-04-06
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,short_term,14,2024-04-07
 spotify:track:2OuImA1gcBXJVMrVH9Kn9p,short_term,14,2024-04-18
 spotify:track:2OuImA1gcBXJVMrVH9Kn9p,short_term,14,2024-04-19
+spotify:track:2vwlzO0Qp8kfEtzTsCXfyE,short_term,15,2024-04-25
 spotify:track:4byr9TsXs4qtm8rG2FfwRW,short_term,15,2024-04-23
 spotify:track:3atsk5EWI5fNxLMIJnfYfJ,short_term,15,2024-04-16
 spotify:track:2ujA6F1cpk3m8lsPE5aKua,short_term,15,2024-04-13
@@ -5164,6 +5309,7 @@ spotify:track:2OuImA1gcBXJVMrVH9Kn9p,short_term,15,2024-04-06
 spotify:track:2OuImA1gcBXJVMrVH9Kn9p,short_term,15,2024-04-07
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,short_term,15,2024-04-18
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,short_term,15,2024-04-19
+spotify:track:3Wu4lFjkhcXxB6WWaX9gtr,short_term,16,2024-04-25
 spotify:track:0P8lbWigAHXPKxUG60xh79,short_term,16,2024-04-23
 spotify:track:6cC9RY7MoUx5z3aHjDTNI6,short_term,16,2024-04-16
 spotify:track:0UTtK6hregIBOsefavRI26,short_term,16,2024-04-13
@@ -5205,6 +5351,7 @@ spotify:track:7tFiyTwD0nx5a1eklYtX2J,short_term,16,2024-04-06
 spotify:track:7tFiyTwD0nx5a1eklYtX2J,short_term,16,2024-04-07
 spotify:track:2vwlzO0Qp8kfEtzTsCXfyE,short_term,16,2024-04-18
 spotify:track:0UTtK6hregIBOsefavRI26,short_term,16,2024-04-19
+spotify:track:3hDB8HsTgd3TePDsEulE97,short_term,17,2024-04-25
 spotify:track:0UTtK6hregIBOsefavRI26,short_term,17,2024-04-23
 spotify:track:2Xiaplc23BureS4EDeE8xa,short_term,17,2024-04-16
 spotify:track:6cC9RY7MoUx5z3aHjDTNI6,short_term,17,2024-04-13
@@ -5246,6 +5393,7 @@ spotify:track:5qI5EUqfDJpQ7w6sMECK7U,short_term,17,2024-04-06
 spotify:track:5qI5EUqfDJpQ7w6sMECK7U,short_term,17,2024-04-07
 spotify:track:4byr9TsXs4qtm8rG2FfwRW,short_term,17,2024-04-18
 spotify:track:2vwlzO0Qp8kfEtzTsCXfyE,short_term,17,2024-04-19
+spotify:track:5XVjj6hJTWgYiDx72Wo5QS,short_term,18,2024-04-25
 spotify:track:1q8eyTNRSGEAqSvTATTgIG,short_term,18,2024-04-23
 spotify:track:6cdslY3YKjh7pImxFhSBVG,short_term,18,2024-04-16
 spotify:track:2Xiaplc23BureS4EDeE8xa,short_term,18,2024-04-13
@@ -5287,6 +5435,7 @@ spotify:track:6cC9RY7MoUx5z3aHjDTNI6,short_term,18,2024-04-06
 spotify:track:6cC9RY7MoUx5z3aHjDTNI6,short_term,18,2024-04-07
 spotify:track:6koMMQlsRWBwHZXdtWxgUk,short_term,18,2024-04-18
 spotify:track:4byr9TsXs4qtm8rG2FfwRW,short_term,18,2024-04-19
+spotify:track:5qI5EUqfDJpQ7w6sMECK7U,short_term,19,2024-04-25
 spotify:track:2GquhrcHbl2zOnF5javAFp,short_term,19,2024-04-23
 spotify:track:14pjnaIqkpReO5D0tHofAS,short_term,19,2024-04-16
 spotify:track:2OuImA1gcBXJVMrVH9Kn9p,short_term,19,2024-04-13
@@ -5328,6 +5477,7 @@ spotify:track:2RoYgkPzUY0vY7lhUuyus1,short_term,19,2024-04-06
 spotify:track:2RoYgkPzUY0vY7lhUuyus1,short_term,19,2024-04-07
 spotify:track:0P8lbWigAHXPKxUG60xh79,short_term,19,2024-04-18
 spotify:track:6koMMQlsRWBwHZXdtWxgUk,short_term,19,2024-04-19
+spotify:track:3uI6jqO0fFBoFryc8SJOXw,short_term,20,2024-04-25
 spotify:track:3Wu4lFjkhcXxB6WWaX9gtr,short_term,20,2024-04-23
 spotify:track:2OuImA1gcBXJVMrVH9Kn9p,short_term,20,2024-04-16
 spotify:track:4as4XEOR03oGm1STUKl6pa,short_term,20,2024-04-13
@@ -5369,6 +5519,7 @@ spotify:track:3xeo2seNDIp712sUmZycAN,short_term,20,2024-04-06
 spotify:track:3xeo2seNDIp712sUmZycAN,short_term,20,2024-04-07
 spotify:track:0UTtK6hregIBOsefavRI26,short_term,20,2024-04-18
 spotify:track:0P8lbWigAHXPKxUG60xh79,short_term,20,2024-04-19
+spotify:track:52rdnAZoYsEbguqMwCOeLi,short_term,21,2024-04-25
 spotify:track:3hDB8HsTgd3TePDsEulE97,short_term,21,2024-04-23
 spotify:track:4BSluGpjdLQihMmKgHXMxp,short_term,21,2024-04-16
 spotify:track:2RoYgkPzUY0vY7lhUuyus1,short_term,21,2024-04-13
@@ -5410,6 +5561,7 @@ spotify:track:4e94KIas5maH8RixY26LiN,short_term,21,2024-04-06
 spotify:track:4e94KIas5maH8RixY26LiN,short_term,21,2024-04-07
 spotify:track:0aSgzAUObtmSSwh1yO6shv,short_term,21,2024-04-18
 spotify:track:0aSgzAUObtmSSwh1yO6shv,short_term,21,2024-04-19
+spotify:track:5nv5aUcSKCogR7xMX3q0od,short_term,22,2024-04-25
 spotify:track:5XVjj6hJTWgYiDx72Wo5QS,short_term,22,2024-04-23
 spotify:track:4as4XEOR03oGm1STUKl6pa,short_term,22,2024-04-16
 spotify:track:6cdslY3YKjh7pImxFhSBVG,short_term,22,2024-04-13
@@ -5451,6 +5603,7 @@ spotify:track:20uUaRkfRJZG15mXfn7LaU,short_term,22,2024-04-06
 spotify:track:20uUaRkfRJZG15mXfn7LaU,short_term,22,2024-04-07
 spotify:track:14nturKxV48wR3lbknehiu,short_term,22,2024-04-18
 spotify:track:1q8eyTNRSGEAqSvTATTgIG,short_term,22,2024-04-19
+spotify:track:2jaapqz7L9MpMf7vpkqU9I,short_term,23,2024-04-25
 spotify:track:5qI5EUqfDJpQ7w6sMECK7U,short_term,23,2024-04-23
 spotify:track:2RoYgkPzUY0vY7lhUuyus1,short_term,23,2024-04-16
 spotify:track:5fpyAakgFOm4YTXkgfPzvV,short_term,23,2024-04-13
@@ -5492,6 +5645,7 @@ spotify:track:3CYH422oy1cZNoo0GTG1TK,short_term,23,2024-04-06
 spotify:track:3CYH422oy1cZNoo0GTG1TK,short_term,23,2024-04-07
 spotify:track:1TUkEXQrskATO9SoB4QMUN,short_term,23,2024-04-18
 spotify:track:1ukyvyEeSg1odSQvhlRAIU,short_term,23,2024-04-19
+spotify:track:1c6kkrWnpy68eYDfBdxNtF,short_term,24,2024-04-25
 spotify:track:2jaapqz7L9MpMf7vpkqU9I,short_term,24,2024-04-23
 spotify:track:3uI6jqO0fFBoFryc8SJOXw,short_term,24,2024-04-16
 spotify:track:23z7nLq4CD83EyzeeIokkt,short_term,24,2024-04-13
@@ -5533,6 +5687,7 @@ spotify:track:4byr9TsXs4qtm8rG2FfwRW,short_term,24,2024-04-06
 spotify:track:4byr9TsXs4qtm8rG2FfwRW,short_term,24,2024-04-07
 spotify:track:1q8eyTNRSGEAqSvTATTgIG,short_term,24,2024-04-18
 spotify:track:2GquhrcHbl2zOnF5javAFp,short_term,24,2024-04-19
+spotify:track:0vaxYDAuAO1nPolC6bQp7V,short_term,25,2024-04-25
 spotify:track:5nv5aUcSKCogR7xMX3q0od,short_term,25,2024-04-23
 spotify:track:3xeo2seNDIp712sUmZycAN,short_term,25,2024-04-16
 spotify:track:3xeo2seNDIp712sUmZycAN,short_term,25,2024-04-13
@@ -5574,6 +5729,7 @@ spotify:track:6cdslY3YKjh7pImxFhSBVG,short_term,25,2024-04-06
 spotify:track:6cdslY3YKjh7pImxFhSBVG,short_term,25,2024-04-07
 spotify:track:1ukyvyEeSg1odSQvhlRAIU,short_term,25,2024-04-18
 spotify:track:3hDB8HsTgd3TePDsEulE97,short_term,25,2024-04-19
+spotify:track:21aIsunB7PfZI0vlIoaJPh,short_term,26,2024-04-25
 spotify:track:14pjnaIqkpReO5D0tHofAS,short_term,26,2024-04-23
 spotify:track:5fpyAakgFOm4YTXkgfPzvV,short_term,26,2024-04-16
 spotify:track:3CYH422oy1cZNoo0GTG1TK,short_term,26,2024-04-13
@@ -5615,6 +5771,7 @@ spotify:track:7hYGWflgiI2aa25jOgL6eg,short_term,26,2024-04-06
 spotify:track:7hYGWflgiI2aa25jOgL6eg,short_term,26,2024-04-07
 spotify:track:24nK8tW7Pt3Inh2utttuoG,short_term,26,2024-04-18
 spotify:track:4e94KIas5maH8RixY26LiN,short_term,26,2024-04-19
+spotify:track:0CjGCpqs4qBqZi7ibYyZLi,short_term,27,2024-04-25
 spotify:track:52rdnAZoYsEbguqMwCOeLi,short_term,27,2024-04-23
 spotify:track:23z7nLq4CD83EyzeeIokkt,short_term,27,2024-04-16
 spotify:track:2vwlzO0Qp8kfEtzTsCXfyE,short_term,27,2024-04-13
@@ -5656,6 +5813,7 @@ spotify:track:0P8lbWigAHXPKxUG60xh79,short_term,27,2024-04-06
 spotify:track:0P8lbWigAHXPKxUG60xh79,short_term,27,2024-04-07
 spotify:track:2GquhrcHbl2zOnF5javAFp,short_term,27,2024-04-18
 spotify:track:5XVjj6hJTWgYiDx72Wo5QS,short_term,27,2024-04-19
+spotify:track:14pjnaIqkpReO5D0tHofAS,short_term,28,2024-04-25
 spotify:track:1c6kkrWnpy68eYDfBdxNtF,short_term,28,2024-04-23
 spotify:track:3q5qpprtugUIEPExuI7tRD,short_term,28,2024-04-16
 spotify:track:4byr9TsXs4qtm8rG2FfwRW,short_term,28,2024-04-13
@@ -5697,6 +5855,7 @@ spotify:track:0VES0jpNQEdRpD31gYDIMe,short_term,28,2024-04-06
 spotify:track:0VES0jpNQEdRpD31gYDIMe,short_term,28,2024-04-07
 spotify:track:3UjGudrhckjEQjKHLR3p5G,short_term,28,2024-04-18
 spotify:track:5qI5EUqfDJpQ7w6sMECK7U,short_term,28,2024-04-19
+spotify:track:4bheT1Drc2vyQgN5VTwr8W,short_term,29,2024-04-25
 spotify:track:21aIsunB7PfZI0vlIoaJPh,short_term,29,2024-04-23
 spotify:track:7hYGWflgiI2aa25jOgL6eg,short_term,29,2024-04-16
 spotify:track:7hYGWflgiI2aa25jOgL6eg,short_term,29,2024-04-13
@@ -5738,6 +5897,7 @@ spotify:track:1WKLxJpDqkQ9x1qEDNutoX,short_term,29,2024-04-06
 spotify:track:1WKLxJpDqkQ9x1qEDNutoX,short_term,29,2024-04-07
 spotify:track:3hDB8HsTgd3TePDsEulE97,short_term,29,2024-04-18
 spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,short_term,29,2024-04-19
+spotify:track:6WJTEsLxWtSIlXML3NVSzA,short_term,30,2024-04-25
 spotify:track:0CjGCpqs4qBqZi7ibYyZLi,short_term,30,2024-04-23
 spotify:track:3CYH422oy1cZNoo0GTG1TK,short_term,30,2024-04-16
 spotify:track:0dcnrLo8s1rhjm8euGjI4n,short_term,30,2024-04-13
@@ -5779,6 +5939,7 @@ spotify:track:1cgBWgoL6520lR2QZDzdGN,short_term,30,2024-04-06
 spotify:track:1cgBWgoL6520lR2QZDzdGN,short_term,30,2024-04-07
 spotify:track:4e94KIas5maH8RixY26LiN,short_term,30,2024-04-18
 spotify:track:2jaapqz7L9MpMf7vpkqU9I,short_term,30,2024-04-19
+spotify:track:70efTlnBNM8BvfhfPiqOBN,short_term,31,2024-04-25
 spotify:track:0vaxYDAuAO1nPolC6bQp7V,short_term,31,2024-04-23
 spotify:track:2vwlzO0Qp8kfEtzTsCXfyE,short_term,31,2024-04-16
 spotify:track:14nturKxV48wR3lbknehiu,short_term,31,2024-04-13
@@ -5820,6 +5981,7 @@ spotify:track:24nK8tW7Pt3Inh2utttuoG,short_term,31,2024-04-06
 spotify:track:24nK8tW7Pt3Inh2utttuoG,short_term,31,2024-04-07
 spotify:track:4nyF5lmSziBAt7ESAUjpbx,short_term,31,2024-04-18
 spotify:track:14pjnaIqkpReO5D0tHofAS,short_term,31,2024-04-19
+spotify:track:3ym9bzwGG4uxVaJ0pLoQbM,short_term,32,2024-04-25
 spotify:track:4bheT1Drc2vyQgN5VTwr8W,short_term,32,2024-04-23
 spotify:track:4byr9TsXs4qtm8rG2FfwRW,short_term,32,2024-04-16
 spotify:track:1WKLxJpDqkQ9x1qEDNutoX,short_term,32,2024-04-13
@@ -5861,6 +6023,7 @@ spotify:track:2GquhrcHbl2zOnF5javAFp,short_term,32,2024-04-06
 spotify:track:2GquhrcHbl2zOnF5javAFp,short_term,32,2024-04-07
 spotify:track:5XVjj6hJTWgYiDx72Wo5QS,short_term,32,2024-04-18
 spotify:track:70efTlnBNM8BvfhfPiqOBN,short_term,32,2024-04-19
+spotify:track:65iq2SldYrdcPVB080KpS1,short_term,33,2024-04-25
 spotify:track:65iq2SldYrdcPVB080KpS1,short_term,33,2024-04-23
 spotify:track:5vsjD4VbQzkUUlvwFOhppn,short_term,33,2024-04-16
 spotify:track:1cgBWgoL6520lR2QZDzdGN,short_term,33,2024-04-13
@@ -5902,6 +6065,7 @@ spotify:track:2ujA6F1cpk3m8lsPE5aKua,short_term,33,2024-04-06
 spotify:track:2ujA6F1cpk3m8lsPE5aKua,short_term,33,2024-04-07
 spotify:track:5qI5EUqfDJpQ7w6sMECK7U,short_term,33,2024-04-18
 spotify:track:1RtlbxsPpDBsHHmGTb7ah2,short_term,33,2024-04-19
+spotify:track:4RiudH8RehvLLrk8uNgIdR,short_term,34,2024-04-25
 spotify:track:6WJTEsLxWtSIlXML3NVSzA,short_term,34,2024-04-23
 spotify:track:6TBJkXHPhu3EsMk1bshwuI,short_term,34,2024-04-16
 spotify:track:1q8eyTNRSGEAqSvTATTgIG,short_term,34,2024-04-13
@@ -5943,6 +6107,7 @@ spotify:track:308Ir17KlNdlrbVLHWhlLe,short_term,34,2024-04-06
 spotify:track:308Ir17KlNdlrbVLHWhlLe,short_term,34,2024-04-07
 spotify:track:6J212smZzpeOCYQ9DITMSC,short_term,34,2024-04-18
 spotify:track:4BSluGpjdLQihMmKgHXMxp,short_term,34,2024-04-19
+spotify:track:5fpyAakgFOm4YTXkgfPzvV,short_term,35,2024-04-25
 spotify:track:70efTlnBNM8BvfhfPiqOBN,short_term,35,2024-04-23
 spotify:track:6koMMQlsRWBwHZXdtWxgUk,short_term,35,2024-04-16
 spotify:track:1tzeAVyGwvoHcVzDit0UeT,short_term,35,2024-04-13
@@ -5984,6 +6149,7 @@ spotify:track:3rKCDtV8UcF0RytSiXxypc,short_term,35,2024-04-06
 spotify:track:6E8EAroyZLFR80NO8Ucliy,short_term,35,2024-04-07
 spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew,short_term,35,2024-04-18
 spotify:track:52rdnAZoYsEbguqMwCOeLi,short_term,35,2024-04-19
+spotify:track:7mpdNiaQvygj2rHoxkzMfa,short_term,36,2024-04-25
 spotify:track:3ym9bzwGG4uxVaJ0pLoQbM,short_term,36,2024-04-23
 spotify:track:0UTtK6hregIBOsefavRI26,short_term,36,2024-04-16
 spotify:track:1ukyvyEeSg1odSQvhlRAIU,short_term,36,2024-04-13
@@ -6025,6 +6191,7 @@ spotify:track:6E8EAroyZLFR80NO8Ucliy,short_term,36,2024-04-06
 spotify:track:4C7PyWUlTLUUgVZQVboCma,short_term,36,2024-04-07
 spotify:track:2jaapqz7L9MpMf7vpkqU9I,short_term,36,2024-04-18
 spotify:track:5nv5aUcSKCogR7xMX3q0od,short_term,36,2024-04-19
+spotify:track:0fl3T6cekhgAxYu5xLWefX,short_term,37,2024-04-25
 spotify:track:6QqrxJe1iQxwLY6he6FLFo,short_term,37,2024-04-23
 spotify:track:0aSgzAUObtmSSwh1yO6shv,short_term,37,2024-04-16
 spotify:track:2GquhrcHbl2zOnF5javAFp,short_term,37,2024-04-13
@@ -6066,6 +6233,7 @@ spotify:track:4C7PyWUlTLUUgVZQVboCma,short_term,37,2024-04-06
 spotify:track:4nyF5lmSziBAt7ESAUjpbx,short_term,37,2024-04-07
 spotify:track:14pjnaIqkpReO5D0tHofAS,short_term,37,2024-04-18
 spotify:track:1c6kkrWnpy68eYDfBdxNtF,short_term,37,2024-04-19
+spotify:track:2xCc0iWKdkvaOYppt7ElGE,short_term,38,2024-04-25
 spotify:track:4RiudH8RehvLLrk8uNgIdR,short_term,38,2024-04-23
 spotify:track:0dcnrLo8s1rhjm8euGjI4n,short_term,38,2024-04-16
 spotify:track:308Ir17KlNdlrbVLHWhlLe,short_term,38,2024-04-13
@@ -6107,6 +6275,7 @@ spotify:track:4nyF5lmSziBAt7ESAUjpbx,short_term,38,2024-04-06
 spotify:track:53H3sGmqiXWO4MwuZAJfyn,short_term,38,2024-04-07
 spotify:track:1RtlbxsPpDBsHHmGTb7ah2,short_term,38,2024-04-18
 spotify:track:4VOZzJeoNhvvTaGTztogVt,short_term,38,2024-04-19
+spotify:track:0thLhIqWsqqycEqFONOyhu,short_term,39,2024-04-25
 spotify:track:5fpyAakgFOm4YTXkgfPzvV,short_term,39,2024-04-23
 spotify:track:13MF2TYuyfITClL1R2ei6e,short_term,39,2024-04-16
 spotify:track:4H65EdACzwqV8sTt3dDyA0,short_term,39,2024-04-13
@@ -6148,6 +6317,7 @@ spotify:track:53H3sGmqiXWO4MwuZAJfyn,short_term,39,2024-04-06
 spotify:track:5XVjj6hJTWgYiDx72Wo5QS,short_term,39,2024-04-07
 spotify:track:4BSluGpjdLQihMmKgHXMxp,short_term,39,2024-04-18
 spotify:track:4bheT1Drc2vyQgN5VTwr8W,short_term,39,2024-04-19
+spotify:track:6koMMQlsRWBwHZXdtWxgUk,short_term,40,2024-04-25
 spotify:track:7mpdNiaQvygj2rHoxkzMfa,short_term,40,2024-04-23
 spotify:track:14nturKxV48wR3lbknehiu,short_term,40,2024-04-16
 spotify:track:3UjGudrhckjEQjKHLR3p5G,short_term,40,2024-04-13
@@ -6189,6 +6359,7 @@ spotify:track:5XVjj6hJTWgYiDx72Wo5QS,short_term,40,2024-04-06
 spotify:track:6J212smZzpeOCYQ9DITMSC,short_term,40,2024-04-07
 spotify:track:70efTlnBNM8BvfhfPiqOBN,short_term,40,2024-04-18
 spotify:track:7F0MuIk5glqtowCUjbn9es,short_term,40,2024-04-19
+spotify:track:7MSZg4Km8CM7NRXTeJoANZ,short_term,41,2024-04-25
 spotify:track:0fl3T6cekhgAxYu5xLWefX,short_term,41,2024-04-23
 spotify:track:1TUkEXQrskATO9SoB4QMUN,short_term,41,2024-04-16
 spotify:track:3Wu4lFjkhcXxB6WWaX9gtr,short_term,41,2024-04-13
@@ -6230,6 +6401,7 @@ spotify:track:6J212smZzpeOCYQ9DITMSC,short_term,41,2024-04-06
 spotify:track:0CjGCpqs4qBqZi7ibYyZLi,short_term,41,2024-04-07
 spotify:track:4VOZzJeoNhvvTaGTztogVt,short_term,41,2024-04-18
 spotify:track:0CjGCpqs4qBqZi7ibYyZLi,short_term,41,2024-04-19
+spotify:track:7cIn67LEvk16v6komC8znS,short_term,42,2024-04-25
 spotify:track:1ULdASrNy5rurl1TZfFaMP,short_term,42,2024-04-23
 spotify:track:1q8eyTNRSGEAqSvTATTgIG,short_term,42,2024-04-16
 spotify:track:6E8EAroyZLFR80NO8Ucliy,short_term,42,2024-04-13
@@ -6271,6 +6443,7 @@ spotify:track:0CjGCpqs4qBqZi7ibYyZLi,short_term,42,2024-04-06
 spotify:track:4bheT1Drc2vyQgN5VTwr8W,short_term,42,2024-04-07
 spotify:track:4bheT1Drc2vyQgN5VTwr8W,short_term,42,2024-04-18
 spotify:track:2qQpFbqqkLOGySgNK8wBXt,short_term,42,2024-04-19
+spotify:track:08YJEcxGtYXwCGqXMZDiyQ,short_term,43,2024-04-25
 spotify:track:2xCc0iWKdkvaOYppt7ElGE,short_term,43,2024-04-23
 spotify:track:1tzeAVyGwvoHcVzDit0UeT,short_term,43,2024-04-16
 spotify:track:4e94KIas5maH8RixY26LiN,short_term,43,2024-04-13
@@ -6312,6 +6485,7 @@ spotify:track:4bheT1Drc2vyQgN5VTwr8W,short_term,43,2024-04-06
 spotify:track:2oBMZYteeO8DyXV9gDx6Za,short_term,43,2024-04-07
 spotify:track:5nv5aUcSKCogR7xMX3q0od,short_term,43,2024-04-18
 spotify:track:3CYH422oy1cZNoo0GTG1TK,short_term,43,2024-04-19
+spotify:track:0CExKnGUdMZkttFmZAuwdr,short_term,44,2024-04-25
 spotify:track:0thLhIqWsqqycEqFONOyhu,short_term,44,2024-04-23
 spotify:track:2GquhrcHbl2zOnF5javAFp,short_term,44,2024-04-16
 spotify:track:4nyF5lmSziBAt7ESAUjpbx,short_term,44,2024-04-13
@@ -6353,6 +6527,7 @@ spotify:track:2oBMZYteeO8DyXV9gDx6Za,short_term,44,2024-04-06
 spotify:track:2jaapqz7L9MpMf7vpkqU9I,short_term,44,2024-04-07
 spotify:track:7F0MuIk5glqtowCUjbn9es,short_term,44,2024-04-18
 spotify:track:65iq2SldYrdcPVB080KpS1,short_term,44,2024-04-19
+spotify:track:0U9jNoTJeTxXToakhsb7pV,short_term,45,2024-04-25
 spotify:track:6koMMQlsRWBwHZXdtWxgUk,short_term,45,2024-04-23
 spotify:track:2ujA6F1cpk3m8lsPE5aKua,short_term,45,2024-04-16
 spotify:track:5XVjj6hJTWgYiDx72Wo5QS,short_term,45,2024-04-13
@@ -6394,6 +6569,7 @@ spotify:track:2jaapqz7L9MpMf7vpkqU9I,short_term,45,2024-04-06
 spotify:track:6WJTEsLxWtSIlXML3NVSzA,short_term,45,2024-04-07
 spotify:track:1c6kkrWnpy68eYDfBdxNtF,short_term,45,2024-04-18
 spotify:track:7mpdNiaQvygj2rHoxkzMfa,short_term,45,2024-04-19
+spotify:track:0aSgzAUObtmSSwh1yO6shv,short_term,46,2024-04-25
 spotify:track:7MSZg4Km8CM7NRXTeJoANZ,short_term,46,2024-04-23
 spotify:track:308Ir17KlNdlrbVLHWhlLe,short_term,46,2024-04-16
 spotify:track:5qI5EUqfDJpQ7w6sMECK7U,short_term,46,2024-04-13
@@ -6435,6 +6611,7 @@ spotify:track:6WJTEsLxWtSIlXML3NVSzA,short_term,46,2024-04-06
 spotify:track:70efTlnBNM8BvfhfPiqOBN,short_term,46,2024-04-07
 spotify:track:0CjGCpqs4qBqZi7ibYyZLi,short_term,46,2024-04-18
 spotify:track:5fpyAakgFOm4YTXkgfPzvV,short_term,46,2024-04-19
+spotify:track:0nJW01T7XtvILxQgC5J7Wh,short_term,47,2024-04-25
 spotify:track:7cIn67LEvk16v6komC8znS,short_term,47,2024-04-23
 spotify:track:4H65EdACzwqV8sTt3dDyA0,short_term,47,2024-04-16
 spotify:track:6FdShjf7nA2cqEnpv1tIia,short_term,47,2024-04-13
@@ -6476,6 +6653,7 @@ spotify:track:70efTlnBNM8BvfhfPiqOBN,short_term,47,2024-04-06
 spotify:track:1RtlbxsPpDBsHHmGTb7ah2,short_term,47,2024-04-07
 spotify:track:2qQpFbqqkLOGySgNK8wBXt,short_term,47,2024-04-18
 spotify:track:6WJTEsLxWtSIlXML3NVSzA,short_term,47,2024-04-19
+spotify:track:1117juaaAkSIUsQxTmmcKM,short_term,48,2024-04-25
 spotify:track:08YJEcxGtYXwCGqXMZDiyQ,short_term,48,2024-04-23
 spotify:track:3UjGudrhckjEQjKHLR3p5G,short_term,48,2024-04-16
 spotify:track:6J212smZzpeOCYQ9DITMSC,short_term,48,2024-04-13
@@ -6517,6 +6695,7 @@ spotify:track:1RtlbxsPpDBsHHmGTb7ah2,short_term,48,2024-04-06
 spotify:track:1xWVYPdaLm909DbFmuPGOR,short_term,48,2024-04-07
 spotify:track:52rdnAZoYsEbguqMwCOeLi,short_term,48,2024-04-18
 spotify:track:7MSZg4Km8CM7NRXTeJoANZ,short_term,48,2024-04-19
+spotify:track:1ULdASrNy5rurl1TZfFaMP,short_term,49,2024-04-25
 spotify:track:0CExKnGUdMZkttFmZAuwdr,short_term,49,2024-04-23
 spotify:track:3hDB8HsTgd3TePDsEulE97,short_term,49,2024-04-16
 spotify:track:7CZRguMolNqIobnXxpV735,short_term,49,2024-04-13
@@ -6558,6 +6737,7 @@ spotify:track:1xWVYPdaLm909DbFmuPGOR,short_term,49,2024-04-06
 spotify:track:4BSluGpjdLQihMmKgHXMxp,short_term,49,2024-04-07
 spotify:track:65iq2SldYrdcPVB080KpS1,short_term,49,2024-04-18
 spotify:track:0vaxYDAuAO1nPolC6bQp7V,short_term,49,2024-04-19
+spotify:track:1q8eyTNRSGEAqSvTATTgIG,short_term,50,2024-04-25
 spotify:track:0U9jNoTJeTxXToakhsb7pV,short_term,50,2024-04-23
 spotify:track:4BZXVFYCb76Q0Klojq4piV,short_term,50,2024-04-16
 spotify:track:2oBMZYteeO8DyXV9gDx6Za,short_term,50,2024-04-13

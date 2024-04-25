@@ -10,7 +10,7 @@
 
 ## Artist Rank
 Taylor Swift is currently:
-- The #33 artist of the last month
+- The #38 artist of the last month
 - The #15 artist of the last 6 months
 - The #18 artist of all time
 
@@ -24,14 +24,13 @@ Taylor Swift is currently:
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e020e402844f1b6be3102d339f2ab67616d00001e02119ad2ebc0d33edf847ed8c6ab67616d00001e02db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 61 | [Singer-Songwriter](../../playlists/singer-songwriter/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 50 | [Pop](../../playlists/pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e020e402844f1b6be3102d339f2ab67616d00001e02119ad2ebc0d33edf847ed8c6ab67616d00001e02db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 66 | [Singer-Songwriter](../../playlists/singer-songwriter/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 55 | [Pop](../../playlists/pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 15 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e022270d3bd1d13133edf0be836ab67616d00001e028ecc33f195df6aa257c39eaaab67616d00001e029829da8e2bddc09a80099b9dab67616d00001e02dd17db8d3e7c325762a0ad3d" alt="" width="50" /> | 12 | [Check Out Later](../../playlists/check_out_later/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022c0252c4e4a988f024e4d262ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 7 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 6 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e026f248f7695eb544a3a1955c5ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e028acb7bac073f378d59bf228eab67616d00001e02b3be3b970fc89a02f301c9da" alt="" width="50" /> | 3 | [Workout](../../playlists/workout/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e020c053ee476f7ce576369241eab67616d00001e02119e4094f07a8123b471ac1dab67616d00001e022a0face7d69df61c20a6db2bab67616d00001e027c78b57a88c7c109176bc999" alt="" width="50" /> | 3 | [Christmas](../../playlists/christmas/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e020c053ee476f7ce576369241eab67616d00001e02119e4094f07a8123b471ac1dab67616d00001e022a0face7d69df61c20a6db2bab67616d00001e02cfbcba7cc35a40e08e5aff67" alt="" width="50" /> | 3 | [Christmas](../../playlists/christmas/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0203668e3f13559554eca8ccc6ab67616d00001e020eb56329734f9400c1639359ab67616d00001e0214ed51ab46ef0765182bb8a0ab67616d00001e02987a1825341694ec9bc62457" alt="" width="50" /> | 3 | [Tarps](../../playlists/tarps/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e021c3e0a58f3ee28af2922e351ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e02d5d11b6ac4242aaa41c8be69ab67616d00001e02d8856d19e1f5784ed643d862" alt="" width="50" /> | 1 | [Relax](../../playlists/relax/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e023317fc12f8b9a9a0b8459766ab67616d00001e0263e0ddbb488d0eeec0e738fcab67616d00001e0284095737f6056e682666d6f9ab67616d00001e02f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | [K-Pop-Adjacent](../../playlists/k-pop-adjacent/overview.md) |
@@ -41,13 +40,13 @@ Taylor Swift is currently:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | 12 | 0 | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | 2024-04-19 | [🔗](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | 10 | 9 | reputation | 2017-11-10 | [🔗](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | 10 | 6 | folklore | 2020-07-24 | [🔗](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | 10 | 5 | Midnights | 2022-10-21 | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | 9 | 6 | Lover | 2019-08-23 | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | 8 | 7 | 1989 | 2014-10-27 | [🔗](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | 6 | 3 | Red | 2012-10-22 | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | 5 | 2 | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | 2024-04-19 | [🔗](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | 3 | 2 | evermore | 2020-12-11 | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | 3 | 0 | Fearless | 2008-11-11 | [🔗](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b" alt="" width="50" /> | 2 | 0 | The Taylor Swift Holiday Collection | 2008-12-02 | [🔗](https://open.spotify.com/album/7vzYp7FrKnTRoktBYsx9SF) |
@@ -70,7 +69,7 @@ Taylor Swift is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 46 | 20 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
+| 39 | 22 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
 | 31 | 19 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
 | 1 | 0 | Universal Music Group |
 
@@ -86,9 +85,9 @@ Taylor Swift is currently:
 |:---|---:|
 | Instrument | 3 |
 | Lyricist | 7 |
-| Producer | 21 |
-| Songwriter | 39 |
-| Vocal | 30 |
+| Producer | 23 |
+| Songwriter | 41 |
+| Vocal | 32 |
 
 ### Production Credits
 
@@ -141,6 +140,8 @@ Taylor Swift is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Lavender Haze | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Karma | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481" alt="" width="50" /> | I Can See You (Taylor’s Version) (From The Vault) | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | I Can Do It With a Broken Heart | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | So Long, London | Producer, Songwriter |
 
 </details>
 
@@ -149,16 +150,16 @@ Taylor Swift is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | [Taylor Swift](overview.md) | 39 | Songwriter, Lyricist, Producer |
-| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 27 | Producer |
-| | [Laura Sisk](../../producers/laura_sisk/overview.md) | 20 | Producer |
-| | [Jack Antonoff](../../producers/jack_antonoff/overview.md) | 16 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | [Taylor Swift](overview.md) | 41 | Producer, Songwriter, Lyricist |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 29 | Producer |
+| | [Laura Sisk](../../producers/laura_sisk/overview.md) | 21 | Producer |
+| | [Jack Antonoff](../../producers/jack_antonoff/overview.md) | 17 | Producer, Songwriter |
 | | [Max Martin](../../producers/max_martin/overview.md) | 11 | Producer, Songwriter, Lyricist |
 | | [Sam Holland](../../producers/sam_holland/overview.md) | 10 | Producer |
 | | [Shellback](../../producers/shellback/overview.md) | 10 | Producer, Songwriter, Lyricist |
 | | [John Hanes](../../producers/john_hanes/overview.md) | 9 | Producer |
 | | Michael Ilbert | 9 | Producer |
-| | Jonathan Low | 7 | Producer |
+| | [Aaron Dessner](../../producers/aaron_dessner/overview.md) | 8 | Producer, Songwriter |
 
 
 <details>
@@ -166,54 +167,57 @@ Taylor Swift is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [Aaron Dessner](../../producers/aaron_dessner/overview.md) | 7 | Producer, Songwriter |
+| | Jonathan Low | 8 | Producer |
 | | Bryce Dessner | 6 | Arranger |
 | | Kyle Resnick | 4 | Producer |
+| | James McAlister | 3 | Producer |
 | | Justin Niebank | 3 | Producer |
 | | [Sounwave](../../producers/sounwave/overview.md) | 3 | Producer, Songwriter |
 | | Nathan Chapman | 3 | Producer |
-| | James McAlister | 3 | Producer |
-| | Dann Huff | 2 | Producer |
-| | Steve Marcantonio | 2 | Producer |
 | | Rob Moose | 2 | Arranger, Producer |
-| | David Huff | 2 | Producer |
-| | Ali Payami | 2 | Lyricist, Producer, Songwriter |
+| | Thomas Bartlett | 2 | Producer |
+| | Bella Blasko | 2 | Producer |
+| | Bryce Bordone | 2 | Producer |
 | | Jonathan Gautier | 2 | Producer |
 | | Jahaan Sweet | 2 | Producer, Songwriter |
-| | Thomas Bartlett | 2 | Producer |
+| | Dann Huff | 2 | Producer |
 | | Zoë Kravitz (Kravitz, Zoë) | 2 | Songwriter |
+| | Steve Marcantonio | 2 | Producer |
+| | David Huff | 2 | Producer |
+| | Ali Payami | 2 | Lyricist, Producer, Songwriter |
 | | Clarice Jensen | 2 | Producer |
-| | Jason Treuting | 1 | Producer |
-| | [Ryan Tedder](../../producers/ryan_tedder/overview.md) | 1 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../lana_del_rey/overview.md) | 1 | Songwriter |
+| | Sam Dew | 1 | Songwriter |
 | | Fred Fairbrass | 1 | Songwriter |
-| | Brian David Willis | 1 | Producer |
-| | Alex Sopp | 1 | Producer |
+| | Mattias Bylund | 1 | Arranger, Producer |
 | | Mike Williams | 1 | Producer |
 | | Justin Vernon | 1 | Producer, Songwriter |
-| | Oscar Holter | 1 | Producer, Songwriter |
+| | Brian David Willis | 1 | Producer |
+| | Ben Lanz | 1 | Producer |
+| | J. T. Bates | 1 | Producer |
+| | Oli Jacobs | 1 | Producer |
+| | Jason Treuting | 1 | Producer |
+| | [Ryan Tedder](../../producers/ryan_tedder/overview.md) | 1 | Producer, Songwriter |
+| | Alex Sopp | 1 | Producer |
 | | Bryan Devendorf | 1 | Producer |
 | | Smith Carlson | 1 | Producer |
-| | J. T. Bates | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | [Imogen Heap](../imogen_heap/overview.md) | 1 | Producer, Songwriter |
-| | Bella Blasko | 1 | Producer |
-| | Peter Carlsson | 1 | Producer |
-| | Robert Manzoli | 1 | Songwriter |
-| | St. Vincent | 1 | Songwriter |
-| | Liz Rose | 1 | Songwriter |
-| | Sam Dew | 1 | Songwriter |
-| | Evan Smith | 1 | Producer |
+| | Oscar Holter | 1 | Producer, Songwriter |
 | | Ken Lewis | 1 | Producer |
-| | Noel Zancanella | 1 | Producer |
-| | Keanu Beats | 1 | Producer, Songwriter |
-| | Dave Gross | 1 | Producer |
-| | Cautious Clay | 1 | Songwriter |
-| | Richard Fairbrass | 1 | Songwriter |
 | | William Bowery | 1 | Songwriter |
-| | CJ Camerieri | 1 | Producer |
-| | Mattias Bylund | 1 | Arranger, Producer |
-| | Braxton Cook | 1 | Producer |
+| | Evan Smith | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | [Lana Del Rey](../lana_del_rey/overview.md) | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4622b02ee5bd6a21f50ca323" alt="" width="50" /> | [Imogen Heap](../imogen_heap/overview.md) | 1 | Producer, Songwriter |
 | | Dave Nelson | 1 | Producer |
+| | Peter Carlsson | 1 | Producer |
+| | Braxton Cook | 1 | Producer |
+| | Robert Manzoli | 1 | Songwriter |
+| | CJ Camerieri | 1 | Producer |
+| | St. Vincent | 1 | Songwriter |
+| | Richard Fairbrass | 1 | Songwriter |
+| | Dave Gross | 1 | Producer |
+| | Liz Rose | 1 | Songwriter |
+| | Keanu Beats | 1 | Producer, Songwriter |
+| | Noel Zancanella | 1 | Producer |
+| | Cautious Clay | 1 | Songwriter |
 
 </details>
 
@@ -223,10 +227,10 @@ Taylor Swift is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b" alt="" width="50" /> | Santa Baby | The Taylor Swift Holiday Collection | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 287 | | [🔗](https://open.spotify.com/track/71IScwIe7bcIlpnlkbKVQw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Death By A Thousand Cuts | Lover | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | 681 | 💚 | [🔗](https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | exile (feat. Bon Iver) | folklore | [Taylor Swift](overview.md), Bon Iver | [Taylor Swift](../../labels/taylor_swift) | 689 | 💚 | [🔗](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Begin Again | Red | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 722 | 💚 | [🔗](https://open.spotify.com/track/0L4YCNRfXAoTvdpWeH2RGj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b" alt="" width="50" /> | Santa Baby | The Taylor Swift Holiday Collection | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 293 | | [🔗](https://open.spotify.com/track/71IScwIe7bcIlpnlkbKVQw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Death By A Thousand Cuts | Lover | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | 683 | 💚 | [🔗](https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | exile (feat. Bon Iver) | folklore | [Taylor Swift](overview.md), Bon Iver | [Taylor Swift](../../labels/taylor_swift) | 693 | 💚 | [🔗](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Begin Again | Red | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 724 | 💚 | [🔗](https://open.spotify.com/track/0L4YCNRfXAoTvdpWeH2RGj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Forever & Always | Fearless | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | nan | | [🔗](https://open.spotify.com/track/47HtKpfzpAt8rQjjXWotFj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Love Story | Fearless | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | nan | | [🔗](https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | You Belong With Me | Fearless | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | nan | | [🔗](https://open.spotify.com/track/3GCL1PydwsLodcpv0Ll1ch) |
@@ -296,18 +300,11 @@ Taylor Swift is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Sweet Nothing | Midnights | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | nan | | [🔗](https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Vigilante Shit | Midnights | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | nan | | [🔗](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481" alt="" width="50" /> | I Can See You (Taylor’s Version) (From The Vault) | Speak Now (Taylor's Version) | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | nan | 💚 | [🔗](https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | But Daddy I Love Him | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | nan | | [🔗](https://open.spotify.com/track/4QMgEffJQuKtjCNvqfRZ0m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | Down Bad | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | nan | | [🔗](https://open.spotify.com/track/1kbEbBdEgQdQeLXCJh28pJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | Florida!!! (feat. Florence + The Machine) | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | [Taylor Swift](overview.md), [Florence + The Machine](../florence_+_the_machine/overview.md) | [Taylor Swift](../../labels/taylor_swift) | nan | | [🔗](https://open.spotify.com/track/5ExOm0dh4NyRyAdSAO9hyM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | Guilty as Sin? | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | nan | | [🔗](https://open.spotify.com/track/799KrpEbhZp0MHeiA8YK9P) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | I Can Do It With a Broken Heart | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | nan | | [🔗](https://open.spotify.com/track/2fPvQfGQEZOKtJ9qXeL4x8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | I Can Fix Him (No Really I Can) | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | nan | | [🔗](https://open.spotify.com/track/5chnRTB9qMK3W1M41SnU9s) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | So High School | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | nan | | [🔗](https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | So Long, London | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | nan | | [🔗](https://open.spotify.com/track/7wAkQFShJ27V8362MqevQr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | The Manuscript | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | nan | | [🔗](https://open.spotify.com/track/1DTRUYVd8rYpla9hhVVwjo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | The Smallest Man Who Ever Lived | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | nan | | [🔗](https://open.spotify.com/track/1xtw1krCR6Dw2KwkXw5z63) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | I Can Do It With a Broken Heart | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | nan | 💚 | [🔗](https://open.spotify.com/track/2fPvQfGQEZOKtJ9qXeL4x8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | So Long, London | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | nan | 💚 | [🔗](https://open.spotify.com/track/7wAkQFShJ27V8362MqevQr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | The Tortured Poets Department | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | nan | | [🔗](https://open.spotify.com/track/4PdLaGZubp4lghChqp8erB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | Who’s Afraid of Little Old Me? | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | nan | | [🔗](https://open.spotify.com/track/2d8UxVNhJinc8uat9PoM9y) |
 
 </details>
 

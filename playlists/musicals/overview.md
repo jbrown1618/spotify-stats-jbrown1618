@@ -56,7 +56,7 @@
 | | 3 | 0 | Beth Fowler | [🔗](https://open.spotify.com/artist/7KNW6OwcA260MsaEtnvhxV) |
 | | 3 | 0 | Janet Devenish | [🔗](https://open.spotify.com/artist/7Ev9dg2zamUgQsRUp9DdRl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb464513265be8765dddc19bb" alt="" width="50" /> | 3 | 0 | Frances Ruffelle | [🔗](https://open.spotify.com/artist/5uSeMCBhe3DiROdFrwaXkw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d64bc71c5b3f176aed9763fb" alt="" width="50" /> | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ebeba683d4b477ef2748c3bd" alt="" width="50" /> | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
 | | 3 | 0 | John Savident | [🔗](https://open.spotify.com/artist/2V0W4YzPCESOh86ss7D2QE) |
 | | 3 | 0 | Mary Millar | [🔗](https://open.spotify.com/artist/1SBvpcra5uod7N0rxJxa3J) |
 | <img src="https://i.scdn.co/image/4f4b7d3b7f76e3c57d3004ba0d99368cdb7e3276" alt="" width="50" /> | 3 | 0 | Ewan McGregor | [🔗](https://open.spotify.com/artist/105Paee9vmV5rfLSG652e1) |
@@ -138,7 +138,7 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="Into The Woods (2022 Broadway Cast Recording)" width="50" /> | Giants In The Sky | 296 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Down Once More / Track Down This Murderer | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="Into The Woods (2022 Broadway Cast Recording)" width="50" /> | Giants In The Sky | 301 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Down Once More / Track Down This Murderer | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736cb0475872d38753052ac35a" alt="The Lion King: Original Broadway Cast Recording" width="50" /> | Can You Feel The Love Tonight | nan | <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="Beauty And The Beast: The Broadway Musical" width="50" /> | Beauty and the Beast | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Notes / Prima Donna | nan | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Who Am I? - From "Les Miserables'' | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> | One Day More | nan | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | All I Ask Of You - Reprise | nan |
@@ -219,7 +219,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 31 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
+| 32 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
 | 54 | 2 | [broadway](../../genres/broadway/overview.md) |
 | 2 | 2 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
 | 7 | 1 | [post-teen pop](../../genres/post-teen_pop/overview.md) |

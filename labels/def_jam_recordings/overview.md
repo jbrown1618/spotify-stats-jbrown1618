@@ -1,13 +1,13 @@
 # Def Jam Recordings
 
-20 songs
+19 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Def Jam Recordings (18 tracks)
+- Def Jam Recordings (17 tracks)
 - Friends Keep Secrets/Def Jam Recordings/Interscope Records (1 tracks)
 - Gamebread, LLC / Def Jam Recordings (1 tracks)
 
@@ -15,12 +15,12 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 14 | 11 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 13 | 11 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | 1 | 1 | Calvin Harris | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | 1 | 1 | benny blanco | [🔗](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 1 | 1 | [Justin Bieber](../../artists/justin_bieber/overview.md) | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb81d954dd35145481964ddd6c" alt="" width="50" /> | 1 | 1 | Mikky Ekko | [🔗](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb83ebf738a8ffd0ddd1d68a53" alt="" width="50" /> | 3 | 0 | Logic | [🔗](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb94678f7d5353a9b680f60d23" alt="" width="50" /> | 3 | 0 | Logic | [🔗](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | 1 | 0 | [Eminem](../../artists/eminem/overview.md) | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5be3f26e0c3aa322637a975f" alt="" width="50" /> | 1 | 0 | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4be60ee03d2210503baedfa2" alt="" width="50" /> | 1 | 0 | Marshmello | [🔗](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) |
@@ -53,33 +53,32 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | 2 | 2 | Loud | 2010-11-16 | [🔗](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab647295c0c97446c1f1a3b5" alt="" width="50" /> | 1 | 1 | Rated R | 2009-11-20 | [🔗](https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | 1 | 1 | Lonely (with benny blanco) | 2020-10-16 | [🔗](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f70dcec206fbdbcc9816664a" alt="" width="50" /> | 1 | 0 | Talk That Talk (Deluxe) | 2012-07-18 | [🔗](https://open.spotify.com/album/3sW7wD2qdMjs7KncaOoIJ5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="" width="50" /> | 1 | 0 | Rap Or Go To The League | 2019-03-01 | [🔗](https://open.spotify.com/album/1BR69wIifGZUSimcuTjWVg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b21609e1a2d7c1b7ba8efae2" alt="" width="50" /> | 1 | 0 | Music Of The Sun | 2005-08-29 | [🔗](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cfdf40cf325b609a52457805" alt="" width="50" /> | 1 | 0 | Everybody | 2017-05-05 | [🔗](https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="" width="50" /> | 1 | 0 | Cravin | 2019-10-18 | [🔗](https://open.spotify.com/album/6c66PBJdg7EWPcFUvLyFFu) |
 
 
 <details>
-<summary>See all 13 albums</summary>
+<summary>See all 12 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="" width="50" /> | 1 | 0 | Cravin | 2019-10-18 | [🔗](https://open.spotify.com/album/6c66PBJdg7EWPcFUvLyFFu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="" width="50" /> | 1 | 0 | Confessions of a Dangerous Mind | 2019-05-10 | [🔗](https://open.spotify.com/album/0XLwImzaZEtqHE4NHAepDz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e19b1b51cdd35051e17cf6dc" alt="" width="50" /> | 1 | 0 | Bobby Tarantino II | 2018-03-09 | [🔗](https://open.spotify.com/album/4F87p1aiFwHeU4uu65MaPV) |
 
 </details>
 
 
-![Bar chart of top 13 albums](../../images/labels/def_jam_recordings/albums.png)
+![Bar chart of top 12 albums](../../images/labels/def_jam_recordings/albums.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 15 | 12 | [pop](../../genres/pop/overview.md) |
-| 14 | 11 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
-| 14 | 11 | barbadian pop |
+| 14 | 12 | [pop](../../genres/pop/overview.md) |
+| 13 | 11 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
+| 13 | 11 | barbadian pop |
 | 1 | 1 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 4 | 0 | [rap](../../genres/rap/overview.md) |
 | 4 | 0 | pop rap |
@@ -90,18 +89,19 @@ Appears as:
 
 
 <details>
-<summary>See all 13 genres</summary>
+<summary>See all 14 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 1 | 0 | rap latina |
 | 1 | 0 | [r&b](../../genres/r_b/overview.md) |
+| 1 | 0 | pop r&b |
 | 1 | 0 | atl hip hop |
 
 </details>
 
 
-![Bar chart of top 13 genres](../../images/labels/def_jam_recordings/genres.png)
+![Bar chart of top 14 genres](../../images/labels/def_jam_recordings/genres.png)
 
 ## Top Producers
 
@@ -169,7 +169,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | What Now | Unapologetic (Deluxe) | [Rihanna](../../artists/rihanna/overview.md) | [Def Jam Recordings](.) | 271 | 💚 | [🔗](https://open.spotify.com/track/0aUWfpD3PlSv3FTTKcT2rN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | What Now | Unapologetic (Deluxe) | [Rihanna](../../artists/rihanna/overview.md) | [Def Jam Recordings](.) | 277 | 💚 | [🔗](https://open.spotify.com/track/0aUWfpD3PlSv3FTTKcT2rN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Stay | Unapologetic (Deluxe) | [Rihanna](../../artists/rihanna/overview.md), Mikky Ekko | [Def Jam Recordings](.) | 658 | 💚 | [🔗](https://open.spotify.com/track/1dEy9Pl81QopSxNsPxXQxv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b21609e1a2d7c1b7ba8efae2" alt="" width="50" /> | Pon de Replay | Music Of The Sun | [Rihanna](../../artists/rihanna/overview.md) | [Def Jam Recordings](.) | nan | | [🔗](https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Disturbia | Good Girl Gone Bad: Reloaded | [Rihanna](../../artists/rihanna/overview.md) | [Def Jam Recordings](.) | nan | 💚 | [🔗](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc) |
@@ -188,7 +188,6 @@ Appears as:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | Watch n' Learn | Talk That Talk | [Rihanna](../../artists/rihanna/overview.md) | [Def Jam Recordings](.) | nan | 💚 | [🔗](https://open.spotify.com/track/1ROCX1nquOZ5i05YfGysu0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | We Found Love | Talk That Talk | [Rihanna](../../artists/rihanna/overview.md), Calvin Harris | [Def Jam Recordings](.) | nan | 💚 | [🔗](https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f70dcec206fbdbcc9816664a" alt="" width="50" /> | Cockiness (Love It) | Talk That Talk (Deluxe) | [Rihanna](../../artists/rihanna/overview.md) | [Def Jam Recordings](.) | nan | | [🔗](https://open.spotify.com/track/76d2uYjE6NkCak2wyCAw5d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Half Of Me | Unapologetic (Deluxe) | [Rihanna](../../artists/rihanna/overview.md) | [Def Jam Recordings](.) | nan | 💚 | [🔗](https://open.spotify.com/track/4bXImuY3OhNXhbQbVLFHKp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cfdf40cf325b609a52457805" alt="" width="50" /> | 1-800-273-8255 | Everybody | Logic, Alessia Cara, Khalid | [Def Jam Recordings](.) | nan | | [🔗](https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e19b1b51cdd35051e17cf6dc" alt="" width="50" /> | Everyday | Bobby Tarantino II | Logic, Marshmello | [Def Jam Recordings](.) | nan | | [🔗](https://open.spotify.com/track/4EAV2cKiqKP5UPZmY6dejk) |

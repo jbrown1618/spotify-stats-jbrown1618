@@ -6,9 +6,9 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 7 | 7 | [Red Velvet](../../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | 4 | 4 | [IU](../../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 3 | 2 | [Girls' Generation](../../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaf3c4b988a6fef40843cdc83" alt="" width="50" /> | 2 | 2 | [EXO](../../../artists/exo/overview.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb271110d977700b69d9548993" alt="" width="50" /> | 2 | 2 | EXID | [🔗](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 2 | 2 | [Girls' Generation](../../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | 2 | 1 | GOT7 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb097877542866c981757e9592" alt="" width="50" /> | 2 | 1 | [TAEYEON](../../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc67fe879798c208fcf056dde" alt="" width="50" /> | 2 | 1 | CL | [🔗](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) |
@@ -54,11 +54,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="" width="50" /> | 2 | 2 | Ice Cream Cake - The 1st Mini Album | 2015-03-17 | [🔗](https://open.spotify.com/album/27cBQ5FDqv0xLgiJ7qNpZr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385b44ac6d4a8383ed7e88285" alt="" width="50" /> | 2 | 2 | AH YEAH | 2015-04-14 | [🔗](https://open.spotify.com/album/54r8xseUAz0c9ORidjAKmZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6ea41f7103f07588c18bbdb" alt="" width="50" /> | 2 | 1 | Pink Funky | 2015-06-19 | [🔗](https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="" width="50" /> | 2 | 1 | Lion Heart - The 5th Album | 2015-08-19 | [🔗](https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f531f18feaf3c28366ad52d4" alt="" width="50" /> | 2 | 1 | I - The 1st Mini Album | 2015-10-07 | [🔗](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d93fd25cbf0ad2a9945869e" alt="" width="50" /> | 1 | 1 | heart | 2015-05-18 | [🔗](https://open.spotify.com/album/3NYm5NdVNZsXNfn0ZVezWb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734137dd7f6007dda47c5ed557" alt="" width="50" /> | 1 | 1 | WiggleWiggle | 2015-01-05 | [🔗](https://open.spotify.com/album/6NoXyAXGGRrnRkt9qVkR8W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="" width="50" /> | 1 | 1 | The Story Begins | 2015-10-20 | [🔗](https://open.spotify.com/album/72WWZVAx6GtSbEeGESwDLo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27338b29effd5af942ca8d7a8b0" alt="" width="50" /> | 1 | 1 | Odd - The 4th Album | 2015-05-18 | [🔗](https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa) |
 
 
 <details>
@@ -66,7 +66,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="" width="50" /> | 1 | 1 | Lion Heart - The 5th Album | 2015-08-19 | [🔗](https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27338b29effd5af942ca8d7a8b0" alt="" width="50" /> | 1 | 1 | Odd - The 4th Album | 2015-05-18 | [🔗](https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aab7f1de2a5fccba3b095574" alt="" width="50" /> | 1 | 1 | LOVE ME RIGHT - The 2nd Album Repackage | 2015-06-03 | [🔗](https://open.spotify.com/album/2tSO8aEYf5YvpwmvvrOWH7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a65ec9d33253ecbcda27113b" alt="" width="50" /> | 1 | 1 | Kiss My Lips - The 8th Album | 2015-05-12 | [🔗](https://open.spotify.com/album/0SmJjNGEXCMp5bTGbxmjyy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a49014cd80722aa2ac64c87d" alt="" width="50" /> | 1 | 1 | Just Right | 2015-07-13 | [🔗](https://open.spotify.com/album/4159syQKTGC1JSJN4xBScv) |
@@ -102,12 +102,12 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | Dumb Dumb | The Red - The 1st Album | [Red Velvet](../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 26 | 💚 | [🔗](https://open.spotify.com/track/64iDjAuWDogVhuoWhKklF9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="" width="50" /> | Ice Cream Cake | Ice Cream Cake - The 1st Mini Album | [Red Velvet](../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 45 | 💚 | [🔗](https://open.spotify.com/track/5vCuawHQ8Poch1odz9JDpB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="" width="50" /> | Lion Heart | Lion Heart - The 5th Album | [Girls' Generation](../../../artists/girls__generation/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 60 | 💚 | [🔗](https://open.spotify.com/track/405SQUJdQut02dxtuQ0CZ3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="" width="50" /> | Crazy | Crazy | 4Minute | [CUBE ENTERTAINMENT](../../../labels/cube_entertainment) | 163 | 💚 | [🔗](https://open.spotify.com/track/5DZdCgnX9xAj59X6X7cQBs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="" width="50" /> | Crazy | Crazy | 4Minute | [CUBE ENTERTAINMENT](../../../labels/cube_entertainment) | 165 | 💚 | [🔗](https://open.spotify.com/track/5DZdCgnX9xAj59X6X7cQBs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273078e3c2e57ae77c82ab4b46c" alt="" width="50" /> | Devil | DEVIL - SUPER JUNIOR SPECIAL ALBUM | [SUPER JUNIOR](../../../artists/super_junior/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 181 | 💚 | [🔗](https://open.spotify.com/track/3IQ9FJ2cMVQtger5ZhgCaj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="" width="50" /> | Paradise Lost | Hawwah | [Gain](../../../artists/gain/overview.md) | APOP Entertainment, MYSTIC Entertainment | 219 | 💚 | [🔗](https://open.spotify.com/track/1PVluFXbdOTv29475JS2Mj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="" width="50" /> | Paradise Lost | Hawwah | [Gain](../../../artists/gain/overview.md) | APOP Entertainment, MYSTIC Entertainment | 221 | 💚 | [🔗](https://open.spotify.com/track/1PVluFXbdOTv29475JS2Mj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385b44ac6d4a8383ed7e88285" alt="" width="50" /> | Up & Down | AH YEAH | EXID | Yedang Entertainment | 438 | 💚 | [🔗](https://open.spotify.com/track/6BKOhvRPY54uvfqWwg7MKi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="" width="50" /> | Like Ooh-Ahh | The Story Begins | [TWICE](../../../artists/twice/overview.md) | [Republic Records](../../../labels/republic_records) | 496 | 💚 | [🔗](https://open.spotify.com/track/3c0CJ0DBgsGZ7I79lyx02Z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8b83bc0fb25c1526113ce86" alt="" width="50" /> | CALL ME BABY | EXODUS - The 2nd Album | [EXO](../../../artists/exo/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 758 | 💚 | [🔗](https://open.spotify.com/track/6Rx0ORYPP3GH9rTvGS5Vy8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8b83bc0fb25c1526113ce86" alt="" width="50" /> | CALL ME BABY | EXODUS - The 2nd Album | [EXO](../../../artists/exo/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 750 | 💚 | [🔗](https://open.spotify.com/track/6Rx0ORYPP3GH9rTvGS5Vy8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734137dd7f6007dda47c5ed557" alt="" width="50" /> | WiggleWiggle | WiggleWiggle | HELLOVENUS | fantagio music | nan | 💚 | [🔗](https://open.spotify.com/track/5v8PeA3Ui2TihKPSLJkpJ4) |
 
 
@@ -134,6 +134,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e03d61c4f569348f1bedacd" alt="" width="50" /> | Something | Girl's Day Love Second Album | Girl's Day | GU Music | nan | 💚 | [🔗](https://open.spotify.com/track/3xHIyErJUeuy0MpjUKRuPw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a49014cd80722aa2ac64c87d" alt="" width="50" /> | Just Right | Just Right | GOT7 | [JYP Entertainment](../../../labels/jyp_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/4ER58qECydWokIsgqtysWu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af44773914c32c0327509e57" alt="" width="50" /> | Rewind | REBOOT | Wonder Girls | [Republic Records](../../../labels/republic_records) | nan | | [🔗](https://open.spotify.com/track/2YZa0dsV3xXGZ61XFYiRt8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="" width="50" /> | Check | Lion Heart - The 5th Album | [Girls' Generation](../../../artists/girls__generation/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | nan | | [🔗](https://open.spotify.com/track/3EQC9pepDeytAuIC6zShEF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | Day 1 | The Red - The 1st Album | [Red Velvet](../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/74muMkVdMYoR65lhmdzy13) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | Don't U Wait No More | The Red - The 1st Album | [Red Velvet](../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/6RKpcgjYeiC5crivVGNNrZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | Oh Boy | The Red - The 1st Album | [Red Velvet](../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/3ts0OSZgdjOP0Uu1DvQK4h) |
