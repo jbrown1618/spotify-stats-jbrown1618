@@ -65,7 +65,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb4ba86c361191d48cbeb4b32" alt="" width="50" /> | 5 | 2 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb93e1fe183be0aebda170283a" alt="" width="50" /> | 4 | 2 | Shawn Mendes | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba10593e25ec51a3ba4296a0" alt="" width="50" /> | 4 | 2 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb0d44bc6f830e443d7501a8c" alt="" width="50" /> | 4 | 2 | Backstreet Boys | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd792783a725a0ed42866204c" alt="" width="50" /> | 4 | 2 | Backstreet Boys | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb716114797a4a644c67c5fa72" alt="" width="50" /> | 4 | 2 | USHER | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b" alt="" width="50" /> | 3 | 2 | Madonna | [🔗](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcf674ecb51186e6408cd18c0" alt="" width="50" /> | 3 | 2 | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |

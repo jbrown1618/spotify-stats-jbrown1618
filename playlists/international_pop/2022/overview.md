@@ -86,7 +86,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="" width="50" /> | 海のまにまに | 海のまにまに | [YOASOBI](../../../artists/yoasobi/overview.md) | [YOASOBI](../../../labels/yoasobi) | 436 | 💚 | [🔗](https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="" width="50" /> | 海のまにまに | 海のまにまに | [YOASOBI](../../../artists/yoasobi/overview.md) | [YOASOBI](../../../labels/yoasobi) | 437 | 💚 | [🔗](https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](../../../labels/sony_music_labels_inc_) | 555 | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec71813c0c13422d225981da" alt="" width="50" /> | לך לישון | לך לישון | Anna Zak | ITModels under exclusive license to D-Music | nan | | [🔗](https://open.spotify.com/track/3fCS3m3uWUgAFm3purs15C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ベテルギウス | 壱 | Yuuri | [Sony Music Labels Inc.](../../../labels/sony_music_labels_inc_) | nan | | [🔗](https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR) |

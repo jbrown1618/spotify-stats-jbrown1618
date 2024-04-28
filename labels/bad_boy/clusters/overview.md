@@ -25,7 +25,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="" width="50" /> | Sincerely, Jane | Metropolis: The Chase Suite (Special Edition) | [Janelle Monáe](../../../../artists/janelle_monáe/overview.md) | [Bad Boy Records](../..) | 547 | 💚 | [🔗](https://open.spotify.com/track/06I6iDFVtZDGcRu9BgHraA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="" width="50" /> | Sincerely, Jane | Metropolis: The Chase Suite (Special Edition) | [Janelle Monáe](../../../../artists/janelle_monáe/overview.md) | [Bad Boy Records](../..) | 549 | 💚 | [🔗](https://open.spotify.com/track/06I6iDFVtZDGcRu9BgHraA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="" width="50" /> | Say You'll Go | The ArchAndroid | [Janelle Monáe](../../../../artists/janelle_monáe/overview.md) | [Bad Boy/Wondaland](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/6wbEygoouLHwgy4J6uQIb1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="" width="50" /> | I Like That | Dirty Computer | [Janelle Monáe](../../../../artists/janelle_monáe/overview.md) | [Bad Boy Records](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/2EznBGrlmx9wBeYgyDojsA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730a60fb0deda858270cca82ee" alt="" width="50" /> | Pynk (feat. Grimes) | Dirty Computer | [Janelle Monáe](../../../../artists/janelle_monáe/overview.md), Grimes | [Bad Boy Records](../..) | nan | | [🔗](https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH) |

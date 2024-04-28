@@ -152,7 +152,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita | Romance | Shawn Mendes, [Camila Cabello](../../artists/camila_cabello/overview.md) | [Epic](../epic), [Syco Music](.) | 675 | 💚 | [🔗](https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita | Romance | Shawn Mendes, [Camila Cabello](../../artists/camila_cabello/overview.md) | [Epic](../epic), [Syco Music](.) | 681 | 💚 | [🔗](https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735bec8b1a6a96e731dbd6f94f" alt="" width="50" /> | DNA | DNA (Expanded Edition) | Little Mix | [Syco Music](.) | nan | 💚 | [🔗](https://open.spotify.com/track/0MXMNgjjtOBxAjfw8a4lwL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="" width="50" /> | Salute | Salute (Expanded Edition) | Little Mix | [Syco Music](.) | nan | 💚 | [🔗](https://open.spotify.com/track/1iupzLgX4O0Qosb4yDpYoz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f4cea1bf125a287a42c5d4f" alt="" width="50" /> | All I Want for Christmas Is You | All I Want for Christmas Is You | Fifth Harmony | [Epic](../epic), [Syco Music](.) | nan | | [🔗](https://open.spotify.com/track/71wZ1KJdXSa5hC51kvGBL2) |

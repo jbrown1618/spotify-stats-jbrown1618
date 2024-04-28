@@ -12,10 +12,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735292f306c4d8210b521cea4d" alt="1,2,3,4" width="50" /> | 1, 2, 3, 4 (0.905) | <img src="https://i.scdn.co/image/ab67616d0000b2730a000b1a2ba7db00fc57754d" alt="Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 10" width="50" /> | MY LOVE (0.375) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317744a265c4b78df9c643739" alt="Cat" width="50" /> | Cat (Feat. IU) (0.882) | <img src="https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb" alt="GABRIEL" width="50" /> | UNDERSTAND (0.379) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370c0e8d50872004adc791ef2" alt="Love Theory - SM STATION" width="50" /> | Love Theory (0.878) | <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="PLAY" width="50" /> | Melted (0.384) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a55f6bf87219ecb5505e72e4" alt="ONLY LOVERS LEFT" width="50" /> | Sour candy (0.871) | <img src="https://i.scdn.co/image/ab67616d0000b2739b98537c1beb38440a631c39" alt="Void" width="50" /> | sorry (0.388) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a93c207b94cbb802b1efefa1" alt="MOTH" width="50" /> | Phase Me (0.857) | <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="Sorry" width="50" /> | Sorry (0.388) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df61d37c88b01fa413c527c1" alt="SHOW ME THE MONEY 11 Episode 3" width="50" /> | NOT SORRY (Feat. pH-1) (Prod. by Slom) (0.856) | <img src="https://i.scdn.co/image/ab67616d0000b27381156fba3e07547c62984394" alt="Get Ready To Leave" width="50" /> | Get Ready To Leave (0.402) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="PLAY" width="50" /> | 200% (0.853) | <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | HOLO (0.406) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731b8ae147aceb9fc130391287" alt="SPOT!" width="50" /> | SPOT! (0.875) | <img src="https://i.scdn.co/image/ab67616d0000b2739b98537c1beb38440a631c39" alt="Void" width="50" /> | sorry (0.388) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a55f6bf87219ecb5505e72e4" alt="ONLY LOVERS LEFT" width="50" /> | Sour candy (0.871) | <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="Sorry" width="50" /> | Sorry (0.388) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273faad2d39e6eb398a6d5c8f47" alt="Feeling Lucky" width="50" /> | Feeling Lucky (0.869) | <img src="https://i.scdn.co/image/ab67616d0000b27381156fba3e07547c62984394" alt="Get Ready To Leave" width="50" /> | Get Ready To Leave (0.402) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a93c207b94cbb802b1efefa1" alt="MOTH" width="50" /> | Phase Me (0.857) | <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | HOLO (0.406) |
 
 ## Energy
 
@@ -117,7 +117,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d42834b296097a0136e97d3" alt="SEOULITE" width="50" /> | MY STAR (0.92) | <img src="https://i.scdn.co/image/ab67616d0000b2738654569505a1314e5d29c223" alt="Serenade" width="50" /> | Run With Me (0.156) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | Waterride (0.908) | <img src="https://i.scdn.co/image/ab67616d0000b2730a000b1a2ba7db00fc57754d" alt="Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 10" width="50" /> | MY LOVE (0.158) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735b82fbf68179592aa8101ce9" alt="Black Diaryy" width="50" /> | Cheetos (feat. ZENE THE ZILLA) (0.906) | <img src="https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb" alt="GABRIEL" width="50" /> | UNDERSTAND (0.163) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27370c0e8d50872004adc791ef2" alt="Love Theory - SM STATION" width="50" /> | Love Theory (0.888) | <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="PLAY" width="50" /> | Melted (0.169) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731b8ae147aceb9fc130391287" alt="SPOT!" width="50" /> | SPOT! (0.906) | <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="PLAY" width="50" /> | Melted (0.169) |
 
 ## Tempo
 

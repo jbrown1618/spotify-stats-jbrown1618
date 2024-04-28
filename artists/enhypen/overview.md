@@ -21,22 +21,22 @@ ENHYPEN:
 
 ## Artist Rank
 ENHYPEN is currently:
-- The #15 artist of the last month
-- The #13 artist of the last 6 months
+- The #34 artist of the last month
+- The #14 artist of the last 6 months
 - The #5 artist of all time
 
 ![Rank of ENHYPEN over time](../../images/artists/enhypen/rank_time_series.png)
 ## Top Tracks
 
-- Sacrifice (Eat Me Up) is the #13 track of all time
+- Sacrifice (Eat Me Up) is the #12 track of all time
 - Bite Me is:
-    - the #36 track of the last month
-    - the #19 track of all time
+    - the #29 track of the last month
+    - the #16 track of all time
 - Bills is the #26 track of all time
-- ParadoXXX Invasion is the #28 track of all time
 - Sweet Venom is:
     - the #7 track of the last 6 months
-    - the #37 track of all time
+    - the #36 track of all time
+- ParadoXXX Invasion is the #42 track of all time
 
 ### Top tracks, aggregated
 
@@ -125,11 +125,11 @@ ENHYPEN is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="" width="50" /> | Sweet Venom | ORANGE BLOOD | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 67 | 💚 | [🔗](https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="" width="50" /> | Bills | DARK BLOOD | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 78 | 💚 | [🔗](https://open.spotify.com/track/2nfluhFVrO5OBXPzRWlwlz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328980bc854e40cb7a31fec98" alt="" width="50" /> | CRIMINAL LOVE | CRIMINAL LOVE | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 112 | 💚 | [🔗](https://open.spotify.com/track/0Eglu3fErlG196PtTwCUPM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | Just A Little Bit | DIMENSION : DILEMMA | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 128 | 💚 | [🔗](https://open.spotify.com/track/3QdjLOemIcMZovVOnvJP7P) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="" width="50" /> | Polaroid Love | DIMENSION : ANSWER | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 129 | 💚 | [🔗](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="" width="50" /> | Bite Me | DARK BLOOD | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 131 | 💚 | [🔗](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | FEVER | BORDER : CARNIVAL | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 202 | 💚 | [🔗](https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="" width="50" /> | Chaconne | DARK BLOOD | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 285 | 💚 | [🔗](https://open.spotify.com/track/7nBjhYbLttb9LHZHqNuld5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="" width="50" /> | Bite Me | DARK BLOOD | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 128 | 💚 | [🔗](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | Just A Little Bit | DIMENSION : DILEMMA | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 129 | 💚 | [🔗](https://open.spotify.com/track/3QdjLOemIcMZovVOnvJP7P) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="" width="50" /> | Polaroid Love | DIMENSION : ANSWER | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 131 | 💚 | [🔗](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | FEVER | BORDER : CARNIVAL | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 203 | 💚 | [🔗](https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="" width="50" /> | Chaconne | DARK BLOOD | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 287 | 💚 | [🔗](https://open.spotify.com/track/7nBjhYbLttb9LHZHqNuld5) |
 
 
 <details>
@@ -137,15 +137,15 @@ ENHYPEN is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="" width="50" /> | Sweet Venom (English Ver.) | ORANGE BLOOD | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 300 | | [🔗](https://open.spotify.com/track/47JqJobasbTT9r0gX8CoE1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273379ddd38212be64d41e7250f" alt="" width="50" /> | One and Only | One and Only | [ENHYPEN](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 303 | 💚 | [🔗](https://open.spotify.com/track/7dDY45rR3idfeCypFDrk0G) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | Not For Sale | BORDER : CARNIVAL | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 318 | 💚 | [🔗](https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="" width="50" /> | Sweet Venom (English Ver.) | ORANGE BLOOD | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 302 | | [🔗](https://open.spotify.com/track/47JqJobasbTT9r0gX8CoE1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273379ddd38212be64d41e7250f" alt="" width="50" /> | One and Only | One and Only | [ENHYPEN](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 305 | 💚 | [🔗](https://open.spotify.com/track/7dDY45rR3idfeCypFDrk0G) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | Not For Sale | BORDER : CARNIVAL | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 319 | 💚 | [🔗](https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | Upper Side Dreamin’ | DIMENSION : DILEMMA | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 335 | 💚 | [🔗](https://open.spotify.com/track/6oSCR9n71tmwWL3GFb65Ec) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="" width="50" /> | Fate | DARK BLOOD | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 416 | | [🔗](https://open.spotify.com/track/0iLyNDLTsBkqB8SLAzNGxF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | Drunk-Dazed | BORDER : CARNIVAL | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 494 | 💚 | [🔗](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273715d1b4d21f0ca40a8e95840" alt="" width="50" /> | Always | Always | [ENHYPEN](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 518 | 💚 | [🔗](https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | Given-Taken | BORDER : DAY ONE | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 535 | 💚 | [🔗](https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | Tamed-Dashed | DIMENSION : DILEMMA | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 567 | 💚 | [🔗](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | Drunk-Dazed | BORDER : CARNIVAL | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 496 | 💚 | [🔗](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273715d1b4d21f0ca40a8e95840" alt="" width="50" /> | Always | Always | [ENHYPEN](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 520 | 💚 | [🔗](https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | Given-Taken | BORDER : DAY ONE | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 538 | 💚 | [🔗](https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | Tamed-Dashed | DIMENSION : DILEMMA | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 569 | 💚 | [🔗](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | 10 Months | BORDER : DAY ONE | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | nan | 💚 | [🔗](https://open.spotify.com/track/3LcFQsZw01tRvjCNLgSmTv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | Flicker | BORDER : DAY ONE | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | nan | | [🔗](https://open.spotify.com/track/3TgPwLFXV6GEIsDZANHktY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | Let Me In (20 CUBE) | BORDER : DAY ONE | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | nan | 💚 | [🔗](https://open.spotify.com/track/4eOcd47wPU3ixxYw0spREl) |

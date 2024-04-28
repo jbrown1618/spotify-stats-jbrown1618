@@ -17,7 +17,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 4 | 4 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 4 | 4 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb097877542866c981757e9592" alt="" width="50" /> | 3 | 3 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1e1e3c9c9582aba8686b42d2" alt="" width="50" /> | 2 | 2 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8939960e5144b51d7903899f" alt="" width="50" /> | 2 | 2 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb611e60f2b061c920476b2df3" alt="" width="50" /> | 2 | 2 | [BAEKHYUN](../../artists/baekhyun/overview.md) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc112966f2a5abe5641abae6f" alt="" width="50" /> | 2 | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b9743970d802c36233125b3" alt="" width="50" /> | 2 | 2 | Steam Powered Giraffe | [🔗](https://open.spotify.com/artist/1yqs45BSh7457Flyhmdv7f) |
@@ -54,7 +54,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fd1861f4c260b5855fd3a90" alt="" width="50" /> | 1 | 1 | nævis | [🔗](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 1 | 1 | [PENTAGON](../../artists/pentagon/overview.md) | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe486a809eaee9b2d85846dae" alt="" width="50" /> | 1 | 1 | BSS | [🔗](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb192cbc7c10f37be1afe5f44" alt="" width="50" /> | 1 | 1 | Xdinary Heroes | [🔗](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb71b6b30387a37f787507e537" alt="" width="50" /> | 1 | 1 | Xdinary Heroes | [🔗](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | 1 | 1 | Yuuri | [🔗](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="" width="50" /> | 1 | 1 | Lee Young Ji | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | 1 | 1 | [MAMAMOO](../../artists/mamamoo/overview.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
@@ -87,8 +87,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 39 | <img src="https://i.scdn.co/image/ab67616d0000b27356080feb452fa7ad4ca61d8b" alt="Village" width="50" /> | Unknown (To You) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="BSS 1st Single Album &#x27;SECOND WIND&#x27;" width="50" /> | Fighting (Feat. Lee Young Ji) | 43 | <img src="https://i.scdn.co/image/ab67616d0000b273cd519fa579f43e384aa891f1" alt="Finally Woken" width="50" /> | They | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | [Oh my god](../../artists/(g)i-dle/overview.md) | 44 | <img src="https://i.scdn.co/image/ab67616d0000b273a93c207b94cbb802b1efefa1" alt="MOTH" width="50" /> | Phase Me | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="Ice Cream Cake - The 1st Mini Album" width="50" /> | [Ice Cream Cake](../../artists/red_velvet/overview.md) | 45 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="The Red Summer - Summer Mini Album" width="50" /> | [Red Flavor](../../artists/red_velvet/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="My Voice - The 1st Album" width="50" /> | [I Got Love](../../artists/taeyeon/overview.md) | 50 | <img src="https://i.scdn.co/image/ab67616d0000b273f770ff371eb7015034122c8a" alt="1st Single &#x27;S.i.R&#x27;" width="50" /> | Cherry Blossom | 713 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="Ice Cream Cake - The 1st Mini Album" width="50" /> | [Ice Cream Cake](../../artists/red_velvet/overview.md) | 46 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="The Red Summer - Summer Mini Album" width="50" /> | [Red Flavor](../../artists/red_velvet/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="My Voice - The 1st Album" width="50" /> | [I Got Love](../../artists/taeyeon/overview.md) | 50 | <img src="https://i.scdn.co/image/ab67616d0000b273f770ff371eb7015034122c8a" alt="1st Single &#x27;S.i.R&#x27;" width="50" /> | Cherry Blossom | 719 |
 
 </details>
 
@@ -222,11 +222,12 @@
 
 
 <details>
-<summary>See all 21 genres</summary>
+<summary>See all 22 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 1 | 1 | nyc pop |
+| 1 | 1 | [lilith](../../genres/lilith/overview.md) |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 1 | 1 | korean ost |
 | 1 | 1 | japanese singer-songwriter |
@@ -241,7 +242,7 @@
 </details>
 
 
-![Bar chart of top 21 genres](../../images/playlists/recommendations_for_jeff/genres.png)
+![Bar chart of top 22 genres](../../images/playlists/recommendations_for_jeff/genres.png)
 
 ## Top Producers
 

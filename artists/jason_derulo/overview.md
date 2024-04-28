@@ -15,7 +15,7 @@
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e026f248f7695eb544a3a1955c5ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e028acb7bac073f378d59bf228eab67616d00001e02b3be3b970fc89a02f301c9da" alt="" width="50" /> | 3 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e025d990e8b45c848dc22885f89ab67616d00001e0262f44cdb37183a309fc1032fab67616d00001e0284470dd6235917e2e40e11f0ab67616d00001e02bb7018e16a77e5ce4744fa93" alt="" width="50" /> | 1 | [A Cappella](../../playlists/a_cappella/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 1 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e02527d94ecf554774fc313bf48ab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 1 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
 
 ## Top Albums
 
@@ -96,7 +96,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | Get Ugly | Everything Is 4 | [Jason Derulo](overview.md) | [Beluga Heights/Warner Records](../../labels/warner_records) | 744 | 💚 | [🔗](https://open.spotify.com/track/1dl3vuXJS9anUXE7XnNP75) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | Get Ugly | Everything Is 4 | [Jason Derulo](overview.md) | [Beluga Heights/Warner Records](../../labels/warner_records) | 754 | 💚 | [🔗](https://open.spotify.com/track/1dl3vuXJS9anUXE7XnNP75) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Talk Dirty (feat. 2 Chainz) | Talk Dirty | [Jason Derulo](overview.md), 2 Chainz | [Beluga Heights/Warner Records](../../labels/warner_records) | nan | 💚 | [🔗](https://open.spotify.com/track/6g6A7qNhTfUgOSH7ROOxTD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Trumpets | Talk Dirty | [Jason Derulo](overview.md) | [Beluga Heights/Warner Records](../../labels/warner_records) | nan | 💚 | [🔗](https://open.spotify.com/track/5KONnBIQ9LqCxyeSPin26k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27364d58f6e7672baecc8972806" alt="" width="50" /> | Bubblegum (feat. Tyga) | Tattoos (Deluxe Edition) | [Jason Derulo](overview.md), Tyga | [Beluga Heights/Warner Records](../../labels/warner_records) | nan | 💚 | [🔗](https://open.spotify.com/track/1EujTZPE2yBYbbwu2vWXvr) |

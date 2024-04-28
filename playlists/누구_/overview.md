@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e021f5de98907a7f969ea7c28dbab67616d00001e02992cdb975f91efd91b998628ab67616d00001e02addef7fad07f17acdf7d6b98ab67616d00001e02e827c21f833661043f8dd588" alt="누구?" width="100" />
 
-[55 tracks (29 liked) 🔗](https://open.spotify.com/playlist/4JrgU3rcLuATwzM1jVVgyC)
+[56 tracks (29 liked) 🔗](https://open.spotify.com/playlist/4JrgU3rcLuATwzM1jVVgyC)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 37 artists</summary>
+<summary>See all 38 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -45,11 +45,12 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e353dd3ed8f6d88521547c4" alt="" width="50" /> | 1 | 0 | TRI.BE | [🔗](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb461e4f1279f9ba5d59c672f" alt="" width="50" /> | 1 | 0 | RESCENE | [🔗](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2efa47f150ed10401bde6d85" alt="" width="50" /> | 1 | 0 | BVNDIT | [🔗](https://open.spotify.com/artist/5dEBuZjTtE68uDgCs23Kuv) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba123a8867dccb4d414e7d2f9" alt="" width="50" /> | 1 | 0 | BE'O | [🔗](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0890398a6ffdf14687f83f66" alt="" width="50" /> | 1 | 0 | BE'O | [🔗](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb27605f3330d7fea5d8670749" alt="" width="50" /> | 1 | 0 | H1-KEY | [🔗](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb568d2846f8b9c8267da1e34d" alt="" width="50" /> | 1 | 0 | KIM WOO SEOK | [🔗](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eeaf45611cfc43ad5281ff8f" alt="" width="50" /> | 1 | 0 | DKB | [🔗](https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbaab1c0bd5243ff2557dd0f2" alt="" width="50" /> | 1 | 0 | MINO | [🔗](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27311e775512911343411545bd3" alt="" width="50" /> | 1 | 0 | FIESTAR | [🔗](https://open.spotify.com/artist/3IVjXrnR0npv1LY24kQSzd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5589628948575bfe10b4cbbd" alt="" width="50" /> | 1 | 0 | JUST B | [🔗](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384e8d91b128dbc1eeab0e017" alt="" width="50" /> | 1 | 0 | LIMELIGHT | [🔗](https://open.spotify.com/artist/1mDDvUPSs2dSr4QKAQmOql) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb55083bec4696aa1fb3a146e8" alt="" width="50" /> | 1 | 0 | KIMSEJEONG | [🔗](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) |
@@ -76,13 +77,13 @@
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
 | <img src="https://i.scdn.co/image/ab67616d0000b2738cab1c75d2271af37c3e2db9" alt="First Howling : ME" width="50" /> | Scent of you | 126 | <img src="https://i.scdn.co/image/ab67616d0000b273b068508a55c13c676bf74d6b" alt="FACE ME" width="50" /> | PHOTO | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27340320ca58cbadbad78598e36" alt="EPEX 5th EP Album Prelude of Love Chapter 2. &#x27;Growing Pains&#x27;" width="50" /> | Sunshower | 201 | <img src="https://i.scdn.co/image/ab67616d0000b27395e1a12145290ca7d783eb1d" alt="BINARY CODE" width="50" /> | BLACK MIRROR | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Bewitched | 224 | <img src="https://i.scdn.co/image/ab67616d0000b2737694471cc29815e2b3864637" alt="HELLO Chapter 3: Hello, Strange Time" width="50" /> | Jungle | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27340320ca58cbadbad78598e36" alt="EPEX 5th EP Album Prelude of Love Chapter 2. &#x27;Growing Pains&#x27;" width="50" /> | Sunshower | 202 | <img src="https://i.scdn.co/image/ab67616d0000b27395e1a12145290ca7d783eb1d" alt="BINARY CODE" width="50" /> | BLACK MIRROR | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Bewitched | 225 | <img src="https://i.scdn.co/image/ab67616d0000b2737694471cc29815e2b3864637" alt="HELLO Chapter 3: Hello, Strange Time" width="50" /> | Jungle | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b0f7fd5522eff959055b20d8" alt="Cherry Rush" width="50" /> | Love So Sweet | 451 | <img src="https://i.scdn.co/image/ab67616d0000b27367ebaeedc3ad203e0589e6eb" alt="Re-Original" width="50" /> | VENOM | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359fcda8d47bbd0f6c2bf1647" alt="Bizarre Story" width="50" /> | 기괴한 이야기 : Get Out | 474 | <img src="https://i.scdn.co/image/ab67616d0000b273a436d1d155cb24679e84c3bd" alt="Cherry Wish" width="50" /> | Love In Space | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f4171e1732961f5da0de0c1e" alt="WIN-DOW" width="50" /> | Love is New Gravity | 489 | <img src="https://i.scdn.co/image/ab67616d0000b273e827c21f833661043f8dd588" alt="LIMITED EDITION ‘1TAN’" width="50" /> | DU DU DU | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | KARMA | 492 | <img src="https://i.scdn.co/image/ab67616d0000b273eb74400c53d5bbe784ea3cd7" alt="Joker is Alive" width="50" /> | Joker | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="Macarena" width="50" /> | Macarena | 577 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="Wings" width="50" /> | Wings | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359fcda8d47bbd0f6c2bf1647" alt="Bizarre Story" width="50" /> | 기괴한 이야기 : Get Out | 476 | <img src="https://i.scdn.co/image/ab67616d0000b273a436d1d155cb24679e84c3bd" alt="Cherry Wish" width="50" /> | Love In Space | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f4171e1732961f5da0de0c1e" alt="WIN-DOW" width="50" /> | Love is New Gravity | 491 | <img src="https://i.scdn.co/image/ab67616d0000b273e827c21f833661043f8dd588" alt="LIMITED EDITION ‘1TAN’" width="50" /> | DU DU DU | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | KARMA | 494 | <img src="https://i.scdn.co/image/ab67616d0000b273eb74400c53d5bbe784ea3cd7" alt="Joker is Alive" width="50" /> | Joker | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="Macarena" width="50" /> | Macarena | 579 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="Wings" width="50" /> | Wings | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="LEVIOSA" width="50" /> | KISS | nan | <img src="https://i.scdn.co/image/ab67616d0000b2731be910fd8122cd805d651a8d" alt="Acid Angel from Asia &lt;ACCESS&gt;" width="50" /> | Generation | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb692ba736f1102246f7994f" alt="Re:Scene" width="50" /> | UhUh | nan | <img src="https://i.scdn.co/image/ab67616d0000b273a6afb253632c318f79697cf2" alt="Jelly box Flower Way SEJEONG" width="50" /> | Flower Way (Prod. By ZICO) | nan |
 
@@ -105,7 +106,7 @@
 
 
 <details>
-<summary>See all 53 albums</summary>
+<summary>See all 54 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -150,6 +151,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273498aac8e9100e59a99b03460" alt="" width="50" /> | 1 | 0 | CRAVITY 1ST ALBUM PART 2 [LIBERTY : IN OUR COSMOS] | 2022-03-22 | [🔗](https://open.spotify.com/album/0fQl58pOwJpkTfVUZudzpY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab36ff6234cbb75990aab601" alt="" width="50" /> | 1 | 0 | CIX 5th EP Album ‘OK’ Episode 1 : OK Not | 2022-08-22 | [🔗](https://open.spotify.com/album/0awixD0tmDTgB6JWfQxwO0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eefa62737df26882a4e51b0f" alt="" width="50" /> | 1 | 0 | BOYHOOD | 2023-06-07 | [🔗](https://open.spotify.com/album/3k4xr3Bn9NfyX7O1nlK7Mg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27311e775512911343411545bd3" alt="" width="50" /> | 1 | 0 | BLACK LABEL | 2015-03-04 | [🔗](https://open.spotify.com/album/2xIzfxvkJFxQsi4tyWpZMc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbcb3e52c772d774ba73b9c2" alt="" width="50" /> | 1 | 0 | 2nd EP Album ‘Bipolar Pt.2 Prelude of Love’ | 2021-10-26 | [🔗](https://open.spotify.com/album/2OndukzviEZGXIZuZ2c6CL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739911a4e948cb80a3f2d3dc61" alt="" width="50" /> | 1 | 0 | 1ST DESIRE [GREED] | 2020-05-25 | [🔗](https://open.spotify.com/album/2yWth82E8BQiDL2JgDmVT9) |
 
@@ -175,7 +177,7 @@
 
 
 <details>
-<summary>See all 35 labels</summary>
+<summary>See all 36 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -204,6 +206,7 @@
 | 1 | 0 | RAIN COMPANY Co. |
 | 1 | 0 | GLG |
 | 1 | 0 | FNC W |
+| 1 | 0 | Collabodadi |
 
 </details>
 
@@ -214,9 +217,9 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 22 | 14 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 23 | 14 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 19 | 11 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
-| 25 | 10 | [k-pop](../../genres/k-pop/overview.md) |
+| 26 | 10 | [k-pop](../../genres/k-pop/overview.md) |
 | 1 | 0 | otacore |
 | 1 | 0 | [k-rap](../../genres/k-rap/overview.md) |
 
@@ -279,13 +282,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb692ba736f1102246f7994f" alt="Re:Scene" width="50" /> | Re:Scene (2024-03-26) | <img src="https://i.scdn.co/image/ab67616d0000b273eb74400c53d5bbe784ea3cd7" alt="Joker is Alive" width="50" /> | Joker is Alive (2015-04-15) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27376ac47ccb37484a1f5ca821e" alt="÷ (NANUGI)" width="50" /> | ÷ (NANUGI) (2023-10-09) | <img src="https://i.scdn.co/image/ab67616d0000b27395ab9a02d082c6df434aee14" alt="MYST3RY" width="50" /> | MYST3RY (2016-02-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273569689ef998a192f7809467a" alt="Target: ME" width="50" /> | Target: ME (2023-09-19) | <img src="https://i.scdn.co/image/ab67616d0000b273a6afb253632c318f79697cf2" alt="Jelly box Flower Way SEJEONG" width="50" /> | Jelly box Flower Way SEJEONG (2016-11-23) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="KISS OF LIFE" width="50" /> | KISS OF LIFE (2023-07-05) | <img src="https://i.scdn.co/image/ab67616d0000b273addef7fad07f17acdf7d6b98" alt="B:COMPLETE" width="50" /> | B:COMPLETE (2019-05-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eefa62737df26882a4e51b0f" alt="BOYHOOD" width="50" /> | BOYHOOD (2023-06-07) | <img src="https://i.scdn.co/image/ab67616d0000b273a359467cf1e245c2cdf5dad5" alt="HELLO Chapter 1: Hello, Stranger" width="50" /> | HELLO Chapter 1: Hello, Stranger (2019-07-23) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27340320ca58cbadbad78598e36" alt="EPEX 5th EP Album Prelude of Love Chapter 2. &#x27;Growing Pains&#x27;" width="50" /> | EPEX 5th EP Album Prelude of Love Chapter 2. 'Growing Pains' (2023-04-26) | <img src="https://i.scdn.co/image/ab67616d0000b2730041c88ac5b6429b5d34e7b7" alt="Fantasy" width="50" /> | Fantasy (2019-08-05) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="Macarena" width="50" /> | Macarena (2023-04-24) | <img src="https://i.scdn.co/image/ab67616d0000b273b068508a55c13c676bf74d6b" alt="FACE ME" width="50" /> | FACE ME (2020-01-07) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736d4752386c432c3acaa46cf7" alt="♡Like Like♡" width="50" /> | ♡Like Like♡ (2023-03-15) | <img src="https://i.scdn.co/image/ab67616d0000b273bdf5051b85408bc0967122f9" alt="Hands Up" width="50" /> | Hands Up (2020-02-11) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | CHOSEN KARMA (2023-03-10) | <img src="https://i.scdn.co/image/ab67616d0000b27305de9858d5c447c247f6ce21" alt="LUPIN" width="50" /> | LUPIN (2020-03-15) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1dfa7d187cb7c67dd2e6d1c" alt="LIMELIGHT DEBUT EP &#x27;LOVE &amp; HAPPINESS&#x27;" width="50" /> | LIMELIGHT DEBUT EP 'LOVE & HAPPINESS' (2023-02-17) | <img src="https://i.scdn.co/image/ab67616d0000b2739911a4e948cb80a3f2d3dc61" alt="1ST DESIRE [GREED]" width="50" /> | 1ST DESIRE [GREED] (2020-05-25) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb692ba736f1102246f7994f" alt="Re:Scene" width="50" /> | Re:Scene (2024-03-26) | <img src="https://i.scdn.co/image/ab67616d0000b27311e775512911343411545bd3" alt="BLACK LABEL" width="50" /> | BLACK LABEL (2015-03-04) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27376ac47ccb37484a1f5ca821e" alt="÷ (NANUGI)" width="50" /> | ÷ (NANUGI) (2023-10-09) | <img src="https://i.scdn.co/image/ab67616d0000b273eb74400c53d5bbe784ea3cd7" alt="Joker is Alive" width="50" /> | Joker is Alive (2015-04-15) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273569689ef998a192f7809467a" alt="Target: ME" width="50" /> | Target: ME (2023-09-19) | <img src="https://i.scdn.co/image/ab67616d0000b27395ab9a02d082c6df434aee14" alt="MYST3RY" width="50" /> | MYST3RY (2016-02-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="KISS OF LIFE" width="50" /> | KISS OF LIFE (2023-07-05) | <img src="https://i.scdn.co/image/ab67616d0000b273a6afb253632c318f79697cf2" alt="Jelly box Flower Way SEJEONG" width="50" /> | Jelly box Flower Way SEJEONG (2016-11-23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eefa62737df26882a4e51b0f" alt="BOYHOOD" width="50" /> | BOYHOOD (2023-06-07) | <img src="https://i.scdn.co/image/ab67616d0000b273addef7fad07f17acdf7d6b98" alt="B:COMPLETE" width="50" /> | B:COMPLETE (2019-05-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27340320ca58cbadbad78598e36" alt="EPEX 5th EP Album Prelude of Love Chapter 2. &#x27;Growing Pains&#x27;" width="50" /> | EPEX 5th EP Album Prelude of Love Chapter 2. 'Growing Pains' (2023-04-26) | <img src="https://i.scdn.co/image/ab67616d0000b273a359467cf1e245c2cdf5dad5" alt="HELLO Chapter 1: Hello, Stranger" width="50" /> | HELLO Chapter 1: Hello, Stranger (2019-07-23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="Macarena" width="50" /> | Macarena (2023-04-24) | <img src="https://i.scdn.co/image/ab67616d0000b2730041c88ac5b6429b5d34e7b7" alt="Fantasy" width="50" /> | Fantasy (2019-08-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736d4752386c432c3acaa46cf7" alt="♡Like Like♡" width="50" /> | ♡Like Like♡ (2023-03-15) | <img src="https://i.scdn.co/image/ab67616d0000b273b068508a55c13c676bf74d6b" alt="FACE ME" width="50" /> | FACE ME (2020-01-07) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | CHOSEN KARMA (2023-03-10) | <img src="https://i.scdn.co/image/ab67616d0000b273bdf5051b85408bc0967122f9" alt="Hands Up" width="50" /> | Hands Up (2020-02-11) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1dfa7d187cb7c67dd2e6d1c" alt="LIMELIGHT DEBUT EP &#x27;LOVE &amp; HAPPINESS&#x27;" width="50" /> | LIMELIGHT DEBUT EP 'LOVE & HAPPINESS' (2023-02-17) | <img src="https://i.scdn.co/image/ab67616d0000b27305de9858d5c447c247f6ce21" alt="LUPIN" width="50" /> | LUPIN (2020-03-15) |

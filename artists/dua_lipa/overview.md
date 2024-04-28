@@ -16,11 +16,11 @@
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 13 | [Pop](../../playlists/pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 5 | [Summer](../../playlists/summer/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 3 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e02527d94ecf554774fc313bf48ab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 3 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 2 | [K-Pop](../../playlists/k-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e026f248f7695eb544a3a1955c5ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e028acb7bac073f378d59bf228eab67616d00001e02b3be3b970fc89a02f301c9da" alt="" width="50" /> | 1 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e023317fc12f8b9a9a0b8459766ab67616d00001e0263e0ddbb488d0eeec0e738fcab67616d00001e0284095737f6056e682666d6f9ab67616d00001e02f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | [K-Pop-Adjacent](../../playlists/k-pop-adjacent/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e027cdb143bd2e9906d39c5eb04ab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
 
 ## Top Albums
 

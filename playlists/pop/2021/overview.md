@@ -22,7 +22,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3" alt="" width="50" /> | 1 | 1 | Travis Barker | [🔗](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebeb27f661bfa50202ce5a459d" alt="" width="50" /> | 1 | 1 | Moliy | [🔗](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcfea67f653456e047b455686" alt="" width="50" /> | 1 | 1 | Moliy | [🔗](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb913546735179224ab92142b3" alt="" width="50" /> | 1 | 1 | Amaarae | [🔗](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 1 | 1 | [Justin Bieber](../../../artists/justin_bieber/overview.md) | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | 1 | 1 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
@@ -80,9 +80,9 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | GOLDWING | Happier Than Ever | [Billie Eilish](../../../artists/billie_eilish/overview.md) | [Darkroom](../../../labels/darkroom), [Interscope Records](../../../labels/interscope_records) | 611 | 💚 | [🔗](https://open.spotify.com/track/0FfqyjhB6Kspvit1oOo7ax) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="" width="50" /> | Break My Heart Myself (feat. Travis Barker) | Better Mistakes | Bebe Rexha, Travis Barker | [Warner Records](../../../labels/warner_records) | 616 | 💚 | [🔗](https://open.spotify.com/track/3UjGudrhckjEQjKHLR3p5G) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="" width="50" /> | Off My Face | Justice | [Justin Bieber](../../../artists/justin_bieber/overview.md) | RBMG/Def Jam | 640 | 💚 | [🔗](https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | GOLDWING | Happier Than Ever | [Billie Eilish](../../../artists/billie_eilish/overview.md) | [Darkroom](../../../labels/darkroom), [Interscope Records](../../../labels/interscope_records) | 614 | 💚 | [🔗](https://open.spotify.com/track/0FfqyjhB6Kspvit1oOo7ax) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="" width="50" /> | Break My Heart Myself (feat. Travis Barker) | Better Mistakes | Bebe Rexha, Travis Barker | [Warner Records](../../../labels/warner_records) | 621 | 💚 | [🔗](https://open.spotify.com/track/3UjGudrhckjEQjKHLR3p5G) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="" width="50" /> | Off My Face | Justice | [Justin Bieber](../../../artists/justin_bieber/overview.md) | RBMG/Def Jam | 642 | 💚 | [🔗](https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ffc294c1c4362e8472d14cd" alt="" width="50" /> | drivers license | drivers license | [Olivia Rodrigo](../../../artists/olivia_rodrigo/overview.md) | Olivia Rodrigo PS | nan | 💚 | [🔗](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273664034dd80e91b28f773598d" alt="" width="50" /> | MONTERO (Call Me By Your Name) | MONTERO (Call Me By Your Name) | Lil Nas X | [Columbia](../../../labels/columbia) | nan | 💚 | [🔗](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a61e19eaffec620c1899c47" alt="" width="50" /> | deja vu | deja vu | [Olivia Rodrigo](../../../artists/olivia_rodrigo/overview.md) | Olivia Rodrigo PS | nan | 💚 | [🔗](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) |

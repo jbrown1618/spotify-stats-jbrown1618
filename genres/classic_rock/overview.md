@@ -1,6 +1,6 @@
 # classic rock
 
-143 songs
+146 songs
 
 [See Track Features](audio_features.md)
 
@@ -11,7 +11,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | 32 | 23 | [The Beatles](../../artists/the_beatles/overview.md) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 25 | 19 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 28 | 22 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 16 | 11 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
 | <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | 6 | 6 | [The Who](../../artists/the_who/overview.md) | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 5 | 5 | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
@@ -59,41 +59,41 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="A Night At The Opera (Deluxe Remastered Version)" width="50" /> | [Bohemian Rhapsody - Remastered 2011](../../artists/queen/overview.md) | 252 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Golden Slumbers - Remastered 2009](../../artists/the_beatles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34" alt="Innuendo" width="50" /> | [Innuendo - Remastered 2011](../../artists/queen/overview.md) | 271 | <img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="The Essential Van Morrison" width="50" /> | Crazy Love | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Because - Remastered 2009](../../artists/the_beatles/overview.md) | 298 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> | Hard To Handle | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="1 (Remastered)" width="50" /> | [Day Tripper - Remastered 2015](../../artists/the_beatles/overview.md) | 375 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="Fleetwood Mac" width="50" /> | Rhiannon | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="Pieces Of Eight" width="50" /> | Renegade | 475 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="The Dark Side of the Moon" width="50" /> | Brain Damage | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="Who Are You" width="50" /> | [Who Are You](../../artists/the_who/overview.md) | 513 | <img src="https://i.scdn.co/image/ab67616d0000b27388f0f719259b0dec23a7c367" alt="The Grand Illusion" width="50" /> | Come Sail Away | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="The Bridge" width="50" /> | [A Matter of Trust](../../artists/billy_joel/overview.md) | 563 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="Who&#x27;s Next (Deluxe Edition)" width="50" /> | [Behind Blue Eyes](../../artists/the_who/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889" alt="Jazz (Deluxe Remastered Version)" width="50" /> | [Fat Bottomed Girls - Remastered 2011](../../artists/queen/overview.md) | 654 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a" alt="Sgt. Pepper&#x27;s Lonely Hearts Club Band (Remastered)" width="50" /> | [A Day In The Life - Remastered 2009](../../artists/the_beatles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="The Dark Side of the Moon" width="50" /> | The Great Gig in the Sky | 661 | <img src="https://i.scdn.co/image/ab67616d0000b273d8fb5b4308dc27f210064ef4" alt="Bookends" width="50" /> | [Mrs. Robinson - From "The Graduate" Soundtrack](../../artists/simon___garfunkel/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="Desperado (2013 Remaster)" width="50" /> | Desperado - 2013 Remaster | 688 | <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Rumours (Super Deluxe)" width="50" /> | Dreams - 2004 Remaster | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="A Night At The Opera (Deluxe Remastered Version)" width="50" /> | [Bohemian Rhapsody - Remastered 2011](../../artists/queen/overview.md) | 244 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Golden Slumbers - Remastered 2009](../../artists/the_beatles/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34" alt="Innuendo" width="50" /> | [Innuendo - Remastered 2011](../../artists/queen/overview.md) | 259 | <img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="The Essential Van Morrison" width="50" /> | Crazy Love | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Because - Remastered 2009](../../artists/the_beatles/overview.md) | 300 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> | Hard To Handle | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="1 (Remastered)" width="50" /> | [Day Tripper - Remastered 2015](../../artists/the_beatles/overview.md) | 376 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="Fleetwood Mac" width="50" /> | Rhiannon | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="Pieces Of Eight" width="50" /> | Renegade | 477 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="The Dark Side of the Moon" width="50" /> | Brain Damage | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="Who Are You" width="50" /> | [Who Are You](../../artists/the_who/overview.md) | 515 | <img src="https://i.scdn.co/image/ab67616d0000b27388f0f719259b0dec23a7c367" alt="The Grand Illusion" width="50" /> | Come Sail Away | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="The Bridge" width="50" /> | [A Matter of Trust](../../artists/billy_joel/overview.md) | 565 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="Who&#x27;s Next (Deluxe Edition)" width="50" /> | [Behind Blue Eyes](../../artists/the_who/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889" alt="Jazz (Deluxe Remastered Version)" width="50" /> | [Fat Bottomed Girls - Remastered 2011](../../artists/queen/overview.md) | 656 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a" alt="Sgt. Pepper&#x27;s Lonely Hearts Club Band (Remastered)" width="50" /> | [A Day In The Life - Remastered 2009](../../artists/the_beatles/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="The Dark Side of the Moon" width="50" /> | The Great Gig in the Sky | 663 | <img src="https://i.scdn.co/image/ab67616d0000b273d8fb5b4308dc27f210064ef4" alt="Bookends" width="50" /> | [Mrs. Robinson - From "The Graduate" Soundtrack](../../artists/simon___garfunkel/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="Desperado (2013 Remaster)" width="50" /> | Desperado - 2013 Remaster | 691 | <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Rumours (Super Deluxe)" width="50" /> | Dreams - 2004 Remaster | nan |
 
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | 9 | 6 | Abbey Road (Remastered) | 1969-09-26 | [🔗](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | 7 | 6 | The Stranger | 1977-09-29 | [🔗](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | 7 | 7 | The Stranger (Legacy Edition) | 1977 | [🔗](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2" alt="" width="50" /> | 5 | 5 | The Beatles (Remastered) | 1968-11-22 | [🔗](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="" width="50" /> | 5 | 2 | The Dark Side of the Moon | 1973-03-01 | [🔗](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27307744e2ed983efa3e6620a47" alt="" width="50" /> | 3 | 3 | The Game (Deluxe Remastered Version) | 1980-06-27 | [🔗](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | 3 | 3 | Let It Be (Remastered) | 1970-05-08 | [🔗](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | 3 | 3 | Bridge Over Troubled Water | 1970-01-26 | [🔗](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | 3 | 2 | The Stranger | 1977-09-29 | [🔗](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328b8b9b46428896e6491e97a" alt="" width="50" /> | 3 | 2 | Revolver (Remastered) | 1966-08-05 | [🔗](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273692d9189b2bd75525893f0c1" alt="" width="50" /> | 3 | 2 | Magical Mystery Tour (Remastered) | 1967-11-27 | [🔗](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | 3 | 1 | Rumours (Super Deluxe) | 1977-02-04 | [🔗](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) |
 
 
 <details>
-<summary>See all 92 albums</summary>
+<summary>See all 94 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | 3 | 1 | Rumours (Super Deluxe) | 1977-02-04 | [🔗](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d48e2f56d691f9a4e4b0bdf" alt="" width="50" /> | 3 | 0 | The Wall | 1979-11-30 | [🔗](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | 2 | 2 | Who's Next (Deluxe Edition) | 1971-08-14 | [🔗](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 2 | 2 | Piano Man | 1973-11-09 | [🔗](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d" alt="" width="50" /> | 2 | 2 | News Of The World (Deluxe Remastered Version) | 1977-10-28 | [🔗](https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889" alt="" width="50" /> | 2 | 2 | Jazz (Deluxe Remastered Version) | 1978-11-10 | [🔗](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="" width="50" /> | 2 | 2 | Fleetwood Mac | 1975-07-11 | [🔗](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) |
@@ -125,6 +125,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4" alt="" width="50" /> | 1 | 1 | Rubber Soul (Remastered) | 1965-12-03 | [🔗](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | 1 | 1 | Point Of Know Return (Expanded Edition) | 1977 | [🔗](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="" width="50" /> | 1 | 1 | Pieces Of Eight | 1978-01-01 | [🔗](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3" alt="" width="50" /> | 1 | 1 | Piano Man (Legacy Edition) | 1973-11-07 | [🔗](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 1 | 1 | Piano Man | 1973-11-09 | [🔗](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="" width="50" /> | 1 | 1 | Out Of Our Heads | 1965-07-30 | [🔗](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="" width="50" /> | 1 | 1 | My Generation (Stereo Version) | 1965-12-03 | [🔗](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="" width="50" /> | 1 | 1 | More of The Monkees (Deluxe Edition) | 1967-01-09 | [🔗](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) |
@@ -183,12 +185,12 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 36 | 28 | [Columbia](../../labels/columbia/overview.md) |
+| 39 | 31 | [Columbia](../../labels/columbia/overview.md) |
 | 31 | 22 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
+| 16 | 12 | [Legacy](../../labels/legacy/overview.md) |
 | 16 | 11 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
 | 13 | 6 | [Rhino](../../labels/rhino/overview.md) |
 | 11 | 5 | [Warner Records](../../labels/warner_records/overview.md) |
-| 8 | 4 | [Legacy](../../labels/legacy/overview.md) |
 | 9 | 3 | Pink Floyd Records |
 | 4 | 3 | [Geffen](../../labels/geffen/overview.md) |
 | 4 | 2 | [Epic](../../labels/epic/overview.md) |
@@ -232,9 +234,9 @@
 | | [George Martin](../../producers/george_martin/overview.md) | 23 | Producer, Arranger |
 | | [John Lennon](../../producers/john_lennon/overview.md) | 21 | Songwriter |
 | | [Paul McCartney](../../producers/paul_mccartney/overview.md) | 21 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 17 | Lyricist, Producer, Songwriter, Arranger |
-| | [Phil Ramone](../../producers/phil_ramone/overview.md) | 11 | Producer |
-| | [Jim Boyer](../../producers/jim_boyer/overview.md) | 11 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 18 | Lyricist, Producer, Songwriter, Arranger |
+| | [Phil Ramone](../../producers/phil_ramone/overview.md) | 12 | Producer |
+| | [Jim Boyer](../../producers/jim_boyer/overview.md) | 12 | Producer |
 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | [Queen](../../artists/queen/overview.md) | 11 | Producer, Arranger |
 | | Geoff Emerick | 10 | Producer |
 | | Glyn Johns | 9 | Producer |
@@ -349,8 +351,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27310d709d905d269d37a41d4c4" alt="50 Big Ones: Greatest Hits" width="50" /> | 50 Big Ones: Greatest Hits (2012-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="Wednesday Morning, 3 A.M." width="50" /> | Wednesday Morning, 3 A.M. (1964-10-19) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273687e8a165b272440a68a480f" alt="Moulin Rouge" width="50" /> | Moulin Rouge (2001-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> | Out Of Our Heads (1965-07-30) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="1 (Remastered)" width="50" /> | 1 (Remastered) (2000-11-13) | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> | Help! (Remastered) (1965-08-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730c66d628abf2dcaadf3f3940" alt="Greatest Hits Vol. III" width="50" /> | Greatest Hits Vol. III (1997-06-13) | <img src="https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4" alt="Rubber Soul (Remastered)" width="50" /> | Rubber Soul (Remastered) (1965-12-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | River Of Dreams (1993-08-10) | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="My Generation (Stereo Version)" width="50" /> | My Generation (Stereo Version) (1965-12-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c66d628abf2dcaadf3f3940" alt="Greatest Hits Vol. III" width="50" /> | Greatest Hits Vol. III (1997-06-13) | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="My Generation (Stereo Version)" width="50" /> | My Generation (Stereo Version) (1965-12-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="River Of Dreams" width="50" /> | River Of Dreams (1993-08-10) | <img src="https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4" alt="Rubber Soul (Remastered)" width="50" /> | Rubber Soul (Remastered) (1965-12-03) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> | Good Vibrations (1993) | <img src="https://i.scdn.co/image/ab67616d0000b273bad7062c3fd2f2d037989694" alt="Aftermath" width="50" /> | Aftermath (1966-04-15) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34" alt="Innuendo" width="50" /> | Innuendo (1991-02-04) | <img src="https://i.scdn.co/image/ab67616d0000b27328b8b9b46428896e6491e97a" alt="Revolver (Remastered)" width="50" /> | Revolver (Remastered) (1966-08-05) |
 

@@ -1,6 +1,6 @@
 # k-pop boy group
 
-349 songs
+348 songs
 
 [See Track Features](audio_features.md)
 
@@ -16,9 +16,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61916bb9f5c6a1a9ba1c9ab6" alt="" width="50" /> | 22 | 12 | [SEVENTEEN](../../artists/seventeen/overview.md) | [🔗](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8fa01bd9ebc453cbb85a4843" alt="" width="50" /> | 16 | 10 | [NCT 127](../../artists/nct_127/overview.md) | [🔗](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb49cfa92440a7629ab21a8561" alt="" width="50" /> | 14 | 9 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb38c136f067600bd431dd9b93" alt="" width="50" /> | 11 | 9 | [NCT U](../../artists/nct_u/overview.md) | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaf3c4b988a6fef40843cdc83" alt="" width="50" /> | 14 | 8 | [EXO](../../artists/exo/overview.md) | [🔗](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd277fc83d7670dadb45790" alt="" width="50" /> | 11 | 8 | [PENTAGON](../../artists/pentagon/overview.md) | [🔗](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb38c136f067600bd431dd9b93" alt="" width="50" /> | 10 | 8 | [NCT U](../../artists/nct_u/overview.md) | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9dd6110fc47f859a9bbd2d2" alt="" width="50" /> | 11 | 7 | [ATEEZ](../../artists/ateez/overview.md) | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 
 
@@ -47,7 +47,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a4491bcd12c2cfe2490e52a" alt="" width="50" /> | 2 | 1 | AB6IX | [🔗](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1bf0483de46eb2315fac2f3" alt="" width="50" /> | 2 | 1 | EPEX | [🔗](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebebb34ddba4e4ef87dbb92728" alt="" width="50" /> | 2 | 1 | Block B | [🔗](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb192cbc7c10f37be1afe5f44" alt="" width="50" /> | 2 | 1 | Xdinary Heroes | [🔗](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb71b6b30387a37f787507e537" alt="" width="50" /> | 2 | 1 | Xdinary Heroes | [🔗](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59749ba840544efb98f280f1" alt="" width="50" /> | 2 | 1 | VERIVERY | [🔗](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9e1a02f6e15aa1a80cf0b780" alt="" width="50" /> | 1 | 1 | 8TURN | [🔗](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbf181c24af596cd241186adb" alt="" width="50" /> | 1 | 1 | Play-N-Skillz | [🔗](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) |
@@ -101,7 +101,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | [Sweet Venom](../../artists/enhypen/overview.md) | 67 | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="DON&#x27;T FIGHT THE FEELING - Special Album" width="50" /> | [Paradise](../../artists/exo/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa12f5b5b2ea88f26ab76846" alt="; [Semicolon]" width="50" /> | [HOME;RUN](../../artists/seventeen/overview.md) | 72 | <img src="https://i.scdn.co/image/ab67616d0000b27395e1a12145290ca7d783eb1d" alt="BINARY CODE" width="50" /> | BLACK MIRROR | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="DARK BLOOD" width="50" /> | [Bills](../../artists/enhypen/overview.md) | 78 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="NOEASY" width="50" /> | [Red Lights (Bang Chan, Hyunjin)](../../artists/stray_kids/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="ROCK-STAR" width="50" /> | [MEGAVERSE](../../artists/stray_kids/overview.md) | 93 | <img src="https://i.scdn.co/image/ab67616d0000b273560f17af6665e85575021bae" alt="Mixtape : Time Out" width="50" /> | [Mixtape : Time Out](../../artists/stray_kids/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="ROCK-STAR" width="50" /> | [MEGAVERSE](../../artists/stray_kids/overview.md) | 91 | <img src="https://i.scdn.co/image/ab67616d0000b273560f17af6665e85575021bae" alt="Mixtape : Time Out" width="50" /> | [Mixtape : Time Out](../../artists/stray_kids/overview.md) | nan |
 
 ## Top Albums
 
@@ -181,7 +181,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="" width="50" /> | 1 | 1 | We Boom - The 3rd Mini Album | 2019-07-26 | [🔗](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4171e1732961f5da0de0c1e" alt="" width="50" /> | 1 | 1 | WIN-DOW | 2022-07-20 | [🔗](https://open.spotify.com/album/4dcwVvd7l0sAGBg0pSmKK2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="" width="50" /> | 1 | 1 | WE:TH | 2020-10-12 | [🔗](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27335eac2d54ef01359bc752da3" alt="" width="50" /> | 1 | 1 | Universe - The 3rd Album | 2021-12-14 | [🔗](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27358169e974a94b9a18c9d2a03" alt="" width="50" /> | 1 | 1 | Universe (Let's Play Ball) | 2021-12-10 | [🔗](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="" width="50" /> | 1 | 1 | There | 2023-02-15 | [🔗](https://open.spotify.com/album/2j8BoKqZrMUYTARDIs9XDk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739389aab1165b6498eba04d8e" alt="" width="50" /> | 1 | 1 | The Dream Chapter: MAGIC | 2019-10-21 | [🔗](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) |
@@ -214,6 +213,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273379ddd38212be64d41e7250f" alt="" width="50" /> | 1 | 1 | One and Only | 2023-07-11 | [🔗](https://open.spotify.com/album/5LGe47qZJTNwtM8gUfT7Mx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc8b0918267ea555921863e8" alt="" width="50" /> | 1 | 1 | One In A Billion | 2022-09-06 | [🔗](https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27338b29effd5af942ca8d7a8b0" alt="" width="50" /> | 1 | 1 | Odd - The 4th Album | 2015-05-18 | [🔗](https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f2f5eb6302fa961ec097d466" alt="" width="50" /> | 1 | 1 | New Chapter #1: The Chance of Love - The 8th Album | 2018-03-28 | [🔗](https://open.spotify.com/album/0ipyHYAE0cMf4aDJNIDIU1) |
 
 </details>
 
@@ -224,7 +224,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 78 | 55 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 77 | 54 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 61 | 30 | [Republic Records](../../labels/republic_records/overview.md) |
 | 30 | 25 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 | 34 | 22 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |

@@ -18,7 +18,7 @@
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 5 | [Pop](../../playlists/pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e023613e1e0d35867a0814005a9ab67616d00001e024a8e5eaab8b02db02e487c27ab67616d00001e0259fcda8d47bbd0f6c2bf1647ab67616d00001e028bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 1 | [Halloween](../../playlists/halloween/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 1 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e02527d94ecf554774fc313bf48ab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 1 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
 
 ## Top Albums
 

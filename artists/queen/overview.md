@@ -22,15 +22,15 @@ Queen:
 
 ## Artist Rank
 Queen is currently:
-- The #1 artist of the last month
+- The #11 artist of the last month
 - The #18 artist of the last 6 months
 - The #25 artist of all time
 
 ![Rank of Queen over time](../../images/artists/queen/rank_time_series.png)
 ## Top Tracks
 
-- Bohemian Rhapsody - Remastered 2011 is the #3 track of the last month
-- Innuendo - Remastered 2011 is the #8 track of the last month
+- Innuendo - Remastered 2011 is the #5 track of the last month
+- Bohemian Rhapsody - Remastered 2011 is the #9 track of the last month
 
 ### Top tracks, aggregated
 
@@ -40,9 +40,9 @@ Queen is currently:
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020b51f8d91f3a21e8426361aeab67616d00001e0284243a01af3c77b56fe01ab1ab67616d00001e028cffbbb7fe8645a486a85ea9ab67616d00001e02bbf0146981704a073405b6c2" alt="" width="50" /> | 14 | [Classic Rock](../../playlists/classic_rock/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 4 | [Summer](../../playlists/summer/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 3 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e02527d94ecf554774fc313bf48ab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 3 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e0286ca91e718866f411c01db5eab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02ce4f1737bc8a646c8c4bd25a" alt="" width="50" /> | 2 | [Beat Drop!](../../playlists/beat_drop!/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 2 | [Karaoke](../../playlists/karaoke/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e027cdb143bd2e9906d39c5eb04ab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 2 | [Karaoke](../../playlists/karaoke/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e023317fc12f8b9a9a0b8459766ab67616d00001e0263e0ddbb488d0eeec0e738fcab67616d00001e0284095737f6056e682666d6f9ab67616d00001e02f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | [K-Pop-Adjacent](../../playlists/k-pop-adjacent/overview.md) |
 
 ## Top Albums
@@ -153,9 +153,9 @@ Queen is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="" width="50" /> | Bohemian Rhapsody - Remastered 2011 | A Night At The Opera (Deluxe Remastered Version) | [Queen](overview.md) | [Hollywood Records](../../labels/hollywood_records) | 252 | 💚 | [🔗](https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34" alt="" width="50" /> | Innuendo - Remastered 2011 | Innuendo | [Queen](overview.md) | [Hollywood Records](../../labels/hollywood_records) | 271 | 💚 | [🔗](https://open.spotify.com/track/2OuImA1gcBXJVMrVH9Kn9p) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889" alt="" width="50" /> | Fat Bottomed Girls - Remastered 2011 | Jazz (Deluxe Remastered Version) | [Queen](overview.md) | [Hollywood Records](../../labels/hollywood_records) | 654 | 💚 | [🔗](https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="" width="50" /> | Bohemian Rhapsody - Remastered 2011 | A Night At The Opera (Deluxe Remastered Version) | [Queen](overview.md) | [Hollywood Records](../../labels/hollywood_records) | 244 | 💚 | [🔗](https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34" alt="" width="50" /> | Innuendo - Remastered 2011 | Innuendo | [Queen](overview.md) | [Hollywood Records](../../labels/hollywood_records) | 259 | 💚 | [🔗](https://open.spotify.com/track/2OuImA1gcBXJVMrVH9Kn9p) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889" alt="" width="50" /> | Fat Bottomed Girls - Remastered 2011 | Jazz (Deluxe Remastered Version) | [Queen](overview.md) | [Hollywood Records](../../labels/hollywood_records) | 656 | 💚 | [🔗](https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739bf8e3a3c31986c1c0536532" alt="" width="50" /> | Killer Queen | Sheer Heart Attack | [Queen](overview.md) | [Hollywood Records](../../labels/hollywood_records) | nan | 💚 | [🔗](https://open.spotify.com/track/1KPMTL3BRLBWrNY8fveVy6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369c47467a7964a67d6dbcf14" alt="" width="50" /> | Good Old Fashioned Lover Boy | A Day At The Races | [Queen](overview.md) | [Hollywood Records](../../labels/hollywood_records) | nan | | [🔗](https://open.spotify.com/track/3e9w80AUq0mT9Nrq471kLx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369c47467a7964a67d6dbcf14" alt="" width="50" /> | Somebody To Love | A Day At The Races | [Queen](overview.md) | [Hollywood Records](../../labels/hollywood_records) | nan | 💚 | [🔗](https://open.spotify.com/track/79M91zIoaIrm073sACpOtr) |

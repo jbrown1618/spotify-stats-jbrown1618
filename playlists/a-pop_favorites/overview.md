@@ -1,7 +1,7 @@
 # A-Pop Favorites
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="A-Pop Favorites" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e02527d94ecf554774fc313bf48ab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="A-Pop Favorites" width="100" />
 
 [198 tracks 🔗](https://open.spotify.com/playlist/7hmRwiUOGV2mmgqXmsjqL2)
 
@@ -138,16 +138,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Never Let Me Go](../../artists/florence_+_the_machine/overview.md) | 217 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Golden Slumbers - Remastered 2009](../../artists/the_beatles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | [Take It All](../../artists/adele/overview.md) | 230 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | [Leave The Door Open](../../artists/bruno_mars/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="Vows (Deluxe Version)" width="50" /> | [Settle Down](../../artists/kimbra/overview.md) | 232 | <img src="https://i.scdn.co/image/ab67616d0000b2739ab215825eb77076b1b4b387" alt="Nickel Creek" width="50" /> | The Lighthouse's Tale | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Paranoid Android](../../artists/radiohead/overview.md) | 237 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | [Clocks](../../artists/coldplay/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything (Deluxe)" width="50" /> | [Problem](../../artists/ariana_grande/overview.md) | 245 | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="Fifty Shades Freed (Original Motion Picture Soundtrack)" width="50" /> | Love Me Like You Do | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="A Night At The Opera (Deluxe Remastered Version)" width="50" /> | [Bohemian Rhapsody - Remastered 2011](../../artists/queen/overview.md) | 252 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="Doo-Wops &amp; Hooligans" width="50" /> | [The Other Side (feat. CeeLo Green and B.o.B)](../../artists/bruno_mars/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="SOS" width="50" /> | Kill Bill | 251 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Satellite Call](../../artists/sara_bareilles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | [Fake Plastic Trees](../../artists/radiohead/overview.md) | 259 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [the 1](../../artists/taylor_swift/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="Riot!" width="50" /> | Misery Business | 264 | <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="Human After All" width="50" /> | [Technologic](../../artists/daft_punk/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Many the Miles](../../artists/sara_bareilles/overview.md) | 268 | <img src="https://i.scdn.co/image/ab67616d0000b2735bec8b1a6a96e731dbd6f94f" alt="DNA (Expanded Edition)" width="50" /> | DNA | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Never Let Me Go](../../artists/florence_+_the_machine/overview.md) | 212 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Golden Slumbers - Remastered 2009](../../artists/the_beatles/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="Vows (Deluxe Version)" width="50" /> | [Settle Down](../../artists/kimbra/overview.md) | 227 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | [Leave The Door Open](../../artists/bruno_mars/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | [Take It All](../../artists/adele/overview.md) | 229 | <img src="https://i.scdn.co/image/ab67616d0000b2739ab215825eb77076b1b4b387" alt="Nickel Creek" width="50" /> | The Lighthouse's Tale | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Paranoid Android](../../artists/radiohead/overview.md) | 234 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | [Clocks](../../artists/coldplay/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="A Night At The Opera (Deluxe Remastered Version)" width="50" /> | [Bohemian Rhapsody - Remastered 2011](../../artists/queen/overview.md) | 244 | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="Fifty Shades Freed (Original Motion Picture Soundtrack)" width="50" /> | Love Me Like You Do | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | [Fake Plastic Trees](../../artists/radiohead/overview.md) | 246 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="Doo-Wops &amp; Hooligans" width="50" /> | [The Other Side (feat. CeeLo Green and B.o.B)](../../artists/bruno_mars/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything (Deluxe)" width="50" /> | [Problem](../../artists/ariana_grande/overview.md) | 247 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Satellite Call](../../artists/sara_bareilles/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="SOS" width="50" /> | Kill Bill | 257 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [the 1](../../artists/taylor_swift/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="Riot!" width="50" /> | Misery Business | 268 | <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="Human After All" width="50" /> | [Technologic](../../artists/daft_punk/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Many the Miles](../../artists/sara_bareilles/overview.md) | 271 | <img src="https://i.scdn.co/image/ab67616d0000b2735bec8b1a6a96e731dbd6f94f" alt="DNA (Expanded Edition)" width="50" /> | DNA | nan |
 
 </details>
 
@@ -159,7 +159,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | 5 | 5 | reputation | 2017-11-10 | [🔗](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | 5 | 5 | Little Voice | 2007-07-03 | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | 4 | 4 | Vows (Deluxe Version) | 2011 | [🔗](https://open.spotify.com/album/6V9rvW05Um5bIHePPfeI8p) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | 4 | 4 | The Stranger | 1977-09-29 | [🔗](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | 4 | 4 | The Stranger (Legacy Edition) | 1977 | [🔗](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | 4 | 4 | Kaleidoscope Heart | 2010-09-07 | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | 3 | 3 | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | 3 | 3 | My Everything (Deluxe) | 2014-08-22 | [🔗](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) |
@@ -237,7 +237,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | 1 | 1 | Random Access Memories | 2013-05-20 | [🔗](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | 1 | 1 | Purple Rain | 1984-06-25 | [🔗](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="" width="50" /> | 1 | 1 | Picture Show | 2012-01-01 | [🔗](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 1 | 1 | Piano Man | 1973-11-09 | [🔗](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3" alt="" width="50" /> | 1 | 1 | Piano Man (Legacy Edition) | 1973-11-07 | [🔗](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="" width="50" /> | 1 | 1 | Parachutes | 2000-07-10 | [🔗](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="" width="50" /> | 1 | 1 | Pablo Honey | 1993-02-22 | [🔗](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738cc44129c3b11adec74058d6" alt="" width="50" /> | 1 | 1 | PCD | 2005-01-01 | [🔗](https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye) |
@@ -280,8 +280,8 @@
 | 9 | 9 | [Big Machine Records](../../labels/big_machine_records/overview.md) |
 | 8 | 8 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 8 | 8 | [Interscope Records](../../labels/interscope_records/overview.md) |
+| 7 | 7 | [Legacy](../../labels/legacy/overview.md) |
 | 6 | 6 | [Taylor Swift](../../labels/taylor_swift/overview.md) |
-| 5 | 5 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
 
 
 <details>
@@ -289,6 +289,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 5 | 5 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
 | 5 | 5 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 4 | 4 | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_/overview.md) |
 | 4 | 4 | [Rhino](../../labels/rhino/overview.md) |
@@ -307,7 +308,6 @@
 | 2 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
 | 2 | 2 | [Syco Music](../../labels/syco_music/overview.md) |
 | 2 | 2 | Parkwood Entertainment |
-| 2 | 2 | [Legacy](../../labels/legacy/overview.md) |
 | 2 | 2 | LaFace Records |
 | 2 | 2 | [Jive](../../labels/jive/overview.md) |
 | 2 | 2 | Island UK |
@@ -624,5 +624,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a935e4689f15953311772cc4" alt="Unholy (feat. Kim Petras)" width="50" /> | Unholy (feat. Kim Petras) (2022-09-22) | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="Let It Be (Remastered)" width="50" /> | Let It Be (Remastered) (1970-05-08) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | An Evening With Silk Sonic (2021-11-11) | <img src="https://i.scdn.co/image/ab67616d0000b273b11078ee23dcd99e085ac33e" alt="Aerosmith" width="50" /> | Aerosmith (1973-01-05) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e0c865c1524f1bfeea88d87" alt="Always Like New" width="50" /> | Always Like New (2021-06-25) | <img src="https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b" alt="Goodbye Yellow Brick Road (Remastered)" width="50" /> | Goodbye Yellow Brick Road (Remastered) (1973-10-05) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="Better Mistakes" width="50" /> | Better Mistakes (2021-05-07) | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Piano Man" width="50" /> | Piano Man (1973-11-09) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="Better Mistakes" width="50" /> | Better Mistakes (2021-05-07) | <img src="https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3" alt="Piano Man (Legacy Edition)" width="50" /> | Piano Man (Legacy Edition) (1973-11-07) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273664034dd80e91b28f773598d" alt="MONTERO (Call Me By Your Name)" width="50" /> | MONTERO (Call Me By Your Name) (2021-03-31) | <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="Fleetwood Mac" width="50" /> | Fleetwood Mac (1975-07-11) |

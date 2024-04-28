@@ -1,6 +1,6 @@
 # heartland rock
 
-43 songs
+46 songs
 
 [See Track Features](audio_features.md)
 
@@ -10,7 +10,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 25 | 19 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 28 | 22 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 4 | 2 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | 2 | 2 | Kansas | [🔗](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe848dfb35ea4969099662dfd" alt="" width="50" /> | 3 | 1 | Journey | [🔗](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) |
@@ -39,23 +39,23 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="The Bridge" width="50" /> | [A Matter of Trust](../../artists/billy_joel/overview.md) | 563 | <img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="The Essential Van Morrison" width="50" /> | Crazy Love | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="Desperado (2013 Remaster)" width="50" /> | Desperado - 2013 Remaster | 688 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> | Hard To Handle | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | [Just the Way You Are](../../artists/billy_joel/overview.md) | 742 | <img src="https://i.scdn.co/image/ab67616d0000b273925babfc090a918c3a516a1c" alt="Turn the Lights Back On" width="50" /> | [Turn the Lights Back On](../../artists/billy_joel/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f05202b83eb981e943ca7767" alt="Foreigner (Expanded)" width="50" /> | Cold as Ice | nan | <img src="https://i.scdn.co/image/ab67616d0000b273375445cc7a2aedff11361b51" alt="The Joker" width="50" /> | The Joker | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97" alt="The Birds, The Bees, &amp; The Monkees" width="50" /> | Daydream Believer | nan | <img src="https://i.scdn.co/image/ab67616d0000b2730c66d628abf2dcaadf3f3940" alt="Greatest Hits Vol. III" width="50" /> | [Light As the Breeze](../../artists/billy_joel/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | [Vienna](../../artists/billy_joel/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | [And So It Goes](../../artists/billy_joel/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d" alt="Infinity" width="50" /> | Lights | nan | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> | [And So It Goes](../../artists/billy_joel/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Piano Man" width="50" /> | [Piano Man](../../artists/billy_joel/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="52nd Street" width="50" /> | [Big Shot](../../artists/billy_joel/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737e8045e318486885fe243817" alt="Departure" width="50" /> | Any Way You Want It | nan | <img src="https://i.scdn.co/image/ab67616d0000b2739ee9ec388e0827c88bfdfbd7" alt="Moondance (Expanded Edition)" width="50" /> | Crazy Love - 2013 Remaster | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="Point Of Know Return (Expanded Edition)" width="50" /> | Dust in the Wind | nan | <img src="https://i.scdn.co/image/ab67616d0000b273315994fdfb86d9bcb40337ba" alt="Verities &amp; Balderdash" width="50" /> | Cat's in the Cradle | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="The Bridge" width="50" /> | [A Matter of Trust](../../artists/billy_joel/overview.md) | 565 | <img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="The Essential Van Morrison" width="50" /> | Crazy Love | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="Desperado (2013 Remaster)" width="50" /> | Desperado - 2013 Remaster | 691 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> | Hard To Handle | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | [Just the Way You Are](../../artists/billy_joel/overview.md) | 751 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="The Stranger (Legacy Edition)" width="50" /> | [Movin' Out (Anthony's Song)](../../artists/billy_joel/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f05202b83eb981e943ca7767" alt="Foreigner (Expanded)" width="50" /> | Cold as Ice | nan | <img src="https://i.scdn.co/image/ab67616d0000b273925babfc090a918c3a516a1c" alt="Turn the Lights Back On" width="50" /> | [Turn the Lights Back On](../../artists/billy_joel/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97" alt="The Birds, The Bees, &amp; The Monkees" width="50" /> | Daydream Believer | nan | <img src="https://i.scdn.co/image/ab67616d0000b273375445cc7a2aedff11361b51" alt="The Joker" width="50" /> | The Joker | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d" alt="Infinity" width="50" /> | Lights | nan | <img src="https://i.scdn.co/image/ab67616d0000b2730c66d628abf2dcaadf3f3940" alt="Greatest Hits Vol. III" width="50" /> | [Light As the Breeze](../../artists/billy_joel/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737e8045e318486885fe243817" alt="Departure" width="50" /> | Any Way You Want It | nan | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | [And So It Goes](../../artists/billy_joel/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3" alt="Piano Man (Legacy Edition)" width="50" /> | [Piano Man](../../artists/billy_joel/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> | [And So It Goes](../../artists/billy_joel/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="Point Of Know Return (Expanded Edition)" width="50" /> | Dust in the Wind | nan | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="The Stranger (Legacy Edition)" width="50" /> | [Only the Good Die Young](../../artists/billy_joel/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="Turnstiles" width="50" /> | [New York State of Mind](../../artists/billy_joel/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="52nd Street" width="50" /> | [Big Shot](../../artists/billy_joel/overview.md) | nan |
 
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | 7 | 6 | The Stranger | 1977-09-29 | [🔗](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 2 | 2 | Piano Man | 1973-11-09 | [🔗](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | 7 | 7 | The Stranger (Legacy Edition) | 1977 | [🔗](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | 3 | 2 | The Stranger | 1977-09-29 | [🔗](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="" width="50" /> | 2 | 2 | An Innocent Man | 1983-08-08 | [🔗](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="" width="50" /> | 2 | 2 | 52nd Street | 1978-10-13 | [🔗](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="" width="50" /> | 2 | 1 | Storm Front | 1989-10-17 | [🔗](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) |
@@ -67,13 +67,15 @@
 
 
 <details>
-<summary>See all 32 albums</summary>
+<summary>See all 34 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="" width="50" /> | 1 | 1 | The Bridge | 1986-07-28 | [🔗](https://open.spotify.com/album/2fRxSC6FtiAkhEDVZr2seH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="" width="50" /> | 1 | 1 | Shake Your Money Maker | 1990-02-13 | [🔗](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | 1 | 1 | Point Of Know Return (Expanded Edition) | 1977 | [🔗](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3" alt="" width="50" /> | 1 | 1 | Piano Man (Legacy Edition) | 1973-11-07 | [🔗](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 1 | 1 | Piano Man | 1973-11-09 | [🔗](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="" width="50" /> | 1 | 1 | More of The Monkees (Deluxe Edition) | 1967-01-09 | [🔗](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a1ffd75bb148e58ce2a6cac" alt="" width="50" /> | 1 | 1 | Moondance (Deluxe Edition) | 1970-02 | [🔗](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | 1 | 1 | Leftoverture (Expanded Edition) | 1976 | [🔗](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) |
@@ -103,8 +105,8 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 28 | 21 | [Columbia](../../labels/columbia/overview.md) |
-| 6 | 4 | [Legacy](../../labels/legacy/overview.md) |
+| 31 | 24 | [Columbia](../../labels/columbia/overview.md) |
+| 14 | 12 | [Legacy](../../labels/legacy/overview.md) |
 | 5 | 3 | [Rhino](../../labels/rhino/overview.md) |
 | 3 | 2 | Elektra |
 | 2 | 2 | [Epic](../../labels/epic/overview.md) |
@@ -134,9 +136,9 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 17 | Lyricist, Producer, Songwriter, Arranger |
-| | [Jim Boyer](../../producers/jim_boyer/overview.md) | 11 | Producer |
-| | [Phil Ramone](../../producers/phil_ramone/overview.md) | 11 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 18 | Lyricist, Producer, Songwriter, Arranger |
+| | [Jim Boyer](../../producers/jim_boyer/overview.md) | 12 | Producer |
+| | [Phil Ramone](../../producers/phil_ramone/overview.md) | 12 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | Kansas | 2 | Arranger |
 | | Mick Jones | 2 | Producer, Songwriter |
 | | Michael Omartian | 2 | Arranger |
@@ -230,7 +232,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="Luck Of The Draw" width="50" /> | Luck Of The Draw (1991-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b2738039be895428386c4bc90851" alt="Cold Spring Harbor" width="50" /> | Cold Spring Harbor (1971-11-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> | Shake Your Money Maker (1990-02-13) | <img src="https://i.scdn.co/image/ab67616d0000b273375445cc7a2aedff11361b51" alt="The Joker" width="50" /> | The Joker (1973-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | Storm Front (1989-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="Desperado (2013 Remaster)" width="50" /> | Desperado (2013 Remaster) (1973-04-17) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="The Bridge" width="50" /> | The Bridge (1986-07-28) | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Piano Man" width="50" /> | Piano Man (1973-11-09) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | An Innocent Man (1983-08-08) | <img src="https://i.scdn.co/image/ab67616d0000b273315994fdfb86d9bcb40337ba" alt="Verities &amp; Balderdash" width="50" /> | Verities & Balderdash (1974) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="The Bridge" width="50" /> | The Bridge (1986-07-28) | <img src="https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3" alt="Piano Man (Legacy Edition)" width="50" /> | Piano Man (Legacy Edition) (1973-11-07) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="An Innocent Man" width="50" /> | An Innocent Man (1983-08-08) | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="Piano Man" width="50" /> | Piano Man (1973-11-09) |
 
 ![Bar chart of number of songs by year](../../images/genres/heartland_rock/years.png)

@@ -219,7 +219,7 @@
 
 
 <details>
-<summary>See all 34 genres</summary>
+<summary>See all 33 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -227,7 +227,6 @@
 | 1 | 0 | traditional blues |
 | 1 | 0 | swing |
 | 1 | 0 | [soul](../../genres/soul/overview.md) |
-| 1 | 0 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 1 | 0 | roots rock |
 | 1 | 0 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 0 | [pop](../../genres/pop/overview.md) |

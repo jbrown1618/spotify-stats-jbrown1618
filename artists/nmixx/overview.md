@@ -21,19 +21,19 @@ NMIXX:
 
 ## Artist Rank
 NMIXX is currently:
-- The #11 artist of the last month
+- The #9 artist of the last month
 - The #12 artist of the last 6 months
-- The #13 artist of all time
+- The #14 artist of all time
 
 ![Rank of NMIXX over time](../../images/artists/nmixx/rank_time_series.png)
 ## Top Tracks
 
 - DASH is:
-    - the #14 track of the On Repeat playlist
-    - the #7 track of the last month
+    - the #18 track of the On Repeat playlist
+    - the #16 track of the last month
     - the #28 track of the last 6 months
 - Soñar (Breaker) is the #39 track of the last 6 months
-- Run For Roses is the #11 track of the last month
+- Run For Roses is the #8 track of the last month
 
 ### Top tracks, aggregated
 
@@ -196,11 +196,11 @@ NMIXX is currently:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Love Me Like This | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 117 | 💚 | [🔗](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | DASH | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 159 | 💚 | [🔗](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Soñar (Breaker) | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 186 | 💚 | [🔗](https://open.spotify.com/track/6UwrPxRaR5HPNLDDl7RcT9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Run For Roses | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 266 | 💚 | [🔗](https://open.spotify.com/track/4byr9TsXs4qtm8rG2FfwRW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | HOME | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 292 | 💚 | [🔗](https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | TANK | AD MARE | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 488 | 💚 | [🔗](https://open.spotify.com/track/4ZbXs9DzvdWlsQfA9ZUkCV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | DASH | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 158 | 💚 | [🔗](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Soñar (Breaker) | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 184 | 💚 | [🔗](https://open.spotify.com/track/6UwrPxRaR5HPNLDDl7RcT9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Run For Roses | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 256 | 💚 | [🔗](https://open.spotify.com/track/4byr9TsXs4qtm8rG2FfwRW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | HOME | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 295 | 💚 | [🔗](https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | TANK | AD MARE | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 490 | 💚 | [🔗](https://open.spotify.com/track/4ZbXs9DzvdWlsQfA9ZUkCV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | O.O | AD MARE | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | COOL (Your rainbow) | ENTWURF | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/3D5t7S7W8BABJvA1SAIAHb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | DICE | ENTWURF | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) |

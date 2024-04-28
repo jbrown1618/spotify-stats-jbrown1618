@@ -21,7 +21,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3cab1bf9541afc5b38f6c30d" alt="" width="50" /> | 1 | 1 | DAY6 | [🔗](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb611e60f2b061c920476b2df3" alt="" width="50" /> | 1 | 1 | [BAEKHYUN](../../artists/baekhyun/overview.md) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | 1 | 1 | Suzy | [🔗](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb192cbc7c10f37be1afe5f44" alt="" width="50" /> | 1 | 1 | Xdinary Heroes | [🔗](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb71b6b30387a37f787507e537" alt="" width="50" /> | 1 | 1 | Xdinary Heroes | [🔗](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) |
 | <img src="https://i.scdn.co/image/ab6772690000c46c10d90fee3240f733c26f161f" alt="" width="50" /> | 2 | 0 | Rain | [🔗](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba1ab452846e085c36097def9" alt="" width="50" /> | 1 | 0 | Jessi | [🔗](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) |
 
@@ -100,7 +100,7 @@ Appears as:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Dream | Dream | Suzy, [BAEKHYUN](../../artists/baekhyun/overview.md) | ChoongangICS, MYSTIC Entertainment, [JYP Entertainment](.), [SM Entertainment](../sm_entertainment) | 54 | 💚 | [🔗](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733533304e73925a884af026ab" alt="" width="50" /> | Strawberry Cake | Hello, world! | Xdinary Heroes | [JYP Entertainment](.) | 290 | 💚 | [🔗](https://open.spotify.com/track/6E8EAroyZLFR80NO8Ucliy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733533304e73925a884af026ab" alt="" width="50" /> | Strawberry Cake | Hello, world! | Xdinary Heroes | [JYP Entertainment](.) | 292 | 💚 | [🔗](https://open.spotify.com/track/6E8EAroyZLFR80NO8Ucliy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="" width="50" /> | I Do | It's Raining | Rain | [JYP Entertainment](.) | nan | | [🔗](https://open.spotify.com/track/2g05KWuVd5Rixv1YtSSTog) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d27c6b111cc35cae9bee87d6" alt="" width="50" /> | It′s Raining | It's Raining | Rain | [JYP Entertainment](.) | nan | | [🔗](https://open.spotify.com/track/7gH0gjbvNKZJtryOUNW2Yt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ca0444983448696f2e2fd71" alt="" width="50" /> | Who's Your Mama? | 24/34 | J.Y. Park, Jessi | [JYP Entertainment](.) | nan | | [🔗](https://open.spotify.com/track/7Hjmz2XTMCuFvKBSfvrtC5) |

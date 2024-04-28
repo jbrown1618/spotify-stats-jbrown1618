@@ -1,6 +1,6 @@
 # album rock
 
-79 songs
+82 songs
 
 [See Track Features](audio_features.md)
 
@@ -10,7 +10,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 25 | 19 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 28 | 22 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 | <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | 6 | 6 | [The Who](../../artists/the_who/overview.md) | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
 | <img src="https://i.scdn.co/image/e69f71e2be4b67b82af90fb8e9d805715e0684fa" alt="" width="50" /> | 9 | 3 | Pink Floyd | [🔗](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | 6 | 3 | Fleetwood Mac | [🔗](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) |
@@ -51,27 +51,27 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="Pieces Of Eight" width="50" /> | Renegade | 475 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> | Hard To Handle | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="Who Are You" width="50" /> | [Who Are You](../../artists/the_who/overview.md) | 513 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="Fleetwood Mac" width="50" /> | Rhiannon | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="The Bridge" width="50" /> | [A Matter of Trust](../../artists/billy_joel/overview.md) | 563 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="The Dark Side of the Moon" width="50" /> | Brain Damage | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="The Dark Side of the Moon" width="50" /> | The Great Gig in the Sky | 661 | <img src="https://i.scdn.co/image/ab67616d0000b27388f0f719259b0dec23a7c367" alt="The Grand Illusion" width="50" /> | Come Sail Away | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="Desperado (2013 Remaster)" width="50" /> | Desperado - 2013 Remaster | 688 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="Who&#x27;s Next (Deluxe Edition)" width="50" /> | [Behind Blue Eyes](../../artists/the_who/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730ac413b28547dbc45412a3ce" alt="Chicago IX: Chicago&#x27;s Greatest Hits" width="50" /> | 25 or 6 to 4 | 695 | <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Rumours (Super Deluxe)" width="50" /> | Dreams - 2004 Remaster | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | [Just the Way You Are](../../artists/billy_joel/overview.md) | 742 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="The Dark Side of the Moon" width="50" /> | Money | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="Pieces Of Eight" width="50" /> | Renegade | 477 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> | Hard To Handle | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="Who Are You" width="50" /> | [Who Are You](../../artists/the_who/overview.md) | 515 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="Fleetwood Mac" width="50" /> | Rhiannon | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="The Bridge" width="50" /> | [A Matter of Trust](../../artists/billy_joel/overview.md) | 565 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="The Dark Side of the Moon" width="50" /> | Brain Damage | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="The Dark Side of the Moon" width="50" /> | The Great Gig in the Sky | 663 | <img src="https://i.scdn.co/image/ab67616d0000b27388f0f719259b0dec23a7c367" alt="The Grand Illusion" width="50" /> | Come Sail Away | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="Desperado (2013 Remaster)" width="50" /> | Desperado - 2013 Remaster | 691 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="Who&#x27;s Next (Deluxe Edition)" width="50" /> | [Behind Blue Eyes](../../artists/the_who/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730ac413b28547dbc45412a3ce" alt="Chicago IX: Chicago&#x27;s Greatest Hits" width="50" /> | 25 or 6 to 4 | 704 | <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Rumours (Super Deluxe)" width="50" /> | Dreams - 2004 Remaster | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a052b99c042dc15f933145b" alt="Toto IV" width="50" /> | Africa | 726 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="The Dark Side of the Moon" width="50" /> | Money | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | [Just the Way You Are](../../artists/billy_joel/overview.md) | 751 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="The Stranger (Legacy Edition)" width="50" /> | [Movin' Out (Anthony's Song)](../../artists/billy_joel/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f05202b83eb981e943ca7767" alt="Foreigner (Expanded)" width="50" /> | Cold as Ice | nan | <img src="https://i.scdn.co/image/ab67616d0000b273925babfc090a918c3a516a1c" alt="Turn the Lights Back On" width="50" /> | [Turn the Lights Back On](../../artists/billy_joel/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97" alt="The Birds, The Bees, &amp; The Monkees" width="50" /> | Daydream Believer | nan | <img src="https://i.scdn.co/image/ab67616d0000b27364c6ef51927c575ed9f464cf" alt="Bloody Tourists" width="50" /> | Dreadlock Holiday | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="The Stranger" width="50" /> | [Vienna](../../artists/billy_joel/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2732d3eda886f81a2bad9274f02" alt="Who&#x27;s Next (Expanded Edition)" width="50" /> | [Won't Get Fooled Again - Remix](../../artists/the_who/overview.md) | nan |
 
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | 7 | 6 | The Stranger | 1977-09-29 | [🔗](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | 7 | 7 | The Stranger (Legacy Edition) | 1977 | [🔗](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="" width="50" /> | 5 | 2 | The Dark Side of the Moon | 1973-03-01 | [🔗](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | 3 | 2 | The Stranger | 1977-09-29 | [🔗](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | 3 | 1 | Rumours (Super Deluxe) | 1977-02-04 | [🔗](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d48e2f56d691f9a4e4b0bdf" alt="" width="50" /> | 3 | 0 | The Wall | 1979-11-30 | [🔗](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | 2 | 2 | Who's Next (Deluxe Edition) | 1971-08-14 | [🔗](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 2 | 2 | Piano Man | 1973-11-09 | [🔗](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="" width="50" /> | 2 | 2 | Fleetwood Mac | 1975-07-11 | [🔗](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="" width="50" /> | 2 | 2 | An Innocent Man | 1983-08-08 | [🔗](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="" width="50" /> | 2 | 2 | 52nd Street | 1978-10-13 | [🔗](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) |
@@ -79,7 +79,7 @@
 
 
 <details>
-<summary>See all 57 albums</summary>
+<summary>See all 59 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -98,6 +98,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="" width="50" /> | 1 | 1 | Shake Your Money Maker | 1990-02-13 | [🔗](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | 1 | 1 | Point Of Know Return (Expanded Edition) | 1977 | [🔗](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="" width="50" /> | 1 | 1 | Pieces Of Eight | 1978-01-01 | [🔗](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3" alt="" width="50" /> | 1 | 1 | Piano Man (Legacy Edition) | 1973-11-07 | [🔗](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 1 | 1 | Piano Man | 1973-11-09 | [🔗](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="" width="50" /> | 1 | 1 | Out Of Our Heads | 1965-07-30 | [🔗](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="" width="50" /> | 1 | 1 | My Generation (Stereo Version) | 1965-12-03 | [🔗](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="" width="50" /> | 1 | 1 | More of The Monkees (Deluxe Edition) | 1967-01-09 | [🔗](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) |
@@ -140,11 +142,11 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 30 | 22 | [Columbia](../../labels/columbia/overview.md) |
+| 33 | 25 | [Columbia](../../labels/columbia/overview.md) |
+| 14 | 11 | [Legacy](../../labels/legacy/overview.md) |
 | 12 | 5 | [Rhino](../../labels/rhino/overview.md) |
 | 9 | 4 | [Warner Records](../../labels/warner_records/overview.md) |
 | 9 | 3 | Pink Floyd Records |
-| 6 | 3 | [Legacy](../../labels/legacy/overview.md) |
 | 4 | 3 | [Geffen](../../labels/geffen/overview.md) |
 | 2 | 2 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 2 | 2 | [Epic](../../labels/epic/overview.md) |
@@ -179,9 +181,9 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 17 | Lyricist, Producer, Songwriter, Arranger |
-| | [Jim Boyer](../../producers/jim_boyer/overview.md) | 11 | Producer |
-| | [Phil Ramone](../../producers/phil_ramone/overview.md) | 11 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | [Billy Joel](../../artists/billy_joel/overview.md) | 18 | Lyricist, Producer, Songwriter, Arranger |
+| | [Jim Boyer](../../producers/jim_boyer/overview.md) | 12 | Producer |
+| | [Phil Ramone](../../producers/phil_ramone/overview.md) | 12 | Producer |
 | | Pete Townshend | 5 | Lyricist, Songwriter |
 | | Glyn Johns | 5 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | Fleetwood Mac | 3 | Producer |

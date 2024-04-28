@@ -25,7 +25,7 @@ Daft Punk:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0248905438b9c1153978d9fbf4ab67616d00001e0279e8b529ce6c088a8027b2a1ab67616d00001e029b9b36b0e22870b9f542d937ab67616d00001e02d8601e15fa1b4351fe1fc6ae" alt="" width="50" /> | 7 | [Electronic](../../playlists/electronic/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 3 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 3 | [Pop](../../playlists/pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 2 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e02527d94ecf554774fc313bf48ab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 2 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
 
 ## Top Albums
 
@@ -96,7 +96,7 @@ Daft Punk:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Get Lucky (feat. Pharrell Williams and Nile Rodgers) | Random Access Memories | [Daft Punk](overview.md), Pharrell Williams, Nile Rodgers | [Columbia](../../labels/columbia) | 351 | 💚 | [🔗](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Get Lucky (feat. Pharrell Williams and Nile Rodgers) | Random Access Memories | [Daft Punk](overview.md), Pharrell Williams, Nile Rodgers | [Columbia](../../labels/columbia) | 352 | 💚 | [🔗](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="" width="50" /> | Digital Love | Discovery | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | nan | 💚 | [🔗](https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="" width="50" /> | Harder, Better, Faster, Stronger | Discovery | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | nan | 💚 | [🔗](https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="" width="50" /> | One More Time | Discovery | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | nan | | [🔗](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) |

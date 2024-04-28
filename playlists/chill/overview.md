@@ -51,7 +51,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf5ef01e430d31a4b0680126f" alt="" width="50" /> | 2 | 2 | [Crush](../../artists/crush/overview.md) | [🔗](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46c7620b97e6eb932d79d97a" alt="" width="50" /> | 2 | 2 | TAEYONG | [🔗](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebba10593e25ec51a3ba4296a0" alt="" width="50" /> | 2 | 2 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4285c7ae19f30ef904e4723a" alt="" width="50" /> | 2 | 2 | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4595a87e939a095e83808896" alt="" width="50" /> | 2 | 2 | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb72f8abb4e1d34336c60fd338" alt="" width="50" /> | 2 | 2 | YUKIKA | [🔗](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | 2 | 2 | BIGBANG | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb29971b8d9d19fef176338e4a" alt="" width="50" /> | 2 | 2 | Loco | [🔗](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) |
@@ -146,8 +146,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="My Voice - The 1st Album" width="50" /> | [I Got Love](../../artists/taeyeon/overview.md) | 50 | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="2 Baddies - The 4th Album" width="50" /> | [Gold Dust](../../artists/nct_127/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="Ditto" width="50" /> | [Ditto](../../artists/newjeans/overview.md) | 51 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [the 1](../../artists/taylor_swift/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="Dream" width="50" /> | Dream | 54 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="eternal sunshine" width="50" /> | [the boy is mine](../../artists/ariana_grande/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="ANTIFRAGILE" width="50" /> | [Impurities](../../artists/le_sserafim/overview.md) | 69 | <img src="https://i.scdn.co/image/ab67616d0000b273688707e08ae4799421936329" alt="Hotel del Luna (Original Television Soundtrack) Pt.12" width="50" /> | Done For Me | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | [ONLY](../../artists/leehi/overview.md) | 70 | <img src="https://i.scdn.co/image/ab67616d0000b2738c0903b4b02840c57f103db4" alt="City Lights - The 1st Mini Album" width="50" /> | [UN Village](../../artists/baekhyun/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | [ONLY](../../artists/leehi/overview.md) | 69 | <img src="https://i.scdn.co/image/ab67616d0000b273688707e08ae4799421936329" alt="Hotel del Luna (Original Television Soundtrack) Pt.12" width="50" /> | Done For Me | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="To. X - The 5th Mini Album" width="50" /> | [To. X](../../artists/taeyeon/overview.md) | 70 | <img src="https://i.scdn.co/image/ab67616d0000b2738c0903b4b02840c57f103db4" alt="City Lights - The 1st Mini Album" width="50" /> | [UN Village](../../artists/baekhyun/overview.md) | nan |
 
 </details>
 

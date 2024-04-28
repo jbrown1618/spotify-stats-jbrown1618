@@ -1,7 +1,7 @@
 # Karaoke
 
 
-<img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="Karaoke" width="100" />
+<img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e027cdb143bd2e9906d39c5eb04ab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="Karaoke" width="100" />
 
 [66 tracks (61 liked) 🔗](https://open.spotify.com/playlist/784bxrrG3W6L0naOkaCL5F)
 
@@ -41,7 +41,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae8ba82eaf7e63af515c9f" alt="" width="50" /> | 1 | 1 | The Civil Wars | [🔗](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3cb2184a3dfc288d25a1828b" alt="" width="50" /> | 1 | 1 | Ella Eyre | [🔗](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | 1 | 1 | A Great Big World | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb0d44bc6f830e443d7501a8c" alt="" width="50" /> | 1 | 1 | Backstreet Boys | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd792783a725a0ed42866204c" alt="" width="50" /> | 1 | 1 | Backstreet Boys | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 1 | 1 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc97b9b892e5fa7fef9ac8571" alt="" width="50" /> | 1 | 1 | Gary Jules | [🔗](https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8079989370c50963b60ee7bc" alt="" width="50" /> | 1 | 1 | CeeLo Green | [🔗](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) |
@@ -89,16 +89,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="Bleed American" width="50" /> | The Middle | 241 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Golden Slumbers - Remastered 2009](../../artists/the_beatles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="A Night At The Opera (Deluxe Remastered Version)" width="50" /> | [Bohemian Rhapsody - Remastered 2011](../../artists/queen/overview.md) | 252 | <img src="https://i.scdn.co/image/ab67616d0000b2739ab215825eb77076b1b4b387" alt="Nickel Creek" width="50" /> | The Lighthouse's Tale | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="Under The Blacklight (Standard Version)" width="50" /> | [Silver Lining](../../artists/rilo_kiley/overview.md) | 296 | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | [The Way You Look Tonight](../../artists/frank_sinatra/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> | Your Song | 304 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Something - Remastered 2009](../../artists/the_beatles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a4aa9c49f8fedf1df4f84051" alt="The 2¢ Show" width="50" /> | Honeybee | 324 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="Hozier (Expanded Edition)" width="50" /> | Take Me to Church | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [I Choose You](../../artists/sara_bareilles/overview.md) | 399 | <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="We Sing. We Dance. We Steal Things." width="50" /> | I'm Yours | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Machine Gun](../../artists/sara_bareilles/overview.md) | 421 | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="Commodores" width="50" /> | Easy | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="Barton Hollow" width="50" /> | Poison & Wine | 431 | <img src="https://i.scdn.co/image/ab67616d0000b2737cdb143bd2e9906d39c5eb04" alt="Carencro" width="50" /> | Home | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> | [Creep](../../artists/radiohead/overview.md) | 476 | <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="Lungs (Deluxe Edition)" width="50" /> | [Dog Days Are Over](../../artists/florence_+_the_machine/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Manhattan](../../artists/sara_bareilles/overview.md) | 526 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | [Rolling in the Deep](../../artists/adele/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="Bleed American" width="50" /> | The Middle | 242 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Golden Slumbers - Remastered 2009](../../artists/the_beatles/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="A Night At The Opera (Deluxe Remastered Version)" width="50" /> | [Bohemian Rhapsody - Remastered 2011](../../artists/queen/overview.md) | 244 | <img src="https://i.scdn.co/image/ab67616d0000b2739ab215825eb77076b1b4b387" alt="Nickel Creek" width="50" /> | The Lighthouse's Tale | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="Under The Blacklight (Standard Version)" width="50" /> | [Silver Lining](../../artists/rilo_kiley/overview.md) | 277 | <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="Days Of Wine And Roses, Moon River And Other Academy Award Winners" width="50" /> | [The Way You Look Tonight](../../artists/frank_sinatra/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a4aa9c49f8fedf1df4f84051" alt="The 2¢ Show" width="50" /> | Honeybee | 293 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Something - Remastered 2009](../../artists/the_beatles/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> | Your Song | 306 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="The Stranger (Legacy Edition)" width="50" /> | [Movin' Out (Anthony's Song)](../../artists/billy_joel/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [I Choose You](../../artists/sara_bareilles/overview.md) | 399 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="Hozier (Expanded Edition)" width="50" /> | Take Me to Church | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Machine Gun](../../artists/sara_bareilles/overview.md) | 420 | <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="We Sing. We Dance. We Steal Things." width="50" /> | I'm Yours | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="Barton Hollow" width="50" /> | Poison & Wine | 431 | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="Commodores" width="50" /> | Easy | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> | [Creep](../../artists/radiohead/overview.md) | 480 | <img src="https://i.scdn.co/image/ab67616d0000b2737cdb143bd2e9906d39c5eb04" alt="Carencro" width="50" /> | Home | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Manhattan](../../artists/sara_bareilles/overview.md) | 501 | <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="Lungs (Deluxe Edition)" width="50" /> | [Dog Days Are Over](../../artists/florence_+_the_machine/overview.md) | nan |
 
 </details>
 
@@ -107,7 +107,7 @@
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | 4 | 4 | Abbey Road (Remastered) | 1969-09-26 | [🔗](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738a6dbac0b74bd2484189ea5f" alt="" width="50" /> | 3 | 3 | The Stranger | 1977-09-29 | [🔗](https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | 3 | 3 | The Stranger (Legacy Edition) | 1977 | [🔗](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | 3 | 3 | The Blessed Unrest | 2013-07-16 | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | 2 | 2 | Little Voice | 2007-07-03 | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | 2 | 1 | 21 | 2011-01-24 | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
@@ -129,7 +129,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="" width="50" /> | 1 | 1 | Songs About Jane | 2002-06-25 | [🔗](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731bd04431e42ed2105ea3534a" alt="" width="50" /> | 1 | 1 | Put A Little Love On Me | 2019-12-06 | [🔗](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="" width="50" /> | 1 | 1 | Picture Show | 2012-01-01 | [🔗](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 1 | 1 | Piano Man | 1973-11-09 | [🔗](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3" alt="" width="50" /> | 1 | 1 | Piano Man (Legacy Edition) | 1973-11-07 | [🔗](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="" width="50" /> | 1 | 1 | Pablo Honey | 1993-02-22 | [🔗](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735da1093d047cc15eb66d27cf" alt="" width="50" /> | 1 | 1 | OK Now | 2008-01-01 | [🔗](https://open.spotify.com/album/3fKJJQFV6a61fnKYDDj2LU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739ab215825eb77076b1b4b387" alt="" width="50" /> | 1 | 1 | Nickel Creek | 2000 | [🔗](https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd) |
@@ -183,20 +183,21 @@
 | 8 | 8 | [Columbia](../../labels/columbia/overview.md) |
 | 7 | 7 | [Epic](../../labels/epic/overview.md) |
 | 5 | 5 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
+| 4 | 4 | [Legacy](../../labels/legacy/overview.md) |
 | 3 | 3 | [Warner Records](../../labels/warner_records/overview.md) |
 | 3 | 3 | [MOTOWN](../../labels/motown/overview.md) |
 | 3 | 3 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 3 | 2 | [XL Recordings](../../labels/xl_recordings/overview.md) |
 | 2 | 2 | [UNI](../../labels/uni/overview.md) |
 | 2 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
-| 2 | 2 | [Reprise](../../labels/reprise/overview.md) |
 
 
 <details>
-<summary>See all 43 labels</summary>
+<summary>See all 44 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 2 | 2 | [Reprise](../../labels/reprise/overview.md) |
 | 2 | 2 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 2 | 2 | Elektra |
 | 2 | 2 | [143](../../labels/143/overview.md) |

@@ -10,7 +10,7 @@
 
 ## Artist Rank
 BIBI is currently:
-- The #49 artist of the last month
+- The #50 artist of the last month
 - The #41 artist of the last 6 months
 - The #49 artist of all time
 
@@ -29,9 +29,9 @@ BIBI is currently:
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 13 | [K-Pop](../../playlists/k-pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e0255d0265cc488deebe40d79a6ab67616d00001e0278551e802bd7b81d7af67dfbab67616d00001e02ae46d76700c51479a66e8c34ab67616d00001e02bc8e5c838dd8564b5a4f1453" alt="" width="50" /> | 5 | [K-R&B](../../playlists/k-r_b/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0255d0265cc488deebe40d79a6ab67616d00001e0278551e802bd7b81d7af67dfbab67616d00001e02ae46d76700c51479a66e8c34ab67616d00001e02bc8e5c838dd8564b5a4f1453" alt="" width="50" /> | 6 | [K-R&B](../../playlists/k-r_b/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02470d0ba5f707b141d1337cf2ab67616d00001e0281d97a31253b898bc4149195ab67616d00001e029104b6efe6c3483f605d9633ab67616d00001e02c74be23f27696b57c67f5489" alt="" width="50" /> | 3 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [Summer](../../playlists/summer/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02470d0ba5f707b141d1337cf2ab67616d00001e0281d97a31253b898bc4149195ab67616d00001e029104b6efe6c3483f605d9633ab67616d00001e02c74be23f27696b57c67f5489" alt="" width="50" /> | 2 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0220adea47ebd9e98d2e7d2247ab67616d00001e022ce067b763f6a4938cb8a501ab67616d00001e02583c60000e8abc8283853e10ab67616d00001e0273e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 2 | [K-Memes](../../playlists/k-memes/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e023613e1e0d35867a0814005a9ab67616d00001e024a8e5eaab8b02db02e487c27ab67616d00001e0259fcda8d47bbd0f6c2bf1647ab67616d00001e028bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 2 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
@@ -54,8 +54,8 @@ BIBI is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c2efa8ce12c99a92b914e20" alt="" width="50" /> | 1 | 1 | Street Man Fighter Original Vol.3 (Mission by Rank) | 2022-09-06 | [🔗](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba84f2821a0c0ff527121229" alt="" width="50" /> | 1 | 1 | KAZINO | 2020-04-29 | [🔗](https://open.spotify.com/album/1f9cws6SZ0iKoHrcmn39ZY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5b27abd550a012f3d93d1ff" alt="" width="50" /> | 1 | 1 | Hongdae R&B | 2023-08-31 | [🔗](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273faad2d39e6eb398a6d5c8f47" alt="" width="50" /> | 1 | 1 | Feeling Lucky | 2024-04-26 | [🔗](https://open.spotify.com/album/4bc9PfPyv60qCh5S5g5eMb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273197065762b87f256af869d47" alt="" width="50" /> | 1 | 1 | FEVER | 2019-12-01 | [🔗](https://open.spotify.com/album/1AF9DPA6J8zveFttZ247O0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | 1 | 1 | Bare&Rare, Pt. 1 | 2022-07-11 | [🔗](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) |
 
 
 <details>
@@ -63,6 +63,7 @@ BIBI is currently:
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | 1 | 1 | Bare&Rare, Pt. 1 | 2022-07-11 | [🔗](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da49cfeacb25379ce1c0f6c0" alt="" width="50" /> | 1 | 1 | Amigos (with Becky G) | 2023-11-17 | [🔗](https://open.spotify.com/album/3HtYZEKcsbFqEzKX8xntam) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27327a007e6c009a38bf2f89277" alt="" width="50" /> | 1 | 0 | Second | 2021-08-09 | [🔗](https://open.spotify.com/album/0Nck83Sjn5RfHsITpO8GuZ) |
 
@@ -73,9 +74,9 @@ BIBI is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 5 | 5 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 4 | 4 | FeelGhoodMusic |
 | 4 | 4 | Feel Ghood Music |
-| 4 | 4 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 2 | 2 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 1 | 1 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 1 | 1 | Studio MaumC |
@@ -147,13 +148,13 @@ BIBI is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="" width="50" /> | Animal Farm | Lowlife Princess: Noir | [BIBI](overview.md) | [Feel Ghood Music/88risingMusic](../../labels/88rising_music) | 97 | 💚 | [🔗](https://open.spotify.com/track/4g6ZT8vgKNq4iyEbezr3yI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735c2efa8ce12c99a92b914e20" alt="" width="50" /> | LAW (Prod. Czaer) | Street Man Fighter Original Vol.3 (Mission by Rank) | YOON MIRAE, [BIBI](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation) | 297 | 💚 | [🔗](https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="" width="50" /> | Animal Farm | Lowlife Princess: Noir | [BIBI](overview.md) | [Feel Ghood Music/88risingMusic](../../labels/88rising_music) | 98 | 💚 | [🔗](https://open.spotify.com/track/4g6ZT8vgKNq4iyEbezr3yI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c2efa8ce12c99a92b914e20" alt="" width="50" /> | LAW (Prod. Czaer) | Street Man Fighter Original Vol.3 (Mission by Rank) | YOON MIRAE, [BIBI](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation) | 299 | 💚 | [🔗](https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5543b3cce74f3edafcc8f59" alt="" width="50" /> | Sugar Rush | Bam Yang Gang | [BIBI](overview.md) | FeelGhoodMusic | 340 | 💚 | [🔗](https://open.spotify.com/track/5FJqpWkacWPUrXtJ5waI1j) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a435b6276480ed558eece0fd" alt="" width="50" /> | SMILEY(Feat. BIBI) | ˣ‿ˣ (SMiLEY) | [YENA](../yena/overview.md), [BIBI](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 497 | 💚 | [🔗](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ba84f2821a0c0ff527121229" alt="" width="50" /> | KAZINO | KAZINO | [BIBI](overview.md) | FeelGhoodMusic | 501 | 💚 | [🔗](https://open.spotify.com/track/245onUPHGD1DYuiacxTuW0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a435b6276480ed558eece0fd" alt="" width="50" /> | SMILEY(Feat. BIBI) | ˣ‿ˣ (SMiLEY) | [YENA](../yena/overview.md), [BIBI](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 498 | 💚 | [🔗](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ba84f2821a0c0ff527121229" alt="" width="50" /> | KAZINO | KAZINO | [BIBI](overview.md) | FeelGhoodMusic | 503 | 💚 | [🔗](https://open.spotify.com/track/245onUPHGD1DYuiacxTuW0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5b27abd550a012f3d93d1ff" alt="" width="50" /> | Hongdae R&B | Hongdae R&B | [BIBI](overview.md) | FeelGhoodMusic | 519 | 💚 | [🔗](https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c5543b3cce74f3edafcc8f59" alt="" width="50" /> | Bam Yang Gang | Bam Yang Gang | [BIBI](overview.md) | FeelGhoodMusic | 560 | 💚 | [🔗](https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5543b3cce74f3edafcc8f59" alt="" width="50" /> | Bam Yang Gang | Bam Yang Gang | [BIBI](overview.md) | FeelGhoodMusic | 563 | 💚 | [🔗](https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273197065762b87f256af869d47" alt="" width="50" /> | FEVER | FEVER | J.Y. Park, SUPERBEE, [BIBI](overview.md) | [Republic Records](../../labels/republic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/3XXLPdFK8PzlmRwwIsdxpe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Is this bad b****** number? | Windy | [JEON SOYEON](../jeon_soyeon/overview.md), [BIBI](overview.md), Lee Young Ji | [Universal Music LLC](../../labels/universal_music_llc) | nan | 💚 | [🔗](https://open.spotify.com/track/5xTy9p0IXI8lRaU6iLGikC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27327a007e6c009a38bf2f89277" alt="" width="50" /> | Second | Second | HYO, [BIBI](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | | [🔗](https://open.spotify.com/track/4ghTyKLeMMTZQ85LwRbej0) |
@@ -169,6 +170,7 @@ BIBI is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="" width="50" /> | BIBI Vengeance | Lowlife Princess: Noir | [BIBI](overview.md) | [Feel Ghood Music/88risingMusic](../../labels/88rising_music) | nan | 💚 | [🔗](https://open.spotify.com/track/6vq6B6ENjap5Ea1T4GkrFA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="" width="50" /> | Wet Nightmare | Lowlife Princess: Noir | [BIBI](overview.md) | [Feel Ghood Music/88risingMusic](../../labels/88rising_music) | nan | 💚 | [🔗](https://open.spotify.com/track/1MCRRGM8G6papoKnE7xtLN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da49cfeacb25379ce1c0f6c0" alt="" width="50" /> | Amigos (with Becky G) | Amigos (with Becky G) | [BIBI](overview.md), Becky G | [Feel Ghood Music/88rising Music](../../labels/88rising_music) | nan | 💚 | [🔗](https://open.spotify.com/track/60DPrTJRHzpGPSJXLiSdDX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273faad2d39e6eb398a6d5c8f47" alt="" width="50" /> | Feeling Lucky | Feeling Lucky | [BIBI](overview.md), [Jackson Wang](../jackson_wang/overview.md) | [88rising Music](../../labels/88rising_music) | nan | 💚 | [🔗](https://open.spotify.com/track/53x0Yk1qOyurd2MefyF3Ny) |
 
 </details>
 

@@ -24,7 +24,7 @@ The Beatles:
 
 ## Artist Rank
 The Beatles is currently:
-- The #24 artist of the last month
+- The #26 artist of the last month
 
 ![Rank of The Beatles over time](../../images/artists/the_beatles/rank_time_series.png)
 ## Top Tracks
@@ -37,8 +37,8 @@ The Beatles is currently:
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020b51f8d91f3a21e8426361aeab67616d00001e0284243a01af3c77b56fe01ab1ab67616d00001e028cffbbb7fe8645a486a85ea9ab67616d00001e02bbf0146981704a073405b6c2" alt="" width="50" /> | 32 | [Classic Rock](../../playlists/classic_rock/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 5 | [Karaoke](../../playlists/karaoke/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 5 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e027cdb143bd2e9906d39c5eb04ab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 5 | [Karaoke](../../playlists/karaoke/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e02527d94ecf554774fc313bf48ab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 5 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0203668e3f13559554eca8ccc6ab67616d00001e020eb56329734f9400c1639359ab67616d00001e0214ed51ab46ef0765182bb8a0ab67616d00001e02987a1825341694ec9bc62457" alt="" width="50" /> | 4 | [Tarps](../../playlists/tarps/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e0286ca91e718866f411c01db5eab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02ce4f1737bc8a646c8c4bd25a" alt="" width="50" /> | 1 | [Beat Drop!](../../playlists/beat_drop!/overview.md) |
 
@@ -172,8 +172,8 @@ The Beatles is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | Because - Remastered 2009 | Abbey Road (Remastered) | [The Beatles](overview.md) | [EMI Catalogue](../../labels/emi_catalogue) | 298 | 💚 | [🔗](https://open.spotify.com/track/1rxoyGj1QuPoVi8fOft1Kt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="" width="50" /> | Day Tripper - Remastered 2015 | 1 (Remastered) | [The Beatles](overview.md) | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)) | 375 | 💚 | [🔗](https://open.spotify.com/track/29b2b96jozyD9GPCkOrVLs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | Because - Remastered 2009 | Abbey Road (Remastered) | [The Beatles](overview.md) | [EMI Catalogue](../../labels/emi_catalogue) | 300 | 💚 | [🔗](https://open.spotify.com/track/1rxoyGj1QuPoVi8fOft1Kt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="" width="50" /> | Day Tripper - Remastered 2015 | 1 (Remastered) | [The Beatles](overview.md) | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)) | 376 | 💚 | [🔗](https://open.spotify.com/track/29b2b96jozyD9GPCkOrVLs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbeec63ad914c973e75c24df" alt="" width="50" /> | Love Me Do - Remastered 2009 | Please Please Me (Remastered) | [The Beatles](overview.md) | [EMI Catalogue](../../labels/emi_catalogue) | nan | | [🔗](https://open.spotify.com/track/3VbGCXWRiouAq8VyMYN2MI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273608a63ad5b18e99da94a3f73" alt="" width="50" /> | All My Loving - Remastered 2009 | With The Beatles (Remastered) | [The Beatles](overview.md) | [EMI Catalogue](../../labels/emi_catalogue) | nan | 💚 | [🔗](https://open.spotify.com/track/4joiWvli4qJVEW6qZV2i2J) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="" width="50" /> | A Hard Day's Night - Remastered 2009 | A Hard Day's Night (Remastered) | [The Beatles](overview.md) | [EMI Catalogue](../../labels/emi_catalogue) | nan | 💚 | [🔗](https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ) |

@@ -21,7 +21,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb610b9e669ad98b784906fc97" alt="" width="50" /> | 1 | 1 | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb78eb6f50aa18638e95416d54" alt="" width="50" /> | 1 | 1 | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ef3783488fcf0dab0708970" alt="" width="50" /> | 1 | 1 | Fitz and The Tantrums | [🔗](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb417db49cde3ed1c5a65e3514" alt="" width="50" /> | 1 | 1 | H.E.R. | [🔗](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe5bc630548fb3517cf90edb8" alt="" width="50" /> | 1 | 1 | Daniel Caesar | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
@@ -77,7 +77,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="" width="50" /> | Beggin' | Chosen | Måneskin | [RCA Records Label](../../../labels/rca_records_label) | 491 | 💚 | [🔗](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="" width="50" /> | Beggin' | Chosen | Måneskin | [RCA Records Label](../../../labels/rca_records_label) | 493 | 💚 | [🔗](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a2de91e5b26f31388d4c049" alt="" width="50" /> | Darling | Darling | The Womack Sisters | ZAR | nan | 💚 | [🔗](https://open.spotify.com/track/4ynZ6FikFcsrGfFWn9V1fv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d629b7dd61cb5d580acad39" alt="" width="50" /> | Swalla (feat. Nicki Minaj & Ty Dolla $ign) | Swalla (feat. Nicki Minaj & Ty Dolla $ign) | [Jason Derulo](../../../artists/jason_derulo/overview.md), Nicki Minaj, Ty Dolla $ign | [Beluga Heights/Warner Records](../../../labels/warner_records) | nan | | [🔗](https://open.spotify.com/track/6kex4EBAj0WHXDKZMEJaaF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6a335d613d151c626895a83" alt="" width="50" /> | Despacito - Remix | Despacito Feat. Justin Bieber (Remix) | Luis Fonsi, Daddy Yankee, [Justin Bieber](../../../artists/justin_bieber/overview.md) | [Republic/UMLE](../../../labels/republic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) |

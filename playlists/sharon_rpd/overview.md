@@ -19,7 +19,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 5 | 3 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb73f96bdf146d008680149954" alt="" width="50" /> | 3 | 3 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7" alt="" width="50" /> | 2 | 2 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1e1e3c9c9582aba8686b42d2" alt="" width="50" /> | 2 | 2 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8939960e5144b51d7903899f" alt="" width="50" /> | 2 | 2 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 2 | 2 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a" alt="" width="50" /> | 2 | 2 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 2 | 2 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
@@ -104,7 +104,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="Ditto" width="50" /> | [Ditto](../../artists/newjeans/overview.md) | 51 | <img src="https://i.scdn.co/image/ab67616d0000b273c412e430ac07b4bf18b424af" alt="Play Game : Holiday" width="50" /> | Holiday Party | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | [Sweet Venom](../../artists/enhypen/overview.md) | 67 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime &amp; B" width="50" /> | City Girls | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="28 Reasons - The 1st Mini Album" width="50" /> | [28 Reasons](../../artists/seulgi/overview.md) | 73 | <img src="https://i.scdn.co/image/ab67616d0000b273f3ebb80519c23d6d08e49ec6" alt="Magical" width="50" /> | I'm Out Of My Mind | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="NewJeans &#x27;OMG&#x27;" width="50" /> | [OMG](../../artists/newjeans/overview.md) | 92 | <img src="https://i.scdn.co/image/ab67616d0000b2737d7f0aa55986024327ce5e6d" alt="Ay-Yo - The 4th Album Repackage" width="50" /> | [Ay-Yo](../../artists/nct_127/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="NewJeans &#x27;OMG&#x27;" width="50" /> | [OMG](../../artists/newjeans/overview.md) | 94 | <img src="https://i.scdn.co/image/ab67616d0000b2737d7f0aa55986024327ce5e6d" alt="Ay-Yo - The 4th Album Repackage" width="50" /> | [Ay-Yo](../../artists/nct_127/overview.md) | nan |
 
 </details>
 

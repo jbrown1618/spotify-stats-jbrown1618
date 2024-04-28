@@ -18,7 +18,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 12 | 12 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | 11 | 11 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6" alt="" width="50" /> | 4 | 4 | Katy Perry | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb0d44bc6f830e443d7501a8c" alt="" width="50" /> | 2 | 2 | Backstreet Boys | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd792783a725a0ed42866204c" alt="" width="50" /> | 2 | 2 | Backstreet Boys | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3a49b0a3954e460a8a76ed90" alt="" width="50" /> | 2 | 2 | [Britney Spears](../../artists/britney_spears/overview.md) | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | 2 | 2 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | 2 | 2 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |

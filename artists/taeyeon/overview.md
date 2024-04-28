@@ -24,18 +24,18 @@ TAEYEON is currently:
 ![Rank of TAEYEON over time](../../images/artists/taeyeon/rank_time_series.png)
 ## Top Tracks
 
-- Toddler is the #23 track of all time
+- Toddler is the #21 track of all time
 - To. X is:
-    - the #27 track of the On Repeat playlist
+    - the #24 track of the On Repeat playlist
     - the #4 track of the last 6 months
-    - the #31 track of all time
-- I Got Love is the #38 track of all time
-- Can't Control Myself is the #42 track of all time
-- What Do I Call You is:
-    - the #16 track of the last month
-    - the #22 track of the last 6 months
+    - the #30 track of all time
+- I Got Love is the #37 track of all time
+- Can't Control Myself is the #41 track of all time
+- What Do I Call You is the #22 track of the last 6 months
 - Burn It Down is the #25 track of the last 6 months
-- Rain is the #33 track of the last 6 months
+- Rain is:
+    - the #44 track of the last month
+    - the #34 track of the last 6 months
 - Melt Away is the #38 track of the last 6 months
 
 ### Top tracks, aggregated
@@ -178,15 +178,15 @@ TAEYEON is currently:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="" width="50" /> | I Got Love | My Voice - The 1st Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 50 | 💚 | [🔗](https://open.spotify.com/track/1IgRQvTqj7BKjNWRzjFEE0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | Can't Control Myself | INVU - The 3rd Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 64 | 💚 | [🔗](https://open.spotify.com/track/2TZTpkpnDIKUOfU6riqCfE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="" width="50" /> | To. X | To. X - The 5th Mini Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 71 | 💚 | [🔗](https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | Can't Control Myself | INVU - The 3rd Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 66 | 💚 | [🔗](https://open.spotify.com/track/2TZTpkpnDIKUOfU6riqCfE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="" width="50" /> | To. X | To. X - The 5th Mini Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 70 | 💚 | [🔗](https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | Toddler | INVU - The 3rd Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 89 | 💚 | [🔗](https://open.spotify.com/track/73pehvxZUb87PhgyJJpTlw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="" width="50" /> | Burn It Down | To. X - The 5th Mini Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 116 | 💚 | [🔗](https://open.spotify.com/track/1y8tPIOh9kR3eQE6TeBCwe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="" width="50" /> | Melt Away | To. X - The 5th Mini Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 150 | 💚 | [🔗](https://open.spotify.com/track/2cZtazNq0IRRFymK7UaRa0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354d483dff87402bfe717f738" alt="" width="50" /> | What Do I Call You | What Do I Call You - The 4th Mini Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 185 | 💚 | [🔗](https://open.spotify.com/track/3Wu4lFjkhcXxB6WWaX9gtr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Priority | 2022 Winter SMTOWN : SMCU PALACE | MAX CHANGMIN, [TAEYEON](overview.md), [WINTER](../winter/overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 197 | 💚 | [🔗](https://open.spotify.com/track/79musoVrfPaVxoMSBFJYuc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27316e21608ece123c20bd24306" alt="" width="50" /> | Rain | Rain - SM STATION | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 203 | 💚 | [🔗](https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="" width="50" /> | Here I Am | Purpose - The 2nd Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 236 | 💚 | [🔗](https://open.spotify.com/track/3xeo2seNDIp712sUmZycAN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="" width="50" /> | Burn It Down | To. X - The 5th Mini Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 115 | 💚 | [🔗](https://open.spotify.com/track/1y8tPIOh9kR3eQE6TeBCwe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="" width="50" /> | Melt Away | To. X - The 5th Mini Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 149 | 💚 | [🔗](https://open.spotify.com/track/2cZtazNq0IRRFymK7UaRa0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354d483dff87402bfe717f738" alt="" width="50" /> | What Do I Call You | What Do I Call You - The 4th Mini Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 177 | 💚 | [🔗](https://open.spotify.com/track/3Wu4lFjkhcXxB6WWaX9gtr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Priority | 2022 Winter SMTOWN : SMCU PALACE | MAX CHANGMIN, [TAEYEON](overview.md), [WINTER](../winter/overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 198 | 💚 | [🔗](https://open.spotify.com/track/79musoVrfPaVxoMSBFJYuc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27316e21608ece123c20bd24306" alt="" width="50" /> | Rain | Rain - SM STATION | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 199 | 💚 | [🔗](https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="" width="50" /> | Here I Am | Purpose - The 2nd Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 238 | 💚 | [🔗](https://open.spotify.com/track/3xeo2seNDIp712sUmZycAN) |
 
 
 <details>
@@ -194,9 +194,9 @@ TAEYEON is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff45701e8447016848c70485" alt="" width="50" /> | Candy Cane | This Christmas – Winter is Coming | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 544 | | [🔗](https://open.spotify.com/track/1SO3jE0lOysjtylF6y3FWt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="" width="50" /> | Nightmare | To. X - The 5th Mini Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 684 | 💚 | [🔗](https://open.spotify.com/track/3dmZOzXDFXEZXdjPqJJPKt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | Cold As Hell | INVU - The 3rd Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 731 | 💚 | [🔗](https://open.spotify.com/track/7gosH4fL73GpiJBd5GK2rC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff45701e8447016848c70485" alt="" width="50" /> | Candy Cane | This Christmas – Winter is Coming | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 545 | | [🔗](https://open.spotify.com/track/1SO3jE0lOysjtylF6y3FWt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="" width="50" /> | Nightmare | To. X - The 5th Mini Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 689 | 💚 | [🔗](https://open.spotify.com/track/3dmZOzXDFXEZXdjPqJJPKt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | Cold As Hell | INVU - The 3rd Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 734 | 💚 | [🔗](https://open.spotify.com/track/7gosH4fL73GpiJBd5GK2rC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="" width="50" /> | If | Hong Gil Dong OST | [TAEYEON](overview.md) | msmedia | nan | 💚 | [🔗](https://open.spotify.com/track/76do9IBWqoiwV3EyoP25Le) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f531f18feaf3c28366ad52d4" alt="" width="50" /> | I | I - The 1st Mini Album | [TAEYEON](overview.md), Verbal Jint | [SM Entertainment](../../labels/sm_entertainment) | nan | | [🔗](https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f531f18feaf3c28366ad52d4" alt="" width="50" /> | Stress | I - The 1st Mini Album | [TAEYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/0a0FISfY8ty1xC69xCWf2T) |

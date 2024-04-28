@@ -20,9 +20,9 @@
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e020e402844f1b6be3102d339f2ab67616d00001e02119ad2ebc0d33edf847ed8c6ab67616d00001e02db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 18 | [Singer-Songwriter](../../playlists/singer-songwriter/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e020e402844f1b6be3102d339f2ab67616d00001e02119ad2ebc0d33edf847ed8c6ab67616d00001e021946747b8692919f98918ec4" alt="" width="50" /> | 18 | [Singer-Songwriter](../../playlists/singer-songwriter/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0298d4c378a8c78e84bfcf7743ab67616d00001e02b0ed835957dbf3c63184a3bcab67616d00001e02ca96a3471c3cb5128e64195fab67616d00001e02f6749fd9a1027b244f061e87" alt="" width="50" /> | 17 | [Alt-Pop](../../playlists/alt-pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 2 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e02527d94ecf554774fc313bf48ab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 2 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 1 | [Pop](../../playlists/pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022c0252c4e4a988f024e4d262ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 1 | [Chill](../../playlists/chill/overview.md) |
 
@@ -127,8 +127,8 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | Shades Of Cool | Ultraviolence (Deluxe) | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 361 | 💚 | [🔗](https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Off To The Races | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 397 | 💚 | [🔗](https://open.spotify.com/track/7grzMnF1FHponm2aJBWj8E) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | Shades Of Cool | Ultraviolence (Deluxe) | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 362 | 💚 | [🔗](https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Off To The Races | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 398 | 💚 | [🔗](https://open.spotify.com/track/7grzMnF1FHponm2aJBWj8E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Summertime Sadness | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 426 | 💚 | [🔗](https://open.spotify.com/track/4cKtn8Shw999egpwBmWQmp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Born To Die | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | nan | 💚 | [🔗](https://open.spotify.com/track/3eRZZ4d2RJSqFKzP7tSdFE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Dark Paradise | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | nan | 💚 | [🔗](https://open.spotify.com/track/0rbuGVyW18IpX0bhA3P4Oh) |

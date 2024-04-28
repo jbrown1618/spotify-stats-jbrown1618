@@ -9,13 +9,13 @@
 
 ## Top Tracks
 
-- Take It All is the #43 track of the last month
+- Take It All is the #37 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 8 | [Pop](../../playlists/pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 3 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 2 | [Karaoke](../../playlists/karaoke/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e02527d94ecf554774fc313bf48ab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 3 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e027cdb143bd2e9906d39c5eb04ab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 2 | [Karaoke](../../playlists/karaoke/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0203668e3f13559554eca8ccc6ab67616d00001e020eb56329734f9400c1639359ab67616d00001e0214ed51ab46ef0765182bb8a0ab67616d00001e02987a1825341694ec9bc62457" alt="" width="50" /> | 2 | [Tarps](../../playlists/tarps/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e021c3e0a58f3ee28af2922e351ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e02d5d11b6ac4242aaa41c8be69ab67616d00001e02d8856d19e1f5784ed643d862" alt="" width="50" /> | 1 | [Relax](../../playlists/relax/overview.md) |
 
@@ -99,7 +99,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | Take It All | 21 | [Adele](overview.md) | [XL Recordings](../../labels/xl_recordings) | 230 | 💚 | [🔗](https://open.spotify.com/track/08YJEcxGtYXwCGqXMZDiyQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | Take It All | 21 | [Adele](overview.md) | [XL Recordings](../../labels/xl_recordings) | 229 | 💚 | [🔗](https://open.spotify.com/track/08YJEcxGtYXwCGqXMZDiyQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f407037aabc6dffe5abb3bf8" alt="" width="50" /> | Chasing Pavements | 19 | [Adele](overview.md) | [XL Recordings](../../labels/xl_recordings) | nan | | [🔗](https://open.spotify.com/track/71WAtDcWVYMoCsblD2uQXx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | Rolling in the Deep | 21 | [Adele](overview.md) | [XL Recordings](../../labels/xl_recordings) | nan | | [🔗](https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | Set Fire to the Rain | 21 | [Adele](overview.md) | [XL Recordings](../../labels/xl_recordings) | nan | 💚 | [🔗](https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi) |

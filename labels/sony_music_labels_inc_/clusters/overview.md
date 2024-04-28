@@ -22,7 +22,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS | CIRCUS | [Stray Kids](../../../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](../..) | 546 | 💚 | [🔗](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS | CIRCUS | [Stray Kids](../../../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](../..) | 547 | 💚 | [🔗](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="" width="50" /> | 青のすみか | 青のすみか | Tatsuya Kitani | [Sony Music Labels Inc.](../..) | nan | | [🔗](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe52879ebfec0050a2aa89ff" alt="" width="50" /> | Make you happy | Make you happy | NiziU | [Sony Music Labels Inc.](../..) | nan | | [🔗](https://open.spotify.com/track/1LnJVIG1BaHTRznuOgR0yc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f038f68827e437530b3a80a8" alt="" width="50" /> | 砂の惑星 ( + 初音ミク ) | BOOTLEG | Kenshi Yonezu, Hatsune Miku | [Sony Music Labels Inc.](../..) | nan | | [🔗](https://open.spotify.com/track/3aYz5EBaRTWLpsfyUIsQyX) |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e021c3e0a58f3ee28af2922e351ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e02d5d11b6ac4242aaa41c8be69ab67616d00001e02d8856d19e1f5784ed643d862" alt="Relax" width="100" />
 
-[54 tracks (52 liked) 🔗](https://open.spotify.com/playlist/4rnlD7JdUQNdPCBhL69dCg)
+[55 tracks (53 liked) 🔗](https://open.spotify.com/playlist/4rnlD7JdUQNdPCBhL69dCg)
 
 [See Track Features](audio_features.md)
 
@@ -13,7 +13,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 7 | 7 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 8 | 8 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | 6 | 6 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb097877542866c981757e9592" alt="" width="50" /> | 5 | 4 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 4 | 4 | [LeeHi](../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
@@ -81,10 +81,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | [Welcome To MY World (feat. nævis)](../../artists/aespa/overview.md) | 30 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> | [The Happiest Girl](../../artists/blackpink/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 39 | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | [Very, Slowly](../../artists/bibi/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="Dream" width="50" /> | Dream | 54 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Stay](../../artists/sara_bareilles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | [ONLY](../../artists/leehi/overview.md) | 70 | <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="Purpose - The 2nd Album" width="50" /> | [Wine](../../artists/taeyeon/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381fb7e4e392f0a99b3947eb6" alt="The Velvet - The 2nd Mini Album" width="50" /> | [7월 7일 One Of These Nights](../../artists/red_velvet/overview.md) | 82 | <img src="https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e" alt="Begin to Hope" width="50" /> | Samson | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | [ONLY](../../artists/leehi/overview.md) | 69 | <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="Purpose - The 2nd Album" width="50" /> | [Wine](../../artists/taeyeon/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381fb7e4e392f0a99b3947eb6" alt="The Velvet - The 2nd Mini Album" width="50" /> | [7월 7일 One Of These Nights](../../artists/red_velvet/overview.md) | 79 | <img src="https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e" alt="Begin to Hope" width="50" /> | Samson | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="Like Water - The 1st Mini Album" width="50" /> | [Like Water](../../artists/wendy/overview.md) | 88 | <img src="https://i.scdn.co/image/ab67616d0000b273149296b740548c61294fa088" alt="CASTAWAY DIVA OST Part.8" width="50" /> | [Voyage](../../artists/winter/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27316e21608ece123c20bd24306" alt="Rain - SM STATION" width="50" /> | [Rain](../../artists/taeyeon/overview.md) | 203 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="Palette" width="50" /> | [Through the Night](../../artists/iu/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27316e21608ece123c20bd24306" alt="Rain - SM STATION" width="50" /> | [Rain](../../artists/taeyeon/overview.md) | 199 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="Palette" width="50" /> | [Through the Night](../../artists/iu/overview.md) | nan |
 
 </details>
 
@@ -97,11 +97,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | 2 | 2 | The Blessed Unrest | 2013-07-16 | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | 2 | 2 | Once Upon Another Time | 2012-05-22 | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | 2 | 2 | Love poem | 2019-11-18 | [🔗](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | 2 | 2 | Little Voice | 2007-07-03 | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | 2 | 2 | Kaleidoscope Heart | 2010-09-07 | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | 1 | 1 | Wish You Hell - The 2nd Mini Album | 2024-03-12 | [🔗](https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ae843591bcdace9489c86fb0" alt="" width="50" /> | 1 | 1 | WAW | 2021-06-02 | [🔗](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | 1 | 1 | The Winning | 2024-02-20 | [🔗](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381fb7e4e392f0a99b3947eb6" alt="" width="50" /> | 1 | 1 | The Velvet - The 2nd Mini Album | 2016-03-17 | [🔗](https://open.spotify.com/album/2qgl7dAgslqL1w2l2wQhMA) |
 
 
 <details>
@@ -109,6 +109,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27381fb7e4e392f0a99b3947eb6" alt="" width="50" /> | 1 | 1 | The Velvet - The 2nd Mini Album | 2016-03-17 | [🔗](https://open.spotify.com/album/2qgl7dAgslqL1w2l2wQhMA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4aa9c49f8fedf1df4f84051" alt="" width="50" /> | 1 | 1 | The 2¢ Show | 2012-05-23 | [🔗](https://open.spotify.com/album/4DECRyKlhKJgjZLLuvfAI6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e7c7f3bafee5562a4c01658b" alt="" width="50" /> | 1 | 1 | Song of the Bandits (Original Soundtrack from the Netflix Series) | 2023-09-22 | [🔗](https://open.spotify.com/album/1TXOVlZGrd3KbphTcXN8vw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273470483222eb038c3b60e71f6" alt="" width="50" /> | 1 | 1 | Slightly Tipsy (She is My Type♡ X SANDEUL) | 2020-07-20 | [🔗](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) |
@@ -124,7 +125,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | 1 | 1 | My Everything (Deluxe) | 2014-08-22 | [🔗](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cb95963709806e12d93128d4" alt="" width="50" /> | 1 | 1 | Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2 | 2016-08-29 | [🔗](https://open.spotify.com/album/68xTLBWjoRADRf86WYmTmy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | 1 | 1 | MY WORLD - The 3rd Mini Album | 2023-05-08 | [🔗](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | 1 | 1 | Little Voice | 2007-07-03 | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | 1 | 1 | IU 5th Album 'LILAC' | 2021-03-25 | [🔗](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27331996f8836156158d3605ce9" alt="" width="50" /> | 1 | 1 | Hotel del Luna (Original Television Soundtrack) Pt.3 | 2019-07-21 | [🔗](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="" width="50" /> | 1 | 1 | Hong Gil Dong OST | 2008-01-23 | [🔗](https://open.spotify.com/album/5Efud8Wmo7vBQjSJI1WcJ7) |
@@ -156,7 +156,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 14 | 13 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
-| 7 | 7 | [Epic](../../labels/epic/overview.md) |
+| 8 | 8 | [Epic](../../labels/epic/overview.md) |
 | 5 | 5 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 4 | 4 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 3 | 3 | Studio MaumC |
@@ -206,13 +206,13 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 30 | 29 | [k-pop](../../genres/k-pop/overview.md) |
+| 11 | 11 | [neo mellow](../../genres/neo_mellow/overview.md) |
 | 10 | 10 | [pop](../../genres/pop/overview.md) |
-| 10 | 10 | [neo mellow](../../genres/neo_mellow/overview.md) |
-| 9 | 9 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
-| 8 | 8 | [lilith](../../genres/lilith/overview.md) |
-| 7 | 7 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
-| 7 | 7 | [pop rock](../../genres/pop_rock/overview.md) |
-| 7 | 7 | [ectofolk](../../genres/ectofolk/overview.md) |
+| 10 | 10 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
+| 9 | 9 | [lilith](../../genres/lilith/overview.md) |
+| 8 | 8 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
+| 8 | 8 | [pop rock](../../genres/pop_rock/overview.md) |
+| 8 | 8 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 5 | 5 | [korean pop](../../genres/korean_pop/overview.md) |
 | 5 | 5 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 

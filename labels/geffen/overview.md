@@ -21,7 +21,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcbac00ef1ac185c67665e970" alt="" width="50" /> | 1 | 1 | Semisonic | [🔗](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdcb395e47aaf2f8386e2608a" alt="" width="50" /> | 2 | 0 | Bing Crosby | [🔗](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb86b13e4d2e65ebf694384ef4" alt="" width="50" /> | 2 | 0 | John Williams | [🔗](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b843b322415ab92ae8edbfa" alt="" width="50" /> | 1 | 0 | John Scott Trotter & His Orchestra | [🔗](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273920b9cbb44d8da3d274bdf0b" alt="" width="50" /> | 1 | 0 | John Scott Trotter & His Orchestra | [🔗](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) |
 | <img src="https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b" alt="" width="50" /> | 1 | 0 | Nirvana | [🔗](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5da36f8b98dd965336a1507a" alt="" width="50" /> | 1 | 0 | blink-182 | [🔗](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) |
 | | 1 | 0 | Ken Darby Singers | [🔗](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi) |
@@ -162,9 +162,9 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="" width="50" /> | Who Are You | Who Are You | [The Who](../../artists/the_who/overview.md) | [Geffen](.) | 513 | 💚 | [🔗](https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="" width="50" /> | Stormy Weather | At Last! | Etta James | [Geffen*](.) | 603 | 💚 | [🔗](https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738004cd6b343732b0e1e666f5" alt="" width="50" /> | It's Beginning To Look Like Christmas | White Christmas | Bing Crosby | [Geffen](.) | 700 | | [🔗](https://open.spotify.com/track/44mYhOVgerj2qPjkGDVA6n) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="" width="50" /> | Who Are You | Who Are You | [The Who](../../artists/the_who/overview.md) | [Geffen](.) | 515 | 💚 | [🔗](https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="" width="50" /> | Stormy Weather | At Last! | Etta James | [Geffen*](.) | 605 | 💚 | [🔗](https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738004cd6b343732b0e1e666f5" alt="" width="50" /> | It's Beginning To Look Like Christmas | White Christmas | Bing Crosby | [Geffen](.) | 703 | | [🔗](https://open.spotify.com/track/44mYhOVgerj2qPjkGDVA6n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e8ed9b5848e7139dc087c48" alt="" width="50" /> | White Christmas - 1947 Version | Holiday Inn (Original Motion Picture Soundtrack) | Bing Crosby, Ken Darby Singers, John Scott Trotter & His Orchestra | [Geffen](.) | nan | | [🔗](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="" width="50" /> | At Last | At Last! | Etta James | [Geffen*](.) | nan | 💚 | [🔗](https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9dfe5788911744490bfb431" alt="" width="50" /> | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | [Geffen](.) | nan | | [🔗](https://open.spotify.com/track/65Q2mv3UlVi9eO70OpsmSe) |

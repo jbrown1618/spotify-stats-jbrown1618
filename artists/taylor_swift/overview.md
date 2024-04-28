@@ -10,9 +10,9 @@
 
 ## Artist Rank
 Taylor Swift is currently:
-- The #38 artist of the last month
-- The #15 artist of the last 6 months
-- The #18 artist of all time
+- The #7 artist of the last month
+- The #10 artist of the last 6 months
+- The #15 artist of all time
 
 ![Rank of Taylor Swift over time](../../images/artists/taylor_swift/rank_time_series.png)
 ## Top Tracks
@@ -24,9 +24,9 @@ Taylor Swift is currently:
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e020e402844f1b6be3102d339f2ab67616d00001e02119ad2ebc0d33edf847ed8c6ab67616d00001e02db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 66 | [Singer-Songwriter](../../playlists/singer-songwriter/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e020e402844f1b6be3102d339f2ab67616d00001e02119ad2ebc0d33edf847ed8c6ab67616d00001e021946747b8692919f98918ec4" alt="" width="50" /> | 66 | [Singer-Songwriter](../../playlists/singer-songwriter/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 55 | [Pop](../../playlists/pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 15 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e02527d94ecf554774fc313bf48ab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 15 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022c0252c4e4a988f024e4d262ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 7 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 6 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e026f248f7695eb544a3a1955c5ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e028acb7bac073f378d59bf228eab67616d00001e02b3be3b970fc89a02f301c9da" alt="" width="50" /> | 3 | [Workout](../../playlists/workout/overview.md) |
@@ -34,7 +34,7 @@ Taylor Swift is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0203668e3f13559554eca8ccc6ab67616d00001e020eb56329734f9400c1639359ab67616d00001e0214ed51ab46ef0765182bb8a0ab67616d00001e02987a1825341694ec9bc62457" alt="" width="50" /> | 3 | [Tarps](../../playlists/tarps/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e021c3e0a58f3ee28af2922e351ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e02d5d11b6ac4242aaa41c8be69ab67616d00001e02d8856d19e1f5784ed643d862" alt="" width="50" /> | 1 | [Relax](../../playlists/relax/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e023317fc12f8b9a9a0b8459766ab67616d00001e0263e0ddbb488d0eeec0e738fcab67616d00001e0284095737f6056e682666d6f9ab67616d00001e02f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | [K-Pop-Adjacent](../../playlists/k-pop-adjacent/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e027cdb143bd2e9906d39c5eb04ab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
 
 ## Top Albums
 
@@ -227,10 +227,10 @@ Taylor Swift is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b" alt="" width="50" /> | Santa Baby | The Taylor Swift Holiday Collection | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 293 | | [🔗](https://open.spotify.com/track/71IScwIe7bcIlpnlkbKVQw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Death By A Thousand Cuts | Lover | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | 683 | 💚 | [🔗](https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | exile (feat. Bon Iver) | folklore | [Taylor Swift](overview.md), Bon Iver | [Taylor Swift](../../labels/taylor_swift) | 693 | 💚 | [🔗](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Begin Again | Red | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 724 | 💚 | [🔗](https://open.spotify.com/track/0L4YCNRfXAoTvdpWeH2RGj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b" alt="" width="50" /> | Santa Baby | The Taylor Swift Holiday Collection | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 297 | | [🔗](https://open.spotify.com/track/71IScwIe7bcIlpnlkbKVQw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Death By A Thousand Cuts | Lover | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | 687 | 💚 | [🔗](https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | exile (feat. Bon Iver) | folklore | [Taylor Swift](overview.md), Bon Iver | [Taylor Swift](../../labels/taylor_swift) | 696 | 💚 | [🔗](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Begin Again | Red | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 725 | 💚 | [🔗](https://open.spotify.com/track/0L4YCNRfXAoTvdpWeH2RGj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Forever & Always | Fearless | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | nan | | [🔗](https://open.spotify.com/track/47HtKpfzpAt8rQjjXWotFj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Love Story | Fearless | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | nan | | [🔗](https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | You Belong With Me | Fearless | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | nan | | [🔗](https://open.spotify.com/track/3GCL1PydwsLodcpv0Ll1ch) |

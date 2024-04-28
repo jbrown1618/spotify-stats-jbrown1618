@@ -1,6 +1,6 @@
 # k-pop girl group
 
-571 songs
+572 songs
 
 [See Track Features](audio_features.md)
 
@@ -23,13 +23,13 @@
 
 
 <details>
-<summary>See all 86 artists</summary>
+<summary>See all 87 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb784d2270653c1d5d1cf43778" alt="" width="50" /> | 17 | 12 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1edc72b57c227d48e28888b1" alt="" width="50" /> | 13 | 10 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1e1e3c9c9582aba8686b42d2" alt="" width="50" /> | 12 | 10 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8939960e5144b51d7903899f" alt="" width="50" /> | 12 | 10 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476" alt="" width="50" /> | 12 | 8 | [NewJeans](../../artists/newjeans/overview.md) | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a6eda4c3bb829e35333dc07" alt="" width="50" /> | 10 | 8 | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [🔗](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb41f3bffee59e0a97914de53f" alt="" width="50" /> | 8 | 8 | [EVERGLOW](../../artists/everglow/overview.md) | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
@@ -93,6 +93,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8884036ea777e2afb47ac7a2" alt="" width="50" /> | 1 | 0 | I.O.I | [🔗](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2efa47f150ed10401bde6d85" alt="" width="50" /> | 1 | 0 | BVNDIT | [🔗](https://open.spotify.com/artist/5dEBuZjTtE68uDgCs23Kuv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb27605f3330d7fea5d8670749" alt="" width="50" /> | 1 | 0 | H1-KEY | [🔗](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27311e775512911343411545bd3" alt="" width="50" /> | 1 | 0 | FIESTAR | [🔗](https://open.spotify.com/artist/3IVjXrnR0npv1LY24kQSzd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a4b709385244df321187756" alt="" width="50" /> | 1 | 0 | BLACKSWAN | [🔗](https://open.spotify.com/artist/2ujaWf015QoP7x1u20Yq5G) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27336484b845182eec375dace20" alt="" width="50" /> | 1 | 0 | Orange Caramel | [🔗](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc88f194bc631713f1ddafca9" alt="" width="50" /> | 1 | 0 | Brown Eyed Girls | [🔗](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) |
@@ -258,7 +259,7 @@
 
 
 <details>
-<summary>See all 77 labels</summary>
+<summary>See all 78 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -327,6 +328,7 @@
 | 1 | 0 | ICONIX |
 | 1 | 0 | GLG |
 | 1 | 0 | FNC W |
+| 1 | 0 | Collabodadi |
 | 1 | 0 | Brave Entertainment |
 | 1 | 0 | (주)디알뮤직 |
 

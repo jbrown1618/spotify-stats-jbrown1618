@@ -21,7 +21,7 @@
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 14 | [Pop](../../playlists/pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 2 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e02527d94ecf554774fc313bf48ab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 2 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 1 | [K-Pop](../../playlists/k-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e026f248f7695eb544a3a1955c5ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e028acb7bac073f378d59bf228eab67616d00001e02b3be3b970fc89a02f301c9da" alt="" width="50" /> | 1 | [Workout](../../playlists/workout/overview.md) |
 
@@ -130,7 +130,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Sour Candy (with BLACKPINK) | Chromatica | [Lady Gaga](overview.md), [BLACKPINK](../blackpink/overview.md) | [Interscope](../../labels/interscope_records) | 578 | 💚 | [🔗](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Sour Candy (with BLACKPINK) | Chromatica | [Lady Gaga](overview.md), [BLACKPINK](../blackpink/overview.md) | [Interscope](../../labels/interscope_records) | 580 | 💚 | [🔗](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | Just Dance | The Fame | [Lady Gaga](overview.md), Colby O'Donis | [Interscope](../../labels/interscope_records) | nan | | [🔗](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | LoveGame | The Fame | [Lady Gaga](overview.md) | [Interscope](../../labels/interscope_records) | nan | 💚 | [🔗](https://open.spotify.com/track/0TcJ7QWpggdSg8t0fHThHm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273631810af03785dbad83f5c81" alt="" width="50" /> | Paparazzi | The Fame | [Lady Gaga](overview.md) | [Interscope](../../labels/interscope_records) | nan | | [🔗](https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM) |

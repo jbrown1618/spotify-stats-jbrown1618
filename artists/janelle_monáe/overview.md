@@ -6,7 +6,7 @@
 
 ## Artist Rank
 Janelle Monáe is currently:
-- The #48 artist of the last 6 months
+- The #47 artist of the last 6 months
 
 ![Rank of Janelle Monáe over time](../../images/artists/janelle_monáe/rank_time_series.png)
 ## Top Tracks
@@ -21,9 +21,9 @@ Janelle Monáe is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0245680a4a57c97894490a01c1ab67616d00001e0289992f4d7d4ab94937bf9e23ab67616d00001e02e13de7b8662b085b0885ffefab67616d00001e02ff5429125128b43572dbdccd" alt="" width="50" /> | 9 | [R&B](../../playlists/r_b/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 5 | [Pop](../../playlists/pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0298d4c378a8c78e84bfcf7743ab67616d00001e02b0ed835957dbf3c63184a3bcab67616d00001e02ca96a3471c3cb5128e64195fab67616d00001e02f6749fd9a1027b244f061e87" alt="" width="50" /> | 5 | [Alt-Pop](../../playlists/alt-pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 3 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e02527d94ecf554774fc313bf48ab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 3 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0282b88b49dd9a1b387cb3f0c6ab67616d00001e0293f60760427ff9cb94a5ba96ab67616d00001e02d2ef237da7f94762997c2083ab67616d00001e02e9cd59d664f597061a513038" alt="" width="50" /> | 1 | [Classical Samples](../../playlists/classical_samples/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e027cdb143bd2e9906d39c5eb04ab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022c0252c4e4a988f024e4d262ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 1 | [Chill](../../playlists/chill/overview.md) |
 
 ## Top Albums
@@ -101,8 +101,8 @@ Janelle Monáe is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga | Yoga | [Janelle Monáe](overview.md), Jidenna | [Wondaland Records/Epic](../../labels/epic) | 463 | 💚 | [🔗](https://open.spotify.com/track/3IJCSQoLF4YzPAKaxq2JLb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="" width="50" /> | Sincerely, Jane | Metropolis: The Chase Suite (Special Edition) | [Janelle Monáe](overview.md) | [Bad Boy Records](../../labels/bad_boy) | 547 | 💚 | [🔗](https://open.spotify.com/track/06I6iDFVtZDGcRu9BgHraA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga | Yoga | [Janelle Monáe](overview.md), Jidenna | [Wondaland Records/Epic](../../labels/epic) | 465 | 💚 | [🔗](https://open.spotify.com/track/3IJCSQoLF4YzPAKaxq2JLb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="" width="50" /> | Sincerely, Jane | Metropolis: The Chase Suite (Special Edition) | [Janelle Monáe](overview.md) | [Bad Boy Records](../../labels/bad_boy) | 549 | 💚 | [🔗](https://open.spotify.com/track/06I6iDFVtZDGcRu9BgHraA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="" width="50" /> | Say You'll Go | The ArchAndroid | [Janelle Monáe](overview.md) | [Bad Boy/Wondaland](../../labels/bad_boy) | nan | 💚 | [🔗](https://open.spotify.com/track/6wbEygoouLHwgy4J6uQIb1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="" width="50" /> | Tightrope (feat. Big Boi) - Big Boi Vocal Edit | The ArchAndroid | [Janelle Monáe](overview.md), Big Boi | [Bad Boy/Wondaland](../../labels/bad_boy) | nan | 💚 | [🔗](https://open.spotify.com/track/1ljzHUgt2SU2ADkhfa9eBC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357cc241e3fc4e95eea8c4b20" alt="" width="50" /> | Dance Apocalyptic | The Electric Lady | [Janelle Monáe](overview.md) | [Bad Boy/Wondaland](../../labels/bad_boy) | nan | 💚 | [🔗](https://open.spotify.com/track/3dUMuxNadGxCE3qXuhCwqa) |

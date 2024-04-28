@@ -11,7 +11,7 @@
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02792cd65d020fd66224b5b025ab67616d00001e02807cc4e6a97c1a67c8b69803ab67616d00001e02a1113af3a19a41dc8eec534eab67616d00001e02cb81eb3c1238c60f2bbfd3b5" alt="" width="50" /> | 7 | [Jazz](../../playlists/jazz/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e028a6dbac0b74bd2484189ea5fab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 2 | [Karaoke](../../playlists/karaoke/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e027cdb143bd2e9906d39c5eb04ab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 2 | [Karaoke](../../playlists/karaoke/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020c053ee476f7ce576369241eab67616d00001e02119e4094f07a8123b471ac1dab67616d00001e022a0face7d69df61c20a6db2bab67616d00001e02cfbcba7cc35a40e08e5aff67" alt="" width="50" /> | 2 | [Christmas](../../playlists/christmas/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0203668e3f13559554eca8ccc6ab67616d00001e020eb56329734f9400c1639359ab67616d00001e0214ed51ab46ef0765182bb8a0ab67616d00001e02987a1825341694ec9bc62457" alt="" width="50" /> | 1 | [Tarps](../../playlists/tarps/overview.md) |
 
