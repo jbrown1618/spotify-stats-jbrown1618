@@ -64,6 +64,7 @@ recording_mbid,recording_title,recording_language
 09d2d023-3998-4f82-9c9d-1ab1367e6d8d,Villain,
 0a0a491e-4752-4217-af2e-b152d01e6fa4,My Girl,eng
 0a3b1c32-e076-44bb-b98b-5cda99eb3873,SWIPE,
+0a3eea9b-bbb0-4e78-8f27-6f5394d218a4,MAESTRO,
 0a3f19d5-c16a-452a-b805-44e497bf258f,BOCA,mul
 0af476f3-48f4-4a7e-af4f-2f324dc60249,Me and My Broken Heart,eng
 0b2c4799-3c06-4f23-8cdc-70e74779d635,Papaoutai,fra
@@ -176,6 +177,7 @@ recording_mbid,recording_title,recording_language
 19b6d048-f981-40e9-8235-a5acf969e5df,Attention,eng
 19bb48de-920c-4eae-a1b2-413492371adf,Fire,eng
 19c0e6b8-7802-4fd3-b77c-56f0791fe598,Weather,
+19c96a56-0cb7-464f-9830-666e600af556,Midas Touch,
 19d9ee7a-162f-4d33-87c1-f0041168a835,Tout oublier,fra
 19e7ce1a-9076-45b5-b515-c03d709ded9f,Mi Corazón,
 19eac113-c0b4-4127-9572-58ca7f7fed6b,It’s not easy for you,
@@ -277,6 +279,8 @@ recording_mbid,recording_title,recording_language
 27e95178-49ac-47a1-8b4c-540c77982680,FAKE LOVE,
 27eea09c-30ed-4b36-a856-4f02279f5705,Advice,
 2833ac3c-eae1-4e24-9048-93005fcf8c41,윤슬 (Gold Dust),
+288350d7-bd46-4314-bb51-ae144d3b732d,Ready to love,
+28abb9f2-46fe-4099-b293-68de0dffe50f,Sugar Rush Ride,
 28c186e8-9cdf-46c8-95a9-af71b649a76d,Talk Saxy,
 28e8ec7b-1b1a-43df-a0b2-75c27b6727d5,You can’t sit with us,
 29231733-b53f-4833-844a-fd19e4051602,I DO,
@@ -754,6 +758,7 @@ recording_mbid,recording_title,recording_language
 6f043dd6-a11a-4c4f-b3ee-670c1643543d,STRANGER,
 6f074c43-b2ab-4c35-beae-b7123bc6eba9,Back Down,
 6f3331bc-23ae-423d-9c3b-c754eeda2c07,Begin Again,eng
+6f59e431-0ef9-4562-a38f-005fcf5d26a2,예쁘다,mul
 6f7fc918-266c-4cae-8a75-98c886376181,Universe (Let's Play Ball),
 6fb1343e-1418-42ba-b6de-d29d5e253037,Bicycle,mul
 6fc39a9c-55d1-4405-9235-3773941524e5,BYE BYE,
@@ -981,6 +986,7 @@ recording_mbid,recording_title,recording_language
 9178c588-6224-4c18-a35e-9b96165ecb60,누구 없소 (NO ONE),
 91881868-2ee4-4623-96af-b607d969f3c1,KARATE,jpn
 919f1700-1003-4320-a4c4-175d38a3d218,ICY,mul
+91d0ade5-0ac9-4ccd-8cb7-f2d4b6a0c48e,9 and Three Quarters (Run Away),
 91ff06c5-22e8-4e54-bd12-66d2951d2bf6,Daft Punk,eng
 9227af77-6ee6-43aa-a0ce-7266478a23a3,VIBE,
 924b2655-39c3-4fe1-b10d-361dadff25be,Say No to This,eng
@@ -1149,6 +1155,7 @@ a82d214b-e593-423d-8660-4f57445faacc,말리지 마,
 a8393a56-40ef-4a31-bf2c-1c38d8d9e8b9,Bye,
 a9113634-1b48-4e3c-84ad-41e3fc9c7691,Feeling Good,eng
 a961120d-e774-4deb-84de-b66fdf8c1c36,AURA,
+a9644492-6200-42a8-a734-f6ff095cb3b4,Muddy Water,
 a97992ca-5d3d-4ce9-bab1-e631360c618b,死ぬのがいいわ,
 a9915135-8a30-4e14-a4ac-eb6366d80608,Mykonos,eng
 a99c39dd-3bb1-4021-be2e-ecc6c6db8351,Bridge Over Troubled Water,eng
@@ -1451,6 +1458,7 @@ d9ed4891-e652-4e64-993c-685b947ba060,Bad Boy,kor
 d9ef5afb-3109-46ed-a837-fd5ae9decaf2,CRUEL,mul
 d9f57fb5-ca4f-4398-a85a-313dc9139a66,Bulldozer,
 da7e6ecd-3539-4a3e-9e46-76213ba1849e,나쁜X,kor
+da9b48df-c21b-414d-a883-bd8366a75251,Opening Sequence,
 dabebc51-ebf2-494c-820d-71b9d471c5b8,봐 (Look),kor
 db1d8cac-5d6d-4a18-96c1-f3d663bd4fab,WELLLL,
 db885a39-fc95-4bb3-a7e1-868c822db073,Insomnia,

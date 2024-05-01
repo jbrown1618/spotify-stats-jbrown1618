@@ -8,7 +8,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730cbf8dc7b194aa11242ec3a7" alt="" width="50" /> | I Want That | HEAT | [(G)I-DLE](../../../../artists/(g)i-dle/overview.md) | [88rising Music](../..), [CUBE ENTERTAINMENT](../../../cube_entertainment) | 93 | 💚 | [🔗](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730cbf8dc7b194aa11242ec3a7" alt="" width="50" /> | I Want That | HEAT | [(G)I-DLE](../../../../artists/(g)i-dle/overview.md) | [88rising Music](../..), [CUBE ENTERTAINMENT](../../../cube_entertainment) | 92 | 💚 | [🔗](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730cbf8dc7b194aa11242ec3a7" alt="" width="50" /> | I DO | HEAT | [(G)I-DLE](../../../../artists/(g)i-dle/overview.md) | [88rising Music](../..), [CUBE ENTERTAINMENT](../../../cube_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/4SKwDW8Gg8CJxw2ElMhSTp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730cbf8dc7b194aa11242ec3a7" alt="" width="50" /> | Eyes Roll | HEAT | [(G)I-DLE](../../../../artists/(g)i-dle/overview.md) | [88rising Music](../..), [CUBE ENTERTAINMENT](../../../cube_entertainment) | nan | | [🔗](https://open.spotify.com/track/6vVO2TX7x8yUICULlFZwGH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273faad2d39e6eb398a6d5c8f47" alt="" width="50" /> | Feeling Lucky | Feeling Lucky | [BIBI](../../../../artists/bibi/overview.md), [Jackson Wang](../../../../artists/jackson_wang/overview.md) | [88rising Music](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/53x0Yk1qOyurd2MefyF3Ny) |
@@ -24,7 +24,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="" width="50" /> | Animal Farm | Lowlife Princess: Noir | [BIBI](../../../../artists/bibi/overview.md) | [Feel Ghood Music/88risingMusic](../..) | 98 | 💚 | [🔗](https://open.spotify.com/track/4g6ZT8vgKNq4iyEbezr3yI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="" width="50" /> | Animal Farm | Lowlife Princess: Noir | [BIBI](../../../../artists/bibi/overview.md) | [Feel Ghood Music/88risingMusic](../..) | 100 | 💚 | [🔗](https://open.spotify.com/track/4g6ZT8vgKNq4iyEbezr3yI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273488df3d22b1f5c0ea15b686a" alt="" width="50" /> | I Love You 3000 II | Head In The Clouds II | 88rising, Stephanie Poetri, [Jackson Wang](../../../../artists/jackson_wang/overview.md) | [88rising Music](../..), [Warner Records](../../../warner_records) | nan | 💚 | [🔗](https://open.spotify.com/track/3witRpHWHqArlnt6GTlH2Y) |
 ## Cluster #3
 

@@ -4,14 +4,14 @@
 
 ## Cluster #1
 
-13 tracks
+15 tracks
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="" width="50" /> | Blue Heart | IVE SWITCH | [IVE](../../../../artists/ive/overview.md) | [Starship Entertainment](../..) | nan | | [🔗](https://open.spotify.com/track/00wTgWOnpWPlTvFsAkZBme) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | ROYAL | LOVE DIVE | [IVE](../../../../artists/ive/overview.md) | [STARSHIP Entertainment](../..) | nan | | [🔗](https://open.spotify.com/track/0LMdtBOxbVgrYoA4n0Vwvv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | LOVE DIVE | LOVE DIVE | [IVE](../../../../artists/ive/overview.md) | [STARSHIP Entertainment](../..) | 265 | 💚 | [🔗](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 섬찟 (Hypnosis) | I've IVE | [IVE](../../../../artists/ive/overview.md) | [Starship Entertainment](../..) | 495 | 💚 | [🔗](https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | I AM | I've IVE | [IVE](../../../../artists/ive/overview.md) | [Starship Entertainment](../..) | 118 | 💚 | [🔗](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 섬찟 (Hypnosis) | I've IVE | [IVE](../../../../artists/ive/overview.md) | [Starship Entertainment](../..) | 498 | 💚 | [🔗](https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | I AM | I've IVE | [IVE](../../../../artists/ive/overview.md) | [Starship Entertainment](../..) | 119 | 💚 | [🔗](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Kitsch | I've IVE | [IVE](../../../../artists/ive/overview.md) | [Starship Entertainment](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273404c584f708c5a2fb05bdeb3" alt="" width="50" /> | After LIKE - Holiday Remix | Spotify Singles - Holiday | [IVE](../../../../artists/ive/overview.md) | [Starship Entertainment](../..) | nan | | [🔗](https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | ELEVEN | ELEVEN | [IVE](../../../../artists/ive/overview.md) | [STARSHIP Entertainment](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) |
@@ -19,22 +19,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | Touch my body | TOUCH N MOVE | SISTAR | [Starship Entertainment](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/5crARIrvoMiMf2AdlD78WN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735817126dded92c8d1ba7b112" alt="" width="50" /> | SMOKY | MIXTAPE [ PSYCHE ] | JOOHONEY | [Starship Entertainment](../..) | nan | | [🔗](https://open.spotify.com/track/2RdsTI9mfgdrNBIoShmI99) |
 ## Cluster #2
-
-16 tracks
-
-| Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
-|:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Lips | I've IVE | [IVE](../../../../artists/ive/overview.md) | [Starship Entertainment](../..) | 317 | 💚 | [🔗](https://open.spotify.com/track/0dRSOmb7pqkkmjXCu5BYbe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Blue Blood | I've IVE | [IVE](../../../../artists/ive/overview.md) | [Starship Entertainment](../..) | 653 | 💚 | [🔗](https://open.spotify.com/track/2avdbiswb0d5AFmyyz68xP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5" alt="" width="50" /> | After LIKE | After LIKE | [IVE](../../../../artists/ive/overview.md) | [Starship Entertainment](../..) | 180 | 💚 | [🔗](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Off The Record | I'VE MINE | [IVE](../../../../artists/ive/overview.md) | [Starship Entertainment](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/6TNx6kHZeVDByUNMVxkAfa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Baddie | I'VE MINE | [IVE](../../../../artists/ive/overview.md) | [Starship Entertainment](../..) | 210 | 💚 | [🔗](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273689b4c9e69a72bd3398f2e88" alt="" width="50" /> | Last Sequence | Sequence | [WJSN](../../../../artists/wjsn/overview.md) | [STARSHIP ENTERTAINMENT](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/0lNPjT58llQGlycRA2mea4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c5d92b755061ede5e5c07544" alt="" width="50" /> | Secret | THE SECRET | [WJSN](../../../../artists/wjsn/overview.md) | [Starship Entertainment](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/1OIb1AalkGikhzCRbWgchd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8a007b9e0ba32eee1651227" alt="" width="50" /> | Alone | ALONE | SISTAR | [Starship Entertainment](../..) | 397 | 💚 | [🔗](https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27365414519ff7d939ddfb53c21" alt="" width="50" /> | One way love | LOVE & HATE | HYOLYN | [Starship Entertainment](../..) | 442 | 💚 | [🔗](https://open.spotify.com/track/2UIXAxLWIPM6ALPGCeeXfH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273498aac8e9100e59a99b03460" alt="" width="50" /> | Adrenaline | CRAVITY 1ST ALBUM PART 2 [LIBERTY : IN OUR COSMOS] | CRAVITY | [STARSHIP Entertainment](../..) | nan | | [🔗](https://open.spotify.com/track/5SbVAjEbm6YS9qF8m8EYGD) |
-## Cluster #3
 
 5 tracks
 
@@ -45,3 +29,19 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="" width="50" /> | I Like That | INSANE LOVE | SISTAR | [Starship Entertainment](../..) | nan | | [🔗](https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="" width="50" /> | Say! Yes | INSANE LOVE | SISTAR | [Starship Entertainment](../..) | nan | | [🔗](https://open.spotify.com/track/5gDxhjgpRoClBFrOcNGiEQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb2456c53306bc582b406462" alt="" width="50" /> | SHAKE IT | SHAKE IT | SISTAR | [Starship Entertainment](../..) | nan | | [🔗](https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6) |
+## Cluster #3
+
+20 tracks
+
+| Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
+|:---|:---|:---|:---|:---|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="" width="50" /> | WOW | IVE SWITCH | [IVE](../../../../artists/ive/overview.md) | [Starship Entertainment](../..) | nan | | [🔗](https://open.spotify.com/track/19rjGep5T6DeFqfzn0bPgM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="" width="50" /> | Accendio | IVE SWITCH | [IVE](../../../../artists/ive/overview.md) | [Starship Entertainment](../..) | nan | | [🔗](https://open.spotify.com/track/1BAtAtx0VgWgAMROWK9WYf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Lips | I've IVE | [IVE](../../../../artists/ive/overview.md) | [Starship Entertainment](../..) | 318 | 💚 | [🔗](https://open.spotify.com/track/0dRSOmb7pqkkmjXCu5BYbe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5" alt="" width="50" /> | After LIKE | After LIKE | [IVE](../../../../artists/ive/overview.md) | [Starship Entertainment](../..) | 180 | 💚 | [🔗](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Off The Record | I'VE MINE | [IVE](../../../../artists/ive/overview.md) | [Starship Entertainment](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/6TNx6kHZeVDByUNMVxkAfa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Baddie | I'VE MINE | [IVE](../../../../artists/ive/overview.md) | [Starship Entertainment](../..) | 212 | 💚 | [🔗](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a30df9ceed62f9c39069c9e" alt="" width="50" /> | Hmph! | Hmph! | WJSN Chocome | [STARSHIP ENTERTAINMENT](../..) | nan | | [🔗](https://open.spotify.com/track/0UF2ka9POcLMSi1rf9pwgA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273689b4c9e69a72bd3398f2e88" alt="" width="50" /> | Last Sequence | Sequence | [WJSN](../../../../artists/wjsn/overview.md) | [STARSHIP ENTERTAINMENT](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/0lNPjT58llQGlycRA2mea4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5d92b755061ede5e5c07544" alt="" width="50" /> | Secret | THE SECRET | [WJSN](../../../../artists/wjsn/overview.md) | [Starship Entertainment](../..) | nan | 💚 | [🔗](https://open.spotify.com/track/1OIb1AalkGikhzCRbWgchd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273498aac8e9100e59a99b03460" alt="" width="50" /> | Adrenaline | CRAVITY 1ST ALBUM PART 2 [LIBERTY : IN OUR COSMOS] | CRAVITY | [STARSHIP Entertainment](../..) | nan | | [🔗](https://open.spotify.com/track/5SbVAjEbm6YS9qF8m8EYGD) |

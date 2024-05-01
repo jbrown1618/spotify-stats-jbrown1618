@@ -10,14 +10,14 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 16 | 14 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 14 | 14 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 
 ## Works with Producers
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Billy Joel | [Billy Joel](../billy_joel/overview.md) | 16 |
-| Jim Boyer | [Jim Boyer](../jim_boyer/overview.md) | 16 |
+| Billy Joel | [Billy Joel](../billy_joel/overview.md) | 14 |
+| Jim Boyer | [Jim Boyer](../jim_boyer/overview.md) | 14 |
 | Steve Boyer | Steve Boyer | 1 |
 | David Dickson | David Dickson | 1 |
 | Bradshaw Leigh | Bradshaw Leigh | 1 |

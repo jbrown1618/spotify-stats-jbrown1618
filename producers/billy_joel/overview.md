@@ -15,14 +15,14 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 23 | 21 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 21 | 21 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 
 ## Works with Producers
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Jim Boyer | [Jim Boyer](../jim_boyer/overview.md) | 16 |
-| Phil Ramone | [Phil Ramone](../phil_ramone/overview.md) | 16 |
+| Jim Boyer | [Jim Boyer](../jim_boyer/overview.md) | 14 |
+| Phil Ramone | [Phil Ramone](../phil_ramone/overview.md) | 14 |
 | Michael Stewart | Michael Stewart | 2 |
 | Michael Omartian | Michael Omartian | 2 |
 | Ron Malo | Ron Malo | 2 |
