@@ -17,7 +17,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ba9b5726cdd0814dc0cda2e" alt="" width="50" /> | 1 | 1 | Sam Smith | [🔗](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdcb57d08016c41fca3e221ab" alt="" width="50" /> | 1 | 1 | Corinne Bailey Rae | [🔗](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | 3 | 0 | Elton John | [🔗](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcad5051d3069454d070cc945" alt="" width="50" /> | 1 | 0 | James Smith | [🔗](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0eb199f850e9a7b9f38d0ef8" alt="" width="50" /> | 1 | 0 | James Smith | [🔗](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 1 | 0 | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb51dfdac248da65a860963b68" alt="" width="50" /> | 1 | 0 | Kali Uchis | [🔗](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) |
 
@@ -47,21 +47,20 @@ Appears as:
 | 5 | 2 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 5 | 2 | glam rock |
 | 2 | 2 | yacht rock |
-| 2 | 2 | symphonic rock |
 | 2 | 2 | [soft rock](../../genres/soft_rock/overview.md) |
 | 2 | 2 | new romantic |
 | 2 | 2 | [classic rock](../../genres/classic_rock/overview.md) |
 | 2 | 2 | [art rock](../../genres/art_rock/overview.md) |
 | 2 | 2 | [album rock](../../genres/album_rock/overview.md) |
 | 2 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
+| 1 | 1 | [soul](../../genres/soul/overview.md) |
 
 
 <details>
-<summary>See all 22 genres</summary>
+<summary>See all 21 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 1 | 1 | [soul](../../genres/soul/overview.md) |
 | 1 | 1 | pop soul |
 | 1 | 1 | [pop](../../genres/pop/overview.md) |
 | 1 | 1 | neo soul |
@@ -77,7 +76,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 22 genres](../../images/labels/emi/genres.png)
+![Bar chart of top 21 genres](../../images/labels/emi/genres.png)
 
 ## Top Producers
 

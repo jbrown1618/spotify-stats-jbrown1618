@@ -15,7 +15,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27354d483dff87402bfe717f738" alt="What Do I Call You - The 4th Mini Album" width="50" /> | What Do I Call You (0.75) | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="INVU - The 3rd Album" width="50" /> | Heart (0.468) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="To. X - The 5th Mini Album" width="50" /> | Nightmare (0.741) | <img src="https://i.scdn.co/image/ab67616d0000b273ff45701e8447016848c70485" alt="This Christmas – Winter is Coming" width="50" /> | Let It Snow (0.498) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4eaffe012c3fc3b73a61bb2" alt="Weekend" width="50" /> | Weekend (0.74) | <img src="https://i.scdn.co/image/ab67616d0000b273f531f18feaf3c28366ad52d4" alt="I - The 1st Mini Album" width="50" /> | I (0.506) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="Purpose - The 2nd Album" width="50" /> | Spark (0.739) | <img src="https://i.scdn.co/image/ab67616d0000b27331996f8836156158d3605ce9" alt="Hotel del Luna (Original Television Soundtrack) Pt.3" width="50" /> | 그대라는 시 (0.533) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="Purpose - The 2nd Album" width="50" /> | Spark (0.739) | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> | If (0.538) |
 
 ## Energy
 
@@ -23,8 +23,8 @@
 
 | ​ | 10 most Energetic tracks | ​​ | 10 least Energetic tracks |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f531f18feaf3c28366ad52d4" alt="I - The 1st Mini Album" width="50" /> | Stress (0.94) | <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="To. X - The 5th Mini Album" width="50" /> | All For Nothing (0.287) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b4c6cba427ce87604af348df" alt="Something New - The 3rd Mini Album" width="50" /> | Something New (0.88) | <img src="https://i.scdn.co/image/ab67616d0000b27331996f8836156158d3605ce9" alt="Hotel del Luna (Original Television Soundtrack) Pt.3" width="50" /> | 그대라는 시 (0.292) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f531f18feaf3c28366ad52d4" alt="I - The 1st Mini Album" width="50" /> | Stress (0.94) | <img src="https://i.scdn.co/image/ab67616d0000b27331996f8836156158d3605ce9" alt="Hotel del Luna (Original Television Soundtrack) Pt.3" width="50" /> | 그대라는 시 (0.287) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b4c6cba427ce87604af348df" alt="Something New - The 3rd Mini Album" width="50" /> | Something New (0.88) | <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="To. X - The 5th Mini Album" width="50" /> | All For Nothing (0.287) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e4915763c3c7f7a05cc93885" alt="Why - The 2nd Mini Album" width="50" /> | Good Thing (0.875) | <img src="https://i.scdn.co/image/ab67616d0000b273ff45701e8447016848c70485" alt="This Christmas – Winter is Coming" width="50" /> | The Magic of Christmas Time (0.33) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b4c6cba427ce87604af348df" alt="Something New - The 3rd Mini Album" width="50" /> | Baram X 3 (0.861) | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> | If (0.346) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff45701e8447016848c70485" alt="This Christmas – Winter is Coming" width="50" /> | Let It Snow (0.854) | <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="Purpose - The 2nd Album" width="50" /> | Here I Am (0.459) |
@@ -57,7 +57,7 @@
 
 | ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27331996f8836156158d3605ce9" alt="Hotel del Luna (Original Television Soundtrack) Pt.3" width="50" /> | 그대라는 시 (0.914) | <img src="https://i.scdn.co/image/ab67616d0000b273e4915763c3c7f7a05cc93885" alt="Why - The 2nd Mini Album" width="50" /> | Up & Down (0.00279) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27331996f8836156158d3605ce9" alt="Hotel del Luna (Original Television Soundtrack) Pt.3" width="50" /> | 그대라는 시 (0.915) | <img src="https://i.scdn.co/image/ab67616d0000b273e4915763c3c7f7a05cc93885" alt="Why - The 2nd Mini Album" width="50" /> | Up & Down (0.00279) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff45701e8447016848c70485" alt="This Christmas – Winter is Coming" width="50" /> | The Magic of Christmas Time (0.898) | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="INVU - The 3rd Album" width="50" /> | Can't Control Myself (0.0263) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="To. X - The 5th Mini Album" width="50" /> | All For Nothing (0.873) | <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="Purpose - The 2nd Album" width="50" /> | Here I Am (0.03) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> | If (0.827) | <img src="https://i.scdn.co/image/ab67616d0000b2737de8f56a39ec67a091457d04" alt="Four Seasons" width="50" /> | Four Seasons (0.0548) |

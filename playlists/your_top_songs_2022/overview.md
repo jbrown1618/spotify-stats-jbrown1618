@@ -298,14 +298,14 @@
 |:---|:---|---:|:---|
 | | [TEDDY](../../producers/teddy/overview.md) | 10 | Arranger, Lyricist, Producer, Songwriter |
 | | [유영진 (Yoo, Young-jin)](../../producers/유영진_(yoo,_young-jin)/overview.md) | 8 | Arranger, Lyricist, Producer, Songwriter |
-| | [24](../../producers/24/overview.md) | 6 | Arranger, Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 6 | Lyricist, Songwriter |
-| | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 5 | Arranger, Songwriter |
+| | [24](../../producers/24/overview.md) | 6 | Arranger, Songwriter, Producer |
 | | [R.Tee](../../producers/r_tee/overview.md) | 5 | Arranger, Songwriter, Producer |
-| | [Kenzie](../../producers/kenzie/overview.md) | 4 | Songwriter, Arranger, Lyricist |
+| | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 5 | Arranger, Songwriter |
 | | 이상엽 (Lee, Sang-yeob) | 4 | Producer |
 | | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 4 | Producer |
-| | Cazzi Opeia | 3 | Songwriter, Lyricist |
+| | [Kenzie](../../producers/kenzie/overview.md) | 4 | Songwriter, Arranger, Lyricist |
+| | Lauritz Emil Christiansen | 3 | Arranger, Songwriter |
 
 
 <details>
@@ -315,19 +315,19 @@
 |:---|:---|---:|:---|
 | | FUTURE BOUNCE | 3 | Arranger, Songwriter |
 | | Jason Roberts | 3 | Producer |
-| | Lauritz Emil Christiansen | 3 | Arranger, Songwriter |
-| | [엄세희 (Um, Se-Hee)](../../producers/엄세희_(um,_se-hee)/overview.md) | 3 | Producer |
 | | Jason Robert | 3 | Producer |
+| | [엄세희 (Um, Se-Hee)](../../producers/엄세희_(um,_se-hee)/overview.md) | 3 | Producer |
+| | Cazzi Opeia | 3 | Songwriter, Lyricist |
 | | 김철순 (Kim, Chul-Soon) | 3 | Producer |
 | | Danny Chung | 3 | Lyricist |
 | | [이수만 (Lee, Soo-Man)](../../producers/이수만_(lee,_soo-man)/overview.md) | 3 | Producer |
-| | Jonatan Gusmark | 2 | Lyricist, Songwriter |
+| | Ellen Berg Tollbom | 2 | Songwriter, Lyricist |
 | | 손명갑 (Son, Myung-gap) | 2 | Producer |
 | | Cutfather | 2 | Songwriter, Arranger |
+| | Jonatan Gusmark | 2 | Lyricist, Songwriter |
 | | Tayla Parx | 2 | Songwriter, Arranger |
 | | 남궁진 (Nam Goong, Jin) | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 2 | Arranger, Lyricist, Songwriter |
-| | Ellen Berg Tollbom | 2 | Songwriter, Lyricist |
 | | Dr.JO | 2 | Lyricist, Songwriter |
 | | Jeppe London Bilsby | 2 | Arranger, Songwriter |
 | | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 2 | Lyricist |
@@ -342,67 +342,67 @@
 | | Celine Svanbäck (Svanbäck, Celine) | 2 | Arranger, Songwriter |
 | | Sophia Pae | 2 | Arranger |
 | | EJAE | 2 | Songwriter |
-| | 이민규 (Lee, Min-kyu) | 2 | Producer |
 | | 정의석 (Jung, Euisuk) | 2 | Producer |
-| | [라도 (Rado)](../../producers/라도_(rado)/overview.md) | 2 | Lyricist, Songwriter, Arranger |
+| | 이민규 (Lee, Min-kyu) | 2 | Producer |
 | | Ludvig Carl Evers | 2 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | J.Y. Park | 2 | Lyricist, Arranger, Songwriter |
-| | Daniel Mikael Caesar | 1 | Songwriter |
+| | [라도 (Rado)](../../producers/라도_(rado)/overview.md) | 2 | Lyricist, Songwriter, Arranger |
 | | Boy Matthews | 1 | Lyricist |
+| | Mich Hansen | 1 | Songwriter |
 | | Hayley Aitken | 1 | Arranger, Songwriter |
-| | Cameron Neilson | 1 | Songwriter |
 | | Poptime | 1 | Arranger, Songwriter |
 | | Chanti | 1 | Songwriter |
 | | [Arschtritt Lindgren](../../producers/arschtritt_lindgren/overview.md) | 1 | Producer, Songwriter |
 | | Joyfactory | 1 | Lyricist |
 | | 이우민 (Yiwoomin) | 1 | Arranger, Lyricist, Producer, Songwriter |
-| | LØREN (LOREN) | 1 | Lyricist |
+| | 노민지 (Noh, Min-ji) | 1 | Producer |
 | | [이민수 (이민수)](../../producers/이민수_(이민수)/overview.md) | 1 | Songwriter |
-| | Brother Su | 1 | Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb65f946e1c1bdc8bc9b75b049" alt="" width="50" /> | MAX CHANGMIN | 1 | Lyricist |
 | | N!ko | 1 | Arranger, Songwriter |
 | | 김정미 (Kim Jung-mi) | 1 | Lyricist |
+| | LØREN (LOREN) | 1 | Lyricist |
 | | Risto Asikainen | 1 | Songwriter |
-| | Mich Hansen | 1 | Songwriter |
-| | Sophie Curtis | 1 | Songwriter |
-| | 노민지 (Noh, Min-ji) | 1 | Producer |
+| | Daniel Mikael Caesar | 1 | Songwriter |
+| | Brother Su | 1 | Lyricist |
+| | Cameron Neilson | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb65f946e1c1bdc8bc9b75b049" alt="" width="50" /> | MAX CHANGMIN | 1 | Lyricist |
+| | Hautboi Rich | 1 | Songwriter |
+| | 전부연 (Jeon, Bu-yeon) | 1 | Producer |
 | | MooF | 1 | Arranger, Songwriter |
-| | 황선정 (Hwang Sun-jung) | 1 | Lyricist |
 | | Ray McCullough | 1 | Lyricist, Songwriter |
+| | Nmore | 1 | Arranger, Songwriter |
 | | Rob Grimaldi | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6f5902fb8e230a7e971326d3" alt="" width="50" /> | VERNON | 1 | Lyricist |
 | | 밍지션 (Ming, Jisyeon) | 1 | Producer |
 | | Alex Bilowitz | 1 | Songwriter |
-| | Markus Lindell | 1 | Arranger, Songwriter |
 | | 최혜진 (Cho, Hye-jin) | 1 | Producer |
+| | Markus Lindell | 1 | Arranger, Songwriter |
 | | 김다현 (Kim, Da-hyun) | 1 | Lyricist |
+| | Sean Alexander | 1 | Songwriter |
 | | [블랙아이드필승 (Black Eyed Pilseung)](../../producers/블랙아이드필승_(black_eyed_pilseung)/overview.md) | 1 | Lyricist, Songwriter |
 | | [LDN Noise](../../producers/ldn_noise/overview.md) | 1 | Arranger, Producer, Songwriter |
-| | Sean Alexander | 1 | Songwriter |
 | | SENDO | 1 | Producer |
 | | Kirsten Collins | 1 | Songwriter |
 | | Avenue 52 | 1 | Arranger |
 | | 바다 (Bada) | 1 | Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1925e6520e474e569c971b36" alt="" width="50" /> | [BoA](../../artists/boa/overview.md) | 1 | Arranger, Lyricist, Songwriter |
-| | 전부연 (Jeon, Bu-yeon) | 1 | Producer |
 | | Alexander Holmgren | 1 | Arranger, Songwriter |
 | | 이기 (IGGY) | 1 | Arranger, Songwriter |
 | | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 1 | Producer |
-| | Gustav Landell | 1 | Arranger, Lyricist, Songwriter |
+| | Sophie Curtis | 1 | Songwriter |
 | | 정유라 (Jeong, Yu-ra) | 1 | Producer |
+| | 승관 (SEUNGKWAN) | 1 | Lyricist |
 | | Max Seaberg | 1 | Producer |
 | | 이주형 (Lee, Juhyeong) | 1 | Producer |
-| | Alma Goodman | 1 | Songwriter |
 | | Rachel Furner | 1 | Songwriter |
 | | Brooke Tomlinson | 1 | Songwriter |
 | | SAAY | 1 | Lyricist, Songwriter |
+| | Gustav Landell | 1 | Arranger, Lyricist, Songwriter |
 | | Ray Romulus | 1 | Lyricist, Songwriter |
-| | Johan Gustafsson | 1 | Arranger, Songwriter |
+| | Alma Goodman | 1 | Songwriter |
 | | 고현정 (Go, Hyeon-Jeong) | 1 | Producer |
 | | Kako | 1 | Songwriter |
-| | 홍승성 (Hong, Seung-sung) | 1 | Producer |
 | | DJ Riggins | 1 | Producer |
-| | YG Family | 1 | Producer |
-| | Hautboi Rich | 1 | Songwriter |
+| | 홍승성 (Hong, Seung-sung) | 1 | Producer |
 
 </details>
 

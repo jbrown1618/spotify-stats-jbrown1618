@@ -7,9 +7,6 @@
 ## Artist Rank
 
 
-## Top Tracks
-
-- Take It All is the #20 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

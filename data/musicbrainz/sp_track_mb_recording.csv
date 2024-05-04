@@ -1,4 +1,5 @@
 spotify_track_uri,recording_mbid
+spotify:track:00wTgWOnpWPlTvFsAkZBme,df7aab9e-f9de-4ae0-ba61-ee12fed78a5f
 spotify:track:01SfTM5nfCou5gQL70r6gs,3d7f2000-123d-4cac-862b-e04ead24c5f2
 spotify:track:021L6LlBBtr34BmFRHd9Ic,03c5f553-b84f-429e-9aab-6804aac4f6a2
 spotify:track:02VBYrHfVwfEWXk5DXyf0T,baded4c1-1bda-4891-bee8-2074383b6c2e
@@ -40,6 +41,7 @@ spotify:track:0BTaaKT4RMbs5M73tOHX5Y,1c4d363d-4bfd-4e69-82c8-ab3fd3215eaa
 spotify:track:0ByMNEPAPpOR5H69DVrTNy,4c0566be-d3d9-42b2-964d-cf349972123b
 spotify:track:0COqiPhxzoWICwFCS4eZcp,c24eb26a-04d6-4f09-9449-9bc334f78ede
 spotify:track:0CatzXH85XWyBqqdB6qPMB,7b6a8c78-344e-4e63-a7f9-87f22275e699
+spotify:track:0CjGCpqs4qBqZi7ibYyZLi,45300dd9-9bdf-4113-a62b-aca3abf0b954
 spotify:track:0CnpSTdL9l5vQM4YnzXtyo,d2840c7c-1771-4313-af94-ab126a0ee91e
 spotify:track:0Cy7wt6IlRfBPHXXjmZbcP,944e74b1-e340-4282-b8be-4a516c6c56a9
 spotify:track:0CyydmXI4QhgUWrZsPOTXA,11cd940f-6693-4af2-9319-94cabf2816de
@@ -50,6 +52,7 @@ spotify:track:0EMD15EVNwDlgGH2CH6ZEL,96d77803-9dda-45fb-b6f8-a857a59d2336
 spotify:track:0Eglu3fErlG196PtTwCUPM,2fda4554-77fd-4495-bd7d-5109b973280b
 spotify:track:0Eqg0CQ7bK3RQIMPw1A7pl,02c5b6de-4713-4023-a0d2-f50aa4670f8e
 spotify:track:0ErzcmZ2gIwX7X0xSMQPix,4370a65b-472f-495b-a6bf-1352ab38100f
+spotify:track:0F0GaAGEb8k1QcmxiUUDB6,605c17b4-b935-4fb2-920f-fd7b7d3113e1
 spotify:track:0F9Xy6OTbkqOv94pklkwKu,9b8a8c66-0acf-4788-9882-e3271186f831
 spotify:track:0FGeJSm4Iix7OdvjvENrwx,0bb4e94b-5440-48bd-b14b-50ea8d55f3c6
 spotify:track:0FfqyjhB6Kspvit1oOo7ax,d853e25f-068c-47d5-a70a-9ccc71f2227e
@@ -261,6 +264,7 @@ spotify:track:1AVtceapuF36oZqI9gzp0o,6090c671-606f-4704-85c6-8a0c33763a3d
 spotify:track:1AZjCZSGEjlxUufFQwSszF,e4673837-6f18-42b7-9137-7bac27e53c57
 spotify:track:1Am7PA2PBSqXyiByhm3jao,0c26b600-3961-4696-b741-15852c945ab2
 spotify:track:1B0BQaSRHxhI0AUlItY3LK,f4a822f1-66ae-4781-ae7f-0d5274ba519e
+spotify:track:1BAtAtx0VgWgAMROWK9WYf,edd72dac-4f89-4e01-a83f-ab93542b6e4b
 spotify:track:1Bu2ogfsVZauj3IOvKJSNy,68806bbc-bf6c-484c-ab8d-93d7261ae2f8
 spotify:track:1BxfuPKGuaTgP7aM0Bbdwr,f7f6fb88-e5b8-49aa-ad11-75f5416bad56
 spotify:track:1CQqupcyMg7176PPmIVmSj,5bfcac8b-bdb9-4510-992c-460f6fb976e9
@@ -342,6 +346,7 @@ spotify:track:1Xj89xyCM5Edza6AqTpRuB,1e440b75-3f37-4567-973b-50c65251bd07
 spotify:track:1XnpzbOGptRwfJhZgLbmSr,cf69bd7e-769a-479c-bc7d-ca38ed93071f
 spotify:track:1XoY4WZrvPIphBaikXGjF8,3a0d0d29-0c97-4570-b79c-3bebffe4bf49
 spotify:track:1XslqSASDWaMZdjhWa7Jb7,24f7c5d1-632a-481b-8c91-27f4e0994084
+spotify:track:1XvOEvWtfa879Wk1wKHZ1M,1bde0ca0-3f3d-4221-9936-ddd218c6c4a6
 spotify:track:1Y2HN48G6Bkm4V3csQncJP,9378ff00-b811-4232-a6cb-487b2e8637a7
 spotify:track:1YA3wSJ2kWd27sxgeEBjA9,e96e51e4-73e3-4e06-be51-100251c25171
 spotify:track:1YI0uK36eupTmw9F8kHysr,3ced5a66-277a-4362-81f3-b542b985a3c7
@@ -638,6 +643,7 @@ spotify:track:2hrUO4drrO63i7FYbCLBl2,13f7ba19-553d-444a-81c1-e7fea9739bc9
 spotify:track:2iRniYXjMHKmwXqA2jYXP7,9a597630-8f3a-47af-a03b-67c03c51853b
 spotify:track:2iUXsYOEPhVqEBwsqP70rE,079cab5d-0ae6-4524-81f9-5235a284ec49
 spotify:track:2iUmqdfGZcHIhS3b9E9EWq,7be8d679-53b5-4fde-909e-de2dfd433c6b
+spotify:track:2iW0q5jJJT5HKlIs25AAgv,0a2fb17e-1b8c-4470-a6c4-5932504f1a28
 spotify:track:2iYnEfKsAsE86Yb9mS4b3E,699bbddb-1c84-4937-9b3e-a2ce4380997d
 spotify:track:2ihCaVdNZmnHZWt0fvAM7B,8b8316fc-b08d-4d36-819c-0fa34752c6ce
 spotify:track:2ijef6ni2amuunRoKTlgww,5e86abc7-aab2-4c81-bf0a-1f5693fbde31
@@ -649,6 +655,7 @@ spotify:track:2j4HbXODKGeJ33QTWRTfbS,62322325-98c5-4b10-b6ef-b2ec7334e4f6
 spotify:track:2jDpV2QgvMjQXydP46Ayx4,b5718b9f-41a8-4066-9d9b-1734bd23ccfe
 spotify:track:2jQ7ZztDfmt4qeW0tOMIqY,fbd6b7c2-b1ee-4674-ad6a-d248c18a1fbb
 spotify:track:2jSwKQBouf0brIcxGfA9CZ,df6b866c-a056-42f2-9cf9-135aa3fbdad4
+spotify:track:2jaapqz7L9MpMf7vpkqU9I,e76f4247-f54e-48bb-b6a7-4bd71dc5d608
 spotify:track:2jh0kJheW38ljJucWMoaG6,a51455fb-7201-4eca-ac27-8b370018691d
 spotify:track:2kRFrWaLWiKq48YYVdGcm8,60bd9d53-01ff-4562-8058-eb44b3940317
 spotify:track:2ka8U0A2e93hBFA43mbgfy,3a291a92-63d0-435e-ace8-596da142bf68
@@ -696,6 +703,7 @@ spotify:track:2uJEnyojuGg31VVlLTQFpp,9b4f8daf-fd49-42b5-8b43-0c0ef71b601c
 spotify:track:2uNUAaUtyzy75qSwiVAa5Q,2c62c7e5-51a7-42ee-a615-229066df326f
 spotify:track:2uw2ftfyS4yJLWiTtbxasE,950fcdc2-9cc0-4925-841c-70edc8f6a03a
 spotify:track:2vA5M8uXee4amGQajyUMFR,317e8d84-ebbf-4c5a-b428-aed5f391004b
+spotify:track:2vNPGH1x5ZwxTjlvzLCyc2,899c3156-6ebf-474b-986e-b0f8a313fa29
 spotify:track:2vdkN2NSQ5mxqNGg7sJUxs,919f1700-1003-4320-a4c4-175d38a3d218
 spotify:track:2vjY3jGKElvqXoaGNEuYef,fbb78c87-66fa-49d0-8089-22d1b46aad99
 spotify:track:2vwlzO0Qp8kfEtzTsCXfyE,8c8b2d45-6043-47c5-8c12-16fb8050817b
@@ -798,6 +806,7 @@ spotify:track:3MjUtNVVq3C8Fn0MP3zhXa,9aa77fa3-1a7d-4ff9-a5ce-8c3dc072fa52
 spotify:track:3NAHK3gLOVmkOVoSmMJvOu,ded688ba-124a-4df9-a921-47ac303b080b
 spotify:track:3NfgdU9mbIVhcJF3XvC0c9,375d6b2b-9726-4040-94e9-b4afe90d26d1
 spotify:track:3NxuezMdSLgt4OwHzBoUhL,49e6cd1d-22da-4428-a5a5-fb84cd16f9f9
+spotify:track:3O8G8eVrhfXTGttyQ1xVuq,e45a640e-d0d6-46ef-81c0-d98e48190c99
 spotify:track:3OC2C8IpFhbUJTeMe55QYn,6b1d5e83-7637-4976-a72e-a0d56a32f054
 spotify:track:3OHfY25tqY28d16oZczHc8,52dc5433-ce6f-4946-8b71-333e66bd37b8
 spotify:track:3OQWohbPUsvbXaH1AiRazX,63671a6e-04cd-4d9a-a796-94e089149eb6
@@ -876,6 +885,7 @@ spotify:track:3jBMHD19RZdAqG9iFQh7xc,adfcdd81-4129-436b-97d1-7aa522392583
 spotify:track:3jHg6QE70y2FTdnsxSrCbv,65902599-fb79-4534-b3e1-1fd076d8b849
 spotify:track:3jb7gznZVfqyMQGJo4hzG2,808323c4-ee68-4ea9-9e78-5a39eadc9315
 spotify:track:3kFEX1OTRaZ5WfX3X42BQP,32275562-9c05-4477-be44-d1aa8c4e7c18
+spotify:track:3kHF06mERCHSLIq1AuSNdZ,cc3acd20-061f-4da4-9ad5-87d90739338a
 spotify:track:3kZC0ZmFWrEHdUCmUqlvgZ,a5741d3d-c925-4070-8a83-910d23eb33d4
 spotify:track:3kfHdr2sYF2EeWEmBHquVj,9cc0f5b3-b88b-416b-838c-8507aef4e20e
 spotify:track:3lOMJTQTd6J34faYwASc33,89ac7339-b145-4628-94e3-25b57114404c
@@ -889,6 +899,7 @@ spotify:track:3n5MOB82LKPL14eBEmodTd,c984ffea-deb0-4870-97da-6a9351762dac
 spotify:track:3n69hLUdIsSa1WlRmjMZlW,4a154661-f61a-4ea0-b88f-fe89ae5d3afc
 spotify:track:3nqQXoyQOWXiESFLlDF1hG,1a774967-444d-42de-aa65-b6160d1205e4
 spotify:track:3nqqDo8CcCLke3ZoTgiOKf,96ade962-85f9-4027-aaef-f31025a0e5e9
+spotify:track:3o4FOm8UEvjbTignWbKxYr,7df592ad-b282-4bfb-967b-08f55f9c159e
 spotify:track:3o9qzsqkT0mvfxcusUaXsN,36206928-d110-4873-9988-59d15f5ece1d
 spotify:track:3omvXShuRPM3zbDpWYqf5g,c0ddef9c-0a68-4024-a673-c13eb1ebf3e4
 spotify:track:3p4N6mBFv42M8dI8SUoPre,346c1f7c-a41f-48da-b2b7-7d2245364e37
@@ -935,6 +946,7 @@ spotify:track:3yCzLH2lQ8KknpvsqNCo35,44e88237-bdb1-4176-9687-714f0d9f6f76
 spotify:track:3yOlyBJuViE2YSGn3nVE1K,2af24267-87f3-4a01-95cb-903d54c6d599
 spotify:track:3yUJDAcGYn66tg752ErDyC,7a675d5a-1c0f-4790-a41a-94741dae02b1
 spotify:track:3yWQ5IlzWRPOdtYnQuywcO,d757fe45-e865-4178-87c7-f3088c1b08d6
+spotify:track:3ym9bzwGG4uxVaJ0pLoQbM,f88ce607-fb81-477f-9d9c-546c4a598a5b
 spotify:track:3yrSvpt2l1xhsV9Em88Pul,d636857f-afca-434e-8d2c-56a61bcdd97c
 spotify:track:3zhbXKFjUDw40pTYyCgt1Y,3326255b-aa4c-4c90-ad5e-3ed3790c0334
 spotify:track:3zmrdOtnOogqLllz26WLZ3,238fd7e4-8771-49bb-b87c-7a0faf3880d1
@@ -987,6 +999,7 @@ spotify:track:49euWwcjQTzVCynY53tvH5,88ba6607-5f1a-4120-a811-8fc15a945380
 spotify:track:4BSluGpjdLQihMmKgHXMxp,936f701e-cc59-4267-ba99-b8d6a465cd3f
 spotify:track:4BZXVFYCb76Q0Klojq4piV,5fa914f8-e888-4312-b85c-0c577ebf709f
 spotify:track:4BZhUnXvXYRQJPClr0hhIC,d89080a0-4c55-4f89-91c4-323c81c99e3c
+spotify:track:4Bl1Hlu6CHjYocr6TqyW5d,d35b8a9c-1eb8-490d-af47-b54e67d8b2d0
 spotify:track:4C7PyWUlTLUUgVZQVboCma,36a273fd-0949-47b5-ab36-85bd37492a72
 spotify:track:4Cyf87ul1le0xTWRFBoYd7,0ba9778f-f16c-41c2-8912-a4b36880e7da
 spotify:track:4DBLBCVLDOmJwRysidmjHL,ad4f030f-f3f9-426a-93b9-b2e8b0551ca5
@@ -1011,6 +1024,7 @@ spotify:track:4J6hxKlPDsfIonA9pILsLJ,88f57924-5c5a-47d8-96e8-641cff9f8c71
 spotify:track:4JmbtS0Muijl37KP9lDscy,d8b05236-a73f-4af3-817e-8b6cc7b258f9
 spotify:track:4Jmrkz9hytD3jaLDkZ7Qvc,cc011ce3-dc68-47de-935d-62acea0c7a45
 spotify:track:4Jo29Uu8726KtzclLNBbmc,3d7d0679-df1c-40ed-b4c4-7744234c7312
+spotify:track:4Jqf8rWXp2y8yJFK0fEweG,5fb6319c-a7f5-43ca-8874-2ab176e1ddc7
 spotify:track:4KGOgUYx9x7J9LYhtuZNRb,e63ea28d-0c0f-4914-8181-ff5d0fa1cfa4
 spotify:track:4LIFyLAf6BCfgLi5Xq62mh,46461eae-894c-48fb-aefd-2d6a2531f30a
 spotify:track:4LJgBT9yo0beHlaBesCFEv,79e449ce-4fb9-4ad6-919f-af5d52ec8f0e
@@ -1040,6 +1054,7 @@ spotify:track:4TCL0qqKyqsMZml0G3M9IM,fa8fb8c8-c3a8-4978-ae7c-c121c57c7f8f
 spotify:track:4TQBHR8LcbBUv0LvLmn54H,114bb25a-4120-4513-8bc4-909d604ebe80
 spotify:track:4TTV7EcfroSLWzXRY6gLv6,6d3f3086-dedd-4d3b-a791-99a4a3f4f141
 spotify:track:4TXo3KpvdwHSdrPJlWDfgn,025262a0-6b15-4192-aaf8-bfc40622b053
+spotify:track:4ToOfelAD6oEqbeHyTTKMS,865c9c07-f349-440f-89f9-a3dc95b0ef2c
 spotify:track:4U45aEWtQhrm8A5mxPaFZ7,fa36c6f7-f239-4c76-bb0e-46f857af1e35
 spotify:track:4UMTp91LHhvW33ol9ZQH0Q,a7d8ba90-a480-4276-84b0-cebc09fe5466
 spotify:track:4UaGQ2D4MBuRBWumZO52Ma,e676174c-46e1-4bcd-aa26-fd40555eafb2
@@ -1065,6 +1080,7 @@ spotify:track:4ZbXs9DzvdWlsQfA9ZUkCV,95198297-694b-4c34-9967-426b239cc021
 spotify:track:4ZoBC5MhSEzuknIgAkBaoT,5ac03463-75a7-412b-ba7d-29d0fa422271
 spotify:track:4ZxOuNHhpyOj4gv52MtQpT,2a03e175-ade6-441e-89c6-a2c60aed281d
 spotify:track:4aS8OY1JsRSBKGfnAkIOZH,28e8ec7b-1b1a-43df-a0b2-75c27b6727d5
+spotify:track:4b3rGL8LDSkbARUUA20136,5ea71a49-1b20-42f9-a8d4-e0614fa99bb6
 spotify:track:4bXImuY3OhNXhbQbVLFHKp,478b6eb1-3bf3-42ab-8836-a713fab23def
 spotify:track:4bZZVcgWWMWPBwzTTp642w,9950fd73-3ddc-497c-a724-f422a39a3912
 spotify:track:4bheT1Drc2vyQgN5VTwr8W,6715d820-b2bc-4e22-be4a-855c4149ca3d
@@ -1088,6 +1104,7 @@ spotify:track:4fsQ0K37TOXa3hEQfjEic1,5bf956f1-c656-444f-b9f3-9b08332bcc70
 spotify:track:4g6ZT8vgKNq4iyEbezr3yI,c0814515-f632-445d-b075-06e2cf5413bb
 spotify:track:4g73tmQQc6pSfe4NMXKrZD,8b25218c-aa76-4b1a-9862-45940ce605ac
 spotify:track:4gJLkQRcGRJRoHJAavP9iN,aafe60a9-c721-4bf2-bdbb-ee321f8ef5c6
+spotify:track:4gOwpU4kMZZNDWkoHYUj1Z,a6d5369d-465e-483e-a2a7-67ef27b846ec
 spotify:track:4gdiCHNbwugojBqr5Jt3pq,57b4710c-038c-474b-9029-4353e3c05432
 spotify:track:4hfF0FOFcaiOtwY3NP5hnv,8aa8fe05-f0e9-4455-8431-1431f8b60c81
 spotify:track:4hxemf0pE0mSzubgsfRLWu,a35d1a9d-2d6b-46e0-be1d-ed9f08b1711e
@@ -1107,6 +1124,7 @@ spotify:track:4lAE47gj539h8R1yxPhhGG,f4e93f39-0bd1-4107-86a2-c1ac2bd36e85
 spotify:track:4lIxdJw6W3Fg4vUIYCB0S5,4459f042-afff-4fa3-b5e5-e10d9782992d
 spotify:track:4lPsBlof2cjAIArw0nOGvQ,de6d4afc-1889-42aa-a3f1-7df551203aa2
 spotify:track:4lQsB3ERTWSNaAN1IkuNRl,1c3e8c57-c9d6-4470-ae9b-18985765b56d
+spotify:track:4lR8sYGMGZPvthF2yUfo7T,9b8c07f6-f0b4-4b7b-9d92-5f503307baaa
 spotify:track:4lY95OMGb9WxP6IYut64ir,1a61223e-aa82-4019-9f7f-a1360cf9198c
 spotify:track:4loUHO28CuvSbEiZXId1BD,23a89301-e572-4611-a189-fa5c1bf5fd3e
 spotify:track:4mSb6RA9eJnXuMWChHLpgn,00fe6bcc-33c9-481c-beb3-95bc5203772a

@@ -25,13 +25,13 @@ NCT 127:
 
 ## Artist Rank
 NCT 127 is currently:
-- The #49 artist of the last month
+- The #45 artist of the last month
 - The #33 artist of all time
 
 ![Rank of NCT 127 over time](../../images/artists/nct_127/rank_time_series.png)
 ## Top Tracks
 
-- Parade is the #49 track of the last month
+- Parade is the #32 track of the last month
 
 ### Top tracks, aggregated
 
@@ -114,11 +114,11 @@ NCT 127 is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | 2 Baddies | 2 Baddies - The 4th Album | [NCT 127](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 137 | 💚 | [🔗](https://open.spotify.com/track/1WKLxJpDqkQ9x1qEDNutoX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | Sticker | Sticker - The 3rd Album | [NCT 127](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 262 | 💚 | [🔗](https://open.spotify.com/track/1iGQpclvzonFNzy7Ko89V7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732159a29c68303b4b0076b741" alt="" width="50" /> | Highway to Heaven - English Version | Highway to Heaven (English Version) | [NCT 127](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 555 | | [🔗](https://open.spotify.com/track/3WNuXdBxk8tQ2VI020dqvE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | Lemonade | Sticker - The 3rd Album | [NCT 127](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 728 | 💚 | [🔗](https://open.spotify.com/track/6txVOdSbg928oeGhlVUrdK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e9fc95cc1d0fba3d48ce2d39" alt="" width="50" /> | Parade | Fact Check - The 5th Album | [NCT 127](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 762 | | [🔗](https://open.spotify.com/track/4YGjBlNqjaUinn2aRkWcLG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="" width="50" /> | 2 Baddies | 2 Baddies - The 4th Album | [NCT 127](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 138 | 💚 | [🔗](https://open.spotify.com/track/1WKLxJpDqkQ9x1qEDNutoX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | Sticker | Sticker - The 3rd Album | [NCT 127](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 265 | 💚 | [🔗](https://open.spotify.com/track/1iGQpclvzonFNzy7Ko89V7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732159a29c68303b4b0076b741" alt="" width="50" /> | Highway to Heaven - English Version | Highway to Heaven (English Version) | [NCT 127](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 561 | | [🔗](https://open.spotify.com/track/3WNuXdBxk8tQ2VI020dqvE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9fc95cc1d0fba3d48ce2d39" alt="" width="50" /> | Parade | Fact Check - The 5th Album | [NCT 127](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 683 | | [🔗](https://open.spotify.com/track/4YGjBlNqjaUinn2aRkWcLG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="" width="50" /> | Lemonade | Sticker - The 3rd Album | [NCT 127](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 733 | 💚 | [🔗](https://open.spotify.com/track/6txVOdSbg928oeGhlVUrdK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d10195d8d9abd1357fff450" alt="" width="50" /> | 소방차 Fire Truck | NCT #127 - The 1st Mini Album | [NCT 127](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/5hHlmrSV6d9LFMsDA1lamE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ca74d3d623930d10f2c3c1f1" alt="" width="50" /> | Back 2 U (AM 01:27) | NCT#127 LIMITLESS - The 2nd Mini Album | [NCT 127](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | | [🔗](https://open.spotify.com/track/37SqctQhMp3MjvGDXKhnJ3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738d47b664117ca39e7b1acfc9" alt="" width="50" /> | Cherry Bomb | NCT #127 CHERRY BOMB– The 3rd Mini Album | [NCT 127](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/3o8QzWsiiqTUVgBZfHgF58) |

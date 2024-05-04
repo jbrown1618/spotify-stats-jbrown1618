@@ -63,6 +63,7 @@ recording_mbid,recording_title,recording_language
 09a727df-5da5-43f6-8fd9-ca4ff4350ceb,My Generation (2014 version),
 09d2d023-3998-4f82-9c9d-1ab1367e6d8d,Villain,
 0a0a491e-4752-4217-af2e-b152d01e6fa4,My Girl,eng
+0a2fb17e-1b8c-4470-a6c4-5932504f1a28,HOME;RUN,kor
 0a3b1c32-e076-44bb-b98b-5cda99eb3873,SWIPE,
 0a3eea9b-bbb0-4e78-8f27-6f5394d218a4,MAESTRO,
 0a3f19d5-c16a-452a-b805-44e497bf258f,BOCA,mul
@@ -202,6 +203,7 @@ recording_mbid,recording_title,recording_language
 1bcb6d6a-43fa-41c9-ac88-a24b5637b18b,ALREADY,
 1bd4ae30-8643-4431-a503-65e8363a8c94,Your Song,eng
 1bd6ac77-2267-4b9e-9c25-7b3dce5775c4,Baby Powder,
+1bde0ca0-3f3d-4221-9936-ddd218c6c4a6,청춘찬가,
 1c3e8c57-c9d6-4470-ae9b-18985765b56d,뚜두뚜두 (DDU-DU DDU-DU),kor
 1c4d363d-4bfd-4e69-82c8-ab3fd3215eaa,Alcohol‐Free,
 1c598bd9-3c3b-4bec-94c4-fb6c61b4d2fe,脳裏上のクラッカー,jpn
@@ -481,6 +483,7 @@ recording_mbid,recording_title,recording_language
 4459f042-afff-4fa3-b5e5-e10d9782992d,Style,eng
 44abd7d3-c593-4587-a109-6d9582f13f36,Oops… I Did It Again,eng
 44e88237-bdb1-4176-9687-714f0d9f6f76,California Gurls,eng
+45300dd9-9bdf-4113-a62b-aca3abf0b954,Better Judgement,
 456977fd-e033-41af-8f37-fae82051fa6c,DASH,mul
 45aaeed5-9f87-4967-ad8d-65d1b99c749c,"RIP, Love",
 46461eae-894c-48fb-aefd-2d6a2531f30a,Bluebird,
@@ -653,6 +656,7 @@ recording_mbid,recording_title,recording_language
 5dd869d8-2e1a-43f4-bbe7-9c071d6abc24,GLASSY,
 5e2a5c6d-1fca-4318-8e8f-bef2da7f4bb8,In Bloom,
 5e86abc7-aab2-4c81-bf0a-1f5693fbde31,Sin pijama,spa
+5ea71a49-1b20-42f9-a8d4-e0614fa99bb6,거미줄 (VENOM),
 5f0ff901-922e-44ce-832e-7d126eaa9f14,Let's Get It On,eng
 5f11e9aa-626f-421c-9238-dbb5abb0c558,Fuckin' Perfect,eng
 5f225d88-ba22-4c71-8610-0c40a68591f9,All Night,
@@ -667,6 +671,7 @@ recording_mbid,recording_title,recording_language
 6042235a-bb2c-41cb-8eae-24372f660c08,Breakfast on the Morning Tram,eng
 6044145d-92ac-44d6-9f81-d12754cc654a,초행길 (The Road),
 60591aba-acf7-4011-8b2b-e471409299df,My Guy (single version),eng
+605c17b4-b935-4fb2-920f-fd7b7d3113e1,Honey Honey,
 606bd9e7-74ad-485e-b075-1d9fc5e50866,YOUNG LUV,kor
 6090c671-606f-4704-85c6-8a0c33763a3d,Don’t Start Now,eng
 60bd9d53-01ff-4562-8058-eb44b3940317,Everything in Its Right Place,eng
@@ -843,6 +848,7 @@ recording_mbid,recording_title,recording_language
 7d2abe26-7733-4bb7-bc34-32895f1eb8d7,No Hands,
 7da75693-f072-4592-8a93-081cbb2591c6,시대유감 (時代遺憾) (2024 aespa remake ver.),
 7dd34eb0-e413-4d41-a63b-5285abb5c8e3,이제는,kor
+7df592ad-b282-4bfb-967b-08f55f9c159e,No Biggie,
 7e162bb9-165b-4281-bd6b-dd9f60130c66,마.피.아. In the morning,
 7e24207d-f5dd-45e9-805b-8f184adb6ca7,LO$ER=LO♡ER,
 7e36230c-fc8b-44f7-ad0b-6924bf34dde0,Life Goes On,
@@ -902,6 +908,7 @@ recording_mbid,recording_title,recording_language
 86067eba-d84d-4177-a3a3-2f9f198bc23b,Really,mul
 861679df-1dda-4c68-aef3-f4bb14bc7431,You Right,eng
 8622c71d-5f41-4480-81b9-87ae1fc1ada0,Movie Star,
+865c9c07-f349-440f-89f9-a3dc95b0ef2c,Die Trying,
 866037f5-8919-4ac4-81de-421bcc0967fa,Rush Hour,
 86609400-23ce-4580-ae5f-bea9263c82ed,LIP GLOSS,
 8684f10f-bcbb-4ae1-8c56-b19424c4fae3,At My Worst,
@@ -930,6 +937,7 @@ recording_mbid,recording_title,recording_language
 8975ed26-56b9-48c9-a64e-ea1e5bcfbeee,Something New,
 898059a0-753c-4943-9604-d3c0e2929d81,DNA.,eng
 899a043d-67bc-420c-85ea-6fee705baeb3,Halo,eng
+899c3156-6ebf-474b-986e-b0f8a313fa29,나는 아픈 건 딱 질색이니까,kor
 89ac7339-b145-4628-94e3-25b57114404c,POP!,mul
 89e80e57-7c83-4573-9acd-7503a264f296,Bad Things,
 8a4569f5-263c-467a-8d1f-9896f82b840a,Take Me to Church,eng
@@ -1063,6 +1071,7 @@ recording_mbid,recording_title,recording_language
 9b4f8daf-fd49-42b5-8b43-0c0ef71b601c,Don't Blink,
 9b789f3a-1008-4f01-b0be-733a3977c2f5,Step Back,kor
 9b8a8c66-0acf-4788-9882-e3271186f831,Best Friend,
+9b8c07f6-f0b4-4b7b-9d92-5f503307baaa,Smart,
 9ba26ca8-9dbc-4136-8541-2b25bcc6df1e,Despacito (remix),mul
 9baf59b8-d5a9-446e-be23-3e8211fd58a9,When We DISCO,
 9bed1690-e937-4dd6-922c-fd640f7a2a3f,ICONIC,mul
@@ -1142,6 +1151,7 @@ a66f722b-a619-4f55-ac9e-22ec91f87c69,Orange Flower (You Complete Me),
 a690b984-a754-416a-a3c6-2cca9e4cb47e,"I miss you, I’m sorry",eng
 a69e1d1a-87ad-48b7-9f12-4b0986e08c21,Cheetah,
 a6bc1525-5d29-4528-b1ab-fec212da394c,ICKY,
+a6d5369d-465e-483e-a2a7-67ef27b846ec,해야 (HEYA),
 a6de534b-d25d-455a-887f-e37de00631fa,Elastic Heart,eng
 a726ba6e-a750-471d-83e4-e1660516d476,A Matter of Trust,eng
 a744b77a-4b34-430d-a3a4-e9eebe251996,A Fifth of Beethoven,
@@ -1363,6 +1373,7 @@ cbaf5a6d-bd7c-45ab-b707-c2e5b46d3345,Non mi avete fatto niente,
 cbca03b2-cf55-4cd5-ab5d-d5b426978ee6,사람 Pt.2,
 cc011ce3-dc68-47de-935d-62acea0c7a45,PULL UP,
 cc0f8bdf-00f7-420b-aad6-af176ec7ad48,AHH OOP! (아훕!),kor
+cc3acd20-061f-4da4-9ad5-87d90739338a,But I,
 cc3f3c3d-aa63-4bad-9f4e-adfc1127d7fd,Love Yourself,eng
 ccb78c20-4f37-4681-8c9c-5c98d7ab18a9,I Just,
 ccbb51ad-20b2-477f-a6a2-d3ca9cba2986,Set the Controls for the Heart of the Sun,eng
@@ -1493,6 +1504,7 @@ df4c608f-9487-438c-a07e-23b740977988,Super Shy,eng
 df4eebd6-938f-487a-8015-88da53d87e69,"Delfino Plaza (From ""Super Mario Sunshine"")",zxx
 df569676-9c08-4bec-8137-daa122c04ca9,Mrs. Robinson,eng
 df6b866c-a056-42f2-9cf9-135aa3fbdad4,Super Bass,eng
+df7aab9e-f9de-4ae0-ba61-ee12fed78a5f,Blue Heart,
 dfa1288b-177f-4b08-a6b5-751adc6a5a05,Cold as Ice,eng
 e009cbb7-2fce-40fa-aaa8-6d741bdae838,Electric Lady,
 e00ce662-d559-4901-a64f-25219a02c07a,Can’t Take My Eyes Off You,eng
@@ -1526,6 +1538,7 @@ e3cdf262-b238-43a4-9353-8480f7378c77,BOP BOP!,
 e3d04cc6-b6e8-4942-b7c5-85645a02a6bf,Truth Hurts,eng
 e402f9c9-e35d-4374-b95a-07ce0a5e37d6,Honeymoon Avenue,
 e413fa7c-a894-4b62-9fbe-05352ecdd8a0,Lavender Haze,eng
+e45a640e-d0d6-46ef-81c0-d98e48190c99,CASE 143,
 e4650287-2696-4b88-90b2-80f063916afb,Low Key,eng
 e4673837-6f18-42b7-9137-7bac27e53c57,들꽃놀이,
 e4733d45-75fa-4bf2-a0d6-9835a67e53b7,Lose Control,eng
@@ -1548,6 +1561,7 @@ e6d894a9-8593-4b90-966a-9ce743365c3e,Only Girl (in the World),eng
 e6de824a-33d9-419e-8ee5-a5938f9f00cc,I’m Unhappy,
 e71b4620-5cd8-40c1-b3cb-7badb3d83b10,I Love My Body,
 e71c6961-1380-4261-be19-d6e3d1dbfe22,CAKE,
+e76f4247-f54e-48bb-b6a7-4bd71dc5d608,Smoothie,
 e773baf5-6d59-487a-bde9-96574249e458,Love Me Like This,
 e7b133cb-1be6-441d-8d62-99b859681283,Cough Syrup,eng
 e7bdc717-11d0-45af-b9f7-91a6972a834c,우리 사랑하지 말아요,kor
@@ -1586,6 +1600,7 @@ ed9d34c3-fcb3-4fe0-861b-b4f1ccf90cf6,Sweet Venom,
 edcb7dc0-2db1-4a1e-a5dc-705bca61488b,恋,jpn
 edcc4bfb-0525-4c52-bd3a-6fe03d491275,"""Shout Out"" -",
 edd64657-5788-48c1-ae6f-cfff23d65684,MIROH,mul
+edd72dac-4f89-4e01-a83f-ab93542b6e4b,Accendio,
 ede4ced6-648c-48c8-9a6d-c3a7f2944ca7,겨울잠,
 edf5983a-2b81-4718-b1b4-9a7eda6d6794,Heart Shaker,
 ee066c10-89e9-45f6-8a98-2e371a06b271,Singularity,
@@ -1667,6 +1682,7 @@ f8633ac2-2a28-4954-8459-4b43f17c2257,King of Anything,
 f8646934-346d-4d62-9bfb-06119c2762af,Touch My Body,kor
 f86bafa7-fd06-4f9e-adfc-7c6dae500bf2,Need to Know,eng
 f87758ff-a0eb-457b-95a3-f914cd32ffe1,"아주, 천천히",
+f88ce607-fb81-477f-9d9c-546c4a598a5b,Nothing,
 f894a41b-c220-4de9-b9c1-b4e4b41d2e0b,Lonely,eng
 f8b5ce6f-295e-45dc-b2eb-674bc2196b09,FIESTA,mul
 f8c8ea7a-1598-4c21-8814-6bc326549e6b,bad guy,eng
