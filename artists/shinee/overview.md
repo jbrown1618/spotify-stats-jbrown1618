@@ -70,13 +70,20 @@ SHINee:
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | BREATHE | JONGHYUN | Lyricist, Songwriter |
 
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | [유영진 (Yoo, Young-jin)](../../producers/유영진_(yoo,_young-jin)/overview.md) | 1 | Lyricist, Songwriter |
+
+
 ## Tracks
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b745b509f6c64b8436513a0e" alt="" width="50" /> | Orgel | SHINee The 3rd Album 'The Misconceptions Of Us' | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 345 | 💚 | [🔗](https://open.spotify.com/track/5QW673bbf5BnFQcULXUUE5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386fe9fe6eaab4083b32adf9f" alt="" width="50" /> | HARD | HARD - The 8th Album | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 489 | 💚 | [🔗](https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a7fcbfdd783b559de31d181b" alt="" width="50" /> | Ring Ding Dong | 2009, Year Of Us - The Third Mini Album | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 701 | 💚 | [🔗](https://open.spotify.com/track/4vLqN0bIxIQjlet2mIMBnx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b745b509f6c64b8436513a0e" alt="" width="50" /> | Orgel | SHINee The 3rd Album 'The Misconceptions Of Us' | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 346 | 💚 | [🔗](https://open.spotify.com/track/5QW673bbf5BnFQcULXUUE5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386fe9fe6eaab4083b32adf9f" alt="" width="50" /> | HARD | HARD - The 8th Album | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 495 | 💚 | [🔗](https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a7fcbfdd783b559de31d181b" alt="" width="50" /> | Ring Ding Dong | 2009, Year Of Us - The Third Mini Album | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 703 | 💚 | [🔗](https://open.spotify.com/track/4vLqN0bIxIQjlet2mIMBnx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="" width="50" /> | Replay | The SHINee World - The First Album | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | | [🔗](https://open.spotify.com/track/1rp986nzkyAX1wFpxzbwlC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27390ad9f6d2ba8838a689999cc" alt="" width="50" /> | Lucifer | Lucifer - The 2nd Album | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | | [🔗](https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343028ae4eeabf8c854a93cab" alt="" width="50" /> | Sherlock (Clue + Note) | Sherlock - The 4th Mini Album | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | | [🔗](https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv) |

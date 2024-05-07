@@ -6,26 +6,26 @@
 |:---|---:|
 | Arranger | 1 |
 | Instrument | 23 |
-| Lyricist | 25 |
+| Lyricist | 26 |
 | Producer | 2 |
-| Songwriter | 25 |
-| Vocal | 25 |
+| Songwriter | 26 |
+| Vocal | 26 |
 
 ## Produces for Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 20 | 19 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 20 | 20 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 
 ## Works with Producers
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Jim Boyer | [Jim Boyer](../jim_boyer/overview.md) | 12 |
-| Phil Ramone | [Phil Ramone](../phil_ramone/overview.md) | 12 |
-| Michael Stewart | Michael Stewart | 3 |
-| Michael Omartian | Michael Omartian | 3 |
-| Ron Malo | Ron Malo | 3 |
+| Jim Boyer | [Jim Boyer](../jim_boyer/overview.md) | 13 |
+| Phil Ramone | [Phil Ramone](../phil_ramone/overview.md) | 13 |
+| Michael Stewart | Michael Stewart | 2 |
+| Michael Omartian | Michael Omartian | 2 |
+| Ron Malo | Ron Malo | 2 |
 | Kenny Ascher | Kenny Ascher | 1 |
 | Danny Kortchmar | Danny Kortchmar | 1 |
 | Doug Stegmeyer | Doug Stegmeyer | 1 |
@@ -67,6 +67,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | She's Always a Woman | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="" width="50" /> | Big Shot | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="" width="50" /> | My Life | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="" width="50" /> | It's Still Rock and Roll to Me | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="" width="50" /> | Don't Ask Me Why | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="" width="50" /> | The Longest Time | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273814cbc4746358a25c84c62e7" alt="" width="50" /> | Uptown Girl | Lyricist, Songwriter |

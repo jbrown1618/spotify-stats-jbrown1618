@@ -87,11 +87,12 @@ Appears as:
 | 5 | 2 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 4 | 2 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 1 | 1 | korean ost |
+| 1 | 1 | [5th gen k-pop](../../genres/5th_gen_k-pop/overview.md) |
 | 2 | 0 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 2 | 0 | [k-rap](../../genres/k-rap/overview.md) |
 | 1 | 0 | korean talent show |
 
-![Bar chart of top 7 genres](../../images/labels/wm_korea/genres.png)
+![Bar chart of top 8 genres](../../images/labels/wm_korea/genres.png)
 
 ## Top Producers
 
@@ -131,12 +132,12 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738683845c563e9e2a478e2edb" alt="" width="50" /> | Sensitive | Loossemble | Loossemble | [WM Korea](.) | 152 | 💚 | [🔗](https://open.spotify.com/track/6A1dCPrUYhg56ukp4zlEUw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738683845c563e9e2a478e2edb" alt="" width="50" /> | Sensitive | Loossemble | Loossemble | [WM Korea](.) | 153 | 💚 | [🔗](https://open.spotify.com/track/6A1dCPrUYhg56ukp4zlEUw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bf32f4be80afeb0e1a09b27d" alt="" width="50" /> | Officially Cool | Officially Cool | BANG YEDAM, [WINTER](../../artists/winter/overview.md) | [WM Korea](.) | 202 | 💚 | [🔗](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="" width="50" /> | Cupid - Twin Ver. | The Beginning: Cupid | FIFTY FIFTY | [WM Korea](.) | 318 | | [🔗](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="" width="50" /> | Cupid - Twin Ver. | The Beginning: Cupid | FIFTY FIFTY | [WM Korea](.) | 317 | | [🔗](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273864f04cb6debbb9057b04b30" alt="" width="50" /> | I Love My Body | I Love My Body | [HWASA](../../artists/hwasa/overview.md) | [WM Korea](.) | 323 | | [🔗](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273682ac678746ad21b6b799950" alt="" width="50" /> | Pity Party | Pity Party | JAMIE | [WM Korea](.) | 675 | 💚 | [🔗](https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27390eea4a1744d67c2de3db575" alt="" width="50" /> | When It Snows mmm (feat. Wheein) | When It Snows mmm (feat. Wheein) | Basick, Whee In | [WM Korea](.) | 758 | | [🔗](https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273682ac678746ad21b6b799950" alt="" width="50" /> | Pity Party | Pity Party | JAMIE | [WM Korea](.) | 682 | 💚 | [🔗](https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27390eea4a1744d67c2de3db575" alt="" width="50" /> | When It Snows mmm (feat. Wheein) | When It Snows mmm (feat. Wheein) | Basick, Whee In | [WM Korea](.) | 762 | | [🔗](https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273addef7fad07f17acdf7d6b98" alt="" width="50" /> | BREATHE | B:COMPLETE | AB6IX | [WM Korea](.) | nan | 💚 | [🔗](https://open.spotify.com/track/4XbyRgWe6yU4wE6WShdTEs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a359467cf1e245c2cdf5dad5" alt="" width="50" /> | Movie Star | HELLO Chapter 1: Hello, Stranger | CIX | [WM Korea](.) | nan | | [🔗](https://open.spotify.com/track/65pVi11JqwSZqUuYAqLP36) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a359467cf1e245c2cdf5dad5" alt="" width="50" /> | What You Wanted | HELLO Chapter 1: Hello, Stranger | CIX | [WM Korea](.) | nan | | [🔗](https://open.spotify.com/track/76dpiZihYVl5VbiHNjVj5l) |

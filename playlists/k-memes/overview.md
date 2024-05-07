@@ -75,14 +75,14 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="2 Baddies - The 4th Album" width="50" /> | [2 Baddies](../../artists/nct_127/overview.md) | 138 | <img src="https://i.scdn.co/image/ab67616d0000b2736cfc57e5358c5e39e79bccbd" alt="Gangnam Style (강남스타일)" width="50" /> | Gangnam Style (강남스타일) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="2 Baddies - The 4th Album" width="50" /> | [2 Baddies](../../artists/nct_127/overview.md) | 141 | <img src="https://i.scdn.co/image/ab67616d0000b2736cfc57e5358c5e39e79bccbd" alt="Gangnam Style (강남스타일)" width="50" /> | Gangnam Style (강남스타일) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> | [Beautiful Christmas](../../artists/red_velvet/overview.md) | 176 | <img src="https://i.scdn.co/image/ab67616d0000b273266f95f6353cb2b974f67fa7" alt="miss me?" width="50" /> | Very Very Very | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | [Christmas EveL](../../artists/stray_kids/overview.md) | 245 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="Return of The Girl" width="50" /> | [Pirate](../../artists/everglow/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | [Christmas EveL](../../artists/stray_kids/overview.md) | 246 | <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="Return of The Girl" width="50" /> | [Pirate](../../artists/everglow/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="Sticker - The 3rd Album" width="50" /> | [Sticker](../../artists/nct_127/overview.md) | 265 | <img src="https://i.scdn.co/image/ab67616d0000b27396678b0a030238837547c6ff" alt="The Renaissance - The 10th Album" width="50" /> | [House Party](../../artists/super_junior/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="‘The ReVe Festival’ Day 1" width="50" /> | [Zimzalabim](../../artists/red_velvet/overview.md) | 277 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | [Up All Night (Bang Chan, Changbin, Felix, Seungmin)](../../artists/stray_kids/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c0ff7c2c2de098875ec82997" alt="Butter (Holiday Remix)" width="50" /> | [Butter (Holiday Remix)](../../artists/bts/overview.md) | 343 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | [Drive (Bang Chan, Lee Know)](../../artists/stray_kids/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a7fcbfdd783b559de31d181b" alt="2009, Year Of Us - The Third Mini Album" width="50" /> | [Ring Ding Dong](../../artists/shinee/overview.md) | 701 | <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="Cat &amp; Dog (English Version)" width="50" /> | [Cat & Dog (English Version)](../../artists/tomorrow_x_together/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="Twicetagram" width="50" /> | [Likey](../../artists/twice/overview.md) | 767 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | [Boys Like You](../../artists/itzy/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="‘The ReVe Festival’ Day 1" width="50" /> | [Zimzalabim](../../artists/red_velvet/overview.md) | 278 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | [Up All Night (Bang Chan, Changbin, Felix, Seungmin)](../../artists/stray_kids/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c0ff7c2c2de098875ec82997" alt="Butter (Holiday Remix)" width="50" /> | [Butter (Holiday Remix)](../../artists/bts/overview.md) | 344 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | [Drive (Bang Chan, Lee Know)](../../artists/stray_kids/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a7fcbfdd783b559de31d181b" alt="2009, Year Of Us - The Third Mini Album" width="50" /> | [Ring Ding Dong](../../artists/shinee/overview.md) | 703 | <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="Cat &amp; Dog (English Version)" width="50" /> | [Cat & Dog (English Version)](../../artists/tomorrow_x_together/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="Twicetagram" width="50" /> | [Likey](../../artists/twice/overview.md) | 769 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | [Boys Like You](../../artists/itzy/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="1st Intermixxion Single &lt;Funky Glitter Christmas&gt;" width="50" /> | [Funky Glitter Christmas](../../artists/nmixx/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b2730c3017d56802b87da6872b1d" alt="THE BOYZ 3rd Single Album [MAVERICK]" width="50" /> | [MAVERICK](../../artists/the_boyz/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="LALISA" width="50" /> | MONEY | nan | <img src="https://i.scdn.co/image/ab67616d0000b2731c0522b1f119c06409b838dc" alt="PSY 7TH ALBUM" width="50" /> | DADDY | nan |
 
@@ -212,13 +212,13 @@
 | | [라도 (Rado)](../../producers/라도_(rado)/overview.md) | 1 | Arranger, Producer |
 | | [이수만 (Lee, Soo-Man)](../../producers/이수만_(lee,_soo-man)/overview.md) | 1 | Producer |
 | | 임홍진 (Im, Hong-Jin) | 1 | Producer |
+| | [유영진 (Yoo, Young-jin)](../../producers/유영진_(yoo,_young-jin)/overview.md) | 1 | Lyricist, Songwriter |
 | | [이태섭 (Lee, Tae-Sub)](../../producers/이태섭_(lee,_tae-sub)/overview.md) | 1 | Producer |
 | | 유건형 (Yoo, Keon-Hyung) | 1 | Songwriter |
 | | [블랙아이드필승 (Black Eyed Pilseung)](../../producers/블랙아이드필승_(black_eyed_pilseung)/overview.md) | 1 | Songwriter |
 | | 이성호 (Lee, Sung-ho) | 1 | Producer |
 | | 남궁진 (Nam Goong, Jin) | 1 | Producer |
 | | Sam Lewis | 1 | Lyricist |
-| | E-Tribe | 1 | Arranger, Lyricist, Songwriter |
 
 
 <details>
@@ -226,13 +226,14 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | E-Tribe | 1 | Arranger, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | PSY | 1 | Lyricist, Songwriter |
 | | 최혜진 (Cho, Hye-jin) | 1 | Producer |
 
 </details>
 
 
-![Bar chart of top 12 producers](../../images/playlists/k-memes/producers.png)
+![Bar chart of top 13 producers](../../images/playlists/k-memes/producers.png)
 
 ## Years
 

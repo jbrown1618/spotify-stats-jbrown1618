@@ -5,6 +5,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | 9 | 7 | [The Tarpeggios](../../../artists/the_tarpeggios/overview.md) | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd8d5d7125f4fbe0dea0b4646" alt="" width="50" /> | 1 | 1 | Stella Jang | [🔗](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c2b393e7d8a0a1bdb64b231" alt="" width="50" /> | 8 | 0 | Peter Hollens | [🔗](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb28d2d9a97a89d4721c2917b2" alt="" width="50" /> | 5 | 0 | UNC Achordants | [🔗](https://open.spotify.com/artist/1TzZMeOCs4TMYtzgohPMAr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c4a9d4a5f8004ad4d0195aa" alt="" width="50" /> | 4 | 0 | The Nor'easters | [🔗](https://open.spotify.com/artist/1aLfVgwt8eBrpvHcutWmqe) |
@@ -13,7 +14,6 @@
 | | 1 | 0 | Florida State University All-Night Yahtzee | [🔗](https://open.spotify.com/artist/7hpsmZ7DZukPPg1dR2wqAy) |
 | | 1 | 0 | University of Wisconsin-Madison Fundamentally Sound | [🔗](https://open.spotify.com/artist/7f7ezoLEjOp1K0qDSosU80) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb78999d4b6fb0847081e2f479" alt="" width="50" /> | 1 | 0 | SoCal VoCals | [🔗](https://open.spotify.com/artist/5L30XpwHG77eWCZtelTns9) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2d08d9641afbcd0d13f58127" alt="" width="50" /> | 1 | 0 | The Pitchforks | [🔗](https://open.spotify.com/artist/5IPABE7EhPLvUVsgM3dlZ8) |
 
 
 <details>
@@ -21,6 +21,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2d08d9641afbcd0d13f58127" alt="" width="50" /> | 1 | 0 | The Pitchforks | [🔗](https://open.spotify.com/artist/5IPABE7EhPLvUVsgM3dlZ8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcefd7abc8e4cfd9680005cab" alt="" width="50" /> | 1 | 0 | Taylor Davis | [🔗](https://open.spotify.com/artist/480xKab3lUPhBBnCzlzqIu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb935384f680f653b00bc04c26" alt="" width="50" /> | 1 | 0 | Voices in Your Head | [🔗](https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363d448b5773d975d66974ce0" alt="" width="50" /> | 1 | 0 | Decadence | [🔗](https://open.spotify.com/artist/3uBUg8TtKXz6m3wY5aXa9I) |
@@ -41,6 +42,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273bbbb078a4589c3cfad8bd34a" alt="" width="50" /> | 3 | 0 | Sincerely, | 2016-03-22 | [🔗](https://open.spotify.com/album/4szRoyYFWqLMea8NLx2TpL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273759fbdcd40288d874a398749" alt="" width="50" /> | 3 | 0 | RISE | 2016-02-09 | [🔗](https://open.spotify.com/album/6V8819n4bdv7dA5mFdCIAo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273825d63b15a7172758250eb56" alt="" width="50" /> | 3 | 0 | GQ, Vol. II | 2016-07-21 | [🔗](https://open.spotify.com/album/71Z9gNhhrz6jhIC272Yt24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732331c39d60075168f035accf" alt="" width="50" /> | 1 | 1 | Colors | 2016-10-06 | [🔗](https://open.spotify.com/album/419WgjPNItZIDgjd1GSgrO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273464316473dbcc9d9da236632" alt="" width="50" /> | 1 | 0 | VoCabulary | 2016-05-03 | [🔗](https://open.spotify.com/album/6QTtvpKN8GebVCKsx8YRmJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b6506a5b3e8f6bf816cbc118" alt="" width="50" /> | 1 | 0 | High Stakes Old Maid | 2016 | [🔗](https://open.spotify.com/album/6sg9WsK06H588Y5VOmwj37) |
 
@@ -50,7 +52,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | I See Fire | The Teal Album | [The Tarpeggios](../../../artists/the_tarpeggios/overview.md) | The Unc - Chapel Hill Tarpeggios | 664 | 💚 | [🔗](https://open.spotify.com/track/4Mp2l1tCHxnm65a6yQ8lph) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | I See Fire | The Teal Album | [The Tarpeggios](../../../artists/the_tarpeggios/overview.md) | The Unc - Chapel Hill Tarpeggios | 669 | 💚 | [🔗](https://open.spotify.com/track/4Mp2l1tCHxnm65a6yQ8lph) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | Aha! | BOCA 2013: Best of College A Cappella | Florida State University All-Night Yahtzee | [Varsity Vocals](../../../labels/varsity_vocals) | nan | | [🔗](https://open.spotify.com/track/7Lx4TW1CMmHVP5ZiNGyi9H) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | All Of The Lights | BOCA 2013: Best of College A Cappella | The Pitchforks | [Varsity Vocals](../../../labels/varsity_vocals) | nan | | [🔗](https://open.spotify.com/track/25Cnsylo80N1bX9CzSvCaE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | Smooth Criminal | BOCA 2013: Best of College A Cappella | University of Wisconsin-Madison Fundamentally Sound | [Varsity Vocals](../../../labels/varsity_vocals) | nan | | [🔗](https://open.spotify.com/track/7kxwqVLwWMbkZKqm0GykBY) |
@@ -87,6 +89,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273825d63b15a7172758250eb56" alt="" width="50" /> | Bei Mir Bist Du Schön | GQ, Vol. II | GQ | Option C Records | nan | | [🔗](https://open.spotify.com/track/5t8Vp0SkxBJNJmtOZPu5u5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273825d63b15a7172758250eb56" alt="" width="50" /> | Crabbuckit | GQ, Vol. II | GQ | Option C Records | nan | | [🔗](https://open.spotify.com/track/7mgUbZEmuzs2TfXQNae4Dq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273825d63b15a7172758250eb56" alt="" width="50" /> | How Great Thou Art | GQ, Vol. II | GQ | Option C Records | nan | | [🔗](https://open.spotify.com/track/4mtfy4FhOni2BiidWoO4Kr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732331c39d60075168f035accf" alt="" width="50" /> | Colors | Colors | Stella Jang | GRDL | nan | 💚 | [🔗](https://open.spotify.com/track/1oACG26rFg4XwAkW5oGGUa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | A Case of You | The Teal Album | [The Tarpeggios](../../../artists/the_tarpeggios/overview.md) | The Unc - Chapel Hill Tarpeggios | nan | 💚 | [🔗](https://open.spotify.com/track/6YwWeHUYCkRoGJWGtohs0j) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | Blank Space | The Teal Album | [The Tarpeggios](../../../artists/the_tarpeggios/overview.md) | The Unc - Chapel Hill Tarpeggios | nan | | [🔗](https://open.spotify.com/track/55uhowm3d20ahlHjQNa78b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | Bottom of the River | The Teal Album | [The Tarpeggios](../../../artists/the_tarpeggios/overview.md) | The Unc - Chapel Hill Tarpeggios | nan | 💚 | [🔗](https://open.spotify.com/track/25XUZBlrcbb5U2fsJBY03P) |

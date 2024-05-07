@@ -30,9 +30,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0ad203a3d2a2343d889a95" alt="So Much (For) Stardust" width="50" /> | We Didn’t Start The Fire (Bonus Track) (0.961) | <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | Fake Plastic Trees (0.229) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="Echoes, Silence, Patience &amp; Grace" width="50" /> | The Pretender (0.959) | <img src="https://i.scdn.co/image/ab67616d0000b273733913465adb99353020b805" alt="Everyday Life" width="50" /> | BrokEn (0.271) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aaf8c068ffe217db825a1945" alt="Move Along" width="50" /> | Dirty Little Secret (0.954) | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | Exit Music (For A Film) (0.276) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fc452e32475d74850c7eec51" alt="Century Child" width="50" /> | End Of All Hope (0.946) | <img src="https://i.scdn.co/image/ab67616d0000b273863e0e305637100311c91aa7" alt="Amnesiac" width="50" /> | Pyramid Song (0.336) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" alt="Fallen" width="50" /> | Bring Me To Life (0.943) | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> | Slow Cheetah (0.344) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72" alt="In Your Honor" width="50" /> | Best of You (0.94) | <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="Metallica" width="50" /> | Nothing Else Matters (0.364) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ec449471d321ade6ee416230" alt="Troubleshooting" width="50" /> | Little Things (0.948) | <img src="https://i.scdn.co/image/ab67616d0000b273863e0e305637100311c91aa7" alt="Amnesiac" width="50" /> | Pyramid Song (0.336) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc452e32475d74850c7eec51" alt="Century Child" width="50" /> | End Of All Hope (0.946) | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> | Slow Cheetah (0.344) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" alt="Fallen" width="50" /> | Bring Me To Life (0.943) | <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="Metallica" width="50" /> | Nothing Else Matters (0.364) |
 
 ## Speechiness
 

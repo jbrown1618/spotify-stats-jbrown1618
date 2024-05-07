@@ -50,15 +50,16 @@ Appears as:
 | 3 | 0 | [album rock](../../genres/album_rock/overview.md) |
 | 2 | 0 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
 | 2 | 0 | [soul](../../genres/soul/overview.md) |
+| 2 | 0 | [soft rock](../../genres/soft_rock/overview.md) |
 | 2 | 0 | quiet storm |
-| 2 | 0 | jazz trio |
 
 
 <details>
-<summary>See all 20 genres</summary>
+<summary>See all 21 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 2 | 0 | jazz trio |
 | 2 | 0 | disco |
 | 2 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
 | 1 | 0 | [show tunes](../../genres/show_tunes/overview.md) |
@@ -73,13 +74,13 @@ Appears as:
 </details>
 
 
-![Bar chart of top 20 genres](../../images/labels/craft_recordings/genres.png)
+![Bar chart of top 21 genres](../../images/labels/craft_recordings/genres.png)
 
 ## Tracks released under Craft Recordings
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | Giants In The Sky | Into The Woods (2022 Broadway Cast Recording) | Cole Thompson | [Craft Recordings](.) | 305 | | [🔗](https://open.spotify.com/track/3RDesmUopi3TgcFJdPAZnN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | Giants In The Sky | Into The Woods (2022 Broadway Cast Recording) | Cole Thompson | [Craft Recordings](.) | 304 | | [🔗](https://open.spotify.com/track/3RDesmUopi3TgcFJdPAZnN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731afccd261170f1d8f3cadb3d" alt="" width="50" /> | Proud Mary | Bayou Country (Expanded Edition) | Creedence Clearwater Revival | [Craft Recordings](.) | nan | | [🔗](https://open.spotify.com/track/6pxWv6GV35VGmcPf5dh6CH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739f39192f9f8ca1c90847b3e5" alt="" width="50" /> | Fortunate Son | Willy And The Poor Boys (Expanded Edition) | Creedence Clearwater Revival | [Craft Recordings](.) | nan | | [🔗](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91" alt="" width="50" /> | Have You Ever Seen The Rain | Pendulum (Expanded Edition) | Creedence Clearwater Revival | [Craft Recordings](.) | nan | | [🔗](https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU) |

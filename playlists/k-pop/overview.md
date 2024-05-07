@@ -389,16 +389,16 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 995 | 728 | [k-pop](../../genres/k-pop/overview.md) |
+| 982 | 719 | [k-pop](../../genres/k-pop/overview.md) |
 | 538 | 412 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 314 | 210 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 194 | 142 | [pop](../../genres/pop/overview.md) |
 | 31 | 27 | [anime](../../genres/anime/overview.md) |
+| 37 | 25 | [5th gen k-pop](../../genres/5th_gen_k-pop/overview.md) |
 | 23 | 19 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 26 | 16 | [k-rap](../../genres/k-rap/overview.md) |
 | 13 | 10 | [korean pop](../../genres/korean_pop/overview.md) |
 | 9 | 9 | korean ost |
-| 8 | 6 | [dance pop](../../genres/dance_pop/overview.md) |
 
 
 <details>
@@ -406,6 +406,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 8 | 6 | [dance pop](../../genres/dance_pop/overview.md) |
 | 7 | 5 | korean talent show |
 | 7 | 5 | korean city pop |
 | 8 | 3 | classic k-pop |
@@ -422,7 +423,6 @@
 | 1 | 1 | [electropop](../../genres/electropop/overview.md) |
 | 1 | 1 | danish pop |
 | 1 | 1 | [art pop](../../genres/art_pop/overview.md) |
-| 1 | 1 | 5th gen k-pop |
 | 1 | 0 | otacore |
 | 1 | 0 | [j-pop](../../genres/j-pop/overview.md) |
 
@@ -444,7 +444,7 @@
 | | [24](../../producers/24/overview.md) | 17 | Arranger, Producer, Songwriter |
 | | [엄세희 (Um, Se-Hee)](../../producers/엄세희_(um,_se-hee)/overview.md) | 17 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 16 | Lyricist, Arranger, Songwriter |
-| | [Ollounder](../../producers/ollounder/overview.md) | 15 | Arranger, Lyricist, Producer, Songwriter |
+| | [유영진 (Yoo, Young-jin)](../../producers/유영진_(yoo,_young-jin)/overview.md) | 16 | Arranger, Lyricist, Producer, Songwriter |
 
 
 <details>
@@ -452,10 +452,10 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | [Ollounder](../../producers/ollounder/overview.md) | 15 | Arranger, Lyricist, Producer, Songwriter |
 | | [방시혁 (Bang, Si-Hyuk)](../../producers/방시혁_(bang,_si-hyuk)/overview.md) | 15 | Songwriter, Lyricist |
 | | [블랙아이드필승 (Black Eyed Pilseung)](../../producers/블랙아이드필승_(black_eyed_pilseung)/overview.md) | 15 | Lyricist, Songwriter, Arranger, Producer |
 | | [양영은 (Yang, Young-eun)](../../producers/양영은_(yang,_young-eun)/overview.md) | 15 | Producer |
-| | [유영진 (Yoo, Young-jin)](../../producers/유영진_(yoo,_young-jin)/overview.md) | 15 | Arranger, Lyricist, Producer, Songwriter |
 | | [LEEZ](../../producers/leez/overview.md) | 14 | Arranger, Lyricist, Songwriter, Producer |
 | | [라도 (Rado)](../../producers/라도_(rado)/overview.md) | 14 | Arranger, Lyricist, Songwriter, Producer |
 | | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 14 | Lyricist |
