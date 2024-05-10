@@ -116,8 +116,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | Finesse (0.939) | <img src="https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a" alt="Planet Her" width="50" /> | Need to Know (0.194) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="Finesse (Remix) [feat. Cardi B]" width="50" /> | Finesse - Remix; feat. Cardi B (0.926) | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> | I Thought She Knew (0.198) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4" alt="In The Zone" width="50" /> | Toxic (0.924) | <img src="https://i.scdn.co/image/ab67616d0000b2739900b995cd1a81c35c574ab0" alt="Who You Are (Platinum Edition)" width="50" /> | Who You Are (0.216) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="Future Nostalgia" width="50" /> | Levitating (feat. DaBaby) (0.915) | <img src="https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199" alt="Circus (Deluxe Version)" width="50" /> | Womanizer (0.235) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | 777 (0.909) | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="Camila" width="50" /> | Never Be the Same (0.243) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="Future Nostalgia" width="50" /> | Levitating (feat. DaBaby) (0.915) | <img src="https://i.scdn.co/image/ab67616d0000b27334fd9eb8cd48e518598aec55" alt="Spirit" width="50" /> | Bleeding Love (0.225) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | 777 (0.909) | <img src="https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199" alt="Circus (Deluxe Version)" width="50" /> | Womanizer (0.235) |
 
 ## Tempo
 

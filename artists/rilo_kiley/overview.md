@@ -18,7 +18,7 @@ Rilo Kiley:
 
 ## Top Tracks
 
-- Silver Lining is the #27 track of the On Repeat playlist
+- Silver Lining is the #29 track of the On Repeat playlist
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|

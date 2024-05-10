@@ -17,49 +17,49 @@ None
 
 | track_name | album_name | artist_name | track_popularity | album_popularity | artist_popularity |
 |:---|:---|:---|---:|---:|---:|
-| Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 37 |
-| Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": II. Largo | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 37 |
-| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 37 |
-| Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": I. Allegro non molto | Vivaldi: Four Seasons | Simon Standage | 2 | 2 | 37 |
-| Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": III. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 37 |
-| Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": III. Allegro (Danza pastorale) | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 37 |
-| Violin Concerto in G Minor, Op. 8, No. 2, RV 315 "L'estate": III. Presto (Tempo impetuoso d'estate) | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 37 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 37 |
-| Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": I. Allegro non molto - Allegro | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 37 |
-| Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": II. Adagio - Presto - Adagio | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 37 |
-| Violin Concerto in E Major, Op. 8, No. 1, RV 269 "La Primavera": I. Allegro | Vivaldi: Four Seasons | Simon Standage | 2 | 2 | 37 |
-| Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": II. Largo | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 37 |
-| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: II. Largo | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 37 |
-| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: III. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 37 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 37 |
-| Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": I. Allegro (Ballo, e canto de' villanelli) | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 37 |
-| Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": III. Allegro (La caccia) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 37 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 37 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 28 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 28 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 28 |
+| Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
+| Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": II. Largo | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 38 |
+| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
+| Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": I. Allegro non molto | Vivaldi: Four Seasons | Simon Standage | 2 | 2 | 38 |
+| Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": III. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
+| Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": III. Allegro (Danza pastorale) | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 38 |
+| Violin Concerto in G Minor, Op. 8, No. 2, RV 315 "L'estate": III. Presto (Tempo impetuoso d'estate) | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 38 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
+| Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": I. Allegro non molto - Allegro | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 38 |
+| Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": II. Adagio - Presto - Adagio | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
+| Violin Concerto in E Major, Op. 8, No. 1, RV 269 "La Primavera": I. Allegro | Vivaldi: Four Seasons | Simon Standage | 2 | 2 | 38 |
+| Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": II. Largo | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 38 |
+| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: II. Largo | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
+| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: III. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
+| Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": I. Allegro (Ballo, e canto de' villanelli) | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 38 |
+| Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": III. Allegro (La caccia) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 29 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 29 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 29 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 83 |
 | Moonlight | D-2 | Agust D | 0 | 0 | 70 |
 | Daechwita | D-2 | Agust D | 1 | 0 | 70 |
 | Burn It (feat. MAX) | D-2 | Agust D | 0 | 0 | 70 |
-| People | D-2 | Agust D | 1 | 0 | 70 |
+| People | D-2 | Agust D | 0 | 0 | 70 |
 | Strange (feat. RM) | D-2 | Agust D | 0 | 0 | 70 |
 | Burn It (feat. MAX) | D-2 | MAX | 0 | 0 | 66 |
 | Strange (feat. RM) | D-2 | RM | 0 | 0 | 67 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 81 |
-| Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 75 |
-| Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 49 |
+| Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 76 |
+| Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 50 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 45 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 28 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 61 |
 | Underground | Artemis | Lindsey Stirling | 2 | 1 | 61 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 46 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 61 |
-| Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 55 |
+| Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 56 |
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 66 |
-| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 0 | 0 | 67 |
+| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 0 | 0 | 68 |
 | Nothing Else Matters | Metallica | Metallica | 0 | 0 | 78 |
-| Enter Sandman | Metallica | Metallica | 1 | 0 | 78 |
+| Enter Sandman | Metallica | Metallica | 0 | 0 | 78 |
 | Wings | Wings | PIXY | 0 | 0 | 35 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 35 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 35 |
@@ -87,16 +87,16 @@ None
 | Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 49 |
 | The Legend Of Zelda: Twilight Princess - Midna's Desperate Hour | Piano/Instrumental Works: Video Game Themes - Volume I | Michael Tai | 0 | 0 | 37 |
 | Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | 0 | 0 | 53 |
-| Just The Way You Are | Little Love - EP | James Smith | 0 | 0 | 49 |
+| Just The Way You Are | Little Love - EP | James Smith | 0 | 0 | 50 |
 | I will show you | Invitation | AILEE | 0 | 0 | 54 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 58 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 53 |
 | Timshel | Sigh No More | Mumford & Sons | 0 | 0 | 68 |
 | Little Lion Man | Sigh No More | Mumford & Sons | 0 | 0 | 68 |
 | The Cave | Sigh No More | Mumford & Sons | 0 | 0 | 68 |
-| Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 52 |
+| Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 53 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 50 |
-| The Phantom Of The Opera | Century Child | Nightwish | 1 | 0 | 62 |
+| The Phantom Of The Opera | Century Child | Nightwish | 0 | 0 | 62 |
 | End Of All Hope | Century Child | Nightwish | 0 | 0 | 62 |
 | Nemo | Once | Nightwish | 0 | 0 | 62 |
 | Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 0 | 0 | 56 |
@@ -121,7 +121,7 @@ None
 | Miku | Miku | Anamanaguchi | 0 | 0 | 49 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 40 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 46 |
-| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 47 |
+| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 48 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 73 |
 | When We Disco | When We Disco | J.Y. Park | 0 | 0 | 45 |
@@ -133,14 +133,14 @@ None
 | Still Alive | Portal 2: Songs to Test By (Collectors Edition) | Aperture Science Psychoacoustic Laboratories | 0 | 0 | 43 |
 | this is what falling in love feels like | this is what falling in love feels like | JVKE | 1 | 0 | 73 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 44 |
-| Zelda's Lullaby | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 43 |
-| Song Of Storms | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 43 |
+| Zelda's Lullaby | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 44 |
+| Song Of Storms | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 44 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 67 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 67 |
 | Call Me Mother | American | RuPaul | 0 | 0 | 53 |
 | Lose | Love Synonym #2 : Right for Us | WONHO | 0 | 0 | 41 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 64 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 40 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 39 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 53 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 42 |
 | Lost Woods | Zelda: Ocarina of Time - Piano | Wesley Sprayue | 0 | 0 | 37 |
