@@ -48,8 +48,8 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="" width="50" /> | Talk It Up | The Good Life | Sammy Rae & The Friends | [Nettwerk Music Group](.) | 251 | 💚 | [🔗](https://open.spotify.com/track/7FQCZ5i5bmQ76LoGHyVcX0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a781283273e757736bbe120c" alt="" width="50" /> | I Get It Now | I Get It Now | Sammy Rae & The Friends | [Nettwerk Music Group](.) | 756 | 💚 | [🔗](https://open.spotify.com/track/03ECDyILFfQ98k106zwcIt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="" width="50" /> | Talk It Up | The Good Life | Sammy Rae & The Friends | [Nettwerk Music Group](.) | 252 | 💚 | [🔗](https://open.spotify.com/track/7FQCZ5i5bmQ76LoGHyVcX0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a781283273e757736bbe120c" alt="" width="50" /> | I Get It Now | I Get It Now | Sammy Rae & The Friends | [Nettwerk Music Group](.) | 716 | 💚 | [🔗](https://open.spotify.com/track/03ECDyILFfQ98k106zwcIt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27342859c496ab80d9867ef21b6" alt="" width="50" /> | Let Her Go | All The Little Lights | Passenger | [Nettwerk Music Group](.) | nan | 💚 | [🔗](https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="" width="50" /> | Kick It to Me | The Good Life | Sammy Rae & The Friends | [Nettwerk Music Group](.) | nan | 💚 | [🔗](https://open.spotify.com/track/6QZbDUZEgkwaVWROtWzjQ0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="" width="50" /> | The Feeling | The Good Life | Sammy Rae & The Friends | [Nettwerk Music Group](.) | nan | | [🔗](https://open.spotify.com/track/0dmCos7GHCr5PRKp5LNGH7) |

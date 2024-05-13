@@ -56,8 +56,8 @@ Appears as:
 |---:|---:|:---|
 | 11 | 6 | [soul](../../genres/soul/overview.md) |
 | 11 | 6 | motown |
+| 4 | 2 | classic soul |
 | 2 | 1 | memphis soul |
-| 2 | 1 | classic soul |
 | 1 | 1 | southern soul |
 | 1 | 0 | quiet storm |
 | 1 | 0 | northern soul |

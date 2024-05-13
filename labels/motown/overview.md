@@ -72,11 +72,11 @@ Appears as:
 |---:|---:|:---|
 | 21 | 9 | [soul](../../genres/soul/overview.md) |
 | 21 | 9 | motown |
+| 8 | 2 | classic soul |
 | 6 | 2 | quiet storm |
 | 3 | 2 | funk |
 | 3 | 2 | disco |
 | 4 | 1 | memphis soul |
-| 4 | 1 | classic soul |
 | 2 | 1 | [soft rock](../../genres/soft_rock/overview.md) |
 | 2 | 1 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 2 | 1 | [adult standards](../../genres/adult_standards/overview.md) |

@@ -108,7 +108,7 @@
 
 | ​ | 10 most Happy tracks | ​​ | 10 least Happy tracks |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f77cbbb100e98c8995dccba6" alt="Celebration (Bonus Track Version)" width="50" /> | Material Girl (0.978) | <img src="https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f" alt="The Lord of the Rings: The Fellowship of the Ring - the Complete Recordings" width="50" /> | The Passing of the Elves (0.0384) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a9c7219995206b7b7004ba2f" alt="Celebration (Bonus Track Version)" width="50" /> | Material Girl (0.978) | <img src="https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f" alt="The Lord of the Rings: The Fellowship of the Ring - the Complete Recordings" width="50" /> | The Passing of the Elves (0.0384) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27399d424b0873a9a714279a9f3" alt="Like a Virgin" width="50" /> | Like a Virgin (0.97) | <img src="https://i.scdn.co/image/ab67616d0000b27314b01732077ced86294ed8a6" alt="Superman: The Movie (Original Motion Picture Soundtrack)" width="50" /> | The Flying Sequence (0.0624) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="Future Nostalgia" width="50" /> | Levitating (feat. DaBaby) (0.915) | <img src="https://i.scdn.co/image/ab67616d0000b27369b3dd10eee85bb2652c3b05" alt="The Golden Echo" width="50" /> | Waltz Me to the Grave (0.0748) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bc9b44e950d5440ff65ea926" alt="Machine Head" width="50" /> | Smoke on the Water (0.89) | <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="Primal Heart" width="50" /> | The Good War (0.0928) |

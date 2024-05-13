@@ -58,18 +58,19 @@ Appears as:
 
 
 <details>
-<summary>See all 13 genres</summary>
+<summary>See all 14 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 2 | 0 | dance rock |
 | 2 | 0 | [alternative rock](../../genres/alternative_rock/overview.md) |
+| 1 | 0 | pop punk |
 | 1 | 0 | emo |
 
 </details>
 
 
-![Bar chart of top 13 genres](../../images/labels/island_records/genres.png)
+![Bar chart of top 14 genres](../../images/labels/island_records/genres.png)
 
 ## Top Producers
 

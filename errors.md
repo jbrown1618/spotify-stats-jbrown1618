@@ -35,17 +35,20 @@ None
 | Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": I. Allegro (Ballo, e canto de' villanelli) | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 38 |
 | Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": III. Allegro (La caccia) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 29 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 29 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 29 |
-| Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 83 |
+| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro) | Vivaldi: Four Seasons | David Reichenberg | 0 | 2 | 26 |
+| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: II. Largo | Vivaldi: Four Seasons | David Reichenberg | 0 | 2 | 26 |
+| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: III. Allegro | Vivaldi: Four Seasons | David Reichenberg | 0 | 2 | 26 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 30 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 30 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 30 |
+| Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 84 |
 | Moonlight | D-2 | Agust D | 0 | 0 | 70 |
 | Daechwita | D-2 | Agust D | 1 | 0 | 70 |
 | Burn It (feat. MAX) | D-2 | Agust D | 0 | 0 | 70 |
 | People | D-2 | Agust D | 0 | 0 | 70 |
 | Strange (feat. RM) | D-2 | Agust D | 0 | 0 | 70 |
 | Burn It (feat. MAX) | D-2 | MAX | 0 | 0 | 66 |
-| Strange (feat. RM) | D-2 | RM | 0 | 0 | 67 |
+| Strange (feat. RM) | D-2 | RM | 0 | 0 | 69 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 81 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 76 |
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 50 |
@@ -59,7 +62,7 @@ None
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 66 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 0 | 0 | 68 |
 | Nothing Else Matters | Metallica | Metallica | 0 | 0 | 78 |
-| Enter Sandman | Metallica | Metallica | 0 | 0 | 78 |
+| Enter Sandman | Metallica | Metallica | 1 | 0 | 78 |
 | Wings | Wings | PIXY | 0 | 0 | 35 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 35 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 35 |
@@ -88,11 +91,11 @@ None
 | The Legend Of Zelda: Twilight Princess - Midna's Desperate Hour | Piano/Instrumental Works: Video Game Themes - Volume I | Michael Tai | 0 | 0 | 37 |
 | Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | 0 | 0 | 53 |
 | Just The Way You Are | Little Love - EP | James Smith | 0 | 0 | 50 |
-| I will show you | Invitation | AILEE | 0 | 0 | 54 |
-| Gimme Sympathy | Fantasies | Metric | 0 | 0 | 58 |
+| I will show you | Invitation | AILEE | 0 | 0 | 55 |
+| Gimme Sympathy | Fantasies | Metric | 0 | 0 | 59 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 53 |
 | Timshel | Sigh No More | Mumford & Sons | 0 | 0 | 68 |
-| Little Lion Man | Sigh No More | Mumford & Sons | 0 | 0 | 68 |
+| Little Lion Man | Sigh No More | Mumford & Sons | 1 | 0 | 68 |
 | The Cave | Sigh No More | Mumford & Sons | 0 | 0 | 68 |
 | Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 53 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 50 |
@@ -111,7 +114,6 @@ None
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 70 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 72 |
 | Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 63 |
-| Sweet Night | ITAEWON CLASS (Original Television Soundtrack) Pt. 12 | V | 1 | 0 | 79 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 73 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 75 |
 | I Do | It's Raining | Rain | 0 | 0 | 42 |
@@ -131,7 +133,7 @@ None
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 69 |
 | My House | No.5 | 2PM | 0 | 0 | 50 |
 | Still Alive | Portal 2: Songs to Test By (Collectors Edition) | Aperture Science Psychoacoustic Laboratories | 0 | 0 | 43 |
-| this is what falling in love feels like | this is what falling in love feels like | JVKE | 1 | 0 | 73 |
+| this is what falling in love feels like | this is what falling in love feels like | JVKE | 2 | 0 | 73 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 44 |
 | Zelda's Lullaby | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 44 |
 | Song Of Storms | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 44 |
