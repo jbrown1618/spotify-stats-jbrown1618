@@ -36,7 +36,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05cead99b1a81b82a9a42838" alt="" width="50" /> | 1 | 0 | [LeeHi](../../../artists/leehi/overview.md) | [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | 1 | 0 | Punch | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1a9503fefacc8deb28389e5" alt="" width="50" /> | 1 | 0 | G.Soul | [🔗](https://open.spotify.com/artist/0fLesFHNsJpalRtqzSYxnd) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebdc33cbb79510fa7890d724ed" alt="" width="50" /> | 1 | 0 | Sunwoojunga | [🔗](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebaf3ae624d46473f6f21f116f" alt="" width="50" /> | 1 | 0 | Sunwoojunga | [🔗](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) |
 
 </details>
 
@@ -82,11 +82,11 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="" width="50" /> | Whale | SAILING | [AKMU](../../../artists/akmu/overview.md) | [YG Entertainment](../../../labels/yg_entertainment) | 319 | 💚 | [🔗](https://open.spotify.com/track/5OJ275pPDWTd2qWX4kbhXj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | Put It Straight | I made | [(G)I-DLE](../../../artists/(g)i-dle/overview.md) | [CUBE ENTERTAINMENT](../../../labels/cube_entertainment) | 376 | 💚 | [🔗](https://open.spotify.com/track/2G0wbwTsTN0HJeQp3BDc4D) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude | SUGA's Interlude | Halsey, SUGA, [BTS](../../../artists/bts/overview.md) | [Capitol Records](../../../labels/capitol_records) | 532 | 💚 | [🔗](https://open.spotify.com/track/5a0nHa7F4S9hb0Zi0zLS8w) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | imagine | thank u, next | [Ariana Grande](../../../artists/ariana_grande/overview.md) | [Republic Records](../../../labels/republic_records) | 589 | 💚 | [🔗](https://open.spotify.com/track/39LmTF9RgyakzSYX8txrow) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | In The Fall | Hwa:telier | [HWASA](../../../artists/hwasa/overview.md), WOOGIE | [RBW, Inc](../../../labels/rbw_inc_) | 738 | 💚 | [🔗](https://open.spotify.com/track/2esmbUCwduwG8SyN4RAwmM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="" width="50" /> | Whale | SAILING | [AKMU](../../../artists/akmu/overview.md) | [YG Entertainment](../../../labels/yg_entertainment) | 320 | 💚 | [🔗](https://open.spotify.com/track/5OJ275pPDWTd2qWX4kbhXj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | Put It Straight | I made | [(G)I-DLE](../../../artists/(g)i-dle/overview.md) | [CUBE ENTERTAINMENT](../../../labels/cube_entertainment) | 379 | 💚 | [🔗](https://open.spotify.com/track/2G0wbwTsTN0HJeQp3BDc4D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude | SUGA's Interlude | Halsey, SUGA, [BTS](../../../artists/bts/overview.md) | [Capitol Records](../../../labels/capitol_records) | 536 | 💚 | [🔗](https://open.spotify.com/track/5a0nHa7F4S9hb0Zi0zLS8w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | imagine | thank u, next | [Ariana Grande](../../../artists/ariana_grande/overview.md) | [Republic Records](../../../labels/republic_records) | 590 | 💚 | [🔗](https://open.spotify.com/track/39LmTF9RgyakzSYX8txrow) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | In The Fall | Hwa:telier | [HWASA](../../../artists/hwasa/overview.md), WOOGIE | [RBW, Inc](../../../labels/rbw_inc_) | 743 | 💚 | [🔗](https://open.spotify.com/track/2esmbUCwduwG8SyN4RAwmM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a90c2921f01f4b0b2e54b32" alt="" width="50" /> | NEON | NEON | YUKIKA | ESTIMATE | nan | 💚 | [🔗](https://open.spotify.com/track/5dF22XUGeNAR3GBhMgshgp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737de8f56a39ec67a091457d04" alt="" width="50" /> | Four Seasons | Four Seasons | [TAEYEON](../../../artists/taeyeon/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/4ytyLpIwUXbdFsNOvgNnmP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | when the party's over | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](../../../artists/billie_eilish/overview.md) | [Darkroom](../../../labels/darkroom), [Interscope Records](../../../labels/interscope_records) | nan | 💚 | [🔗](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) |

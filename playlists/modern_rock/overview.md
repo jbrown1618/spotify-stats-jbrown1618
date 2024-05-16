@@ -65,7 +65,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb047095c90419cf2a97266f77" alt="" width="50" /> | 1 | 1 | Nine Inch Nails | [🔗](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2781a8f12aac83aaff949017" alt="" width="50" /> | 1 | 1 | Neon Trees | [🔗](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f9c3f0a123aecf196868c9c" alt="" width="50" /> | 1 | 1 | Michael Andrews | [🔗](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebef86feb3e2b9c57897ddc453" alt="" width="50" /> | 1 | 1 | Delta Sleep | [🔗](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd120e8e0aecc07343080c998" alt="" width="50" /> | 1 | 1 | Delta Sleep | [🔗](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc884df599abc793c116cdf15" alt="" width="50" /> | 4 | 0 | Foo Fighters | [🔗](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6ff0cd5ef2ecf733804984bb" alt="" width="50" /> | 3 | 0 | Green Day | [🔗](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb57332e3fc2b97bb33577e65" alt="" width="50" /> | 2 | 0 | The All-American Rejects | [🔗](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) |
@@ -78,7 +78,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 1 | 0 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb86bd93938c4811d1f94adf9f" alt="" width="50" /> | 1 | 0 | The Smashing Pumpkins | [🔗](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb78125a2515bc78080b2833e8" alt="" width="50" /> | 1 | 0 | cherryfilter | [🔗](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe93b88b6103a78ede975ebbe" alt="" width="50" /> | 1 | 0 | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2683402256e43935e2325cd8" alt="" width="50" /> | 1 | 0 | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c" alt="" width="50" /> | 1 | 0 | Guns N' Roses | [🔗](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) |
 | <img src="https://i.scdn.co/image/731f5f71de27c36300d2cf71a7f9cd7f389d0bf7" alt="" width="50" /> | 1 | 0 | Neutral Milk Hotel | [🔗](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd58661b3aa9d077580e8aa4e" alt="" width="50" /> | 1 | 0 | Smash Mouth | [🔗](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) |
@@ -110,15 +110,15 @@
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4aa9c49f8fedf1df4f84051" alt="The 2¢ Show" width="50" /> | Honeybee | 223 | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | Mr. Brightside | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | [Fake Plastic Trees](../../artists/radiohead/overview.md) | 233 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="In Rainbows" width="50" /> | [Reckoner](../../artists/radiohead/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | [Fake Plastic Trees](../../artists/radiohead/overview.md) | 232 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="In Rainbows" width="50" /> | [Reckoner](../../artists/radiohead/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Paranoid Android](../../artists/radiohead/overview.md) | 237 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> | Slow Cheetah | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="Bleed American" width="50" /> | The Middle | 247 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | [Clocks](../../artists/coldplay/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="Under The Blacklight (Standard Version)" width="50" /> | [Silver Lining](../../artists/rilo_kiley/overview.md) | 258 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> | Strip My Mind | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" alt="Fallen" width="50" /> | Bring Me To Life | 267 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Believer | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="Riot!" width="50" /> | Misery Business | 276 | <img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="Eye To The Telescope" width="50" /> | Black Horse And The Cherry Tree | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Me And My Broken Heart | 305 | <img src="https://i.scdn.co/image/ab67616d0000b273d0493658f351b1972a3f174a" alt="Made In Korea?" width="50" /> | sweet little kitty | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81" alt="Strange Trails" width="50" /> | The Night We Met | 310 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> | Dani California | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="An Awesome Wave" width="50" /> | Breezeblocks | 316 | <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="Metallica" width="50" /> | Nothing Else Matters | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="Bleed American" width="50" /> | The Middle | 250 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | [Clocks](../../artists/coldplay/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="Under The Blacklight (Standard Version)" width="50" /> | [Silver Lining](../../artists/rilo_kiley/overview.md) | 260 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> | Strip My Mind | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" alt="Fallen" width="50" /> | Bring Me To Life | 270 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Believer | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="Riot!" width="50" /> | Misery Business | 280 | <img src="https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da" alt="Eye To The Telescope" width="50" /> | Black Horse And The Cherry Tree | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Me And My Broken Heart | 307 | <img src="https://i.scdn.co/image/ab67616d0000b273d0493658f351b1972a3f174a" alt="Made In Korea?" width="50" /> | sweet little kitty | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="An Awesome Wave" width="50" /> | Breezeblocks | 309 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> | Dani California | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81" alt="Strange Trails" width="50" /> | The Night We Met | 311 | <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="Metallica" width="50" /> | Nothing Else Matters | nan |
 
 </details>
 
@@ -323,7 +323,7 @@
 |---:|---:|:---|
 | 65 | 37 | [rock](../../genres/rock/overview.md) |
 | 52 | 27 | [permanent wave](../../genres/permanent_wave/overview.md) |
-| 48 | 26 | [modern rock](../../genres/modern_rock/overview.md) |
+| 47 | 26 | [modern rock](../../genres/modern_rock/overview.md) |
 | 43 | 26 | [alternative rock](../../genres/alternative_rock/overview.md) |
 | 34 | 20 | [pop](../../genres/pop/overview.md) |
 | 19 | 17 | [art rock](../../genres/art_rock/overview.md) |
@@ -377,6 +377,7 @@
 | 3 | 2 | garage rock |
 | 2 | 2 | yacht rock |
 | 2 | 2 | washington indie |
+| 2 | 2 | symphonic rock |
 | 2 | 2 | [soft rock](../../genres/soft_rock/overview.md) |
 | 2 | 2 | new romantic |
 | 2 | 2 | neo-synthpop |
@@ -427,7 +428,6 @@
 | 1 | 1 | bubblegrunge |
 | 1 | 1 | british math rock |
 | 1 | 1 | brighton indie |
-| 1 | 1 | australian pop |
 
 </details>
 

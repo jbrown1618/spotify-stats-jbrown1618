@@ -11,24 +11,23 @@
 ## Artist Rank
 IU is currently:
 - The #1 artist of the last month
-- The #5 artist of the last 6 months
-- The #4 artist of all time
+- The #4 artist of the last 6 months
+- The #3 artist of all time
 
 ![Rank of IU over time](../../images/artists/iu/rank_time_series.png)
 ## Top Tracks
 
 - Holssi is:
-    - the #1 track of the On Repeat playlist
-    - the #5 track of the last month
+    - the #3 track of the On Repeat playlist
+    - the #16 track of the last month
     - the #3 track of the last 6 months
     - the #19 track of all time
 - The Red Shoes is:
-    - the #28 track of the last 6 months
+    - the #27 track of the last 6 months
     - the #39 track of all time
 - My sea is the #41 track of all time
 - Jam Jam is the #46 track of all time
-- Shh.. (Feat. HYEIN, WONSUN JOE & Special Narr. Patti Kim) is the #45 track of the last 6 months
-- Zezé is the #49 track of the last month
+- Shh.. (Feat. HYEIN, WONSUN JOE & Special Narr. Patti Kim) is the #44 track of the last 6 months
 
 ### Top tracks, aggregated
 
@@ -190,15 +189,15 @@ IU is currently:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1d785640d9421ec17ea8fe6" alt="" width="50" /> | BBIBBI | BBIBBI | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 17 | 💚 | [🔗](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | My sea | IU 5th Album 'LILAC' | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 19 | 💚 | [🔗](https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | Coin | IU 5th Album 'LILAC' | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 27 | 💚 | [🔗](https://open.spotify.com/track/7CZRguMolNqIobnXxpV735) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | My sea | IU 5th Album 'LILAC' | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 18 | 💚 | [🔗](https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | Coin | IU 5th Album 'LILAC' | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 28 | 💚 | [🔗](https://open.spotify.com/track/7CZRguMolNqIobnXxpV735) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | LILAC | IU 5th Album 'LILAC' | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 38 | 💚 | [🔗](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | Jam Jam | Palette | [IU](overview.md) | Fave Entertainment | 70 | 💚 | [🔗](https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | Holssi | The Winning | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 81 | 💚 | [🔗](https://open.spotify.com/track/0UTtK6hregIBOsefavRI26) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | The Red Shoes | Modern Times | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 132 | 💚 | [🔗](https://open.spotify.com/track/3atsk5EWI5fNxLMIJnfYfJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | Love wins all | The Winning | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 256 | 💚 | [🔗](https://open.spotify.com/track/53g7ZIvZE47H9pwXPFYMCH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | Shh.. (Feat. HYEIN, WONSUN JOE & Special Narr. Patti Kim) | The Winning | [IU](overview.md), HYEIN, Joe Won Sun, Patti Kim | [EDAM Entertainment](../../labels/edam_entertainment) | 265 | | [🔗](https://open.spotify.com/track/20uUaRkfRJZG15mXfn7LaU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | Shopper | The Winning | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 270 | 💚 | [🔗](https://open.spotify.com/track/1c6kkrWnpy68eYDfBdxNtF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | Jam Jam | Palette | [IU](overview.md) | Fave Entertainment | 71 | 💚 | [🔗](https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | Holssi | The Winning | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 77 | 💚 | [🔗](https://open.spotify.com/track/0UTtK6hregIBOsefavRI26) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | The Red Shoes | Modern Times | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 129 | 💚 | [🔗](https://open.spotify.com/track/3atsk5EWI5fNxLMIJnfYfJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | Shh.. (Feat. HYEIN, WONSUN JOE & Special Narr. Patti Kim) | The Winning | [IU](overview.md), HYEIN, Joe Won Sun, Patti Kim | [EDAM Entertainment](../../labels/edam_entertainment) | 253 | | [🔗](https://open.spotify.com/track/20uUaRkfRJZG15mXfn7LaU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | Love wins all | The Winning | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 259 | 💚 | [🔗](https://open.spotify.com/track/53g7ZIvZE47H9pwXPFYMCH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | Shopper | The Winning | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 273 | 💚 | [🔗](https://open.spotify.com/track/1c6kkrWnpy68eYDfBdxNtF) |
 
 
 <details>
@@ -206,18 +205,18 @@ IU is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | Modern Times | Modern Times | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 295 | 💚 | [🔗](https://open.spotify.com/track/38Dwg8OrUClCZl2wzUKrmi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | YOU&I | Last Fantasy | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 377 | 💚 | [🔗](https://open.spotify.com/track/37S86pw74OH8j96ZmMnrpR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | above the time | Love poem | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 457 | 💚 | [🔗](https://open.spotify.com/track/2qKZnheMe0HhqYC1XJcdaA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | unlucky | Love poem | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 488 | 💚 | [🔗](https://open.spotify.com/track/1jsY6pQeNaEConZWGau1L4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27335dbb67e8e2d12ab91d449b5" alt="" width="50" /> | Scary Fairy Tale | REAL+ | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 495 | 💚 | [🔗](https://open.spotify.com/track/4I7QHqHq3luA1ygpWZqqBV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | People Pt.2 (feat. IU) | D-DAY | [Agust D](../agust_d/overview.md), [IU](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 616 | 💚 | [🔗](https://open.spotify.com/track/41JPN7pZMTp1sumBOHOzHd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | 4AM | Last Fantasy | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 637 | | [🔗](https://open.spotify.com/track/3K2qsjNSynFOx2XHTHGXT2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | dlwlrma | Palette | [IU](overview.md) | Fave Entertainment | 679 | 💚 | [🔗](https://open.spotify.com/track/4NPARrLIbtMl29ZJv8ESr2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="" width="50" /> | NAKKA (with IU) | NEXT EPISODE | [AKMU](../akmu/overview.md), [IU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 748 | 💚 | [🔗](https://open.spotify.com/track/4t2FIqZJORKZGSKg30SShr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730d378c4756c4fc34b7d3eeaf" alt="" width="50" /> | Winter Sleep | Pieces | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 768 | 💚 | [🔗](https://open.spotify.com/track/2y4hHM6c48Qzk0bqh33XfB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736a0cfc4171d2a0cb9dc7c9ab" alt="" width="50" /> | Zezé | CHAT-SHIRE | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 782 | 💚 | [🔗](https://open.spotify.com/track/1dwOTQnBuN8LeVX4jNwJXS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c63be04ae902b1da7a54d247" alt="" width="50" /> | eight(Prod.&Feat. SUGA of BTS) | eight | [IU](overview.md), SUGA | [EDAM Entertainment](../../labels/edam_entertainment) | 788 | 💚 | [🔗](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | Modern Times | Modern Times | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 296 | 💚 | [🔗](https://open.spotify.com/track/38Dwg8OrUClCZl2wzUKrmi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | YOU&I | Last Fantasy | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 380 | 💚 | [🔗](https://open.spotify.com/track/37S86pw74OH8j96ZmMnrpR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | above the time | Love poem | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 460 | 💚 | [🔗](https://open.spotify.com/track/2qKZnheMe0HhqYC1XJcdaA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | unlucky | Love poem | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 493 | 💚 | [🔗](https://open.spotify.com/track/1jsY6pQeNaEConZWGau1L4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27335dbb67e8e2d12ab91d449b5" alt="" width="50" /> | Scary Fairy Tale | REAL+ | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 500 | 💚 | [🔗](https://open.spotify.com/track/4I7QHqHq3luA1ygpWZqqBV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | People Pt.2 (feat. IU) | D-DAY | [Agust D](../agust_d/overview.md), [IU](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 618 | 💚 | [🔗](https://open.spotify.com/track/41JPN7pZMTp1sumBOHOzHd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | 4AM | Last Fantasy | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 639 | | [🔗](https://open.spotify.com/track/3K2qsjNSynFOx2XHTHGXT2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | dlwlrma | Palette | [IU](overview.md) | Fave Entertainment | 678 | 💚 | [🔗](https://open.spotify.com/track/4NPARrLIbtMl29ZJv8ESr2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="" width="50" /> | NAKKA (with IU) | NEXT EPISODE | [AKMU](../akmu/overview.md), [IU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 756 | 💚 | [🔗](https://open.spotify.com/track/4t2FIqZJORKZGSKg30SShr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d378c4756c4fc34b7d3eeaf" alt="" width="50" /> | Winter Sleep | Pieces | [IU](overview.md) | [EDAM Entertainment](../../labels/edam_entertainment) | 778 | 💚 | [🔗](https://open.spotify.com/track/2y4hHM6c48Qzk0bqh33XfB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736a0cfc4171d2a0cb9dc7c9ab" alt="" width="50" /> | Zezé | CHAT-SHIRE | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | 786 | 💚 | [🔗](https://open.spotify.com/track/1dwOTQnBuN8LeVX4jNwJXS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c63be04ae902b1da7a54d247" alt="" width="50" /> | eight(Prod.&Feat. SUGA of BTS) | eight | [IU](overview.md), SUGA | [EDAM Entertainment](../../labels/edam_entertainment) | 795 | 💚 | [🔗](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1bb22f3ae0fe8b97bda6931" alt="" width="50" /> | lost child | Lost and Found | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | nan | | [🔗](https://open.spotify.com/track/1EzYoGGkr0azLsiq8svGSl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315cf3110f19687b1a24943d1" alt="" width="50" /> | Good day | REAL | [IU](overview.md) | [Kakao Entertainment](../../labels/kakao_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315cf3110f19687b1a24943d1" alt="" width="50" /> | Merry Christmas ahead (feat.Chundung) | REAL | [IU](overview.md), Chundung | [Kakao Entertainment](../../labels/kakao_entertainment) | nan | | [🔗](https://open.spotify.com/track/6I9Y6PHTWv72fgQV3tIHt0) |

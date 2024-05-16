@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="Pop" width="100" />
 
-[427 tracks (309 liked) 🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh)
+[428 tracks (310 liked) 🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh)
 
 [See Track Features](audio_features.md)
 
@@ -87,7 +87,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 2 | 2 | [Michael Bublé](../../artists/michael_bublé/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3" alt="" width="50" /> | 2 | 2 | Lorde | [🔗](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaee73c0f0458b95091845ee1" alt="" width="50" /> | 2 | 2 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0c3c7f83cf57525762802a1d" alt="" width="50" /> | 3 | 1 | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0eefd7d68573ea8f0f4db84a" alt="" width="50" /> | 3 | 1 | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f" alt="" width="50" /> | 3 | 1 | Calvin Harris | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c" alt="" width="50" /> | 3 | 1 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | 3 | 1 | Fifth Harmony | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
@@ -138,16 +138,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | [Take It All](../../artists/adele/overview.md) | 229 | <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="Dreamland (+ Bonus Levels)" width="50" /> | Heat Waves | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything (Deluxe)" width="50" /> | [Problem](../../artists/ariana_grande/overview.md) | 253 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | [Leave The Door Open](../../artists/bruno_mars/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [you should see me in a crown](../../artists/billie_eilish/overview.md) | 259 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="1989" width="50" /> | [Clean](../../artists/taylor_swift/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="SOS" width="50" /> | Kill Bill | 263 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="reputation" width="50" /> | [This Is Why We Can't Have Nice Things](../../artists/taylor_swift/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736b18d0490878750cd69abf2c" alt="Bangerz (Deluxe Version)" width="50" /> | Wrecking Ball | 280 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="Loud" width="50" /> | [S&M](../../artists/rihanna/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="No Time To Die" width="50" /> | [No Time To Die](../../artists/billie_eilish/overview.md) | 282 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [epiphany](../../artists/taylor_swift/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | [What Now](../../artists/rihanna/overview.md) | 288 | <img src="https://i.scdn.co/image/ab67616d0000b273e859698c8fe21d42a13ec252" alt="SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)" width="50" /> | SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Me And My Broken Heart | 305 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | [Clocks](../../artists/coldplay/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Get Lucky (feat. Pharrell Williams and Nile Rodgers)](../../artists/daft_punk/overview.md) | 362 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="Good Girl Gone Bad: Reloaded" width="50" /> | [Don't Stop The Music](../../artists/rihanna/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="minor" width="50" /> | I miss you, I’m sorry | 379 | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="Fifty Shades Freed (Original Motion Picture Soundtrack)" width="50" /> | Love Me Like You Do | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | [Take It All](../../artists/adele/overview.md) | 230 | <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="Dreamland (+ Bonus Levels)" width="50" /> | Heat Waves | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything (Deluxe)" width="50" /> | [Problem](../../artists/ariana_grande/overview.md) | 256 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | [Leave The Door Open](../../artists/bruno_mars/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [you should see me in a crown](../../artists/billie_eilish/overview.md) | 261 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="1989" width="50" /> | [Clean](../../artists/taylor_swift/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="SOS" width="50" /> | Kill Bill | 266 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="reputation" width="50" /> | [This Is Why We Can't Have Nice Things](../../artists/taylor_swift/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736b18d0490878750cd69abf2c" alt="Bangerz (Deluxe Version)" width="50" /> | Wrecking Ball | 283 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="Loud" width="50" /> | [S&M](../../artists/rihanna/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="No Time To Die" width="50" /> | [No Time To Die](../../artists/billie_eilish/overview.md) | 286 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [epiphany](../../artists/taylor_swift/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | [What Now](../../artists/rihanna/overview.md) | 291 | <img src="https://i.scdn.co/image/ab67616d0000b273e859698c8fe21d42a13ec252" alt="SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)" width="50" /> | SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Me And My Broken Heart | 307 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | [Clocks](../../artists/coldplay/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Get Lucky (feat. Pharrell Williams and Nile Rodgers)](../../artists/daft_punk/overview.md) | 363 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="Good Girl Gone Bad: Reloaded" width="50" /> | [Don't Stop The Music](../../artists/rihanna/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="minor" width="50" /> | I miss you, I’m sorry | 381 | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="Fifty Shades Freed (Original Motion Picture Soundtrack)" width="50" /> | Love Me Like You Do | nan |
 
 </details>
 
@@ -337,6 +337,7 @@
 | 2 | 1 | Dirty Hit |
 | 2 | 1 | Cash Money |
 | 1 | 1 | under exclusive license to Interscope Records |
+| 1 | 1 | iamcosmic |
 | 1 | 1 | half·alive |
 | 1 | 1 | ZAR |
 | 1 | 1 | Wolf Tone |
@@ -378,7 +379,6 @@
 | 1 | 1 | [EMI](../../labels/emi/overview.md) |
 | 1 | 1 | Downtown Recordings |
 | 1 | 1 | Capitol Records UK |
-| 1 | 1 | Capitol Records (US1A) |
 
 </details>
 
@@ -389,7 +389,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 340 | 244 | [pop](../../genres/pop/overview.md) |
+| 341 | 245 | [pop](../../genres/pop/overview.md) |
 | 108 | 76 | [dance pop](../../genres/dance_pop/overview.md) |
 | 34 | 26 | [art pop](../../genres/art_pop/overview.md) |
 | 34 | 23 | [uk pop](../../genres/uk_pop/overview.md) |
@@ -631,7 +631,7 @@
 | 2023 | 7 |
 | 2022 | 14 |
 | [2021](2021/overview.md) | 26 |
-| [2020](2020/overview.md) | 52 |
+| [2020](2020/overview.md) | 53 |
 | [2019](2019/overview.md) | 48 |
 | [2018](2018/overview.md) | 26 |
 | [2017](2017/overview.md) | 27 |

@@ -82,16 +82,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | [Sweet Venom](../../artists/enhypen/overview.md) | 61 | <img src="https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f" alt="Star Time" width="50" /> | Papa's Got A Brand New Bag | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> | [enchanted night ~ white night](../../artists/billlie/overview.md) | 83 | <img src="https://i.scdn.co/image/ab67616d0000b27330bb42e5271f2e046fd36972" alt="That&#x27;s The Way Of The World" width="50" /> | Shining Star | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="Born to be XX" width="50" /> | [Nobody Knows](../../artists/kiss_of_life/overview.md) | 104 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8ab1a548312b79ac955266" alt="Innervisions" width="50" /> | Higher Ground | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="TEN - The 1st Mini Album" width="50" /> | [Dangerous](../../artists/ten/overview.md) | 131 | <img src="https://i.scdn.co/image/ab67616d0000b27331ae071f3db459be2501ea13" alt="Nightbirds" width="50" /> | Lady Marmalade | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | [Sweet Venom](../../artists/enhypen/overview.md) | 60 | <img src="https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f" alt="Star Time" width="50" /> | Papa's Got A Brand New Bag | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> | [enchanted night ~ white night](../../artists/billlie/overview.md) | 82 | <img src="https://i.scdn.co/image/ab67616d0000b27330bb42e5271f2e046fd36972" alt="That&#x27;s The Way Of The World" width="50" /> | Shining Star | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="Born to be XX" width="50" /> | [Nobody Knows](../../artists/kiss_of_life/overview.md) | 103 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8ab1a548312b79ac955266" alt="Innervisions" width="50" /> | Higher Ground | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="TEN - The 1st Mini Album" width="50" /> | [Dangerous](../../artists/ten/overview.md) | 124 | <img src="https://i.scdn.co/image/ab67616d0000b27331ae071f3db459be2501ea13" alt="Nightbirds" width="50" /> | Lady Marmalade | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="Undo" width="50" /> | [Undo](../../artists/heize/overview.md) | 206 | <img src="https://i.scdn.co/image/ab67616d0000b27395605660a166c33bbf6d4a25" alt="&amp; Co." width="50" /> | Endurtaka Mig | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [In My Bones (feat. Kimbra & Tank and The Bangas)](../../artists/jacob_collier/overview.md) | 514 | <img src="https://i.scdn.co/image/ab67616d0000b27364c6ef51927c575ed9f464cf" alt="Bloody Tourists" width="50" /> | Dreadlock Holiday | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> | [nevertheless](../../artists/billlie/overview.md) | 558 | <img src="https://i.scdn.co/image/ab67616d0000b2730f7e2aa2f1d7ea0fd2e206c0" alt="The Fearless Flyers" width="50" /> | Ace of Aces | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27356035da9eacd668ffdfacb36" alt="Starlit of Muse" width="50" /> | TOUCHIN&MOVIN | 640 | <img src="https://i.scdn.co/image/ab67616d0000b27323fb02f383f3bef16ab9d092" alt="It Is What It Is" width="50" /> | Funny Thing | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb03213742765479b3b1cf11" alt="Tailwinds" width="50" /> | Nate Smith Is the Ace of Aces | 696 | <img src="https://i.scdn.co/image/ab67616d0000b273f93159d78849714fcf118bb3" alt="Deceptive Bends" width="50" /> | Good Morning Judge | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="NEXT EPISODE" width="50" /> | [NAKKA (with IU)](../../artists/akmu/overview.md) | 748 | <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="The Definitive Collection" width="50" /> | Superstition - Single Version | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [In My Bones (feat. Kimbra & Tank and The Bangas)](../../artists/jacob_collier/overview.md) | 516 | <img src="https://i.scdn.co/image/ab67616d0000b27364c6ef51927c575ed9f464cf" alt="Bloody Tourists" width="50" /> | Dreadlock Holiday | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> | [nevertheless](../../artists/billlie/overview.md) | 560 | <img src="https://i.scdn.co/image/ab67616d0000b2730f7e2aa2f1d7ea0fd2e206c0" alt="The Fearless Flyers" width="50" /> | Ace of Aces | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356035da9eacd668ffdfacb36" alt="Starlit of Muse" width="50" /> | TOUCHIN&MOVIN | 641 | <img src="https://i.scdn.co/image/ab67616d0000b27323fb02f383f3bef16ab9d092" alt="It Is What It Is" width="50" /> | Funny Thing | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb03213742765479b3b1cf11" alt="Tailwinds" width="50" /> | Nate Smith Is the Ace of Aces | 703 | <img src="https://i.scdn.co/image/ab67616d0000b273f93159d78849714fcf118bb3" alt="Deceptive Bends" width="50" /> | Good Morning Judge | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="NEXT EPISODE" width="50" /> | [NAKKA (with IU)](../../artists/akmu/overview.md) | 756 | <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="The Definitive Collection" width="50" /> | Superstition - Single Version | nan |
 
 </details>
 
@@ -228,7 +228,7 @@
 
 
 <details>
-<summary>See all 46 genres</summary>
+<summary>See all 47 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -237,6 +237,7 @@
 | 4 | 2 | [soft rock](../../genres/soft_rock/overview.md) |
 | 3 | 2 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 2 | 2 | yacht rock |
+| 2 | 2 | symphonic rock |
 | 2 | 2 | psychedelic soul |
 | 2 | 2 | [pop](../../genres/pop/overview.md) |
 | 2 | 2 | new romantic |

@@ -52,7 +52,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b3c0f33bc5e3f6a53f84d7" alt="" width="50" /> | 2 | 0 | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf556662d187b9191c421be1c" alt="" width="50" /> | 2 | 0 | 2 Chainz | [🔗](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf893feb44e74c8b4c15ecc95" alt="" width="50" /> | 1 | 0 | Lil Jon | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0c3c7f83cf57525762802a1d" alt="" width="50" /> | 1 | 0 | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0eefd7d68573ea8f0f4db84a" alt="" width="50" /> | 1 | 0 | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
 | <img src="https://i.scdn.co/image/a3823abbd476fa00cdf95a9f5cbbe09d2f96add2" alt="" width="50" /> | 1 | 0 | Jamie Foxx | [🔗](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8cb4e620836d2131fa92939" alt="" width="50" /> | 1 | 0 | KAYTRANADA | [🔗](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb84a0dd74f21e8acce6a9fd49" alt="" width="50" /> | 1 | 0 | Linkin Park | [🔗](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) |
@@ -92,10 +92,10 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" alt="Kings Of Crunk" width="50" /> | Get Low | 371 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="Flockaveli" width="50" /> | No Hands (feat. Roscoe Dash & Wale) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="The Marshall Mathers LP2" width="50" /> | [The Monster](../../artists/eminem/overview.md) | 549 | <img src="https://i.scdn.co/image/ab67616d0000b273790fab52efbb2d55bddbd247" alt="Trendsetter" width="50" /> | Trendsetter | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | [We Made You](../../artists/eminem/overview.md) | 668 | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Can't Tell Me Nothing | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732b9aca3204e667980ce6a939" alt="BUBBA" width="50" /> | Go DJ (feat. SiR) | 772 | <img src="https://i.scdn.co/image/ab67616d0000b2735db09bde92cc685403d7068f" alt="Elephunk" width="50" /> | Where Is The Love? | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" alt="Kings Of Crunk" width="50" /> | Get Low | 374 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="Flockaveli" width="50" /> | No Hands (feat. Roscoe Dash & Wale) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="The Marshall Mathers LP2" width="50" /> | [The Monster](../../artists/eminem/overview.md) | 550 | <img src="https://i.scdn.co/image/ab67616d0000b273790fab52efbb2d55bddbd247" alt="Trendsetter" width="50" /> | Trendsetter | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | [We Made You](../../artists/eminem/overview.md) | 673 | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Can't Tell Me Nothing | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732b9aca3204e667980ce6a939" alt="BUBBA" width="50" /> | Go DJ (feat. SiR) | 774 | <img src="https://i.scdn.co/image/ab67616d0000b2735db09bde92cc685403d7068f" alt="Elephunk" width="50" /> | Where Is The Love? | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="Last Train To Paris" width="50" /> | Hello Good Morning | nan | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="Recovery" width="50" /> | [Love The Way You Lie](../../artists/eminem/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733eecc265c134153c14794aab" alt="Area Codes" width="50" /> | Area Codes | nan | <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Late Registration" width="50" /> | Gold Digger | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="Rap Or Go To The League" width="50" /> | Momma I Hit A Lick (feat. Kendrick Lamar) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273f82c7e4376cf8267fb396b7d" alt="Mack Daddy" width="50" /> | Baby Got Back | nan |
@@ -237,8 +237,8 @@
 | 9 | 7 | [pop](../../genres/pop/overview.md) |
 | 8 | 6 | west coast rap |
 | 6 | 5 | [dance pop](../../genres/dance_pop/overview.md) |
+| 15 | 4 | pop rap |
 | 4 | 4 | detroit hip hop |
-| 14 | 3 | pop rap |
 | 6 | 3 | atl hip hop |
 | 6 | 2 | trap |
 

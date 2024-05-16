@@ -12,13 +12,12 @@
 Taylor Swift is currently:
 - The #7 artist of the last month
 - The #11 artist of the last 6 months
-- The #15 artist of all time
+- The #14 artist of all time
 
 ![Rank of Taylor Swift over time](../../images/artists/taylor_swift/rank_time_series.png)
 ## Top Tracks
 
-- The Smallest Man Who Ever Lived is the #16 track of the last month
-- The Manuscript is the #47 track of the last month
+- The Smallest Man Who Ever Lived is the #21 track of the last month
 
 ### Top tracks, aggregated
 
@@ -229,10 +228,10 @@ Taylor Swift is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b" alt="" width="50" /> | Santa Baby | The Taylor Swift Holiday Collection | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 303 | | [🔗](https://open.spotify.com/track/71IScwIe7bcIlpnlkbKVQw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Death By A Thousand Cuts | Lover | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | 709 | 💚 | [🔗](https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | exile (feat. Bon Iver) | folklore | [Taylor Swift](overview.md), Bon Iver | [Taylor Swift](../../labels/taylor_swift) | 722 | 💚 | [🔗](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Begin Again | Red | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 753 | 💚 | [🔗](https://open.spotify.com/track/0L4YCNRfXAoTvdpWeH2RGj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b" alt="" width="50" /> | Santa Baby | The Taylor Swift Holiday Collection | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 305 | | [🔗](https://open.spotify.com/track/71IScwIe7bcIlpnlkbKVQw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Death By A Thousand Cuts | Lover | [Taylor Swift](overview.md) | [Taylor Swift](../../labels/taylor_swift) | 715 | 💚 | [🔗](https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | exile (feat. Bon Iver) | folklore | [Taylor Swift](overview.md), Bon Iver | [Taylor Swift](../../labels/taylor_swift) | 727 | 💚 | [🔗](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Begin Again | Red | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | 760 | 💚 | [🔗](https://open.spotify.com/track/0L4YCNRfXAoTvdpWeH2RGj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Forever & Always | Fearless | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | nan | | [🔗](https://open.spotify.com/track/47HtKpfzpAt8rQjjXWotFj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Love Story | Fearless | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | nan | | [🔗](https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | You Belong With Me | Fearless | [Taylor Swift](overview.md) | [Big Machine Records, LLC](../../labels/big_machine_records) | nan | | [🔗](https://open.spotify.com/track/3GCL1PydwsLodcpv0Ll1ch) |

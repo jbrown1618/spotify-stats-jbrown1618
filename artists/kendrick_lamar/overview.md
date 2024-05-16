@@ -17,6 +17,7 @@ Kendrick Lamar:
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020b1cfc3df4d9d5d4cbce9208ab67616d00001e0210356a0e81371e6644cb1371ab67616d00001e02c08d5fa5c0f1a834acef5100ab67616d00001e02c450c89d3eb750d3535b0a0c" alt="" width="50" /> | 9 | [Hip Hop](../../playlists/hip_hop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e0286ca91e718866f411c01db5eab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02ce4f1737bc8a646c8c4bd25a" alt="" width="50" /> | 1 | [Beat Drop!](../../playlists/beat_drop!/overview.md) |
+| <img src="https://i.scdn.co/image/ab67616d00001e021ea0c62b2339cbf493a999ad" alt="" width="50" /> | 1 | [Check Out Later](../../playlists/check_out_later/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02830de2e836036f181df598d0ab67616d00001e02af2fda9fb591d43c355c2ac3ab67616d00001e02cc6f76f75551af499b5cd0cbab67616d00001e02da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 
 ## Top Albums
@@ -29,6 +30,7 @@ Kendrick Lamar:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797" alt="" width="50" /> | 1 | 0 | good kid, m.A.A.d city | 2012 | [🔗](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1" alt="" width="50" /> | 1 | 0 | To Pimp A Butterfly | 2015-03-16 | [🔗](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="" width="50" /> | 1 | 0 | Rap Or Go To The League | 2019-03-01 | [🔗](https://open.spotify.com/album/1BR69wIifGZUSimcuTjWVg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad" alt="" width="50" /> | 1 | 0 | Not Like Us | 2024-05-04 | [🔗](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) |
 
 ## Top Record Labels
 
@@ -40,6 +42,8 @@ Kendrick Lamar:
 | 2 | 2 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 1 | 1 | DMG) PS |
 | 1 | 1 | Black Panther (TDE |
+| 1 | 0 | under exclusive license to Interscope Records |
+| 1 | 0 | Kendrick Lamar |
 | 1 | 0 | Gamebread |
 | 1 | 0 | [Def Jam Recordings](../../labels/def_jam_recordings/overview.md) |
 
@@ -128,3 +132,4 @@ Kendrick Lamar:
 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="" width="50" /> | Momma I Hit A Lick (feat. Kendrick Lamar) | Rap Or Go To The League | 2 Chainz, [Kendrick Lamar](overview.md) | [Gamebread, LLC / Def Jam Recordings](../../labels/def_jam_recordings) | nan | | [🔗](https://open.spotify.com/track/7jKUnzzOGhAlPjr7LkIUlE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | Count Me Out | Mr. Morale & The Big Steppers | [Kendrick Lamar](overview.md) | Top Dawg Entertainment, [Aftermath](../../labels/aftermath), [Interscope Records](../../labels/interscope_records), pgLang | nan | 💚 | [🔗](https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | United In Grief | Mr. Morale & The Big Steppers | [Kendrick Lamar](overview.md) | Top Dawg Entertainment, [Aftermath](../../labels/aftermath), [Interscope Records](../../labels/interscope_records), pgLang | nan | 💚 | [🔗](https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad" alt="" width="50" /> | Not Like Us | Not Like Us | [Kendrick Lamar](overview.md) | Kendrick Lamar, under exclusive license to Interscope Records | nan | | [🔗](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) |

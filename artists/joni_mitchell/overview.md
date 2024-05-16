@@ -7,9 +7,6 @@
 ## Artist Rank
 
 
-## Top Tracks
-
-- The Dawntreader is the #44 track of the last month
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -73,7 +70,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="" width="50" /> | The Dawntreader | Song to a Seagull | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 723 | | [🔗](https://open.spotify.com/track/0KE9YElZqPumrpm9ovtXlN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="" width="50" /> | The Dawntreader | Song to a Seagull | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 726 | | [🔗](https://open.spotify.com/track/0KE9YElZqPumrpm9ovtXlN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="" width="50" /> | I Had a King | Song to a Seagull | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | nan | 💚 | [🔗](https://open.spotify.com/track/6rj2z2taVIxPRnzx5LJkGm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="" width="50" /> | The Pirate of Penance | Song to a Seagull | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | nan | | [🔗](https://open.spotify.com/track/53QbBfo0PTUKfOBM0YoPU7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b80ea8399313aeffb10b0acb" alt="" width="50" /> | Big Yellow Taxi | Ladies of the Canyon | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | nan | 💚 | [🔗](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) |

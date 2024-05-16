@@ -32,10 +32,10 @@ TWICE is currently:
 ## Top Tracks
 
 - SET ME FREE is the #35 track of all time
-- Feel Special is the #10 track of the last month
-- I GOT YOU is the #23 track of the last month
-- BLOOM is the #34 track of the last month
-- ONE SPARK is the #41 track of the last month
+- Feel Special is the #13 track of the last month
+- I GOT YOU is the #30 track of the last month
+- BLOOM is the #41 track of the last month
+- ONE SPARK is the #48 track of the last month
 
 ### Top tracks, aggregated
 
@@ -250,10 +250,10 @@ TWICE is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | The Feels | Formula of Love: O+T=<3 | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 137 | 💚 | [🔗](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | What is Love | Summer Nights | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 140 | 💚 | [🔗](https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | WALLFLOWER | READY TO BE | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 153 | 💚 | [🔗](https://open.spotify.com/track/6EGkbPJrb88STcdfMu1j1y) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="" width="50" /> | Heart Shaker | Merry & Happy | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 165 | 💚 | [🔗](https://open.spotify.com/track/52FCAZn0YEkZfF0BtiAUMW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | BLAME IT ON ME | READY TO BE | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 170 | 💚 | [🔗](https://open.spotify.com/track/2hQdmjAhYEuMuqNWZCsz1J) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ae9084b7cfa8281932d9cb9" alt="" width="50" /> | CRY FOR ME | CRY FOR ME | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 248 | 💚 | [🔗](https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="" width="50" /> | Merry & Happy | Merry & Happy | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 260 | | [🔗](https://open.spotify.com/track/59TGiILFEI1NYSFcxyFiUZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="" width="50" /> | Heart Shaker | Merry & Happy | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 167 | 💚 | [🔗](https://open.spotify.com/track/52FCAZn0YEkZfF0BtiAUMW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | BLAME IT ON ME | READY TO BE | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 172 | 💚 | [🔗](https://open.spotify.com/track/2hQdmjAhYEuMuqNWZCsz1J) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ae9084b7cfa8281932d9cb9" alt="" width="50" /> | CRY FOR ME | CRY FOR ME | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 251 | 💚 | [🔗](https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="" width="50" /> | Merry & Happy | Merry & Happy | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 262 | | [🔗](https://open.spotify.com/track/59TGiILFEI1NYSFcxyFiUZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | BLOOM | With YOU-th | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 275 | 💚 | [🔗](https://open.spotify.com/track/4bheT1Drc2vyQgN5VTwr8W) |
 
 
@@ -262,18 +262,18 @@ TWICE is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | ONE SPARK | With YOU-th | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 283 | 💚 | [🔗](https://open.spotify.com/track/7cIn67LEvk16v6komC8znS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | First Time | Taste of Love | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 349 | 💚 | [🔗](https://open.spotify.com/track/3YdqewCLgGsFhruA3EhILy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | Feel Special | Feel Special | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 425 | 💚 | [🔗](https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | I GOT YOU | With YOU-th | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 451 | 💚 | [🔗](https://open.spotify.com/track/0mgveJEIGjcN51w4JIQtI6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | FANCY | FANCY YOU | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 510 | 💚 | [🔗](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="" width="50" /> | Like Ooh-Ahh | The Story Begins | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 521 | 💚 | [🔗](https://open.spotify.com/track/3c0CJ0DBgsGZ7I79lyx02Z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | Dance The Night Away | Summer Nights | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 642 | 💚 | [🔗](https://open.spotify.com/track/4DYIDSMIB5y2UmZFv9fxeX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | CRAZY STUPID LOVE | READY TO BE | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 660 | 💚 | [🔗](https://open.spotify.com/track/0jn8sYeWOdYHjdF2cBmF75) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273579e945923463492cb43a5ce" alt="" width="50" /> | Perfect World | Perfect World | [TWICE](overview.md) | [WM Japan](../../labels/wm_japan) | 680 | | [🔗](https://open.spotify.com/track/0iuZMy88H6vxDA2oaJNhJg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | MOONLIGHT SUNRISE | READY TO BE | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 701 | 💚 | [🔗](https://open.spotify.com/track/5IN9W6eUfk3014My9awagX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | SCIENTIST | Formula of Love: O+T=<3 | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 746 | 💚 | [🔗](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="" width="50" /> | Likey | Twicetagram | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 780 | 💚 | [🔗](https://open.spotify.com/track/0IEVKWduAaMcZepZQVr80T) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | ONE SPARK | With YOU-th | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 285 | 💚 | [🔗](https://open.spotify.com/track/7cIn67LEvk16v6komC8znS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | First Time | Taste of Love | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 350 | 💚 | [🔗](https://open.spotify.com/track/3YdqewCLgGsFhruA3EhILy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | Feel Special | Feel Special | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 395 | 💚 | [🔗](https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | I GOT YOU | With YOU-th | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 432 | 💚 | [🔗](https://open.spotify.com/track/0mgveJEIGjcN51w4JIQtI6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | FANCY | FANCY YOU | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 513 | 💚 | [🔗](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce17f432c79c5e45ce88688f" alt="" width="50" /> | Like Ooh-Ahh | The Story Begins | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 522 | 💚 | [🔗](https://open.spotify.com/track/3c0CJ0DBgsGZ7I79lyx02Z) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27340d7efd2594a2b6bda60ea18" alt="" width="50" /> | Dance The Night Away | Summer Nights | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 646 | 💚 | [🔗](https://open.spotify.com/track/4DYIDSMIB5y2UmZFv9fxeX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | CRAZY STUPID LOVE | READY TO BE | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 665 | 💚 | [🔗](https://open.spotify.com/track/0jn8sYeWOdYHjdF2cBmF75) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273579e945923463492cb43a5ce" alt="" width="50" /> | Perfect World | Perfect World | [TWICE](overview.md) | [WM Japan](../../labels/wm_japan) | 684 | | [🔗](https://open.spotify.com/track/0iuZMy88H6vxDA2oaJNhJg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | MOONLIGHT SUNRISE | READY TO BE | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 704 | 💚 | [🔗](https://open.spotify.com/track/5IN9W6eUfk3014My9awagX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | SCIENTIST | Formula of Love: O+T=<3 | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 748 | 💚 | [🔗](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736034eda385497f614778f457" alt="" width="50" /> | Likey | Twicetagram | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | 783 | 💚 | [🔗](https://open.spotify.com/track/0IEVKWduAaMcZepZQVr80T) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e9e3a1adcc32090690fd0b6" alt="" width="50" /> | CHEER UP | Page Two | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/7lB4rxNVc7vm33ZSZXVRAQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273387444ab2fc1f08dfe7915ab" alt="" width="50" /> | TT | Twicecoaster: Lane 1 | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/60jFaQV7Z4boGC4ob5B5c6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d07e49e3e5a8e79903713354" alt="" width="50" /> | Signal | SIGNAL | [TWICE](overview.md) | [Republic Records](../../labels/republic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/15rX80MpEJ2OqW3dPunQvI) |

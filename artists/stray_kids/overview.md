@@ -23,6 +23,7 @@ Stray Kids:
 
 ## Artist Rank
 Stray Kids is currently:
+- The #31 artist of the last month
 - The #8 artist of the last 6 months
 - The #9 artist of all time
 
@@ -31,8 +32,9 @@ Stray Kids is currently:
 
 - Thunderous is the #15 track of all time
 - MEGAVERSE is:
-    - the #11 track of the last 6 months
+    - the #10 track of the last 6 months
     - the #37 track of all time
+- Social Path (Feat. LiSA) (Korean Ver.) is the #50 track of the last 6 months
 
 ### Top tracks, aggregated
 
@@ -48,7 +50,7 @@ Stray Kids is currently:
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 47 | [K-Pop](../../playlists/k-pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 48 | [K-Pop](../../playlists/k-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e026f248f7695eb544a3a1955c5ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e028acb7bac073f378d59bf228eab67616d00001e02b3be3b970fc89a02f301c9da" alt="" width="50" /> | 13 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 7 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022c0252c4e4a988f024e4d262ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 6 | [Chill](../../playlists/chill/overview.md) |
@@ -60,7 +62,7 @@ Stray Kids is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020c053ee476f7ce576369241eab67616d00001e02119e4094f07a8123b471ac1dab67616d00001e022a0face7d69df61c20a6db2bab67616d00001e02cfbcba7cc35a40e08e5aff67" alt="" width="50" /> | 3 | [Christmas](../../playlists/christmas/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022270d3bd1d13133edf0be836ab67616d00001e026017bca98dea58ceddea77c1ab67616d00001e02a0df2d59f0ae9426cba3eb36ab67616d00001e02cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 2 | [Cursed English](../../playlists/cursed_english/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e025c041fe9e3c9de436047d86bab67616d00001e02714e56679ab196354e2e443eab67616d00001e027a393b04e8ced571618223e8ab67616d00001e027dd8f95320e8ef08aa121dfe" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k-pop_101/overview.md) |
-| <img src="https://i.scdn.co/image/ab67616d00001e025ba0dedb513880cf318f15cb" alt="" width="50" /> | 1 | [Check Out Later](../../playlists/check_out_later/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02470d0ba5f707b141d1337cf2ab67616d00001e0281d97a31253b898bc4149195ab67616d00001e029104b6efe6c3483f605d9633ab67616d00001e02c74be23f27696b57c67f5489" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02830de2e836036f181df598d0ab67616d00001e02af2fda9fb591d43c355c2ac3ab67616d00001e02cc6f76f75551af499b5cd0cbab67616d00001e02da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 | <img src="https://wrapped-images.spotifycdn.com/image/yts-2023/default/your-top-songs-2023_DEFAULT_en.jpg" alt="" width="50" /> | 1 | [Your Top Songs 2023](../../playlists/your_top_songs_2023/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0282b88b49dd9a1b387cb3f0c6ab67616d00001e0293f60760427ff9cb94a5ba96ab67616d00001e02d2ef237da7f94762997c2083ab67616d00001e02e9cd59d664f597061a513038" alt="" width="50" /> | 1 | [Classical Samples](../../playlists/classical_samples/overview.md) |
@@ -88,13 +90,13 @@ Stray Kids is currently:
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="" width="50" /> | 1 | 1 | There | 2023-02-15 | [🔗](https://open.spotify.com/album/2j8BoKqZrMUYTARDIs9XDk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="" width="50" /> | 1 | 1 | Street Man Fighter Original Vol.4 (Crew Songs) | 2022-09-20 | [🔗](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ba0dedb513880cf318f15cb" alt="" width="50" /> | 1 | 1 | Lose My Breath (Feat. Charlie Puth) | 2024-05-10 | [🔗](https://open.spotify.com/album/1HSW0KtusVmitWsZGhjaJB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273869bb5c720b743357fd402bd" alt="" width="50" /> | 1 | 1 | Clé 2 : Yellow Wood | 2019-06-19 | [🔗](https://open.spotify.com/album/7a3luOh8mK0q8YsRkNUjrU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cbb25c0de45e6a6ded073802" alt="" width="50" /> | 1 | 1 | Clé 1 : MIROH | 2019-03-25 | [🔗](https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | 1 | 1 | CIRCUS | 2022-06-10 | [🔗](https://open.spotify.com/album/4IQHY28D4aHus9lGDlSdPp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="" width="50" /> | 1 | 0 | Step Out of Clé (English Ver.) | 2020-01-24 | [🔗](https://open.spotify.com/album/2BBeNPEEevRiYISKYEnGvc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273560f17af6665e85575021bae" alt="" width="50" /> | 1 | 0 | Mixtape : Time Out | 2022-08-01 | [🔗](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b97341ef9657dd8f4ab794dc" alt="" width="50" /> | 1 | 0 | Mixtape | 2018-01-08 | [🔗](https://open.spotify.com/album/1kTzTL0iOIE2IAGw83yY4O) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735ba0dedb513880cf318f15cb" alt="" width="50" /> | 1 | 0 | Lose My Breath (Feat. Charlie Puth) | 2024-05-10 | [🔗](https://open.spotify.com/album/1HSW0KtusVmitWsZGhjaJB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309f2f03627bf9c7b719a35ff" alt="" width="50" /> | 1 | 0 | I am WHO | 2018-08-06 | [🔗](https://open.spotify.com/album/2SACeVKmkXeAXHqLDdTU9N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6ace3e8860779591c193414" alt="" width="50" /> | 1 | 0 | I am NOT | 2018-03-26 | [🔗](https://open.spotify.com/album/6xP5hGAHaLArPqF07UYVJL) |
 
@@ -105,7 +107,7 @@ Stray Kids is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 50 | 23 | [Republic Records](../../labels/republic_records/overview.md) |
+| 50 | 24 | [Republic Records](../../labels/republic_records/overview.md) |
 | 2 | 2 | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_/overview.md) |
 | 1 | 1 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 
@@ -146,16 +148,16 @@ Stray Kids is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | Thunderous | NOEASY | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 30 | 💚 | [🔗](https://open.spotify.com/track/0nwTMzpatarzvLvtwwzdCt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="" width="50" /> | MEGAVERSE | ROCK-STAR | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 87 | 💚 | [🔗](https://open.spotify.com/track/5Q1tv4GTxP3IJeGMOKdrFO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="" width="50" /> | Back Door | IN LIFE | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 143 | 💚 | [🔗](https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="" width="50" /> | Social Path (Feat. LiSA) (Korean Ver.) | ROCK-STAR | [Stray Kids](overview.md), LiSA | [Republic Records](../../labels/republic_records) | 171 | 💚 | [🔗](https://open.spotify.com/track/5w6HF09YaD6wWlC90NaeVP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | miss you (Hyunjin) | SKZ-REPLAY | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 189 | | [🔗](https://open.spotify.com/track/1BwFLLe233S6HR1ravS3yi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="" width="50" /> | LALALALA | ROCK-STAR | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 239 | 💚 | [🔗](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Christmas EveL | Christmas EveL | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 246 | 💚 | [🔗](https://open.spotify.com/track/5npCUsfrlhdyjxyCa32maW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Winter Falls | Christmas EveL | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 278 | | [🔗](https://open.spotify.com/track/0BeqHPNJSLzfH8TZ7Adpb3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | Give Me Your TMI | MAXIDENT | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 294 | 💚 | [🔗](https://open.spotify.com/track/7CQhZA3qNDZBoTKWqjD7gR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | TOPLINE (Feat. Tiger JK) | 5-STAR | [Stray Kids](overview.md), Tiger JK | [Republic Records](../../labels/republic_records) | 386 | | [🔗](https://open.spotify.com/track/0jvZ9caE53ubCQXMki6W23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | Thunderous | NOEASY | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 29 | 💚 | [🔗](https://open.spotify.com/track/0nwTMzpatarzvLvtwwzdCt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="" width="50" /> | MEGAVERSE | ROCK-STAR | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 86 | 💚 | [🔗](https://open.spotify.com/track/5Q1tv4GTxP3IJeGMOKdrFO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="" width="50" /> | Back Door | IN LIFE | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 144 | 💚 | [🔗](https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="" width="50" /> | Social Path (Feat. LiSA) (Korean Ver.) | ROCK-STAR | [Stray Kids](overview.md), LiSA | [Republic Records](../../labels/republic_records) | 174 | 💚 | [🔗](https://open.spotify.com/track/5w6HF09YaD6wWlC90NaeVP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | miss you (Hyunjin) | SKZ-REPLAY | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 188 | | [🔗](https://open.spotify.com/track/1BwFLLe233S6HR1ravS3yi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="" width="50" /> | LALALALA | ROCK-STAR | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 240 | 💚 | [🔗](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Christmas EveL | Christmas EveL | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 249 | 💚 | [🔗](https://open.spotify.com/track/5npCUsfrlhdyjxyCa32maW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | Winter Falls | Christmas EveL | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 281 | | [🔗](https://open.spotify.com/track/0BeqHPNJSLzfH8TZ7Adpb3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | Give Me Your TMI | MAXIDENT | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 295 | 💚 | [🔗](https://open.spotify.com/track/7CQhZA3qNDZBoTKWqjD7gR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | TOPLINE (Feat. Tiger JK) | 5-STAR | [Stray Kids](overview.md), Tiger JK | [Republic Records](../../labels/republic_records) | 389 | | [🔗](https://open.spotify.com/track/0jvZ9caE53ubCQXMki6W23) |
 
 
 <details>
@@ -163,15 +165,15 @@ Stray Kids is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Hug Me (I.N) | SKZ-REPLAY | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 401 | | [🔗](https://open.spotify.com/track/5gXUFmE5AKFiInKyHVVEnL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | S-Class | 5-STAR | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 447 | 💚 | [🔗](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | VENOM | ODDINARY | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 506 | 💚 | [🔗](https://open.spotify.com/track/4b3rGL8LDSkbARUUA20136) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Hug Me (I.N) | SKZ-REPLAY | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 405 | | [🔗](https://open.spotify.com/track/5gXUFmE5AKFiInKyHVVEnL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | S-Class | 5-STAR | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 451 | 💚 | [🔗](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | VENOM | ODDINARY | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 509 | 💚 | [🔗](https://open.spotify.com/track/4b3rGL8LDSkbARUUA20136) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="" width="50" /> | MANIAC | ODDINARY | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 546 | 💚 | [🔗](https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | I GOT IT (HAN) | SKZ-REPLAY | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 550 | 💚 | [🔗](https://open.spotify.com/track/4atsZkGtoHHPugKK5wzAE1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS | CIRCUS | [Stray Kids](overview.md) | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_) | 571 | 💚 | [🔗](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | Hall of Fame | 5-STAR | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 644 | 💚 | [🔗](https://open.spotify.com/track/5podb1asONjqwKk1iMVOeG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Maknae On Top (I.N) | SKZ-REPLAY | [Stray Kids](overview.md), Bang Chan, Changbin (Stray Kids) | [Republic Records](../../labels/republic_records) | 682 | 💚 | [🔗](https://open.spotify.com/track/1J0qupz0gVGSB5jcRY35tL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | CASE 143 | MAXIDENT | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 764 | 💚 | [🔗](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | I GOT IT (HAN) | SKZ-REPLAY | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 553 | 💚 | [🔗](https://open.spotify.com/track/4atsZkGtoHHPugKK5wzAE1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS | CIRCUS | [Stray Kids](overview.md) | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_) | 575 | 💚 | [🔗](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | Hall of Fame | 5-STAR | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 645 | 💚 | [🔗](https://open.spotify.com/track/5podb1asONjqwKk1iMVOeG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | Maknae On Top (I.N) | SKZ-REPLAY | [Stray Kids](overview.md), Bang Chan, Changbin (Stray Kids) | [Republic Records](../../labels/republic_records) | 688 | 💚 | [🔗](https://open.spotify.com/track/1J0qupz0gVGSB5jcRY35tL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27385bcbbac459056ad6ee9426b" alt="" width="50" /> | CASE 143 | MAXIDENT | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | 769 | 💚 | [🔗](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b97341ef9657dd8f4ab794dc" alt="" width="50" /> | Hellevator | Mixtape | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | nan | | [🔗](https://open.spotify.com/track/7mKXEaBVWuV0dMqN0gaCBm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6ace3e8860779591c193414" alt="" width="50" /> | District 9 | I am NOT | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | nan | | [🔗](https://open.spotify.com/track/4A0ZTqmb6131trEdQl2dBW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309f2f03627bf9c7b719a35ff" alt="" width="50" /> | Awkward Silence | I am WHO | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | nan | | [🔗](https://open.spotify.com/track/6qOPM7GV2Yv10hAgFEn6oN) |
@@ -205,7 +207,7 @@ Stray Kids is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | i hate to admit (Bang Chan) | SKZ-REPLAY | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | nan | | [🔗](https://open.spotify.com/track/0XABJLloqjHsF4mY4tGIOH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="" width="50" /> | There | There | [Stray Kids](overview.md) | [Sony Music Labels Inc.](../../labels/sony_music_labels_inc_) | nan | 💚 | [🔗](https://open.spotify.com/track/6gHeWGamtOYHBd1LBZ7Fv6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="" width="50" /> | LALALALA (Rock Ver.) | ROCK-STAR | [Stray Kids](overview.md) | [Republic Records](../../labels/republic_records) | nan | | [🔗](https://open.spotify.com/track/20FfCMC46eOIIrxCUdSNZT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735ba0dedb513880cf318f15cb" alt="" width="50" /> | Lose My Breath (Feat. Charlie Puth) | Lose My Breath (Feat. Charlie Puth) | [Stray Kids](overview.md), Charlie Puth | [Republic Records](../../labels/republic_records) | nan | | [🔗](https://open.spotify.com/track/2DXavoWAmIHlrECHPM1Vca) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ba0dedb513880cf318f15cb" alt="" width="50" /> | Lose My Breath (Feat. Charlie Puth) | Lose My Breath (Feat. Charlie Puth) | [Stray Kids](overview.md), Charlie Puth | [Republic Records](../../labels/republic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/2DXavoWAmIHlrECHPM1Vca) |
 
 </details>
 

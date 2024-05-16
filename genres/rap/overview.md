@@ -1,6 +1,6 @@
 # rap
 
-53 songs
+54 songs
 
 [See Track Features](audio_features.md)
 
@@ -10,7 +10,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 9 | 6 | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 10 | 6 | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | 5 | 4 | [Eminem](../../artists/eminem/overview.md) | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | 3 | 3 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e8a7e14e2f602eb9af24e31" alt="" width="50" /> | 3 | 3 | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
@@ -81,9 +81,9 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="SOS" width="50" /> | Kill Bill | 263 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="Flockaveli" width="50" /> | No Hands (feat. Roscoe Dash & Wale) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="The Marshall Mathers LP2" width="50" /> | [The Monster](../../artists/eminem/overview.md) | 549 | <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="Please Me" width="50" /> | Please Me | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | [We Made You](../../artists/eminem/overview.md) | 668 | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Can't Tell Me Nothing | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="SOS" width="50" /> | Kill Bill | 266 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="Flockaveli" width="50" /> | No Hands (feat. Roscoe Dash & Wale) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="The Marshall Mathers LP2" width="50" /> | [The Monster](../../artists/eminem/overview.md) | 550 | <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="Please Me" width="50" /> | Please Me | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | [We Made You](../../artists/eminem/overview.md) | 673 | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Can't Tell Me Nothing | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="Over It" width="50" /> | Body | nan | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="Recovery" width="50" /> | [Love The Way You Lie](../../artists/eminem/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733eecc265c134153c14794aab" alt="Area Codes" width="50" /> | Area Codes | nan | <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Late Registration" width="50" /> | Gold Digger | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731325a9351844f7806a8309c5" alt="Sweetest Pie" width="50" /> | Sweetest Pie | nan | <img src="https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30" alt="Watch The Throne" width="50" /> | Ni**as In Paris | nan |
@@ -109,7 +109,7 @@
 
 
 <details>
-<summary>See all 47 albums</summary>
+<summary>See all 48 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -140,6 +140,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c0c05243a846dda6c84607f9" alt="" width="50" /> | 1 | 0 | Pretty Girls Like Trap Music | 2017-06-16 | [🔗](https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="" width="50" /> | 1 | 0 | Over It | 2019-10-04 | [🔗](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" alt="" width="50" /> | 1 | 0 | Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course | 2004-11-30 | [🔗](https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad" alt="" width="50" /> | 1 | 0 | Not Like Us | 2024-05-04 | [🔗](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="" width="50" /> | 1 | 0 | Motley Crew | 2021-07-09 | [🔗](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5" alt="" width="50" /> | 1 | 0 | Meet The Woo | 2019-07-26 | [🔗](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="" width="50" /> | 1 | 0 | Late Registration | 2005-08-30 | [🔗](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) |
@@ -173,7 +174,7 @@
 
 
 <details>
-<summary>See all 41 labels</summary>
+<summary>See all 43 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -196,10 +197,12 @@
 | 4 | 0 | [Def Jam Recordings](../../labels/def_jam_recordings/overview.md) |
 | 2 | 0 | [Republic Records](../../labels/republic_records/overview.md) |
 | 2 | 0 | Jay-Z |
+| 1 | 0 | under exclusive license to Interscope Records |
 | 1 | 0 | Victor Victor Worldwide |
 | 1 | 0 | RocAFella |
 | 1 | 0 | [Legacy](../../labels/legacy/overview.md) |
 | 1 | 0 | LVRN |
+| 1 | 0 | Kendrick Lamar |
 | 1 | 0 | [Jive](../../labels/jive/overview.md) |
 | 1 | 0 | J Records |
 | 1 | 0 | IDJ |
@@ -334,15 +337,15 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733eecc265c134153c14794aab" alt="Area Codes" width="50" /> | Area Codes (2023-03-17) | <img src="https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd" alt="Genesis" width="50" /> | Genesis (2001-11-07) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="SOS" width="50" /> | SOS (2022-12-09) | <img src="https://i.scdn.co/image/ab67616d0000b2736a6387ab37f64034cdc7b367" alt="Speakerboxxx/The Love Below" width="50" /> | Speakerboxxx/The Love Below (2003) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="Mr. Morale &amp; The Big Steppers" width="50" /> | Mr. Morale & The Big Steppers (2022-05-13) | <img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" alt="The College Dropout" width="50" /> | The College Dropout (2004-02-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731325a9351844f7806a8309c5" alt="Sweetest Pie" width="50" /> | Sweetest Pie (2022-03-11) | <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="Confessions (Expanded Edition)" width="50" /> | Confessions (Expanded Edition) (2004-03-23) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d272936b9368c8d7fd2e6ef" alt="Freaky Deaky" width="50" /> | Freaky Deaky (2022-02-25) | <img src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" alt="Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course" width="50" /> | Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course (2004-11-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="Motley Crew" width="50" /> | Motley Crew (2021-07-09) | <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Late Registration" width="50" /> | Late Registration (2005-08-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="WAP (feat. Megan Thee Stallion)" width="50" /> | WAP (feat. Megan Thee Stallion) (2020-08-07) | <img src="https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578" alt="Curtain Call: The Hits (Deluxe Edition)" width="50" /> | Curtain Call: The Hits (Deluxe Edition) (2005-12-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime &amp; B" width="50" /> | Slime & B (2020-05-08) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6a328ced07af494400584b" alt="souljaboytellem.com" width="50" /> | souljaboytellem.com (2007-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="Over It" width="50" /> | Over It (2019-10-04) | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Graduation (2007-09-11) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5" alt="Meet The Woo" width="50" /> | Meet The Woo (2019-07-26) | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | Relapse: Refill (2009-05-15) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad" alt="Not Like Us" width="50" /> | Not Like Us (2024-05-04) | <img src="https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd" alt="Genesis" width="50" /> | Genesis (2001-11-07) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733eecc265c134153c14794aab" alt="Area Codes" width="50" /> | Area Codes (2023-03-17) | <img src="https://i.scdn.co/image/ab67616d0000b2736a6387ab37f64034cdc7b367" alt="Speakerboxxx/The Love Below" width="50" /> | Speakerboxxx/The Love Below (2003) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="SOS" width="50" /> | SOS (2022-12-09) | <img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" alt="The College Dropout" width="50" /> | The College Dropout (2004-02-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="Mr. Morale &amp; The Big Steppers" width="50" /> | Mr. Morale & The Big Steppers (2022-05-13) | <img src="https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da" alt="Confessions (Expanded Edition)" width="50" /> | Confessions (Expanded Edition) (2004-03-23) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731325a9351844f7806a8309c5" alt="Sweetest Pie" width="50" /> | Sweetest Pie (2022-03-11) | <img src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" alt="Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course" width="50" /> | Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course (2004-11-30) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d272936b9368c8d7fd2e6ef" alt="Freaky Deaky" width="50" /> | Freaky Deaky (2022-02-25) | <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Late Registration" width="50" /> | Late Registration (2005-08-30) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="Motley Crew" width="50" /> | Motley Crew (2021-07-09) | <img src="https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578" alt="Curtain Call: The Hits (Deluxe Edition)" width="50" /> | Curtain Call: The Hits (Deluxe Edition) (2005-12-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="WAP (feat. Megan Thee Stallion)" width="50" /> | WAP (feat. Megan Thee Stallion) (2020-08-07) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6a328ced07af494400584b" alt="souljaboytellem.com" width="50" /> | souljaboytellem.com (2007-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime &amp; B" width="50" /> | Slime & B (2020-05-08) | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Graduation (2007-09-11) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="Over It" width="50" /> | Over It (2019-10-04) | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | Relapse: Refill (2009-05-15) |
 
 ![Bar chart of number of songs by year](../../images/genres/rap/years.png)

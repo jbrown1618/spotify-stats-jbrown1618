@@ -47,20 +47,21 @@ Appears as:
 | 5 | 2 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 5 | 2 | glam rock |
 | 2 | 2 | yacht rock |
+| 2 | 2 | symphonic rock |
 | 2 | 2 | [soft rock](../../genres/soft_rock/overview.md) |
 | 2 | 2 | new romantic |
 | 2 | 2 | [classic rock](../../genres/classic_rock/overview.md) |
 | 2 | 2 | [art rock](../../genres/art_rock/overview.md) |
 | 2 | 2 | [album rock](../../genres/album_rock/overview.md) |
 | 2 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
-| 1 | 1 | [soul](../../genres/soul/overview.md) |
 
 
 <details>
-<summary>See all 22 genres</summary>
+<summary>See all 23 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 1 | 1 | [soul](../../genres/soul/overview.md) |
 | 1 | 1 | pop soul |
 | 1 | 1 | [pop](../../genres/pop/overview.md) |
 | 1 | 1 | neo soul |
@@ -77,7 +78,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 22 genres](../../images/labels/emi/genres.png)
+![Bar chart of top 23 genres](../../images/labels/emi/genres.png)
 
 ## Top Producers
 

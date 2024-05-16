@@ -159,13 +159,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="" width="50" /> | HIP | reality in BLACK | [MAMAMOO](../../artists/mamamoo/overview.md) | [RBW, Inc](.) | 2 | 💚 | [🔗](https://open.spotify.com/track/24nK8tW7Pt3Inh2utttuoG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | Maria | María | [HWASA](../../artists/hwasa/overview.md) | [RBW, Inc](.) | 5 | 💚 | [🔗](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="" width="50" /> | AYA | TRAVEL | [MAMAMOO](../../artists/mamamoo/overview.md) | [RBW Inc.](.) | 159 | 💚 | [🔗](https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="" width="50" /> | Sweet Juice | Cabin Fever | [PURPLE KISS](../../artists/purple_kiss/overview.md) | [RBW Inc.](.) | 164 | 💚 | [🔗](https://open.spotify.com/track/2th6UWbfVz3hsSDzQAKqy2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | 1,2,3 Eoi! | MIC ON | [MAMAMOO](../../artists/mamamoo/overview.md) | [RBW Inc.](.) | 190 | 💚 | [🔗](https://open.spotify.com/track/1uYgNXNnBTQnboOwlYBLd1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="" width="50" /> | T4ke | Cabin Fever | [PURPLE KISS](../../artists/purple_kiss/overview.md) | [RBW Inc.](.) | 366 | 💚 | [🔗](https://open.spotify.com/track/3hDB8HsTgd3TePDsEulE97) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="" width="50" /> | Pretty Psycho | memeM | [PURPLE KISS](../../artists/purple_kiss/overview.md) | [RBW Inc.](.) | 413 | | [🔗](https://open.spotify.com/track/26YMXkyHGrOQQUl2E4upkv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735103a69d41417d74264dd091" alt="" width="50" /> | GGBB | ACT 1, SCENE 1 | MAMAMOO+ | [RBW Inc.](.) | 432 | 💚 | [🔗](https://open.spotify.com/track/04qiPs2ScJrI7hgQ8mz4im) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | gogobebe | White Wind | [MAMAMOO](../../artists/mamamoo/overview.md) | [RBW, Inc](.) | 459 | 💚 | [🔗](https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732c8e39cbee7aa7192c706534" alt="" width="50" /> | Save Me | Save Me | MAMAMOO+ | [RBW Inc.](.) | 465 | | [🔗](https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="" width="50" /> | Sweet Juice | Cabin Fever | [PURPLE KISS](../../artists/purple_kiss/overview.md) | [RBW Inc.](.) | 165 | 💚 | [🔗](https://open.spotify.com/track/2th6UWbfVz3hsSDzQAKqy2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | 1,2,3 Eoi! | MIC ON | [MAMAMOO](../../artists/mamamoo/overview.md) | [RBW Inc.](.) | 191 | 💚 | [🔗](https://open.spotify.com/track/1uYgNXNnBTQnboOwlYBLd1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="" width="50" /> | T4ke | Cabin Fever | [PURPLE KISS](../../artists/purple_kiss/overview.md) | [RBW Inc.](.) | 368 | 💚 | [🔗](https://open.spotify.com/track/3hDB8HsTgd3TePDsEulE97) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="" width="50" /> | Pretty Psycho | memeM | [PURPLE KISS](../../artists/purple_kiss/overview.md) | [RBW Inc.](.) | 418 | | [🔗](https://open.spotify.com/track/26YMXkyHGrOQQUl2E4upkv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735103a69d41417d74264dd091" alt="" width="50" /> | GGBB | ACT 1, SCENE 1 | MAMAMOO+ | [RBW Inc.](.) | 436 | 💚 | [🔗](https://open.spotify.com/track/04qiPs2ScJrI7hgQ8mz4im) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | gogobebe | White Wind | [MAMAMOO](../../artists/mamamoo/overview.md) | [RBW, Inc](.) | 462 | 💚 | [🔗](https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c8e39cbee7aa7192c706534" alt="" width="50" /> | Save Me | Save Me | MAMAMOO+ | [RBW Inc.](.) | 469 | | [🔗](https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi) |
 
 
 <details>
@@ -173,10 +173,11 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | Blues | COLOURS | [Solar](../../artists/solar/overview.md) | [RBW Inc.](.) | 513 | 💚 | [🔗](https://open.spotify.com/track/6ZVetYxDIVtNaZL4b8jQQ3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | But I | COLOURS | [Solar](../../artists/solar/overview.md) | [RBW Inc.](.) | 557 | 💚 | [🔗](https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27356035da9eacd668ffdfacb36" alt="" width="50" /> | TOUCHIN&MOVIN | Starlit of Muse | Moon Byul | [RBW Inc.](.) | 640 | 💚 | [🔗](https://open.spotify.com/track/2xCc0iWKdkvaOYppt7ElGE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | In The Fall | Hwa:telier | [HWASA](../../artists/hwasa/overview.md), WOOGIE | [RBW, Inc](.) | 738 | 💚 | [🔗](https://open.spotify.com/track/2esmbUCwduwG8SyN4RAwmM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | Blues | COLOURS | [Solar](../../artists/solar/overview.md) | [RBW Inc.](.) | 480 | 💚 | [🔗](https://open.spotify.com/track/6ZVetYxDIVtNaZL4b8jQQ3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | But I | COLOURS | [Solar](../../artists/solar/overview.md) | [RBW Inc.](.) | 485 | 💚 | [🔗](https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356035da9eacd668ffdfacb36" alt="" width="50" /> | TOUCHIN&MOVIN | Starlit of Muse | Moon Byul | [RBW Inc.](.) | 641 | 💚 | [🔗](https://open.spotify.com/track/2xCc0iWKdkvaOYppt7ElGE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | Honey Honey | COLOURS | [Solar](../../artists/solar/overview.md) | [RBW Inc.](.) | 685 | 💚 | [🔗](https://open.spotify.com/track/0F0GaAGEb8k1QcmxiUUDB6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | In The Fall | Hwa:telier | [HWASA](../../artists/hwasa/overview.md), WOOGIE | [RBW, Inc](.) | 743 | 💚 | [🔗](https://open.spotify.com/track/2esmbUCwduwG8SyN4RAwmM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da15e45948cdd794ec819052" alt="" width="50" /> | Starry Night | Yellow Flower | [MAMAMOO](../../artists/mamamoo/overview.md) | [RBW, Inc.](.) | nan | 💚 | [🔗](https://open.spotify.com/track/3qUJ0kC9YdBO5qRFdYXeXX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273294c757e724cc58bbbd29287" alt="" width="50" /> | SELFISH (Feat. SEULGI Of Red Velvet) | SELFISH | Moon Byul, [SEULGI](../../artists/seulgi/overview.md) | [RBW, Inc](.) | nan | | [🔗](https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e3cf1788fa660f04ac43e23" alt="" width="50" /> | Egotistic | RED MOON | [MAMAMOO](../../artists/mamamoo/overview.md) | [RBW, Inc.](.) | nan | 💚 | [🔗](https://open.spotify.com/track/3a7OyTsoZ8CCBdvEEvzLBv) |
@@ -209,7 +210,6 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27356035da9eacd668ffdfacb36" alt="" width="50" /> | DARK ROMANCE | Starlit of Muse | Moon Byul | [RBW Inc.](.) | nan | | [🔗](https://open.spotify.com/track/3tXCpt80T5wTq9QUOBFmOV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f7540ea5cd0831b2c7e4ff9" alt="" width="50" /> | BBB | BXX | [PURPLE KISS](../../artists/purple_kiss/overview.md) | [RBW Inc.](.) | nan | | [🔗](https://open.spotify.com/track/1Xj89xyCM5Edza6AqTpRuB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | Colors | COLOURS | [Solar](../../artists/solar/overview.md) | [RBW Inc.](.) | nan | | [🔗](https://open.spotify.com/track/6F5nwlaYT0TZatOHVMaBcZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | Honey Honey | COLOURS | [Solar](../../artists/solar/overview.md) | [RBW Inc.](.) | nan | 💚 | [🔗](https://open.spotify.com/track/0F0GaAGEb8k1QcmxiUUDB6) |
 
 </details>
 

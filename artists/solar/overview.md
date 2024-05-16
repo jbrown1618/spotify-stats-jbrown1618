@@ -12,13 +12,16 @@ Solar:
 
 ## Artist Rank
 Solar is currently:
-- The #21 artist of the last month
+- The #3 artist of the last month
 
 ![Rank of Solar over time](../../images/artists/solar/rank_time_series.png)
 ## Top Tracks
 
-- But I is the #11 track of the On Repeat playlist
-- Blues is the #20 track of the last month
+- But I is:
+    - the #25 track of the On Repeat playlist
+    - the #17 track of the last month
+- Blues is the #25 track of the last month
+- Honey Honey is the #26 track of the last month
 
 ### Top tracks, aggregated
 
@@ -81,11 +84,11 @@ Solar is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27343848859c0cf73d8c660eba5" alt="" width="50" /> | Adrenaline | VINCENZO (Original Television Soundtrack) Pt. 3 | [Solar](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation) | 60 | 💚 | [🔗](https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | Blues | COLOURS | [Solar](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 513 | 💚 | [🔗](https://open.spotify.com/track/6ZVetYxDIVtNaZL4b8jQQ3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | But I | COLOURS | [Solar](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 557 | 💚 | [🔗](https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27343848859c0cf73d8c660eba5" alt="" width="50" /> | Adrenaline | VINCENZO (Original Television Soundtrack) Pt. 3 | [Solar](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation) | 61 | 💚 | [🔗](https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | Blues | COLOURS | [Solar](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 480 | 💚 | [🔗](https://open.spotify.com/track/6ZVetYxDIVtNaZL4b8jQQ3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | But I | COLOURS | [Solar](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 485 | 💚 | [🔗](https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | Honey Honey | COLOURS | [Solar](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 685 | 💚 | [🔗](https://open.spotify.com/track/0F0GaAGEb8k1QcmxiUUDB6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731ecc60c0ad785d457bdc0a36" alt="" width="50" /> | Spit it out | SPIT IT OUT | [Solar](overview.md) | [RBW, INC.](../../labels/rbw_inc_) | nan | | [🔗](https://open.spotify.com/track/5F6RrFgt1yvRhNCdAEumM6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e95d9f505f2469cf74727805" alt="" width="50" /> | Big Booty | 容 : FACE | [Solar](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | nan | 💚 | [🔗](https://open.spotify.com/track/5bwzsMhJZHSHM6M6qslOgd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e95d9f505f2469cf74727805" alt="" width="50" /> | HONEY | 容 : FACE | [Solar](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | nan | 💚 | [🔗](https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | Colors | COLOURS | [Solar](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | nan | | [🔗](https://open.spotify.com/track/6F5nwlaYT0TZatOHVMaBcZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | Honey Honey | COLOURS | [Solar](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | nan | 💚 | [🔗](https://open.spotify.com/track/0F0GaAGEb8k1QcmxiUUDB6) |

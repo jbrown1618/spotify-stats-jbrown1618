@@ -17,9 +17,7 @@ Billy Joel is currently:
 ![Rank of Billy Joel over time](../../images/artists/billy_joel/rank_time_series.png)
 ## Top Tracks
 
-- Vienna is the #12 track of the On Repeat playlist
-- Movin' Out (Anthony's Song) is the #25 track of the On Repeat playlist
-- Only the Good Die Young is the #29 track of the On Repeat playlist
+- Vienna is the #15 track of the On Repeat playlist
 
 ### Top tracks, aggregated
 
@@ -30,9 +28,9 @@ Billy Joel is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e020e402844f1b6be3102d339f2ab67616d00001e02119ad2ebc0d33edf847ed8c6ab67616d00001e021946747b8692919f98918ec4" alt="" width="50" /> | 25 | [Singer-Songwriter](../../playlists/singer-songwriter/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e02527d94ecf554774fc313bf48ab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 8 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e027cdb143bd2e9906d39c5eb04ab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 4 | [Karaoke](../../playlists/karaoke/overview.md) |
-| <img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg" alt="" width="50" /> | 3 | [On Repeat](../../playlists/on_repeat/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0203668e3f13559554eca8ccc6ab67616d00001e020eb56329734f9400c1639359ab67616d00001e0214ed51ab46ef0765182bb8a0ab67616d00001e02987a1825341694ec9bc62457" alt="" width="50" /> | 3 | [Tarps](../../playlists/tarps/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
+| <img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg" alt="" width="50" /> | 1 | [On Repeat](../../playlists/on_repeat/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e025d990e8b45c848dc22885f89ab67616d00001e0262f44cdb37183a309fc1032fab67616d00001e0284470dd6235917e2e40e11f0ab67616d00001e02bb7018e16a77e5ce4744fa93" alt="" width="50" /> | 1 | [A Cappella](../../playlists/a_cappella/overview.md) |
 
 ## Top Albums
@@ -184,11 +182,11 @@ Billy Joel is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | Vienna | The Stranger (Legacy Edition) | [Billy Joel](overview.md) | [Columbia](../../labels/columbia), [Legacy](../../labels/legacy) | 291 | 💚 | [🔗](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | Movin' Out (Anthony's Song) | The Stranger (Legacy Edition) | [Billy Joel](overview.md) | [Columbia](../../labels/columbia), [Legacy](../../labels/legacy) | 336 | 💚 | [🔗](https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | Only the Good Die Young | The Stranger (Legacy Edition) | [Billy Joel](overview.md) | [Columbia](../../labels/columbia), [Legacy](../../labels/legacy) | 431 | 💚 | [🔗](https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="" width="50" /> | A Matter of Trust | The Bridge | [Billy Joel](overview.md) | [Columbia](../../labels/columbia) | 570 | 💚 | [🔗](https://open.spotify.com/track/6J212smZzpeOCYQ9DITMSC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3" alt="" width="50" /> | Piano Man | Piano Man (Legacy Edition) | [Billy Joel](overview.md) | [Columbia](../../labels/columbia), [Legacy](../../labels/legacy) | 757 | 💚 | [🔗](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | Vienna | The Stranger (Legacy Edition) | [Billy Joel](overview.md) | [Columbia](../../labels/columbia), [Legacy](../../labels/legacy) | 276 | 💚 | [🔗](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | Movin' Out (Anthony's Song) | The Stranger (Legacy Edition) | [Billy Joel](overview.md) | [Columbia](../../labels/columbia), [Legacy](../../labels/legacy) | 337 | 💚 | [🔗](https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | Only the Good Die Young | The Stranger (Legacy Edition) | [Billy Joel](overview.md) | [Columbia](../../labels/columbia), [Legacy](../../labels/legacy) | 437 | 💚 | [🔗](https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273800f95060baebdd6aea0f4b9" alt="" width="50" /> | A Matter of Trust | The Bridge | [Billy Joel](overview.md) | [Columbia](../../labels/columbia) | 571 | 💚 | [🔗](https://open.spotify.com/track/6J212smZzpeOCYQ9DITMSC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3" alt="" width="50" /> | Piano Man | Piano Man (Legacy Edition) | [Billy Joel](overview.md) | [Columbia](../../labels/columbia), [Legacy](../../labels/legacy) | 767 | 💚 | [🔗](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738039be895428386c4bc90851" alt="" width="50" /> | She's Got a Way | Cold Spring Harbor | [Billy Joel](overview.md) | [Columbia](../../labels/columbia) | nan | | [🔗](https://open.spotify.com/track/3Ie2eLOIj2IhKnzPwXrLbJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | Captain Jack | Piano Man | [Billy Joel](overview.md) | [Columbia](../../labels/columbia) | nan | 💚 | [🔗](https://open.spotify.com/track/3igkLltDaiFiMl83IdDBfm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="" width="50" /> | New York State of Mind | Turnstiles | [Billy Joel](overview.md) | [Columbia](../../labels/columbia) | nan | 💚 | [🔗](https://open.spotify.com/track/6yjKlmm7vOszkXEUku1EM1) |

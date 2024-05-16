@@ -60,7 +60,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2737d0ee28b2184f96650755916" alt="" width="50" /> | Del Sasser | Freedom At Midnight | David Benoit | [GRP](.) | 783 | | [🔗](https://open.spotify.com/track/07dVfTwBjqFK0AdNqnvTPV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737d0ee28b2184f96650755916" alt="" width="50" /> | Del Sasser | Freedom At Midnight | David Benoit | [GRP](.) | 789 | | [🔗](https://open.spotify.com/track/07dVfTwBjqFK0AdNqnvTPV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273845a5660b804e5f3e821fbed" alt="" width="50" /> | Dream A Little Dream Of Me | What A Wonderful World | Louis Armstrong | [GRP](.) | nan | | [🔗](https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273845a5660b804e5f3e821fbed" alt="" width="50" /> | What A Wonderful World | What A Wonderful World | Louis Armstrong | [GRP](.) | nan | 💚 | [🔗](https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f67419e4e296d96256cc3f5" alt="" width="50" /> | Every Step Of The Way | Every Step Of The Way | David Benoit, Randy Waldman | [GRP](.) | nan | | [🔗](https://open.spotify.com/track/5yhNKJlMmop5uhaHvL0RfU) |

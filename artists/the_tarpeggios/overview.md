@@ -23,8 +23,6 @@ The Tarpeggios:
 - has member Stuart Sutcliffe
 
 ## Artist Rank
-The Tarpeggios is currently:
-- The #50 artist of all time
 
 ![Rank of The Tarpeggios over time](../../images/artists/the_tarpeggios/rank_time_series.png)
 ## Top Tracks
@@ -110,8 +108,8 @@ The Tarpeggios is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | I See Fire | The Teal Album | [The Tarpeggios](overview.md) | The Unc - Chapel Hill Tarpeggios | 678 | 💚 | [🔗](https://open.spotify.com/track/4Mp2l1tCHxnm65a6yQ8lph) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Settle Down | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | 708 | 💚 | [🔗](https://open.spotify.com/track/2RGGnyqlJ65QcpA4FggZ2x) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | I See Fire | The Teal Album | [The Tarpeggios](overview.md) | The Unc - Chapel Hill Tarpeggios | 682 | 💚 | [🔗](https://open.spotify.com/track/4Mp2l1tCHxnm65a6yQ8lph) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Settle Down | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | 718 | 💚 | [🔗](https://open.spotify.com/track/2RGGnyqlJ65QcpA4FggZ2x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Carolina State of Mind | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | 💚 | [🔗](https://open.spotify.com/track/60xweUiIfi93UhZEDN3DKY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Chariot | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/0of5rsasONYN34mx4rSgsn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Home | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | 💚 | [🔗](https://open.spotify.com/track/5EiVVKFfodbFiHTCFEB1i3) |

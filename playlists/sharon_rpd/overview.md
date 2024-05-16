@@ -99,11 +99,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | [LOCO](../../artists/itzy/overview.md) | 14 | <img src="https://i.scdn.co/image/ab67616d0000b27376a39689fe9e5753586f8ba9" alt="That Karma" width="50" /> | Karma | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | [Illusion](../../artists/aespa/overview.md) | 16 | <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="Taste of Love" width="50" /> | [Alcohol-Free](../../artists/twice/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f248f7695eb544a3a1955c5" alt="Black Mamba" width="50" /> | [Black Mamba](../../artists/aespa/overview.md) | 22 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="eternal sunshine" width="50" /> | [the boy is mine](../../artists/ariana_grande/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="NOEASY" width="50" /> | [Thunderous](../../artists/stray_kids/overview.md) | 30 | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> | [I'll Show You](../../artists/justin_bieber/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="Drama - The 4th Mini Album" width="50" /> | [Drama](../../artists/aespa/overview.md) | 32 | <img src="https://i.scdn.co/image/ab67616d0000b27303b313cdf98d61d141645f11" alt="One of a Kind" width="50" /> | GAMBLER | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="NOEASY" width="50" /> | [Thunderous](../../artists/stray_kids/overview.md) | 29 | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> | [I'll Show You](../../artists/justin_bieber/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="Drama - The 4th Mini Album" width="50" /> | [Drama](../../artists/aespa/overview.md) | 31 | <img src="https://i.scdn.co/image/ab67616d0000b27303b313cdf98d61d141645f11" alt="One of a Kind" width="50" /> | GAMBLER | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> | [Pink Venom](../../artists/blackpink/overview.md) | 39 | <img src="https://i.scdn.co/image/ab67616d0000b273c412e430ac07b4bf18b424af" alt="Play Game : Holiday" width="50" /> | Holiday Party | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="Ditto" width="50" /> | [Ditto](../../artists/newjeans/overview.md) | 50 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime &amp; B" width="50" /> | City Girls | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | [Sweet Venom](../../artists/enhypen/overview.md) | 61 | <img src="https://i.scdn.co/image/ab67616d0000b273f3ebb80519c23d6d08e49ec6" alt="Magical" width="50" /> | I'm Out Of My Mind | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="Ditto" width="50" /> | [Ditto](../../artists/newjeans/overview.md) | 49 | <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime &amp; B" width="50" /> | City Girls | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | [Sweet Venom](../../artists/enhypen/overview.md) | 60 | <img src="https://i.scdn.co/image/ab67616d0000b273f3ebb80519c23d6d08e49ec6" alt="Magical" width="50" /> | I'm Out Of My Mind | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="28 Reasons - The 1st Mini Album" width="50" /> | [28 Reasons](../../artists/seulgi/overview.md) | 76 | <img src="https://i.scdn.co/image/ab67616d0000b2737d7f0aa55986024327ce5e6d" alt="Ay-Yo - The 4th Album Repackage" width="50" /> | [Ay-Yo](../../artists/nct_127/overview.md) | nan |
 
 </details>
@@ -350,7 +350,7 @@
 | | YONGJU BANG | 1 | Producer |
 | | BLVSH | 1 | Lyricist, Songwriter |
 | | Tim Maxey | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0da17323327a3ca81bc7c28e" alt="" width="50" /> | MARK | 1 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd9333771fa417e82c502a069" alt="" width="50" /> | MARK | 1 | Lyricist |
 | | Tim Gomringer | 1 | Songwriter |
 | | Daniel Davidsen | 1 | Songwriter |
 | | 김준혁 (Kim Joonhyuk) | 1 | Producer |

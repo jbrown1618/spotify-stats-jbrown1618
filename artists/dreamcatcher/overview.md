@@ -22,7 +22,7 @@ Dreamcatcher:
 ## Artist Rank
 Dreamcatcher is currently:
 - The #27 artist of the last 6 months
-- The #14 artist of all time
+- The #17 artist of all time
 
 ![Rank of Dreamcatcher over time](../../images/artists/dreamcatcher/rank_time_series.png)
 ## Top Tracks
@@ -136,12 +136,12 @@ Dreamcatcher is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273a5911f62f0fe24713fb9d0c8" alt="" width="50" /> | Silent Night | Raid of Dream | [Dreamcatcher](overview.md) | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company) | 254 | 💚 | [🔗](https://open.spotify.com/track/6OrYF7BHkbsfhxEMQfwBvV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273107ade016c96b4769c200bc4" alt="" width="50" /> | Jazz Bar | 1st Album [Dystopia : The Tree of Language] | [Dreamcatcher](overview.md) | [Dreamcatcher Company](../../labels/dreamcatcher_company) | 402 | 💚 | [🔗](https://open.spotify.com/track/5XVjj6hJTWgYiDx72Wo5QS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d902c8faa0d5eb0fe7c29695" alt="" width="50" /> | BEcause | [Summer Holiday] | [Dreamcatcher](overview.md) | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company) | 444 | 💚 | [🔗](https://open.spotify.com/track/0ufYP4HLjzVSLUsGKCIQJH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273107ade016c96b4769c200bc4" alt="" width="50" /> | Red Sun | 1st Album [Dystopia : The Tree of Language] | [Dreamcatcher](overview.md) | [Dreamcatcher Company](../../labels/dreamcatcher_company) | 471 | 💚 | [🔗](https://open.spotify.com/track/0WXmPCkeeLjpTddcBI98GV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273787a8631e249c68889453f86" alt="" width="50" /> | Odd Eye | [Dystopia : Road to Utopia] | [Dreamcatcher](overview.md) | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company) | 504 | 💚 | [🔗](https://open.spotify.com/track/1RtlbxsPpDBsHHmGTb7ah2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27331b95b252ae186111fb347d8" alt="" width="50" /> | Sleep-walking | Prequel | [Dreamcatcher](overview.md) | 해피페이스 엔터테인먼트 | 725 | 💚 | [🔗](https://open.spotify.com/track/5PYR7g3AmuYE5Yaay7s3us) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a5911f62f0fe24713fb9d0c8" alt="" width="50" /> | Silent Night | Raid of Dream | [Dreamcatcher](overview.md) | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company) | 257 | 💚 | [🔗](https://open.spotify.com/track/6OrYF7BHkbsfhxEMQfwBvV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273107ade016c96b4769c200bc4" alt="" width="50" /> | Jazz Bar | 1st Album [Dystopia : The Tree of Language] | [Dreamcatcher](overview.md) | [Dreamcatcher Company](../../labels/dreamcatcher_company) | 406 | 💚 | [🔗](https://open.spotify.com/track/5XVjj6hJTWgYiDx72Wo5QS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d902c8faa0d5eb0fe7c29695" alt="" width="50" /> | BEcause | [Summer Holiday] | [Dreamcatcher](overview.md) | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company) | 449 | 💚 | [🔗](https://open.spotify.com/track/0ufYP4HLjzVSLUsGKCIQJH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273107ade016c96b4769c200bc4" alt="" width="50" /> | Red Sun | 1st Album [Dystopia : The Tree of Language] | [Dreamcatcher](overview.md) | [Dreamcatcher Company](../../labels/dreamcatcher_company) | 474 | 💚 | [🔗](https://open.spotify.com/track/0WXmPCkeeLjpTddcBI98GV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273787a8631e249c68889453f86" alt="" width="50" /> | Odd Eye | [Dystopia : Road to Utopia] | [Dreamcatcher](overview.md) | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company) | 507 | 💚 | [🔗](https://open.spotify.com/track/1RtlbxsPpDBsHHmGTb7ah2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27331b95b252ae186111fb347d8" alt="" width="50" /> | Sleep-walking | Prequel | [Dreamcatcher](overview.md) | 해피페이스 엔터테인먼트 | 729 | 💚 | [🔗](https://open.spotify.com/track/5PYR7g3AmuYE5Yaay7s3us) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349194360fc897997b57ba32a" alt="" width="50" /> | PIRI | The End of Nightmare | [Dreamcatcher](overview.md) | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company) | nan | | [🔗](https://open.spotify.com/track/38dgtl73zn8VYh7VOCvs69) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5911f62f0fe24713fb9d0c8" alt="" width="50" /> | Deja Vu | Raid of Dream | [Dreamcatcher](overview.md) | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company) | nan | 💚 | [🔗](https://open.spotify.com/track/3qvfE7DGsIlkWzKMOS4gAm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5911f62f0fe24713fb9d0c8" alt="" width="50" /> | The curse of the Spider | Raid of Dream | [Dreamcatcher](overview.md) | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company) | nan | | [🔗](https://open.spotify.com/track/2j8m29w5AzF9P6b0sYI6H4) |

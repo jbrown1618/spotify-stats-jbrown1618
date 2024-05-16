@@ -15,14 +15,16 @@ CHUNG HA:
 
 ## Artist Rank
 CHUNG HA is currently:
-- The #16 artist of the last month
+- The #19 artist of the last month
 - The #31 artist of the last 6 months
 - The #20 artist of all time
 
 ![Rank of CHUNG HA over time](../../images/artists/chung_ha/rank_time_series.png)
 ## Top Tracks
 
-- I’m Ready is the #27 track of the On Repeat playlist
+- I’m Ready is:
+    - the #29 track of the On Repeat playlist
+    - the #31 track of the last month
 
 ### Top tracks, aggregated
 
@@ -188,13 +190,13 @@ CHUNG HA is currently:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="" width="50" /> | Gotta Go | Gotta Go | [CHUNG HA](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 10 | 💚 | [🔗](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="" width="50" /> | When I Get Old | When I Get Old | Christopher, [CHUNG HA](overview.md) | Parlophone Denmark | 117 | 💚 | [🔗](https://open.spotify.com/track/5f2CcxzZoW7hNs1O8NhG6y) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Dream of You (with R3HAB) | Querencia | [CHUNG HA](overview.md), R3HAB | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 240 | 💚 | [🔗](https://open.spotify.com/track/1d8Arh7PushRWWJRs41rSa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Demente (feat. Guaynaa) | Querencia | [CHUNG HA](overview.md), Guaynaa | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 321 | 💚 | [🔗](https://open.spotify.com/track/0NhHFXC06r5kK1rTUuOjxM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="" width="50" /> | EENIE MEENIE (Feat. Hongjoong of ATEEZ) | EENIE MEENIE | [CHUNG HA](overview.md), Hongjoong of ATEEZ | MORE VISION | 422 | 💚 | [🔗](https://open.spotify.com/track/3WFTUAPrXvqg3SXC0bsukz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Bicycle | Querencia | [CHUNG HA](overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 487 | 💚 | [🔗](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Stay Tonight | Querencia | [CHUNG HA](overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 627 | 💚 | [🔗](https://open.spotify.com/track/7Cn6R7YB4EjQkfci9DdceG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="" width="50" /> | I’m Ready | EENIE MEENIE | [CHUNG HA](overview.md) | MORE VISION | 684 | 💚 | [🔗](https://open.spotify.com/track/1uHAvl4MdI8zbobFG9FueP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="" width="50" /> | Wow Thing | Wow Thing | [SEULGI](../seulgi/overview.md), [CHUNG HA](overview.md), SinB, [JEON SOYEON](../jeon_soyeon/overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 795 | 💚 | [🔗](https://open.spotify.com/track/5MwfxCtqMFGYp9Nc1BkTrS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Dream of You (with R3HAB) | Querencia | [CHUNG HA](overview.md), R3HAB | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 242 | 💚 | [🔗](https://open.spotify.com/track/1d8Arh7PushRWWJRs41rSa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Demente (feat. Guaynaa) | Querencia | [CHUNG HA](overview.md), Guaynaa | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 324 | 💚 | [🔗](https://open.spotify.com/track/0NhHFXC06r5kK1rTUuOjxM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="" width="50" /> | EENIE MEENIE (Feat. Hongjoong of ATEEZ) | EENIE MEENIE | [CHUNG HA](overview.md), Hongjoong of ATEEZ | MORE VISION | 426 | 💚 | [🔗](https://open.spotify.com/track/3WFTUAPrXvqg3SXC0bsukz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Bicycle | Querencia | [CHUNG HA](overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 491 | 💚 | [🔗](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="" width="50" /> | I’m Ready | EENIE MEENIE | [CHUNG HA](overview.md) | MORE VISION | 612 | 💚 | [🔗](https://open.spotify.com/track/1uHAvl4MdI8zbobFG9FueP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Stay Tonight | Querencia | [CHUNG HA](overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 630 | 💚 | [🔗](https://open.spotify.com/track/7Cn6R7YB4EjQkfci9DdceG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="" width="50" /> | Wow Thing | Wow Thing | [SEULGI](../seulgi/overview.md), [CHUNG HA](overview.md), SinB, [JEON SOYEON](../jeon_soyeon/overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 790 | 💚 | [🔗](https://open.spotify.com/track/5MwfxCtqMFGYp9Nc1BkTrS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734951587f39286b47bedfd4c9" alt="" width="50" /> | Chica | Flourishing | [CHUNG HA](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | nan | | [🔗](https://open.spotify.com/track/7Bt5HMVKtBOC5OaE7s3tym) |
 
 

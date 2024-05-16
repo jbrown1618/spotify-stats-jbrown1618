@@ -81,16 +81,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="Vows (Deluxe Version)" width="50" /> | [Settle Down](../../artists/kimbra/overview.md) | 212 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Say You're Sorry](../../artists/sara_bareilles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Machine Gun](../../artists/sara_bareilles/overview.md) | 250 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Sweet As Whole](../../artists/sara_bareilles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="The Good Life" width="50" /> | Talk It Up | 252 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="1989" width="50" /> | [Clean](../../artists/taylor_swift/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Many the Miles](../../artists/sara_bareilles/overview.md) | 279 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="reputation" width="50" /> | [This Is Why We Can't Have Nice Things](../../artists/taylor_swift/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="The Stranger (Legacy Edition)" width="50" /> | [Vienna](../../artists/billy_joel/overview.md) | 291 | <img src="https://i.scdn.co/image/ab67616d0000b2738d0e2c824f8328bf7caf1b19" alt="Messenger" width="50" /> | Icarus | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Fairytale](../../artists/sara_bareilles/overview.md) | 313 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [epiphany](../../artists/taylor_swift/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> | Your Song | 315 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Meant | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Between the Lines](../../artists/sara_bareilles/overview.md) | 327 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Satellite Call](../../artists/sara_bareilles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="The Stranger (Legacy Edition)" width="50" /> | [Movin' Out (Anthony's Song)](../../artists/billy_joel/overview.md) | 336 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [the 1](../../artists/taylor_swift/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Lie To Me](../../artists/sara_bareilles/overview.md) | 364 | <img src="https://i.scdn.co/image/ab67616d0000b2738c8d5428b693308705e7caca" alt="Far" width="50" /> | Eet | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="Vows (Deluxe Version)" width="50" /> | [Settle Down](../../artists/kimbra/overview.md) | 210 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Say You're Sorry](../../artists/sara_bareilles/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Machine Gun](../../artists/sara_bareilles/overview.md) | 241 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Sweet As Whole](../../artists/sara_bareilles/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="The Good Life" width="50" /> | Talk It Up | 255 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="1989" width="50" /> | [Clean](../../artists/taylor_swift/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="The Stranger (Legacy Edition)" width="50" /> | [Vienna](../../artists/billy_joel/overview.md) | 276 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="reputation" width="50" /> | [This Is Why We Can't Have Nice Things](../../artists/taylor_swift/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Many the Miles](../../artists/sara_bareilles/overview.md) | 282 | <img src="https://i.scdn.co/image/ab67616d0000b2738d0e2c824f8328bf7caf1b19" alt="Messenger" width="50" /> | Icarus | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Between the Lines](../../artists/sara_bareilles/overview.md) | 299 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [epiphany](../../artists/taylor_swift/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Fairytale](../../artists/sara_bareilles/overview.md) | 315 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Meant | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> | Your Song | 317 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Satellite Call](../../artists/sara_bareilles/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="The Stranger (Legacy Edition)" width="50" /> | [Movin' Out (Anthony's Song)](../../artists/billy_joel/overview.md) | 337 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [the 1](../../artists/taylor_swift/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Lie To Me](../../artists/sara_bareilles/overview.md) | 366 | <img src="https://i.scdn.co/image/ab67616d0000b2738c8d5428b693308705e7caca" alt="Far" width="50" /> | Eet | nan |
 
 </details>
 
@@ -291,7 +291,7 @@
 
 
 <details>
-<summary>See all 63 genres</summary>
+<summary>See all 64 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -331,6 +331,7 @@
 | 1 | 1 | singer-songwriter pop |
 | 1 | 1 | retro soul |
 | 1 | 1 | pov: indie |
+| 1 | 1 | nyc indie rock |
 | 1 | 1 | la indie |
 | 1 | 1 | irish pop |
 | 1 | 1 | indietronica |

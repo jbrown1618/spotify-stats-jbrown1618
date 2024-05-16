@@ -1,6 +1,6 @@
 # modern rock
 
-78 songs
+77 songs
 
 [See Track Features](audio_features.md)
 
@@ -23,7 +23,7 @@
 
 
 <details>
-<summary>See all 29 artists</summary>
+<summary>See all 28 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -42,30 +42,29 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb207b21f3ed0ee96adce3166a" alt="" width="50" /> | 2 | 0 | The Killers | [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9cc950721c840af3679622f3" alt="" width="50" /> | 1 | 0 | Peter Bjorn and John | [🔗](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5da36f8b98dd965336a1507a" alt="" width="50" /> | 1 | 0 | blink-182 | [🔗](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe93b88b6103a78ede975ebbe" alt="" width="50" /> | 1 | 0 | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2683402256e43935e2325cd8" alt="" width="50" /> | 1 | 0 | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c61d9506d5af5fb502b343f" alt="" width="50" /> | 1 | 0 | Gorillaz | [🔗](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb256ae9a4b82bfff97776ae2" alt="" width="50" /> | 1 | 0 | Panic! At The Disco | [🔗](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb83671efd372de7007f612e2" alt="" width="50" /> | 1 | 0 | Jukebox The Ghost | [🔗](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) |
 
 </details>
 
 
-![Bar chart of top 29 artists](../../images/genres/modern_rock/artists.png)
+![Bar chart of top 28 artists](../../images/genres/modern_rock/artists.png)
 
 ![Comparison of Artist](../../images/genres/modern_rock/artists_comparison.png)
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Never Let Me Go](../../artists/florence_+_the_machine/overview.md) | 204 | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | Mr. Brightside | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="Bleed American" width="50" /> | The Middle | 247 | <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="Dreamland (+ Bonus Levels)" width="50" /> | Heat Waves | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="Riot!" width="50" /> | Misery Business | 276 | <img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="Demon Days" width="50" /> | Feel Good Inc. | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="An Awesome Wave" width="50" /> | Breezeblocks | 316 | <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="Lungs (Deluxe Edition)" width="50" /> | [Kiss With A Fist](../../artists/florence_+_the_machine/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733818b4c636e2a7fdea3bf965" alt="Fleet Foxes" width="50" /> | White Winter Hymnal | 396 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Believer | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [What The Water Gave Me](../../artists/florence_+_the_machine/overview.md) | 512 | <img src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23" alt="How To Be A Human Being" width="50" /> | The Other Side Of Paradise | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> | Madness | 554 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="Hozier (Expanded Edition)" width="50" /> | Take Me to Church | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="Bleed American" width="50" /> | The Middle | 250 | <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="Dreamland (+ Bonus Levels)" width="50" /> | Heat Waves | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="Riot!" width="50" /> | Misery Business | 280 | <img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="Demon Days" width="50" /> | Feel Good Inc. | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273028c3bb4b81ee71dd73d1596" alt="An Awesome Wave" width="50" /> | Breezeblocks | 309 | <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="Lungs (Deluxe Edition)" width="50" /> | [Kiss With A Fist](../../artists/florence_+_the_machine/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733818b4c636e2a7fdea3bf965" alt="Fleet Foxes" width="50" /> | White Winter Hymnal | 401 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="Evolve" width="50" /> | Believer | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [What The Water Gave Me](../../artists/florence_+_the_machine/overview.md) | 515 | <img src="https://i.scdn.co/image/ab67616d0000b273ec3d15eab5bd77027abc4b23" alt="How To Be A Human Being" width="50" /> | The Other Side Of Paradise | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> | Madness | 557 | <img src="https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2" alt="Hozier (Expanded Edition)" width="50" /> | Take Me to Church | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6c0376235e5aa44e59d2c2" alt="Picture Show" width="50" /> | Everybody Talks | 615 | <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="Riot!" width="50" /> | That's What You Get | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" alt="Night Visions" width="50" /> | Radioactive | 695 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Lover To Lover](../../artists/florence_+_the_machine/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Seven Devils](../../artists/florence_+_the_machine/overview.md) | 727 | <img src="https://i.scdn.co/image/ab67616d0000b27351729fae66d02122c4951153" alt="Young The Giant (Special Edition)" width="50" /> | Cough Syrup | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" alt="Night Visions" width="50" /> | Radioactive | 700 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Lover To Lover](../../artists/florence_+_the_machine/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Seven Devils](../../artists/florence_+_the_machine/overview.md) | 735 | <img src="https://i.scdn.co/image/ab67616d0000b27351729fae66d02122c4951153" alt="Young The Giant (Special Edition)" width="50" /> | Cough Syrup | nan |
 
 ## Top Albums
 
@@ -84,7 +83,7 @@
 
 
 <details>
-<summary>See all 52 albums</summary>
+<summary>See all 51 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -129,7 +128,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="" width="50" /> | 1 | 0 | Demon Days | 2005-05-23 | [🔗](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6" alt="" width="50" /> | 1 | 0 | Brand New Eyes | 2009-09-28 | [🔗](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" alt="" width="50" /> | 1 | 0 | American Idiot | 2004-09-21 | [🔗](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730a8881b0d247346c3c447bf3" alt="" width="50" /> | 1 | 0 | A Fever You Can't Sweat Out | 2005-09-27 | [🔗](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) |
 
 </details>
 
@@ -141,7 +139,7 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 15 | 14 | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_/overview.md) |
-| 10 | 5 | [Fueled By Ramen](../../labels/fueled_by_ramen/overview.md) |
+| 9 | 5 | [Fueled By Ramen](../../labels/fueled_by_ramen/overview.md) |
 | 6 | 4 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 5 | 4 | [Warner Records](../../labels/warner_records/overview.md) |
 | 3 | 3 | Kid Ina Korner |
@@ -153,7 +151,7 @@
 
 
 <details>
-<summary>See all 30 labels</summary>
+<summary>See all 29 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -175,13 +173,12 @@
 | 1 | 0 | Kierszenbaum |
 | 1 | 0 | [Geffen](../../labels/geffen/overview.md) |
 | 1 | 0 | [EMI](../../labels/emi/overview.md) |
-| 1 | 0 | Decaydance |
 | 1 | 0 | Cherrytree Records |
 
 </details>
 
 
-![Bar chart of top 30 record labels](../../images/genres/modern_rock/labels.png)
+![Bar chart of top 29 record labels](../../images/genres/modern_rock/labels.png)
 
 ## Top Producers
 

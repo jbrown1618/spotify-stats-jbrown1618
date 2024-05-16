@@ -152,6 +152,7 @@ recording_mbid,recording_title,recording_language
 16aabaa0-8365-4aed-ad4e-8cf5e660b7c3,Waltz Me to the Grave,eng
 16ba7915-2acf-42b2-8c87-ed67090dca91,Kiss Me More,eng
 16bccc81-1d3e-4ae6-9959-6d07a8d3fd32,Samson,eng
+16c2ff86-1948-4dee-b12d-77b29162776d,Lose My Breath,
 16e75c5f-9696-468d-9f62-12464133fcb3,사랑을 했다 (LOVE SCENARIO),kor
 173e6548-974e-44a7-a5f8-99e50e3049ae,라일락,kor
 17416564-fb6e-471c-a4ad-0bfc45292cd9,Blackbird,eng
@@ -267,6 +268,7 @@ recording_mbid,recording_title,recording_language
 25a1ab87-d9f6-461d-a709-166c23f4a1cc,Shadow,
 25d8de5e-3662-4ffd-8dea-511a696ac3e7,Hurt,eng
 25db131d-4437-4d07-a289-77d1223703e7,LOVE DIVE,kor
+25f75c95-cd32-44ee-853d-b8993a05cbdf,Lucifer,
 261847b5-befc-440a-a4a9-7f17e168f29a,You've Got the Love,eng
 26b14d87-c138-4404-a1c7-3f1864698b10,KNOCK,mul
 26bc1124-b228-401e-8f38-5cea1625d8c2,Misery Business,eng
@@ -542,6 +544,7 @@ recording_mbid,recording_title,recording_language
 4cb99d6b-f70e-45db-a6fd-7e7176643c94,Like Water,
 4cc16a67-d1e8-4ec3-93f2-84b1d27cd283,No title,jpn
 4ce82115-c336-4cb6-9770-00e2e3d54b19,Tippy Toes,
+4d037b0c-bd99-4352-8fb7-43993597f109,Supernova,
 4d82c5eb-9cfe-4dd6-b147-b57cc17a809d,bury a friend,eng
 4d8a4205-1544-481a-b921-e7be34c4fd04,LIKEY,
 4db8b0fd-4fd4-45f9-b056-28665bde1044,December,eng
@@ -568,8 +571,10 @@ recording_mbid,recording_title,recording_language
 50711b8e-1702-4346-956b-3d688039b221,싫다고 말해,kor
 50a79497-0690-4220-96a2-d62ca5d5ed96,Blue Flame,mul
 50b1678b-b7e7-4da6-9f2a-a4a6e5100a51,파이팅 해야지,
+50e7521b-f343-4592-9155-fef21752c8ac,Fatal Trouble,
 50e91c69-df3b-4289-9472-ad454ba7d998,I’ll Be There,eng
 510ec294-961e-4818-a33a-61e8c7d6e396,Raise y_our glass,
+5122f49d-c232-4a25-a596-c24c41e67c1b,Teeth,
 5199323c-dd84-452b-a826-783b08e51f48,My Everything,
 51a57f5a-f1fa-43a5-a98f-83572427e0d5,Devil,kor
 51f21966-5d55-4525-a179-1bdd24f7ab63,Trumpets,eng
@@ -898,6 +903,7 @@ recording_mbid,recording_title,recording_language
 83ca4bb9-a05e-4ad9-b0c5-08b385b43de8,His Car Isn't Yours,
 83cf16bc-01db-4766-9e3e-f3c796639cf2,High and Dry,eng
 8403caf8-3714-46da-934c-1fe91a049540,Thriller,eng
+846aee97-d801-44dc-a4f9-12e41b859458,Love seeker,
 84a47980-31b7-4f49-b8a3-af7e5996fab0,Toy,
 84f946f0-6653-4ce9-83cd-585f060291db,Not Ready to Make Nice,eng
 850ddf64-294a-4ccd-8049-5686f391c02d,Nobody Knows,mul
@@ -1178,6 +1184,7 @@ a9644492-6200-42a8-a734-f6ff095cb3b4,Muddy Water,
 a97992ca-5d3d-4ce9-bab1-e631360c618b,死ぬのがいいわ,
 a9915135-8a30-4e14-a4ac-eb6366d80608,Mykonos,eng
 a99c39dd-3bb1-4021-be2e-ecc6c6db8351,Bridge Over Troubled Water,eng
+a9a3f37a-927f-4071-bf88-36869ddf2ce2,Algorhythm,
 a9a83384-3da3-4c84-af6d-33fcdb1c3e27,I Want You (She’s So Heavy),eng
 a9ad6929-17b3-4cd9-8c73-12755e874e8d,Salty & Sweet,
 a9b018ad-da60-4da5-8878-54c3dc3dae68,Birthday,eng
@@ -1231,6 +1238,7 @@ b09ee36d-e853-4578-a8ac-f27e3fe8966e,Stamp on It,
 b0a3e2de-c736-4b58-9a06-a7c72da46295,Coño,
 b0adf5f2-2a7f-4030-bd5e-5f4a8c9f33c2,Gas Me Up,
 b110ab9a-853c-4c0f-b138-7410465de762,Between Two Lungs,eng
+b163ab45-7ab4-492b-8132-1520183a73e1,No Biggie,
 b1a9c0e9-d987-4042-ae91-78d6a3267d69,Bohemian Rhapsody,eng
 b1cb535c-bab2-4fcd-89b5-edc54d34c451,Good Girls in the Dark,
 b211647d-ad82-452d-8a4f-63278537ce4a,Don’t Know What to Do,mul
@@ -1412,6 +1420,7 @@ cf4961cc-a935-4a76-8d76-419904e4eed4,썸,
 cf69bd7e-769a-479c-bc7d-ca38ed93071f,Pretty Savage,mul
 cf6d8ed2-7937-4bb2-b452-26dd995ab695,everybody’s got a $ECRET,mul
 cf7bf743-30f9-4ac8-beae-a32d977626ae,Attention,
+cfc3906e-2dac-4711-b168-fe654d5f04c1,Scream,
 cfc7decf-24a0-4c24-874d-1531d2761481,너나 해,
 cfc94648-8d3f-4db3-ac3c-5f04ae00a0a1,Not Alone,
 cfdd8ef0-9259-4e39-89e2-21ea37b0d71a,헤픈 우연,
