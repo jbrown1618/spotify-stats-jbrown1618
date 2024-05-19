@@ -84,11 +84,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="Like Water - The 1st Mini Album" width="50" /> | [When This Rain Stops](../../artists/wendy/overview.md) | 23 | <img src="https://i.scdn.co/image/ab67616d0000b273a5c51e96d2583bfb3e45d504" alt="Think About Things" width="50" /> | Think About Things | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | [Welcome To MY World (feat. nævis)](../../artists/aespa/overview.md) | 27 | <img src="https://i.scdn.co/image/ab67616d0000b2732a1e7392010838ecbb1453d8" alt="Hello, world!" width="50" /> | Strawberry Cake | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="Hello - Special Album" width="50" /> | Hello | 35 | <img src="https://i.scdn.co/image/ab67616d0000b2730595db077a6e829ba4bd6dea" alt="Album One" width="50" /> | Brass Goggles | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | [Oh my god](../../artists/(g)i-dle/overview.md) | 40 | <img src="https://i.scdn.co/image/ab67616d0000b27356080feb452fa7ad4ca61d8b" alt="Village" width="50" /> | Unknown (To You) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | [Oh my god](../../artists/(g)i-dle/overview.md) | 38 | <img src="https://i.scdn.co/image/ab67616d0000b27356080feb452fa7ad4ca61d8b" alt="Village" width="50" /> | Unknown (To You) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="BSS 1st Single Album &#x27;SECOND WIND&#x27;" width="50" /> | Fighting (Feat. Lee Young Ji) | 42 | <img src="https://i.scdn.co/image/ab67616d0000b273cd519fa579f43e384aa891f1" alt="Finally Woken" width="50" /> | They | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 44 | <img src="https://i.scdn.co/image/ab67616d0000b273a93c207b94cbb802b1efefa1" alt="MOTH" width="50" /> | Phase Me | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="Ice Cream Cake - The 1st Mini Album" width="50" /> | [Ice Cream Cake](../../artists/red_velvet/overview.md) | 48 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="The Red Summer - Summer Mini Album" width="50" /> | [Red Flavor](../../artists/red_velvet/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="Ditto" width="50" /> | [Ditto](../../artists/newjeans/overview.md) | 49 | <img src="https://i.scdn.co/image/ab67616d0000b273f770ff371eb7015034122c8a" alt="1st Single &#x27;S.i.R&#x27;" width="50" /> | Cherry Blossom | 746 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="Ditto" width="50" /> | [Ditto](../../artists/newjeans/overview.md) | 48 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="The Red Summer - Summer Mini Album" width="50" /> | [Red Flavor](../../artists/red_velvet/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="Ice Cream Cake - The 1st Mini Album" width="50" /> | [Ice Cream Cake](../../artists/red_velvet/overview.md) | 49 | <img src="https://i.scdn.co/image/ab67616d0000b273f770ff371eb7015034122c8a" alt="1st Single &#x27;S.i.R&#x27;" width="50" /> | Cherry Blossom | 752 |
 
 </details>
 
@@ -222,12 +222,11 @@
 
 
 <details>
-<summary>See all 22 genres</summary>
+<summary>See all 21 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 1 | 1 | nyc pop |
-| 1 | 1 | [lilith](../../genres/lilith/overview.md) |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 1 | 1 | korean ost |
 | 1 | 1 | japanese singer-songwriter |
@@ -242,7 +241,7 @@
 </details>
 
 
-![Bar chart of top 22 genres](../../images/playlists/recommendations_for_jeff/genres.png)
+![Bar chart of top 21 genres](../../images/playlists/recommendations_for_jeff/genres.png)
 
 ## Top Producers
 

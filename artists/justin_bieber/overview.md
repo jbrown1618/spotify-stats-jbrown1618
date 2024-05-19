@@ -9,7 +9,7 @@
 ![Rank of Justin Bieber over time](../../images/artists/justin_bieber/rank_time_series.png)
 ## Top Tracks
 
-- Love Yourself is the #15 track of the last month
+- Love Yourself is the #19 track of the last month
 
 ### Top tracks, aggregated
 
@@ -88,7 +88,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | [Ariana Grande](../ariana_grande/overview.md) | 1 | Producer, Songwriter |
 | | Devin Nakao | 1 | Producer |
 | | Tia Scola | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb78eb6f50aa18638e95416d54" alt="" width="50" /> | Luis Fonsi | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2620d7e19f51d9c4b7e853ce" alt="" width="50" /> | Luis Fonsi | 1 | Songwriter |
 | | Ed Sheeran | 1 | Songwriter |
 
 
@@ -123,8 +123,8 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="" width="50" /> | Love Yourself | Purpose (Deluxe) | [Justin Bieber](overview.md) | RBMG/Def Jam | 416 | 💚 | [🔗](https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="" width="50" /> | Off My Face | Justice | [Justin Bieber](overview.md) | RBMG/Def Jam | 672 | 💚 | [🔗](https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="" width="50" /> | Love Yourself | Purpose (Deluxe) | [Justin Bieber](overview.md) | RBMG/Def Jam | 394 | 💚 | [🔗](https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="" width="50" /> | Off My Face | Justice | [Justin Bieber](overview.md) | RBMG/Def Jam | 679 | 💚 | [🔗](https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d" alt="" width="50" /> | All I Want For Christmas Is You (SuperFestive!) Duet with Mariah Carey | Under The Mistletoe (Deluxe Edition) | [Justin Bieber](overview.md), Mariah Carey | RBMG/Def Jam | nan | | [🔗](https://open.spotify.com/track/1IUtgwxLYzDVd41EgbKUjX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d" alt="" width="50" /> | Mistletoe | Under The Mistletoe (Deluxe Edition) | [Justin Bieber](overview.md) | RBMG/Def Jam | nan | | [🔗](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="" width="50" /> | I'll Show You | Purpose (Deluxe) | [Justin Bieber](overview.md) | RBMG/Def Jam | nan | | [🔗](https://open.spotify.com/track/0SNIAtRCPVVLoGEPcuHSIc) |

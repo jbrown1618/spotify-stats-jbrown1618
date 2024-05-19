@@ -69,7 +69,7 @@
 | | Mike Strange | 3 | Producer |
 | | Alex da Kid | 1 | Producer, Songwriter |
 | | [Marcos Tovar](../../producers/marcos_tovar/overview.md) | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebead1540fa76796266fadba33" alt="" width="50" /> | Bebe Rexha | 1 | Songwriter |
 | | Frequency | 1 | Producer, Songwriter |
 | | Skylar Grey | 1 | Songwriter |
 | | Luis Resto | 1 | Producer, Songwriter |
@@ -99,8 +99,8 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | The Monster | The Marshall Mathers LP2 | [Eminem](overview.md), [Rihanna](../rihanna/overview.md) | [Aftermath](../../labels/aftermath) | 550 | 💚 | [🔗](https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="" width="50" /> | We Made You | Relapse: Refill | [Eminem](overview.md) | [Aftermath](../../labels/aftermath) | 673 | 💚 | [🔗](https://open.spotify.com/track/4UMTp91LHhvW33ol9ZQH0Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | The Monster | The Marshall Mathers LP2 | [Eminem](overview.md), [Rihanna](../rihanna/overview.md) | [Aftermath](../../labels/aftermath) | 555 | 💚 | [🔗](https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="" width="50" /> | We Made You | Relapse: Refill | [Eminem](overview.md) | [Aftermath](../../labels/aftermath) | 680 | 💚 | [🔗](https://open.spotify.com/track/4UMTp91LHhvW33ol9ZQH0Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578" alt="" width="50" /> | Lose Yourself | Curtain Call: The Hits (Deluxe Edition) | [Eminem](overview.md) | [Aftermath](../../labels/aftermath) | nan | 💚 | [🔗](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="" width="50" /> | Love The Way You Lie | Recovery | [Eminem](overview.md), [Rihanna](../rihanna/overview.md) | [Aftermath](../../labels/aftermath) | nan | 💚 | [🔗](https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="" width="50" /> | Homicide (feat. Eminem) | Confessions of a Dangerous Mind | Logic, [Eminem](overview.md) | [Def Jam Recordings](../../labels/def_jam_recordings) | nan | | [🔗](https://open.spotify.com/track/7M2tXmeS15NAzEn7ABFeBg) |

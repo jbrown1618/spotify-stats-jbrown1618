@@ -17,7 +17,7 @@ Kendrick Lamar:
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020b1cfc3df4d9d5d4cbce9208ab67616d00001e0210356a0e81371e6644cb1371ab67616d00001e02c08d5fa5c0f1a834acef5100ab67616d00001e02c450c89d3eb750d3535b0a0c" alt="" width="50" /> | 9 | [Hip Hop](../../playlists/hip_hop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e0286ca91e718866f411c01db5eab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02ce4f1737bc8a646c8c4bd25a" alt="" width="50" /> | 1 | [Beat Drop!](../../playlists/beat_drop!/overview.md) |
-| <img src="https://i.scdn.co/image/ab67616d00001e021ea0c62b2339cbf493a999ad" alt="" width="50" /> | 1 | [Check Out Later](../../playlists/check_out_later/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e021ea0c62b2339cbf493a999adab67616d00001e02b898e1af5571ea5402fdd764ab67616d00001e02e5d079704778dc9534c73a91ab67616d00001e02e7b975daf944ff0d1ffce056" alt="" width="50" /> | 1 | [Check Out Later](../../playlists/check_out_later/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02830de2e836036f181df598d0ab67616d00001e02af2fda9fb591d43c355c2ac3ab67616d00001e02cc6f76f75551af499b5cd0cbab67616d00001e02da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 
 ## Top Albums

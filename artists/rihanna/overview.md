@@ -132,7 +132,7 @@
 | | Rob Swire | 1 | Producer, Songwriter |
 | | Elof Loelv | 1 | Producer, Songwriter |
 | | Justin Parker | 1 | Arranger, Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebead1540fa76796266fadba33" alt="" width="50" /> | Bebe Rexha | 1 | Songwriter |
 | | Veronika Bozeman | 1 | Producer |
 | | Robert Allen | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca118e3822061f7b7f6bc537" alt="" width="50" /> | Ne-Yo | 1 | Producer, Songwriter |
@@ -166,9 +166,9 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | What Now | Unapologetic (Deluxe) | [Rihanna](overview.md) | [Def Jam Recordings](../../labels/def_jam_recordings) | 291 | 💚 | [🔗](https://open.spotify.com/track/0aUWfpD3PlSv3FTTKcT2rN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | The Monster | The Marshall Mathers LP2 | [Eminem](../eminem/overview.md), [Rihanna](overview.md) | [Aftermath](../../labels/aftermath) | 550 | 💚 | [🔗](https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Stay | Unapologetic (Deluxe) | [Rihanna](overview.md), Mikky Ekko | [Def Jam Recordings](../../labels/def_jam_recordings) | 691 | 💚 | [🔗](https://open.spotify.com/track/1dEy9Pl81QopSxNsPxXQxv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | What Now | Unapologetic (Deluxe) | [Rihanna](overview.md) | [Def Jam Recordings](../../labels/def_jam_recordings) | 294 | 💚 | [🔗](https://open.spotify.com/track/0aUWfpD3PlSv3FTTKcT2rN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | The Monster | The Marshall Mathers LP2 | [Eminem](../eminem/overview.md), [Rihanna](overview.md) | [Aftermath](../../labels/aftermath) | 555 | 💚 | [🔗](https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Stay | Unapologetic (Deluxe) | [Rihanna](overview.md), Mikky Ekko | [Def Jam Recordings](../../labels/def_jam_recordings) | 699 | 💚 | [🔗](https://open.spotify.com/track/1dEy9Pl81QopSxNsPxXQxv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b21609e1a2d7c1b7ba8efae2" alt="" width="50" /> | Pon de Replay | Music Of The Sun | [Rihanna](overview.md) | [Def Jam Recordings](../../labels/def_jam_recordings) | nan | | [🔗](https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Disturbia | Good Girl Gone Bad: Reloaded | [Rihanna](overview.md) | [Def Jam Recordings](../../labels/def_jam_recordings) | nan | 💚 | [🔗](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Don't Stop The Music | Good Girl Gone Bad: Reloaded | [Rihanna](overview.md) | [Def Jam Recordings](../../labels/def_jam_recordings) | nan | 💚 | [🔗](https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy) |

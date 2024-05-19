@@ -100,7 +100,7 @@ Appears as:
 
 
 <details>
-<summary>See all 29 genres</summary>
+<summary>See all 28 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -117,7 +117,6 @@ Appears as:
 | 1 | 0 | [rock](../../genres/rock/overview.md) |
 | 1 | 0 | [psychedelic rock](../../genres/psychedelic_rock/overview.md) |
 | 1 | 0 | new wave pop |
-| 1 | 0 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 1 | 0 | [folk](../../genres/folk/overview.md) |
 | 1 | 0 | electric blues |
 | 1 | 0 | country rock |
@@ -127,7 +126,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 29 genres](../../images/labels/capitol_records/genres.png)
+![Bar chart of top 28 genres](../../images/labels/capitol_records/genres.png)
 
 ## Top Producers
 
@@ -186,7 +185,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude | SUGA's Interlude | Halsey, SUGA, [BTS](../../artists/bts/overview.md) | [Capitol Records](.) | 536 | 💚 | [🔗](https://open.spotify.com/track/5a0nHa7F4S9hb0Zi0zLS8w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude | SUGA's Interlude | Halsey, SUGA, [BTS](../../artists/bts/overview.md) | [Capitol Records](.) | 537 | 💚 | [🔗](https://open.spotify.com/track/5a0nHa7F4S9hb0Zi0zLS8w) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea" alt="" width="50" /> | Let It Snow! Let It Snow! Let It Snow! | A Winter Romance | Dean Martin | [Capitol Records](.) | 766 | | [🔗](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="" width="50" /> | I've Got You Under My Skin - Remastered 1998 | Songs For Swingin' Lovers! (Remastered) | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [Capitol Records](.) | nan | | [🔗](https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | Come Fly With Me - Remastered 1998 | Come Fly With Me (Expanded Edition) | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [Capitol Records](.) | nan | | [🔗](https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn) |

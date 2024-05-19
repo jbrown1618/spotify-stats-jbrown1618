@@ -1,15 +1,15 @@
 # Warner Records
 
-101 songs
+103 songs
 
 [See Track Features](audio_features.md)
 
 [See Clusters](clusters/overview.md)
 
 Appears as:
-- Warner Records (52 tracks)
+- Warner Records (53 tracks)
 - SM Entertainment / Warner Records (18 tracks)
-- Rhino/Warner Records (14 tracks)
+- Rhino/Warner Records (15 tracks)
 - Beluga Heights/Warner Records (5 tracks)
 - TEAM WANG records/88rising Music/Warner Records (5 tracks)
 - Brute/Beaute/Warner Records (3 tracks)
@@ -29,8 +29,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="" width="50" /> | 5 | 4 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | 4 | 4 | [Rilo Kiley](../../artists/rilo_kiley/overview.md) | [🔗](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | 6 | 3 | Fleetwood Mac | [🔗](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | 4 | 2 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b" alt="" width="50" /> | 3 | 2 | Madonna | [🔗](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebead1540fa76796266fadba33" alt="" width="50" /> | 4 | 2 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | 4 | 2 | Prince | [🔗](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) |
 
 
 <details>
@@ -38,7 +38,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | 2 | 2 | Prince | [🔗](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b" alt="" width="50" /> | 3 | 2 | Madonna | [🔗](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8" alt="" width="50" /> | 6 | 1 | Red Hot Chili Peppers | [🔗](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4870cd833ebe1092601820c3" alt="" width="50" /> | 2 | 1 | Black Sabbath | [🔗](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 2 | 1 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
@@ -96,17 +96,17 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="" width="50" /> | 4 | 1 | Stadium Arcadium | 2006-05-09 | [🔗](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | 3 | 3 | More Adventurous (U.S. Release) | 2004-07-27 | [🔗](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | 3 | 3 | MAGIC MAN | 2022-09-09 | [🔗](https://open.spotify.com/album/2VZ4og2ZbwyTQ3X1rbgCe1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | 3 | 1 | Rumours (Super Deluxe) | 1977-02-04 | [🔗](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | 3 | 2 | Purple Rain | 1984-06-25 | [🔗](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) |
 
 
 <details>
-<summary>See all 55 albums</summary>
+<summary>See all 56 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | 3 | 1 | Rumours (Super Deluxe) | 1977-02-04 | [🔗](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | 2 | 2 | The 2nd Law | 2012-09-24 | [🔗](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | 2 | 2 | Talk Dirty | 2013-09-10 | [🔗](https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | 2 | 2 | Purple Rain | 1984-06-25 | [🔗](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="" width="50" /> | 2 | 2 | Fleetwood Mac | 1975-07-11 | [🔗](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ae395b47b186c2bc8c458e0f" alt="" width="50" /> | 2 | 2 | Dua Lipa (Complete Edition) | 2018-10-19 | [🔗](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc948460a8f5b07124d98a9b" alt="" width="50" /> | 2 | 1 | Cheetah | 2023-04-24 | [🔗](https://open.spotify.com/album/4nK0XlFVAQNesqpijBX1Ri) |
@@ -136,6 +136,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f" alt="" width="50" /> | 1 | 0 | The Lord of the Rings: The Fellowship of the Ring - the Complete Recordings | 2001 | [🔗](https://open.spotify.com/album/55RTkgUCP7t80hiTUhATMH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d629b7dd61cb5d580acad39" alt="" width="50" /> | 1 | 0 | Swalla (feat. Nicki Minaj & Ty Dolla $ign) | 2017-02-23 | [🔗](https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" alt="" width="50" /> | 1 | 0 | Paranoid (Remaster) | 1970-09-18 | [🔗](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27323cc0f0a925845a3de4aca38" alt="" width="50" /> | 1 | 0 | Parade - Music from the Motion Picture Under the Cherry Moon | 1986-03-31 | [🔗](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" alt="" width="50" /> | 1 | 0 | Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course | 2004-11-30 | [🔗](https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739ee9ec388e0827c88bfdfbd7" alt="" width="50" /> | 1 | 0 | Moondance (Expanded Edition) | 1970-02 | [🔗](https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bc9b44e950d5440ff65ea926" alt="" width="50" /> | 1 | 0 | Machine Head | 1972-03-25 | [🔗](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) |
@@ -162,7 +163,7 @@ Appears as:
 | 23 | 14 | [pop](../../genres/pop/overview.md) |
 | 23 | 14 | [dance pop](../../genres/dance_pop/overview.md) |
 | 18 | 14 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
-| 24 | 12 | [rock](../../genres/rock/overview.md) |
+| 26 | 12 | [rock](../../genres/rock/overview.md) |
 | 13 | 8 | nz pop |
 | 13 | 8 | [electropop](../../genres/electropop/overview.md) |
 | 13 | 8 | bergen indie |
@@ -172,7 +173,7 @@ Appears as:
 
 
 <details>
-<summary>See all 71 genres</summary>
+<summary>See all 70 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -187,11 +188,11 @@ Appears as:
 | 4 | 4 | indie pop |
 | 4 | 4 | funktronica |
 | 4 | 4 | chamber pop |
-| 8 | 3 | funk rock |
+| 10 | 3 | funk rock |
 | 6 | 3 | yacht rock |
-| 2 | 2 | synth funk |
-| 2 | 2 | minneapolis sound |
-| 2 | 2 | funk |
+| 4 | 2 | synth funk |
+| 4 | 2 | minneapolis sound |
+| 4 | 2 | funk |
 | 6 | 1 | funk metal |
 | 3 | 1 | metal |
 | 3 | 1 | [hard rock](../../genres/hard_rock/overview.md) |
@@ -201,7 +202,6 @@ Appears as:
 | 2 | 1 | [rap](../../genres/rap/overview.md) |
 | 2 | 1 | pop rap |
 | 2 | 1 | [mellow gold](../../genres/mellow_gold/overview.md) |
-| 2 | 1 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 2 | 1 | folk rock |
 | 2 | 1 | [folk](../../genres/folk/overview.md) |
 | 2 | 1 | birmingham metal |
@@ -271,7 +271,7 @@ Appears as:
 | | Adrian Bushby | 2 | Producer |
 | | Jussifer | 2 | Producer, Songwriter |
 | | Keith Olsen | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebead1540fa76796266fadba33" alt="" width="50" /> | Bebe Rexha | 2 | Songwriter |
 | | Emily Warren | 2 | Songwriter |
 | | Sean Douglas | 2 | Songwriter |
 | | Rich Costey | 2 | Producer |
@@ -365,11 +365,11 @@ Appears as:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Illusion | Girls - The 2nd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 16 | 💚 | [🔗](https://open.spotify.com/track/396FqjKmViUZ92Wmm4rx3i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Welcome To MY World (feat. nævis) | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md), nævis | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 27 | 💚 | [🔗](https://open.spotify.com/track/3q5qpprtugUIEPExuI7tRD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Drama | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 31 | 💚 | [🔗](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Drama | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 30 | 💚 | [🔗](https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Spicy | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 33 | 💚 | [🔗](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c2bcf77ad1fe40f6c7b88609" alt="" width="50" /> | Better Things | Better Things | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 43 | 💚 | [🔗](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c2bcf77ad1fe40f6c7b88609" alt="" width="50" /> | Better Things | Better Things | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 41 | 💚 | [🔗](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Trick or Trick | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 46 | 💚 | [🔗](https://open.spotify.com/track/3EI3OLBeM89B0o0UsIGCOx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Thirsty | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 56 | 💚 | [🔗](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Thirsty | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 57 | 💚 | [🔗](https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | Hot Air Balloon | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 80 | 💚 | [🔗](https://open.spotify.com/track/1mdtLny0zugh89vokWGG80) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731ca13e5d59a3a25e68fd7764" alt="" width="50" /> | Jingle Bell Rock | Jingle Bell Rock | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 90 | | [🔗](https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Salty & Sweet | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 109 | 💚 | [🔗](https://open.spotify.com/track/4wQDjZtXjsFtU3BLSiIH4t) |
@@ -380,19 +380,19 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | YOLO | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 175 | | [🔗](https://open.spotify.com/track/3OQWohbPUsvbXaH1AiRazX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | YOLO | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 176 | | [🔗](https://open.spotify.com/track/3OQWohbPUsvbXaH1AiRazX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | I'm Unhappy | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 187 | 💚 | [🔗](https://open.spotify.com/track/6fzio74FGqFFsenYkbGPzR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls | Girls - The 2nd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 192 | 💚 | [🔗](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Settle Down | Vows (Deluxe Version) | [Kimbra](../../artists/kimbra/overview.md) | [Warner Records](.) | 210 | 💚 | [🔗](https://open.spotify.com/track/6cdslY3YKjh7pImxFhSBVG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | 'Til We Meet Again | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 235 | | [🔗](https://open.spotify.com/track/60Uio68M57PwKEgZxSutL6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | Silver Lining | Under The Blacklight (Standard Version) | [Rilo Kiley](../../artists/rilo_kiley/overview.md) | [Warner Records](.) | 260 | 💚 | [🔗](https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | Blow | MAGIC MAN | [Jackson Wang](../../artists/jackson_wang/overview.md) | TEAM WANG records, [88rising Music](../88rising_music), [Warner Records](.) | 312 | 💚 | [🔗](https://open.spotify.com/track/53WD6QvMGh7wXQVP0U8Rnr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="" width="50" /> | Break My Heart Myself (feat. Travis Barker) | Better Mistakes | Bebe Rexha, Travis Barker | [Warner Records](.) | 539 | 💚 | [🔗](https://open.spotify.com/track/3UjGudrhckjEQjKHLR3p5G) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | Baby It's Cold Outside (with Michael Bublé) | Holiday Wishes | Idina Menzel, [Michael Bublé](../../artists/michael_bublé/overview.md) | [Warner Records](.) | 549 | | [🔗](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | Madness | The 2nd Law | Muse | [Warner Records](.) | 557 | 💚 | [🔗](https://open.spotify.com/track/0c4IEciLCDdXEhhKxj4ThA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Life's Too Short | Girls - The 2nd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 640 | 💚 | [🔗](https://open.spotify.com/track/1uIN3VCVKzMXqF2A2Qlw5q) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Limbo | Vows (Deluxe Version) | [Kimbra](../../artists/kimbra/overview.md) | [Warner Records](.) | 771 | 💚 | [🔗](https://open.spotify.com/track/6go4VH47IaXtYlTGHizjhm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | Get Ugly | Everything Is 4 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [Beluga Heights/Warner Records](.) | 785 | 💚 | [🔗](https://open.spotify.com/track/1dl3vuXJS9anUXE7XnNP75) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Settle Down | Vows (Deluxe Version) | [Kimbra](../../artists/kimbra/overview.md) | [Warner Records](.) | 211 | 💚 | [🔗](https://open.spotify.com/track/6cdslY3YKjh7pImxFhSBVG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | 'Til We Meet Again | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 237 | | [🔗](https://open.spotify.com/track/60Uio68M57PwKEgZxSutL6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | Silver Lining | Under The Blacklight (Standard Version) | [Rilo Kiley](../../artists/rilo_kiley/overview.md) | [Warner Records](.) | 262 | 💚 | [🔗](https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | Blow | MAGIC MAN | [Jackson Wang](../../artists/jackson_wang/overview.md) | TEAM WANG records, [88rising Music](../88rising_music), [Warner Records](.) | 313 | 💚 | [🔗](https://open.spotify.com/track/53WD6QvMGh7wXQVP0U8Rnr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="" width="50" /> | Break My Heart Myself (feat. Travis Barker) | Better Mistakes | Bebe Rexha, Travis Barker | [Warner Records](.) | 545 | 💚 | [🔗](https://open.spotify.com/track/3UjGudrhckjEQjKHLR3p5G) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | Baby It's Cold Outside (with Michael Bublé) | Holiday Wishes | Idina Menzel, [Michael Bublé](../../artists/michael_bublé/overview.md) | [Warner Records](.) | 553 | | [🔗](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | Madness | The 2nd Law | Muse | [Warner Records](.) | 559 | 💚 | [🔗](https://open.spotify.com/track/0c4IEciLCDdXEhhKxj4ThA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Life's Too Short | Girls - The 2nd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 645 | 💚 | [🔗](https://open.spotify.com/track/1uIN3VCVKzMXqF2A2Qlw5q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Limbo | Vows (Deluxe Version) | [Kimbra](../../artists/kimbra/overview.md) | [Warner Records](.) | 776 | 💚 | [🔗](https://open.spotify.com/track/6go4VH47IaXtYlTGHizjhm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | Get Ugly | Everything Is 4 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [Beluga Heights/Warner Records](.) | 788 | 💚 | [🔗](https://open.spotify.com/track/1dl3vuXJS9anUXE7XnNP75) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27330c348e8e33a9cdd1aa58152" alt="" width="50" /> | Tell Me a Bedtime Story | Fat Albert Rotunda | Herbie Hancock | [Rhino](../rhino), [Warner Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/6eimz6jvlZaPwtflDWCTa0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a1ffd75bb148e58ce2a6cac" alt="" width="50" /> | Moondance - 2013 Remaster | Moondance (Deluxe Edition) | Van Morrison | [Warner Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739ee9ec388e0827c88bfdfbd7" alt="" width="50" /> | Crazy Love - 2013 Remaster | Moondance (Expanded Edition) | Van Morrison | [Warner Records](.) | nan | | [🔗](https://open.spotify.com/track/2hjAc6x8EoSLhGxRNg8KEw) |
@@ -404,9 +404,11 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | Go Your Own Way - 2004 Remaster | Rumours (Super Deluxe) | Fleetwood Mac | [Rhino](../rhino), [Warner Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | The Chain - 2004 Remaster | Rumours (Super Deluxe) | Fleetwood Mac | [Rhino](../rhino), [Warner Records](.) | nan | | [🔗](https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a2a55eaab314c41d8f6e512" alt="" width="50" /> | Sara - 2015 Remaster | Tusk (2015 Remaster) | Fleetwood Mac | [Rhino](../rhino), [Warner Records](.) | nan | | [🔗](https://open.spotify.com/track/59rSjZAHfFktNxjtx7oM4H) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | Let's Go Crazy | Purple Rain | Prince | [Rhino](../rhino), [Warner Records](.) | nan | | [🔗](https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | Purple Rain | Purple Rain | Prince | [Rhino](../rhino), [Warner Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | When Doves Cry | Purple Rain | Prince | [Rhino](../rhino), [Warner Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27399d424b0873a9a714279a9f3" alt="" width="50" /> | Like a Virgin | Like a Virgin | Madonna | [Warner Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27323cc0f0a925845a3de4aca38" alt="" width="50" /> | Kiss | Parade - Music from the Motion Picture Under the Cherry Moon | Prince | [Warner Records](.) | nan | | [🔗](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273120a4749a5ea995604bf60ff" alt="" width="50" /> | Orinoco Flow | Watermark | Enya | [Rhino](../rhino), [Warner Records](.) | nan | | [🔗](https://open.spotify.com/track/14EUcXXpqrC03Dzzdj8bGr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27306ce0d1f846c525e847d60e7" alt="" width="50" /> | Believe | Believe | Cher | [Warner Records](.) | nan | | [🔗](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" alt="" width="50" /> | Californication | Californication (Deluxe Edition) | Red Hot Chili Peppers | [Warner Records](.) | nan | | [🔗](https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox) |

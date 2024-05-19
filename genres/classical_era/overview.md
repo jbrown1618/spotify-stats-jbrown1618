@@ -39,7 +39,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273629fe5d9aee2869873b588bd" alt="" width="50" /> | 5 | 0 | Werner Krenn | [🔗](https://open.spotify.com/artist/3PuXD6h01YqjNWQ055CWxA) |
 | <img src="https://i.scdn.co/image/a97382fc1e98c5a755daf70d7a9355f673811707" alt="" width="50" /> | 5 | 0 | Vinson Cole | [🔗](https://open.spotify.com/artist/2j6cP3f3TxyHzcKdWYSm6h) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733658c17a5357171441798302" alt="" width="50" /> | 4 | 0 | Gottfried Hornik | [🔗](https://open.spotify.com/artist/6aFQ4LADfHVe08B5gQuE8X) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ad029134625e13b2823b8b83" alt="" width="50" /> | 4 | 0 | Cologne New Philharmonic Orchestra | [🔗](https://open.spotify.com/artist/4jSOT0xN5OKPgEfawfzInB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738f579f6adad5e766412bbd18" alt="" width="50" /> | 4 | 0 | Cologne New Philharmonic Orchestra | [🔗](https://open.spotify.com/artist/4jSOT0xN5OKPgEfawfzInB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273774a4d3dd9d4fca18fa2180b" alt="" width="50" /> | 4 | 0 | Helga Muller-Molinari | [🔗](https://open.spotify.com/artist/3s5xNX5n6PAzpusMRhmHbA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e5fbe9a1e3f348399ce21904" alt="" width="50" /> | 4 | 0 | Manfred Klier | [🔗](https://open.spotify.com/artist/3KkpLfmwQob3Y75ePPdtse) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a3096c4f027435226cdfd8e1" alt="" width="50" /> | 4 | 0 | Mikhail Gantvarg | [🔗](https://open.spotify.com/artist/1SCRjxxRnRFsoctLKXIoZx) |

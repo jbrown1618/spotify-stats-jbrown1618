@@ -27,20 +27,20 @@ None
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
 | Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": I. Allegro non molto - Allegro | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 38 |
 | Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": II. Adagio - Presto - Adagio | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
-| Violin Concerto in E Major, Op. 8, No. 1, RV 269 "La Primavera": I. Allegro | Vivaldi: Four Seasons | Simon Standage | 2 | 2 | 38 |
+| Violin Concerto in E Major, Op. 8, No. 1, RV 269 "La Primavera": I. Allegro | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 38 |
 | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": II. Largo | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 38 |
 | Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: II. Largo | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
 | Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: III. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
-| Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": I. Allegro (Ballo, e canto de' villanelli) | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 38 |
+| Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": I. Allegro (Ballo, e canto de' villanelli) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
 | Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": III. Allegro (La caccia) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
-| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro) | Vivaldi: Four Seasons | David Reichenberg | 0 | 2 | 27 |
-| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: II. Largo | Vivaldi: Four Seasons | David Reichenberg | 0 | 2 | 27 |
-| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: III. Allegro | Vivaldi: Four Seasons | David Reichenberg | 0 | 2 | 27 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 30 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 30 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 30 |
+| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro) | Vivaldi: Four Seasons | David Reichenberg | 0 | 2 | 28 |
+| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: II. Largo | Vivaldi: Four Seasons | David Reichenberg | 0 | 2 | 28 |
+| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: III. Allegro | Vivaldi: Four Seasons | David Reichenberg | 0 | 2 | 28 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 31 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 31 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 31 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 84 |
 | Moonlight | D-2 | Agust D | 0 | 0 | 70 |
 | Daechwita | D-2 | Agust D | 2 | 0 | 70 |
@@ -48,11 +48,9 @@ None
 | People | D-2 | Agust D | 1 | 0 | 70 |
 | Strange (feat. RM) | D-2 | Agust D | 0 | 0 | 70 |
 | Burn It (feat. MAX) | D-2 | MAX | 0 | 0 | 66 |
-| Strange (feat. RM) | D-2 | RM | 0 | 0 | 71 |
+| Strange (feat. RM) | D-2 | RM | 0 | 0 | 72 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 81 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 76 |
-| Algorhythm | Algorhythm | ITZY | 0 | 0 | 69 |
-| No Biggie | Algorhythm | ITZY | 0 | 0 | 69 |
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 50 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 45 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 28 |
@@ -66,23 +64,23 @@ None
 | Nothing Else Matters | Metallica | Metallica | 1 | 0 | 78 |
 | Enter Sandman | Metallica | Metallica | 1 | 0 | 78 |
 | Wings | Wings | PIXY | 0 | 0 | 35 |
-| La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 35 |
-| Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 35 |
-| Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 35 |
-| I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 35 |
-| Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 35 |
+| La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 36 |
+| Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 36 |
+| Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 36 |
+| I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 36 |
+| Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 36 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 63 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 30 |
 | Drink It | Drink It | THE BOYZ | 0 | 0 | 56 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 49 |
 | Think About Things | Think About Things | Daði Freyr | 0 | 0 | 49 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 49 |
-| I Want To Break Free | The Works | Queen | 0 | 0 | 81 |
-| Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 81 |
-| Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 81 |
-| Somebody To Love | A Day At The Races | Queen | 0 | 0 | 81 |
-| Don't Stop Me Now | Jazz | Queen | 2 | 0 | 81 |
-| A Kind Of Magic | A Kind Of Magic | Queen | 0 | 0 | 81 |
+| I Want To Break Free | The Works | Queen | 0 | 0 | 82 |
+| Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 82 |
+| Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 82 |
+| Somebody To Love | A Day At The Races | Queen | 0 | 0 | 82 |
+| Don't Stop Me Now | Jazz | Queen | 1 | 0 | 82 |
+| A Kind Of Magic | A Kind Of Magic | Queen | 0 | 0 | 82 |
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 56 |
 | RED | RED | The Rose | 0 | 0 | 61 |
 | She′s In The Rain | Dawn | The Rose | 0 | 0 | 61 |
@@ -101,7 +99,7 @@ None
 | The Cave | Sigh No More | Mumford & Sons | 0 | 0 | 68 |
 | Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 53 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 50 |
-| The Phantom Of The Opera | Century Child | Nightwish | 0 | 0 | 62 |
+| The Phantom Of The Opera | Century Child | Nightwish | 1 | 0 | 62 |
 | End Of All Hope | Century Child | Nightwish | 0 | 0 | 62 |
 | Nemo | Once | Nightwish | 0 | 0 | 62 |
 | Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 0 | 0 | 56 |
@@ -146,6 +144,6 @@ None
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 64 |
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 39 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 53 |
-| 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 42 |
+| 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 43 |
 | Lost Woods | Zelda: Ocarina of Time - Piano | Wesley Sprayue | 0 | 0 | 37 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 50 |

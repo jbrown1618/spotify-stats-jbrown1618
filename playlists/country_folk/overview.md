@@ -13,7 +13,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc1c077c305eb4b2bcac25fd5" alt="" width="50" /> | 4 | 4 | Carrie Underwood | [🔗](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6d81a16f9d1b2abf04e765a6" alt="" width="50" /> | 4 | 4 | Carrie Underwood | [🔗](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb16325c9bc0f975fe49370ff9" alt="" width="50" /> | 5 | 3 | Delta Rae | [🔗](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb43d9d87bba466538f5c40901" alt="" width="50" /> | 3 | 3 | The Chicks | [🔗](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb94a8326675bfcafb20f0a235" alt="" width="50" /> | 4 | 2 | Johnny Cash | [🔗](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) |
@@ -54,7 +54,7 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="Barton Hollow" width="50" /> | Poison & Wine | 453 | <img src="https://i.scdn.co/image/ab67616d0000b2739ab215825eb77076b1b4b387" alt="Nickel Creek" width="50" /> | The Lighthouse's Tale | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="Barton Hollow" width="50" /> | Poison & Wine | 456 | <img src="https://i.scdn.co/image/ab67616d0000b2739ab215825eb77076b1b4b387" alt="Nickel Creek" width="50" /> | The Lighthouse's Tale | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27324644751fe5ed07c106115d5" alt="How To Grow A Woman From The Ground" width="50" /> | Heart In A Cage | nan | <img src="https://i.scdn.co/image/ab67616d0000b27389847614971c417b722c4d97" alt="Home" width="50" /> | Travelin' Soldier | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d0a13a643d83342430c07da" alt="Sigh No More" width="50" /> | The Cave | nan | <img src="https://i.scdn.co/image/ab67616d0000b2736ae87ba9541e21c4e5a5926d" alt="The Firewatcher&#x27;s Daughter" width="50" /> | The Eye | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349aaf14f0936159764cd728a" alt="Carry the Fire" width="50" /> | Is There Anyone out There | nan | <img src="https://i.scdn.co/image/ab67616d0000b273724bd326692d222c5906b0b0" alt="Some Hearts" width="50" /> | Before He Cheats | nan |
@@ -253,7 +253,7 @@
 | | François Chevallier (Chevallier, François) | 1 | Producer |
 | | Marshall Altman | 1 | Arranger, Producer |
 | | Mike Elizondo | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc1c077c305eb4b2bcac25fd5" alt="" width="50" /> | Carrie Underwood | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6d81a16f9d1b2abf04e765a6" alt="" width="50" /> | Carrie Underwood | 1 | Songwriter |
 | | Paul Worley | 1 | Producer |
 | | Frank Jones | 1 | Producer |
 | | Merle Kilgore | 1 | Songwriter |

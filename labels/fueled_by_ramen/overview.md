@@ -45,8 +45,8 @@ Appears as:
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 10 | 5 | [pop](../../genres/pop/overview.md) |
+| 10 | 5 | [modern rock](../../genres/modern_rock/overview.md) |
 | 9 | 5 | [rock](../../genres/rock/overview.md) |
-| 9 | 5 | [modern rock](../../genres/modern_rock/overview.md) |
 | 8 | 3 | pop punk |
 | 5 | 2 | pop emo |
 | 5 | 2 | pixie |

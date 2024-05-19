@@ -78,7 +78,7 @@ Appears as:
 | | Duval Timothy | 1 | Producer, Songwriter |
 | | Frequency | 1 | Producer, Songwriter |
 | | Cyrus "Nois" Taghipour | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebead1540fa76796266fadba33" alt="" width="50" /> | Bebe Rexha | 1 | Songwriter |
 | | Beach Noise | 1 | Producer |
 | | [Greg Kurstin](../../producers/greg_kurstin/overview.md) | 1 | Producer, Songwriter |
 | | Mauricio "Veto" Iragorri | 1 | Producer |
@@ -112,8 +112,8 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | The Monster | The Marshall Mathers LP2 | [Eminem](../../artists/eminem/overview.md), [Rihanna](../../artists/rihanna/overview.md) | [Aftermath](.) | 550 | 💚 | [🔗](https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="" width="50" /> | We Made You | Relapse: Refill | [Eminem](../../artists/eminem/overview.md) | [Aftermath](.) | 673 | 💚 | [🔗](https://open.spotify.com/track/4UMTp91LHhvW33ol9ZQH0Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | The Monster | The Marshall Mathers LP2 | [Eminem](../../artists/eminem/overview.md), [Rihanna](../../artists/rihanna/overview.md) | [Aftermath](.) | 555 | 💚 | [🔗](https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="" width="50" /> | We Made You | Relapse: Refill | [Eminem](../../artists/eminem/overview.md) | [Aftermath](.) | 680 | 💚 | [🔗](https://open.spotify.com/track/4UMTp91LHhvW33ol9ZQH0Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578" alt="" width="50" /> | Lose Yourself | Curtain Call: The Hits (Deluxe Edition) | [Eminem](../../artists/eminem/overview.md) | [Aftermath](.) | nan | 💚 | [🔗](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="" width="50" /> | Love The Way You Lie | Recovery | [Eminem](../../artists/eminem/overview.md), [Rihanna](../../artists/rihanna/overview.md) | [Aftermath](.) | nan | 💚 | [🔗](https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797" alt="" width="50" /> | Money Trees | good kid, m.A.A.d city | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md), Jay Rock | [Aftermath](.) | nan | | [🔗](https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4) |

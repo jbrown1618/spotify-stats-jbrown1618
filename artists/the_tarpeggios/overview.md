@@ -35,15 +35,20 @@ The Tarpeggios:
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e025d990e8b45c848dc22885f89ab67616d00001e0262f44cdb37183a309fc1032fab67616d00001e0284470dd6235917e2e40e11f0ab67616d00001e02bb7018e16a77e5ce4744fa93" alt="" width="50" /> | 25 | [A Cappella](../../playlists/a_cappella/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e021ea0c62b2339cbf493a999adab67616d00001e02b898e1af5571ea5402fdd764ab67616d00001e02e5d079704778dc9534c73a91ab67616d00001e02e7b975daf944ff0d1ffce056" alt="" width="50" /> | 22 | [Check Out Later](../../playlists/check_out_later/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0203668e3f13559554eca8ccc6ab67616d00001e020eb56329734f9400c1639359ab67616d00001e0214ed51ab46ef0765182bb8a0ab67616d00001e02987a1825341694ec9bc62457" alt="" width="50" /> | 1 | [Tarps](../../playlists/tarps/overview.md) |
 
 ## Top Albums
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b898e1af5571ea5402fdd764" alt="" width="50" /> | 11 | 0 | Bloodline | 2024-05-15 | [🔗](https://open.spotify.com/album/5XMETYH0wL2F3qDpWfVKzw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | 9 | 7 | The Teal Album | 2016-11-12 | [🔗](https://open.spotify.com/album/7mTQ62MIYHSbkZHGjY0Ftg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | 7 | 6 | Carolina State of Mind | 2013-11-15 | [🔗](https://open.spotify.com/album/3zKusinRVxdC5s2wOPYBgX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc82939fb76760e640d7edca" alt="" width="50" /> | 5 | 4 | Homeward | 2022-04-08 | [🔗](https://open.spotify.com/album/2FiDSelqVoi7VQfpmaMRJK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fdeffdb0cd2b8bb696319e8c" alt="" width="50" /> | 4 | 0 | Push to Start | 2023-04-03 | [🔗](https://open.spotify.com/album/4ggdFWPHn5rTdUrw4s46yS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e7b975daf944ff0d1ffce056" alt="" width="50" /> | 4 | 0 | After the Light | 2023-08-18 | [🔗](https://open.spotify.com/album/5Q9k2sd9kFnmPEJjdsFIpV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e5d079704778dc9534c73a91" alt="" width="50" /> | 3 | 0 | MODERN ECSTASY | 2023-07-07 | [🔗](https://open.spotify.com/album/3EFIthm5Zjb7MfuXeDJb9A) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322f75e45afe2febb7d3f4cac" alt="" width="50" /> | 2 | 2 | Immaterial | 2021-07-16 | [🔗](https://open.spotify.com/album/5YgtPHMCi4dGtL6JarEGkI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362f44cdb37183a309fc1032f" alt="" width="50" /> | 1 | 1 | G Train | 2019-11-22 | [🔗](https://open.spotify.com/album/0vmio1Hc8vrU7scyVa6BYK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e443608c9f1cf2fdb6c36d37" alt="" width="50" /> | 1 | 0 | Before He Cheats | 2019-10-22 | [🔗](https://open.spotify.com/album/7bndGIMX7IOBjG3J7O0BEQ) |
@@ -52,7 +57,7 @@ The Tarpeggios:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 16 | 13 | [The Tarpeggios](../../labels/the_tarpeggios/overview.md) |
+| 38 | 13 | [The Tarpeggios](../../labels/the_tarpeggios/overview.md) |
 | 9 | 7 | The Unc - Chapel Hill Tarpeggios |
 
 ## Credits
@@ -108,7 +113,7 @@ The Tarpeggios:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | I See Fire | The Teal Album | [The Tarpeggios](overview.md) | The Unc - Chapel Hill Tarpeggios | 682 | 💚 | [🔗](https://open.spotify.com/track/4Mp2l1tCHxnm65a6yQ8lph) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | I See Fire | The Teal Album | [The Tarpeggios](overview.md) | The Unc - Chapel Hill Tarpeggios | 689 | 💚 | [🔗](https://open.spotify.com/track/4Mp2l1tCHxnm65a6yQ8lph) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Settle Down | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | 718 | 💚 | [🔗](https://open.spotify.com/track/2RGGnyqlJ65QcpA4FggZ2x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Carolina State of Mind | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | 💚 | [🔗](https://open.spotify.com/track/60xweUiIfi93UhZEDN3DKY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Chariot | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/0of5rsasONYN34mx4rSgsn) |
@@ -140,6 +145,28 @@ The Tarpeggios:
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc82939fb76760e640d7edca" alt="" width="50" /> | Sanctify | Homeward | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/3uKuUjR2RMJFFbIAz8l459) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc82939fb76760e640d7edca" alt="" width="50" /> | The End (Interlude) | Homeward | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | 💚 | [🔗](https://open.spotify.com/track/36TvCuzr3KGsG8UdZ9tk8e) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc82939fb76760e640d7edca" alt="" width="50" /> | You Take My Breath Away | Homeward | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | 💚 | [🔗](https://open.spotify.com/track/430GqLsbnIps8OZoZUCIYp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fdeffdb0cd2b8bb696319e8c" alt="" width="50" /> | Flesh & Bone | Push to Start | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/07Y1FyOg5wP1AD46E0MSKC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fdeffdb0cd2b8bb696319e8c" alt="" width="50" /> | Hallucinate | Push to Start | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/7if1wRYtErHssU5Gbwr5Vg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fdeffdb0cd2b8bb696319e8c" alt="" width="50" /> | Rose Leaves | Push to Start | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/4MMaTPiAfYv2wK6elsWPZK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fdeffdb0cd2b8bb696319e8c" alt="" width="50" /> | Sweet | Push to Start | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/4VdGUfFm4BQqRs7hdnA0zj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e5d079704778dc9534c73a91" alt="" width="50" /> | From Fire | MODERN ECSTASY | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/78iAMQZjxLsIlZleVCLn36) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e5d079704778dc9534c73a91" alt="" width="50" /> | Perfect Illusion | MODERN ECSTASY | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/29SUtH1OM0qfXinI7c4JOM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e5d079704778dc9534c73a91" alt="" width="50" /> | Pink + White | MODERN ECSTASY | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/5Jpj2lXrRGZRuApSu1CExm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e7b975daf944ff0d1ffce056" alt="" width="50" /> | Cellophane | After the Light | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/3GpSIZNdBPTOfyP5Hb8TrG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e7b975daf944ff0d1ffce056" alt="" width="50" /> | Dawn FM | After the Light | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/4KWIpxAss4Pi8Bw3cQEmmZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e7b975daf944ff0d1ffce056" alt="" width="50" /> | Life Itself | After the Light | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/5azbTkuf8n5Hmlnc1ajzkY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e7b975daf944ff0d1ffce056" alt="" width="50" /> | Santa Monica | After the Light | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/4sIjwLzVOUNTucmP4ALaGC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b898e1af5571ea5402fdd764" alt="" width="50" /> | As | Bloodline | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/6hAMfVONnyITSHQaPjErZF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b898e1af5571ea5402fdd764" alt="" width="50" /> | Butterfly Fly Away (Interlude) | Bloodline | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/0GsbP210Yw4NADxGJWBBld) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b898e1af5571ea5402fdd764" alt="" width="50" /> | Denim Jacket | Bloodline | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/1OdzHKbEWGiYhCBdCCnOQR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b898e1af5571ea5402fdd764" alt="" width="50" /> | Forgive Me | Bloodline | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/2xapxfPwprpKNEAFb1yZfV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b898e1af5571ea5402fdd764" alt="" width="50" /> | Into You | Bloodline | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/5gF7iojRdalqupWW6PJppX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b898e1af5571ea5402fdd764" alt="" width="50" /> | Invincible | Bloodline | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/5jGSr1nD2v5yDl2wTU2okx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b898e1af5571ea5402fdd764" alt="" width="50" /> | Late Night Talking (Live) | Bloodline | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/6gfewAvYh7RjG1D5tlhDFz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b898e1af5571ea5402fdd764" alt="" width="50" /> | Let's Build A House (Live) | Bloodline | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/2B5WZpAuAURn81AZTxveaU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b898e1af5571ea5402fdd764" alt="" width="50" /> | Neu Roses (Intro) | Bloodline | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/5H1pu1hepKH0GEv9EKvrIt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b898e1af5571ea5402fdd764" alt="" width="50" /> | Savior Complex (Interlude) | Bloodline | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/3Q449loMAJA8ZubCU5Ykkl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b898e1af5571ea5402fdd764" alt="" width="50" /> | Stand | Bloodline | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | nan | | [🔗](https://open.spotify.com/track/2SvQJBFy7QQXwHgJH1Cfri) |
 
 </details>
 

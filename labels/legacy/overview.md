@@ -102,12 +102,12 @@ Appears as:
 | 16 | 12 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 16 | 12 | [classic rock](../../genres/classic_rock/overview.md) |
 | 15 | 12 | [rock](../../genres/rock/overview.md) |
-| 14 | 12 | [heartland rock](../../genres/heartland_rock/overview.md) |
 | 14 | 11 | [album rock](../../genres/album_rock/overview.md) |
 | 11 | 9 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
 | 8 | 8 | [piano rock](../../genres/piano_rock/overview.md) |
 | 6 | 3 | [hard rock](../../genres/hard_rock/overview.md) |
 | 5 | 2 | [soul](../../genres/soul/overview.md) |
+| 2 | 2 | progressive rock |
 
 
 <details>
@@ -115,7 +115,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 2 | 2 | progressive rock |
+| 2 | 2 | heartland rock |
 | 3 | 1 | folk rock |
 | 3 | 1 | [folk](../../genres/folk/overview.md) |
 | 2 | 1 | [r&b](../../genres/r_b/overview.md) |
@@ -216,12 +216,12 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | Vienna | The Stranger (Legacy Edition) | [Billy Joel](../../artists/billy_joel/overview.md) | [Columbia](../columbia), [Legacy](.) | 276 | 💚 | [🔗](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | Vienna | The Stranger (Legacy Edition) | [Billy Joel](../../artists/billy_joel/overview.md) | [Columbia](../columbia), [Legacy](.) | 270 | 💚 | [🔗](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | Movin' Out (Anthony's Song) | The Stranger (Legacy Edition) | [Billy Joel](../../artists/billy_joel/overview.md) | [Columbia](../columbia), [Legacy](.) | 337 | 💚 | [🔗](https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="" width="50" /> | Mack the Knife | The Great American Songbook | Louis Armstrong | [Columbia](../columbia), [Legacy](.) | 424 | | [🔗](https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | Only the Good Die Young | The Stranger (Legacy Edition) | [Billy Joel](../../artists/billy_joel/overview.md) | [Columbia](../columbia), [Legacy](.) | 437 | 💚 | [🔗](https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27335e9a6f6a1eded2062526499" alt="" width="50" /> | Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version | Rudolph The Red Nosed Reindeer And Other Christmas Classics | Gene Autry | [Columbia](../columbia), [Legacy](.) | 561 | | [🔗](https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3" alt="" width="50" /> | Piano Man | Piano Man (Legacy Edition) | [Billy Joel](../../artists/billy_joel/overview.md) | [Columbia](../columbia), [Legacy](.) | 767 | 💚 | [🔗](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="" width="50" /> | Mack the Knife | The Great American Songbook | Louis Armstrong | [Columbia](../columbia), [Legacy](.) | 430 | | [🔗](https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | Only the Good Die Young | The Stranger (Legacy Edition) | [Billy Joel](../../artists/billy_joel/overview.md) | [Columbia](../columbia), [Legacy](.) | 440 | 💚 | [🔗](https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27335e9a6f6a1eded2062526499" alt="" width="50" /> | Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version | Rudolph The Red Nosed Reindeer And Other Christmas Classics | Gene Autry | [Columbia](../columbia), [Legacy](.) | 568 | | [🔗](https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3" alt="" width="50" /> | Piano Man | Piano Man (Legacy Edition) | [Billy Joel](../../artists/billy_joel/overview.md) | [Columbia](../columbia), [Legacy](.) | 765 | 💚 | [🔗](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) | The Classic Christmas Album | [Frank Sinatra](../../artists/frank_sinatra/overview.md), Dorothy Kirsten | [Columbia](../columbia), [Legacy](.) | nan | | [🔗](https://open.spotify.com/track/3wvG6oGSZ6c7oskNDsI1CY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27300ace5d3c5bffc123ef1eb51" alt="" width="50" /> | Blue Rondo à la Turk | Time Out | The Dave Brubeck Quartet | [Columbia](../columbia), [Legacy](.) | nan | | [🔗](https://open.spotify.com/track/7CrNF9zL7tIQ2269DVxzST) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27300ace5d3c5bffc123ef1eb51" alt="" width="50" /> | Take Five | Time Out | The Dave Brubeck Quartet | [Columbia](../columbia), [Legacy](.) | nan | | [🔗](https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP) |

@@ -108,7 +108,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | The Weeknd | 1 | Songwriter |
 | | Lydia Asrat | 1 | Songwriter |
 | | Terry Shaddick | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc692afc666512dc946a7358f" alt="" width="50" /> | Bebe Rexha | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebead1540fa76796266fadba33" alt="" width="50" /> | Bebe Rexha | 1 | Songwriter |
 | | Isaac Earl Bynum | 1 | Songwriter |
 | | Jaycen Joshua | 1 | Producer |
 | | Jean-Baptiste Kouame | 1 | Songwriter |
@@ -139,8 +139,8 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="" width="50" /> | Vegas | ELVIS (Original Motion Picture Soundtrack) | [Doja Cat](overview.md) | [House of Iona/RCA Records](../../labels/rca_records_label) | 402 | 💚 | [🔗](https://open.spotify.com/track/3FWwi61OP7vXEikwqhZCPZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f14aa81116510d3a6df8432b" alt="" width="50" /> | Say So | Hot Pink | [Doja Cat](overview.md) | [Kemosabe Records/RCA Records](../../labels/rca_records_label) | 752 | 💚 | [🔗](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="" width="50" /> | Vegas | ELVIS (Original Motion Picture Soundtrack) | [Doja Cat](overview.md) | [House of Iona/RCA Records](../../labels/rca_records_label) | 406 | 💚 | [🔗](https://open.spotify.com/track/3FWwi61OP7vXEikwqhZCPZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f14aa81116510d3a6df8432b" alt="" width="50" /> | Say So | Hot Pink | [Doja Cat](overview.md) | [Kemosabe Records/RCA Records](../../labels/rca_records_label) | 756 | 💚 | [🔗](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="" width="50" /> | Boss Bitch | Boss Bitch | [Doja Cat](overview.md) | [Atlantic Records](../../labels/atlantic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0927ea5b0dde802e65eb9b6" alt="" width="50" /> | Baby, I'm Jealous (feat. Doja Cat) | Baby, I'm Jealous (feat. Doja Cat) | Bebe Rexha, [Doja Cat](overview.md) | [Warner Records](../../labels/warner_records) | nan | 💚 | [🔗](https://open.spotify.com/track/2fTdRdN73RgIgcUZN33dvt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | motive (with Doja Cat) | Positions | [Ariana Grande](../ariana_grande/overview.md), [Doja Cat](overview.md) | [Republic Records](../../labels/republic_records) | nan | | [🔗](https://open.spotify.com/track/5GkQIP5mWPi4KZLLXeuFTT) |
