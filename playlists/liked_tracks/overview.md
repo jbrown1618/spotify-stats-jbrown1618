@@ -144,7 +144,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="Heng:garæ" width="50" /> | [Left & Right](../../artists/seventeen/overview.md) | 7 | <img src="https://i.scdn.co/image/ab67616d0000b2739ab215825eb77076b1b4b387" alt="Nickel Creek" width="50" /> | The Lighthouse's Tale | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [Crazy Over You](../../artists/blackpink/overview.md) | 8 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> | Hard To Handle | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [How You Like That](../../artists/blackpink/overview.md) | 9 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="Fleetwood Mac" width="50" /> | Rhiannon | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="Gotta Go" width="50" /> | [Gotta Go](../../artists/chung_ha/overview.md) | 10 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="1989" width="50" /> | [Clean](../../artists/taylor_swift/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 10 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="1989" width="50" /> | [Clean](../../artists/taylor_swift/overview.md) | nan |
 
 </details>
 
@@ -394,7 +394,7 @@
 | 94 | 94 | [classic rock](../../genres/classic_rock/overview.md) |
 | 92 | 92 | [dance pop](../../genres/dance_pop/overview.md) |
 | 74 | 74 | [neo mellow](../../genres/neo_mellow/overview.md) |
-| 61 | 61 | [lilith](../../genres/lilith/overview.md) |
+| 62 | 62 | [lilith](../../genres/lilith/overview.md) |
 | 59 | 59 | [acoustic pop](../../genres/acoustic_pop/overview.md) |
 
 
@@ -403,12 +403,12 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 51 | 51 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 51 | 51 | [album rock](../../genres/album_rock/overview.md) |
 | 49 | 49 | [soft rock](../../genres/soft_rock/overview.md) |
 | 49 | 49 | [pop rock](../../genres/pop_rock/overview.md) |
 | 48 | 48 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 47 | 47 | [modern rock](../../genres/modern_rock/overview.md) |
-| 47 | 47 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 46 | 46 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 45 | 45 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 38 | 38 | [art pop](../../genres/art_pop/overview.md) |
@@ -419,7 +419,6 @@
 | 31 | 31 | [anime](../../genres/anime/overview.md) |
 | 30 | 30 | [piano rock](../../genres/piano_rock/overview.md) |
 | 30 | 30 | [permanent wave](../../genres/permanent_wave/overview.md) |
-| 29 | 29 | [electropop](../../genres/electropop/overview.md) |
 | 28 | 28 | [rap](../../genres/rap/overview.md) |
 | 28 | 28 | [korean pop](../../genres/korean_pop/overview.md) |
 | 28 | 28 | [5th gen k-pop](../../genres/5th_gen_k-pop/overview.md) |
@@ -448,6 +447,7 @@
 | 15 | 15 | indie pop |
 | 15 | 15 | glam rock |
 | 15 | 15 | folk rock |
+| 15 | 15 | electropop |
 | 14 | 14 | baroque pop |
 | 13 | 13 | korean ost |
 | 13 | 13 | [adult standards](../../genres/adult_standards/overview.md) |
@@ -458,11 +458,11 @@
 | 12 | 12 | australian pop |
 | 11 | 11 | pov: indie |
 | 11 | 11 | pop soul |
-| 11 | 11 | pop rap |
 | 11 | 11 | nz pop |
 | 11 | 11 | chamber pop |
 | 11 | 11 | alternative r&b |
 | 10 | 10 | stomp and holler |
+| 10 | 10 | pop rap |
 | 9 | 9 | motown |
 | 9 | 9 | [lounge](../../genres/lounge/overview.md) |
 | 9 | 9 | indie folk |
