@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e020b1cfc3df4d9d5d4cbce9208ab67616d00001e0210356a0e81371e6644cb1371ab67616d00001e02c08d5fa5c0f1a834acef5100ab67616d00001e02c450c89d3eb750d3535b0a0c" alt="Hip Hop" width="100" />
 
-[49 tracks (27 liked) 🔗](https://open.spotify.com/playlist/7trD87dfibqZnzSIqufO75)
+[51 tracks (29 liked) 🔗](https://open.spotify.com/playlist/7trD87dfibqZnzSIqufO75)
 
 [See Track Features](audio_features.md)
 
@@ -13,7 +13,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 9 | 6 | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 11 | 8 | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | 5 | 4 | [Eminem](../../artists/eminem/overview.md) | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a" alt="" width="50" /> | 6 | 2 | Kanye West | [🔗](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b053c29fd4b317ff825f0dc" alt="" width="50" /> | 2 | 2 | J. Cole | [🔗](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) |
@@ -54,7 +54,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf893feb44e74c8b4c15ecc95" alt="" width="50" /> | 1 | 0 | Lil Jon | [🔗](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0eefd7d68573ea8f0f4db84a" alt="" width="50" /> | 1 | 0 | Lil Nas X | [🔗](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) |
 | <img src="https://i.scdn.co/image/a3823abbd476fa00cdf95a9f5cbbe09d2f96add2" alt="" width="50" /> | 1 | 0 | Jamie Foxx | [🔗](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf8cb4e620836d2131fa92939" alt="" width="50" /> | 1 | 0 | KAYTRANADA | [🔗](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba42067a57658919c936d932a" alt="" width="50" /> | 1 | 0 | KAYTRANADA | [🔗](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb84a0dd74f21e8acce6a9fd49" alt="" width="50" /> | 1 | 0 | Linkin Park | [🔗](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5be3f26e0c3aa322637a975f" alt="" width="50" /> | 1 | 0 | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40fbebe8dee2989b9f4efe9d" alt="" width="50" /> | 1 | 0 | Soulja Boy | [🔗](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) |
@@ -92,10 +92,10 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" alt="Kings Of Crunk" width="50" /> | Get Low | 379 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="Flockaveli" width="50" /> | No Hands (feat. Roscoe Dash & Wale) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="The Marshall Mathers LP2" width="50" /> | [The Monster](../../artists/eminem/overview.md) | 558 | <img src="https://i.scdn.co/image/ab67616d0000b273790fab52efbb2d55bddbd247" alt="Trendsetter" width="50" /> | Trendsetter | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" alt="Kings Of Crunk" width="50" /> | Get Low | 381 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="Flockaveli" width="50" /> | No Hands (feat. Roscoe Dash & Wale) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="The Marshall Mathers LP2" width="50" /> | [The Monster](../../artists/eminem/overview.md) | 564 | <img src="https://i.scdn.co/image/ab67616d0000b273790fab52efbb2d55bddbd247" alt="Trendsetter" width="50" /> | Trendsetter | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | [We Made You](../../artists/eminem/overview.md) | 683 | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Can't Tell Me Nothing | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732b9aca3204e667980ce6a939" alt="BUBBA" width="50" /> | Go DJ (feat. SiR) | 781 | <img src="https://i.scdn.co/image/ab67616d0000b2735db09bde92cc685403d7068f" alt="Elephunk" width="50" /> | Where Is The Love? | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732b9aca3204e667980ce6a939" alt="BUBBA" width="50" /> | Go DJ (feat. SiR) | 788 | <img src="https://i.scdn.co/image/ab67616d0000b2735db09bde92cc685403d7068f" alt="Elephunk" width="50" /> | Where Is The Love? | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="Last Train To Paris" width="50" /> | Hello Good Morning | nan | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="Recovery" width="50" /> | [Love The Way You Lie](../../artists/eminem/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733eecc265c134153c14794aab" alt="Area Codes" width="50" /> | Area Codes | nan | <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Late Registration" width="50" /> | Gold Digger | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="Rap Or Go To The League" width="50" /> | Momma I Hit A Lick (feat. Kendrick Lamar) | nan | <img src="https://i.scdn.co/image/ab67616d0000b273f82c7e4376cf8267fb396b7d" alt="Mack Daddy" width="50" /> | Baby Got Back | nan |
@@ -112,21 +112,23 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | 3 | 3 | DAMN. | 2017-04-14 | [🔗](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | 2 | 2 | Mr. Morale & The Big Steppers | 2022-05-13 | [🔗](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="" width="50" /> | 1 | 1 | on the street (with J. Cole) | 2023-03-03 | [🔗](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737587213b1be294ac4000f648" alt="" width="50" /> | 1 | 1 | euphoria | 2024-04-30 | [🔗](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="" width="50" /> | 1 | 1 | WAP (feat. Megan Thee Stallion) | 2020-08-07 | [🔗](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273790fab52efbb2d55bddbd247" alt="" width="50" /> | 1 | 1 | Trendsetter | 2023-11-03 | [🔗](https://open.spotify.com/album/1Hxam85Bhf98cIkMRKX9QA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | 1 | 1 | The Marshall Mathers LP2 | 2013-11-05 | [🔗](https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="" width="50" /> | 1 | 1 | Relapse: Refill | 2009-05-15 | [🔗](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="" width="50" /> | 1 | 1 | Recovery | 2010-06-18 | [🔗](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343f15453faa4973061411a79" alt="" width="50" /> | 1 | 1 | Pink Friday | 2010-01-01 | [🔗](https://open.spotify.com/album/5jem47f4IRH6UaxNAWO6vD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30" alt="" width="50" /> | 1 | 1 | Paint The Town Red | 2023-08-04 | [🔗](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) |
 
 
 <details>
-<summary>See all 46 albums</summary>
+<summary>See all 48 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30" alt="" width="50" /> | 1 | 1 | Paint The Town Red | 2023-08-04 | [🔗](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738cc44129c3b11adec74058d6" alt="" width="50" /> | 1 | 1 | PCD | 2005-01-01 | [🔗](https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad" alt="" width="50" /> | 1 | 1 | Not Like Us | 2024-05-04 | [🔗](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="" width="50" /> | 1 | 1 | My Beautiful Dark Twisted Fantasy | 2010-11-22 | [🔗](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f82c7e4376cf8267fb396b7d" alt="" width="50" /> | 1 | 1 | Mack Daddy | 1992-01-01 | [🔗](https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="" width="50" /> | 1 | 1 | Last Train To Paris | 2010-01-01 | [🔗](https://open.spotify.com/album/2psjRixnoePs8ZqE8cuU5Z) |
@@ -176,19 +178,21 @@
 | 4 | 3 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 5 | 2 | Roc-A-Fella |
 | 4 | 2 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
+| 2 | 2 | under exclusive license to Interscope Records |
 | 2 | 2 | pgLang |
 | 2 | 2 | Top Dawg Entertainment |
+| 2 | 2 | Kendrick Lamar |
 | 3 | 1 | Roc Nation |
 | 2 | 1 | [Warner Records](../../labels/warner_records/overview.md) |
-| 2 | 1 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
-| 2 | 1 | Nicki Minaj |
 
 
 <details>
-<summary>See all 42 labels</summary>
+<summary>See all 44 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 2 | 1 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
+| 2 | 1 | Nicki Minaj |
 | 2 | 1 | Cash Money |
 | 1 | 1 | The Orchard |
 | 1 | 1 | Quality Control Music |
@@ -231,14 +235,14 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 35 | 17 | [rap](../../genres/rap/overview.md) |
-| 28 | 14 | [hip hop](../../genres/hip_hop/overview.md) |
-| 12 | 7 | conscious hip hop |
+| 37 | 19 | [rap](../../genres/rap/overview.md) |
+| 30 | 16 | [hip hop](../../genres/hip_hop/overview.md) |
+| 14 | 9 | conscious hip hop |
+| 10 | 8 | west coast rap |
 | 9 | 7 | [pop](../../genres/pop/overview.md) |
-| 8 | 6 | west coast rap |
 | 6 | 5 | [dance pop](../../genres/dance_pop/overview.md) |
+| 15 | 4 | pop rap |
 | 4 | 4 | detroit hip hop |
-| 14 | 3 | pop rap |
 | 6 | 3 | atl hip hop |
 | 6 | 2 | trap |
 
@@ -289,16 +293,16 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | 5 | Songwriter |
+| | [Sounwave](../../producers/sounwave/overview.md) | 6 | Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | 6 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | [Eminem](../../artists/eminem/overview.md) | 4 | Producer, Songwriter |
-| | [Sounwave](../../producers/sounwave/overview.md) | 4 | Producer, Songwriter, Arranger |
 | | Derek Ali | 3 | Producer |
 | | Mike Strange | 3 | Producer |
 | | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 3 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 2 | Songwriter |
-| | Jordan Thorpe | 2 | Songwriter |
+| | J.LBS | 2 | Producer, Songwriter |
 | | Matt Schaeffer | 2 | Producer, Songwriter |
-| | Mike WiLL Made-It | 2 | Producer, Songwriter |
+| | Jordan Thorpe | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4e8a7e14e2f602eb9af24e31" alt="" width="50" /> | Cardi B | 2 | Songwriter |
 
 
 <details>
@@ -306,46 +310,40 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/07b5316f828fe20d0efe0029797157f394ae7640" alt="" width="50" /> | Sir Mix-A-Lot | 2 | Songwriter, Arranger, Lyricist, Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4e8a7e14e2f602eb9af24e31" alt="" width="50" /> | Cardi B | 2 | Songwriter |
-| | [Marcos Tovar](../../producers/marcos_tovar/overview.md) | 2 | Producer |
-| | Andrew Dawson | 2 | Producer |
-| | OKLAMA | 2 | Producer |
-| | Anthony Kilhoffer | 2 | Producer |
 | | Tim Maxey | 2 | Producer, Songwriter |
-| | Mike Dean | 2 | Producer, Arranger |
-| | J.LBS | 2 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | Nicki Minaj | 2 | Songwriter |
-| | Anthony Tiffith | 2 | Producer, Songwriter |
+| | OKLAMA | 2 | Producer |
+| | Mike WiLL Made-It | 2 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | [Doja Cat](../../artists/doja_cat/overview.md) | 2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a" alt="" width="50" /> | Kanye West | 2 | Producer, Songwriter |
-| | Fergie | 1 | Songwriter |
-| | Jeff Bhasker | 1 | Producer, Songwriter |
-| | Ron Fair | 1 | Arranger, Producer |
-| | Luis Resto | 1 | Producer, Songwriter |
-| | Kane Beatz | 1 | Producer, Songwriter |
-| | Leslie Brathwaite | 1 | Producer |
-| | Ray Charles Brown, Jr | 1 | Producer |
-| | Billy Hume | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf893feb44e74c8b4c15ecc95" alt="" width="50" /> | Lil Jon | 1 | Lyricist, Producer, Songwriter |
+| | Andrew Dawson | 2 | Producer |
+| | Anthony Kilhoffer | 2 | Producer |
+| | Anthony Tiffith | 2 | Producer, Songwriter |
+| | Mike Dean | 2 | Producer, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | Nicki Minaj | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/07b5316f828fe20d0efe0029797157f394ae7640" alt="" width="50" /> | Sir Mix-A-Lot | 2 | Songwriter, Arranger, Lyricist, Producer |
+| | [Marcos Tovar](../../producers/marcos_tovar/overview.md) | 2 | Producer |
+| | Evan LaRay | 1 | Producer |
+| | De'Angelo Holmes | 1 | Lyricist |
 | | Taboo | 1 | Songwriter |
 | | JMIKE | 1 | Producer, Songwriter |
 | | Brent Kolatalo | 1 | Producer |
+| | Dylan Dresdow | 1 | Producer |
+| | Mike Fratantuno | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdb78fbd1c000f16792795648" alt="" width="50" /> | Zacari | 1 | Songwriter |
+| | Jeff Bhasker | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b053c29fd4b317ff825f0dc" alt="" width="50" /> | J. Cole | 1 | Producer |
+| | Karl Rubin | 1 | Songwriter |
 | | Ariel Chobaz | 1 | Producer |
-| | Tim Gomringer | 1 | Songwriter |
 | | Rian Lewis | 1 | Producer |
 | | Doc Ish | 1 | Producer |
-| | Brendan Silas Perry | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb628143c3dd14fc995f925d56" alt="" width="50" /> | Offset | 1 | Lyricist, Songwriter |
-| | Johnathan Turner | 1 | Producer |
-| | Ester Dean | 1 | Songwriter |
-| | Evan LaRay | 1 | Producer |
-| | Sam Ricci | 1 | Producer |
-| | James Foye III | 1 | Songwriter |
 | | Bryce Bordone | 1 | Producer |
-| | Printz Board | 1 | Songwriter |
-| | Frank Ski | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4b053c29fd4b317ff825f0dc" alt="" width="50" /> | J. Cole | 1 | Producer |
-| | Skylar Grey | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb628143c3dd14fc995f925d56" alt="" width="50" /> | Offset | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf893feb44e74c8b4c15ecc95" alt="" width="50" /> | Lil Jon | 1 | Lyricist, Producer, Songwriter |
+| | James Foye III | 1 | Songwriter |
+| | Johnathan Turner | 1 | Producer |
+| | Luis Resto | 1 | Producer, Songwriter |
+| | Billy Hume | 1 | Producer |
+| | will.i.am | 1 | Producer, Songwriter |
 | | Imad Royal | 1 | Producer, Songwriter |
 | | Jamal Jones | 1 | Songwriter |
 | | Zeke Mishanec | 1 | Producer |
@@ -359,8 +357,8 @@
 | | Beach Noise | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebead1540fa76796266fadba33" alt="" width="50" /> | Bebe Rexha | 1 | Songwriter |
 | | Southside | 1 | Producer, Songwriter |
-| | will.i.am | 1 | Producer, Songwriter |
 | | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 1 | Producer |
+| | Leslie Brathwaite | 1 | Producer |
 | | Big Sam | 1 | Lyricist |
 | | CuBeatz | 1 | Producer |
 | | Jean-Baptiste Kouame | 1 | Songwriter |
@@ -368,27 +366,17 @@
 | | Tal Herzberg | 1 | Producer |
 | | Frequency | 1 | Producer, Songwriter |
 | | Ayo the Producer | 1 | Producer, Songwriter |
-| | Shawn "Source" Jarrett | 1 | Producer |
-| | Karl Rubin | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebdb78fbd1c000f16792795648" alt="" width="50" /> | Zacari | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | SZA | 1 | Songwriter |
-| | Mike Fratantuno | 1 | Songwriter |
-| | apl.de.ap | 1 | Songwriter |
-| | DJ Dahi | 1 | Producer |
-| | Johnny Kosich | 1 | Producer, Songwriter |
-| | J. Curtis | 1 | Songwriter |
-| | Ernest Clark | 1 | Songwriter |
-| | Hal David | 1 | Songwriter |
-| | Taj Tilghman | 1 | Producer |
-| | Al Shux | 1 | Producer, Songwriter |
+| | Skylar Grey | 1 | Songwriter |
+| | Frank Ski | 1 | Songwriter |
+| | Tim Gomringer | 1 | Songwriter |
+| | Ron Fair | 1 | Arranger, Producer |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 1 | Producer |
+| | Kane Beatz | 1 | Producer, Songwriter |
+| | Duval Timothy | 1 | Producer, Songwriter |
+| | Johnny Juliano | 1 | Producer |
+| | Eric Jackson | 1 | Lyricist |
 | | Tommy Danvers | 1 | Producer |
-| | Jake Kosich | 1 | Songwriter |
-| | Teddy Walton | 1 | Producer, Songwriter |
-| | George Pajon, Jr. | 1 | Songwriter |
-| | Aldrin Davis | 1 | Songwriter |
-| | Drumma Boy | 1 | Producer |
 | | Sky Adams | 1 | Producer, Songwriter |
-| | Jeff Bass | 1 | Producer, Songwriter |
 | | Noah Goldstein | 1 | Producer |
 | | Steve King | 1 | Producer |
 | | Ken Lewis | 1 | Arranger |
@@ -396,6 +384,22 @@
 | | DJ Toomp | 1 | Producer |
 | | Kevin Gomringer | 1 | Songwriter |
 | | Burt Bacharach | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | SZA | 1 | Songwriter |
+| | Fergie | 1 | Songwriter |
+| | Jeff Bass | 1 | Producer, Songwriter |
+| | Aldrin Davis | 1 | Songwriter |
+| | Ernest Clark | 1 | Songwriter |
+| | George Pajon, Jr. | 1 | Songwriter |
+| | apl.de.ap | 1 | Songwriter |
+| | James Hunt | 1 | Producer |
+| | Marcos Palacios | 1 | Songwriter |
+| | Alex da Kid | 1 | Producer, Songwriter |
+| | Sam Ricci | 1 | Producer |
+| | Ester Dean | 1 | Songwriter |
+| | Brendan Silas Perry | 1 | Producer |
+| | Ray Charles Brown, Jr | 1 | Producer |
+| | Printz Board | 1 | Songwriter |
+| | Shawn "Source" Jarrett | 1 | Producer |
 
 </details>
 
@@ -410,13 +414,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273790fab52efbb2d55bddbd247" alt="Trendsetter" width="50" /> | Trendsetter (2023-11-03) | <img src="https://i.scdn.co/image/ab67616d0000b273f82c7e4376cf8267fb396b7d" alt="Mack Daddy" width="50" /> | Mack Daddy (1992-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30" alt="Paint The Town Red" width="50" /> | Paint The Town Red (2023-08-04) | <img src="https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd" alt="Genesis" width="50" /> | Genesis (2001-11-07) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733eecc265c134153c14794aab" alt="Area Codes" width="50" /> | Area Codes (2023-03-17) | <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" alt="Kings Of Crunk" width="50" /> | Kings Of Crunk (2002-10-29) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="on the street (with J. Cole)" width="50" /> | on the street (with J. Cole) (2023-03-03) | <img src="https://i.scdn.co/image/ab67616d0000b2735db09bde92cc685403d7068f" alt="Elephunk" width="50" /> | Elephunk (2003-06-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="Mr. Morale &amp; The Big Steppers" width="50" /> | Mr. Morale & The Big Steppers (2022-05-13) | <img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" alt="The College Dropout" width="50" /> | The College Dropout (2004-02-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd" alt="MONTERO" width="50" /> | MONTERO (2021-09-17) | <img src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" alt="Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course" width="50" /> | Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course (2004-11-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="WAP (feat. Megan Thee Stallion)" width="50" /> | WAP (feat. Megan Thee Stallion) (2020-08-07) | <img src="https://i.scdn.co/image/ab67616d0000b2738cc44129c3b11adec74058d6" alt="PCD" width="50" /> | PCD (2005-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="Boss Bitch" width="50" /> | Boss Bitch (2020-01-23) | <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Late Registration" width="50" /> | Late Registration (2005-08-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732b9aca3204e667980ce6a939" alt="BUBBA" width="50" /> | BUBBA (2019-12-13) | <img src="https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578" alt="Curtain Call: The Hits (Deluxe Edition)" width="50" /> | Curtain Call: The Hits (Deluxe Edition) (2005-12-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5" alt="Meet The Woo" width="50" /> | Meet The Woo (2019-07-26) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6a328ced07af494400584b" alt="souljaboytellem.com" width="50" /> | souljaboytellem.com (2007-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad" alt="Not Like Us" width="50" /> | Not Like Us (2024-05-04) | <img src="https://i.scdn.co/image/ab67616d0000b273f82c7e4376cf8267fb396b7d" alt="Mack Daddy" width="50" /> | Mack Daddy (1992-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737587213b1be294ac4000f648" alt="euphoria" width="50" /> | euphoria (2024-04-30) | <img src="https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd" alt="Genesis" width="50" /> | Genesis (2001-11-07) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273790fab52efbb2d55bddbd247" alt="Trendsetter" width="50" /> | Trendsetter (2023-11-03) | <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" alt="Kings Of Crunk" width="50" /> | Kings Of Crunk (2002-10-29) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30" alt="Paint The Town Red" width="50" /> | Paint The Town Red (2023-08-04) | <img src="https://i.scdn.co/image/ab67616d0000b2735db09bde92cc685403d7068f" alt="Elephunk" width="50" /> | Elephunk (2003-06-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733eecc265c134153c14794aab" alt="Area Codes" width="50" /> | Area Codes (2023-03-17) | <img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" alt="The College Dropout" width="50" /> | The College Dropout (2004-02-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="on the street (with J. Cole)" width="50" /> | on the street (with J. Cole) (2023-03-03) | <img src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" alt="Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course" width="50" /> | Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course (2004-11-30) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="Mr. Morale &amp; The Big Steppers" width="50" /> | Mr. Morale & The Big Steppers (2022-05-13) | <img src="https://i.scdn.co/image/ab67616d0000b2738cc44129c3b11adec74058d6" alt="PCD" width="50" /> | PCD (2005-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd" alt="MONTERO" width="50" /> | MONTERO (2021-09-17) | <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Late Registration" width="50" /> | Late Registration (2005-08-30) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="WAP (feat. Megan Thee Stallion)" width="50" /> | WAP (feat. Megan Thee Stallion) (2020-08-07) | <img src="https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578" alt="Curtain Call: The Hits (Deluxe Edition)" width="50" /> | Curtain Call: The Hits (Deluxe Edition) (2005-12-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="Boss Bitch" width="50" /> | Boss Bitch (2020-01-23) | <img src="https://i.scdn.co/image/ab67616d0000b2738a6a328ced07af494400584b" alt="souljaboytellem.com" width="50" /> | souljaboytellem.com (2007-01-01) |

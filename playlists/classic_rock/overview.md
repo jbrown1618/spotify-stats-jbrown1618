@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e020b51f8d91f3a21e8426361aeab67616d00001e0284243a01af3c77b56fe01ab1ab67616d00001e028cffbbb7fe8645a486a85ea9ab67616d00001e02bbf0146981704a073405b6c2" alt="Classic Rock" width="100" />
 
-[115 tracks (70 liked) 🔗](https://open.spotify.com/playlist/5z6MnUYwnqrMcdd9b14Cc7)
+[117 tracks (71 liked) 🔗](https://open.spotify.com/playlist/5z6MnUYwnqrMcdd9b14Cc7)
 
 [See Track Features](audio_features.md)
 
@@ -18,8 +18,8 @@
 | <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | 6 | 6 | [The Who](../../artists/the_who/overview.md) | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
 | <img src="https://i.scdn.co/image/e69f71e2be4b67b82af90fb8e9d805715e0684fa" alt="" width="50" /> | 9 | 3 | Pink Floyd | [🔗](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | 6 | 3 | Fleetwood Mac | [🔗](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | 4 | 3 | Prince | [🔗](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 3 | 2 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | 2 | 2 | Prince | [🔗](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc2a482e06d5e31e6cc6cf7ec" alt="" width="50" /> | 2 | 2 | Styx | [🔗](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | 2 | 2 | Kansas | [🔗](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4cea917b68726aadb4854b8" alt="" width="50" /> | 2 | 2 | The Rolling Stones | [🔗](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) |
@@ -72,16 +72,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="A Night At The Opera (Deluxe Remastered Version)" width="50" /> | [Bohemian Rhapsody - Remastered 2011](../../artists/queen/overview.md) | 249 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Golden Slumbers - Remastered 2009](../../artists/the_beatles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34" alt="Innuendo" width="50" /> | [Innuendo - Remastered 2011](../../artists/queen/overview.md) | 258 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> | Hard To Handle | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Because - Remastered 2009](../../artists/the_beatles/overview.md) | 316 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="Fleetwood Mac" width="50" /> | Rhiannon | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a052b99c042dc15f933145b" alt="Toto IV" width="50" /> | Africa | 322 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="The Dark Side of the Moon" width="50" /> | Brain Damage | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="1 (Remastered)" width="50" /> | [Day Tripper - Remastered 2015](../../artists/the_beatles/overview.md) | 398 | <img src="https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae" alt="Back In Black" width="50" /> | Back In Black | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="Pieces Of Eight" width="50" /> | Renegade | 510 | <img src="https://i.scdn.co/image/ab67616d0000b273653b110d9560eb1656f4c583" alt="Ten Summoner&#x27;s Tales" width="50" /> | Fields Of Gold | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="Who Are You" width="50" /> | [Who Are You](../../artists/the_who/overview.md) | 545 | <img src="https://i.scdn.co/image/ab67616d0000b27388f0f719259b0dec23a7c367" alt="The Grand Illusion" width="50" /> | Come Sail Away | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="A Night At The Opera (Deluxe Remastered Version)" width="50" /> | [Bohemian Rhapsody - Remastered 2011](../../artists/queen/overview.md) | 250 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Golden Slumbers - Remastered 2009](../../artists/the_beatles/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34" alt="Innuendo" width="50" /> | [Innuendo - Remastered 2011](../../artists/queen/overview.md) | 260 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> | Hard To Handle | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Because - Remastered 2009](../../artists/the_beatles/overview.md) | 318 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="Fleetwood Mac" width="50" /> | Rhiannon | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a052b99c042dc15f933145b" alt="Toto IV" width="50" /> | Africa | 323 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="The Dark Side of the Moon" width="50" /> | Brain Damage | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="1 (Remastered)" width="50" /> | [Day Tripper - Remastered 2015](../../artists/the_beatles/overview.md) | 400 | <img src="https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae" alt="Back In Black" width="50" /> | Back In Black | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="Pieces Of Eight" width="50" /> | Renegade | 513 | <img src="https://i.scdn.co/image/ab67616d0000b273653b110d9560eb1656f4c583" alt="Ten Summoner&#x27;s Tales" width="50" /> | Fields Of Gold | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="Who Are You" width="50" /> | [Who Are You](../../artists/the_who/overview.md) | 551 | <img src="https://i.scdn.co/image/ab67616d0000b27388f0f719259b0dec23a7c367" alt="The Grand Illusion" width="50" /> | Come Sail Away | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889" alt="Jazz (Deluxe Remastered Version)" width="50" /> | [Fat Bottomed Girls - Remastered 2011](../../artists/queen/overview.md) | 696 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="Who&#x27;s Next (Deluxe Edition)" width="50" /> | [Behind Blue Eyes](../../artists/the_who/overview.md) | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="The Dark Side of the Moon" width="50" /> | The Great Gig in the Sky | 703 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a" alt="Sgt. Pepper&#x27;s Lonely Hearts Club Band (Remastered)" width="50" /> | [A Day In The Life - Remastered 2009](../../artists/the_beatles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="Desperado (2013 Remaster)" width="50" /> | Desperado - 2013 Remaster | 729 | <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Rumours (Super Deluxe)" width="50" /> | Dreams - 2004 Remaster | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="Desperado (2013 Remaster)" width="50" /> | Desperado - 2013 Remaster | 731 | <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="Rumours (Super Deluxe)" width="50" /> | Dreams - 2004 Remaster | nan |
 
 </details>
 
@@ -102,7 +102,7 @@
 
 
 <details>
-<summary>See all 77 albums</summary>
+<summary>See all 79 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -128,6 +128,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4" alt="" width="50" /> | 1 | 1 | Rubber Soul (Remastered) | 1965-12-03 | [🔗](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | 1 | 1 | Point Of Know Return (Expanded Edition) | 1977 | [🔗](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="" width="50" /> | 1 | 1 | Pieces Of Eight | 1978-01-01 | [🔗](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27323cc0f0a925845a3de4aca38" alt="" width="50" /> | 1 | 1 | Parade - Music from the Motion Picture Under the Cherry Moon | 1986-03-31 | [🔗](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="" width="50" /> | 1 | 1 | Out Of Our Heads | 1965-07-30 | [🔗](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="" width="50" /> | 1 | 1 | My Generation (Stereo Version) | 1965-12-03 | [🔗](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="" width="50" /> | 1 | 1 | More of The Monkees (Deluxe Edition) | 1967-01-09 | [🔗](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) |
@@ -172,6 +173,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e8045e318486885fe243817" alt="" width="50" /> | 1 | 0 | Departure | 1980 | [🔗](https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733395f3e809dfbc2b1101d464" alt="" width="50" /> | 1 | 0 | David Bowie (aka Space Oddity) [2015 Remaster] | 1969-11-04 | [🔗](https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731afccd261170f1d8f3cadb3d" alt="" width="50" /> | 1 | 0 | Bayou Country (Expanded Edition) | 1969-01-05 | [🔗](https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cc6495584fb0e2261ee95868" alt="" width="50" /> | 1 | 0 | Around The World In A Day | 1985-04-22 | [🔗](https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0c7c131a979c9e5436f89ce" alt="" width="50" /> | 1 | 0 | ...Nothing Like The Sun | 1987-01-01 | [🔗](https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R) |
 
 </details>
@@ -185,8 +187,8 @@
 |---:|---:|:---|
 | 31 | 22 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
 | 14 | 11 | [Hollywood Records](../../labels/hollywood_records/overview.md) |
+| 14 | 8 | [Warner Records](../../labels/warner_records/overview.md) |
 | 14 | 7 | [Rhino](../../labels/rhino/overview.md) |
-| 13 | 7 | [Warner Records](../../labels/warner_records/overview.md) |
 | 8 | 5 | [Columbia](../../labels/columbia/overview.md) |
 | 7 | 4 | [Legacy](../../labels/legacy/overview.md) |
 | 9 | 3 | Pink Floyd Records |
@@ -196,7 +198,7 @@
 
 
 <details>
-<summary>See all 27 labels</summary>
+<summary>See all 28 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -216,18 +218,19 @@
 | 1 | 0 | Volcano |
 | 1 | 0 | Sanctuary Records |
 | 1 | 0 | [Parlophone UK](../../labels/parlophone_uk/overview.md) |
+| 1 | 0 | Legacy Recordings |
 | 1 | 0 | Concord Records |
 
 </details>
 
 
-![Bar chart of top 27 record labels](../../images/playlists/classic_rock/labels.png)
+![Bar chart of top 28 record labels](../../images/playlists/classic_rock/labels.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 108 | 69 | [rock](../../genres/rock/overview.md) |
+| 110 | 70 | [rock](../../genres/rock/overview.md) |
 | 101 | 64 | [classic rock](../../genres/classic_rock/overview.md) |
 | 40 | 31 | [british invasion](../../genres/british_invasion/overview.md) |
 | 52 | 28 | [album rock](../../genres/album_rock/overview.md) |
@@ -252,11 +255,11 @@
 | 13 | 3 | [art rock](../../genres/art_rock/overview.md) |
 | 12 | 3 | symphonic rock |
 | 5 | 3 | folk rock |
+| 4 | 3 | synth funk |
+| 4 | 3 | minneapolis sound |
+| 4 | 3 | funk rock |
+| 4 | 3 | funk |
 | 3 | 2 | [folk](../../genres/folk/overview.md) |
-| 2 | 2 | synth funk |
-| 2 | 2 | minneapolis sound |
-| 2 | 2 | funk rock |
-| 2 | 2 | funk |
 | 5 | 1 | southern rock |
 | 5 | 1 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 4 | 1 | metal |
@@ -317,23 +320,25 @@
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
 | | Roger Taylor | 5 | Songwriter, Producer |
-| | Chris Thomas | 5 | Producer |
-| | Mike Stone | 5 | Producer |
 | | Roy Thomas Baker | 5 | Producer |
+| | Mike Stone | 5 | Producer |
+| | Chris Thomas | 5 | Producer |
 | | Pete Townshend | 5 | Lyricist, Songwriter |
 | | Ken Scott | 4 | Producer |
-| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | [The Who](../../artists/the_who/overview.md) | 3 | Producer |
-| | Geoff Workman | 3 | Producer |
-| | Roger Waters | 3 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | Prince | 3 | Arranger, Lyricist, Producer, Songwriter |
 | | Mack | 3 | Producer |
-| | Phil Spector | 3 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | Fleetwood Mac | 3 | Producer |
+| | Geoff Workman | 3 | Producer |
+| | Phil Spector | 3 | Producer |
+| | Roger Waters | 3 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | [The Who](../../artists/the_who/overview.md) | 3 | Producer |
 | | Kris Fredriksson | 2 | Producer |
 | | Keith Olsen | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | Kansas | 2 | Arranger |
-| | David DeVore | 2 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc2a482e06d5e31e6cc6cf7ec" alt="" width="50" /> | Styx | 2 | Producer |
+| | Barry Sheffield | 2 | Producer |
 | <img src="https://i.scdn.co/image/e69f71e2be4b67b82af90fb8e9d805715e0684fa" alt="" width="50" /> | Pink Floyd | 2 | Producer |
+| | David DeVore | 2 | Producer |
 | | Peter Bown | 2 | Producer |
 | | Barry Mraz | 2 | Producer |
 | | Jeff Glixman | 2 | Producer |
@@ -342,26 +347,29 @@
 | | Dennis DeYoung | 2 | Lyricist, Songwriter, Producer |
 | | John Deacon | 2 | Songwriter, Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | Van Morrison | 2 | Lyricist, Producer, Songwriter |
+| | David Leonard | 2 | Producer |
 | | Jeff Jarratt | 2 | Producer |
 | | Stevie Nicks | 2 | Lyricist, Songwriter |
-| | Barry Sheffield | 2 | Producer |
+| | The Revolution | 2 | Arranger, Producer |
 | | Kerry Livgren | 2 | Lyricist, Songwriter |
-| | Rob Kingsland | 2 | Producer |
 | | George Harrison | 2 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | Prince | 2 | Arranger, Lyricist, Producer, Songwriter |
-| | Mick Jones | 1 | Producer, Songwriter |
-| | Ross Valory | 1 | Producer |
-| | Rodger Bain | 1 | Producer |
+| | David Z. | 2 | Producer, Arranger |
+| | Rob Kingsland | 2 | Producer |
+| | Brian Johnson | 1 | Songwriter |
+| | Geezer Butler | 1 | Lyricist, Songwriter |
+| | Peggy McCreary | 1 | Producer |
 | | Eddie Curtis | 1 | Songwriter |
+| | Coke Johnson | 1 | Producer |
+| | Rodger Bain | 1 | Producer |
 | | John Mills | 1 | Arranger |
 | | Kevin Herron | 1 | Producer |
 | | Jim Tomlinson | 1 | Arranger |
-| | Mick Jagger | 1 | Songwriter |
 | | Gary Lyons | 1 | Producer |
-| | David Leonard | 1 | Producer |
+| | Mick Jagger | 1 | Songwriter |
+| | Lou Gramm | 1 | Songwriter |
+| | Lisa Coleman | 1 | Arranger |
 | | Richard Dashut | 1 | Producer |
 | | Don Henley | 1 | Songwriter |
-| | Lisa Coleman | 1 | Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4cea917b68726aadb4854b8" alt="" width="50" /> | The Rolling Stones | 1 | Arranger |
 | | David Richards | 1 | Producer |
 | | Jimmy Douglass | 1 | Producer |
@@ -369,13 +377,12 @@
 | | Glenn Frey | 1 | Songwriter |
 | | Steve Miller | 1 | Producer, Songwriter |
 | | Neil Diamond | 1 | Lyricist, Songwriter |
-| | Geezer Butler | 1 | Lyricist, Songwriter |
-| | George Drakoulias | 1 | Producer |
 | | Alvertis Isbell | 1 | Songwriter |
-| | Brian Humphries | 1 | Producer |
-| | Angus Young | 1 | Songwriter |
-| | Jon Astley | 1 | Producer |
+| | Ross Valory | 1 | Producer |
+| | George Drakoulias | 1 | Producer |
+| | Izzy Stradlin | 1 | Songwriter |
 | | Aynsley Dunbar | 1 | Producer |
+| | Rick Rubin | 1 | Producer |
 | | Terry Becker | 1 | Producer |
 | | Tommy Shaw | 1 | Lyricist, Songwriter |
 | | Caryl Weinstock | 1 | Producer |
@@ -384,10 +391,10 @@
 | | Ahmet Ertegun | 1 | Songwriter |
 | | Michael Barbiero | 1 | Producer |
 | | Keith Richards | 1 | Songwriter |
+| | Jon Astley | 1 | Producer |
 | | Malcolm Young | 1 | Songwriter |
-| | Izzy Stradlin | 1 | Songwriter |
 | | Alex Clare | 1 | Songwriter |
-| | Rick Rubin | 1 | Producer |
+| | Brian Humphries | 1 | Producer |
 | | Keith Moon | 1 | Producer |
 | | Brad Samuelsohn | 1 | Producer |
 | | Tony Iommi | 1 | Songwriter |
@@ -395,17 +402,13 @@
 | | Tony Platt | 1 | Producer |
 | | Steven Adler | 1 | Songwriter |
 | | Axl Rose | 1 | Songwriter |
-| | Lou Gramm | 1 | Songwriter |
 | | Randy Mason | 1 | Producer |
-| | Brian Johnson | 1 | Songwriter |
-| | Bill "Bleu" Evans | 1 | Producer |
-| | Deborah Harry | 1 | Songwriter |
-| | Chris Hinshaw | 1 | Producer |
-| | Adrian Barber | 1 | Producer |
-| | Brendan O'Brien | 1 | Producer |
-| | Mike Clink | 1 | Producer |
-| | Brooks Arthur | 1 | Producer |
+| | Angus Young | 1 | Songwriter |
+| | Tom Allom | 1 | Producer |
 | | Robert John "Mutt" Lange | 1 | Producer |
+| | Andrew Loog Oldham | 1 | Producer |
+| | Richard Wright | 1 | Songwriter |
+| | Brendan O'Brien | 1 | Producer |
 
 </details>
 
@@ -425,8 +428,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27313cbe3e4dfa81fe5b91f2f1c" alt="Call Me" width="50" /> | Call Me (2004-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd" alt="A Hard Day&#x27;s Night (Remastered)" width="50" /> | A Hard Day's Night (Remastered) (1964-07-10) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf" alt="1 (Remastered)" width="50" /> | 1 (Remastered) (2000-11-13) | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="Out Of Our Heads" width="50" /> | Out Of Our Heads (1965-07-30) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273653b110d9560eb1656f4c583" alt="Ten Summoner&#x27;s Tales" width="50" /> | Ten Summoner's Tales (1993-03-09) | <img src="https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa" alt="Help! (Remastered)" width="50" /> | Help! (Remastered) (1965-08-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e2dd4e821bcc3f70dc0c8ffd" alt="Out Of Time (25th Anniversary Edition)" width="50" /> | Out Of Time (25th Anniversary Edition) (1991-03-12) | <img src="https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4" alt="Rubber Soul (Remastered)" width="50" /> | Rubber Soul (Remastered) (1965-12-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34" alt="Innuendo" width="50" /> | Innuendo (1991-02-04) | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="My Generation (Stereo Version)" width="50" /> | My Generation (Stereo Version) (1965-12-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e2dd4e821bcc3f70dc0c8ffd" alt="Out Of Time (25th Anniversary Edition)" width="50" /> | Out Of Time (25th Anniversary Edition) (1991-03-12) | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="My Generation (Stereo Version)" width="50" /> | My Generation (Stereo Version) (1965-12-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34" alt="Innuendo" width="50" /> | Innuendo (1991-02-04) | <img src="https://i.scdn.co/image/ab67616d0000b273ed801e58a9ababdea6ac7ce4" alt="Rubber Soul (Remastered)" width="50" /> | Rubber Soul (Remastered) (1965-12-03) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> | Shake Your Money Maker (1990-02-13) | <img src="https://i.scdn.co/image/ab67616d0000b273bad7062c3fd2f2d037989694" alt="Aftermath" width="50" /> | Aftermath (1966-04-15) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" alt="Appetite For Destruction" width="50" /> | Appetite For Destruction (1987-07-21) | <img src="https://i.scdn.co/image/ab67616d0000b27328b8b9b46428896e6491e97a" alt="Revolver (Remastered)" width="50" /> | Revolver (Remastered) (1966-08-05) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0c7c131a979c9e5436f89ce" alt="...Nothing Like The Sun" width="50" /> | ...Nothing Like The Sun (1987-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273360a1ae790aa71a0aac4983e" alt="More of The Monkees (Deluxe Edition)" width="50" /> | More of The Monkees (Deluxe Edition) (1967-01-09) |

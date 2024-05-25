@@ -1199,6 +1199,7 @@ tag,artist_mbid,mb_tag
 ,b90ab376-c0ff-42d8-88af-4892a82222dd,contemporary jazz
 ,9774cfd1-8862-42bd-919e-156c31f079b4,contemporary pop/rock
 ,03172286-f7ed-4864-a4db-459cd5ca9790,contemporary r&b
+,0612bcce-e351-40be-b3d7-2bb5e1c23479,contemporary r&b
 ,066d8578-8ab1-4cff-a2f8-3b0ea6c45258,contemporary r&b
 ,070d193a-845c-479f-980e-bef15710653e,contemporary r&b
 ,07832b42-8826-4ab1-acd3-c49a2f595ffe,contemporary r&b
@@ -2470,6 +2471,7 @@ tag,artist_mbid,mb_tag
 ,a98fe54a-5638-4780-b056-14cfc01bdabc,high contrast 'the beat don't feel the same'
 ,03172286-f7ed-4864-a4db-459cd5ca9790,hip hop
 ,05539fb8-b7a5-4012-97a9-5e27ddc031fb,hip hop
+,0612bcce-e351-40be-b3d7-2bb5e1c23479,hip hop
 ,07832b42-8826-4ab1-acd3-c49a2f595ffe,hip hop
 ,07aebfa0-55d6-47e0-a284-12330e3eae0d,hip hop
 ,097e3f11-6ddd-4d0a-8e10-15207b49a043,hip hop
@@ -2524,6 +2526,7 @@ tag,artist_mbid,mb_tag
 ,50b95bb6-dcdc-4424-ba3b-e48692d954bf,hip hop
 ,5450fc76-2f7b-400e-adf0-d9bdf6f3978c,hip hop
 ,54c1f74e-2cd7-481d-9d31-7808fc2dbf05,hip hop
+,551d0bb3-984d-4c9d-b9fb-1fe5d5e94ec7,hip hop
 ,58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9,hip hop
 ,59eda569-b380-4958-b98c-051d1667b3e1,hip hop
 ,5a2071aa-0787-49fb-931c-fa85ba86e681,hip hop
@@ -3456,6 +3459,7 @@ tag,artist_mbid,mb_tag
 ,b95ce3ff-3d05-4e87-9e01-c97b66af13d4,midwest hip hop
 ,48ec4bb6-47a6-4e2c-8287-7617464eb193,minimal
 ,48ec4bb6-47a6-4e2c-8287-7617464eb193,minimalism
+,73369dff-6059-4654-a7b5-efdf369cffa5,minneapolis sound
 ,9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa,mod
 ,2379937f-6e0d-46a2-b8ff-633fafd72002,modal jazz
 ,27613b78-1b9d-4ec3-9db5-fa0743465fdd,modal jazz
@@ -4451,6 +4455,7 @@ tag,artist_mbid,mb_tag
 ,d2faa4dd-f3fc-4aa9-aa9e-001826d6fdd2,rapper
 ,e32e7d66-3d1f-4f8a-b339-90c02ebfe465,rapper
 ,9252ca18-015c-484c-ae59-5670784887d3,rappers
+,0612bcce-e351-40be-b3d7-2bb5e1c23479,ratchet music
 ,38f59974-2f4d-4bfa-b2e3-d2696de1b675,rca
 ,39c96b70-75ca-479c-a04a-0fb854d80172,really likes lamps
 ,035bc391-d7dd-4a68-8321-fa1e02697fc8,record producer
@@ -5837,6 +5842,7 @@ tag,artist_mbid,mb_tag
 ,fbe054ec-a143-4101-9e9e-64abc5ff5ac9,traditional pop
 ,0b0c25f4-f31c-46a5-a4fb-ccbf53d663bd,trance
 ,04b67fdc-8fdb-47e0-8307-d260abbc93f8,trap
+,0612bcce-e351-40be-b3d7-2bb5e1c23479,trap
 ,0b30341b-b59d-4979-8130-b66c0e475321,trap
 ,0fe5df51-ba65-4784-ba85-7d024a107a8a,trap
 ,1c46e82f-4764-4d82-a33b-5d5aee5e2881,trap
@@ -5844,6 +5850,7 @@ tag,artist_mbid,mb_tag
 ,355cc194-b8db-4af2-8678-c7ad54213f4b,trap
 ,3a052c99-8c18-484a-8beb-9873b4fb3106,trap
 ,3dda8202-ce15-4031-862a-77bc6759d15e,trap
+,551d0bb3-984d-4c9d-b9fb-1fe5d5e94ec7,trap
 ,59eda569-b380-4958-b98c-051d1667b3e1,trap
 ,5df62a88-cac9-490a-b62c-c7c88f4020f4,trap
 ,6dee6b6f-aa72-424c-9c8c-0d31ba5ff673,trap

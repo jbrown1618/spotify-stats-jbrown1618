@@ -2,7 +2,7 @@
 # Coldplay
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="Coldplay" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebc878d7a8f8299a3a09e29fb6" alt="Coldplay" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -89,7 +89,7 @@ Coldplay:
 | | Jonny Buckland | 5 | Songwriter |
 | | Will Champion | 5 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb45de7ab990a1246c812128b6" alt="" width="50" /> | Chris Martin | 5 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3" alt="" width="50" /> | [Coldplay](overview.md) | 4 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc878d7a8f8299a3a09e29fb6" alt="" width="50" /> | [Coldplay](overview.md) | 4 | Producer |
 | | Ken Nelson | 4 | Producer |
 | | Rik Simpson | 3 | Producer |
 | | Michael Brauer | 3 | Producer |

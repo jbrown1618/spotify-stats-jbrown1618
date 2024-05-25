@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e020f7e2aa2f1d7ea0fd2e206c0ab67616d00001e0216aaf05fe82237576a7d0e38ab67616d00001e0220112a0321d2efc7384db456ab67616d00001e02f93159d78849714fcf118bb3" alt="Funk" width="100" />
 
-[50 tracks (34 liked) 🔗](https://open.spotify.com/playlist/0SL2KHDmNlkSmEgOBPeJCJ)
+[51 tracks (35 liked) 🔗](https://open.spotify.com/playlist/0SL2KHDmNlkSmEgOBPeJCJ)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 44 artists</summary>
+<summary>See all 45 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -39,6 +39,7 @@
 | <img src="https://i.scdn.co/image/9aef578389c4a9d27e15a627acb784c41094e79d" alt="" width="50" /> | 1 | 1 | Sly & The Family Stone | [🔗](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb56c617b7ca5ab250de5f8575" alt="" width="50" /> | 1 | 1 | [HEIZE](../../artists/heize/overview.md) | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fb2c2049b583374c9fc7576" alt="" width="50" /> | 1 | 1 | Tank and The Bangas | [🔗](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | 1 | 1 | Prince | [🔗](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) |
 | | 1 | 1 | Blær | [🔗](https://open.spotify.com/artist/5W6FVpHHiRfqUU4d9FfXWZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d419ed4f1e89669ce14bd369" alt="" width="50" /> | 1 | 1 | Wild Cherry | [🔗](https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a6eda4c3bb829e35333dc07" alt="" width="50" /> | 1 | 1 | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [🔗](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) |
@@ -83,15 +84,15 @@
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | [Sweet Venom](../../artists/enhypen/overview.md) | 59 | <img src="https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f" alt="Star Time" width="50" /> | Papa's Got A Brand New Bag | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> | [enchanted night ~ white night](../../artists/billlie/overview.md) | 82 | <img src="https://i.scdn.co/image/ab67616d0000b27330bb42e5271f2e046fd36972" alt="That&#x27;s The Way Of The World" width="50" /> | Shining Star | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="Born to be XX" width="50" /> | [Nobody Knows](../../artists/kiss_of_life/overview.md) | 102 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8ab1a548312b79ac955266" alt="Innervisions" width="50" /> | Higher Ground | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="TEN - The 1st Mini Album" width="50" /> | [Dangerous](../../artists/ten/overview.md) | 118 | <img src="https://i.scdn.co/image/ab67616d0000b27331ae071f3db459be2501ea13" alt="Nightbirds" width="50" /> | Lady Marmalade | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> | [enchanted night ~ white night](../../artists/billlie/overview.md) | 81 | <img src="https://i.scdn.co/image/ab67616d0000b27330bb42e5271f2e046fd36972" alt="That&#x27;s The Way Of The World" width="50" /> | Shining Star | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="Born to be XX" width="50" /> | [Nobody Knows](../../artists/kiss_of_life/overview.md) | 101 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8ab1a548312b79ac955266" alt="Innervisions" width="50" /> | Higher Ground | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="TEN - The 1st Mini Album" width="50" /> | [Dangerous](../../artists/ten/overview.md) | 115 | <img src="https://i.scdn.co/image/ab67616d0000b27331ae071f3db459be2501ea13" alt="Nightbirds" width="50" /> | Lady Marmalade | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="Undo" width="50" /> | [Undo](../../artists/heize/overview.md) | 207 | <img src="https://i.scdn.co/image/ab67616d0000b27395605660a166c33bbf6d4a25" alt="&amp; Co." width="50" /> | Endurtaka Mig | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [In My Bones (feat. Kimbra & Tank and The Bangas)](../../artists/jacob_collier/overview.md) | 523 | <img src="https://i.scdn.co/image/ab67616d0000b27364c6ef51927c575ed9f464cf" alt="Bloody Tourists" width="50" /> | Dreadlock Holiday | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> | [nevertheless](../../artists/billlie/overview.md) | 568 | <img src="https://i.scdn.co/image/ab67616d0000b2730f7e2aa2f1d7ea0fd2e206c0" alt="The Fearless Flyers" width="50" /> | Ace of Aces | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27356035da9eacd668ffdfacb36" alt="Starlit of Muse" width="50" /> | TOUCHIN&MOVIN | 654 | <img src="https://i.scdn.co/image/ab67616d0000b27323fb02f383f3bef16ab9d092" alt="It Is What It Is" width="50" /> | Funny Thing | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [In My Bones (feat. Kimbra & Tank and The Bangas)](../../artists/jacob_collier/overview.md) | 527 | <img src="https://i.scdn.co/image/ab67616d0000b27364c6ef51927c575ed9f464cf" alt="Bloody Tourists" width="50" /> | Dreadlock Holiday | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> | [nevertheless](../../artists/billlie/overview.md) | 574 | <img src="https://i.scdn.co/image/ab67616d0000b2730f7e2aa2f1d7ea0fd2e206c0" alt="The Fearless Flyers" width="50" /> | Ace of Aces | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356035da9eacd668ffdfacb36" alt="Starlit of Muse" width="50" /> | TOUCHIN&MOVIN | 653 | <img src="https://i.scdn.co/image/ab67616d0000b27323fb02f383f3bef16ab9d092" alt="It Is What It Is" width="50" /> | Funny Thing | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb03213742765479b3b1cf11" alt="Tailwinds" width="50" /> | Nate Smith Is the Ace of Aces | 713 | <img src="https://i.scdn.co/image/ab67616d0000b273f93159d78849714fcf118bb3" alt="Deceptive Bends" width="50" /> | Good Morning Judge | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="NEXT EPISODE" width="50" /> | [NAKKA (with IU)](../../artists/akmu/overview.md) | 759 | <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="The Definitive Collection" width="50" /> | Superstition - Single Version | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="NEXT EPISODE" width="50" /> | [NAKKA (with IU)](../../artists/akmu/overview.md) | 760 | <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="The Definitive Collection" width="50" /> | Superstition - Single Version | nan |
 
 </details>
 
@@ -112,7 +113,7 @@
 
 
 <details>
-<summary>See all 48 albums</summary>
+<summary>See all 49 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -123,6 +124,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27356035da9eacd668ffdfacb36" alt="" width="50" /> | 1 | 1 | Starlit of Muse | 2024-02-20 | [🔗](https://open.spotify.com/album/1YtCxUGiarZVukgAm2x5RZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b" alt="" width="50" /> | 1 | 1 | Signed, Sealed And Delivered | 1970-08-07 | [🔗](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | 1 | Savage - The 1st Mini Album | 2021-10-05 | [🔗](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27323cc0f0a925845a3de4aca38" alt="" width="50" /> | 1 | 1 | Parade - Music from the Motion Picture Under the Cherry Moon | 1986-03-31 | [🔗](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="" width="50" /> | 1 | 1 | ORANGE BLOOD | 2023-11-17 | [🔗](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27331ae071f3db459be2501ea13" alt="" width="50" /> | 1 | 1 | Nightbirds | 1974-09-13 | [🔗](https://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="" width="50" /> | 1 | 1 | NEXT EPISODE | 2021-07-26 | [🔗](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) |
@@ -177,7 +179,7 @@
 
 
 <details>
-<summary>See all 34 labels</summary>
+<summary>See all 35 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -187,6 +189,7 @@
 | 2 | 1 | [Columbia](../../labels/columbia/overview.md) |
 | 1 | 1 | ㈜ 동요엔터테인먼트 |
 | 1 | 1 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
+| 1 | 1 | [Warner Records](../../labels/warner_records/overview.md) |
 | 1 | 1 | SWING ENTERTAINMENT |
 | 1 | 1 | [S2 ENTERTAINMENT INC.](../../labels/s2_entertainment_inc_/overview.md) |
 | 1 | 1 | Ríkisútvarpið - Exclusively distributed by Alda Music |
@@ -217,18 +220,18 @@
 |---:|---:|:---|
 | 22 | 10 | [soul](../../genres/soul/overview.md) |
 | 9 | 9 | [k-pop](../../genres/k-pop/overview.md) |
-| 11 | 6 | funk |
+| 12 | 7 | funk |
 | 13 | 5 | motown |
 | 9 | 5 | disco |
+| 6 | 5 | funk rock |
 | 5 | 4 | p funk |
-| 5 | 4 | funk rock |
 | 4 | 4 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 7 | 3 | classic soul |
 | 3 | 3 | sunnlensk tonlist |
 
 
 <details>
-<summary>See all 46 genres</summary>
+<summary>See all 48 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -237,9 +240,12 @@
 | 4 | 2 | [soft rock](../../genres/soft_rock/overview.md) |
 | 3 | 2 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 2 | 2 | yacht rock |
+| 2 | 2 | synth funk |
+| 2 | 2 | symphonic rock |
 | 2 | 2 | psychedelic soul |
 | 2 | 2 | [pop](../../genres/pop/overview.md) |
 | 2 | 2 | new romantic |
+| 2 | 2 | minneapolis sound |
 | 2 | 2 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 2 | 2 | glam rock |
 | 2 | 2 | [classic rock](../../genres/classic_rock/overview.md) |
@@ -250,9 +256,8 @@
 | 2 | 1 | instrumental funk |
 | 1 | 1 | [uk alternative pop](../../genres/uk_alternative_pop/overview.md) |
 | 1 | 1 | synthpop |
-| 1 | 1 | synth funk |
 | 1 | 1 | southern soul |
-| 1 | 1 | minneapolis sound |
+| 1 | 1 | [rock](../../genres/rock/overview.md) |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 1 | 1 | [korean pop](../../genres/korean_pop/overview.md) |
 | 1 | 1 | jazz funk |
@@ -280,14 +285,14 @@
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | Stevie Wonder | 3 | Arranger, Lyricist, Producer, Songwriter |
 | | Eric Stewart | 2 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/2103311f1aedbaa1c8c9514d79c45f4c3ddbca96" alt="" width="50" /> | Bootsy Collins | 2 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12207a91d8fa9a82f7136e56" alt="" width="50" /> | Daði Freyr | 2 | Lyricist, Songwriter |
+| | Graham Gouldman | 2 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/2103311f1aedbaa1c8c9514d79c45f4c3ddbca96" alt="" width="50" /> | Bootsy Collins | 2 | Songwriter |
 | | George Clinton | 2 | Songwriter, Producer |
 | | Berry Gordy | 2 | Songwriter |
-| | Graham Gouldman | 2 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434" alt="" width="50" /> | Marvin Gaye | 1 | Producer, Songwriter |
-| | Steven Greenberg | 1 | Lyricist, Songwriter |
-| | PAPRIKAA | 1 | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | Prince | 1 | Lyricist, Producer, Songwriter |
+| | Adam von Mentzer | 1 | Songwriter |
+| | Bob Crewe | 1 | Songwriter |
 
 
 <details>
@@ -295,34 +300,41 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Jerome Brailey | 1 | Songwriter |
 | | 남궁진 (Nam Goong, Jin) | 1 | Producer |
-| | Bob Crewe | 1 | Songwriter |
-| | David Dahlquist | 1 | Arranger, Songwriter |
+| | Jerome Brailey | 1 | Songwriter |
+| | Peggy McCreary | 1 | Producer |
+| | David Leonard | 1 | Producer |
+| | Coke Johnson | 1 | Producer |
+| | Steven Greenberg | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434" alt="" width="50" /> | Marvin Gaye | 1 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | [Bruno Mars](../../artists/bruno_mars/overview.md) | 1 | Producer, Songwriter |
-| | Robert W. Parissi | 1 | Lyricist, Songwriter |
-| | Patrick Morrissey | 1 | Arranger, Songwriter |
-| | Adam von Mentzer | 1 | Songwriter |
-| | Maurice White | 1 | Producer, Songwriter |
-| | Leo Sacks | 1 | Producer |
-| | Bernie Worrell | 1 | Songwriter |
-| | Paul Phamous | 1 | Songwriter |
-| | Allen Toussaint | 1 | Arranger, Producer |
-| | IMLAY | 1 | Arranger |
-| | Bobby Byrd | 1 | Songwriter |
-| | Hal Davis | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/bd85e05d8bb8ad24515a232174cbe20925048566" alt="" width="50" /> | 10cc | 1 | Producer |
-| | Philip Bailey | 1 | Songwriter |
-| | Freddie Perren | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 1 | Songwriter |
-| | Fonce Mizell | 1 | Songwriter |
-| | Rick Bridges | 1 | Lyricist |
 | | 노민지 (Noh, Min-ji) | 1 | Producer |
-| | Larry Dunn | 1 | Songwriter |
+| | David Dahlquist | 1 | Arranger, Songwriter |
+| | Robert W. Parissi | 1 | Lyricist, Songwriter |
 | | Tarriona 'Tank' Ball | 1 | Songwriter |
+| | Hal Davis | 1 | Songwriter |
+| | Rick Bridges | 1 | Lyricist |
+| | Fonce Mizell | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc9e52ab44fd71a16a4b6ea8e" alt="" width="50" /> | [Kimbra](../../artists/kimbra/overview.md) | 1 | Songwriter |
+| | Freddie Perren | 1 | Songwriter |
+| | Philip Bailey | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/bd85e05d8bb8ad24515a232174cbe20925048566" alt="" width="50" /> | 10cc | 1 | Producer |
+| | Bobby Byrd | 1 | Songwriter |
+| | Patrick Morrissey | 1 | Arranger, Songwriter |
+| | IMLAY | 1 | Arranger |
+| | Allen Toussaint | 1 | Arranger, Producer |
+| | Paul Phamous | 1 | Songwriter |
+| | Bernie Worrell | 1 | Songwriter |
+| | Maurice White | 1 | Producer, Songwriter |
+| | PAPRIKAA | 1 | Arranger, Songwriter |
+| | Leo Sacks | 1 | Producer |
 | | Big Sean | 1 | Songwriter |
+| | Susan Rogers | 1 | Producer |
+| | The Revolution | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | [Jacob Collier](../../artists/jacob_collier/overview.md) | 1 | Arranger, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb158342aa8bb8a192c778f2a5" alt="" width="50" /> | James Brown | 1 | Producer, Songwriter |
 | | Boo Mitchell | 1 | Producer |
+| | David Z. | 1 | Arranger, Producer |
 | | The Corporation | 1 | Producer |
 | | Marcus Lomax | 1 | Songwriter |
 | | Ben Bloomberg | 1 | Producer |
@@ -333,6 +345,7 @@
 | | Kenny Nolan | 1 | Songwriter |
 | | Ed Townsend | 1 | Producer, Songwriter |
 | | James Fauntleroy | 1 | Songwriter |
+| | David Tickle | 1 | Producer |
 | | Julie Han | 1 | Lyricist |
 | | D'Mile | 1 | Producer, Songwriter |
 | | Paul Klingberg | 1 | Producer |
@@ -345,7 +358,7 @@
 | | [조윤경 (Jo, Yoon Kyung)](../../producers/조윤경_(jo,_yoon_kyung)/overview.md) | 1 | Lyricist |
 | | Willie Hutch | 1 | Songwriter |
 | | Jim Vitti | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | [Jacob Collier](../../artists/jacob_collier/overview.md) | 1 | Arranger, Producer, Songwriter |
+| | Larry Dunn | 1 | Songwriter |
 | | Ellie Suh | 1 | Lyricist |
 
 </details>
