@@ -69,7 +69,7 @@
 | Art | Track | Credit Types |
 |:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Talk Dirty (feat. 2 Chainz) | Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273352e5ec301a02278ffe53d14" alt="" width="50" /> | Ride | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7" alt="" width="50" /> | Ride | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | Get Ugly | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d991176cbf36bd168e00a0a" alt="" width="50" /> | HandClap | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d51081892dbe3f1ddf28914" alt="" width="50" /> | Truth Hurts | Producer, Songwriter |

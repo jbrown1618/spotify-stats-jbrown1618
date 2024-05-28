@@ -179,16 +179,16 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | I AM | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 122 | 💚 | [🔗](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | I AM | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 123 | 💚 | [🔗](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5" alt="" width="50" /> | After LIKE | After LIKE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 185 | 💚 | [🔗](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Baddie | I'VE MINE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 218 | 💚 | [🔗](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | LOVE DIVE | LOVE DIVE | [IVE](../../artists/ive/overview.md) | [STARSHIP Entertainment](.) | 281 | 💚 | [🔗](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="" width="50" /> | 해야 (HEYA) | IVE SWITCH | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 285 | 💚 | [🔗](https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Lips | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 337 | 💚 | [🔗](https://open.spotify.com/track/0dRSOmb7pqkkmjXCu5BYbe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="" width="50" /> | Blue Heart | IVE SWITCH | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 350 | 💚 | [🔗](https://open.spotify.com/track/00wTgWOnpWPlTvFsAkZBme) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8a007b9e0ba32eee1651227" alt="" width="50" /> | Alone | ALONE | SISTAR | [Starship Entertainment](.) | 423 | 💚 | [🔗](https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27365414519ff7d939ddfb53c21" alt="" width="50" /> | One way love | LOVE & HATE | HYOLYN | [Starship Entertainment](.) | 470 | 💚 | [🔗](https://open.spotify.com/track/2UIXAxLWIPM6ALPGCeeXfH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="" width="50" /> | Ice Queen | IVE SWITCH | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 490 | 💚 | [🔗](https://open.spotify.com/track/5h0QtLzRxaGI9ujUMugAhr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Baddie | I'VE MINE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 219 | 💚 | [🔗](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="" width="50" /> | 해야 (HEYA) | IVE SWITCH | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 264 | 💚 | [🔗](https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | LOVE DIVE | LOVE DIVE | [IVE](../../artists/ive/overview.md) | [STARSHIP Entertainment](.) | 285 | 💚 | [🔗](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="" width="50" /> | Blue Heart | IVE SWITCH | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 290 | 💚 | [🔗](https://open.spotify.com/track/00wTgWOnpWPlTvFsAkZBme) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Lips | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 339 | 💚 | [🔗](https://open.spotify.com/track/0dRSOmb7pqkkmjXCu5BYbe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8a007b9e0ba32eee1651227" alt="" width="50" /> | Alone | ALONE | SISTAR | [Starship Entertainment](.) | 426 | 💚 | [🔗](https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="" width="50" /> | Ice Queen | IVE SWITCH | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 443 | 💚 | [🔗](https://open.spotify.com/track/5h0QtLzRxaGI9ujUMugAhr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27365414519ff7d939ddfb53c21" alt="" width="50" /> | One way love | LOVE & HATE | HYOLYN | [Starship Entertainment](.) | 477 | 💚 | [🔗](https://open.spotify.com/track/2UIXAxLWIPM6ALPGCeeXfH) |
 
 
 <details>
@@ -196,10 +196,10 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 섬찟 (Hypnosis) | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 530 | 💚 | [🔗](https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="" width="50" /> | Accendio | IVE SWITCH | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 532 | 💚 | [🔗](https://open.spotify.com/track/1BAtAtx0VgWgAMROWK9WYf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="" width="50" /> | Accendio | IVE SWITCH | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 500 | 💚 | [🔗](https://open.spotify.com/track/1BAtAtx0VgWgAMROWK9WYf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 섬찟 (Hypnosis) | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 534 | 💚 | [🔗](https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="" width="50" /> | Beautiful Liar | REASON | MONSTA X | [Starship Entertainment](.) | 577 | 💚 | [🔗](https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Blue Blood | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 695 | 💚 | [🔗](https://open.spotify.com/track/2avdbiswb0d5AFmyyz68xP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Blue Blood | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 697 | 💚 | [🔗](https://open.spotify.com/track/2avdbiswb0d5AFmyyz68xP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363c31401b11c56386ed0c9b7" alt="" width="50" /> | Ma Boy | Ma Boy | SISTAR19 | [Starship Entertainment](.) | nan | | [🔗](https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27352d75b524e594fec397a2e88" alt="" width="50" /> | Give it to me | Give It To Me (2) | SISTAR | [Starship Entertainment](.) | nan | 💚 | [🔗](https://open.spotify.com/track/1t88m8JUlqn9kf0FLmVta5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | Touch my body | TOUCH N MOVE | SISTAR | [Starship Entertainment](.) | nan | 💚 | [🔗](https://open.spotify.com/track/5crARIrvoMiMf2AdlD78WN) |

@@ -82,7 +82,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="" width="50" /> | Tango | MINT | ABIR | Fez's Finest, LLC | 751 | 💚 | [🔗](https://open.spotify.com/track/24jrwTJSlYOCguuLa4j28A) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="" width="50" /> | Tango | MINT | ABIR | Fez's Finest, LLC | 755 | 💚 | [🔗](https://open.spotify.com/track/24jrwTJSlYOCguuLa4j28A) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Consequences | Camila | [Camila Cabello](../../../artists/camila_cabello/overview.md) | [Epic](../../../labels/epic), [Syco Music](../../../labels/syco_music) | nan | 💚 | [🔗](https://open.spotify.com/track/7sTtHHrD0zDpmzQzH3zegz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Havana (feat. Young Thug) | Camila | [Camila Cabello](../../../artists/camila_cabello/overview.md), Young Thug | [Epic](../../../labels/epic), [Syco Music](../../../labels/syco_music) | nan | 💚 | [🔗](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Never Be the Same | Camila | [Camila Cabello](../../../artists/camila_cabello/overview.md) | [Epic](../../../labels/epic), [Syco Music](../../../labels/syco_music) | nan | 💚 | [🔗](https://open.spotify.com/track/4eWQlBRaTjPPUlzacqEeoQ) |

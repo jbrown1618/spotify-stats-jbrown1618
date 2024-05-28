@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e023317fc12f8b9a9a0b8459766ab67616d00001e0263e0ddbb488d0eeec0e738fcab67616d00001e0284095737f6056e682666d6f9ab67616d00001e02f2bf9685109a09bdc176fb43" alt="K-Pop-Adjacent" width="100" />
 
-[52 tracks (36 liked) 🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk)
+[55 tracks (38 liked) 🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk)
 
 [See Track Features](audio_features.md)
 
@@ -16,20 +16,21 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb62f430d4e9ff8eb0b0e4b66f" alt="" width="50" /> | 2 | 2 | hannah bahng | [🔗](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1ecf93514aaa79d02826707e" alt="" width="50" /> | 2 | 2 | YB | [🔗](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 2 | 1 | [Justin Bieber](../../artists/justin_bieber/overview.md) | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebce33386a81a202e149934ec1" alt="" width="50" /> | 2 | 1 | JVKE | [🔗](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | 1 | 1 | ROSALÍA | [🔗](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb89ad1bc33aa9abcaf4370c77" alt="" width="50" /> | 1 | 1 | Loving Caliber | [🔗](https://open.spotify.com/artist/6psCCMHymYfQy6VvYRr6cs) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb988058e093b55434256c5cdf" alt="" width="50" /> | 1 | 1 | Destiny Rogers | [🔗](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7e6939fdde0369bbdea3539d" alt="" width="50" /> | 1 | 1 | Destiny Rogers | [🔗](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08635ff0ed30023d2ee764a1" alt="" width="50" /> | 1 | 1 | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb463b39bbf9ac7ad2ee3b7795" alt="" width="50" /> | 1 | 1 | DARA | [🔗](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd5594e3ae145bbb2c096366d" alt="" width="50" /> | 1 | 1 | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebead1540fa76796266fadba33" alt="" width="50" /> | 1 | 1 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 
 
 <details>
-<summary>See all 70 artists</summary>
+<summary>See all 72 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebead1540fa76796266fadba33" alt="" width="50" /> | 1 | 1 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb345f5d936d8bc62daf2b814a" alt="" width="50" /> | 1 | 1 | Stellar | [🔗](https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb01784e44ffd1a339350f4417" alt="" width="50" /> | 1 | 1 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
 | | 1 | 1 | 김아중 | [🔗](https://open.spotify.com/artist/5qMkh0MtptmH5XKinOnFom) |
@@ -43,6 +44,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0219b6643b1ec449b0951bfe" alt="" width="50" /> | 1 | 1 | Giveon | [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3" alt="" width="50" /> | 1 | 1 | Travis Barker | [🔗](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8e7a2d1a01fd98e43ee57dc" alt="" width="50" /> | 1 | 1 | 6LACK | [🔗](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0231bc47a3196a42cc367a6e" alt="" width="50" /> | 1 | 1 | Bazzi | [🔗](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe80d1ffb81aa6503ad41c574" alt="" width="50" /> | 1 | 1 | League of Legends | [🔗](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcf0ccf8e8db5c494fd26c4cb" alt="" width="50" /> | 1 | 1 | Christopher | [🔗](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba3a7b2e3fbc33e79765760fe" alt="" width="50" /> | 1 | 1 | QUIN | [🔗](https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA) |
@@ -108,16 +110,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="ALL OUT" width="50" /> | VILLAIN | 167 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="All I Want Is You" width="50" /> | Sure Thing | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="Love&#x27;s Battery" width="50" /> | Love's Battery | 514 | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> | [I'll Show You](../../artists/justin_bieber/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Beggin' | 528 | <img src="https://i.scdn.co/image/ab67616d0000b2731ccae05cfc0a4def5804bb60" alt="perfect blues" width="50" /> | perfect blues | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="Better Mistakes" width="50" /> | Break My Heart Myself (feat. Travis Barker) | 552 | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="The Prelude" width="50" /> | At My Worst | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | ドライフラワー | 595 | <img src="https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f" alt="El Mal Querer" width="50" /> | MALAMENTE - Cap.1: Augurio | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> | [Off My Face](../../artists/justin_bieber/overview.md) | 682 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0beba9fb519b91d5485ef9" alt="미녀는 괴로워 Original Motion picture Soundtrack" width="50" /> | Maria | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="We Sing. We Dance. We Steal Things." width="50" /> | Lucky | 684 | <img src="https://i.scdn.co/image/ab67616d0000b27309d039265f637b5749c927a8" alt="Sneaky Snitch" width="50" /> | Sneaky Snitch | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="MINT" width="50" /> | Tango | 751 | <img src="https://i.scdn.co/image/ab67616d0000b27376205e74bef31f32a779d970" alt="REMIND" width="50" /> | Blue Whale - 2016 Version | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734df81e72c09afdd3f50c6d22" alt="Fast &amp; Furious Presents: Hobbs &amp; Shaw (Original Motion Picture Soundtrack)" width="50" /> | Next Level | nan | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="Salute (Expanded Edition)" width="50" /> | Salute | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b627441824c5d0748c8cb077" alt="Dua Lipa" width="50" /> | [Hotter Than Hell](../../artists/dua_lipa/overview.md) | nan | <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> | Light Switch | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="ALL OUT" width="50" /> | VILLAIN | 168 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="All I Want Is You" width="50" /> | Sure Thing | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="Love&#x27;s Battery" width="50" /> | Love's Battery | 520 | <img src="https://i.scdn.co/image/ab67616d0000b2736bbd6589349e2bab2ce3f38b" alt="I Don&#x27;t Think I&#x27;m Okay" width="50" /> | I Don't Think I'm Okay | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Beggin' | 532 | <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="Purpose (Deluxe)" width="50" /> | [I'll Show You](../../artists/justin_bieber/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="Better Mistakes" width="50" /> | Break My Heart Myself (feat. Travis Barker) | 554 | <img src="https://i.scdn.co/image/ab67616d0000b2731ccae05cfc0a4def5804bb60" alt="perfect blues" width="50" /> | perfect blues | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | ドライフラワー | 595 | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="The Prelude" width="50" /> | At My Worst | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> | [Off My Face](../../artists/justin_bieber/overview.md) | 683 | <img src="https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f" alt="El Mal Querer" width="50" /> | MALAMENTE - Cap.1: Augurio | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="We Sing. We Dance. We Steal Things." width="50" /> | Lucky | 687 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0beba9fb519b91d5485ef9" alt="미녀는 괴로워 Original Motion picture Soundtrack" width="50" /> | Maria | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c2504e80ba2f258697ab2954" alt="this is what ____ feels like (Vol. 1-4)" width="50" /> | i'm not okay | 732 | <img src="https://i.scdn.co/image/ab67616d0000b27309d039265f637b5749c927a8" alt="Sneaky Snitch" width="50" /> | Sneaky Snitch | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c2504e80ba2f258697ab2954" alt="this is what ____ feels like (Vol. 1-4)" width="50" /> | this is what falling in love feels like | 743 | <img src="https://i.scdn.co/image/ab67616d0000b27376205e74bef31f32a779d970" alt="REMIND" width="50" /> | Blue Whale - 2016 Version | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="MINT" width="50" /> | Tango | 755 | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="Salute (Expanded Edition)" width="50" /> | Salute | nan |
 
 </details>
 
@@ -126,6 +128,7 @@
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2731ccae05cfc0a4def5804bb60" alt="" width="50" /> | 2 | 2 | perfect blues | 2023-07-14 | [🔗](https://open.spotify.com/album/09JlCYQ9z7cCoFoBQMqUN7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c2504e80ba2f258697ab2954" alt="" width="50" /> | 2 | 1 | this is what ____ feels like (Vol. 1-4) | 2022-09-23 | [🔗](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0beba9fb519b91d5485ef9" alt="" width="50" /> | 1 | 1 | 미녀는 괴로워 Original Motion picture Soundtrack | 2006-12-12 | [🔗](https://open.spotify.com/album/5XUYDlbeJCIFSCekufQiZb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | 1 | 1 | 壱 | 2022-01-12 | [🔗](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27352d0ac4eb2c3fd56c01a01b5" alt="" width="50" /> | 1 | 1 | Written In The Stars | 2018-10-11 | [🔗](https://open.spotify.com/album/08z3DsL7P6RpBR3FgNMSvN) |
@@ -134,14 +137,14 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27315249cb1ee9b66f0aacfffe8" alt="" width="50" /> | 1 | 1 | Under the Surface | 2019-02-22 | [🔗](https://open.spotify.com/album/6ISIdF1gCK9X8pn4FaObHE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384095737f6056e682666d6f9" alt="" width="50" /> | 1 | 1 | Tomboy | 2019-02-28 | [🔗](https://open.spotify.com/album/2uDZBeyyQ7mfwF9mUJeYUG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="" width="50" /> | 1 | 1 | The Prelude | 2020-07-17 | [🔗](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27356ff19308ebeb48e2ba6094b" alt="" width="50" /> | 1 | 1 | The Diary Of Alicia Keys | 2003-12-02 | [🔗](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) |
 
 
 <details>
-<summary>See all 51 albums</summary>
+<summary>See all 53 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27356ff19308ebeb48e2ba6094b" alt="" width="50" /> | 1 | 1 | The Diary Of Alicia Keys | 2003-12-02 | [🔗](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ced1760b648799e697e8e02" alt="" width="50" /> | 1 | 1 | Taxidriver OST Part.1 | 2021-04-16 | [🔗](https://open.spotify.com/album/3PNXlS9tggXmCm1hrlHDcQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733317fc12f8b9a9a0b8459766" alt="" width="50" /> | 1 | 1 | TAKE TIME | 2020-03-27 | [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c0f17fbae890e66fe861b29" alt="" width="50" /> | 1 | 1 | Street Woman Fighter2 (SWF2) Class Mission | 2023-09-05 | [🔗](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) |
@@ -153,6 +156,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="" width="50" /> | 1 | 1 | Love's Battery | 2009-06-19 | [🔗](https://open.spotify.com/album/03IVWQyi8lzS4t2WQKu5iI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="" width="50" /> | 1 | 1 | LUCID | 2019-11-15 | [🔗](https://open.spotify.com/album/5qQhQ1rmPjqQgv8RmfaQU3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="" width="50" /> | 1 | 1 | Justice | 2021-03-19 | [🔗](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736bbd6589349e2bab2ce3f38b" alt="" width="50" /> | 1 | 1 | I Don't Think I'm Okay | 2020-07-09 | [🔗](https://open.spotify.com/album/2FVXY7JKhLrYb5CExY0CDq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273488df3d22b1f5c0ea15b686a" alt="" width="50" /> | 1 | 1 | Head In The Clouds II | 2019-10-11 | [🔗](https://open.spotify.com/album/7bOpX6Ilc9UCFmH9uGyUDy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="" width="50" /> | 1 | 1 | Good Thing (with Kehlani) | 2019-09-27 | [🔗](https://open.spotify.com/album/3wpdeV1FZfiEnelZSfAFp4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb9ff6f34a355d6ce77ff6a4" alt="" width="50" /> | 1 | 1 | Flowers (Cover) | 2023-03-20 | [🔗](https://open.spotify.com/album/0nTIxK2AR9QnY2nn5uxhYW) |
@@ -206,15 +210,17 @@
 
 
 <details>
-<summary>See all 49 labels</summary>
+<summary>See all 51 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 2 | 1 | JVKE |
 | 2 | 1 | Def Jam |
 | 1 | 1 | 코어콘텐츠미디어 |
 | 1 | 1 | 케이엠컬쳐 |
 | 1 | 1 | 스타엔트리엔터테인먼트 |
 | 1 | 1 | 디컴퍼니 |
+| 1 | 1 | iamcosmic |
 | 1 | 1 | YUQI |
 | 1 | 1 | Virginia Records |
 | 1 | 1 | Teleport Records |
@@ -259,7 +265,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 17 | 10 | [pop](../../genres/pop/overview.md) |
+| 18 | 11 | [pop](../../genres/pop/overview.md) |
 | 7 | 3 | [r&b](../../genres/r_b/overview.md) |
 | 4 | 3 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 2 | [korean pop](../../genres/korean_pop/overview.md) |
@@ -267,15 +273,18 @@
 | 2 | 2 | k-rock |
 | 2 | 2 | [5th gen k-pop](../../genres/5th_gen_k-pop/overview.md) |
 | 3 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
-| 2 | 1 | pop dance |
-| 2 | 1 | indie r&b |
+| 2 | 1 | singer-songwriter pop |
+| 2 | 1 | pov: indie |
 
 
 <details>
-<summary>See all 56 genres</summary>
+<summary>See all 59 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 2 | 1 | pop dance |
+| 2 | 1 | modern indie pop |
+| 2 | 1 | indie r&b |
 | 2 | 1 | edm |
 | 2 | 1 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 1 | 1 | [viral pop](../../genres/viral_pop/overview.md) |
@@ -427,7 +436,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731ccae05cfc0a4def5804bb60" alt="perfect blues" width="50" /> | perfect blues (2023-07-14) | <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="We Sing. We Dance. We Steal Things." width="50" /> | We Sing. We Dance. We Steal Things. (2008-05-12) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb9ff6f34a355d6ce77ff6a4" alt="Flowers (Cover)" width="50" /> | Flowers (Cover) (2023-03-20) | <img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="Love&#x27;s Battery" width="50" /> | Love's Battery (2009-06-19) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="CHARLIE" width="50" /> | CHARLIE (2022-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="All I Want Is You" width="50" /> | All I Want Is You (2010-11-26) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b93c6b37cb0e0a9fbf26b766" alt="Mr. Rover" width="50" /> | Mr. Rover (2022-07-15) | <img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="F.A.M.E. (Expanded Edition)" width="50" /> | F.A.M.E. (Expanded Edition) (2011-03-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | 壱 (2022-01-12) | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="Salute (Expanded Edition)" width="50" /> | Salute (Expanded Edition) (2013-11-11) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="SG (with Ozuna, Megan Thee Stallion &amp; LISA of BLACKPINK)" width="50" /> | SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (2021-10-22) | <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="BEYONCÉ [Platinum Edition]" width="50" /> | BEYONCÉ [Platinum Edition] (2014-11-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb" alt="Motley Crew" width="50" /> | Motley Crew (2021-07-09) | <img src="https://i.scdn.co/image/ab67616d0000b27309d039265f637b5749c927a8" alt="Sneaky Snitch" width="50" /> | Sneaky Snitch (2014-12-27) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c2504e80ba2f258697ab2954" alt="this is what ____ feels like (Vol. 1-4)" width="50" /> | this is what ____ feels like (Vol. 1-4) (2022-09-23) | <img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="F.A.M.E. (Expanded Edition)" width="50" /> | F.A.M.E. (Expanded Edition) (2011-03-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b93c6b37cb0e0a9fbf26b766" alt="Mr. Rover" width="50" /> | Mr. Rover (2022-07-15) | <img src="https://i.scdn.co/image/ab67616d0000b273b3d3d1ba43e085f5ab80e56a" alt="Salute (Expanded Edition)" width="50" /> | Salute (Expanded Edition) (2013-11-11) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | 壱 (2022-01-12) | <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="BEYONCÉ [Platinum Edition]" width="50" /> | BEYONCÉ [Platinum Edition] (2014-11-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="SG (with Ozuna, Megan Thee Stallion &amp; LISA of BLACKPINK)" width="50" /> | SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) (2021-10-22) | <img src="https://i.scdn.co/image/ab67616d0000b27309d039265f637b5749c927a8" alt="Sneaky Snitch" width="50" /> | Sneaky Snitch (2014-12-27) |

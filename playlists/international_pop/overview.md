@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e022433cb43f0f2f0f23b7c8b82ab67616d00001e023a44a5105549a15dd92ed0c3ab67616d00001e024ccc03169b086af698178a99ab67616d00001e029922157daa474131bb3a0fbc" alt="International Pop" width="100" />
 
-[133 tracks (74 liked) 🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf)
+[136 tracks (76 liked) 🔗](https://open.spotify.com/playlist/36OHPiYrLGYMfVa0zcHgLf)
 
 [See Track Features](audio_features.md)
 
@@ -21,8 +21,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | 4 | 2 | Yuuri | [🔗](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaee73c0f0458b95091845ee1" alt="" width="50" /> | 4 | 2 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc" alt="" width="50" /> | 3 | 2 | Fujii Kaze | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb09a59951603a0472a7cc2d8a" alt="" width="50" /> | 3 | 2 | ATARASHII GAKKO! | [🔗](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbdaffe3725449701e3261e47" alt="" width="50" /> | 2 | 2 | Reol | [🔗](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd9e94a40fd6ef4fe68318821" alt="" width="50" /> | 2 | 2 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
 
 
 <details>
@@ -30,6 +30,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd9e94a40fd6ef4fe68318821" alt="" width="50" /> | 2 | 2 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa534de724c7a565c07bb3f5" alt="" width="50" /> | 2 | 2 | Daddy Yankee | [🔗](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcf0ccf8e8db5c494fd26c4cb" alt="" width="50" /> | 2 | 2 | Christopher | [🔗](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c74ddf959a8b4b7f5babfc7" alt="" width="50" /> | 2 | 2 | Mahalini | [🔗](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) |
@@ -119,7 +120,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb80ab8b05c210da4eed1c555c" alt="" width="50" /> | 1 | 0 | Savera | [🔗](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb74688dd2b4c18d27ef2ce405" alt="" width="50" /> | 1 | 0 | MAXIMUM THE HORMONE | [🔗](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb639904df84c9ae5e3888ccc2" alt="" width="50" /> | 1 | 0 | Gradur | [🔗](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7ad0e4ab865f24a17c0de9d7" alt="" width="50" /> | 1 | 0 | OAFF | [🔗](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR) |
 
 </details>
 
@@ -138,16 +138,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="アイドル" width="50" /> | [アイドル](../../artists/yoasobi/overview.md) | 312 | <img src="https://i.scdn.co/image/ab67616d0000b2739792873842bcfa921ffceebf" alt="i&#x27;mperfect" width="50" /> | abnormalize | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="アイドル" width="50" /> | [アイドル](../../artists/yoasobi/overview.md) | 314 | <img src="https://i.scdn.co/image/ab67616d0000b2739792873842bcfa921ffceebf" alt="i&#x27;mperfect" width="50" /> | abnormalize | nan |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736305e51741ae5f4acda89fe2" alt="Schwarzes Herz" width="50" /> | Hässlich | 334 | <img src="https://i.scdn.co/image/ab67616d0000b2738d6686937b604899a9347550" alt="Evils Theater" width="50" /> | 悪ノ娘 | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | [KARATE](../../artists/babymetal/overview.md) | 368 | <img src="https://i.scdn.co/image/ab67616d0000b273b28db1e5c8c53e67c6969c06" alt="Vintage" width="50" /> | Meleğim | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732433cb43f0f2f0f23b7c8b82" alt="Brol" width="50" /> | Tout oublier | 380 | <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | [manimani](../../artists/yoasobi/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | [Seventeen](../../artists/yoasobi/overview.md) | 402 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | [A Rock Somewhere (feat. Anoushka Shankar & Varijashree Venugopal)](../../artists/jacob_collier/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | [Headbangeeeeerrrrr!!!!!](../../artists/babymetal/overview.md) | 438 | <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="A BEST" width="50" /> | Boys & Girls | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | [Awadama Fever](../../artists/babymetal/overview.md) | 442 | <img src="https://i.scdn.co/image/ab67616d0000b2733e4b149dd3110f1432bfeca0" alt="Niche Syndrome" width="50" /> | Wherever you are | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="Daisy 2.0 (feat. Hatsune Miku)" width="50" /> | Daisy 2.0 (feat. Hatsune Miku) | 446 | <img src="https://i.scdn.co/image/ab67616d0000b27314b31a0ac21c8645919204a8" alt="Ne reviens pas" width="50" /> | Ne reviens pas | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="海のまにまに" width="50" /> | [海のまにまに](../../artists/yoasobi/overview.md) | 465 | <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="CITIZENS" width="50" /> | Minefields | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Beggin' | 528 | <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="青のすみか" width="50" /> | 青のすみか | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | [KARATE](../../artists/babymetal/overview.md) | 369 | <img src="https://i.scdn.co/image/ab67616d0000b273b28db1e5c8c53e67c6969c06" alt="Vintage" width="50" /> | Meleğim | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732433cb43f0f2f0f23b7c8b82" alt="Brol" width="50" /> | Tout oublier | 382 | <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | [manimani](../../artists/yoasobi/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | [Seventeen](../../artists/yoasobi/overview.md) | 405 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | [A Rock Somewhere (feat. Anoushka Shankar & Varijashree Venugopal)](../../artists/jacob_collier/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | [Headbangeeeeerrrrr!!!!!](../../artists/babymetal/overview.md) | 441 | <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="A BEST" width="50" /> | Boys & Girls | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | [Awadama Fever](../../artists/babymetal/overview.md) | 445 | <img src="https://i.scdn.co/image/ab67616d0000b2733e4b149dd3110f1432bfeca0" alt="Niche Syndrome" width="50" /> | Wherever you are | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="Daisy 2.0 (feat. Hatsune Miku)" width="50" /> | Daisy 2.0 (feat. Hatsune Miku) | 450 | <img src="https://i.scdn.co/image/ab67616d0000b27314b31a0ac21c8645919204a8" alt="Ne reviens pas" width="50" /> | Ne reviens pas | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="海のまにまに" width="50" /> | [海のまにまに](../../artists/yoasobi/overview.md) | 471 | <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="CITIZENS" width="50" /> | Minefields | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Beggin' | 532 | <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="青のすみか" width="50" /> | 青のすみか | nan |
 
 </details>
 
@@ -190,6 +190,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273752d2becbb91841a31c556b8" alt="" width="50" /> | 1 | 1 | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | 2010-05-07 | [🔗](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ef0d4234e1a645740f77d59c" alt="" width="50" /> | 1 | 1 | VIDA | 2019-02-01 | [🔗](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc1e6aac4f02c6864d7a5f90" alt="" width="50" /> | 1 | 1 | Toy | 2018-05-23 | [🔗](https://open.spotify.com/album/21YEfZ84TzdjNvOWEdwjeF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e1fce3a6ca07216884d0937" alt="" width="50" /> | 1 | 1 | Tokyo Calling | 2023-10-20 | [🔗](https://open.spotify.com/album/3utC1QAo17IiIIkQZe7XO6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5c51e96d2583bfb3e45d504" alt="" width="50" /> | 1 | 1 | Think About Things | 2020-04-09 | [🔗](https://open.spotify.com/album/5gEUjiNfaVse6oloI0c6Vt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ccc03169b086af698178a99" alt="" width="50" /> | 1 | 1 | The Lion King: The Gift | 2019-07-19 | [🔗](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21" alt="" width="50" /> | 1 | 1 | Teatro d'ira - Vol. I | 2021-03-19 | [🔗](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) |
@@ -211,6 +212,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27393f551abf615209c537fb4d4" alt="" width="50" /> | 1 | 1 | Kirari Remixes (Asia Edition) | 2022-01-14 | [🔗](https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738874d42c6591770e15618d13" alt="" width="50" /> | 1 | 1 | Jai Jai Shivshankar (From "War") | 2019-09-21 | [🔗](https://open.spotify.com/album/5GvIKf7yN7gjZfYohbvHmj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ead481e6a66480e84bdfcc5c" alt="" width="50" /> | 1 | 1 | Ievan Polkka | 2007-09-04 | [🔗](https://open.spotify.com/album/1JtScNnTB2JWsnc7AyayIr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a7cff36d69e224ca1b489fa8" alt="" width="50" /> | 1 | 1 | ICHIJIKIKOKU | 2023-04-12 | [🔗](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322805a1b17e41ae357bd98bc" alt="" width="50" /> | 1 | 1 | HELP EVER HURT NEVER | 2020-05-20 | [🔗](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733bdf2e2ded049f7ff5352e78" alt="" width="50" /> | 1 | 1 | GENTO | 2023-05-19 | [🔗](https://open.spotify.com/album/3cxdpO2eZx2VT2OWyca18o) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="" width="50" /> | 1 | 1 | GAME | 2008 | [🔗](https://open.spotify.com/album/6kzdxF5o6XpDNTLVVdjoMj) |
@@ -246,6 +248,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec71813c0c13422d225981da" alt="" width="50" /> | 1 | 0 | לך לישון | 2022-01-02 | [🔗](https://open.spotify.com/album/6Wh0It79i26j0IWWzm3axe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b835b4be5631a28c4725a14" alt="" width="50" /> | 1 | 0 | בשורות טובות | 2022-06-06 | [🔗](https://open.spotify.com/album/1oBfvjTLPPfUEO4R6FqzRl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732413b55cebef0c99396fd854" alt="" width="50" /> | 1 | 0 | Échame La Culpa | 2017-11-17 | [🔗](https://open.spotify.com/album/2Tt0EzXpempSOIHFXVX42v) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273139f130e4816af20a8050105" alt="" width="50" /> | 1 | 0 | wakage ga itaru | 2019-03-06 | [🔗](https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739792873842bcfa921ffceebf" alt="" width="50" /> | 1 | 0 | i'mperfect | 2013-04-10 | [🔗](https://open.spotify.com/album/04ygc7Z2gcGtt7m8pnVUwf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273300b57abda9f4ce18cd95927" alt="" width="50" /> | 1 | 0 | Why Do I (with Hatsune Miku) | 2022-10-21 | [🔗](https://open.spotify.com/album/2HT2HYRf4LC7CZ4OcBHunz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b28db1e5c8c53e67c6969c06" alt="" width="50" /> | 1 | 0 | Vintage | 2020-03-19 | [🔗](https://open.spotify.com/album/6tGI9MGbLjbxyzcxYkMXPJ) |
@@ -259,9 +262,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27359c2f8304319dcd03eb4ead7" alt="" width="50" /> | 1 | 0 | PINK BLOOD | 2021-06-02 | [🔗](https://open.spotify.com/album/4eQs3mcSejRAVTWmaYXNYl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e4b149dd3110f1432bfeca0" alt="" width="50" /> | 1 | 0 | Niche Syndrome | 2010-06-09 | [🔗](https://open.spotify.com/album/4OKBuE9F8MTCV7nnsBRcsK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27314b31a0ac21c8645919204a8" alt="" width="50" /> | 1 | 0 | Ne reviens pas | 2019-11-21 | [🔗](https://open.spotify.com/album/0w6UtV9Rd14AqjqcwD3j3l) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d03049930583aecb52977265" alt="" width="50" /> | 1 | 0 | Miku | 2016-05-24 | [🔗](https://open.spotify.com/album/45jD7ltxM60Arhm5FWF49p) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b5900aef5989a39a87bda771" alt="" width="50" /> | 1 | 0 | Memories | 2021-12-08 | [🔗](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03" alt="" width="50" /> | 1 | 0 | MAÑANA SERÁ BONITO (BICHOTA SEASON) | 2023-08-10 | [🔗](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) |
 
 </details>
 
@@ -285,7 +285,7 @@
 
 
 <details>
-<summary>See all 84 labels</summary>
+<summary>See all 86 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -293,6 +293,7 @@
 | 2 | 2 | Hits records |
 | 2 | 2 | Faouzia 2019 |
 | 2 | 2 | [Decca (UMO)](../../labels/decca_(umo)/overview.md) |
+| 2 | 2 | [88rising Music](../../labels/88rising_music/overview.md) |
 | 2 | 1 | Linfair |
 | 2 | 1 | ITModels under exclusive license to D-Music |
 | 2 | 1 | [Epic](../../labels/epic/overview.md) |
@@ -327,7 +328,7 @@
 | 1 | 1 | El Cartel Records (EC3) |
 | 1 | 1 | CMMG |
 | 1 | 1 | Angèle VL Records |
-| 1 | 1 | [88rising Music](../../labels/88rising_music/overview.md) |
+| 1 | 1 | ATARASHII GAKKO! |
 | 2 | 0 | Universal Music Division Capitol Music France |
 | 2 | 0 | KING RECORDS |
 | 2 | 0 | [Interscope Records](../../labels/interscope_records/overview.md) |
@@ -340,6 +341,7 @@
 | 1 | 0 | WM Taiwan |
 | 1 | 0 | WM Norway |
 | 1 | 0 | WM Finland |
+| 1 | 0 | Victor |
 | 1 | 0 | Valley Records |
 | 1 | 0 | VAP |
 | 1 | 0 | Trinity Optima Production |
@@ -379,10 +381,10 @@
 | 8 | 6 | j-metal |
 | 8 | 6 | idol rock |
 | 8 | 4 | latin pop |
+| 7 | 4 | j-pop girl group |
 | 5 | 4 | japanese electropop |
 | 5 | 4 | alt z |
 | 4 | 4 | italian pop |
-| 6 | 3 | japanese singer-songwriter |
 
 
 <details>
@@ -390,6 +392,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 6 | 3 | japanese singer-songwriter |
 | 6 | 3 | indonesian pop |
 | 5 | 3 | urbano latino |
 | 5 | 3 | trap latino |
@@ -400,7 +403,6 @@
 | 3 | 3 | icelandic pop |
 | 5 | 2 | colombian pop |
 | 5 | 2 | anime rock |
-| 4 | 2 | j-pop girl group |
 | 4 | 2 | j-idol |
 | 4 | 2 | israeli pop |
 | 4 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
@@ -493,13 +495,13 @@
 | | KOBAMETAL | 6 | Producer |
 | | WATAMETAL | 4 | Producer |
 | | 渡辺未来 (Watanabe, Miki) | 3 | Lyricist |
-| | 中田ヤスタカ (Nakata, Yasutaka) | 2 | Arranger, Lyricist, Songwriter |
-| | Ayase | 2 | Lyricist, Songwriter |
-| | ギガP (GigaP) | 2 | Arranger, Producer |
-| | ゆよゆっぺ (Yuyoyuppe) | 2 | Arranger, Producer, Songwriter, Lyricist |
-| | KxBxMETAL | 2 | Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb12207a91d8fa9a82f7136e56" alt="" width="50" /> | Daði Freyr | 2 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbdaffe3725449701e3261e47" alt="" width="50" /> | Reol | 2 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebaa534de724c7a565c07bb3f5" alt="" width="50" /> | Daddy Yankee | 2 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12207a91d8fa9a82f7136e56" alt="" width="50" /> | Daði Freyr | 2 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebaee73c0f0458b95091845ee1" alt="" width="50" /> | Shakira | 2 | Songwriter |
+| | Ayase | 2 | Lyricist, Songwriter |
+| | Adrian Breakspear | 2 | Producer |
+| | 中田ヤスタカ (Nakata, Yasutaka) | 2 | Arranger, Lyricist, Songwriter |
 
 
 <details>
@@ -507,23 +509,25 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebaa534de724c7a565c07bb3f5" alt="" width="50" /> | Daddy Yankee | 2 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebaee73c0f0458b95091845ee1" alt="" width="50" /> | Shakira | 2 | Songwriter |
-| | Adrian Breakspear | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc" alt="" width="50" /> | Fujii Kaze | 1 | Lyricist, Songwriter |
-| | Ricky Montaner | 1 | Songwriter |
-| | Mauricio Montaner | 1 | Songwriter |
-| | Cecil Bernardy | 1 | Producer |
-| | Derek Dixie | 1 | Producer |
-| | EDOMETAL | 1 | Lyricist |
+| | KxBxMETAL | 2 | Lyricist |
+| | yonkey | 2 | Songwriter, Arranger, Lyricist |
+| | ゆよゆっぺ (Yuyoyuppe) | 2 | Arranger, Producer, Songwriter, Lyricist |
+| | ギガP (GigaP) | 2 | Arranger, Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb09a59951603a0472a7cc2d8a" alt="" width="50" /> | ATARASHII GAKKO! | 2 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcc129f1c9b5047760d66aae2" alt="" width="50" /> | Stromae | 1 | Arranger, Producer, Songwriter |
 | | Mauricio Rengifo | 1 | Producer |
-| | 板井直樹 (Itai, Naoki) | 1 | Arranger |
+| | EDOMETAL | 1 | Lyricist |
 | | Erika Ender | 1 | Songwriter |
-| | John Hill | 1 | Songwriter |
-| | Kumaar | 1 | Lyricist |
-| | Richard "P2J" Isong | 1 | Producer, Songwriter |
+| | Derek Dixie | 1 | Producer |
+| | Cecil Bernardy | 1 | Producer |
+| | Ricky Montaner | 1 | Songwriter |
+| | 板井直樹 (Itai, Naoki) | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc" alt="" width="50" /> | Fujii Kaze | 1 | Lyricist, Songwriter |
+| | Mauricio Montaner | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2620d7e19f51d9c4b7e853ce" alt="" width="50" /> | Luis Fonsi | 1 | Songwriter |
+| | Kumaar | 1 | Lyricist |
+| | John Hill | 1 | Songwriter |
+| | Richard "P2J" Isong | 1 | Producer, Songwriter |
 | | Andrés Torres (Torres, Andrés) | 1 | Producer |
 | | Papa Dizzy | 1 | Arranger |
 | | Jens Bogren | 1 | Producer |
@@ -537,7 +541,7 @@
 | | Jon Leone | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb247f44069c0bd1781df2f785" alt="" width="50" /> | [Beyoncé](../../artists/beyoncé/overview.md) | 1 | Producer, Songwriter |
 | | Aron Ottignon | 1 | Arranger |
-| | MEG | 1 | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | Yuuri | 1 | Lyricist, Songwriter |
 | | Emilie Satt | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb38a96d85b0580670123280e" alt="" width="50" /> | ZUTOMAYO | 1 | Producer |
 | | NORiMETAL | 1 | Lyricist, Songwriter |
@@ -551,9 +555,10 @@
 | | Konnie Aoki | 1 | Lyricist |
 | | NAKAMETAL | 1 | Lyricist |
 | | Stuart White | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | Yuuri | 1 | Lyricist, Songwriter |
 | | Jean-Karl Lucas | 1 | Songwriter |
+| | MEG | 1 | Arranger, Producer, Songwriter |
 | | Kyle Shearer | 1 | Songwriter |
+| | Yoshio Tamamura | 1 | Lyricist, Songwriter |
 | | Gaby Music | 1 | Songwriter |
 | | Peggy Farina | 1 | Songwriter |
 | | Antón Álvarez Alfaro (Álvarez Alfaro, Antón) | 1 | Lyricist |
@@ -581,11 +586,11 @@
 | Year | Number of Tracks |
 |:---|---:|
 | 2024 | 6 |
-| 2023 | 15 |
+| 2023 | 17 |
 | [2022](2022/overview.md) | 22 |
 | 2021 | 13 |
 | 2020 | 12 |
-| 2019 | 17 |
+| 2019 | 18 |
 | 2018 | 12 |
 | 2017 | 6 |
 | 2016 | 8 |
@@ -610,10 +615,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | E-SIDE 3 (2024-04-12) | <img src="https://i.scdn.co/image/ab67616d0000b273ba16f5c6c4e2d873996a81a7" alt="怎樣" width="50" /> | 怎樣 (2001-01-18) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | Djesse Vol. 4 (2024-03-01) | <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="A BEST" width="50" /> | A BEST (2001-03-28) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da49cfeacb25379ce1c0f6c0" alt="Amigos (with Becky G)" width="50" /> | Amigos (with Becky G) (2023-11-17) | <img src="https://i.scdn.co/image/ab67616d0000b2734df4e8ec1f66ebb6b63c14c2" alt="海嘯" width="50" /> | 海嘯 (2001-05-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736305e51741ae5f4acda89fe2" alt="Schwarzes Herz" width="50" /> | Schwarzes Herz (2023-08-25) | <img src="https://i.scdn.co/image/ab67616d0000b27354dbaa284c53e085523cfec2" alt="Hijas del Tomate" width="50" /> | Hijas del Tomate (2002) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a75971bdd0f5c34b86a152b4" alt="ái" width="50" /> | ái (2023-08-16) | <img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="Fijación Oral, Vol. 1" width="50" /> | Fijación Oral, Vol. 1 (2005-06-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03" alt="MAÑANA SERÁ BONITO (BICHOTA SEASON)" width="50" /> | MAÑANA SERÁ BONITO (BICHOTA SEASON) (2023-08-10) | <img src="https://i.scdn.co/image/ab67616d0000b27312b39d20292978b5e5800ed3" alt="一比一" width="50" /> | 一比一 (2005-06-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737eed64905d129d52667201f2" alt="DEJAYOU" width="50" /> | DEJAYOU (2023-07-17) | <img src="https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4" alt="太平盛世" width="50" /> | 太平盛世 (2005-08-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="青のすみか" width="50" /> | 青のすみか (2023-07-07) | <img src="https://i.scdn.co/image/ab67616d0000b2736686bf5b2e62ef26ec0d0ea4" alt="Bu-ikikaesu" width="50" /> | Bu-ikikaesu (2007-03-14) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733bdf2e2ded049f7ff5352e78" alt="GENTO" width="50" /> | GENTO (2023-05-19) | <img src="https://i.scdn.co/image/ab67616d0000b27388ba123609044eff4466b67b" alt="改變自己" width="50" /> | 改變自己 (2007-07-13) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="アイドル" width="50" /> | アイドル (2023-04-12) | <img src="https://i.scdn.co/image/ab67616d0000b273ead481e6a66480e84bdfcc5c" alt="Ievan Polkka" width="50" /> | Ievan Polkka (2007-09-04) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e1fce3a6ca07216884d0937" alt="Tokyo Calling" width="50" /> | Tokyo Calling (2023-10-20) | <img src="https://i.scdn.co/image/ab67616d0000b27354dbaa284c53e085523cfec2" alt="Hijas del Tomate" width="50" /> | Hijas del Tomate (2002) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736305e51741ae5f4acda89fe2" alt="Schwarzes Herz" width="50" /> | Schwarzes Herz (2023-08-25) | <img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="Fijación Oral, Vol. 1" width="50" /> | Fijación Oral, Vol. 1 (2005-06-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a75971bdd0f5c34b86a152b4" alt="ái" width="50" /> | ái (2023-08-16) | <img src="https://i.scdn.co/image/ab67616d0000b27312b39d20292978b5e5800ed3" alt="一比一" width="50" /> | 一比一 (2005-06-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03" alt="MAÑANA SERÁ BONITO (BICHOTA SEASON)" width="50" /> | MAÑANA SERÁ BONITO (BICHOTA SEASON) (2023-08-10) | <img src="https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4" alt="太平盛世" width="50" /> | 太平盛世 (2005-08-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737eed64905d129d52667201f2" alt="DEJAYOU" width="50" /> | DEJAYOU (2023-07-17) | <img src="https://i.scdn.co/image/ab67616d0000b2736686bf5b2e62ef26ec0d0ea4" alt="Bu-ikikaesu" width="50" /> | Bu-ikikaesu (2007-03-14) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="青のすみか" width="50" /> | 青のすみか (2023-07-07) | <img src="https://i.scdn.co/image/ab67616d0000b27388ba123609044eff4466b67b" alt="改變自己" width="50" /> | 改變自己 (2007-07-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733bdf2e2ded049f7ff5352e78" alt="GENTO" width="50" /> | GENTO (2023-05-19) | <img src="https://i.scdn.co/image/ab67616d0000b273ead481e6a66480e84bdfcc5c" alt="Ievan Polkka" width="50" /> | Ievan Polkka (2007-09-04) |

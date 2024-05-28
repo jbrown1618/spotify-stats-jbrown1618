@@ -16,7 +16,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a" alt="" width="50" /> | 5 | 4 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdd834bb7e70b6c23c0d33909" alt="" width="50" /> | 4 | 4 | MISAMO | [🔗](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c6952f39ba680489149a54c" alt="" width="50" /> | 2 | 1 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebaa030ee09264e729a28df992" alt="" width="50" /> | 1 | 0 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb573935eb61a1897aeb43c531" alt="" width="50" /> | 1 | 0 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 
 ![Bar chart of top 4 artists](../../images/labels/wm_japan/artists.png)
 
@@ -63,14 +63,14 @@ Appears as:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Behind The Curtain | Masterpiece | MISAMO | [WM Japan](.) | 99 | 💚 | [🔗](https://open.spotify.com/track/14nturKxV48wR3lbknehiu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | It's not easy for you | Masterpiece | MISAMO | [WM Japan](.) | 100 | 💚 | [🔗](https://open.spotify.com/track/1qNk7XPTbyuO4bsDl0T6nN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Do not touch | Masterpiece | MISAMO | [WM Japan](.) | 237 | 💚 | [🔗](https://open.spotify.com/track/5gq7xM6eI16osBO2U581NL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bc615fe0e1b49a5283c47075" alt="" width="50" /> | RINGO | RINGO | [ITZY](../../artists/itzy/overview.md) | [WM Japan](.) | 243 | 💚 | [🔗](https://open.spotify.com/track/2zRz0XfYEtsHuVfrM8KaOP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Funny Valentine | Masterpiece | MISAMO | [WM Japan](.) | 389 | 💚 | [🔗](https://open.spotify.com/track/4xtgQGbQnII1buKgl5fguT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27323a426c84e07e245fd609d84" alt="" width="50" /> | No Biggie | Algorhythm | [ITZY](../../artists/itzy/overview.md) | [WM Japan](.) | 440 | 💚 | [🔗](https://open.spotify.com/track/6ysaQMOAn1JNU0ab9IPtyP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273682903728c049526580f0363" alt="" width="50" /> | Voltage | Voltage | [ITZY](../../artists/itzy/overview.md) | [WM Japan](.) | 489 | 💚 | [🔗](https://open.spotify.com/track/7e65OAe9L0xWPSHDiahjQe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27323a426c84e07e245fd609d84" alt="" width="50" /> | Algorhythm | Algorhythm | [ITZY](../../artists/itzy/overview.md) | [WM Japan](.) | 573 | 💚 | [🔗](https://open.spotify.com/track/47tYRja2sNmaF0tFFY3D2a) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273579e945923463492cb43a5ce" alt="" width="50" /> | Perfect World | Perfect World | [TWICE](../../artists/twice/overview.md) | [WM Japan](.) | 694 | | [🔗](https://open.spotify.com/track/0iuZMy88H6vxDA2oaJNhJg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | It's not easy for you | Masterpiece | MISAMO | [WM Japan](.) | 101 | 💚 | [🔗](https://open.spotify.com/track/1qNk7XPTbyuO4bsDl0T6nN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Do not touch | Masterpiece | MISAMO | [WM Japan](.) | 239 | 💚 | [🔗](https://open.spotify.com/track/5gq7xM6eI16osBO2U581NL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bc615fe0e1b49a5283c47075" alt="" width="50" /> | RINGO | RINGO | [ITZY](../../artists/itzy/overview.md) | [WM Japan](.) | 245 | 💚 | [🔗](https://open.spotify.com/track/2zRz0XfYEtsHuVfrM8KaOP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27323a426c84e07e245fd609d84" alt="" width="50" /> | No Biggie | Algorhythm | [ITZY](../../artists/itzy/overview.md) | [WM Japan](.) | 379 | 💚 | [🔗](https://open.spotify.com/track/6ysaQMOAn1JNU0ab9IPtyP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Funny Valentine | Masterpiece | MISAMO | [WM Japan](.) | 392 | 💚 | [🔗](https://open.spotify.com/track/4xtgQGbQnII1buKgl5fguT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273682903728c049526580f0363" alt="" width="50" /> | Voltage | Voltage | [ITZY](../../artists/itzy/overview.md) | [WM Japan](.) | 493 | 💚 | [🔗](https://open.spotify.com/track/7e65OAe9L0xWPSHDiahjQe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27323a426c84e07e245fd609d84" alt="" width="50" /> | Algorhythm | Algorhythm | [ITZY](../../artists/itzy/overview.md) | [WM Japan](.) | 499 | 💚 | [🔗](https://open.spotify.com/track/47tYRja2sNmaF0tFFY3D2a) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273579e945923463492cb43a5ce" alt="" width="50" /> | Perfect World | Perfect World | [TWICE](../../artists/twice/overview.md) | [WM Japan](.) | 696 | | [🔗](https://open.spotify.com/track/0iuZMy88H6vxDA2oaJNhJg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f091c9841ed6033937fdb7e5" alt="" width="50" /> | Breakthrough | Breakthrough | [TWICE](../../artists/twice/overview.md) | [WM Japan](.) | nan | 💚 | [🔗](https://open.spotify.com/track/5COO2JgOmHIJ2jsXFwflz8) |
 
 

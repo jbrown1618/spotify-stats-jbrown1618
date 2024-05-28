@@ -1,6 +1,6 @@
 # Interscope Records
 
-94 songs
+95 songs
 
 [See Track Features](audio_features.md)
 
@@ -9,7 +9,7 @@
 Appears as:
 - YG Entertainment/Interscope Records (21 tracks)
 - Interscope (16 tracks)
-- Darkroom/Interscope Records (12 tracks)
+- Darkroom/Interscope Records (13 tracks)
 - Interscope Records* (8 tracks)
 - YG Entertainment, distributed through Interscope Records (5 tracks)
 - Moulin Rouge / Interscope (5 tracks)
@@ -34,7 +34,7 @@ Appears as:
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 24 | 18 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da" alt="" width="50" /> | 12 | 10 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da" alt="" width="50" /> | 13 | 11 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | 12 | 7 | [Lady Gaga](../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="" width="50" /> | 8 | 5 | [Maroon 5](../../artists/maroon_5/overview.md) | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8acf72a6c3da24a6483255fa" alt="" width="50" /> | 4 | 3 | JEON SOMI | [🔗](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) |
@@ -110,7 +110,7 @@ Appears as:
 
 
 <details>
-<summary>See all 49 albums</summary>
+<summary>See all 50 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -134,6 +134,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="" width="50" /> | 1 | 1 | LUCID | 2019-11-15 | [🔗](https://open.spotify.com/album/5qQhQ1rmPjqQgv8RmfaQU3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738cd1023ed6ec97598937d55c" alt="" width="50" /> | 1 | 1 | JENNIE Special Single [You & Me] | 2023-10-06 | [🔗](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386498c6e8ee965fa665a9c3d" alt="" width="50" /> | 1 | 1 | Hands All Over (Deluxe) | 2010 | [🔗](https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62" alt="" width="50" /> | 1 | 1 | HIT ME HARD AND SOFT | 2024-05-17 | [🔗](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="" width="50" /> | 1 | 1 | Good Thing (with Kehlani) | 2019-09-27 | [🔗](https://open.spotify.com/album/3wpdeV1FZfiEnelZSfAFp4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="" width="50" /> | 1 | 1 | Evolve | 2017-06-23 | [🔗](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef81d1ff3b4682a4e97f70" alt="" width="50" /> | 1 | 1 | Dreaming Out Loud | 2007-01-01 | [🔗](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) |
@@ -163,9 +164,9 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 62 | 45 | [pop](../../genres/pop/overview.md) |
+| 63 | 46 | [pop](../../genres/pop/overview.md) |
 | 37 | 27 | [k-pop](../../genres/k-pop/overview.md) |
-| 24 | 17 | [art pop](../../genres/art_pop/overview.md) |
+| 25 | 18 | [art pop](../../genres/art_pop/overview.md) |
 | 23 | 17 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 14 | 7 | [dance pop](../../genres/dance_pop/overview.md) |
 | 6 | 4 | [modern rock](../../genres/modern_rock/overview.md) |
@@ -235,8 +236,8 @@ Appears as:
 | | [TEDDY](../../producers/teddy/overview.md) | 20 | Lyricist, Producer, Songwriter, Arranger |
 | | [24](../../producers/24/overview.md) | 17 | Arranger, Producer, Songwriter |
 | | [R.Tee](../../producers/r_tee/overview.md) | 12 | Arranger, Producer, Songwriter |
-| | [FINNEAS](../../producers/finneas/overview.md) | 11 | Lyricist, Producer, Songwriter, Arranger |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 9 | Lyricist, Songwriter, Producer |
+| | [FINNEAS](../../producers/finneas/overview.md) | 12 | Lyricist, Producer, Songwriter, Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da" alt="" width="50" /> | [Billie Eilish](../../artists/billie_eilish/overview.md) | 10 | Lyricist, Songwriter, Producer |
 | | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 8 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf" alt="" width="50" /> | [Lady Gaga](../../artists/lady_gaga/overview.md) | 8 | Songwriter, Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 8 | Lyricist, Songwriter |
@@ -273,14 +274,15 @@ Appears as:
 | | Mickey Madden | 2 | Lyricist, Songwriter |
 | | Ryan Dusick | 2 | Lyricist, Songwriter |
 | | IDO | 2 | Arranger, Songwriter |
-| | Alex da Kid | 2 | Producer, Songwriter |
 | | Josh Mosser | 2 | Producer, Songwriter |
 | | [John Hanes](../../producers/john_hanes/overview.md) | 2 | Producer |
+| | Alex da Kid | 2 | Producer, Songwriter |
 | | OKLAMA | 2 | Producer |
 | | J.LBS | 2 | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcb6017286dd64ca6b77c879f" alt="" width="50" /> | JISOO | 2 | Lyricist |
 | | KUSH | 1 | Arranger, Lyricist, Songwriter |
 | | Doug McKean | 1 | Producer |
+| | Dominsuk | 1 | Arranger, Songwriter |
 | | Paul Foley | 1 | Producer |
 | | YONGJU BANG | 1 | Producer |
 | | Willy Moon | 1 | Lyricist, Songwriter |
@@ -291,14 +293,14 @@ Appears as:
 | | Lazonate Franklin | 1 | Songwriter |
 | | Rami | 1 | Songwriter |
 | | Mattman & Robin | 1 | Producer |
+| | Jose Balaguer | 1 | Producer |
 | | Akon | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 1 | Arranger, Producer |
 | | Horace Ward | 1 | Producer |
 | | [Cirkut](../../producers/cirkut/overview.md) | 1 | Producer, Songwriter |
-| | Dominsuk | 1 | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | Mark Ronson | 1 | Arranger, Producer |
+| | Alex Oriet | 1 | Lyricist, Songwriter |
 | | Jim Adkins | 1 | Songwriter |
-| | Jose Balaguer | 1 | Producer |
-| | YG Family | 1 | Producer |
+| | Zach Lind | 1 | Songwriter |
 | | Sam Farrar | 1 | Lyricist, Songwriter |
 | | Daniel Platzman | 1 | Songwriter |
 | | Olle Romo | 1 | Producer |
@@ -309,22 +311,23 @@ Appears as:
 | | Hans Zimmer | 1 | Arranger |
 | | Ray Charles Brown, Jr | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | [Justin Bieber](../../artists/justin_bieber/overview.md) | 1 | Songwriter |
+| | YG Family | 1 | Producer |
 | | BURNS | 1 | Producer, Songwriter |
-| | Zach Lind | 1 | Songwriter |
 | | Steph Jones | 1 | Lyricist |
 | | BloodPop® (BloodPop) | 1 | Producer, Songwriter |
 | | Beach Noise | 1 | Producer |
 | | Eli Heisler | 1 | Producer |
 | | Madison Love | 1 | Songwriter |
 | | Matt Dunkley | 1 | Arranger |
+| | Aron Forbes | 1 | Producer |
+| | Brad Lauchert | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="" width="50" /> | [Maroon 5](../../artists/maroon_5/overview.md) | 1 | Producer |
 | | Jacob Kasher | 1 | Songwriter |
 | | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 1 | Producer |
-| | Alex Oriet | 1 | Lyricist, Songwriter |
 | | Noah Passovoy | 1 | Producer |
 | | Max Wolfgang | 1 | Lyricist, Songwriter |
 | | David Phelan | 1 | Lyricist, Songwriter |
-| | Johnny Kosich | 1 | Producer, Songwriter |
+| | Jonathan Sher | 1 | Producer |
 | | Sam Dew | 1 | Songwriter |
 | | Robert John "Mutt" Lange | 1 | Producer |
 | | Soraya LaPread | 1 | Lyricist, Songwriter |
@@ -335,10 +338,8 @@ Appears as:
 | | Robin Fredriksson | 1 | Songwriter |
 | | Leah Haywood | 1 | Songwriter |
 | | DJ Dahi | 1 | Producer |
+| | Johnny Kosich | 1 | Producer, Songwriter |
 | | Amy Allen | 1 | Songwriter |
-| | Jonathan Sher | 1 | Producer |
-| | Raul Cubina | 1 | Songwriter |
-| | Matt Schaeffer | 1 | Producer, Songwriter |
 
 </details>
 
@@ -351,13 +352,13 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Pretty Savage | THE ALBUM | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 4 | 💚 | [🔗](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="" width="50" /> | Kill This Love | KILL THIS LOVE | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 6 | 💚 | [🔗](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Crazy Over You | THE ALBUM | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 8 | 💚 | [🔗](https://open.spotify.com/track/7qq0EOPW4RRlqdvMBmdd73) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | How You Like That | THE ALBUM | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 9 | 💚 | [🔗](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | How You Like That | THE ALBUM | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 10 | 💚 | [🔗](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Pink Venom | BORN PINK | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 41 | 💚 | [🔗](https://open.spotify.com/track/6stcJnJHPO8RrYx5LLz5OP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | DDU-DU DDU-DU | SQUARE UP | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 79 | 💚 | [🔗](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fddc804f96cdd6a7de9bcc09" alt="" width="50" /> | DUMB DUMB | DUMB DUMB | JEON SOMI | [THE BLACK LABEL/Interscope Records](.) | 93 | 💚 | [🔗](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | DDU-DU DDU-DU | SQUARE UP | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 78 | 💚 | [🔗](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fddc804f96cdd6a7de9bcc09" alt="" width="50" /> | DUMB DUMB | DUMB DUMB | JEON SOMI | [THE BLACK LABEL/Interscope Records](.) | 90 | 💚 | [🔗](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Shut Down | BORN PINK | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 124 | 💚 | [🔗](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362e6288a5887b95176cca29e" alt="" width="50" /> | SOLO | SOLO | JENNIE | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 178 | 💚 | [🔗](https://open.spotify.com/track/2wVDWtLKXunswWecARNILj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Hard to Love | BORN PINK | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 201 | 💚 | [🔗](https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Hard to Love | BORN PINK | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 202 | 💚 | [🔗](https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q) |
 
 
 <details>
@@ -365,20 +366,20 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | Gone | R | ROSÉ | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 228 | 💚 | [🔗](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="" width="50" /> | The Middle | Bleed American | Jimmy Eat World | [Interscope](.) | 254 | 💚 | [🔗](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | you should see me in a crown | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](../../artists/billie_eilish/overview.md) | [Darkroom](../darkroom), [Interscope Records](.) | 269 | 💚 | [🔗](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | No Time To Die | No Time To Die | [Billie Eilish](../../artists/billie_eilish/overview.md) | [Darkroom](../darkroom), [Interscope Records](.) | 292 | 💚 | [🔗](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="" width="50" /> | Shoong! (feat. LISA of BLACKPINK) | Down to Earth | TAEYANG, LISA | [THEBLACKLABEL/Interscope Records](.) | 426 | | [🔗](https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | bury a friend | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](../../artists/billie_eilish/overview.md) | [Darkroom](../darkroom), [Interscope Records](.) | 435 | 💚 | [🔗](https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="" width="50" /> | FLOWER | ME | JISOO | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 463 | 💚 | [🔗](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="" width="50" /> | Seed | Down to Earth | TAEYANG | [THEBLACKLABEL/Interscope Records](.) | 464 | | [🔗](https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738cd1023ed6ec97598937d55c" alt="" width="50" /> | You & Me | JENNIE Special Single [You & Me] | JENNIE | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 511 | 💚 | [🔗](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Typa Girl | BORN PINK | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 615 | 💚 | [🔗](https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Sour Candy (with BLACKPINK) | Chromatica | [Lady Gaga](../../artists/lady_gaga/overview.md), [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope](.) | 620 | 💚 | [🔗](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | Gone | R | ROSÉ | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 229 | 💚 | [🔗](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="" width="50" /> | The Middle | Bleed American | Jimmy Eat World | [Interscope](.) | 256 | 💚 | [🔗](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | you should see me in a crown | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](../../artists/billie_eilish/overview.md) | [Darkroom](../darkroom), [Interscope Records](.) | 272 | 💚 | [🔗](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | No Time To Die | No Time To Die | [Billie Eilish](../../artists/billie_eilish/overview.md) | [Darkroom](../darkroom), [Interscope Records](.) | 295 | 💚 | [🔗](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="" width="50" /> | Shoong! (feat. LISA of BLACKPINK) | Down to Earth | TAEYANG, LISA | [THEBLACKLABEL/Interscope Records](.) | 429 | | [🔗](https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | bury a friend | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](../../artists/billie_eilish/overview.md) | [Darkroom](../darkroom), [Interscope Records](.) | 439 | 💚 | [🔗](https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="" width="50" /> | FLOWER | ME | JISOO | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 469 | 💚 | [🔗](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="" width="50" /> | Seed | Down to Earth | TAEYANG | [THEBLACKLABEL/Interscope Records](.) | 470 | | [🔗](https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738cd1023ed6ec97598937d55c" alt="" width="50" /> | You & Me | JENNIE Special Single [You & Me] | JENNIE | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 516 | 💚 | [🔗](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Typa Girl | BORN PINK | [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope Records](.), [YG Entertainment](../yg_entertainment) | 614 | 💚 | [🔗](https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Sour Candy (with BLACKPINK) | Chromatica | [Lady Gaga](../../artists/lady_gaga/overview.md), [BLACKPINK](../../artists/blackpink/overview.md) | [Interscope](.) | 621 | 💚 | [🔗](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="" width="50" /> | GOLDWING | Happier Than Ever | [Billie Eilish](../../artists/billie_eilish/overview.md) | [Darkroom](../darkroom), [Interscope Records](.) | 656 | 💚 | [🔗](https://open.spotify.com/track/0FfqyjhB6Kspvit1oOo7ax) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" alt="" width="50" /> | Radioactive | Night Visions | Imagine Dragons | [Kid Ina Korner / Interscope](.) | 708 | 💚 | [🔗](https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | xanny | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](../../artists/billie_eilish/overview.md) | [Darkroom](../darkroom), [Interscope Records](.) | 799 | 💚 | [🔗](https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" alt="" width="50" /> | Radioactive | Night Visions | Imagine Dragons | [Kid Ina Korner / Interscope](.) | 710 | 💚 | [🔗](https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | xanny | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](../../artists/billie_eilish/overview.md) | [Darkroom](../darkroom), [Interscope Records](.) | 816 | 💚 | [🔗](https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734f3bbf9631faeb8de9912a23" alt="" width="50" /> | All Star | Astro Lounge | Smash Mouth | [Interscope](.) | nan | | [🔗](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273687e8a165b272440a68a480f" alt="" width="50" /> | Come What May - From "Moulin Rouge" Soundtrack | Moulin Rouge | Nicole Kidman, Ewan McGregor | [Moulin Rouge / Interscope](.) | nan | | [🔗](https://open.spotify.com/track/5cCAnk1sHJDdqqNIScOkZU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273687e8a165b272440a68a480f" alt="" width="50" /> | Elephant Love Medley - From "Moulin Rouge" Soundtrack | Moulin Rouge | Nicole Kidman, Ewan McGregor, Jamie Allen | [Moulin Rouge / Interscope](.) | nan | | [🔗](https://open.spotify.com/track/1M5iGApccrA2uBzQMELW9w) |
@@ -449,6 +450,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e" alt="" width="50" /> | What Was I Made For? [From The Motion Picture "Barbie"] | What Was I Made For? [From The Motion Picture "Barbie"] | [Billie Eilish](../../artists/billie_eilish/overview.md) | [Darkroom](../darkroom), [Interscope Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737da22ba88dfc26a18122ee2d" alt="" width="50" /> | Fast Forward | GAME PLAN | JEON SOMI | [THEBLACKLABEL/Interscope Records](.) | nan | | [🔗](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03" alt="" width="50" /> | QLONA | MAÑANA SERÁ BONITO (BICHOTA SEASON) | KAROL G, Peso Pluma | [Bichota/Interscope Records](.) | nan | | [🔗](https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62" alt="" width="50" /> | LUNCH | HIT ME HARD AND SOFT | [Billie Eilish](../../artists/billie_eilish/overview.md) | [Darkroom](../darkroom), [Interscope Records](.) | nan | 💚 | [🔗](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) |
 
 </details>
 

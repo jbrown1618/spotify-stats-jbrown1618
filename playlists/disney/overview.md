@@ -67,7 +67,7 @@
 | <img src="https://i.scdn.co/image/ab6772690000c46c4165ef3e7669f249706b8999" alt="" width="50" /> | 1 | 0 | Sally Dworsky | [🔗](https://open.spotify.com/artist/7vK6xoR5zT4DypEu0blUku) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732fa17f03805db6002c7715b3" alt="" width="50" /> | 1 | 0 | Verna Felton | [🔗](https://open.spotify.com/artist/7aU90hxXexP47nEeMee6xM) |
 | | 1 | 0 | Billy Bletcher | [🔗](https://open.spotify.com/artist/7MCVs8C2nykvXVyTyrUoVd) |
-| | 1 | 0 | Harvey Fierstein | [🔗](https://open.spotify.com/artist/7G6zawIBBtDX1WvuT97Ei9) |
+| <img src="https://i.scdn.co/image/ab6742d3000053b74c8f506beaaca8e2a4c8f255" alt="" width="50" /> | 1 | 0 | Harvey Fierstein | [🔗](https://open.spotify.com/artist/7G6zawIBBtDX1WvuT97Ei9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a2beebe9dc1435cf5118f0b" alt="" width="50" /> | 1 | 0 | Vaneese Thomas | [🔗](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3ef779aa0d271adb2b6a3ded" alt="" width="50" /> | 1 | 0 | Childish Gambino | [🔗](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371ae0c6c06eee99c706924f1" alt="" width="50" /> | 1 | 0 | Laura Williams | [🔗](https://open.spotify.com/artist/6wIj7GdxBjFtw6ySpzazwo) |
