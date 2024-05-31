@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e0245680a4a57c97894490a01c1ab67616d00001e0289992f4d7d4ab94937bf9e23ab67616d00001e02e13de7b8662b085b0885ffefab67616d00001e02ff5429125128b43572dbdccd" alt="R&amp;B" width="100" />
 
-[114 tracks (85 liked) 🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb)
+[115 tracks (86 liked) 🔗](https://open.spotify.com/playlist/1RsGeysyOdV3wZHqlto0Gb)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 77 artists</summary>
+<summary>See all 79 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -69,6 +69,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eba22623b5c4d912075ba59116" alt="" width="50" /> | 1 | 1 | Puri | [🔗](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4669166b571594eade778990" alt="" width="50" /> | 1 | 1 | Miguel | [🔗](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a5cfe2597665a3d160e805e" alt="" width="50" /> | 1 | 1 | Justin Timberlake | [🔗](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf801e3d9ecb568a1c3c62393" alt="" width="50" /> | 1 | 1 | Zedd | [🔗](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7f3c0dffb5229c8734ff60b2" alt="" width="50" /> | 1 | 1 | Big Boi | [🔗](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcfea67f653456e047b455686" alt="" width="50" /> | 1 | 1 | Moliy | [🔗](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab" alt="" width="50" /> | 1 | 1 | Frank Ocean | [🔗](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) |
@@ -80,6 +81,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf556662d187b9191c421be1c" alt="" width="50" /> | 1 | 1 | 2 Chainz | [🔗](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb058531dfd9746a96ad85265f" alt="" width="50" /> | 1 | 1 | Etta James | [🔗](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7791e2d61372a3c61bfbed85" alt="" width="50" /> | 1 | 1 | Jenevieve | [🔗](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb257217c67faea40445b21169" alt="" width="50" /> | 1 | 1 | Kehlani | [🔗](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb02582bb3fa9d68f44a247f39" alt="" width="50" /> | 1 | 1 | Robin Thicke | [🔗](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebedb1ff4a690386ca7bee7007" alt="" width="50" /> | 1 | 1 | Jacob Banks | [🔗](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) |
 | <img src="https://i.scdn.co/image/adcc1cb654e89f2e404688ae0d1bbc942ce02e5d" alt="" width="50" /> | 2 | 0 | Ludacris | [🔗](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) |
@@ -115,16 +117,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="SOS" width="50" /> | Kill Bill | 276 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | [Leave The Door Open](../../artists/bruno_mars/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738136c2c2762cba40cb51f9aa" alt="The Evolution" width="50" /> | Get Up (feat. Chamillionaire) | 297 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="Loud" width="50" /> | [S&M](../../artists/rihanna/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | [What Now](../../artists/rihanna/overview.md) | 300 | <img src="https://i.scdn.co/image/ab67616d0000b273e859698c8fe21d42a13ec252" alt="SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)" width="50" /> | SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d03c8d74d7f963dee63ef893" alt="JAGUAR II" width="50" /> | Smoke (feat. Lucky Daye) | 312 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="Good Girl Gone Bad: Reloaded" width="50" /> | [Don't Stop The Music](../../artists/rihanna/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="ELVIS (Original Motion Picture Soundtrack)" width="50" /> | [Vegas](../../artists/doja_cat/overview.md) | 413 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="Doo-Wops &amp; Hooligans" width="50" /> | [The Other Side (feat. CeeLo Green and B.o.B)](../../artists/bruno_mars/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="Yoga" width="50" /> | [Yoga](../../artists/janelle_monáe/overview.md) | 508 | <img src="https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c" alt="All I Want Is You" width="50" /> | Sure Thing | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="After Hours" width="50" /> | Blinding Lights | 580 | <img src="https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17" alt="Red Moon In Venus" width="50" /> | Moonlight | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="Metropolis: The Chase Suite (Special Edition)" width="50" /> | [Sincerely, Jane](../../artists/janelle_monáe/overview.md) | 589 | <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="24K Magic" width="50" /> | [That's What I Like](../../artists/bruno_mars/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="Unorthodox Jukebox" width="50" /> | [When I Was Your Man](../../artists/bruno_mars/overview.md) | 620 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="Talk That Talk" width="50" /> | [We Found Love](../../artists/rihanna/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | [Stay](../../artists/rihanna/overview.md) | 701 | <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="Dangerously In Love" width="50" /> | [Naughty Girl](../../artists/beyoncé/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738136c2c2762cba40cb51f9aa" alt="The Evolution" width="50" /> | Get Up (feat. Chamillionaire) | 515 | <img src="https://i.scdn.co/image/ab67616d0000b27307a560f0504f9de0af5e0a33" alt="Baby Powder" width="50" /> | Baby Powder | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="Unorthodox Jukebox" width="50" /> | [When I Was Your Man](../../artists/bruno_mars/overview.md) | 545 | <img src="https://i.scdn.co/image/ab67616d0000b273f4c4ee507c2558262869f415" alt="Cassie (U.S. Version)" width="50" /> | Me & U | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | [What Now](../../artists/rihanna/overview.md) | 546 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="I Don&#x27;t Mind (feat. Juicy J)" width="50" /> | I Don't Mind (feat. Juicy J) | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="Yoga" width="50" /> | [Yoga](../../artists/janelle_monáe/overview.md) | 575 | <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The &#x27;70s, &#x27;80s, &#x27;90s" width="50" /> | Papa Was A Rollin' Stone - Single Version | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b72cb7bed93d6e2fdf42cffe" alt="Metropolis: The Chase Suite (Special Edition)" width="50" /> | [Sincerely, Jane](../../artists/janelle_monáe/overview.md) | 584 | <img src="https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5" alt="channel ORANGE" width="50" /> | Thinkin Bout You | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="ELVIS (Original Motion Picture Soundtrack)" width="50" /> | [Vegas](../../artists/doja_cat/overview.md) | 592 | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | My Girl | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="Unapologetic (Deluxe)" width="50" /> | [Stay](../../artists/rihanna/overview.md) | 618 | <img src="https://i.scdn.co/image/ab67616d0000b273d70bbffa859a9f9ca6f10496" alt="Evolver" width="50" /> | Green Light (feat. André 3000) | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="Everything Is 4" width="50" /> | [Get Ugly](../../artists/jason_derulo/overview.md) | 648 | <img src="https://i.scdn.co/image/ab67616d0000b273f8e77075414234fd77fce32b" alt="Malibu" width="50" /> | Silicon Valley | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="After Hours" width="50" /> | Blinding Lights | 669 | <img src="https://i.scdn.co/image/ab67616d0000b273a075160177aa7b7508c4fc9e" alt="The Foundations" width="50" /> | Build Me Up Buttercup | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d03c8d74d7f963dee63ef893" alt="JAGUAR II" width="50" /> | Smoke (feat. Lucky Daye) | 695 | <img src="https://i.scdn.co/image/ab67616d0000b273987a1825341694ec9bc62457" alt="In My Own Words" width="50" /> | So Sick | 2599 |
 
 </details>
 
@@ -145,7 +147,7 @@
 
 
 <details>
-<summary>See all 84 albums</summary>
+<summary>See all 85 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -186,6 +188,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d03c8d74d7f963dee63ef893" alt="" width="50" /> | 1 | 1 | JAGUAR II | 2023-08-25 | [🔗](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | 1 | 1 | I Don't Mind (feat. Juicy J) | 2014-11-21 | [🔗](https://open.spotify.com/album/5BAqg5IJQ7XFKfdoCiOlJw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af06f5c40adb2bc287c46cc2" alt="" width="50" /> | 1 | 1 | How Can I | 2019-06-23 | [🔗](https://open.spotify.com/album/3qEib9B2LiOpc81jRYC4Fi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c824820b3a74839b91b4036a" alt="" width="50" /> | 1 | 1 | Good Thing (with Kehlani) | 2019-09-27 | [🔗](https://open.spotify.com/album/3wpdeV1FZfiEnelZSfAFp4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037" alt="" width="50" /> | 1 | 1 | Freudian | 2017-08-25 | [🔗](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="" width="50" /> | 1 | 1 | Finesse (Remix) [feat. Cardi B] | 2017-12-20 | [🔗](https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737fbdcafad432ea5d248788bf" alt="" width="50" /> | 1 | 1 | Fantasy Ride | 2009-05-05 | [🔗](https://open.spotify.com/album/5bIi3gz4jULkZV38aTwLPn) |
@@ -256,6 +259,7 @@
 | 5 | 3 | Music World Music |
 | 5 | 3 | LaFace Records |
 | 2 | 2 | Top Dawg Entertainment |
+| 2 | 2 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 2 | 2 | [Geffen](../../labels/geffen/overview.md) |
 | 2 | 2 | G.O.O.D. Music |
 | 2 | 2 | FAX Records |
@@ -277,7 +281,6 @@
 | 1 | 1 | Kemosabe Records |
 | 1 | 1 | JOYFACE Records |
 | 1 | 1 | J Records |
-| 1 | 1 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 1 | 1 | IDJ |
 | 1 | 1 | House of Iona |
 | 1 | 1 | H 3 F |
@@ -305,7 +308,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 67 | 49 | [pop](../../genres/pop/overview.md) |
+| 68 | 50 | [pop](../../genres/pop/overview.md) |
 | 42 | 29 | [r&b](../../genres/r_b/overview.md) |
 | 35 | 24 | [dance pop](../../genres/dance_pop/overview.md) |
 | 27 | 19 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
@@ -318,7 +321,7 @@
 
 
 <details>
-<summary>See all 54 genres</summary>
+<summary>See all 58 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -345,14 +348,18 @@
 | 1 | 1 | soul blues |
 | 1 | 1 | [soft rock](../../genres/soft_rock/overview.md) |
 | 1 | 1 | quiet storm |
+| 1 | 1 | pop dance |
 | 1 | 1 | minnesota hip hop |
 | 1 | 1 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 1 | 1 | jazz blues |
 | 1 | 1 | indie r&b |
 | 1 | 1 | ghanaian pop |
 | 1 | 1 | ghanaian alternative |
+| 1 | 1 | german techno |
 | 1 | 1 | funk |
+| 1 | 1 | edm |
 | 1 | 1 | disco |
+| 1 | 1 | complextro |
 | 1 | 1 | colombian pop |
 | 1 | 1 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 1 | 1 | british soul |

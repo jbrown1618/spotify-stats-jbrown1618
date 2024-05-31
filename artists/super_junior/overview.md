@@ -22,6 +22,7 @@ SUPER JUNIOR:
 - has member YESUNG
 
 ## Artist Rank
+- The #78 artist overall
 
 ![Rank of SUPER JUNIOR over time](../../images/artists/super_junior/rank_time_series.png)
 ## Top Tracks
@@ -31,13 +32,23 @@ SUPER JUNIOR:
 
 ![Track score ranking over time](../../images/artists/super_junior/track_rank_time_series_score.png)
 
-### Top tracks of all time over time
+
+<details>
+<summary>Top tracks of all time over time</summary>
 
 ![Line chart of top tracks of all time over time](../../images/artists/super_junior/track_rank_time_series_long_term.png)
 
-### Top tracks of the last 6 months over time
+</details>
+
+
+
+<details>
+<summary>Top tracks of the last 6 months over time</summary>
 
 ![Line chart of top tracks of the last 6 months over time](../../images/artists/super_junior/track_rank_time_series_medium_term.png)
+
+</details>
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -75,10 +86,10 @@ SUPER JUNIOR:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273078e3c2e57ae77c82ab4b46c" alt="" width="50" /> | Devil | DEVIL - SUPER JUNIOR SPECIAL ALBUM | [SUPER JUNIOR](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 187 | 💚 | [🔗](https://open.spotify.com/track/3IQ9FJ2cMVQtger5ZhgCaj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dbb82cf845a6d574224a0d33" alt="" width="50" /> | Mamacita (아야야) | MAMACITA - The 7th Album | [SUPER JUNIOR](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 547 | 💚 | [🔗](https://open.spotify.com/track/23z7nLq4CD83EyzeeIokkt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb6e8a26c2c4d9a23f888a94" alt="" width="50" /> | 쏘리 쏘리 Sorry, Sorry | 쏘리 쏘리 Sorry, Sorry - The 3rd Album | [SUPER JUNIOR](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/5w18nowVMRZrC5Na9Vxoth) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273daf7982ccaad9ca5e1603792" alt="" width="50" /> | Mr. Simple | Mr. Simple - The 5th Album | [SUPER JUNIOR](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/6QTBYKLlV2PQniwAWrBV2z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a0cdc709f34348b6d88635d" alt="" width="50" /> | Black Suit | PLAY - The 8th Album | [SUPER JUNIOR](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/0cCm1PbOd6nqAPDdA3PRfs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27364a3178b264477550c4bcdb6" alt="" width="50" /> | Lo Siento | REPLAY - The 8th Repackage Album | [SUPER JUNIOR](overview.md), Leslie Grace, Play-N-Skillz | [SM Entertainment](../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/2VVqxQhALecXvaArlZSVXr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396678b0a030238837547c6ff" alt="" width="50" /> | House Party | The Renaissance - The 10th Album | [SUPER JUNIOR](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | | [🔗](https://open.spotify.com/track/0awQIOFGtg18LCJ0WhFf8s) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273078e3c2e57ae77c82ab4b46c" alt="" width="50" /> | Devil | DEVIL - SUPER JUNIOR SPECIAL ALBUM | [SUPER JUNIOR](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 461 | 💚 | [🔗](https://open.spotify.com/track/3IQ9FJ2cMVQtger5ZhgCaj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dbb82cf845a6d574224a0d33" alt="" width="50" /> | Mamacita (아야야) | MAMACITA - The 7th Album | [SUPER JUNIOR](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 530 | 💚 | [🔗](https://open.spotify.com/track/23z7nLq4CD83EyzeeIokkt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396678b0a030238837547c6ff" alt="" width="50" /> | House Party | The Renaissance - The 10th Album | [SUPER JUNIOR](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 951 | | [🔗](https://open.spotify.com/track/0awQIOFGtg18LCJ0WhFf8s) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a0cdc709f34348b6d88635d" alt="" width="50" /> | Black Suit | PLAY - The 8th Album | [SUPER JUNIOR](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 961 | 💚 | [🔗](https://open.spotify.com/track/0cCm1PbOd6nqAPDdA3PRfs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27364a3178b264477550c4bcdb6" alt="" width="50" /> | Lo Siento | REPLAY - The 8th Repackage Album | [SUPER JUNIOR](overview.md), Leslie Grace, Play-N-Skillz | [SM Entertainment](../../labels/sm_entertainment) | 1385 | 💚 | [🔗](https://open.spotify.com/track/2VVqxQhALecXvaArlZSVXr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb6e8a26c2c4d9a23f888a94" alt="" width="50" /> | 쏘리 쏘리 Sorry, Sorry | 쏘리 쏘리 Sorry, Sorry - The 3rd Album | [SUPER JUNIOR](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 2158 | 💚 | [🔗](https://open.spotify.com/track/5w18nowVMRZrC5Na9Vxoth) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273daf7982ccaad9ca5e1603792" alt="" width="50" /> | Mr. Simple | Mr. Simple - The 5th Album | [SUPER JUNIOR](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 2276 | 💚 | [🔗](https://open.spotify.com/track/6QTBYKLlV2PQniwAWrBV2z) |

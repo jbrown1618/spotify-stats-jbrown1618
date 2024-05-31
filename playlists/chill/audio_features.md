@@ -58,7 +58,7 @@
 | ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | when the party's over (0.978) | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="After Hours" width="50" /> | Blinding Lights (0.00143) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d" alt="Music Of The Spheres" width="50" /> | ❤️ (0.97) | <img src="https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0" alt="Parachutes" width="50" /> | Yellow (0.00239) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d" alt="Music Of The Spheres" width="50" /> | ❤️ (0.97) | <img src="https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a" alt="Parachutes" width="50" /> | Yellow (0.00239) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81" alt="Strange Trails" width="50" /> | The Night We Met (0.969) | <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" alt="You Never Walk Alone" width="50" /> | Spring Day (0.00631) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733661c01b54e181d01bd439a1" alt="Birdy" width="50" /> | Skinny Love (0.952) | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="BE" width="50" /> | Life Goes On (0.00691) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c" alt="lovely (with Khalid)" width="50" /> | lovely (with Khalid) (0.934) | <img src="https://i.scdn.co/image/ab67616d0000b27362fad74218294c98e510c1c8" alt="MOVE - The 2nd Album" width="50" /> | MOVE (0.0153) |

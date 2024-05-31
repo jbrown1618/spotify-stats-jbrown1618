@@ -17,8 +17,15 @@ Maroon 5:
 - has member James Valentine
 
 ## Artist Rank
+- The #102 artist overall
 
 ![Rank of Maroon 5 over time](../../images/artists/maroon_5/rank_time_series.png)
+## Top Tracks
+
+
+### Top tracks, aggregated
+
+![Track score ranking over time](../../images/artists/maroon_5/track_rank_time_series_score.png)
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -114,11 +121,11 @@ Maroon 5:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="" width="50" /> | She Will Be Loved | Songs About Jane | [Maroon 5](overview.md) | [Interscope Records*](../../labels/interscope_records) | nan | 💚 | [🔗](https://open.spotify.com/track/7sapKrjDij2fpDVj0GxP66) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="" width="50" /> | Sunday Morning | Songs About Jane | [Maroon 5](overview.md) | [Interscope Records*](../../labels/interscope_records) | nan | 💚 | [🔗](https://open.spotify.com/track/1YI0uK36eupTmw9F8kHysr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="" width="50" /> | This Love | Songs About Jane | [Maroon 5](overview.md) | [Interscope Records*](../../labels/interscope_records) | nan | 💚 | [🔗](https://open.spotify.com/track/6YgV0EF8xJMZz0Zm6BTaT4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce70cb2d7063cf869f9f1239" alt="" width="50" /> | Moves Like Jagger - Studio Recording From "The Voice" Performance | Hands All Over | [Maroon 5](overview.md), Christina Aguilera | [Interscope Records*](../../labels/interscope_records) | nan | | [🔗](https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386498c6e8ee965fa665a9c3d" alt="" width="50" /> | Misery | Hands All Over (Deluxe) | [Maroon 5](overview.md) | [Interscope Records*](../../labels/interscope_records) | nan | 💚 | [🔗](https://open.spotify.com/track/6KBYk8OFtod7brGuZ3Y67q) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce7d499847da02a9cbd1c084" alt="" width="50" /> | Payphone | Overexposed (Deluxe) | [Maroon 5](overview.md), Wiz Khalifa | [Interscope Records*](../../labels/interscope_records) | nan | | [🔗](https://open.spotify.com/track/4P0osvTXoSYZZC2n8IFH3c) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c" alt="" width="50" /> | Maps | V | [Maroon 5](overview.md) | [Interscope Records*](../../labels/interscope_records) | nan | | [🔗](https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c" alt="" width="50" /> | Sugar | V | [Maroon 5](overview.md) | [Interscope Records*](../../labels/interscope_records) | nan | 💚 | [🔗](https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="" width="50" /> | Sunday Morning | Songs About Jane | [Maroon 5](overview.md) | [Interscope Records*](../../labels/interscope_records) | 1143 | 💚 | [🔗](https://open.spotify.com/track/1YI0uK36eupTmw9F8kHysr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c" alt="" width="50" /> | Sugar | V | [Maroon 5](overview.md) | [Interscope Records*](../../labels/interscope_records) | 1429 | 💚 | [🔗](https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce7d499847da02a9cbd1c084" alt="" width="50" /> | Payphone | Overexposed (Deluxe) | [Maroon 5](overview.md), Wiz Khalifa | [Interscope Records*](../../labels/interscope_records) | 1808 | | [🔗](https://open.spotify.com/track/4P0osvTXoSYZZC2n8IFH3c) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c" alt="" width="50" /> | Maps | V | [Maroon 5](overview.md) | [Interscope Records*](../../labels/interscope_records) | 1874 | | [🔗](https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386498c6e8ee965fa665a9c3d" alt="" width="50" /> | Misery | Hands All Over (Deluxe) | [Maroon 5](overview.md) | [Interscope Records*](../../labels/interscope_records) | 2259 | 💚 | [🔗](https://open.spotify.com/track/6KBYk8OFtod7brGuZ3Y67q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="" width="50" /> | This Love | Songs About Jane | [Maroon 5](overview.md) | [Interscope Records*](../../labels/interscope_records) | 2319 | 💚 | [🔗](https://open.spotify.com/track/6YgV0EF8xJMZz0Zm6BTaT4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce70cb2d7063cf869f9f1239" alt="" width="50" /> | Moves Like Jagger - Studio Recording From "The Voice" Performance | Hands All Over | [Maroon 5](overview.md), Christina Aguilera | [Interscope Records*](../../labels/interscope_records) | 2506 | | [🔗](https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="" width="50" /> | She Will Be Loved | Songs About Jane | [Maroon 5](overview.md) | [Interscope Records*](../../labels/interscope_records) | 2583 | 💚 | [🔗](https://open.spotify.com/track/7sapKrjDij2fpDVj0GxP66) |

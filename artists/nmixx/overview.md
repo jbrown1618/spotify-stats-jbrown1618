@@ -21,28 +21,36 @@ NMIXX:
 
 ## Artist Rank
 NMIXX is currently:
-- The #6 artist of the last month
+- The #5 artist of the last month
 - The #14 artist of the last 6 months
 - The #13 artist of all time
+- The #28 artist overall
 
 ![Rank of NMIXX over time](../../images/artists/nmixx/rank_time_series.png)
 ## Top Tracks
 
-- Love Me Like This is the #49 track of all time
-- Soñar (Breaker) is:
-    - the #9 track of the last month
-    - the #16 track of the last 6 months
-- DASH is:
-    - the #9 track of the On Repeat playlist
-    - the #18 track of the last 6 months
 
 ### Top tracks, aggregated
 
 ![Track score ranking over time](../../images/artists/nmixx/track_rank_time_series_score.png)
 
-### Top tracks of the last 6 months over time
+
+<details>
+<summary>Top tracks of all time over time</summary>
+
+![Line chart of top tracks of all time over time](../../images/artists/nmixx/track_rank_time_series_long_term.png)
+
+</details>
+
+
+
+<details>
+<summary>Top tracks of the last 6 months over time</summary>
 
 ![Line chart of top tracks of the last 6 months over time](../../images/artists/nmixx/track_rank_time_series_medium_term.png)
+
+</details>
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -194,16 +202,16 @@ NMIXX is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Love Me Like This | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 120 | 💚 | [🔗](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | DASH | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 133 | 💚 | [🔗](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Soñar (Breaker) | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 160 | 💚 | [🔗](https://open.spotify.com/track/6UwrPxRaR5HPNLDDl7RcT9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | TANK | AD MARE | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 261 | 💚 | [🔗](https://open.spotify.com/track/4ZbXs9DzvdWlsQfA9ZUkCV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Run For Roses | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 275 | 💚 | [🔗](https://open.spotify.com/track/4byr9TsXs4qtm8rG2FfwRW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | HOME | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 313 | 💚 | [🔗](https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | O.O | AD MARE | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | COOL (Your rainbow) | ENTWURF | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/3D5t7S7W8BABJvA1SAIAHb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | DICE | ENTWURF | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="" width="50" /> | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | [NMIXX](overview.md) | [JYP Entertainment](../../labels/jyp_entertainment) | nan | | [🔗](https://open.spotify.com/track/7ra9FZOGKDhiodoH5fuYsy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Love Me Like This | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 236 | 💚 | [🔗](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | DASH | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 265 | 💚 | [🔗](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Soñar (Breaker) | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 298 | 💚 | [🔗](https://open.spotify.com/track/6UwrPxRaR5HPNLDDl7RcT9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | TANK | AD MARE | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 389 | 💚 | [🔗](https://open.spotify.com/track/4ZbXs9DzvdWlsQfA9ZUkCV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Run For Roses | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 390 | 💚 | [🔗](https://open.spotify.com/track/4byr9TsXs4qtm8rG2FfwRW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | HOME | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 393 | 💚 | [🔗](https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | COOL (Your rainbow) | ENTWURF | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 1537 | 💚 | [🔗](https://open.spotify.com/track/3D5t7S7W8BABJvA1SAIAHb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | O.O | AD MARE | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 1731 | 💚 | [🔗](https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | PAXXWORD | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 1969 | | [🔗](https://open.spotify.com/track/57IfwDNINXVRAWbmmaBcP9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Just Did It | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 1983 | 💚 | [🔗](https://open.spotify.com/track/5AgwBbICmOVLhl95tBiOg0) |
 
 
 <details>
@@ -211,9 +219,9 @@ NMIXX is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Just Did It | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | nan | 💚 | [🔗](https://open.spotify.com/track/5AgwBbICmOVLhl95tBiOg0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | PAXXWORD | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | nan | | [🔗](https://open.spotify.com/track/57IfwDNINXVRAWbmmaBcP9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Young, Dumb, Stupid | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | nan | | [🔗](https://open.spotify.com/track/5eD83TX5ERuyJ7chfed3MQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | DICE | ENTWURF | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 2083 | 💚 | [🔗](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Young, Dumb, Stupid | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 2098 | | [🔗](https://open.spotify.com/track/5eD83TX5ERuyJ7chfed3MQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="" width="50" /> | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | [NMIXX](overview.md) | [JYP Entertainment](../../labels/jyp_entertainment) | 2577 | | [🔗](https://open.spotify.com/track/7ra9FZOGKDhiodoH5fuYsy) |
 
 </details>
 

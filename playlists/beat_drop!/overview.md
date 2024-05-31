@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e0286ca91e718866f411c01db5eab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02ce4f1737bc8a646c8c4bd25a" alt="Beat Drop!" width="100" />
 
-[17 tracks (14 liked) 🔗](https://open.spotify.com/playlist/2CV3LAEvICWmWq3SEJw1my)
+[18 tracks (15 liked) 🔗](https://open.spotify.com/playlist/2CV3LAEvICWmWq3SEJw1my)
 
 [See Track Features](audio_features.md)
 
@@ -17,26 +17,27 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb573935eb61a1897aeb43c531" alt="" width="50" /> | 2 | 2 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 2 | 2 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc1e2ce68a6bdcc8e03e882e7" alt="" width="50" /> | 1 | 1 | [SUNMI](../../artists/sunmi/overview.md) | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | 1 | 1 | [Solar](../../artists/solar/overview.md) | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | 1 | 1 | [Radiohead](../../artists/radiohead/overview.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 1 | 1 | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc112966f2a5abe5641abae6f" alt="" width="50" /> | 1 | 1 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 1 | 1 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11b4e5da5aead482944bdef6" alt="" width="50" /> | 1 | 1 | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da" alt="" width="50" /> | 1 | 0 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 
 
 <details>
-<summary>See all 12 artists</summary>
+<summary>See all 13 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da" alt="" width="50" /> | 1 | 0 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbf52c8bad49f00cee3618346" alt="" width="50" /> | 1 | 0 | Raon | [🔗](https://open.spotify.com/artist/6grPDYoluzn0yi8qloRKst) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" alt="" width="50" /> | 1 | 0 | [The Beatles](../../artists/the_beatles/overview.md) | [🔗](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) |
 
 </details>
 
 
-![Bar chart of top 12 artists](../../images/playlists/beat_drop!/artists.png)
+![Bar chart of top 13 artists](../../images/playlists/beat_drop!/artists.png)
 
 ![Comparison of Artist](../../images/playlists/beat_drop!/artists_comparison.png)
 
@@ -50,16 +51,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | [Savage](../../artists/aespa/overview.md) | 1 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a" alt="Sgt. Pepper&#x27;s Lonely Hearts Club Band (Remastered)" width="50" /> | [A Day In The Life - Remastered 2009](../../artists/the_beatles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="Next Level" width="50" /> | [Next Level](../../artists/aespa/overview.md) | 3 | <img src="https://i.scdn.co/image/ab67616d0000b2736d4752386c432c3acaa46cf7" alt="♡Like Like♡" width="50" /> | ♡Like Like♡ (prod. TAK & Giga) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="Fe3O4: BREAK" width="50" /> | [DASH](../../artists/nmixx/overview.md) | 133 | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="AD MARE" width="50" /> | [O.O](../../artists/nmixx/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="Fe3O4: BREAK" width="50" /> | [Soñar (Breaker)](../../artists/nmixx/overview.md) | 160 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> | [Happier Than Ever](../../artists/billie_eilish/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Paranoid Android](../../artists/radiohead/overview.md) | 244 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="Mr. Morale &amp; The Big Steppers" width="50" /> | [United In Grief](../../artists/kendrick_lamar/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="A Night At The Opera (Deluxe Remastered Version)" width="50" /> | [Bohemian Rhapsody - Remastered 2011](../../artists/queen/overview.md) | 252 | <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="ENTWURF" width="50" /> | [DICE](../../artists/nmixx/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34" alt="Innuendo" width="50" /> | [Innuendo - Remastered 2011](../../artists/queen/overview.md) | 262 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | [Sculpture](../../artists/(g)i-dle/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733de9733addfb0b91b8eb30b0" alt="STRANGER" width="50" /> | [STRANGER](../../artists/sunmi/overview.md) | 396 | <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | KARMA | 533 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | [Lucky Girl](../../artists/red_velvet/overview.md) | 510 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | [Lucky Girl](../../artists/red_velvet/overview.md) | 510 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | KARMA | 533 | <img src="https://i.scdn.co/image/ab67616d0000b2733de9733addfb0b91b8eb30b0" alt="STRANGER" width="50" /> | [STRANGER](../../artists/sunmi/overview.md) | 396 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | [Savage](../../artists/aespa/overview.md) | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2736d4752386c432c3acaa46cf7" alt="♡Like Like♡" width="50" /> | ♡Like Like♡ (prod. TAK & Giga) | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="Next Level" width="50" /> | [Next Level](../../artists/aespa/overview.md) | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | [Sculpture](../../artists/(g)i-dle/overview.md) | 2531 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | [Lucky Girl](../../artists/red_velvet/overview.md) | 154 | <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="ENTWURF" width="50" /> | [DICE](../../artists/nmixx/overview.md) | 2083 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="Fe3O4: BREAK" width="50" /> | [DASH](../../artists/nmixx/overview.md) | 265 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="Mr. Morale &amp; The Big Steppers" width="50" /> | [United In Grief](../../artists/kendrick_lamar/overview.md) | 2011 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="Fe3O4: BREAK" width="50" /> | [Soñar (Breaker)](../../artists/nmixx/overview.md) | 298 | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> | [Happier Than Ever](../../artists/billie_eilish/overview.md) | 1819 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733de9733addfb0b91b8eb30b0" alt="STRANGER" width="50" /> | [STRANGER](../../artists/sunmi/overview.md) | 434 | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="AD MARE" width="50" /> | [O.O](../../artists/nmixx/overview.md) | 1731 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Paranoid Android](../../artists/radiohead/overview.md) | 438 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a" alt="Sgt. Pepper&#x27;s Lonely Hearts Club Band (Remastered)" width="50" /> | [A Day In The Life - Remastered 2009](../../artists/the_beatles/overview.md) | 978 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="A Night At The Opera (Deluxe Remastered Version)" width="50" /> | [Bohemian Rhapsody - Remastered 2011](../../artists/queen/overview.md) | 467 | <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | KARMA | 607 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34" alt="Innuendo" width="50" /> | [Innuendo - Remastered 2011](../../artists/queen/overview.md) | 468 | <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="COLOURS" width="50" /> | [But I](../../artists/solar/overview.md) | 558 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="COLOURS" width="50" /> | [But I](../../artists/solar/overview.md) | 558 | <img src="https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34" alt="Innuendo" width="50" /> | [Innuendo - Remastered 2011](../../artists/queen/overview.md) | 468 |
 
 </details>
 
@@ -80,10 +81,11 @@
 
 
 <details>
-<summary>See all 16 albums</summary>
+<summary>See all 17 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | 1 | 1 | COLOURS | 2024-04-30 | [🔗](https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="" width="50" /> | 1 | 1 | CHOSEN KARMA | 2023-03-10 | [🔗](https://open.spotify.com/album/0S6Yq3EcpbHhj1r0cuYChA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | 1 | 1 | AD MARE | 2022-02-22 | [🔗](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="" width="50" /> | 1 | 1 | A Night At The Opera (Deluxe Remastered Version) | 1975-11-21 | [🔗](https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr) |
@@ -94,7 +96,7 @@
 </details>
 
 
-![Bar chart of top 16 albums](../../images/playlists/beat_drop!/albums.png)
+![Bar chart of top 17 albums](../../images/playlists/beat_drop!/albums.png)
 
 ## Top Record Labels
 
@@ -107,16 +109,17 @@
 | 1 | 1 | pgLang |
 | 1 | 1 | [XL Recordings](../../labels/xl_recordings/overview.md) |
 | 1 | 1 | Top Dawg Entertainment |
+| 1 | 1 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
 | 1 | 1 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 1 | 1 | [Aftermath](../../labels/aftermath/overview.md) |
-| 1 | 1 | Abyss Company |
 
 
 <details>
-<summary>See all 14 labels</summary>
+<summary>See all 15 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 1 | 1 | Abyss Company |
 | 1 | 1 | ALLART ENTERTAINMENT |
 | 1 | 0 | 액셀러즈 |
 | 1 | 0 | [EMI Catalogue](../../labels/emi_catalogue/overview.md) |
@@ -125,14 +128,14 @@
 </details>
 
 
-![Bar chart of top 14 record labels](../../images/playlists/beat_drop!/labels.png)
+![Bar chart of top 15 record labels](../../images/playlists/beat_drop!/labels.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 9 | 9 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
-| 6 | 6 | [k-pop](../../genres/k-pop/overview.md) |
+| 7 | 7 | [k-pop](../../genres/k-pop/overview.md) |
 | 4 | 3 | [rock](../../genres/rock/overview.md) |
 | 3 | 2 | [classic rock](../../genres/classic_rock/overview.md) |
 | 2 | 2 | glam rock |
@@ -289,13 +292,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="Fe3O4: BREAK" width="50" /> | Fe3O4: BREAK (2024-01-15) | <img src="https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a" alt="Sgt. Pepper&#x27;s Lonely Hearts Club Band (Remastered)" width="50" /> | Sgt. Pepper's Lonely Hearts Club Band (Remastered) (1967-06-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733de9733addfb0b91b8eb30b0" alt="STRANGER" width="50" /> | STRANGER (2023-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="A Night At The Opera (Deluxe Remastered Version)" width="50" /> | A Night At The Opera (Deluxe Remastered Version) (1975-11-21) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736d4752386c432c3acaa46cf7" alt="♡Like Like♡" width="50" /> | ♡Like Like♡ (2023-03-15) | <img src="https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34" alt="Innuendo" width="50" /> | Innuendo (1991-02-04) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | CHOSEN KARMA (2023-03-10) | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | OK Computer (1997-05-28) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | I love (2022-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | Russian Roulette - The 3rd Mini Album (2016-09-07) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="ENTWURF" width="50" /> | ENTWURF (2022-09-19) | <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="Next Level" width="50" /> | Next Level (2021-05-17) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="Mr. Morale &amp; The Big Steppers" width="50" /> | Mr. Morale & The Big Steppers (2022-05-13) | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> | Happier Than Ever (2021-07-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="AD MARE" width="50" /> | AD MARE (2022-02-22) | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | Savage - The 1st Mini Album (2021-10-05) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | Savage - The 1st Mini Album (2021-10-05) | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="AD MARE" width="50" /> | AD MARE (2022-02-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> | Happier Than Ever (2021-07-30) | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="Mr. Morale &amp; The Big Steppers" width="50" /> | Mr. Morale & The Big Steppers (2022-05-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="COLOURS" width="50" /> | COLOURS (2024-04-30) | <img src="https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a" alt="Sgt. Pepper&#x27;s Lonely Hearts Club Band (Remastered)" width="50" /> | Sgt. Pepper's Lonely Hearts Club Band (Remastered) (1967-06-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="Fe3O4: BREAK" width="50" /> | Fe3O4: BREAK (2024-01-15) | <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="A Night At The Opera (Deluxe Remastered Version)" width="50" /> | A Night At The Opera (Deluxe Remastered Version) (1975-11-21) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733de9733addfb0b91b8eb30b0" alt="STRANGER" width="50" /> | STRANGER (2023-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34" alt="Innuendo" width="50" /> | Innuendo (1991-02-04) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736d4752386c432c3acaa46cf7" alt="♡Like Like♡" width="50" /> | ♡Like Like♡ (2023-03-15) | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | OK Computer (1997-05-28) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | CHOSEN KARMA (2023-03-10) | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | Russian Roulette - The 3rd Mini Album (2016-09-07) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | I love (2022-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="Next Level" width="50" /> | Next Level (2021-05-17) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="ENTWURF" width="50" /> | ENTWURF (2022-09-19) | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> | Happier Than Ever (2021-07-30) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="Mr. Morale &amp; The Big Steppers" width="50" /> | Mr. Morale & The Big Steppers (2022-05-13) | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | Savage - The 1st Mini Album (2021-10-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="AD MARE" width="50" /> | AD MARE (2022-02-22) | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="AD MARE" width="50" /> | AD MARE (2022-02-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | Savage - The 1st Mini Album (2021-10-05) | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="Mr. Morale &amp; The Big Steppers" width="50" /> | Mr. Morale & The Big Steppers (2022-05-13) |

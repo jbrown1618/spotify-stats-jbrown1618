@@ -94,7 +94,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | 6 | 6 | [Solar](../../artists/solar/overview.md) | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="" width="50" /> | 6 | 6 | [Gain](../../artists/gain/overview.md) | [🔗](https://open.spotify.com/artist/4R60A85t9mTZzCqJlVswuo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc781cc5849e85fa54b8ef01c" alt="" width="50" /> | 6 | 6 | [WINTER](../../artists/winter/overview.md) | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb62a8a58d9c39c6ace6fafc82" alt="" width="50" /> | 6 | 6 | [TREASURE](../../artists/treasure/overview.md) | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7f76de4231462f7e23fa6299" alt="" width="50" /> | 6 | 6 | [TREASURE](../../artists/treasure/overview.md) | [🔗](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba66f2ec19992e8c33e5f3c06" alt="" width="50" /> | 6 | 6 | [P1Harmony](../../artists/p1harmony/overview.md) | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0001b1abdae41d669a446b7" alt="" width="50" /> | 6 | 6 | [SHINee](../../artists/shinee/overview.md) | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1f141491bdd708422f8dbab3" alt="" width="50" /> | 6 | 6 | [YUQI](../../artists/yuqi/overview.md) | [🔗](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) |
@@ -135,16 +135,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | [Savage](../../artists/aespa/overview.md) | 1 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Golden Slumbers - Remastered 2009](../../artists/the_beatles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="reality in BLACK" width="50" /> | [HIP](../../artists/mamamoo/overview.md) | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="An Evening With Silk Sonic" width="50" /> | [Leave The Door Open](../../artists/bruno_mars/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="Next Level" width="50" /> | [Next Level](../../artists/aespa/overview.md) | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="In Rainbows" width="50" /> | [Reckoner](../../artists/radiohead/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [Pretty Savage](../../artists/blackpink/overview.md) | 4 | <img src="https://i.scdn.co/image/ab67616d0000b2736cfc57e5358c5e39e79bccbd" alt="Gangnam Style (강남스타일)" width="50" /> | Gangnam Style (강남스타일) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="María" width="50" /> | [Maria](../../artists/hwasa/overview.md) | 5 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="Flockaveli" width="50" /> | No Hands (feat. Roscoe Dash & Wale) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="KILL THIS LOVE" width="50" /> | [Kill This Love](../../artists/blackpink/overview.md) | 6 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Sweet As Whole](../../artists/sara_bareilles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="Heng:garæ" width="50" /> | [Left & Right](../../artists/seventeen/overview.md) | 7 | <img src="https://i.scdn.co/image/ab67616d0000b2739ab215825eb77076b1b4b387" alt="Nickel Creek" width="50" /> | The Lighthouse's Tale | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [Crazy Over You](../../artists/blackpink/overview.md) | 8 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> | Hard To Handle | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 9 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="Fleetwood Mac" width="50" /> | Rhiannon | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [How You Like That](../../artists/blackpink/overview.md) | 10 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="1989" width="50" /> | [Clean](../../artists/taylor_swift/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | [Savage](../../artists/aespa/overview.md) | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="Sorry" width="50" /> | [Sorry](../../artists/the_rose/overview.md) | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="Next Level" width="50" /> | [Next Level](../../artists/aespa/overview.md) | 2 | <img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="Last Train To Paris" width="50" /> | Hello Good Morning | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="reality in BLACK" width="50" /> | [HIP](../../artists/mamamoo/overview.md) | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273058833119cfac69bc09b11a2" alt="DIE 4 YOU" width="50" /> | DIE 4 YOU | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [Pretty Savage](../../artists/blackpink/overview.md) | 4 | <img src="https://i.scdn.co/image/ab67616d0000b2734f89844c76d620ff098ef5c6" alt="Low Key (feat. Tyga)" width="50" /> | Low Key (feat. Tyga) | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="KILL THIS LOVE" width="50" /> | [Kill This Love](../../artists/blackpink/overview.md) | 5 | <img src="https://i.scdn.co/image/ab67616d0000b273f05202b83eb981e943ca7767" alt="Foreigner (Expanded)" width="50" /> | Cold as Ice | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | [LOCO](../../artists/itzy/overview.md) | 6 | <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="LALISA" width="50" /> | LALISA | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b64001fa6292caefc7605550" alt="The Perfect Red Velvet - The 2nd Album Repackage" width="50" /> | [Bad Boy](../../artists/red_velvet/overview.md) | 7 | <img src="https://i.scdn.co/image/ab67616d0000b27307a560f0504f9de0af5e0a33" alt="Baby Powder" width="50" /> | Baby Powder | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [Crazy Over You](../../artists/blackpink/overview.md) | 8 | <img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" alt="Appetite For Destruction" width="50" /> | Sweet Child O' Mine | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [How You Like That](../../artists/blackpink/overview.md) | 9 | <img src="https://i.scdn.co/image/ab67616d0000b273e79dc1438d650f426b5e99a7" alt="Blue" width="50" /> | [A Case of You](../../artists/joni_mitchell/overview.md) | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | [러시안 룰렛 Russian Roulette](../../artists/red_velvet/overview.md) | 10 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="Camila" width="50" /> | [Consequences](../../artists/camila_cabello/overview.md) | 2599 |
 
 </details>
 
@@ -403,12 +403,12 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 51 | 51 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 51 | 51 | [album rock](../../genres/album_rock/overview.md) |
 | 49 | 49 | [soft rock](../../genres/soft_rock/overview.md) |
 | 49 | 49 | [pop rock](../../genres/pop_rock/overview.md) |
 | 48 | 48 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 47 | 47 | [modern rock](../../genres/modern_rock/overview.md) |
-| 47 | 47 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 46 | 46 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 45 | 45 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 39 | 39 | [art pop](../../genres/art_pop/overview.md) |

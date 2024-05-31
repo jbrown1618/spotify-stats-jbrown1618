@@ -2,7 +2,7 @@
 # TEN
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb300fc4526b63fe9e2190e1fb" alt="TEN" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb5e8a0a0456dfa4416e36eeae" alt="TEN" width="100" />
 
 ## Relationships
 
@@ -15,28 +15,36 @@ TEN:
 
 ## Artist Rank
 TEN is currently:
-- The #20 artist of the last month
+- The #17 artist of the last month
 - The #29 artist of the last 6 months
 - The #44 artist of all time
+- The #56 artist overall
 
 ![Rank of TEN over time](../../images/artists/ten/rank_time_series.png)
 ## Top Tracks
 
-- Dangerous is:
-    - the #7 track of the last 6 months
-    - the #35 track of all time
 
 ### Top tracks, aggregated
 
 ![Track score ranking over time](../../images/artists/ten/track_rank_time_series_score.png)
 
-### Top tracks of all time over time
+
+<details>
+<summary>Top tracks of all time over time</summary>
 
 ![Line chart of top tracks of all time over time](../../images/artists/ten/track_rank_time_series_long_term.png)
 
-### Top tracks of the last 6 months over time
+</details>
+
+
+
+<details>
+<summary>Top tracks of the last 6 months over time</summary>
 
 ![Line chart of top tracks of the last 6 months over time](../../images/artists/ten/track_rank_time_series_medium_term.png)
+
+</details>
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -93,9 +101,9 @@ TEN is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733730b0ab6cc8e589b87d26d7" alt="" width="50" /> | Birthday | Birthday - SM STATION : NCT LAB | [TEN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 86 | 💚 | [🔗](https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="" width="50" /> | Dangerous | TEN - The 1st Mini Album | [TEN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 109 | 💚 | [🔗](https://open.spotify.com/track/56vA4AoGec8ae9nmdprBBI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="" width="50" /> | Shadow | TEN - The 1st Mini Album | [TEN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 288 | | [🔗](https://open.spotify.com/track/05bEOekC31J9F7tH8jEuJw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="" width="50" /> | Nightwalker | TEN - The 1st Mini Album | [TEN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 372 | 💚 | [🔗](https://open.spotify.com/track/4RiudH8RehvLLrk8uNgIdR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="" width="50" /> | Water | TEN - The 1st Mini Album | [TEN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 640 | 💚 | [🔗](https://open.spotify.com/track/0fl3T6cekhgAxYu5xLWefX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dad8806d4958b875dd487f6e" alt="" width="50" /> | Paint Me Naked | Paint Me Naked - SM STATION | [TEN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733730b0ab6cc8e589b87d26d7" alt="" width="50" /> | Birthday | Birthday - SM STATION : NCT LAB | [TEN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 233 | 💚 | [🔗](https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="" width="50" /> | Dangerous | TEN - The 1st Mini Album | [TEN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 325 | 💚 | [🔗](https://open.spotify.com/track/56vA4AoGec8ae9nmdprBBI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="" width="50" /> | Shadow | TEN - The 1st Mini Album | [TEN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 497 | | [🔗](https://open.spotify.com/track/05bEOekC31J9F7tH8jEuJw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="" width="50" /> | Nightwalker | TEN - The 1st Mini Album | [TEN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 511 | 💚 | [🔗](https://open.spotify.com/track/4RiudH8RehvLLrk8uNgIdR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="" width="50" /> | Water | TEN - The 1st Mini Album | [TEN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 525 | 💚 | [🔗](https://open.spotify.com/track/0fl3T6cekhgAxYu5xLWefX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dad8806d4958b875dd487f6e" alt="" width="50" /> | Paint Me Naked | Paint Me Naked - SM STATION | [TEN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1827 | 💚 | [🔗](https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma) |

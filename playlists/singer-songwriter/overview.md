@@ -42,7 +42,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eba688abfbbed1037befa47232" alt="" width="50" /> | 2 | 1 | HAIM | [🔗](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61769824ec381aca10903955" alt="" width="50" /> | 1 | 1 | Wyvern Lingo | [🔗](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08635ff0ed30023d2ee764a1" alt="" width="50" /> | 1 | 1 | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3ef4de0e7351650294b3fa66" alt="" width="50" /> | 1 | 1 | Lawrence | [🔗](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1cadffeb06d98e13611359db" alt="" width="50" /> | 1 | 1 | Lawrence | [🔗](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d9229c6ab9a1cbb8924ce10" alt="" width="50" /> | 1 | 1 | Soccer Mommy | [🔗](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdbd28dd134a8828825088de" alt="" width="50" /> | 1 | 1 | Indigo Girls | [🔗](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf6d51e6f5342d2d363220920" alt="" width="50" /> | 1 | 1 | Gracie Abrams | [🔗](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) |
@@ -81,16 +81,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="Vows (Deluxe Version)" width="50" /> | [Settle Down](../../artists/kimbra/overview.md) | 213 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Say You're Sorry](../../artists/sara_bareilles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Machine Gun](../../artists/sara_bareilles/overview.md) | 228 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Sweet As Whole](../../artists/sara_bareilles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="The Stranger (Legacy Edition)" width="50" /> | [Vienna](../../artists/billy_joel/overview.md) | 254 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="1989" width="50" /> | [Clean](../../artists/taylor_swift/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="The Good Life" width="50" /> | Talk It Up | 263 | <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="reputation" width="50" /> | [This Is Why We Can't Have Nice Things](../../artists/taylor_swift/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Between the Lines](../../artists/sara_bareilles/overview.md) | 282 | <img src="https://i.scdn.co/image/ab67616d0000b2738d0e2c824f8328bf7caf1b19" alt="Messenger" width="50" /> | Icarus | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Many the Miles](../../artists/sara_bareilles/overview.md) | 292 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [epiphany](../../artists/taylor_swift/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Fairytale](../../artists/sara_bareilles/overview.md) | 326 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Meant | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> | Your Song | 328 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Satellite Call](../../artists/sara_bareilles/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="The Stranger (Legacy Edition)" width="50" /> | [Movin' Out (Anthony's Song)](../../artists/billy_joel/overview.md) | 345 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [the 1](../../artists/taylor_swift/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Lie To Me](../../artists/sara_bareilles/overview.md) | 377 | <img src="https://i.scdn.co/image/ab67616d0000b2738c8d5428b693308705e7caca" alt="Far" width="50" /> | Eet | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="Lover" width="50" /> | [Death By A Thousand Cuts](../../artists/taylor_swift/overview.md) | 328 | <img src="https://i.scdn.co/image/ab67616d0000b273e79dc1438d650f426b5e99a7" alt="Blue" width="50" /> | [A Case of You](../../artists/joni_mitchell/overview.md) | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [exile (feat. Bon Iver)](../../artists/taylor_swift/overview.md) | 329 | <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="Speak for Yourself" width="50" /> | [Hide and Seek](../../artists/imogen_heap/overview.md) | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="Red" width="50" /> | [Begin Again](../../artists/taylor_swift/overview.md) | 330 | <img src="https://i.scdn.co/image/ab67616d0000b2734280a158a96c9b0274eb7e99" alt="Love, Save The Empty" width="50" /> | Bobble Head | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Machine Gun](../../artists/sara_bareilles/overview.md) | 343 | <img src="https://i.scdn.co/image/ab67616d0000b27387c95c59b33bdfdafc25a813" alt="Rockferry" width="50" /> | Mercy | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Between the Lines](../../artists/sara_bareilles/overview.md) | 348 | <img src="https://i.scdn.co/image/ab67616d0000b27302d43b7bfc5cedf477e18580" alt="The Cooling" width="50" /> | This One's Gonna Hurt | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Many the Miles](../../artists/sara_bareilles/overview.md) | 349 | <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="Song to a Seagull" width="50" /> | [I Had a King](../../artists/joni_mitchell/overview.md) | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Fairytale](../../artists/sara_bareilles/overview.md) | 350 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="Bear Creek" width="50" /> | That Wasn't Me | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Lie To Me](../../artists/sara_bareilles/overview.md) | 352 | <img src="https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e" alt="Begin to Hope" width="50" /> | On the Radio | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [I Choose You](../../artists/sara_bareilles/overview.md) | 355 | <img src="https://i.scdn.co/image/ab67616d0000b273b80ea8399313aeffb10b0acb" alt="Ladies of the Canyon" width="50" /> | [Big Yellow Taxi](../../artists/joni_mitchell/overview.md) | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [Manhattan](../../artists/sara_bareilles/overview.md) | 357 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Dreamer | 2599 |
 
 </details>
 
@@ -282,7 +282,7 @@
 | 77 | 54 | [lilith](../../genres/lilith/overview.md) |
 | 85 | 51 | [pop](../../genres/pop/overview.md) |
 | 72 | 50 | [neo mellow](../../genres/neo_mellow/overview.md) |
-| 64 | 46 | [ectofolk](../../genres/ectofolk/overview.md) |
+| 68 | 50 | [ectofolk](../../genres/ectofolk/overview.md) |
 | 60 | 42 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 60 | 42 | [pop rock](../../genres/pop_rock/overview.md) |
 | 39 | 28 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |

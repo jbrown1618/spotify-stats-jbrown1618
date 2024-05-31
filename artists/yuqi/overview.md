@@ -11,15 +11,12 @@ YUQI:
 
 ## Artist Rank
 YUQI is currently:
-- The #11 artist of the last month
+- The #8 artist of the last month
+- The #122 artist overall
 
 ![Rank of YUQI over time](../../images/artists/yuqi/rank_time_series.png)
 ## Top Tracks
 
-- Red Rover is:
-    - the #11 track of the On Repeat playlist
-    - the #33 track of the last month
-- On Clap is the #30 track of the On Repeat playlist
 
 ### Top tracks, aggregated
 
@@ -30,8 +27,8 @@ YUQI is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 6 | [K-Pop](../../playlists/k-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0242281601a5a3f882ea77741eab67616d00001e025048ed32fafe7b9a50d0e410ab67616d00001e0256035da9eacd668ffdfacb36ab67616d00001e02bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | 3 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
-| <img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg" alt="" width="50" /> | 2 | [On Repeat](../../playlists/on_repeat/overview.md) |
 | <img src="https://daily-mix.scdn.co/covers/backtracks/PZN_Repeat_Rewind2_DEFAULT-en.jpg" alt="" width="50" /> | 1 | [Repeat Rewind](../../playlists/repeat_rewind/overview.md) |
+| <img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg" alt="" width="50" /> | 1 | [On Repeat](../../playlists/on_repeat/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0220adea47ebd9e98d2e7d2247ab67616d00001e022ce067b763f6a4938cb8a501ab67616d00001e02583c60000e8abc8283853e10ab67616d00001e0273e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 1 | [K-Memes](../../playlists/k-memes/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e023317fc12f8b9a9a0b8459766ab67616d00001e0263e0ddbb488d0eeec0e738fcab67616d00001e0284095737f6056e682666d6f9ab67616d00001e02f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | [K-Pop-Adjacent](../../playlists/k-pop-adjacent/overview.md) |
 
@@ -76,10 +73,10 @@ YUQI is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | Red Rover | YUQ1 | [YUQI](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 227 | 💚 | [🔗](https://open.spotify.com/track/4TQBHR8LcbBUv0LvLmn54H) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | Bonnie & Clyde | A Page | [YUQI](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 487 | 💚 | [🔗](https://open.spotify.com/track/21aIsunB7PfZI0vlIoaJPh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | On Clap | YUQ1 | [YUQI](overview.md), Lexie Liu | [Cube Entertainment](../../labels/cube_entertainment) | 606 | 💚 | [🔗](https://open.spotify.com/track/2bRNKRk0sFlwEd7geduEpP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | Giant | A Page | [YUQI](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | nan | 💚 | [🔗](https://open.spotify.com/track/3p8low79RQzkixDlIngBTT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb9ff6f34a355d6ce77ff6a4" alt="" width="50" /> | Flowers - Cover | Flowers (Cover) | [YUQI](overview.md) | YUQI | nan | 💚 | [🔗](https://open.spotify.com/track/4KhOLC5IT1Rz8G4iHsoTAV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273afedcb63d2ef759322629930" alt="" width="50" /> | Hate Rodrigo (Feat. YUQI) | HATE XX | [YENA](../yena/overview.md), [YUQI](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | nan | | [🔗](https://open.spotify.com/track/5ms7rcVKjBFUtoVh8hE0Y9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | FREAK | YUQ1 | [YUQI](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | Red Rover | YUQ1 | [YUQI](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 516 | 💚 | [🔗](https://open.spotify.com/track/4TQBHR8LcbBUv0LvLmn54H) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | Bonnie & Clyde | A Page | [YUQI](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 603 | 💚 | [🔗](https://open.spotify.com/track/21aIsunB7PfZI0vlIoaJPh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | On Clap | YUQ1 | [YUQI](overview.md), Lexie Liu | [Cube Entertainment](../../labels/cube_entertainment) | 620 | 💚 | [🔗](https://open.spotify.com/track/2bRNKRk0sFlwEd7geduEpP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | Giant | A Page | [YUQI](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 1674 | 💚 | [🔗](https://open.spotify.com/track/3p8low79RQzkixDlIngBTT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb9ff6f34a355d6ce77ff6a4" alt="" width="50" /> | Flowers - Cover | Flowers (Cover) | [YUQI](overview.md) | YUQI | 1790 | 💚 | [🔗](https://open.spotify.com/track/4KhOLC5IT1Rz8G4iHsoTAV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273afedcb63d2ef759322629930" alt="" width="50" /> | Hate Rodrigo (Feat. YUQI) | HATE XX | [YENA](../yena/overview.md), [YUQI](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 2130 | | [🔗](https://open.spotify.com/track/5ms7rcVKjBFUtoVh8hE0Y9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | FREAK | YUQ1 | [YUQI](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 2238 | 💚 | [🔗](https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv) |

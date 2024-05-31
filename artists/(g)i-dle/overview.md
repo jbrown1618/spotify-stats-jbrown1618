@@ -20,36 +20,36 @@
 
 ## Artist Rank
 (G)I-DLE is currently:
-- The #10 artist of the last month
+- The #6 artist of the last month
 - The #4 artist of the last 6 months
-- The #7 artist of all time
+- The #6 artist of all time
+- The #6 artist overall
 
 ![Rank of (G)I-DLE over time](../../images/artists/(g)i-dle/rank_time_series.png)
 ## Top Tracks
 
-- Oh my god is:
-    - the #33 track of the last 6 months
-    - the #8 track of all time
-- HANN (Alone in winter) is the #32 track of all time
-- Super Lady is:
-    - the #2 track of the last month
-    - the #12 track of the last 6 months
-- I Want That is the #19 track of the last 6 months
-- Doll is the #23 track of the last 6 months
-- Fate is the #50 track of the last 6 months
-- Rollie is the #48 track of the last month
 
 ### Top tracks, aggregated
 
 ![Track score ranking over time](../../images/artists/(g)i-dle/track_rank_time_series_score.png)
 
-### Top tracks of all time over time
+
+<details>
+<summary>Top tracks of all time over time</summary>
 
 ![Line chart of top tracks of all time over time](../../images/artists/(g)i-dle/track_rank_time_series_long_term.png)
 
-### Top tracks of the last 6 months over time
+</details>
+
+
+
+<details>
+<summary>Top tracks of the last 6 months over time</summary>
 
 ![Line chart of top tracks of the last 6 months over time](../../images/artists/(g)i-dle/track_rank_time_series_medium_term.png)
+
+</details>
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -62,9 +62,9 @@
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e026f248f7695eb544a3a1955c5ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e028acb7bac073f378d59bf228eab67616d00001e02b3be3b970fc89a02f301c9da" alt="" width="50" /> | 4 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022270d3bd1d13133edf0be836ab67616d00001e026017bca98dea58ceddea77c1ab67616d00001e02a0df2d59f0ae9426cba3eb36ab67616d00001e02cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 3 | [Cursed English](../../playlists/cursed_english/overview.md) |
 | <img src="https://wrapped-images.spotifycdn.com/image/yts-2022/default/your-top-songs-2022_default_en.jpg" alt="" width="50" /> | 3 | [Your Top Songs 2022](../../playlists/your_top_songs_2022/overview.md) |
-| <img src="https://daily-mix.scdn.co/covers/backtracks/PZN_Repeat_Rewind2_DEFAULT-en.jpg" alt="" width="50" /> | 2 | [Repeat Rewind](../../playlists/repeat_rewind/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024897a7925914a3a10ce68c31ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e02bf5f4138ebc9ba3fd6f0cde9ab67616d00001e02d8856d19e1f5784ed643d862" alt="" width="50" /> | 2 | [Recommendations for Jeff](../../playlists/recommendations_for_jeff/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0242281601a5a3f882ea77741eab67616d00001e025048ed32fafe7b9a50d0e410ab67616d00001e0256035da9eacd668ffdfacb36ab67616d00001e02bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
+| <img src="https://daily-mix.scdn.co/covers/backtracks/PZN_Repeat_Rewind2_DEFAULT-en.jpg" alt="" width="50" /> | 1 | [Repeat Rewind](../../playlists/repeat_rewind/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e0286ca91e718866f411c01db5eab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02ce4f1737bc8a646c8c4bd25a" alt="" width="50" /> | 1 | [Beat Drop!](../../playlists/beat_drop!/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e025c041fe9e3c9de436047d86bab67616d00001e02714e56679ab196354e2e443eab67616d00001e027a393b04e8ced571618223e8ab67616d00001e027dd8f95320e8ef08aa121dfe" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k-pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0220adea47ebd9e98d2e7d2247ab67616d00001e022ce067b763f6a4938cb8a501ab67616d00001e02583c60000e8abc8283853e10ab67616d00001e0273e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 1 | [K-Memes](../../playlists/k-memes/overview.md) |
@@ -240,15 +240,15 @@
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | LATATA | I am | [(G)I-DLE](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 25 | 💚 | [🔗](https://open.spotify.com/track/2ezKXygNO30pXyDQXkm6oD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | Oh my god | I trust | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 37 | 💚 | [🔗](https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh | Uh-Oh | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 39 | 💚 | [🔗](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | All Night | I feel | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 85 | 💚 | [🔗](https://open.spotify.com/track/1abAIeSQCbdPcxWgiwDOmL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730cbf8dc7b194aa11242ec3a7" alt="" width="50" /> | I Want That | HEAT | [(G)I-DLE](overview.md) | [88rising Music](../../labels/88rising_music), [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 91 | 💚 | [🔗](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | HANN (Alone in winter) | I burn | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 121 | 💚 | [🔗](https://open.spotify.com/track/2qYdsdgdeMLFzpLcMQWG2W) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Nxde | I love | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 127 | 💚 | [🔗](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Doll | 2 | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 130 | 💚 | [🔗](https://open.spotify.com/track/4C7PyWUlTLUUgVZQVboCma) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Change | I love | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 151 | 💚 | [🔗](https://open.spotify.com/track/6wXYyw7TBQlJ0qh3RNP8MD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Super Lady | 2 | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 166 | 💚 | [🔗](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | Oh my god | I trust | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 32 | 💚 | [🔗](https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh | Uh-Oh | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 33 | 💚 | [🔗](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | All Night | I feel | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 72 | 💚 | [🔗](https://open.spotify.com/track/1abAIeSQCbdPcxWgiwDOmL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730cbf8dc7b194aa11242ec3a7" alt="" width="50" /> | I Want That | HEAT | [(G)I-DLE](overview.md) | [88rising Music](../../labels/88rising_music), [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 77 | 💚 | [🔗](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | HANN (Alone in winter) | I burn | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 98 | 💚 | [🔗](https://open.spotify.com/track/2qYdsdgdeMLFzpLcMQWG2W) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Nxde | I love | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 100 | 💚 | [🔗](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Doll | 2 | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 101 | 💚 | [🔗](https://open.spotify.com/track/4C7PyWUlTLUUgVZQVboCma) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Change | I love | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 118 | 💚 | [🔗](https://open.spotify.com/track/6wXYyw7TBQlJ0qh3RNP8MD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Super Lady | 2 | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 119 | 💚 | [🔗](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) |
 
 
 <details>
@@ -256,44 +256,44 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | TOMBOY | I NEVER DIE | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 184 | 💚 | [🔗](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Lucid | I feel | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 240 | 💚 | [🔗](https://open.spotify.com/track/4fg42mtrSFuKQ9NYBboiiN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736080e2389dee3e57f00ccc69" alt="" width="50" /> | DUMDi DUMDi | DUMDi DUMDi | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 253 | 💚 | [🔗](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Fate | 2 | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 259 | 💚 | [🔗](https://open.spotify.com/track/2vNPGH1x5ZwxTjlvzLCyc2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Revenge | 2 | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 305 | 💚 | [🔗](https://open.spotify.com/track/3qWCIDzq2fBeCMNOL27XLX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | DARK (X-file) | I love | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 384 | 💚 | [🔗](https://open.spotify.com/track/4xc3JpkI8kxLwk1SJafjzh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | Put It Straight | I made | [(G)I-DLE](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 391 | 💚 | [🔗](https://open.spotify.com/track/2G0wbwTsTN0HJeQp3BDc4D) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Wife | 2 | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 438 | 💚 | [🔗](https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Rollie | 2 | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 505 | | [🔗](https://open.spotify.com/track/71E2JcSbv1abMaua23RBSV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | VILLAIN DIES | I NEVER DIE | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 548 | 💚 | [🔗](https://open.spotify.com/track/6adPuBjUw3Zh6wK27d8Rgv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a9e412451691682611af56f1" alt="" width="50" /> | Put It Straight - Nightmare Version | Queendom < Box of Pandora > Pt. 1 | [(G)I-DLE](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation) | 583 | | [🔗](https://open.spotify.com/track/3VqP1DVYFoS6sLhPbEtifi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737158ec602fe6e8165cae6091" alt="" width="50" /> | THE BADDEST | THE BADDEST | K/DA, [(G)I-DLE](overview.md), Wolftyla, Bea Miller, League of Legends | Riot Games | 724 | 💚 | [🔗](https://open.spotify.com/track/2V4Fx72svQRxrFvNT1eq5f) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | $$$ | I am | [(G)I-DLE](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | nan | | [🔗](https://open.spotify.com/track/68yUIRmUq0cZN19DnbgKSX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | MAZE | I am | [(G)I-DLE](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | nan | | [🔗](https://open.spotify.com/track/5xptVEzEqCXv0oIJmyDYOJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ace0e90dab0e51a4aec4f50a" alt="" width="50" /> | HANN (Alone) | HANN (Alone) | [(G)I-DLE](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1241debb8543af8322a7d6a" alt="" width="50" /> | POP/STARS | POP/STARS | K/DA, Madison Beer, [(G)I-DLE](overview.md), Jaira Burns, League of Legends | Riot Games | nan | 💚 | [🔗](https://open.spotify.com/track/5sbooPcNgIE22DwO0VNGUJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | Senorita | I made | [(G)I-DLE](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/0q6boCcLaWYPIy2vOsksFg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | LION | I trust | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | nan | | [🔗](https://open.spotify.com/track/40OyiVO9NtBg9R2Gpwxs3u) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | Luv U | I trust | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | nan | | [🔗](https://open.spotify.com/track/2Mvdcda3pVMDASD7oZWPr4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | Oh my god - English Version | I trust | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | nan | | [🔗](https://open.spotify.com/track/2EJbMzocEZ6VHnZKQ8pt8H) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="" width="50" /> | LATATA - English Ver. | LATATA (English Ver.) | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | nan | | [🔗](https://open.spotify.com/track/78ObrGLDjBSE2MhpfgwZt1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="" width="50" /> | i'M THE TREND | i'M THE TREND | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | nan | | [🔗](https://open.spotify.com/track/5Fkkhd5Sy1dCBkKdXLQl4U) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | MORE | ALL OUT | K/DA, Madison Beer, [(G)I-DLE](overview.md), Lexie Liu, Jaira Burns, Seraphine, League of Legends | Riot Games | nan | 💚 | [🔗](https://open.spotify.com/track/6ZlvEI2HQC6R5TahN9Ffm4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | DAHLIA | I burn | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | nan | | [🔗](https://open.spotify.com/track/2CxgY4VvTNA0bG2nVtmgPg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | HWAA | I burn | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | nan | 💚 | [🔗](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | LOST | I burn | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | nan | | [🔗](https://open.spotify.com/track/2hONcl7rn6TCopbykEoyXH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | MOON | I burn | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | nan | | [🔗](https://open.spotify.com/track/3uOeutrLztSX6lU0b0et3B) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="" width="50" /> | HWAA - English Version | HWAA | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | nan | | [🔗](https://open.spotify.com/track/5OdnfBqdFDpew4yKwfgZQu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | ALREADY | I NEVER DIE | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/1hQtfLmNABXQMSjjYRXqAX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | ESCAPE | I NEVER DIE | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | nan | | [🔗](https://open.spotify.com/track/4O7tVdjaOQARI1rS6E6CCx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | LIAR | I NEVER DIE | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | nan | | [🔗](https://open.spotify.com/track/4NrmxVJURTgzMH0QKyYy1a) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | MY BAG | I NEVER DIE | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | Never Stop Me | I NEVER DIE | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/0ckILmtBH2r5UFOtTf2cN0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | LOVE | I love | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | nan | | [🔗](https://open.spotify.com/track/6dmMXI9tVrDgFmxpjttZmF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Sculpture | I love | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/7f9Nbqm1ds2kxGHioJtdf3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Queencard | I feel | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730cbf8dc7b194aa11242ec3a7" alt="" width="50" /> | Eyes Roll | HEAT | [(G)I-DLE](overview.md) | [88rising Music](../../labels/88rising_music), [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | nan | | [🔗](https://open.spotify.com/track/6vVO2TX7x8yUICULlFZwGH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730cbf8dc7b194aa11242ec3a7" alt="" width="50" /> | I DO | HEAT | [(G)I-DLE](overview.md) | [88rising Music](../../labels/88rising_music), [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/4SKwDW8Gg8CJxw2ElMhSTp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | TOMBOY | I NEVER DIE | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 141 | 💚 | [🔗](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Lucid | I feel | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 204 | 💚 | [🔗](https://open.spotify.com/track/4fg42mtrSFuKQ9NYBboiiN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736080e2389dee3e57f00ccc69" alt="" width="50" /> | DUMDi DUMDi | DUMDi DUMDi | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 214 | 💚 | [🔗](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Fate | 2 | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 215 | 💚 | [🔗](https://open.spotify.com/track/2vNPGH1x5ZwxTjlvzLCyc2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Revenge | 2 | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 220 | 💚 | [🔗](https://open.spotify.com/track/3qWCIDzq2fBeCMNOL27XLX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | DARK (X-file) | I love | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 234 | 💚 | [🔗](https://open.spotify.com/track/4xc3JpkI8kxLwk1SJafjzh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | Put It Straight | I made | [(G)I-DLE](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 235 | 💚 | [🔗](https://open.spotify.com/track/2G0wbwTsTN0HJeQp3BDc4D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Wife | 2 | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 237 | 💚 | [🔗](https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Rollie | 2 | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 239 | | [🔗](https://open.spotify.com/track/71E2JcSbv1abMaua23RBSV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | VILLAIN DIES | I NEVER DIE | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 241 | 💚 | [🔗](https://open.spotify.com/track/6adPuBjUw3Zh6wK27d8Rgv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a9e412451691682611af56f1" alt="" width="50" /> | Put It Straight - Nightmare Version | Queendom < Box of Pandora > Pt. 1 | [(G)I-DLE](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation) | 243 | | [🔗](https://open.spotify.com/track/3VqP1DVYFoS6sLhPbEtifi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737158ec602fe6e8165cae6091" alt="" width="50" /> | THE BADDEST | THE BADDEST | K/DA, [(G)I-DLE](overview.md), Wolftyla, Bea Miller, League of Legends | Riot Games | 246 | 💚 | [🔗](https://open.spotify.com/track/2V4Fx72svQRxrFvNT1eq5f) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | Never Stop Me | I NEVER DIE | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 967 | 💚 | [🔗](https://open.spotify.com/track/0ckILmtBH2r5UFOtTf2cN0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | Senorita | I made | [(G)I-DLE](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 1010 | 💚 | [🔗](https://open.spotify.com/track/0q6boCcLaWYPIy2vOsksFg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | ALREADY | I NEVER DIE | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 1194 | 💚 | [🔗](https://open.spotify.com/track/1hQtfLmNABXQMSjjYRXqAX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | MY BAG | I NEVER DIE | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 1239 | 💚 | [🔗](https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | DAHLIA | I burn | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 1313 | | [🔗](https://open.spotify.com/track/2CxgY4VvTNA0bG2nVtmgPg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | Oh my god - English Version | I trust | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 1321 | | [🔗](https://open.spotify.com/track/2EJbMzocEZ6VHnZKQ8pt8H) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | Luv U | I trust | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 1346 | | [🔗](https://open.spotify.com/track/2Mvdcda3pVMDASD7oZWPr4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | LOST | I burn | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 1423 | | [🔗](https://open.spotify.com/track/2hONcl7rn6TCopbykEoyXH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | MOON | I burn | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 1698 | | [🔗](https://open.spotify.com/track/3uOeutrLztSX6lU0b0et3B) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | LION | I trust | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 1720 | | [🔗](https://open.spotify.com/track/40OyiVO9NtBg9R2Gpwxs3u) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | LIAR | I NEVER DIE | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 1802 | | [🔗](https://open.spotify.com/track/4NrmxVJURTgzMH0QKyYy1a) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | ESCAPE | I NEVER DIE | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 1805 | | [🔗](https://open.spotify.com/track/4O7tVdjaOQARI1rS6E6CCx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730cbf8dc7b194aa11242ec3a7" alt="" width="50" /> | I DO | HEAT | [(G)I-DLE](overview.md) | [88rising Music](../../labels/88rising_music), [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 1822 | 💚 | [🔗](https://open.spotify.com/track/4SKwDW8Gg8CJxw2ElMhSTp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Queencard | I feel | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 1918 | 💚 | [🔗](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | HWAA | I burn | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 2004 | 💚 | [🔗](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27358870b3abb0ff43e5948c912" alt="" width="50" /> | i'M THE TREND | i'M THE TREND | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 2005 | | [🔗](https://open.spotify.com/track/5Fkkhd5Sy1dCBkKdXLQl4U) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="" width="50" /> | HWAA - English Version | HWAA | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 2041 | | [🔗](https://open.spotify.com/track/5OdnfBqdFDpew4yKwfgZQu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1241debb8543af8322a7d6a" alt="" width="50" /> | POP/STARS | POP/STARS | K/DA, Madison Beer, [(G)I-DLE](overview.md), Jaira Burns, League of Legends | Riot Games | 2149 | 💚 | [🔗](https://open.spotify.com/track/5sbooPcNgIE22DwO0VNGUJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | MAZE | I am | [(G)I-DLE](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 2170 | | [🔗](https://open.spotify.com/track/5xptVEzEqCXv0oIJmyDYOJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | $$$ | I am | [(G)I-DLE](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 2215 | | [🔗](https://open.spotify.com/track/68yUIRmUq0cZN19DnbgKSX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="" width="50" /> | MORE | ALL OUT | K/DA, Madison Beer, [(G)I-DLE](overview.md), Lexie Liu, Jaira Burns, Seraphine, League of Legends | Riot Games | 2323 | 💚 | [🔗](https://open.spotify.com/track/6ZlvEI2HQC6R5TahN9Ffm4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | LOVE | I love | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 2335 | | [🔗](https://open.spotify.com/track/6dmMXI9tVrDgFmxpjttZmF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730cbf8dc7b194aa11242ec3a7" alt="" width="50" /> | Eyes Roll | HEAT | [(G)I-DLE](overview.md) | [88rising Music](../../labels/88rising_music), [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 2400 | | [🔗](https://open.spotify.com/track/6vVO2TX7x8yUICULlFZwGH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="" width="50" /> | LATATA - English Ver. | LATATA (English Ver.) | [(G)I-DLE](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 2453 | | [🔗](https://open.spotify.com/track/78ObrGLDjBSE2MhpfgwZt1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Sculpture | I love | [(G)I-DLE](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 2531 | 💚 | [🔗](https://open.spotify.com/track/7f9Nbqm1ds2kxGHioJtdf3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ace0e90dab0e51a4aec4f50a" alt="" width="50" /> | HANN (Alone) | HANN (Alone) | [(G)I-DLE](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 2535 | 💚 | [🔗](https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4) |
 
 </details>
 

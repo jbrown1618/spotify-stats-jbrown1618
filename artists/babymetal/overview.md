@@ -13,6 +13,7 @@ BABYMETAL:
 - has member YUIMETAL
 
 ## Artist Rank
+- The #47 artist overall
 
 ![Rank of BABYMETAL over time](../../images/artists/babymetal/rank_time_series.png)
 ## Top Tracks
@@ -89,12 +90,12 @@ BABYMETAL:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="" width="50" /> | KARATE | METAL RESISTANCE | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 369 | 💚 | [🔗](https://open.spotify.com/track/2A4wfplwsIXUUD3UVirWDd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="" width="50" /> | Headbangeeeeerrrrr!!!!! | BABYMETAL | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 441 | 💚 | [🔗](https://open.spotify.com/track/7zuuWZo0MyOdG3VHg1Mgml) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="" width="50" /> | Awadama Fever | METAL RESISTANCE | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 445 | | [🔗](https://open.spotify.com/track/6H96cG8WACfxsZN9HS8KPD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="" width="50" /> | Gimme Chocolate!! | BABYMETAL | [BABYMETAL](overview.md) | Cooking Vinyl Limited | nan | 💚 | [🔗](https://open.spotify.com/track/16D5bGymrzpi9ZlnYXB5ql) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="" width="50" /> | Rondo of Nightmare | BABYMETAL | [BABYMETAL](overview.md) | Cooking Vinyl Limited | nan | 💚 | [🔗](https://open.spotify.com/track/7MFAj03YCmsp0aeHMmZPCr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="" width="50" /> | Amore | METAL RESISTANCE | [BABYMETAL](overview.md) | Cooking Vinyl Limited | nan | 💚 | [🔗](https://open.spotify.com/track/4KGOgUYx9x7J9LYhtuZNRb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="" width="50" /> | No Rain, No Rainbow | METAL RESISTANCE | [BABYMETAL](overview.md) | Cooking Vinyl Limited | nan | | [🔗](https://open.spotify.com/track/2D78O7w209mJvXyE5qPAzf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732bb4e77f30c614c2a7b67b9d" alt="" width="50" /> | Kagerou | METAL GALAXY | [BABYMETAL](overview.md) | Cooking Vinyl Limited | nan | 💚 | [🔗](https://open.spotify.com/track/4kNujQGCx2ytNLfYIEIcYP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732bb4e77f30c614c2a7b67b9d" alt="" width="50" /> | Shanti Shanti Shanti | METAL GALAXY | [BABYMETAL](overview.md) | Cooking Vinyl Limited | nan | 💚 | [🔗](https://open.spotify.com/track/66Pv3a4E0VYKfGJDXsvhk1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="" width="50" /> | KARATE | METAL RESISTANCE | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 454 | 💚 | [🔗](https://open.spotify.com/track/2A4wfplwsIXUUD3UVirWDd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="" width="50" /> | Headbangeeeeerrrrr!!!!! | BABYMETAL | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 459 | 💚 | [🔗](https://open.spotify.com/track/7zuuWZo0MyOdG3VHg1Mgml) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="" width="50" /> | Awadama Fever | METAL RESISTANCE | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 460 | | [🔗](https://open.spotify.com/track/6H96cG8WACfxsZN9HS8KPD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="" width="50" /> | Gimme Chocolate!! | BABYMETAL | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 1062 | 💚 | [🔗](https://open.spotify.com/track/16D5bGymrzpi9ZlnYXB5ql) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="" width="50" /> | No Rain, No Rainbow | METAL RESISTANCE | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 1315 | | [🔗](https://open.spotify.com/track/2D78O7w209mJvXyE5qPAzf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="" width="50" /> | Amore | METAL RESISTANCE | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 1787 | 💚 | [🔗](https://open.spotify.com/track/4KGOgUYx9x7J9LYhtuZNRb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732bb4e77f30c614c2a7b67b9d" alt="" width="50" /> | Kagerou | METAL GALAXY | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 1885 | 💚 | [🔗](https://open.spotify.com/track/4kNujQGCx2ytNLfYIEIcYP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732bb4e77f30c614c2a7b67b9d" alt="" width="50" /> | Shanti Shanti Shanti | METAL GALAXY | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 2208 | 💚 | [🔗](https://open.spotify.com/track/66Pv3a4E0VYKfGJDXsvhk1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="" width="50" /> | Rondo of Nightmare | BABYMETAL | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 2508 | 💚 | [🔗](https://open.spotify.com/track/7MFAj03YCmsp0aeHMmZPCr) |

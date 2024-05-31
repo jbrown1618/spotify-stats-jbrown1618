@@ -11,8 +11,9 @@ Daft Punk:
 - has member Guy-Manuel de Homem-Christo
 
 ## Artist Rank
+- The #243 artist overall
 
-
+![Rank of Daft Punk over time](../../images/artists/daft_punk/rank_time_series.png)
 ## Top Tracks
 
 
@@ -96,10 +97,10 @@ Daft Punk:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Get Lucky (feat. Pharrell Williams and Nile Rodgers) | Random Access Memories | [Daft Punk](overview.md), Pharrell Williams, Nile Rodgers | [Columbia](../../labels/columbia) | 374 | 💚 | [🔗](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="" width="50" /> | Digital Love | Discovery | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | nan | 💚 | [🔗](https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="" width="50" /> | Harder, Better, Faster, Stronger | Discovery | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | nan | 💚 | [🔗](https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="" width="50" /> | One More Time | Discovery | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | nan | | [🔗](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="" width="50" /> | Technologic | Human After All | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | nan | 💚 | [🔗](https://open.spotify.com/track/0LSLM0zuWRkEYemF7JcfEE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Instant Crush (feat. Julian Casablancas) | Random Access Memories | [Daft Punk](overview.md), Julian Casablancas | [Columbia](../../labels/columbia) | nan | 💚 | [🔗](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="" width="50" /> | I Feel It Coming | Starboy | The Weeknd, [Daft Punk](overview.md) | Universal Republic Records | nan | | [🔗](https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Get Lucky (feat. Pharrell Williams and Nile Rodgers) | Random Access Memories | [Daft Punk](overview.md), Pharrell Williams, Nile Rodgers | [Columbia](../../labels/columbia) | 815 | 💚 | [🔗](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="" width="50" /> | Digital Love | Discovery | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | 2599 | 💚 | [🔗](https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="" width="50" /> | Harder, Better, Faster, Stronger | Discovery | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | 2599 | 💚 | [🔗](https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348905438b9c1153978d9fbf4" alt="" width="50" /> | One More Time | Discovery | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | 2599 | | [🔗](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="" width="50" /> | Technologic | Human After All | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | 2599 | 💚 | [🔗](https://open.spotify.com/track/0LSLM0zuWRkEYemF7JcfEE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Instant Crush (feat. Julian Casablancas) | Random Access Memories | [Daft Punk](overview.md), Julian Casablancas | [Columbia](../../labels/columbia) | 2599 | 💚 | [🔗](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="" width="50" /> | I Feel It Coming | Starboy | The Weeknd, [Daft Punk](overview.md) | Universal Republic Records | 2599 | | [🔗](https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV) |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e0242281601a5a3f882ea77741eab67616d00001e025048ed32fafe7b9a50d0e410ab67616d00001e0256035da9eacd668ffdfacb36ab67616d00001e02bd8c739ce7e59ae9414c7a26" alt="Recent Comebacks" width="100" />
 
-[75 tracks (61 liked) 🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI)
+[74 tracks (61 liked) 🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI)
 
 [See Track Features](audio_features.md)
 
@@ -13,7 +13,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb573935eb61a1897aeb43c531" alt="" width="50" /> | 13 | 11 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb573935eb61a1897aeb43c531" alt="" width="50" /> | 12 | 11 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb13e8057399bcfc4d4ec4c5dc" alt="" width="50" /> | 5 | 5 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8939960e5144b51d7903899f" alt="" width="50" /> | 4 | 4 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a48a236a01fa62db8c7a6f6" alt="" width="50" /> | 4 | 4 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
@@ -41,7 +41,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd5594e3ae145bbb2c096366d" alt="" width="50" /> | 1 | 1 | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 1 | 1 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46c7620b97e6eb932d79d97a" alt="" width="50" /> | 1 | 1 | TAEYONG | [🔗](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbc482112d05638e35eb3ade9" alt="" width="50" /> | 1 | 1 | SUHO | [🔗](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2af0d0a6ee7180180dee3439" alt="" width="50" /> | 1 | 1 | SUHO | [🔗](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb67810e4c96d753c946f54578" alt="" width="50" /> | 1 | 1 | Kep1er | [🔗](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1925e6520e474e569c971b36" alt="" width="50" /> | 1 | 1 | [BoA](../../artists/boa/overview.md) | [🔗](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbc333412dcb39d8ef2bd91cc" alt="" width="50" /> | 1 | 1 | ZICO | [🔗](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) |
@@ -83,16 +83,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="The Winning" width="50" /> | [Holssi](../../artists/iu/overview.md) | 69 | <img src="https://i.scdn.co/image/ab67616d0000b273b657fbb27b17e7bd4691c2b2" alt="How Sweet" width="50" /> | [Bubble Gum](../../artists/newjeans/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734f6afc385052250c766a5683" alt="BABYMONS7ER" width="50" /> | SHEESH | 162 | <img src="https://i.scdn.co/image/ab67616d0000b273f5a58b50c23c26f036418b10" alt="Straight Line" width="50" /> | Straight Line | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27307568782625b85282541394b" alt="Midas Touch" width="50" /> | [Midas Touch](../../artists/kiss_of_life/overview.md) | 193 | <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="SUPER REAL ME" width="50" /> | Magnetic | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bf32f4be80afeb0e1a09b27d" alt="Officially Cool" width="50" /> | Officially Cool | 194 | <img src="https://i.scdn.co/image/ab67616d0000b273090cfa22962b115ac530674c" alt="Armageddon - The 1st Album" width="50" /> | [BAHAMA](../../artists/aespa/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731b8ae147aceb9fc130391287" alt="SPOT!" width="50" /> | SPOT! | 208 | <img src="https://i.scdn.co/image/ab67616d0000b27355a4b0d253296e5fe7516d45" alt="DARK MOON SPECIAL ALBUM &lt;MEMORABILIA&gt;" width="50" /> | [Scream](../../artists/enhypen/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b75a7d2227a1a032a8a776e5" alt="Fraggle Rock: Back To The Rock - Season 2 (Apple TV+ Original Series Soundtrack)" width="50" /> | [Get Goin'](../../artists/aespa/overview.md) | 215 | <img src="https://i.scdn.co/image/ab67616d0000b273090cfa22962b115ac530674c" alt="Armageddon - The 1st Album" width="50" /> | [Long Chat (#♥)](../../artists/aespa/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736b6962e774af860e8ad4dee0" alt="TAP - The 2nd Mini Album" width="50" /> | TAP | 225 | <img src="https://i.scdn.co/image/ab67616d0000b273090cfa22962b115ac530674c" alt="Armageddon - The 1st Album" width="50" /> | [Set The Tone](../../artists/aespa/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="Wish You Hell - The 2nd Mini Album" width="50" /> | [Wish You Hell](../../artists/wendy/overview.md) | 226 | <img src="https://i.scdn.co/image/ab67616d0000b273090cfa22962b115ac530674c" alt="Armageddon - The 1st Album" width="50" /> | [Mine](../../artists/aespa/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="YUQ1" width="50" /> | [Red Rover](../../artists/yuqi/overview.md) | 227 | <img src="https://i.scdn.co/image/ab67616d0000b2735ba0dedb513880cf318f15cb" alt="Lose My Breath (Feat. Charlie Puth)" width="50" /> | [Lose My Breath (Feat. Charlie Puth)](../../artists/stray_kids/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="The Winning" width="50" /> | [Shh.. (Feat. HYEIN, WONSUN JOE & Special Narr. Patti Kim)](../../artists/iu/overview.md) | 238 | <img src="https://i.scdn.co/image/ab67616d0000b2736c498180e56f57e7d7bcdb86" alt="SEVENTEEN BEST ALBUM &#x27;17 IS RIGHT HERE&#x27;" width="50" /> | [MAESTRO](../../artists/seventeen/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="The Winning" width="50" /> | [Holssi](../../artists/iu/overview.md) | 57 | <img src="https://i.scdn.co/image/ab67616d0000b273ec449471d321ade6ee416230" alt="Troubleshooting" width="50" /> | Little Things | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="The Winning" width="50" /> | [Shh.. (Feat. HYEIN, WONSUN JOE & Special Narr. Patti Kim)](../../artists/iu/overview.md) | 161 | <img src="https://i.scdn.co/image/ab67616d0000b273f5a58b50c23c26f036418b10" alt="Straight Line" width="50" /> | Straight Line | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="The Winning" width="50" /> | [Shopper](../../artists/iu/overview.md) | 163 | <img src="https://i.scdn.co/image/ab67616d0000b2734f6afc385052250c766a5683" alt="BABYMONS7ER" width="50" /> | LIKE THAT | 2482 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b75a7d2227a1a032a8a776e5" alt="Fraggle Rock: Back To The Rock - Season 2 (Apple TV+ Original Series Soundtrack)" width="50" /> | [Get Goin'](../../artists/aespa/overview.md) | 164 | <img src="https://i.scdn.co/image/ab67616d0000b27355a4b0d253296e5fe7516d45" alt="DARK MOON SPECIAL ALBUM &lt;MEMORABILIA&gt;" width="50" /> | [Lucifer](../../artists/enhypen/overview.md) | 2479 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="The Winning" width="50" /> | [Love wins all](../../artists/iu/overview.md) | 166 | <img src="https://i.scdn.co/image/ab67616d0000b273a4dfc950d04a52b9efcd5c52" alt="Cheese" width="50" /> | Cheese | 2411 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273090cfa22962b115ac530674c" alt="Armageddon - The 1st Album" width="50" /> | [Supernova](../../artists/aespa/overview.md) | 170 | <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="COLOURS" width="50" /> | [Colors](../../artists/solar/overview.md) | 2241 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27323a426c84e07e245fd609d84" alt="Algorhythm" width="50" /> | [No Biggie](../../artists/itzy/overview.md) | 173 | <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="YUQ1" width="50" /> | [FREAK](../../artists/yuqi/overview.md) | 2238 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="With YOU-th" width="50" /> | [BLOOM](../../artists/twice/overview.md) | 174 | <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="Wish You Hell - The 2nd Mini Album" width="50" /> | [His Car Isn't Yours](../../artists/wendy/overview.md) | 2093 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="With YOU-th" width="50" /> | [ONE SPARK](../../artists/twice/overview.md) | 176 | <img src="https://i.scdn.co/image/ab67616d0000b273f36e973cb830845b56621f78" alt="Emptiness" width="50" /> | [Emptiness](../../artists/boa/overview.md) | 1960 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27311c27127b91e1e4266152362" alt="Die Trying" width="50" /> | [Die Trying](../../artists/aespa/overview.md) | 181 | <img src="https://i.scdn.co/image/ab67616d0000b273faad2d39e6eb398a6d5c8f47" alt="Feeling Lucky" width="50" /> | [Feeling Lucky](../../artists/bibi/overview.md) | 1948 |
 
 </details>
 
@@ -100,7 +100,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273090cfa22962b115ac530674c" alt="" width="50" /> | 10 | 8 | Armageddon - The 1st Album | 2024-05-27 | [🔗](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273090cfa22962b115ac530674c" alt="" width="50" /> | 9 | 8 | Armageddon - The 1st Album | 2024-05-27 | [🔗](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | 4 | 4 | Wish You Hell - The 2nd Mini Album | 2024-03-12 | [🔗](https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="" width="50" /> | 4 | 4 | IVE SWITCH | 2024-04-29 | [🔗](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27355a4b0d253296e5fe7516d45" alt="" width="50" /> | 4 | 4 | DARK MOON SPECIAL ALBUM <MEMORABILIA> | 2024-05-13 | [🔗](https://open.spotify.com/album/0OhJwEzXbK9Km6GQSPdmPU) |
@@ -153,7 +153,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 21 | 17 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 20 | 17 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 7 | 5 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
 | 5 | 5 | [Republic Records](../../labels/republic_records/overview.md) |
 | 6 | 4 | [RBW Inc.](../../labels/rbw_inc_/overview.md) |
@@ -197,7 +197,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 33 | 28 | [k-pop](../../genres/k-pop/overview.md) |
-| 27 | 23 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 26 | 23 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 11 | 9 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 8 | 7 | [pop](../../genres/pop/overview.md) |
 | 11 | 6 | [5th gen k-pop](../../genres/5th_gen_k-pop/overview.md) |
@@ -279,7 +279,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2024](2024/overview.md) | 75 |
+| [2024](2024/overview.md) | 74 |
 
 </details>
 

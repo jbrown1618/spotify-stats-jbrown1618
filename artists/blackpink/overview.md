@@ -20,26 +20,33 @@ BLACKPINK:
 BLACKPINK is currently:
 - The #19 artist of the last 6 months
 - The #12 artist of all time
+- The #3 artist overall
 
 ![Rank of BLACKPINK over time](../../images/artists/blackpink/rank_time_series.png)
 ## Top Tracks
 
-- DDU-DU DDU-DU is:
-    - the #17 track of the On Repeat playlist
-    - the #40 track of all time
-- Pink Venom is the #45 track of all time
 
 ### Top tracks, aggregated
 
 ![Track score ranking over time](../../images/artists/blackpink/track_rank_time_series_score.png)
 
-### Top tracks of all time over time
+
+<details>
+<summary>Top tracks of all time over time</summary>
 
 ![Line chart of top tracks of all time over time](../../images/artists/blackpink/track_rank_time_series_long_term.png)
 
-### Top tracks of the last 6 months over time
+</details>
+
+
+
+<details>
+<summary>Top tracks of the last 6 months over time</summary>
 
 ![Line chart of top tracks of the last 6 months over time](../../images/artists/blackpink/track_rank_time_series_medium_term.png)
+
+</details>
+
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
@@ -185,15 +192,15 @@ BLACKPINK is currently:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Pretty Savage | THE ALBUM | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 4 | 💚 | [🔗](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="" width="50" /> | Kill This Love | KILL THIS LOVE | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 6 | 💚 | [🔗](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="" width="50" /> | Kill This Love | KILL THIS LOVE | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 5 | 💚 | [🔗](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Crazy Over You | THE ALBUM | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 8 | 💚 | [🔗](https://open.spotify.com/track/7qq0EOPW4RRlqdvMBmdd73) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | How You Like That | THE ALBUM | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 10 | 💚 | [🔗](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Pink Venom | BORN PINK | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 41 | 💚 | [🔗](https://open.spotify.com/track/6stcJnJHPO8RrYx5LLz5OP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | DDU-DU DDU-DU | SQUARE UP | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 78 | 💚 | [🔗](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="" width="50" /> | BOOMBAYAH | SQUARE ONE | [BLACKPINK](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 108 | 💚 | [🔗](https://open.spotify.com/track/13MF2TYuyfITClL1R2ei6e) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Shut Down | BORN PINK | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 124 | 💚 | [🔗](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="" width="50" /> | WHISTLE | SQUARE ONE | [BLACKPINK](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 153 | 💚 | [🔗](https://open.spotify.com/track/6NEoeBLQbOMw92qMeLfI40) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Hard to Love | BORN PINK | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 202 | 💚 | [🔗](https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | How You Like That | THE ALBUM | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 9 | 💚 | [🔗](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Pink Venom | BORN PINK | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 39 | 💚 | [🔗](https://open.spotify.com/track/6stcJnJHPO8RrYx5LLz5OP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | DDU-DU DDU-DU | SQUARE UP | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 68 | 💚 | [🔗](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="" width="50" /> | BOOMBAYAH | SQUARE ONE | [BLACKPINK](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 96 | 💚 | [🔗](https://open.spotify.com/track/13MF2TYuyfITClL1R2ei6e) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Shut Down | BORN PINK | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 103 | 💚 | [🔗](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="" width="50" /> | WHISTLE | SQUARE ONE | [BLACKPINK](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 123 | 💚 | [🔗](https://open.spotify.com/track/6NEoeBLQbOMw92qMeLfI40) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Hard to Love | BORN PINK | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 178 | 💚 | [🔗](https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q) |
 
 
 <details>
@@ -201,26 +208,26 @@ BLACKPINK is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | PLAYING WITH FIRE | SQUARE TWO | [BLACKPINK](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 503 | 💚 | [🔗](https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Typa Girl | BORN PINK | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 614 | 💚 | [🔗](https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Sour Candy (with BLACKPINK) | Chromatica | [Lady Gaga](../lady_gaga/overview.md), [BLACKPINK](overview.md) | [Interscope](../../labels/interscope_records) | 621 | 💚 | [🔗](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | STAY | SQUARE TWO | [BLACKPINK](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | nan | | [🔗](https://open.spotify.com/track/3tP6QKbXvtrxiDI7QwKyUf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac93d8b1bd84fa6b5291ba21" alt="" width="50" /> | As If It's Your Last | As If It's Your Last | [BLACKPINK](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/4ZxOuNHhpyOj4gv52MtQpT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | Forever Young | SQUARE UP | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/6veFyjNycn6EaNCKhkPXUY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | Really | SQUARE UP | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | nan | | [🔗](https://open.spotify.com/track/2URMA0ap6SAI8wFmcY1yta) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | See U Later | SQUARE UP | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | nan | | [🔗](https://open.spotify.com/track/2REoTZjaB3jyAt5dgkV5GK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ae395b47b186c2bc8c458e0f" alt="" width="50" /> | Kiss and Make Up | Dua Lipa (Complete Edition) | [Dua Lipa](../dua_lipa/overview.md), [BLACKPINK](overview.md) | [Warner Records](../../labels/warner_records) | nan | 💚 | [🔗](https://open.spotify.com/track/7jr3iPu4O4bTCVwLMbdU2i) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="" width="50" /> | Don't Know What To Do | KILL THIS LOVE | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/38SKB7UfhL6Sd6Joxex5yK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="" width="50" /> | Hope Not | KILL THIS LOVE | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | nan | | [🔗](https://open.spotify.com/track/3eZD5DZGibwxMAOaCMBg3k) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="" width="50" /> | Kick It | KILL THIS LOVE | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | nan | | [🔗](https://open.spotify.com/track/4rsoLz7ZY1Ldz8dpm4Lqtg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Ice Cream (with Selena Gomez) | THE ALBUM | [BLACKPINK](overview.md), Selena Gomez | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | nan | | [🔗](https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Love To Hate Me | THE ALBUM | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/7iKDsPfLT0d5mu2htfMKBZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Lovesick Girls | THE ALBUM | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | You Never Know | THE ALBUM | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/39kzWAiVPpycdMpr745oPj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Ready For Love | BORN PINK | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | nan | | [🔗](https://open.spotify.com/track/7Dq4YNgsltQuTmhYz1wJzq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Tally | BORN PINK | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/0bYVPJvXr8ACmw313cVvhB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | The Happiest Girl | BORN PINK | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/1XoY4WZrvPIphBaikXGjF8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Yeah Yeah Yeah | BORN PINK | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | nan | 💚 | [🔗](https://open.spotify.com/track/5TfKoQg9AjmDIWYKFoDqMN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | PLAYING WITH FIRE | SQUARE TWO | [BLACKPINK](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 253 | 💚 | [🔗](https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Typa Girl | BORN PINK | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 260 | 💚 | [🔗](https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Sour Candy (with BLACKPINK) | Chromatica | [Lady Gaga](../lady_gaga/overview.md), [BLACKPINK](overview.md) | [Interscope](../../labels/interscope_records) | 395 | 💚 | [🔗](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Tally | BORN PINK | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 957 | 💚 | [🔗](https://open.spotify.com/track/0bYVPJvXr8ACmw313cVvhB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | The Happiest Girl | BORN PINK | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 1140 | 💚 | [🔗](https://open.spotify.com/track/1XoY4WZrvPIphBaikXGjF8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | See U Later | SQUARE UP | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 1363 | | [🔗](https://open.spotify.com/track/2REoTZjaB3jyAt5dgkV5GK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | Really | SQUARE UP | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 1382 | | [🔗](https://open.spotify.com/track/2URMA0ap6SAI8wFmcY1yta) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="" width="50" /> | Don't Know What To Do | KILL THIS LOVE | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 1522 | 💚 | [🔗](https://open.spotify.com/track/38SKB7UfhL6Sd6Joxex5yK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | You Never Know | THE ALBUM | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 1526 | 💚 | [🔗](https://open.spotify.com/track/39kzWAiVPpycdMpr745oPj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="" width="50" /> | Hope Not | KILL THIS LOVE | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 1640 | | [🔗](https://open.spotify.com/track/3eZD5DZGibwxMAOaCMBg3k) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27318a4a215052e9f396864bd73" alt="" width="50" /> | STAY | SQUARE TWO | [BLACKPINK](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 1693 | | [🔗](https://open.spotify.com/track/3tP6QKbXvtrxiDI7QwKyUf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Ice Cream (with Selena Gomez) | THE ALBUM | [BLACKPINK](overview.md), Selena Gomez | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 1782 | | [🔗](https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Lovesick Girls | THE ALBUM | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 1834 | 💚 | [🔗](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac93d8b1bd84fa6b5291ba21" alt="" width="50" /> | As If It's Your Last | As If It's Your Last | [BLACKPINK](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 1846 | 💚 | [🔗](https://open.spotify.com/track/4ZxOuNHhpyOj4gv52MtQpT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="" width="50" /> | Kick It | KILL THIS LOVE | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 1912 | | [🔗](https://open.spotify.com/track/4rsoLz7ZY1Ldz8dpm4Lqtg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Yeah Yeah Yeah | BORN PINK | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 2062 | 💚 | [🔗](https://open.spotify.com/track/5TfKoQg9AjmDIWYKFoDqMN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | Forever Young | SQUARE UP | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 2401 | 💚 | [🔗](https://open.spotify.com/track/6veFyjNycn6EaNCKhkPXUY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Ready For Love | BORN PINK | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 2473 | | [🔗](https://open.spotify.com/track/7Dq4YNgsltQuTmhYz1wJzq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | Love To Hate Me | THE ALBUM | [BLACKPINK](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 2543 | 💚 | [🔗](https://open.spotify.com/track/7iKDsPfLT0d5mu2htfMKBZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ae395b47b186c2bc8c458e0f" alt="" width="50" /> | Kiss and Make Up | Dua Lipa (Complete Edition) | [Dua Lipa](../dua_lipa/overview.md), [BLACKPINK](overview.md) | [Warner Records](../../labels/warner_records) | 2549 | 💚 | [🔗](https://open.spotify.com/track/7jr3iPu4O4bTCVwLMbdU2i) |
 
 </details>
 

@@ -21,6 +21,7 @@ LOONA:
 - has member Yves
 
 ## Artist Rank
+- The #91 artist overall
 
 ![Rank of LOONA over time](../../images/artists/loona/rank_time_series.png)
 ## Top Tracks
@@ -109,10 +110,10 @@ LOONA:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c985aeaeccb1db38dddf2986" alt="" width="50" /> | So What | [#] | [LOONA](overview.md) | BlockBerryCreative | 236 | 💚 | [🔗](https://open.spotify.com/track/1ry2mTVmAJHbNLzl5qww5v) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737f7c1a61a2d58eae2a3e1487" alt="" width="50" /> | Kiss Later (YeoJin) | YeoJin | [LOONA](overview.md) | BlockberryCreative | nan | 💚 | [🔗](https://open.spotify.com/track/6WLfBd2KFL8iuU57qy9HqI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273619b758232a962e9ddf45f97" alt="" width="50" /> | Star | [12:00] | [LOONA](overview.md) | BlockBerryCreative | nan | | [🔗](https://open.spotify.com/track/4wGt2KmqMQ7LC5bqPi51sf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273619b758232a962e9ddf45f97" alt="" width="50" /> | Why Not? | [12:00] | [LOONA](overview.md) | BlockBerryCreative | nan | 💚 | [🔗](https://open.spotify.com/track/6yGQ86UppYULzTCxAWgwVN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273608cf05fbd3605c77444917f" alt="" width="50" /> | PTT (Paint The Town) | [&] | [LOONA](overview.md) | BlockBerry Creative | nan | 💚 | [🔗](https://open.spotify.com/track/5awNIWVrh2ISfvPd5IUZNh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735fe0013ebb4022adc0f042be" alt="" width="50" /> | Flip That | Summer Special [Flip That] | [LOONA](overview.md) | [WM Korea](../../labels/wm_korea) | nan | 💚 | [🔗](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735fe0013ebb4022adc0f042be" alt="" width="50" /> | POSE | Summer Special [Flip That] | [LOONA](overview.md) | [WM Korea](../../labels/wm_korea) | nan | | [🔗](https://open.spotify.com/track/2BdGXQ4MjeYCZ9JNte85Q4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c985aeaeccb1db38dddf2986" alt="" width="50" /> | So What | [#] | [LOONA](overview.md) | BlockBerryCreative | 512 | 💚 | [🔗](https://open.spotify.com/track/1ry2mTVmAJHbNLzl5qww5v) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735fe0013ebb4022adc0f042be" alt="" width="50" /> | POSE | Summer Special [Flip That] | [LOONA](overview.md) | [WM Korea](../../labels/wm_korea) | 1308 | | [🔗](https://open.spotify.com/track/2BdGXQ4MjeYCZ9JNte85Q4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273619b758232a962e9ddf45f97" alt="" width="50" /> | Star | [12:00] | [LOONA](overview.md) | BlockBerryCreative | 1927 | | [🔗](https://open.spotify.com/track/4wGt2KmqMQ7LC5bqPi51sf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273608cf05fbd3605c77444917f" alt="" width="50" /> | PTT (Paint The Town) | [&] | [LOONA](overview.md) | BlockBerry Creative | 2084 | 💚 | [🔗](https://open.spotify.com/track/5awNIWVrh2ISfvPd5IUZNh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f7c1a61a2d58eae2a3e1487" alt="" width="50" /> | Kiss Later (YeoJin) | YeoJin | [LOONA](overview.md) | BlockberryCreative | 2306 | 💚 | [🔗](https://open.spotify.com/track/6WLfBd2KFL8iuU57qy9HqI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273619b758232a962e9ddf45f97" alt="" width="50" /> | Why Not? | [12:00] | [LOONA](overview.md) | BlockBerryCreative | 2413 | 💚 | [🔗](https://open.spotify.com/track/6yGQ86UppYULzTCxAWgwVN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735fe0013ebb4022adc0f042be" alt="" width="50" /> | Flip That | Summer Special [Flip That] | [LOONA](overview.md) | [WM Korea](../../labels/wm_korea) | 2519 | 💚 | [🔗](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) |

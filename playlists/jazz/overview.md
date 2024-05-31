@@ -82,16 +82,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Tetris Theme A (From "Tetris")](../../artists/the_8-bit_big_band/overview.md) | 284 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="Inner Motion" width="50" /> | South East Quarter | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="Billie Holiday" width="50" /> | I'll Be Seeing You | 366 | <img src="https://i.scdn.co/image/ab67616d0000b2732def9ef3f6a82c8d6fd8c143" alt="Duke Ellington &amp; John Coltrane" width="50" /> | In A Sentimental Mood | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [He Won't Hold You (feat. Rapsody)](../../artists/jacob_collier/overview.md) | 425 | <img src="https://i.scdn.co/image/ab67616d0000b273bcaf6f097b310e20504f2de0" alt="Chet Baker Sings" width="50" /> | I Fall In Love Too Easily | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="The Great American Songbook" width="50" /> | Mack the Knife | 435 | <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="Ella: The Legendary Decca Recordings" width="50" /> | Dream A Little Dream Of Me | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="Solitude" width="50" /> | Blue Moon | 465 | <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Still Alive (From "Portal")](../../artists/the_8-bit_big_band/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [Running Outta Love (feat. Tori Kelly)](../../artists/jacob_collier/overview.md) | 545 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="Inner Motion" width="50" /> | Coconut Roads | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="Djesse Vol. 1" width="50" /> | [Every Little Thing She Does Is Magic](../../artists/jacob_collier/overview.md) | 550 | <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="Djesse Vol. 2" width="50" /> | [Here Comes The Sun (feat. dodie)](../../artists/jacob_collier/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="Djesse Vol. 2" width="50" /> | [Moon River](../../artists/jacob_collier/overview.md) | 634 | <img src="https://i.scdn.co/image/ab67616d0000b27372fb9383a4e394271146d94c" alt="Breakfast on the Morning Tram" width="50" /> | Breakfast on the Morning Tram | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="At Last!" width="50" /> | Stormy Weather | 648 | <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="Nobody but Me" width="50" /> | [Someday (feat. Meghan Trainor)](../../artists/michael_bublé/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="The Complete Ella And Louis On Verve" width="50" /> | Cheek To Cheek | 655 | <img src="https://i.scdn.co/image/ab67616d0000b27343c7453d0338f82a05464751" alt="In My Room" width="50" /> | [You And I](../../artists/jacob_collier/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [He Won't Hold You (feat. Rapsody)](../../artists/jacob_collier/overview.md) | 462 | <img src="https://i.scdn.co/image/ab67616d0000b273417cc363d7286a88489dee3c" alt="Getz/Gilberto (Expanded Edition)" width="50" /> | The Girl From Ipanema | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [Running Outta Love (feat. Tori Kelly)](../../artists/jacob_collier/overview.md) | 463 | <img src="https://i.scdn.co/image/ab67616d0000b27300ace5d3c5bffc123ef1eb51" alt="Time Out" width="50" /> | Blue Rondo à la Turk | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="Djesse Vol. 1" width="50" /> | [Every Little Thing She Does Is Magic](../../artists/jacob_collier/overview.md) | 464 | <img src="https://i.scdn.co/image/ab67616d0000b2737bc42f3bfb5b7cfe28fbee25" alt="After Hours" width="50" /> | Just Friends | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="Djesse Vol. 2" width="50" /> | [Moon River](../../artists/jacob_collier/overview.md) | 466 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="Romance" width="50" /> | L-O-V-E - 2000 Remaster | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Tetris Theme A (From "Tetris")](../../artists/the_8-bit_big_band/overview.md) | 550 | <img src="https://i.scdn.co/image/ab67616d0000b273b2ef9d24ed47c5d44d22adb8" alt="Make Someone Happy" width="50" /> | Something In The Air Between Us | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="It&#x27;s Time" width="50" /> | [Feeling Good](../../artists/michael_bublé/overview.md) | 557 | <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="Luck Of The Draw" width="50" /> | I Can't Make You Love Me | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="Michael Bublé" width="50" /> | [Moondance](../../artists/michael_bublé/overview.md) | 562 | <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="Unforgettable: With Love" width="50" /> | L-O-V-E | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="Billie Holiday" width="50" /> | I'll Be Seeing You | 582 | <img src="https://i.scdn.co/image/ab67616d0000b273644aec058f5a108fac6ec0fb" alt="A Charlie Brown Christmas [2012 Remastered &amp; Expanded Edition]" width="50" /> | Linus And Lucy | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="Solitude" width="50" /> | Blue Moon | 609 | <img src="https://i.scdn.co/image/ab67616d0000b2736c690daf9854f3b9267c9aeb" alt="A Day In The Life" width="50" /> | A Day In The Life | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="The Complete Ella And Louis On Verve" width="50" /> | Cheek To Cheek | 629 | <img src="https://i.scdn.co/image/ab67616d0000b273d2d2df3486c5c45d238b2e25" alt="Sophie Milman" width="50" /> | Agua De Beber | 2599 |
 
 </details>
 
@@ -243,7 +243,7 @@
 |---:|---:|:---|
 | 11 | 3 | swing |
 | 5 | 3 | torch song |
-| 8 | 2 | easy listening |
+| 7 | 2 | easy listening |
 | 2 | 2 | soul blues |
 | 7 | 1 | jazz trumpet |
 | 7 | 1 | harlem renaissance |

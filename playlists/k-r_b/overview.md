@@ -30,7 +30,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4595a87e939a095e83808896" alt="" width="50" /> | 4 | 3 | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcc49d848195e8e843860fe7b" alt="" width="50" /> | 4 | 3 | Jay Park | [🔗](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb15422eafa9652b98103d4a52" alt="" width="50" /> | 3 | 3 | Wonstein | [🔗](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1722d31b67b9f5a48e94e465" alt="" width="50" /> | 3 | 3 | AILEE | [🔗](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | 3 | 3 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
@@ -81,7 +81,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb23e614922b351df9c2e93a2b" alt="" width="50" /> | 1 | 1 | MAX | [🔗](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1787f6596afa03df2d44af87" alt="" width="50" /> | 1 | 1 | YOON MIRAE | [🔗](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba9be0c2f235599ed9351ebea" alt="" width="50" /> | 1 | 1 | Dok2 | [🔗](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27357354d0cf206b5e890a45b15" alt="" width="50" /> | 1 | 1 | dj friz | [🔗](https://open.spotify.com/artist/0js3wKXyi7RL11sfOykRt1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0c7eeb314e52270af39920d" alt="" width="50" /> | 1 | 1 | dj friz | [🔗](https://open.spotify.com/artist/0js3wKXyi7RL11sfOykRt1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfc127b34fde8611765a74301" alt="" width="50" /> | 1 | 1 | Sarah Kang | [🔗](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c8fe4d8c72bbd833ceaf202" alt="" width="50" /> | 1 | 1 | Coogie | [🔗](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb8997aa3a0038f3deafd5706" alt="" width="50" /> | 2 | 0 | Whee In | [🔗](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) |
@@ -118,16 +118,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 9 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8b444d9bac4765e069b31b" alt="Miracle - SM STATION" width="50" /> | [Miracle](../../artists/wendy/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 45 | <img src="https://i.scdn.co/image/ab67616d0000b27362483e4a96b7566d2440fc91" alt="timeabout," width="50" /> | Insomnia | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | [ONLY](../../artists/leehi/overview.md) | 63 | <img src="https://i.scdn.co/image/ab67616d0000b273632620401c34d07336a091bc" alt="Natural" width="50" /> | Natural | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | [Animal Farm](../../artists/bibi/overview.md) | 105 | <img src="https://i.scdn.co/image/ab67616d0000b273c4e45c31f67f534bcd00bc4e" alt="Blaze" width="50" /> | Blaze | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732c0252c4e4a988f024e4d262" alt="WINE" width="50" /> | WINE (Feat.Changmo) (Prod. SUGA) | 128 | <img src="https://i.scdn.co/image/ab67616d0000b2738c0903b4b02840c57f103db4" alt="City Lights - The 1st Mini Album" width="50" /> | [UN Village](../../artists/baekhyun/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="SEOULITE" width="50" /> | [HOLD MY HAND](../../artists/leehi/overview.md) | 147 | <img src="https://i.scdn.co/image/ab67616d0000b2737f22ff3c2da84dfc06101e23" alt="And July" width="50" /> | [And July](../../artists/heize/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cbcd67f202be276ccda69ab3" alt="FLIGHT" width="50" /> | FLIGHT | 167 | <img src="https://i.scdn.co/image/ab67616d0000b27361166666e32b86c3e9a7b78b" alt="Some" width="50" /> | Some (feat. Lil Boi) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733b414bbbf73c81957c8b7541" alt="Last Winter" width="50" /> | [FM 89.1](../../artists/heize/overview.md) | 174 | <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="SAILING" width="50" /> | [How can I love the heartbreak, you're the one I love](../../artists/akmu/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="Love Lee" width="50" /> | [Love Lee](../../artists/akmu/overview.md) | 199 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="24℃" width="50" /> | [NO ONE](../../artists/leehi/overview.md) | nan |
-| <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="Undo" width="50" /> | [Undo](../../artists/heize/overview.md) | 207 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="24℃" width="50" /> | [NO WAY](../../artists/leehi/overview.md) | nan |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 12 | <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="Sorry" width="50" /> | [Sorry](../../artists/the_rose/overview.md) | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 58 | <img src="https://i.scdn.co/image/ab67616d0000b273058833119cfac69bc09b11a2" alt="DIE 4 YOU" width="50" /> | DIE 4 YOU | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | [ONLY](../../artists/leehi/overview.md) | 62 | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Your Existence | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="SEOULITE" width="50" /> | [HOLD MY HAND](../../artists/leehi/overview.md) | 144 | <img src="https://i.scdn.co/image/ab67616d0000b273bd4eb965fa72ec926c40830d" alt="Summer Is for Falling in Love" width="50" /> | Summer Is for Falling in Love | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a40f1624faabce03d3eabbb" alt="Bittersweet (feat. LeeHi)" width="50" /> | Bittersweet (feat. LeeHi) | 286 | <img src="https://i.scdn.co/image/ab67616d0000b27318974569625e8449a5497ef3" alt="130 Mood : TRBL" width="50" /> | Bonnie & Clyde | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="SEOULITE" width="50" /> | [BREATHE](../../artists/leehi/overview.md) | 287 | <img src="https://i.scdn.co/image/ab67616d0000b2735b82fbf68179592aa8101ce9" alt="Black Diaryy" width="50" /> | Cheetos (feat. ZENE THE ZILLA) | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="24℃" width="50" /> | [20MIN](../../artists/leehi/overview.md) | 288 | <img src="https://i.scdn.co/image/ab67616d0000b273a93c207b94cbb802b1efefa1" alt="MOTH" width="50" /> | Phase Me | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a8c4052083fb4e80d1819445" alt="For You" width="50" /> | [For You](../../artists/leehi/overview.md) | 289 | <img src="https://i.scdn.co/image/ab67616d0000b273ec449471d321ade6ee416230" alt="Troubleshooting" width="50" /> | Little Things | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735292f306c4d8210b521cea4d" alt="1,2,3,4" width="50" /> | [1, 2, 3, 4](../../artists/leehi/overview.md) | 297 | <img src="https://i.scdn.co/image/ab67616d0000b273010bed9776d417a0da12cc9c" alt="Love Story" width="50" /> | Love Story (Feat. CRUSH) | 2599 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | [Savior (feat. B.I)](../../artists/leehi/overview.md) | 300 | <img src="https://i.scdn.co/image/ab67616d0000b2734a90c2921f01f4b0b2e54b32" alt="NEON" width="50" /> | NEON | 2599 |
 
 </details>
 
