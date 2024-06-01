@@ -10,7 +10,7 @@ Appears as:
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe9dd6110fc47f859a9bbd2d2" alt="" width="50" /> | 10 | 6 | [ATEEZ](../../artists/ateez/overview.md) | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf8ae485831cf4c3a568dc313" alt="" width="50" /> | 10 | 6 | [ATEEZ](../../artists/ateez/overview.md) | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 
 
 
@@ -75,13 +75,13 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="" width="50" /> | HALAZIA | SPIN OFF : FROM THE WITNESS | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 281 | 💚 | [🔗](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733714e924e5570c4d2df97e09" alt="" width="50" /> | Deja Vu | ZERO : FEVER Part.3 | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 432 | 💚 | [🔗](https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273be3a0f924ad08d95b4e25d9f" alt="" width="50" /> | Answer | TREASURE EPILOGUE : Action To Answer | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 441 | 💚 | [🔗](https://open.spotify.com/track/3IdPtyJHB1WVPM4eCiCAKM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273decdd40044544f29075673d2" alt="" width="50" /> | WONDERLAND | TREASURE EP.FIN : All To Action | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 442 | 💚 | [🔗](https://open.spotify.com/track/6k67RdkVjTZj79c1cRz7IQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27349ae714ee0bf50ca0838ed0f" alt="" width="50" /> | Guerrilla | THE WORLD EP.1 : MOVEMENT | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 1022 | 💚 | [🔗](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27349ae714ee0bf50ca0838ed0f" alt="" width="50" /> | Cyberpunk | THE WORLD EP.1 : MOVEMENT | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 1305 | | [🔗](https://open.spotify.com/track/2Ax4rdLenBhULX7nRbhful) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aaf833882fd0d8d943b9c0c0" alt="" width="50" /> | HALA HALA (Hearts Awakened, Live Alive) | TREASURE EP.2 : Zero To One | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 1923 | | [🔗](https://open.spotify.com/track/4v2BLMhWtVvBnZwuoiKxja) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c3e44ef30eacbbe0ec98598c" alt="" width="50" /> | The Black Cat Nero | Season Songs | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment, TURBO JK Company](.) | 2006 | 💚 | [🔗](https://open.spotify.com/track/5GCkHlq2lxmtSlAhiLpnjq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d3bd435519e703173663770" alt="" width="50" /> | Pirate King | TREASURE EP.1 : All to Zero | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 2023 | | [🔗](https://open.spotify.com/track/5Jl2i6LR3Socm4TYqRzZw3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ba27e1c8a572e31571a4d589" alt="" width="50" /> | BOUNCY (K-HOT CHILLI PEPPERS) | THE WORLD EP.2 : OUTLAW | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 2028 | | [🔗](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="" width="50" /> | HALAZIA | SPIN OFF : FROM THE WITNESS | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 282 | 💚 | [🔗](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733714e924e5570c4d2df97e09" alt="" width="50" /> | Deja Vu | ZERO : FEVER Part.3 | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 434 | 💚 | [🔗](https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273be3a0f924ad08d95b4e25d9f" alt="" width="50" /> | Answer | TREASURE EPILOGUE : Action To Answer | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 443 | 💚 | [🔗](https://open.spotify.com/track/3IdPtyJHB1WVPM4eCiCAKM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273decdd40044544f29075673d2" alt="" width="50" /> | WONDERLAND | TREASURE EP.FIN : All To Action | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 444 | 💚 | [🔗](https://open.spotify.com/track/6k67RdkVjTZj79c1cRz7IQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27349ae714ee0bf50ca0838ed0f" alt="" width="50" /> | Guerrilla | THE WORLD EP.1 : MOVEMENT | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 1026 | 💚 | [🔗](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27349ae714ee0bf50ca0838ed0f" alt="" width="50" /> | Cyberpunk | THE WORLD EP.1 : MOVEMENT | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 1308 | | [🔗](https://open.spotify.com/track/2Ax4rdLenBhULX7nRbhful) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aaf833882fd0d8d943b9c0c0" alt="" width="50" /> | HALA HALA (Hearts Awakened, Live Alive) | TREASURE EP.2 : Zero To One | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 1926 | | [🔗](https://open.spotify.com/track/4v2BLMhWtVvBnZwuoiKxja) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c3e44ef30eacbbe0ec98598c" alt="" width="50" /> | The Black Cat Nero | Season Songs | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment, TURBO JK Company](.) | 2008 | 💚 | [🔗](https://open.spotify.com/track/5GCkHlq2lxmtSlAhiLpnjq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d3bd435519e703173663770" alt="" width="50" /> | Pirate King | TREASURE EP.1 : All to Zero | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 2025 | | [🔗](https://open.spotify.com/track/5Jl2i6LR3Socm4TYqRzZw3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ba27e1c8a572e31571a4d589" alt="" width="50" /> | BOUNCY (K-HOT CHILLI PEPPERS) | THE WORLD EP.2 : OUTLAW | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 2030 | | [🔗](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) |

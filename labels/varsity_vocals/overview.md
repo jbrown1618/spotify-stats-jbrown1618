@@ -17,7 +17,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb78999d4b6fb0847081e2f479" alt="" width="50" /> | 3 | 0 | SoCal VoCals | [🔗](https://open.spotify.com/artist/5L30XpwHG77eWCZtelTns9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb504c57086f85855719dba0e3" alt="" width="50" /> | 3 | 0 | Tufts Beelzebubs | [🔗](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c4a9d4a5f8004ad4d0195aa" alt="" width="50" /> | 3 | 0 | The Nor'easters | [🔗](https://open.spotify.com/artist/1aLfVgwt8eBrpvHcutWmqe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ab5fe6898b34c6fb3d546bf" alt="" width="50" /> | 3 | 0 | The Virginia Sil'hooettes | [🔗](https://open.spotify.com/artist/0LKgClZwZKGhM5BkCzjfMX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273583e74176372c85d698af382" alt="" width="50" /> | 3 | 0 | The Virginia Sil'hooettes | [🔗](https://open.spotify.com/artist/0LKgClZwZKGhM5BkCzjfMX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d31148f43345a656ba8ae76" alt="" width="50" /> | 2 | 0 | The Dartmouth Aires | [🔗](https://open.spotify.com/artist/71Cez1b1NqsxIn5u8XNiQD) |
 | | 2 | 0 | Deke Sharon | [🔗](https://open.spotify.com/artist/6eWNb9yuroBpPcQ4sOkL1e) |
 | | 2 | 0 | Don Gooding | [🔗](https://open.spotify.com/artist/66iv9KzffeiANddjYouG6U) |
@@ -135,7 +135,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="" width="50" /> | Gravity | BOCA 2004: Best Of College A Cappella | Awaken A Cappella, [Sara Bareilles](../../artists/sara_bareilles/overview.md), Don Gooding, Bill Hare, Gabe Hendifar, Deke Sharon | [Varsity Vocals](.) | 935 | | [🔗](https://open.spotify.com/track/0W94b6tM78Miftv7W5tOX2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="" width="50" /> | Gravity | BOCA 2004: Best Of College A Cappella | Awaken A Cappella, [Sara Bareilles](../../artists/sara_bareilles/overview.md), Don Gooding, Bill Hare, Gabe Hendifar, Deke Sharon | [Varsity Vocals](.) | 939 | | [🔗](https://open.spotify.com/track/0W94b6tM78Miftv7W5tOX2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="" width="50" /> | My Happy Ending | BOCA 2006: Best Of College A Cappella | The Loreleis, Varsity Vocals, Kat Dunbar Linker, Deke Sharon, Bill Hare, Delia Darney, Elizabeth Wright, Don Gooding, Erika Petty | [Varsity Vocals](.) | 2599 | | [🔗](https://open.spotify.com/track/7umin6cK2uTjk1BwLMKzJ9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="" width="50" /> | First Train Home | BOCA 2011: Best Of College A Cappella | The Bostonians | [Varsity Vocals](.) | 2599 | | [🔗](https://open.spotify.com/track/1AFKgrcUEWCjMvnfhMgQAH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="" width="50" /> | High And Dry | BOCA 2011: Best Of College A Cappella | N'Harmonics | [Varsity Vocals](.) | 2599 | | [🔗](https://open.spotify.com/track/7pjIkpcS5y38CuI4JRfJru) |

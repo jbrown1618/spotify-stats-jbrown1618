@@ -10,7 +10,7 @@ Imogen Heap:
 - is a member of Frou Frou
 
 ## Artist Rank
-- The #395 artist overall
+- The #396 artist overall
 
 
 ## Featured on Playlists

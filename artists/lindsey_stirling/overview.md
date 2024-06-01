@@ -5,7 +5,7 @@
 <img src="https://i.scdn.co/image/ab6761610000e5eb36c6fa1b8ff851988de641f8" alt="Lindsey Stirling" width="100" />
 
 ## Artist Rank
-- The #395 artist overall
+- The #396 artist overall
 
 
 ## Top Tracks
@@ -95,7 +95,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Papaoutai (Stromae Cover) (feat. Lindsey Stirling) | PTX, Vol. III | [Pentatonix](../pentatonix/overview.md), [Lindsey Stirling](overview.md) | [RCA Records Label](../../labels/rca_records_label) | 1793 | 💚 | [🔗](https://open.spotify.com/track/4LeTorR5FyWgxM3zZI7Qii) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Papaoutai (Stromae Cover) (feat. Lindsey Stirling) | PTX, Vol. III | [Pentatonix](../pentatonix/overview.md), [Lindsey Stirling](overview.md) | [RCA Records Label](../../labels/rca_records_label) | 1796 | 💚 | [🔗](https://open.spotify.com/track/4LeTorR5FyWgxM3zZI7Qii) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="" width="50" /> | Radioactive | PTX | [Pentatonix](../pentatonix/overview.md), [Lindsey Stirling](overview.md) | [RCA Records Label](../../labels/rca_records_label) | 2523 | 💚 | [🔗](https://open.spotify.com/track/7dJGehjbhJvs3K4fWwYTW1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="" width="50" /> | Crystallize | Lindsey Stirling | [Lindsey Stirling](overview.md) | Lindseystomp Records | 2599 | 💚 | [🔗](https://open.spotify.com/track/5JFkuKQsPps2ZaZzaLx63d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="" width="50" /> | Song of the Caged Bird | Lindsey Stirling | [Lindsey Stirling](overview.md) | Lindseystomp Records | 2599 | 💚 | [🔗](https://open.spotify.com/track/1rmCtRmkQXWKRhBi91NX3z) |

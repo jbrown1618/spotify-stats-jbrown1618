@@ -20,24 +20,24 @@
 
 | track_name | album_name | artist_name | track_popularity | album_popularity | artist_popularity |
 |:---|:---|:---|---:|---:|---:|
-| Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
-| Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": II. Largo | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
-| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
-| Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": I. Allegro non molto | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 38 |
-| Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": III. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
-| Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": III. Allegro (Danza pastorale) | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 38 |
-| Violin Concerto in G Minor, Op. 8, No. 2, RV 315 "L'estate": III. Presto (Tempo impetuoso d'estate) | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 38 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
-| Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": I. Allegro non molto - Allegro | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 38 |
-| Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": II. Adagio - Presto - Adagio | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
-| Violin Concerto in E Major, Op. 8, No. 1, RV 269 "La Primavera": I. Allegro | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 38 |
-| Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": II. Largo | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
-| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: II. Largo | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
-| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: III. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
-| Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": I. Allegro (Ballo, e canto de' villanelli) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
-| Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": III. Allegro (La caccia) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 38 |
+| Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 39 |
+| Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": II. Largo | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 39 |
+| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 39 |
+| Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": I. Allegro non molto | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 39 |
+| Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": III. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 39 |
+| Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": III. Allegro (Danza pastorale) | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 39 |
+| Violin Concerto in G Minor, Op. 8, No. 2, RV 315 "L'estate": III. Presto (Tempo impetuoso d'estate) | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 39 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 39 |
+| Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": I. Allegro non molto - Allegro | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 39 |
+| Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": II. Adagio - Presto - Adagio | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 39 |
+| Violin Concerto in E Major, Op. 8, No. 1, RV 269 "La Primavera": I. Allegro | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 39 |
+| Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": II. Largo | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 39 |
+| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: II. Largo | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 39 |
+| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: III. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 39 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 39 |
+| Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": I. Allegro (Ballo, e canto de' villanelli) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 39 |
+| Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": III. Allegro (La caccia) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 39 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 39 |
 | Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro) | Vivaldi: Four Seasons | David Reichenberg | 0 | 2 | 28 |
 | Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: II. Largo | Vivaldi: Four Seasons | David Reichenberg | 0 | 2 | 28 |
 | Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: III. Allegro | Vivaldi: Four Seasons | David Reichenberg | 0 | 2 | 28 |
@@ -76,7 +76,7 @@
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 30 |
 | Drink It | Drink It | THE BOYZ | 0 | 0 | 56 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 49 |
-| Think About Things | Think About Things | Daði Freyr | 0 | 0 | 49 |
+| Think About Things | Think About Things | Daði Freyr | 2 | 0 | 49 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 49 |
 | I Want To Break Free | The Works | Queen | 0 | 0 | 82 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 82 |
@@ -94,7 +94,7 @@
 | The Legend Of Zelda: Twilight Princess - Midna's Desperate Hour | Piano/Instrumental Works: Video Game Themes - Volume I | Michael Tai | 0 | 0 | 38 |
 | Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | 0 | 0 | 54 |
 | Just The Way You Are | Little Love - EP | James Smith | 0 | 0 | 50 |
-| I will show you | Invitation | AILEE | 0 | 0 | 55 |
+| I will show you | Invitation | AILEE | 0 | 0 | 56 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 59 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 53 |
 | Timshel | Sigh No More | Mumford & Sons | 0 | 0 | 69 |
@@ -113,8 +113,8 @@
 | You Calling My Name | Call My Name | GOT7 | 0 | 0 | 57 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 73 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 77 |
-| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 1 | 0 | 57 |
-| Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 1 | 0 | 59 |
+| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 57 |
+| Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 59 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 71 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 73 |
 | Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 63 |
@@ -122,7 +122,7 @@
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 76 |
 | I Do | It's Raining | Rain | 0 | 0 | 43 |
 | It′s Raining | It's Raining | Rain | 0 | 0 | 43 |
-| Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 83 |
+| Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 84 |
 | Miku | Miku | Anamanaguchi | 0 | 0 | 50 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 41 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 47 |

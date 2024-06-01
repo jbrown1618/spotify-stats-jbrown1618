@@ -9,7 +9,7 @@
 [See Clusters](clusters/overview.md)
 
 ## Artist Rank
-- The #186 artist overall
+- The #187 artist overall
 
 ![Rank of Doja Cat over time](../../images/artists/doja_cat/rank_time_series.png)
 ## Top Tracks
@@ -140,15 +140,15 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="" width="50" /> | Vegas | ELVIS (Original Motion Picture Soundtrack) | [Doja Cat](overview.md) | [House of Iona/RCA Records](../../labels/rca_records_label) | 592 | 💚 | [🔗](https://open.spotify.com/track/3FWwi61OP7vXEikwqhZCPZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f14aa81116510d3a6df8432b" alt="" width="50" /> | Say So | Hot Pink | [Doja Cat](overview.md) | [Kemosabe Records/RCA Records](../../labels/rca_records_label) | 645 | 💚 | [🔗](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a" alt="" width="50" /> | You Right | Planet Her | [Doja Cat](overview.md), The Weeknd | [Kemosabe Records/RCA Records](../../labels/rca_records_label) | 992 | 💚 | [🔗](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30" alt="" width="50" /> | Paint The Town Red | Paint The Town Red | [Doja Cat](overview.md) | [Kemosabe Records/RCA Records](../../labels/rca_records_label) | 1333 | 💚 | [🔗](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0927ea5b0dde802e65eb9b6" alt="" width="50" /> | Baby, I'm Jealous (feat. Doja Cat) | Baby, I'm Jealous (feat. Doja Cat) | Bebe Rexha, [Doja Cat](overview.md) | [Warner Records](../../labels/warner_records) | 1411 | 💚 | [🔗](https://open.spotify.com/track/2fTdRdN73RgIgcUZN33dvt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a" alt="" width="50" /> | Need to Know | Planet Her | [Doja Cat](overview.md) | [Kemosabe Records/RCA Records](../../labels/rca_records_label) | 1605 | 💚 | [🔗](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d272936b9368c8d7fd2e6ef" alt="" width="50" /> | Freaky Deaky | Freaky Deaky | Tyga, [Doja Cat](overview.md) | [Kemosabe / RCA Records / Last Kings Music / EMPIRE](../../labels/rca_records_label) | 1705 | 💚 | [🔗](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | motive (with Doja Cat) | Positions | [Ariana Grande](../ariana_grande/overview.md), [Doja Cat](overview.md) | [Republic Records](../../labels/republic_records) | 2009 | | [🔗](https://open.spotify.com/track/5GkQIP5mWPi4KZLLXeuFTT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a" alt="" width="50" /> | Woman | Planet Her | [Doja Cat](overview.md) | [Kemosabe Records/RCA Records](../../labels/rca_records_label) | 2297 | | [🔗](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="" width="50" /> | Vegas | ELVIS (Original Motion Picture Soundtrack) | [Doja Cat](overview.md) | [House of Iona/RCA Records](../../labels/rca_records_label) | 596 | 💚 | [🔗](https://open.spotify.com/track/3FWwi61OP7vXEikwqhZCPZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f14aa81116510d3a6df8432b" alt="" width="50" /> | Say So | Hot Pink | [Doja Cat](overview.md) | [Kemosabe Records/RCA Records](../../labels/rca_records_label) | 649 | 💚 | [🔗](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a" alt="" width="50" /> | You Right | Planet Her | [Doja Cat](overview.md), The Weeknd | [Kemosabe Records/RCA Records](../../labels/rca_records_label) | 996 | 💚 | [🔗](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30" alt="" width="50" /> | Paint The Town Red | Paint The Town Red | [Doja Cat](overview.md) | [Kemosabe Records/RCA Records](../../labels/rca_records_label) | 1336 | 💚 | [🔗](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0927ea5b0dde802e65eb9b6" alt="" width="50" /> | Baby, I'm Jealous (feat. Doja Cat) | Baby, I'm Jealous (feat. Doja Cat) | Bebe Rexha, [Doja Cat](overview.md) | [Warner Records](../../labels/warner_records) | 1414 | 💚 | [🔗](https://open.spotify.com/track/2fTdRdN73RgIgcUZN33dvt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a" alt="" width="50" /> | Need to Know | Planet Her | [Doja Cat](overview.md) | [Kemosabe Records/RCA Records](../../labels/rca_records_label) | 1608 | 💚 | [🔗](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d272936b9368c8d7fd2e6ef" alt="" width="50" /> | Freaky Deaky | Freaky Deaky | Tyga, [Doja Cat](overview.md) | [Kemosabe / RCA Records / Last Kings Music / EMPIRE](../../labels/rca_records_label) | 1708 | 💚 | [🔗](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | motive (with Doja Cat) | Positions | [Ariana Grande](../ariana_grande/overview.md), [Doja Cat](overview.md) | [Republic Records](../../labels/republic_records) | 2011 | | [🔗](https://open.spotify.com/track/5GkQIP5mWPi4KZLLXeuFTT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a" alt="" width="50" /> | Woman | Planet Her | [Doja Cat](overview.md) | [Kemosabe Records/RCA Records](../../labels/rca_records_label) | 2298 | | [🔗](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c031afd210aed3084f80956" alt="" width="50" /> | Kiss Me More (feat. SZA) | Kiss Me More (feat. SZA) | [Doja Cat](overview.md), SZA | [Kemosabe Records/RCA Records](../../labels/rca_records_label) | 2431 | 💚 | [🔗](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) |
 
 

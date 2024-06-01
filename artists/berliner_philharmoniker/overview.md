@@ -9,7 +9,7 @@
 [See Clusters](clusters/overview.md)
 
 ## Artist Rank
-- The #395 artist overall
+- The #396 artist overall
 
 
 ## Featured on Playlists

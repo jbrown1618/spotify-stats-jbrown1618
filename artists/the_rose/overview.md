@@ -13,7 +13,7 @@ The Rose:
 - has member 김우성 (Kim Woo-sung)
 
 ## Artist Rank
-- The #395 artist overall
+- The #396 artist overall
 
 
 ## Featured on Playlists

@@ -133,16 +133,16 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273bf32f4be80afeb0e1a09b27d" alt="" width="50" /> | Officially Cool | Officially Cool | BANG YEDAM, [WINTER](../../artists/winter/overview.md) | [WM Korea](.) | 481 | 💚 | [🔗](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273864f04cb6debbb9057b04b30" alt="" width="50" /> | I Love My Body | I Love My Body | [HWASA](../../artists/hwasa/overview.md) | [WM Korea](.) | 552 | | [🔗](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="" width="50" /> | Cupid - Twin Ver. | The Beginning: Cupid | FIFTY FIFTY | [WM Korea](.) | 577 | | [🔗](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738683845c563e9e2a478e2edb" alt="" width="50" /> | Real world | Loossemble | Loossemble | [WM Korea](.) | 732 | | [🔗](https://open.spotify.com/track/2gW0fZQNsjs3XKPNzHYC8Q) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273682ac678746ad21b6b799950" alt="" width="50" /> | Pity Party | Pity Party | JAMIE | [WM Korea](.) | 759 | 💚 | [🔗](https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27390eea4a1744d67c2de3db575" alt="" width="50" /> | When It Snows mmm (feat. Wheein) | When It Snows mmm (feat. Wheein) | Basick, Whee In | [WM Korea](.) | 807 | | [🔗](https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738683845c563e9e2a478e2edb" alt="" width="50" /> | Sensitive | Loossemble | Loossemble | [WM Korea](.) | 816 | 💚 | [🔗](https://open.spotify.com/track/6A1dCPrUYhg56ukp4zlEUw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb6e03486aff4489ae98af7b" alt="" width="50" /> | Shh | Shh | [PENTAGON](../../artists/pentagon/overview.md) | [WM Korea](.) | 1013 | | [🔗](https://open.spotify.com/track/0qu6gCG90KB4vp6H7JpAZy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735fe0013ebb4022adc0f042be" alt="" width="50" /> | POSE | Summer Special [Flip That] | [LOONA](../../artists/loona/overview.md) | [WM Korea](.) | 1308 | | [🔗](https://open.spotify.com/track/2BdGXQ4MjeYCZ9JNte85Q4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="" width="50" /> | Cupid | The Beginning: Cupid | FIFTY FIFTY | [WM Korea](.) | 2127 | 💚 | [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bf32f4be80afeb0e1a09b27d" alt="" width="50" /> | Officially Cool | Officially Cool | BANG YEDAM, [WINTER](../../artists/winter/overview.md) | [WM Korea](.) | 479 | 💚 | [🔗](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273864f04cb6debbb9057b04b30" alt="" width="50" /> | I Love My Body | I Love My Body | [HWASA](../../artists/hwasa/overview.md) | [WM Korea](.) | 557 | | [🔗](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="" width="50" /> | Cupid - Twin Ver. | The Beginning: Cupid | FIFTY FIFTY | [WM Korea](.) | 581 | | [🔗](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738683845c563e9e2a478e2edb" alt="" width="50" /> | Real world | Loossemble | Loossemble | [WM Korea](.) | 736 | | [🔗](https://open.spotify.com/track/2gW0fZQNsjs3XKPNzHYC8Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273682ac678746ad21b6b799950" alt="" width="50" /> | Pity Party | Pity Party | JAMIE | [WM Korea](.) | 763 | 💚 | [🔗](https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27390eea4a1744d67c2de3db575" alt="" width="50" /> | When It Snows mmm (feat. Wheein) | When It Snows mmm (feat. Wheein) | Basick, Whee In | [WM Korea](.) | 811 | | [🔗](https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738683845c563e9e2a478e2edb" alt="" width="50" /> | Sensitive | Loossemble | Loossemble | [WM Korea](.) | 820 | 💚 | [🔗](https://open.spotify.com/track/6A1dCPrUYhg56ukp4zlEUw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb6e03486aff4489ae98af7b" alt="" width="50" /> | Shh | Shh | [PENTAGON](../../artists/pentagon/overview.md) | [WM Korea](.) | 1017 | | [🔗](https://open.spotify.com/track/0qu6gCG90KB4vp6H7JpAZy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735fe0013ebb4022adc0f042be" alt="" width="50" /> | POSE | Summer Special [Flip That] | [LOONA](../../artists/loona/overview.md) | [WM Korea](.) | 1311 | | [🔗](https://open.spotify.com/track/2BdGXQ4MjeYCZ9JNte85Q4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="" width="50" /> | Cupid | The Beginning: Cupid | FIFTY FIFTY | [WM Korea](.) | 2129 | 💚 | [🔗](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) |
 
 
 <details>

@@ -11,7 +11,7 @@ Simon & Garfunkel:
 - has member Paul Simon
 
 ## Artist Rank
-- The #395 artist overall
+- The #396 artist overall
 
 
 ## Featured on Playlists
