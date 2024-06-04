@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e024897a7925914a3a10ce68c31ab67616d00001e025babc6b49ac8a93fc5fc464aab67616d00001e0267f8236540d6f145e2f0baa1ab67616d00001e0271a70331062453ece06f8b79" alt="Retro Kpop" width="100" />
 
-[32 tracks (31 liked) 🔗](https://open.spotify.com/playlist/1MW4AAPq55U0XWvSeu1jU5)
+[33 tracks (32 liked) 🔗](https://open.spotify.com/playlist/1MW4AAPq55U0XWvSeu1jU5)
 
 [See Track Features](audio_features.md)
 
@@ -26,18 +26,19 @@
 
 
 <details>
-<summary>See all 13 artists</summary>
+<summary>See all 14 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | 1 | 1 | [LOONA](../../artists/loona/overview.md) | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc112966f2a5abe5641abae6f" alt="" width="50" /> | 1 | 1 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 1 | 1 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaf3ae624d46473f6f21f116f" alt="" width="50" /> | 1 | 1 | Sunwoojunga | [🔗](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) |
 
 </details>
 
 
-![Bar chart of top 13 artists](../../images/playlists/retro_kpop/artists.png)
+![Bar chart of top 14 artists](../../images/playlists/retro_kpop/artists.png)
 
 ![Comparison of Artist](../../images/playlists/retro_kpop/artists_comparison.png)
 
@@ -51,16 +52,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273aa12f5b5b2ea88f26ab76846" alt="; [Semicolon]" width="50" /> | [HOME;RUN](../../artists/seventeen/overview.md) | 81 | <img src="https://i.scdn.co/image/ab67616d0000b273f8ac90d6852487a82df1b443" alt="A flower bookmark" width="50" /> | [Pierrot laughs at us](../../artists/iu/overview.md) | 2579 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> | [The Red Shoes](../../artists/iu/overview.md) | 93 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> | [Love of B](../../artists/iu/overview.md) | 2516 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | [Nxde](../../artists/(g)i-dle/overview.md) | 101 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="The Red - The 1st Album" width="50" /> | [Day 1](../../artists/red_velvet/overview.md) | 2435 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | [Lucky Girl](../../artists/red_velvet/overview.md) | 154 | <img src="https://i.scdn.co/image/ab67616d0000b2737f7c1a61a2d58eae2a3e1487" alt="YeoJin" width="50" /> | [Kiss Later (YeoJin)](../../artists/loona/overview.md) | 2307 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> | [Modern Times](../../artists/iu/overview.md) | 173 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="The Red - The 1st Album" width="50" /> | [Don't U Wait No More](../../artists/red_velvet/overview.md) | 2281 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="Last Fantasy" width="50" /> | [YOU&I](../../artists/iu/overview.md) | 179 | <img src="https://i.scdn.co/image/ab67616d0000b273fde8f652864b52fc8c266dee" alt="STELLA I" width="50" /> | Villain | 2171 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="Love poem" width="50" /> | [unlucky](../../artists/iu/overview.md) | 190 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> | [Havana](../../artists/iu/overview.md) | 2153 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="Palette" width="50" /> | [dlwlrma](../../artists/iu/overview.md) | 200 | <img src="https://i.scdn.co/image/ab67616d0000b2731c80e9c3e5cfd25ccf4a57e4" alt="End Again" width="50" /> | [Carrie (The First Day)](../../artists/gain/overview.md) | 2133 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="Masterpiece" width="50" /> | Behind The Curtain | 278 | <img src="https://i.scdn.co/image/ab67616d0000b273733b6abfa76a28b999feb572" alt="MEMORY" width="50" /> | [Décalcomanie](../../artists/mamamoo/overview.md) | 2071 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="Masterpiece" width="50" /> | It's not easy for you | 283 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> | [Between the lips (50cm)](../../artists/iu/overview.md) | 2027 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="Lion Heart - The 5th Album" width="50" /> | [Lion Heart](../../artists/girls__generation/overview.md) | 71 | <img src="https://i.scdn.co/image/ab67616d0000b273f8ac90d6852487a82df1b443" alt="A flower bookmark" width="50" /> | [Pierrot laughs at us](../../artists/iu/overview.md) | 838 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aa12f5b5b2ea88f26ab76846" alt="; [Semicolon]" width="50" /> | [HOME;RUN](../../artists/seventeen/overview.md) | 84 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> | [Love of B](../../artists/iu/overview.md) | 838 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="Masterpiece" width="50" /> | Behind The Curtain | 97 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="The Red - The 1st Album" width="50" /> | [Day 1](../../artists/red_velvet/overview.md) | 838 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="Masterpiece" width="50" /> | It's not easy for you | 103 | <img src="https://i.scdn.co/image/ab67616d0000b2737f7c1a61a2d58eae2a3e1487" alt="YeoJin" width="50" /> | [Kiss Later (YeoJin)](../../artists/loona/overview.md) | 838 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> | [The Red Shoes](../../artists/iu/overview.md) | 114 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="The Red - The 1st Album" width="50" /> | [Don't U Wait No More](../../artists/red_velvet/overview.md) | 838 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | [Nxde](../../artists/(g)i-dle/overview.md) | 129 | <img src="https://i.scdn.co/image/ab67616d0000b273fde8f652864b52fc8c266dee" alt="STELLA I" width="50" /> | Villain | 838 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> | [Modern Times](../../artists/iu/overview.md) | 311 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> | [Havana](../../artists/iu/overview.md) | 838 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="COLOURS" width="50" /> | [Blues](../../artists/solar/overview.md) | 392 | <img src="https://i.scdn.co/image/ab67616d0000b2731c80e9c3e5cfd25ccf4a57e4" alt="End Again" width="50" /> | [Carrie (The First Day)](../../artists/gain/overview.md) | 838 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="Last Fantasy" width="50" /> | [YOU&I](../../artists/iu/overview.md) | 404 | <img src="https://i.scdn.co/image/ab67616d0000b273733b6abfa76a28b999feb572" alt="MEMORY" width="50" /> | [Décalcomanie](../../artists/mamamoo/overview.md) | 838 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273107ade016c96b4769c200bc4" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | [Jazz Bar](../../artists/dreamcatcher/overview.md) | 429 | <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="Modern Times" width="50" /> | [Between the lips (50cm)](../../artists/iu/overview.md) | 838 |
 
 </details>
 
@@ -81,7 +82,7 @@
 
 
 <details>
-<summary>See all 23 albums</summary>
+<summary>See all 24 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -89,6 +90,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | 1 | 1 | Palette | 2017-04-21 | [🔗](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273733b6abfa76a28b999feb572" alt="" width="50" /> | 1 | 1 | MEMORY | 2016-11-07 | [🔗](https://open.spotify.com/album/3Q34hV5fBbMpRpADmlptr7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | 1 | 1 | Love poem | 2019-11-18 | [🔗](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="" width="50" /> | 1 | 1 | Lion Heart - The 5th Album | 2015-08-19 | [🔗](https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | 1 | 1 | Last Fantasy | 2011-11-29 | [🔗](https://open.spotify.com/album/149BHv6qAyMgJ483vPi77C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | 1 | 1 | I love | 2022-10-17 | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27367f8236540d6f145e2f0baa1" alt="" width="50" /> | 1 | 1 | HELLO | 2014-06-18 | [🔗](https://open.spotify.com/album/3Z9cZon6ukg4rvGYu7i4NA) |
@@ -102,14 +104,14 @@
 </details>
 
 
-![Bar chart of top 23 albums](../../images/playlists/retro_kpop/albums.png)
+![Bar chart of top 24 albums](../../images/playlists/retro_kpop/albums.png)
 
 ## Top Record Labels
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 10 | 9 | [Kakao Entertainment](../../labels/kakao_entertainment/overview.md) |
-| 4 | 4 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 5 | 5 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 3 | 3 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 3 | 3 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 2 | 2 | [WM Japan](../../labels/wm_japan/overview.md) |
@@ -143,8 +145,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 25 | 24 | [k-pop](../../genres/k-pop/overview.md) |
-| 12 | 12 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 26 | 25 | [k-pop](../../genres/k-pop/overview.md) |
+| 13 | 13 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 11 | 10 | [pop](../../genres/pop/overview.md) |
 | 3 | 3 | korean city pop |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
@@ -163,11 +165,11 @@
 | | [김도훈 (Kim, Do-hoon)](../../producers/김도훈_(kim,_do-hoon)/overview.md) | 3 | Arranger, Lyricist, Songwriter |
 | | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 3 | Producer |
 | | G. Gorilla | 2 | Arranger, Lyricist, Songwriter |
-| | WOOZI | 1 | Lyricist, Songwriter |
+| | 1월 8일 (1월 8일) | 2 | Lyricist |
+| | SIYEON | 1 | Lyricist |
+| | Avenue 52 | 1 | Arranger |
+| | Joyfactory | 1 | Lyricist |
 | | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 1 | Producer |
-| | Dem Jointz | 1 | Arranger, Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | [IU](../../artists/iu/overview.md) | 1 | Lyricist |
-| | [LEEZ](../../producers/leez/overview.md) | 1 | Arranger, Lyricist, Producer, Songwriter |
 
 
 <details>
@@ -175,9 +177,12 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | Dem Jointz | 1 | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | [IU](../../artists/iu/overview.md) | 1 | Lyricist |
+| | [LEEZ](../../producers/leez/overview.md) | 1 | Arranger, Lyricist, Producer, Songwriter |
 | | YOOHYEON | 1 | Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 1 | Arranger, Lyricist, Songwriter |
-| | SIYEON | 1 | Lyricist |
+| | WOOZI | 1 | Lyricist, Songwriter |
 | | Tayla Parx | 1 | Songwriter |
 | | JI U | 1 | Lyricist |
 | | Kako | 1 | Arranger, Songwriter |
@@ -188,6 +193,7 @@
 | | 정의석 (Jung, Euisuk) | 1 | Producer |
 | | 최예지 (Choi, Ye-ji) | 1 | Producer |
 | | DAMI | 1 | Lyricist |
+| | Hayley Aitken | 1 | Arranger, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | [HWASA](../../artists/hwasa/overview.md) | 1 | Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f5902fb8e230a7e971326d3" alt="" width="50" /> | VERNON | 1 | Lyricist |
 | | 外山和彦 (Toyama, Kazuhiko) | 1 | Arranger |
@@ -195,6 +201,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5bfb46687cb00b51b9e65c50" alt="" width="50" /> | Moon Byul | 1 | Lyricist |
 | | 에스나 (Esna) | 1 | Songwriter |
 | | Josef Melin | 1 | Arranger, Songwriter |
+| | Claudia Brant | 1 | Songwriter |
 | | Ollipop | 1 | Arranger, Songwriter |
 | | 100%서정 (100%Seojung) | 1 | Lyricist |
 | | 박주원 (Park, Ju-Won) | 1 | Arranger, Songwriter |
@@ -202,16 +209,17 @@
 | | Malin Johansson | 1 | Arranger, Songwriter |
 | | [Ollounder](../../producers/ollounder/overview.md) | 1 | Arranger, Lyricist, Songwriter |
 | | 민연재 (Min, Yun-jae) | 1 | Lyricist |
+| | Darren Baby-dee Smith | 1 | Arranger, Songwriter |
 | | 구종밀 (Koo, Jong-mil) | 1 | Producer |
+| | 최소영 (Choi, Seo-young) | 1 | Lyricist |
 | | 황현 (Hwang, Hyeon) | 1 | Arranger, Lyricist, Producer, Songwriter |
 | | BUMZU | 1 | Arranger, Lyricist, Songwriter |
 | | 박우상 (Park, Woo-sang) | 1 | Arranger |
 | | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 1 | Songwriter |
-| | 1월 8일 (1월 8일) | 1 | Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | [Solar](../../artists/solar/overview.md) | 1 | Lyricist |
 | | Nmore | 1 | Arranger, Songwriter |
 | | 정석원 (Jung, Seok-won) | 1 | Arranger, Songwriter |
-| | Hayley Aitken | 1 | Arranger, Songwriter |
+| | Sean Alexander | 1 | Songwriter |
 
 </details>
 
@@ -232,7 +240,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | I love (2022-10-17) | <img src="https://i.scdn.co/image/ab67616d0000b273f8ac90d6852487a82df1b443" alt="A flower bookmark" width="50" /> | A flower bookmark (2014-05-16) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d079e5850a10d7b2ee9e5c5a" alt="Stairs" width="50" /> | Stairs (2021-10-15) | <img src="https://i.scdn.co/image/ab67616d0000b27367f8236540d6f145e2f0baa1" alt="HELLO" width="50" /> | HELLO (2014-06-18) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa12f5b5b2ea88f26ab76846" alt="; [Semicolon]" width="50" /> | ; [Semicolon] (2020-10-19) | <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="Piano Man" width="50" /> | Piano Man (2014-11-21) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fde8f652864b52fc8c266dee" alt="STELLA I" width="50" /> | STELLA I (2020-04-07) | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="The Red - The 1st Album" width="50" /> | The Red - The 1st Album (2015-09-09) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273107ade016c96b4769c200bc4" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | 1st Album [Dystopia : The Tree of Language] (2020-02-18) | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | Russian Roulette - The 3rd Mini Album (2016-09-07) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="Love poem" width="50" /> | Love poem (2019-11-18) | <img src="https://i.scdn.co/image/ab67616d0000b2731c80e9c3e5cfd25ccf4a57e4" alt="End Again" width="50" /> | End Again (2016-09-09) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e8648df6b4f5916826059295" alt="Under Caffeine" width="50" /> | Under Caffeine (2018-09-01) | <img src="https://i.scdn.co/image/ab67616d0000b273733b6abfa76a28b999feb572" alt="MEMORY" width="50" /> | MEMORY (2016-11-07) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fde8f652864b52fc8c266dee" alt="STELLA I" width="50" /> | STELLA I (2020-04-07) | <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="Lion Heart - The 5th Album" width="50" /> | Lion Heart - The 5th Album (2015-08-19) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273107ade016c96b4769c200bc4" alt="1st Album [Dystopia : The Tree of Language]" width="50" /> | 1st Album [Dystopia : The Tree of Language] (2020-02-18) | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="The Red - The 1st Album" width="50" /> | The Red - The 1st Album (2015-09-09) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="Love poem" width="50" /> | Love poem (2019-11-18) | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | Russian Roulette - The 3rd Mini Album (2016-09-07) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e8648df6b4f5916826059295" alt="Under Caffeine" width="50" /> | Under Caffeine (2018-09-01) | <img src="https://i.scdn.co/image/ab67616d0000b2731c80e9c3e5cfd25ccf4a57e4" alt="End Again" width="50" /> | End Again (2016-09-09) |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e021c3e0a58f3ee28af2922e351ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e02d5d11b6ac4242aaa41c8be69ab67616d00001e02d8856d19e1f5784ed643d862" alt="Relax" width="100" />
 
-[57 tracks (55 liked) 🔗](https://open.spotify.com/playlist/4rnlD7JdUQNdPCBhL69dCg)
+[58 tracks (56 liked) 🔗](https://open.spotify.com/playlist/4rnlD7JdUQNdPCBhL69dCg)
 
 [See Track Features](audio_features.md)
 
@@ -26,7 +26,7 @@
 
 
 <details>
-<summary>See all 37 artists</summary>
+<summary>See all 38 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -50,6 +50,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb778483686ae247c1906f02fb" alt="" width="50" /> | 1 | 1 | Birdy | [🔗](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb64c106fb76ead20ba05a5461" alt="" width="50" /> | 1 | 1 | Sandeul | [🔗](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb065608c797a38d142082fc8a" alt="" width="50" /> | 1 | 1 | Punch | [🔗](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc112966f2a5abe5641abae6f" alt="" width="50" /> | 1 | 1 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5fd1861f4c260b5855fd3a90" alt="" width="50" /> | 1 | 1 | nævis | [🔗](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) |
 | | 1 | 1 | Choi Hyunwook | [🔗](https://open.spotify.com/artist/1z2J8XtoQxczs0U1lMWEiZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b9743970d802c36233125b3" alt="" width="50" /> | 1 | 1 | Steam Powered Giraffe | [🔗](https://open.spotify.com/artist/1yqs45BSh7457Flyhmdv7f) |
@@ -75,16 +76,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 12 | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | With | 2599 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | [My sea](../../artists/iu/overview.md) | 17 | <img src="https://i.scdn.co/image/ab67616d0000b2733661c01b54e181d01bd439a1" alt="Birdy" width="50" /> | Skinny Love | 2599 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | [Welcome To MY World (feat. nævis)](../../artists/aespa/overview.md) | 22 | <img src="https://i.scdn.co/image/ab67616d0000b2735da1093d047cc15eb66d27cf" alt="OK Now" width="50" /> | We All Need Saving | 2599 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="Like Water - The 1st Mini Album" width="50" /> | [When This Rain Stops](../../artists/wendy/overview.md) | 30 | <img src="https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e" alt="Begin to Hope" width="50" /> | Samson | 2599 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381fb7e4e392f0a99b3947eb6" alt="The Velvet - The 2nd Mini Album" width="50" /> | [7월 7일 One Of These Nights](../../artists/red_velvet/overview.md) | 52 | <img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="Floral Sense - The 1st Album (Special Version)" width="50" /> | Floral Sense | 2554 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 59 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="Like Water - The 1st Mini Album" width="50" /> | [The Road](../../artists/wendy/overview.md) | 2520 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | [ONLY](../../artists/leehi/overview.md) | 61 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Once Upon Another Time](../../artists/sara_bareilles/overview.md) | 2502 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="Dream" width="50" /> | Dream | 98 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="Love poem" width="50" /> | [Love poem](../../artists/iu/overview.md) | 2491 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27316e21608ece123c20bd24306" alt="Rain - SM STATION" width="50" /> | [Rain](../../artists/taeyeon/overview.md) | 144 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Bright Lights and Cityscapes](../../artists/sara_bareilles/overview.md) | 2467 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="The Winning" width="50" /> | [Love wins all](../../artists/iu/overview.md) | 166 | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> | [If](../../artists/taeyeon/overview.md) | 2443 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 8 | <img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="Floral Sense - The 1st Album (Special Version)" width="50" /> | Floral Sense | 838 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | [My sea](../../artists/iu/overview.md) | 18 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="Like Water - The 1st Mini Album" width="50" /> | [The Road](../../artists/wendy/overview.md) | 838 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="Like Water - The 1st Mini Album" width="50" /> | [When This Rain Stops](../../artists/wendy/overview.md) | 23 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Once Upon Another Time](../../artists/sara_bareilles/overview.md) | 838 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | [Welcome To MY World (feat. nævis)](../../artists/aespa/overview.md) | 24 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="Love poem" width="50" /> | [Love poem](../../artists/iu/overview.md) | 838 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 46 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Bright Lights and Cityscapes](../../artists/sara_bareilles/overview.md) | 838 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | [ONLY](../../artists/leehi/overview.md) | 61 | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="Hong Gil Dong OST" width="50" /> | [If](../../artists/taeyeon/overview.md) | 838 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="Dream" width="50" /> | Dream | 63 | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | With | 838 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381fb7e4e392f0a99b3947eb6" alt="The Velvet - The 2nd Mini Album" width="50" /> | [7월 7일 One Of These Nights](../../artists/red_velvet/overview.md) | 64 | <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="To. X - The 5th Mini Album" width="50" /> | [All For Nothing](../../artists/taeyeon/overview.md) | 838 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="Like Water - The 1st Mini Album" width="50" /> | [Like Water](../../artists/wendy/overview.md) | 100 | <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="Wish You Hell - The 2nd Mini Album" width="50" /> | [His Car Isn't Yours](../../artists/wendy/overview.md) | 838 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="I burn" width="50" /> | [HANN (Alone in winter)](../../artists/(g)i-dle/overview.md) | 117 | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | [December](../../artists/sara_bareilles/overview.md) | 838 |
 
 </details>
 
@@ -105,7 +106,7 @@
 
 
 <details>
-<summary>See all 46 albums</summary>
+<summary>See all 47 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -126,6 +127,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273cb95963709806e12d93128d4" alt="" width="50" /> | 1 | 1 | Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2 | 2016-08-29 | [🔗](https://open.spotify.com/album/68xTLBWjoRADRf86WYmTmy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | 1 | 1 | MY WORLD - The 3rd Mini Album | 2023-05-08 | [🔗](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | 1 | 1 | IU 5th Album 'LILAC' | 2021-03-25 | [🔗](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="" width="50" /> | 1 | 1 | I burn | 2021-01-11 | [🔗](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27331996f8836156158d3605ce9" alt="" width="50" /> | 1 | 1 | Hotel del Luna (Original Television Soundtrack) Pt.3 | 2019-07-21 | [🔗](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df0687edfc532a78ab858512" alt="" width="50" /> | 1 | 1 | Hong Gil Dong OST | 2008-01-23 | [🔗](https://open.spotify.com/album/5Efud8Wmo7vBQjSJI1WcJ7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="" width="50" /> | 1 | 1 | Hello - Special Album | 2021-05-31 | [🔗](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) |
@@ -163,8 +165,8 @@
 | 3 | 3 | Hwa&Dam pictures |
 | 3 | 3 | [EDAM Entertainment](../../labels/edam_entertainment/overview.md) |
 | 2 | 2 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
+| 2 | 2 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 2 | 2 | [Kakao Entertainment](../../labels/kakao_entertainment/overview.md) |
-| 1 | 1 | 스튜디오앤뉴 |
 
 
 <details>
@@ -172,12 +174,12 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 1 | 1 | 스튜디오앤뉴 |
 | 1 | 1 | 뮤직앤뉴 |
 | 1 | 1 | sensibility recordings |
 | 1 | 1 | msmedia |
 | 1 | 1 | [XL Recordings](../../labels/xl_recordings/overview.md) |
 | 1 | 1 | [Warner Records](../../labels/warner_records/overview.md) |
-| 1 | 1 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
 | 1 | 1 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
 | 1 | 1 | TOON STUDIO |
 | 1 | 1 | Steam Powered Giraffe |
@@ -213,8 +215,8 @@
 | 10 | 10 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 10 | 10 | [pop rock](../../genres/pop_rock/overview.md) |
 | 10 | 10 | [pop](../../genres/pop/overview.md) |
+| 6 | 6 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 5 | 5 | [korean pop](../../genres/korean_pop/overview.md) |
-| 5 | 5 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 
 
 <details>
@@ -252,12 +254,12 @@
 | | John O'Mahony | 2 | Producer |
 | | Neal Avron | 2 | Arranger |
 | | Dann Huff | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | [IU](../../artists/iu/overview.md) | 1 | Lyricist |
+| | 남궁진 (Nam Goong, Jin) | 1 | Producer |
 | | 이승주 (Lee Sung-joo) | 1 | Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | [Adele](../../artists/adele/overview.md) | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca842dde68f90b286bd3850e" alt="" width="50" /> | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | 1 | Arranger, Lyricist, Songwriter |
 | | 강효민 (Kang, Hyo-min) | 1 | Producer |
 | | 제휘 (Kim, Jea Whi) | 1 | Arranger, Songwriter |
-| | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 1 | Lyricist |
 
 
 <details>
@@ -265,35 +267,39 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 1 | Lyricist |
 | | Willy Moon | 1 | Lyricist, Songwriter |
+| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | [IU](../../artists/iu/overview.md) | 1 | Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | Elton John | 1 | Songwriter |
-| | Tayla Parx | 1 | Songwriter |
 | | 봉은영 (Bong, Eun Young) | 1 | Lyricist |
 | | [24](../../producers/24/overview.md) | 1 | Arranger, Songwriter |
 | | Mafly | 1 | Lyricist |
 | | Justin Niebank | 1 | Producer |
-| | 황찬희 (Hwang, Chan-Hee) | 1 | Arranger, Producer, Songwriter |
-| | 남궁진 (Nam Goong, Jin) | 1 | Producer |
-| | [Serban Ghenea](../../producers/serban_ghenea/overview.md) | 1 | Producer |
-| | YOUNGJU BANG | 1 | Producer |
-| | 김희원 (Kim, Hee-won) | 1 | Songwriter |
+| | Tayla Parx | 1 | Songwriter |
 | | Francis White | 1 | Songwriter |
-| | Tommy Walter | 1 | Producer |
-| | David Hentschel | 1 | Producer |
-| | Gus Dudgeon | 1 | Producer |
-| | 황성제 (Hwang, Sung Je) | 1 | Arranger |
-| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 1 | Producer |
-| | 정의석 (Jung, Euisuk) | 1 | Producer |
-| | Kurt Uenala | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 1 | Songwriter |
-| | 오성근 (Oh, Seong-Keun) | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | Regina Spektor | 1 | Lyricist, Producer, Songwriter |
-| | [TEDDY](../../producers/teddy/overview.md) | 1 | Producer |
+| | 김희원 (Kim, Hee-won) | 1 | Songwriter |
+| | YOUNGJU BANG | 1 | Producer |
 | | Nathan Chapman | 1 | Producer |
+| | [TEDDY](../../producers/teddy/overview.md) | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | Regina Spektor | 1 | Lyricist, Producer, Songwriter |
+| | 오성근 (Oh, Seong-Keun) | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | [Ariana Grande](../../artists/ariana_grande/overview.md) | 1 | Songwriter |
+| | Kurt Uenala | 1 | Producer |
+| | 최예지 (Choi, Ye-ji) | 1 | Producer |
+| | 정의석 (Jung, Euisuk) | 1 | Producer |
+| | [Josh Gudwin](../../producers/josh_gudwin/overview.md) | 1 | Producer |
+| | 안예은 (Ahn, Ye Eun) | 1 | Arranger, Lyricist, Songwriter |
+| | 고현정 (Go, Hyeon-Jeong) | 1 | Producer |
+| | 황성제 (Hwang, Sung Je) | 1 | Arranger |
+| | Gus Dudgeon | 1 | Producer |
+| | David Hentschel | 1 | Producer |
+| | Tommy Walter | 1 | Producer |
+| | 황찬희 (Hwang, Chan-Hee) | 1 | Arranger, Producer, Songwriter |
+| | 전부연 (Jeon, Bu-yeon) | 1 | Producer |
 | | TBHits | 1 | Producer, Songwriter |
-| | Bernie Taupin | 1 | Lyricist |
-| | 위프리키 (Wipeuriki) | 1 | Songwriter |
 | | Del Newman | 1 | Arranger |
+| | 장우영 (Jang, Wooyoung) | 1 | Producer |
 | | Steve Marcantonio | 1 | Producer |
 | | JONGHYUN | 1 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb149ebd20c454545fc4fb7487" alt="" width="50" /> | Victoria Monét | 1 | Producer, Songwriter |
@@ -301,31 +307,33 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | [Taylor Swift](../../artists/taylor_swift/overview.md) | 1 | Lyricist, Producer, Songwriter |
 | | Teddy Sinclair | 1 | Lyricist, Songwriter |
 | | Jeff Gartenbaum | 1 | Producer |
-| | Andreas Öberg (Öberg, Andreas) | 1 | Songwriter |
+| | Bernie Taupin | 1 | Lyricist |
 | | Paul 'P Dub' Walton | 1 | Producer |
 | | NOHC | 1 | Arranger |
 | | David Huff | 1 | Producer |
+| | BreadBeat | 1 | Arranger |
 | | 김형곤 (Kim, Hyeong-kon) | 1 | Producer |
 | | 이나일 (E, Na-Il) | 1 | Arranger |
 | | Justin Vernon | 1 | Lyricist, Songwriter |
-| | 장우영 (Jang, Wooyoung) | 1 | Producer |
+| | Andreas Öberg (Öberg, Andreas) | 1 | Songwriter |
 | | 손명갑 (Son, Myung-gap) | 1 | Producer |
+| | 박인영 (Park, In-Young) | 1 | Arranger |
+| | Maria Marcus | 1 | Songwriter |
+| | 위프리키 (Wipeuriki) | 1 | Songwriter |
 | | [John Hanes](../../producers/john_hanes/overview.md) | 1 | Producer |
-| | Felicia Barton | 1 | Songwriter |
 | | Craig Bishop | 1 | Producer |
 | | Jeremy Darby | 1 | Producer |
 | | Aaron Benward | 1 | Songwriter |
 | | 이유진 (Lee, Yoo-Jin) | 1 | Lyricist |
 | | Alex Gilbert | 1 | Producer |
 | | 유정연 (Yoo, Jeong-Yeon) | 1 | Songwriter |
+| | Felicia Barton | 1 | Songwriter |
 | | David Kahne | 1 | Producer |
-| | 박인영 (Park, In-Young) | 1 | Arranger |
 | | 조준성 (Jo, June-sung) | 1 | Producer |
 | | Todor Kobakov | 1 | Arranger |
 | | Matthew Tishler | 1 | Arranger, Songwriter |
 | | Paro | 1 | Lyricist, Songwriter |
 | | 이지홍 (Lee, Ji-hong) | 1 | Producer |
-| | Maria Marcus | 1 | Songwriter |
 | | 홍소진 (Hong So-jin) | 1 | Arranger |
 
 </details>
