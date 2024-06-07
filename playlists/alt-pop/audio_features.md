@@ -23,7 +23,7 @@
 
 | ​ | 10 most Energetic tracks | ​​ | 10 least Energetic tracks |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f629eb64fd8ef76a97b154f5" alt="CRASH" width="50" /> | Beg for You (feat. Rina Sawayama) (0.945) | <img src="https://i.scdn.co/image/ab67616d0000b273ae4e5ffa47db3bfd7fb033ad" alt="säje" width="50" /> | In The Wee Small Hours of the Morning (0.029) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273086ca574430eaa107d3e855f" alt="CRASH" width="50" /> | Beg for You (feat. Rina Sawayama) (0.945) | <img src="https://i.scdn.co/image/ab67616d0000b273ae4e5ffa47db3bfd7fb033ad" alt="säje" width="50" /> | In The Wee Small Hours of the Morning (0.029) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d260ec7b7ace5ca6bd69c86a" alt="&lt;\|º_º\|&gt;" width="50" /> | Lone Digger (0.924) | <img src="https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d" alt="Music Of The Spheres" width="50" /> | ❤️ (0.0491) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35" alt="Paramore" width="50" /> | Still into You (0.923) | <img src="https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e" alt="What Was I Made For? [From The Motion Picture &quot;Barbie&quot;]" width="50" /> | What Was I Made For? [From The Motion Picture "Barbie"] (0.084) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="Vows (Deluxe Version)" width="50" /> | Cameo Lover (0.922) | <img src="https://i.scdn.co/image/ab67616d0000b2736fbd5300d0f51be963360367" alt="The Widow Knows E.P." width="50" /> | Used (0.0938) |

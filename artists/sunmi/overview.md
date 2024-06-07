@@ -2,7 +2,7 @@
 # SUNMI
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5ebc1e2ce68a6bdcc8e03e882e7" alt="SUNMI" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5ebced85d5f223e7301022a8599" alt="SUNMI" width="100" />
 
 [See Track Features](audio_features.md)
 
@@ -107,7 +107,7 @@ SUNMI is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc1e2ce68a6bdcc8e03e882e7" alt="" width="50" /> | [SUNMI](overview.md) | 5 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebced85d5f223e7301022a8599" alt="" width="50" /> | [SUNMI](overview.md) | 5 | Lyricist, Songwriter |
 | | Frants | 2 | Arranger, Songwriter, Producer |
 | | Ash | 1 | Arranger, Songwriter |
 | | Sean Callery | 1 | Arranger, Lyricist, Songwriter |
@@ -134,16 +134,16 @@ SUNMI is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b78e41dc88b7ddda60738c9d" alt="" width="50" /> | Heart Burn | Heart Burn | [SUNMI](overview.md) | Abyss Company | 126 | 💚 | [🔗](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e33d84e471094fe701f06860" alt="" width="50" /> | Gashina | SUNMI SPECIAL EDITION [Gashina] | [SUNMI](overview.md) | Makeus Entertainment, The Black Label | 227 | 💚 | [🔗](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27373e1cb392676000445e9cbce" alt="" width="50" /> | Oh Sorry Ya | Oh Sorry Ya | [SUNMI](overview.md) | Abyss Company | 381 | 💚 | [🔗](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b78e41dc88b7ddda60738c9d" alt="" width="50" /> | Heart Burn | Heart Burn | [SUNMI](overview.md) | Abyss Company | 125 | 💚 | [🔗](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e33d84e471094fe701f06860" alt="" width="50" /> | Gashina | SUNMI SPECIAL EDITION [Gashina] | [SUNMI](overview.md) | Makeus Entertainment, The Black Label | 230 | 💚 | [🔗](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27373e1cb392676000445e9cbce" alt="" width="50" /> | Oh Sorry Ya | Oh Sorry Ya | [SUNMI](overview.md) | Abyss Company | 382 | 💚 | [🔗](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733de9733addfb0b91b8eb30b0" alt="" width="50" /> | STRANGER | STRANGER | [SUNMI](overview.md) | Abyss Company | 406 | 💚 | [🔗](https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b78e41dc88b7ddda60738c9d" alt="" width="50" /> | Childhood | Heart Burn | [SUNMI](overview.md) | Abyss Company | 694 | 💚 | [🔗](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a916eb5cb60ec476b75fc807" alt="" width="50" /> | 24 Hours | 24 Hours | [SUNMI](overview.md) | [Republic Records](../../labels/republic_records) | 838 | 💚 | [🔗](https://open.spotify.com/track/4ayWErdGIvSo4o6a3lMVLt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b8c3953f7694fff8dcaec23f" alt="" width="50" /> | Siren | WARNING | [SUNMI](overview.md) | MAKEUS ENTERTAINMENT | 838 | | [🔗](https://open.spotify.com/track/0gEnVDMhKKjF1qXuvBwq91) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731cc9a4020b295d45b7255267" alt="" width="50" /> | pporappippam | pporappippam | [SUNMI](overview.md) | Makeus Entertainment | 838 | 💚 | [🔗](https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731a984930c218438701634e11" alt="" width="50" /> | When We Disco | When We Disco | J.Y. Park, [SUNMI](overview.md) | [JYP Entertainment](../../labels/jyp_entertainment) | 838 | 💚 | [🔗](https://open.spotify.com/track/6t9nnPyEZfjcn1aLJ4l9AK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27373b185444325e1d394d65660" alt="" width="50" /> | TAIL | TAIL | [SUNMI](overview.md) | Abyss Company | 838 | 💚 | [🔗](https://open.spotify.com/track/7muTXW7kGytN3zdomku6FV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b78e41dc88b7ddda60738c9d" alt="" width="50" /> | Childhood | Heart Burn | [SUNMI](overview.md) | Abyss Company | 695 | 💚 | [🔗](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a916eb5cb60ec476b75fc807" alt="" width="50" /> | 24 Hours | 24 Hours | [SUNMI](overview.md) | [Republic Records](../../labels/republic_records) | 840 | 💚 | [🔗](https://open.spotify.com/track/4ayWErdGIvSo4o6a3lMVLt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b8c3953f7694fff8dcaec23f" alt="" width="50" /> | Siren | WARNING | [SUNMI](overview.md) | MAKEUS ENTERTAINMENT | 840 | | [🔗](https://open.spotify.com/track/0gEnVDMhKKjF1qXuvBwq91) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cc9a4020b295d45b7255267" alt="" width="50" /> | pporappippam | pporappippam | [SUNMI](overview.md) | Makeus Entertainment | 840 | 💚 | [🔗](https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731a984930c218438701634e11" alt="" width="50" /> | When We Disco | When We Disco | J.Y. Park, [SUNMI](overview.md) | [JYP Entertainment](../../labels/jyp_entertainment) | 840 | 💚 | [🔗](https://open.spotify.com/track/6t9nnPyEZfjcn1aLJ4l9AK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27373b185444325e1d394d65660" alt="" width="50" /> | TAIL | TAIL | [SUNMI](overview.md) | Abyss Company | 840 | 💚 | [🔗](https://open.spotify.com/track/7muTXW7kGytN3zdomku6FV) |
 
 
 <details>
@@ -151,7 +151,7 @@ SUNMI is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c22dfd393c41eb98307dba3" alt="" width="50" /> | You can't sit with us | 1/6 | [SUNMI](overview.md) | Abyss Company | 838 | 💚 | [🔗](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c22dfd393c41eb98307dba3" alt="" width="50" /> | You can't sit with us | 1/6 | [SUNMI](overview.md) | Abyss Company | 840 | 💚 | [🔗](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) |
 
 </details>
 

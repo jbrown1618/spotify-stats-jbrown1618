@@ -1,6 +1,6 @@
 # hip hop
 
-35 songs
+36 songs
 
 [See Track Features](audio_features.md)
 
@@ -23,7 +23,7 @@
 
 
 <details>
-<summary>See all 33 artists</summary>
+<summary>See all 34 artists</summary>
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
@@ -50,6 +50,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaab238968309b88b14407cbd" alt="" width="50" /> | 1 | 0 | Swizz Beatz | [🔗](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c48431caf52a2d0f38433ff" alt="" width="50" /> | 1 | 0 | Jay Rock | [🔗](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7b31aba081ef084510cde4e3" alt="" width="50" /> | 1 | 0 | Busta Rhymes | [🔗](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb597f9edd2cd1a892d4412b09" alt="" width="50" /> | 1 | 0 | Pop Smoke | [🔗](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) |
 
 </details>
 
@@ -60,16 +61,16 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="The Marshall Mathers LP2" width="50" /> | [The Monster](../../artists/eminem/overview.md) | 575 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="Rap Or Go To The League" width="50" /> | Momma I Hit A Lick (feat. Kendrick Lamar) | 838 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | [We Made You](../../artists/eminem/overview.md) | 697 | <img src="https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd" alt="Genesis" width="50" /> | Break Ya Neck | 838 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Can't Tell Me Nothing | 838 | <img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="Confessions of a Dangerous Mind" width="50" /> | Homicide (feat. Eminem) | 838 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="Recovery" width="50" /> | [Love The Way You Lie](../../artists/eminem/overview.md) | 838 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="DAMN." width="50" /> | [HUMBLE.](../../artists/kendrick_lamar/overview.md) | 838 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Late Registration" width="50" /> | Gold Digger | 838 | <img src="https://i.scdn.co/image/ab67616d0000b2737587213b1be294ac4000f648" alt="euphoria" width="50" /> | [euphoria](../../artists/kendrick_lamar/overview.md) | 838 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30" alt="Watch The Throne" width="50" /> | Ni**as In Paris | 838 | <img src="https://i.scdn.co/image/ab67616d0000b273f8e77075414234fd77fce32b" alt="Malibu" width="50" /> | Silicon Valley | 838 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="My Beautiful Dark Twisted Fantasy" width="50" /> | All Of The Lights | 838 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="DAMN." width="50" /> | [LOVE. FEAT. ZACARI.](../../artists/kendrick_lamar/overview.md) | 838 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797" alt="good kid, m.A.A.d city" width="50" /> | [Money Trees](../../artists/kendrick_lamar/overview.md) | 838 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="DAMN." width="50" /> | [DNA.](../../artists/kendrick_lamar/overview.md) | 838 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734e5df11b17b2727da2b718d8" alt="See You Again (feat. Charlie Puth)" width="50" /> | See You Again (feat. Charlie Puth) | 838 | <img src="https://i.scdn.co/image/ab67616d0000b273c0c05243a846dda6c84607f9" alt="Pretty Girls Like Trap Music" width="50" /> | It's A Vibe | 838 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736a6387ab37f64034cdc7b367" alt="Speakerboxxx/The Love Below" width="50" /> | Hey Ya! | 838 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="Mr. Morale &amp; The Big Steppers" width="50" /> | [Count Me Out](../../artists/kendrick_lamar/overview.md) | 838 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="The Marshall Mathers LP2" width="50" /> | [The Monster](../../artists/eminem/overview.md) | 575 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="Rap Or Go To The League" width="50" /> | Momma I Hit A Lick (feat. Kendrick Lamar) | 840 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | [We Made You](../../artists/eminem/overview.md) | 699 | <img src="https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd" alt="Genesis" width="50" /> | Break Ya Neck | 840 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Can't Tell Me Nothing | 840 | <img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="Confessions of a Dangerous Mind" width="50" /> | Homicide (feat. Eminem) | 840 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="Recovery" width="50" /> | [Love The Way You Lie](../../artists/eminem/overview.md) | 840 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="DAMN." width="50" /> | [HUMBLE.](../../artists/kendrick_lamar/overview.md) | 840 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Late Registration" width="50" /> | Gold Digger | 840 | <img src="https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5" alt="Meet The Woo" width="50" /> | Dior | 840 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30" alt="Watch The Throne" width="50" /> | Ni**as In Paris | 840 | <img src="https://i.scdn.co/image/ab67616d0000b2737587213b1be294ac4000f648" alt="euphoria" width="50" /> | [euphoria](../../artists/kendrick_lamar/overview.md) | 840 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="My Beautiful Dark Twisted Fantasy" width="50" /> | All Of The Lights | 840 | <img src="https://i.scdn.co/image/ab67616d0000b273f8e77075414234fd77fce32b" alt="Malibu" width="50" /> | Silicon Valley | 840 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797" alt="good kid, m.A.A.d city" width="50" /> | [Money Trees](../../artists/kendrick_lamar/overview.md) | 840 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="DAMN." width="50" /> | [LOVE. FEAT. ZACARI.](../../artists/kendrick_lamar/overview.md) | 840 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734e5df11b17b2727da2b718d8" alt="See You Again (feat. Charlie Puth)" width="50" /> | See You Again (feat. Charlie Puth) | 840 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="DAMN." width="50" /> | [DNA.](../../artists/kendrick_lamar/overview.md) | 840 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736a6387ab37f64034cdc7b367" alt="Speakerboxxx/The Love Below" width="50" /> | Hey Ya! | 840 | <img src="https://i.scdn.co/image/ab67616d0000b273c0c05243a846dda6c84607f9" alt="Pretty Girls Like Trap Music" width="50" /> | It's A Vibe | 840 |
 
 ## Top Albums
 
@@ -88,7 +89,7 @@
 
 
 <details>
-<summary>See all 31 albums</summary>
+<summary>See all 32 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -107,6 +108,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="" width="50" /> | 1 | 0 | Rap Or Go To The League | 2019-03-01 | [🔗](https://open.spotify.com/album/1BR69wIifGZUSimcuTjWVg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c0c05243a846dda6c84607f9" alt="" width="50" /> | 1 | 0 | Pretty Girls Like Trap Music | 2017-06-16 | [🔗](https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" alt="" width="50" /> | 1 | 0 | Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course | 2004-11-30 | [🔗](https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5" alt="" width="50" /> | 1 | 0 | Meet The Woo | 2019-07-26 | [🔗](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8e77075414234fd77fce32b" alt="" width="50" /> | 1 | 0 | Malibu | 2016-01-15 | [🔗](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="" width="50" /> | 1 | 0 | Late Registration | 2005-08-30 | [🔗](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd" alt="" width="50" /> | 1 | 0 | Genesis | 2001-11-07 | [🔗](https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd) |
@@ -136,7 +138,7 @@
 
 
 <details>
-<summary>See all 31 labels</summary>
+<summary>See all 33 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
@@ -151,8 +153,10 @@
 | 2 | 0 | Jay-Z |
 | 2 | 0 | [Atlantic Records](../../labels/atlantic_records/overview.md) |
 | 1 | 0 | [Warner Records](../../labels/warner_records/overview.md) |
+| 1 | 0 | Victor Victor Worldwide |
 | 1 | 0 | Steel Wool |
 | 1 | 0 | RocAFella |
+| 1 | 0 | [Republic Records](../../labels/republic_records/overview.md) |
 | 1 | 0 | OBE |
 | 1 | 0 | [Legacy](../../labels/legacy/overview.md) |
 | 1 | 0 | J Records |
@@ -277,11 +281,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737587213b1be294ac4000f648" alt="euphoria" width="50" /> | euphoria (2024-04-30) | <img src="https://i.scdn.co/image/ab67616d0000b2736a6387ab37f64034cdc7b367" alt="Speakerboxxx/The Love Below" width="50" /> | Speakerboxxx/The Love Below (2003) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="Mr. Morale &amp; The Big Steppers" width="50" /> | Mr. Morale & The Big Steppers (2022-05-13) | <img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" alt="The College Dropout" width="50" /> | The College Dropout (2004-02-10) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d272936b9368c8d7fd2e6ef" alt="Freaky Deaky" width="50" /> | Freaky Deaky (2022-02-25) | <img src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" alt="Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course" width="50" /> | Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course (2004-11-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="Confessions of a Dangerous Mind" width="50" /> | Confessions of a Dangerous Mind (2019-05-10) | <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Late Registration" width="50" /> | Late Registration (2005-08-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="Rap Or Go To The League" width="50" /> | Rap Or Go To The League (2019-03-01) | <img src="https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578" alt="Curtain Call: The Hits (Deluxe Edition)" width="50" /> | Curtain Call: The Hits (Deluxe Edition) (2005-12-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737028679269dc6a5a29ce8f36" alt="FATHER OF 4" width="50" /> | FATHER OF 4 (2019-02-22) | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Graduation (2007-09-11) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e19b1b51cdd35051e17cf6dc" alt="Bobby Tarantino II" width="50" /> | Bobby Tarantino II (2018-03-09) | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | Relapse: Refill (2009-05-15) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888" alt="Black Panther The Album Music From And Inspired By" width="50" /> | Black Panther The Album Music From And Inspired By (2018-02-09) | <img src="https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10" alt="The Blueprint 3" width="50" /> | The Blueprint 3 (2009-09-08) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c0c05243a846dda6c84607f9" alt="Pretty Girls Like Trap Music" width="50" /> | Pretty Girls Like Trap Music (2017-06-16) | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="Recovery" width="50" /> | Recovery (2010-06-18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5" alt="Meet The Woo" width="50" /> | Meet The Woo (2019-07-26) | <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Late Registration" width="50" /> | Late Registration (2005-08-30) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="Confessions of a Dangerous Mind" width="50" /> | Confessions of a Dangerous Mind (2019-05-10) | <img src="https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578" alt="Curtain Call: The Hits (Deluxe Edition)" width="50" /> | Curtain Call: The Hits (Deluxe Edition) (2005-12-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="Rap Or Go To The League" width="50" /> | Rap Or Go To The League (2019-03-01) | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Graduation (2007-09-11) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737028679269dc6a5a29ce8f36" alt="FATHER OF 4" width="50" /> | FATHER OF 4 (2019-02-22) | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | Relapse: Refill (2009-05-15) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e19b1b51cdd35051e17cf6dc" alt="Bobby Tarantino II" width="50" /> | Bobby Tarantino II (2018-03-09) | <img src="https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10" alt="The Blueprint 3" width="50" /> | The Blueprint 3 (2009-09-08) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888" alt="Black Panther The Album Music From And Inspired By" width="50" /> | Black Panther The Album Music From And Inspired By (2018-02-09) | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="Recovery" width="50" /> | Recovery (2010-06-18) |
 
 ![Bar chart of number of songs by year](../../images/genres/hip_hop/years.png)

@@ -254,6 +254,7 @@ artist_mbid,other_mbid,relationship_type
 166cb987-3156-4166-b0d3-f1ad5a6c514c,26f50623-f0bd-4c9f-a8f5-6145767713c8,is person
 167083f8-3aaa-4177-9541-afea93de39a1,6b8cb0b6-d866-43e6-8984-7e2b25b29369,is person
 16a8df2d-4752-4c12-8dd0-95f776c1c38a,be547bca-8718-4762-bf1b-34a3bdb4938f,member of band
+16e12893-150a-41d7-aaf3-5ad23fc76b39,ae98b8c4-d8fc-4ff9-9b4e-4bc1fd8575d1,member of band
 16e12893-150a-41d7-aaf3-5ad23fc76b39,de4feabc-cd21-4568-a09c-2086bfebe2f4,member of band
 16fe3640-acd0-4507-a4b5-55249528120f,6e019bc6-5c23-4935-94f0-4a896631d846,member of band
 17052a12-5fa3-40cb-ae4a-61ae9ecad80a,918feca7-dae2-4785-969e-c4a281551ae7,member of band
@@ -545,6 +546,7 @@ artist_mbid,other_mbid,relationship_type
 2f7c13c6-2a31-4c11-a5d5-e018ea7bc611,4d965cc0-86a6-49e2-80f9-7c2bdf606242,member of band
 2f84b66f-06c5-4f45-b19a-b8947ca5b0ba,e57f0cac-4f56-473c-8d7e-d93f753fd586,member of band
 2f941712-c3c8-4a0d-9977-355ab0dea898,29845ae8-0fd5-482b-9dbe-44c969fbb939,member of band
+2f9e924c-acfb-4eb9-b77c-8dca0a4019ad,0f0ce763-6a74-4714-9c02-7cdc8bdea5e3,member of band
 2fa6a73a-e94d-4aa4-ad2a-87500177cd56,b7ec4c54-1f93-4bf2-957f-7b9921ab84ea,member of band
 2fd475b9-4a31-4b8c-8368-7b71118f2d71,b7ffd2af-418f-4be2-bdd1-22f8b48613da,member of band
 2ff73141-bf73-4665-b156-c3a111ebec40,a13898e2-e488-498e-a89c-d0e920f74d4d,member of band
@@ -1355,6 +1357,7 @@ artist_mbid,other_mbid,relationship_type
 79204093-5fae-4a73-9f02-7d602444f7dd,9c15986d-ff1f-4d91-9708-f50f7445884f,member of band
 79204093-5fae-4a73-9f02-7d602444f7dd,9d17d14a-e81c-410e-a90b-b02b0a9de6f8,member of band
 796db252-ea1d-4964-a89e-88f0521931eb,97b8d224-5660-419c-8dff-4b3bf0c33983,member of band
+7977fdfb-aba7-4d23-b539-324ad5f40381,0f0ce763-6a74-4714-9c02-7cdc8bdea5e3,member of band
 797dc323-fc39-4597-98cc-d10493f67326,5b11f4ce-a62d-471e-81fc-a69a8278c7da,member of band
 79aa58f5-d834-4a0f-9628-8c1c1fbf069a,d5be5333-4171-427e-8e12-732087c6b78e,member of band
 79d1e9ca-d396-44ac-8a4a-ff5dbe9e44f9,32ad6cc3-603d-402d-89fc-69205cdc94a6,is person
@@ -1368,6 +1371,7 @@ artist_mbid,other_mbid,relationship_type
 7a159a72-557a-40c6-81cc-a348045dc942,bf081017-e5ec-44b8-a5e6-d0401d0b6828,member of band
 7a2a8977-6268-4110-8943-61e63310687f,02ceff75-7363-493e-a78d-912dc86c7460,member of band
 7a50b954-e61c-485e-9d37-dd17bcd9aaaf,d2f27332-85fe-4f61-9849-59be697e6a24,member of band
+7a62f843-56be-4997-a086-4d6b7761c2d0,0f0ce763-6a74-4714-9c02-7cdc8bdea5e3,member of band
 7a77627e-78f3-489f-827a-7caea3342bba,65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab,member of band
 7a9648e9-d31c-4c88-8128-b06b27d44f0b,cf042013-3edd-46c4-9b0e-a62faac98d0b,member of band
 7ac83cfb-b7dd-42cb-ae5d-56c285676269,6b9793bc-03ce-49e2-968d-7057dca142ec,member of band
@@ -1594,6 +1598,7 @@ artist_mbid,other_mbid,relationship_type
 8e58b11e-4b9e-4586-8100-29358bfc3685,eeb1195b-f213-4ce1-b28c-8565211f8e43,member of band
 8e615f86-e3c4-46b3-8c7b-4c86802abe1f,94c338ff-1985-4429-9dc8-997b61bb5932,is person
 8e625775-bb61-4a02-a0b0-31b08192b7aa,fc318255-d27e-4e85-bfe5-46657eaef734,member of band
+8e733b6f-ea9c-42f3-b1db-78c46944f3bc,0f0ce763-6a74-4714-9c02-7cdc8bdea5e3,member of band
 8e745496-cb3f-44d3-9816-416a75d15972,99689c05-4f6d-4bff-9b00-06731277fe42,member of band
 8e7ad5a4-0e96-4286-8d91-3e0a10d39388,9963d933-38c8-4958-9b9c-e4cfe558b23c,is person
 8e7ad5a4-0e96-4286-8d91-3e0a10d39388,e0eca4fb-9977-43e6-a61a-405f905a34aa,is person
@@ -1767,6 +1772,7 @@ artist_mbid,other_mbid,relationship_type
 9f5ebfde-ec92-4897-a262-e8ebf093956f,46a91e13-b9c7-4242-a053-b223bdd04057,member of band
 9f9504d0-8ea0-4054-9aba-627e7a04dc17,6ef00829-fa94-4fee-a5a6-b28e1208e96a,member of band
 9fa0c937-9885-4a03-b809-220d727c03a2,fe038151-1099-4de8-901b-39be66d6e493,member of band
+9fbbbcc3-f2af-4f03-a0b1-844ee5aec94f,ae98b8c4-d8fc-4ff9-9b4e-4bc1fd8575d1,member of band
 9fbbbcc3-f2af-4f03-a0b1-844ee5aec94f,de4feabc-cd21-4568-a09c-2086bfebe2f4,member of band
 9fbdf5d1-1168-440e-8c63-cc5c3c7b355e,ea6c62ec-701e-4f01-bbcc-adfad2d3be70,member of band
 9fc37bbf-c2a4-4ac9-95de-255e93fc6758,3d2b98e5-556f-4451-a3ff-c50ea18d57cb,member of band
@@ -1938,6 +1944,7 @@ b12ef43e-72ad-43d0-b216-a8cd32f78852,9a2a4207-2daa-4e2a-bb7c-edc88ee0cc62,is per
 b12ef43e-72ad-43d0-b216-a8cd32f78852,e0790bff-d8ec-4eb3-8c8d-4dff552462a3,is person
 b1580355-2cbd-4524-b6d2-661529417ab4,e57f0cac-4f56-473c-8d7e-d93f753fd586,member of band
 b16860e6-0db0-47cf-902b-844663b3c7d1,40017bd7-139b-4998-8688-9b2478ad3325,member of band
+b16ea25f-1daf-4829-a595-31f22a965c61,0f0ce763-6a74-4714-9c02-7cdc8bdea5e3,member of band
 b17dafcb-d0cf-49b2-9fc8-42ed33bba355,bd13909f-1c29-4c27-a874-d4aaf27c5b1a,member of band
 b17e0544-8b6f-45a2-adfc-0cf7c2183152,47a2cc37-adbf-4e62-8532-23b6aa1698db,member of band
 b17ed5b1-d965-4b05-ad25-49fd40aa9563,5700dcd4-c139-4f31-aa3e-6382b9af9032,member of band
@@ -2358,6 +2365,7 @@ d9da9b6b-e338-499b-b196-244d2c944659,0068ae6c-7156-40f9-a81f-39294af6a549,member
 da0d2805-fb5f-406e-96a4-94476f757c57,69689acf-d9cd-4d20-a972-47db4ed51b1a,member of band
 da183054-32a1-421c-9df3-ee31f158ee33,9b94ac1a-b997-4414-9385-96178b5ef99c,member of band
 da24eb92-2dc3-420f-8989-eb98ad57e984,a71b3907-9377-4e5b-a0bd-b5d163fe50ea,member of band
+da37f5a2-3436-4825-b7dd-1a6e9a82ee33,ae98b8c4-d8fc-4ff9-9b4e-4bc1fd8575d1,member of band
 da37f5a2-3436-4825-b7dd-1a6e9a82ee33,de4feabc-cd21-4568-a09c-2086bfebe2f4,member of band
 da3f4766-628e-4da3-a871-014728993157,5700dcd4-c139-4f31-aa3e-6382b9af9032,member of band
 da7ac640-6768-4395-9afd-de30282c5921,15e1dd08-cd84-4381-a3fe-1a28718bf84c,is person
@@ -2391,6 +2399,7 @@ dcac4034-e17b-4574-bfa0-6e251124443e,be547bca-8718-4762-bf1b-34a3bdb4938f,member
 dcee8680-5961-4c10-a7ed-4727009eae12,be547bca-8718-4762-bf1b-34a3bdb4938f,member of band
 dd0812e2-b587-4d8e-97a2-365b3598133b,49948ebe-bf1c-4823-b470-f2c9ab018686,member of band
 dd157e3f-a5c6-4ddf-9fc1-f615f719db13,acb2191f-0f55-4ec6-b7ff-ce73dea50f3e,member of band
+dd776077-27c3-4f12-a838-456815ec8066,ae98b8c4-d8fc-4ff9-9b4e-4bc1fd8575d1,member of band
 dd776077-27c3-4f12-a838-456815ec8066,de4feabc-cd21-4568-a09c-2086bfebe2f4,member of band
 dd959a12-3b45-4fdd-be52-827796090ddf,be547bca-8718-4762-bf1b-34a3bdb4938f,member of band
 dda1c5e2-e18e-40c8-a464-84014011ec65,9f92f1e5-7b25-4be2-ab61-76b6db556887,member of band
@@ -2411,6 +2420,7 @@ dec88822-89d2-40c5-a339-72309952c5da,02ceff75-7363-493e-a78d-912dc86c7460,member
 ded95009-eec9-483e-b0fd-1b290aa5a358,4486650a-d82d-4a77-97de-56ee782324cc,is person
 df25ea5f-1a4d-4234-a844-41697e0e7f5e,08306695-0943-4f91-be93-a39ce7a7804f,member of band
 df25ea5f-1a4d-4234-a844-41697e0e7f5e,1d2c24a6-9ae6-460b-a65e-63671c9fbdd9,member of band
+df28aece-c6b8-4c91-8b04-57fbc6ed2a3b,0f0ce763-6a74-4714-9c02-7cdc8bdea5e3,member of band
 df35e40f-3b50-4251-b70a-40984f1e91fb,c44e9c22-ef82-4a77-9bcd-af6c958446d6,member of band
 df5a46b5-67a2-418d-a860-ac82cd847dc0,06bb5fcc-f2b3-428d-b8e7-079060311b6d,member of band
 df8b2247-0ec1-42f6-9a5b-97e0b120ba0d,e119e5ff-0de0-421c-a630-0516c6acede8,member of band
@@ -2472,6 +2482,7 @@ e4dbbf85-a709-4ebc-a0ff-a8abfcdab865,b6625941-4199-40b0-bb50-231240dccc5c,member
 e4e34316-4664-4d93-9480-54f1d7f1a3a2,be547bca-8718-4762-bf1b-34a3bdb4938f,member of band
 e4fbf1d4-1606-43dc-be75-32497988edf9,c6db5c68-da57-41f9-8472-3da2e42977c4,member of band
 e517d24b-6351-4efa-995c-1d8ec64c1768,4d2956d1-a3f7-44bb-9a41-67563e1a0c94,member of band
+e52cff7d-d20e-4d1c-ba2c-4b3ec15726cd,ae98b8c4-d8fc-4ff9-9b4e-4bc1fd8575d1,member of band
 e52cff7d-d20e-4d1c-ba2c-4b3ec15726cd,de4feabc-cd21-4568-a09c-2086bfebe2f4,member of band
 e58bae28-457d-464f-b7de-a58650e083bd,7fe96b15-5608-430e-ad25-77a01353c5d9,member of band
 e5da9857-f734-4227-af3b-8e4e66d89017,7284b092-eb9d-41fc-9b16-77abe96b1952,member of band
@@ -2641,6 +2652,7 @@ f2911ba4-9eaf-4ae2-b7a2-0f27b7a955be,b7442f18-d9be-4185-8b51-482510046156,member
 f2911ba4-9eaf-4ae2-b7a2-0f27b7a955be,cc3054c1-803c-4b55-9c59-200acd60b5e4,member of band
 f2be7907-4f89-487a-a6b8-4b1dd83ebcc4,b51c672b-85e0-48fe-8648-470a2422229f,member of band
 f2c167eb-0a68-41ca-b2a5-72686904ed92,a3ed9eae-7241-4f72-98f2-23bd6986d5a7,is person
+f2d2ad16-030c-498c-8244-af0cd8ffe3a9,0f0ce763-6a74-4714-9c02-7cdc8bdea5e3,member of band
 f2da4752-8db0-4e54-8f30-680acaa8e1cf,eeb1195b-f213-4ce1-b28c-8565211f8e43,member of band
 f3079b7a-333e-4369-b7f7-5319003d720c,6b128dd7-e998-4edb-a4f5-400fef190445,member of band
 f319ec6a-9290-449b-baef-4244809c487a,875074d3-6458-47b4-b515-f7ecda93bd8d,member of band
