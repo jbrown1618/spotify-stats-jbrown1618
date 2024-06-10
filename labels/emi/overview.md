@@ -47,20 +47,21 @@ Appears as:
 | 5 | 2 | [mellow gold](../../genres/mellow_gold/overview.md) |
 | 5 | 2 | glam rock |
 | 2 | 2 | yacht rock |
+| 2 | 2 | symphonic rock |
 | 2 | 2 | [soft rock](../../genres/soft_rock/overview.md) |
 | 2 | 2 | new romantic |
 | 2 | 2 | [classic rock](../../genres/classic_rock/overview.md) |
 | 2 | 2 | [art rock](../../genres/art_rock/overview.md) |
 | 2 | 2 | [album rock](../../genres/album_rock/overview.md) |
 | 2 | 1 | [uk pop](../../genres/uk_pop/overview.md) |
-| 1 | 1 | [soul](../../genres/soul/overview.md) |
 
 
 <details>
-<summary>See all 21 genres</summary>
+<summary>See all 22 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 1 | 1 | [soul](../../genres/soul/overview.md) |
 | 1 | 1 | pop soul |
 | 1 | 1 | [pop](../../genres/pop/overview.md) |
 | 1 | 1 | neo soul |
@@ -76,7 +77,7 @@ Appears as:
 </details>
 
 
-![Bar chart of top 21 genres](../../images/labels/emi/genres.png)
+![Bar chart of top 22 genres](../../images/labels/emi/genres.png)
 
 ## Top Producers
 
@@ -113,13 +114,13 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d03ab2da904d8251a87bbc31" alt="" width="50" /> | Tiny Dancer | Madman Across The Water | Elton John | [EMI](.) | 840 | | [🔗](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733009007708ab5134936a58b3" alt="" width="50" /> | Rocket Man (I Think It's Going To Be A Long, Long Time) | Honky Chateau | Elton John | [EMI](.) | 840 | | [🔗](https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f67fbf0d465cca2b3e25af96" alt="" width="50" /> | Crocodile Rock | Don't Shoot Me I'm Only The Piano Player | Elton John | [EMI](.) | 840 | | [🔗](https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f93159d78849714fcf118bb3" alt="" width="50" /> | Good Morning Judge | Deceptive Bends | 10cc | [EMI](.) | 840 | 💚 | [🔗](https://open.spotify.com/track/1fMGRxKRtIKNyaMMGrzInM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27364c6ef51927c575ed9f464cf" alt="" width="50" /> | Dreadlock Holiday | Bloody Tourists | 10cc | [EMI](.) | 840 | 💚 | [🔗](https://open.spotify.com/track/1LOZMYF5s8qhW7Rv4w2gun) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731ec9b096319afbcc2dca6879" alt="" width="50" /> | Put Your Records On | Corinne Bailey Rae | Corinne Bailey Rae | [EMI Records](.) | 840 | 💚 | [🔗](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739f48d446654c7b8b9b7bc58b" alt="" width="50" /> | Just The Way You Are | Little Love - EP | James Smith | [EMI](.) | 840 | | [🔗](https://open.spotify.com/track/1YwbObIsxLhBTjSI5lwJz6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="" width="50" /> | Hunger | High As Hope | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [EMI](.) | 840 | | [🔗](https://open.spotify.com/track/6Ju28M6P8Y8sLjBgWjyUUD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273044a5466dac00f7b3c570b99" alt="" width="50" /> | telepatía | Sin Miedo (del Amor y Otros Demonios) ∞ | Kali Uchis | [EMI](.), [Interscope Records](../interscope_records) | 840 | | [🔗](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a935e4689f15953311772cc4" alt="" width="50" /> | Unholy (feat. Kim Petras) | Unholy (feat. Kim Petras) | Sam Smith, Kim Petras | [Capitol Records UK / EMI](.) | 840 | 💚 | [🔗](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d03ab2da904d8251a87bbc31" alt="" width="50" /> | Tiny Dancer | Madman Across The Water | Elton John | [EMI](.) | 841 | | [🔗](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733009007708ab5134936a58b3" alt="" width="50" /> | Rocket Man (I Think It's Going To Be A Long, Long Time) | Honky Chateau | Elton John | [EMI](.) | 841 | | [🔗](https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f67fbf0d465cca2b3e25af96" alt="" width="50" /> | Crocodile Rock | Don't Shoot Me I'm Only The Piano Player | Elton John | [EMI](.) | 841 | | [🔗](https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f93159d78849714fcf118bb3" alt="" width="50" /> | Good Morning Judge | Deceptive Bends | 10cc | [EMI](.) | 841 | 💚 | [🔗](https://open.spotify.com/track/1fMGRxKRtIKNyaMMGrzInM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27364c6ef51927c575ed9f464cf" alt="" width="50" /> | Dreadlock Holiday | Bloody Tourists | 10cc | [EMI](.) | 841 | 💚 | [🔗](https://open.spotify.com/track/1LOZMYF5s8qhW7Rv4w2gun) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ec9b096319afbcc2dca6879" alt="" width="50" /> | Put Your Records On | Corinne Bailey Rae | Corinne Bailey Rae | [EMI Records](.) | 841 | 💚 | [🔗](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739f48d446654c7b8b9b7bc58b" alt="" width="50" /> | Just The Way You Are | Little Love - EP | James Smith | [EMI](.) | 841 | | [🔗](https://open.spotify.com/track/1YwbObIsxLhBTjSI5lwJz6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="" width="50" /> | Hunger | High As Hope | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [EMI](.) | 841 | | [🔗](https://open.spotify.com/track/6Ju28M6P8Y8sLjBgWjyUUD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273044a5466dac00f7b3c570b99" alt="" width="50" /> | telepatía | Sin Miedo (del Amor y Otros Demonios) ∞ | Kali Uchis | [EMI](.), [Interscope Records](../interscope_records) | 841 | | [🔗](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a935e4689f15953311772cc4" alt="" width="50" /> | Unholy (feat. Kim Petras) | Unholy (feat. Kim Petras) | Sam Smith, Kim Petras | [Capitol Records UK / EMI](.) | 841 | 💚 | [🔗](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) |

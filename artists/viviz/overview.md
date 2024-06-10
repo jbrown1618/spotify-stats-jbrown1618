@@ -12,7 +12,7 @@ VIVIZ:
 - has member 엄지 (Umji)
 
 ## Artist Rank
-- The #193 artist overall
+- The #194 artist overall
 
 ![Rank of VIVIZ over time](../../images/artists/viviz/rank_time_series.png)
 ## Top Tracks
@@ -65,7 +65,7 @@ VIVIZ:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273047aaa5b1361b255b255e41d" alt="" width="50" /> | Untie | The 4th Mini Album 'VERSUS' | [VIVIZ](overview.md) | BIGPLANETMADE | 341 | 💚 | [🔗](https://open.spotify.com/track/2tEuf4YE9NbDO39DI35QZd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273047aaa5b1361b255b255e41d" alt="" width="50" /> | MANIAC | The 4th Mini Album 'VERSUS' | [VIVIZ](overview.md) | BIGPLANETMADE | 553 | 💚 | [🔗](https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f24273de181c40800f143742" alt="" width="50" /> | BOP BOP! | The 1st Mini Album 'Beam Of Prism' | [VIVIZ](overview.md) | BIGPLANETMADE, SWING ENTERTAINMENT | 840 | 💚 | [🔗](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb8691877aed9576018d2c1b" alt="" width="50" /> | Rum Pum Pum | Rum Pum Pum | [VIVIZ](overview.md) | Klap | 840 | 💚 | [🔗](https://open.spotify.com/track/0orUoBenQ9Cwx26z4I4RAT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730d9c2a11edd1a7efcd73f0d1" alt="" width="50" /> | PULL UP | The 3rd Mini Album 'VarioUS' | [VIVIZ](overview.md) | BIGPLANETMADE, SWING ENTERTAINMENT | 840 | 💚 | [🔗](https://open.spotify.com/track/4Jmrkz9hytD3jaLDkZ7Qvc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273047aaa5b1361b255b255e41d" alt="" width="50" /> | MANIAC | The 4th Mini Album 'VERSUS' | [VIVIZ](overview.md) | BIGPLANETMADE | 551 | 💚 | [🔗](https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f24273de181c40800f143742" alt="" width="50" /> | BOP BOP! | The 1st Mini Album 'Beam Of Prism' | [VIVIZ](overview.md) | BIGPLANETMADE, SWING ENTERTAINMENT | 841 | 💚 | [🔗](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb8691877aed9576018d2c1b" alt="" width="50" /> | Rum Pum Pum | Rum Pum Pum | [VIVIZ](overview.md) | Klap | 841 | 💚 | [🔗](https://open.spotify.com/track/0orUoBenQ9Cwx26z4I4RAT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d9c2a11edd1a7efcd73f0d1" alt="" width="50" /> | PULL UP | The 3rd Mini Album 'VarioUS' | [VIVIZ](overview.md) | BIGPLANETMADE, SWING ENTERTAINMENT | 841 | 💚 | [🔗](https://open.spotify.com/track/4Jmrkz9hytD3jaLDkZ7Qvc) |

@@ -21,7 +21,7 @@ THE BOYZ:
 - has member 영훈 (Younghoon)
 
 ## Artist Rank
-- The #116 artist overall
+- The #117 artist overall
 
 ![Rank of THE BOYZ over time](../../images/artists/the_boyz/rank_time_series.png)
 ## Top Tracks
@@ -73,13 +73,13 @@ THE BOYZ:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273dff665230ac08de979d3bd0e" alt="" width="50" /> | LIP GLOSS | THE BOYZ 2ND ALBUM [PHANTASY] Pt.1 Christmas In August | [THE BOYZ](overview.md) | IST Entertainment | 309 | 💚 | [🔗](https://open.spotify.com/track/5yREbqEnoqMRuIOQ60t6as) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e24237521fd72dfa162ccefe" alt="" width="50" /> | Candles | THE BOYZ Special Single [Candles] | [THE BOYZ](overview.md) | IST Entertainment | 420 | | [🔗](https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ba995f17c6c4d0ab6d945d70" alt="" width="50" /> | Christmassy! | THE BOYZ Special Single 'Christmassy!' | [THE BOYZ](overview.md) | Cre.ker Entertainment | 616 | | [🔗](https://open.spotify.com/track/1KMc5CXwEkjklwSqPMQjB1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731544041d0285585cc92c2709" alt="" width="50" /> | THRILL RIDE | THE BOYZ 6TH MINI ALBUM [THRILL-ING] | [THE BOYZ](overview.md) | Cre.ker Entertainment | 711 | 💚 | [🔗](https://open.spotify.com/track/3wEYYVD6uC3A3LhVhqARZv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dff665230ac08de979d3bd0e" alt="" width="50" /> | Fire Eyes | THE BOYZ 2ND ALBUM [PHANTASY] Pt.1 Christmas In August | [THE BOYZ](overview.md) | IST Entertainment | 830 | 💚 | [🔗](https://open.spotify.com/track/1uKU0M5UkfoEkx0VThAcf0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732fd0233f39f381edbb84c26b" alt="" width="50" /> | The Stealer | THE BOYZ 5th MINI ALBUM [CHASE] | [THE BOYZ](overview.md) | Cre.ker Entertainment | 840 | | [🔗](https://open.spotify.com/track/2DQgD8rAJLKNptQFK70ndO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735ebe326ae21f70a7330398f8" alt="" width="50" /> | Drink It | Drink It | [THE BOYZ](overview.md) | Klap | 840 | | [🔗](https://open.spotify.com/track/56URBnyl71PPaebwimqwQD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730c3017d56802b87da6872b1d" alt="" width="50" /> | MAVERICK | THE BOYZ 3rd Single Album [MAVERICK] | [THE BOYZ](overview.md) | Cre.ker Entertainment | 840 | | [🔗](https://open.spotify.com/track/1Ylu1Il2czce9eQQXtDXwO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273890a8271745a38ae35f1ad37" alt="" width="50" /> | ROAR | THE BOYZ 8th MINI ALBUM [BE AWAKE] | [THE BOYZ](overview.md) | IST Entertainment | 840 | | [🔗](https://open.spotify.com/track/7yP9oxhtOozkCptLHJoq3l) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bcbe695c2af0990e57666f3b" alt="" width="50" /> | THE POYZ BANANA CHACHA (Korean Ver.) | THE POYZ BANANA CHACHA | [THE BOYZ](overview.md) | ICONIX | 840 | | [🔗](https://open.spotify.com/track/1Ez5RjQ5Y9cu0DvVawTZe5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dff665230ac08de979d3bd0e" alt="" width="50" /> | LIP GLOSS | THE BOYZ 2ND ALBUM [PHANTASY] Pt.1 Christmas In August | [THE BOYZ](overview.md) | IST Entertainment | 311 | 💚 | [🔗](https://open.spotify.com/track/5yREbqEnoqMRuIOQ60t6as) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e24237521fd72dfa162ccefe" alt="" width="50" /> | Candles | THE BOYZ Special Single [Candles] | [THE BOYZ](overview.md) | IST Entertainment | 423 | | [🔗](https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ba995f17c6c4d0ab6d945d70" alt="" width="50" /> | Christmassy! | THE BOYZ Special Single 'Christmassy!' | [THE BOYZ](overview.md) | Cre.ker Entertainment | 618 | | [🔗](https://open.spotify.com/track/1KMc5CXwEkjklwSqPMQjB1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731544041d0285585cc92c2709" alt="" width="50" /> | THRILL RIDE | THE BOYZ 6TH MINI ALBUM [THRILL-ING] | [THE BOYZ](overview.md) | Cre.ker Entertainment | 715 | 💚 | [🔗](https://open.spotify.com/track/3wEYYVD6uC3A3LhVhqARZv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dff665230ac08de979d3bd0e" alt="" width="50" /> | Fire Eyes | THE BOYZ 2ND ALBUM [PHANTASY] Pt.1 Christmas In August | [THE BOYZ](overview.md) | IST Entertainment | 831 | 💚 | [🔗](https://open.spotify.com/track/1uKU0M5UkfoEkx0VThAcf0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732fd0233f39f381edbb84c26b" alt="" width="50" /> | The Stealer | THE BOYZ 5th MINI ALBUM [CHASE] | [THE BOYZ](overview.md) | Cre.ker Entertainment | 841 | | [🔗](https://open.spotify.com/track/2DQgD8rAJLKNptQFK70ndO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ebe326ae21f70a7330398f8" alt="" width="50" /> | Drink It | Drink It | [THE BOYZ](overview.md) | Klap | 841 | | [🔗](https://open.spotify.com/track/56URBnyl71PPaebwimqwQD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c3017d56802b87da6872b1d" alt="" width="50" /> | MAVERICK | THE BOYZ 3rd Single Album [MAVERICK] | [THE BOYZ](overview.md) | Cre.ker Entertainment | 841 | | [🔗](https://open.spotify.com/track/1Ylu1Il2czce9eQQXtDXwO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273890a8271745a38ae35f1ad37" alt="" width="50" /> | ROAR | THE BOYZ 8th MINI ALBUM [BE AWAKE] | [THE BOYZ](overview.md) | IST Entertainment | 841 | | [🔗](https://open.spotify.com/track/7yP9oxhtOozkCptLHJoq3l) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bcbe695c2af0990e57666f3b" alt="" width="50" /> | THE POYZ BANANA CHACHA (Korean Ver.) | THE POYZ BANANA CHACHA | [THE BOYZ](overview.md) | ICONIX | 841 | | [🔗](https://open.spotify.com/track/1Ez5RjQ5Y9cu0DvVawTZe5) |
