@@ -14,7 +14,7 @@ Rilo Kiley:
 - has member Blake Sennett
 
 ## Artist Rank
-- The #184 artist overall
+- The #186 artist overall
 
 ![Rank of Rilo Kiley over time](../../images/artists/rilo_kiley/rank_time_series.png)
 ## Top Tracks
@@ -104,9 +104,9 @@ Rilo Kiley:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | Silver Lining | Under The Blacklight (Standard Version) | [Rilo Kiley](overview.md) | [Warner Records](../../labels/warner_records) | 278 | 💚 | [🔗](https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738a385b4e412459ec73826be7" alt="" width="50" /> | A Better Son/Daughter | The Execution Of All Things | [Rilo Kiley](overview.md) | Saddle Creek | 841 | | [🔗](https://open.spotify.com/track/1OrBPFs8yLkT02aLiloHQs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738a385b4e412459ec73826be7" alt="" width="50" /> | The Execution Of All Things | The Execution Of All Things | [Rilo Kiley](overview.md) | Saddle Creek | 841 | 💚 | [🔗](https://open.spotify.com/track/3POpqoO9i1UB6WzYZ0MvOC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Accidntel Deth | More Adventurous (U.S. Release) | [Rilo Kiley](overview.md) | [Brute/Beaute/Warner Records](../../labels/warner_records) | 841 | 💚 | [🔗](https://open.spotify.com/track/7KJymi3dZGLPvxmOYyWwxz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Does He Love You? | More Adventurous (U.S. Release) | [Rilo Kiley](overview.md) | [Brute/Beaute/Warner Records](../../labels/warner_records) | 841 | 💚 | [🔗](https://open.spotify.com/track/56J7o1BuXpJH2UXqElmsEF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Portions for Foxes | More Adventurous (U.S. Release) | [Rilo Kiley](overview.md) | [Brute/Beaute/Warner Records](../../labels/warner_records) | 841 | 💚 | [🔗](https://open.spotify.com/track/4yY8JqTOQyi7K4O1QcQtBG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | Silver Lining | Under The Blacklight (Standard Version) | [Rilo Kiley](overview.md) | [Warner Records](../../labels/warner_records) | 280 | 💚 | [🔗](https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a385b4e412459ec73826be7" alt="" width="50" /> | A Better Son/Daughter | The Execution Of All Things | [Rilo Kiley](overview.md) | Saddle Creek | 844 | | [🔗](https://open.spotify.com/track/1OrBPFs8yLkT02aLiloHQs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a385b4e412459ec73826be7" alt="" width="50" /> | The Execution Of All Things | The Execution Of All Things | [Rilo Kiley](overview.md) | Saddle Creek | 844 | 💚 | [🔗](https://open.spotify.com/track/3POpqoO9i1UB6WzYZ0MvOC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Accidntel Deth | More Adventurous (U.S. Release) | [Rilo Kiley](overview.md) | [Brute/Beaute/Warner Records](../../labels/warner_records) | 844 | 💚 | [🔗](https://open.spotify.com/track/7KJymi3dZGLPvxmOYyWwxz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Does He Love You? | More Adventurous (U.S. Release) | [Rilo Kiley](overview.md) | [Brute/Beaute/Warner Records](../../labels/warner_records) | 844 | 💚 | [🔗](https://open.spotify.com/track/56J7o1BuXpJH2UXqElmsEF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | Portions for Foxes | More Adventurous (U.S. Release) | [Rilo Kiley](overview.md) | [Brute/Beaute/Warner Records](../../labels/warner_records) | 844 | 💚 | [🔗](https://open.spotify.com/track/4yY8JqTOQyi7K4O1QcQtBG) |

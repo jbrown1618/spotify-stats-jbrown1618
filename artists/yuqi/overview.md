@@ -11,9 +11,9 @@ YUQI:
 
 ## Artist Rank
 YUQI is currently:
-- The #10 artist of the last month
-- The #47 artist of the last 6 months
-- The #115 artist overall
+- The #11 artist of the last month
+- The #46 artist of the last 6 months
+- The #111 artist overall
 
 ![Rank of YUQI over time](../../images/artists/yuqi/rank_time_series.png)
 ## Top Tracks
@@ -73,10 +73,10 @@ YUQI is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | Red Rover | YUQ1 | [YUQI](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 218 | 💚 | [🔗](https://open.spotify.com/track/4TQBHR8LcbBUv0LvLmn54H) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | On Clap | YUQ1 | [YUQI](overview.md), Lexie Liu | [Cube Entertainment](../../labels/cube_entertainment) | 443 | 💚 | [🔗](https://open.spotify.com/track/2bRNKRk0sFlwEd7geduEpP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | Red Rover | YUQ1 | [YUQI](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 219 | 💚 | [🔗](https://open.spotify.com/track/4TQBHR8LcbBUv0LvLmn54H) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | On Clap | YUQ1 | [YUQI](overview.md), Lexie Liu | [Cube Entertainment](../../labels/cube_entertainment) | 363 | 💚 | [🔗](https://open.spotify.com/track/2bRNKRk0sFlwEd7geduEpP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | Bonnie & Clyde | A Page | [YUQI](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 500 | 💚 | [🔗](https://open.spotify.com/track/21aIsunB7PfZI0vlIoaJPh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | FREAK | YUQ1 | [YUQI](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 708 | 💚 | [🔗](https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | Giant | A Page | [YUQI](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 841 | 💚 | [🔗](https://open.spotify.com/track/3p8low79RQzkixDlIngBTT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb9ff6f34a355d6ce77ff6a4" alt="" width="50" /> | Flowers - Cover | Flowers (Cover) | [YUQI](overview.md) | YUQI | 841 | 💚 | [🔗](https://open.spotify.com/track/4KhOLC5IT1Rz8G4iHsoTAV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273afedcb63d2ef759322629930" alt="" width="50" /> | Hate Rodrigo (Feat. YUQI) | HATE XX | [YENA](../yena/overview.md), [YUQI](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 841 | | [🔗](https://open.spotify.com/track/5ms7rcVKjBFUtoVh8hE0Y9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | FREAK | YUQ1 | [YUQI](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 709 | 💚 | [🔗](https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | Giant | A Page | [YUQI](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 844 | 💚 | [🔗](https://open.spotify.com/track/3p8low79RQzkixDlIngBTT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb9ff6f34a355d6ce77ff6a4" alt="" width="50" /> | Flowers - Cover | Flowers (Cover) | [YUQI](overview.md) | YUQI | 844 | 💚 | [🔗](https://open.spotify.com/track/4KhOLC5IT1Rz8G4iHsoTAV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273afedcb63d2ef759322629930" alt="" width="50" /> | Hate Rodrigo (Feat. YUQI) | HATE XX | [YENA](../yena/overview.md), [YUQI](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 844 | | [🔗](https://open.spotify.com/track/5ms7rcVKjBFUtoVh8hE0Y9) |

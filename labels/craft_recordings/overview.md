@@ -51,14 +51,15 @@ Appears as:
 | 3 | 0 | [album rock](../../genres/album_rock/overview.md) |
 | 2 | 0 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
 | 2 | 0 | [soul](../../genres/soul/overview.md) |
-| 2 | 0 | quiet storm |
+| 2 | 0 | [soft rock](../../genres/soft_rock/overview.md) |
 
 
 <details>
-<summary>See all 21 genres</summary>
+<summary>See all 22 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 2 | 0 | quiet storm |
 | 2 | 0 | jazz trio |
 | 2 | 0 | disco |
 | 2 | 0 | [adult standards](../../genres/adult_standards/overview.md) |
@@ -74,22 +75,22 @@ Appears as:
 </details>
 
 
-![Bar chart of top 21 genres](../../images/labels/craft_recordings/genres.png)
+![Bar chart of top 22 genres](../../images/labels/craft_recordings/genres.png)
 
 ## Tracks released under Craft Recordings
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | Giants In The Sky | Into The Woods (2022 Broadway Cast Recording) | Cole Thompson | [Craft Recordings](.) | 333 | | [🔗](https://open.spotify.com/track/3RDesmUopi3TgcFJdPAZnN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731afccd261170f1d8f3cadb3d" alt="" width="50" /> | Proud Mary | Bayou Country (Expanded Edition) | Creedence Clearwater Revival | [Craft Recordings](.) | 841 | | [🔗](https://open.spotify.com/track/6pxWv6GV35VGmcPf5dh6CH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739f39192f9f8ca1c90847b3e5" alt="" width="50" /> | Fortunate Son | Willy And The Poor Boys (Expanded Edition) | Creedence Clearwater Revival | [Craft Recordings](.) | 841 | | [🔗](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91" alt="" width="50" /> | Have You Ever Seen The Rain | Pendulum (Expanded Edition) | Creedence Clearwater Revival | [Craft Recordings](.) | 841 | | [🔗](https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="" width="50" /> | L-O-V-E | Unforgettable: With Love | Natalie Cole | [Craft Recordings](.) | 841 | | [🔗](https://open.spotify.com/track/637xWjdmJY7CAQJsnsT7Fs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="" width="50" /> | Unforgettable | Unforgettable: With Love | Natalie Cole, Nat King Cole | [Craft Recordings](.) | 841 | | [🔗](https://open.spotify.com/track/2MVQbDuhVs2muWFURtIdNb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273644aec058f5a108fac6ec0fb" alt="" width="50" /> | Linus And Lucy | A Charlie Brown Christmas [2012 Remastered & Expanded Edition] | Vince Guaraldi Trio | [Craft Recordings](.) | 841 | | [🔗](https://open.spotify.com/track/5N96qwzTDhbf2y6FWAVz4c) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273644aec058f5a108fac6ec0fb" alt="" width="50" /> | Skating | A Charlie Brown Christmas [2012 Remastered & Expanded Edition] | Vince Guaraldi Trio | [Craft Recordings](.) | 841 | | [🔗](https://open.spotify.com/track/4Gu4Z1RQ68h8fQnSDQxfKr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | Last Midnight | Into The Woods (2022 Broadway Cast Recording) | Patina Miller | [Craft Recordings](.) | 841 | | [🔗](https://open.spotify.com/track/190CwRKLa5UIuTwv42AZfj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | Maybe They're Magic | Into The Woods (2022 Broadway Cast Recording) | [Sara Bareilles](../../artists/sara_bareilles/overview.md), Brian D'Arcy James | [Craft Recordings](.) | 841 | | [🔗](https://open.spotify.com/track/6Aj19aOQntdfSpHDl9DxOw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | Giants In The Sky | Into The Woods (2022 Broadway Cast Recording) | Cole Thompson | [Craft Recordings](.) | 335 | | [🔗](https://open.spotify.com/track/3RDesmUopi3TgcFJdPAZnN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731afccd261170f1d8f3cadb3d" alt="" width="50" /> | Proud Mary | Bayou Country (Expanded Edition) | Creedence Clearwater Revival | [Craft Recordings](.) | 844 | | [🔗](https://open.spotify.com/track/6pxWv6GV35VGmcPf5dh6CH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739f39192f9f8ca1c90847b3e5" alt="" width="50" /> | Fortunate Son | Willy And The Poor Boys (Expanded Edition) | Creedence Clearwater Revival | [Craft Recordings](.) | 844 | | [🔗](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91" alt="" width="50" /> | Have You Ever Seen The Rain | Pendulum (Expanded Edition) | Creedence Clearwater Revival | [Craft Recordings](.) | 844 | | [🔗](https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="" width="50" /> | L-O-V-E | Unforgettable: With Love | Natalie Cole | [Craft Recordings](.) | 844 | | [🔗](https://open.spotify.com/track/637xWjdmJY7CAQJsnsT7Fs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="" width="50" /> | Unforgettable | Unforgettable: With Love | Natalie Cole, Nat King Cole | [Craft Recordings](.) | 844 | | [🔗](https://open.spotify.com/track/2MVQbDuhVs2muWFURtIdNb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273644aec058f5a108fac6ec0fb" alt="" width="50" /> | Linus And Lucy | A Charlie Brown Christmas [2012 Remastered & Expanded Edition] | Vince Guaraldi Trio | [Craft Recordings](.) | 844 | | [🔗](https://open.spotify.com/track/5N96qwzTDhbf2y6FWAVz4c) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273644aec058f5a108fac6ec0fb" alt="" width="50" /> | Skating | A Charlie Brown Christmas [2012 Remastered & Expanded Edition] | Vince Guaraldi Trio | [Craft Recordings](.) | 844 | | [🔗](https://open.spotify.com/track/4Gu4Z1RQ68h8fQnSDQxfKr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | Last Midnight | Into The Woods (2022 Broadway Cast Recording) | Patina Miller | [Craft Recordings](.) | 844 | | [🔗](https://open.spotify.com/track/190CwRKLa5UIuTwv42AZfj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | Maybe They're Magic | Into The Woods (2022 Broadway Cast Recording) | [Sara Bareilles](../../artists/sara_bareilles/overview.md), Brian D'Arcy James | [Craft Recordings](.) | 844 | | [🔗](https://open.spotify.com/track/6Aj19aOQntdfSpHDl9DxOw) |
 
 
 <details>
@@ -97,7 +98,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | Prologue: Into The Woods | Into The Woods (2022 Broadway Cast Recording) | ‘Into The Woods’ 2022 Broadway Cast | [Craft Recordings](.) | 841 | | [🔗](https://open.spotify.com/track/5mJcu6XoLf0uiYMjpVL3hs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | Prologue: Into The Woods | Into The Woods (2022 Broadway Cast Recording) | ‘Into The Woods’ 2022 Broadway Cast | [Craft Recordings](.) | 844 | | [🔗](https://open.spotify.com/track/5mJcu6XoLf0uiYMjpVL3hs) |
 
 </details>
 
