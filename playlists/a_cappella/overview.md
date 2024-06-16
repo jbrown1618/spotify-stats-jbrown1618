@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e025d990e8b45c848dc22885f89ab67616d00001e0262f44cdb37183a309fc1032fab67616d00001e0284470dd6235917e2e40e11f0ab67616d00001e02bb7018e16a77e5ce4744fa93" alt="A Cappella" width="100" />
 
-[301 tracks (39 liked) 🔗](https://open.spotify.com/playlist/7LQjtpZ8EZ5vWXgPoovFeC)
+[317 tracks (48 liked) 🔗](https://open.spotify.com/playlist/7LQjtpZ8EZ5vWXgPoovFeC)
 
 [See Track Features](audio_features.md)
 
@@ -13,7 +13,7 @@
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | 25 | 20 | [The Tarpeggios](../../artists/the_tarpeggios/overview.md) | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | 41 | 29 | [The Tarpeggios](../../artists/the_tarpeggios/overview.md) | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb746dd598cf914934bd27ed7e" alt="" width="50" /> | 36 | 16 | [Pentatonix](../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb36c6fa1b8ff851988de641f8" alt="" width="50" /> | 3 | 2 | [Lindsey Stirling](../../artists/lindsey_stirling/overview.md) | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273458d338af5f8ead5be756346" alt="" width="50" /> | 2 | 1 | Second Shift A Cappella | [🔗](https://open.spotify.com/artist/62Sh3v52pBL7IhWZMaGgq6) |
@@ -138,16 +138,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="PTX, Vol. III" width="50" /> | [Problem (Ariana Grande Cover)](../../artists/pentatonix/overview.md) | 482 | <img src="https://i.scdn.co/image/ab67616d0000b2733d35ee785862f82a5ada29b6" alt="Gold" width="50" /> | Shenandoah - Arr. Bob Chilcott | 844 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="The Teal Album" width="50" /> | [I See Fire](../../artists/the_tarpeggios/overview.md) | 711 | <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="BOCA 2006: Best Of College A Cappella" width="50" /> | My Happy Ending | 844 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Let It Go](../../artists/pentatonix/overview.md) | 743 | <img src="https://i.scdn.co/image/ab67616d0000b273759fbdcd40288d874a398749" alt="RISE" width="50" /> | Alive | 844 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="Carolina State of Mind" width="50" /> | [Settle Down](../../artists/the_tarpeggios/overview.md) | 751 | <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="BOCA 2011: Best Of College A Cappella" width="50" /> | High And Dry | 844 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="PTX Vol. IV - Classics" width="50" /> | [Imagine](../../artists/pentatonix/overview.md) | 798 | <img src="https://i.scdn.co/image/ab67616d0000b273651ea73a1a7f7902ac69ad54" alt="Anyone For Mozart, Bach, Handel, Vivaldi?" width="50" /> | Largo [Harpsichord Concerto No. 5 in F minor BWV 1056] | 844 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Dance of the Sugar Plum Fairy](../../artists/pentatonix/overview.md) | 817 | <img src="https://i.scdn.co/image/ab67616d0000b273825d63b15a7172758250eb56" alt="GQ, Vol. II" width="50" /> | Crabbuckit | 844 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | We Found Love | 844 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | Smooth Criminal | 844 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27379b679128839141600389209" alt="Stages" width="50" /> | Say Something | 844 | <img src="https://i.scdn.co/image/ab67616d0000b27375a9edcf7286612325a1f713" alt="Voices Only 2009 College A Cappella (Disc 1)" width="50" /> | La Camisa Negra | 844 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="PTX, Vol. 2" width="50" /> | [Natural Disaster](../../artists/pentatonix/overview.md) | 844 | <img src="https://i.scdn.co/image/ab67616d0000b273b7d3410c326df5c5af0179f6" alt="Songs for Padded Rooms" width="50" /> | Cry Me a River | 844 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="BOCA 2012: Best Of College A Cappella" width="50" /> | Brand New Jones | 844 | <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="BOCA 2008: Best Of College A Cappella" width="50" /> | Does He Love You? | 844 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="PTX, Vol. III" width="50" /> | [Problem (Ariana Grande Cover)](../../artists/pentatonix/overview.md) | 483 | <img src="https://i.scdn.co/image/ab67616d0000b2733d35ee785862f82a5ada29b6" alt="Gold" width="50" /> | Shenandoah - Arr. Bob Chilcott | 847 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="The Teal Album" width="50" /> | [I See Fire](../../artists/the_tarpeggios/overview.md) | 717 | <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="BOCA 2006: Best Of College A Cappella" width="50" /> | My Happy Ending | 847 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="PTX, Vol. III" width="50" /> | [Rather Be (Clean Bandit Cover)](../../artists/pentatonix/overview.md) | 736 | <img src="https://i.scdn.co/image/ab67616d0000b273759fbdcd40288d874a398749" alt="RISE" width="50" /> | Alive | 847 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Let It Go](../../artists/pentatonix/overview.md) | 746 | <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="BOCA 2011: Best Of College A Cappella" width="50" /> | High And Dry | 847 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="Carolina State of Mind" width="50" /> | [Settle Down](../../artists/the_tarpeggios/overview.md) | 751 | <img src="https://i.scdn.co/image/ab67616d0000b273651ea73a1a7f7902ac69ad54" alt="Anyone For Mozart, Bach, Handel, Vivaldi?" width="50" /> | Largo [Harpsichord Concerto No. 5 in F minor BWV 1056] | 847 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="PTX Vol. IV - Classics" width="50" /> | [Imagine](../../artists/pentatonix/overview.md) | 800 | <img src="https://i.scdn.co/image/ab67616d0000b273825d63b15a7172758250eb56" alt="GQ, Vol. II" width="50" /> | Crabbuckit | 847 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | [Dance of the Sugar Plum Fairy](../../artists/pentatonix/overview.md) | 814 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | Smooth Criminal | 847 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | We Found Love | 847 | <img src="https://i.scdn.co/image/ab67616d0000b27375a9edcf7286612325a1f713" alt="Voices Only 2009 College A Cappella (Disc 1)" width="50" /> | La Camisa Negra | 847 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27379b679128839141600389209" alt="Stages" width="50" /> | Say Something | 847 | <img src="https://i.scdn.co/image/ab67616d0000b273b7d3410c326df5c5af0179f6" alt="Songs for Padded Rooms" width="50" /> | Cry Me a River | 847 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="PTX, Vol. 2" width="50" /> | [Natural Disaster](../../artists/pentatonix/overview.md) | 847 | <img src="https://i.scdn.co/image/ab67616d0000b273fdeffdb0cd2b8bb696319e8c" alt="Push to Start" width="50" /> | [Hallucinate](../../artists/the_tarpeggios/overview.md) | 847 |
 
 </details>
 
@@ -161,10 +161,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273987a99b436a78299e8dcb7dd" alt="" width="50" /> | 8 | 0 | Quarter Past | 2014-11-18 | [🔗](https://open.spotify.com/album/1pScBPjmT5w3s0BTgkdgJy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="" width="50" /> | 8 | 0 | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | 2016-03-18 | [🔗](https://open.spotify.com/album/4GYDt4IqU8EZ6KJLHpPuOK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | 7 | 6 | Carolina State of Mind | 2013-11-15 | [🔗](https://open.spotify.com/album/3zKusinRVxdC5s2wOPYBgX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b898e1af5571ea5402fdd764" alt="" width="50" /> | 7 | 5 | Bloodline | 2024-05-15 | [🔗](https://open.spotify.com/album/5XMETYH0wL2F3qDpWfVKzw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | 7 | 3 | PTX, Vol. 2 | 2013-11-05 | [🔗](https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="" width="50" /> | 7 | 0 | Legendary Covers, Vol. 1 | 2019 | [🔗](https://open.spotify.com/album/1tFypxtPJ5A61j97TRhWnP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | 6 | 4 | PTX, Vol. III | 2014-09-23 | [🔗](https://open.spotify.com/album/32y54TelUHSUDWVOx4h1B4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="" width="50" /> | 6 | 3 | PTX, Vol. 1 | 2012-06-26 | [🔗](https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ) |
 
 
 <details>
@@ -172,6 +172,7 @@
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="" width="50" /> | 6 | 3 | PTX, Vol. 1 | 2012-06-26 | [🔗](https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27331c35347cbb989e84ccccf8e" alt="" width="50" /> | 6 | 0 | M | 2015-03-30 | [🔗](https://open.spotify.com/album/1B0XzLFo4XYh8QIwPRTdpR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a67f8f5158f054b136bd8a" alt="" width="50" /> | 6 | 0 | Keepin' it Low Key | 2013-01-18 | [🔗](https://open.spotify.com/album/4EmdqB8w7gEONRX5QLypQZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273394e39d14be7ff810d0cbf4a" alt="" width="50" /> | 6 | 0 | GQ | 2013-10-07 | [🔗](https://open.spotify.com/album/3Op25RElrVsFcte612zusf) |
@@ -190,8 +191,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27334ceeb441ebadc373617e460" alt="" width="50" /> | 4 | 0 | Breakdown! | 2009-12-05 | [🔗](https://open.spotify.com/album/7u7dNsbxjcxVoffJELqtCV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="" width="50" /> | 4 | 0 | BOCA 2012: Best Of College A Cappella | 2012-01-01 | [🔗](https://open.spotify.com/album/26eCHp86K2xLQj0B7Cr8he) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="" width="50" /> | 4 | 0 | BOCA 2011: Best Of College A Cappella | 2011-01-11 | [🔗](https://open.spotify.com/album/27d96rqnXRtmrGBGHJzPBh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e7b975daf944ff0d1ffce056" alt="" width="50" /> | 4 | 0 | After the Light | 2023-08-18 | [🔗](https://open.spotify.com/album/5Q9k2sd9kFnmPEJjdsFIpV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730719dbaac955fe41fed564ad" alt="" width="50" /> | 4 | 0 | 1988 | 2015-05-19 | [🔗](https://open.spotify.com/album/6nktHqHKPt8kT4ozUJvwrs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="" width="50" /> | 3 | 2 | PTX Vol. IV - Classics | 2017-04-07 | [🔗](https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e5d079704778dc9534c73a91" alt="" width="50" /> | 3 | 2 | MODERN ECSTASY | 2023-07-07 | [🔗](https://open.spotify.com/album/3EFIthm5Zjb7MfuXeDJb9A) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="" width="50" /> | 3 | 1 | PTX Presents: Top Pop, Vol. I | 2018-04-13 | [🔗](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d260564eafe7ae16b22797a" alt="" width="50" /> | 3 | 1 | BOCA 2023: Best Of College A Cappella | 2023-02-07 | [🔗](https://open.spotify.com/album/25nFx7zXWcdnh8luicyh38) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d9d3239217b0c4f75c15562" alt="" width="50" /> | 3 | 0 | Unwrapped | 2006-09-12 | [🔗](https://open.spotify.com/album/6ua3tHyrfZNh6CpZLzCAuT) |
@@ -204,6 +207,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271" alt="" width="50" /> | 3 | 0 | BOCA 2021: Best of College A Cappella | 2021-02-06 | [🔗](https://open.spotify.com/album/1eKkeTIlePsRpKkQre78tT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="" width="50" /> | 3 | 0 | BOCA 2018: Best of College A Cappella | 2021-02-04 | [🔗](https://open.spotify.com/album/4F7k4viXqEAIlrB5rbAPbF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | 3 | 0 | BOCA 2016: Best Of College A Cappella | 2015-12-15 | [🔗](https://open.spotify.com/album/2AOr4esohQurJGXklhRH1a) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fdeffdb0cd2b8bb696319e8c" alt="" width="50" /> | 2 | 2 | Push to Start | 2023-04-03 | [🔗](https://open.spotify.com/album/4ggdFWPHn5rTdUrw4s46yS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322f75e45afe2febb7d3f4cac" alt="" width="50" /> | 2 | 2 | Immaterial | 2021-07-16 | [🔗](https://open.spotify.com/album/5YgtPHMCi4dGtL6JarEGkI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="" width="50" /> | 2 | 1 | PTX | 2014-09-19 | [🔗](https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273458d338af5f8ead5be756346" alt="" width="50" /> | 2 | 1 | Graveyard Shift | 2018-10-28 | [🔗](https://open.spotify.com/album/4i6gztUxx7Iq1tocxEX1pY) |
@@ -258,10 +262,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273b412efc7cf36157f45463837" alt="" width="50" /> | 1 | 0 | Disturbia | 2010-11-22 | [🔗](https://open.spotify.com/album/3ypmasyBX16BmWt52owYaN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d19c9f2ae59824a13812de12" alt="" width="50" /> | 1 | 0 | Defrosted | 2004-04-24 | [🔗](https://open.spotify.com/album/3DLNakCGffrhPaaj9rfepk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273720cef48a476da39b3bd2a4e" alt="" width="50" /> | 1 | 0 | Circle Of Life | 1996-11-08 | [🔗](https://open.spotify.com/album/3W9Uo4nvI281sjlEIrR6z6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="" width="50" /> | 1 | 0 | Christmas Is Here! | 2018-10-19 | [🔗](https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273480fc6e065aa8b15bd01485d" alt="" width="50" /> | 1 | 0 | Burn | 2014-03-29 | [🔗](https://open.spotify.com/album/1fcocQi9SDelG4xiE3d7yQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273acd107057c2284c39f1c3b27" alt="" width="50" /> | 1 | 0 | Best of BOCA: The First 20 Years | 2014-04-15 | [🔗](https://open.spotify.com/album/5bcLIouxn2oBiGvf4vvO6u) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733292818e78cd81fa4ba67fd2" alt="" width="50" /> | 1 | 0 | Before You Go | 2008-12-12 | [🔗](https://open.spotify.com/album/00x5MddnbpBoWJWtubLhHH) |
 
 </details>
 
@@ -272,8 +272,8 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 32 | 22 | [The Tarpeggios](../../labels/the_tarpeggios/overview.md) |
 | 41 | 16 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
-| 16 | 13 | [The Tarpeggios](../../labels/the_tarpeggios/overview.md) |
 | 9 | 7 | The Unc - Chapel Hill Tarpeggios |
 | 64 | 1 | [Varsity Vocals](../../labels/varsity_vocals/overview.md) |
 | 2 | 1 | Second Shift a Cappella |
@@ -458,8 +458,8 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| 2024 | 2 |
-| 2023 | 3 |
+| 2024 | 9 |
+| 2023 | 12 |
 | 2022 | 6 |
 | 2021 | 10 |
 | 2020 | 1 |
@@ -491,13 +491,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | Djesse Vol. 4 (2024-03-01) | <img src="https://i.scdn.co/image/ab67616d0000b273651ea73a1a7f7902ac69ad54" alt="Anyone For Mozart, Bach, Handel, Vivaldi?" width="50" /> | Anyone For Mozart, Bach, Handel, Vivaldi? (1986-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c4addfbacd0314054cf87bc9" alt="BOCA 2024: Best Of College A Cappella" width="50" /> | BOCA 2024: Best Of College A Cappella (2024-01-26) | <img src="https://i.scdn.co/image/ab67616d0000b273fa70f75821d8ef6496b3ff64" alt="Around the World - A Folk Song Collection" width="50" /> | Around the World - A Folk Song Collection (1991-02-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d260564eafe7ae16b22797a" alt="BOCA 2023: Best Of College A Cappella" width="50" /> | BOCA 2023: Best Of College A Cappella (2023-02-07) | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> | Good Vibrations (1993) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273edc2e69064e470718ef065b7" alt="BOCA 2022: Best Of College A Cappella" width="50" /> | BOCA 2022: Best Of College A Cappella (2022-04-19) | <img src="https://i.scdn.co/image/ab67616d0000b273720cef48a476da39b3bd2a4e" alt="Circle Of Life" width="50" /> | Circle Of Life (1996-11-08) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fc82939fb76760e640d7edca" alt="Homeward" width="50" /> | Homeward (2022-04-08) | <img src="https://i.scdn.co/image/ab67616d0000b273049016d51d8970dc04dbf78f" alt="Against the Grain" width="50" /> | Against the Grain (2001-04-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27322f75e45afe2febb7d3f4cac" alt="Immaterial" width="50" /> | Immaterial (2021-07-16) | <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="BOCA 2004: Best Of College A Cappella" width="50" /> | BOCA 2004: Best Of College A Cappella (2004-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f0811a497b6eaf308d045d29" alt="Ignite" width="50" /> | Ignite (2021-06-28) | <img src="https://i.scdn.co/image/ab67616d0000b273d19c9f2ae59824a13812de12" alt="Defrosted" width="50" /> | Defrosted (2004-04-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273db17fec53a7c243f7809a328" alt="Storming The Castle" width="50" /> | Storming The Castle (2021-06-09) | <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="BOCA 2006: Best Of College A Cappella" width="50" /> | BOCA 2006: Best Of College A Cappella (2006-01-01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a271cb19e4bbf852072f0271" alt="BOCA 2021: Best of College A Cappella" width="50" /> | BOCA 2021: Best of College A Cappella (2021-02-06) | <img src="https://i.scdn.co/image/ab67616d0000b2731d9d3239217b0c4f75c15562" alt="Unwrapped" width="50" /> | Unwrapped (2006-09-12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f80e04f0ea87267cc80ec46" alt="BOCA 2018: Best of College A Cappella" width="50" /> | BOCA 2018: Best of College A Cappella (2021-02-04) | <img src="https://i.scdn.co/image/ab67616d0000b273a391a593f88024c5cea36b9c" alt="Behind Bars" width="50" /> | Behind Bars (2007-02-21) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b898e1af5571ea5402fdd764" alt="Bloodline" width="50" /> | Bloodline (2024-05-15) | <img src="https://i.scdn.co/image/ab67616d0000b273651ea73a1a7f7902ac69ad54" alt="Anyone For Mozart, Bach, Handel, Vivaldi?" width="50" /> | Anyone For Mozart, Bach, Handel, Vivaldi? (1986-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | Djesse Vol. 4 (2024-03-01) | <img src="https://i.scdn.co/image/ab67616d0000b273fa70f75821d8ef6496b3ff64" alt="Around the World - A Folk Song Collection" width="50" /> | Around the World - A Folk Song Collection (1991-02-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c4addfbacd0314054cf87bc9" alt="BOCA 2024: Best Of College A Cappella" width="50" /> | BOCA 2024: Best Of College A Cappella (2024-01-26) | <img src="https://i.scdn.co/image/ab67616d0000b273b13eb2ff19372ac491273a06" alt="Good Vibrations" width="50" /> | Good Vibrations (1993) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e7b975daf944ff0d1ffce056" alt="After the Light" width="50" /> | After the Light (2023-08-18) | <img src="https://i.scdn.co/image/ab67616d0000b273720cef48a476da39b3bd2a4e" alt="Circle Of Life" width="50" /> | Circle Of Life (1996-11-08) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e5d079704778dc9534c73a91" alt="MODERN ECSTASY" width="50" /> | MODERN ECSTASY (2023-07-07) | <img src="https://i.scdn.co/image/ab67616d0000b273049016d51d8970dc04dbf78f" alt="Against the Grain" width="50" /> | Against the Grain (2001-04-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fdeffdb0cd2b8bb696319e8c" alt="Push to Start" width="50" /> | Push to Start (2023-04-03) | <img src="https://i.scdn.co/image/ab67616d0000b273074aa2a16488cba06eade483" alt="BOCA 2004: Best Of College A Cappella" width="50" /> | BOCA 2004: Best Of College A Cappella (2004-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d260564eafe7ae16b22797a" alt="BOCA 2023: Best Of College A Cappella" width="50" /> | BOCA 2023: Best Of College A Cappella (2023-02-07) | <img src="https://i.scdn.co/image/ab67616d0000b273d19c9f2ae59824a13812de12" alt="Defrosted" width="50" /> | Defrosted (2004-04-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273edc2e69064e470718ef065b7" alt="BOCA 2022: Best Of College A Cappella" width="50" /> | BOCA 2022: Best Of College A Cappella (2022-04-19) | <img src="https://i.scdn.co/image/ab67616d0000b27375e1cccb63989b4aa6a22cbc" alt="BOCA 2006: Best Of College A Cappella" width="50" /> | BOCA 2006: Best Of College A Cappella (2006-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc82939fb76760e640d7edca" alt="Homeward" width="50" /> | Homeward (2022-04-08) | <img src="https://i.scdn.co/image/ab67616d0000b2731d9d3239217b0c4f75c15562" alt="Unwrapped" width="50" /> | Unwrapped (2006-09-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322f75e45afe2febb7d3f4cac" alt="Immaterial" width="50" /> | Immaterial (2021-07-16) | <img src="https://i.scdn.co/image/ab67616d0000b273a391a593f88024c5cea36b9c" alt="Behind Bars" width="50" /> | Behind Bars (2007-02-21) |

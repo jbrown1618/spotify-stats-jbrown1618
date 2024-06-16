@@ -284,6 +284,7 @@ tag,artist_mbid,mb_tag
 ,b5179744-f217-4455-9d8b-17b8d4fdeb93,alternative metal
 ,b7ffd2af-418f-4be2-bdd1-22f8b48613da,alternative metal
 ,f4a31f0a-51dd-4fa7-986d-3095c40c5ed9,alternative metal
+,1882fe91-cdd9-49c9-9956-8e06a3810bd4,alternative pop
 ,2c6c53ea-09d4-4d98-b174-c9aa83d4fecf,alternative pop
 ,2f3c4d70-0462-40da-bba3-0aec5772c556,alternative pop
 ,3377f3bb-60fc-4403-aea9-7e800612e060,alternative pop
@@ -1578,6 +1579,7 @@ tag,artist_mbid,mb_tag
 ,2882ffa3-dec9-4055-a842-a950728bcb02,easy listening
 ,2f354cca-0eba-46e2-a716-96f14f47865a,easy listening
 ,83e71a21-caf7-4e48-8ff7-6512d51e88a3,easy listening
+,e7ee5f13-baf5-4a87-b58b-f871c137d4f5,easy listening
 ,eea8a864-fcda-4602-9569-38ab446decd6,easy listening
 ,fbe054ec-a143-4101-9e9e-64abc5ff5ac9,easy listening
 ,197450cd-0124-4164-b723-3c22dd16494d,easy listening soundtracks and musicals
@@ -1725,6 +1727,7 @@ tag,artist_mbid,mb_tag
 ,122d63fc-8671-43e4-9752-34e846d62a9c,electropop
 ,134e6410-6954-45d1-bd4a-0f2d2ad5471d,electropop
 ,164f0d73-1234-4e2c-8743-d77bf2191051,electropop
+,1882fe91-cdd9-49c9-9956-8e06a3810bd4,electropop
 ,1fda852b-92e9-4562-82fa-c52820a77b23,electropop
 ,260b6184-8828-48eb-945c-bc4cb6fc34ca,electropop
 ,2f548675-008d-4332-876c-108b0c7ab9c5,electropop
@@ -3057,6 +3060,7 @@ tag,artist_mbid,mb_tag
 ,dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3,jazz
 ,e22d2f66-881e-41ca-9356-544697ee5f90,jazz
 ,e26aa662-2255-4435-8332-85097f8aba0b,jazz
+,e7ee5f13-baf5-4a87-b58b-f871c137d4f5,jazz
 ,ead26d19-20b3-49ac-92e9-3d8a25ca9462,jazz
 ,ec21cced-2d22-4883-9ee3-f642e6e52f58,jazz
 ,eea8a864-fcda-4602-9569-38ab446decd6,jazz
@@ -3699,6 +3703,7 @@ tag,artist_mbid,mb_tag
 ,149f91ef-1287-46da-9a8e-87fee02f1471,pop
 ,151cd917-1ee2-4702-859f-90899ad897f8,pop
 ,164f0d73-1234-4e2c-8743-d77bf2191051,pop
+,1882fe91-cdd9-49c9-9956-8e06a3810bd4,pop
 ,197450cd-0124-4164-b723-3c22dd16494d,pop
 ,1a10b34d-293a-42f6-856c-fb44d19210f6,pop
 ,1b8bdee5-783a-4eca-88e5-3e9460739546,pop
@@ -5852,6 +5857,7 @@ tag,artist_mbid,mb_tag
 ,197450cd-0124-4164-b723-3c22dd16494d,traditional pop
 ,5a2463af-eef0-4a22-bc8f-5865fbe9c78e,traditional pop
 ,5e6c760b-42e0-4df4-a221-0269355da00a,traditional pop
+,e7ee5f13-baf5-4a87-b58b-f871c137d4f5,traditional pop
 ,eea8a864-fcda-4602-9569-38ab446decd6,traditional pop
 ,fbe054ec-a143-4101-9e9e-64abc5ff5ac9,traditional pop
 ,0b0c25f4-f31c-46a5-a4fb-ccbf53d663bd,trance
@@ -6050,6 +6056,7 @@ tag,artist_mbid,mb_tag
 ,abbbef3b-19d7-4ef8-9ef2-e4d2c556509c,vocal jazz
 ,c48c44e3-5fee-4e21-abff-23dae63ef217,vocal jazz
 ,dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3,vocal jazz
+,e7ee5f13-baf5-4a87-b58b-f871c137d4f5,vocal jazz
 ,eea8a864-fcda-4602-9569-38ab446decd6,vocal jazz
 ,fbe054ec-a143-4101-9e9e-64abc5ff5ac9,vocal jazz
 ,a6de8ef9-b1a1-4756-97aa-481bbb8a4069,vocalist
