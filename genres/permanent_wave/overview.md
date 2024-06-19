@@ -11,7 +11,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | 17 | 15 | [Radiohead](../../artists/radiohead/overview.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc878d7a8f8299a3a09e29fb6" alt="" width="50" /> | 11 | 5 | [Coldplay](../../artists/coldplay/overview.md) | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1ba8fc5f5c73e7e9313cc6eb" alt="" width="50" /> | 11 | 5 | [Coldplay](../../artists/coldplay/overview.md) | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | 5 | 4 | Muse | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089" alt="" width="50" /> | 3 | 2 | The Strokes | [🔗](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8" alt="" width="50" /> | 6 | 1 | Red Hot Chili Peppers | [🔗](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) |
@@ -49,16 +49,16 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | [Fake Plastic Trees](../../artists/radiohead/overview.md) | 249 | <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="Echoes, Silence, Patience &amp; Grace" width="50" /> | The Pretender | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Paranoid Android](../../artists/radiohead/overview.md) | 253 | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> | Knights of Cydonia | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Exit Music (For A Film)](../../artists/radiohead/overview.md) | 373 | <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="Is This It" width="50" /> | Someday | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> | [Creep](../../artists/radiohead/overview.md) | 534 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="X&amp;Y" width="50" /> | [Speed of Sound](../../artists/coldplay/overview.md) | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="In Rainbows" width="50" /> | [Jigsaw Falling Into Place](../../artists/radiohead/overview.md) | 571 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="X&amp;Y" width="50" /> | [Fix You](../../artists/coldplay/overview.md) | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> | Madness | 588 | <img src="https://i.scdn.co/image/ab67616d0000b27313cbe3e4dfa81fe5b91f2f1c" alt="Call Me" width="50" /> | Call Me | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | [Street Spirit (Fade Out)](../../artists/radiohead/overview.md) | 630 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | [The Scientist](../../artists/coldplay/overview.md) | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Karma Police](../../artists/radiohead/overview.md) | 643 | <img src="https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9" alt="Fetch The Bolt Cutters" width="50" /> | I Want You To Love Me | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | Mr. Brightside | 847 | <img src="https://i.scdn.co/image/ab67616d0000b2733395f3e809dfbc2b1101d464" alt="David Bowie (aka Space Oddity) [2015 Remaster]" width="50" /> | Space Oddity - 2015 Remaster | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="In Rainbows" width="50" /> | [Reckoner](../../artists/radiohead/overview.md) | 847 | <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="Mylo Xyloto" width="50" /> | [Paradise](../../artists/coldplay/overview.md) | 847 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | [Fake Plastic Trees](../../artists/radiohead/overview.md) | 250 | <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="Echoes, Silence, Patience &amp; Grace" width="50" /> | The Pretender | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Paranoid Android](../../artists/radiohead/overview.md) | 255 | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> | Knights of Cydonia | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Exit Music (For A Film)](../../artists/radiohead/overview.md) | 375 | <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="Is This It" width="50" /> | Someday | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="Pablo Honey" width="50" /> | [Creep](../../artists/radiohead/overview.md) | 535 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="X&amp;Y" width="50" /> | [Speed of Sound](../../artists/coldplay/overview.md) | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="In Rainbows" width="50" /> | [Jigsaw Falling Into Place](../../artists/radiohead/overview.md) | 573 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="X&amp;Y" width="50" /> | [Fix You](../../artists/coldplay/overview.md) | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> | Madness | 591 | <img src="https://i.scdn.co/image/ab67616d0000b27313cbe3e4dfa81fe5b91f2f1c" alt="Call Me" width="50" /> | Call Me | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | [Street Spirit (Fade Out)](../../artists/radiohead/overview.md) | 632 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="A Rush of Blood to the Head" width="50" /> | [The Scientist](../../artists/coldplay/overview.md) | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Karma Police](../../artists/radiohead/overview.md) | 644 | <img src="https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9" alt="Fetch The Bolt Cutters" width="50" /> | I Want You To Love Me | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="Hot Fuss" width="50" /> | Mr. Brightside | 851 | <img src="https://i.scdn.co/image/ab67616d0000b2733395f3e809dfbc2b1101d464" alt="David Bowie (aka Space Oddity) [2015 Remaster]" width="50" /> | Space Oddity - 2015 Remaster | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="In Rainbows" width="50" /> | [Reckoner](../../artists/radiohead/overview.md) | 851 | <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="Mylo Xyloto" width="50" /> | [Paradise](../../artists/coldplay/overview.md) | 851 |
 
 ## Top Albums
 
@@ -187,7 +187,7 @@
 |:---|:---|---:|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb45de7ab990a1246c812128b6" alt="" width="50" /> | Chris Martin | 5 | Songwriter |
 | | Ken Nelson | 4 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc878d7a8f8299a3a09e29fb6" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 4 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1ba8fc5f5c73e7e9313cc6eb" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 4 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | 4 | Producer |
 | | Paul Q. Kolderie | 3 | Producer |
 | | John Leckie | 3 | Producer |

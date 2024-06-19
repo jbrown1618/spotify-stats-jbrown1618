@@ -14,8 +14,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="2" width="50" /> | Doll (0.842) | <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="TEN - The 1st Mini Album" width="50" /> | Nightwalker (0.439) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="Perfect Velvet - The 2nd Album" width="50" /> | Peek-A-Boo (0.839) | <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="dont smile at me" width="50" /> | watch (0.441) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="2" width="50" /> | Rollie (0.837) | <img src="https://i.scdn.co/image/ab67616d0000b273dd8c3b43984ed746176ac0cf" alt="Alice in Wonderland" width="50" /> | Poison (0.442) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="ODDINARY" width="50" /> | VENOM (0.812) | <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Addicted (0.463) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733d4357940b05ea234a4fb0f4" alt="Street Woman Fighter2 (SWF2) Crew Songs" width="50" /> | Chemistry (Prod. Czaer) (0.806) | <img src="https://i.scdn.co/image/ab67616d0000b27335dbb67e8e2d12ab91d449b5" alt="REAL+" width="50" /> | Scary Fairy Tale (0.465) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f7540ea5cd0831b2c7e4ff9" alt="BXX" width="50" /> | BBB (0.822) | <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Addicted (0.463) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733613e1e0d35867a0814005a9" alt="ODDINARY" width="50" /> | VENOM (0.812) | <img src="https://i.scdn.co/image/ab67616d0000b27335dbb67e8e2d12ab91d449b5" alt="REAL+" width="50" /> | Scary Fairy Tale (0.465) |
 
 ## Energy
 
@@ -97,10 +97,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | Animal Farm (0.579) | <img src="https://i.scdn.co/image/ab67616d0000b2739756c6519e249c1c7c060e60" alt="Never Gonna Dance Again : Act 1 - The 3rd Album" width="50" /> | Criminal (0.0488) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f42a976b1e82a3247873f929" alt="Borderline" width="50" /> | Rooftop (0.561) | <img src="https://i.scdn.co/image/ab67616d0000b2739448197f00ccb91ff0685681" alt="Spider" width="50" /> | Spider (0.0488) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f919108974e4213d86b83805" alt="Monster - The 1st Mini Album" width="50" /> | Monster (0.537) | <img src="https://i.scdn.co/image/ab67616d0000b273078e3c2e57ae77c82ab4b46c" alt="DEVIL - SUPER JUNIOR SPECIAL ALBUM" width="50" /> | Devil (0.052) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fe5a77c6bd965bef349c6482" alt="CRYSTYLE" width="50" /> | Hobgoblin (0.488) | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | Up All Night (Bang Chan, Changbin, Felix, Seungmin) (0.0536) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="Cabin Fever" width="50" /> | Sweet Juice (0.48) | <img src="https://i.scdn.co/image/ab67616d0000b273c3e44ef30eacbbe0ec98598c" alt="Season Songs" width="50" /> | The Black Cat Nero (0.0578) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="BORN TO BE" width="50" /> | Mr. Vampire (0.479) | <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="FOREVER 1 - The 7th Album" width="50" /> | Villain (0.0589) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | No Light, No Light (0.444) | <img src="https://i.scdn.co/image/ab67616d0000b27331b95b252ae186111fb347d8" alt="Prequel" width="50" /> | Sleep-walking (0.0675) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f7540ea5cd0831b2c7e4ff9" alt="BXX" width="50" /> | BBB (0.53) | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | Up All Night (Bang Chan, Changbin, Felix, Seungmin) (0.0536) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fe5a77c6bd965bef349c6482" alt="CRYSTYLE" width="50" /> | Hobgoblin (0.488) | <img src="https://i.scdn.co/image/ab67616d0000b273c3e44ef30eacbbe0ec98598c" alt="Season Songs" width="50" /> | The Black Cat Nero (0.0578) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="Cabin Fever" width="50" /> | Sweet Juice (0.48) | <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="FOREVER 1 - The 7th Album" width="50" /> | Villain (0.0589) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="BORN TO BE" width="50" /> | Mr. Vampire (0.479) | <img src="https://i.scdn.co/image/ab67616d0000b27331b95b252ae186111fb347d8" alt="Prequel" width="50" /> | Sleep-walking (0.0675) |
 
 ## Valence
 

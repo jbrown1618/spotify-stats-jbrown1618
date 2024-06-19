@@ -14,7 +14,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | 17 | 15 | [Radiohead](../../artists/radiohead/overview.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc878d7a8f8299a3a09e29fb6" alt="" width="50" /> | 9 | 5 | [Coldplay](../../artists/coldplay/overview.md) | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1ba8fc5f5c73e7e9313cc6eb" alt="" width="50" /> | 9 | 5 | [Coldplay](../../artists/coldplay/overview.md) | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
 | <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | 6 | 5 | [Rilo Kiley](../../artists/rilo_kiley/overview.md) | [🔗](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | 5 | 4 | Muse | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="" width="50" /> | 6 | 3 | [Maroon 5](../../artists/maroon_5/overview.md) | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
@@ -109,16 +109,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273a4aa9c49f8fedf1df4f84051" alt="The 2¢ Show" width="50" /> | Honeybee | 203 | <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="Echoes, Silence, Patience &amp; Grace" width="50" /> | The Pretender | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | [Fake Plastic Trees](../../artists/radiohead/overview.md) | 249 | <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="Songs About Jane" width="50" /> | [She Will Be Loved](../../artists/maroon_5/overview.md) | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Paranoid Android](../../artists/radiohead/overview.md) | 253 | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> | Knights of Cydonia | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="Bleed American" width="50" /> | The Middle | 270 | <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="Is This It" width="50" /> | Someday | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="Under The Blacklight (Standard Version)" width="50" /> | [Silver Lining](../../artists/rilo_kiley/overview.md) | 282 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="X&amp;Y" width="50" /> | [Speed of Sound](../../artists/coldplay/overview.md) | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" alt="Fallen" width="50" /> | Bring Me To Life | 292 | <img src="https://i.scdn.co/image/ab67616d0000b273ce70cb2d7063cf869f9f1239" alt="Hands All Over" width="50" /> | [Moves Like Jagger - Studio Recording From "The Voice" Performance](../../artists/maroon_5/overview.md) | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="Riot!" width="50" /> | Misery Business | 302 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="X&amp;Y" width="50" /> | [Fix You](../../artists/coldplay/overview.md) | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81" alt="Strange Trails" width="50" /> | The Night We Met | 317 | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="More Adventurous (U.S. Release)" width="50" /> | [Accidntel Deth](../../artists/rilo_kiley/overview.md) | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Me And My Broken Heart | 331 | <img src="https://i.scdn.co/image/ab67616d0000b273609c89ad17eb28c2013c56c6" alt="An Awesome Wave" width="50" /> | Fitzpleasure | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273609c89ad17eb28c2013c56c6" alt="An Awesome Wave" width="50" /> | Breezeblocks | 333 | <img src="https://i.scdn.co/image/ab67616d0000b2736d53f0ab7b9da9c0911dbdcc" alt="Concentrate" width="50" /> | Relimerence | 847 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a4aa9c49f8fedf1df4f84051" alt="The 2¢ Show" width="50" /> | Honeybee | 203 | <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="Echoes, Silence, Patience &amp; Grace" width="50" /> | The Pretender | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | [Fake Plastic Trees](../../artists/radiohead/overview.md) | 250 | <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="Songs About Jane" width="50" /> | [She Will Be Loved](../../artists/maroon_5/overview.md) | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Paranoid Android](../../artists/radiohead/overview.md) | 255 | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> | Knights of Cydonia | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="Bleed American" width="50" /> | The Middle | 271 | <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="Is This It" width="50" /> | Someday | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="Under The Blacklight (Standard Version)" width="50" /> | [Silver Lining](../../artists/rilo_kiley/overview.md) | 283 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="X&amp;Y" width="50" /> | [Speed of Sound](../../artists/coldplay/overview.md) | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432" alt="Fallen" width="50" /> | Bring Me To Life | 294 | <img src="https://i.scdn.co/image/ab67616d0000b273ce70cb2d7063cf869f9f1239" alt="Hands All Over" width="50" /> | [Moves Like Jagger - Studio Recording From "The Voice" Performance](../../artists/maroon_5/overview.md) | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="Riot!" width="50" /> | Misery Business | 305 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="X&amp;Y" width="50" /> | [Fix You](../../artists/coldplay/overview.md) | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81" alt="Strange Trails" width="50" /> | The Night We Met | 320 | <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="More Adventurous (U.S. Release)" width="50" /> | [Accidntel Deth](../../artists/rilo_kiley/overview.md) | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273647377a36072bd08e44dd32b" alt="Let The Road" width="50" /> | Me And My Broken Heart | 334 | <img src="https://i.scdn.co/image/ab67616d0000b273609c89ad17eb28c2013c56c6" alt="An Awesome Wave" width="50" /> | Fitzpleasure | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273609c89ad17eb28c2013c56c6" alt="An Awesome Wave" width="50" /> | Breezeblocks | 337 | <img src="https://i.scdn.co/image/ab67616d0000b2736d53f0ab7b9da9c0911dbdcc" alt="Concentrate" width="50" /> | Relimerence | 851 |
 
 </details>
 
@@ -339,7 +339,6 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 12 | 10 | chamber pop |
-| 10 | 9 | canadian indie |
 | 7 | 7 | modern alternative rock |
 | 9 | 6 | [lilith](../../genres/lilith/overview.md) |
 | 7 | 6 | indie pop |
@@ -351,6 +350,7 @@
 | 12 | 4 | [pop rock](../../genres/pop_rock/overview.md) |
 | 12 | 4 | pop punk |
 | 4 | 4 | indie folk |
+| 4 | 4 | canadian indie |
 | 14 | 3 | alternative metal |
 | 11 | 3 | post-grunge |
 | 9 | 3 | [neo mellow](../../genres/neo_mellow/overview.md) |
@@ -458,7 +458,7 @@
 | | Will Champion | 5 | Songwriter |
 | | Jonny Buckland | 5 | Songwriter |
 | | Ken Nelson | 4 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc878d7a8f8299a3a09e29fb6" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 4 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1ba8fc5f5c73e7e9313cc6eb" alt="" width="50" /> | [Coldplay](../../artists/coldplay/overview.md) | 4 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | Muse | 4 | Producer |
 | | Thom Green | 3 | Songwriter |
 | | John Leckie | 3 | Producer |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e0211213770e112f78d4075b61fab67616d00001e022f8d9427fea9dd36a4fb4f1bab67616d00001e0267a1610b21721a06ed7d378eab67616d00001e02d72fb5571087bca0a2fed008" alt="Musicals" width="100" />
 
-[116 tracks (5 liked) 🔗](https://open.spotify.com/playlist/54LRPekls9oCtaWOnmM3N0)
+[121 tracks (5 liked) 🔗](https://open.spotify.com/playlist/54LRPekls9oCtaWOnmM3N0)
 
 [See Track Features](audio_features.md)
 
@@ -50,18 +50,29 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27309f636a08b6f3c5c6368a58c" alt="" width="50" /> | 5 | 0 | Gerard Butler | [🔗](https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U) |
 | | 5 | 0 | Terrence Mann | [🔗](https://open.spotify.com/artist/5uBIsYz9WatgoViLG6pVj2) |
 | <img src="https://i.scdn.co/image/2f27b88be41ed8e21e7db0cf192385c14736f8a0" alt="" width="50" /> | 5 | 0 | Eddie Redmayne | [🔗](https://open.spotify.com/artist/4EJP6Qhk6l18LumCcpEfLw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a16c41cdbae8f1c935ab958" alt="" width="50" /> | 5 | 0 | Andrew Rannells | [🔗](https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273170e79548d280867ef12742b" alt="" width="50" /> | 4 | 0 | Les Misérables Cast | [🔗](https://open.spotify.com/artist/71wy5iisVKXLZgoPxdFi8A) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0011a003b54943e02654e1f4" alt="" width="50" /> | 4 | 0 | Samantha Barks | [🔗](https://open.spotify.com/artist/4gOl5m9dY7IGAipqpul7GZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736ec69d695b47b6c9016dbb7a" alt="" width="50" /> | 4 | 0 | Josh Gad | [🔗](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9b9b8bf2a5275cf34a5350a" alt="" width="50" /> | 4 | 0 | Rosemary Ashe | [🔗](https://open.spotify.com/artist/3Oju6zkuJzum4svKeVhKiK) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebaa8bb2c037dabfc115302460" alt="" width="50" /> | 3 | 0 | Brian Sears | [🔗](https://open.spotify.com/artist/7prZJzDK9Eaidya20kUciB) |
 | | 3 | 0 | Beth Fowler | [🔗](https://open.spotify.com/artist/7KNW6OwcA260MsaEtnvhxV) |
 | | 3 | 0 | Janet Devenish | [🔗](https://open.spotify.com/artist/7Ev9dg2zamUgQsRUp9DdRl) |
+| | 3 | 0 | Clark Johnsen | [🔗](https://open.spotify.com/artist/6xWxKaEFEKU3r7AUzUKylT) |
+| | 3 | 0 | Kevin Duda | [🔗](https://open.spotify.com/artist/6b1coNssyWbKkbgZfK9MB5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb464513265be8765dddc19bb" alt="" width="50" /> | 3 | 0 | Frances Ruffelle | [🔗](https://open.spotify.com/artist/5uSeMCBhe3DiROdFrwaXkw) |
+| | 3 | 0 | Benjamin Schrader | [🔗](https://open.spotify.com/artist/5OPT8oIrU42hqfKMJv0b5B) |
+| | 3 | 0 | Rory O'Malley | [🔗](https://open.spotify.com/artist/4ypbxQ7Pb5JKm2ulHXDcBP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d64bc71c5b3f176aed9763fb" alt="" width="50" /> | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
+| | 3 | 0 | Justin Bohon | [🔗](https://open.spotify.com/artist/4MYUIgtNTRdEfksW6IwvAe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c9a0bef6d7a4f7f906ecc396" alt="" width="50" /> | 3 | 0 | Jason Michael Snow | [🔗](https://open.spotify.com/artist/32oXmsd7TLzVccshoWY0mm) |
 | | 3 | 0 | John Savident | [🔗](https://open.spotify.com/artist/2V0W4YzPCESOh86ss7D2QE) |
 | | 3 | 0 | Mary Millar | [🔗](https://open.spotify.com/artist/1SBvpcra5uod7N0rxJxa3J) |
+| | 3 | 0 | Scott Barnhardt | [🔗](https://open.spotify.com/artist/1A4dOeSiYZ0yBf6l5uYY7m) |
 | <img src="https://i.scdn.co/image/4f4b7d3b7f76e3c57d3004ba0d99368cdb7e3276" alt="" width="50" /> | 3 | 0 | Ewan McGregor | [🔗](https://open.spotify.com/artist/105Paee9vmV5rfLSG652e1) |
 | | 3 | 0 | Ensemble - The Lion King | [🔗](https://open.spotify.com/artist/0s0Hfb6ckk9qTjDeUOZXJp) |
 | <img src="https://i.scdn.co/image/09f4a0a499359540e40075f8e912d7c3e94bc4a6" alt="" width="50" /> | 3 | 0 | Anne Hathaway | [🔗](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) |
+| | 2 | 0 | Lewis Cleale | [🔗](https://open.spotify.com/artist/7tihd0CgVerCoDl6LeDHQW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736b59fdeebe247885983d6dcf" alt="" width="50" /> | 2 | 0 | Judy Kuhn | [🔗](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739771c14cdfd747a598b1c213" alt="" width="50" /> | 2 | 0 | Susan Egan | [🔗](https://open.spotify.com/artist/7CckquWatDQSr3PFKkjM8M) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f78cfced363cf0e870f0e9ce" alt="" width="50" /> | 2 | 0 | Michael Maguire | [🔗](https://open.spotify.com/artist/6QjRwce37TfXfjx81KqQ7N) |
@@ -109,17 +120,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a43f0bd7cf9c917edd8398a" alt="" width="50" /> | 1 | 0 | Donna Vivino | [🔗](https://open.spotify.com/artist/4IDNKwIch36V0UvtfUQF9k) |
 | | 1 | 0 | Donna King | [🔗](https://open.spotify.com/artist/4BlarH2Qbfhc3DR4LhHrqp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dff378921e4be2272bf08bef" alt="" width="50" /> | 1 | 0 | Tsidii Le Loka | [🔗](https://open.spotify.com/artist/478Cvh1XjJiURpkqbM23SV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27344c97b0d5d7236ee001f2fd1" alt="" width="50" /> | 1 | 0 | Faca Kulu | [🔗](https://open.spotify.com/artist/43YEHQb9ZzZBBgTMKtgJmG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27312db32f7e08a1bfb4ace303b" alt="" width="50" /> | 1 | 0 | Brian D'Arcy James | [🔗](https://open.spotify.com/artist/3oYQrBzEQNpxnjWXP54B4n) |
-| | 1 | 0 | The Factory Girls | [🔗](https://open.spotify.com/artist/3h4B6ffpCQVSn3QSaTLBna) |
-| | 1 | 0 | Barbara Marineau | [🔗](https://open.spotify.com/artist/3UHGebThLKTMzANl7f83P9) |
-| | 1 | 0 | Janos Kurucz | [🔗](https://open.spotify.com/artist/3MiTXPOmIgoJioulWki8dz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5357dc1699d3f51fd2a1ab3" alt="" width="50" /> | 1 | 0 | Jennifer Ellison | [🔗](https://open.spotify.com/artist/3FAYTkACAc9Ir1snu0ZzSy) |
-| | 1 | 0 | Wendy Edmead | [🔗](https://open.spotify.com/artist/3F1882LLJA1TxkePqJcLud) |
-| | 1 | 0 | Cristy Candler | [🔗](https://open.spotify.com/artist/36XXapGsaRgnQEQkjPfTBl) |
-| | 1 | 0 | Jordan Gelber | [🔗](https://open.spotify.com/artist/31IEoybe2khDGCEPboqR1N) |
-| <img src="https://i.scdn.co/image/b7dc0c8b9aaad3fd0a430084f395be143b25eade" alt="" width="50" /> | 1 | 0 | Heather Headley | [🔗](https://open.spotify.com/artist/2xDc4cU0Rj6YG8SrmAHIy0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730dfee5a04607c075eb53fa01" alt="" width="50" /> | 1 | 0 | Cole Thompson | [🔗](https://open.spotify.com/artist/2t5453S7ue4vkqbt0An4F8) |
 
 </details>
 
@@ -138,16 +138,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="Into The Woods (2022 Broadway Cast Recording)" width="50" /> | Giants In The Sky | 337 | <img src="https://i.scdn.co/image/ab67616d0000b2736cb0475872d38753052ac35a" alt="The Lion King: Original Broadway Cast Recording" width="50" /> | Can You Feel The Love Tonight | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Down Once More / Track Down This Murderer | 847 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Notes / Prima Donna | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="Beauty And The Beast: The Broadway Musical" width="50" /> | Beauty and the Beast | 847 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> | One Day More | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Who Am I? - From "Les Miserables'' | 847 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> | Overture - From 'The Phantom Of The Opera' Motion Picture | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | All I Ask Of You - Reprise | 847 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Notes / Twisted Every Way | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | I Remember / Stranger Than You Dreamt It | 847 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Magical Lasso | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | One Last Time | 847 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> | Stars | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | The Election of 1800 | 847 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> | Red And Black | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="Wicked (Original Broadway Cast Recording / Deluxe Edition)" width="50" /> | No One Mourns The Wicked - From "Wicked" Original Broadway Cast Recording/2003 | 847 | <img src="https://i.scdn.co/image/ab67616d0000b273687e8a165b272440a68a480f" alt="Moulin Rouge" width="50" /> | Lady Marmalade - From "Moulin Rouge" Soundtrack | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> | On My Own | 847 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Wait for It | 847 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="Into The Woods (2022 Broadway Cast Recording)" width="50" /> | Giants In The Sky | 340 | <img src="https://i.scdn.co/image/ab67616d0000b2736cb0475872d38753052ac35a" alt="The Lion King: Original Broadway Cast Recording" width="50" /> | Can You Feel The Love Tonight | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d9cd8917de31257e2ac920a9" alt="The Book Of Mormon (Original Broadway Cast Recording)" width="50" /> | Hello! | 851 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Notes / Prima Donna | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Down Once More / Track Down This Murderer | 851 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> | One Day More | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="Beauty And The Beast: The Broadway Musical" width="50" /> | Beauty and the Beast | 851 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> | Overture - From 'The Phantom Of The Opera' Motion Picture | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Who Am I? - From "Les Miserables'' | 851 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Notes / Twisted Every Way | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | All I Ask Of You - Reprise | 851 | <img src="https://i.scdn.co/image/ab67616d0000b273d9cd8917de31257e2ac920a9" alt="The Book Of Mormon (Original Broadway Cast Recording)" width="50" /> | Two by Two | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | I Remember / Stranger Than You Dreamt It | 851 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Magical Lasso | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | One Last Time | 851 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> | Stars | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | The Election of 1800 | 851 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> | Red And Black | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="Wicked (Original Broadway Cast Recording / Deluxe Edition)" width="50" /> | No One Mourns The Wicked - From "Wicked" Original Broadway Cast Recording/2003 | 851 | <img src="https://i.scdn.co/image/ab67616d0000b273687e8a165b272440a68a480f" alt="Moulin Rouge" width="50" /> | Lady Marmalade - From "Moulin Rouge" Soundtrack | 851 |
 
 </details>
 
@@ -163,15 +163,16 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="" width="50" /> | 8 | 0 | Wicked (Original Broadway Cast Recording / Deluxe Edition) | 2013-01-01 | [🔗](https://open.spotify.com/album/1woCvthHJakakroP6dXNxs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | 6 | 1 | What's Inside: Songs from Waitress | 2015-11-06 | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="" width="50" /> | 6 | 0 | Beauty And The Beast: The Broadway Musical | 2006-06-06 | [🔗](https://open.spotify.com/album/3Pzoe4ffuNsxdgTHGaFJmo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d9cd8917de31257e2ac920a9" alt="" width="50" /> | 5 | 0 | The Book Of Mormon (Original Broadway Cast Recording) | 2011-05-17 | [🔗](https://open.spotify.com/album/5yauUuXppqUj2ulor38hvI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273687e8a165b272440a68a480f" alt="" width="50" /> | 5 | 0 | Moulin Rouge | 2001-01-01 | [🔗](https://open.spotify.com/album/1Kg7AyuyIMTfD6geg9VghI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | 4 | 0 | Into The Woods (2022 Broadway Cast Recording) | 2022-09-30 | [🔗](https://open.spotify.com/album/5z6BFXI711HbSAXDjgOAHE) |
 
 
 <details>
-<summary>See all 16 albums</summary>
+<summary>See all 17 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | 4 | 0 | Into The Woods (2022 Broadway Cast Recording) | 2022-09-30 | [🔗](https://open.spotify.com/album/5z6BFXI711HbSAXDjgOAHE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736cb0475872d38753052ac35a" alt="" width="50" /> | 3 | 0 | The Lion King: Original Broadway Cast Recording | 1997-01-01 | [🔗](https://open.spotify.com/album/1y6p6tINBthUWsQVQJmiYK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ef17f8dcb395f575de982b33" alt="" width="50" /> | 2 | 0 | Cats (Original Broadway Cast Recording / 1983) | 1983-01-01 | [🔗](https://open.spotify.com/album/7dIID5jd8V3fR2NXkonyD3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aab8e079e15c7ef2f9259814" alt="" width="50" /> | 1 | 1 | EPIC: The Ocean Saga (Official Concept Album) | 2023-12-25 | [🔗](https://open.spotify.com/album/6q6FBKPiH2waQezdzpxhuz) |
@@ -182,7 +183,7 @@
 </details>
 
 
-![Bar chart of top 16 albums](../../images/playlists/musicals/albums.png)
+![Bar chart of top 17 albums](../../images/playlists/musicals/albums.png)
 
 ## Top Record Labels
 
@@ -197,14 +198,15 @@
 | 9 | 0 | [Walt Disney Records](../../labels/walt_disney_records/overview.md) |
 | 5 | 0 | Moulin Rouge |
 | 5 | 0 | [Interscope Records](../../labels/interscope_records/overview.md) |
-| 4 | 0 | [Craft Recordings](../../labels/craft_recordings/overview.md) |
+| 5 | 0 | Ghostlight Records |
 
 
 <details>
-<summary>See all 14 labels</summary>
+<summary>See all 15 labels</summary>
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 4 | 0 | [Craft Recordings](../../labels/craft_recordings/overview.md) |
 | 1 | 0 | s.r.o. |
 | 1 | 0 | PCQ |
 | 1 | 0 | Masterworks Broadway |
@@ -213,14 +215,14 @@
 </details>
 
 
-![Bar chart of top 14 record labels](../../images/playlists/musicals/labels.png)
+![Bar chart of top 15 record labels](../../images/playlists/musicals/labels.png)
 
 ## Genres
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 31 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
-| 54 | 2 | [broadway](../../genres/broadway/overview.md) |
+| 32 | 3 | [show tunes](../../genres/show_tunes/overview.md) |
+| 57 | 2 | [broadway](../../genres/broadway/overview.md) |
 | 2 | 2 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
 | 7 | 1 | [post-teen pop](../../genres/post-teen_pop/overview.md) |
 | 7 | 1 | [pop rock](../../genres/pop_rock/overview.md) |
@@ -237,7 +239,7 @@
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 19 | 0 | hollywood |
-| 6 | 0 | [movie tunes](../../genres/movie_tunes/overview.md) |
+| 7 | 0 | [movie tunes](../../genres/movie_tunes/overview.md) |
 | 1 | 0 | [rock](../../genres/rock/overview.md) |
 | 1 | 0 | [pop](../../genres/pop/overview.md) |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
@@ -279,6 +281,7 @@
 | 2017 | 1 |
 | 2015 | 16 |
 | [2013](2013/overview.md) | 25 |
+| 2011 | 5 |
 | 2006 | 6 |
 | 2004 | 10 |
 | 2003 | 1 |
@@ -302,6 +305,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Hamilton (Original Broadway Cast Recording) (2015-09-25) | <img src="https://i.scdn.co/image/ab67616d0000b2736cb0475872d38753052ac35a" alt="The Lion King: Original Broadway Cast Recording" width="50" /> | The Lion King: Original Broadway Cast Recording (1997-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273687e8a165b272440a68a480f" alt="Moulin Rouge" width="50" /> | Moulin Rouge (2001-01-01) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="Wicked (Original Broadway Cast Recording / Deluxe Edition)" width="50" /> | Wicked (Original Broadway Cast Recording / Deluxe Edition) (2013-01-01) | <img src="https://i.scdn.co/image/ab67616d0000b273353e8e2e9f685ebc5b785d1e" alt="Avenue Q (Original Broadway Cast Recording)" width="50" /> | Avenue Q (Original Broadway Cast Recording) (2003-10-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="Beauty And The Beast: The Broadway Musical" width="50" /> | Beauty And The Beast: The Broadway Musical (2006-06-06) | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> | The Phantom Of The Opera (Original Motion Picture Soundtrack) (2004-12-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> | The Phantom Of The Opera (Original Motion Picture Soundtrack) (2004-12-10) | <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="Beauty And The Beast: The Broadway Musical" width="50" /> | Beauty And The Beast: The Broadway Musical (2006-06-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273353e8e2e9f685ebc5b785d1e" alt="Avenue Q (Original Broadway Cast Recording)" width="50" /> | Avenue Q (Original Broadway Cast Recording) (2003-10-06) | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)" width="50" /> | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) (2013-01-01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d9cd8917de31257e2ac920a9" alt="The Book Of Mormon (Original Broadway Cast Recording)" width="50" /> | The Book Of Mormon (Original Broadway Cast Recording) (2011-05-17) | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> | The Phantom Of The Opera (Original Motion Picture Soundtrack) (2004-12-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="Beauty And The Beast: The Broadway Musical" width="50" /> | Beauty And The Beast: The Broadway Musical (2006-06-06) | <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="Beauty And The Beast: The Broadway Musical" width="50" /> | Beauty And The Beast: The Broadway Musical (2006-06-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> | The Phantom Of The Opera (Original Motion Picture Soundtrack) (2004-12-10) | <img src="https://i.scdn.co/image/ab67616d0000b273d9cd8917de31257e2ac920a9" alt="The Book Of Mormon (Original Broadway Cast Recording)" width="50" /> | The Book Of Mormon (Original Broadway Cast Recording) (2011-05-17) |

@@ -1,6 +1,6 @@
 # 5th gen k-pop
 
-43 songs
+44 songs
 
 [See Track Features](audio_features.md)
 
@@ -11,7 +11,7 @@
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a6eda4c3bb829e35333dc07" alt="" width="50" /> | 9 | 7 | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [🔗](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebdfe2e3b3a3739053ba87c1c5" alt="" width="50" /> | 4 | 3 | RIIZE | [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba805dac05511e352dd0abb3c" alt="" width="50" /> | 5 | 4 | RIIZE | [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b3f5e37d86593d0a24ab6e7" alt="" width="50" /> | 3 | 3 | BABYMONSTER | [🔗](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb13c5e9862576312b8bb5aa38" alt="" width="50" /> | 3 | 2 | Loossemble | [🔗](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb62f430d4e9ff8eb0b0e4b66f" alt="" width="50" /> | 2 | 2 | hannah bahng | [🔗](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) |
@@ -33,7 +33,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2045ada586251e5e0c5877bf" alt="" width="50" /> | 1 | 1 | &TEAM | [🔗](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb760f73ec37178141135e3a16" alt="" width="50" /> | 1 | 1 | BADVILLAIN | [🔗](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0576f9b8cd1e8c68afe0e3e6" alt="" width="50" /> | 1 | 1 | ARTMS | [🔗](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf95ca0d8e757faaaa49fa380" alt="" width="50" /> | 1 | 1 | CHUU | [🔗](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf340bfbdf8d7c4197d9d66af" alt="" width="50" /> | 1 | 1 | CHUU | [🔗](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a26467248badc54d2253c5e" alt="" width="50" /> | 1 | 1 | NCT DOJAEJUNG | [🔗](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb461e4f1279f9ba5d59c672f" alt="" width="50" /> | 1 | 0 | RESCENE | [🔗](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273575199b6685e149b5c75ba03" alt="" width="50" /> | 1 | 0 | BOYS PLANET | [🔗](https://open.spotify.com/artist/49pGKUCSjzaCfv8gdTWG98) |
@@ -48,16 +48,16 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="Born to be XX" width="50" /> | [Nobody Knows](../../artists/kiss_of_life/overview.md) | 92 | <img src="https://i.scdn.co/image/ab67616d0000b2734f6afc385052250c766a5683" alt="BABYMONS7ER" width="50" /> | LIKE THAT | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27308f9aed64208e0f8d9e10f0e" alt="Get A Guitar" width="50" /> | Get A Guitar | 128 | <img src="https://i.scdn.co/image/ab67616d0000b273eb692ba736f1102246f7994f" alt="Re:Scene" width="50" /> | UhUh | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734f6afc385052250c766a5683" alt="BABYMONS7ER" width="50" /> | SHEESH | 136 | <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="KISS OF LIFE" width="50" /> | [Shhh](../../artists/kiss_of_life/overview.md) | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738cab1c75d2271af37c3e2db9" alt="First Howling : ME" width="50" /> | Scent of you | 139 | <img src="https://i.scdn.co/image/ab67616d0000b273f86c5c45e58e55a2e16ac64f" alt="BOYS PLANET - FINAL TOP9 BATTLE" width="50" /> | Jelly Pop | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738683845c563e9e2a478e2edb" alt="Loossemble" width="50" /> | Sensitive | 163 | <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="KISS OF LIFE" width="50" /> | [Kitty Cat (JULIE Solo)](../../artists/kiss_of_life/overview.md) | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27307568782625b85282541394b" alt="Midas Touch" width="50" /> | [Midas Touch](../../artists/kiss_of_life/overview.md) | 187 | <img src="https://i.scdn.co/image/ab67616d0000b273569689ef998a192f7809467a" alt="Target: ME" width="50" /> | TROUBLE | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27324e7d3f6bcc7f5594638a4f0" alt="BATTER UP" width="50" /> | BATTER UP | 188 | <img src="https://i.scdn.co/image/ab67616d0000b2734ad3417e5036ba928bb5ce8b" alt="THE UNSEEN" width="50" /> | Love Me A Little | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27327cc105dd498a481f805f9a0" alt="Perfume - The 1st Mini Album" width="50" /> | Perfume | 225 | <img src="https://i.scdn.co/image/ab67616d0000b273992cdb975f91efd91b998628" alt="8TURNRISE" width="50" /> | TIC TAC | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27378361eb2fde0048517f4a7f0" alt="SWEAT" width="50" /> | SWEAT | 283 | <img src="https://i.scdn.co/image/ab67616d0000b273c78e5431a308893318b115dd" alt="One Of A Kind" width="50" /> | Boomerang | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="SUPER REAL ME" width="50" /> | My World | 286 | <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="Born to be XX" width="50" /> | [Gentleman](../../artists/kiss_of_life/overview.md) | 847 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="Born to be XX" width="50" /> | [Nobody Knows](../../artists/kiss_of_life/overview.md) | 89 | <img src="https://i.scdn.co/image/ab67616d0000b2734f6afc385052250c766a5683" alt="BABYMONS7ER" width="50" /> | LIKE THAT | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27308f9aed64208e0f8d9e10f0e" alt="Get A Guitar" width="50" /> | Get A Guitar | 127 | <img src="https://i.scdn.co/image/ab67616d0000b273eb692ba736f1102246f7994f" alt="Re:Scene" width="50" /> | UhUh | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734f6afc385052250c766a5683" alt="BABYMONS7ER" width="50" /> | SHEESH | 134 | <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="KISS OF LIFE" width="50" /> | [Shhh](../../artists/kiss_of_life/overview.md) | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738cab1c75d2271af37c3e2db9" alt="First Howling : ME" width="50" /> | Scent of you | 140 | <img src="https://i.scdn.co/image/ab67616d0000b273f86c5c45e58e55a2e16ac64f" alt="BOYS PLANET - FINAL TOP9 BATTLE" width="50" /> | Jelly Pop | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738683845c563e9e2a478e2edb" alt="Loossemble" width="50" /> | Sensitive | 163 | <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="KISS OF LIFE" width="50" /> | [Kitty Cat (JULIE Solo)](../../artists/kiss_of_life/overview.md) | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307568782625b85282541394b" alt="Midas Touch" width="50" /> | [Midas Touch](../../artists/kiss_of_life/overview.md) | 186 | <img src="https://i.scdn.co/image/ab67616d0000b273569689ef998a192f7809467a" alt="Target: ME" width="50" /> | TROUBLE | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27324e7d3f6bcc7f5594638a4f0" alt="BATTER UP" width="50" /> | BATTER UP | 189 | <img src="https://i.scdn.co/image/ab67616d0000b2734ad3417e5036ba928bb5ce8b" alt="THE UNSEEN" width="50" /> | Love Me A Little | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27327cc105dd498a481f805f9a0" alt="Perfume - The 1st Mini Album" width="50" /> | Perfume | 228 | <img src="https://i.scdn.co/image/ab67616d0000b273992cdb975f91efd91b998628" alt="8TURNRISE" width="50" /> | TIC TAC | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27378361eb2fde0048517f4a7f0" alt="SWEAT" width="50" /> | SWEAT | 285 | <img src="https://i.scdn.co/image/ab67616d0000b273c78e5431a308893318b115dd" alt="One Of A Kind" width="50" /> | Boomerang | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="SUPER REAL ME" width="50" /> | My World | 289 | <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="Born to be XX" width="50" /> | [Gentleman](../../artists/kiss_of_life/overview.md) | 851 |
 
 ## Top Albums
 
@@ -76,11 +76,12 @@
 
 
 <details>
-<summary>See all 31 albums</summary>
+<summary>See all 32 albums</summary>
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ad3417e5036ba928bb5ce8b" alt="" width="50" /> | 1 | 1 | THE UNSEEN | 2023-07-25 | [🔗](https://open.spotify.com/album/4gV0rLK0np1Nyde3N38RBh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27369ad639dd6829cb2414a53f9" alt="" width="50" /> | 1 | 1 | RIIZING - The 1st Mini Album | 2024-06-17 | [🔗](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273478ef9d343e7ba9602e86f90" alt="" width="50" /> | 1 | 1 | Plastic Candy | 2023-10-26 | [🔗](https://open.spotify.com/album/2mwOcK4A3O3x9fxpjyFGxW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27327cc105dd498a481f805f9a0" alt="" width="50" /> | 1 | 1 | Perfume - The 1st Mini Album | 2023-04-17 | [🔗](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c78e5431a308893318b115dd" alt="" width="50" /> | 1 | 1 | One Of A Kind | 2024-04-15 | [🔗](https://open.spotify.com/album/2sN27KkVSnHvqi0MA2YxcZ) |
@@ -112,12 +113,12 @@
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 9 | 7 | [S2 ENTERTAINMENT INC.](../../labels/s2_entertainment_inc_/overview.md) |
-| 5 | 4 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 6 | 5 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 7 | 3 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 6 | 3 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
+| 4 | 3 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 3 | 3 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
 | 3 | 2 | [WM Korea](../../labels/wm_korea/overview.md) |
-| 3 | 2 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 2 | 2 | MODHAUS |
 | 2 | 2 | BAHNG ENTERTAINMENT LLC |
 | 3 | 1 | [WM Entertainment](../../labels/wm_entertainment/overview.md) |
@@ -242,15 +243,15 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce09217bde99ac32fb509123" alt="OVERSTEP" width="50" /> | OVERSTEP (2024-06-03) | <img src="https://i.scdn.co/image/ab67616d0000b273849a155d7c0b67638c0a1a8a" alt="Bon Voyage" width="50" /> | Bon Voyage (2020-09-07) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733eaf9b3c1c804fec2bb06ac0" alt="&lt;Dall&gt;" width="50" /> | <Dall> (2024-05-31) | <img src="https://i.scdn.co/image/ab67616d0000b273689de2fa15801f97d714522e" alt="SELFISH" width="50" /> | SELFISH (2022-11-14) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d4c3b0dc9e24e3beb94325e" alt="RIIZING" width="50" /> | RIIZING (2024-04-28) | <img src="https://i.scdn.co/image/ab67616d0000b2738cab1c75d2271af37c3e2db9" alt="First Howling : ME" width="50" /> | First Howling : ME (2022-12-06) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27378361eb2fde0048517f4a7f0" alt="SWEAT" width="50" /> | SWEAT (2024-04-24) | <img src="https://i.scdn.co/image/ab67616d0000b273992cdb975f91efd91b998628" alt="8TURNRISE" width="50" /> | 8TURNRISE (2023-01-30) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c78e5431a308893318b115dd" alt="One Of A Kind" width="50" /> | One Of A Kind (2024-04-15) | <img src="https://i.scdn.co/image/ab67616d0000b27327cc105dd498a481f805f9a0" alt="Perfume - The 1st Mini Album" width="50" /> | Perfume - The 1st Mini Album (2023-04-17) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27307568782625b85282541394b" alt="Midas Touch" width="50" /> | Midas Touch (2024-04-03) | <img src="https://i.scdn.co/image/ab67616d0000b273f86c5c45e58e55a2e16ac64f" alt="BOYS PLANET - FINAL TOP9 BATTLE" width="50" /> | BOYS PLANET - FINAL TOP9 BATTLE (2023-04-21) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734f6afc385052250c766a5683" alt="BABYMONS7ER" width="50" /> | BABYMONS7ER (2024-04-01) | <img src="https://i.scdn.co/image/ab67616d0000b273662be38ecc5e14742193b653" alt="Movie Star" width="50" /> | Movie Star (2023-05-17) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb692ba736f1102246f7994f" alt="Re:Scene" width="50" /> | Re:Scene (2024-03-26) | <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="KISS OF LIFE" width="50" /> | KISS OF LIFE (2023-07-05) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="SUPER REAL ME" width="50" /> | SUPER REAL ME (2024-03-25) | <img src="https://i.scdn.co/image/ab67616d0000b27312062f95939fd4de9def44e7" alt="YOUTH IN THE SHADE" width="50" /> | YOUTH IN THE SHADE (2023-07-10) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f42a976b1e82a3247873f929" alt="Borderline" width="50" /> | Borderline (2024-03-14) | <img src="https://i.scdn.co/image/ab67616d0000b2731ccae05cfc0a4def5804bb60" alt="perfect blues" width="50" /> | perfect blues (2023-07-14) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27369ad639dd6829cb2414a53f9" alt="RIIZING - The 1st Mini Album" width="50" /> | RIIZING - The 1st Mini Album (2024-06-17) | <img src="https://i.scdn.co/image/ab67616d0000b273849a155d7c0b67638c0a1a8a" alt="Bon Voyage" width="50" /> | Bon Voyage (2020-09-07) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce09217bde99ac32fb509123" alt="OVERSTEP" width="50" /> | OVERSTEP (2024-06-03) | <img src="https://i.scdn.co/image/ab67616d0000b273689de2fa15801f97d714522e" alt="SELFISH" width="50" /> | SELFISH (2022-11-14) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733eaf9b3c1c804fec2bb06ac0" alt="&lt;Dall&gt;" width="50" /> | <Dall> (2024-05-31) | <img src="https://i.scdn.co/image/ab67616d0000b2738cab1c75d2271af37c3e2db9" alt="First Howling : ME" width="50" /> | First Howling : ME (2022-12-06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d4c3b0dc9e24e3beb94325e" alt="RIIZING" width="50" /> | RIIZING (2024-04-28) | <img src="https://i.scdn.co/image/ab67616d0000b273992cdb975f91efd91b998628" alt="8TURNRISE" width="50" /> | 8TURNRISE (2023-01-30) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27378361eb2fde0048517f4a7f0" alt="SWEAT" width="50" /> | SWEAT (2024-04-24) | <img src="https://i.scdn.co/image/ab67616d0000b27327cc105dd498a481f805f9a0" alt="Perfume - The 1st Mini Album" width="50" /> | Perfume - The 1st Mini Album (2023-04-17) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c78e5431a308893318b115dd" alt="One Of A Kind" width="50" /> | One Of A Kind (2024-04-15) | <img src="https://i.scdn.co/image/ab67616d0000b273f86c5c45e58e55a2e16ac64f" alt="BOYS PLANET - FINAL TOP9 BATTLE" width="50" /> | BOYS PLANET - FINAL TOP9 BATTLE (2023-04-21) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307568782625b85282541394b" alt="Midas Touch" width="50" /> | Midas Touch (2024-04-03) | <img src="https://i.scdn.co/image/ab67616d0000b273662be38ecc5e14742193b653" alt="Movie Star" width="50" /> | Movie Star (2023-05-17) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734f6afc385052250c766a5683" alt="BABYMONS7ER" width="50" /> | BABYMONS7ER (2024-04-01) | <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="KISS OF LIFE" width="50" /> | KISS OF LIFE (2023-07-05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb692ba736f1102246f7994f" alt="Re:Scene" width="50" /> | Re:Scene (2024-03-26) | <img src="https://i.scdn.co/image/ab67616d0000b27312062f95939fd4de9def44e7" alt="YOUTH IN THE SHADE" width="50" /> | YOUTH IN THE SHADE (2023-07-10) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="SUPER REAL ME" width="50" /> | SUPER REAL ME (2024-03-25) | <img src="https://i.scdn.co/image/ab67616d0000b2731ccae05cfc0a4def5804bb60" alt="perfect blues" width="50" /> | perfect blues (2023-07-14) |
 
 ![Bar chart of number of songs by year](../../images/genres/5th_gen_k-pop/years.png)

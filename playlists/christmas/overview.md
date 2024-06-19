@@ -17,7 +17,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | 3 | 1 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb573935eb61a1897aeb43c531" alt="" width="50" /> | 2 | 1 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | 2 | 1 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd" alt="" width="50" /> | 2 | 1 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb02a562ea6b1dc718394010ac" alt="" width="50" /> | 2 | 1 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb49cfa92440a7629ab21a8561" alt="" width="50" /> | 2 | 1 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb611e60f2b061c920476b2df3" alt="" width="50" /> | 1 | 1 | [BAEKHYUN](../../artists/baekhyun/overview.md) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7d2e812e63d6df77ee087b47" alt="" width="50" /> | 1 | 1 | Fleet Foxes | [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) |
@@ -75,13 +75,13 @@
 | | 1 | 0 | Chundung | [🔗](https://open.spotify.com/artist/52KEoFZCGGap8hZHtOgENt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb5333f17b22081d93856e43" alt="" width="50" /> | 1 | 0 | Nile Lee | [🔗](https://open.spotify.com/artist/52FvIIUS7sLLUn2mZEjWa8) |
 | <img src="https://i.scdn.co/image/822d7cac5aa9649b2c8a0be5da89567f8b80ca56" alt="" width="50" /> | 1 | 0 | Vince Guaraldi Trio | [🔗](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6c2a5ea9ef6fc4d5bfda7278" alt="" width="50" /> | 1 | 0 | YERI | [🔗](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc878d7a8f8299a3a09e29fb6" alt="" width="50" /> | 1 | 0 | [Coldplay](../../artists/coldplay/overview.md) | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4fc1416093fb8c22ce0cfd91" alt="" width="50" /> | 1 | 0 | YERI | [🔗](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1ba8fc5f5c73e7e9313cc6eb" alt="" width="50" /> | 1 | 0 | [Coldplay](../../artists/coldplay/overview.md) | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ecfefcddb02c66f45ac79ac4" alt="" width="50" /> | 1 | 0 | Jan Utbult | [🔗](https://open.spotify.com/artist/4cdzuhtmHpWvdn1nXn2Aga) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4ea49bdca366a3baa5cbb006" alt="" width="50" /> | 1 | 0 | Brenda Lee | [🔗](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb73f96bdf146d008680149954" alt="" width="50" /> | 1 | 0 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a93e273380982dff84c0d7c" alt="" width="50" /> | 1 | 0 | Elvis Presley | [🔗](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd323bc0a7d2303f297d161f" alt="" width="50" /> | 1 | 0 | Dorothy Kirsten | [🔗](https://open.spotify.com/artist/3mMDsLh0ODpEuwpvn9sitk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c1772d943403a20c4eebc0bf" alt="" width="50" /> | 1 | 0 | Dorothy Kirsten | [🔗](https://open.spotify.com/artist/3mMDsLh0ODpEuwpvn9sitk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb86b13e4d2e65ebf694384ef4" alt="" width="50" /> | 1 | 0 | John Williams | [🔗](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) |
 | <img src="https://i.scdn.co/image/215c26ee517c4faf54722335cc79f375d178fb71" alt="" width="50" /> | 1 | 0 | Elmo & Patsy | [🔗](https://open.spotify.com/artist/3Ubvmshojm0HJHWWr4C6GF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb30a517d1b703c3eabdac2855" alt="" width="50" /> | 1 | 0 | Wonder Girls | [🔗](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) |
@@ -108,7 +108,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3be6bd19302e88701bb512e0" alt="" width="50" /> | 1 | 0 | Brett Eldredge | [🔗](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcec2dd52046443079ba66472" alt="" width="50" /> | 1 | 0 | Burl Ives | [🔗](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) |
 | | 1 | 0 | B. Swanson Quartet | [🔗](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb13e8057399bcfc4d4ec4c5dc" alt="" width="50" /> | 1 | 0 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeb30a593572712cb0a32a645" alt="" width="50" /> | 1 | 0 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb8997aa3a0038f3deafd5706" alt="" width="50" /> | 1 | 0 | Whee In | [🔗](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) |
 
 </details>
@@ -128,16 +128,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 46 | <img src="https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d" alt="Under The Mistletoe (Deluxe Edition)" width="50" /> | [Mistletoe](../../artists/justin_bieber/overview.md) | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731ca13e5d59a3a25e68fd7764" alt="Jingle Bell Rock" width="50" /> | [Jingle Bell Rock](../../artists/aespa/overview.md) | 99 | <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="Everyday Is Christmas (Deluxe Edition)" width="50" /> | [Snowman](../../artists/sia/overview.md) | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | [Snowy](../../artists/itzy/overview.md) | 149 | <img src="https://i.scdn.co/image/ab67616d0000b2738a1852a46d640fe6aeb687c9" alt="Miracles in December (Chinese Version)" width="50" /> | [The First Snow - Chinese Version](../../artists/exo/overview.md) | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> | [Beautiful Christmas](../../artists/red_velvet/overview.md) | 182 | <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="1st Intermixxion Single &lt;Funky Glitter Christmas&gt;" width="50" /> | [Funky Glitter Christmas](../../artists/nmixx/overview.md) | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aa509be2dd24fb6c753cf292" alt="Elvis&#x27; Christmas Album" width="50" /> | Blue Christmas | 264 | <img src="https://i.scdn.co/image/ab67616d0000b27305be7d29c5441585390b580f" alt="Dominick the Donkey" width="50" /> | Dominick the Donkey (The Italian Christmas Donkey) | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | [Christmas EveL](../../artists/stray_kids/overview.md) | 267 | <img src="https://i.scdn.co/image/ab67616d0000b273eca5679f2e7cab0dd314fce3" alt="the collective soul and unconscious: snowy night" width="50" /> | [snowy night](../../artists/billlie/overview.md) | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="Candy - Winter Special Mini Album" width="50" /> | [Candy](../../artists/nct_dream/overview.md) | 281 | <img src="https://i.scdn.co/image/ab67616d0000b273404c584f708c5a2fb05bdeb3" alt="Spotify Singles - Holiday" width="50" /> | [After LIKE - Holiday Remix](../../artists/ive/overview.md) | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="Merry &amp; Happy" width="50" /> | [Merry & Happy](../../artists/twice/overview.md) | 285 | <img src="https://i.scdn.co/image/ab67616d0000b2738595529eaa871a5bef0d6dd6" alt="Lime Tree Islet - New Music for Flexible Instrumentation - Demo Tracks 2017-2018" width="50" /> | A Holly Jolly Christmas | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | [Winter Falls](../../artists/stray_kids/overview.md) | 303 | <img src="https://i.scdn.co/image/ab67616d0000b273ff45701e8447016848c70485" alt="This Christmas – Winter is Coming" width="50" /> | [Let It Snow](../../artists/taeyeon/overview.md) | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f456ca5659f2d0169061b310" alt="Perfect Night (Holiday Remix)" width="50" /> | [Perfect Night (Holiday Remix)](../../artists/le_sserafim/overview.md) | 325 | <img src="https://i.scdn.co/image/ab67616d0000b2732f4cea1bf125a287a42c5d4f" alt="All I Want for Christmas Is You" width="50" /> | All I Want for Christmas Is You | 847 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 46 | <img src="https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d" alt="Under The Mistletoe (Deluxe Edition)" width="50" /> | [Mistletoe](../../artists/justin_bieber/overview.md) | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ca13e5d59a3a25e68fd7764" alt="Jingle Bell Rock" width="50" /> | [Jingle Bell Rock](../../artists/aespa/overview.md) | 99 | <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="Everyday Is Christmas (Deluxe Edition)" width="50" /> | [Snowman](../../artists/sia/overview.md) | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | [Snowy](../../artists/itzy/overview.md) | 149 | <img src="https://i.scdn.co/image/ab67616d0000b2738a1852a46d640fe6aeb687c9" alt="Miracles in December (Chinese Version)" width="50" /> | [The First Snow - Chinese Version](../../artists/exo/overview.md) | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="2022 Winter SMTOWN : SMCU PALACE" width="50" /> | [Beautiful Christmas](../../artists/red_velvet/overview.md) | 184 | <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="1st Intermixxion Single &lt;Funky Glitter Christmas&gt;" width="50" /> | [Funky Glitter Christmas](../../artists/nmixx/overview.md) | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aa509be2dd24fb6c753cf292" alt="Elvis&#x27; Christmas Album" width="50" /> | Blue Christmas | 268 | <img src="https://i.scdn.co/image/ab67616d0000b27305be7d29c5441585390b580f" alt="Dominick the Donkey" width="50" /> | Dominick the Donkey (The Italian Christmas Donkey) | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | [Christmas EveL](../../artists/stray_kids/overview.md) | 270 | <img src="https://i.scdn.co/image/ab67616d0000b273eca5679f2e7cab0dd314fce3" alt="the collective soul and unconscious: snowy night" width="50" /> | [snowy night](../../artists/billlie/overview.md) | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="Candy - Winter Special Mini Album" width="50" /> | [Candy](../../artists/nct_dream/overview.md) | 282 | <img src="https://i.scdn.co/image/ab67616d0000b273404c584f708c5a2fb05bdeb3" alt="Spotify Singles - Holiday" width="50" /> | [After LIKE - Holiday Remix](../../artists/ive/overview.md) | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f0d00e054e9a9cb2e86cdf72" alt="Merry &amp; Happy" width="50" /> | [Merry & Happy](../../artists/twice/overview.md) | 288 | <img src="https://i.scdn.co/image/ab67616d0000b2738595529eaa871a5bef0d6dd6" alt="Lime Tree Islet - New Music for Flexible Instrumentation - Demo Tracks 2017-2018" width="50" /> | A Holly Jolly Christmas | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | [Winter Falls](../../artists/stray_kids/overview.md) | 306 | <img src="https://i.scdn.co/image/ab67616d0000b273ff45701e8447016848c70485" alt="This Christmas – Winter is Coming" width="50" /> | [Let It Snow](../../artists/taeyeon/overview.md) | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f456ca5659f2d0169061b310" alt="Perfect Night (Holiday Remix)" width="50" /> | [Perfect Night (Holiday Remix)](../../artists/le_sserafim/overview.md) | 327 | <img src="https://i.scdn.co/image/ab67616d0000b2732f4cea1bf125a287a42c5d4f" alt="All I Want for Christmas Is You" width="50" /> | All I Want for Christmas Is You | 851 |
 
 </details>
 
@@ -315,7 +315,7 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 30 | 5 | [k-pop](../../genres/k-pop/overview.md) |
+| 32 | 6 | [k-pop](../../genres/k-pop/overview.md) |
 | 23 | 3 | [pop](../../genres/pop/overview.md) |
 | 12 | 2 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 11 | 2 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
@@ -328,7 +328,7 @@
 
 
 <details>
-<summary>See all 64 genres</summary>
+<summary>See all 65 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -356,6 +356,7 @@
 | 2 | 0 | australian pop |
 | 2 | 0 | australian dance |
 | 1 | 0 | yodeling |
+| 1 | 0 | western swing |
 | 1 | 0 | ukrainian classical |
 | 1 | 0 | [uk pop](../../genres/uk_pop/overview.md) |
 | 1 | 0 | traditional country |

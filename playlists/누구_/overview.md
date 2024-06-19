@@ -15,7 +15,7 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11b4e5da5aead482944bdef6" alt="" width="50" /> | 5 | 4 | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eaaec0372ea5e4f248eaf282" alt="" width="50" /> | 4 | 3 | PinkFantasy | [🔗](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebed480d5867f57d4bb3a285c8" alt="" width="50" /> | 3 | 3 | BLITZERS | [🔗](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb70c814e51439ade543f58880" alt="" width="50" /> | 3 | 3 | BLITZERS | [🔗](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7415221d0cb40f21f8e4c5f4" alt="" width="50" /> | 3 | 2 | Cherry Bullet | [🔗](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8162ce227fb3f8159822aab0" alt="" width="50" /> | 2 | 2 | ONEUS | [🔗](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba0558a30f75468d73a9a2789" alt="" width="50" /> | 4 | 1 | CIX | [🔗](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) |
@@ -47,7 +47,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb461e4f1279f9ba5d59c672f" alt="" width="50" /> | 1 | 0 | RESCENE | [🔗](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2efa47f150ed10401bde6d85" alt="" width="50" /> | 1 | 0 | BVNDIT | [🔗](https://open.spotify.com/artist/5dEBuZjTtE68uDgCs23Kuv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0890398a6ffdf14687f83f66" alt="" width="50" /> | 1 | 0 | BE'O | [🔗](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb27605f3330d7fea5d8670749" alt="" width="50" /> | 1 | 0 | H1-KEY | [🔗](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8941500574c895dea9741e8f" alt="" width="50" /> | 1 | 0 | H1-KEY | [🔗](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb568d2846f8b9c8267da1e34d" alt="" width="50" /> | 1 | 0 | KIM WOO SEOK | [🔗](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d51ab93be9525e124f4a6a58" alt="" width="50" /> | 1 | 0 | DKB | [🔗](https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbaab1c0bd5243ff2557dd0f2" alt="" width="50" /> | 1 | 0 | MINO | [🔗](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) |
@@ -77,16 +77,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738cab1c75d2271af37c3e2db9" alt="First Howling : ME" width="50" /> | Scent of you | 139 | <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="LEVIOSA" width="50" /> | KISS | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27340320ca58cbadbad78598e36" alt="EPEX 5th EP Album Prelude of Love Chapter 2. &#x27;Growing Pains&#x27;" width="50" /> | Sunshower | 217 | <img src="https://i.scdn.co/image/ab67616d0000b273eb692ba736f1102246f7994f" alt="Re:Scene" width="50" /> | UhUh | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Bewitched | 246 | <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="KISS OF LIFE" width="50" /> | [Shhh](../../artists/kiss_of_life/overview.md) | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d7112b403c7a97c2a3ad462c" alt="Love seeker" width="50" /> | Love seeker | 268 | <img src="https://i.scdn.co/image/ab67616d0000b273a359467cf1e245c2cdf5dad5" alt="HELLO Chapter 1: Hello, Stranger" width="50" /> | What You Wanted | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b0f7fd5522eff959055b20d8" alt="Cherry Rush" width="50" /> | Love So Sweet | 502 | <img src="https://i.scdn.co/image/ab67616d0000b27311e775512911343411545bd3" alt="BLACK LABEL" width="50" /> | You’re Pitiful | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359fcda8d47bbd0f6c2bf1647" alt="Bizarre Story" width="50" /> | 기괴한 이야기 : Get Out | 532 | <img src="https://i.scdn.co/image/ab67616d0000b2737c4382c3305785dfd04d5d01" alt="Liminality - EP.LOVE" width="50" /> | Tap Tap | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f4171e1732961f5da0de0c1e" alt="WIN-DOW" width="50" /> | Love is New Gravity | 545 | <img src="https://i.scdn.co/image/ab67616d0000b27376ac47ccb37484a1f5ca821e" alt="÷ (NANUGI)" width="50" /> | MEDUSA | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | KARMA | 549 | <img src="https://i.scdn.co/image/ab67616d0000b273fca604ab938f3f3319971a61" alt="기기괴괴" width="50" /> | 기기괴괴 | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="Macarena" width="50" /> | Macarena | 635 | <img src="https://i.scdn.co/image/ab67616d0000b273569689ef998a192f7809467a" alt="Target: ME" width="50" /> | TROUBLE | 847 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b068508a55c13c676bf74d6b" alt="FACE ME" width="50" /> | PHOTO | 847 | <img src="https://i.scdn.co/image/ab67616d0000b273bdf5051b85408bc0967122f9" alt="Hands Up" width="50" /> | Hands Up | 847 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738cab1c75d2271af37c3e2db9" alt="First Howling : ME" width="50" /> | Scent of you | 140 | <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="LEVIOSA" width="50" /> | KISS | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27340320ca58cbadbad78598e36" alt="EPEX 5th EP Album Prelude of Love Chapter 2. &#x27;Growing Pains&#x27;" width="50" /> | Sunshower | 218 | <img src="https://i.scdn.co/image/ab67616d0000b273eb692ba736f1102246f7994f" alt="Re:Scene" width="50" /> | UhUh | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Bewitched | 246 | <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="KISS OF LIFE" width="50" /> | [Shhh](../../artists/kiss_of_life/overview.md) | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d7112b403c7a97c2a3ad462c" alt="Love seeker" width="50" /> | Love seeker | 262 | <img src="https://i.scdn.co/image/ab67616d0000b273a359467cf1e245c2cdf5dad5" alt="HELLO Chapter 1: Hello, Stranger" width="50" /> | What You Wanted | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b0f7fd5522eff959055b20d8" alt="Cherry Rush" width="50" /> | Love So Sweet | 505 | <img src="https://i.scdn.co/image/ab67616d0000b27311e775512911343411545bd3" alt="BLACK LABEL" width="50" /> | You’re Pitiful | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359fcda8d47bbd0f6c2bf1647" alt="Bizarre Story" width="50" /> | 기괴한 이야기 : Get Out | 533 | <img src="https://i.scdn.co/image/ab67616d0000b2737c4382c3305785dfd04d5d01" alt="Liminality - EP.LOVE" width="50" /> | Tap Tap | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f4171e1732961f5da0de0c1e" alt="WIN-DOW" width="50" /> | Love is New Gravity | 545 | <img src="https://i.scdn.co/image/ab67616d0000b27376ac47ccb37484a1f5ca821e" alt="÷ (NANUGI)" width="50" /> | MEDUSA | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="CHOSEN KARMA" width="50" /> | KARMA | 552 | <img src="https://i.scdn.co/image/ab67616d0000b273fca604ab938f3f3319971a61" alt="기기괴괴" width="50" /> | 기기괴괴 | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="Macarena" width="50" /> | Macarena | 637 | <img src="https://i.scdn.co/image/ab67616d0000b273569689ef998a192f7809467a" alt="Target: ME" width="50" /> | TROUBLE | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b068508a55c13c676bf74d6b" alt="FACE ME" width="50" /> | PHOTO | 851 | <img src="https://i.scdn.co/image/ab67616d0000b273bdf5051b85408bc0967122f9" alt="Hands Up" width="50" /> | Hands Up | 851 |
 
 </details>
 
