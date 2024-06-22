@@ -11,7 +11,7 @@ WINTER:
 - is a member of [aespa](../aespa/overview.md)
 
 ## Artist Rank
-- The #75 artist overall
+- The #74 artist overall
 
 ![Rank of WINTER over time](../../images/artists/winter/rank_time_series.png)
 ## Top Tracks
@@ -92,11 +92,11 @@ WINTER:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273edac9c0484d3c89b0439c3ed" alt="" width="50" /> | NOBODY | NOBODY | [JEON SOYEON](../jeon_soyeon/overview.md), [WINTER](overview.md), LIZ (IVE) | Studio Beyond | 90 | 💚 | [🔗](https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273edac9c0484d3c89b0439c3ed" alt="" width="50" /> | NOBODY | NOBODY | [JEON SOYEON](../jeon_soyeon/overview.md), [WINTER](overview.md), LIZ (IVE) | Studio Beyond | 92 | 💚 | [🔗](https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bf32f4be80afeb0e1a09b27d" alt="" width="50" /> | Officially Cool | Officially Cool | BANG YEDAM, [WINTER](overview.md) | [WM Korea](../../labels/wm_korea) | 174 | 💚 | [🔗](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Priority | 2022 Winter SMTOWN : SMCU PALACE | MAX CHANGMIN, [TAEYEON](../taeyeon/overview.md), [WINTER](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 214 | 💚 | [🔗](https://open.spotify.com/track/79musoVrfPaVxoMSBFJYuc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732d5c8b45ab7a204c4de48605" alt="" width="50" /> | ONCE AGAIN | Our Blues, Pt. 10 (Original Television Soundtrack) | [WINTER](overview.md), NINGNING | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 735 | 💚 | [🔗](https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Jet | 2022 Winter SMTOWN : SMCU PALACE | EUNHYUK, HYO, TAEYONG, JAEMIN, SUNGCHAN, [WINTER](overview.md), GISELLE | [SM Entertainment](../../labels/sm_entertainment) | 851 | | [🔗](https://open.spotify.com/track/7F0KfW5f4rWm503sbAuVeW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="" width="50" /> | Floral Sense | Floral Sense - The 1st Album (Special Version) | YESUNG, [WINTER](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 851 | 💚 | [🔗](https://open.spotify.com/track/7kqCeZ0OmIWDXoo6h9GMpw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273149296b740548c61294fa088" alt="" width="50" /> | Voyage | CASTAWAY DIVA OST Part.8 | [WINTER](overview.md) | Music Buddy | 851 | 💚 | [🔗](https://open.spotify.com/track/3NAHK3gLOVmkOVoSmMJvOu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739758a90d5fc261fcfac454e6" alt="" width="50" /> | With You | WINTER of aespa X MY DEMON | [WINTER](overview.md) | SBS Contents Hub Co., Ltd. | 851 | | [🔗](https://open.spotify.com/track/4yZAAPTLlEb60Ny7bhepqx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d5c8b45ab7a204c4de48605" alt="" width="50" /> | ONCE AGAIN | Our Blues, Pt. 10 (Original Television Soundtrack) | [WINTER](overview.md), NINGNING | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 741 | 💚 | [🔗](https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Jet | 2022 Winter SMTOWN : SMCU PALACE | EUNHYUK, HYO, TAEYONG, JAEMIN, SUNGCHAN, [WINTER](overview.md), GISELLE | [SM Entertainment](../../labels/sm_entertainment) | 855 | | [🔗](https://open.spotify.com/track/7F0KfW5f4rWm503sbAuVeW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="" width="50" /> | Floral Sense | Floral Sense - The 1st Album (Special Version) | YESUNG, [WINTER](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 855 | 💚 | [🔗](https://open.spotify.com/track/7kqCeZ0OmIWDXoo6h9GMpw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273149296b740548c61294fa088" alt="" width="50" /> | Voyage | CASTAWAY DIVA OST Part.8 | [WINTER](overview.md) | Music Buddy | 855 | 💚 | [🔗](https://open.spotify.com/track/3NAHK3gLOVmkOVoSmMJvOu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739758a90d5fc261fcfac454e6" alt="" width="50" /> | With You | WINTER of aespa X MY DEMON | [WINTER](overview.md) | SBS Contents Hub Co., Ltd. | 855 | | [🔗](https://open.spotify.com/track/4yZAAPTLlEb60Ny7bhepqx) |

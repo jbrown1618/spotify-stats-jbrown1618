@@ -15,7 +15,7 @@
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6a48a236a01fa62db8c7a6f6" alt="" width="50" /> | 8 | 7 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 6 | 5 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb811211ee4001a11c1c7aae3d" alt="" width="50" /> | 4 | 4 | [NewJeans](../../artists/newjeans/overview.md) | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb80668ba2b15094d083780ea9" alt="" width="50" /> | 4 | 4 | [NewJeans](../../artists/newjeans/overview.md) | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 5 | 3 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb573935eb61a1897aeb43c531" alt="" width="50" /> | 3 | 3 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb73f96bdf146d008680149954" alt="" width="50" /> | 3 | 3 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
@@ -56,7 +56,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb09369ae372e47fdb115bcf52" alt="" width="50" /> | 1 | 1 | [SEULGI](../../artists/seulgi/overview.md) | [🔗](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59f8cfc8e71dcaf8c6ec4bde" alt="" width="50" /> | 1 | 1 | Jimin | [🔗](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | 1 | 1 | [Jackson Wang](../../artists/jackson_wang/overview.md) | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0376b56af63682d48579fa85" alt="" width="50" /> | 1 | 1 | Jaden | [🔗](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7fcdd9f3bc9e12baf89b1016" alt="" width="50" /> | 1 | 1 | Jaden | [🔗](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | 2 | 0 | Chris Brown | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c5c9eee98c72e54d72d6826" alt="" width="50" /> | 1 | 0 | Steve Aoki | [🔗](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba42067a57658919c936d932a" alt="" width="50" /> | 1 | 0 | KAYTRANADA | [🔗](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) |
@@ -95,16 +95,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | [LOCO](../../artists/itzy/overview.md) | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="Over It" width="50" /> | Body | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [Pretty Savage](../../artists/blackpink/overview.md) | 5 | <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="LALISA" width="50" /> | LALISA | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | [Illusion](../../artists/aespa/overview.md) | 14 | <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="ELEVEN" width="50" /> | [ELEVEN](../../artists/ive/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="Drama - The 4th Mini Album" width="50" /> | [Drama](../../artists/aespa/overview.md) | 21 | <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | [Still Monster](../../artists/enhypen/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f248f7695eb544a3a1955c5" alt="Black Mamba" width="50" /> | [Black Mamba](../../artists/aespa/overview.md) | 24 | <img src="https://i.scdn.co/image/ab67616d0000b273830de2e836036f181df598d0" alt="Queendom - The 6th Mini Album" width="50" /> | [Queendom](../../artists/red_velvet/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="NOEASY" width="50" /> | [Thunderous](../../artists/stray_kids/overview.md) | 26 | <img src="https://i.scdn.co/image/ab67616d0000b273c8ddabbbb56597f7f1fc6828" alt="Fountain Baby" width="50" /> | Princess Going Digital | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> | [Pink Venom](../../artists/blackpink/overview.md) | 44 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="SEVENTEEN 4th Album &#x27;Face the Sun&#x27;" width="50" /> | [HOT](../../artists/seventeen/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="Ditto" width="50" /> | [Ditto](../../artists/newjeans/overview.md) | 48 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="Mr. Morale &amp; The Big Steppers" width="50" /> | [Count Me Out](../../artists/kendrick_lamar/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | [Sweet Venom](../../artists/enhypen/overview.md) | 56 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="BE" width="50" /> | [Dynamite](../../artists/bts/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fddc804f96cdd6a7de9bcc09" alt="DUMB DUMB" width="50" /> | DUMB DUMB | 77 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="STAYDOM" width="50" /> | [ASAP](../../artists/stayc/overview.md) | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | [LOCO](../../artists/itzy/overview.md) | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="Over It" width="50" /> | Body | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [Pretty Savage](../../artists/blackpink/overview.md) | 5 | <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="LALISA" width="50" /> | LALISA | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="Girls - The 2nd Mini Album" width="50" /> | [Illusion](../../artists/aespa/overview.md) | 14 | <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="ELEVEN" width="50" /> | [ELEVEN](../../artists/ive/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="Drama - The 4th Mini Album" width="50" /> | [Drama](../../artists/aespa/overview.md) | 21 | <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | [Still Monster](../../artists/enhypen/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f248f7695eb544a3a1955c5" alt="Black Mamba" width="50" /> | [Black Mamba](../../artists/aespa/overview.md) | 24 | <img src="https://i.scdn.co/image/ab67616d0000b273830de2e836036f181df598d0" alt="Queendom - The 6th Mini Album" width="50" /> | [Queendom](../../artists/red_velvet/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="NOEASY" width="50" /> | [Thunderous](../../artists/stray_kids/overview.md) | 26 | <img src="https://i.scdn.co/image/ab67616d0000b273c8ddabbbb56597f7f1fc6828" alt="Fountain Baby" width="50" /> | Princess Going Digital | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> | [Pink Venom](../../artists/blackpink/overview.md) | 44 | <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="SEVENTEEN 4th Album &#x27;Face the Sun&#x27;" width="50" /> | [HOT](../../artists/seventeen/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="Ditto" width="50" /> | [Ditto](../../artists/newjeans/overview.md) | 50 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="Mr. Morale &amp; The Big Steppers" width="50" /> | [Count Me Out](../../artists/kendrick_lamar/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | [Sweet Venom](../../artists/enhypen/overview.md) | 56 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="BE" width="50" /> | [Dynamite](../../artists/bts/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fddc804f96cdd6a7de9bcc09" alt="DUMB DUMB" width="50" /> | DUMB DUMB | 76 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="STAYDOM" width="50" /> | [ASAP](../../artists/stayc/overview.md) | 855 |
 
 </details>
 
@@ -377,7 +377,7 @@
 | | EJAE | 1 | Songwriter |
 | | Jaycen Joshua | 1 | Producer |
 | | DRK | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0376b56af63682d48579fa85" alt="" width="50" /> | Jaden | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7fcdd9f3bc9e12baf89b1016" alt="" width="50" /> | Jaden | 1 | Lyricist, Songwriter |
 | | Cazzi Opeia | 1 | Songwriter |
 | | 고현정 (Go, Hyeon-Jeong) | 1 | Producer |
 | | LOSTBOY | 1 | Arranger, Songwriter |

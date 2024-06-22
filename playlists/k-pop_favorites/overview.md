@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="K-Pop Favorites" width="100" />
 
-[300 tracks 🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo)
+[299 tracks 🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo)
 
 [See Track Features](audio_features.md)
 
@@ -39,7 +39,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 5 | 5 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1edc72b57c227d48e28888b1" alt="" width="50" /> | 5 | 5 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb49cfa92440a7629ab21a8561" alt="" width="50" /> | 5 | 5 | [NCT DREAM](../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb811211ee4001a11c1c7aae3d" alt="" width="50" /> | 4 | 4 | [NewJeans](../../artists/newjeans/overview.md) | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb80668ba2b15094d083780ea9" alt="" width="50" /> | 4 | 4 | [NewJeans](../../artists/newjeans/overview.md) | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5e8a0a0456dfa4416e36eeae" alt="" width="50" /> | 4 | 4 | [TEN](../../artists/ten/overview.md) | [🔗](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61b0348367c6466a6282f5a5" alt="" width="50" /> | 4 | 4 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 4 | 4 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
@@ -62,7 +62,6 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebced85d5f223e7301022a8599" alt="" width="50" /> | 2 | 2 | [SUNMI](../../artists/sunmi/overview.md) | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8ae485831cf4c3a568dc313" alt="" width="50" /> | 2 | 2 | [ATEEZ](../../artists/ateez/overview.md) | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0a49e2caa8d0ce8e26f60eed" alt="" width="50" /> | 2 | 2 | [PURPLE KISS](../../artists/purple_kiss/overview.md) | [🔗](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb56c617b7ca5ab250de5f8575" alt="" width="50" /> | 2 | 2 | [HEIZE](../../artists/heize/overview.md) | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0b4c8d0a415cab50e033129" alt="" width="50" /> | 2 | 2 | [Solar](../../artists/solar/overview.md) | [🔗](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | 2 | 2 | [f(x)](../../artists/f(x)/overview.md) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb38c136f067600bd431dd9b93" alt="" width="50" /> | 2 | 2 | [NCT U](../../artists/nct_u/overview.md) | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
@@ -93,6 +92,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb00beb181c5f5464f4562f90f" alt="" width="50" /> | 1 | 1 | [AKMU](../../artists/akmu/overview.md) | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd94d432ee23c2795e0d280c8" alt="" width="50" /> | 1 | 1 | NINGNING | [🔗](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6bde0c547606bb87744cfd5a" alt="" width="50" /> | 1 | 1 | MINGYU | [🔗](https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb56c617b7ca5ab250de5f8575" alt="" width="50" /> | 1 | 1 | [HEIZE](../../artists/heize/overview.md) | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca6daabeb614243f96b2829f" alt="" width="50" /> | 1 | 1 | WOOSUNG | [🔗](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8d69367047a24d20b0323ff7" alt="" width="50" /> | 1 | 1 | SuperM | [🔗](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | 1 | 1 | [LOONA](../../artists/loona/overview.md) | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
@@ -138,16 +138,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | [Savage](../../artists/aespa/overview.md) | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="The Red Summer - Summer Mini Album" width="50" /> | [Red Flavor](../../artists/red_velvet/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="reality in BLACK" width="50" /> | [HIP](../../artists/mamamoo/overview.md) | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | [Red Lipstick (feat. Yoonmirae)](../../artists/leehi/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="Next Level" width="50" /> | [Next Level](../../artists/aespa/overview.md) | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="ELEVEN" width="50" /> | [ELEVEN](../../artists/ive/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | [LOCO](../../artists/itzy/overview.md) | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273ace0e90dab0e51a4aec4f50a" alt="HANN (Alone)" width="50" /> | [HANN (Alone)](../../artists/(g)i-dle/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [Pretty Savage](../../artists/blackpink/overview.md) | 5 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="Love poem" width="50" /> | [Love poem](../../artists/iu/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="María" width="50" /> | [Maria](../../artists/hwasa/overview.md) | 6 | <img src="https://i.scdn.co/image/ab67616d0000b273619b758232a962e9ddf45f97" alt="[12:00]" width="50" /> | [Why Not?](../../artists/loona/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="KILL THIS LOVE" width="50" /> | [Kill This Love](../../artists/blackpink/overview.md) | 7 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="The Red - The 1st Album" width="50" /> | [Don't U Wait No More](../../artists/red_velvet/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 8 | <img src="https://i.scdn.co/image/ab67616d0000b2730b479d89335fbca7de943443" alt="Geekyland" width="50" /> | [Nerdy](../../artists/purple_kiss/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="Heng:garæ" width="50" /> | [Left & Right](../../artists/seventeen/overview.md) | 9 | <img src="https://i.scdn.co/image/ab67616d0000b2733fe0e026d4043e5d62c81328" alt="LOVE or TAKE" width="50" /> | [DO or NOT](../../artists/pentagon/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [Crazy Over You](../../artists/blackpink/overview.md) | 10 | <img src="https://i.scdn.co/image/ab67616d0000b273a93c207b94cbb802b1efefa1" alt="MOTH" width="50" /> | Phase Me | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="Savage - The 1st Mini Album" width="50" /> | [Savage](../../artists/aespa/overview.md) | 1 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="The Red Summer - Summer Mini Album" width="50" /> | [Red Flavor](../../artists/red_velvet/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="reality in BLACK" width="50" /> | [HIP](../../artists/mamamoo/overview.md) | 2 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | [Red Lipstick (feat. Yoonmirae)](../../artists/leehi/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737a393b04e8ced571618223e8" alt="Next Level" width="50" /> | [Next Level](../../artists/aespa/overview.md) | 3 | <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="ELEVEN" width="50" /> | [ELEVEN](../../artists/ive/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | [LOCO](../../artists/itzy/overview.md) | 4 | <img src="https://i.scdn.co/image/ab67616d0000b273ace0e90dab0e51a4aec4f50a" alt="HANN (Alone)" width="50" /> | [HANN (Alone)](../../artists/(g)i-dle/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [Pretty Savage](../../artists/blackpink/overview.md) | 5 | <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="Love poem" width="50" /> | [Love poem](../../artists/iu/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="María" width="50" /> | [Maria](../../artists/hwasa/overview.md) | 6 | <img src="https://i.scdn.co/image/ab67616d0000b273619b758232a962e9ddf45f97" alt="[12:00]" width="50" /> | [Why Not?](../../artists/loona/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="KILL THIS LOVE" width="50" /> | [Kill This Love](../../artists/blackpink/overview.md) | 7 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="The Red - The 1st Album" width="50" /> | [Don't U Wait No More](../../artists/red_velvet/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 8 | <img src="https://i.scdn.co/image/ab67616d0000b2730b479d89335fbca7de943443" alt="Geekyland" width="50" /> | [Nerdy](../../artists/purple_kiss/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f29a60db7b4479599fae56d" alt="Heng:garæ" width="50" /> | [Left & Right](../../artists/seventeen/overview.md) | 9 | <img src="https://i.scdn.co/image/ab67616d0000b2733fe0e026d4043e5d62c81328" alt="LOVE or TAKE" width="50" /> | [DO or NOT](../../artists/pentagon/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [Crazy Over You](../../artists/blackpink/overview.md) | 10 | <img src="https://i.scdn.co/image/ab67616d0000b273a93c207b94cbb802b1efefa1" alt="MOTH" width="50" /> | Phase Me | 855 |
 
 </details>
 
@@ -228,7 +228,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c0252c4e4a988f024e4d262" alt="" width="50" /> | 1 | 1 | WINE | 2017-04-27 | [🔗](https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="" width="50" /> | 1 | 1 | WE:TH | 2020-10-12 | [🔗](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273682903728c049526580f0363" alt="" width="50" /> | 1 | 1 | Voltage | 2022-03-23 | [🔗](https://open.spotify.com/album/3MXVqfk9VG3B757nLlow0D) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733a712d5d26c23c7191cb2d04" alt="" width="50" /> | 1 | 1 | VingleVingle | 2023-04-05 | [🔗](https://open.spotify.com/album/10Ldh1KXu0ySjpfiX6qLXQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343848859c0cf73d8c660eba5" alt="" width="50" /> | 1 | 1 | VINCENZO (Original Television Soundtrack) Pt. 3 | 2021-03-14 | [🔗](https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="" width="50" /> | 1 | 1 | Undo | 2022-06-30 | [🔗](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | 1 | 1 | Uh-Oh | 2019-06-26 | [🔗](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) |
@@ -262,6 +261,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273af2fda9fb591d43c355c2ac3" alt="" width="50" /> | 1 | 1 | STAYDOM | 2021-04-08 | [🔗](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfd46639322b597331d9ecef" alt="" width="50" /> | 1 | 1 | SQUARE UP | 2018-06-15 | [🔗](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273570f746ccc2c75af070da1e0" alt="" width="50" /> | 1 | 1 | SPRING | 2016-05-04 | [🔗](https://open.spotify.com/album/0HtbFp1B1WrbUr9mcBrAhN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731b8ae147aceb9fc130391287" alt="" width="50" /> | 1 | 1 | SPOT! | 2024-04-26 | [🔗](https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI) |
 
 </details>
 
@@ -275,10 +275,10 @@
 | 88 | 88 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 32 | 32 | [Republic Records](../../labels/republic_records/overview.md) |
 | 22 | 22 | [YG Entertainment](../../labels/yg_entertainment/overview.md) |
-| 14 | 14 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
+| 13 | 13 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
 | 12 | 12 | [Universal Music LLC](../../labels/universal_music_llc/overview.md) |
-| 12 | 12 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 12 | 12 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
+| 11 | 11 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 11 | 11 | [Interscope Records](../../labels/interscope_records/overview.md) |
 | 10 | 10 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 8 | 8 | [Warner Records](../../labels/warner_records/overview.md) |
@@ -351,14 +351,14 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 230 | 230 | [k-pop](../../genres/k-pop/overview.md) |
+| 229 | 229 | [k-pop](../../genres/k-pop/overview.md) |
 | 133 | 133 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 60 | 60 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 40 | 40 | [pop](../../genres/pop/overview.md) |
 | 12 | 12 | [anime](../../genres/anime/overview.md) |
-| 8 | 8 | [korean r&b](../../genres/korean_r_b/overview.md) |
+| 7 | 7 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 6 | 6 | [5th gen k-pop](../../genres/5th_gen_k-pop/overview.md) |
-| 3 | 3 | [korean pop](../../genres/korean_pop/overview.md) |
+| 2 | 2 | [korean pop](../../genres/korean_pop/overview.md) |
 | 2 | 2 | korean city pop |
 | 2 | 2 | [k-rap](../../genres/k-rap/overview.md) |
 
@@ -391,7 +391,7 @@
 | | [24](../../producers/24/overview.md) | 8 | Arranger, Songwriter, Producer |
 | | [양영은 (Yang, Young-eun)](../../producers/양영은_(yang,_young-eun)/overview.md) | 7 | Producer |
 | | [라도 (Rado)](../../producers/라도_(rado)/overview.md) | 7 | Arranger, Lyricist, Songwriter, Producer |
-| | [R.Tee](../../producers/r_tee/overview.md) | 7 | Producer, Arranger, Songwriter |
+| | [블랙아이드필승 (Black Eyed Pilseung)](../../producers/블랙아이드필승_(black_eyed_pilseung)/overview.md) | 7 | Lyricist, Songwriter, Arranger |
 
 
 <details>
@@ -399,8 +399,8 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [블랙아이드필승 (Black Eyed Pilseung)](../../producers/블랙아이드필승_(black_eyed_pilseung)/overview.md) | 7 | Lyricist, Songwriter, Arranger |
 | | [SCORE](../../producers/score/overview.md) | 6 | Arranger, Lyricist, Producer, Songwriter |
+| | [R.Tee](../../producers/r_tee/overview.md) | 6 | Arranger, Songwriter, Producer |
 | | [김이나 (Kim, Eana)](../../producers/김이나_(kim,_eana)/overview.md) | 6 | Lyricist |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb344cdb83dbe47a8df01f3a52" alt="" width="50" /> | Bekuh Boom | 6 | Lyricist, Songwriter |
 | | Alawn | 6 | Producer, Arranger |
@@ -504,7 +504,7 @@
 | Year | Number of Tracks |
 |:---|---:|
 | 2024 | 18 |
-| [2023](2023/overview.md) | 55 |
+| [2023](2023/overview.md) | 54 |
 | [2022](2022/overview.md) | 59 |
 | [2021](2021/overview.md) | 54 |
 | [2020](2020/overview.md) | 35 |

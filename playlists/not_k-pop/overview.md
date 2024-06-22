@@ -65,7 +65,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f" alt="" width="50" /> | 1 | 1 | Måneskin | [🔗](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | 1 | 1 | Yuuri | [🔗](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e0e82502fa81c8a650ed67b" alt="" width="50" /> | 1 | 1 | Kehlani | [🔗](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="" width="50" /> | 1 | 1 | Lee Young Ji | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8fdf3504948498378df71140" alt="" width="50" /> | 1 | 1 | Lee Young Ji | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0d53f158f4070d5a72190c4c" alt="" width="50" /> | 1 | 1 | Stephanie Poetri | [🔗](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb30a593572712cb0a32a645" alt="" width="50" /> | 1 | 1 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | 2 | 0 | Chris Brown | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
@@ -110,16 +110,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="ALL OUT" width="50" /> | VILLAIN | 170 | <img src="https://i.scdn.co/image/ab67616d0000b2734df81e72c09afdd3f50c6d22" alt="Fast &amp; Furious Presents: Hobbs &amp; Shaw (Original Motion Picture Soundtrack)" width="50" /> | Next Level | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="Love&#x27;s Battery" width="50" /> | Love's Battery | 536 | <img src="https://i.scdn.co/image/ab67616d0000b273b627441824c5d0748c8cb077" alt="Dua Lipa" width="50" /> | [Hotter Than Hell](../../artists/dua_lipa/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Beggin' | 550 | <img src="https://i.scdn.co/image/ab67616d0000b273cd222052a2594be29a6616b5" alt="Endless Summer Vacation" width="50" /> | Flowers | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="Better Mistakes" width="50" /> | Break My Heart Myself (feat. Travis Barker) | 574 | <img src="https://i.scdn.co/image/ab67616d0000b2731351b9b5479c81f76ce7d419" alt="A Kind Of Magic" width="50" /> | [A Kind Of Magic](../../artists/queen/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | ドライフラワー | 618 | <img src="https://i.scdn.co/image/ab67616d0000b27339471ea54531f267e90a7403" alt="Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2)" width="50" /> | From now on | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c2504e80ba2f258697ab2954" alt="this is what ____ feels like (Vol. 1-4)" width="50" /> | i'm not okay | 693 | <img src="https://i.scdn.co/image/ab67616d0000b27352d0ac4eb2c3fd56c01a01b5" alt="Written In The Stars" width="50" /> | [Written In The Stars](../../artists/wendy/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> | [Off My Face](../../artists/justin_bieber/overview.md) | 710 | <img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="SG (with Ozuna, Megan Thee Stallion &amp; LISA of BLACKPINK)" width="50" /> | SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="We Sing. We Dance. We Steal Things." width="50" /> | Lucky | 712 | <img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="LUCID" width="50" /> | Mushroom Chocolate (with 6LACK) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c2504e80ba2f258697ab2954" alt="this is what ____ feels like (Vol. 1-4)" width="50" /> | this is what falling in love feels like | 714 | <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="Cravin" width="50" /> | Cravin (feat. G-Eazy) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="MINT" width="50" /> | Tango | 786 | <img src="https://i.scdn.co/image/ab67616d0000b273e689157967d6f852fc59a746" alt="Close To Me (Red Velvet Remix)" width="50" /> | Close To Me - Red Velvet Remix | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f2bf9685109a09bdc176fb43" alt="ALL OUT" width="50" /> | VILLAIN | 171 | <img src="https://i.scdn.co/image/ab67616d0000b2734df81e72c09afdd3f50c6d22" alt="Fast &amp; Furious Presents: Hobbs &amp; Shaw (Original Motion Picture Soundtrack)" width="50" /> | Next Level | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="Love&#x27;s Battery" width="50" /> | Love's Battery | 540 | <img src="https://i.scdn.co/image/ab67616d0000b273b627441824c5d0748c8cb077" alt="Dua Lipa" width="50" /> | [Hotter Than Hell](../../artists/dua_lipa/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="Chosen" width="50" /> | Beggin' | 552 | <img src="https://i.scdn.co/image/ab67616d0000b273cd222052a2594be29a6616b5" alt="Endless Summer Vacation" width="50" /> | Flowers | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="Better Mistakes" width="50" /> | Break My Heart Myself (feat. Travis Barker) | 574 | <img src="https://i.scdn.co/image/ab67616d0000b2731351b9b5479c81f76ce7d419" alt="A Kind Of Magic" width="50" /> | [A Kind Of Magic](../../artists/queen/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | ドライフラワー | 620 | <img src="https://i.scdn.co/image/ab67616d0000b27339471ea54531f267e90a7403" alt="Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2)" width="50" /> | From now on | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c2504e80ba2f258697ab2954" alt="this is what ____ feels like (Vol. 1-4)" width="50" /> | i'm not okay | 694 | <img src="https://i.scdn.co/image/ab67616d0000b27352d0ac4eb2c3fd56c01a01b5" alt="Written In The Stars" width="50" /> | [Written In The Stars](../../artists/wendy/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> | [Off My Face](../../artists/justin_bieber/overview.md) | 711 | <img src="https://i.scdn.co/image/ab67616d0000b27354d075797911e02360beb3e7" alt="SG (with Ozuna, Megan Thee Stallion &amp; LISA of BLACKPINK)" width="50" /> | SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c2504e80ba2f258697ab2954" alt="this is what ____ feels like (Vol. 1-4)" width="50" /> | this is what falling in love feels like | 714 | <img src="https://i.scdn.co/image/ab67616d0000b2736564f1d8386a6993b4d5d759" alt="LUCID" width="50" /> | Mushroom Chocolate (with 6LACK) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="We Sing. We Dance. We Steal Things." width="50" /> | Lucky | 715 | <img src="https://i.scdn.co/image/ab67616d0000b2739351691c007cad99d70d9f3f" alt="Cravin" width="50" /> | Cravin (feat. G-Eazy) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="MINT" width="50" /> | Tango | 788 | <img src="https://i.scdn.co/image/ab67616d0000b273e689157967d6f852fc59a746" alt="Close To Me (Red Velvet Remix)" width="50" /> | Close To Me - Red Velvet Remix | 855 |
 
 </details>
 
@@ -267,7 +267,7 @@
 |---:|---:|:---|
 | 18 | 11 | [pop](../../genres/pop/overview.md) |
 | 7 | 3 | [r&b](../../genres/r_b/overview.md) |
-| 4 | 3 | [dance pop](../../genres/dance_pop/overview.md) |
+| 5 | 3 | [dance pop](../../genres/dance_pop/overview.md) |
 | 2 | 2 | [korean pop](../../genres/korean_pop/overview.md) |
 | 2 | 2 | korean indie rock |
 | 2 | 2 | k-rock |

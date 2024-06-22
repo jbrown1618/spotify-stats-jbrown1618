@@ -36,7 +36,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc" alt="" width="50" /> | 1 | 1 | Fujii Kaze | [🔗](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb573935eb61a1897aeb43c531" alt="" width="50" /> | 1 | 1 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb00beb181c5f5464f4562f90f" alt="" width="50" /> | 1 | 1 | [AKMU](../../artists/akmu/overview.md) | [🔗](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb811211ee4001a11c1c7aae3d" alt="" width="50" /> | 1 | 1 | [NewJeans](../../artists/newjeans/overview.md) | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb80668ba2b15094d083780ea9" alt="" width="50" /> | 1 | 1 | [NewJeans](../../artists/newjeans/overview.md) | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6bde0c547606bb87744cfd5a" alt="" width="50" /> | 1 | 1 | MINGYU | [🔗](https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5f772eb53e18d4c2d7ffe744" alt="" width="50" /> | 1 | 1 | Andrew Joslyn | [🔗](https://open.spotify.com/artist/5dSCgfYs71v0zjg2AwUq9n) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb56c617b7ca5ab250de5f8575" alt="" width="50" /> | 1 | 1 | [HEIZE](../../artists/heize/overview.md) | [🔗](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) |
@@ -56,7 +56,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe486a809eaee9b2d85846dae" alt="" width="50" /> | 1 | 1 | BSS | [🔗](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb71b6b30387a37f787507e537" alt="" width="50" /> | 1 | 1 | Xdinary Heroes | [🔗](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2a98f9ecf7217c8f910f9f83" alt="" width="50" /> | 1 | 1 | Yuuri | [🔗](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e59f3e73b99ed248ab7bae2" alt="" width="50" /> | 1 | 1 | Lee Young Ji | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8fdf3504948498378df71140" alt="" width="50" /> | 1 | 1 | Lee Young Ji | [🔗](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | 1 | 1 | [MAMAMOO](../../artists/mamamoo/overview.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeb30a593572712cb0a32a645" alt="" width="50" /> | 1 | 1 | [WENDY](../../artists/wendy/overview.md) | [🔗](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebedb1ff4a690386ca7bee7007" alt="" width="50" /> | 1 | 1 | Jacob Banks | [🔗](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) |
@@ -79,16 +79,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 8 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="The Red Summer - Summer Mini Album" width="50" /> | [Red Flavor](../../artists/red_velvet/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | [My sea](../../artists/iu/overview.md) | 19 | <img src="https://i.scdn.co/image/ab67616d0000b273a93c207b94cbb802b1efefa1" alt="MOTH" width="50" /> | Phase Me | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | [Welcome To MY World (feat. nævis)](../../artists/aespa/overview.md) | 20 | <img src="https://i.scdn.co/image/ab67616d0000b27356080feb452fa7ad4ca61d8b" alt="Village" width="50" /> | Unknown (To You) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="Like Water - The 1st Mini Album" width="50" /> | [When This Rain Stops](../../artists/wendy/overview.md) | 25 | <img src="https://i.scdn.co/image/ab67616d0000b2730595db077a6e829ba4bd6dea" alt="Album One" width="50" /> | Brass Goggles | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="Hello - Special Album" width="50" /> | Hello | 32 | <img src="https://i.scdn.co/image/ab67616d0000b2732a1e7392010838ecbb1453d8" alt="Hello, world!" width="50" /> | Strawberry Cake | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | [Oh my god](../../artists/(g)i-dle/overview.md) | 34 | <img src="https://i.scdn.co/image/ab67616d0000b273a5c51e96d2583bfb3e45d504" alt="Think About Things" width="50" /> | Think About Things | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="BSS 1st Single Album &#x27;SECOND WIND&#x27;" width="50" /> | Fighting (Feat. Lee Young Ji) | 40 | <img src="https://i.scdn.co/image/ab67616d0000b27355e0ff4cbb5df5c780a4319b" alt="Awake at the Bottom of the Ocean" width="50" /> | Plastic Heaven | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 46 | <img src="https://i.scdn.co/image/ab67616d0000b273ef54c10b95411c51b9ab873b" alt="Deleted Scenes From The Cutting Room Floor" width="50" /> | That Man | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="Ditto" width="50" /> | [Ditto](../../artists/newjeans/overview.md) | 48 | <img src="https://i.scdn.co/image/ab67616d0000b273f770ff371eb7015034122c8a" alt="1st Single &#x27;S.i.R&#x27;" width="50" /> | Cherry Blossom | 788 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="Ice Cream Cake - The 1st Mini Album" width="50" /> | [Ice Cream Cake](../../artists/red_velvet/overview.md) | 52 | <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="Piano Man" width="50" /> | [Piano Man](../../artists/mamamoo/overview.md) | 774 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 8 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="The Red Summer - Summer Mini Album" width="50" /> | [Red Flavor](../../artists/red_velvet/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | [Welcome To MY World (feat. nævis)](../../artists/aespa/overview.md) | 19 | <img src="https://i.scdn.co/image/ab67616d0000b273a93c207b94cbb802b1efefa1" alt="MOTH" width="50" /> | Phase Me | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | [My sea](../../artists/iu/overview.md) | 20 | <img src="https://i.scdn.co/image/ab67616d0000b27356080feb452fa7ad4ca61d8b" alt="Village" width="50" /> | Unknown (To You) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="Like Water - The 1st Mini Album" width="50" /> | [When This Rain Stops](../../artists/wendy/overview.md) | 25 | <img src="https://i.scdn.co/image/ab67616d0000b2732a1e7392010838ecbb1453d8" alt="Hello, world!" width="50" /> | Strawberry Cake | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="Hello - Special Album" width="50" /> | Hello | 33 | <img src="https://i.scdn.co/image/ab67616d0000b273a5c51e96d2583bfb3e45d504" alt="Think About Things" width="50" /> | Think About Things | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="I trust" width="50" /> | [Oh my god](../../artists/(g)i-dle/overview.md) | 35 | <img src="https://i.scdn.co/image/ab67616d0000b27355e0ff4cbb5df5c780a4319b" alt="Awake at the Bottom of the Ocean" width="50" /> | Plastic Heaven | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731869a85947a5ea00df8c936f" alt="BSS 1st Single Album &#x27;SECOND WIND&#x27;" width="50" /> | Fighting (Feat. Lee Young Ji) | 40 | <img src="https://i.scdn.co/image/ab67616d0000b273ef54c10b95411c51b9ab873b" alt="Deleted Scenes From The Cutting Room Floor" width="50" /> | That Man | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 46 | <img src="https://i.scdn.co/image/ab67616d0000b273f770ff371eb7015034122c8a" alt="1st Single &#x27;S.i.R&#x27;" width="50" /> | Cherry Blossom | 793 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="Ditto" width="50" /> | [Ditto](../../artists/newjeans/overview.md) | 50 | <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="Piano Man" width="50" /> | [Piano Man](../../artists/mamamoo/overview.md) | 778 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="Ice Cream Cake - The 1st Mini Album" width="50" /> | [Ice Cream Cake](../../artists/red_velvet/overview.md) | 54 | <img src="https://i.scdn.co/image/ab67616d0000b2730595db077a6e829ba4bd6dea" alt="Album One" width="50" /> | Brass Goggles | 743 |
 
 </details>
 
@@ -222,11 +222,12 @@
 
 
 <details>
-<summary>See all 21 genres</summary>
+<summary>See all 22 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
 | 1 | 1 | nyc pop |
+| 1 | 1 | [lilith](../../genres/lilith/overview.md) |
 | 1 | 1 | [korean r&b](../../genres/korean_r_b/overview.md) |
 | 1 | 1 | korean ost |
 | 1 | 1 | japanese singer-songwriter |
@@ -241,7 +242,7 @@
 </details>
 
 
-![Bar chart of top 21 genres](../../images/playlists/recommendations_for_jeff/genres.png)
+![Bar chart of top 22 genres](../../images/playlists/recommendations_for_jeff/genres.png)
 
 ## Top Producers
 

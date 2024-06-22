@@ -38,14 +38,14 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f" alt="" width="50" /> | 2 | 2 | Måneskin | [🔗](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 2 | 2 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb87dc30e540254e0976c4b478" alt="" width="50" /> | 4 | 1 | Isyana Sarasvati | [🔗](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba03862437b06f5865ab89fd7" alt="" width="50" /> | 3 | 1 | Anna Zak | [🔗](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb00bfcedce3845ae969c8277a" alt="" width="50" /> | 2 | 1 | KAROL G | [🔗](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd7c93bba00cf9a1eab5ed8f9" alt="" width="50" /> | 3 | 1 | Anna Zak | [🔗](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b0754aefc9db490e02205ec" alt="" width="50" /> | 2 | 1 | KAROL G | [🔗](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2620d7e19f51d9c4b7e853ce" alt="" width="50" /> | 2 | 1 | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb38ae306fb16d18144e08f02c" alt="" width="50" /> | 2 | 1 | Pom Poko | [🔗](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | 1 | 1 | ROSALÍA | [🔗](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0d30477dce2b89e7c6a13bc" alt="" width="50" /> | 1 | 1 | Aitana | [🔗](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6cbf5f96f5dc45584cdae566" alt="" width="50" /> | 1 | 1 | ANNA | [🔗](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb03f842b867599fa61480357b" alt="" width="50" /> | 1 | 1 | Aya Nakamura | [🔗](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8fe3fd15b08ed17abc0ee9db" alt="" width="50" /> | 1 | 1 | Aya Nakamura | [🔗](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) |
 | <img src="https://i.scdn.co/image/cdc8cf94774db4f0066ca1f90eb3fda45955a420" alt="" width="50" /> | 1 | 1 | Freshlyground | [🔗](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb463b39bbf9ac7ad2ee3b7795" alt="" width="50" /> | 1 | 1 | DARA | [🔗](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb69fe9645ff5eafe34e38f4f3" alt="" width="50" /> | 1 | 1 | Harlem Yu | [🔗](https://open.spotify.com/artist/6VbRanWSU3pdDhJnhSfGmY) |
@@ -58,7 +58,7 @@
 | | 1 | 1 | Blær | [🔗](https://open.spotify.com/artist/5W6FVpHHiRfqUU4d9FfXWZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfc2b1e6fbd5b5dbd41ff1788" alt="" width="50" /> | 1 | 1 | Varijashree Venugopal | [🔗](https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec50dce2d7bc0863ed72e17d" alt="" width="50" /> | 1 | 1 | 張楚寒 | [🔗](https://open.spotify.com/artist/4zzzvh8xX7laDArf8Gt7iw) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb61b2cf23c52a0963ae5feb27" alt="" width="50" /> | 1 | 1 | Netta | [🔗](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0a6b9b1638756a5b66a94c95" alt="" width="50" /> | 1 | 1 | Netta | [🔗](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0064b0aea6f7c7f849c63749" alt="" width="50" /> | 1 | 1 | Ermal Meta | [🔗](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d405f4858ce3cd52d409c98" alt="" width="50" /> | 1 | 1 | Burna Boy | [🔗](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) |
 | <img src="https://i.scdn.co/image/9d0dec8e40b3e19bb48690caf3d8f9deec7b9ef4" alt="" width="50" /> | 1 | 1 | Snow | [🔗](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) |
@@ -138,16 +138,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="アイドル" width="50" /> | [アイドル](../../artists/yoasobi/overview.md) | 330 | <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | [Loving You](../../artists/yoasobi/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736305e51741ae5f4acda89fe2" alt="Schwarzes Herz" width="50" /> | Hässlich | 352 | <img src="https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a" alt="Editorial" width="50" /> | Cry Baby | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a7cff36d69e224ca1b489fa8" alt="ICHIJIKIKOKU" width="50" /> | OTONABLUE | 384 | <img src="https://i.scdn.co/image/ab67616d0000b2733f3d35703bdcd917dad51c4f" alt="Pasoori" width="50" /> | Pasoori | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | [KARATE](../../artists/babymetal/overview.md) | 390 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1a46144fd6a2c5e2cc5872" alt="恋人じゃなくなった日" width="50" /> | 恋人じゃなくなった日 | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732433cb43f0f2f0f23b7c8b82" alt="Brol" width="50" /> | Tout oublier | 401 | <img src="https://i.scdn.co/image/ab67616d0000b273a6dd88a097d77eaa6a5f517f" alt="Doobey (From &quot;Gehraiyaan&quot;)" width="50" /> | Doobey (From "Gehraiyaan") | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | [Seventeen](../../artists/yoasobi/overview.md) | 423 | <img src="https://i.scdn.co/image/ab67616d0000b273188327ac9022d86ad2dd6483" alt="弐" width="50" /> | ビリミリオン | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | [Headbangeeeeerrrrr!!!!!](../../artists/babymetal/overview.md) | 458 | <img src="https://i.scdn.co/image/ab67616d0000b273073bc2070f7fa02b2a6bda64" alt="11:11" width="50" /> | 11 PM | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | [Awadama Fever](../../artists/babymetal/overview.md) | 461 | <img src="https://i.scdn.co/image/ab67616d0000b2733c5bfa54ae5e8312f5e0325a" alt="青春修炼手册" width="50" /> | 青春修炼手册 | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="Daisy 2.0 (feat. Hatsune Miku)" width="50" /> | Daisy 2.0 (feat. Hatsune Miku) | 465 | <img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="Look At Me" width="50" /> | Look At Me | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="海のまにまに" width="50" /> | [海のまにまに](../../artists/yoasobi/overview.md) | 488 | <img src="https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389" alt="LOVE ALL SERVE ALL" width="50" /> | Matsuri | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="アイドル" width="50" /> | [アイドル](../../artists/yoasobi/overview.md) | 332 | <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | [Loving You](../../artists/yoasobi/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736305e51741ae5f4acda89fe2" alt="Schwarzes Herz" width="50" /> | Hässlich | 353 | <img src="https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a" alt="Editorial" width="50" /> | Cry Baby | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a7cff36d69e224ca1b489fa8" alt="ICHIJIKIKOKU" width="50" /> | OTONABLUE | 359 | <img src="https://i.scdn.co/image/ab67616d0000b2733f3d35703bdcd917dad51c4f" alt="Pasoori" width="50" /> | Pasoori | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | [KARATE](../../artists/babymetal/overview.md) | 391 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1a46144fd6a2c5e2cc5872" alt="恋人じゃなくなった日" width="50" /> | 恋人じゃなくなった日 | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732433cb43f0f2f0f23b7c8b82" alt="Brol" width="50" /> | Tout oublier | 402 | <img src="https://i.scdn.co/image/ab67616d0000b273a6dd88a097d77eaa6a5f517f" alt="Doobey (From &quot;Gehraiyaan&quot;)" width="50" /> | Doobey (From "Gehraiyaan") | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | [Seventeen](../../artists/yoasobi/overview.md) | 425 | <img src="https://i.scdn.co/image/ab67616d0000b273188327ac9022d86ad2dd6483" alt="弐" width="50" /> | ビリミリオン | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | [Headbangeeeeerrrrr!!!!!](../../artists/babymetal/overview.md) | 460 | <img src="https://i.scdn.co/image/ab67616d0000b273073bc2070f7fa02b2a6bda64" alt="11:11" width="50" /> | 11 PM | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | [Awadama Fever](../../artists/babymetal/overview.md) | 463 | <img src="https://i.scdn.co/image/ab67616d0000b2733c5bfa54ae5e8312f5e0325a" alt="青春修炼手册" width="50" /> | 青春修炼手册 | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="Daisy 2.0 (feat. Hatsune Miku)" width="50" /> | Daisy 2.0 (feat. Hatsune Miku) | 468 | <img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="Look At Me" width="50" /> | Look At Me | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="海のまにまに" width="50" /> | [海のまにまに](../../artists/yoasobi/overview.md) | 493 | <img src="https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389" alt="LOVE ALL SERVE ALL" width="50" /> | Matsuri | 855 |
 
 </details>
 

@@ -138,16 +138,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Never Let Me Go](../../artists/florence_+_the_machine/overview.md) | 208 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="1000 Forms Of Fear (Deluxe Version)" width="50" /> | [Big Girls Cry](../../artists/sia/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="Vows (Deluxe Version)" width="50" /> | [Settle Down](../../artists/kimbra/overview.md) | 221 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="Vows (Deluxe Version)" width="50" /> | [Two Way Street](../../artists/kimbra/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="The Good Life" width="50" /> | Talk It Up | 278 | <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="Speak for Yourself" width="50" /> | [Hide and Seek](../../artists/imogen_heap/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [you should see me in a crown](../../artists/billie_eilish/overview.md) | 287 | <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="dont smile at me" width="50" /> | [ocean eyes](../../artists/billie_eilish/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="Riot!" width="50" /> | Misery Business | 305 | <img src="https://i.scdn.co/image/ab67616d0000b273bf01fd0986a195d485922167" alt="death bed (coffee for your head)" width="50" /> | death bed (coffee for your head) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="No Time To Die" width="50" /> | [No Time To Die](../../artists/billie_eilish/overview.md) | 311 | <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="dont smile at me" width="50" /> | [watch](../../artists/billie_eilish/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | [Over You (feat. aespa & Chris Martin)](../../artists/jacob_collier/overview.md) | 381 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="Norman Fucking Rockwell!" width="50" /> | [Fuck it I love you](../../artists/lana_del_rey/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="Ultraviolence (Deluxe)" width="50" /> | [Shades Of Cool](../../artists/lana_del_rey/overview.md) | 407 | <img src="https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6" alt="Brand New Eyes" width="50" /> | The Only Exception | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336" alt="Melodrama" width="50" /> | Green Light | 441 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="How Big, How Blue, How Beautiful" width="50" /> | [How Big, How Blue, How Beautiful](../../artists/florence_+_the_machine/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [He Won't Hold You (feat. Rapsody)](../../artists/jacob_collier/overview.md) | 443 | <img src="https://i.scdn.co/image/ab67616d0000b273e1682852b11d632281aa59dd" alt="Jackie Onassis" width="50" /> | Jackie Onassis | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="Ceremonials (Deluxe Edition)" width="50" /> | [Never Let Me Go](../../artists/florence_+_the_machine/overview.md) | 208 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="1000 Forms Of Fear (Deluxe Version)" width="50" /> | [Big Girls Cry](../../artists/sia/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="Vows (Deluxe Version)" width="50" /> | [Settle Down](../../artists/kimbra/overview.md) | 219 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="Vows (Deluxe Version)" width="50" /> | [Two Way Street](../../artists/kimbra/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="The Good Life" width="50" /> | Talk It Up | 280 | <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="Speak for Yourself" width="50" /> | [Hide and Seek](../../artists/imogen_heap/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | [you should see me in a crown](../../artists/billie_eilish/overview.md) | 290 | <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="dont smile at me" width="50" /> | [ocean eyes](../../artists/billie_eilish/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="Riot!" width="50" /> | Misery Business | 307 | <img src="https://i.scdn.co/image/ab67616d0000b273bf01fd0986a195d485922167" alt="death bed (coffee for your head)" width="50" /> | death bed (coffee for your head) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="No Time To Die" width="50" /> | [No Time To Die](../../artists/billie_eilish/overview.md) | 312 | <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="dont smile at me" width="50" /> | [watch](../../artists/billie_eilish/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="Djesse Vol. 4" width="50" /> | [Over You (feat. aespa & Chris Martin)](../../artists/jacob_collier/overview.md) | 382 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="Norman Fucking Rockwell!" width="50" /> | [Fuck it I love you](../../artists/lana_del_rey/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="Ultraviolence (Deluxe)" width="50" /> | [Shades Of Cool](../../artists/lana_del_rey/overview.md) | 408 | <img src="https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6" alt="Brand New Eyes" width="50" /> | The Only Exception | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336" alt="Melodrama" width="50" /> | Green Light | 441 | <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="How Big, How Blue, How Beautiful" width="50" /> | [How Big, How Blue, How Beautiful](../../artists/florence_+_the_machine/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [He Won't Hold You (feat. Rapsody)](../../artists/jacob_collier/overview.md) | 443 | <img src="https://i.scdn.co/image/ab67616d0000b273e1682852b11d632281aa59dd" alt="Jackie Onassis" width="50" /> | Jackie Onassis | 855 |
 
 </details>
 
@@ -369,7 +369,7 @@
 
 
 <details>
-<summary>See all 90 genres</summary>
+<summary>See all 89 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -379,13 +379,13 @@
 | 8 | 7 | indie pop |
 | 11 | 6 | nyc pop |
 | 8 | 5 | pov: indie |
+| 8 | 5 | [lilith](../../genres/lilith/overview.md) |
 | 7 | 5 | [canadian pop](../../genres/canadian_pop/overview.md) |
 | 5 | 5 | uk funky |
 | 5 | 5 | uk dance |
 | 8 | 4 | candy pop |
 | 5 | 4 | [piano rock](../../genres/piano_rock/overview.md) |
 | 5 | 4 | alt z |
-| 4 | 4 | [lilith](../../genres/lilith/overview.md) |
 | 6 | 3 | afrofuturism |
 | 5 | 3 | [r&b](../../genres/r_b/overview.md) |
 | 5 | 3 | neo soul |
@@ -444,7 +444,6 @@
 | 1 | 0 | swedish indie pop |
 | 1 | 0 | swedish electropop |
 | 1 | 0 | swedish alternative rock |
-| 1 | 0 | shimmer pop |
 | 1 | 0 | [permanent wave](../../genres/permanent_wave/overview.md) |
 | 1 | 0 | new rave |
 | 1 | 0 | instrumental hip hop |

@@ -20,7 +20,8 @@ LE SSERAFIM:
 
 ## Artist Rank
 LE SSERAFIM is currently:
-- The #16 artist of the last 6 months
+- The #27 artist of the last month
+- The #17 artist of the last 6 months
 - The #14 artist of all time
 - The #15 artist overall
 
@@ -213,15 +214,15 @@ LE SSERAFIM is currently:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | Impurities | ANTIFRAGILE | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 83 | 💚 | [🔗](https://open.spotify.com/track/7F0MuIk5glqtowCUjbn9es) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273110f5426b8c149e80804912a" alt="" width="50" /> | Swan Song | EASY | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 123 | 💚 | [🔗](https://open.spotify.com/track/2GquhrcHbl2zOnF5javAFp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | ANTIFRAGILE | ANTIFRAGILE | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 128 | 💚 | [🔗](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | UNFORGIVEN (feat. Nile Rodgers) | UNFORGIVEN | [LE SSERAFIM](overview.md), Nile Rodgers | [SOURCE MUSIC](../../labels/source_music) | 179 | 💚 | [🔗](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | FEARLESS | FEARLESS | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 185 | 💚 | [🔗](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273110f5426b8c149e80804912a" alt="" width="50" /> | Swan Song | EASY | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 120 | 💚 | [🔗](https://open.spotify.com/track/2GquhrcHbl2zOnF5javAFp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | ANTIFRAGILE | ANTIFRAGILE | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 129 | 💚 | [🔗](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | UNFORGIVEN (feat. Nile Rodgers) | UNFORGIVEN | [LE SSERAFIM](overview.md), Nile Rodgers | [SOURCE MUSIC](../../labels/source_music) | 178 | 💚 | [🔗](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | FEARLESS | FEARLESS | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 184 | 💚 | [🔗](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273110f5426b8c149e80804912a" alt="" width="50" /> | EASY | EASY | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 257 | 💚 | [🔗](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f456ca5659f2d0169061b310" alt="" width="50" /> | Perfect Night (Holiday Remix) | Perfect Night (Holiday Remix) | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 327 | | [🔗](https://open.spotify.com/track/40CJrEAyXS8qe0BBFbYbJO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | No-Return (Into the unknown) | UNFORGIVEN | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 360 | 💚 | [🔗](https://open.spotify.com/track/6DSGb5CmwHX4pvclq8HUU1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273110f5426b8c149e80804912a" alt="" width="50" /> | Smart | EASY | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 476 | 💚 | [🔗](https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | Sour Grapes | FEARLESS | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 496 | 💚 | [🔗](https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f456ca5659f2d0169061b310" alt="" width="50" /> | Perfect Night (Holiday Remix) | Perfect Night (Holiday Remix) | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 329 | | [🔗](https://open.spotify.com/track/40CJrEAyXS8qe0BBFbYbJO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | No-Return (Into the unknown) | UNFORGIVEN | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 361 | 💚 | [🔗](https://open.spotify.com/track/6DSGb5CmwHX4pvclq8HUU1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273110f5426b8c149e80804912a" alt="" width="50" /> | Smart | EASY | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 480 | 💚 | [🔗](https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | Sour Grapes | FEARLESS | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 500 | 💚 | [🔗](https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M) |
 
 
 <details>
@@ -229,12 +230,12 @@ LE SSERAFIM is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | Fire in the belly | UNFORGIVEN | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 506 | 💚 | [🔗](https://open.spotify.com/track/05RlBHEZg1RmL9DnPgv9Qq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735e352f6eccf8cb96d0b247cc" alt="" width="50" /> | Perfect Night | Perfect Night | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 516 | 💚 | [🔗](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | No Celestial | ANTIFRAGILE | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 542 | 💚 | [🔗](https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | Blue Flame | FEARLESS | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 851 | 💚 | [🔗](https://open.spotify.com/track/37YoRLUu1qId0ewavgvnkG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | Eve, Psyche & The Bluebeard’s wife | UNFORGIVEN | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 851 | 💚 | [🔗](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736d58843621783cd5abff29ab" alt="" width="50" /> | Eve, Psyche & the Bluebeard’s wife (English Ver.) | Eve, Psyche & the Bluebeard’s wife (English Ver.) | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 851 | | [🔗](https://open.spotify.com/track/1xaLyNaaZC3i5tmaDAWP76) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | Fire in the belly | UNFORGIVEN | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 509 | 💚 | [🔗](https://open.spotify.com/track/05RlBHEZg1RmL9DnPgv9Qq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e352f6eccf8cb96d0b247cc" alt="" width="50" /> | Perfect Night | Perfect Night | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 521 | 💚 | [🔗](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | No Celestial | ANTIFRAGILE | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 546 | 💚 | [🔗](https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | Blue Flame | FEARLESS | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 855 | 💚 | [🔗](https://open.spotify.com/track/37YoRLUu1qId0ewavgvnkG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | Eve, Psyche & The Bluebeard’s wife | UNFORGIVEN | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 855 | 💚 | [🔗](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736d58843621783cd5abff29ab" alt="" width="50" /> | Eve, Psyche & the Bluebeard’s wife (English Ver.) | Eve, Psyche & the Bluebeard’s wife (English Ver.) | [LE SSERAFIM](overview.md) | [SOURCE MUSIC](../../labels/source_music) | 855 | | [🔗](https://open.spotify.com/track/1xaLyNaaZC3i5tmaDAWP76) |
 
 </details>
 

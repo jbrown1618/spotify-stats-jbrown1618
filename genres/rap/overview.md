@@ -37,7 +37,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb628143c3dd14fc995f925d56" alt="" width="50" /> | 1 | 1 | Offset | [🔗](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdb78fbd1c000f16792795648" alt="" width="50" /> | 1 | 1 | Zacari | [🔗](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0cb3f95b9f8f7337e135a925" alt="" width="50" /> | 1 | 1 | Outkast | [🔗](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0376b56af63682d48579fa85" alt="" width="50" /> | 1 | 1 | Jaden | [🔗](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7fcdd9f3bc9e12baf89b1016" alt="" width="50" /> | 1 | 1 | Jaden | [🔗](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 1 | 1 | [Bruno Mars](../../artists/bruno_mars/overview.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c240396ef0dbbc48da7550b" alt="" width="50" /> | 1 | 1 | Roscoe Dash | [🔗](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb796c0db7acaf3f1b71d1e3b" alt="" width="50" /> | 1 | 1 | G-Eazy | [🔗](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) |
@@ -81,16 +81,16 @@
 ## Most and least listened tracks
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="SOS" width="50" /> | Kill Bill | 290 | <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="Over It" width="50" /> | Body | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="The Marshall Mathers LP2" width="50" /> | [The Monster](../../artists/eminem/overview.md) | 585 | <img src="https://i.scdn.co/image/ab67616d0000b2733eecc265c134153c14794aab" alt="Area Codes" width="50" /> | Area Codes | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | [We Made You](../../artists/eminem/overview.md) | 708 | <img src="https://i.scdn.co/image/ab67616d0000b2731325a9351844f7806a8309c5" alt="Sweetest Pie" width="50" /> | Sweetest Pie | 851 |
-| <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="Flockaveli" width="50" /> | No Hands (feat. Roscoe Dash & Wale) | 851 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="Rap Or Go To The League" width="50" /> | Momma I Hit A Lick (feat. Kendrick Lamar) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="Please Me" width="50" /> | Please Me | 851 | <img src="https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd" alt="Genesis" width="50" /> | Break Ya Neck | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Can't Tell Me Nothing | 851 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="I Don&#x27;t Mind (feat. Juicy J)" width="50" /> | I Don't Mind (feat. Juicy J) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="Recovery" width="50" /> | [Love The Way You Lie](../../artists/eminem/overview.md) | 851 | <img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="Confessions of a Dangerous Mind" width="50" /> | Homicide (feat. Eminem) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Late Registration" width="50" /> | Gold Digger | 851 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="DAMN." width="50" /> | [HUMBLE.](../../artists/kendrick_lamar/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30" alt="Watch The Throne" width="50" /> | Ni**as In Paris | 851 | <img src="https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5" alt="Meet The Woo" width="50" /> | Dior | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime &amp; B" width="50" /> | City Girls | 851 | <img src="https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458" alt="The Pinkprint (Deluxe)" width="50" /> | Anaconda | 851 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="SOS" width="50" /> | Kill Bill | 293 | <img src="https://i.scdn.co/image/ab67616d0000b273b5ed9187ac7f8aa281a547e3" alt="Over It" width="50" /> | Body | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="The Marshall Mathers LP2" width="50" /> | [The Monster](../../artists/eminem/overview.md) | 586 | <img src="https://i.scdn.co/image/ab67616d0000b2733eecc265c134153c14794aab" alt="Area Codes" width="50" /> | Area Codes | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | [We Made You](../../artists/eminem/overview.md) | 713 | <img src="https://i.scdn.co/image/ab67616d0000b2731325a9351844f7806a8309c5" alt="Sweetest Pie" width="50" /> | Sweetest Pie | 855 |
+| <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="Flockaveli" width="50" /> | No Hands (feat. Roscoe Dash & Wale) | 855 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="Rap Or Go To The League" width="50" /> | Momma I Hit A Lick (feat. Kendrick Lamar) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="Please Me" width="50" /> | Please Me | 855 | <img src="https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd" alt="Genesis" width="50" /> | Break Ya Neck | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Can't Tell Me Nothing | 855 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="I Don&#x27;t Mind (feat. Juicy J)" width="50" /> | I Don't Mind (feat. Juicy J) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="Recovery" width="50" /> | [Love The Way You Lie](../../artists/eminem/overview.md) | 855 | <img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="Confessions of a Dangerous Mind" width="50" /> | Homicide (feat. Eminem) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Late Registration" width="50" /> | Gold Digger | 855 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="DAMN." width="50" /> | [HUMBLE.](../../artists/kendrick_lamar/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30" alt="Watch The Throne" width="50" /> | Ni**as In Paris | 855 | <img src="https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5" alt="Meet The Woo" width="50" /> | Dior | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime &amp; B" width="50" /> | City Girls | 855 | <img src="https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458" alt="The Pinkprint (Deluxe)" width="50" /> | Anaconda | 855 |
 
 ## Top Albums
 
@@ -329,7 +329,7 @@
 | | Fergie | 1 | Songwriter |
 | | Jeff Bass | 1 | Producer, Songwriter |
 | | Aldrin Davis | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0376b56af63682d48579fa85" alt="" width="50" /> | Jaden | 1 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7fcdd9f3bc9e12baf89b1016" alt="" width="50" /> | Jaden | 1 | Lyricist, Songwriter |
 | | Ernest Clark | 1 | Songwriter |
 
 </details>

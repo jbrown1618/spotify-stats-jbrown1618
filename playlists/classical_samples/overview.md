@@ -57,16 +57,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="‘The ReVe Festival 2022 - Feel My Rhythm’" width="50" /> | [Feel My Rhythm](../../artists/red_velvet/overview.md) | 69 | <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="The ArchAndroid" width="50" /> | [Say You'll Go](../../artists/janelle_monáe/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="‘The ReVe Festival 2022 - Birthday’" width="50" /> | [BYE BYE](../../artists/red_velvet/overview.md) | 71 | <img src="https://i.scdn.co/image/ab67616d0000b273bdf5051b85408bc0967122f9" alt="Hands Up" width="50" /> | Hands Up | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="‘The ReVe Festival 2022 - Birthday’" width="50" /> | [Birthday](../../artists/red_velvet/overview.md) | 101 | <img src="https://i.scdn.co/image/ab67616d0000b27382b88b49dd9a1b387cb3f0c6" alt="TRI-ANGLE - 1st Album" width="50" /> | [TRI-ANGLE - Extended Version](../../artists/tvxq!/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="Chill Kill - The 3rd Album" width="50" /> | [Knock Knock (Who's There?)](../../artists/red_velvet/overview.md) | 102 | <img src="https://i.scdn.co/image/ab67616d0000b27393f60760427ff9cb94a5ba96" alt="20&amp;2 - The 9th Album" width="50" /> | [Rebel](../../artists/tvxq!/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> | [Shut Down](../../artists/blackpink/overview.md) | 131 | <img src="https://i.scdn.co/image/ab67616d0000b273832e7727a0d03c3717af52bc" alt="Hades" width="50" /> | Fantasy | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | [Nxde](../../artists/(g)i-dle/overview.md) | 135 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Odi Et Amo | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | [Snowy](../../artists/itzy/overview.md) | 149 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="Wings" width="50" /> | [Lie](../../artists/bts/overview.md) | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27340320ca58cbadbad78598e36" alt="EPEX 5th EP Album Prelude of Love Chapter 2. &#x27;Growing Pains&#x27;" width="50" /> | Sunshower | 218 | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> | When I Get You Alone | 851 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738683845c563e9e2a478e2edb" alt="Loossemble" width="50" /> | Real world | 377 | <img src="https://i.scdn.co/image/ab67616d0000b273cd519fa579f43e384aa891f1" alt="Finally Woken" width="50" /> | They | 694 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="memeM" width="50" /> | [Pretty Psycho](../../artists/purple_kiss/overview.md) | 448 | <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="CIRCUS" width="50" /> | [CIRCUS](../../artists/stray_kids/overview.md) | 609 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="‘The ReVe Festival 2022 - Feel My Rhythm’" width="50" /> | [Feel My Rhythm](../../artists/red_velvet/overview.md) | 70 | <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="The ArchAndroid" width="50" /> | [Say You'll Go](../../artists/janelle_monáe/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="‘The ReVe Festival 2022 - Birthday’" width="50" /> | [BYE BYE](../../artists/red_velvet/overview.md) | 72 | <img src="https://i.scdn.co/image/ab67616d0000b273bdf5051b85408bc0967122f9" alt="Hands Up" width="50" /> | Hands Up | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d2ef237da7f94762997c2083" alt="‘The ReVe Festival 2022 - Birthday’" width="50" /> | [Birthday](../../artists/red_velvet/overview.md) | 101 | <img src="https://i.scdn.co/image/ab67616d0000b27382b88b49dd9a1b387cb3f0c6" alt="TRI-ANGLE - 1st Album" width="50" /> | [TRI-ANGLE - Extended Version](../../artists/tvxq!/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307e2cf9023db855b41f3d26e" alt="Chill Kill - The 3rd Album" width="50" /> | [Knock Knock (Who's There?)](../../artists/red_velvet/overview.md) | 102 | <img src="https://i.scdn.co/image/ab67616d0000b27393f60760427ff9cb94a5ba96" alt="20&amp;2 - The 9th Album" width="50" /> | [Rebel](../../artists/tvxq!/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> | [Shut Down](../../artists/blackpink/overview.md) | 133 | <img src="https://i.scdn.co/image/ab67616d0000b273832e7727a0d03c3717af52bc" alt="Hades" width="50" /> | Fantasy | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="I love" width="50" /> | [Nxde](../../artists/(g)i-dle/overview.md) | 136 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Odi Et Amo | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="CHESHIRE" width="50" /> | [Snowy](../../artists/itzy/overview.md) | 150 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="Wings" width="50" /> | [Lie](../../artists/bts/overview.md) | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27340320ca58cbadbad78598e36" alt="EPEX 5th EP Album Prelude of Love Chapter 2. &#x27;Growing Pains&#x27;" width="50" /> | Sunshower | 218 | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> | When I Get You Alone | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738683845c563e9e2a478e2edb" alt="Loossemble" width="50" /> | Real world | 375 | <img src="https://i.scdn.co/image/ab67616d0000b273cd519fa579f43e384aa891f1" alt="Finally Woken" width="50" /> | They | 656 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="memeM" width="50" /> | [Pretty Psycho](../../artists/purple_kiss/overview.md) | 448 | <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="CIRCUS" width="50" /> | [CIRCUS](../../artists/stray_kids/overview.md) | 612 |
 
 </details>
 
@@ -155,15 +155,16 @@
 | 2 | 2 | neo soul |
 | 1 | 1 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
 | 1 | 1 | pop rap |
+| 1 | 1 | [lilith](../../genres/lilith/overview.md) |
 | 1 | 1 | deep indie singer-songwriter |
-| 1 | 1 | deep acoustic pop |
 
 
 <details>
-<summary>See all 15 genres</summary>
+<summary>See all 16 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
+| 1 | 1 | deep acoustic pop |
 | 1 | 1 | [dance pop](../../genres/dance_pop/overview.md) |
 | 1 | 1 | atl hip hop |
 | 1 | 1 | alternative r&b |
@@ -173,7 +174,7 @@
 </details>
 
 
-![Bar chart of top 15 genres](../../images/playlists/classical_samples/genres.png)
+![Bar chart of top 16 genres](../../images/playlists/classical_samples/genres.png)
 
 ## Top Producers
 
