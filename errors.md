@@ -14,7 +14,7 @@
 | A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 48 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Retro Kpop [🔗](https://open.spotify.com/playlist/1MW4AAPq55U0XWvSeu1jU5) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 42 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 49 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd),<br>Recommendations for Jeff [🔗](https://open.spotify.com/playlist/5Liek0UOC5GmdOjxdWhcob),<br>Relax [🔗](https://open.spotify.com/playlist/4rnlD7JdUQNdPCBhL69dCg),<br>Your Top Songs 2022 [🔗](https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit) |
-| SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 34 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
+| SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 35 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 
 ## Tracks with low popularity
 
@@ -38,9 +38,9 @@
 | Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": I. Allegro (Ballo, e canto de' villanelli) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
 | Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": III. Allegro (La caccia) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
-| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro) | Vivaldi: Four Seasons | David Reichenberg | 0 | 2 | 27 |
-| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: II. Largo | Vivaldi: Four Seasons | David Reichenberg | 0 | 2 | 27 |
-| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: III. Allegro | Vivaldi: Four Seasons | David Reichenberg | 0 | 2 | 27 |
+| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro) | Vivaldi: Four Seasons | David Reichenberg | 0 | 2 | 26 |
+| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: II. Largo | Vivaldi: Four Seasons | David Reichenberg | 0 | 2 | 26 |
+| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: III. Allegro | Vivaldi: Four Seasons | David Reichenberg | 0 | 2 | 26 |
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 31 |
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 31 |
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 31 |
@@ -54,9 +54,15 @@
 | Strange (feat. RM) | D-2 | RM | 0 | 1 | 78 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 83 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 77 |
+| Cosmic | Cosmic | Red Velvet | 0 | 0 | 69 |
+| Love Arcade | Cosmic | Red Velvet | 0 | 0 | 69 |
+| Bubble | Cosmic | Red Velvet | 0 | 0 | 69 |
+| Night Drive | Cosmic | Red Velvet | 0 | 0 | 69 |
+| Last Drop | Cosmic | Red Velvet | 0 | 0 | 69 |
+| Sunflower | Cosmic | Red Velvet | 0 | 0 | 69 |
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 51 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 47 |
-| Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 29 |
+| Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 30 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 64 |
 | Underground | Artemis | Lindsey Stirling | 1 | 2 | 64 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 48 |
@@ -66,39 +72,39 @@
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 67 |
 | Lone Digger | <|º_º|> | Caravan Palace | 2 | 2 | 60 |
 | Joker | Joker is Alive | Dalshabet | 1 | 0 | 30 |
-| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 0 | 0 | 70 |
-| Nothing Else Matters | Metallica | Metallica | 0 | 1 | 81 |
-| Enter Sandman | Metallica | Metallica | 1 | 1 | 81 |
+| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 0 | 0 | 71 |
+| Nothing Else Matters | Metallica | Metallica | 1 | 2 | 81 |
+| Enter Sandman | Metallica | Metallica | 1 | 2 | 81 |
 | Wings | Wings | PIXY | 0 | 0 | 36 |
-| La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 36 |
-| Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 36 |
-| Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 36 |
-| I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 36 |
-| Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 36 |
+| La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 37 |
+| Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 37 |
+| Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 37 |
+| I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 37 |
+| Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 37 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 64 |
-| Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 31 |
+| Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 30 |
 | The Trooper - 2015 Remaster | Piece of Mind (2015 - Remaster) | Iron Maiden | 2 | 1 | 71 |
 | Drink It | Drink It | THE BOYZ | 0 | 0 | 57 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 50 |
 | Think About Things | Think About Things | Daði Freyr | 0 | 0 | 50 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 50 |
-| I Want To Break Free | The Works | Queen | 0 | 0 | 83 |
-| Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 83 |
-| Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 83 |
-| Somebody To Love | A Day At The Races | Queen | 0 | 0 | 83 |
-| Don't Stop Me Now | Jazz | Queen | 2 | 1 | 83 |
-| A Kind Of Magic | A Kind Of Magic | Queen | 0 | 0 | 83 |
+| I Want To Break Free | The Works | Queen | 0 | 0 | 84 |
+| Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 84 |
+| Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 84 |
+| Somebody To Love | A Day At The Races | Queen | 0 | 0 | 84 |
+| Don't Stop Me Now | Jazz | Queen | 2 | 1 | 84 |
+| A Kind Of Magic | A Kind Of Magic | Queen | 0 | 0 | 84 |
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 58 |
 | RED | RED | The Rose | 0 | 0 | 62 |
 | She′s In The Rain | Dawn | The Rose | 0 | 0 | 62 |
 | Sorry | Sorry | The Rose | 0 | 0 | 62 |
-| Pokerap | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 52 |
-| Pokemon Theme | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 52 |
+| Pokerap | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 53 |
+| Pokemon Theme | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 53 |
 | Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 51 |
-| The Legend Of Zelda: Twilight Princess - Midna's Desperate Hour | Piano/Instrumental Works: Video Game Themes - Volume I | Michael Tai | 0 | 0 | 38 |
+| The Legend Of Zelda: Twilight Princess - Midna's Desperate Hour | Piano/Instrumental Works: Video Game Themes - Volume I | Michael Tai | 0 | 0 | 39 |
 | Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | 0 | 0 | 55 |
 | Just The Way You Are | Little Love - EP | James Smith | 0 | 0 | 51 |
-| I will show you | Invitation | AILEE | 0 | 0 | 56 |
+| I will show you | Invitation | AILEE | 0 | 0 | 57 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 61 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 54 |
 | Timshel | Sigh No More | Mumford & Sons | 0 | 1 | 70 |
@@ -112,15 +118,15 @@
 | The Phantom Of The Opera | Century Child | Nightwish | 0 | 0 | 64 |
 | End Of All Hope | Century Child | Nightwish | 0 | 0 | 64 |
 | Nemo | Once | Nightwish | 0 | 0 | 64 |
-| Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 0 | 0 | 57 |
-| Lullaby | Present : YOU | GOT7 | 0 | 0 | 57 |
-| Just Right | Just Right | GOT7 | 0 | 0 | 57 |
-| If You Do | MAD | GOT7 | 0 | 0 | 57 |
-| You Calling My Name | Call My Name | GOT7 | 0 | 0 | 57 |
+| Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 0 | 0 | 58 |
+| Lullaby | Present : YOU | GOT7 | 0 | 0 | 58 |
+| Just Right | Just Right | GOT7 | 0 | 0 | 58 |
+| If You Do | MAD | GOT7 | 0 | 0 | 58 |
+| You Calling My Name | Call My Name | GOT7 | 0 | 0 | 58 |
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 25 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 74 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 78 |
-| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 57 |
+| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 58 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 60 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 72 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 73 |
@@ -129,8 +135,8 @@
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 77 |
 | I Do | It's Raining | Rain | 0 | 0 | 44 |
 | It′s Raining | It's Raining | Rain | 0 | 0 | 44 |
-| Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 84 |
-| Slide Away | Slide Away | Miley Cyrus | 1 | 0 | 82 |
+| Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 85 |
+| Slide Away | Slide Away | Miley Cyrus | 2 | 0 | 82 |
 | Miku | Miku | Anamanaguchi | 0 | 0 | 51 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 42 |
 | Heartbeat | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) | SURAN | 1 | 0 | 49 |
@@ -141,21 +147,21 @@
 | When We Disco | When We Disco | J.Y. Park | 0 | 0 | 45 |
 | Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 45 |
 | When We Disco | When We Disco | SUNMI | 0 | 0 | 56 |
-| Who's Your Mama? | 24/34 | Jessi | 0 | 0 | 56 |
+| Who's Your Mama? | 24/34 | Jessi | 0 | 0 | 57 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 71 |
 | My House | No.5 | 2PM | 0 | 0 | 51 |
 | Still Alive | Portal 2: Songs to Test By (Collectors Edition) | Aperture Science Psychoacoustic Laboratories | 0 | 0 | 45 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 46 |
-| Zelda's Lullaby | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 45 |
-| Song Of Storms | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 45 |
-| Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 69 |
-| Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 69 |
-| Call Me Mother | American | RuPaul | 0 | 0 | 55 |
+| Zelda's Lullaby | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 46 |
+| Song Of Storms | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 46 |
+| Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 70 |
+| Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 70 |
+| Call Me Mother | American | RuPaul | 0 | 0 | 56 |
 | Lose | Love Synonym #2 : Right for Us | WONHO | 0 | 0 | 42 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 66 |
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 40 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 55 |
-| Toy | Toy | Netta | 1 | 0 | 48 |
+| Toy | Toy | Netta | 2 | 0 | 48 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 44 |
 | Lost Woods | Zelda: Ocarina of Time - Piano | Wesley Sprayue | 0 | 0 | 38 |
-| Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 51 |
+| Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 52 |

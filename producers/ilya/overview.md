@@ -4,17 +4,17 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Arranger | 3 |
-| Instrument | 9 |
-| Producer | 12 |
-| Songwriter | 13 |
-| Vocal | 8 |
+| Arranger | 4 |
+| Instrument | 10 |
+| Producer | 13 |
+| Songwriter | 14 |
+| Vocal | 9 |
 
 ## Produces for Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 12 | 12 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 13 | 13 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | 2 | 2 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | 1 | 1 | Iggy Azalea | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05859a430915d19cd6e67bbb" alt="" width="50" /> | 1 | 1 | Kim Petras | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
@@ -26,13 +26,13 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Max Martin | [Max Martin](../max_martin/overview.md) | 12 |
-| Ariana Grande | [Ariana Grande](../ariana_grande/overview.md) | 11 |
-| Sam Holland | [Sam Holland](../sam_holland/overview.md) | 9 |
-| Serban Ghenea | [Serban Ghenea](../serban_ghenea/overview.md) | 9 |
+| Max Martin | [Max Martin](../max_martin/overview.md) | 13 |
+| Ariana Grande | [Ariana Grande](../ariana_grande/overview.md) | 12 |
+| Sam Holland | [Sam Holland](../sam_holland/overview.md) | 10 |
+| Serban Ghenea | [Serban Ghenea](../serban_ghenea/overview.md) | 10 |
 | Savan Kotecha | [Savan Kotecha](../savan_kotecha/overview.md) | 9 |
-| Bryce Bordone | Bryce Bordone | 4 |
-| Lou Carrao | Lou Carrao | 4 |
+| Bryce Bordone | Bryce Bordone | 5 |
+| Lou Carrao | Lou Carrao | 5 |
 | Peter Carlsson | Peter Carlsson | 3 |
 | John Hanes | [John Hanes](../john_hanes/overview.md) | 3 |
 | Nicki Minaj | Nicki Minaj | 2 |
@@ -86,6 +86,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | bloodline | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a935e4689f15953311772cc4" alt="" width="50" /> | Unholy (feat. Kim Petras) | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | the boy is mine | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | don't wanna break up again | Arranger, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | we can't be friends (wait for your love) | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | yes, and? | Arranger, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | imperfect for you | Arranger, Producer, Songwriter |

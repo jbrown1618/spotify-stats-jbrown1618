@@ -4,14 +4,14 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Producer | 84 |
+| Producer | 85 |
 
 ## Produces for Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | 29 | 29 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 13 | 13 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 14 | 14 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | 5 | 5 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 5 | 5 | [Bruno Mars](../../artists/bruno_mars/overview.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc16e9a79a6262f2c72232942" alt="" width="50" /> | 4 | 4 | Katy Perry | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
@@ -62,12 +62,12 @@
 |:---|:---|---:|
 | John Hanes | [John Hanes](../john_hanes/overview.md) | 39 |
 | Taylor Swift | [Taylor Swift](../taylor_swift/overview.md) | 29 |
-| Max Martin | [Max Martin](../max_martin/overview.md) | 27 |
-| Sam Holland | [Sam Holland](../sam_holland/overview.md) | 25 |
+| Max Martin | [Max Martin](../max_martin/overview.md) | 28 |
+| Sam Holland | [Sam Holland](../sam_holland/overview.md) | 26 |
 | Jack Antonoff | [Jack Antonoff](../jack_antonoff/overview.md) | 16 |
 | Laura Sisk | [Laura Sisk](../laura_sisk/overview.md) | 16 |
 | Shellback | [Shellback](../shellback/overview.md) | 12 |
-| Ariana Grande | [Ariana Grande](../ariana_grande/overview.md) | 11 |
+| Ariana Grande | [Ariana Grande](../ariana_grande/overview.md) | 12 |
 | Łukasz Gottwald | [Łukasz Gottwald (Gottwald, Łukasz)](../łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 10 |
 | Michael Ilbert | Michael Ilbert | 10 |
 
@@ -77,18 +77,18 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
+| ILYA | [ILYA](../ilya/overview.md) | 10 |
+| Bryce Bordone | Bryce Bordone | 9 |
 | Dr. Luke | Dr. Luke | 9 |
-| ILYA | [ILYA](../ilya/overview.md) | 9 |
-| Bryce Bordone | Bryce Bordone | 8 |
 | Emily Wright | Emily Wright | 6 |
 | Bruno Mars | [Bruno Mars](../bruno_mars/overview.md) | 5 |
 | Charles Moniz | Charles Moniz | 5 |
 | Doja Cat | Doja Cat | 5 |
 | benny blanco | [benny blanco](../benny_blanco/overview.md) | 5 |
 | Savan Kotecha | [Savan Kotecha](../savan_kotecha/overview.md) | 5 |
+| Lou Carrao | Lou Carrao | 5 |
 | Katy Perry | Katy Perry | 4 |
 | Oscar Holter | Oscar Holter | 4 |
-| Lou Carrao | Lou Carrao | 4 |
 | Peter Carlsson | Peter Carlsson | 3 |
 | Jeremy Reeves | Jeremy Reeves | 3 |
 | The Weeknd | The Weeknd | 3 |
@@ -428,6 +428,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30" alt="" width="50" /> | Paint The Town Red | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" alt="" width="50" /> | vampire | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | the boy is mine | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | don't wanna break up again | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | we can't be friends (wait for your love) | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | yes, and? | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | imperfect for you | Producer |

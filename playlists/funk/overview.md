@@ -83,16 +83,16 @@
 
 | ​ | Most listened tracks | Rank | ​​ | Least listened tracks | Rank |
 |:---|:---|---:|:---|:---|---:|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | [Sweet Venom](../../artists/enhypen/overview.md) | 56 | <img src="https://i.scdn.co/image/ab67616d0000b2739173e50e99bdea2400222f02" alt="United" width="50" /> | Ain't No Mountain High Enough | 855 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> | [enchanted night ~ white night](../../artists/billlie/overview.md) | 84 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | [Red Lipstick (feat. Yoonmirae)](../../artists/leehi/overview.md) | 855 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="Born to be XX" width="50" /> | [Nobody Knows](../../artists/kiss_of_life/overview.md) | 86 | <img src="https://i.scdn.co/image/ab67616d0000b27385c5e6c686ced3e43bae2748" alt="Drunk" width="50" /> | Them Changes | 855 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="TEN - The 1st Mini Album" width="50" /> | [Dangerous](../../artists/ten/overview.md) | 90 | <img src="https://i.scdn.co/image/ab67616d0000b273b08f59c7648a7a67130ca0ea" alt="Greatest Hits" width="50" /> | Thank You (Falettinme Be Mice Elf Agin) - Single Version | 855 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="Undo" width="50" /> | [Undo](../../artists/heize/overview.md) | 216 | <img src="https://i.scdn.co/image/ab67616d0000b273a03bcdbf45f9ed71cf0947bd" alt="Hot Chocolate" width="50" /> | You Sexy Thing | 855 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [In My Bones (feat. Kimbra & Tank and The Bangas)](../../artists/jacob_collier/overview.md) | 551 | <img src="https://i.scdn.co/image/ab67616d0000b27323cc0f0a925845a3de4aca38" alt="Parade - Music from the Motion Picture Under the Cherry Moon" width="50" /> | Kiss | 855 |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> | [nevertheless](../../artists/billlie/overview.md) | 596 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f0a26e4100c490bc384003" alt="Let&#x27;s Get It On" width="50" /> | Let's Get It On | 855 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27356035da9eacd668ffdfacb36" alt="Starlit of Muse" width="50" /> | TOUCHIN&MOVIN | 677 | <img src="https://i.scdn.co/image/ab67616d0000b273d419ed4f1e89669ce14bd369" alt="Wild Cherry" width="50" /> | Play That Funky Music | 855 |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb03213742765479b3b1cf11" alt="Tailwinds" width="50" /> | Nate Smith Is the Ace of Aces | 748 | <img src="https://i.scdn.co/image/ab67616d0000b273c813101657895c26f990b719" alt="I Got You (I Feel Good)" width="50" /> | I Got You (I Feel Good) | 855 |
-| <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="NEXT EPISODE" width="50" /> | [NAKKA (with IU)](../../artists/akmu/overview.md) | 801 | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="Commodores" width="50" /> | Brick House | 855 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | [Sweet Venom](../../artists/enhypen/overview.md) | 54 | <img src="https://i.scdn.co/image/ab67616d0000b2739173e50e99bdea2400222f02" alt="United" width="50" /> | Ain't No Mountain High Enough | 861 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="Born to be XX" width="50" /> | [Nobody Knows](../../artists/kiss_of_life/overview.md) | 84 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | [Red Lipstick (feat. Yoonmirae)](../../artists/leehi/overview.md) | 861 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="TEN - The 1st Mini Album" width="50" /> | [Dangerous](../../artists/ten/overview.md) | 85 | <img src="https://i.scdn.co/image/ab67616d0000b27385c5e6c686ced3e43bae2748" alt="Drunk" width="50" /> | Them Changes | 861 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> | [enchanted night ~ white night](../../artists/billlie/overview.md) | 87 | <img src="https://i.scdn.co/image/ab67616d0000b273b08f59c7648a7a67130ca0ea" alt="Greatest Hits" width="50" /> | Thank You (Falettinme Be Mice Elf Agin) - Single Version | 861 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="Undo" width="50" /> | [Undo](../../artists/heize/overview.md) | 218 | <img src="https://i.scdn.co/image/ab67616d0000b273a03bcdbf45f9ed71cf0947bd" alt="Hot Chocolate" width="50" /> | You Sexy Thing | 861 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [In My Bones (feat. Kimbra & Tank and The Bangas)](../../artists/jacob_collier/overview.md) | 552 | <img src="https://i.scdn.co/image/ab67616d0000b27323cc0f0a925845a3de4aca38" alt="Parade - Music from the Motion Picture Under the Cherry Moon" width="50" /> | Kiss | 861 |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> | [nevertheless](../../artists/billlie/overview.md) | 598 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f0a26e4100c490bc384003" alt="Let&#x27;s Get It On" width="50" /> | Let's Get It On | 861 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356035da9eacd668ffdfacb36" alt="Starlit of Muse" width="50" /> | TOUCHIN&MOVIN | 680 | <img src="https://i.scdn.co/image/ab67616d0000b273d419ed4f1e89669ce14bd369" alt="Wild Cherry" width="50" /> | Play That Funky Music | 861 |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb03213742765479b3b1cf11" alt="Tailwinds" width="50" /> | Nate Smith Is the Ace of Aces | 751 | <img src="https://i.scdn.co/image/ab67616d0000b273c813101657895c26f990b719" alt="I Got You (I Feel Good)" width="50" /> | I Got You (I Feel Good) | 861 |
+| <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="NEXT EPISODE" width="50" /> | [NAKKA (with IU)](../../artists/akmu/overview.md) | 805 | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="Commodores" width="50" /> | Brick House | 861 |
 
 </details>
 
@@ -231,7 +231,7 @@
 
 
 <details>
-<summary>See all 48 genres</summary>
+<summary>See all 47 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -267,7 +267,6 @@
 | 3 | 0 | northern soul |
 | 3 | 0 | neo soul |
 | 2 | 0 | indie soul |
-| 2 | 0 | escape room |
 | 1 | 0 | [urban contemporary](../../genres/urban_contemporary/overview.md) |
 | 1 | 0 | [r&b](../../genres/r_b/overview.md) |
 | 1 | 0 | post-disco |

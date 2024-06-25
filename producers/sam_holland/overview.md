@@ -4,14 +4,14 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Producer | 27 |
+| Producer | 28 |
 
 ## Produces for Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 10 | 10 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | 10 | 10 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 9 | 9 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc16e9a79a6262f2c72232942" alt="" width="50" /> | 4 | 4 | Katy Perry | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | 2 | 2 | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a398209a4ef3360dce2dec4" alt="" width="50" /> | 1 | 1 | Snoop Dogg | [🔗](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) |
@@ -25,14 +25,14 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Serban Ghenea | [Serban Ghenea](../serban_ghenea/overview.md) | 25 |
-| Max Martin | [Max Martin](../max_martin/overview.md) | 23 |
+| Serban Ghenea | [Serban Ghenea](../serban_ghenea/overview.md) | 26 |
+| Max Martin | [Max Martin](../max_martin/overview.md) | 24 |
 | John Hanes | [John Hanes](../john_hanes/overview.md) | 13 |
 | Michael Ilbert | Michael Ilbert | 10 |
 | Shellback | [Shellback](../shellback/overview.md) | 10 |
+| ILYA | [ILYA](../ilya/overview.md) | 10 |
 | Taylor Swift | [Taylor Swift](../taylor_swift/overview.md) | 10 |
-| ILYA | [ILYA](../ilya/overview.md) | 9 |
-| Ariana Grande | [Ariana Grande](../ariana_grande/overview.md) | 8 |
+| Ariana Grande | [Ariana Grande](../ariana_grande/overview.md) | 9 |
 | Dr. Luke | Dr. Luke | 6 |
 | Łukasz Gottwald | [Łukasz Gottwald (Gottwald, Łukasz)](../łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 6 |
 
@@ -43,10 +43,10 @@
 | Producer | Producer | Tracks |
 |:---|:---|---:|
 | Emily Wright | Emily Wright | 6 |
+| Lou Carrao | Lou Carrao | 5 |
+| Bryce Bordone | Bryce Bordone | 5 |
 | Savan Kotecha | [Savan Kotecha](../savan_kotecha/overview.md) | 5 |
-| Lou Carrao | Lou Carrao | 4 |
 | Katy Perry | Katy Perry | 4 |
-| Bryce Bordone | Bryce Bordone | 4 |
 | benny blanco | [benny blanco](../benny_blanco/overview.md) | 4 |
 | Peter Carlsson | Peter Carlsson | 3 |
 | Oscar Holter | Oscar Holter | 2 |
@@ -114,6 +114,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | bloodline | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | Save Your Tears | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | the boy is mine | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | don't wanna break up again | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | we can't be friends (wait for your love) | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | yes, and? | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | imperfect for you | Producer |

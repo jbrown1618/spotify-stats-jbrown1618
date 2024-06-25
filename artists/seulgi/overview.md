@@ -12,7 +12,7 @@ SEULGI:
 - is a member of Red Velvet - IRENE & SEULGI
 
 ## Artist Rank
-- The #34 artist overall
+- The #35 artist overall
 
 ![Rank of SEULGI over time](../../images/artists/seulgi/rank_time_series.png)
 ## Top Tracks
@@ -84,13 +84,13 @@ SEULGI:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 28 Reasons | 28 Reasons - The 1st Mini Album | [SEULGI](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 88 | 💚 | [🔗](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 28 Reasons | 28 Reasons - The 1st Mini Album | [SEULGI](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 92 | 💚 | [🔗](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | Crown | 28 Reasons - The 1st Mini Album | [SEULGI](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 156 | 💚 | [🔗](https://open.spotify.com/track/4Y0EawuG8OtyYNyJulWnDu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | Dead Man Runnin’ | 28 Reasons - The 1st Mini Album | [SEULGI](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 166 | 💚 | [🔗](https://open.spotify.com/track/5eFGkCXi83auDi0bcDBEKD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | Dead Man Runnin’ | 28 Reasons - The 1st Mini Album | [SEULGI](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 167 | 💚 | [🔗](https://open.spotify.com/track/5eFGkCXi83auDi0bcDBEKD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="" width="50" /> | Wow Thing | Wow Thing | [SEULGI](overview.md), [CHUNG HA](../chung_ha/overview.md), SinB, [JEON SOYEON](../jeon_soyeon/overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 848 | 💚 | [🔗](https://open.spotify.com/track/5MwfxCtqMFGYp9Nc1BkTrS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737c10cbde96d84578e7694009" alt="" width="50" /> | Drop | School Rapper FINAL | MARK, [SEULGI](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation) | 855 | | [🔗](https://open.spotify.com/track/5ruVKc6a9Gq2YxFeuiHPJu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386468c650757ef3eb49ba6d3" alt="" width="50" /> | Doll | Doll - SM STATION | [WENDY](../wendy/overview.md), [SEULGI](overview.md), KANGTA | [SM Entertainment](../../labels/sm_entertainment) | 855 | | [🔗](https://open.spotify.com/track/5Iy48VE6KN7Ywml5hlOd9u) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273294c757e724cc58bbbd29287" alt="" width="50" /> | SELFISH (Feat. SEULGI Of Red Velvet) | SELFISH | Moon Byul, [SEULGI](overview.md) | [RBW, Inc](../../labels/rbw_inc_) | 855 | | [🔗](https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | Anywhere But Home | 28 Reasons - The 1st Mini Album | [SEULGI](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 855 | | [🔗](https://open.spotify.com/track/7vRodvsF37NGUYRSVMIRXj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | Bad Boy, Sad Girl | 28 Reasons - The 1st Mini Album | [SEULGI](overview.md), BE'O | [SM Entertainment](../../labels/sm_entertainment) | 855 | | [🔗](https://open.spotify.com/track/4K08CJWZXj85wkMIvCrVFg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Hot & Cold | 2022 Winter SMTOWN : SMCU PALACE | KAI, [SEULGI](overview.md), JENO, KARINA | [SM Entertainment](../../labels/sm_entertainment) | 855 | | [🔗](https://open.spotify.com/track/1oy2B6xsqSwCRBBynYtaUl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737c10cbde96d84578e7694009" alt="" width="50" /> | Drop | School Rapper FINAL | MARK, [SEULGI](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation) | 861 | | [🔗](https://open.spotify.com/track/5ruVKc6a9Gq2YxFeuiHPJu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386468c650757ef3eb49ba6d3" alt="" width="50" /> | Doll | Doll - SM STATION | [WENDY](../wendy/overview.md), [SEULGI](overview.md), KANGTA | [SM Entertainment](../../labels/sm_entertainment) | 861 | | [🔗](https://open.spotify.com/track/5Iy48VE6KN7Ywml5hlOd9u) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273294c757e724cc58bbbd29287" alt="" width="50" /> | SELFISH (Feat. SEULGI Of Red Velvet) | SELFISH | Moon Byul, [SEULGI](overview.md) | [RBW, Inc](../../labels/rbw_inc_) | 861 | | [🔗](https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | Anywhere But Home | 28 Reasons - The 1st Mini Album | [SEULGI](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 861 | | [🔗](https://open.spotify.com/track/7vRodvsF37NGUYRSVMIRXj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738bc3d61189d95da5f74d7ba7" alt="" width="50" /> | Bad Boy, Sad Girl | 28 Reasons - The 1st Mini Album | [SEULGI](overview.md), BE'O | [SM Entertainment](../../labels/sm_entertainment) | 861 | | [🔗](https://open.spotify.com/track/4K08CJWZXj85wkMIvCrVFg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Hot & Cold | 2022 Winter SMTOWN : SMCU PALACE | KAI, [SEULGI](overview.md), JENO, KARINA | [SM Entertainment](../../labels/sm_entertainment) | 861 | | [🔗](https://open.spotify.com/track/1oy2B6xsqSwCRBBynYtaUl) |

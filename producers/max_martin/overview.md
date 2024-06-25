@@ -4,18 +4,18 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Arranger | 3 |
-| Instrument | 27 |
-| Lyricist | 5 |
-| Producer | 32 |
-| Songwriter | 33 |
-| Vocal | 9 |
+| Arranger | 4 |
+| Instrument | 28 |
+| Lyricist | 6 |
+| Producer | 33 |
+| Songwriter | 34 |
+| Vocal | 10 |
 
 ## Produces for Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 12 | 12 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 13 | 13 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | 11 | 11 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc16e9a79a6262f2c72232942" alt="" width="50" /> | 4 | 4 | Katy Perry | [🔗](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd792783a725a0ed42866204c" alt="" width="50" /> | 2 | 2 | Backstreet Boys | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
@@ -44,16 +44,16 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Serban Ghenea | [Serban Ghenea](../serban_ghenea/overview.md) | 27 |
-| Sam Holland | [Sam Holland](../sam_holland/overview.md) | 23 |
-| John Hanes | [John Hanes](../john_hanes/overview.md) | 13 |
+| Serban Ghenea | [Serban Ghenea](../serban_ghenea/overview.md) | 28 |
+| Sam Holland | [Sam Holland](../sam_holland/overview.md) | 24 |
+| ILYA | [ILYA](../ilya/overview.md) | 13 |
 | Shellback | [Shellback](../shellback/overview.md) | 13 |
-| ILYA | [ILYA](../ilya/overview.md) | 12 |
+| John Hanes | [John Hanes](../john_hanes/overview.md) | 13 |
+| Ariana Grande | [Ariana Grande](../ariana_grande/overview.md) | 11 |
 | Taylor Swift | [Taylor Swift](../taylor_swift/overview.md) | 11 |
-| Ariana Grande | [Ariana Grande](../ariana_grande/overview.md) | 10 |
 | Michael Ilbert | Michael Ilbert | 10 |
 | Savan Kotecha | [Savan Kotecha](../savan_kotecha/overview.md) | 8 |
-| Rami | Rami | 4 |
+| Lou Carrao | Lou Carrao | 5 |
 
 
 <details>
@@ -61,36 +61,36 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
+| Bryce Bordone | Bryce Bordone | 5 |
+| Rami | Rami | 4 |
 | Łukasz Gottwald | [Łukasz Gottwald (Gottwald, Łukasz)](../łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 4 |
-| Bryce Bordone | Bryce Bordone | 4 |
 | Peter Carlsson | Peter Carlsson | 4 |
 | Emily Wright | Emily Wright | 4 |
-| Lou Carrao | Lou Carrao | 4 |
 | Dr. Luke | Dr. Luke | 4 |
 | Katy Perry | Katy Perry | 4 |
 | Ali Payami | Ali Payami | 3 |
 | benny blanco | [benny blanco](../benny_blanco/overview.md) | 3 |
 | Oscar Holter | Oscar Holter | 3 |
-| Mattias Bylund | Mattias Bylund | 2 |
 | The Weeknd | The Weeknd | 2 |
 | Bonnie McKee | Bonnie McKee | 2 |
 | Nicki Minaj | Nicki Minaj | 2 |
 | Belly | Belly | 2 |
 | Kristian Lundin | Kristian Lundin | 2 |
+| John Amatiello | John Amatiello | 2 |
 | Shin Kamiyama | Shin Kamiyama | 2 |
 | Andreas Carlsson | Andreas Carlsson | 2 |
 | DaHeala | DaHeala | 2 |
 | Iggy Azalea | Iggy Azalea | 2 |
-| John Amatiello | John Amatiello | 2 |
-| Giorgio Tuinfort | Giorgio Tuinfort | 1 |
-| Alexander Kronlund | Alexander Kronlund | 1 |
+| Mattias Bylund | Mattias Bylund | 2 |
+| Carl Falk | Carl Falk | 1 |
+| Henrik Janson | Henrik Janson | 1 |
 | Brian T. Littrell | Brian T. Littrell | 1 |
 | Peter Kahm | Peter Kahm | 1 |
-| Henrik Janson | Henrik Janson | 1 |
+| Alexander Kronlund | Alexander Kronlund | 1 |
 | Aniela Gottwald | Aniela Gottwald | 1 |
 | P!nk | P!nk | 1 |
 | Cathy Dennis | Cathy Dennis | 1 |
-| Carl Falk | Carl Falk | 1 |
+| Giorgio Tuinfort | Giorgio Tuinfort | 1 |
 | Andrew Watt | Andrew Watt | 1 |
 | Ammo | Ammo | 1 |
 | Shintaro Yasuda | Shintaro Yasuda | 1 |
@@ -154,6 +154,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | Blinding Lights | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | Save Your Tears | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | the boy is mine | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | don't wanna break up again | Arranger, Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | we can't be friends (wait for your love) | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | yes, and? | Arranger, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | imperfect for you | Arranger, Lyricist, Producer, Songwriter |

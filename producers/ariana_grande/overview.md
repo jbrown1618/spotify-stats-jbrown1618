@@ -5,17 +5,17 @@
 | Credit Type | Tracks |
 |:---|---:|
 | Arranger | 1 |
-| Lyricist | 5 |
+| Lyricist | 6 |
 | Performer | 2 |
-| Producer | 10 |
-| Songwriter | 17 |
-| Vocal | 10 |
+| Producer | 11 |
+| Songwriter | 18 |
+| Vocal | 11 |
 
 ## Produces for Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 16 | 16 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 17 | 17 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | 2 | 2 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | 1 | 1 | Iggy Azalea | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6" alt="" width="50" /> | 1 | 1 | Jessie J | [🔗](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) |
@@ -26,13 +26,13 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Serban Ghenea | [Serban Ghenea](../serban_ghenea/overview.md) | 11 |
-| ILYA | [ILYA](../ilya/overview.md) | 11 |
-| Max Martin | [Max Martin](../max_martin/overview.md) | 10 |
-| Sam Holland | [Sam Holland](../sam_holland/overview.md) | 8 |
+| Serban Ghenea | [Serban Ghenea](../serban_ghenea/overview.md) | 12 |
+| ILYA | [ILYA](../ilya/overview.md) | 12 |
+| Max Martin | [Max Martin](../max_martin/overview.md) | 11 |
+| Sam Holland | [Sam Holland](../sam_holland/overview.md) | 9 |
 | Savan Kotecha | [Savan Kotecha](../savan_kotecha/overview.md) | 7 |
-| Lou Carrao | Lou Carrao | 4 |
-| Bryce Bordone | Bryce Bordone | 4 |
+| Lou Carrao | Lou Carrao | 5 |
+| Bryce Bordone | Bryce Bordone | 5 |
 | TBHits | TBHits | 3 |
 | Billy Hickey | Billy Hickey | 3 |
 | John Hanes | [John Hanes](../john_hanes/overview.md) | 2 |
@@ -107,6 +107,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732babb9dbd8f5146112f1bf86" alt="" width="50" /> | Stuck with U (with Justin Bieber) | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | positions | Arranger, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | the boy is mine | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | don't wanna break up again | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | we can't be friends (wait for your love) | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | yes, and? | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | imperfect for you | Lyricist, Producer, Songwriter |
