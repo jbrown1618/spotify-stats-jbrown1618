@@ -38,18 +38,9 @@ WINTER:
 
 </details>
 
-## Featured on Playlists
-| Art | Tracks | Playlist |
-|:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 5 | [K-Pop](../../playlists/k-pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e021c3e0a58f3ee28af2922e351ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e02d5d11b6ac4242aaa41c8be69ab67616d00001e02d8856d19e1f5784ed643d862" alt="" width="50" /> | 4 | [Relax](../../playlists/relax/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e020f5c597bba60a1e0c5364baaab67616d00001e0247d4fcf597d9aee2d5a34e8eab67616d00001e025ccb1b40b2081fff238473bbab67616d00001e02c6633dda2aa449c5650c14be" alt="" width="50" /> | 3 | [K-OST](../../playlists/k-ost/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e022c0252c4e4a988f024e4d262ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 3 | [Chill](../../playlists/chill/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e025048ed32fafe7b9a50d0e410ab67616d00001e0256035da9eacd668ffdfacb36ab67616d00001e026b6962e774af860e8ad4dee0ab67616d00001e02bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
-| <img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg" alt="" width="50" /> | 1 | [On Repeat](../../playlists/on_repeat/overview.md) |
-
 ## Top Albums
+
+![Album ranking over time](../../images/artists/winter/album_rank_time_series.png)
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -60,6 +51,17 @@ WINTER:
 | <img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="" width="50" /> | 1 | 1 | Floral Sense - The 1st Album (Special Version) | 2023-02-27 | [🔗](https://open.spotify.com/album/3GiIDO4BTLwJuZWQszk4Tg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273149296b740548c61294fa088" alt="" width="50" /> | 1 | 1 | CASTAWAY DIVA OST Part.8 | 2023-11-19 | [🔗](https://open.spotify.com/album/5nV389t1fA2IIlIxflp4EK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739758a90d5fc261fcfac454e6" alt="" width="50" /> | 1 | 0 | WINTER of aespa X MY DEMON | 2023-12-08 | [🔗](https://open.spotify.com/album/7EXrNMKKkkE3hRBpeZcT6y) |
+
+## Featured on Playlists
+| Art | Tracks | Playlist |
+|:---|---:|:---|
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 5 | [K-Pop](../../playlists/k-pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e021c3e0a58f3ee28af2922e351ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e02d5d11b6ac4242aaa41c8be69ab67616d00001e02d8856d19e1f5784ed643d862" alt="" width="50" /> | 4 | [Relax](../../playlists/relax/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e020f5c597bba60a1e0c5364baaab67616d00001e0247d4fcf597d9aee2d5a34e8eab67616d00001e025ccb1b40b2081fff238473bbab67616d00001e02c6633dda2aa449c5650c14be" alt="" width="50" /> | 3 | [K-OST](../../playlists/k-ost/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022c0252c4e4a988f024e4d262ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 3 | [Chill](../../playlists/chill/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e025f117dc77b6c36fba0ff9b1eab67616d00001e025f7540ea5cd0831b2c7e4ff9ab67616d00001e02c4230302ebdf58aef8873907ab67616d00001e02f42a976b1e82a3247873f929" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
+| <img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg" alt="" width="50" /> | 1 | [On Repeat](../../playlists/on_repeat/overview.md) |
 
 ## Top Record Labels
 
@@ -104,8 +106,8 @@ WINTER:
 | <img src="https://i.scdn.co/image/ab67616d0000b273edac9c0484d3c89b0439c3ed" alt="" width="50" /> | NOBODY | NOBODY | [JEON SOYEON](../jeon_soyeon/overview.md), [WINTER](overview.md), LIZ (IVE) | Studio Beyond | 93 | 💚 | [🔗](https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bf32f4be80afeb0e1a09b27d" alt="" width="50" /> | Officially Cool | Officially Cool | BANG YEDAM, [WINTER](overview.md) | [WM Korea](../../labels/wm_korea) | 170 | 💚 | [🔗](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Priority | 2022 Winter SMTOWN : SMCU PALACE | MAX CHANGMIN, [TAEYEON](../taeyeon/overview.md), [WINTER](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 214 | 💚 | [🔗](https://open.spotify.com/track/79musoVrfPaVxoMSBFJYuc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732d5c8b45ab7a204c4de48605" alt="" width="50" /> | ONCE AGAIN | Our Blues, Pt. 10 (Original Television Soundtrack) | [WINTER](overview.md), NINGNING | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 744 | 💚 | [🔗](https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Jet | 2022 Winter SMTOWN : SMCU PALACE | EUNHYUK, HYO, TAEYONG, JAEMIN, SUNGCHAN, [WINTER](overview.md), GISELLE | [SM Entertainment](../../labels/sm_entertainment) | 861 | | [🔗](https://open.spotify.com/track/7F0KfW5f4rWm503sbAuVeW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="" width="50" /> | Floral Sense | Floral Sense - The 1st Album (Special Version) | YESUNG, [WINTER](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 861 | 💚 | [🔗](https://open.spotify.com/track/7kqCeZ0OmIWDXoo6h9GMpw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273149296b740548c61294fa088" alt="" width="50" /> | Voyage | CASTAWAY DIVA OST Part.8 | [WINTER](overview.md) | Music Buddy | 861 | 💚 | [🔗](https://open.spotify.com/track/3NAHK3gLOVmkOVoSmMJvOu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739758a90d5fc261fcfac454e6" alt="" width="50" /> | With You | WINTER of aespa X MY DEMON | [WINTER](overview.md) | SBS Contents Hub Co., Ltd. | 861 | | [🔗](https://open.spotify.com/track/4yZAAPTLlEb60Ny7bhepqx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d5c8b45ab7a204c4de48605" alt="" width="50" /> | ONCE AGAIN | Our Blues, Pt. 10 (Original Television Soundtrack) | [WINTER](overview.md), NINGNING | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 746 | 💚 | [🔗](https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Jet | 2022 Winter SMTOWN : SMCU PALACE | EUNHYUK, HYO, TAEYONG, JAEMIN, SUNGCHAN, [WINTER](overview.md), GISELLE | [SM Entertainment](../../labels/sm_entertainment) | 864 | | [🔗](https://open.spotify.com/track/7F0KfW5f4rWm503sbAuVeW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273468abcd06d84049010cd9ef7" alt="" width="50" /> | Floral Sense | Floral Sense - The 1st Album (Special Version) | YESUNG, [WINTER](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 864 | 💚 | [🔗](https://open.spotify.com/track/7kqCeZ0OmIWDXoo6h9GMpw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273149296b740548c61294fa088" alt="" width="50" /> | Voyage | CASTAWAY DIVA OST Part.8 | [WINTER](overview.md) | Music Buddy | 864 | 💚 | [🔗](https://open.spotify.com/track/3NAHK3gLOVmkOVoSmMJvOu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739758a90d5fc261fcfac454e6" alt="" width="50" /> | With You | WINTER of aespa X MY DEMON | [WINTER](overview.md) | SBS Contents Hub Co., Ltd. | 864 | | [🔗](https://open.spotify.com/track/4yZAAPTLlEb60Ny7bhepqx) |

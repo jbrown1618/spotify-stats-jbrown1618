@@ -19,15 +19,9 @@ Camila Cabello:
 ### Top tracks, aggregated
 
 ![Track score ranking over time](../../images/artists/camila_cabello/track_rank_time_series_score.png)
-## Featured on Playlists
-| Art | Tracks | Playlist |
-|:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 8 | [Pop](../../playlists/pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e02527d94ecf554774fc313bf48ab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 2 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e023317fc12f8b9a9a0b8459766ab67616d00001e0263e0ddbb488d0eeec0e738fcab67616d00001e0284095737f6056e682666d6f9ab67616d00001e02f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | [Not K-Pop](../../playlists/not_k-pop/overview.md) |
-
 ## Top Albums
+
+![Album ranking over time](../../images/artists/camila_cabello/album_rank_time_series.png)
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -35,6 +29,14 @@ Camila Cabello:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | 3 | 2 | Romance | 2019-12-06 | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e" alt="" width="50" /> | 1 | 1 | bloom | 2017-05-12 | [🔗](https://open.spotify.com/album/3yWRq9Dd2UO5xyqxTjLDmp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | 1 | 1 | Cry for Me | 2019-10-04 | [🔗](https://open.spotify.com/album/2dq4ae5hiyxlFPG1s8rlq5) |
+
+## Featured on Playlists
+| Art | Tracks | Playlist |
+|:---|---:|:---|
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 8 | [Pop](../../playlists/pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e02527d94ecf554774fc313bf48ab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 2 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e023317fc12f8b9a9a0b8459766ab67616d00001e0263e0ddbb488d0eeec0e738fcab67616d00001e0284095737f6056e682666d6f9ab67616d00001e02f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | [Not K-Pop](../../playlists/not_k-pop/overview.md) |
 
 ## Top Record Labels
 
@@ -132,10 +134,10 @@ Camila Cabello:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | My Oh My (feat. DaBaby) | Romance | [Camila Cabello](overview.md), DaBaby | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | 412 | 💚 | [🔗](https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita | Romance | Shawn Mendes, [Camila Cabello](overview.md) | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | 757 | 💚 | [🔗](https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e" alt="" width="50" /> | Bad Things (with Camila Cabello) | bloom | mgk, [Camila Cabello](overview.md) | [Bad Boy](../../labels/bad_boy), [Interscope Records](../../labels/interscope_records) | 861 | 💚 | [🔗](https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Consequences | Camila | [Camila Cabello](overview.md) | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | 861 | 💚 | [🔗](https://open.spotify.com/track/7sTtHHrD0zDpmzQzH3zegz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Havana (feat. Young Thug) | Camila | [Camila Cabello](overview.md), Young Thug | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | 861 | 💚 | [🔗](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Never Be the Same | Camila | [Camila Cabello](overview.md) | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | 861 | 💚 | [🔗](https://open.spotify.com/track/4eWQlBRaTjPPUlzacqEeoQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | Cry for Me | Cry for Me | [Camila Cabello](overview.md) | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | 861 | 💚 | [🔗](https://open.spotify.com/track/40nPimvmG05WYS7983bawZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Living Proof | Romance | [Camila Cabello](overview.md) | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | 861 | | [🔗](https://open.spotify.com/track/4jFD7byoPdGkEdjHLMduR9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita | Romance | Shawn Mendes, [Camila Cabello](overview.md) | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | 760 | 💚 | [🔗](https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e" alt="" width="50" /> | Bad Things (with Camila Cabello) | bloom | mgk, [Camila Cabello](overview.md) | [Bad Boy](../../labels/bad_boy), [Interscope Records](../../labels/interscope_records) | 864 | 💚 | [🔗](https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Consequences | Camila | [Camila Cabello](overview.md) | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | 864 | 💚 | [🔗](https://open.spotify.com/track/7sTtHHrD0zDpmzQzH3zegz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Havana (feat. Young Thug) | Camila | [Camila Cabello](overview.md), Young Thug | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | 864 | 💚 | [🔗](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Never Be the Same | Camila | [Camila Cabello](overview.md) | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | 864 | 💚 | [🔗](https://open.spotify.com/track/4eWQlBRaTjPPUlzacqEeoQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | Cry for Me | Cry for Me | [Camila Cabello](overview.md) | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | 864 | 💚 | [🔗](https://open.spotify.com/track/40nPimvmG05WYS7983bawZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Living Proof | Romance | [Camila Cabello](overview.md) | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | 864 | | [🔗](https://open.spotify.com/track/4jFD7byoPdGkEdjHLMduR9) |

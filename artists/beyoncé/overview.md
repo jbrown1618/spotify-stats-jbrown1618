@@ -12,18 +12,9 @@
 - The #134 artist overall
 
 ![Rank of Beyoncé over time](../../images/artists/beyoncé/rank_time_series.png)
-## Featured on Playlists
-| Art | Tracks | Playlist |
-|:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e0245680a4a57c97894490a01c1ab67616d00001e0289992f4d7d4ab94937bf9e23ab67616d00001e02e13de7b8662b085b0885ffefab67616d00001e02ff5429125128b43572dbdccd" alt="" width="50" /> | 16 | [R&B](../../playlists/r_b/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e02527d94ecf554774fc313bf48ab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 5 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 1 | [Pop](../../playlists/pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e023317fc12f8b9a9a0b8459766ab67616d00001e0263e0ddbb488d0eeec0e738fcab67616d00001e0284095737f6056e682666d6f9ab67616d00001e02f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | [Not K-Pop](../../playlists/not_k-pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e022a8b6ce34511614c9373f423ab67616d00001e022bf585fa65e5608b365f4909ab67616d00001e02597905f8f46dfc60f5a6d11fab67616d00001e02660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | 1 | [Disney](../../playlists/disney/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e027cdb143bd2e9906d39c5eb04ab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
-
 ## Top Albums
+
+
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -36,6 +27,17 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e8e488284a2cf00a613c0a1" alt="" width="50" /> | 1 | 1 | Music From The Motion Picture Cadillac Records | 2008-11-28 | [🔗](https://open.spotify.com/album/4b2zuwf7CPesdiTg1kFDjU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb04fff9fd19fd8f65b86e1" alt="" width="50" /> | 1 | 0 | The Lion King (Original Motion Picture Soundtrack) | 2019-07-11 | [🔗](https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="" width="50" /> | 1 | 0 | BEYONCÉ [Platinum Edition] | 2014-11-24 | [🔗](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) |
+
+## Featured on Playlists
+| Art | Tracks | Playlist |
+|:---|---:|:---|
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0245680a4a57c97894490a01c1ab67616d00001e0289992f4d7d4ab94937bf9e23ab67616d00001e02e13de7b8662b085b0885ffefab67616d00001e02ff5429125128b43572dbdccd" alt="" width="50" /> | 16 | [R&B](../../playlists/r_b/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e02527d94ecf554774fc313bf48ab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 5 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 1 | [Pop](../../playlists/pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e023317fc12f8b9a9a0b8459766ab67616d00001e0263e0ddbb488d0eeec0e738fcab67616d00001e0284095737f6056e682666d6f9ab67616d00001e02f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | [Not K-Pop](../../playlists/not_k-pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022a8b6ce34511614c9373f423ab67616d00001e022bf585fa65e5608b365f4909ab67616d00001e02597905f8f46dfc60f5a6d11fab67616d00001e02660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | 1 | [Disney](../../playlists/disney/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e027cdb143bd2e9906d39c5eb04ab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 1 | [Karaoke](../../playlists/karaoke/overview.md) |
 
 ## Top Record Labels
 
@@ -165,16 +167,16 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Crazy In Love (feat. Jay-Z) | Dangerously In Love | [Beyoncé](overview.md), JAY-Z | [Columbia](../../labels/columbia) | 861 | 💚 | [🔗](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Naughty Girl | Dangerously In Love | [Beyoncé](overview.md) | [Columbia](../../labels/columbia) | 861 | 💚 | [🔗](https://open.spotify.com/track/0YGQ3hZcRLC5YX7o0hdmHg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | Irreplaceable | B'Day Deluxe Edition | [Beyoncé](overview.md) | [Columbia](../../labels/columbia) | 861 | | [🔗](https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | Listen (From the Motion Picture "Dreamgirls") | B'Day Deluxe Edition | [Beyoncé](overview.md) | [Columbia](../../labels/columbia) | 861 | 💚 | [🔗](https://open.spotify.com/track/4z7Ja0RNran3XpIvc1PIQz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | Ave Maria | I AM...SASHA FIERCE | [Beyoncé](overview.md) | [Music World Music/Columbia](../../labels/columbia) | 861 | | [🔗](https://open.spotify.com/track/1j9HwUMSkRUeVFRWlHcFsy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | Halo | I AM...SASHA FIERCE | [Beyoncé](overview.md) | [Music World Music/Columbia](../../labels/columbia) | 861 | 💚 | [🔗](https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | If I Were a Boy | I AM...SASHA FIERCE | [Beyoncé](overview.md) | [Music World Music/Columbia](../../labels/columbia) | 861 | 💚 | [🔗](https://open.spotify.com/track/26NX1wPt1TRCH536yocd6i) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | Sweet Dreams | I AM...SASHA FIERCE | [Beyoncé](overview.md) | [Music World Music/Columbia](../../labels/columbia) | 861 | | [🔗](https://open.spotify.com/track/1FKxKGONukVFXWVJxAKmlz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734e8e488284a2cf00a613c0a1" alt="" width="50" /> | I'd Rather Go Blind | Music From The Motion Picture Cadillac Records | [Beyoncé](overview.md) | [Music World Music/Columbia](../../labels/columbia) | 861 | 💚 | [🔗](https://open.spotify.com/track/45eZSR0jA15KPI2HXVSifw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | Telephone | The Fame Monster (Deluxe Edition) | [Lady Gaga](../lady_gaga/overview.md), [Beyoncé](overview.md) | [Interscope](../../labels/interscope_records) | 861 | 💚 | [🔗](https://open.spotify.com/track/4TCL0qqKyqsMZml0G3M9IM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Crazy In Love (feat. Jay-Z) | Dangerously In Love | [Beyoncé](overview.md), JAY-Z | [Columbia](../../labels/columbia) | 864 | 💚 | [🔗](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1" alt="" width="50" /> | Naughty Girl | Dangerously In Love | [Beyoncé](overview.md) | [Columbia](../../labels/columbia) | 864 | 💚 | [🔗](https://open.spotify.com/track/0YGQ3hZcRLC5YX7o0hdmHg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | Irreplaceable | B'Day Deluxe Edition | [Beyoncé](overview.md) | [Columbia](../../labels/columbia) | 864 | | [🔗](https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273026e88f624dfb96f2e1ef10b" alt="" width="50" /> | Listen (From the Motion Picture "Dreamgirls") | B'Day Deluxe Edition | [Beyoncé](overview.md) | [Columbia](../../labels/columbia) | 864 | 💚 | [🔗](https://open.spotify.com/track/4z7Ja0RNran3XpIvc1PIQz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | Ave Maria | I AM...SASHA FIERCE | [Beyoncé](overview.md) | [Music World Music/Columbia](../../labels/columbia) | 864 | | [🔗](https://open.spotify.com/track/1j9HwUMSkRUeVFRWlHcFsy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | Halo | I AM...SASHA FIERCE | [Beyoncé](overview.md) | [Music World Music/Columbia](../../labels/columbia) | 864 | 💚 | [🔗](https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | If I Were a Boy | I AM...SASHA FIERCE | [Beyoncé](overview.md) | [Music World Music/Columbia](../../labels/columbia) | 864 | 💚 | [🔗](https://open.spotify.com/track/26NX1wPt1TRCH536yocd6i) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="" width="50" /> | Sweet Dreams | I AM...SASHA FIERCE | [Beyoncé](overview.md) | [Music World Music/Columbia](../../labels/columbia) | 864 | | [🔗](https://open.spotify.com/track/1FKxKGONukVFXWVJxAKmlz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734e8e488284a2cf00a613c0a1" alt="" width="50" /> | I'd Rather Go Blind | Music From The Motion Picture Cadillac Records | [Beyoncé](overview.md) | [Music World Music/Columbia](../../labels/columbia) | 864 | 💚 | [🔗](https://open.spotify.com/track/45eZSR0jA15KPI2HXVSifw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | Telephone | The Fame Monster (Deluxe Edition) | [Lady Gaga](../lady_gaga/overview.md), [Beyoncé](overview.md) | [Interscope](../../labels/interscope_records) | 864 | 💚 | [🔗](https://open.spotify.com/track/4TCL0qqKyqsMZml0G3M9IM) |
 
 
 <details>
@@ -182,14 +184,14 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | Best Thing I Never Had | 4 | [Beyoncé](overview.md) | [Parkwood Entertainment/Columbia](../../labels/columbia) | 861 | | [🔗](https://open.spotify.com/track/3lBRNqXjPp2j3JMTCXDTNO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | Countdown | 4 | [Beyoncé](overview.md) | [Parkwood Entertainment/Columbia](../../labels/columbia) | 861 | 💚 | [🔗](https://open.spotify.com/track/3axkNosdVQLZiq1HakuGhc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | I Was Here | 4 | [Beyoncé](overview.md) | [Parkwood Entertainment/Columbia](../../labels/columbia) | 861 | 💚 | [🔗](https://open.spotify.com/track/64Tp4KN5U5rtqrasP5a7FH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | Love On Top | 4 | [Beyoncé](overview.md) | [Parkwood Entertainment/Columbia](../../labels/columbia) | 861 | 💚 | [🔗](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="" width="50" /> | Partition | BEYONCÉ [Platinum Edition] | [Beyoncé](overview.md) | [Parkwood Entertainment/Columbia](../../labels/columbia) | 861 | | [🔗](https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | Daddy Lessons | Lemonade | [Beyoncé](overview.md) | [Parkwood Entertainment/Columbia](../../labels/columbia) | 861 | 💚 | [🔗](https://open.spotify.com/track/71OvX5NNLrmz7rpq1ANTQn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | Hold Up | Lemonade | [Beyoncé](overview.md) | [Parkwood Entertainment/Columbia](../../labels/columbia) | 861 | | [🔗](https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736eb04fff9fd19fd8f65b86e1" alt="" width="50" /> | Can You Feel the Love Tonight | The Lion King (Original Motion Picture Soundtrack) | [Beyoncé](overview.md), Childish Gambino, Billy Eichner, Seth Rogen | [Walt Disney Records](../../labels/walt_disney_records) | 861 | | [🔗](https://open.spotify.com/track/1zSKtBze2IReYU44W0lDzd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | Best Thing I Never Had | 4 | [Beyoncé](overview.md) | [Parkwood Entertainment/Columbia](../../labels/columbia) | 864 | | [🔗](https://open.spotify.com/track/3lBRNqXjPp2j3JMTCXDTNO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | Countdown | 4 | [Beyoncé](overview.md) | [Parkwood Entertainment/Columbia](../../labels/columbia) | 864 | 💚 | [🔗](https://open.spotify.com/track/3axkNosdVQLZiq1HakuGhc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | I Was Here | 4 | [Beyoncé](overview.md) | [Parkwood Entertainment/Columbia](../../labels/columbia) | 864 | 💚 | [🔗](https://open.spotify.com/track/64Tp4KN5U5rtqrasP5a7FH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd" alt="" width="50" /> | Love On Top | 4 | [Beyoncé](overview.md) | [Parkwood Entertainment/Columbia](../../labels/columbia) | 864 | 💚 | [🔗](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3" alt="" width="50" /> | Partition | BEYONCÉ [Platinum Edition] | [Beyoncé](overview.md) | [Parkwood Entertainment/Columbia](../../labels/columbia) | 864 | | [🔗](https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | Daddy Lessons | Lemonade | [Beyoncé](overview.md) | [Parkwood Entertainment/Columbia](../../labels/columbia) | 864 | 💚 | [🔗](https://open.spotify.com/track/71OvX5NNLrmz7rpq1ANTQn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23" alt="" width="50" /> | Hold Up | Lemonade | [Beyoncé](overview.md) | [Parkwood Entertainment/Columbia](../../labels/columbia) | 864 | | [🔗](https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736eb04fff9fd19fd8f65b86e1" alt="" width="50" /> | Can You Feel the Love Tonight | The Lion King (Original Motion Picture Soundtrack) | [Beyoncé](overview.md), Childish Gambino, Billy Eichner, Seth Rogen | [Walt Disney Records](../../labels/walt_disney_records) | 864 | | [🔗](https://open.spotify.com/track/1zSKtBze2IReYU44W0lDzd) |
 
 </details>
 

@@ -13,13 +13,9 @@ j-hope:
 - The #400 artist overall
 
 
-## Featured on Playlists
-| Art | Tracks | Playlist |
-|:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 6 | [K-Pop](../../playlists/k-pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e020b1cfc3df4d9d5d4cbce9208ab67616d00001e0210356a0e81371e6644cb1371ab67616d00001e02c08d5fa5c0f1a834acef5100ab67616d00001e02c450c89d3eb750d3535b0a0c" alt="" width="50" /> | 1 | [Hip Hop](../../playlists/hip_hop/overview.md) |
-
 ## Top Albums
+
+
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -27,6 +23,12 @@ j-hope:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="" width="50" /> | 1 | 1 | on the street (with J. Cole) | 2023-03-03 | [🔗](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cb80f5ee50364e3a1691477d" alt="" width="50" /> | 1 | 1 | Rush Hour | 2022-09-22 | [🔗](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | 1 | 1 | Chicken Noodle Soup (feat. Becky G) | 2019-09-27 | [🔗](https://open.spotify.com/album/76IRLp7YzBVLKsat6Ro9ae) |
+
+## Featured on Playlists
+| Art | Tracks | Playlist |
+|:---|---:|:---|
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 6 | [K-Pop](../../playlists/k-pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e020b1cfc3df4d9d5d4cbce9208ab67616d00001e0210356a0e81371e6644cb1371ab67616d00001e02c08d5fa5c0f1a834acef5100ab67616d00001e02c450c89d3eb750d3535b0a0c" alt="" width="50" /> | 1 | [Hip Hop](../../playlists/hip_hop/overview.md) |
 
 ## Top Record Labels
 
@@ -63,9 +65,9 @@ j-hope:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | [j-hope](overview.md), Becky G | [BIGHIT MUSIC / HYBE](../../labels/bighit_music) | 861 | 💚 | [🔗](https://open.spotify.com/track/6wyr4ReB05D9sJB1Rsmcqo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | = (Equal Sign) | Jack In The Box | [j-hope](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 861 | 💚 | [🔗](https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | MORE | Jack In The Box | [j-hope](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 861 | 💚 | [🔗](https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | Pandora's Box | Jack In The Box | [j-hope](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 861 | 💚 | [🔗](https://open.spotify.com/track/2On611HXKQAbaYkuc4NQAm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cb80f5ee50364e3a1691477d" alt="" width="50" /> | Rush Hour (Feat. j-hope of BTS) | Rush Hour | [Crush](../crush/overview.md), [j-hope](overview.md) | 피네이션 | 861 | 💚 | [🔗](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="" width="50" /> | on the street (with J. Cole) | on the street (with J. Cole) | [j-hope](overview.md), J. Cole | [BIGHIT MUSIC](../../labels/bighit_music) | 861 | 💚 | [🔗](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | [j-hope](overview.md), Becky G | [BIGHIT MUSIC / HYBE](../../labels/bighit_music) | 864 | 💚 | [🔗](https://open.spotify.com/track/6wyr4ReB05D9sJB1Rsmcqo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | = (Equal Sign) | Jack In The Box | [j-hope](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 864 | 💚 | [🔗](https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | MORE | Jack In The Box | [j-hope](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 864 | 💚 | [🔗](https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce5bba40b16f887e0461c6e2" alt="" width="50" /> | Pandora's Box | Jack In The Box | [j-hope](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 864 | 💚 | [🔗](https://open.spotify.com/track/2On611HXKQAbaYkuc4NQAm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cb80f5ee50364e3a1691477d" alt="" width="50" /> | Rush Hour (Feat. j-hope of BTS) | Rush Hour | [Crush](../crush/overview.md), [j-hope](overview.md) | 피네이션 | 864 | 💚 | [🔗](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e8286ff63f7efce1881a02b" alt="" width="50" /> | on the street (with J. Cole) | on the street (with J. Cole) | [j-hope](overview.md), J. Cole | [BIGHIT MUSIC](../../labels/bighit_music) | 864 | 💚 | [🔗](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) |

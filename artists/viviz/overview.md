@@ -12,7 +12,7 @@ VIVIZ:
 - has member 엄지 (Umji)
 
 ## Artist Rank
-- The #183 artist overall
+- The #184 artist overall
 
 ![Rank of VIVIZ over time](../../images/artists/viviz/rank_time_series.png)
 ## Top Tracks
@@ -21,13 +21,9 @@ VIVIZ:
 ### Top tracks, aggregated
 
 ![Track score ranking over time](../../images/artists/viviz/track_rank_time_series_score.png)
-## Featured on Playlists
-| Art | Tracks | Playlist |
-|:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 5 | [K-Pop](../../playlists/k-pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e020f7e2aa2f1d7ea0fd2e206c0ab67616d00001e0216aaf05fe82237576a7d0e38ab67616d00001e0220112a0321d2efc7384db456ab67616d00001e02f93159d78849714fcf118bb3" alt="" width="50" /> | 1 | [Funk](../../playlists/funk/overview.md) |
-
 ## Top Albums
+
+![Album ranking over time](../../images/artists/viviz/album_rank_time_series.png)
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -35,6 +31,12 @@ VIVIZ:
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d9c2a11edd1a7efcd73f0d1" alt="" width="50" /> | 1 | 1 | The 3rd Mini Album 'VarioUS' | 2023-01-31 | [🔗](https://open.spotify.com/album/2XZJWoPAW0Ah1msTIFXFSt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f24273de181c40800f143742" alt="" width="50" /> | 1 | 1 | The 1st Mini Album 'Beam Of Prism' | 2022-02-09 | [🔗](https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb8691877aed9576018d2c1b" alt="" width="50" /> | 1 | 1 | Rum Pum Pum | 2022-10-27 | [🔗](https://open.spotify.com/album/1OeKgT4UKXTfZ5cDIs0HsZ) |
+
+## Featured on Playlists
+| Art | Tracks | Playlist |
+|:---|---:|:---|
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 5 | [K-Pop](../../playlists/k-pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e020f7e2aa2f1d7ea0fd2e206c0ab67616d00001e0216aaf05fe82237576a7d0e38ab67616d00001e0220112a0321d2efc7384db456ab67616d00001e02f93159d78849714fcf118bb3" alt="" width="50" /> | 1 | [Funk](../../playlists/funk/overview.md) |
 
 ## Top Record Labels
 
@@ -65,7 +67,7 @@ VIVIZ:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273047aaa5b1361b255b255e41d" alt="" width="50" /> | Untie | The 4th Mini Album 'VERSUS' | [VIVIZ](overview.md) | BIGPLANETMADE | 351 | 💚 | [🔗](https://open.spotify.com/track/2tEuf4YE9NbDO39DI35QZd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273047aaa5b1361b255b255e41d" alt="" width="50" /> | MANIAC | The 4th Mini Album 'VERSUS' | [VIVIZ](overview.md) | BIGPLANETMADE | 488 | 💚 | [🔗](https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f24273de181c40800f143742" alt="" width="50" /> | BOP BOP! | The 1st Mini Album 'Beam Of Prism' | [VIVIZ](overview.md) | BIGPLANETMADE, SWING ENTERTAINMENT | 861 | 💚 | [🔗](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb8691877aed9576018d2c1b" alt="" width="50" /> | Rum Pum Pum | Rum Pum Pum | [VIVIZ](overview.md) | Klap | 861 | 💚 | [🔗](https://open.spotify.com/track/0orUoBenQ9Cwx26z4I4RAT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730d9c2a11edd1a7efcd73f0d1" alt="" width="50" /> | PULL UP | The 3rd Mini Album 'VarioUS' | [VIVIZ](overview.md) | BIGPLANETMADE, SWING ENTERTAINMENT | 861 | 💚 | [🔗](https://open.spotify.com/track/4Jmrkz9hytD3jaLDkZ7Qvc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273047aaa5b1361b255b255e41d" alt="" width="50" /> | MANIAC | The 4th Mini Album 'VERSUS' | [VIVIZ](overview.md) | BIGPLANETMADE | 490 | 💚 | [🔗](https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f24273de181c40800f143742" alt="" width="50" /> | BOP BOP! | The 1st Mini Album 'Beam Of Prism' | [VIVIZ](overview.md) | BIGPLANETMADE, SWING ENTERTAINMENT | 864 | 💚 | [🔗](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb8691877aed9576018d2c1b" alt="" width="50" /> | Rum Pum Pum | Rum Pum Pum | [VIVIZ](overview.md) | Klap | 864 | 💚 | [🔗](https://open.spotify.com/track/0orUoBenQ9Cwx26z4I4RAT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d9c2a11edd1a7efcd73f0d1" alt="" width="50" /> | PULL UP | The 3rd Mini Album 'VarioUS' | [VIVIZ](overview.md) | BIGPLANETMADE, SWING ENTERTAINMENT | 864 | 💚 | [🔗](https://open.spotify.com/track/4Jmrkz9hytD3jaLDkZ7Qvc) |

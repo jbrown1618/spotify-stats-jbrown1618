@@ -33,13 +33,9 @@ The Who:
 ### Top tracks, aggregated
 
 ![Track score ranking over time](../../images/artists/the_who/track_rank_time_series_score.png)
-## Featured on Playlists
-| Art | Tracks | Playlist |
-|:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e020b51f8d91f3a21e8426361aeab67616d00001e0284243a01af3c77b56fe01ab1ab67616d00001e028cffbbb7fe8645a486a85ea9ab67616d00001e02bbf0146981704a073405b6c2" alt="" width="50" /> | 6 | [Classic Rock](../../playlists/classic_rock/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
-
 ## Top Albums
+
+![Album ranking over time](../../images/artists/the_who/album_rank_time_series.png)
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -48,6 +44,12 @@ The Who:
 | <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="" width="50" /> | 1 | 1 | Who Are You | 1978-08-18 | [🔗](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27374ecb94bc3e5d851a39a0334" alt="" width="50" /> | 1 | 1 | Tommy | 1969-05-23 | [🔗](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="" width="50" /> | 1 | 1 | My Generation (Stereo Version) | 1965-12-03 | [🔗](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) |
+
+## Featured on Playlists
+| Art | Tracks | Playlist |
+|:---|---:|:---|
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e020b51f8d91f3a21e8426361aeab67616d00001e0284243a01af3c77b56fe01ab1ab67616d00001e028cffbbb7fe8645a486a85ea9ab67616d00001e02bbf0146981704a073405b6c2" alt="" width="50" /> | 6 | [Classic Rock](../../playlists/classic_rock/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
 
 ## Top Record Labels
 
@@ -110,9 +112,9 @@ The Who:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="" width="50" /> | Who Are You | Who Are You | [The Who](overview.md) | [Geffen](../../labels/geffen) | 574 | 💚 | [🔗](https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="" width="50" /> | My Generation - Stereo Version | My Generation (Stereo Version) | [The Who](overview.md) | [Geffen](../../labels/geffen) | 861 | 💚 | [🔗](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27374ecb94bc3e5d851a39a0334" alt="" width="50" /> | Pinball Wizard | Tommy | [The Who](overview.md) | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)) | 861 | 💚 | [🔗](https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | Baba O'Riley | Who's Next (Deluxe Edition) | [The Who](overview.md) | [Polydor Records](../../labels/polydor_records) | 861 | 💚 | [🔗](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | Behind Blue Eyes | Who's Next (Deluxe Edition) | [The Who](overview.md) | [Polydor Records](../../labels/polydor_records) | 861 | 💚 | [🔗](https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732d3eda886f81a2bad9274f02" alt="" width="50" /> | Won't Get Fooled Again - Remix | Who's Next (Expanded Edition) | [The Who](overview.md) | [Geffen*](../../labels/geffen) | 861 | 💚 | [🔗](https://open.spotify.com/track/1W1GpfPujmgp2vQqcpUhtU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="" width="50" /> | Who Are You | Who Are You | [The Who](overview.md) | [Geffen](../../labels/geffen) | 573 | 💚 | [🔗](https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="" width="50" /> | My Generation - Stereo Version | My Generation (Stereo Version) | [The Who](overview.md) | [Geffen](../../labels/geffen) | 864 | 💚 | [🔗](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27374ecb94bc3e5d851a39a0334" alt="" width="50" /> | Pinball Wizard | Tommy | [The Who](overview.md) | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)) | 864 | 💚 | [🔗](https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | Baba O'Riley | Who's Next (Deluxe Edition) | [The Who](overview.md) | [Polydor Records](../../labels/polydor_records) | 864 | 💚 | [🔗](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | Behind Blue Eyes | Who's Next (Deluxe Edition) | [The Who](overview.md) | [Polydor Records](../../labels/polydor_records) | 864 | 💚 | [🔗](https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d3eda886f81a2bad9274f02" alt="" width="50" /> | Won't Get Fooled Again - Remix | Who's Next (Expanded Edition) | [The Who](overview.md) | [Geffen*](../../labels/geffen) | 864 | 💚 | [🔗](https://open.spotify.com/track/1W1GpfPujmgp2vQqcpUhtU) |

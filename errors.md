@@ -2,10 +2,7 @@
 
 ## Duplicate tracks
 
-| Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
-|:---|---:|:---|:---|:---|---:|:---|:---|:---|
-| this is what falling in love feels like [🔗](https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL) | 73 | 2022-09-23 | JVKE [🔗](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | this is what ____ feels like (Vol. 1-4) [🔗](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 75 | Not K-Pop [🔗](https://open.spotify.com/playlist/5ELtUGtTCv5PkLW7qFcEuk),<br>Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | JVKE | 💚 |
-| this is what falling in love feels like [🔗](https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx) | 0 | 2021-09-03 | JVKE [🔗](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | this is what falling in love feels like [🔗](https://open.spotify.com/album/61haUqRaA5Et20JVbArrmU) | 0 | Pop [🔗](https://open.spotify.com/playlist/1WZ2RqQv2SPX5uzmjWhgSh) | JVKE | |
+None
 
 ## Duplicate albums
 
@@ -56,8 +53,6 @@
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 77 |
 | Cosmic | Cosmic | Red Velvet | 0 | 0 | 69 |
 | Love Arcade | Cosmic | Red Velvet | 0 | 0 | 69 |
-| Bubble | Cosmic | Red Velvet | 0 | 0 | 69 |
-| Night Drive | Cosmic | Red Velvet | 0 | 0 | 69 |
 | Last Drop | Cosmic | Red Velvet | 0 | 0 | 69 |
 | Sunflower | Cosmic | Red Velvet | 0 | 0 | 69 |
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 51 |
@@ -70,7 +65,6 @@
 | Sleep-walking | Prequel | Dreamcatcher | 1 | 2 | 57 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 58 |
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 67 |
-| Lone Digger | <|º_º|> | Caravan Palace | 2 | 2 | 60 |
 | Joker | Joker is Alive | Dalshabet | 1 | 0 | 30 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 0 | 0 | 71 |
 | Nothing Else Matters | Metallica | Metallica | 1 | 2 | 81 |
@@ -82,7 +76,7 @@
 | I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 37 |
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 37 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 64 |
-| Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 30 |
+| Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 31 |
 | The Trooper - 2015 Remaster | Piece of Mind (2015 - Remaster) | Iron Maiden | 2 | 1 | 71 |
 | Drink It | Drink It | THE BOYZ | 0 | 0 | 57 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 50 |
@@ -100,7 +94,7 @@
 | Sorry | Sorry | The Rose | 0 | 0 | 62 |
 | Pokerap | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 53 |
 | Pokemon Theme | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 53 |
-| Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 51 |
+| Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 52 |
 | The Legend Of Zelda: Twilight Princess - Midna's Desperate Hour | Piano/Instrumental Works: Video Game Themes - Volume I | Michael Tai | 0 | 0 | 39 |
 | Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | 0 | 0 | 55 |
 | Just The Way You Are | Little Love - EP | James Smith | 0 | 0 | 51 |
@@ -110,7 +104,6 @@
 | Timshel | Sigh No More | Mumford & Sons | 0 | 1 | 70 |
 | Little Lion Man | Sigh No More | Mumford & Sons | 1 | 1 | 70 |
 | The Cave | Sigh No More | Mumford & Sons | 0 | 1 | 70 |
-| this is what falling in love feels like | this is what falling in love feels like | JVKE | 0 | 0 | 75 |
 | Star | [12:00] | LOONA | 1 | 2 | 54 |
 | Why Not? | [12:00] | LOONA | 2 | 2 | 54 |
 | Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 54 |
@@ -124,7 +117,7 @@
 | If You Do | MAD | GOT7 | 0 | 0 | 58 |
 | You Calling My Name | Call My Name | GOT7 | 0 | 0 | 58 |
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 25 |
-| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 74 |
+| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 75 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 78 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 58 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 60 |
@@ -159,7 +152,7 @@
 | Call Me Mother | American | RuPaul | 0 | 0 | 56 |
 | Lose | Love Synonym #2 : Right for Us | WONHO | 0 | 0 | 42 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 66 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 40 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 41 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 55 |
 | Toy | Toy | Netta | 2 | 0 | 48 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 44 |

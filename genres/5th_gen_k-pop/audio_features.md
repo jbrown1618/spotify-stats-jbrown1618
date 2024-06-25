@@ -26,7 +26,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="Born to be XX" width="50" /> | Gentleman (0.941) | <img src="https://i.scdn.co/image/ab67616d0000b2731ccae05cfc0a4def5804bb60" alt="perfect blues" width="50" /> | OLeander (0.382) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273992cdb975f91efd91b998628" alt="8TURNRISE" width="50" /> | TIC TAC (0.937) | <img src="https://i.scdn.co/image/ab67616d0000b2731ccae05cfc0a4def5804bb60" alt="perfect blues" width="50" /> | perfect blues (0.432) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733eaf9b3c1c804fec2bb06ac0" alt="&lt;Dall&gt;" width="50" /> | Virtual Angel (0.931) | <img src="https://i.scdn.co/image/ab67616d0000b2734f6afc385052250c766a5683" alt="BABYMONS7ER" width="50" /> | LIKE THAT (0.5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f42a976b1e82a3247873f929" alt="Borderline" width="50" /> | Rooftop (0.922) | <img src="https://i.scdn.co/image/ab67616d0000b273c7dc72f7af6740281a52428f" alt="Howl" width="50" /> | Underwater (0.566) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f42a976b1e82a3247873f929" alt="Borderline" width="50" /> | Rooftop (0.922) | <img src="https://i.scdn.co/image/ab67616d0000b27373ac78b51d85f57bb40f8251" alt="Howl" width="50" /> | Underwater (0.566) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273569689ef998a192f7809467a" alt="Target: ME" width="50" /> | TROUBLE (0.903) | <img src="https://i.scdn.co/image/ab67616d0000b2738b2347cfc60cddd4836e5e01" alt="Talk Saxy" width="50" /> | Talk Saxy (0.585) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273689de2fa15801f97d714522e" alt="SELFISH" width="50" /> | Selfish (0.903) | <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="SUPER REAL ME" width="50" /> | My World (0.592) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27307568782625b85282541394b" alt="Midas Touch" width="50" /> | Midas Touch (0.9) | <img src="https://i.scdn.co/image/ab67616d0000b2734ad3417e5036ba928bb5ce8b" alt="THE UNSEEN" width="50" /> | Love Me A Little (0.609) |
@@ -47,7 +47,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f42a976b1e82a3247873f929" alt="Borderline" width="50" /> | Rooftop (0.179) | <img src="https://i.scdn.co/image/ab67616d0000b2738b2347cfc60cddd4836e5e01" alt="Talk Saxy" width="50" /> | Talk Saxy (0.0385) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273689de2fa15801f97d714522e" alt="SELFISH" width="50" /> | Selfish (0.178) | <img src="https://i.scdn.co/image/ab67616d0000b2731ccae05cfc0a4def5804bb60" alt="perfect blues" width="50" /> | perfect blues (0.0485) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734f6afc385052250c766a5683" alt="BABYMONS7ER" width="50" /> | SHEESH (0.169) | <img src="https://i.scdn.co/image/ab67616d0000b273c78e5431a308893318b115dd" alt="One Of A Kind" width="50" /> | Boomerang (0.0496) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7dc72f7af6740281a52428f" alt="Howl" width="50" /> | Underwater (0.165) | <img src="https://i.scdn.co/image/ab67616d0000b2738cab1c75d2271af37c3e2db9" alt="First Howling : ME" width="50" /> | Scent of you (0.05) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27373ac78b51d85f57bb40f8251" alt="Howl" width="50" /> | Underwater (0.165) | <img src="https://i.scdn.co/image/ab67616d0000b2738cab1c75d2271af37c3e2db9" alt="First Howling : ME" width="50" /> | Scent of you (0.05) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" alt="SUPER REAL ME" width="50" /> | My World (0.155) | <img src="https://i.scdn.co/image/ab67616d0000b2731ccae05cfc0a4def5804bb60" alt="perfect blues" width="50" /> | OLeander (0.0507) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273662be38ecc5e14742193b653" alt="Movie Star" width="50" /> | Movie Star (0.135) | <img src="https://i.scdn.co/image/ab67616d0000b273849a155d7c0b67638c0a1a8a" alt="Bon Voyage" width="50" /> | Bon voyage (0.0509) |
 
@@ -58,7 +58,7 @@
 | ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2731ccae05cfc0a4def5804bb60" alt="perfect blues" width="50" /> | OLeander (0.831) | <img src="https://i.scdn.co/image/ab67616d0000b2734d4c3b0dc9e24e3beb94325e" alt="RIIZING" width="50" /> | Siren (0.00103) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7dc72f7af6740281a52428f" alt="Howl" width="50" /> | Underwater (0.535) | <img src="https://i.scdn.co/image/ab67616d0000b2734d4c3b0dc9e24e3beb94325e" alt="RIIZING" width="50" /> | Impossible (0.00528) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27373ac78b51d85f57bb40f8251" alt="Howl" width="50" /> | Underwater (0.535) | <img src="https://i.scdn.co/image/ab67616d0000b2734d4c3b0dc9e24e3beb94325e" alt="RIIZING" width="50" /> | Impossible (0.00528) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731ccae05cfc0a4def5804bb60" alt="perfect blues" width="50" /> | perfect blues (0.533) | <img src="https://i.scdn.co/image/ab67616d0000b27369ad639dd6829cb2414a53f9" alt="RIIZING - The 1st Mini Album" width="50" /> | Boom Boom Bass (0.0194) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273689de2fa15801f97d714522e" alt="SELFISH" width="50" /> | Selfish (0.403) | <img src="https://i.scdn.co/image/ab67616d0000b273569689ef998a192f7809467a" alt="Target: ME" width="50" /> | TROUBLE (0.0194) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733eaf9b3c1c804fec2bb06ac0" alt="&lt;Dall&gt;" width="50" /> | Virtual Angel (0.353) | <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="Born to be XX" width="50" /> | My 808 (0.0322) |
@@ -108,7 +108,7 @@
 
 | ​ | 10 most Happy tracks | ​​ | 10 least Happy tracks |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273689de2fa15801f97d714522e" alt="SELFISH" width="50" /> | Selfish (0.955) | <img src="https://i.scdn.co/image/ab67616d0000b273c7dc72f7af6740281a52428f" alt="Howl" width="50" /> | Underwater (0.188) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273689de2fa15801f97d714522e" alt="SELFISH" width="50" /> | Selfish (0.955) | <img src="https://i.scdn.co/image/ab67616d0000b27373ac78b51d85f57bb40f8251" alt="Howl" width="50" /> | Underwater (0.188) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="Born to be XX" width="50" /> | Gentleman (0.939) | <img src="https://i.scdn.co/image/ab67616d0000b2731ccae05cfc0a4def5804bb60" alt="perfect blues" width="50" /> | OLeander (0.189) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="Born to be XX" width="50" /> | Nobody Knows (0.927) | <img src="https://i.scdn.co/image/ab67616d0000b273849a155d7c0b67638c0a1a8a" alt="Bon Voyage" width="50" /> | Bon voyage (0.273) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27308f9aed64208e0f8d9e10f0e" alt="Get A Guitar" width="50" /> | Get A Guitar (0.895) | <img src="https://i.scdn.co/image/ab67616d0000b273679d960f68492932541a032e" alt="MELTING POINT" width="50" /> | CRUSH (0.274) |

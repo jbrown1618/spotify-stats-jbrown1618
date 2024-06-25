@@ -18,16 +18,9 @@
 ### Top tracks, aggregated
 
 ![Track score ranking over time](../../images/artists/lana_del_rey/track_rank_time_series_score.png)
-## Featured on Playlists
-| Art | Tracks | Playlist |
-|:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e020e402844f1b6be3102d339f2ab67616d00001e02119ad2ebc0d33edf847ed8c6ab67616d00001e021946747b8692919f98918ec4" alt="" width="50" /> | 18 | [Singer-Songwriter](../../playlists/singer-songwriter/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e0298d4c378a8c78e84bfcf7743ab67616d00001e02b0ed835957dbf3c63184a3bcab67616d00001e02ca96a3471c3cb5128e64195fab67616d00001e02f6749fd9a1027b244f061e87" alt="" width="50" /> | 17 | [Alt-Pop](../../playlists/alt-pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e02527d94ecf554774fc313bf48ab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 2 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 1 | [Pop](../../playlists/pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e022c0252c4e4a988f024e4d262ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 1 | [Chill](../../playlists/chill/overview.md) |
-
 ## Top Albums
+
+![Album ranking over time](../../images/artists/lana_del_rey/album_rank_time_series.png)
 
 | Art | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|:---|:---|:---|
@@ -40,6 +33,15 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="50" /> | 1 | 0 | Young And Beautiful | 2013-01-01 | [🔗](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a" alt="" width="50" /> | 1 | 0 | Honeymoon | 2015-09-18 | [🔗](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c891137d2513ecd496e9152e" alt="" width="50" /> | 1 | 0 | Charlie's Angels (Original Motion Picture Soundtrack) | 2019-11-01 | [🔗](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) |
+
+## Featured on Playlists
+| Art | Tracks | Playlist |
+|:---|---:|:---|
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e020e402844f1b6be3102d339f2ab67616d00001e02119ad2ebc0d33edf847ed8c6ab67616d00001e021946747b8692919f98918ec4" alt="" width="50" /> | 18 | [Singer-Songwriter](../../playlists/singer-songwriter/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0298d4c378a8c78e84bfcf7743ab67616d00001e02b0ed835957dbf3c63184a3bcab67616d00001e02ca96a3471c3cb5128e64195fab67616d00001e02f6749fd9a1027b244f061e87" alt="" width="50" /> | 17 | [Alt-Pop](../../playlists/alt-pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02022b4010e20659300f42c375ab67616d00001e02527d94ecf554774fc313bf48ab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02d0ec2db731952a7efabc6397" alt="" width="50" /> | 2 | [A-Pop Favorites](../../playlists/a-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0241aa6776dc15fbd71a2b4557ab67616d00001e029b9a3105ad4ffb91ad2e2798ab67616d00001e029dbb37516ff4b03244808e45ab67616d00001e02d6ec808748fa5b0c2d3a6618" alt="" width="50" /> | 1 | [Pop](../../playlists/pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022c0252c4e4a988f024e4d262ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 1 | [Chill](../../playlists/chill/overview.md) |
 
 ## Top Record Labels
 
@@ -129,15 +131,15 @@
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | Shades Of Cool | Ultraviolence (Deluxe) | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 409 | 💚 | [🔗](https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Off To The Races | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 447 | 💚 | [🔗](https://open.spotify.com/track/7grzMnF1FHponm2aJBWj8E) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Summertime Sadness | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 479 | 💚 | [🔗](https://open.spotify.com/track/4cKtn8Shw999egpwBmWQmp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Born To Die | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 861 | 💚 | [🔗](https://open.spotify.com/track/3eRZZ4d2RJSqFKzP7tSdFE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Dark Paradise | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 861 | 💚 | [🔗](https://open.spotify.com/track/0rbuGVyW18IpX0bhA3P4Oh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Radio | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 861 | 💚 | [🔗](https://open.spotify.com/track/45dAw6GXEsogcDF3NUgj3O) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Video Games | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 861 | 💚 | [🔗](https://open.spotify.com/track/5by7gtiDrxe4n2qQQunL8S) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a" alt="" width="50" /> | Bel Air | Paradise | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 861 | 💚 | [🔗](https://open.spotify.com/track/1OI3ZMcABE1U7hnhf9BENL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="50" /> | Young And Beautiful | Young And Beautiful | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 861 | | [🔗](https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | Brooklyn Baby | Ultraviolence (Deluxe) | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 861 | | [🔗](https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Off To The Races | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 448 | 💚 | [🔗](https://open.spotify.com/track/7grzMnF1FHponm2aJBWj8E) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Summertime Sadness | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 480 | 💚 | [🔗](https://open.spotify.com/track/4cKtn8Shw999egpwBmWQmp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Born To Die | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 864 | 💚 | [🔗](https://open.spotify.com/track/3eRZZ4d2RJSqFKzP7tSdFE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Dark Paradise | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 864 | 💚 | [🔗](https://open.spotify.com/track/0rbuGVyW18IpX0bhA3P4Oh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Radio | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 864 | 💚 | [🔗](https://open.spotify.com/track/45dAw6GXEsogcDF3NUgj3O) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Video Games | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 864 | 💚 | [🔗](https://open.spotify.com/track/5by7gtiDrxe4n2qQQunL8S) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a" alt="" width="50" /> | Bel Air | Paradise | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 864 | 💚 | [🔗](https://open.spotify.com/track/1OI3ZMcABE1U7hnhf9BENL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="50" /> | Young And Beautiful | Young And Beautiful | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 864 | | [🔗](https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | Brooklyn Baby | Ultraviolence (Deluxe) | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 864 | | [🔗](https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz) |
 
 
 <details>
@@ -145,15 +147,15 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | West Coast | Ultraviolence (Deluxe) | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 861 | | [🔗](https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a" alt="" width="50" /> | Swan Song | Honeymoon | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 861 | | [🔗](https://open.spotify.com/track/1DYRRZ5rSlc1PopnB7azLZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="" width="50" /> | Cherry | Lust For Life | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 861 | 💚 | [🔗](https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="" width="50" /> | Love | Lust For Life | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 861 | | [🔗](https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | Doin' Time | Norman Fucking Rockwell! | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 861 | | [🔗](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | Fuck it I love you | Norman Fucking Rockwell! | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 861 | | [🔗](https://open.spotify.com/track/7MtVPRGtZl6rPjMfLoI3Lh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | Norman fucking Rockwell | Norman Fucking Rockwell! | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 861 | | [🔗](https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c891137d2513ecd496e9152e" alt="" width="50" /> | Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey) | Charlie's Angels (Original Motion Picture Soundtrack) | [Ariana Grande](../ariana_grande/overview.md), Miley Cyrus, [Lana Del Rey](overview.md) | Silver Cloud/Charlie's Angels | 861 | | [🔗](https://open.spotify.com/track/6zegtH6XXd2PDPLvy1Y0n2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Snow On The Beach (feat. Lana Del Rey) | Midnights | [Taylor Swift](../taylor_swift/overview.md), [Lana Del Rey](overview.md) | [Taylor Swift](../../labels/taylor_swift) | 861 | 💚 | [🔗](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | West Coast | Ultraviolence (Deluxe) | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 864 | | [🔗](https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a" alt="" width="50" /> | Swan Song | Honeymoon | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 864 | | [🔗](https://open.spotify.com/track/1DYRRZ5rSlc1PopnB7azLZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="" width="50" /> | Cherry | Lust For Life | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 864 | 💚 | [🔗](https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="" width="50" /> | Love | Lust For Life | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 864 | | [🔗](https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | Doin' Time | Norman Fucking Rockwell! | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 864 | | [🔗](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | Fuck it I love you | Norman Fucking Rockwell! | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 864 | | [🔗](https://open.spotify.com/track/7MtVPRGtZl6rPjMfLoI3Lh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | Norman fucking Rockwell | Norman Fucking Rockwell! | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 864 | | [🔗](https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c891137d2513ecd496e9152e" alt="" width="50" /> | Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey) | Charlie's Angels (Original Motion Picture Soundtrack) | [Ariana Grande](../ariana_grande/overview.md), Miley Cyrus, [Lana Del Rey](overview.md) | Silver Cloud/Charlie's Angels | 864 | | [🔗](https://open.spotify.com/track/6zegtH6XXd2PDPLvy1Y0n2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | Snow On The Beach (feat. Lana Del Rey) | Midnights | [Taylor Swift](../taylor_swift/overview.md), [Lana Del Rey](overview.md) | [Taylor Swift](../../labels/taylor_swift) | 864 | 💚 | [🔗](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) |
 
 </details>
 
