@@ -7,24 +7,24 @@
 | Arranger | 1 |
 | Lyricist | 1 |
 | Producer | 2 |
-| Songwriter | 12 |
+| Songwriter | 13 |
 | Vocal | 2 |
 
 ## Produces for Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 11 | 11 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 12 | 12 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 
 ## Works with Producers
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Pdogg | [Pdogg](../pdogg/overview.md) | 9 |
+| Pdogg | [Pdogg](../pdogg/overview.md) | 10 |
+| 방시혁 | [방시혁 (Bang, Si-Hyuk)](../방시혁_(bang,_si-hyuk)/overview.md) | 7 |
 | SUGA | [SUGA](../suga/overview.md) | 6 |
-| 방시혁 | [방시혁 (Bang, Si-Hyuk)](../방시혁_(bang,_si-hyuk)/overview.md) | 6 |
-| j-hope | j-hope | 4 |
-| Supreme Boi | [Supreme Boi](../supreme_boi/overview.md) | 3 |
+| j-hope | j-hope | 5 |
+| Supreme Boi | [Supreme Boi](../supreme_boi/overview.md) | 4 |
 | Ali Tamposi | Ali Tamposi | 2 |
 | Jaycen Joshua | Jaycen Joshua | 2 |
 | Max Seaberg | Max Seaberg | 2 |
@@ -79,6 +79,7 @@
 | Art | Track | Credit Types |
 |:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Blood Sweat & Tears | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | MIC Drop | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | DNA | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Anpanman | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Airplane pt.2 | Songwriter |

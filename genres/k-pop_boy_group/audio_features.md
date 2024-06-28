@@ -65,8 +65,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="SKZ-REPLAY" width="50" /> | RUN (HAN) (0.703) | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="DIMENSION : DILEMMA" width="50" /> | Attention, please! (0.000483) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317477a7434c66ac5548b6ab7" alt="Brother Act." width="50" /> | Missing You (0.65) | <img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="SPIN OFF : FROM THE WITNESS" width="50" /> | HALAZIA (0.000677) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="Love Yourself 結 &#x27;Answer&#x27;" width="50" /> | Singularity (0.56) | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="BORDER : CARNIVAL" width="50" /> | Drunk-Dazed (0.000707) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ca74d3d623930d10f2c3c1f1" alt="NCT#127 LIMITLESS - The 2nd Mini Album" width="50" /> | Back 2 U (AM 01:27) (0.548) | <img src="https://i.scdn.co/image/ab67616d0000b2738d47b664117ca39e7b1acfc9" alt="NCT #127 CHERRY BOMB– The 3rd Mini Album" width="50" /> | Cherry Bomb (0.000759) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | 24 to 25 (0.533) | <img src="https://i.scdn.co/image/ab67616d0000b27325adc6ae87e26bc7e556af71" alt="Favorite - The 3rd Album Repackage" width="50" /> | Favorite (Vampire) (0.000831) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732bca95a658fdf653a35a3710" alt="ROCK-STAR" width="50" /> | Leave (0.553) | <img src="https://i.scdn.co/image/ab67616d0000b2738d47b664117ca39e7b1acfc9" alt="NCT #127 CHERRY BOMB– The 3rd Mini Album" width="50" /> | Cherry Bomb (0.000759) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ca74d3d623930d10f2c3c1f1" alt="NCT#127 LIMITLESS - The 2nd Mini Album" width="50" /> | Back 2 U (AM 01:27) (0.548) | <img src="https://i.scdn.co/image/ab67616d0000b27325adc6ae87e26bc7e556af71" alt="Favorite - The 3rd Album Repackage" width="50" /> | Favorite (Vampire) (0.000831) |
 
 ## Instrumentalness
 

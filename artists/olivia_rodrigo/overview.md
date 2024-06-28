@@ -5,7 +5,7 @@
 <img src="https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4" alt="Olivia Rodrigo" width="100" />
 
 ## Artist Rank
-- The #272 artist overall
+- The #273 artist overall
 
 ![Rank of Olivia Rodrigo over time](../../images/artists/olivia_rodrigo/rank_time_series.png)
 ## Top Tracks
@@ -99,8 +99,8 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" alt="" width="50" /> | vampire | GUTS | [Olivia Rodrigo](overview.md) | Olivia Rodrigo PS | 453 | 💚 | [🔗](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ffc294c1c4362e8472d14cd" alt="" width="50" /> | drivers license | drivers license | [Olivia Rodrigo](overview.md) | Olivia Rodrigo PS | 864 | 💚 | [🔗](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735a61e19eaffec620c1899c47" alt="" width="50" /> | deja vu | deja vu | [Olivia Rodrigo](overview.md) | Olivia Rodrigo PS | 864 | 💚 | [🔗](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273670ec029374e082f921f9f74" alt="" width="50" /> | good 4 u | good 4 u | [Olivia Rodrigo](overview.md) | Olivia Rodrigo PS | 864 | 💚 | [🔗](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734063d624ebf8ff67bc3701ee" alt="" width="50" /> | obsessed | GUTS (spilled) | [Olivia Rodrigo](overview.md) | Olivia Rodrigo PS | 864 | 💚 | [🔗](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" alt="" width="50" /> | vampire | GUTS | [Olivia Rodrigo](overview.md) | Olivia Rodrigo PS | 456 | 💚 | [🔗](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ffc294c1c4362e8472d14cd" alt="" width="50" /> | drivers license | drivers license | [Olivia Rodrigo](overview.md) | Olivia Rodrigo PS | 868 | 💚 | [🔗](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a61e19eaffec620c1899c47" alt="" width="50" /> | deja vu | deja vu | [Olivia Rodrigo](overview.md) | Olivia Rodrigo PS | 868 | 💚 | [🔗](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273670ec029374e082f921f9f74" alt="" width="50" /> | good 4 u | good 4 u | [Olivia Rodrigo](overview.md) | Olivia Rodrigo PS | 868 | 💚 | [🔗](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734063d624ebf8ff67bc3701ee" alt="" width="50" /> | obsessed | GUTS (spilled) | [Olivia Rodrigo](overview.md) | Olivia Rodrigo PS | 868 | 💚 | [🔗](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) |

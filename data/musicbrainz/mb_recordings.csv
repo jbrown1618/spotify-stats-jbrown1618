@@ -239,6 +239,7 @@ recording_mbid,recording_title,recording_language
 207484bc-0585-4202-bb94-78c1156278b6,MY BAG,
 208acc00-cd2e-4933-a58a-14b32d9aa503,Odd Eye,mul
 20919a48-4ad5-409c-b639-8db7ca9f9e7a,Fix You,eng
+209846a7-235b-4223-98e9-990e0873344f,Love Arcade,
 209d5ebf-d938-4675-9b1f-534602e5bbbb,Bewitched,
 20a9ef25-b557-4770-8477-e1ca3a060eee,cardigan,eng
 20f359ce-4d8a-4901-9f28-eab2a9c743b6,SAY NO MORE,kor
@@ -867,6 +868,8 @@ recording_mbid,recording_title,recording_language
 7abcd90a-20d6-4f4f-ad6b-d2e033ba0a78,Chili,
 7b3d96c9-3e22-4337-be32-f8a26b816685,Killer Queen,eng
 7b6a8c78-344e-4e63-a7f9-87f22275e699,Beatbox,
+7bae0848-9dae-4d36-8c13-feb5fd0eaffb,DU DU DU,
+7bb75c47-487b-424d-80ee-4843327ccbd7,Hero,
 7bd11fd8-2ec1-4b8d-91eb-ddec3cf23a21,Gentleman,mul
 7be8d679-53b5-4fde-909e-de2dfd433c6b,Everybody Talks,eng
 7bf07a71-763e-4235-ad53-e151b9c959fe,Wait It Out,eng
@@ -1003,6 +1006,7 @@ recording_mbid,recording_title,recording_language
 8d99aab3-a64c-4bfa-9bdf-1dc72a9e9fb1,Rhiannon,
 8da5fb34-fa06-460a-9e07-2decceb891d3,Let Me In (20 CUBE),
 8e0a0c65-20ea-4621-b7d0-c7863416d53c,Run Away (RYUJIN),
+8e1b25b9-fb9b-41e0-bc1e-e0748004fae8,MIC Drop,
 8e25b4da-cd53-45d8-9c86-aa0d72d8b5ce,You Oughta Know,eng
 8eaf533e-d38f-4db3-926c-689c3f08ad53,Cheap Thrills,eng
 8eb7f5d6-5841-4ecf-97c0-ceb6862d2013,PROVENZA,
@@ -1276,6 +1280,7 @@ b276e83b-3b58-46df-97fa-596a477fd381,Home,
 b2f232cf-cdd6-4b60-a6b3-7ca6234985f2,Glitch Mode,
 b3085c07-3429-4dcc-b007-9b56b5b56976,Daddy Lessons,eng
 b31d8699-e5ce-4ef4-8848-2d2895f5564e,달빛 소리 (Moonlight Melody),
+b36bd4ca-7931-43b8-b892-c3be26591632,Kiss My Lips,kor
 b39939ee-22a9-4981-846e-12ed4a9f7f2f,Uh-Oh,kor
 b3b96429-e8f0-467a-8df9-bd4ff1a6efd1,Shopper,
 b3bf2ab5-6e4d-4d65-ba2b-d2d04a9975bb,Rum Pum Pum,
@@ -1293,6 +1298,7 @@ b63fddb9-1e40-4ab3-b51d-7485249af7bc,7월 7일 (One of These Nights),kor
 b64eb4c4-22f8-4a9a-b0a3-4b657ecd82cf,Cameo Lover,eng
 b6587011-5a7c-4664-82ad-7a6368f4bd99,we can't be friends (wait for your love),eng
 b658a77a-7865-4c12-9de5-305efef61c90,Beg for Me,
+b667fec8-7988-455e-9b2a-2475e29808d1,Cosmic,
 b674e9d4-c55f-4f33-a703-43c064b1fec4,Listen,eng
 b6f1d572-9407-47c2-a09d-35e29478fcd8,첫 사랑니 (Rum Pum Pum Pum),kor
 b6f595ea-7603-4cfd-a545-e0cc6d34c75d,Fitzpleasure,eng
@@ -1520,9 +1526,11 @@ d9e67ec6-5eac-4bd8-aee8-59e91d3dd1c9,Giddy,
 d9ed4891-e652-4e64-993c-685b947ba060,Bad Boy,kor
 d9ef5afb-3109-46ed-a837-fd5ae9decaf2,CRUEL,mul
 d9f57fb5-ca4f-4398-a85a-313dc9139a66,Bulldozer,
+da2630c1-aaba-4d0d-9fdb-b7b02a3f431c,Yours,
 da7e6ecd-3539-4a3e-9e46-76213ba1849e,나쁜X,kor
 da9b48df-c21b-414d-a883-bd8366a75251,Opening Sequence,
 dabebc51-ebf2-494c-820d-71b9d471c5b8,봐 (Look),kor
+dafe6396-2704-40f4-9251-7775878d97c3,"ONE SHOT, TWO SHOT",kor
 db15e1f8-e71d-4b60-92e9-30ec0594656f,Boomerang,
 db1d8cac-5d6d-4a18-96c1-f3d663bd4fab,WELLLL,
 db885a39-fc95-4bb3-a7e1-868c822db073,Insomnia,

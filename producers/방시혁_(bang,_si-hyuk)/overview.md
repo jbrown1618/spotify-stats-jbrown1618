@@ -5,27 +5,27 @@
 | Credit Type | Tracks |
 |:---|---:|
 | Lyricist | 6 |
-| Songwriter | 16 |
+| Songwriter | 17 |
 
 ## Produces for Artists
 
 | Art | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 8 | 8 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 9 | 9 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb73f96bdf146d008680149954" alt="" width="50" /> | 7 | 7 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 
 ## Works with Producers
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Supreme Boi | [Supreme Boi](../supreme_boi/overview.md) | 8 |
-| Pdogg | [Pdogg](../pdogg/overview.md) | 8 |
-| SCORE | [SCORE](../score/overview.md) | 7 |
+| Pdogg | [Pdogg](../pdogg/overview.md) | 9 |
+| Supreme Boi | [Supreme Boi](../supreme_boi/overview.md) | 9 |
+| RM | [RM](../rm/overview.md) | 7 |
 | 김병석 | [김병석 (Kim, Byung-seok)](../김병석_(kim,_byung-seok)/overview.md) | 7 |
-| RM | [RM](../rm/overview.md) | 6 |
+| SCORE | [SCORE](../score/overview.md) | 7 |
 | 13 | 13 | 6 |
-| 황민희 | 황민희 (Hwang, Min-hee) | 4 |
 | danke | [danke](../danke/overview.md) | 4 |
+| 황민희 | 황민희 (Hwang, Min-hee) | 4 |
 | 이연수 | 이연수 (Lee, Yeon-soo) | 4 |
 | SUGA | [SUGA](../suga/overview.md) | 4 |
 
@@ -35,21 +35,21 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| 김준혁 | 김준혁 (Kim Joonhyuk) | 3 |
 | Paulina Cerrilla | Paulina Cerrilla | 3 |
+| 김준혁 | 김준혁 (Kim Joonhyuk) | 3 |
+| j-hope | j-hope | 3 |
 | Kyler Niko | Kyler Niko | 3 |
 | HUH YUNJIN | HUH YUNJIN | 3 |
-| 이형석 | 이형석 (Lee, Hyung-seok) | 2 |
-| Chris Galland | Chris Galland | 2 |
-| Tony Maserati | [Tony Maserati](../tony_maserati/overview.md) | 2 |
-| Ali Tamposi | Ali Tamposi | 2 |
-| Daniel "Obi" Klein | Daniel "Obi" Klein | 2 |
 | BLVSH | BLVSH | 2 |
+| Daniel "Obi" Klein | Daniel "Obi" Klein | 2 |
 | JARO | JARO | 2 |
 | 김영현 | 김영현 (Kim, Young-hyun) | 2 |
+| Tony Maserati | [Tony Maserati](../tony_maserati/overview.md) | 2 |
+| 이형석 | 이형석 (Lee, Hyung-seok) | 2 |
 | Nikolay Mohr | Nikolay Mohr | 2 |
 | Arineh Karimi | Arineh Karimi | 2 |
-| j-hope | j-hope | 2 |
+| Chris Galland | Chris Galland | 2 |
+| Ali Tamposi | Ali Tamposi | 2 |
 | Roman | Roman | 2 |
 | Manny Marroquin | [Manny Marroquin](../manny_marroquin/overview.md) | 2 |
 | Charli Taft | Charli Taft | 2 |
@@ -119,6 +119,7 @@
 |:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Lie | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | Blood Sweat & Tears | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f9a16d4b6cd94eca041f00b8" alt="" width="50" /> | MIC Drop | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | DNA | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Anpanman | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781" alt="" width="50" /> | Airplane pt.2 | Songwriter |
