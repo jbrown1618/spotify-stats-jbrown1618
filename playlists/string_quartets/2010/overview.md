@@ -2,16 +2,16 @@
 
 ## Artists
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | 71 | 0 | [Ludwig van Beethoven](../../../artists/ludwig_van_beethoven/overview.md) | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
-| <img src="https://i.scdn.co/image/c43ecd6580e240e4e1df1564de80bf7102727e44" alt="" width="50" /> | 71 | 0 | [Tokyo String Quartet](../../../artists/tokyo_string_quartet/overview.md) | [🔗](https://open.spotify.com/artist/15G9RnBNBDCFUMANna2CvO) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | 400 | 71 | 0 | [Ludwig van Beethoven](../../../artists/ludwig_van_beethoven/overview.md) | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
+| <img src="https://i.scdn.co/image/c43ecd6580e240e4e1df1564de80bf7102727e44" alt="" width="50" /> | 400 | 71 | 0 | [Tokyo String Quartet](../../../artists/tokyo_string_quartet/overview.md) | [🔗](https://open.spotify.com/artist/15G9RnBNBDCFUMANna2CvO) |
 
 ## Albums
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="" width="50" /> | 71 | 0 | Beethoven: Complete String Quartets | 2010-10-12 | [🔗](https://open.spotify.com/album/4JhUG1lr4xztAcqyA0Jm3a) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="" width="50" /> | 581 | 71 | 0 | Beethoven: Complete String Quartets | 2010-10-12 | [🔗](https://open.spotify.com/album/4JhUG1lr4xztAcqyA0Jm3a) |
 
 ## Tracks
 

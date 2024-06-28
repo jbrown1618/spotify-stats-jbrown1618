@@ -22,21 +22,21 @@ WJSN:
 - has member 유연정 (Yoo, Yeon-jung)
 
 ## Artist Rank
-- The #242 artist overall
+- The #243 artist of all time
 
 ![Rank of WJSN over time](../../images/artists/wjsn/rank_time_series.png)
 ## Top Albums
 
 
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27342678cd46d7322e395400930" alt="" width="50" /> | 1 | 1 | UNNATURAL | 2021-03-31 | [🔗](https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c5d92b755061ede5e5c07544" alt="" width="50" /> | 1 | 1 | THE SECRET | 2016-08-17 | [🔗](https://open.spotify.com/album/0usNbLkckzIo34wUPehZdh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273689b4c9e69a72bd3398f2e88" alt="" width="50" /> | 1 | 1 | Sequence | 2022-07-05 | [🔗](https://open.spotify.com/album/2Cv3xionHF2O7QL8p6MbCT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732251d59955f53adcd39014ea" alt="" width="50" /> | 1 | 1 | Neverland | 2020-06-09 | [🔗](https://open.spotify.com/album/5DHseF14USVgIZ6AzsX9bi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b66327ff0474d017472d7b18" alt="" width="50" /> | 1 | 1 | HAPPY MOMENT (1) | 2017-06-07 | [🔗](https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a61cd4953f0b2314bff431e2" alt="" width="50" /> | 1 | 1 | <Queendom2> FINAL | 2022-05-27 | [🔗](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27342678cd46d7322e395400930" alt="" width="50" /> | 581 | 1 | 1 | UNNATURAL | 2021-03-31 | [🔗](https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5d92b755061ede5e5c07544" alt="" width="50" /> | 581 | 1 | 1 | THE SECRET | 2016-08-17 | [🔗](https://open.spotify.com/album/0usNbLkckzIo34wUPehZdh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273689b4c9e69a72bd3398f2e88" alt="" width="50" /> | 581 | 1 | 1 | Sequence | 2022-07-05 | [🔗](https://open.spotify.com/album/2Cv3xionHF2O7QL8p6MbCT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732251d59955f53adcd39014ea" alt="" width="50" /> | 581 | 1 | 1 | Neverland | 2020-06-09 | [🔗](https://open.spotify.com/album/5DHseF14USVgIZ6AzsX9bi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b66327ff0474d017472d7b18" alt="" width="50" /> | 581 | 1 | 1 | HAPPY MOMENT (1) | 2017-06-07 | [🔗](https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a61cd4953f0b2314bff431e2" alt="" width="50" /> | 581 | 1 | 1 | <Queendom2> FINAL | 2022-05-27 | [🔗](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |

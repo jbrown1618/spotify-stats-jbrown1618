@@ -45,7 +45,7 @@ None
 | Moonlight | D-2 | Agust D | 0 | 1 | 73 |
 | Daechwita | D-2 | Agust D | 1 | 1 | 73 |
 | Burn It (feat. MAX) | D-2 | Agust D | 0 | 1 | 73 |
-| People | D-2 | Agust D | 0 | 1 | 73 |
+| People | D-2 | Agust D | 1 | 1 | 73 |
 | Strange (feat. RM) | D-2 | Agust D | 0 | 1 | 73 |
 | Burn It (feat. MAX) | D-2 | MAX | 0 | 1 | 67 |
 | Strange (feat. RM) | D-2 | RM | 0 | 1 | 77 |
@@ -123,7 +123,7 @@ None
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 77 |
 | I Do | It's Raining | Rain | 0 | 0 | 44 |
 | It′s Raining | It's Raining | Rain | 0 | 0 | 44 |
-| Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 85 |
+| Super Bass | Pink Friday | Nicki Minaj | 1 | 0 | 85 |
 | Slide Away | Slide Away | Miley Cyrus | 2 | 0 | 82 |
 | Miku | Miku | Anamanaguchi | 0 | 0 | 51 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 42 |

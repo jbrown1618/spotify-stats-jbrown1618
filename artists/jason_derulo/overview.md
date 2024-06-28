@@ -5,27 +5,27 @@
 <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="Jason Derulo" width="100" />
 
 ## Artist Rank
-- The #267 artist overall
+- The #267 artist of all time
 
 ![Rank of Jason Derulo over time](../../images/artists/jason_derulo/rank_time_series.png)
 ## Top Tracks
 
 
-### Top tracks, aggregated
+### Top tracks of all time
 
 ![Track score ranking over time](../../images/artists/jason_derulo/track_rank_time_series_score.png)
 ## Top Albums
 
 ![Album ranking over time](../../images/artists/jason_derulo/album_rank_time_series.png)
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | 2 | 2 | Talk Dirty | 2013-09-10 | [🔗](https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27364d58f6e7672baecc8972806" alt="" width="50" /> | 1 | 1 | Tattoos (Deluxe Edition) | 2013-09-10 | [🔗](https://open.spotify.com/album/3wDeTllVvayYsWTHsFNWZQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="" width="50" /> | 1 | 1 | Pentatonix (Deluxe Version) | 2015-10-16 | [🔗](https://open.spotify.com/album/6qf9tE8pNRW0kX1Cucrixr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | 1 | 1 | Everything Is 4 | 2015-05-29 | [🔗](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d56717d1786e938a105b6df" alt="" width="50" /> | 1 | 1 | Coño | 2020-07-03 | [🔗](https://open.spotify.com/album/1h3x5tLWXhf438Y5AK60Ml) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730d629b7dd61cb5d580acad39" alt="" width="50" /> | 1 | 0 | Swalla (feat. Nicki Minaj & Ty Dolla $ign) | 2017-02-23 | [🔗](https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | 581 | 2 | 2 | Talk Dirty | 2013-09-10 | [🔗](https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27364d58f6e7672baecc8972806" alt="" width="50" /> | 581 | 1 | 1 | Tattoos (Deluxe Edition) | 2013-09-10 | [🔗](https://open.spotify.com/album/3wDeTllVvayYsWTHsFNWZQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="" width="50" /> | 581 | 1 | 1 | Pentatonix (Deluxe Version) | 2015-10-16 | [🔗](https://open.spotify.com/album/6qf9tE8pNRW0kX1Cucrixr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | 563 | 1 | 1 | Everything Is 4 | 2015-05-29 | [🔗](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d56717d1786e938a105b6df" alt="" width="50" /> | 581 | 1 | 1 | Coño | 2020-07-03 | [🔗](https://open.spotify.com/album/1h3x5tLWXhf438Y5AK60Ml) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d629b7dd61cb5d580acad39" alt="" width="50" /> | 581 | 1 | 0 | Swalla (feat. Nicki Minaj & Ty Dolla $ign) | 2017-02-23 | [🔗](https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -105,7 +105,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | Get Ugly | Everything Is 4 | [Jason Derulo](overview.md) | [Beluga Heights/Warner Records](../../labels/warner_records) | 841 | 💚 | [🔗](https://open.spotify.com/track/1dl3vuXJS9anUXE7XnNP75) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | Get Ugly | Everything Is 4 | [Jason Derulo](overview.md) | [Beluga Heights/Warner Records](../../labels/warner_records) | 844 | 💚 | [🔗](https://open.spotify.com/track/1dl3vuXJS9anUXE7XnNP75) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Talk Dirty (feat. 2 Chainz) | Talk Dirty | [Jason Derulo](overview.md), 2 Chainz | [Beluga Heights/Warner Records](../../labels/warner_records) | 868 | 💚 | [🔗](https://open.spotify.com/track/6g6A7qNhTfUgOSH7ROOxTD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | Trumpets | Talk Dirty | [Jason Derulo](overview.md) | [Beluga Heights/Warner Records](../../labels/warner_records) | 868 | 💚 | [🔗](https://open.spotify.com/track/5KONnBIQ9LqCxyeSPin26k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27364d58f6e7672baecc8972806" alt="" width="50" /> | Bubblegum (feat. Tyga) | Tattoos (Deluxe Edition) | [Jason Derulo](overview.md), Tyga | [Beluga Heights/Warner Records](../../labels/warner_records) | 868 | 💚 | [🔗](https://open.spotify.com/track/1EujTZPE2yBYbbwu2vWXvr) |

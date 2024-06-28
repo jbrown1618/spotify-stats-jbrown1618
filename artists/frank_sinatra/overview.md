@@ -5,25 +5,25 @@
 <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="Frank Sinatra" width="100" />
 
 ## Artist Rank
-- The #305 artist overall
+- The #305 artist of all time
 
 ![Rank of Frank Sinatra over time](../../images/artists/frank_sinatra/rank_time_series.png)
 ## Top Albums
 
 
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="" width="50" /> | 1 | 1 | Sinatra/Basie: The Complete Reprise Studio Recordings | 1962-12-10 | [🔗](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | 1 | 1 | Days Of Wine And Roses, Moon River And Other Academy Award Winners | 1964 | [🔗](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="" width="50" /> | 1 | 0 | The Classic Christmas Album | 1945 | [🔗](https://open.spotify.com/album/2B9FcHKqz3PWJlh0yGnmM7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="" width="50" /> | 1 | 0 | That's Life | 1966-11 | [🔗](https://open.spotify.com/album/3gNsjaUsu9cRckgUFx5NsY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="" width="50" /> | 1 | 0 | Strangers In The Night (Expanded Edition) | 1966-05 | [🔗](https://open.spotify.com/album/1kyb5tomEXcA106V57puFW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="" width="50" /> | 1 | 0 | Songs For Swingin' Lovers! (Remastered) | 1956-03 | [🔗](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="" width="50" /> | 1 | 0 | Nothing But The Best (2008 Remastered) | 2008-05-13 | [🔗](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="" width="50" /> | 1 | 0 | Francis A. & Edward K. | 1968-01 | [🔗](https://open.spotify.com/album/5GFkm37IrMR9a4rc6JABkw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | 1 | 0 | Come Fly With Me (Expanded Edition) | 1958 | [🔗](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="" width="50" /> | 1 | 0 | Christmas Songs by Sinatra | 1994-11-08 | [🔗](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273cb81eb3c1238c60f2bbfd3b5" alt="" width="50" /> | 581 | 1 | 1 | Sinatra/Basie: The Complete Reprise Studio Recordings | 1962-12-10 | [🔗](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | 574 | 1 | 1 | Days Of Wine And Roses, Moon River And Other Academy Award Winners | 1964 | [🔗](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="" width="50" /> | 581 | 1 | 0 | The Classic Christmas Album | 1945 | [🔗](https://open.spotify.com/album/2B9FcHKqz3PWJlh0yGnmM7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="" width="50" /> | 581 | 1 | 0 | That's Life | 1966-11 | [🔗](https://open.spotify.com/album/3gNsjaUsu9cRckgUFx5NsY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="" width="50" /> | 581 | 1 | 0 | Strangers In The Night (Expanded Edition) | 1966-05 | [🔗](https://open.spotify.com/album/1kyb5tomEXcA106V57puFW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="" width="50" /> | 581 | 1 | 0 | Songs For Swingin' Lovers! (Remastered) | 1956-03 | [🔗](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="" width="50" /> | 581 | 1 | 0 | Nothing But The Best (2008 Remastered) | 2008-05-13 | [🔗](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c981ab72e00803faf1bbcae" alt="" width="50" /> | 581 | 1 | 0 | Francis A. & Edward K. | 1968-01 | [🔗](https://open.spotify.com/album/5GFkm37IrMR9a4rc6JABkw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | 581 | 1 | 0 | Come Fly With Me (Expanded Edition) | 1958 | [🔗](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc" alt="" width="50" /> | 581 | 1 | 0 | Christmas Songs by Sinatra | 1994-11-08 | [🔗](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -52,7 +52,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | The Way You Look Tonight | Days Of Wine And Roses, Moon River And Other Academy Award Winners | [Frank Sinatra](overview.md) | FRANK SINATRA DIGITAL REPRISE | 865 | 💚 | [🔗](https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff0dae802acb38075786b58c" alt="" width="50" /> | The Way You Look Tonight | Days Of Wine And Roses, Moon River And Other Academy Award Winners | [Frank Sinatra](overview.md) | FRANK SINATRA DIGITAL REPRISE | 855 | 💚 | [🔗](https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1e77d6acadd7e238d7bc42" alt="" width="50" /> | Baby, It's Cold Outside (with Dorothy Kirsten) | The Classic Christmas Album | [Frank Sinatra](overview.md), Dorothy Kirsten | [Columbia](../../labels/columbia), [Legacy](../../labels/legacy) | 868 | | [🔗](https://open.spotify.com/track/3wvG6oGSZ6c7oskNDsI1CY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="" width="50" /> | I've Got You Under My Skin - Remastered 1998 | Songs For Swingin' Lovers! (Remastered) | [Frank Sinatra](overview.md) | [Capitol Records](../../labels/capitol_records) | 868 | | [🔗](https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | Come Fly With Me - Remastered 1998 | Come Fly With Me (Expanded Edition) | [Frank Sinatra](overview.md) | [Capitol Records](../../labels/capitol_records) | 868 | | [🔗](https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn) |

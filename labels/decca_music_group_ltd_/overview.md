@@ -11,41 +11,41 @@ Appears as:
 
 ## Top Artists
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eba5a4a932f73faefc19b4e24f" alt="" width="50" /> | 205 | 0 | [Vladimir Ashkenazy](../../artists/vladimir_ashkenazy/overview.md) | [🔗](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) |
-| <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | 103 | 0 | [Ludwig van Beethoven](../../artists/ludwig_van_beethoven/overview.md) | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe55372097569b7b56b439365" alt="" width="50" /> | 102 | 0 | [Frédéric Chopin](../../artists/frédéric_chopin/overview.md) | [🔗](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4) |
-| <img src="https://i.scdn.co/image/40eb3ffb36cd0c98ca76630260d09b0025be373d" alt="" width="50" /> | 19 | 0 | Benjamin Britten | [🔗](https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn) |
-| <img src="https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88" alt="" width="50" /> | 19 | 0 | [Johann Sebastian Bach](../../artists/johann_sebastian_bach/overview.md) | [🔗](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd56134c89f7b5ccbd2a06ca1" alt="" width="50" /> | 19 | 0 | English Chamber Orchestra | [🔗](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) |
-| <img src="https://i.scdn.co/image/463e3c5c3e814761532f554913cf2af456bcba59" alt="" width="50" /> | 18 | 0 | Sergei Rachmaninoff | [🔗](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a62efdba9c8e430d12e3d0fe" alt="" width="50" /> | 15 | 0 | Nikolai Korniev | [🔗](https://open.spotify.com/artist/70hS9SnJefkZo2QJwS2VXi) |
-| <img src="https://i.scdn.co/image/f946eebb053703449d3e862c18ae531ad0bee47d" alt="" width="50" /> | 15 | 0 | St.Petersburg Chamber Choir | [🔗](https://open.spotify.com/artist/46WjEugfIF0rKOewvFiby2) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc8b13e554131116bf311f242" alt="" width="50" /> | 7 | 0 | Academy of St. Martin in the Fields | [🔗](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eba5a4a932f73faefc19b4e24f" alt="" width="50" /> | 200 | 205 | 0 | [Vladimir Ashkenazy](../../artists/vladimir_ashkenazy/overview.md) | [🔗](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) |
+| <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | 400 | 103 | 0 | [Ludwig van Beethoven](../../artists/ludwig_van_beethoven/overview.md) | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe55372097569b7b56b439365" alt="" width="50" /> | 400 | 102 | 0 | [Frédéric Chopin](../../artists/frédéric_chopin/overview.md) | [🔗](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4) |
+| <img src="https://i.scdn.co/image/40eb3ffb36cd0c98ca76630260d09b0025be373d" alt="" width="50" /> | 400 | 19 | 0 | Benjamin Britten | [🔗](https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn) |
+| <img src="https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88" alt="" width="50" /> | 400 | 19 | 0 | [Johann Sebastian Bach](../../artists/johann_sebastian_bach/overview.md) | [🔗](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd56134c89f7b5ccbd2a06ca1" alt="" width="50" /> | 400 | 19 | 0 | English Chamber Orchestra | [🔗](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) |
+| <img src="https://i.scdn.co/image/463e3c5c3e814761532f554913cf2af456bcba59" alt="" width="50" /> | 400 | 18 | 0 | Sergei Rachmaninoff | [🔗](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a62efdba9c8e430d12e3d0fe" alt="" width="50" /> | 400 | 15 | 0 | Nikolai Korniev | [🔗](https://open.spotify.com/artist/70hS9SnJefkZo2QJwS2VXi) |
+| <img src="https://i.scdn.co/image/f946eebb053703449d3e862c18ae531ad0bee47d" alt="" width="50" /> | 400 | 15 | 0 | St.Petersburg Chamber Choir | [🔗](https://open.spotify.com/artist/46WjEugfIF0rKOewvFiby2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8b13e554131116bf311f242" alt="" width="50" /> | 400 | 7 | 0 | Academy of St. Martin in the Fields | [🔗](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) |
 
 
 <details>
 <summary>See all 26 artists</summary>
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/addf4464734979a85ef71a61c421f23a6bc143ae" alt="" width="50" /> | 7 | 0 | Sir Neville Marriner | [🔗](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) |
-| <img src="https://i.scdn.co/image/965d539c15af1d86ec4875f05ec21d32414c3e64" alt="" width="50" /> | 7 | 0 | Gabriel Fauré | [🔗](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737a50d536fbc99037cc0a4e0e" alt="" width="50" /> | 7 | 0 | John Birch | [🔗](https://open.spotify.com/artist/2TFBoJYsuvMuPMOlwXWbaE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | 6 | 0 | [Wolfgang Amadeus Mozart](../../artists/wolfgang_amadeus_mozart/overview.md) | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0931477643a0f9b69d261c41" alt="" width="50" /> | 6 | 0 | András Schiff | [🔗](https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27345cdcafd8455253eadeecd35" alt="" width="50" /> | 6 | 0 | Academy of St Martin in the Fields Chorus | [🔗](https://open.spotify.com/artist/1GxYERY1PDh1dEuFqvTDa5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5a5d168879568c94e86c61aa" alt="" width="50" /> | 3 | 0 | [London Symphony Orchestra](../../artists/london_symphony_orchestra/overview.md) | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | 3 | 0 | Michael Francis | [🔗](https://open.spotify.com/artist/4znpeZQkiPbcXtHlRbfTqF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb23c40a5ab7938f014b50cd73" alt="" width="50" /> | 3 | 0 | Orchestre Symphonique de Montréal | [🔗](https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd) |
-| <img src="https://i.scdn.co/image/5e1155c852578ddf5d2cfea94ccb3a8a65efa882" alt="" width="50" /> | 3 | 0 | Claude Debussy | [🔗](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0fcfc4662d94dad49e635eaf" alt="" width="50" /> | 3 | 0 | Valentina Lisitsa | [🔗](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca) |
-| <img src="https://i.scdn.co/image/005fcb121f6b97637c1fb438bcc616e5e4833091" alt="" width="50" /> | 3 | 0 | Charles Dutoit | [🔗](https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ) |
-| <img src="https://i.scdn.co/image/c8a584082d1e4aa421717edb8c149a52daf4da4d" alt="" width="50" /> | 2 | 0 | Thomas Allen | [🔗](https://open.spotify.com/artist/2SFBZgfO2H1nVSgjxzJLUy) |
-| <img src="https://i.scdn.co/image/60b9354e6df871bd1a87eb86cbc660a48e15172b" alt="" width="50" /> | 1 | 0 | Sylvia McNair | [🔗](https://open.spotify.com/artist/63aSj4hbN7Q4nw74Y0xNF6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d516176f7ccedbc5add27d63" alt="" width="50" /> | 1 | 0 | Vladimir Mostovoy | [🔗](https://open.spotify.com/artist/4BTanscTBWJOSpvceZSVSi) |
-| <img src="https://i.scdn.co/image/094b89c0a53eaa52cb0f19d2bcd23a9fc84c1b82" alt="" width="50" /> | 1 | 0 | Olga Borodina | [🔗](https://open.spotify.com/artist/47XbXbNzwqcWStfsjzFlKb) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/addf4464734979a85ef71a61c421f23a6bc143ae" alt="" width="50" /> | 400 | 7 | 0 | Sir Neville Marriner | [🔗](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) |
+| <img src="https://i.scdn.co/image/965d539c15af1d86ec4875f05ec21d32414c3e64" alt="" width="50" /> | 400 | 7 | 0 | Gabriel Fauré | [🔗](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737a50d536fbc99037cc0a4e0e" alt="" width="50" /> | 400 | 7 | 0 | John Birch | [🔗](https://open.spotify.com/artist/2TFBoJYsuvMuPMOlwXWbaE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | 400 | 6 | 0 | [Wolfgang Amadeus Mozart](../../artists/wolfgang_amadeus_mozart/overview.md) | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0931477643a0f9b69d261c41" alt="" width="50" /> | 400 | 6 | 0 | András Schiff | [🔗](https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27345cdcafd8455253eadeecd35" alt="" width="50" /> | 400 | 6 | 0 | Academy of St Martin in the Fields Chorus | [🔗](https://open.spotify.com/artist/1GxYERY1PDh1dEuFqvTDa5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5a5d168879568c94e86c61aa" alt="" width="50" /> | 400 | 3 | 0 | [London Symphony Orchestra](../../artists/london_symphony_orchestra/overview.md) | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | 400 | 3 | 0 | Michael Francis | [🔗](https://open.spotify.com/artist/4znpeZQkiPbcXtHlRbfTqF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb23c40a5ab7938f014b50cd73" alt="" width="50" /> | 400 | 3 | 0 | Orchestre Symphonique de Montréal | [🔗](https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd) |
+| <img src="https://i.scdn.co/image/5e1155c852578ddf5d2cfea94ccb3a8a65efa882" alt="" width="50" /> | 400 | 3 | 0 | Claude Debussy | [🔗](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0fcfc4662d94dad49e635eaf" alt="" width="50" /> | 400 | 3 | 0 | Valentina Lisitsa | [🔗](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca) |
+| <img src="https://i.scdn.co/image/005fcb121f6b97637c1fb438bcc616e5e4833091" alt="" width="50" /> | 400 | 3 | 0 | Charles Dutoit | [🔗](https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ) |
+| <img src="https://i.scdn.co/image/c8a584082d1e4aa421717edb8c149a52daf4da4d" alt="" width="50" /> | 400 | 2 | 0 | Thomas Allen | [🔗](https://open.spotify.com/artist/2SFBZgfO2H1nVSgjxzJLUy) |
+| <img src="https://i.scdn.co/image/60b9354e6df871bd1a87eb86cbc660a48e15172b" alt="" width="50" /> | 400 | 1 | 0 | Sylvia McNair | [🔗](https://open.spotify.com/artist/63aSj4hbN7Q4nw74Y0xNF6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d516176f7ccedbc5add27d63" alt="" width="50" /> | 400 | 1 | 0 | Vladimir Mostovoy | [🔗](https://open.spotify.com/artist/4BTanscTBWJOSpvceZSVSi) |
+| <img src="https://i.scdn.co/image/094b89c0a53eaa52cb0f19d2bcd23a9fc84c1b82" alt="" width="50" /> | 400 | 1 | 0 | Olga Borodina | [🔗](https://open.spotify.com/artist/47XbXbNzwqcWStfsjzFlKb) |
 
 </details>
 
@@ -54,26 +54,26 @@ Appears as:
 
 ## Top Albums
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | 94 | 0 | Beethoven: The Piano Sonatas | 1995-01-01 | [🔗](https://open.spotify.com/album/7xbsSOswKgms1fUFuwKArz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="" width="50" /> | 49 | 0 | Chopin: Waltzes; 4 Scherzos; 26 Preludes | 1999-01-01 | [🔗](https://open.spotify.com/album/0yCrQ6dCqiI6ldqI8LPqWB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="" width="50" /> | 28 | 0 | Chopin: Polonaises | 1996-01-01 | [🔗](https://open.spotify.com/album/19ofW4fqCAR2uQJKVWw6L6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="" width="50" /> | 25 | 0 | Chopin: Nocturnes; Four Ballades | 1997-01-01 | [🔗](https://open.spotify.com/album/0lrM7kR5o7iqkajLKIlzRg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27308f25ef15caf048a49a69ee5" alt="" width="50" /> | 19 | 0 | Bach, J.S.: Brandenburg Concertos etc. | 1995-01-01 | [🔗](https://open.spotify.com/album/11FzhwtOFCPB4vpgWo33xV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="" width="50" /> | 15 | 0 | Rachmaninov: Vespers - All Night Vigil | 1994 | [🔗](https://open.spotify.com/album/7hqotgNjEJt09XiggaMI1v) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="" width="50" /> | 9 | 0 | Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique" | 1983-01-01 | [🔗](https://open.spotify.com/album/0RCfE1YhkdrjnM3kXT3YLl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="" width="50" /> | 7 | 0 | Fauré: Requiem; Pavane | 2008-01-01 | [🔗](https://open.spotify.com/album/0mhVHXJrGE5WUA58CJLf29) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" /> | 6 | 0 | Mozart: The Piano Sonatas | 1981-01-01 | [🔗](https://open.spotify.com/album/1qM2Z3rhkJLQIXnAQpIUdY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | 3 | 0 | Rachmaninov: Piano Concerto No.2 | 2012-01-01 | [🔗](https://open.spotify.com/album/5lVqgXqdoIH3W1wUM2hzPx) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | 581 | 94 | 0 | Beethoven: The Piano Sonatas | 1995-01-01 | [🔗](https://open.spotify.com/album/7xbsSOswKgms1fUFuwKArz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="" width="50" /> | 581 | 49 | 0 | Chopin: Waltzes; 4 Scherzos; 26 Preludes | 1999-01-01 | [🔗](https://open.spotify.com/album/0yCrQ6dCqiI6ldqI8LPqWB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="" width="50" /> | 581 | 28 | 0 | Chopin: Polonaises | 1996-01-01 | [🔗](https://open.spotify.com/album/19ofW4fqCAR2uQJKVWw6L6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="" width="50" /> | 581 | 25 | 0 | Chopin: Nocturnes; Four Ballades | 1997-01-01 | [🔗](https://open.spotify.com/album/0lrM7kR5o7iqkajLKIlzRg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27308f25ef15caf048a49a69ee5" alt="" width="50" /> | 581 | 19 | 0 | Bach, J.S.: Brandenburg Concertos etc. | 1995-01-01 | [🔗](https://open.spotify.com/album/11FzhwtOFCPB4vpgWo33xV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273319c8a995c0c01cd233b3bd5" alt="" width="50" /> | 581 | 15 | 0 | Rachmaninov: Vespers - All Night Vigil | 1994 | [🔗](https://open.spotify.com/album/7hqotgNjEJt09XiggaMI1v) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="" width="50" /> | 581 | 9 | 0 | Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique" | 1983-01-01 | [🔗](https://open.spotify.com/album/0RCfE1YhkdrjnM3kXT3YLl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f71322acbf611462ffc03d5" alt="" width="50" /> | 581 | 7 | 0 | Fauré: Requiem; Pavane | 2008-01-01 | [🔗](https://open.spotify.com/album/0mhVHXJrGE5WUA58CJLf29) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fdf2a7d7437db7a75da73167" alt="" width="50" /> | 581 | 6 | 0 | Mozart: The Piano Sonatas | 1981-01-01 | [🔗](https://open.spotify.com/album/1qM2Z3rhkJLQIXnAQpIUdY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | 581 | 3 | 0 | Rachmaninov: Piano Concerto No.2 | 2012-01-01 | [🔗](https://open.spotify.com/album/5lVqgXqdoIH3W1wUM2hzPx) |
 
 
 <details>
 <summary>See all 11 albums</summary>
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="" width="50" /> | 3 | 0 | Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments) | 1989-01-01 | [🔗](https://open.spotify.com/album/5egJ0o1mVH2liUfecDWYqk) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2735d026bccbd8a50650e903130" alt="" width="50" /> | 581 | 3 | 0 | Debussy: La Mer; Jeux; Prélude à l'après-midi d'un faune; Le Martyre de Saint Sébastien (Symphonic Fragments) | 1989-01-01 | [🔗](https://open.spotify.com/album/5egJ0o1mVH2liUfecDWYqk) |
 
 </details>
 

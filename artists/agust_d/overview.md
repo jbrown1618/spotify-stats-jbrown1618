@@ -10,23 +10,23 @@ Agust D:
 - is also known as 민윤기 (Min Yoon-gi)
 
 ## Artist Rank
-- The #83 artist overall
+- The #83 artist of all time
 
 ![Rank of Agust D over time](../../images/artists/agust_d/rank_time_series.png)
 ## Top Tracks
 
 
-### Top tracks, aggregated
+### Top tracks of all time
 
 ![Track score ranking over time](../../images/artists/agust_d/track_rank_time_series_score.png)
 ## Top Albums
 
 ![Album ranking over time](../../images/artists/agust_d/album_rank_time_series.png)
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | 5 | 3 | D-2 | 2020-05-22 | [🔗](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | 4 | 2 | D-DAY | 2023-04-21 | [🔗](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | 581 | 5 | 3 | D-2 | 2020-05-22 | [🔗](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | 261 | 4 | 2 | D-DAY | 2023-04-21 | [🔗](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -62,9 +62,9 @@ Agust D:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | AMYGDALA | D-DAY | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 421 | | [🔗](https://open.spotify.com/track/5fj32MKLHkut2Vod1UodcU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | People Pt.2 (feat. IU) | D-DAY | [Agust D](overview.md), [IU](../iu/overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 664 | 💚 | [🔗](https://open.spotify.com/track/41JPN7pZMTp1sumBOHOzHd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose) | D-DAY | [Agust D](overview.md), Ryuichi Sakamoto, WOOSUNG | [BIGHIT MUSIC](../../labels/bighit_music) | 721 | 💚 | [🔗](https://open.spotify.com/track/4j3M8NrbGSXdMPwEVsnfHE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | AMYGDALA | D-DAY | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 420 | | [🔗](https://open.spotify.com/track/5fj32MKLHkut2Vod1UodcU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | People Pt.2 (feat. IU) | D-DAY | [Agust D](overview.md), [IU](../iu/overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 668 | 💚 | [🔗](https://open.spotify.com/track/41JPN7pZMTp1sumBOHOzHd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose) | D-DAY | [Agust D](overview.md), Ryuichi Sakamoto, WOOSUNG | [BIGHIT MUSIC](../../labels/bighit_music) | 719 | 💚 | [🔗](https://open.spotify.com/track/4j3M8NrbGSXdMPwEVsnfHE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Burn It (feat. MAX) | D-2 | [Agust D](overview.md), MAX | [BIGHIT MUSIC](../../labels/bighit_music) | 868 | 💚 | [🔗](https://open.spotify.com/track/38iufYNK4hUzS649Oe2kZy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Daechwita | D-2 | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 868 | 💚 | [🔗](https://open.spotify.com/track/1Y7AZ3akqDipAyo6mmOQTy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Moonlight | D-2 | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 868 | | [🔗](https://open.spotify.com/track/057xGYST5exVyNevufrioZ) |

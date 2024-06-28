@@ -11,22 +11,22 @@ JEON SOYEON:
 
 ## Artist Rank
 JEON SOYEON is currently:
-- The #46 artist of all time
-- The #22 artist overall
+- The #46 artist of the last year
+- The #22 artist of all time
 
 ![Rank of JEON SOYEON over time](../../images/artists/jeon_soyeon/rank_time_series.png)
 ## Top Tracks
 
 
-### Top tracks, aggregated
+### Top tracks of all time
 
 ![Track score ranking over time](../../images/artists/jeon_soyeon/track_rank_time_series_score.png)
 
 
 <details>
-<summary>Top tracks of all time over time</summary>
+<summary>Top tracks of the last year over time</summary>
 
-![Line chart of top tracks of all time over time](../../images/artists/jeon_soyeon/track_rank_time_series_long_term.png)
+![Line chart of top tracks of the last year over time](../../images/artists/jeon_soyeon/track_rank_time_series_long_term.png)
 
 </details>
 
@@ -43,14 +43,14 @@ JEON SOYEON is currently:
 
 ![Album ranking over time](../../images/artists/jeon_soyeon/album_rank_time_series.png)
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | 5 | 5 | Windy | 2021-07-05 | [🔗](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="" width="50" /> | 1 | 1 | Wow Thing | 2018-09-28 | [🔗](https://open.spotify.com/album/3xEPyp7h78uULpDPuKvokH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273edac9c0484d3c89b0439c3ed" alt="" width="50" /> | 1 | 1 | NOBODY | 2023-11-16 | [🔗](https://open.spotify.com/album/1Y48ZHmfvedT16bNakv13v) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273276ccd3b144c9c0f9ba152b6" alt="" width="50" /> | 1 | 1 | Jelly | 2017-11-05 | [🔗](https://open.spotify.com/album/7iTA4T8A4tDU77Dt6y3f9m) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735b3685b06e22d32bed46c962" alt="" width="50" /> | 1 | 1 | DESSERT | 2020-07-22 | [🔗](https://open.spotify.com/album/5brSFD1knAOSM7j6083naD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737791e34bd6da03ed541a3563" alt="" width="50" /> | 1 | 0 | Idle song | 2018-02-28 | [🔗](https://open.spotify.com/album/6RasD9dt49odO6D3VkhD1z) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | 19 | 5 | 5 | Windy | 2021-07-05 | [🔗](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="" width="50" /> | 572 | 1 | 1 | Wow Thing | 2018-09-28 | [🔗](https://open.spotify.com/album/3xEPyp7h78uULpDPuKvokH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273edac9c0484d3c89b0439c3ed" alt="" width="50" /> | 83 | 1 | 1 | NOBODY | 2023-11-16 | [🔗](https://open.spotify.com/album/1Y48ZHmfvedT16bNakv13v) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273276ccd3b144c9c0f9ba152b6" alt="" width="50" /> | 581 | 1 | 1 | Jelly | 2017-11-05 | [🔗](https://open.spotify.com/album/7iTA4T8A4tDU77Dt6y3f9m) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735b3685b06e22d32bed46c962" alt="" width="50" /> | 24 | 1 | 1 | DESSERT | 2020-07-22 | [🔗](https://open.spotify.com/album/5brSFD1knAOSM7j6083naD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737791e34bd6da03ed541a3563" alt="" width="50" /> | 581 | 1 | 0 | Idle song | 2018-02-28 | [🔗](https://open.spotify.com/album/6RasD9dt49odO6D3VkhD1z) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -141,9 +141,9 @@ JEON SOYEON is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | BEAM BEAM | Windy | [JEON SOYEON](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 16 | 💚 | [🔗](https://open.spotify.com/track/1VjIS4qoyD6JS2rNZQgE00) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735b3685b06e22d32bed46c962" alt="" width="50" /> | DESSERT | DESSERT | HYO, Loopy, [JEON SOYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 22 | 💚 | [🔗](https://open.spotify.com/track/6u0pZe0Uv7GBR0iKptfWRf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273edac9c0484d3c89b0439c3ed" alt="" width="50" /> | NOBODY | NOBODY | [JEON SOYEON](overview.md), [WINTER](../winter/overview.md), LIZ (IVE) | Studio Beyond | 92 | 💚 | [🔗](https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Psycho | Windy | [JEON SOYEON](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 534 | 💚 | [🔗](https://open.spotify.com/track/57LioO1gSll1wvPDAjiET3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Weather | Windy | [JEON SOYEON](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 639 | 💚 | [🔗](https://open.spotify.com/track/15ngHJXClzsYatjQxFVNUO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="" width="50" /> | Wow Thing | Wow Thing | [SEULGI](../seulgi/overview.md), [CHUNG HA](../chung_ha/overview.md), SinB, [JEON SOYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 852 | 💚 | [🔗](https://open.spotify.com/track/5MwfxCtqMFGYp9Nc1BkTrS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Psycho | Windy | [JEON SOYEON](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 536 | 💚 | [🔗](https://open.spotify.com/track/57LioO1gSll1wvPDAjiET3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Weather | Windy | [JEON SOYEON](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 641 | 💚 | [🔗](https://open.spotify.com/track/15ngHJXClzsYatjQxFVNUO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="" width="50" /> | Wow Thing | Wow Thing | [SEULGI](../seulgi/overview.md), [CHUNG HA](../chung_ha/overview.md), SinB, [JEON SOYEON](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 856 | 💚 | [🔗](https://open.spotify.com/track/5MwfxCtqMFGYp9Nc1BkTrS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273276ccd3b144c9c0f9ba152b6" alt="" width="50" /> | Jelly | Jelly | [JEON SOYEON](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 868 | 💚 | [🔗](https://open.spotify.com/track/0MsE73sXgfqOpgzCATa0Wt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737791e34bd6da03ed541a3563" alt="" width="50" /> | Idle song | Idle song | [JEON SOYEON](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 868 | | [🔗](https://open.spotify.com/track/1P7zwuGNeGWehpKVavukRe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="" width="50" /> | Is this bad b****** number? | Windy | [JEON SOYEON](overview.md), [BIBI](../bibi/overview.md), Lee Young Ji | [Universal Music LLC](../../labels/universal_music_llc) | 868 | 💚 | [🔗](https://open.spotify.com/track/5xTy9p0IXI8lRaU6iLGikC) |

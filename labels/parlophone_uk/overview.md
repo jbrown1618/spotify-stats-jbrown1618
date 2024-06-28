@@ -11,26 +11,26 @@ Appears as:
 
 ## Top Artists
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1ba8fc5f5c73e7e9313cc6eb" alt="" width="50" /> | 7 | 2 | [Coldplay](../../artists/coldplay/overview.md) | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | 1 | 1 | Hatsune Miku | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb573935eb61a1897aeb43c531" alt="" width="50" /> | 1 | 1 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb200914459687748118b36954" alt="" width="50" /> | 1 | 1 | Ashnikko | [🔗](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc46999e5afaf35c91cbe652b" alt="" width="50" /> | 1 | 1 | Kraftwerk | [🔗](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) |
-| <img src="https://i.scdn.co/image/dd72b50e171fb494dcbca05fe8958bcef84144d5" alt="" width="50" /> | 1 | 0 | Hot Chocolate | [🔗](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 1 | 0 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2c61d9506d5af5fb502b343f" alt="" width="50" /> | 1 | 0 | Gorillaz | [🔗](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb78f77c5583ae99472dd4a49" alt="" width="50" /> | 1 | 0 | David Bowie | [🔗](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 1 | 0 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1ba8fc5f5c73e7e9313cc6eb" alt="" width="50" /> | 239 | 7 | 2 | [Coldplay](../../artists/coldplay/overview.md) | [🔗](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebba025c8f62612b2ca6bfa375" alt="" width="50" /> | 276 | 1 | 1 | Hatsune Miku | [🔗](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb573935eb61a1897aeb43c531" alt="" width="50" /> | 1 | 1 | 1 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb200914459687748118b36954" alt="" width="50" /> | 277 | 1 | 1 | Ashnikko | [🔗](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc46999e5afaf35c91cbe652b" alt="" width="50" /> | 400 | 1 | 1 | Kraftwerk | [🔗](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) |
+| <img src="https://i.scdn.co/image/dd72b50e171fb494dcbca05fe8958bcef84144d5" alt="" width="50" /> | 400 | 1 | 0 | Hot Chocolate | [🔗](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 121 | 1 | 0 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2c61d9506d5af5fb502b343f" alt="" width="50" /> | 400 | 1 | 0 | Gorillaz | [🔗](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb78f77c5583ae99472dd4a49" alt="" width="50" /> | 400 | 1 | 0 | David Bowie | [🔗](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 44 | 1 | 0 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
 
 
 <details>
 <summary>See all 11 artists</summary>
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb25be8d51c6a5499a2b0116e8" alt="" width="50" /> | 1 | 0 | We Are KING | [🔗](https://open.spotify.com/artist/0FPWyyf6MD4QZTj3aypD3O) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb25be8d51c6a5499a2b0116e8" alt="" width="50" /> | 400 | 1 | 0 | We Are KING | [🔗](https://open.spotify.com/artist/0FPWyyf6MD4QZTj3aypD3O) |
 
 </details>
 
@@ -39,27 +39,27 @@ Appears as:
 
 ## Top Albums
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="" width="50" /> | 2 | 0 | Mylo Xyloto | 2011-10-24 | [🔗](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e" alt="" width="50" /> | 1 | 1 | Viva La Vida or Death and All His Friends | 2008-05-26 | [🔗](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a" alt="" width="50" /> | 1 | 1 | Parachutes | 2000-07-10 | [🔗](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="" width="50" /> | 1 | 1 | Hold On Tight | 2023-03-30 | [🔗](https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="" width="50" /> | 1 | 1 | Daisy 2.0 (feat. Hatsune Miku) | 2020-12-11 | [🔗](https://open.spotify.com/album/6JZYS7UElSfjyTgFgE1ApG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="" width="50" /> | 1 | 1 | 3-D The Catalogue | 2017-05-26 | [🔗](https://open.spotify.com/album/6nnO5r6I1JtSZ8eTwwIiIF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d" alt="" width="50" /> | 1 | 0 | Music Of The Spheres | 2021-10-15 | [🔗](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a03bcdbf45f9ed71cf0947bd" alt="" width="50" /> | 1 | 0 | Hot Chocolate | 1975 | [🔗](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273733913465adb99353020b805" alt="" width="50" /> | 1 | 0 | Everyday Life | 2019-11-22 | [🔗](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="" width="50" /> | 1 | 0 | Demon Days | 2005-05-23 | [🔗](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="" width="50" /> | 581 | 2 | 0 | Mylo Xyloto | 2011-10-24 | [🔗](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e" alt="" width="50" /> | 581 | 1 | 1 | Viva La Vida or Death and All His Friends | 2008-05-26 | [🔗](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a" alt="" width="50" /> | 581 | 1 | 1 | Parachutes | 2000-07-10 | [🔗](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="" width="50" /> | 43 | 1 | 1 | Hold On Tight | 2023-03-30 | [🔗](https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="" width="50" /> | 330 | 1 | 1 | Daisy 2.0 (feat. Hatsune Miku) | 2020-12-11 | [🔗](https://open.spotify.com/album/6JZYS7UElSfjyTgFgE1ApG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="" width="50" /> | 581 | 1 | 1 | 3-D The Catalogue | 2017-05-26 | [🔗](https://open.spotify.com/album/6nnO5r6I1JtSZ8eTwwIiIF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d" alt="" width="50" /> | 581 | 1 | 0 | Music Of The Spheres | 2021-10-15 | [🔗](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a03bcdbf45f9ed71cf0947bd" alt="" width="50" /> | 581 | 1 | 0 | Hot Chocolate | 1975 | [🔗](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273733913465adb99353020b805" alt="" width="50" /> | 581 | 1 | 0 | Everyday Life | 2019-11-22 | [🔗](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf" alt="" width="50" /> | 581 | 1 | 0 | Demon Days | 2005-05-23 | [🔗](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) |
 
 
 <details>
 <summary>See all 12 albums</summary>
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733395f3e809dfbc2b1101d464" alt="" width="50" /> | 1 | 0 | David Bowie (aka Space Oddity) [2015 Remaster] | 1969-11-04 | [🔗](https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f30d36db3dd22681531d1da" alt="" width="50" /> | 1 | 0 | Christmas Lights | 2010-12-01 | [🔗](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2733395f3e809dfbc2b1101d464" alt="" width="50" /> | 581 | 1 | 0 | David Bowie (aka Space Oddity) [2015 Remaster] | 1969-11-04 | [🔗](https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f30d36db3dd22681531d1da" alt="" width="50" /> | 581 | 1 | 0 | Christmas Lights | 2010-12-01 | [🔗](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) |
 
 </details>
 

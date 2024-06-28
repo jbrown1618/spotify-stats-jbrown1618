@@ -19,64 +19,64 @@ Appears as:
 
 ## Top Artists
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb573935eb61a1897aeb43c531" alt="" width="50" /> | 19 | 15 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb810767ab30460c964195f598" alt="" width="50" /> | 13 | 8 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | 10 | 6 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | 7 | 5 | [Jackson Wang](../../artists/jackson_wang/overview.md) | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | 5 | 4 | Muse | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="" width="50" /> | 5 | 4 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
-| <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | 4 | 4 | [Rilo Kiley](../../artists/rilo_kiley/overview.md) | [🔗](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | 6 | 3 | Fleetwood Mac | [🔗](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | 3 | 3 | Prince | [🔗](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebead1540fa76796266fadba33" alt="" width="50" /> | 4 | 2 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb573935eb61a1897aeb43c531" alt="" width="50" /> | 1 | 19 | 15 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb810767ab30460c964195f598" alt="" width="50" /> | 86 | 13 | 8 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | 82 | 10 | 6 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0405e7cc11aecb995703d398" alt="" width="50" /> | 71 | 7 | 5 | [Jackson Wang](../../artists/jackson_wang/overview.md) | [🔗](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | 321 | 5 | 4 | Muse | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="" width="50" /> | 267 | 5 | 4 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
+| <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" alt="" width="50" /> | 190 | 4 | 4 | [Rilo Kiley](../../artists/rilo_kiley/overview.md) | [🔗](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | 400 | 6 | 3 | Fleetwood Mac | [🔗](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | 174 | 3 | 3 | Prince | [🔗](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebead1540fa76796266fadba33" alt="" width="50" /> | 314 | 4 | 2 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 
 
 <details>
 <summary>See all 49 artists</summary>
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b" alt="" width="50" /> | 3 | 2 | Madonna | [🔗](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8" alt="" width="50" /> | 6 | 1 | Red Hot Chili Peppers | [🔗](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4870cd833ebe1092601820c3" alt="" width="50" /> | 2 | 1 | Black Sabbath | [🔗](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 2 | 1 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | 1 | 1 | [HWASA](../../artists/hwasa/overview.md) | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb90ddbcd825c7b6142d269e26" alt="" width="50" /> | 1 | 1 | PinkPantheress | [🔗](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb098d901516df803fdfa7bb74" alt="" width="50" /> | 1 | 1 | Waka Flocka Flame | [🔗](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb204ce9bb25bd19a056cac78a" alt="" width="50" /> | 1 | 1 | Wale | [🔗](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | 1 | 1 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1d8e3ecf59f556b8e4fafce8" alt="" width="50" /> | 1 | 1 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | 1 | 1 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3" alt="" width="50" /> | 1 | 1 | Travis Barker | [🔗](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 1 | 1 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd969cf117d0b0d4424bebdc5" alt="" width="50" /> | 1 | 1 | keshi | [🔗](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf76e11a5f3c08955fecea690" alt="" width="50" /> | 1 | 1 | Teddy Swims | [🔗](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebca17170af02af227d6ea0c31" alt="" width="50" /> | 1 | 1 | Herbie Hancock | [🔗](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) |
-| | 1 | 1 | Ice Spice | [🔗](https://open.spotify.com/artist/2UGOgGVKYvmYKJISBePcgv) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5fd1861f4c260b5855fd3a90" alt="" width="50" /> | 1 | 1 | nævis | [🔗](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb23e614922b351df9c2e93a2b" alt="" width="50" /> | 1 | 1 | MAX | [🔗](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb500d220da763cbff33c69128" alt="" width="50" /> | 1 | 1 | 88rising | [🔗](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf556662d187b9191c421be1c" alt="" width="50" /> | 1 | 1 | 2 Chainz | [🔗](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2c240396ef0dbbc48da7550b" alt="" width="50" /> | 1 | 1 | Roscoe Dash | [🔗](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0d53f158f4070d5a72190c4c" alt="" width="50" /> | 1 | 1 | Stephanie Poetri | [🔗](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb86b13e4d2e65ebf694384ef4" alt="" width="50" /> | 2 | 0 | John Williams | [🔗](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb24b3c0f33bc5e3f6a53f84d7" alt="" width="50" /> | 1 | 0 | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb163f66fedf73f7d1759cea61" alt="" width="50" /> | 1 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb15f9e9bf9aa9069d53fec1ce" alt="" width="50" /> | 1 | 0 | Cher | [🔗](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9ce996547e0b307c94f662e6" alt="" width="50" /> | 1 | 0 | Enya | [🔗](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb84a0dd74f21e8acce6a9fd49" alt="" width="50" /> | 1 | 0 | Linkin Park | [🔗](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3a475812e97ee788cfd5fd1a" alt="" width="50" /> | 1 | 0 | Deep Purple | [🔗](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) |
-| | 1 | 0 | YEJI & RYUJIN of ITZY | [🔗](https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 1 | 0 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebaa2d9bd207a62adc3edf6631" alt="" width="50" /> | 1 | 0 | Florida Georgia Line | [🔗](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb90e3fd86189f24d3f7dcb399" alt="" width="50" /> | 1 | 0 | Ciara | [🔗](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a" alt="" width="50" /> | 1 | 0 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb82c3ba21822db2c7cb5e5ba7" alt="" width="50" /> | 1 | 0 | Bella Poarch | [🔗](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 1 | 0 | [Michael Bublé](../../artists/michael_bublé/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | 1 | 0 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb845fb635fad84bdcda4bf51f" alt="" width="50" /> | 1 | 0 | Howard Shore | [🔗](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b" alt="" width="50" /> | 400 | 3 | 2 | Madonna | [🔗](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8" alt="" width="50" /> | 400 | 6 | 1 | Red Hot Chili Peppers | [🔗](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4870cd833ebe1092601820c3" alt="" width="50" /> | 400 | 2 | 1 | Black Sabbath | [🔗](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 400 | 2 | 1 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | 40 | 1 | 1 | [HWASA](../../artists/hwasa/overview.md) | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb90ddbcd825c7b6142d269e26" alt="" width="50" /> | 400 | 1 | 1 | PinkPantheress | [🔗](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb098d901516df803fdfa7bb74" alt="" width="50" /> | 400 | 1 | 1 | Waka Flocka Flame | [🔗](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb204ce9bb25bd19a056cac78a" alt="" width="50" /> | 400 | 1 | 1 | Wale | [🔗](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | 193 | 1 | 1 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1d8e3ecf59f556b8e4fafce8" alt="" width="50" /> | 400 | 1 | 1 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | 255 | 1 | 1 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb217f81a86110ebc7c0e43fb3" alt="" width="50" /> | 316 | 1 | 1 | Travis Barker | [🔗](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 3 | 1 | 1 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd969cf117d0b0d4424bebdc5" alt="" width="50" /> | 192 | 1 | 1 | keshi | [🔗](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf76e11a5f3c08955fecea690" alt="" width="50" /> | 400 | 1 | 1 | Teddy Swims | [🔗](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca17170af02af227d6ea0c31" alt="" width="50" /> | 198 | 1 | 1 | Herbie Hancock | [🔗](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) |
+| | 400 | 1 | 1 | Ice Spice | [🔗](https://open.spotify.com/artist/2UGOgGVKYvmYKJISBePcgv) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5fd1861f4c260b5855fd3a90" alt="" width="50" /> | 48 | 1 | 1 | nævis | [🔗](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb23e614922b351df9c2e93a2b" alt="" width="50" /> | 400 | 1 | 1 | MAX | [🔗](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb500d220da763cbff33c69128" alt="" width="50" /> | 400 | 1 | 1 | 88rising | [🔗](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf556662d187b9191c421be1c" alt="" width="50" /> | 400 | 1 | 1 | 2 Chainz | [🔗](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2c240396ef0dbbc48da7550b" alt="" width="50" /> | 400 | 1 | 1 | Roscoe Dash | [🔗](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0d53f158f4070d5a72190c4c" alt="" width="50" /> | 400 | 1 | 1 | Stephanie Poetri | [🔗](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb86b13e4d2e65ebf694384ef4" alt="" width="50" /> | 333 | 2 | 0 | John Williams | [🔗](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb24b3c0f33bc5e3f6a53f84d7" alt="" width="50" /> | 400 | 1 | 0 | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb163f66fedf73f7d1759cea61" alt="" width="50" /> | 320 | 1 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb15f9e9bf9aa9069d53fec1ce" alt="" width="50" /> | 400 | 1 | 0 | Cher | [🔗](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9ce996547e0b307c94f662e6" alt="" width="50" /> | 400 | 1 | 0 | Enya | [🔗](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb84a0dd74f21e8acce6a9fd49" alt="" width="50" /> | 400 | 1 | 0 | Linkin Park | [🔗](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3a475812e97ee788cfd5fd1a" alt="" width="50" /> | 400 | 1 | 0 | Deep Purple | [🔗](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) |
+| | 400 | 1 | 0 | YEJI & RYUJIN of ITZY | [🔗](https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 400 | 1 | 0 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebaa2d9bd207a62adc3edf6631" alt="" width="50" /> | 400 | 1 | 0 | Florida Georgia Line | [🔗](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb90e3fd86189f24d3f7dcb399" alt="" width="50" /> | 79 | 1 | 0 | Ciara | [🔗](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a" alt="" width="50" /> | 5 | 1 | 0 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb82c3ba21822db2c7cb5e5ba7" alt="" width="50" /> | 400 | 1 | 0 | Bella Poarch | [🔗](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebef8cf61fea4923d2bde68200" alt="" width="50" /> | 91 | 1 | 0 | [Michael Bublé](../../artists/michael_bublé/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | 400 | 1 | 0 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb845fb635fad84bdcda4bf51f" alt="" width="50" /> | 53 | 1 | 0 | Howard Shore | [🔗](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) |
 
 </details>
 
@@ -85,71 +85,71 @@ Appears as:
 
 ## Top Albums
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | 7 | 7 | Vows (Deluxe Version) | 2011 | [🔗](https://open.spotify.com/album/6V9rvW05Um5bIHePPfeI8p) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | 6 | 5 | MY WORLD - The 3rd Mini Album | 2023-05-08 | [🔗](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 6 | 5 | Girls - The 2nd Mini Album | 2022-07-08 | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="" width="50" /> | 6 | 3 | Future Nostalgia | 2020-03-27 | [🔗](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | 5 | 4 | Drama - The 4th Mini Album | 2023-11-10 | [🔗](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | 5 | 0 | Primal Heart | 2018-04-20 | [🔗](https://open.spotify.com/album/4pj0BkJ7u39i009oqe8V79) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="" width="50" /> | 4 | 1 | Stadium Arcadium | 2006-05-09 | [🔗](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | 3 | 3 | More Adventurous (U.S. Release) | 2004-07-27 | [🔗](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | 3 | 3 | MAGIC MAN | 2022-09-09 | [🔗](https://open.spotify.com/album/2VZ4og2ZbwyTQ3X1rbgCe1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | 3 | 1 | Rumours (Super Deluxe) | 1977-02-04 | [🔗](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | 165 | 7 | 7 | Vows (Deluxe Version) | 2011 | [🔗](https://open.spotify.com/album/6V9rvW05Um5bIHePPfeI8p) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | 2 | 6 | 5 | MY WORLD - The 3rd Mini Album | 2023-05-08 | [🔗](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 13 | 6 | 5 | Girls - The 2nd Mini Album | 2022-07-08 | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="" width="50" /> | 581 | 6 | 3 | Future Nostalgia | 2020-03-27 | [🔗](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | 4 | 5 | 4 | Drama - The 4th Mini Album | 2023-11-10 | [🔗](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d56201d2b07c5950c540f0c8" alt="" width="50" /> | 581 | 5 | 0 | Primal Heart | 2018-04-20 | [🔗](https://open.spotify.com/album/4pj0BkJ7u39i009oqe8V79) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="" width="50" /> | 581 | 4 | 1 | Stadium Arcadium | 2006-05-09 | [🔗](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | 581 | 3 | 3 | More Adventurous (U.S. Release) | 2004-07-27 | [🔗](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | 252 | 3 | 3 | MAGIC MAN | 2022-09-09 | [🔗](https://open.spotify.com/album/2VZ4og2ZbwyTQ3X1rbgCe1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b" alt="" width="50" /> | 581 | 3 | 1 | Rumours (Super Deluxe) | 1977-02-04 | [🔗](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) |
 
 
 <details>
 <summary>See all 56 albums</summary>
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | 2 | 2 | The 2nd Law | 2012-09-24 | [🔗](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | 2 | 2 | Talk Dirty | 2013-09-10 | [🔗](https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | 2 | 2 | Purple Rain | 1984-06-25 | [🔗](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="" width="50" /> | 2 | 2 | Fleetwood Mac | 1975-07-11 | [🔗](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ae395b47b186c2bc8c458e0f" alt="" width="50" /> | 2 | 2 | Dua Lipa (Complete Edition) | 2018-10-19 | [🔗](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dc948460a8f5b07124d98a9b" alt="" width="50" /> | 2 | 1 | Cheetah | 2023-04-24 | [🔗](https://open.spotify.com/album/4nK0XlFVAQNesqpijBX1Ri) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a9c7219995206b7b7004ba2f" alt="" width="50" /> | 2 | 1 | Celebration (Bonus Track Version) | 2009-09-18 | [🔗](https://open.spotify.com/album/4GU7z3q6fg90MWrkTacYYG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="" width="50" /> | 2 | 1 | Black Holes and Revelations | 2006-06-19 | [🔗](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27314b01732077ced86294ed8a6" alt="" width="50" /> | 2 | 0 | Superman: The Movie (Original Motion Picture Soundtrack) | 2005-03-15 | [🔗](https://open.spotify.com/album/7Hlfql6zSPcQGyZZ6TY5jO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | 1 | 1 | Under The Blacklight (Standard Version) | 2007-08-20 | [🔗](https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273012d727b175d4a91c792fb4c" alt="" width="50" /> | 1 | 1 | The Ultimate Collection | 2017-02-03 | [🔗](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27369b3dd10eee85bb2652c3b05" alt="" width="50" /> | 1 | 1 | The Golden Echo | 2014-08-15 | [🔗](https://open.spotify.com/album/66hoUkjxM7tVQwu7bZocwP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27364d58f6e7672baecc8972806" alt="" width="50" /> | 1 | 1 | Tattoos (Deluxe Edition) | 2013-09-10 | [🔗](https://open.spotify.com/album/3wDeTllVvayYsWTHsFNWZQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27389fba37a3d30c462059917bd" alt="" width="50" /> | 1 | 1 | Physical (feat. Hwa Sa) | 2020-01-28 | [🔗](https://open.spotify.com/album/6apIJi4hf7U6cBOFwIqq1b) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27323cc0f0a925845a3de4aca38" alt="" width="50" /> | 1 | 1 | Parade - Music from the Motion Picture Under the Cherry Moon | 1986-03-31 | [🔗](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="" width="50" /> | 1 | 1 | Origin of Symmetry | 2001 | [🔗](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732a1ffd75bb148e58ce2a6cac" alt="" width="50" /> | 1 | 1 | Moondance (Deluxe Edition) | 1970-02 | [🔗](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d856e66d33e22746c21a09c" alt="" width="50" /> | 1 | 1 | Lose Control | 2023-06-23 | [🔗](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27399d424b0873a9a714279a9f3" alt="" width="50" /> | 1 | 1 | Like a Virgin | 1984-11-12 | [🔗](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735a06f6d9e1b5fee1670cfffc" alt="" width="50" /> | 1 | 1 | IT'S YOU (feat. keshi) | 2022-09-09 | [🔗](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27312e36c27d935e955b44c6581" alt="" width="50" /> | 1 | 1 | Heaven knows | 2023-11-10 | [🔗](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273488df3d22b1f5c0ea15b686a" alt="" width="50" /> | 1 | 1 | Head In The Clouds II | 2019-10-11 | [🔗](https://open.spotify.com/album/7bOpX6Ilc9UCFmH9uGyUDy) |
-| <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="" width="50" /> | 1 | 1 | Flockaveli | 2010-10-01 | [🔗](https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27330c348e8e33a9cdd1aa58152" alt="" width="50" /> | 1 | 1 | Fat Albert Rotunda | 1969-12-08 | [🔗](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | 1 | 1 | Everything Is 4 | 2015-05-29 | [🔗](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c2bcf77ad1fe40f6c7b88609" alt="" width="50" /> | 1 | 1 | Better Things | 2023-08-18 | [🔗](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="" width="50" /> | 1 | 1 | Better Mistakes | 2021-05-07 | [🔗](https://open.spotify.com/album/0ypVp54cO3kexiJNu33wYp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0927ea5b0dde802e65eb9b6" alt="" width="50" /> | 1 | 1 | Baby, I'm Jealous (feat. Doja Cat) | 2020-10-09 | [🔗](https://open.spotify.com/album/2N367tN1eIXrHNVe86aVy4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273120a4749a5ea995604bf60ff" alt="" width="50" /> | 1 | 0 | Watermark | 1988 | [🔗](https://open.spotify.com/album/2FZ2y8Z5sTRSnnSa8DIPHz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737a2a55eaab314c41d8f6e512" alt="" width="50" /> | 1 | 0 | Tusk (2015 Remaster) | 1979-10-12 | [🔗](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f" alt="" width="50" /> | 1 | 0 | The Lord of the Rings: The Fellowship of the Ring - the Complete Recordings | 2001 | [🔗](https://open.spotify.com/album/55RTkgUCP7t80hiTUhATMH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730d629b7dd61cb5d580acad39" alt="" width="50" /> | 1 | 0 | Swalla (feat. Nicki Minaj & Ty Dolla $ign) | 2017-02-23 | [🔗](https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" alt="" width="50" /> | 1 | 0 | Paranoid (Remaster) | 1970-09-18 | [🔗](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" alt="" width="50" /> | 1 | 0 | Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course | 2004-11-30 | [🔗](https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739ee9ec388e0827c88bfdfbd7" alt="" width="50" /> | 1 | 0 | Moondance (Expanded Edition) | 1970-02 | [🔗](https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bc9b44e950d5440ff65ea926" alt="" width="50" /> | 1 | 0 | Machine Head | 1972-03-25 | [🔗](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da4910056497c667d6de40cf" alt="" width="50" /> | 1 | 0 | LMLY | 2021-03-26 | [🔗](https://open.spotify.com/album/09UJf8ZqCuv5NHRZIqTZgh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731ca13e5d59a3a25e68fd7764" alt="" width="50" /> | 1 | 0 | Jingle Bell Rock | 2023-11-24 | [🔗](https://open.spotify.com/album/7dSaBwUid0hjWdJ5QzIKyu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | 1 | 0 | Holiday Wishes | 2014-10-10 | [🔗](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27361fe6d3a50c0beaa3cfe33e9" alt="" width="50" /> | 1 | 0 | Expectations | 2018-06-22 | [🔗](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b627441824c5d0748c8cb077" alt="" width="50" /> | 1 | 0 | Dua Lipa | 2017-06-02 | [🔗](https://open.spotify.com/album/2vlhlrgMaXqcnhRqIEV9AP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" alt="" width="50" /> | 1 | 0 | Californication (Deluxe Edition) | 1999-06-08 | [🔗](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4" alt="" width="50" /> | 1 | 0 | By the Way (Deluxe Edition) | 2002-07-09 | [🔗](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aeeb722667c831a4f5429ff0" alt="" width="50" /> | 1 | 0 | Build a Bitch | 2021-05-14 | [🔗](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="" width="50" /> | 1 | 0 | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | 2022-07-29 | [🔗](https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27306ce0d1f846c525e847d60e7" alt="" width="50" /> | 1 | 0 | Believe | 1998 | [🔗](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | 406 | 2 | 2 | The 2nd Law | 2012-09-24 | [🔗](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730376bdff8b70d934f297303e" alt="" width="50" /> | 581 | 2 | 2 | Talk Dirty | 2013-09-10 | [🔗](https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | 581 | 2 | 2 | Purple Rain | 1984-06-25 | [🔗](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="" width="50" /> | 581 | 2 | 2 | Fleetwood Mac | 1975-07-11 | [🔗](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ae395b47b186c2bc8c458e0f" alt="" width="50" /> | 581 | 2 | 2 | Dua Lipa (Complete Edition) | 2018-10-19 | [🔗](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dc948460a8f5b07124d98a9b" alt="" width="50" /> | 581 | 2 | 1 | Cheetah | 2023-04-24 | [🔗](https://open.spotify.com/album/4nK0XlFVAQNesqpijBX1Ri) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a9c7219995206b7b7004ba2f" alt="" width="50" /> | 581 | 2 | 1 | Celebration (Bonus Track Version) | 2009-09-18 | [🔗](https://open.spotify.com/album/4GU7z3q6fg90MWrkTacYYG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="" width="50" /> | 581 | 2 | 1 | Black Holes and Revelations | 2006-06-19 | [🔗](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314b01732077ced86294ed8a6" alt="" width="50" /> | 581 | 2 | 0 | Superman: The Movie (Original Motion Picture Soundtrack) | 2005-03-15 | [🔗](https://open.spotify.com/album/7Hlfql6zSPcQGyZZ6TY5jO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | 212 | 1 | 1 | Under The Blacklight (Standard Version) | 2007-08-20 | [🔗](https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273012d727b175d4a91c792fb4c" alt="" width="50" /> | 581 | 1 | 1 | The Ultimate Collection | 2017-02-03 | [🔗](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27369b3dd10eee85bb2652c3b05" alt="" width="50" /> | 581 | 1 | 1 | The Golden Echo | 2014-08-15 | [🔗](https://open.spotify.com/album/66hoUkjxM7tVQwu7bZocwP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27364d58f6e7672baecc8972806" alt="" width="50" /> | 581 | 1 | 1 | Tattoos (Deluxe Edition) | 2013-09-10 | [🔗](https://open.spotify.com/album/3wDeTllVvayYsWTHsFNWZQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389fba37a3d30c462059917bd" alt="" width="50" /> | 581 | 1 | 1 | Physical (feat. Hwa Sa) | 2020-01-28 | [🔗](https://open.spotify.com/album/6apIJi4hf7U6cBOFwIqq1b) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27323cc0f0a925845a3de4aca38" alt="" width="50" /> | 581 | 1 | 1 | Parade - Music from the Motion Picture Under the Cherry Moon | 1986-03-31 | [🔗](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="" width="50" /> | 581 | 1 | 1 | Origin of Symmetry | 2001 | [🔗](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732a1ffd75bb148e58ce2a6cac" alt="" width="50" /> | 581 | 1 | 1 | Moondance (Deluxe Edition) | 1970-02 | [🔗](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d856e66d33e22746c21a09c" alt="" width="50" /> | 581 | 1 | 1 | Lose Control | 2023-06-23 | [🔗](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27399d424b0873a9a714279a9f3" alt="" width="50" /> | 581 | 1 | 1 | Like a Virgin | 1984-11-12 | [🔗](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a06f6d9e1b5fee1670cfffc" alt="" width="50" /> | 581 | 1 | 1 | IT'S YOU (feat. keshi) | 2022-09-09 | [🔗](https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27312e36c27d935e955b44c6581" alt="" width="50" /> | 581 | 1 | 1 | Heaven knows | 2023-11-10 | [🔗](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273488df3d22b1f5c0ea15b686a" alt="" width="50" /> | 581 | 1 | 1 | Head In The Clouds II | 2019-10-11 | [🔗](https://open.spotify.com/album/7bOpX6Ilc9UCFmH9uGyUDy) |
+| <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="" width="50" /> | 581 | 1 | 1 | Flockaveli | 2010-10-01 | [🔗](https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27330c348e8e33a9cdd1aa58152" alt="" width="50" /> | 581 | 1 | 1 | Fat Albert Rotunda | 1969-12-08 | [🔗](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | 563 | 1 | 1 | Everything Is 4 | 2015-05-29 | [🔗](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c2bcf77ad1fe40f6c7b88609" alt="" width="50" /> | 31 | 1 | 1 | Better Things | 2023-08-18 | [🔗](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="" width="50" /> | 394 | 1 | 1 | Better Mistakes | 2021-05-07 | [🔗](https://open.spotify.com/album/0ypVp54cO3kexiJNu33wYp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0927ea5b0dde802e65eb9b6" alt="" width="50" /> | 581 | 1 | 1 | Baby, I'm Jealous (feat. Doja Cat) | 2020-10-09 | [🔗](https://open.spotify.com/album/2N367tN1eIXrHNVe86aVy4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273120a4749a5ea995604bf60ff" alt="" width="50" /> | 581 | 1 | 0 | Watermark | 1988 | [🔗](https://open.spotify.com/album/2FZ2y8Z5sTRSnnSa8DIPHz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737a2a55eaab314c41d8f6e512" alt="" width="50" /> | 581 | 1 | 0 | Tusk (2015 Remaster) | 1979-10-12 | [🔗](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f" alt="" width="50" /> | 581 | 1 | 0 | The Lord of the Rings: The Fellowship of the Ring - the Complete Recordings | 2001 | [🔗](https://open.spotify.com/album/55RTkgUCP7t80hiTUhATMH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d629b7dd61cb5d580acad39" alt="" width="50" /> | 581 | 1 | 0 | Swalla (feat. Nicki Minaj & Ty Dolla $ign) | 2017-02-23 | [🔗](https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5fccf9ce08b6a1e7d12a222" alt="" width="50" /> | 581 | 1 | 0 | Paranoid (Remaster) | 1970-09-18 | [🔗](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516" alt="" width="50" /> | 581 | 1 | 0 | Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course | 2004-11-30 | [🔗](https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739ee9ec388e0827c88bfdfbd7" alt="" width="50" /> | 581 | 1 | 0 | Moondance (Expanded Edition) | 1970-02 | [🔗](https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bc9b44e950d5440ff65ea926" alt="" width="50" /> | 581 | 1 | 0 | Machine Head | 1972-03-25 | [🔗](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da4910056497c667d6de40cf" alt="" width="50" /> | 581 | 1 | 0 | LMLY | 2021-03-26 | [🔗](https://open.spotify.com/album/09UJf8ZqCuv5NHRZIqTZgh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ca13e5d59a3a25e68fd7764" alt="" width="50" /> | 88 | 1 | 0 | Jingle Bell Rock | 2023-11-24 | [🔗](https://open.spotify.com/album/7dSaBwUid0hjWdJ5QzIKyu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | 401 | 1 | 0 | Holiday Wishes | 2014-10-10 | [🔗](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27361fe6d3a50c0beaa3cfe33e9" alt="" width="50" /> | 581 | 1 | 0 | Expectations | 2018-06-22 | [🔗](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b627441824c5d0748c8cb077" alt="" width="50" /> | 581 | 1 | 0 | Dua Lipa | 2017-06-02 | [🔗](https://open.spotify.com/album/2vlhlrgMaXqcnhRqIEV9AP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595" alt="" width="50" /> | 581 | 1 | 0 | Californication (Deluxe Edition) | 1999-06-08 | [🔗](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4" alt="" width="50" /> | 581 | 1 | 0 | By the Way (Deluxe Edition) | 2002-07-09 | [🔗](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aeeb722667c831a4f5429ff0" alt="" width="50" /> | 581 | 1 | 0 | Build a Bitch | 2021-05-14 | [🔗](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="" width="50" /> | 581 | 1 | 0 | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | 2022-07-29 | [🔗](https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27306ce0d1f846c525e847d60e7" alt="" width="50" /> | 581 | 1 | 0 | Believe | 1998 | [🔗](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) |
 
 </details>
 
@@ -380,20 +380,20 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Salty & Sweet | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 117 | 💚 | [🔗](https://open.spotify.com/track/4wQDjZtXjsFtU3BLSiIH4t) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | Salty & Sweet | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 116 | 💚 | [🔗](https://open.spotify.com/track/4wQDjZtXjsFtU3BLSiIH4t) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c54e39f2ae0dd10731f93c08" alt="" width="50" /> | YOLO | Drama - The 4th Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 186 | | [🔗](https://open.spotify.com/track/3OQWohbPUsvbXaH1AiRazX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | I'm Unhappy | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 199 | 💚 | [🔗](https://open.spotify.com/track/6fzio74FGqFFsenYkbGPzR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Girls | Girls - The 2nd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 206 | 💚 | [🔗](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Settle Down | Vows (Deluxe Version) | [Kimbra](../../artists/kimbra/overview.md) | [Warner Records](.) | 221 | 💚 | [🔗](https://open.spotify.com/track/6cdslY3YKjh7pImxFhSBVG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | 'Til We Meet Again | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 259 | | [🔗](https://open.spotify.com/track/60Uio68M57PwKEgZxSutL6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Settle Down | Vows (Deluxe Version) | [Kimbra](../../artists/kimbra/overview.md) | [Warner Records](.) | 222 | 💚 | [🔗](https://open.spotify.com/track/6cdslY3YKjh7pImxFhSBVG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | 'Til We Meet Again | MY WORLD - The 3rd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 260 | | [🔗](https://open.spotify.com/track/60Uio68M57PwKEgZxSutL6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | Silver Lining | Under The Blacklight (Standard Version) | [Rilo Kiley](../../artists/rilo_kiley/overview.md) | [Warner Records](.) | 290 | 💚 | [🔗](https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | Blow | MAGIC MAN | [Jackson Wang](../../artists/jackson_wang/overview.md) | TEAM WANG records, [88rising Music](../88rising_music), [Warner Records](.) | 342 | 💚 | [🔗](https://open.spotify.com/track/53WD6QvMGh7wXQVP0U8Rnr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="" width="50" /> | Break My Heart Myself (feat. Travis Barker) | Better Mistakes | Bebe Rexha, Travis Barker | [Warner Records](.) | 579 | 💚 | [🔗](https://open.spotify.com/track/3UjGudrhckjEQjKHLR3p5G) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | Baby It's Cold Outside (with Michael Bublé) | Holiday Wishes | Idina Menzel, [Michael Bublé](../../artists/michael_bublé/overview.md) | [Warner Records](.) | 589 | | [🔗](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | Madness | The 2nd Law | Muse | [Warner Records](.) | 599 | 💚 | [🔗](https://open.spotify.com/track/0c4IEciLCDdXEhhKxj4ThA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed10325dc317f32df83990b9" alt="" width="50" /> | Blow | MAGIC MAN | [Jackson Wang](../../artists/jackson_wang/overview.md) | TEAM WANG records, [88rising Music](../88rising_music), [Warner Records](.) | 341 | 💚 | [🔗](https://open.spotify.com/track/53WD6QvMGh7wXQVP0U8Rnr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204" alt="" width="50" /> | Break My Heart Myself (feat. Travis Barker) | Better Mistakes | Bebe Rexha, Travis Barker | [Warner Records](.) | 580 | 💚 | [🔗](https://open.spotify.com/track/3UjGudrhckjEQjKHLR3p5G) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | Baby It's Cold Outside (with Michael Bublé) | Holiday Wishes | Idina Menzel, [Michael Bublé](../../artists/michael_bublé/overview.md) | [Warner Records](.) | 591 | | [🔗](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | Madness | The 2nd Law | Muse | [Warner Records](.) | 601 | 💚 | [🔗](https://open.spotify.com/track/0c4IEciLCDdXEhhKxj4ThA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | Life's Too Short | Girls - The 2nd Mini Album | [aespa](../../artists/aespa/overview.md) | [SM Entertainment](../sm_entertainment), [Warner Records](.) | 688 | 💚 | [🔗](https://open.spotify.com/track/1uIN3VCVKzMXqF2A2Qlw5q) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Limbo | Vows (Deluxe Version) | [Kimbra](../../artists/kimbra/overview.md) | [Warner Records](.) | 831 | 💚 | [🔗](https://open.spotify.com/track/6go4VH47IaXtYlTGHizjhm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | Get Ugly | Everything Is 4 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [Beluga Heights/Warner Records](.) | 841 | 💚 | [🔗](https://open.spotify.com/track/1dl3vuXJS9anUXE7XnNP75) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | Limbo | Vows (Deluxe Version) | [Kimbra](../../artists/kimbra/overview.md) | [Warner Records](.) | 829 | 💚 | [🔗](https://open.spotify.com/track/6go4VH47IaXtYlTGHizjhm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db" alt="" width="50" /> | Get Ugly | Everything Is 4 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [Beluga Heights/Warner Records](.) | 844 | 💚 | [🔗](https://open.spotify.com/track/1dl3vuXJS9anUXE7XnNP75) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27330c348e8e33a9cdd1aa58152" alt="" width="50" /> | Tell Me a Bedtime Story | Fat Albert Rotunda | Herbie Hancock | [Rhino](../rhino), [Warner Records](.) | 868 | 💚 | [🔗](https://open.spotify.com/track/6eimz6jvlZaPwtflDWCTa0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a1ffd75bb148e58ce2a6cac" alt="" width="50" /> | Moondance - 2013 Remaster | Moondance (Deluxe Edition) | Van Morrison | [Warner Records](.) | 868 | 💚 | [🔗](https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739ee9ec388e0827c88bfdfbd7" alt="" width="50" /> | Crazy Love - 2013 Remaster | Moondance (Expanded Edition) | Van Morrison | [Warner Records](.) | 868 | | [🔗](https://open.spotify.com/track/2hjAc6x8EoSLhGxRNg8KEw) |

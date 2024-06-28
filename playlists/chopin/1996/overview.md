@@ -2,16 +2,16 @@
 
 ## Artists
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe55372097569b7b56b439365" alt="" width="50" /> | 28 | 0 | [Frédéric Chopin](../../../artists/frédéric_chopin/overview.md) | [🔗](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba5a4a932f73faefc19b4e24f" alt="" width="50" /> | 28 | 0 | [Vladimir Ashkenazy](../../../artists/vladimir_ashkenazy/overview.md) | [🔗](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe55372097569b7b56b439365" alt="" width="50" /> | 400 | 28 | 0 | [Frédéric Chopin](../../../artists/frédéric_chopin/overview.md) | [🔗](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba5a4a932f73faefc19b4e24f" alt="" width="50" /> | 200 | 28 | 0 | [Vladimir Ashkenazy](../../../artists/vladimir_ashkenazy/overview.md) | [🔗](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) |
 
 ## Albums
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="" width="50" /> | 28 | 0 | Chopin: Polonaises | 1996-01-01 | [🔗](https://open.spotify.com/album/19ofW4fqCAR2uQJKVWw6L6) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="" width="50" /> | 581 | 28 | 0 | Chopin: Polonaises | 1996-01-01 | [🔗](https://open.spotify.com/album/19ofW4fqCAR2uQJKVWw6L6) |
 
 ## Tracks
 

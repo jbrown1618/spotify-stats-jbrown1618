@@ -2,53 +2,53 @@
 
 ## Artists
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb746dd598cf914934bd27ed7e" alt="" width="50" /> | 8 | 5 | [Pentatonix](../../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb36c6fa1b8ff851988de641f8" alt="" width="50" /> | 2 | 2 | [Lindsey Stirling](../../../artists/lindsey_stirling/overview.md) | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3a9c5b798300322d4bc698f0" alt="" width="50" /> | 8 | 0 | Tar Heel Voices | [🔗](https://open.spotify.com/artist/1apO6pJsV1nwuF2K8sEsDo) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd7125855c1ecfb7680363db7" alt="" width="50" /> | 2 | 0 | Ithacappella | [🔗](https://open.spotify.com/artist/5bPTIGQvxRNjr6wl9yyAct) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8c4a9d4a5f8004ad4d0195aa" alt="" width="50" /> | 2 | 0 | The Nor'easters | [🔗](https://open.spotify.com/artist/1aLfVgwt8eBrpvHcutWmqe) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5c2b393e7d8a0a1bdb64b231" alt="" width="50" /> | 1 | 0 | Peter Hollens | [🔗](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3d31148f43345a656ba8ae76" alt="" width="50" /> | 1 | 0 | The Dartmouth Aires | [🔗](https://open.spotify.com/artist/71Cez1b1NqsxIn5u8XNiQD) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebca07421c1f955de405f70021" alt="" width="50" /> | 1 | 0 | BYU Vocal Point | [🔗](https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf304b5e3a490e7a19fbcb749" alt="" width="50" /> | 1 | 0 | The Statesmen | [🔗](https://open.spotify.com/artist/5m9J0qjRMcetcTxN535NBZ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb78999d4b6fb0847081e2f479" alt="" width="50" /> | 1 | 0 | SoCal VoCals | [🔗](https://open.spotify.com/artist/5L30XpwHG77eWCZtelTns9) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb746dd598cf914934bd27ed7e" alt="" width="50" /> | 33 | 8 | 5 | [Pentatonix](../../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb36c6fa1b8ff851988de641f8" alt="" width="50" /> | 400 | 2 | 2 | [Lindsey Stirling](../../../artists/lindsey_stirling/overview.md) | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3a9c5b798300322d4bc698f0" alt="" width="50" /> | 400 | 8 | 0 | Tar Heel Voices | [🔗](https://open.spotify.com/artist/1apO6pJsV1nwuF2K8sEsDo) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd7125855c1ecfb7680363db7" alt="" width="50" /> | 400 | 2 | 0 | Ithacappella | [🔗](https://open.spotify.com/artist/5bPTIGQvxRNjr6wl9yyAct) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8c4a9d4a5f8004ad4d0195aa" alt="" width="50" /> | 400 | 2 | 0 | The Nor'easters | [🔗](https://open.spotify.com/artist/1aLfVgwt8eBrpvHcutWmqe) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5c2b393e7d8a0a1bdb64b231" alt="" width="50" /> | 400 | 1 | 0 | Peter Hollens | [🔗](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3d31148f43345a656ba8ae76" alt="" width="50" /> | 400 | 1 | 0 | The Dartmouth Aires | [🔗](https://open.spotify.com/artist/71Cez1b1NqsxIn5u8XNiQD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca07421c1f955de405f70021" alt="" width="50" /> | 400 | 1 | 0 | BYU Vocal Point | [🔗](https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf304b5e3a490e7a19fbcb749" alt="" width="50" /> | 400 | 1 | 0 | The Statesmen | [🔗](https://open.spotify.com/artist/5m9J0qjRMcetcTxN535NBZ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb78999d4b6fb0847081e2f479" alt="" width="50" /> | 400 | 1 | 0 | SoCal VoCals | [🔗](https://open.spotify.com/artist/5L30XpwHG77eWCZtelTns9) |
 
 
 <details>
 <summary>View all</summary>
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8be60bf944b4dfa165ed2995" alt="" width="50" /> | 1 | 0 | Vocal Point (University of Delaware) | [🔗](https://open.spotify.com/artist/4nrhXBXu7FnxWeSbB21bfk) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb504c57086f85855719dba0e3" alt="" width="50" /> | 1 | 0 | Tufts Beelzebubs | [🔗](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf9c4a13ec9833826f03a183a" alt="" width="50" /> | 1 | 0 | Evynne Hollens | [🔗](https://open.spotify.com/artist/3nj3MfJCFFoKiRkAOW1R8c) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf3504a2a1d55d7defa6cb2bc" alt="" width="50" /> | 1 | 0 | Hullabahoos | [🔗](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfdafe8faacce33ba647bb2ca" alt="" width="50" /> | 1 | 0 | Eight Beat Measure | [🔗](https://open.spotify.com/artist/3My1YRLewqqDXME2OkBpdZ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb71d410aa92b2950f9d59e2bc" alt="" width="50" /> | 1 | 0 | University of Rochester Midnight Ramblers | [🔗](https://open.spotify.com/artist/2Tv49uvEsNJXUpuFL7HuKu) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbd6758093c92bc8d0c21ba72" alt="" width="50" /> | 1 | 0 | Penn Masala | [🔗](https://open.spotify.com/artist/2MhJb1ljKttJewuYZTpXxr) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2e0ad34c3e72d947a63a60f2" alt="" width="50" /> | 1 | 0 | The Loreleis | [🔗](https://open.spotify.com/artist/1fqMjreaczGwFmdmG6AvJs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27326f8d98a82475c320a41a919" alt="" width="50" /> | 1 | 0 | Academical Village People | [🔗](https://open.spotify.com/artist/1Vjug1h4HXCeplbouQEbV3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb44b7da1ed96c2af6f91602c2" alt="" width="50" /> | 1 | 0 | The Virginia Gentlemen | [🔗](https://open.spotify.com/artist/0steWfkS4hwaErh84SlHMW) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb032f0433eca2a48c3fdfe379" alt="" width="50" /> | 1 | 0 | New Dominions | [🔗](https://open.spotify.com/artist/0PzFyYSC4Y7JarVyByrJPc) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8be60bf944b4dfa165ed2995" alt="" width="50" /> | 400 | 1 | 0 | Vocal Point (University of Delaware) | [🔗](https://open.spotify.com/artist/4nrhXBXu7FnxWeSbB21bfk) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb504c57086f85855719dba0e3" alt="" width="50" /> | 400 | 1 | 0 | Tufts Beelzebubs | [🔗](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf9c4a13ec9833826f03a183a" alt="" width="50" /> | 400 | 1 | 0 | Evynne Hollens | [🔗](https://open.spotify.com/artist/3nj3MfJCFFoKiRkAOW1R8c) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf3504a2a1d55d7defa6cb2bc" alt="" width="50" /> | 400 | 1 | 0 | Hullabahoos | [🔗](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfdafe8faacce33ba647bb2ca" alt="" width="50" /> | 400 | 1 | 0 | Eight Beat Measure | [🔗](https://open.spotify.com/artist/3My1YRLewqqDXME2OkBpdZ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb71d410aa92b2950f9d59e2bc" alt="" width="50" /> | 400 | 1 | 0 | University of Rochester Midnight Ramblers | [🔗](https://open.spotify.com/artist/2Tv49uvEsNJXUpuFL7HuKu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbd6758093c92bc8d0c21ba72" alt="" width="50" /> | 400 | 1 | 0 | Penn Masala | [🔗](https://open.spotify.com/artist/2MhJb1ljKttJewuYZTpXxr) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2e0ad34c3e72d947a63a60f2" alt="" width="50" /> | 400 | 1 | 0 | The Loreleis | [🔗](https://open.spotify.com/artist/1fqMjreaczGwFmdmG6AvJs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27326f8d98a82475c320a41a919" alt="" width="50" /> | 400 | 1 | 0 | Academical Village People | [🔗](https://open.spotify.com/artist/1Vjug1h4HXCeplbouQEbV3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb44b7da1ed96c2af6f91602c2" alt="" width="50" /> | 400 | 1 | 0 | The Virginia Gentlemen | [🔗](https://open.spotify.com/artist/0steWfkS4hwaErh84SlHMW) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb032f0433eca2a48c3fdfe379" alt="" width="50" /> | 400 | 1 | 0 | New Dominions | [🔗](https://open.spotify.com/artist/0PzFyYSC4Y7JarVyByrJPc) |
 
 </details>
 
 
 ## Albums
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="" width="50" /> | 9 | 0 | BOCA 2015: Best Of College A Cappella | 2014-12-19 | [🔗](https://open.spotify.com/album/0gyhBvJs1GiI31cMMmKLnK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273987a99b436a78299e8dcb7dd" alt="" width="50" /> | 8 | 0 | Quarter Past | 2014-11-18 | [🔗](https://open.spotify.com/album/1pScBPjmT5w3s0BTgkdgJy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | 6 | 4 | PTX, Vol. III | 2014-09-23 | [🔗](https://open.spotify.com/album/32y54TelUHSUDWVOx4h1B4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="" width="50" /> | 5 | 0 | BOCA 2014: Best Of College A Cappella | 2014-01-31 | [🔗](https://open.spotify.com/album/7rZoAMtoZ8s5mLIlUTWgVT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="" width="50" /> | 2 | 1 | PTX | 2014-09-19 | [🔗](https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27379b679128839141600389209" alt="" width="50" /> | 2 | 0 | Stages | 2014-09-21 | [🔗](https://open.spotify.com/album/3mnYoDcAHKx6uA91f7rtAa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733d0f26eb9219f5670aa84bda" alt="" width="50" /> | 1 | 0 | Peter Hollens | 2014-10-27 | [🔗](https://open.spotify.com/album/5kB9QXjsPtcUwvlj4w0dZV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273480fc6e065aa8b15bd01485d" alt="" width="50" /> | 1 | 0 | Burn | 2014-03-29 | [🔗](https://open.spotify.com/album/1fcocQi9SDelG4xiE3d7yQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273acd107057c2284c39f1c3b27" alt="" width="50" /> | 1 | 0 | Best of BOCA: The First 20 Years | 2014-04-15 | [🔗](https://open.spotify.com/album/5bcLIouxn2oBiGvf4vvO6u) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="" width="50" /> | 581 | 9 | 0 | BOCA 2015: Best Of College A Cappella | 2014-12-19 | [🔗](https://open.spotify.com/album/0gyhBvJs1GiI31cMMmKLnK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273987a99b436a78299e8dcb7dd" alt="" width="50" /> | 581 | 8 | 0 | Quarter Past | 2014-11-18 | [🔗](https://open.spotify.com/album/1pScBPjmT5w3s0BTgkdgJy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | 306 | 6 | 4 | PTX, Vol. III | 2014-09-23 | [🔗](https://open.spotify.com/album/32y54TelUHSUDWVOx4h1B4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="" width="50" /> | 581 | 5 | 0 | BOCA 2014: Best Of College A Cappella | 2014-01-31 | [🔗](https://open.spotify.com/album/7rZoAMtoZ8s5mLIlUTWgVT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="" width="50" /> | 581 | 2 | 1 | PTX | 2014-09-19 | [🔗](https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27379b679128839141600389209" alt="" width="50" /> | 581 | 2 | 0 | Stages | 2014-09-21 | [🔗](https://open.spotify.com/album/3mnYoDcAHKx6uA91f7rtAa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d0f26eb9219f5670aa84bda" alt="" width="50" /> | 581 | 1 | 0 | Peter Hollens | 2014-10-27 | [🔗](https://open.spotify.com/album/5kB9QXjsPtcUwvlj4w0dZV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273480fc6e065aa8b15bd01485d" alt="" width="50" /> | 581 | 1 | 0 | Burn | 2014-03-29 | [🔗](https://open.spotify.com/album/1fcocQi9SDelG4xiE3d7yQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273acd107057c2284c39f1c3b27" alt="" width="50" /> | 581 | 1 | 0 | Best of BOCA: The First 20 Years | 2014-04-15 | [🔗](https://open.spotify.com/album/5bcLIouxn2oBiGvf4vvO6u) |
 
 ## Tracks
 
@@ -56,8 +56,8 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Problem (Ariana Grande Cover) | PTX, Vol. III | [Pentatonix](../../../artists/pentatonix/overview.md) | [RCA Records Label](../../../labels/rca_records_label) | 492 | 💚 | [🔗](https://open.spotify.com/track/45h4cCw7ccsRXb0Orle2an) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Rather Be (Clean Bandit Cover) | PTX, Vol. III | [Pentatonix](../../../artists/pentatonix/overview.md) | [RCA Records Label](../../../labels/rca_records_label) | 593 | 💚 | [🔗](https://open.spotify.com/track/4hxemf0pE0mSzubgsfRLWu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Problem (Ariana Grande Cover) | PTX, Vol. III | [Pentatonix](../../../artists/pentatonix/overview.md) | [RCA Records Label](../../../labels/rca_records_label) | 494 | 💚 | [🔗](https://open.spotify.com/track/45h4cCw7ccsRXb0Orle2an) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Rather Be (Clean Bandit Cover) | PTX, Vol. III | [Pentatonix](../../../artists/pentatonix/overview.md) | [RCA Records Label](../../../labels/rca_records_label) | 598 | 💚 | [🔗](https://open.spotify.com/track/4hxemf0pE0mSzubgsfRLWu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="" width="50" /> | Breathe Again | BOCA 2014: Best Of College A Cappella | The Statesmen | [Varsity Vocals](../../../labels/varsity_vocals) | 868 | | [🔗](https://open.spotify.com/track/5wxyJOGMdJKVRHsjCx3IOb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="" width="50" /> | Domino | BOCA 2014: Best Of College A Cappella | Academical Village People | [Varsity Vocals](../../../labels/varsity_vocals) | 868 | | [🔗](https://open.spotify.com/track/3DKmS1wFIHh2fs2rLWnngc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="" width="50" /> | Don't You Worry Child | BOCA 2014: Best Of College A Cappella | The Nor'easters | [Varsity Vocals](../../../labels/varsity_vocals) | 868 | | [🔗](https://open.spotify.com/track/62RQw8vUhTQ96zpoeLP1ux) |

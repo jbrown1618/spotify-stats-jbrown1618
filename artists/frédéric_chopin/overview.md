@@ -9,23 +9,23 @@
 [See Clusters](clusters/overview.md)
 
 ## Artist Rank
-- The #400 artist overall
+- The #400 artist of all time
 
 
 ## Top Albums
 
 
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="" width="50" /> | 49 | 0 | Chopin: Waltzes; 4 Scherzos; 26 Preludes | 1999-01-01 | [🔗](https://open.spotify.com/album/0yCrQ6dCqiI6ldqI8LPqWB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | 30 | 0 | Chopin: Preludes; Sonata No.2 | 2002-01-01 | [🔗](https://open.spotify.com/album/33YXJqoFV5AQwbo4yfk22n) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="" width="50" /> | 28 | 0 | Chopin: Polonaises | 1996-01-01 | [🔗](https://open.spotify.com/album/19ofW4fqCAR2uQJKVWw6L6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="" width="50" /> | 25 | 0 | Chopin: Nocturnes; Four Ballades | 1997-01-01 | [🔗](https://open.spotify.com/album/0lrM7kR5o7iqkajLKIlzRg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59" alt="" width="50" /> | 19 | 0 | Chopin: Nocturnes | 2005-01-01 | [🔗](https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a7a2e0cab8f2db75a1c3f55" alt="" width="50" /> | 4 | 0 | Chopin: Ballades; Barcarolle; Fantaisie | 1988-01-01 | [🔗](https://open.spotify.com/album/5c9v5oU43Oo22MSG8EKFp2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cd31955199f9a2695c04b2a8" alt="" width="50" /> | 1 | 0 | Martha Argerich Live, Vol. 4 | 2017-01-20 | [🔗](https://open.spotify.com/album/69aoRIAIVb2TbIuxmxKYCR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b5fcd6996bf050f9f9010d3a" alt="" width="50" /> | 1 | 0 | Chopin: Piano Sonata No. 3, Fantasie-impromptu, Prélude, Nocturne, et al. | 2010-04-05 | [🔗](https://open.spotify.com/album/5QmPVpRux60kcHndJOl6bF) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="" width="50" /> | 581 | 49 | 0 | Chopin: Waltzes; 4 Scherzos; 26 Preludes | 1999-01-01 | [🔗](https://open.spotify.com/album/0yCrQ6dCqiI6ldqI8LPqWB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | 581 | 30 | 0 | Chopin: Preludes; Sonata No.2 | 2002-01-01 | [🔗](https://open.spotify.com/album/33YXJqoFV5AQwbo4yfk22n) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="" width="50" /> | 581 | 28 | 0 | Chopin: Polonaises | 1996-01-01 | [🔗](https://open.spotify.com/album/19ofW4fqCAR2uQJKVWw6L6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="" width="50" /> | 581 | 25 | 0 | Chopin: Nocturnes; Four Ballades | 1997-01-01 | [🔗](https://open.spotify.com/album/0lrM7kR5o7iqkajLKIlzRg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59" alt="" width="50" /> | 581 | 19 | 0 | Chopin: Nocturnes | 2005-01-01 | [🔗](https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a7a2e0cab8f2db75a1c3f55" alt="" width="50" /> | 581 | 4 | 0 | Chopin: Ballades; Barcarolle; Fantaisie | 1988-01-01 | [🔗](https://open.spotify.com/album/5c9v5oU43Oo22MSG8EKFp2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd31955199f9a2695c04b2a8" alt="" width="50" /> | 581 | 1 | 0 | Martha Argerich Live, Vol. 4 | 2017-01-20 | [🔗](https://open.spotify.com/album/69aoRIAIVb2TbIuxmxKYCR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b5fcd6996bf050f9f9010d3a" alt="" width="50" /> | 581 | 1 | 0 | Chopin: Piano Sonata No. 3, Fantasie-impromptu, Prélude, Nocturne, et al. | 2010-04-05 | [🔗](https://open.spotify.com/album/5QmPVpRux60kcHndJOl6bF) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |

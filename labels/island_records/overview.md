@@ -13,33 +13,33 @@ Appears as:
 
 ## Top Artists
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb93e1fe183be0aebda170283a" alt="" width="50" /> | 3 | 1 | Shawn Mendes | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd969cf117d0b0d4424bebdc5" alt="" width="50" /> | 3 | 1 | keshi | [🔗](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe053b8338322b9c8609ee7ae" alt="" width="50" /> | 1 | 1 | Sabrina Carpenter | [🔗](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc78a80d480018ec030aade25" alt="" width="50" /> | 1 | 1 | Marc Broussard | [🔗](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcff7038d323f4db7d0e90c9c" alt="" width="50" /> | 1 | 1 | Bishop Briggs | [🔗](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb207b21f3ed0ee96adce3166a" alt="" width="50" /> | 2 | 0 | The Killers | [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb362011ebe6064c38e97e9aac" alt="" width="50" /> | 1 | 0 | Fall Out Boy | [🔗](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 1 | 0 | [Justin Bieber](../../artists/justin_bieber/overview.md) | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb93e1fe183be0aebda170283a" alt="" width="50" /> | 295 | 3 | 1 | Shawn Mendes | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd969cf117d0b0d4424bebdc5" alt="" width="50" /> | 192 | 3 | 1 | keshi | [🔗](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe053b8338322b9c8609ee7ae" alt="" width="50" /> | 400 | 1 | 1 | Sabrina Carpenter | [🔗](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc78a80d480018ec030aade25" alt="" width="50" /> | 400 | 1 | 1 | Marc Broussard | [🔗](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcff7038d323f4db7d0e90c9c" alt="" width="50" /> | 400 | 1 | 1 | Bishop Briggs | [🔗](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb207b21f3ed0ee96adce3166a" alt="" width="50" /> | 400 | 2 | 0 | The Killers | [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb362011ebe6064c38e97e9aac" alt="" width="50" /> | 400 | 1 | 0 | Fall Out Boy | [🔗](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 188 | 1 | 0 | [Justin Bieber](../../artists/justin_bieber/overview.md) | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 
 ![Bar chart of top 8 artists](../../images/labels/island_records/artists.png)
 
 ## Top Albums
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb" alt="" width="50" /> | 2 | 1 | GABRIEL | 2022-03-25 | [🔗](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="" width="50" /> | 2 | 0 | Hot Fuss | 2004 | [🔗](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de84adf0e48248ea2d769c3e" alt="" width="50" /> | 1 | 1 | Please Please Please | 2024-06-06 | [🔗](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521" alt="" width="50" /> | 1 | 1 | Illuminate (Deluxe) | 2017-04-20 | [🔗](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738cae5034066af45cdfbc4266" alt="" width="50" /> | 1 | 1 | Church Of Scars | 2018-04-20 | [🔗](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737cdb143bd2e9906d39c5eb04" alt="" width="50" /> | 1 | 1 | Carencro | 2004-08-03 | [🔗](https://open.spotify.com/album/15dP7BadtY55t9VvFlVrBA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737941a79c3108cedb1667b68d" alt="" width="50" /> | 1 | 0 | bandaids | 2020-03-24 | [🔗](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273269423eb6467e308c0fbce24" alt="" width="50" /> | 1 | 0 | Shawn Mendes | 2018-05-25 | [🔗](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27312e57573cbc551c187a96107" alt="" width="50" /> | 1 | 0 | Monster | 2020-11-20 | [🔗](https://open.spotify.com/album/3yVVL2EYLp8g7gT08VvYKy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" alt="" width="50" /> | 1 | 0 | From Under The Cork Tree | 2005-05-03 | [🔗](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb" alt="" width="50" /> | 581 | 2 | 1 | GABRIEL | 2022-03-25 | [🔗](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="" width="50" /> | 581 | 2 | 0 | Hot Fuss | 2004 | [🔗](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de84adf0e48248ea2d769c3e" alt="" width="50" /> | 581 | 1 | 1 | Please Please Please | 2024-06-06 | [🔗](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521" alt="" width="50" /> | 581 | 1 | 1 | Illuminate (Deluxe) | 2017-04-20 | [🔗](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738cae5034066af45cdfbc4266" alt="" width="50" /> | 581 | 1 | 1 | Church Of Scars | 2018-04-20 | [🔗](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737cdb143bd2e9906d39c5eb04" alt="" width="50" /> | 581 | 1 | 1 | Carencro | 2004-08-03 | [🔗](https://open.spotify.com/album/15dP7BadtY55t9VvFlVrBA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737941a79c3108cedb1667b68d" alt="" width="50" /> | 581 | 1 | 0 | bandaids | 2020-03-24 | [🔗](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273269423eb6467e308c0fbce24" alt="" width="50" /> | 581 | 1 | 0 | Shawn Mendes | 2018-05-25 | [🔗](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27312e57573cbc551c187a96107" alt="" width="50" /> | 581 | 1 | 0 | Monster | 2020-11-20 | [🔗](https://open.spotify.com/album/3yVVL2EYLp8g7gT08VvYKy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" alt="" width="50" /> | 581 | 1 | 0 | From Under The Cork Tree | 2005-05-03 | [🔗](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) |
 
 ![Bar chart of top 10 albums](../../images/labels/island_records/albums.png)
 

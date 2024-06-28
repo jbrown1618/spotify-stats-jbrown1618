@@ -27,22 +27,22 @@ EXO:
 ## Artist Rank
 EXO is currently:
 - The #45 artist of the last 6 months
-- The #39 artist of all time
-- The #19 artist overall
+- The #39 artist of the last year
+- The #19 artist of all time
 
 ![Rank of EXO over time](../../images/artists/exo/rank_time_series.png)
 ## Top Tracks
 
 
-### Top tracks, aggregated
+### Top tracks of all time
 
 ![Track score ranking over time](../../images/artists/exo/track_rank_time_series_score.png)
 
 
 <details>
-<summary>Top tracks of all time over time</summary>
+<summary>Top tracks of the last year over time</summary>
 
-![Line chart of top tracks of all time over time](../../images/artists/exo/track_rank_time_series_long_term.png)
+![Line chart of top tracks of the last year over time](../../images/artists/exo/track_rank_time_series_long_term.png)
 
 </details>
 
@@ -59,18 +59,18 @@ EXO is currently:
 
 ![Album ranking over time](../../images/artists/exo/album_rank_time_series.png)
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | 3 | 0 | DON'T FIGHT THE FEELING - Special Album | 2021-06-07 | [🔗](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b787b5b8c27a5dbd360c0f59" alt="" width="50" /> | 2 | 2 | THE WAR - The 4th Album | 2017-07-18 | [🔗](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="" width="50" /> | 2 | 1 | LOVE SHOT– The 5th Album Repackage | 2018-12-13 | [🔗](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732795c34a8931367a0916de54" alt="" width="50" /> | 1 | 1 | The 1st Album 'XOXO' (Repackage) | 2013-08-05 | [🔗](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aab7f1de2a5fccba3b095574" alt="" width="50" /> | 1 | 1 | LOVE ME RIGHT - The 2nd Album Repackage | 2015-06-03 | [🔗](https://open.spotify.com/album/2tSO8aEYf5YvpwmvvrOWH7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8b83bc0fb25c1526113ce86" alt="" width="50" /> | 1 | 1 | EXODUS - The 2nd Album | 2015-03-30 | [🔗](https://open.spotify.com/album/0PepQsL30ADZO7gc4Tz7Af) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27315a67578922d65121b12073d" alt="" width="50" /> | 1 | 1 | EX'ACT | 2016-06-09 | [🔗](https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732e981530e5e8e1d5e95ae507" alt="" width="50" /> | 1 | 1 | DON’T MESS UP MY TEMPO – The 5th Album | 2018-11-02 | [🔗](https://open.spotify.com/album/0aMI0Kctp6xwSnRFakNF3D) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738a1852a46d640fe6aeb687c9" alt="" width="50" /> | 1 | 0 | Miracles in December (Chinese Version) | 2013-12-09 | [🔗](https://open.spotify.com/album/1sCdc23CN31bqyJq7rSXHJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e444ada7c81e08734f0e20b9" alt="" width="50" /> | 1 | 0 | Miracles in December | 2013-12-09 | [🔗](https://open.spotify.com/album/7xKAWXGHTlXovWpEVu1csM) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="" width="50" /> | 581 | 3 | 0 | DON'T FIGHT THE FEELING - Special Album | 2021-06-07 | [🔗](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b787b5b8c27a5dbd360c0f59" alt="" width="50" /> | 109 | 2 | 2 | THE WAR - The 4th Album | 2017-07-18 | [🔗](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="" width="50" /> | 40 | 2 | 1 | LOVE SHOT– The 5th Album Repackage | 2018-12-13 | [🔗](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732795c34a8931367a0916de54" alt="" width="50" /> | 581 | 1 | 1 | The 1st Album 'XOXO' (Repackage) | 2013-08-05 | [🔗](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aab7f1de2a5fccba3b095574" alt="" width="50" /> | 581 | 1 | 1 | LOVE ME RIGHT - The 2nd Album Repackage | 2015-06-03 | [🔗](https://open.spotify.com/album/2tSO8aEYf5YvpwmvvrOWH7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8b83bc0fb25c1526113ce86" alt="" width="50" /> | 567 | 1 | 1 | EXODUS - The 2nd Album | 2015-03-30 | [🔗](https://open.spotify.com/album/0PepQsL30ADZO7gc4Tz7Af) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27315a67578922d65121b12073d" alt="" width="50" /> | 170 | 1 | 1 | EX'ACT | 2016-06-09 | [🔗](https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e981530e5e8e1d5e95ae507" alt="" width="50" /> | 581 | 1 | 1 | DON’T MESS UP MY TEMPO – The 5th Album | 2018-11-02 | [🔗](https://open.spotify.com/album/0aMI0Kctp6xwSnRFakNF3D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a1852a46d640fe6aeb687c9" alt="" width="50" /> | 581 | 1 | 0 | Miracles in December (Chinese Version) | 2013-12-09 | [🔗](https://open.spotify.com/album/1sCdc23CN31bqyJq7rSXHJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e444ada7c81e08734f0e20b9" alt="" width="50" /> | 405 | 1 | 0 | Miracles in December | 2013-12-09 | [🔗](https://open.spotify.com/album/7xKAWXGHTlXovWpEVu1csM) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -101,8 +101,8 @@ EXO is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273f7da7c0f322b7a1c95190d92" alt="" width="50" /> | Love Shot | LOVE SHOT– The 5th Album Repackage | [EXO](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 37 | 💚 | [🔗](https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b787b5b8c27a5dbd360c0f59" alt="" width="50" /> | The Eve | THE WAR - The 4th Album | [EXO](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 139 | 💚 | [🔗](https://open.spotify.com/track/2ujA6F1cpk3m8lsPE5aKua) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315a67578922d65121b12073d" alt="" width="50" /> | Monster | EX'ACT | [EXO](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 230 | 💚 | [🔗](https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e444ada7c81e08734f0e20b9" alt="" width="50" /> | The First Snow | Miracles in December | [EXO](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 597 | | [🔗](https://open.spotify.com/track/2VNpT9fRk1kyksT0S4coZR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8b83bc0fb25c1526113ce86" alt="" width="50" /> | CALL ME BABY | EXODUS - The 2nd Album | [EXO](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 862 | 💚 | [🔗](https://open.spotify.com/track/6Rx0ORYPP3GH9rTvGS5Vy8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e444ada7c81e08734f0e20b9" alt="" width="50" /> | The First Snow | Miracles in December | [EXO](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 599 | | [🔗](https://open.spotify.com/track/2VNpT9fRk1kyksT0S4coZR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8b83bc0fb25c1526113ce86" alt="" width="50" /> | CALL ME BABY | EXODUS - The 2nd Album | [EXO](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 865 | 💚 | [🔗](https://open.spotify.com/track/6Rx0ORYPP3GH9rTvGS5Vy8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732795c34a8931367a0916de54" alt="" width="50" /> | Growl | The 1st Album 'XOXO' (Repackage) | [EXO](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 868 | 💚 | [🔗](https://open.spotify.com/track/4pi0Elz7B7cLfw37J3bYm9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a1852a46d640fe6aeb687c9" alt="" width="50" /> | The First Snow - Chinese Version | Miracles in December (Chinese Version) | [EXO](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 868 | | [🔗](https://open.spotify.com/track/7sEom64RU0fShdUdYBCo8v) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aab7f1de2a5fccba3b095574" alt="" width="50" /> | LOVE ME RIGHT | LOVE ME RIGHT - The 2nd Album Repackage | [EXO](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 868 | 💚 | [🔗](https://open.spotify.com/track/1kFevEv3s7Gf6o5xSDR5DL) |

@@ -14,22 +14,22 @@ London Symphony Orchestra:
 - has member Nick Cooper
 
 ## Artist Rank
-- The #400 artist overall
+- The #400 artist of all time
 
 
 ## Top Albums
 
 
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="" width="50" /> | 31 | 0 | Tchaikovsky: Swan Lake | 1976-01-01 | [🔗](https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | 12 | 0 | Mendelssohn: A Midsummer Night's Dream | 2017-02-03 | [🔗](https://open.spotify.com/album/60J66evwnrnfH03HgDTrwN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27344d5ef063da6fc06df7b1bc1" alt="" width="50" /> | 3 | 0 | Star Wars Episode IV: A New Hope (Original Motion Picture Soundtrack) | 1997 | [🔗](https://open.spotify.com/album/39vpWS7vrC4Pz33bNafjva) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | 3 | 0 | Rachmaninov: Piano Concerto No.2 | 2012-01-01 | [🔗](https://open.spotify.com/album/5lVqgXqdoIH3W1wUM2hzPx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8bb8c6891b4a560666ba5d1" alt="" width="50" /> | 2 | 0 | John Williams - Greatest Hits 1969-1999 | 2014-08-18 | [🔗](https://open.spotify.com/album/3xeo92ykCYWfe32si3I6zF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b344822c35025ba9439f004" alt="" width="50" /> | 1 | 0 | Star Wars: The Phantom Menace (Original Motion Picture Soundtrack) | 1999-05-04 | [🔗](https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ae87b6dbcfeea612ceb74685" alt="" width="50" /> | 1 | 0 | Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack) | 1980-01-01 | [🔗](https://open.spotify.com/album/669tU9gpisLy8EM6qlKrdL) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da" alt="" width="50" /> | 581 | 31 | 0 | Tchaikovsky: Swan Lake | 1976-01-01 | [🔗](https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c385dbfabcec21279dcea0b5" alt="" width="50" /> | 581 | 12 | 0 | Mendelssohn: A Midsummer Night's Dream | 2017-02-03 | [🔗](https://open.spotify.com/album/60J66evwnrnfH03HgDTrwN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27344d5ef063da6fc06df7b1bc1" alt="" width="50" /> | 581 | 3 | 0 | Star Wars Episode IV: A New Hope (Original Motion Picture Soundtrack) | 1997 | [🔗](https://open.spotify.com/album/39vpWS7vrC4Pz33bNafjva) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738e6adfe4421d106633abde7b" alt="" width="50" /> | 581 | 3 | 0 | Rachmaninov: Piano Concerto No.2 | 2012-01-01 | [🔗](https://open.spotify.com/album/5lVqgXqdoIH3W1wUM2hzPx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8bb8c6891b4a560666ba5d1" alt="" width="50" /> | 581 | 2 | 0 | John Williams - Greatest Hits 1969-1999 | 2014-08-18 | [🔗](https://open.spotify.com/album/3xeo92ykCYWfe32si3I6zF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b344822c35025ba9439f004" alt="" width="50" /> | 581 | 1 | 0 | Star Wars: The Phantom Menace (Original Motion Picture Soundtrack) | 1999-05-04 | [🔗](https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ae87b6dbcfeea612ceb74685" alt="" width="50" /> | 581 | 1 | 0 | Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack) | 1980-01-01 | [🔗](https://open.spotify.com/album/669tU9gpisLy8EM6qlKrdL) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |

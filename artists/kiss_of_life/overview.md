@@ -14,24 +14,24 @@ KISS OF LIFE:
 
 ## Artist Rank
 KISS OF LIFE is currently:
-- The #24 artist of the last month
+- The #25 artist of the last month
 - The #23 artist of the last 6 months
-- The #35 artist of all time
-- The #59 artist overall
+- The #35 artist of the last year
+- The #59 artist of all time
 
 ![Rank of KISS OF LIFE over time](../../images/artists/kiss_of_life/rank_time_series.png)
 ## Top Tracks
 
 
-### Top tracks, aggregated
+### Top tracks of all time
 
 ![Track score ranking over time](../../images/artists/kiss_of_life/track_rank_time_series_score.png)
 
 
 <details>
-<summary>Top tracks of all time over time</summary>
+<summary>Top tracks of the last year over time</summary>
 
-![Line chart of top tracks of all time over time](../../images/artists/kiss_of_life/track_rank_time_series_long_term.png)
+![Line chart of top tracks of the last year over time](../../images/artists/kiss_of_life/track_rank_time_series_long_term.png)
 
 </details>
 
@@ -48,11 +48,11 @@ KISS OF LIFE is currently:
 
 ![Album ranking over time](../../images/artists/kiss_of_life/album_rank_time_series.png)
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | 4 | 3 | KISS OF LIFE | 2023-07-05 | [🔗](https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | 4 | 3 | Born to be XX | 2023-11-08 | [🔗](https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27307568782625b85282541394b" alt="" width="50" /> | 1 | 1 | Midas Touch | 2024-04-03 | [🔗](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | 581 | 4 | 3 | KISS OF LIFE | 2023-07-05 | [🔗](https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | 77 | 4 | 3 | Born to be XX | 2023-11-08 | [🔗](https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307568782625b85282541394b" alt="" width="50" /> | 139 | 1 | 1 | Midas Touch | 2024-04-03 | [🔗](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -140,7 +140,7 @@ KISS OF LIFE is currently:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Nobody Knows | Born to be XX | [KISS OF LIFE](overview.md) | [S2 ENTERTAINMENT INC.](../../labels/s2_entertainment_inc_) | 83 | 💚 | [🔗](https://open.spotify.com/track/70efTlnBNM8BvfhfPiqOBN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27307568782625b85282541394b" alt="" width="50" /> | Midas Touch | Midas Touch | [KISS OF LIFE](overview.md) | [S2 ENTERTAINMENT INC.](../../labels/s2_entertainment_inc_) | 183 | 💚 | [🔗](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307568782625b85282541394b" alt="" width="50" /> | Midas Touch | Midas Touch | [KISS OF LIFE](overview.md) | [S2 ENTERTAINMENT INC.](../../labels/s2_entertainment_inc_) | 185 | 💚 | [🔗](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Bad News | Born to be XX | [KISS OF LIFE](overview.md) | [S2 ENTERTAINMENT INC.](../../labels/s2_entertainment_inc_) | 296 | 💚 | [🔗](https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Countdown (BELLE Solo) | KISS OF LIFE | [KISS OF LIFE](overview.md) | [S2 ENTERTAINMENT INC.](../../labels/s2_entertainment_inc_) | 868 | 💚 | [🔗](https://open.spotify.com/track/3pJbio7BQLvqNne62Xe73I) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Kitty Cat (JULIE Solo) | KISS OF LIFE | [KISS OF LIFE](overview.md) | [S2 ENTERTAINMENT INC.](../../labels/s2_entertainment_inc_) | 868 | | [🔗](https://open.spotify.com/track/6MiodzZmp1bKamgF3qhmre) |

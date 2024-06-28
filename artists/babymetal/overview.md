@@ -13,24 +13,24 @@ BABYMETAL:
 - has member YUIMETAL
 
 ## Artist Rank
-- The #49 artist overall
+- The #49 artist of all time
 
 ![Rank of BABYMETAL over time](../../images/artists/babymetal/rank_time_series.png)
 ## Top Tracks
 
 
-### Top tracks, aggregated
+### Top tracks of all time
 
 ![Track score ranking over time](../../images/artists/babymetal/track_rank_time_series_score.png)
 ## Top Albums
 
 ![Album ranking over time](../../images/artists/babymetal/album_rank_time_series.png)
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="" width="50" /> | 4 | 2 | METAL RESISTANCE | 2016-04-01 | [🔗](https://open.spotify.com/album/2vIRdYffs93ca7L0Eh4mTm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="" width="50" /> | 3 | 3 | BABYMETAL | 2015-05-11 | [🔗](https://open.spotify.com/album/6Eepi724OOt38pTaUrZErI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732bb4e77f30c614c2a7b67b9d" alt="" width="50" /> | 2 | 2 | METAL GALAXY | 2019-10-11 | [🔗](https://open.spotify.com/album/6rxRhft7JZtXavzHP2g2el) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="" width="50" /> | 215 | 4 | 2 | METAL RESISTANCE | 2016-04-01 | [🔗](https://open.spotify.com/album/2vIRdYffs93ca7L0Eh4mTm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="" width="50" /> | 328 | 3 | 3 | BABYMETAL | 2015-05-11 | [🔗](https://open.spotify.com/album/6Eepi724OOt38pTaUrZErI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732bb4e77f30c614c2a7b67b9d" alt="" width="50" /> | 581 | 2 | 2 | METAL GALAXY | 2019-10-11 | [🔗](https://open.spotify.com/album/6rxRhft7JZtXavzHP2g2el) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -93,7 +93,7 @@ BABYMETAL:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="" width="50" /> | KARATE | METAL RESISTANCE | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 393 | 💚 | [🔗](https://open.spotify.com/track/2A4wfplwsIXUUD3UVirWDd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="" width="50" /> | Headbangeeeeerrrrr!!!!! | BABYMETAL | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 465 | 💚 | [🔗](https://open.spotify.com/track/7zuuWZo0MyOdG3VHg1Mgml) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="" width="50" /> | Headbangeeeeerrrrr!!!!! | BABYMETAL | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 466 | 💚 | [🔗](https://open.spotify.com/track/7zuuWZo0MyOdG3VHg1Mgml) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="" width="50" /> | Awadama Fever | METAL RESISTANCE | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 469 | | [🔗](https://open.spotify.com/track/6H96cG8WACfxsZN9HS8KPD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="" width="50" /> | Gimme Chocolate!! | BABYMETAL | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 868 | 💚 | [🔗](https://open.spotify.com/track/16D5bGymrzpi9ZlnYXB5ql) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="" width="50" /> | Rondo of Nightmare | BABYMETAL | [BABYMETAL](overview.md) | Cooking Vinyl Limited | 868 | 💚 | [🔗](https://open.spotify.com/track/7MFAj03YCmsp0aeHMmZPCr) |

@@ -11,41 +11,41 @@ Appears as:
 
 ## Top Artists
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | 68 | 0 | [Berliner Philharmoniker](../../artists/berliner_philharmoniker/overview.md) | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | 68 | 0 | [Herbert von Karajan](../../artists/herbert_von_karajan/overview.md) | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe55372097569b7b56b439365" alt="" width="50" /> | 53 | 0 | [Frédéric Chopin](../../artists/frédéric_chopin/overview.md) | [🔗](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4) |
-| <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | 42 | 0 | [Ludwig van Beethoven](../../artists/ludwig_van_beethoven/overview.md) | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb66cd5da57e71a33da20de712" alt="" width="50" /> | 30 | 0 | Martha Argerich | [🔗](https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4) |
-| <img src="https://i.scdn.co/image/49da328b0629313b2c452bf35d8c50d013274f5b" alt="" width="50" /> | 21 | 0 | Igor Stravinsky | [🔗](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE) |
-| <img src="https://i.scdn.co/image/b569f4420a0c5257c26c745a8928cac516dd4144" alt="" width="50" /> | 19 | 0 | Maurizio Pollini | [🔗](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) |
-| <img src="https://i.scdn.co/image/1442f5564217baa0dfa8480928596416885f1c4d" alt="" width="50" /> | 17 | 0 | Gustavo Dudamel | [🔗](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4bb5eb0860d831455fab32b6" alt="" width="50" /> | 17 | 0 | Wiener Philharmoniker | [🔗](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ) |
-| <img src="https://i.scdn.co/image/d5c6af18beb1411ab49c2976647e0d370bf66a88" alt="" width="50" /> | 16 | 0 | Johannes Brahms | [🔗](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | 400 | 68 | 0 | [Berliner Philharmoniker](../../artists/berliner_philharmoniker/overview.md) | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | 400 | 68 | 0 | [Herbert von Karajan](../../artists/herbert_von_karajan/overview.md) | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe55372097569b7b56b439365" alt="" width="50" /> | 400 | 53 | 0 | [Frédéric Chopin](../../artists/frédéric_chopin/overview.md) | [🔗](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4) |
+| <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | 400 | 42 | 0 | [Ludwig van Beethoven](../../artists/ludwig_van_beethoven/overview.md) | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb66cd5da57e71a33da20de712" alt="" width="50" /> | 400 | 30 | 0 | Martha Argerich | [🔗](https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4) |
+| <img src="https://i.scdn.co/image/49da328b0629313b2c452bf35d8c50d013274f5b" alt="" width="50" /> | 400 | 21 | 0 | Igor Stravinsky | [🔗](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE) |
+| <img src="https://i.scdn.co/image/b569f4420a0c5257c26c745a8928cac516dd4144" alt="" width="50" /> | 400 | 19 | 0 | Maurizio Pollini | [🔗](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) |
+| <img src="https://i.scdn.co/image/1442f5564217baa0dfa8480928596416885f1c4d" alt="" width="50" /> | 400 | 17 | 0 | Gustavo Dudamel | [🔗](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4bb5eb0860d831455fab32b6" alt="" width="50" /> | 400 | 17 | 0 | Wiener Philharmoniker | [🔗](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ) |
+| <img src="https://i.scdn.co/image/d5c6af18beb1411ab49c2976647e0d370bf66a88" alt="" width="50" /> | 400 | 16 | 0 | Johannes Brahms | [🔗](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq) |
 
 
 <details>
 <summary>See all 26 artists</summary>
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb016cb2454e3aa43206ae5425" alt="" width="50" /> | 16 | 0 | Emerson String Quartet | [🔗](https://open.spotify.com/artist/4IBl8k6ZsBagsI5zRjyXH7) |
-| <img src="https://i.scdn.co/image/20b923e03dd0fb8cd20fb93559b9ed9a0e7aefbc" alt="" width="50" /> | 16 | 0 | Modest Mussorgsky | [🔗](https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl) |
-| <img src="https://i.scdn.co/image/ef09684355a52775e8ff4c9fc2d9fc35714e264a" alt="" width="50" /> | 7 | 0 | Gustav Holst | [🔗](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ) |
-| <img src="https://i.scdn.co/image/f4b67441af1209f35f44684e0e7e623da5550f4f" alt="" width="50" /> | 7 | 0 | Myung-Whun Chung | [🔗](https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="" width="50" /> | 7 | 0 | Orchestre de l'Opéra National de Paris | [🔗](https://open.spotify.com/artist/1hro5WQTcOb7fRCEUQEZtK) |
-| <img src="https://i.scdn.co/image/592ddf9d4d2154cd3256c6e69171d5371fca8f0c" alt="" width="50" /> | 5 | 0 | Béla Bartók | [🔗](https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd) |
-| <img src="https://i.scdn.co/image/c957a30bcf3b3dcb7b8e3d0dd467837b5cc705ec" alt="" width="50" /> | 4 | 0 | Leon Fleisher | [🔗](https://open.spotify.com/artist/6ncNdxBc8zVWMOF7nJ5Pgy) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb501fa094147c4871549cdebd" alt="" width="50" /> | 4 | 0 | Krystian Zimerman | [🔗](https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz) |
-| <img src="https://i.scdn.co/image/7edeefee1e00dc240f153b601cf735baba09a17a" alt="" width="50" /> | 1 | 0 | José van Dam | [🔗](https://open.spotify.com/artist/5qNUHMEhszyeXNYMn4sswd) |
-| <img src="https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0" alt="" width="50" /> | 1 | 0 | [Pyotr Ilyich Tchaikovsky](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | [🔗](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) |
-| <img src="https://i.scdn.co/image/e403106a45cbd0e2ca51e4d1b18b9a587f9177be" alt="" width="50" /> | 1 | 0 | Wiener Singverein | [🔗](https://open.spotify.com/artist/35QSympF887CO8h5eZHme2) |
-| <img src="https://i.scdn.co/image/a97382fc1e98c5a755daf70d7a9355f673811707" alt="" width="50" /> | 1 | 0 | Vinson Cole | [🔗](https://open.spotify.com/artist/2j6cP3f3TxyHzcKdWYSm6h) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | 1 | 0 | Agnes Baltsa | [🔗](https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9a3bcee753b08fbf960a198e" alt="" width="50" /> | 1 | 0 | RIAS Kammerchor | [🔗](https://open.spotify.com/artist/2UVXU77knJMYOM6Avvw6Yx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | 1 | 0 | Janet Perry | [🔗](https://open.spotify.com/artist/1bV3KjOPs1AI3OolJiYogN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ad42862ef7e02b09abe20699" alt="" width="50" /> | 1 | 0 | Helmut Froschauer | [🔗](https://open.spotify.com/artist/172Encqfd2ZhWAleNg1gbO) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb016cb2454e3aa43206ae5425" alt="" width="50" /> | 400 | 16 | 0 | Emerson String Quartet | [🔗](https://open.spotify.com/artist/4IBl8k6ZsBagsI5zRjyXH7) |
+| <img src="https://i.scdn.co/image/20b923e03dd0fb8cd20fb93559b9ed9a0e7aefbc" alt="" width="50" /> | 400 | 16 | 0 | Modest Mussorgsky | [🔗](https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl) |
+| <img src="https://i.scdn.co/image/ef09684355a52775e8ff4c9fc2d9fc35714e264a" alt="" width="50" /> | 400 | 7 | 0 | Gustav Holst | [🔗](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ) |
+| <img src="https://i.scdn.co/image/f4b67441af1209f35f44684e0e7e623da5550f4f" alt="" width="50" /> | 400 | 7 | 0 | Myung-Whun Chung | [🔗](https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="" width="50" /> | 400 | 7 | 0 | Orchestre de l'Opéra National de Paris | [🔗](https://open.spotify.com/artist/1hro5WQTcOb7fRCEUQEZtK) |
+| <img src="https://i.scdn.co/image/592ddf9d4d2154cd3256c6e69171d5371fca8f0c" alt="" width="50" /> | 400 | 5 | 0 | Béla Bartók | [🔗](https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd) |
+| <img src="https://i.scdn.co/image/c957a30bcf3b3dcb7b8e3d0dd467837b5cc705ec" alt="" width="50" /> | 400 | 4 | 0 | Leon Fleisher | [🔗](https://open.spotify.com/artist/6ncNdxBc8zVWMOF7nJ5Pgy) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb501fa094147c4871549cdebd" alt="" width="50" /> | 400 | 4 | 0 | Krystian Zimerman | [🔗](https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz) |
+| <img src="https://i.scdn.co/image/7edeefee1e00dc240f153b601cf735baba09a17a" alt="" width="50" /> | 400 | 1 | 0 | José van Dam | [🔗](https://open.spotify.com/artist/5qNUHMEhszyeXNYMn4sswd) |
+| <img src="https://i.scdn.co/image/9a7c31f43e22a95f6d3c57baf4f87a3a9d2b93e0" alt="" width="50" /> | 400 | 1 | 0 | [Pyotr Ilyich Tchaikovsky](../../artists/pyotr_ilyich_tchaikovsky/overview.md) | [🔗](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) |
+| <img src="https://i.scdn.co/image/e403106a45cbd0e2ca51e4d1b18b9a587f9177be" alt="" width="50" /> | 400 | 1 | 0 | Wiener Singverein | [🔗](https://open.spotify.com/artist/35QSympF887CO8h5eZHme2) |
+| <img src="https://i.scdn.co/image/a97382fc1e98c5a755daf70d7a9355f673811707" alt="" width="50" /> | 400 | 1 | 0 | Vinson Cole | [🔗](https://open.spotify.com/artist/2j6cP3f3TxyHzcKdWYSm6h) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | 400 | 1 | 0 | Agnes Baltsa | [🔗](https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9a3bcee753b08fbf960a198e" alt="" width="50" /> | 400 | 1 | 0 | RIAS Kammerchor | [🔗](https://open.spotify.com/artist/2UVXU77knJMYOM6Avvw6Yx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | 400 | 1 | 0 | Janet Perry | [🔗](https://open.spotify.com/artist/1bV3KjOPs1AI3OolJiYogN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ad42862ef7e02b09abe20699" alt="" width="50" /> | 400 | 1 | 0 | Helmut Froschauer | [🔗](https://open.spotify.com/artist/172Encqfd2ZhWAleNg1gbO) |
 
 </details>
 
@@ -54,17 +54,17 @@ Appears as:
 
 ## Top Albums
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27370426e24663b43f11ebd9c24" alt="" width="50" /> | 42 | 0 | Beethoven: 9 Symphonies; Overtures | 1993-01-01 | [🔗](https://open.spotify.com/album/2DQTNTznsteIZciZdyeWdj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | 30 | 0 | Chopin: Preludes; Sonata No.2 | 2002-01-01 | [🔗](https://open.spotify.com/album/33YXJqoFV5AQwbo4yfk22n) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f0eb5b09e87f24415266d723" alt="" width="50" /> | 19 | 0 | Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra | 2007-01-01 | [🔗](https://open.spotify.com/album/317b74rpNBO2uhaJFyMaxJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59" alt="" width="50" /> | 19 | 0 | Chopin: Nocturnes | 2005-01-01 | [🔗](https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="" width="50" /> | 17 | 0 | Mussorgsky: Pictures At An Exhibition | 2016-12-02 | [🔗](https://open.spotify.com/album/1b2aoeaYZZBWmJoavOQhnd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="" width="50" /> | 16 | 0 | Brahms: String Quartets & Piano Quintet | 2007-01-01 | [🔗](https://open.spotify.com/album/5nZ5ePGoQZGt1MbGphwqph) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="" width="50" /> | 7 | 0 | Stravinsky: The Firebird (Ballet Suite) | 2009-01-01 | [🔗](https://open.spotify.com/album/2q1xMRl4AcA7rI8GfGnmvD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="" width="50" /> | 7 | 0 | Holst: The Planets | 1981-01-01 | [🔗](https://open.spotify.com/album/4v0Xyz0LVToUsSTGdsvKSK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a7a2e0cab8f2db75a1c3f55" alt="" width="50" /> | 4 | 0 | Chopin: Ballades; Barcarolle; Fantaisie | 1988-01-01 | [🔗](https://open.spotify.com/album/5c9v5oU43Oo22MSG8EKFp2) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27370426e24663b43f11ebd9c24" alt="" width="50" /> | 581 | 42 | 0 | Beethoven: 9 Symphonies; Overtures | 1993-01-01 | [🔗](https://open.spotify.com/album/2DQTNTznsteIZciZdyeWdj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | 581 | 30 | 0 | Chopin: Preludes; Sonata No.2 | 2002-01-01 | [🔗](https://open.spotify.com/album/33YXJqoFV5AQwbo4yfk22n) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f0eb5b09e87f24415266d723" alt="" width="50" /> | 581 | 19 | 0 | Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra | 2007-01-01 | [🔗](https://open.spotify.com/album/317b74rpNBO2uhaJFyMaxJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59" alt="" width="50" /> | 581 | 19 | 0 | Chopin: Nocturnes | 2005-01-01 | [🔗](https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a271c648dc170b9173c1cc67" alt="" width="50" /> | 581 | 17 | 0 | Mussorgsky: Pictures At An Exhibition | 2016-12-02 | [🔗](https://open.spotify.com/album/1b2aoeaYZZBWmJoavOQhnd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737972250a17a316dc7fe9966d" alt="" width="50" /> | 581 | 16 | 0 | Brahms: String Quartets & Piano Quintet | 2007-01-01 | [🔗](https://open.spotify.com/album/5nZ5ePGoQZGt1MbGphwqph) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="" width="50" /> | 581 | 7 | 0 | Stravinsky: The Firebird (Ballet Suite) | 2009-01-01 | [🔗](https://open.spotify.com/album/2q1xMRl4AcA7rI8GfGnmvD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c43a2f36c0aec708ba024d5" alt="" width="50" /> | 581 | 7 | 0 | Holst: The Planets | 1981-01-01 | [🔗](https://open.spotify.com/album/4v0Xyz0LVToUsSTGdsvKSK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a7a2e0cab8f2db75a1c3f55" alt="" width="50" /> | 581 | 4 | 0 | Chopin: Ballades; Barcarolle; Fantaisie | 1988-01-01 | [🔗](https://open.spotify.com/album/5c9v5oU43Oo22MSG8EKFp2) |
 
 ![Bar chart of top 9 albums](../../images/labels/deutsche_grammophon_(dg)/albums.png)
 

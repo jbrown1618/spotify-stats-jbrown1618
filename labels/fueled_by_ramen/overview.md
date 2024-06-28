@@ -13,30 +13,30 @@ Appears as:
 
 ## Top Artists
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865" alt="" width="50" /> | 5 | 2 | Paramore | [🔗](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb274df4dfcb960867eccedfb5" alt="" width="50" /> | 2 | 2 | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb362011ebe6064c38e97e9aac" alt="" width="50" /> | 2 | 1 | Fall Out Boy | [🔗](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8d23b8a8834a0057adf617f3" alt="" width="50" /> | 1 | 1 | ONE OK ROCK | [🔗](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) |
-| <img src="https://i.scdn.co/image/145b7b08e7f1de22d033e957c0888a5f9e0c99e6" alt="" width="50" /> | 1 | 0 | Leighton Meester | [🔗](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc48ae32aff5303453105b2d3" alt="" width="50" /> | 1 | 0 | Cobra Starship | [🔗](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb256ae9a4b82bfff97776ae2" alt="" width="50" /> | 1 | 0 | Panic! At The Disco | [🔗](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865" alt="" width="50" /> | 148 | 5 | 2 | Paramore | [🔗](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb274df4dfcb960867eccedfb5" alt="" width="50" /> | 400 | 2 | 2 | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb362011ebe6064c38e97e9aac" alt="" width="50" /> | 400 | 2 | 1 | Fall Out Boy | [🔗](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8d23b8a8834a0057adf617f3" alt="" width="50" /> | 400 | 1 | 1 | ONE OK ROCK | [🔗](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) |
+| <img src="https://i.scdn.co/image/145b7b08e7f1de22d033e957c0888a5f9e0c99e6" alt="" width="50" /> | 400 | 1 | 0 | Leighton Meester | [🔗](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc48ae32aff5303453105b2d3" alt="" width="50" /> | 400 | 1 | 0 | Cobra Starship | [🔗](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb256ae9a4b82bfff97776ae2" alt="" width="50" /> | 400 | 1 | 0 | Panic! At The Disco | [🔗](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) |
 
 ![Bar chart of top 7 artists](../../images/labels/fueled_by_ramen/artists.png)
 
 ## Top Albums
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7" alt="" width="50" /> | 2 | 2 | Blurryface | 2015-05-15 | [🔗](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fd0ad203a3d2a2343d889a95" alt="" width="50" /> | 2 | 1 | So Much (For) Stardust | 2023-03-24 | [🔗](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="" width="50" /> | 2 | 1 | Riot! | 2007-06-11 | [🔗](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35" alt="" width="50" /> | 2 | 1 | Paramore | 2013-04-05 | [🔗](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730f94f53a1c9c60d953ffd2f2" alt="" width="50" /> | 1 | 1 | Ambitions | 2017-01-13 | [🔗](https://open.spotify.com/album/0p1YL9nzIuKTonZH6Gq58i) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c83d25c1b9d5f384c32d834a" alt="" width="50" /> | 1 | 0 | Hot Mess | 2009-08-07 | [🔗](https://open.spotify.com/album/41TUivD915ztiKgyu99H9T) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6" alt="" width="50" /> | 1 | 0 | Brand New Eyes | 2009-09-28 | [🔗](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730a8881b0d247346c3c447bf3" alt="" width="50" /> | 1 | 0 | A Fever You Can't Sweat Out | 2005-09-27 | [🔗](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7" alt="" width="50" /> | 581 | 2 | 2 | Blurryface | 2015-05-15 | [🔗](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fd0ad203a3d2a2343d889a95" alt="" width="50" /> | 581 | 2 | 1 | So Much (For) Stardust | 2023-03-24 | [🔗](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="" width="50" /> | 226 | 2 | 1 | Riot! | 2007-06-11 | [🔗](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35" alt="" width="50" /> | 581 | 2 | 1 | Paramore | 2013-04-05 | [🔗](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730f94f53a1c9c60d953ffd2f2" alt="" width="50" /> | 581 | 1 | 1 | Ambitions | 2017-01-13 | [🔗](https://open.spotify.com/album/0p1YL9nzIuKTonZH6Gq58i) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c83d25c1b9d5f384c32d834a" alt="" width="50" /> | 581 | 1 | 0 | Hot Mess | 2009-08-07 | [🔗](https://open.spotify.com/album/41TUivD915ztiKgyu99H9T) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6" alt="" width="50" /> | 581 | 1 | 0 | Brand New Eyes | 2009-09-28 | [🔗](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730a8881b0d247346c3c447bf3" alt="" width="50" /> | 581 | 1 | 0 | A Fever You Can't Sweat Out | 2005-09-27 | [🔗](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) |
 
 ![Bar chart of top 8 albums](../../images/labels/fueled_by_ramen/albums.png)
 

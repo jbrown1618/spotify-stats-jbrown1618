@@ -19,49 +19,49 @@ Appears as:
 
 ## Top Artists
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 60 | 42 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7ffadf2671159fbfdc5c87f4" alt="" width="50" /> | 7 | 6 | [Camila Cabello](../../artists/camila_cabello/overview.md) | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 8 | 5 | [Michael Jackson](../../artists/michael_jackson/overview.md) | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebaee73c0f0458b95091845ee1" alt="" width="50" /> | 3 | 2 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcc628db5cd6fffcb659decab" alt="" width="50" /> | 2 | 2 | Tyla | [🔗](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0275757dd77e391c2f0d01b4" alt="" width="50" /> | 2 | 2 | The Script | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | 2 | 2 | Kansas | [🔗](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | 4 | 1 | Fifth Harmony | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb93e1fe183be0aebda170283a" alt="" width="50" /> | 1 | 1 | Shawn Mendes | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebad53e714cc3481bd069bfc93" alt="" width="50" /> | 1 | 1 | Wyclef Jean | [🔗](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 26 | 60 | 42 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7ffadf2671159fbfdc5c87f4" alt="" width="50" /> | 245 | 7 | 6 | [Camila Cabello](../../artists/camila_cabello/overview.md) | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 160 | 8 | 5 | [Michael Jackson](../../artists/michael_jackson/overview.md) | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebaee73c0f0458b95091845ee1" alt="" width="50" /> | 149 | 3 | 2 | Shakira | [🔗](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcc628db5cd6fffcb659decab" alt="" width="50" /> | 299 | 2 | 2 | Tyla | [🔗](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0275757dd77e391c2f0d01b4" alt="" width="50" /> | 397 | 2 | 2 | The Script | [🔗](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebce30906f8428166de2e7b592" alt="" width="50" /> | 400 | 2 | 2 | Kansas | [🔗](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97" alt="" width="50" /> | 400 | 4 | 1 | Fifth Harmony | [🔗](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb93e1fe183be0aebda170283a" alt="" width="50" /> | 295 | 1 | 1 | Shawn Mendes | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebad53e714cc3481bd069bfc93" alt="" width="50" /> | 400 | 1 | 1 | Wyclef Jean | [🔗](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) |
 
 
 <details>
 <summary>See all 34 artists</summary>
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/cdc8cf94774db4f0066ca1f90eb3fda45955a420" alt="" width="50" /> | 1 | 1 | Freshlyground | [🔗](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | 1 | 1 | [Janelle Monáe](../../artists/janelle_monáe/overview.md) | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb15a85a7957cac2c370e713ab" alt="" width="50" /> | 1 | 1 | Kid Ink | [🔗](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | 1 | 1 | A Great Big World | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
-| <img src="https://i.scdn.co/image/9aef578389c4a9d27e15a627acb784c41094e79d" alt="" width="50" /> | 1 | 1 | Sly & The Family Stone | [🔗](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 1 | 1 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcdbd28dd134a8828825088de" alt="" width="50" /> | 1 | 1 | Indigo Girls | [🔗](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | 1 | 1 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb871222ecd8d50f1efa64bcb8" alt="" width="50" /> | 1 | 1 | Giveon | [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d419ed4f1e89669ce14bd369" alt="" width="50" /> | 1 | 1 | Wild Cherry | [🔗](https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1412a6c6ccf340d8623cd6ab" alt="" width="50" /> | 1 | 1 | Jidenna | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
-| <img src="https://i.scdn.co/image/ee4abaa4b898c4233b881056fd3caa9ddc87c82d" alt="" width="50" /> | 1 | 1 | LaBelle | [🔗](https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 1 | 1 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd919dbf4e6ed3e695ba6339d" alt="" width="50" /> | 1 | 1 | George Michael | [🔗](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebea6c3263b9aeda33707faee5" alt="" width="50" /> | 2 | 0 | Carole King | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb24b3c0f33bc5e3f6a53f84d7" alt="" width="50" /> | 1 | 0 | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | 1 | 0 | Chris Brown | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb84505d89ff27a88fca05f56d" alt="" width="50" /> | 1 | 0 | Alejandro Sanz | [🔗](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb03e73d13341a8419eea9fcfb" alt="" width="50" /> | 1 | 0 | Wham! | [🔗](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 1 | 0 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | 1 | 0 | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
-| <img src="https://i.scdn.co/image/215c26ee517c4faf54722335cc79f375d178fb71" alt="" width="50" /> | 1 | 0 | Elmo & Patsy | [🔗](https://open.spotify.com/artist/3Ubvmshojm0HJHWWr4C6GF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe43df4cc104a9cc9c11b0b97" alt="" width="50" /> | 1 | 0 | Tyla Yaweh | [🔗](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb09346c91165702351da32f07" alt="" width="50" /> | 1 | 0 | The Fray | [🔗](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/cdc8cf94774db4f0066ca1f90eb3fda45955a420" alt="" width="50" /> | 400 | 1 | 1 | Freshlyground | [🔗](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | 106 | 1 | 1 | [Janelle Monáe](../../artists/janelle_monáe/overview.md) | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb15a85a7957cac2c370e713ab" alt="" width="50" /> | 400 | 1 | 1 | Kid Ink | [🔗](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e" alt="" width="50" /> | 400 | 1 | 1 | A Great Big World | [🔗](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) |
+| <img src="https://i.scdn.co/image/9aef578389c4a9d27e15a627acb784c41094e79d" alt="" width="50" /> | 400 | 1 | 1 | Sly & The Family Stone | [🔗](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 400 | 1 | 1 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcdbd28dd134a8828825088de" alt="" width="50" /> | 400 | 1 | 1 | Indigo Girls | [🔗](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | 255 | 1 | 1 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb871222ecd8d50f1efa64bcb8" alt="" width="50" /> | 400 | 1 | 1 | Giveon | [🔗](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d419ed4f1e89669ce14bd369" alt="" width="50" /> | 400 | 1 | 1 | Wild Cherry | [🔗](https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1412a6c6ccf340d8623cd6ab" alt="" width="50" /> | 293 | 1 | 1 | Jidenna | [🔗](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) |
+| <img src="https://i.scdn.co/image/ee4abaa4b898c4233b881056fd3caa9ddc87c82d" alt="" width="50" /> | 400 | 1 | 1 | LaBelle | [🔗](https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb371cba21c6962a457c550b81" alt="" width="50" /> | 400 | 1 | 1 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd919dbf4e6ed3e695ba6339d" alt="" width="50" /> | 199 | 1 | 1 | George Michael | [🔗](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebea6c3263b9aeda33707faee5" alt="" width="50" /> | 400 | 2 | 0 | Carole King | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb24b3c0f33bc5e3f6a53f84d7" alt="" width="50" /> | 400 | 1 | 0 | Ty Dolla $ign | [🔗](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728" alt="" width="50" /> | 400 | 1 | 0 | Chris Brown | [🔗](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb84505d89ff27a88fca05f56d" alt="" width="50" /> | 400 | 1 | 0 | Alejandro Sanz | [🔗](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb03e73d13341a8419eea9fcfb" alt="" width="50" /> | 400 | 1 | 0 | Wham! | [🔗](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 350 | 1 | 0 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | 342 | 1 | 0 | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
+| <img src="https://i.scdn.co/image/215c26ee517c4faf54722335cc79f375d178fb71" alt="" width="50" /> | 400 | 1 | 0 | Elmo & Patsy | [🔗](https://open.spotify.com/artist/3Ubvmshojm0HJHWWr4C6GF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe43df4cc104a9cc9c11b0b97" alt="" width="50" /> | 400 | 1 | 0 | Tyla Yaweh | [🔗](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb09346c91165702351da32f07" alt="" width="50" /> | 400 | 1 | 0 | The Fray | [🔗](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) |
 
 </details>
 
@@ -70,54 +70,54 @@ Appears as:
 
 ## Top Albums
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | 13 | 10 | Kaleidoscope Heart | 2010-09-07 | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | 12 | 12 | The Blessed Unrest | 2013-07-16 | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | 12 | 8 | Little Voice | 2007-07-03 | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | 10 | 6 | Amidst the Chaos (Bonus Version) | 2019-05-10 | [🔗](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | 6 | 1 | What's Inside: Songs from Waitress | 2015-11-06 | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | 5 | 5 | Once Upon Another Time | 2012-05-22 | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | 5 | 4 | Thriller | 1982-11-30 | [🔗](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | 3 | 3 | Camila | 2018-01-12 | [🔗](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | 3 | 2 | Romance | 2019-12-06 | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | 2 | 2 | The Script | 2008-07-14 | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | 173 | 13 | 10 | Kaleidoscope Heart | 2010-09-07 | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | 236 | 12 | 12 | The Blessed Unrest | 2013-07-16 | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | 162 | 12 | 8 | Little Voice | 2007-07-03 | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | 447 | 10 | 6 | Amidst the Chaos (Bonus Version) | 2019-05-10 | [🔗](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | 581 | 6 | 1 | What's Inside: Songs from Waitress | 2015-11-06 | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | 293 | 5 | 5 | Once Upon Another Time | 2012-05-22 | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | 581 | 5 | 4 | Thriller | 1982-11-30 | [🔗](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | 581 | 3 | 3 | Camila | 2018-01-12 | [🔗](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | 289 | 3 | 2 | Romance | 2019-12-06 | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | 580 | 2 | 2 | The Script | 2008-07-14 | [🔗](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) |
 
 
 <details>
 <summary>See all 39 albums</summary>
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | 2 | 1 | Bad (Remastered) | 1987-08-31 | [🔗](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | 2 | 0 | Tapestry | 1971 | [🔗](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d03fa6f4e758282b7920b5c8" alt="" width="50" /> | 2 | 0 | 7/27 (Deluxe) | 2016-05-27 | [🔗](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | 1 | 1 | Yoga | 2015-03-31 | [🔗](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d419ed4f1e89669ce14bd369" alt="" width="50" /> | 1 | 1 | Wild Cherry | 1976 | [🔗](https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d20231861e86a6f74ef2393e" alt="" width="50" /> | 1 | 1 | Water | 2023-07-28 | [🔗](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273752d2becbb91841a31c556b8" alt="" width="50" /> | 1 | 1 | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | 2010-05-07 | [🔗](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273af0b5968b8bad3923b2ea76b" alt="" width="50" /> | 1 | 1 | TYLA | 2024-03-22 | [🔗](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733317fc12f8b9a9a0b8459766" alt="" width="50" /> | 1 | 1 | TAKE TIME | 2020-03-27 | [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735bdd9e580fdda5e676a25e6a" alt="" width="50" /> | 1 | 1 | Reflection (Deluxe) | 2015-01-30 | [🔗](https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | 1 | 1 | Point Of Know Return (Expanded Edition) | 1977 | [🔗](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27327ddd747545c0d0cfe7595fa" alt="" width="50" /> | 1 | 1 | Oral Fixation, Vol. 2 (Expanded Edition) | 2005-11-28 | [🔗](https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a9ac0521e0b38851c51d29c5" alt="" width="50" /> | 1 | 1 | Nomads · Indians · Saints (Expanded Edition) | 1990-09-21 | [🔗](https://open.spotify.com/album/1KpKdn4HLsD9OAN6GEYAIb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27331ae071f3db459be2501ea13" alt="" width="50" /> | 1 | 1 | Nightbirds | 1974-09-13 | [🔗](https://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | 1 | 1 | Leftoverture (Expanded Edition) | 1976 | [🔗](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | 1 | 1 | Is There Anybody Out There? | 2014-01-20 | [🔗](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b08f59c7648a7a67130ca0ea" alt="" width="50" /> | 1 | 1 | Greatest Hits | 1970-11-21 | [🔗](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956" alt="" width="50" /> | 1 | 1 | Faith | 1987-10-30 | [🔗](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | 1 | 1 | Cry for Me | 2019-10-04 | [🔗](https://open.spotify.com/album/2dq4ae5hiyxlFPG1s8rlq5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | 1 | 0 | Off the Wall | 1979-08-10 | [🔗](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da313ff0ee1a50bee49dfc72" alt="" width="50" /> | 1 | 0 | More Love - Songs from Little Voice Season One | 2020-09-04 | [🔗](https://open.spotify.com/album/52fzvqGSm991mT6pBgAS6g) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d" alt="" width="50" /> | 1 | 0 | LAST CHRISTMAS | 1984-11-29 | [🔗](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27359b8b957f164ce660919f1f4" alt="" width="50" /> | 1 | 0 | How To Save A Life | 2005-09-13 | [🔗](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d3a523c771cecab6c0633e50" alt="" width="50" /> | 1 | 0 | Heart Full of Rage 2 | 2023-08-04 | [🔗](https://open.spotify.com/album/1paIukF9TxaYwBpYbyFdOt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f967f977ef9139af5dd04e9d" alt="" width="50" /> | 1 | 0 | Grandma Got Run Over By A Reindeer | 1984 | [🔗](https://open.spotify.com/album/1Yb2OydAnf7uyfKeNs7awC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="" width="50" /> | 1 | 0 | Fijación Oral, Vol. 1 | 2005-06-03 | [🔗](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9" alt="" width="50" /> | 1 | 0 | Fetch The Bolt Cutters | 2020-04-17 | [🔗](https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="" width="50" /> | 1 | 0 | Brave Enough: Live at the Variety Playhouse | 2013-10-22 | [🔗](https://open.spotify.com/album/7L4ZgnQqEhCEsV9GnMeXtE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732f4cea1bf125a287a42c5d4f" alt="" width="50" /> | 1 | 0 | All I Want for Christmas Is You | 2014-11-17 | [🔗](https://open.spotify.com/album/4oaGmvBfraPK3deWpySwJm) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | 581 | 2 | 1 | Bad (Remastered) | 1987-08-31 | [🔗](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | 581 | 2 | 0 | Tapestry | 1971 | [🔗](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d03fa6f4e758282b7920b5c8" alt="" width="50" /> | 581 | 2 | 0 | 7/27 (Deluxe) | 2016-05-27 | [🔗](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | 361 | 1 | 1 | Yoga | 2015-03-31 | [🔗](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d419ed4f1e89669ce14bd369" alt="" width="50" /> | 581 | 1 | 1 | Wild Cherry | 1976 | [🔗](https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d20231861e86a6f74ef2393e" alt="" width="50" /> | 581 | 1 | 1 | Water | 2023-07-28 | [🔗](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273752d2becbb91841a31c556b8" alt="" width="50" /> | 581 | 1 | 1 | Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground) | 2010-05-07 | [🔗](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273af0b5968b8bad3923b2ea76b" alt="" width="50" /> | 581 | 1 | 1 | TYLA | 2024-03-22 | [🔗](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733317fc12f8b9a9a0b8459766" alt="" width="50" /> | 581 | 1 | 1 | TAKE TIME | 2020-03-27 | [🔗](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735bdd9e580fdda5e676a25e6a" alt="" width="50" /> | 581 | 1 | 1 | Reflection (Deluxe) | 2015-01-30 | [🔗](https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | 581 | 1 | 1 | Point Of Know Return (Expanded Edition) | 1977 | [🔗](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27327ddd747545c0d0cfe7595fa" alt="" width="50" /> | 581 | 1 | 1 | Oral Fixation, Vol. 2 (Expanded Edition) | 2005-11-28 | [🔗](https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a9ac0521e0b38851c51d29c5" alt="" width="50" /> | 581 | 1 | 1 | Nomads · Indians · Saints (Expanded Edition) | 1990-09-21 | [🔗](https://open.spotify.com/album/1KpKdn4HLsD9OAN6GEYAIb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27331ae071f3db459be2501ea13" alt="" width="50" /> | 581 | 1 | 1 | Nightbirds | 1974-09-13 | [🔗](https://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | 581 | 1 | 1 | Leftoverture (Expanded Edition) | 1976 | [🔗](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273554488d0c51967b1654d8ce5" alt="" width="50" /> | 581 | 1 | 1 | Is There Anybody Out There? | 2014-01-20 | [🔗](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b08f59c7648a7a67130ca0ea" alt="" width="50" /> | 581 | 1 | 1 | Greatest Hits | 1970-11-21 | [🔗](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956" alt="" width="50" /> | 430 | 1 | 1 | Faith | 1987-10-30 | [🔗](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | 581 | 1 | 1 | Cry for Me | 2019-10-04 | [🔗](https://open.spotify.com/album/2dq4ae5hiyxlFPG1s8rlq5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | 581 | 1 | 0 | Off the Wall | 1979-08-10 | [🔗](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da313ff0ee1a50bee49dfc72" alt="" width="50" /> | 581 | 1 | 0 | More Love - Songs from Little Voice Season One | 2020-09-04 | [🔗](https://open.spotify.com/album/52fzvqGSm991mT6pBgAS6g) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d" alt="" width="50" /> | 581 | 1 | 0 | LAST CHRISTMAS | 1984-11-29 | [🔗](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359b8b957f164ce660919f1f4" alt="" width="50" /> | 581 | 1 | 0 | How To Save A Life | 2005-09-13 | [🔗](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3a523c771cecab6c0633e50" alt="" width="50" /> | 581 | 1 | 0 | Heart Full of Rage 2 | 2023-08-04 | [🔗](https://open.spotify.com/album/1paIukF9TxaYwBpYbyFdOt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f967f977ef9139af5dd04e9d" alt="" width="50" /> | 581 | 1 | 0 | Grandma Got Run Over By A Reindeer | 1984 | [🔗](https://open.spotify.com/album/1Yb2OydAnf7uyfKeNs7awC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f342e70aacda9d78cfb6ce7a" alt="" width="50" /> | 581 | 1 | 0 | Fijación Oral, Vol. 1 | 2005-06-03 | [🔗](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273841292c1316c4bf85447bcd9" alt="" width="50" /> | 581 | 1 | 0 | Fetch The Bolt Cutters | 2020-04-17 | [🔗](https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27338216a01881aff4e54a0850d" alt="" width="50" /> | 581 | 1 | 0 | Brave Enough: Live at the Variety Playhouse | 2013-10-22 | [🔗](https://open.spotify.com/album/7L4ZgnQqEhCEsV9GnMeXtE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f4cea1bf125a287a42c5d4f" alt="" width="50" /> | 581 | 1 | 0 | All I Want for Christmas Is You | 2014-11-17 | [🔗](https://open.spotify.com/album/4oaGmvBfraPK3deWpySwJm) |
 
 </details>
 
@@ -313,16 +313,16 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Machine Gun | Kaleidoscope Heart | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 239 | 💚 | [🔗](https://open.spotify.com/track/2ZfnsQ81jNuY4MHAshnxyp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Between the Lines | Little Voice | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 301 | 💚 | [🔗](https://open.spotify.com/track/2t3b5MZMzsArvQflOUo804) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Machine Gun | Kaleidoscope Heart | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 240 | 💚 | [🔗](https://open.spotify.com/track/2ZfnsQ81jNuY4MHAshnxyp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Between the Lines | Little Voice | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 304 | 💚 | [🔗](https://open.spotify.com/track/2t3b5MZMzsArvQflOUo804) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Many the Miles | Little Voice | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 311 | 💚 | [🔗](https://open.spotify.com/track/03kCR9HZpX5muU7D8xYPOL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Fairytale | Little Voice | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 345 | 💚 | [🔗](https://open.spotify.com/track/1q8eyTNRSGEAqSvTATTgIG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Fairytale | Little Voice | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 344 | 💚 | [🔗](https://open.spotify.com/track/1q8eyTNRSGEAqSvTATTgIG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | Lie To Me | Once Upon Another Time | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 401 | 💚 | [🔗](https://open.spotify.com/track/15zarGPJkaG3btC3Co7Luo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | My Oh My (feat. DaBaby) | Romance | [Camila Cabello](../../artists/camila_cabello/overview.md), DaBaby | [Epic](.), [Syco Music](../syco_music) | 414 | 💚 | [🔗](https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | I Choose You | The Blessed Unrest | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 452 | 💚 | [🔗](https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Manhattan | The Blessed Unrest | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 523 | 💚 | [🔗](https://open.spotify.com/track/0aSgzAUObtmSSwh1yO6shv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga | Yoga | [Janelle Monáe](../../artists/janelle_monáe/overview.md), Jidenna | [Wondaland Records/Epic](.) | 528 | 💚 | [🔗](https://open.spotify.com/track/3IJCSQoLF4YzPAKaxq2JLb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Not Alone | Kaleidoscope Heart | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 632 | 💚 | [🔗](https://open.spotify.com/track/5ksNgN3RWCBbq2sUB1KoNv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | I Choose You | The Blessed Unrest | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 453 | 💚 | [🔗](https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Manhattan | The Blessed Unrest | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 526 | 💚 | [🔗](https://open.spotify.com/track/0aSgzAUObtmSSwh1yO6shv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fbf594435bcb7b30636efc02" alt="" width="50" /> | Yoga | Yoga | [Janelle Monáe](../../artists/janelle_monáe/overview.md), Jidenna | [Wondaland Records/Epic](.) | 530 | 💚 | [🔗](https://open.spotify.com/track/3IJCSQoLF4YzPAKaxq2JLb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | Not Alone | Kaleidoscope Heart | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 633 | 💚 | [🔗](https://open.spotify.com/track/5ksNgN3RWCBbq2sUB1KoNv) |
 
 
 <details>
@@ -330,12 +330,12 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956" alt="" width="50" /> | Faith - Remastered | Faith | George Michael | [Epic](.) | 633 | 💚 | [🔗](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Poetry by Dead Men | Amidst the Chaos (Bonus Version) | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 661 | | [🔗](https://open.spotify.com/track/1rY7zvbYYWaj1OVa3YlwLv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Hercules | The Blessed Unrest | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 719 | 💚 | [🔗](https://open.spotify.com/track/1Ng4tk8lYfiwXbw4t8gdA2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita | Romance | Shawn Mendes, [Camila Cabello](../../artists/camila_cabello/overview.md) | [Epic](.), [Syco Music](../syco_music) | 766 | 💚 | [🔗](https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Gravity | Little Voice | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 811 | 💚 | [🔗](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | Breakeven | The Script | The Script | [Epic/Phonogenic](.) | 854 | 💚 | [🔗](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956" alt="" width="50" /> | Faith - Remastered | Faith | George Michael | [Epic](.) | 635 | 💚 | [🔗](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | Poetry by Dead Men | Amidst the Chaos (Bonus Version) | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 664 | | [🔗](https://open.spotify.com/track/1rY7zvbYYWaj1OVa3YlwLv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | Hercules | The Blessed Unrest | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 721 | 💚 | [🔗](https://open.spotify.com/track/1Ng4tk8lYfiwXbw4t8gdA2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita | Romance | Shawn Mendes, [Camila Cabello](../../artists/camila_cabello/overview.md) | [Epic](.), [Syco Music](../syco_music) | 765 | 💚 | [🔗](https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | Gravity | Little Voice | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [Epic](.) | 809 | 💚 | [🔗](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="" width="50" /> | Breakeven | The Script | The Script | [Epic/Phonogenic](.) | 848 | 💚 | [🔗](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b08f59c7648a7a67130ca0ea" alt="" width="50" /> | Thank You (Falettinme Be Mice Elf Agin) - Single Version | Greatest Hits | Sly & The Family Stone | [Epic](.), [Legacy](../legacy) | 868 | 💚 | [🔗](https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | I Feel the Earth Move | Tapestry | Carole King | Ode, [Epic](.), [Legacy](../legacy) | 868 | | [🔗](https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | So Far Away | Tapestry | Carole King | Ode, [Epic](.), [Legacy](../legacy) | 868 | | [🔗](https://open.spotify.com/track/4HHge4zAyIw3pkrtFzmwCl) |

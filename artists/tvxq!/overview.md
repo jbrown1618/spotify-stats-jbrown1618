@@ -15,28 +15,28 @@ TVXQ!:
 - has member Yunho
 
 ## Artist Rank
-- The #150 artist overall
+- The #150 artist of all time
 
 ![Rank of TVXQ! over time](../../images/artists/tvxq!/rank_time_series.png)
 ## Top Tracks
 
 
-### Top tracks, aggregated
+### Top tracks of all time
 
 ![Track score ranking over time](../../images/artists/tvxq!/track_rank_time_series_score.png)
 ## Top Albums
 
 ![Album ranking over time](../../images/artists/tvxq!/album_rank_time_series.png)
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27393f60760427ff9cb94a5ba96" alt="" width="50" /> | 2 | 2 | 20&2 - The 9th Album | 2023-12-26 | [🔗](https://open.spotify.com/album/4I6px53lYqErgJcsJkUNlu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f2f5eb6302fa961ec097d466" alt="" width="50" /> | 1 | 1 | New Chapter #1: The Chance of Love - The 8th Album | 2018-03-28 | [🔗](https://open.spotify.com/album/0ipyHYAE0cMf4aDJNIDIU1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="" width="50" /> | 1 | 1 | MIROTIC - The 4th Album | 2008-09-26 | [🔗](https://open.spotify.com/album/51Wmrzs9O87YlKp2vqDwln) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739f6a9a89c697fde2dada3b9d" alt="" width="50" /> | 1 | 1 | Humanoids | 2012-11-26 | [🔗](https://open.spotify.com/album/2cMjjgRPQ0pCcvA7cP3S0L) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a193f0e1f6d7fb40727c5e30" alt="" width="50" /> | 1 | 1 | Hug | 2004-01-14 | [🔗](https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27382b88b49dd9a1b387cb3f0c6" alt="" width="50" /> | 1 | 0 | TRI-ANGLE - 1st Album | 2004-10-01 | [🔗](https://open.spotify.com/album/1013imXHa490acqEZkQpeX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27397c91b59710371bdbc0138fe" alt="" width="50" /> | 1 | 0 | SCREAM | 2013-09-04 | [🔗](https://open.spotify.com/album/4wOSe34mYXuiF6lyE0NUDu) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27393f60760427ff9cb94a5ba96" alt="" width="50" /> | 581 | 2 | 2 | 20&2 - The 9th Album | 2023-12-26 | [🔗](https://open.spotify.com/album/4I6px53lYqErgJcsJkUNlu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f2f5eb6302fa961ec097d466" alt="" width="50" /> | 581 | 1 | 1 | New Chapter #1: The Chance of Love - The 8th Album | 2018-03-28 | [🔗](https://open.spotify.com/album/0ipyHYAE0cMf4aDJNIDIU1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="" width="50" /> | 459 | 1 | 1 | MIROTIC - The 4th Album | 2008-09-26 | [🔗](https://open.spotify.com/album/51Wmrzs9O87YlKp2vqDwln) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739f6a9a89c697fde2dada3b9d" alt="" width="50" /> | 581 | 1 | 1 | Humanoids | 2012-11-26 | [🔗](https://open.spotify.com/album/2cMjjgRPQ0pCcvA7cP3S0L) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a193f0e1f6d7fb40727c5e30" alt="" width="50" /> | 581 | 1 | 1 | Hug | 2004-01-14 | [🔗](https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27382b88b49dd9a1b387cb3f0c6" alt="" width="50" /> | 581 | 1 | 0 | TRI-ANGLE - 1st Album | 2004-10-01 | [🔗](https://open.spotify.com/album/1013imXHa490acqEZkQpeX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27397c91b59710371bdbc0138fe" alt="" width="50" /> | 581 | 1 | 0 | SCREAM | 2013-09-04 | [🔗](https://open.spotify.com/album/4wOSe34mYXuiF6lyE0NUDu) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -90,7 +90,7 @@ TVXQ!:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="" width="50" /> | MIROTIC | MIROTIC - The 4th Album | [TVXQ!](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 678 | 💚 | [🔗](https://open.spotify.com/track/4BZhUnXvXYRQJPClr0hhIC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="" width="50" /> | MIROTIC | MIROTIC - The 4th Album | [TVXQ!](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 682 | 💚 | [🔗](https://open.spotify.com/track/4BZhUnXvXYRQJPClr0hhIC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a193f0e1f6d7fb40727c5e30" alt="" width="50" /> | HUG | Hug | [TVXQ!](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 868 | 💚 | [🔗](https://open.spotify.com/track/3fB6z972xZddHD2SBKYCMc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382b88b49dd9a1b387cb3f0c6" alt="" width="50" /> | TRI-ANGLE - Extended Version | TRI-ANGLE - 1st Album | [TVXQ!](overview.md), [BoA](../boa/overview.md), TRAX | [SM Entertainment](../../labels/sm_entertainment) | 868 | | [🔗](https://open.spotify.com/track/4Wkw62rPTP1v37vdwUJ1Yg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739f6a9a89c697fde2dada3b9d" alt="" width="50" /> | Humanoids | Humanoids | [TVXQ!](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 868 | 💚 | [🔗](https://open.spotify.com/track/6f852O1SMrPKLW597SlUXM) |

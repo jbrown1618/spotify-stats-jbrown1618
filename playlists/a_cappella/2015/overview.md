@@ -2,30 +2,30 @@
 
 ## Artists
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb746dd598cf914934bd27ed7e" alt="" width="50" /> | 6 | 2 | [Pentatonix](../../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7106052e5e10f3ce05668e88" alt="" width="50" /> | 1 | 1 | Tink | [🔗](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="" width="50" /> | 1 | 1 | [Jason Derulo](../../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8cb389217e22c8ecb1846122" alt="" width="50" /> | 6 | 0 | Vanderbilt Melodores | [🔗](https://open.spotify.com/artist/7HkF8fT7TZlrQsjSgWUEXN) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3a9c5b798300322d4bc698f0" alt="" width="50" /> | 4 | 0 | Tar Heel Voices | [🔗](https://open.spotify.com/artist/1apO6pJsV1nwuF2K8sEsDo) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb71d410aa92b2950f9d59e2bc" alt="" width="50" /> | 2 | 0 | University of Rochester Midnight Ramblers | [🔗](https://open.spotify.com/artist/2Tv49uvEsNJXUpuFL7HuKu) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebca516d559d106ed3854fc71b" alt="" width="50" /> | 2 | 0 | Mosaic Whispers | [🔗](https://open.spotify.com/artist/0fP33MCfVUaPivyFYLZtoh) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9f0ec2e6469f7552d8a7ea63" alt="" width="50" /> | 1 | 0 | University of Rochester YellowJackets | [🔗](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8be60bf944b4dfa165ed2995" alt="" width="50" /> | 1 | 0 | Vocal Point (University of Delaware) | [🔗](https://open.spotify.com/artist/4nrhXBXu7FnxWeSbB21bfk) |
-| | 1 | 0 | University of Michigan G-Men | [🔗](https://open.spotify.com/artist/1jANAnjCBrwxiT4c33eeNc) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb746dd598cf914934bd27ed7e" alt="" width="50" /> | 33 | 6 | 2 | [Pentatonix](../../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7106052e5e10f3ce05668e88" alt="" width="50" /> | 400 | 1 | 1 | Tink | [🔗](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="" width="50" /> | 267 | 1 | 1 | [Jason Derulo](../../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8cb389217e22c8ecb1846122" alt="" width="50" /> | 400 | 6 | 0 | Vanderbilt Melodores | [🔗](https://open.spotify.com/artist/7HkF8fT7TZlrQsjSgWUEXN) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3a9c5b798300322d4bc698f0" alt="" width="50" /> | 400 | 4 | 0 | Tar Heel Voices | [🔗](https://open.spotify.com/artist/1apO6pJsV1nwuF2K8sEsDo) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb71d410aa92b2950f9d59e2bc" alt="" width="50" /> | 400 | 2 | 0 | University of Rochester Midnight Ramblers | [🔗](https://open.spotify.com/artist/2Tv49uvEsNJXUpuFL7HuKu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca516d559d106ed3854fc71b" alt="" width="50" /> | 400 | 2 | 0 | Mosaic Whispers | [🔗](https://open.spotify.com/artist/0fP33MCfVUaPivyFYLZtoh) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9f0ec2e6469f7552d8a7ea63" alt="" width="50" /> | 400 | 1 | 0 | University of Rochester YellowJackets | [🔗](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8be60bf944b4dfa165ed2995" alt="" width="50" /> | 400 | 1 | 0 | Vocal Point (University of Delaware) | [🔗](https://open.spotify.com/artist/4nrhXBXu7FnxWeSbB21bfk) |
+| | 400 | 1 | 0 | University of Michigan G-Men | [🔗](https://open.spotify.com/artist/1jANAnjCBrwxiT4c33eeNc) |
 
 ## Albums
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27331c35347cbb989e84ccccf8e" alt="" width="50" /> | 6 | 0 | M | 2015-03-30 | [🔗](https://open.spotify.com/album/1B0XzLFo4XYh8QIwPRTdpR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="" width="50" /> | 4 | 2 | Pentatonix (Deluxe Version) | 2015-10-16 | [🔗](https://open.spotify.com/album/6qf9tE8pNRW0kX1Cucrixr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730719dbaac955fe41fed564ad" alt="" width="50" /> | 4 | 0 | 1988 | 2015-05-19 | [🔗](https://open.spotify.com/album/6nktHqHKPt8kT4ozUJvwrs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | 3 | 0 | BOCA 2016: Best Of College A Cappella | 2015-12-15 | [🔗](https://open.spotify.com/album/2AOr4esohQurJGXklhRH1a) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e49dba8b71933913e6d8cc3f" alt="" width="50" /> | 2 | 0 | Wavelength | 2015-04-10 | [🔗](https://open.spotify.com/album/56RyapLbZ4DESHfzD87X7F) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | 2 | 0 | That's Christmas To Me (Deluxe Edition) | 2015-10-30 | [🔗](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27356231fb2f9b79b8ef4e4dcdd" alt="" width="50" /> | 2 | 0 | Déjà Blue | 2015-04-11 | [🔗](https://open.spotify.com/album/1mZNLR8qY6GhhrnCmtEAv3) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27331c35347cbb989e84ccccf8e" alt="" width="50" /> | 581 | 6 | 0 | M | 2015-03-30 | [🔗](https://open.spotify.com/album/1B0XzLFo4XYh8QIwPRTdpR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27338407526ecab26f59f44f999" alt="" width="50" /> | 581 | 4 | 2 | Pentatonix (Deluxe Version) | 2015-10-16 | [🔗](https://open.spotify.com/album/6qf9tE8pNRW0kX1Cucrixr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730719dbaac955fe41fed564ad" alt="" width="50" /> | 581 | 4 | 0 | 1988 | 2015-05-19 | [🔗](https://open.spotify.com/album/6nktHqHKPt8kT4ozUJvwrs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | 581 | 3 | 0 | BOCA 2016: Best Of College A Cappella | 2015-12-15 | [🔗](https://open.spotify.com/album/2AOr4esohQurJGXklhRH1a) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e49dba8b71933913e6d8cc3f" alt="" width="50" /> | 581 | 2 | 0 | Wavelength | 2015-04-10 | [🔗](https://open.spotify.com/album/56RyapLbZ4DESHfzD87X7F) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | 445 | 2 | 0 | That's Christmas To Me (Deluxe Edition) | 2015-10-30 | [🔗](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356231fb2f9b79b8ef4e4dcdd" alt="" width="50" /> | 581 | 2 | 0 | Déjà Blue | 2015-04-11 | [🔗](https://open.spotify.com/album/1mZNLR8qY6GhhrnCmtEAv3) |
 
 ## Tracks
 
@@ -33,8 +33,8 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Let It Go | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../../artists/pentatonix/overview.md) | [RCA Records Label](../../../labels/rca_records_label) | 763 | | [🔗](https://open.spotify.com/track/2G7K3Op9y3HhqrF2TdHP95) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Dance of the Sugar Plum Fairy | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../../artists/pentatonix/overview.md) | [RCA Records Label](../../../labels/rca_records_label) | 835 | | [🔗](https://open.spotify.com/track/0u0TlASkQWH2bGIZRu0HLh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Let It Go | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../../artists/pentatonix/overview.md) | [RCA Records Label](../../../labels/rca_records_label) | 762 | | [🔗](https://open.spotify.com/track/2G7K3Op9y3HhqrF2TdHP95) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Dance of the Sugar Plum Fairy | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../../artists/pentatonix/overview.md) | [RCA Records Label](../../../labels/rca_records_label) | 836 | | [🔗](https://open.spotify.com/track/0u0TlASkQWH2bGIZRu0HLh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27331c35347cbb989e84ccccf8e" alt="" width="50" /> | Bang Bang | M | Vanderbilt Melodores | Vanderbilt Melodores | 868 | | [🔗](https://open.spotify.com/track/1UOM0rw7bL6ABrJJdCQVGS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27331c35347cbb989e84ccccf8e" alt="" width="50" /> | Colder Weather | M | Vanderbilt Melodores | Vanderbilt Melodores | 868 | | [🔗](https://open.spotify.com/track/6ZlO7zjdkGguzlzqETjQWX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27331c35347cbb989e84ccccf8e" alt="" width="50" /> | I Will Follow You Into the Dark | M | Vanderbilt Melodores | Vanderbilt Melodores | 868 | | [🔗](https://open.spotify.com/track/0pSpcp8H6Uz0YYTstd6TQd) |

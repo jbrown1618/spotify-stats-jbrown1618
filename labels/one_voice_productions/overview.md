@@ -12,25 +12,25 @@ Appears as:
 
 ## Top Artists
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5c2b393e7d8a0a1bdb64b231" alt="" width="50" /> | 12 | 0 | Peter Hollens | [🔗](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb10264b6242b96013b393e9ba" alt="" width="50" /> | 1 | 0 | Anna Gilbert | [🔗](https://open.spotify.com/artist/77ajzV8In7jP3U2OYT1Yy7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2131a1dabfa3b1f2f4fb4b81" alt="" width="50" /> | 1 | 0 | The Hound + The Fox | [🔗](https://open.spotify.com/artist/6KxrjoB8dMcRC295reb2Us) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe6929e51ab4408868a13cbd8" alt="" width="50" /> | 1 | 0 | The Swingles | [🔗](https://open.spotify.com/artist/5QvPTVBx6OlrUuPwC8W3uU) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf9c4a13ec9833826f03a183a" alt="" width="50" /> | 1 | 0 | Evynne Hollens | [🔗](https://open.spotify.com/artist/3nj3MfJCFFoKiRkAOW1R8c) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c567eb6d2598c7013ed46ca2" alt="" width="50" /> | 1 | 0 | Tim Foust | [🔗](https://open.spotify.com/artist/2VtwFbDZzIoT9ZD0uR5HHD) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbc7a002b6d89aa663b55a7ef" alt="" width="50" /> | 1 | 0 | Home Free | [🔗](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb581b950dc7b3f2cc28f0159a" alt="" width="50" /> | 1 | 0 | David Archuleta | [🔗](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5c2b393e7d8a0a1bdb64b231" alt="" width="50" /> | 400 | 12 | 0 | Peter Hollens | [🔗](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb10264b6242b96013b393e9ba" alt="" width="50" /> | 400 | 1 | 0 | Anna Gilbert | [🔗](https://open.spotify.com/artist/77ajzV8In7jP3U2OYT1Yy7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2131a1dabfa3b1f2f4fb4b81" alt="" width="50" /> | 400 | 1 | 0 | The Hound + The Fox | [🔗](https://open.spotify.com/artist/6KxrjoB8dMcRC295reb2Us) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe6929e51ab4408868a13cbd8" alt="" width="50" /> | 400 | 1 | 0 | The Swingles | [🔗](https://open.spotify.com/artist/5QvPTVBx6OlrUuPwC8W3uU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf9c4a13ec9833826f03a183a" alt="" width="50" /> | 400 | 1 | 0 | Evynne Hollens | [🔗](https://open.spotify.com/artist/3nj3MfJCFFoKiRkAOW1R8c) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c567eb6d2598c7013ed46ca2" alt="" width="50" /> | 400 | 1 | 0 | Tim Foust | [🔗](https://open.spotify.com/artist/2VtwFbDZzIoT9ZD0uR5HHD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbc7a002b6d89aa663b55a7ef" alt="" width="50" /> | 400 | 1 | 0 | Home Free | [🔗](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb581b950dc7b3f2cc28f0159a" alt="" width="50" /> | 400 | 1 | 0 | David Archuleta | [🔗](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) |
 
 ![Bar chart of top 8 artists](../../images/labels/one_voice_productions/artists.png)
 
 ## Top Albums
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273fe9bb826b4677ad094f49fa3" alt="" width="50" /> | 11 | 0 | Legendary Folk Songs | 2018-06-15 | [🔗](https://open.spotify.com/album/22qN0Gw54OwckjTgVGUzVG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de86cb7d44e765c043a8b596" alt="" width="50" /> | 1 | 0 | At the Beginning | 2017-06-05 | [🔗](https://open.spotify.com/album/3uN6J4J6VstQCzzHbKbz6j) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273fe9bb826b4677ad094f49fa3" alt="" width="50" /> | 581 | 11 | 0 | Legendary Folk Songs | 2018-06-15 | [🔗](https://open.spotify.com/album/22qN0Gw54OwckjTgVGUzVG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de86cb7d44e765c043a8b596" alt="" width="50" /> | 581 | 1 | 0 | At the Beginning | 2017-06-05 | [🔗](https://open.spotify.com/album/3uN6J4J6VstQCzzHbKbz6j) |
 
 
 

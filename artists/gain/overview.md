@@ -5,13 +5,13 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="Gain" width="100" />
 
 ## Artist Rank
-- The #135 artist overall
+- The #135 artist of all time
 
 ![Rank of Gain over time](../../images/artists/gain/rank_time_series.png)
 ## Top Tracks
 
 
-### Top tracks, aggregated
+### Top tracks of all time
 
 ![Track score ranking over time](../../images/artists/gain/track_rank_time_series_score.png)
 
@@ -27,12 +27,12 @@
 
 ![Album ranking over time](../../images/artists/gain/album_rank_time_series.png)
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732c8feb0da36a6a8bc1a0d9f5" alt="" width="50" /> | 2 | 2 | Talk about S. | 2012-10-05 | [🔗](https://open.spotify.com/album/0gVRGN17vkeY9z4mXiPr8i) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c80e9c3e5cfd25ccf4a57e4" alt="" width="50" /> | 2 | 2 | End Again | 2016-09-09 | [🔗](https://open.spotify.com/album/1Lb5NVfPBTadR5jl6Vpkdq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d4c12eacfb21d74cd24a97f6" alt="" width="50" /> | 1 | 1 | Romantic Spring | 2013-04-08 | [🔗](https://open.spotify.com/album/2eMwg6w5Hq171Rfn8RakOj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="" width="50" /> | 1 | 1 | Hawwah | 2015-03-12 | [🔗](https://open.spotify.com/album/1fghVqJ812j2fqPYrSFd0Q) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c8feb0da36a6a8bc1a0d9f5" alt="" width="50" /> | 581 | 2 | 2 | Talk about S. | 2012-10-05 | [🔗](https://open.spotify.com/album/0gVRGN17vkeY9z4mXiPr8i) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c80e9c3e5cfd25ccf4a57e4" alt="" width="50" /> | 553 | 2 | 2 | End Again | 2016-09-09 | [🔗](https://open.spotify.com/album/1Lb5NVfPBTadR5jl6Vpkdq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d4c12eacfb21d74cd24a97f6" alt="" width="50" /> | 581 | 1 | 1 | Romantic Spring | 2013-04-08 | [🔗](https://open.spotify.com/album/2eMwg6w5Hq171Rfn8RakOj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="" width="50" /> | 186 | 1 | 1 | Hawwah | 2015-03-12 | [🔗](https://open.spotify.com/album/1fghVqJ812j2fqPYrSFd0Q) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -68,8 +68,8 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="" width="50" /> | Paradise Lost | Hawwah | [Gain](overview.md) | APOP Entertainment, MYSTIC Entertainment | 248 | 💚 | [🔗](https://open.spotify.com/track/1PVluFXbdOTv29475JS2Mj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c80e9c3e5cfd25ccf4a57e4" alt="" width="50" /> | Carrie (The First Day) | End Again | [Gain](overview.md) | APOP Entertainment, MYSTIC Entertainment | 803 | 💚 | [🔗](https://open.spotify.com/track/5n2Z6Z4Tw6hkbMqY4lT24u) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="" width="50" /> | Paradise Lost | Hawwah | [Gain](overview.md) | APOP Entertainment, MYSTIC Entertainment | 249 | 💚 | [🔗](https://open.spotify.com/track/1PVluFXbdOTv29475JS2Mj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c80e9c3e5cfd25ccf4a57e4" alt="" width="50" /> | Carrie (The First Day) | End Again | [Gain](overview.md) | APOP Entertainment, MYSTIC Entertainment | 818 | 💚 | [🔗](https://open.spotify.com/track/5n2Z6Z4Tw6hkbMqY4lT24u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c8feb0da36a6a8bc1a0d9f5" alt="" width="50" /> | Bloom | Talk about S. | [Gain](overview.md) | Kakao M Corp. | 868 | 💚 | [🔗](https://open.spotify.com/track/3lcdPSfDGg11Qyimx2ONYH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c8feb0da36a6a8bc1a0d9f5" alt="" width="50" /> | Tinkerbell | Talk about S. | [Gain](overview.md) | Kakao M Corp. | 868 | 💚 | [🔗](https://open.spotify.com/track/2KCMmpIOEl1Ydb3I9jIaYp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d4c12eacfb21d74cd24a97f6" alt="" width="50" /> | Brunch | Romantic Spring | [Gain](overview.md), HYUNGWOO | Kakao M Corp. | 868 | 💚 | [🔗](https://open.spotify.com/track/5wiWryEZLvo30nopnOEbdJ) |

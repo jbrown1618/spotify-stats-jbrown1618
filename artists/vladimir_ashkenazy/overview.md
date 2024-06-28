@@ -9,20 +9,20 @@
 [See Clusters](clusters/overview.md)
 
 ## Artist Rank
-- The #200 artist overall
+- The #200 artist of all time
 
 ![Rank of Vladimir Ashkenazy over time](../../images/artists/vladimir_ashkenazy/rank_time_series.png)
 ## Top Albums
 
 
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | 94 | 0 | Beethoven: The Piano Sonatas | 1995-01-01 | [🔗](https://open.spotify.com/album/7xbsSOswKgms1fUFuwKArz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="" width="50" /> | 49 | 0 | Chopin: Waltzes; 4 Scherzos; 26 Preludes | 1999-01-01 | [🔗](https://open.spotify.com/album/0yCrQ6dCqiI6ldqI8LPqWB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="" width="50" /> | 28 | 0 | Chopin: Polonaises | 1996-01-01 | [🔗](https://open.spotify.com/album/19ofW4fqCAR2uQJKVWw6L6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="" width="50" /> | 25 | 0 | Chopin: Nocturnes; Four Ballades | 1997-01-01 | [🔗](https://open.spotify.com/album/0lrM7kR5o7iqkajLKIlzRg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="" width="50" /> | 9 | 0 | Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique" | 1983-01-01 | [🔗](https://open.spotify.com/album/0RCfE1YhkdrjnM3kXT3YLl) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | 581 | 94 | 0 | Beethoven: The Piano Sonatas | 1995-01-01 | [🔗](https://open.spotify.com/album/7xbsSOswKgms1fUFuwKArz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="" width="50" /> | 581 | 49 | 0 | Chopin: Waltzes; 4 Scherzos; 26 Preludes | 1999-01-01 | [🔗](https://open.spotify.com/album/0yCrQ6dCqiI6ldqI8LPqWB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="" width="50" /> | 581 | 28 | 0 | Chopin: Polonaises | 1996-01-01 | [🔗](https://open.spotify.com/album/19ofW4fqCAR2uQJKVWw6L6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="" width="50" /> | 581 | 25 | 0 | Chopin: Nocturnes; Four Ballades | 1997-01-01 | [🔗](https://open.spotify.com/album/0lrM7kR5o7iqkajLKIlzRg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="" width="50" /> | 581 | 9 | 0 | Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique" | 1983-01-01 | [🔗](https://open.spotify.com/album/0RCfE1YhkdrjnM3kXT3YLl) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |

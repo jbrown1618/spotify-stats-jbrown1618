@@ -14,24 +14,24 @@ Rilo Kiley:
 - has member Blake Sennett
 
 ## Artist Rank
-- The #190 artist overall
+- The #190 artist of all time
 
 ![Rank of Rilo Kiley over time](../../images/artists/rilo_kiley/rank_time_series.png)
 ## Top Tracks
 
 
-### Top tracks, aggregated
+### Top tracks of all time
 
 ![Track score ranking over time](../../images/artists/rilo_kiley/track_rank_time_series_score.png)
 ## Top Albums
 
 ![Album ranking over time](../../images/artists/rilo_kiley/album_rank_time_series.png)
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | 3 | 3 | More Adventurous (U.S. Release) | 2004-07-27 | [🔗](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738a385b4e412459ec73826be7" alt="" width="50" /> | 2 | 1 | The Execution Of All Things | 2002-10-01 | [🔗](https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | 1 | 1 | Under The Blacklight (Standard Version) | 2007-08-20 | [🔗](https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2737da94a1beda4172d30b74735" alt="" width="50" /> | 581 | 3 | 3 | More Adventurous (U.S. Release) | 2004-07-27 | [🔗](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a385b4e412459ec73826be7" alt="" width="50" /> | 581 | 2 | 1 | The Execution Of All Things | 2002-10-01 | [🔗](https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | 212 | 1 | 1 | Under The Blacklight (Standard Version) | 2007-08-20 | [🔗](https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |

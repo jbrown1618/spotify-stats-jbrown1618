@@ -13,10 +13,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="" width="50" /> | Undo | Undo | [HEIZE](../../../../artists/heize/overview.md) | [Genie Music Corporation](../../../../labels/genie_music_corporation), [Stone Music Entertainment](../../../../labels/stone_music_entertainment) | 219 | 💚 | [🔗](https://open.spotify.com/track/6z1pJ3KUmQagUpMVqL62sa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8ab1a548312b79ac955266" alt="" width="50" /> | Higher Ground | Innervisions | Stevie Wonder | [Motown](../../../../labels/motown) | 868 | 💚 | [🔗](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d9c2a11edd1a7efcd73f0d1" alt="" width="50" /> | PULL UP | The 3rd Mini Album 'VarioUS' | [VIVIZ](../../../../artists/viviz/overview.md) | BIGPLANETMADE, SWING ENTERTAINMENT | 868 | 💚 | [🔗](https://open.spotify.com/track/4Jmrkz9hytD3jaLDkZ7Qvc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | nevertheless | the Billage of perception: chapter three | [Billlie](../../../../artists/billlie/overview.md) | [MYSTIC STORY](../../../../labels/mystic_story) | 602 | 💚 | [🔗](https://open.spotify.com/track/26fVl2CYeXXxD4yEqmhrpM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | nevertheless | the Billage of perception: chapter three | [Billlie](../../../../artists/billlie/overview.md) | [MYSTIC STORY](../../../../labels/mystic_story) | 605 | 💚 | [🔗](https://open.spotify.com/track/26fVl2CYeXXxD4yEqmhrpM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="" width="50" /> | Brick House | Commodores | Commodores | [Motown](../../../../labels/motown) | 868 | | [🔗](https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273777c5fdae315d921a3784f21" alt="" width="50" /> | Give Up The Funk (Tear The Roof Off The Sucker) | Mothership Connection | Parliament | Def Jam West | 868 | 💚 | [🔗](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27356035da9eacd668ffdfacb36" alt="" width="50" /> | TOUCHIN&MOVIN | Starlit of Muse | Moon Byul | [RBW Inc.](../../../../labels/rbw_inc_) | 691 | 💚 | [🔗](https://open.spotify.com/track/2xCc0iWKdkvaOYppt7ElGE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356035da9eacd668ffdfacb36" alt="" width="50" /> | TOUCHIN&MOVIN | Starlit of Muse | Moon Byul | [RBW Inc.](../../../../labels/rbw_inc_) | 693 | 💚 | [🔗](https://open.spotify.com/track/2xCc0iWKdkvaOYppt7ElGE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b3787e954c118353100783c" alt="" width="50" /> | Jungle Boogie | Wild And Peaceful | Kool & The Gang | Island Mercury | 868 | | [🔗](https://open.spotify.com/track/3K0SJUQNbOkUprTFcwwAKN) |
 ## Cluster #2
 
@@ -25,7 +25,7 @@
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f7e2aa2f1d7ea0fd2e206c0" alt="" width="50" /> | Ace of Aces | The Fearless Flyers | The Fearless Flyers | Vulf Records | 868 | | [🔗](https://open.spotify.com/track/1SlkhRMOEJp97Ho0BaIOkj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb03213742765479b3b1cf11" alt="" width="50" /> | Nate Smith Is the Ace of Aces | Tailwinds | The Fearless Flyers | Vulf Records | 759 | 💚 | [🔗](https://open.spotify.com/track/3p8Gxhqy3pzCU7BRfqhqPE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb03213742765479b3b1cf11" alt="" width="50" /> | Nate Smith Is the Ace of Aces | Tailwinds | The Fearless Flyers | Vulf Records | 755 | 💚 | [🔗](https://open.spotify.com/track/3p8Gxhqy3pzCU7BRfqhqPE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5296d028b3e255aec56fc3c" alt="" width="50" /> | Funkytown | Mouth To Mouth | Lipps Inc. | [Polydor](../../../../labels/polydor_records) | 868 | 💚 | [🔗](https://open.spotify.com/track/2XVQdI3m0giGxNrwUhV3yP) |
 ## Cluster #3
 

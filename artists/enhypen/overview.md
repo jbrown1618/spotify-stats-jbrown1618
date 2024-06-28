@@ -21,24 +21,24 @@ ENHYPEN:
 
 ## Artist Rank
 ENHYPEN is currently:
-- The #10 artist of the last month
+- The #9 artist of the last month
 - The #9 artist of the last 6 months
-- The #6 artist of all time
-- The #7 artist overall
+- The #6 artist of the last year
+- The #7 artist of all time
 
 ![Rank of ENHYPEN over time](../../images/artists/enhypen/rank_time_series.png)
 ## Top Tracks
 
 
-### Top tracks, aggregated
+### Top tracks of all time
 
 ![Track score ranking over time](../../images/artists/enhypen/track_rank_time_series_score.png)
 
 
 <details>
-<summary>Top tracks of all time over time</summary>
+<summary>Top tracks of the last year over time</summary>
 
-![Line chart of top tracks of all time over time](../../images/artists/enhypen/track_rank_time_series_long_term.png)
+![Line chart of top tracks of the last year over time](../../images/artists/enhypen/track_rank_time_series_long_term.png)
 
 </details>
 
@@ -55,32 +55,32 @@ ENHYPEN is currently:
 
 ![Album ranking over time](../../images/artists/enhypen/album_rank_time_series.png)
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | 5 | 5 | DIMENSION : DILEMMA | 2021-10-12 | [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="" width="50" /> | 5 | 4 | DARK BLOOD | 2023-05-22 | [🔗](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | 4 | 4 | MANIFESTO : DAY 1 | 2022-07-04 | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27355a4b0d253296e5fe7516d45" alt="" width="50" /> | 4 | 4 | DARK MOON SPECIAL ALBUM <MEMORABILIA> | 2024-05-13 | [🔗](https://open.spotify.com/album/0OhJwEzXbK9Km6GQSPdmPU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | 4 | 3 | BORDER : DAY ONE | 2020-11-30 | [🔗](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | 4 | 3 | BORDER : CARNIVAL | 2021-04-26 | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="" width="50" /> | 4 | 2 | ORANGE BLOOD | 2023-11-17 | [🔗](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="" width="50" /> | 2 | 2 | DIMENSION : ANSWER | 2022-01-10 | [🔗](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273379ddd38212be64d41e7250f" alt="" width="50" /> | 1 | 1 | One and Only | 2023-07-11 | [🔗](https://open.spotify.com/album/5LGe47qZJTNwtM8gUfT7Mx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fc8b0918267ea555921863e8" alt="" width="50" /> | 1 | 1 | One In A Billion | 2022-09-06 | [🔗](https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | 108 | 5 | 5 | DIMENSION : DILEMMA | 2021-10-12 | [🔗](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="" width="50" /> | 21 | 5 | 4 | DARK BLOOD | 2023-05-22 | [🔗](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | 22 | 4 | 4 | MANIFESTO : DAY 1 | 2022-07-04 | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27355a4b0d253296e5fe7516d45" alt="" width="50" /> | 151 | 4 | 4 | DARK MOON SPECIAL ALBUM <MEMORABILIA> | 2024-05-13 | [🔗](https://open.spotify.com/album/0OhJwEzXbK9Km6GQSPdmPU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | 411 | 4 | 3 | BORDER : DAY ONE | 2020-11-30 | [🔗](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | 157 | 4 | 3 | BORDER : CARNIVAL | 2021-04-26 | [🔗](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="" width="50" /> | 50 | 4 | 2 | ORANGE BLOOD | 2023-11-17 | [🔗](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="" width="50" /> | 114 | 2 | 2 | DIMENSION : ANSWER | 2022-01-10 | [🔗](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273379ddd38212be64d41e7250f" alt="" width="50" /> | 255 | 1 | 1 | One and Only | 2023-07-11 | [🔗](https://open.spotify.com/album/5LGe47qZJTNwtM8gUfT7Mx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc8b0918267ea555921863e8" alt="" width="50" /> | 581 | 1 | 1 | One In A Billion | 2022-09-06 | [🔗](https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd) |
 
 
 <details>
 <summary>See all albums</summary>
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27328980bc854e40cb7a31fec98" alt="" width="50" /> | 1 | 1 | CRIMINAL LOVE | 2023-07-31 | [🔗](https://open.spotify.com/album/6S8BCiVrtzm5TEOnjyyCfJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273715d1b4d21f0ca40a8e95840" alt="" width="50" /> | 1 | 1 | Always | 2022-02-21 | [🔗](https://open.spotify.com/album/0kwAgLzLnzQxaKcdubyaMh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ef4adc98040174caf60aa1a1" alt="" width="50" /> | 1 | 0 | What Makes You Beautiful [THE SEASONS: Red Carpet with Lee Hyo Ri] | 2024-02-23 | [🔗](https://open.spotify.com/album/3RvguzRz56wqZ9fNldExgn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27343b2533812791c25755cb440" alt="" width="50" /> | 1 | 0 | Keep Swimmin' Through | 2023-11-03 | [🔗](https://open.spotify.com/album/3DuL4EFBmwfcEle2TTQNY2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e5245e31f1351c75654b5e92" alt="" width="50" /> | 1 | 0 | I Need The Light | 2022-08-12 | [🔗](https://open.spotify.com/album/4RAx28on33NHM5FQiFhyvZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ce067b763f6a4938cb8a501" alt="" width="50" /> | 1 | 0 | HEY TAYO | 2021-07-29 | [🔗](https://open.spotify.com/album/2i0irlNjTfYPohsFPIK8J0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e9a13d3c5e02b10d0d8b4f6c" alt="" width="50" /> | 1 | 0 | BILLY POCO | 2021-08-11 | [🔗](https://open.spotify.com/album/053egZ9MnXOGmLMQUiFPfZ) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27328980bc854e40cb7a31fec98" alt="" width="50" /> | 99 | 1 | 1 | CRIMINAL LOVE | 2023-07-31 | [🔗](https://open.spotify.com/album/6S8BCiVrtzm5TEOnjyyCfJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273715d1b4d21f0ca40a8e95840" alt="" width="50" /> | 398 | 1 | 1 | Always | 2022-02-21 | [🔗](https://open.spotify.com/album/0kwAgLzLnzQxaKcdubyaMh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ef4adc98040174caf60aa1a1" alt="" width="50" /> | 581 | 1 | 0 | What Makes You Beautiful [THE SEASONS: Red Carpet with Lee Hyo Ri] | 2024-02-23 | [🔗](https://open.spotify.com/album/3RvguzRz56wqZ9fNldExgn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27343b2533812791c25755cb440" alt="" width="50" /> | 581 | 1 | 0 | Keep Swimmin' Through | 2023-11-03 | [🔗](https://open.spotify.com/album/3DuL4EFBmwfcEle2TTQNY2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e5245e31f1351c75654b5e92" alt="" width="50" /> | 581 | 1 | 0 | I Need The Light | 2022-08-12 | [🔗](https://open.spotify.com/album/4RAx28on33NHM5FQiFhyvZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ce067b763f6a4938cb8a501" alt="" width="50" /> | 581 | 1 | 0 | HEY TAYO | 2021-07-29 | [🔗](https://open.spotify.com/album/2i0irlNjTfYPohsFPIK8J0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9a13d3c5e02b10d0d8b4f6c" alt="" width="50" /> | 581 | 1 | 0 | BILLY POCO | 2021-08-11 | [🔗](https://open.spotify.com/album/053egZ9MnXOGmLMQUiFPfZ) |
 
 </details>
 
@@ -136,7 +136,7 @@ ENHYPEN is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | Just A Little Bit | DIMENSION : DILEMMA | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 144 | 💚 | [🔗](https://open.spotify.com/track/3QdjLOemIcMZovVOnvJP7P) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c1ea5bfa5680ac877acdd55" alt="" width="50" /> | Polaroid Love | DIMENSION : ANSWER | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 145 | 💚 | [🔗](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27355a4b0d253296e5fe7516d45" alt="" width="50" /> | Fatal Trouble | DARK MOON SPECIAL ALBUM <MEMORABILIA> | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 215 | 💚 | [🔗](https://open.spotify.com/track/6i1PYoUEMHqxAsAUKHkqpe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | FEVER | BORDER : CARNIVAL | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 224 | 💚 | [🔗](https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | FEVER | BORDER : CARNIVAL | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 225 | 💚 | [🔗](https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK) |
 
 
 <details>
@@ -144,19 +144,19 @@ ENHYPEN is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="" width="50" /> | Chaconne | DARK BLOOD | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 327 | 💚 | [🔗](https://open.spotify.com/track/7nBjhYbLttb9LHZHqNuld5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="" width="50" /> | Chaconne | DARK BLOOD | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 328 | 💚 | [🔗](https://open.spotify.com/track/7nBjhYbLttb9LHZHqNuld5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="" width="50" /> | Sweet Venom (English Ver.) | ORANGE BLOOD | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 343 | | [🔗](https://open.spotify.com/track/47JqJobasbTT9r0gX8CoE1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273379ddd38212be64d41e7250f" alt="" width="50" /> | One and Only | One and Only | [ENHYPEN](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 347 | 💚 | [🔗](https://open.spotify.com/track/7dDY45rR3idfeCypFDrk0G) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273379ddd38212be64d41e7250f" alt="" width="50" /> | One and Only | One and Only | [ENHYPEN](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 346 | 💚 | [🔗](https://open.spotify.com/track/7dDY45rR3idfeCypFDrk0G) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | Not For Sale | BORDER : CARNIVAL | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 363 | 💚 | [🔗](https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | Upper Side Dreamin’ | DIMENSION : DILEMMA | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 382 | 💚 | [🔗](https://open.spotify.com/track/6oSCR9n71tmwWL3GFb65Ec) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | Upper Side Dreamin’ | DIMENSION : DILEMMA | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 378 | 💚 | [🔗](https://open.spotify.com/track/6oSCR9n71tmwWL3GFb65Ec) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27355a4b0d253296e5fe7516d45" alt="" width="50" /> | Teeth | DARK MOON SPECIAL ALBUM <MEMORABILIA> | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 386 | 💚 | [🔗](https://open.spotify.com/track/6JlQqA7FDfqLbnpJBwypPe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27355a4b0d253296e5fe7516d45" alt="" width="50" /> | Scream | DARK MOON SPECIAL ALBUM <MEMORABILIA> | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 412 | 💚 | [🔗](https://open.spotify.com/track/1kgg5vR9QCW72RTNQTaSRH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27355a4b0d253296e5fe7516d45" alt="" width="50" /> | Scream | DARK MOON SPECIAL ALBUM <MEMORABILIA> | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 397 | 💚 | [🔗](https://open.spotify.com/track/1kgg5vR9QCW72RTNQTaSRH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d03b5e88cee6870778a4d27" alt="" width="50" /> | Fate | DARK BLOOD | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 472 | | [🔗](https://open.spotify.com/track/0iLyNDLTsBkqB8SLAzNGxF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | Go Big or Go Home | DIMENSION : DILEMMA | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 538 | 💚 | [🔗](https://open.spotify.com/track/6IqKFke4ZhKbGYULllEezY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | Drunk-Dazed | BORDER : CARNIVAL | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 560 | 💚 | [🔗](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273715d1b4d21f0ca40a8e95840" alt="" width="50" /> | Always | Always | [ENHYPEN](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 583 | 💚 | [🔗](https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | Given-Taken | BORDER : DAY ONE | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 607 | 💚 | [🔗](https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | Tamed-Dashed | DIMENSION : DILEMMA | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 640 | 💚 | [🔗](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | Go Big or Go Home | DIMENSION : DILEMMA | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 541 | 💚 | [🔗](https://open.spotify.com/track/6IqKFke4ZhKbGYULllEezY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273714e56679ab196354e2e443e" alt="" width="50" /> | Drunk-Dazed | BORDER : CARNIVAL | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 561 | 💚 | [🔗](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273715d1b4d21f0ca40a8e95840" alt="" width="50" /> | Always | Always | [ENHYPEN](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 587 | 💚 | [🔗](https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | Given-Taken | BORDER : DAY ONE | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 606 | 💚 | [🔗](https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="" width="50" /> | Tamed-Dashed | DIMENSION : DILEMMA | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 642 | 💚 | [🔗](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | 10 Months | BORDER : DAY ONE | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 868 | 💚 | [🔗](https://open.spotify.com/track/3LcFQsZw01tRvjCNLgSmTv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | Flicker | BORDER : DAY ONE | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 868 | | [🔗](https://open.spotify.com/track/3TgPwLFXV6GEIsDZANHktY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a6096741dcf413354a59554" alt="" width="50" /> | Let Me In (20 CUBE) | BORDER : DAY ONE | [ENHYPEN](overview.md) | [BELIFT LAB](../../labels/belift_lab) | 868 | 💚 | [🔗](https://open.spotify.com/track/4eOcd47wPU3ixxYw0spREl) |

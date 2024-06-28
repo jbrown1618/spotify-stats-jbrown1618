@@ -5,21 +5,21 @@
 <img src="https://i.scdn.co/image/ab6761610000e5eb36c6fa1b8ff851988de641f8" alt="Lindsey Stirling" width="100" />
 
 ## Artist Rank
-- The #400 artist overall
+- The #400 artist of all time
 
 
 ## Top Albums
 
 ![Album ranking over time](../../images/artists/lindsey_stirling/album_rank_time_series.png)
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="" width="50" /> | 2 | 2 | Lindsey Stirling | 2012 | [🔗](https://open.spotify.com/album/3YTWAm90osBvLNWCdF8Nq2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="" width="50" /> | 1 | 1 | Shatter Me | 2014-04-29 | [🔗](https://open.spotify.com/album/2spbck4ETZz1aLq5Fi5phC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | 1 | 1 | PTX, Vol. III | 2014-09-23 | [🔗](https://open.spotify.com/album/32y54TelUHSUDWVOx4h1B4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="" width="50" /> | 1 | 1 | PTX | 2014-09-19 | [🔗](https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="" width="50" /> | 1 | 0 | Legendary Covers, Vol. 1 | 2019 | [🔗](https://open.spotify.com/album/1tFypxtPJ5A61j97TRhWnP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="" width="50" /> | 1 | 0 | Artemis | 2019-09-06 | [🔗](https://open.spotify.com/album/4YAtGpNUwcHesLlyYUIxur) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="" width="50" /> | 581 | 2 | 2 | Lindsey Stirling | 2012 | [🔗](https://open.spotify.com/album/3YTWAm90osBvLNWCdF8Nq2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="" width="50" /> | 581 | 1 | 1 | Shatter Me | 2014-04-29 | [🔗](https://open.spotify.com/album/2spbck4ETZz1aLq5Fi5phC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | 306 | 1 | 1 | PTX, Vol. III | 2014-09-23 | [🔗](https://open.spotify.com/album/32y54TelUHSUDWVOx4h1B4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="" width="50" /> | 581 | 1 | 1 | PTX | 2014-09-19 | [🔗](https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27314c8e44d9a72ff95895d96ef" alt="" width="50" /> | 581 | 1 | 0 | Legendary Covers, Vol. 1 | 2019 | [🔗](https://open.spotify.com/album/1tFypxtPJ5A61j97TRhWnP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="" width="50" /> | 581 | 1 | 0 | Artemis | 2019-09-06 | [🔗](https://open.spotify.com/album/4YAtGpNUwcHesLlyYUIxur) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |

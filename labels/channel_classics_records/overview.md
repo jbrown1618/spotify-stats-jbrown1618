@@ -11,18 +11,18 @@ Appears as:
 
 ## Top Artists
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/e9a9521ffd11cf06717c699acc48c32ec6ac7d21" alt="" width="50" /> | 12 | 0 | Joseph Haydn | [🔗](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f1e24654c624c58911f179b5" alt="" width="50" /> | 12 | 0 | The Amsterdam String Quartet | [🔗](https://open.spotify.com/artist/0kbgyaL9g2Eba79p2jiYlN) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/e9a9521ffd11cf06717c699acc48c32ec6ac7d21" alt="" width="50" /> | 400 | 12 | 0 | Joseph Haydn | [🔗](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f1e24654c624c58911f179b5" alt="" width="50" /> | 400 | 12 | 0 | The Amsterdam String Quartet | [🔗](https://open.spotify.com/artist/0kbgyaL9g2Eba79p2jiYlN) |
 
 
 
 ## Top Albums
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2737368d9506efe9c2d556d9e98" alt="" width="50" /> | 12 | 0 | Haydn: String Quartets | 2008-01-01 | [🔗](https://open.spotify.com/album/1rNGG2I3AKJy9FWqUiitkc) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2737368d9506efe9c2d556d9e98" alt="" width="50" /> | 581 | 12 | 0 | Haydn: String Quartets | 2008-01-01 | [🔗](https://open.spotify.com/album/1rNGG2I3AKJy9FWqUiitkc) |
 
 
 

@@ -2,56 +2,56 @@
 
 ## Artists
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb746dd598cf914934bd27ed7e" alt="" width="50" /> | 4 | 1 | [Pentatonix](../../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273458d338af5f8ead5be756346" alt="" width="50" /> | 2 | 1 | Second Shift A Cappella | [🔗](https://open.spotify.com/artist/62Sh3v52pBL7IhWZMaGgq6) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5c2b393e7d8a0a1bdb64b231" alt="" width="50" /> | 11 | 0 | Peter Hollens | [🔗](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb78999d4b6fb0847081e2f479" alt="" width="50" /> | 2 | 0 | SoCal VoCals | [🔗](https://open.spotify.com/artist/5L30XpwHG77eWCZtelTns9) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb135011225be867d3ca1d38a3" alt="" width="50" /> | 2 | 0 | Citizen Queen | [🔗](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2e0ad34c3e72d947a63a60f2" alt="" width="50" /> | 2 | 0 | The Loreleis | [🔗](https://open.spotify.com/artist/1fqMjreaczGwFmdmG6AvJs) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb10264b6242b96013b393e9ba" alt="" width="50" /> | 1 | 0 | Anna Gilbert | [🔗](https://open.spotify.com/artist/77ajzV8In7jP3U2OYT1Yy7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2131a1dabfa3b1f2f4fb4b81" alt="" width="50" /> | 1 | 0 | The Hound + The Fox | [🔗](https://open.spotify.com/artist/6KxrjoB8dMcRC295reb2Us) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe6929e51ab4408868a13cbd8" alt="" width="50" /> | 1 | 0 | The Swingles | [🔗](https://open.spotify.com/artist/5QvPTVBx6OlrUuPwC8W3uU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c567eb6d2598c7013ed46ca2" alt="" width="50" /> | 1 | 0 | Tim Foust | [🔗](https://open.spotify.com/artist/2VtwFbDZzIoT9ZD0uR5HHD) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb746dd598cf914934bd27ed7e" alt="" width="50" /> | 33 | 4 | 1 | [Pentatonix](../../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273458d338af5f8ead5be756346" alt="" width="50" /> | 400 | 2 | 1 | Second Shift A Cappella | [🔗](https://open.spotify.com/artist/62Sh3v52pBL7IhWZMaGgq6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5c2b393e7d8a0a1bdb64b231" alt="" width="50" /> | 400 | 11 | 0 | Peter Hollens | [🔗](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb78999d4b6fb0847081e2f479" alt="" width="50" /> | 400 | 2 | 0 | SoCal VoCals | [🔗](https://open.spotify.com/artist/5L30XpwHG77eWCZtelTns9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb135011225be867d3ca1d38a3" alt="" width="50" /> | 400 | 2 | 0 | Citizen Queen | [🔗](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2e0ad34c3e72d947a63a60f2" alt="" width="50" /> | 400 | 2 | 0 | The Loreleis | [🔗](https://open.spotify.com/artist/1fqMjreaczGwFmdmG6AvJs) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb10264b6242b96013b393e9ba" alt="" width="50" /> | 400 | 1 | 0 | Anna Gilbert | [🔗](https://open.spotify.com/artist/77ajzV8In7jP3U2OYT1Yy7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2131a1dabfa3b1f2f4fb4b81" alt="" width="50" /> | 400 | 1 | 0 | The Hound + The Fox | [🔗](https://open.spotify.com/artist/6KxrjoB8dMcRC295reb2Us) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe6929e51ab4408868a13cbd8" alt="" width="50" /> | 400 | 1 | 0 | The Swingles | [🔗](https://open.spotify.com/artist/5QvPTVBx6OlrUuPwC8W3uU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c567eb6d2598c7013ed46ca2" alt="" width="50" /> | 400 | 1 | 0 | Tim Foust | [🔗](https://open.spotify.com/artist/2VtwFbDZzIoT9ZD0uR5HHD) |
 
 
 <details>
 <summary>View all</summary>
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbc7a002b6d89aa663b55a7ef" alt="" width="50" /> | 1 | 0 | Home Free | [🔗](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb581b950dc7b3f2cc28f0159a" alt="" width="50" /> | 1 | 0 | David Archuleta | [🔗](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc63e900506fdff4b6177f920" alt="" width="50" /> | 1 | 0 | The Swingle Singers | [🔗](https://open.spotify.com/artist/1ZlFYysRdc6YaUH5FkxPl8) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb28d2d9a97a89d4721c2917b2" alt="" width="50" /> | 1 | 0 | UNC Achordants | [🔗](https://open.spotify.com/artist/1TzZMeOCs4TMYtzgohPMAr) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebca516d559d106ed3854fc71b" alt="" width="50" /> | 1 | 0 | Mosaic Whispers | [🔗](https://open.spotify.com/artist/0fP33MCfVUaPivyFYLZtoh) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbc7a002b6d89aa663b55a7ef" alt="" width="50" /> | 400 | 1 | 0 | Home Free | [🔗](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb581b950dc7b3f2cc28f0159a" alt="" width="50" /> | 400 | 1 | 0 | David Archuleta | [🔗](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc63e900506fdff4b6177f920" alt="" width="50" /> | 400 | 1 | 0 | The Swingle Singers | [🔗](https://open.spotify.com/artist/1ZlFYysRdc6YaUH5FkxPl8) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb28d2d9a97a89d4721c2917b2" alt="" width="50" /> | 400 | 1 | 0 | UNC Achordants | [🔗](https://open.spotify.com/artist/1TzZMeOCs4TMYtzgohPMAr) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca516d559d106ed3854fc71b" alt="" width="50" /> | 400 | 1 | 0 | Mosaic Whispers | [🔗](https://open.spotify.com/artist/0fP33MCfVUaPivyFYLZtoh) |
 
 </details>
 
 
 ## Albums
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273fe9bb826b4677ad094f49fa3" alt="" width="50" /> | 11 | 0 | Legendary Folk Songs | 2018-06-15 | [🔗](https://open.spotify.com/album/22qN0Gw54OwckjTgVGUzVG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="" width="50" /> | 3 | 1 | PTX Presents: Top Pop, Vol. I | 2018-04-13 | [🔗](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273458d338af5f8ead5be756346" alt="" width="50" /> | 2 | 1 | Graveyard Shift | 2018-10-28 | [🔗](https://open.spotify.com/album/4i6gztUxx7Iq1tocxEX1pY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d3f8430d5bac3daad32d93eb" alt="" width="50" /> | 2 | 0 | Where the Secret Lies | 2018 | [🔗](https://open.spotify.com/album/6kKcn38yjU8iFvlWCbcQsL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bab336e565eb71bf7860dfcc" alt="" width="50" /> | 2 | 0 | V | 2018 | [🔗](https://open.spotify.com/album/7wPsYBhUlqtAgPr2hbbmP3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27372ab17caf31d0387153ec39b" alt="" width="50" /> | 1 | 0 | Oasis | 2018 | [🔗](https://open.spotify.com/album/1VpHqAIW8Pu343GJa0UpRQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a0dbab021f379ba34283a4ed" alt="" width="50" /> | 1 | 0 | No Tears Left to Cry | 2018-12-11 | [🔗](https://open.spotify.com/album/2f47uqbseyM4AGSCiIQaw2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731dd365a8240e6a0c0294f764" alt="" width="50" /> | 1 | 0 | Lost in Japan | 2018-12-28 | [🔗](https://open.spotify.com/album/1Zs8K8co0WkLKaQ4NxduR5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="" width="50" /> | 1 | 0 | Christmas Is Here! | 2018-10-19 | [🔗](https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27360fd5c708d2f5956d46888a9" alt="" width="50" /> | 1 | 0 | A Swing and a Miss | 2018-04-26 | [🔗](https://open.spotify.com/album/0qj5ECfme87sP5anevwf81) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273fe9bb826b4677ad094f49fa3" alt="" width="50" /> | 581 | 11 | 0 | Legendary Folk Songs | 2018-06-15 | [🔗](https://open.spotify.com/album/22qN0Gw54OwckjTgVGUzVG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="" width="50" /> | 581 | 3 | 1 | PTX Presents: Top Pop, Vol. I | 2018-04-13 | [🔗](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273458d338af5f8ead5be756346" alt="" width="50" /> | 581 | 2 | 1 | Graveyard Shift | 2018-10-28 | [🔗](https://open.spotify.com/album/4i6gztUxx7Iq1tocxEX1pY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3f8430d5bac3daad32d93eb" alt="" width="50" /> | 581 | 2 | 0 | Where the Secret Lies | 2018 | [🔗](https://open.spotify.com/album/6kKcn38yjU8iFvlWCbcQsL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bab336e565eb71bf7860dfcc" alt="" width="50" /> | 581 | 2 | 0 | V | 2018 | [🔗](https://open.spotify.com/album/7wPsYBhUlqtAgPr2hbbmP3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27372ab17caf31d0387153ec39b" alt="" width="50" /> | 581 | 1 | 0 | Oasis | 2018 | [🔗](https://open.spotify.com/album/1VpHqAIW8Pu343GJa0UpRQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0dbab021f379ba34283a4ed" alt="" width="50" /> | 581 | 1 | 0 | No Tears Left to Cry | 2018-12-11 | [🔗](https://open.spotify.com/album/2f47uqbseyM4AGSCiIQaw2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731dd365a8240e6a0c0294f764" alt="" width="50" /> | 581 | 1 | 0 | Lost in Japan | 2018-12-28 | [🔗](https://open.spotify.com/album/1Zs8K8co0WkLKaQ4NxduR5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="" width="50" /> | 581 | 1 | 0 | Christmas Is Here! | 2018-10-19 | [🔗](https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27360fd5c708d2f5956d46888a9" alt="" width="50" /> | 581 | 1 | 0 | A Swing and a Miss | 2018-04-26 | [🔗](https://open.spotify.com/album/0qj5ECfme87sP5anevwf81) |
 
 
 <details>
 <summary>View all</summary>
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27395369441b4588e4419deb673" alt="" width="50" /> | 1 | 0 | A Capella Christmas Favourites | 2018-12-03 | [🔗](https://open.spotify.com/album/4PUNlc0snMF3Bqa8NeWLRk) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27395369441b4588e4419deb673" alt="" width="50" /> | 581 | 1 | 0 | A Capella Christmas Favourites | 2018-12-03 | [🔗](https://open.spotify.com/album/4PUNlc0snMF3Bqa8NeWLRk) |
 
 </details>
 

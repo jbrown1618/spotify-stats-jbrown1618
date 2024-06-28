@@ -2,120 +2,120 @@
 
 ## Artists
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb02a562ea6b1dc718394010ac" alt="" width="50" /> | 12 | 10 | [Red Velvet](../../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb097877542866c981757e9592" alt="" width="50" /> | 6 | 4 | [TAEYEON](../../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | 4 | 4 | [IU](../../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0c6952f39ba680489149a54c" alt="" width="50" /> | 4 | 3 | [TWICE](../../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc112966f2a5abe5641abae6f" alt="" width="50" /> | 3 | 3 | [(G)I-DLE](../../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf9fb2a341d6852c012a5d5ee" alt="" width="50" /> | 4 | 2 | [Dreamcatcher](../../../artists/dreamcatcher/overview.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 4 | 2 | [BLACKPINK](../../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 4 | 2 | [BTS](../../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | 3 | 2 | [CLC](../../../artists/clc/overview.md) | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8e075c754be58cc33e30905a" alt="" width="50" /> | 3 | 2 | [CHUNG HA](../../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb02a562ea6b1dc718394010ac" alt="" width="50" /> | 2 | 12 | 10 | [Red Velvet](../../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb097877542866c981757e9592" alt="" width="50" /> | 8 | 6 | 4 | [TAEYEON](../../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | 4 | 4 | 4 | [IU](../../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0c6952f39ba680489149a54c" alt="" width="50" /> | 9 | 4 | 3 | [TWICE](../../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc112966f2a5abe5641abae6f" alt="" width="50" /> | 6 | 3 | 3 | [(G)I-DLE](../../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf9fb2a341d6852c012a5d5ee" alt="" width="50" /> | 29 | 4 | 2 | [Dreamcatcher](../../../artists/dreamcatcher/overview.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 3 | 4 | 2 | [BLACKPINK](../../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 25 | 4 | 2 | [BTS](../../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | 58 | 3 | 2 | [CLC](../../../artists/clc/overview.md) | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8e075c754be58cc33e30905a" alt="" width="50" /> | 14 | 3 | 2 | [CHUNG HA](../../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 
 
 <details>
 <summary>View all</summary>
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | 2 | 2 | [HWASA](../../../artists/hwasa/overview.md) | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb76643c12c77c6f4de9f5fdb5" alt="" width="50" /> | 2 | 2 | [EVERGLOW](../../../artists/everglow/overview.md) | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb75237a1ba0379041476012b3" alt="" width="50" /> | 2 | 2 | [Stray Kids](../../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a" alt="" width="50" /> | 2 | 2 | [ITZY](../../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | 2 | 2 | [MAMAMOO](../../../artists/mamamoo/overview.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf8ae485831cf4c3a568dc313" alt="" width="50" /> | 2 | 1 | [ATEEZ](../../../artists/ateez/overview.md) | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb611e60f2b061c920476b2df3" alt="" width="50" /> | 2 | 1 | [BAEKHYUN](../../../artists/baekhyun/overview.md) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3d5ddee9415ccf4baaa9f26e" alt="" width="50" /> | 2 | 1 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe70125afbbed90ac3e9339ba" alt="" width="50" /> | 1 | 1 | WOOGIE | [🔗](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | 1 | 1 | GOT7 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 1 | 1 | [BIBI](../../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8eb5e57e526ceb14f06ea203" alt="" width="50" /> | 1 | 1 | iKON | [🔗](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | 1 | 1 | [MOMOLAND](../../../artists/momoland/overview.md) | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8d69367047a24d20b0323ff7" alt="" width="50" /> | 1 | 1 | SuperM | [🔗](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2a4491bcd12c2cfe2490e52a" alt="" width="50" /> | 1 | 1 | AB6IX | [🔗](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd9e94a40fd6ef4fe68318821" alt="" width="50" /> | 1 | 1 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5cd460490fb1c55b8ed8c40b" alt="" width="50" /> | 1 | 1 | [OH MY GIRL](../../../artists/oh_my_girl/overview.md) | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb550aeb3311c7c8bf53ad07db" alt="" width="50" /> | 1 | 1 | WayV | [🔗](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb49cfa92440a7629ab21a8561" alt="" width="50" /> | 1 | 1 | [NCT DREAM](../../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | 1 | 1 | J.Y. Park | [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6ecc590101dde2ae2ffbea2d" alt="" width="50" /> | 1 | 1 | SULLI | [🔗](https://open.spotify.com/artist/1OjcBoc71FwlzD5cJGx7xk) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3835e2ba41427e8356bbd091" alt="" width="50" /> | 1 | 1 | [TOMORROW X TOGETHER](../../../artists/tomorrow_x_together/overview.md) | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | 1 | 1 | SUGA | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 1 | 1 | [j-hope](../../../artists/j-hope/overview.md) | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb301c472c007caf0f0ae60fe5" alt="" width="50" /> | 1 | 1 | SUPERBEE | [🔗](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba0558a30f75468d73a9a2789" alt="" width="50" /> | 2 | 0 | CIX | [🔗](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eaaec0372ea5e4f248eaf282" alt="" width="50" /> | 1 | 0 | PinkFantasy | [🔗](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2444e9b2ef714c2d1e7bae64" alt="" width="50" /> | 1 | 0 | HYO | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb55ceeda87713cdf230a0a6ae" alt="" width="50" /> | 1 | 0 | KARD | [🔗](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb271110d977700b69d9548993" alt="" width="50" /> | 1 | 0 | EXID | [🔗](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3977b843704948c0253b0a7d" alt="" width="50" /> | 40 | 2 | 2 | [HWASA](../../../artists/hwasa/overview.md) | [🔗](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb76643c12c77c6f4de9f5fdb5" alt="" width="50" /> | 36 | 2 | 2 | [EVERGLOW](../../../artists/everglow/overview.md) | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb75237a1ba0379041476012b3" alt="" width="50" /> | 10 | 2 | 2 | [Stray Kids](../../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a" alt="" width="50" /> | 5 | 2 | 2 | [ITZY](../../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe12972169702affd7a4c48ec" alt="" width="50" /> | 13 | 2 | 2 | [MAMAMOO](../../../artists/mamamoo/overview.md) | [🔗](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf8ae485831cf4c3a568dc313" alt="" width="50" /> | 39 | 2 | 1 | [ATEEZ](../../../artists/ateez/overview.md) | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb611e60f2b061c920476b2df3" alt="" width="50" /> | 47 | 2 | 1 | [BAEKHYUN](../../../artists/baekhyun/overview.md) | [🔗](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3d5ddee9415ccf4baaa9f26e" alt="" width="50" /> | 310 | 2 | 1 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe70125afbbed90ac3e9339ba" alt="" width="50" /> | 375 | 1 | 1 | WOOGIE | [🔗](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd90aa536055fe9806b3960e6" alt="" width="50" /> | 400 | 1 | 1 | GOT7 | [🔗](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 70 | 1 | 1 | [BIBI](../../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8eb5e57e526ceb14f06ea203" alt="" width="50" /> | 346 | 1 | 1 | iKON | [🔗](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | 268 | 1 | 1 | [MOMOLAND](../../../artists/momoland/overview.md) | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8d69367047a24d20b0323ff7" alt="" width="50" /> | 400 | 1 | 1 | SuperM | [🔗](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2a4491bcd12c2cfe2490e52a" alt="" width="50" /> | 400 | 1 | 1 | AB6IX | [🔗](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd9e94a40fd6ef4fe68318821" alt="" width="50" /> | 400 | 1 | 1 | Becky G | [🔗](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5cd460490fb1c55b8ed8c40b" alt="" width="50" /> | 89 | 1 | 1 | [OH MY GIRL](../../../artists/oh_my_girl/overview.md) | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb550aeb3311c7c8bf53ad07db" alt="" width="50" /> | 392 | 1 | 1 | WayV | [🔗](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb49cfa92440a7629ab21a8561" alt="" width="50" /> | 24 | 1 | 1 | [NCT DREAM](../../../artists/nct_dream/overview.md) | [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9aef2dd9db143fe76e600bba" alt="" width="50" /> | 400 | 1 | 1 | J.Y. Park | [🔗](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6ecc590101dde2ae2ffbea2d" alt="" width="50" /> | 400 | 1 | 1 | SULLI | [🔗](https://open.spotify.com/artist/1OjcBoc71FwlzD5cJGx7xk) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3835e2ba41427e8356bbd091" alt="" width="50" /> | 144 | 1 | 1 | [TOMORROW X TOGETHER](../../../artists/tomorrow_x_together/overview.md) | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | 308 | 1 | 1 | SUGA | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeb746063d1aafa2817ea11b5" alt="" width="50" /> | 400 | 1 | 1 | [j-hope](../../../artists/j-hope/overview.md) | [🔗](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb301c472c007caf0f0ae60fe5" alt="" width="50" /> | 400 | 1 | 1 | SUPERBEE | [🔗](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba0558a30f75468d73a9a2789" alt="" width="50" /> | 400 | 2 | 0 | CIX | [🔗](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eaaec0372ea5e4f248eaf282" alt="" width="50" /> | 205 | 1 | 0 | PinkFantasy | [🔗](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2444e9b2ef714c2d1e7bae64" alt="" width="50" /> | 51 | 1 | 0 | HYO | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb55ceeda87713cdf230a0a6ae" alt="" width="50" /> | 400 | 1 | 0 | KARD | [🔗](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb271110d977700b69d9548993" alt="" width="50" /> | 274 | 1 | 0 | EXID | [🔗](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) |
 
 </details>
 
 
 ## Albums
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | 5 | 5 | ‘The ReVe Festival’ Finale | 2019-12-23 | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | 5 | 3 | ‘The ReVe Festival’ Day 1 | 2019-06-19 | [🔗](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="" width="50" /> | 5 | 3 | Purpose - The 2nd Album | 2019-10-28 | [🔗](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | 4 | 4 | Love poem | 2019-11-18 | [🔗](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="" width="50" /> | 4 | 2 | KILL THIS LOVE | 2019-04-05 | [🔗](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a5911f62f0fe24713fb9d0c8" alt="" width="50" /> | 3 | 2 | Raid of Dream | 2019-09-18 | [🔗](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | 3 | 1 | MAP OF THE SOUL : PERSONA | 2019-04-12 | [🔗](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733a7804057d817ff9f68ca85c" alt="" width="50" /> | 2 | 2 | ‘The ReVe Festival’ Day 2 | 2019-08-20 | [🔗](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | 2 | 2 | I made | 2019-02-26 | [🔗](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | 2 | 1 | No.1 | 2019-01-30 | [🔗](https://open.spotify.com/album/6xSUUpa9LBZYwJFMJOr8M6) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | 138 | 5 | 5 | ‘The ReVe Festival’ Finale | 2019-12-23 | [🔗](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | 113 | 5 | 3 | ‘The ReVe Festival’ Day 1 | 2019-06-19 | [🔗](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="" width="50" /> | 195 | 5 | 3 | Purpose - The 2nd Album | 2019-10-28 | [🔗](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | 282 | 4 | 4 | Love poem | 2019-11-18 | [🔗](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="" width="50" /> | 12 | 4 | 2 | KILL THIS LOVE | 2019-04-05 | [🔗](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a5911f62f0fe24713fb9d0c8" alt="" width="50" /> | 210 | 3 | 2 | Raid of Dream | 2019-09-18 | [🔗](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | 581 | 3 | 1 | MAP OF THE SOUL : PERSONA | 2019-04-12 | [🔗](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733a7804057d817ff9f68ca85c" alt="" width="50" /> | 581 | 2 | 2 | ‘The ReVe Festival’ Day 2 | 2019-08-20 | [🔗](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | 301 | 2 | 2 | I made | 2019-02-26 | [🔗](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | 443 | 2 | 1 | No.1 | 2019-01-30 | [🔗](https://open.spotify.com/album/6xSUUpa9LBZYwJFMJOr8M6) |
 
 
 <details>
 <summary>View all</summary>
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734951587f39286b47bedfd4c9" alt="" width="50" /> | 2 | 1 | Flourishing | 2019-06-24 | [🔗](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | 2 | 1 | Feel Special | 2019-09-23 | [🔗](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738c0903b4b02840c57f103db4" alt="" width="50" /> | 2 | 1 | City Lights - The 1st Mini Album | 2019-07-10 | [🔗](https://open.spotify.com/album/6AeMj5CMeTXRGhmUuv0LH3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a359467cf1e245c2cdf5dad5" alt="" width="50" /> | 2 | 0 | HELLO Chapter 1: Hello, Stranger | 2019-07-23 | [🔗](https://open.spotify.com/album/73Jw9dKwFV1kF62JFUls3V) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="" width="50" /> | 1 | 1 | reality in BLACK | 2019-11-14 | [🔗](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | 1 | 1 | White Wind | 2019-03-14 | [🔗](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="" width="50" /> | 1 | 1 | We Boom - The 3rd Mini Album | 2019-07-26 | [🔗](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | 1 | 1 | Uh-Oh | 2019-06-26 | [🔗](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739389aab1165b6498eba04d8e" alt="" width="50" /> | 1 | 1 | The Dream Chapter: MAGIC | 2019-10-21 | [🔗](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273374ed0d3862263ef52df6828" alt="" width="50" /> | 1 | 1 | Take Over The Moon - The 2nd Mini Album | 2019-10-29 | [🔗](https://open.spotify.com/album/4ha80ucjDvhmQPLT77yyob) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27346c377827f3ad9fa6b0f64df" alt="" width="50" /> | 1 | 1 | TWIT | 2019-02-13 | [🔗](https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273decdd40044544f29075673d2" alt="" width="50" /> | 1 | 1 | TREASURE EP.FIN : All To Action | 2019-10-08 | [🔗](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a60df50e5e461afae4ef105d" alt="" width="50" /> | 1 | 1 | THE FIFTH SEASON | 2019-05-08 | [🔗](https://open.spotify.com/album/7nRRZFQgQKQsXG7mQIuQPA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273583c60000e8abc8283853e10" alt="" width="50" /> | 1 | 1 | SuperM - The 1st Mini Album | 2019-10-04 | [🔗](https://open.spotify.com/album/1C1qYeSC9RdgbrKXpZCTSJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735dd07552de8e974829621d84" alt="" width="50" /> | 1 | 1 | Show Me | 2019-03-20 | [🔗](https://open.spotify.com/album/2olU5yGGjXxgOt9GrFEtLo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | 1 | 1 | SUGA's Interlude | 2019-12-06 | [🔗](https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b94794b8aa12407bf838d7d" alt="" width="50" /> | 1 | 1 | NEW KIDS REPACKAGE : THE NEW KIDS | 2019-01-07 | [🔗](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731260c9a4d42b2615c9f67bb0" alt="" width="50" /> | 1 | 1 | IT'z ICY | 2019-07-29 | [🔗](https://open.spotify.com/album/5Xb03XAF2LoaMqbM38H9eB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27389a8fc641c956dc899c0b168" alt="" width="50" /> | 1 | 1 | IT'z Different | 2019-02-12 | [🔗](https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | 1 | 1 | Hwa:telier | 2019-10-11 | [🔗](https://open.spotify.com/album/20xEJwUlmfoSLoK5AhEucL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27391c1f72f6be65bf4cb27b4a4" alt="" width="50" /> | 1 | 1 | HUSH | 2019-08-19 | [🔗](https://open.spotify.com/album/7cGql7l8oRpjGmeDspBMZ2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="" width="50" /> | 1 | 1 | Gotta Go | 2019-01-02 | [🔗](https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273199b103e99c9de6bb5a7dc53" alt="" width="50" /> | 1 | 1 | Goblin | 2019-06-29 | [🔗](https://open.spotify.com/album/7j4zkimpX4Vs3RzKJKOUwb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737de8f56a39ec67a091457d04" alt="" width="50" /> | 1 | 1 | Four Seasons | 2019-03-24 | [🔗](https://open.spotify.com/album/3ublKZHu1qjU9ujf9A4zhH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273197065762b87f256af869d47" alt="" width="50" /> | 1 | 1 | FEVER | 2019-12-01 | [🔗](https://open.spotify.com/album/1AF9DPA6J8zveFttZ247O0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 1 | 1 | FANCY YOU | 2019-04-22 | [🔗](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ca65c45697e473a0d9d1711" alt="" width="50" /> | 1 | 1 | Devil | 2019-09-06 | [🔗](https://open.spotify.com/album/1HpLXN8RRy1lHO3jckCTkN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273869bb5c720b743357fd402bd" alt="" width="50" /> | 1 | 1 | Clé 2 : Yellow Wood | 2019-06-19 | [🔗](https://open.spotify.com/album/7a3luOh8mK0q8YsRkNUjrU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cbb25c0de45e6a6ded073802" alt="" width="50" /> | 1 | 1 | Clé 1 : MIROH | 2019-03-25 | [🔗](https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | 1 | 1 | Chicken Noodle Soup (feat. Becky G) | 2019-09-27 | [🔗](https://open.spotify.com/album/76IRLp7YzBVLKsat6Ro9ae) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e4d85babdbdecf2c21568ea0" alt="" width="50" /> | 1 | 1 | Call My Name | 2019-11-04 | [🔗](https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f091c9841ed6033937fdb7e5" alt="" width="50" /> | 1 | 1 | Breakthrough | 2019-06-12 | [🔗](https://open.spotify.com/album/7LWfEiSeue9BXPbUOH34q6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273addef7fad07f17acdf7d6b98" alt="" width="50" /> | 1 | 1 | B:COMPLETE | 2019-05-22 | [🔗](https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aa6b11047dc7be4824a39798" alt="" width="50" /> | 1 | 1 | ARRIVAL OF EVERGLOW | 2019-03-18 | [🔗](https://open.spotify.com/album/4qFVcLDapqLmjinahsk7U0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27393669daf6d891ee1bdd28df8" alt="" width="50" /> | 1 | 0 | WE | 2019-05-15 | [🔗](https://open.spotify.com/album/6Epnn9sgvvUrHdEf7JKjQb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27349194360fc897997b57ba32a" alt="" width="50" /> | 1 | 0 | The End of Nightmare | 2019-02-13 | [🔗](https://open.spotify.com/album/5GWbkX0bjGcv9bRPVOPZVg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aaf833882fd0d8d943b9c0c0" alt="" width="50" /> | 1 | 0 | TREASURE EP.2 : Zero To One | 2019-01-15 | [🔗](https://open.spotify.com/album/2PQ8cQ8WzAJJkWYT2Ydmhw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d19dea795b7319268486fc5b" alt="" width="50" /> | 1 | 0 | KARD 1st Digital Single ‘Bomb Bomb’ | 2019-03-27 | [🔗](https://open.spotify.com/album/61X9zu44fHnOjjqIYu05Rc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730041c88ac5b6429b5d34e7b7" alt="" width="50" /> | 1 | 0 | Fantasy | 2019-08-05 | [🔗](https://open.spotify.com/album/5Z9TjiRFMhU5pbUvZJIXTB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735062dabfa4007e1b72981edf" alt="" width="50" /> | 1 | 0 | Badster | 2019-07-20 | [🔗](https://open.spotify.com/album/4GA4vqEeOzVM8ib6HHy6Ij) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2734951587f39286b47bedfd4c9" alt="" width="50" /> | 581 | 2 | 1 | Flourishing | 2019-06-24 | [🔗](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | 274 | 2 | 1 | Feel Special | 2019-09-23 | [🔗](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738c0903b4b02840c57f103db4" alt="" width="50" /> | 581 | 2 | 1 | City Lights - The 1st Mini Album | 2019-07-10 | [🔗](https://open.spotify.com/album/6AeMj5CMeTXRGhmUuv0LH3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a359467cf1e245c2cdf5dad5" alt="" width="50" /> | 581 | 2 | 0 | HELLO Chapter 1: Hello, Stranger | 2019-07-23 | [🔗](https://open.spotify.com/album/73Jw9dKwFV1kF62JFUls3V) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="" width="50" /> | 8 | 1 | 1 | reality in BLACK | 2019-11-14 | [🔗](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | 346 | 1 | 1 | White Wind | 2019-03-14 | [🔗](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="" width="50" /> | 38 | 1 | 1 | We Boom - The 3rd Mini Album | 2019-07-26 | [🔗](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | 44 | 1 | 1 | Uh-Oh | 2019-06-26 | [🔗](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739389aab1165b6498eba04d8e" alt="" width="50" /> | 581 | 1 | 1 | The Dream Chapter: MAGIC | 2019-10-21 | [🔗](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273374ed0d3862263ef52df6828" alt="" width="50" /> | 564 | 1 | 1 | Take Over The Moon - The 2nd Mini Album | 2019-10-29 | [🔗](https://open.spotify.com/album/4ha80ucjDvhmQPLT77yyob) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346c377827f3ad9fa6b0f64df" alt="" width="50" /> | 581 | 1 | 1 | TWIT | 2019-02-13 | [🔗](https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273decdd40044544f29075673d2" alt="" width="50" /> | 546 | 1 | 1 | TREASURE EP.FIN : All To Action | 2019-10-08 | [🔗](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a60df50e5e461afae4ef105d" alt="" width="50" /> | 581 | 1 | 1 | THE FIFTH SEASON | 2019-05-08 | [🔗](https://open.spotify.com/album/7nRRZFQgQKQsXG7mQIuQPA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273583c60000e8abc8283853e10" alt="" width="50" /> | 581 | 1 | 1 | SuperM - The 1st Mini Album | 2019-10-04 | [🔗](https://open.spotify.com/album/1C1qYeSC9RdgbrKXpZCTSJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735dd07552de8e974829621d84" alt="" width="50" /> | 581 | 1 | 1 | Show Me | 2019-03-20 | [🔗](https://open.spotify.com/album/2olU5yGGjXxgOt9GrFEtLo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | 389 | 1 | 1 | SUGA's Interlude | 2019-12-06 | [🔗](https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b94794b8aa12407bf838d7d" alt="" width="50" /> | 478 | 1 | 1 | NEW KIDS REPACKAGE : THE NEW KIDS | 2019-01-07 | [🔗](https://open.spotify.com/album/6RZYa7F18bu7mmeT8qxWqh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731260c9a4d42b2615c9f67bb0" alt="" width="50" /> | 581 | 1 | 1 | IT'z ICY | 2019-07-29 | [🔗](https://open.spotify.com/album/5Xb03XAF2LoaMqbM38H9eB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389a8fc641c956dc899c0b168" alt="" width="50" /> | 425 | 1 | 1 | IT'z Different | 2019-02-12 | [🔗](https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | 532 | 1 | 1 | Hwa:telier | 2019-10-11 | [🔗](https://open.spotify.com/album/20xEJwUlmfoSLoK5AhEucL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27391c1f72f6be65bf4cb27b4a4" alt="" width="50" /> | 581 | 1 | 1 | HUSH | 2019-08-19 | [🔗](https://open.spotify.com/album/7cGql7l8oRpjGmeDspBMZ2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="" width="50" /> | 16 | 1 | 1 | Gotta Go | 2019-01-02 | [🔗](https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273199b103e99c9de6bb5a7dc53" alt="" width="50" /> | 581 | 1 | 1 | Goblin | 2019-06-29 | [🔗](https://open.spotify.com/album/7j4zkimpX4Vs3RzKJKOUwb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737de8f56a39ec67a091457d04" alt="" width="50" /> | 451 | 1 | 1 | Four Seasons | 2019-03-24 | [🔗](https://open.spotify.com/album/3ublKZHu1qjU9ujf9A4zhH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273197065762b87f256af869d47" alt="" width="50" /> | 581 | 1 | 1 | FEVER | 2019-12-01 | [🔗](https://open.spotify.com/album/1AF9DPA6J8zveFttZ247O0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 259 | 1 | 1 | FANCY YOU | 2019-04-22 | [🔗](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ca65c45697e473a0d9d1711" alt="" width="50" /> | 333 | 1 | 1 | Devil | 2019-09-06 | [🔗](https://open.spotify.com/album/1HpLXN8RRy1lHO3jckCTkN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273869bb5c720b743357fd402bd" alt="" width="50" /> | 581 | 1 | 1 | Clé 2 : Yellow Wood | 2019-06-19 | [🔗](https://open.spotify.com/album/7a3luOh8mK0q8YsRkNUjrU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cbb25c0de45e6a6ded073802" alt="" width="50" /> | 581 | 1 | 1 | Clé 1 : MIROH | 2019-03-25 | [🔗](https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273819e2d9468a6792735c0ec77" alt="" width="50" /> | 581 | 1 | 1 | Chicken Noodle Soup (feat. Becky G) | 2019-09-27 | [🔗](https://open.spotify.com/album/76IRLp7YzBVLKsat6Ro9ae) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e4d85babdbdecf2c21568ea0" alt="" width="50" /> | 581 | 1 | 1 | Call My Name | 2019-11-04 | [🔗](https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f091c9841ed6033937fdb7e5" alt="" width="50" /> | 581 | 1 | 1 | Breakthrough | 2019-06-12 | [🔗](https://open.spotify.com/album/7LWfEiSeue9BXPbUOH34q6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273addef7fad07f17acdf7d6b98" alt="" width="50" /> | 581 | 1 | 1 | B:COMPLETE | 2019-05-22 | [🔗](https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aa6b11047dc7be4824a39798" alt="" width="50" /> | 581 | 1 | 1 | ARRIVAL OF EVERGLOW | 2019-03-18 | [🔗](https://open.spotify.com/album/4qFVcLDapqLmjinahsk7U0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27393669daf6d891ee1bdd28df8" alt="" width="50" /> | 581 | 1 | 0 | WE | 2019-05-15 | [🔗](https://open.spotify.com/album/6Epnn9sgvvUrHdEf7JKjQb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27349194360fc897997b57ba32a" alt="" width="50" /> | 581 | 1 | 0 | The End of Nightmare | 2019-02-13 | [🔗](https://open.spotify.com/album/5GWbkX0bjGcv9bRPVOPZVg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aaf833882fd0d8d943b9c0c0" alt="" width="50" /> | 581 | 1 | 0 | TREASURE EP.2 : Zero To One | 2019-01-15 | [🔗](https://open.spotify.com/album/2PQ8cQ8WzAJJkWYT2Ydmhw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d19dea795b7319268486fc5b" alt="" width="50" /> | 581 | 1 | 0 | KARD 1st Digital Single ‘Bomb Bomb’ | 2019-03-27 | [🔗](https://open.spotify.com/album/61X9zu44fHnOjjqIYu05Rc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730041c88ac5b6429b5d34e7b7" alt="" width="50" /> | 581 | 1 | 0 | Fantasy | 2019-08-05 | [🔗](https://open.spotify.com/album/5Z9TjiRFMhU5pbUvZJIXTB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735062dabfa4007e1b72981edf" alt="" width="50" /> | 581 | 1 | 0 | Badster | 2019-07-20 | [🔗](https://open.spotify.com/album/4GA4vqEeOzVM8ib6HHy6Ij) |
 
 </details>
 
@@ -131,9 +131,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="" width="50" /> | Gotta Go | Gotta Go | [CHUNG HA](../../../artists/chung_ha/overview.md) | [Genie Music Corporation](../../../labels/genie_music_corporation), [Stone Music Entertainment](../../../labels/stone_music_entertainment) | 13 | 💚 | [🔗](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="" width="50" /> | BOOM | We Boom - The 3rd Mini Album | [NCT DREAM](../../../artists/nct_dream/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 36 | 💚 | [🔗](https://open.spotify.com/track/6rcn967QN5JtkPOBDwYIuT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363c22b0fbe7426efcf5f86e6" alt="" width="50" /> | Uh-Oh | Uh-Oh | [(G)I-DLE](../../../artists/(g)i-dle/overview.md) | [Universal Music LLC](../../../labels/universal_music_llc) | 43 | 💚 | [🔗](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | Sunny Side Up! | ‘The ReVe Festival’ Day 1 | [Red Velvet](../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 147 | 💚 | [🔗](https://open.spotify.com/track/5yGTiC0ypN09P4Nl6tE3FY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | Sunny Side Up! | ‘The ReVe Festival’ Day 1 | [Red Velvet](../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 148 | 💚 | [🔗](https://open.spotify.com/track/5yGTiC0ypN09P4Nl6tE3FY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | Psycho | ‘The ReVe Festival’ Finale | [Red Velvet](../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 191 | 💚 | [🔗](https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="" width="50" /> | Here I Am | Purpose - The 2nd Album | [TAEYEON](../../../artists/taeyeon/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 269 | 💚 | [🔗](https://open.spotify.com/track/3xeo2seNDIp712sUmZycAN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b87c0d76ed9c7b1654b390d0" alt="" width="50" /> | Here I Am | Purpose - The 2nd Album | [TAEYEON](../../../artists/taeyeon/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 270 | 💚 | [🔗](https://open.spotify.com/track/3xeo2seNDIp712sUmZycAN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5911f62f0fe24713fb9d0c8" alt="" width="50" /> | Silent Night | Raid of Dream | [Dreamcatcher](../../../artists/dreamcatcher/overview.md) | [DREAMCATCHER COMPANY](../../../labels/dreamcatcher_company) | 287 | 💚 | [🔗](https://open.spotify.com/track/6OrYF7BHkbsfhxEMQfwBvV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370a04b3e66d6a4a38237dc7f" alt="" width="50" /> | Zimzalabim | ‘The ReVe Festival’ Day 1 | [Red Velvet](../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 315 | 💚 | [🔗](https://open.spotify.com/track/0GUbhhI5fRx7BlqlqlhjuB) |
 
@@ -143,24 +143,24 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | FANCY | FANCY YOU | [TWICE](../../../artists/twice/overview.md) | [Republic Records](../../../labels/republic_records) | 337 | 💚 | [🔗](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | FANCY | FANCY YOU | [TWICE](../../../artists/twice/overview.md) | [Republic Records](../../../labels/republic_records) | 350 | 💚 | [🔗](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349b81808fcdaeeb55bef59d1" alt="" width="50" /> | Feel Special | Feel Special | [TWICE](../../../artists/twice/overview.md) | [Republic Records](../../../labels/republic_records) | 371 | 💚 | [🔗](https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | Milkshake | ‘The ReVe Festival’ Finale | [Red Velvet](../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 373 | 💚 | [🔗](https://open.spotify.com/track/65ZHlbTuPrZggbmYCVjPL4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | Jumpin' | ‘The ReVe Festival’ Finale | [Red Velvet](../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 400 | 💚 | [🔗](https://open.spotify.com/track/3q21kVfUIdkzqYpzBCbojN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | Milkshake | ‘The ReVe Festival’ Finale | [Red Velvet](../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 372 | 💚 | [🔗](https://open.spotify.com/track/65ZHlbTuPrZggbmYCVjPL4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | Jumpin' | ‘The ReVe Festival’ Finale | [Red Velvet](../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 402 | 💚 | [🔗](https://open.spotify.com/track/3q21kVfUIdkzqYpzBCbojN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | Put It Straight | I made | [(G)I-DLE](../../../artists/(g)i-dle/overview.md) | [CUBE ENTERTAINMENT](../../../labels/cube_entertainment) | 413 | 💚 | [🔗](https://open.spotify.com/track/2G0wbwTsTN0HJeQp3BDc4D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ca65c45697e473a0d9d1711" alt="" width="50" /> | Devil | Devil | [CLC](../../../artists/clc/overview.md) | [Universal Music LLC](../../../labels/universal_music_llc) | 478 | 💚 | [🔗](https://open.spotify.com/track/3aG0gbuvZ1VeVm68d4J6Yq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | above the time | Love poem | [IU](../../../artists/iu/overview.md) | [Kakao Entertainment](../../../labels/kakao_entertainment) | 496 | 💚 | [🔗](https://open.spotify.com/track/2qKZnheMe0HhqYC1XJcdaA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | gogobebe | White Wind | [MAMAMOO](../../../artists/mamamoo/overview.md) | [RBW, Inc](../../../labels/rbw_inc_) | 498 | 💚 | [🔗](https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | unlucky | Love poem | [IU](../../../artists/iu/overview.md) | [Kakao Entertainment](../../../labels/kakao_entertainment) | 529 | 💚 | [🔗](https://open.spotify.com/track/1jsY6pQeNaEConZWGau1L4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude | SUGA's Interlude | Halsey, SUGA, [BTS](../../../artists/bts/overview.md) | [Capitol Records](../../../labels/capitol_records) | 571 | 💚 | [🔗](https://open.spotify.com/track/5a0nHa7F4S9hb0Zi0zLS8w) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27389a8fc641c956dc899c0b168" alt="" width="50" /> | DALLA DALLA | IT'z Different | [ITZY](../../../artists/itzy/overview.md) | [Republic Records](../../../labels/republic_records) | 628 | 💚 | [🔗](https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737de8f56a39ec67a091457d04" alt="" width="50" /> | Four Seasons | Four Seasons | [TAEYEON](../../../artists/taeyeon/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 655 | 💚 | [🔗](https://open.spotify.com/track/4ytyLpIwUXbdFsNOvgNnmP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | Like It | No.1 | [CLC](../../../artists/clc/overview.md) | [CUBE ENTERTAINMENT](../../../labels/cube_entertainment) | 657 | 💚 | [🔗](https://open.spotify.com/track/6ioP0snRYjhfWKNMMLKOde) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b94794b8aa12407bf838d7d" alt="" width="50" /> | KILLING ME | NEW KIDS REPACKAGE : THE NEW KIDS | iKON | [YG Entertainment](../../../labels/yg_entertainment) | 711 | 💚 | [🔗](https://open.spotify.com/track/1IbpTcFDHRD87cGQOhVCDP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | In The Fall | Hwa:telier | [HWASA](../../../artists/hwasa/overview.md), WOOGIE | [RBW, Inc](../../../labels/rbw_inc_) | 799 | 💚 | [🔗](https://open.spotify.com/track/2esmbUCwduwG8SyN4RAwmM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273decdd40044544f29075673d2" alt="" width="50" /> | WONDERLAND | TREASURE EP.FIN : All To Action | [ATEEZ](../../../artists/ateez/overview.md) | [KQ Entertainment](../../../labels/kq_entertainment) | 818 | 💚 | [🔗](https://open.spotify.com/track/6k67RdkVjTZj79c1cRz7IQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273374ed0d3862263ef52df6828" alt="" width="50" /> | Love Talk | Take Over The Moon - The 2nd Mini Album | WayV | LABEL V | 840 | 💚 | [🔗](https://open.spotify.com/track/6bc8VmlNt5S9WJlyw8bBdd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | In & Out | ‘The ReVe Festival’ Finale | [Red Velvet](../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 861 | 💚 | [🔗](https://open.spotify.com/track/2iYnEfKsAsE86Yb9mS4b3E) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | above the time | Love poem | [IU](../../../artists/iu/overview.md) | [Kakao Entertainment](../../../labels/kakao_entertainment) | 498 | 💚 | [🔗](https://open.spotify.com/track/2qKZnheMe0HhqYC1XJcdaA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | gogobebe | White Wind | [MAMAMOO](../../../artists/mamamoo/overview.md) | [RBW, Inc](../../../labels/rbw_inc_) | 500 | 💚 | [🔗](https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | unlucky | Love poem | [IU](../../../artists/iu/overview.md) | [Kakao Entertainment](../../../labels/kakao_entertainment) | 531 | 💚 | [🔗](https://open.spotify.com/track/1jsY6pQeNaEConZWGau1L4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude | SUGA's Interlude | Halsey, SUGA, [BTS](../../../artists/bts/overview.md) | [Capitol Records](../../../labels/capitol_records) | 574 | 💚 | [🔗](https://open.spotify.com/track/5a0nHa7F4S9hb0Zi0zLS8w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389a8fc641c956dc899c0b168" alt="" width="50" /> | DALLA DALLA | IT'z Different | [ITZY](../../../artists/itzy/overview.md) | [Republic Records](../../../labels/republic_records) | 630 | 💚 | [🔗](https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | Like It | No.1 | [CLC](../../../artists/clc/overview.md) | [CUBE ENTERTAINMENT](../../../labels/cube_entertainment) | 655 | 💚 | [🔗](https://open.spotify.com/track/6ioP0snRYjhfWKNMMLKOde) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737de8f56a39ec67a091457d04" alt="" width="50" /> | Four Seasons | Four Seasons | [TAEYEON](../../../artists/taeyeon/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 665 | 💚 | [🔗](https://open.spotify.com/track/4ytyLpIwUXbdFsNOvgNnmP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b94794b8aa12407bf838d7d" alt="" width="50" /> | KILLING ME | NEW KIDS REPACKAGE : THE NEW KIDS | iKON | [YG Entertainment](../../../labels/yg_entertainment) | 710 | 💚 | [🔗](https://open.spotify.com/track/1IbpTcFDHRD87cGQOhVCDP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | In The Fall | Hwa:telier | [HWASA](../../../artists/hwasa/overview.md), WOOGIE | [RBW, Inc](../../../labels/rbw_inc_) | 798 | 💚 | [🔗](https://open.spotify.com/track/2esmbUCwduwG8SyN4RAwmM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273decdd40044544f29075673d2" alt="" width="50" /> | WONDERLAND | TREASURE EP.FIN : All To Action | [ATEEZ](../../../artists/ateez/overview.md) | [KQ Entertainment](../../../labels/kq_entertainment) | 813 | 💚 | [🔗](https://open.spotify.com/track/6k67RdkVjTZj79c1cRz7IQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273374ed0d3862263ef52df6828" alt="" width="50" /> | Love Talk | Take Over The Moon - The 2nd Mini Album | WayV | LABEL V | 842 | 💚 | [🔗](https://open.spotify.com/track/6bc8VmlNt5S9WJlyw8bBdd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df5022bdf1ac4bf52135c4be" alt="" width="50" /> | In & Out | ‘The ReVe Festival’ Finale | [Red Velvet](../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 860 | 💚 | [🔗](https://open.spotify.com/track/2iYnEfKsAsE86Yb9mS4b3E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aaf833882fd0d8d943b9c0c0" alt="" width="50" /> | HALA HALA (Hearts Awakened, Live Alive) | TREASURE EP.2 : Zero To One | [ATEEZ](../../../artists/ateez/overview.md) | [KQ Entertainment](../../../labels/kq_entertainment) | 868 | | [🔗](https://open.spotify.com/track/4v2BLMhWtVvBnZwuoiKxja) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | No | No.1 | [CLC](../../../artists/clc/overview.md) | [CUBE ENTERTAINMENT](../../../labels/cube_entertainment) | 868 | | [🔗](https://open.spotify.com/track/3sygLAUhHsJsQ0cBk6fxRd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346c377827f3ad9fa6b0f64df" alt="" width="50" /> | TWIT | TWIT | [HWASA](../../../artists/hwasa/overview.md) | [RBW, Inc](../../../labels/rbw_inc_) | 868 | 💚 | [🔗](https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD) |

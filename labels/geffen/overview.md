@@ -13,29 +13,29 @@ Appears as:
 
 ## Top Artists
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | 3 | 3 | [The Who](../../artists/the_who/overview.md) | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb058531dfd9746a96ad85265f" alt="" width="50" /> | 3 | 3 | Etta James | [🔗](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb51dfdac248da65a860963b68" alt="" width="50" /> | 1 | 1 | Kali Uchis | [🔗](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcbac00ef1ac185c67665e970" alt="" width="50" /> | 1 | 1 | Semisonic | [🔗](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebdcb395e47aaf2f8386e2608a" alt="" width="50" /> | 2 | 0 | Bing Crosby | [🔗](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb86b13e4d2e65ebf694384ef4" alt="" width="50" /> | 2 | 0 | John Williams | [🔗](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273920b9cbb44d8da3d274bdf0b" alt="" width="50" /> | 1 | 0 | John Scott Trotter & His Orchestra | [🔗](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) |
-| <img src="https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b" alt="" width="50" /> | 1 | 0 | Nirvana | [🔗](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5da36f8b98dd965336a1507a" alt="" width="50" /> | 1 | 0 | blink-182 | [🔗](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) |
-| | 1 | 0 | Ken Darby Singers | [🔗](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | 313 | 3 | 3 | [The Who](../../artists/the_who/overview.md) | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb058531dfd9746a96ad85265f" alt="" width="50" /> | 341 | 3 | 3 | Etta James | [🔗](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb51dfdac248da65a860963b68" alt="" width="50" /> | 400 | 1 | 1 | Kali Uchis | [🔗](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcbac00ef1ac185c67665e970" alt="" width="50" /> | 400 | 1 | 1 | Semisonic | [🔗](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdcb395e47aaf2f8386e2608a" alt="" width="50" /> | 373 | 2 | 0 | Bing Crosby | [🔗](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb86b13e4d2e65ebf694384ef4" alt="" width="50" /> | 333 | 2 | 0 | John Williams | [🔗](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f1820568a4a5136bc1d59c0" alt="" width="50" /> | 400 | 1 | 0 | John Scott Trotter & His Orchestra | [🔗](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) |
+| <img src="https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b" alt="" width="50" /> | 400 | 1 | 0 | Nirvana | [🔗](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5da36f8b98dd965336a1507a" alt="" width="50" /> | 400 | 1 | 0 | blink-182 | [🔗](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) |
+| | 400 | 1 | 0 | Ken Darby Singers | [🔗](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi) |
 
 
 <details>
 <summary>See all 14 artists</summary>
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb451eb07ddc6e68d3e474c2bf" alt="" width="50" /> | 1 | 0 | Lynyrd Skynyrd | [🔗](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbec4ae689dc30a2b59a19038" alt="" width="50" /> | 1 | 0 | Bobby Helms | [🔗](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) |
-| <img src="https://i.scdn.co/image/21fd9a008e669eeebcc5ddf1e7aaf049eba8a634" alt="" width="50" /> | 1 | 0 | The Del-Vikings | [🔗](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcec2dd52046443079ba66472" alt="" width="50" /> | 1 | 0 | Burl Ives | [🔗](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb451eb07ddc6e68d3e474c2bf" alt="" width="50" /> | 400 | 1 | 0 | Lynyrd Skynyrd | [🔗](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbec4ae689dc30a2b59a19038" alt="" width="50" /> | 400 | 1 | 0 | Bobby Helms | [🔗](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) |
+| <img src="https://i.scdn.co/image/21fd9a008e669eeebcc5ddf1e7aaf049eba8a634" alt="" width="50" /> | 400 | 1 | 0 | The Del-Vikings | [🔗](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcec2dd52046443079ba66472" alt="" width="50" /> | 400 | 1 | 0 | Burl Ives | [🔗](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) |
 
 </details>
 
@@ -44,31 +44,31 @@ Appears as:
 
 ## Top Albums
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="" width="50" /> | 2 | 2 | At Last! | 1960 | [🔗](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27392f051ce3c585b5c2db21d52" alt="" width="50" /> | 2 | 0 | Jurassic Park | 1993-05-25 | [🔗](https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732d3eda886f81a2bad9274f02" alt="" width="50" /> | 1 | 1 | Who's Next (Expanded Edition) | 1971-08-14 | [🔗](https://open.spotify.com/album/53PBYiedQrASAs5sy63JqT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="" width="50" /> | 1 | 1 | Who Are You | 1978-08-18 | [🔗](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="" width="50" /> | 1 | 1 | Tell Mama | 1968-04-18 | [🔗](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17" alt="" width="50" /> | 1 | 1 | Red Moon In Venus | 2023-03-03 | [🔗](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="" width="50" /> | 1 | 1 | My Generation (Stereo Version) | 1965-12-03 | [🔗](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dec0d479b10bccff532074ed" alt="" width="50" /> | 1 | 1 | 20th Century Masters: The Millennium Collection: Best Of Semisonic | 2003-01-01 | [🔗](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738004cd6b343732b0e1e666f5" alt="" width="50" /> | 1 | 0 | White Christmas | 1945-01-01 | [🔗](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f255b4346b93e3397e96d40f" alt="" width="50" /> | 1 | 0 | The Classic Years: 1956-1962 | 1992-01-01 | [🔗](https://open.spotify.com/album/7yeVUGG3xvGjKwhM2FBItZ) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="" width="50" /> | 460 | 2 | 2 | At Last! | 1960 | [🔗](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27392f051ce3c585b5c2db21d52" alt="" width="50" /> | 581 | 2 | 0 | Jurassic Park | 1993-05-25 | [🔗](https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d3eda886f81a2bad9274f02" alt="" width="50" /> | 581 | 1 | 1 | Who's Next (Expanded Edition) | 1971-08-14 | [🔗](https://open.spotify.com/album/53PBYiedQrASAs5sy63JqT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="" width="50" /> | 392 | 1 | 1 | Who Are You | 1978-08-18 | [🔗](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="" width="50" /> | 581 | 1 | 1 | Tell Mama | 1968-04-18 | [🔗](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17" alt="" width="50" /> | 581 | 1 | 1 | Red Moon In Venus | 2023-03-03 | [🔗](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="" width="50" /> | 581 | 1 | 1 | My Generation (Stereo Version) | 1965-12-03 | [🔗](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dec0d479b10bccff532074ed" alt="" width="50" /> | 581 | 1 | 1 | 20th Century Masters: The Millennium Collection: Best Of Semisonic | 2003-01-01 | [🔗](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738004cd6b343732b0e1e666f5" alt="" width="50" /> | 530 | 1 | 0 | White Christmas | 1945-01-01 | [🔗](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f255b4346b93e3397e96d40f" alt="" width="50" /> | 581 | 1 | 0 | The Classic Years: 1956-1962 | 1992-01-01 | [🔗](https://open.spotify.com/album/7yeVUGG3xvGjKwhM2FBItZ) |
 
 
 <details>
 <summary>See all 16 albums</summary>
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac" alt="" width="50" /> | 1 | 0 | Second Helping (Expanded Edition) | 1974-04-15 | [🔗](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" alt="" width="50" /> | 1 | 0 | Nevermind (Remastered) | 1991-09-26 | [🔗](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735e8ed9b5848e7139dc087c48" alt="" width="50" /> | 1 | 0 | Holiday Inn (Original Motion Picture Soundtrack) | 1942-01-01 | [🔗](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a9dfe5788911744490bfb431" alt="" width="50" /> | 1 | 0 | Have A Holly Jolly Christmas | 1965-01-01 | [🔗](https://open.spotify.com/album/5r5iTtNflB2DAKO1t5ih8f) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" alt="" width="50" /> | 1 | 0 | Enema Of The State | 1999-06-01 | [🔗](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c223c0c9fc255e7019a5296a" alt="" width="50" /> | 1 | 0 | Come Go With Me: The Best Of The Del-Vikings | 1997-01-01 | [🔗](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac" alt="" width="50" /> | 581 | 1 | 0 | Second Helping (Expanded Edition) | 1974-04-15 | [🔗](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf" alt="" width="50" /> | 581 | 1 | 0 | Nevermind (Remastered) | 1991-09-26 | [🔗](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e8ed9b5848e7139dc087c48" alt="" width="50" /> | 581 | 1 | 0 | Holiday Inn (Original Motion Picture Soundtrack) | 1942-01-01 | [🔗](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a9dfe5788911744490bfb431" alt="" width="50" /> | 581 | 1 | 0 | Have A Holly Jolly Christmas | 1965-01-01 | [🔗](https://open.spotify.com/album/5r5iTtNflB2DAKO1t5ih8f) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74" alt="" width="50" /> | 581 | 1 | 0 | Enema Of The State | 1999-06-01 | [🔗](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c223c0c9fc255e7019a5296a" alt="" width="50" /> | 581 | 1 | 0 | Come Go With Me: The Best Of The Del-Vikings | 1997-01-01 | [🔗](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) |
 
 </details>
 
@@ -162,8 +162,8 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="" width="50" /> | Who Are You | Who Are You | [The Who](../../artists/the_who/overview.md) | [Geffen](.) | 577 | 💚 | [🔗](https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="" width="50" /> | Stormy Weather | At Last! | Etta James | [Geffen*](.) | 684 | 💚 | [🔗](https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="" width="50" /> | Who Are You | Who Are You | [The Who](../../artists/the_who/overview.md) | [Geffen](.) | 579 | 💚 | [🔗](https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="" width="50" /> | Stormy Weather | At Last! | Etta James | [Geffen*](.) | 687 | 💚 | [🔗](https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738004cd6b343732b0e1e666f5" alt="" width="50" /> | It's Beginning To Look Like Christmas | White Christmas | Bing Crosby | [Geffen](.) | 785 | | [🔗](https://open.spotify.com/track/44mYhOVgerj2qPjkGDVA6n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e8ed9b5848e7139dc087c48" alt="" width="50" /> | White Christmas - 1947 Version | Holiday Inn (Original Motion Picture Soundtrack) | Bing Crosby, Ken Darby Singers, John Scott Trotter & His Orchestra | [Geffen](.) | 868 | | [🔗](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="" width="50" /> | At Last | At Last! | Etta James | [Geffen*](.) | 868 | 💚 | [🔗](https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx) |

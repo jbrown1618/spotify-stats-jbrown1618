@@ -5,21 +5,21 @@
 <img src="https://i.scdn.co/image/ab6761610000e5eb3a49b0a3954e460a8a76ed90" alt="Britney Spears" width="100" />
 
 ## Artist Rank
-- The #137 artist overall
+- The #137 artist of all time
 
 ![Rank of Britney Spears over time](../../images/artists/britney_spears/rank_time_series.png)
 ## Top Albums
 
 
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4" alt="" width="50" /> | 2 | 1 | In The Zone | 2003-11-13 | [🔗](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199" alt="" width="50" /> | 2 | 0 | Circus (Deluxe Version) | 2008-12-02 | [🔗](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="" width="50" /> | 1 | 1 | Oops!... I Did It Again | 2000-05-16 | [🔗](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c9f7b8faf039c7607d12255" alt="" width="50" /> | 1 | 1 | Britney Jean (Deluxe Version) | 2013-11-30 | [🔗](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e1a4e01cb7a1ecff468bbead" alt="" width="50" /> | 1 | 1 | Britney (Digital Deluxe Version) | 2001-10-31 | [🔗](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="" width="50" /> | 1 | 1 | ...Baby One More Time (Digital Deluxe Version) | 1999-01-12 | [🔗](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4" alt="" width="50" /> | 581 | 2 | 1 | In The Zone | 2003-11-13 | [🔗](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199" alt="" width="50" /> | 581 | 2 | 0 | Circus (Deluxe Version) | 2008-12-02 | [🔗](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732aa20611c7fb964a74ab01a6" alt="" width="50" /> | 581 | 1 | 1 | Oops!... I Did It Again | 2000-05-16 | [🔗](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c9f7b8faf039c7607d12255" alt="" width="50" /> | 581 | 1 | 1 | Britney Jean (Deluxe Version) | 2013-11-30 | [🔗](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e1a4e01cb7a1ecff468bbead" alt="" width="50" /> | 581 | 1 | 1 | Britney (Digital Deluxe Version) | 2001-10-31 | [🔗](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="" width="50" /> | 581 | 1 | 1 | ...Baby One More Time (Digital Deluxe Version) | 1999-01-12 | [🔗](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |

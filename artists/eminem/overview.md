@@ -5,26 +5,26 @@
 <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="Eminem" width="100" />
 
 ## Artist Rank
-- The #297 artist overall
+- The #297 artist of all time
 
 ![Rank of Eminem over time](../../images/artists/eminem/rank_time_series.png)
 ## Top Tracks
 
 
-### Top tracks, aggregated
+### Top tracks of all time
 
 ![Track score ranking over time](../../images/artists/eminem/track_rank_time_series_score.png)
 ## Top Albums
 
 ![Album ranking over time](../../images/artists/eminem/album_rank_time_series.png)
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | 1 | 1 | The Marshall Mathers LP2 | 2013-11-05 | [🔗](https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="" width="50" /> | 1 | 1 | Relapse: Refill | 2009-05-15 | [🔗](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="" width="50" /> | 1 | 1 | Recovery | 2010-06-18 | [🔗](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578" alt="" width="50" /> | 1 | 1 | Curtain Call: The Hits (Deluxe Edition) | 2005-12-06 | [🔗](https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="" width="50" /> | 1 | 0 | Confessions of a Dangerous Mind | 2019-05-10 | [🔗](https://open.spotify.com/album/0XLwImzaZEtqHE4NHAepDz) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | 402 | 1 | 1 | The Marshall Mathers LP2 | 2013-11-05 | [🔗](https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="" width="50" /> | 487 | 1 | 1 | Relapse: Refill | 2009-05-15 | [🔗](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="" width="50" /> | 581 | 1 | 1 | Recovery | 2010-06-18 | [🔗](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578" alt="" width="50" /> | 581 | 1 | 1 | Curtain Call: The Hits (Deluxe Edition) | 2005-12-06 | [🔗](https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="" width="50" /> | 581 | 1 | 0 | Confessions of a Dangerous Mind | 2019-05-10 | [🔗](https://open.spotify.com/album/0XLwImzaZEtqHE4NHAepDz) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -102,7 +102,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | The Monster | The Marshall Mathers LP2 | [Eminem](overview.md), [Rihanna](../rihanna/overview.md) | [Aftermath](../../labels/aftermath) | 590 | 💚 | [🔗](https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | The Monster | The Marshall Mathers LP2 | [Eminem](overview.md), [Rihanna](../rihanna/overview.md) | [Aftermath](../../labels/aftermath) | 594 | 💚 | [🔗](https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="" width="50" /> | We Made You | Relapse: Refill | [Eminem](overview.md) | [Aftermath](../../labels/aftermath) | 724 | 💚 | [🔗](https://open.spotify.com/track/4UMTp91LHhvW33ol9ZQH0Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578" alt="" width="50" /> | Lose Yourself | Curtain Call: The Hits (Deluxe Edition) | [Eminem](overview.md) | [Aftermath](../../labels/aftermath) | 868 | 💚 | [🔗](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="" width="50" /> | Love The Way You Lie | Recovery | [Eminem](overview.md), [Rihanna](../rihanna/overview.md) | [Aftermath](../../labels/aftermath) | 868 | 💚 | [🔗](https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED) |

@@ -22,14 +22,14 @@ Dreamcatcher:
 ## Artist Rank
 Dreamcatcher is currently:
 - The #32 artist of the last 6 months
-- The #23 artist of all time
-- The #29 artist overall
+- The #23 artist of the last year
+- The #29 artist of all time
 
 ![Rank of Dreamcatcher over time](../../images/artists/dreamcatcher/rank_time_series.png)
 ## Top Tracks
 
 
-### Top tracks, aggregated
+### Top tracks of all time
 
 ![Track score ranking over time](../../images/artists/dreamcatcher/track_rank_time_series_score.png)
 
@@ -45,26 +45,26 @@ Dreamcatcher is currently:
 
 ![Album ranking over time](../../images/artists/dreamcatcher/album_rank_time_series.png)
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273107ade016c96b4769c200bc4" alt="" width="50" /> | 3 | 3 | 1st Album [Dystopia : The Tree of Language] | 2020-02-18 | [🔗](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27340fd215e68e55c626a16cd4e" alt="" width="50" /> | 3 | 2 | [Apocalypse : Save us] | 2022-04-12 | [🔗](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a5911f62f0fe24713fb9d0c8" alt="" width="50" /> | 3 | 2 | Raid of Dream | 2019-09-18 | [🔗](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d902c8faa0d5eb0fe7c29695" alt="" width="50" /> | 1 | 1 | [Summer Holiday] | 2021-07-30 | [🔗](https://open.spotify.com/album/3dD0qCBPe7eYeaftyIKwa5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273787a8631e249c68889453f86" alt="" width="50" /> | 1 | 1 | [Dystopia : Road to Utopia] | 2021-01-26 | [🔗](https://open.spotify.com/album/1EyLcB9R1KfUV45AxtRR3V) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273994278a5092323151972886f" alt="" width="50" /> | 1 | 1 | [Dystopia : Lose Myself] | 2020-08-17 | [🔗](https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273954ba10c5ff7244ade9a5ca5" alt="" width="50" /> | 1 | 1 | [Apocalypse : Follow us] | 2022-10-11 | [🔗](https://open.spotify.com/album/10PIYVB08sIQbGNpWk3fXj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27331b95b252ae186111fb347d8" alt="" width="50" /> | 1 | 1 | Prequel | 2017-07-27 | [🔗](https://open.spotify.com/album/7dwF0tRN3awkAyYEdLJic3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27376e659e0e62810161b72bb0d" alt="" width="50" /> | 1 | 0 | [REASON] | 2023-01-13 | [🔗](https://open.spotify.com/album/6TJ3N82EGtf7Gu8QEFAT8t) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737a95bc64165227445ad40054" alt="" width="50" /> | 1 | 0 | [Apocalypse : From us] | 2023-05-24 | [🔗](https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273107ade016c96b4769c200bc4" alt="" width="50" /> | 242 | 3 | 3 | 1st Album [Dystopia : The Tree of Language] | 2020-02-18 | [🔗](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27340fd215e68e55c626a16cd4e" alt="" width="50" /> | 581 | 3 | 2 | [Apocalypse : Save us] | 2022-04-12 | [🔗](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a5911f62f0fe24713fb9d0c8" alt="" width="50" /> | 210 | 3 | 2 | Raid of Dream | 2019-09-18 | [🔗](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d902c8faa0d5eb0fe7c29695" alt="" width="50" /> | 338 | 1 | 1 | [Summer Holiday] | 2021-07-30 | [🔗](https://open.spotify.com/album/3dD0qCBPe7eYeaftyIKwa5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273787a8631e249c68889453f86" alt="" width="50" /> | 372 | 1 | 1 | [Dystopia : Road to Utopia] | 2021-01-26 | [🔗](https://open.spotify.com/album/1EyLcB9R1KfUV45AxtRR3V) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273994278a5092323151972886f" alt="" width="50" /> | 581 | 1 | 1 | [Dystopia : Lose Myself] | 2020-08-17 | [🔗](https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273954ba10c5ff7244ade9a5ca5" alt="" width="50" /> | 581 | 1 | 1 | [Apocalypse : Follow us] | 2022-10-11 | [🔗](https://open.spotify.com/album/10PIYVB08sIQbGNpWk3fXj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27331b95b252ae186111fb347d8" alt="" width="50" /> | 525 | 1 | 1 | Prequel | 2017-07-27 | [🔗](https://open.spotify.com/album/7dwF0tRN3awkAyYEdLJic3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27376e659e0e62810161b72bb0d" alt="" width="50" /> | 581 | 1 | 0 | [REASON] | 2023-01-13 | [🔗](https://open.spotify.com/album/6TJ3N82EGtf7Gu8QEFAT8t) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737a95bc64165227445ad40054" alt="" width="50" /> | 581 | 1 | 0 | [Apocalypse : From us] | 2023-05-24 | [🔗](https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA) |
 
 
 <details>
 <summary>See all albums</summary>
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27349194360fc897997b57ba32a" alt="" width="50" /> | 1 | 0 | The End of Nightmare | 2019-02-13 | [🔗](https://open.spotify.com/album/5GWbkX0bjGcv9bRPVOPZVg) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27349194360fc897997b57ba32a" alt="" width="50" /> | 581 | 1 | 0 | The End of Nightmare | 2019-02-13 | [🔗](https://open.spotify.com/album/5GWbkX0bjGcv9bRPVOPZVg) |
 
 </details>
 
@@ -146,9 +146,9 @@ Dreamcatcher is currently:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5911f62f0fe24713fb9d0c8" alt="" width="50" /> | Silent Night | Raid of Dream | [Dreamcatcher](overview.md) | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company) | 287 | 💚 | [🔗](https://open.spotify.com/track/6OrYF7BHkbsfhxEMQfwBvV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273107ade016c96b4769c200bc4" alt="" width="50" /> | Jazz Bar | 1st Album [Dystopia : The Tree of Language] | [Dreamcatcher](overview.md) | [Dreamcatcher Company](../../labels/dreamcatcher_company) | 444 | 💚 | [🔗](https://open.spotify.com/track/5XVjj6hJTWgYiDx72Wo5QS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d902c8faa0d5eb0fe7c29695" alt="" width="50" /> | BEcause | [Summer Holiday] | [Dreamcatcher](overview.md) | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company) | 485 | 💚 | [🔗](https://open.spotify.com/track/0ufYP4HLjzVSLUsGKCIQJH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d902c8faa0d5eb0fe7c29695" alt="" width="50" /> | BEcause | [Summer Holiday] | [Dreamcatcher](overview.md) | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company) | 487 | 💚 | [🔗](https://open.spotify.com/track/0ufYP4HLjzVSLUsGKCIQJH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273107ade016c96b4769c200bc4" alt="" width="50" /> | Red Sun | 1st Album [Dystopia : The Tree of Language] | [Dreamcatcher](overview.md) | [Dreamcatcher Company](../../labels/dreamcatcher_company) | 512 | 💚 | [🔗](https://open.spotify.com/track/0WXmPCkeeLjpTddcBI98GV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273787a8631e249c68889453f86" alt="" width="50" /> | Odd Eye | [Dystopia : Road to Utopia] | [Dreamcatcher](overview.md) | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company) | 543 | 💚 | [🔗](https://open.spotify.com/track/1RtlbxsPpDBsHHmGTb7ah2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273787a8631e249c68889453f86" alt="" width="50" /> | Odd Eye | [Dystopia : Road to Utopia] | [Dreamcatcher](overview.md) | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company) | 545 | 💚 | [🔗](https://open.spotify.com/track/1RtlbxsPpDBsHHmGTb7ah2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27331b95b252ae186111fb347d8" alt="" width="50" /> | Sleep-walking | Prequel | [Dreamcatcher](overview.md) | 해피페이스 엔터테인먼트 | 787 | 💚 | [🔗](https://open.spotify.com/track/5PYR7g3AmuYE5Yaay7s3us) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349194360fc897997b57ba32a" alt="" width="50" /> | PIRI | The End of Nightmare | [Dreamcatcher](overview.md) | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company) | 868 | | [🔗](https://open.spotify.com/track/38dgtl73zn8VYh7VOCvs69) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5911f62f0fe24713fb9d0c8" alt="" width="50" /> | Deja Vu | Raid of Dream | [Dreamcatcher](overview.md) | [DREAMCATCHER COMPANY](../../labels/dreamcatcher_company) | 868 | 💚 | [🔗](https://open.spotify.com/track/3qvfE7DGsIlkWzKMOS4gAm) |

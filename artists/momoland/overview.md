@@ -18,21 +18,21 @@ MOMOLAND:
 - has member 연우 (Yeon-woo)
 
 ## Artist Rank
-- The #268 artist overall
+- The #268 artist of all time
 
 ![Rank of MOMOLAND over time](../../images/artists/momoland/rank_time_series.png)
 ## Top Albums
 
 
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27352db41e897d3a8dc72929208" alt="" width="50" /> | 1 | 1 | Yummy Yummy Love | 2022-01-14 | [🔗](https://open.spotify.com/album/2r35RHvEtBjgKiONdItRR5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a200f972bd8b1f9cb76da8c2" alt="" width="50" /> | 1 | 1 | Wrap Me In Plastic | 2021-02-05 | [🔗](https://open.spotify.com/album/58VYPx8GBYTf3Sz2RyPApB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735dd07552de8e974829621d84" alt="" width="50" /> | 1 | 1 | Show Me | 2019-03-20 | [🔗](https://open.spotify.com/album/2olU5yGGjXxgOt9GrFEtLo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a5bb4ef1ca42f4378d815c7c" alt="" width="50" /> | 1 | 1 | GREAT! | 2018-01-03 | [🔗](https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342b393df3e24a66e5accbf2b" alt="" width="50" /> | 1 | 1 | Fun to The World | 2018-06-26 | [🔗](https://open.spotify.com/album/75dkh8s39e7txjNe9cODH3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac8b86555966c2b9e42688ca" alt="" width="50" /> | 1 | 0 | BANANA CHACHA | 2019-04-03 | [🔗](https://open.spotify.com/album/7ddX2r1TPT08eiSMUlCx8H) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27352db41e897d3a8dc72929208" alt="" width="50" /> | 581 | 1 | 1 | Yummy Yummy Love | 2022-01-14 | [🔗](https://open.spotify.com/album/2r35RHvEtBjgKiONdItRR5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a200f972bd8b1f9cb76da8c2" alt="" width="50" /> | 581 | 1 | 1 | Wrap Me In Plastic | 2021-02-05 | [🔗](https://open.spotify.com/album/58VYPx8GBYTf3Sz2RyPApB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735dd07552de8e974829621d84" alt="" width="50" /> | 581 | 1 | 1 | Show Me | 2019-03-20 | [🔗](https://open.spotify.com/album/2olU5yGGjXxgOt9GrFEtLo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a5bb4ef1ca42f4378d815c7c" alt="" width="50" /> | 581 | 1 | 1 | GREAT! | 2018-01-03 | [🔗](https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342b393df3e24a66e5accbf2b" alt="" width="50" /> | 581 | 1 | 1 | Fun to The World | 2018-06-26 | [🔗](https://open.spotify.com/album/75dkh8s39e7txjNe9cODH3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac8b86555966c2b9e42688ca" alt="" width="50" /> | 581 | 1 | 0 | BANANA CHACHA | 2019-04-03 | [🔗](https://open.spotify.com/album/7ddX2r1TPT08eiSMUlCx8H) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |

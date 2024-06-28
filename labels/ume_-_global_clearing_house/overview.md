@@ -11,47 +11,47 @@ Appears as:
 
 ## Top Artists
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | 115 | 0 | [Herbert von Karajan](../../artists/herbert_von_karajan/overview.md) | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | 115 | 0 | [Wolfgang Amadeus Mozart](../../artists/wolfgang_amadeus_mozart/overview.md) | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | 101 | 0 | [Berliner Philharmoniker](../../artists/berliner_philharmoniker/overview.md) | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
-| <img src="https://i.scdn.co/image/e403106a45cbd0e2ca51e4d1b18b9a587f9177be" alt="" width="50" /> | 18 | 0 | Wiener Singverein | [🔗](https://open.spotify.com/artist/35QSympF887CO8h5eZHme2) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4bb5eb0860d831455fab32b6" alt="" width="50" /> | 14 | 0 | Wiener Philharmoniker | [🔗](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ) |
-| <img src="https://i.scdn.co/image/3a82b1bfa9beaa82deb0b380a94cb6dc197ee073" alt="" width="50" /> | 13 | 0 | Anna Tomowa-Sintow | [🔗](https://open.spotify.com/artist/6NSIW1uEq8JZmxEkHMF17c) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731793174d9892a98c3fd2d09b" alt="" width="50" /> | 11 | 0 | Gerd Seifert | [🔗](https://open.spotify.com/artist/4aIYtx2Z5X9vRlysnruy66) |
-| <img src="https://i.scdn.co/image/7edeefee1e00dc240f153b601cf735baba09a17a" alt="" width="50" /> | 7 | 0 | José van Dam | [🔗](https://open.spotify.com/artist/5qNUHMEhszyeXNYMn4sswd) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb170aeefcafc916c597b1f9dd" alt="" width="50" /> | 6 | 0 | Anne-Sophie Mutter | [🔗](https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | 6 | 0 | Agnes Baltsa | [🔗](https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf67fde1740e91a88445d5bdd" alt="" width="50" /> | 400 | 115 | 0 | [Herbert von Karajan](../../artists/herbert_von_karajan/overview.md) | [🔗](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | 400 | 115 | 0 | [Wolfgang Amadeus Mozart](../../artists/wolfgang_amadeus_mozart/overview.md) | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | 400 | 101 | 0 | [Berliner Philharmoniker](../../artists/berliner_philharmoniker/overview.md) | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
+| <img src="https://i.scdn.co/image/e403106a45cbd0e2ca51e4d1b18b9a587f9177be" alt="" width="50" /> | 400 | 18 | 0 | Wiener Singverein | [🔗](https://open.spotify.com/artist/35QSympF887CO8h5eZHme2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4bb5eb0860d831455fab32b6" alt="" width="50" /> | 400 | 14 | 0 | Wiener Philharmoniker | [🔗](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ) |
+| <img src="https://i.scdn.co/image/3a82b1bfa9beaa82deb0b380a94cb6dc197ee073" alt="" width="50" /> | 400 | 13 | 0 | Anna Tomowa-Sintow | [🔗](https://open.spotify.com/artist/6NSIW1uEq8JZmxEkHMF17c) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731793174d9892a98c3fd2d09b" alt="" width="50" /> | 400 | 11 | 0 | Gerd Seifert | [🔗](https://open.spotify.com/artist/4aIYtx2Z5X9vRlysnruy66) |
+| <img src="https://i.scdn.co/image/7edeefee1e00dc240f153b601cf735baba09a17a" alt="" width="50" /> | 400 | 7 | 0 | José van Dam | [🔗](https://open.spotify.com/artist/5qNUHMEhszyeXNYMn4sswd) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb170aeefcafc916c597b1f9dd" alt="" width="50" /> | 400 | 6 | 0 | Anne-Sophie Mutter | [🔗](https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | 400 | 6 | 0 | Agnes Baltsa | [🔗](https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC) |
 
 
 <details>
 <summary>See all 32 artists</summary>
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273629fe5d9aee2869873b588bd" alt="" width="50" /> | 5 | 0 | Werner Krenn | [🔗](https://open.spotify.com/artist/3PuXD6h01YqjNWQ055CWxA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733658c17a5357171441798302" alt="" width="50" /> | 4 | 0 | Gottfried Hornik | [🔗](https://open.spotify.com/artist/6aFQ4LADfHVe08B5gQuE8X) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273774a4d3dd9d4fca18fa2180b" alt="" width="50" /> | 4 | 0 | Helga Muller-Molinari | [🔗](https://open.spotify.com/artist/3s5xNX5n6PAzpusMRhmHbA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e5fbe9a1e3f348399ce21904" alt="" width="50" /> | 4 | 0 | Manfred Klier | [🔗](https://open.spotify.com/artist/3KkpLfmwQob3Y75ePPdtse) |
-| <img src="https://i.scdn.co/image/a97382fc1e98c5a755daf70d7a9355f673811707" alt="" width="50" /> | 4 | 0 | Vinson Cole | [🔗](https://open.spotify.com/artist/2j6cP3f3TxyHzcKdWYSm6h) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273774a4d3dd9d4fca18fa2180b" alt="" width="50" /> | 4 | 0 | Paata Burchuladze | [🔗](https://open.spotify.com/artist/1JzOJmq9kk0u7OWqzXkBcc) |
-| | 3 | 0 | Ossip Schnirlin | [🔗](https://open.spotify.com/artist/7eI7DJSWlJy2W2337B9oTL) |
-| <img src="https://i.scdn.co/image/a3a6a9144487c4a31235748c406e91ba222d2be6" alt="" width="50" /> | 3 | 0 | Joseph Joachim | [🔗](https://open.spotify.com/artist/6QuJ4aZSRMebqwDXiJ3SuA) |
-| | 3 | 0 | Sam Franko | [🔗](https://open.spotify.com/artist/3vkG71N5uQBzhzwEDr6icH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27305e7e084a0d8f528d8c2e4ed" alt="" width="50" /> | 3 | 0 | Chor der Deutschen Oper Berlin | [🔗](https://open.spotify.com/artist/2KvV4gawnuMNG74DgSAQ0n) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f7084c7092e60fb2de9fb5f7" alt="" width="50" /> | 2 | 0 | Walter Hagen-Groll | [🔗](https://open.spotify.com/artist/5iMb1u0pxxzSPONrB4j0Zb) |
-| <img src="https://i.scdn.co/image/2dbbc246942e3d8d71b85250e31ed71fc99b1019" alt="" width="50" /> | 2 | 0 | Francisco Araiza | [🔗](https://open.spotify.com/artist/5M0cOgeTBOetAbsM4FDVDP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733658c17a5357171441798302" alt="" width="50" /> | 2 | 0 | Karin Ott | [🔗](https://open.spotify.com/artist/2sZHeIbU96txBewcnCJLj7) |
-| <img src="https://i.scdn.co/image/654c25787e52d081ca7cf5fb1a6113bd07e9ae04" alt="" width="50" /> | 2 | 0 | Edith Mathis | [🔗](https://open.spotify.com/artist/0eOythKkGSageuVFr6nDHf) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb12cfc0c902710269d3a954aa" alt="" width="50" /> | 1 | 0 | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
-| | 1 | 0 | Wolfgang Bünten | [🔗](https://open.spotify.com/artist/6qZFjcGH1SfhbkrNfnzH7z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733d3c38e91de0d01072094572" alt="" width="50" /> | 1 | 0 | Heinz Kruse | [🔗](https://open.spotify.com/artist/44kp24Y9MhmQ4RT64CUaV2) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | 1 | 0 | PSY | [🔗](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) |
-| | 1 | 0 | Tobias Pfulb | [🔗](https://open.spotify.com/artist/2GD6gK1wj1cD8TFGe2BpJC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | 1 | 0 | Janet Perry | [🔗](https://open.spotify.com/artist/1bV3KjOPs1AI3OolJiYogN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e41f73c8c901c6c33d727786" alt="" width="50" /> | 1 | 0 | Hanna Schwarz | [🔗](https://open.spotify.com/artist/0uzYuEP2MlAJ5FdVIYIalx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273877b88f28b401581470add7b" alt="" width="50" /> | 1 | 0 | Christian Schulz | [🔗](https://open.spotify.com/artist/0sqQ1nXbUwTWglq8jWopvZ) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273629fe5d9aee2869873b588bd" alt="" width="50" /> | 400 | 5 | 0 | Werner Krenn | [🔗](https://open.spotify.com/artist/3PuXD6h01YqjNWQ055CWxA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733658c17a5357171441798302" alt="" width="50" /> | 400 | 4 | 0 | Gottfried Hornik | [🔗](https://open.spotify.com/artist/6aFQ4LADfHVe08B5gQuE8X) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273774a4d3dd9d4fca18fa2180b" alt="" width="50" /> | 400 | 4 | 0 | Helga Muller-Molinari | [🔗](https://open.spotify.com/artist/3s5xNX5n6PAzpusMRhmHbA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e5fbe9a1e3f348399ce21904" alt="" width="50" /> | 400 | 4 | 0 | Manfred Klier | [🔗](https://open.spotify.com/artist/3KkpLfmwQob3Y75ePPdtse) |
+| <img src="https://i.scdn.co/image/a97382fc1e98c5a755daf70d7a9355f673811707" alt="" width="50" /> | 400 | 4 | 0 | Vinson Cole | [🔗](https://open.spotify.com/artist/2j6cP3f3TxyHzcKdWYSm6h) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273774a4d3dd9d4fca18fa2180b" alt="" width="50" /> | 400 | 4 | 0 | Paata Burchuladze | [🔗](https://open.spotify.com/artist/1JzOJmq9kk0u7OWqzXkBcc) |
+| | 400 | 3 | 0 | Ossip Schnirlin | [🔗](https://open.spotify.com/artist/7eI7DJSWlJy2W2337B9oTL) |
+| <img src="https://i.scdn.co/image/a3a6a9144487c4a31235748c406e91ba222d2be6" alt="" width="50" /> | 400 | 3 | 0 | Joseph Joachim | [🔗](https://open.spotify.com/artist/6QuJ4aZSRMebqwDXiJ3SuA) |
+| | 400 | 3 | 0 | Sam Franko | [🔗](https://open.spotify.com/artist/3vkG71N5uQBzhzwEDr6icH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27305e7e084a0d8f528d8c2e4ed" alt="" width="50" /> | 400 | 3 | 0 | Chor der Deutschen Oper Berlin | [🔗](https://open.spotify.com/artist/2KvV4gawnuMNG74DgSAQ0n) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f7084c7092e60fb2de9fb5f7" alt="" width="50" /> | 400 | 2 | 0 | Walter Hagen-Groll | [🔗](https://open.spotify.com/artist/5iMb1u0pxxzSPONrB4j0Zb) |
+| <img src="https://i.scdn.co/image/2dbbc246942e3d8d71b85250e31ed71fc99b1019" alt="" width="50" /> | 400 | 2 | 0 | Francisco Araiza | [🔗](https://open.spotify.com/artist/5M0cOgeTBOetAbsM4FDVDP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733658c17a5357171441798302" alt="" width="50" /> | 400 | 2 | 0 | Karin Ott | [🔗](https://open.spotify.com/artist/2sZHeIbU96txBewcnCJLj7) |
+| <img src="https://i.scdn.co/image/654c25787e52d081ca7cf5fb1a6113bd07e9ae04" alt="" width="50" /> | 400 | 2 | 0 | Edith Mathis | [🔗](https://open.spotify.com/artist/0eOythKkGSageuVFr6nDHf) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb12cfc0c902710269d3a954aa" alt="" width="50" /> | 234 | 1 | 0 | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
+| | 400 | 1 | 0 | Wolfgang Bünten | [🔗](https://open.spotify.com/artist/6qZFjcGH1SfhbkrNfnzH7z) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d3c38e91de0d01072094572" alt="" width="50" /> | 400 | 1 | 0 | Heinz Kruse | [🔗](https://open.spotify.com/artist/44kp24Y9MhmQ4RT64CUaV2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | 226 | 1 | 0 | PSY | [🔗](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) |
+| | 400 | 1 | 0 | Tobias Pfulb | [🔗](https://open.spotify.com/artist/2GD6gK1wj1cD8TFGe2BpJC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322070c61a7616392f04f070f" alt="" width="50" /> | 400 | 1 | 0 | Janet Perry | [🔗](https://open.spotify.com/artist/1bV3KjOPs1AI3OolJiYogN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e41f73c8c901c6c33d727786" alt="" width="50" /> | 400 | 1 | 0 | Hanna Schwarz | [🔗](https://open.spotify.com/artist/0uzYuEP2MlAJ5FdVIYIalx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273877b88f28b401581470add7b" alt="" width="50" /> | 400 | 1 | 0 | Christian Schulz | [🔗](https://open.spotify.com/artist/0sqQ1nXbUwTWglq8jWopvZ) |
 
 </details>
 
@@ -60,11 +60,11 @@ Appears as:
 
 ## Top Albums
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730cda0a02b2da25defc837399" alt="" width="50" /> | 115 | 0 | Karajan - Mozart | 2020-06-16 | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e31b35e72c2a225058cf215f" alt="" width="50" /> | 1 | 0 | Tik Tock Hits 2020 | 2020-06-12 | [🔗](https://open.spotify.com/album/4Da9F5PAFILkjmNmm81NZ3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="" width="50" /> | 1 | 0 | Romance | 2021-02-12 | [🔗](https://open.spotify.com/album/5MuNxtOyex8o77Qdjaqeng) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2730cda0a02b2da25defc837399" alt="" width="50" /> | 581 | 115 | 0 | Karajan - Mozart | 2020-06-16 | [🔗](https://open.spotify.com/album/1HSJhsMIW2EDD4YSSkbc9e) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e31b35e72c2a225058cf215f" alt="" width="50" /> | 581 | 1 | 0 | Tik Tock Hits 2020 | 2020-06-12 | [🔗](https://open.spotify.com/album/4Da9F5PAFILkjmNmm81NZ3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="" width="50" /> | 581 | 1 | 0 | Romance | 2021-02-12 | [🔗](https://open.spotify.com/album/5MuNxtOyex8o77Qdjaqeng) |
 
 ![Bar chart of top 3 albums](../../images/labels/ume_-_global_clearing_house/albums.png)
 

@@ -2,51 +2,51 @@
 
 ## Artists
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5a6fd8ebc62d68a372d51516" alt="" width="50" /> | 21 | 0 | Andrew Lloyd Webber | [🔗](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | 21 | 0 | Phantom Of The Opera Original London Cast | [🔗](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba0bcf0e980853b55d4b2f392" alt="" width="50" /> | 14 | 0 | Sarah Brightman | [🔗](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) |
-| <img src="https://i.scdn.co/image/a9895067694a6b11db54520194cd62255fced01c" alt="" width="50" /> | 11 | 0 | Michael Crawford | [🔗](https://open.spotify.com/artist/5fRiVl9fyhUEZhcpMyIxUG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737fd79037c10ff7b23d65203c" alt="" width="50" /> | 11 | 0 | Steve Barton | [🔗](https://open.spotify.com/artist/1gEOIEK9jgpYvvG57BP0US) |
-| <img src="https://i.scdn.co/image/8342768be08c1c9bf4af1d4584a103bcb3042704" alt="" width="50" /> | 7 | 0 | Colm Wilkinson | [🔗](https://open.spotify.com/artist/4hKV8PcRBaHZqBJjSn8OJE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b9b9b8bf2a5275cf34a5350a" alt="" width="50" /> | 4 | 0 | Rosemary Ashe | [🔗](https://open.spotify.com/artist/3Oju6zkuJzum4svKeVhKiK) |
-| | 3 | 0 | Janet Devenish | [🔗](https://open.spotify.com/artist/7Ev9dg2zamUgQsRUp9DdRl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb464513265be8765dddc19bb" alt="" width="50" /> | 3 | 0 | Frances Ruffelle | [🔗](https://open.spotify.com/artist/5uSeMCBhe3DiROdFrwaXkw) |
-| | 3 | 0 | Terrence Mann | [🔗](https://open.spotify.com/artist/5uBIsYz9WatgoViLG6pVj2) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5a6fd8ebc62d68a372d51516" alt="" width="50" /> | 400 | 21 | 0 | Andrew Lloyd Webber | [🔗](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | 400 | 21 | 0 | Phantom Of The Opera Original London Cast | [🔗](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba0bcf0e980853b55d4b2f392" alt="" width="50" /> | 400 | 14 | 0 | Sarah Brightman | [🔗](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) |
+| <img src="https://i.scdn.co/image/a9895067694a6b11db54520194cd62255fced01c" alt="" width="50" /> | 400 | 11 | 0 | Michael Crawford | [🔗](https://open.spotify.com/artist/5fRiVl9fyhUEZhcpMyIxUG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737fd79037c10ff7b23d65203c" alt="" width="50" /> | 400 | 11 | 0 | Steve Barton | [🔗](https://open.spotify.com/artist/1gEOIEK9jgpYvvG57BP0US) |
+| <img src="https://i.scdn.co/image/8342768be08c1c9bf4af1d4584a103bcb3042704" alt="" width="50" /> | 400 | 7 | 0 | Colm Wilkinson | [🔗](https://open.spotify.com/artist/4hKV8PcRBaHZqBJjSn8OJE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9b9b8bf2a5275cf34a5350a" alt="" width="50" /> | 400 | 4 | 0 | Rosemary Ashe | [🔗](https://open.spotify.com/artist/3Oju6zkuJzum4svKeVhKiK) |
+| | 400 | 3 | 0 | Janet Devenish | [🔗](https://open.spotify.com/artist/7Ev9dg2zamUgQsRUp9DdRl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb464513265be8765dddc19bb" alt="" width="50" /> | 400 | 3 | 0 | Frances Ruffelle | [🔗](https://open.spotify.com/artist/5uSeMCBhe3DiROdFrwaXkw) |
+| | 400 | 3 | 0 | Terrence Mann | [🔗](https://open.spotify.com/artist/5uBIsYz9WatgoViLG6pVj2) |
 
 
 <details>
 <summary>View all</summary>
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d64bc71c5b3f176aed9763fb" alt="" width="50" /> | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
-| | 3 | 0 | John Savident | [🔗](https://open.spotify.com/artist/2V0W4YzPCESOh86ss7D2QE) |
-| | 3 | 0 | Mary Millar | [🔗](https://open.spotify.com/artist/1SBvpcra5uod7N0rxJxa3J) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736b59fdeebe247885983d6dcf" alt="" width="50" /> | 2 | 0 | Judy Kuhn | [🔗](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f78cfced363cf0e870f0e9ce" alt="" width="50" /> | 2 | 0 | Michael Maguire | [🔗](https://open.spotify.com/artist/6QjRwce37TfXfjx81KqQ7N) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fd99cfe06e210633ef8a9ed1" alt="" width="50" /> | 2 | 0 | Charles Hart | [🔗](https://open.spotify.com/artist/6IFUhDPbZkH4ytZZDiu0x4) |
-| | 2 | 0 | Robert Billig | [🔗](https://open.spotify.com/artist/3Ybg9gi5V2x6i8OsLc9M7p) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354bf67d6993451d2c9eae5e1" alt="" width="50" /> | 2 | 0 | David Bryant | [🔗](https://open.spotify.com/artist/2yPfp367ZwywK1lbGg00b8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273985984bcb7f2a3e25145b9b7" alt="" width="50" /> | 2 | 0 | Randy Graff | [🔗](https://open.spotify.com/artist/2iRiwwxcJb6fXCxO5jt1cz) |
-| | 1 | 0 | John Aron | [🔗](https://open.spotify.com/artist/5Hco9oOhEcTrU0hzzIkoF7) |
-| | 1 | 0 | Jesse Corti | [🔗](https://open.spotify.com/artist/53vhGhGRoi9ARM7kr3jrz5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731a43f0bd7cf9c917edd8398a" alt="" width="50" /> | 1 | 0 | Donna Vivino | [🔗](https://open.spotify.com/artist/4IDNKwIch36V0UvtfUQF9k) |
-| | 1 | 0 | Janos Kurucz | [🔗](https://open.spotify.com/artist/3MiTXPOmIgoJioulWki8dz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739399b7495e336ed307ab51b9" alt="" width="50" /> | 1 | 0 | Richard Stilgoe | [🔗](https://open.spotify.com/artist/17peneSLV6CavfRbQEACCu) |
-| | 1 | 0 | Braden Danner | [🔗](https://open.spotify.com/artist/0n5FRSY5ldzVwzb6Tq9Ya3) |
-| <img src="https://i.scdn.co/image/df5bb0e7652e77a8c259f269564ec4ee1eccd717" alt="" width="50" /> | 1 | 0 | Cindy Benson | [🔗](https://open.spotify.com/artist/0OIRFXSbEOgnGZXXccjvgt) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273d64bc71c5b3f176aed9763fb" alt="" width="50" /> | 400 | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
+| | 400 | 3 | 0 | John Savident | [🔗](https://open.spotify.com/artist/2V0W4YzPCESOh86ss7D2QE) |
+| | 400 | 3 | 0 | Mary Millar | [🔗](https://open.spotify.com/artist/1SBvpcra5uod7N0rxJxa3J) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736b59fdeebe247885983d6dcf" alt="" width="50" /> | 400 | 2 | 0 | Judy Kuhn | [🔗](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f78cfced363cf0e870f0e9ce" alt="" width="50" /> | 400 | 2 | 0 | Michael Maguire | [🔗](https://open.spotify.com/artist/6QjRwce37TfXfjx81KqQ7N) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fd99cfe06e210633ef8a9ed1" alt="" width="50" /> | 400 | 2 | 0 | Charles Hart | [🔗](https://open.spotify.com/artist/6IFUhDPbZkH4ytZZDiu0x4) |
+| | 400 | 2 | 0 | Robert Billig | [🔗](https://open.spotify.com/artist/3Ybg9gi5V2x6i8OsLc9M7p) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354bf67d6993451d2c9eae5e1" alt="" width="50" /> | 400 | 2 | 0 | David Bryant | [🔗](https://open.spotify.com/artist/2yPfp367ZwywK1lbGg00b8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273985984bcb7f2a3e25145b9b7" alt="" width="50" /> | 400 | 2 | 0 | Randy Graff | [🔗](https://open.spotify.com/artist/2iRiwwxcJb6fXCxO5jt1cz) |
+| | 400 | 1 | 0 | John Aron | [🔗](https://open.spotify.com/artist/5Hco9oOhEcTrU0hzzIkoF7) |
+| | 400 | 1 | 0 | Jesse Corti | [🔗](https://open.spotify.com/artist/53vhGhGRoi9ARM7kr3jrz5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731a43f0bd7cf9c917edd8398a" alt="" width="50" /> | 400 | 1 | 0 | Donna Vivino | [🔗](https://open.spotify.com/artist/4IDNKwIch36V0UvtfUQF9k) |
+| | 400 | 1 | 0 | Janos Kurucz | [🔗](https://open.spotify.com/artist/3MiTXPOmIgoJioulWki8dz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739399b7495e336ed307ab51b9" alt="" width="50" /> | 400 | 1 | 0 | Richard Stilgoe | [🔗](https://open.spotify.com/artist/17peneSLV6CavfRbQEACCu) |
+| | 400 | 1 | 0 | Braden Danner | [🔗](https://open.spotify.com/artist/0n5FRSY5ldzVwzb6Tq9Ya3) |
+| <img src="https://i.scdn.co/image/df5bb0e7652e77a8c259f269564ec4ee1eccd717" alt="" width="50" /> | 400 | 1 | 0 | Cindy Benson | [🔗](https://open.spotify.com/artist/0OIRFXSbEOgnGZXXccjvgt) |
 
 </details>
 
 
 ## Albums
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | 21 | 0 | The Phantom Of The Opera | 1987-01-01 | [🔗](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | 20 | 0 | Les Misérables (Original Broadway Cast Recording) | 1987-05-11 | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | 581 | 21 | 0 | The Phantom Of The Opera | 1987-01-01 | [🔗](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | 581 | 20 | 0 | Les Misérables (Original Broadway Cast Recording) | 1987-05-11 | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
 
 ## Tracks
 

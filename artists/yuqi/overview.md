@@ -12,26 +12,26 @@ YUQI:
 ## Artist Rank
 YUQI is currently:
 - The #20 artist of the last month
-- The #35 artist of the last 6 months
-- The #105 artist overall
+- The #34 artist of the last 6 months
+- The #105 artist of all time
 
 ![Rank of YUQI over time](../../images/artists/yuqi/rank_time_series.png)
 ## Top Tracks
 
 
-### Top tracks, aggregated
+### Top tracks of all time
 
 ![Track score ranking over time](../../images/artists/yuqi/track_rank_time_series_score.png)
 ## Top Albums
 
 ![Album ranking over time](../../images/artists/yuqi/album_rank_time_series.png)
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | 3 | 3 | YUQ1 | 2024-04-23 | [🔗](https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | 2 | 2 | A Page | 2021-05-13 | [🔗](https://open.spotify.com/album/7jmRVFWYCVgx2OEC1ZQJH8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb9ff6f34a355d6ce77ff6a4" alt="" width="50" /> | 1 | 1 | Flowers (Cover) | 2023-03-20 | [🔗](https://open.spotify.com/album/0nTIxK2AR9QnY2nn5uxhYW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273afedcb63d2ef759322629930" alt="" width="50" /> | 1 | 0 | HATE XX | 2023-06-27 | [🔗](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | 150 | 3 | 3 | YUQ1 | 2024-04-23 | [🔗](https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | 352 | 2 | 2 | A Page | 2021-05-13 | [🔗](https://open.spotify.com/album/7jmRVFWYCVgx2OEC1ZQJH8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb9ff6f34a355d6ce77ff6a4" alt="" width="50" /> | 581 | 1 | 1 | Flowers (Cover) | 2023-03-20 | [🔗](https://open.spotify.com/album/0nTIxK2AR9QnY2nn5uxhYW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273afedcb63d2ef759322629930" alt="" width="50" /> | 279 | 1 | 0 | HATE XX | 2023-06-27 | [🔗](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -40,7 +40,6 @@ YUQI is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e025f117dc77b6c36fba0ff9b1eab67616d00001e025f7540ea5cd0831b2c7e4ff9ab67616d00001e02c4230302ebdf58aef8873907ab67616d00001e02f42a976b1e82a3247873f929" alt="" width="50" /> | 3 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
 | <img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg" alt="" width="50" /> | 2 | [On Repeat](../../playlists/on_repeat/overview.md) |
-| <img src="https://daily-mix.scdn.co/covers/backtracks/PZN_Repeat_Rewind2_DEFAULT-en.jpg" alt="" width="50" /> | 1 | [Repeat Rewind](../../playlists/repeat_rewind/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0220adea47ebd9e98d2e7d2247ab67616d00001e022ce067b763f6a4938cb8a501ab67616d00001e02583c60000e8abc8283853e10ab67616d00001e0273e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 1 | [K-Memes](../../playlists/k-memes/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e023317fc12f8b9a9a0b8459766ab67616d00001e0263e0ddbb488d0eeec0e738fcab67616d00001e0284095737f6056e682666d6f9ab67616d00001e02f2bf9685109a09bdc176fb43" alt="" width="50" /> | 1 | [Not K-Pop](../../playlists/not_k-pop/overview.md) |
 
@@ -77,8 +76,8 @@ YUQI is currently:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | Red Rover | YUQ1 | [YUQI](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 217 | 💚 | [🔗](https://open.spotify.com/track/4TQBHR8LcbBUv0LvLmn54H) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | On Clap | YUQ1 | [YUQI](overview.md), Lexie Liu | [Cube Entertainment](../../labels/cube_entertainment) | 263 | 💚 | [🔗](https://open.spotify.com/track/2bRNKRk0sFlwEd7geduEpP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | Bonnie & Clyde | A Page | [YUQI](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 509 | 💚 | [🔗](https://open.spotify.com/track/21aIsunB7PfZI0vlIoaJPh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | On Clap | YUQ1 | [YUQI](overview.md), Lexie Liu | [Cube Entertainment](../../labels/cube_entertainment) | 257 | 💚 | [🔗](https://open.spotify.com/track/2bRNKRk0sFlwEd7geduEpP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | Bonnie & Clyde | A Page | [YUQI](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 511 | 💚 | [🔗](https://open.spotify.com/track/21aIsunB7PfZI0vlIoaJPh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | FREAK | YUQ1 | [YUQI](overview.md) | [Cube Entertainment](../../labels/cube_entertainment) | 727 | 💚 | [🔗](https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf122fa2dd2c23dcc79f7c51" alt="" width="50" /> | Giant | A Page | [YUQI](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 868 | 💚 | [🔗](https://open.spotify.com/track/3p8low79RQzkixDlIngBTT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb9ff6f34a355d6ce77ff6a4" alt="" width="50" /> | Flowers - Cover | Flowers (Cover) | [YUQI](overview.md) | YUQI | 868 | 💚 | [🔗](https://open.spotify.com/track/4KhOLC5IT1Rz8G4iHsoTAV) |

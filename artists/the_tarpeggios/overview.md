@@ -26,32 +26,32 @@ The Tarpeggios:
 The Tarpeggios is currently:
 - The #3 artist of the last month
 - The #20 artist of the last 6 months
-- The #27 artist of all time
-- The #46 artist overall
+- The #28 artist of the last year
+- The #46 artist of all time
 
 ![Rank of The Tarpeggios over time](../../images/artists/the_tarpeggios/rank_time_series.png)
 ## Top Tracks
 
 
-### Top tracks, aggregated
+### Top tracks of all time
 
 ![Track score ranking over time](../../images/artists/the_tarpeggios/track_rank_time_series_score.png)
 ## Top Albums
 
 ![Album ranking over time](../../images/artists/the_tarpeggios/album_rank_time_series.png)
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | 9 | 7 | The Teal Album | 2016-11-12 | [🔗](https://open.spotify.com/album/7mTQ62MIYHSbkZHGjY0Ftg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | 7 | 6 | Carolina State of Mind | 2013-11-15 | [🔗](https://open.spotify.com/album/3zKusinRVxdC5s2wOPYBgX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b898e1af5571ea5402fdd764" alt="" width="50" /> | 7 | 5 | Bloodline | 2024-05-15 | [🔗](https://open.spotify.com/album/5XMETYH0wL2F3qDpWfVKzw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fc82939fb76760e640d7edca" alt="" width="50" /> | 5 | 4 | Homeward | 2022-04-08 | [🔗](https://open.spotify.com/album/2FiDSelqVoi7VQfpmaMRJK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e7b975daf944ff0d1ffce056" alt="" width="50" /> | 4 | 0 | After the Light | 2023-08-18 | [🔗](https://open.spotify.com/album/5Q9k2sd9kFnmPEJjdsFIpV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e5d079704778dc9534c73a91" alt="" width="50" /> | 3 | 2 | MODERN ECSTASY | 2023-07-07 | [🔗](https://open.spotify.com/album/3EFIthm5Zjb7MfuXeDJb9A) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fdeffdb0cd2b8bb696319e8c" alt="" width="50" /> | 2 | 2 | Push to Start | 2023-04-03 | [🔗](https://open.spotify.com/album/4ggdFWPHn5rTdUrw4s46yS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27322f75e45afe2febb7d3f4cac" alt="" width="50" /> | 2 | 2 | Immaterial | 2021-07-16 | [🔗](https://open.spotify.com/album/5YgtPHMCi4dGtL6JarEGkI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27362f44cdb37183a309fc1032f" alt="" width="50" /> | 1 | 1 | G Train | 2019-11-22 | [🔗](https://open.spotify.com/album/0vmio1Hc8vrU7scyVa6BYK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e443608c9f1cf2fdb6c36d37" alt="" width="50" /> | 1 | 0 | Before He Cheats | 2019-10-22 | [🔗](https://open.spotify.com/album/7bndGIMX7IOBjG3J7O0BEQ) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | 494 | 9 | 7 | The Teal Album | 2016-11-12 | [🔗](https://open.spotify.com/album/7mTQ62MIYHSbkZHGjY0Ftg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | 516 | 7 | 6 | Carolina State of Mind | 2013-11-15 | [🔗](https://open.spotify.com/album/3zKusinRVxdC5s2wOPYBgX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b898e1af5571ea5402fdd764" alt="" width="50" /> | 581 | 7 | 5 | Bloodline | 2024-05-15 | [🔗](https://open.spotify.com/album/5XMETYH0wL2F3qDpWfVKzw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc82939fb76760e640d7edca" alt="" width="50" /> | 581 | 5 | 4 | Homeward | 2022-04-08 | [🔗](https://open.spotify.com/album/2FiDSelqVoi7VQfpmaMRJK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e7b975daf944ff0d1ffce056" alt="" width="50" /> | 422 | 4 | 0 | After the Light | 2023-08-18 | [🔗](https://open.spotify.com/album/5Q9k2sd9kFnmPEJjdsFIpV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e5d079704778dc9534c73a91" alt="" width="50" /> | 581 | 3 | 2 | MODERN ECSTASY | 2023-07-07 | [🔗](https://open.spotify.com/album/3EFIthm5Zjb7MfuXeDJb9A) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fdeffdb0cd2b8bb696319e8c" alt="" width="50" /> | 571 | 2 | 2 | Push to Start | 2023-04-03 | [🔗](https://open.spotify.com/album/4ggdFWPHn5rTdUrw4s46yS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322f75e45afe2febb7d3f4cac" alt="" width="50" /> | 581 | 2 | 2 | Immaterial | 2021-07-16 | [🔗](https://open.spotify.com/album/5YgtPHMCi4dGtL6JarEGkI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362f44cdb37183a309fc1032f" alt="" width="50" /> | 581 | 1 | 1 | G Train | 2019-11-22 | [🔗](https://open.spotify.com/album/0vmio1Hc8vrU7scyVa6BYK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e443608c9f1cf2fdb6c36d37" alt="" width="50" /> | 581 | 1 | 0 | Before He Cheats | 2019-10-22 | [🔗](https://open.spotify.com/album/7bndGIMX7IOBjG3J7O0BEQ) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -119,10 +119,10 @@ The Tarpeggios is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273e7b975daf944ff0d1ffce056" alt="" width="50" /> | Dawn FM | After the Light | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | 616 | | [🔗](https://open.spotify.com/track/4KWIpxAss4Pi8Bw3cQEmmZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | I See Fire | The Teal Album | [The Tarpeggios](overview.md) | The Unc - Chapel Hill Tarpeggios | 730 | 💚 | [🔗](https://open.spotify.com/track/4Mp2l1tCHxnm65a6yQ8lph) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Settle Down | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | 770 | 💚 | [🔗](https://open.spotify.com/track/2RGGnyqlJ65QcpA4FggZ2x) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fdeffdb0cd2b8bb696319e8c" alt="" width="50" /> | Flesh & Bone | Push to Start | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | 857 | 💚 | [🔗](https://open.spotify.com/track/07Y1FyOg5wP1AD46E0MSKC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e7b975daf944ff0d1ffce056" alt="" width="50" /> | Dawn FM | After the Light | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | 624 | | [🔗](https://open.spotify.com/track/4KWIpxAss4Pi8Bw3cQEmmZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | I See Fire | The Teal Album | [The Tarpeggios](overview.md) | The Unc - Chapel Hill Tarpeggios | 736 | 💚 | [🔗](https://open.spotify.com/track/4Mp2l1tCHxnm65a6yQ8lph) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Settle Down | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | 769 | 💚 | [🔗](https://open.spotify.com/track/2RGGnyqlJ65QcpA4FggZ2x) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fdeffdb0cd2b8bb696319e8c" alt="" width="50" /> | Flesh & Bone | Push to Start | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | 861 | 💚 | [🔗](https://open.spotify.com/track/07Y1FyOg5wP1AD46E0MSKC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Carolina State of Mind | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | 868 | 💚 | [🔗](https://open.spotify.com/track/60xweUiIfi93UhZEDN3DKY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Chariot | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | 868 | | [🔗](https://open.spotify.com/track/0of5rsasONYN34mx4rSgsn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Home | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | 868 | 💚 | [🔗](https://open.spotify.com/track/5EiVVKFfodbFiHTCFEB1i3) |

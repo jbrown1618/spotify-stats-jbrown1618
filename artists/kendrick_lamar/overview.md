@@ -14,23 +14,23 @@ Kendrick Lamar:
 - is also known as OKLAMA
 
 ## Artist Rank
-- The #279 artist overall
+- The #279 artist of all time
 
 ![Rank of Kendrick Lamar over time](../../images/artists/kendrick_lamar/rank_time_series.png)
 ## Top Albums
 
 
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | 3 | 3 | DAMN. | 2017-04-14 | [🔗](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | 2 | 2 | Mr. Morale & The Big Steppers | 2022-05-13 | [🔗](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737587213b1be294ac4000f648" alt="" width="50" /> | 1 | 1 | euphoria | 2024-04-30 | [🔗](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad" alt="" width="50" /> | 1 | 1 | Not Like Us | 2024-05-04 | [🔗](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888" alt="" width="50" /> | 1 | 1 | Black Panther The Album Music From And Inspired By | 2018-02-09 | [🔗](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797" alt="" width="50" /> | 1 | 0 | good kid, m.A.A.d city | 2012 | [🔗](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1" alt="" width="50" /> | 1 | 0 | To Pimp A Butterfly | 2015-03-16 | [🔗](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="" width="50" /> | 1 | 0 | Rap Or Go To The League | 2019-03-01 | [🔗](https://open.spotify.com/album/1BR69wIifGZUSimcuTjWVg) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="50" /> | 581 | 3 | 3 | DAMN. | 2017-04-14 | [🔗](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | 581 | 2 | 2 | Mr. Morale & The Big Steppers | 2022-05-13 | [🔗](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737587213b1be294ac4000f648" alt="" width="50" /> | 581 | 1 | 1 | euphoria | 2024-04-30 | [🔗](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad" alt="" width="50" /> | 581 | 1 | 1 | Not Like Us | 2024-05-04 | [🔗](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888" alt="" width="50" /> | 581 | 1 | 1 | Black Panther The Album Music From And Inspired By | 2018-02-09 | [🔗](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797" alt="" width="50" /> | 581 | 1 | 0 | good kid, m.A.A.d city | 2012 | [🔗](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1" alt="" width="50" /> | 581 | 1 | 0 | To Pimp A Butterfly | 2015-03-16 | [🔗](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="" width="50" /> | 581 | 1 | 0 | Rap Or Go To The League | 2019-03-01 | [🔗](https://open.spotify.com/album/1BR69wIifGZUSimcuTjWVg) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |

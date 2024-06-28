@@ -11,28 +11,28 @@ Appears as:
 
 ## Top Artists
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | 95 | 0 | [Ludwig van Beethoven](../../artists/ludwig_van_beethoven/overview.md) | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe9c2dcd7eb7f1247a61c6f07" alt="" width="50" /> | 80 | 0 | [Jerusalem Quartet](../../artists/jerusalem_quartet/overview.md) | [🔗](https://open.spotify.com/artist/7AnE8Jpu1vxLeXcs6OKYHE) |
-| <img src="https://i.scdn.co/image/c43ecd6580e240e4e1df1564de80bf7102727e44" alt="" width="50" /> | 71 | 0 | [Tokyo String Quartet](../../artists/tokyo_string_quartet/overview.md) | [🔗](https://open.spotify.com/artist/15G9RnBNBDCFUMANna2CvO) |
-| <img src="https://i.scdn.co/image/28f745db0a77d0e70db1c0be305f51b3478706aa" alt="" width="50" /> | 29 | 0 | Dmitri Shostakovich | [🔗](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | 11 | 0 | [Wolfgang Amadeus Mozart](../../artists/wolfgang_amadeus_mozart/overview.md) | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
-| <img src="https://i.scdn.co/image/f1cd0eea7fb3b75bfad16a10af1dc0dd0763efba" alt="" width="50" /> | 8 | 0 | Antonín Dvořák | [🔗](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770" alt="" width="50" /> | 8 | 0 | Veronika Hagen | [🔗](https://open.spotify.com/artist/3ijxXTal6hr7byhqZDdHsP) |
-| <img src="https://i.scdn.co/image/5e1155c852578ddf5d2cfea94ccb3a8a65efa882" alt="" width="50" /> | 4 | 0 | Claude Debussy | [🔗](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP) |
-| <img src="https://i.scdn.co/image/0d8f2b3e9ab748e7767fd31ff9386e06e5834e2b" alt="" width="50" /> | 4 | 0 | Maurice Ravel | [🔗](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb8c12cd9df2a39431b780065" alt="" width="50" /> | 3 | 0 | Gary Hoffman | [🔗](https://open.spotify.com/artist/7qcRbaIYVuOERS3KmB71GH) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | 400 | 95 | 0 | [Ludwig van Beethoven](../../artists/ludwig_van_beethoven/overview.md) | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe9c2dcd7eb7f1247a61c6f07" alt="" width="50" /> | 400 | 80 | 0 | [Jerusalem Quartet](../../artists/jerusalem_quartet/overview.md) | [🔗](https://open.spotify.com/artist/7AnE8Jpu1vxLeXcs6OKYHE) |
+| <img src="https://i.scdn.co/image/c43ecd6580e240e4e1df1564de80bf7102727e44" alt="" width="50" /> | 400 | 71 | 0 | [Tokyo String Quartet](../../artists/tokyo_string_quartet/overview.md) | [🔗](https://open.spotify.com/artist/15G9RnBNBDCFUMANna2CvO) |
+| <img src="https://i.scdn.co/image/28f745db0a77d0e70db1c0be305f51b3478706aa" alt="" width="50" /> | 400 | 29 | 0 | Dmitri Shostakovich | [🔗](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | 400 | 11 | 0 | [Wolfgang Amadeus Mozart](../../artists/wolfgang_amadeus_mozart/overview.md) | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
+| <img src="https://i.scdn.co/image/f1cd0eea7fb3b75bfad16a10af1dc0dd0763efba" alt="" width="50" /> | 400 | 8 | 0 | Antonín Dvořák | [🔗](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770" alt="" width="50" /> | 400 | 8 | 0 | Veronika Hagen | [🔗](https://open.spotify.com/artist/3ijxXTal6hr7byhqZDdHsP) |
+| <img src="https://i.scdn.co/image/5e1155c852578ddf5d2cfea94ccb3a8a65efa882" alt="" width="50" /> | 400 | 4 | 0 | Claude Debussy | [🔗](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP) |
+| <img src="https://i.scdn.co/image/0d8f2b3e9ab748e7767fd31ff9386e06e5834e2b" alt="" width="50" /> | 400 | 4 | 0 | Maurice Ravel | [🔗](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb8c12cd9df2a39431b780065" alt="" width="50" /> | 400 | 3 | 0 | Gary Hoffman | [🔗](https://open.spotify.com/artist/7qcRbaIYVuOERS3KmB71GH) |
 
 
 <details>
 <summary>See all 13 artists</summary>
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/914364be0f93ff2756c1352c2a2a5ae25ddb53cd" alt="" width="50" /> | 1 | 0 | Philippe Herreweghe | [🔗](https://open.spotify.com/artist/2ozcTa5tl8qhSbhJKM60I5) |
-| <img src="https://i.scdn.co/image/c8dc83d307c0a8c18ac505da6133bc37df4442a1" alt="" width="50" /> | 1 | 0 | Anton Bruckner | [🔗](https://open.spotify.com/artist/2bM3j1JQWBkmzuoZKu4zj2) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6e895483075f6e493f491476" alt="" width="50" /> | 1 | 0 | Collegium Vocale Gent | [🔗](https://open.spotify.com/artist/17BdLN9q8RRQQqyklLwac1) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/914364be0f93ff2756c1352c2a2a5ae25ddb53cd" alt="" width="50" /> | 400 | 1 | 0 | Philippe Herreweghe | [🔗](https://open.spotify.com/artist/2ozcTa5tl8qhSbhJKM60I5) |
+| <img src="https://i.scdn.co/image/c8dc83d307c0a8c18ac505da6133bc37df4442a1" alt="" width="50" /> | 400 | 1 | 0 | Anton Bruckner | [🔗](https://open.spotify.com/artist/2bM3j1JQWBkmzuoZKu4zj2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6e895483075f6e493f491476" alt="" width="50" /> | 400 | 1 | 0 | Collegium Vocale Gent | [🔗](https://open.spotify.com/artist/17BdLN9q8RRQQqyklLwac1) |
 
 </details>
 
@@ -41,15 +41,15 @@ Appears as:
 
 ## Top Albums
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="" width="50" /> | 71 | 0 | Beethoven: Complete String Quartets | 2010-10-12 | [🔗](https://open.spotify.com/album/4JhUG1lr4xztAcqyA0Jm3a) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="" width="50" /> | 29 | 0 | Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 & 11 | 2005 | [🔗](https://open.spotify.com/album/4V2YVRjysd08RF0GLRDDK7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="" width="50" /> | 24 | 0 | Beethoven: String Quartets, Op. 18 | 2015-08-31 | [🔗](https://open.spotify.com/album/37iUq5Dekt8uP5itTiVs2Q) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d9ef8e92370053b06f8c9ec" alt="" width="50" /> | 11 | 0 | Mozart: String Quartets Nos. 4, 17 & 22 | 2011-02-22 | [🔗](https://open.spotify.com/album/1PxALR0DTaTJPL6ByBK266) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770" alt="" width="50" /> | 8 | 0 | Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48 | 2018-01-19 | [🔗](https://open.spotify.com/album/02nUFvsdTaekp2QQalnE3N) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737cb0c702a8fd45bfd8358259" alt="" width="50" /> | 8 | 0 | Debussy & Ravel: String Quartets | 2018-05-25 | [🔗](https://open.spotify.com/album/77Eg2dHidrefgsS3GZ88nK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ddf2fb18947ce57d0005f626" alt="" width="50" /> | 1 | 0 | Bruckner: Mass in E Minor & Motets | 2002 | [🔗](https://open.spotify.com/album/13eAUvw0Ga3BBFsf6oxF46) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="" width="50" /> | 581 | 71 | 0 | Beethoven: Complete String Quartets | 2010-10-12 | [🔗](https://open.spotify.com/album/4JhUG1lr4xztAcqyA0Jm3a) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="" width="50" /> | 581 | 29 | 0 | Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 & 11 | 2005 | [🔗](https://open.spotify.com/album/4V2YVRjysd08RF0GLRDDK7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="" width="50" /> | 581 | 24 | 0 | Beethoven: String Quartets, Op. 18 | 2015-08-31 | [🔗](https://open.spotify.com/album/37iUq5Dekt8uP5itTiVs2Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d9ef8e92370053b06f8c9ec" alt="" width="50" /> | 581 | 11 | 0 | Mozart: String Quartets Nos. 4, 17 & 22 | 2011-02-22 | [🔗](https://open.spotify.com/album/1PxALR0DTaTJPL6ByBK266) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273040c78c4ed7f56a2a3d2a770" alt="" width="50" /> | 581 | 8 | 0 | Dvorak: String Quintet, Op. 97 & String Sextet, Op. 48 | 2018-01-19 | [🔗](https://open.spotify.com/album/02nUFvsdTaekp2QQalnE3N) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737cb0c702a8fd45bfd8358259" alt="" width="50" /> | 581 | 8 | 0 | Debussy & Ravel: String Quartets | 2018-05-25 | [🔗](https://open.spotify.com/album/77Eg2dHidrefgsS3GZ88nK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ddf2fb18947ce57d0005f626" alt="" width="50" /> | 581 | 1 | 0 | Bruckner: Mass in E Minor & Motets | 2002 | [🔗](https://open.spotify.com/album/13eAUvw0Ga3BBFsf6oxF46) |
 
 ![Bar chart of top 7 albums](../../images/labels/harmonia_mundi/albums.png)
 

@@ -18,21 +18,21 @@ OH MY GIRL:
 - has the subgroup OH MY GIRL BANHANA
 
 ## Artist Rank
-- The #88 artist overall
+- The #89 artist of all time
 
 ![Rank of OH MY GIRL over time](../../images/artists/oh_my_girl/rank_time_series.png)
 ## Top Tracks
 
 
-### Top tracks, aggregated
+### Top tracks of all time
 
 ![Track score ranking over time](../../images/artists/oh_my_girl/track_rank_time_series_score.png)
 
 
 <details>
-<summary>Top tracks of all time over time</summary>
+<summary>Top tracks of the last year over time</summary>
 
-![Line chart of top tracks of all time over time](../../images/artists/oh_my_girl/track_rank_time_series_long_term.png)
+![Line chart of top tracks of the last year over time](../../images/artists/oh_my_girl/track_rank_time_series_long_term.png)
 
 </details>
 
@@ -40,13 +40,13 @@ OH MY GIRL:
 
 ![Album ranking over time](../../images/artists/oh_my_girl/album_rank_time_series.png)
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | 2 | 2 | NONSTOP | 2020-04-27 | [🔗](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304d1fa0ab8be50437e6bad1d" alt="" width="50" /> | 2 | 2 | Dear OHMYGIRL | 2021-05-10 | [🔗](https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a60df50e5e461afae4ef105d" alt="" width="50" /> | 1 | 1 | THE FIFTH SEASON | 2019-05-08 | [🔗](https://open.spotify.com/album/7nRRZFQgQKQsXG7mQIuQPA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737700db620a3f0030fcfd078c" alt="" width="50" /> | 1 | 1 | CLOSER | 2015-10-08 | [🔗](https://open.spotify.com/album/08iyrLkLFP2ByBkqVhBls7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a994eb69242daf25e8730a72" alt="" width="50" /> | 1 | 0 | WINDY DAY | 2016 | [🔗](https://open.spotify.com/album/7coV2krimvobeWltmNvYeC) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | 124 | 2 | 2 | NONSTOP | 2020-04-27 | [🔗](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304d1fa0ab8be50437e6bad1d" alt="" width="50" /> | 581 | 2 | 2 | Dear OHMYGIRL | 2021-05-10 | [🔗](https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a60df50e5e461afae4ef105d" alt="" width="50" /> | 581 | 1 | 1 | THE FIFTH SEASON | 2019-05-08 | [🔗](https://open.spotify.com/album/7nRRZFQgQKQsXG7mQIuQPA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737700db620a3f0030fcfd078c" alt="" width="50" /> | 581 | 1 | 1 | CLOSER | 2015-10-08 | [🔗](https://open.spotify.com/album/08iyrLkLFP2ByBkqVhBls7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a994eb69242daf25e8730a72" alt="" width="50" /> | 581 | 1 | 0 | WINDY DAY | 2016 | [🔗](https://open.spotify.com/album/7coV2krimvobeWltmNvYeC) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |

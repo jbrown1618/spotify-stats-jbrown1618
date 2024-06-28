@@ -2,56 +2,56 @@
 
 ## Artists
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb616fc063b23c40fc8a91d885" alt="" width="50" /> | 5 | 0 | Pitch Slapped | [🔗](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb935384f680f653b00bc04c26" alt="" width="50" /> | 5 | 0 | Voices in Your Head | [🔗](https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd7125855c1ecfb7680363db7" alt="" width="50" /> | 4 | 0 | Ithacappella | [🔗](https://open.spotify.com/artist/5bPTIGQvxRNjr6wl9yyAct) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb38fb34aecda1243390324d36" alt="" width="50" /> | 2 | 0 | The Clef Hangers | [🔗](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb504c57086f85855719dba0e3" alt="" width="50" /> | 2 | 0 | Tufts Beelzebubs | [🔗](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736636b2b1728fb4848f73ff9c" alt="" width="50" /> | 2 | 0 | Tufts sQ! | [🔗](https://open.spotify.com/artist/21QIHECpmN2KwhpVhIWHpT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0bea976885fe37901bd14b0" alt="" width="50" /> | 2 | 0 | Vocal Spectrum | [🔗](https://open.spotify.com/artist/20nWuvMfCct9xv73hRYO7O) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273583e74176372c85d698af382" alt="" width="50" /> | 2 | 0 | The Virginia Sil'hooettes | [🔗](https://open.spotify.com/artist/0LKgClZwZKGhM5BkCzjfMX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb21e49fe089486042eea96c11" alt="" width="50" /> | 1 | 0 | Off The Beat | [🔗](https://open.spotify.com/artist/7aCUqnLkFEQd2FPL6RK1tW) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc410278aaec9e06eef2f8cbf" alt="" width="50" /> | 1 | 0 | UGA Noteworthy | [🔗](https://open.spotify.com/artist/6MyHz1OaVtj1w2y6JTu2u5) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb616fc063b23c40fc8a91d885" alt="" width="50" /> | 400 | 5 | 0 | Pitch Slapped | [🔗](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb935384f680f653b00bc04c26" alt="" width="50" /> | 400 | 5 | 0 | Voices in Your Head | [🔗](https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd7125855c1ecfb7680363db7" alt="" width="50" /> | 400 | 4 | 0 | Ithacappella | [🔗](https://open.spotify.com/artist/5bPTIGQvxRNjr6wl9yyAct) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb38fb34aecda1243390324d36" alt="" width="50" /> | 400 | 2 | 0 | The Clef Hangers | [🔗](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb504c57086f85855719dba0e3" alt="" width="50" /> | 400 | 2 | 0 | Tufts Beelzebubs | [🔗](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736636b2b1728fb4848f73ff9c" alt="" width="50" /> | 400 | 2 | 0 | Tufts sQ! | [🔗](https://open.spotify.com/artist/21QIHECpmN2KwhpVhIWHpT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0bea976885fe37901bd14b0" alt="" width="50" /> | 400 | 2 | 0 | Vocal Spectrum | [🔗](https://open.spotify.com/artist/20nWuvMfCct9xv73hRYO7O) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273583e74176372c85d698af382" alt="" width="50" /> | 400 | 2 | 0 | The Virginia Sil'hooettes | [🔗](https://open.spotify.com/artist/0LKgClZwZKGhM5BkCzjfMX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb21e49fe089486042eea96c11" alt="" width="50" /> | 400 | 1 | 0 | Off The Beat | [🔗](https://open.spotify.com/artist/7aCUqnLkFEQd2FPL6RK1tW) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc410278aaec9e06eef2f8cbf" alt="" width="50" /> | 400 | 1 | 0 | UGA Noteworthy | [🔗](https://open.spotify.com/artist/6MyHz1OaVtj1w2y6JTu2u5) |
 
 
 <details>
 <summary>View all</summary>
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb78999d4b6fb0847081e2f479" alt="" width="50" /> | 1 | 0 | SoCal VoCals | [🔗](https://open.spotify.com/artist/5L30XpwHG77eWCZtelTns9) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2d08d9641afbcd0d13f58127" alt="" width="50" /> | 1 | 0 | The Pitchforks | [🔗](https://open.spotify.com/artist/5IPABE7EhPLvUVsgM3dlZ8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733ffa98af2aa15cb4212e6a85" alt="" width="50" /> | 1 | 0 | The Back Row | [🔗](https://open.spotify.com/artist/5GaN9YyrJyPmJd6dALWhQh) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebed12016e0eb2c7d47357c136" alt="" width="50" /> | 1 | 0 | The Harmonics | [🔗](https://open.spotify.com/artist/528Rcthd9JqtIrlbrGKNsG) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb847c22c5a7d4683b66759a9e" alt="" width="50" /> | 1 | 0 | The Harvard-Radcliffe Veritones | [🔗](https://open.spotify.com/artist/4Zjdnr698SzQDAPMx4oxy0) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb09d710594c22bec0264abec0" alt="" width="50" /> | 1 | 0 | Low Key | [🔗](https://open.spotify.com/artist/3QiFLZnOapcbmh1onAoNBL) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb71d410aa92b2950f9d59e2bc" alt="" width="50" /> | 1 | 0 | University of Rochester Midnight Ramblers | [🔗](https://open.spotify.com/artist/2Tv49uvEsNJXUpuFL7HuKu) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb24e0bff37a949b7de92aa4eb" alt="" width="50" /> | 1 | 0 | The MIT Logarhythms | [🔗](https://open.spotify.com/artist/1jz5HCLwsDkpBYz80n9wbR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba3bc32b6443df62c9300facc" alt="" width="50" /> | 1 | 0 | Tufts Jackson Jills | [🔗](https://open.spotify.com/artist/1dUJZ0lbobmanl4W14h0a2) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb7ce03af93e9a65db82b92d8" alt="" width="50" /> | 1 | 0 | BYU Noteworthy | [🔗](https://open.spotify.com/artist/1ZknN7FbjjjMTmdU42OEeX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8473502784cc95117c269f23" alt="" width="50" /> | 1 | 0 | The Bostonians | [🔗](https://open.spotify.com/artist/0gW6hG0g7pVNbHgvmYwHDl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb075181955f5ee2a8606b9a95" alt="" width="50" /> | 1 | 0 | The Buffalo Chips | [🔗](https://open.spotify.com/artist/0IAZ8PiZ0KqdMd191HDJ8t) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb0f047d0539e01d8b6c71087" alt="" width="50" /> | 1 | 0 | N'Harmonics | [🔗](https://open.spotify.com/artist/02WQpZmto5LiTgoorLhpLK) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb78999d4b6fb0847081e2f479" alt="" width="50" /> | 400 | 1 | 0 | SoCal VoCals | [🔗](https://open.spotify.com/artist/5L30XpwHG77eWCZtelTns9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2d08d9641afbcd0d13f58127" alt="" width="50" /> | 400 | 1 | 0 | The Pitchforks | [🔗](https://open.spotify.com/artist/5IPABE7EhPLvUVsgM3dlZ8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733ffa98af2aa15cb4212e6a85" alt="" width="50" /> | 400 | 1 | 0 | The Back Row | [🔗](https://open.spotify.com/artist/5GaN9YyrJyPmJd6dALWhQh) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebed12016e0eb2c7d47357c136" alt="" width="50" /> | 400 | 1 | 0 | The Harmonics | [🔗](https://open.spotify.com/artist/528Rcthd9JqtIrlbrGKNsG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb847c22c5a7d4683b66759a9e" alt="" width="50" /> | 400 | 1 | 0 | The Harvard-Radcliffe Veritones | [🔗](https://open.spotify.com/artist/4Zjdnr698SzQDAPMx4oxy0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb09d710594c22bec0264abec0" alt="" width="50" /> | 400 | 1 | 0 | Low Key | [🔗](https://open.spotify.com/artist/3QiFLZnOapcbmh1onAoNBL) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb71d410aa92b2950f9d59e2bc" alt="" width="50" /> | 400 | 1 | 0 | University of Rochester Midnight Ramblers | [🔗](https://open.spotify.com/artist/2Tv49uvEsNJXUpuFL7HuKu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb24e0bff37a949b7de92aa4eb" alt="" width="50" /> | 400 | 1 | 0 | The MIT Logarhythms | [🔗](https://open.spotify.com/artist/1jz5HCLwsDkpBYz80n9wbR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba3bc32b6443df62c9300facc" alt="" width="50" /> | 400 | 1 | 0 | Tufts Jackson Jills | [🔗](https://open.spotify.com/artist/1dUJZ0lbobmanl4W14h0a2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb7ce03af93e9a65db82b92d8" alt="" width="50" /> | 400 | 1 | 0 | BYU Noteworthy | [🔗](https://open.spotify.com/artist/1ZknN7FbjjjMTmdU42OEeX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8473502784cc95117c269f23" alt="" width="50" /> | 400 | 1 | 0 | The Bostonians | [🔗](https://open.spotify.com/artist/0gW6hG0g7pVNbHgvmYwHDl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb075181955f5ee2a8606b9a95" alt="" width="50" /> | 400 | 1 | 0 | The Buffalo Chips | [🔗](https://open.spotify.com/artist/0IAZ8PiZ0KqdMd191HDJ8t) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb0f047d0539e01d8b6c71087" alt="" width="50" /> | 400 | 1 | 0 | N'Harmonics | [🔗](https://open.spotify.com/artist/02WQpZmto5LiTgoorLhpLK) |
 
 </details>
 
 
 ## Albums
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="" width="50" /> | 6 | 0 | BOCA 2010: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/3HSd3voAxPxS50UrfInBVJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="" width="50" /> | 6 | 0 | BOCA 2009: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/50WaSkL4pVvz9Crsca7oNV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="" width="50" /> | 6 | 0 | BOCA 2008: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/4Z0ju0i47UZ2Y4icq2f3wZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381514ee26162b9fed3c39be7" alt="" width="50" /> | 5 | 0 | Pitch Slapped - EP | 2011-04-08 | [🔗](https://open.spotify.com/album/5I08qbUSg8f48kenQs7Tg6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c8896f56a068816ef63165b" alt="" width="50" /> | 4 | 0 | Off the Hook | 2011-12-10 | [🔗](https://open.spotify.com/album/1wfYTTpHsGxvIjDwsPLAAC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="" width="50" /> | 4 | 0 | BOCA 2011: Best Of College A Cappella | 2011-01-11 | [🔗](https://open.spotify.com/album/27d96rqnXRtmrGBGHJzPBh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b7d3410c326df5c5af0179f6" alt="" width="50" /> | 3 | 0 | Songs for Padded Rooms | 2011-05-21 | [🔗](https://open.spotify.com/album/0h3bmbpSuD01ha1k52E1uz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273293ebd0a06cf2784113d4156" alt="" width="50" /> | 2 | 0 | Vocal Spectrum III | 2011-11-07 | [🔗](https://open.spotify.com/album/4F5N06bwpwxllsHAJh8Xn6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735a1783df13795d2db2599c7e" alt="" width="50" /> | 2 | 0 | I Used to Live Alone | 2011-05-21 | [🔗](https://open.spotify.com/album/0AmRRsaQVm5noeAB6LF8yA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273707302925a3cb0f9dbcc23f8" alt="" width="50" /> | 1 | 0 | House Rules | 2011-04-26 | [🔗](https://open.spotify.com/album/1fHxE6WZL6ouusBW4h9nE4) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="" width="50" /> | 581 | 6 | 0 | BOCA 2010: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/3HSd3voAxPxS50UrfInBVJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="" width="50" /> | 581 | 6 | 0 | BOCA 2009: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/50WaSkL4pVvz9Crsca7oNV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="" width="50" /> | 581 | 6 | 0 | BOCA 2008: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/4Z0ju0i47UZ2Y4icq2f3wZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381514ee26162b9fed3c39be7" alt="" width="50" /> | 581 | 5 | 0 | Pitch Slapped - EP | 2011-04-08 | [🔗](https://open.spotify.com/album/5I08qbUSg8f48kenQs7Tg6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c8896f56a068816ef63165b" alt="" width="50" /> | 581 | 4 | 0 | Off the Hook | 2011-12-10 | [🔗](https://open.spotify.com/album/1wfYTTpHsGxvIjDwsPLAAC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="" width="50" /> | 581 | 4 | 0 | BOCA 2011: Best Of College A Cappella | 2011-01-11 | [🔗](https://open.spotify.com/album/27d96rqnXRtmrGBGHJzPBh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b7d3410c326df5c5af0179f6" alt="" width="50" /> | 581 | 3 | 0 | Songs for Padded Rooms | 2011-05-21 | [🔗](https://open.spotify.com/album/0h3bmbpSuD01ha1k52E1uz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273293ebd0a06cf2784113d4156" alt="" width="50" /> | 581 | 2 | 0 | Vocal Spectrum III | 2011-11-07 | [🔗](https://open.spotify.com/album/4F5N06bwpwxllsHAJh8Xn6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a1783df13795d2db2599c7e" alt="" width="50" /> | 581 | 2 | 0 | I Used to Live Alone | 2011-05-21 | [🔗](https://open.spotify.com/album/0AmRRsaQVm5noeAB6LF8yA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273707302925a3cb0f9dbcc23f8" alt="" width="50" /> | 581 | 1 | 0 | House Rules | 2011-04-26 | [🔗](https://open.spotify.com/album/1fHxE6WZL6ouusBW4h9nE4) |
 
 ## Tracks
 

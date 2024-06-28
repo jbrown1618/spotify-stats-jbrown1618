@@ -21,22 +21,22 @@ ITZY:
 ITZY is currently:
 - The #8 artist of the last month
 - The #3 artist of the last 6 months
-- The #2 artist of all time
-- The #5 artist overall
+- The #2 artist of the last year
+- The #5 artist of all time
 
 ![Rank of ITZY over time](../../images/artists/itzy/rank_time_series.png)
 ## Top Tracks
 
 
-### Top tracks, aggregated
+### Top tracks of all time
 
 ![Track score ranking over time](../../images/artists/itzy/track_rank_time_series_score.png)
 
 
 <details>
-<summary>Top tracks of all time over time</summary>
+<summary>Top tracks of the last year over time</summary>
 
-![Line chart of top tracks of all time over time](../../images/artists/itzy/track_rank_time_series_long_term.png)
+![Line chart of top tracks of the last year over time](../../images/artists/itzy/track_rank_time_series_long_term.png)
 
 </details>
 
@@ -53,33 +53,33 @@ ITZY is currently:
 
 ![Album ranking over time](../../images/artists/itzy/album_rank_time_series.png)
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | 5 | 5 | BORN TO BE | 2024-01-08 | [🔗](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | 5 | 4 | KILL MY DOUBT | 2023-07-31 | [🔗](https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | 5 | 3 | GUESS WHO | 2021-04-30 | [🔗](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | 5 | 3 | CRAZY IN LOVE | 2021-09-24 | [🔗](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | 5 | 3 | CHECKMATE | 2022-07-15 | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | 4 | 0 | Not Shy (English Ver.) | 2021-01-22 | [🔗](https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | 3 | 2 | CHESHIRE | 2022-11-30 | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | 2 | 2 | Not Shy | 2020-08-17 | [🔗](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27323a426c84e07e245fd609d84" alt="" width="50" /> | 2 | 2 | Algorhythm | 2024-05-15 | [🔗](https://open.spotify.com/album/7ji7zKkvRlYOsu3ehctQRx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273682903728c049526580f0363" alt="" width="50" /> | 1 | 1 | Voltage | 2022-03-23 | [🔗](https://open.spotify.com/album/3MXVqfk9VG3B757nLlow0D) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | 7 | 5 | 5 | BORN TO BE | 2024-01-08 | [🔗](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | 74 | 5 | 4 | KILL MY DOUBT | 2023-07-31 | [🔗](https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | 256 | 5 | 3 | GUESS WHO | 2021-04-30 | [🔗](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | 10 | 5 | 3 | CRAZY IN LOVE | 2021-09-24 | [🔗](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | 547 | 5 | 3 | CHECKMATE | 2022-07-15 | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | 581 | 4 | 0 | Not Shy (English Ver.) | 2021-01-22 | [🔗](https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | 59 | 3 | 2 | CHESHIRE | 2022-11-30 | [🔗](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | 220 | 2 | 2 | Not Shy | 2020-08-17 | [🔗](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27323a426c84e07e245fd609d84" alt="" width="50" /> | 154 | 2 | 2 | Algorhythm | 2024-05-15 | [🔗](https://open.spotify.com/album/7ji7zKkvRlYOsu3ehctQRx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273682903728c049526580f0363" alt="" width="50" /> | 357 | 1 | 1 | Voltage | 2022-03-23 | [🔗](https://open.spotify.com/album/3MXVqfk9VG3B757nLlow0D) |
 
 
 <details>
 <summary>See all albums</summary>
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733091980300243c26b0404b76" alt="" width="50" /> | 1 | 1 | Street Dance Girls Fighter(SGF) Special | 2022-01-04 | [🔗](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bc615fe0e1b49a5283c47075" alt="" width="50" /> | 1 | 1 | RINGO | 2023-10-18 | [🔗](https://open.spotify.com/album/1kRAzoCTDLqwU6nX2I2Nmc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fc620c06721e90a534cc5dab" alt="" width="50" /> | 1 | 1 | IT'z ME | 2020-03-09 | [🔗](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731260c9a4d42b2615c9f67bb0" alt="" width="50" /> | 1 | 1 | IT'z ICY | 2019-07-29 | [🔗](https://open.spotify.com/album/5Xb03XAF2LoaMqbM38H9eB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27389a8fc641c956dc899c0b168" alt="" width="50" /> | 1 | 1 | IT'z Different | 2019-02-12 | [🔗](https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="" width="50" /> | 1 | 0 | In the morning (English Ver.) | 2021-05-14 | [🔗](https://open.spotify.com/album/1VbG3CJlf1cSVDibgiM3GM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="" width="50" /> | 1 | 0 | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | 2022-07-29 | [🔗](https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273afa3ff83579d3450ad73eaf8" alt="" width="50" /> | 1 | 0 | Blah Blah Blah | 2022-09-21 | [🔗](https://open.spotify.com/album/0KaoPehrtwhjQfae6XMd7B) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2733091980300243c26b0404b76" alt="" width="50" /> | 581 | 1 | 1 | Street Dance Girls Fighter(SGF) Special | 2022-01-04 | [🔗](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bc615fe0e1b49a5283c47075" alt="" width="50" /> | 192 | 1 | 1 | RINGO | 2023-10-18 | [🔗](https://open.spotify.com/album/1kRAzoCTDLqwU6nX2I2Nmc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc620c06721e90a534cc5dab" alt="" width="50" /> | 500 | 1 | 1 | IT'z ME | 2020-03-09 | [🔗](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731260c9a4d42b2615c9f67bb0" alt="" width="50" /> | 581 | 1 | 1 | IT'z ICY | 2019-07-29 | [🔗](https://open.spotify.com/album/5Xb03XAF2LoaMqbM38H9eB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389a8fc641c956dc899c0b168" alt="" width="50" /> | 425 | 1 | 1 | IT'z Different | 2019-02-12 | [🔗](https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="" width="50" /> | 581 | 1 | 0 | In the morning (English Ver.) | 2021-05-14 | [🔗](https://open.spotify.com/album/1VbG3CJlf1cSVDibgiM3GM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c960195315acacaaabf1271" alt="" width="50" /> | 581 | 1 | 0 | Break My Heart Myself (feat. YEJI & RYUJIN of ITZY) | 2022-07-29 | [🔗](https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273afa3ff83579d3450ad73eaf8" alt="" width="50" /> | 581 | 1 | 0 | Blah Blah Blah | 2022-09-21 | [🔗](https://open.spotify.com/album/0KaoPehrtwhjQfae6XMd7B) |
 
 </details>
 
@@ -94,11 +94,11 @@ ITZY is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022270d3bd1d13133edf0be836ab67616d00001e026017bca98dea58ceddea77c1ab67616d00001e02a0df2d59f0ae9426cba3eb36ab67616d00001e02cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 7 | [Cursed English](../../playlists/cursed_english/overview.md) |
 | <img src="https://wrapped-images.spotifycdn.com/image/yts-2023/default/your-top-songs-2023_DEFAULT_en.jpg" alt="" width="50" /> | 7 | [Your Top Songs 2023](../../playlists/your_top_songs_2023/overview.md) |
 | <img src="https://wrapped-images.spotifycdn.com/image/yts-2022/default/your-top-songs-2022_default_en.jpg" alt="" width="50" /> | 5 | [Your Top Songs 2022](../../playlists/your_top_songs_2022/overview.md) |
-| <img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg" alt="" width="50" /> | 4 | [On Repeat](../../playlists/on_repeat/overview.md) |
+| <img src="https://daily-mix.scdn.co/covers/backtracks/PZN_Repeat_Rewind2_DEFAULT-en.jpg" alt="" width="50" /> | 3 | [Repeat Rewind](../../playlists/repeat_rewind/overview.md) |
+| <img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg" alt="" width="50" /> | 2 | [On Repeat](../../playlists/on_repeat/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02830de2e836036f181df598d0ab67616d00001e02af2fda9fb591d43c355c2ac3ab67616d00001e02cc6f76f75551af499b5cd0cbab67616d00001e02da343b21617aac0c57e332bb" alt="" width="50" /> | 2 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e025f117dc77b6c36fba0ff9b1eab67616d00001e025f7540ea5cd0831b2c7e4ff9ab67616d00001e02c4230302ebdf58aef8873907ab67616d00001e02f42a976b1e82a3247873f929" alt="" width="50" /> | 2 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0220adea47ebd9e98d2e7d2247ab67616d00001e022ce067b763f6a4938cb8a501ab67616d00001e02583c60000e8abc8283853e10ab67616d00001e0273e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 2 | [K-Memes](../../playlists/k-memes/overview.md) |
-| <img src="https://daily-mix.scdn.co/covers/backtracks/PZN_Repeat_Rewind2_DEFAULT-en.jpg" alt="" width="50" /> | 1 | [Repeat Rewind](../../playlists/repeat_rewind/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e025c041fe9e3c9de436047d86bab67616d00001e02714e56679ab196354e2e443eab67616d00001e027a393b04e8ced571618223e8ab67616d00001e027dd8f95320e8ef08aa121dfe" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k-pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e023613e1e0d35867a0814005a9ab67616d00001e024a8e5eaab8b02db02e487c27ab67616d00001e0259fcda8d47bbd0f6c2bf1647ab67616d00001e028bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 1 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0282b88b49dd9a1b387cb3f0c6ab67616d00001e0293f60760427ff9cb94a5ba96ab67616d00001e02d2ef237da7f94762997c2083ab67616d00001e02e9cd59d664f597061a513038" alt="" width="50" /> | 1 | [Classical Samples](../../playlists/classical_samples/overview.md) |
@@ -214,7 +214,7 @@ ITZY is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | BORN TO BE | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 58 | 💚 | [🔗](https://open.spotify.com/track/45lXSvtDt6uKiGZIXB4LLF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Cheshire | CHESHIRE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 76 | 💚 | [🔗](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | CAKE | KILL MY DOUBT | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 106 | 💚 | [🔗](https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | UNTOUCHABLE | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 142 | 💚 | [🔗](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | UNTOUCHABLE | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 141 | 💚 | [🔗](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9cd59d664f597061a513038" alt="" width="50" /> | Snowy | CHESHIRE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 152 | 💚 | [🔗](https://open.spotify.com/track/1i0NAz5emJMbRWSkADMsL7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | Kill Shot | KILL MY DOUBT | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 158 | 💚 | [🔗](https://open.spotify.com/track/3i7Z0CI7QIwnU4MVL0XJB9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Run Away (RYUJIN) | BORN TO BE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 171 | 💚 | [🔗](https://open.spotify.com/track/4e94KIas5maH8RixY26LiN) |
@@ -227,20 +227,20 @@ ITZY is currently:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | BET ON ME | KILL MY DOUBT | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 202 | 💚 | [🔗](https://open.spotify.com/track/5BCPIye83pj24VjCzQuL5F) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27323a426c84e07e245fd609d84" alt="" width="50" /> | Algorhythm | Algorhythm | [ITZY](overview.md) | [WM Japan](../../labels/wm_japan) | 240 | 💚 | [🔗](https://open.spotify.com/track/47tYRja2sNmaF0tFFY3D2a) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27323a426c84e07e245fd609d84" alt="" width="50" /> | Algorhythm | Algorhythm | [ITZY](overview.md) | [WM Japan](../../labels/wm_japan) | 242 | 💚 | [🔗](https://open.spotify.com/track/47tYRja2sNmaF0tFFY3D2a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323a426c84e07e245fd609d84" alt="" width="50" /> | No Biggie | Algorhythm | [ITZY](overview.md) | [WM Japan](../../labels/wm_japan) | 243 | 💚 | [🔗](https://open.spotify.com/track/6ysaQMOAn1JNU0ab9IPtyP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bc615fe0e1b49a5283c47075" alt="" width="50" /> | RINGO | RINGO | [ITZY](overview.md) | [WM Japan](../../labels/wm_japan) | 264 | 💚 | [🔗](https://open.spotify.com/track/2zRz0XfYEtsHuVfrM8KaOP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Be In Love | Not Shy | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 317 | 💚 | [🔗](https://open.spotify.com/track/0FGeJSm4Iix7OdvjvENrwx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | In the morning | GUESS WHO | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 359 | 💚 | [🔗](https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | #Twenty | CRAZY IN LOVE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 436 | | [🔗](https://open.spotify.com/track/0deWmYkaZHaElUm15oVXkE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273682903728c049526580f0363" alt="" width="50" /> | Voltage | Voltage | [ITZY](overview.md) | [WM Japan](../../labels/wm_japan) | 515 | 💚 | [🔗](https://open.spotify.com/track/7e65OAe9L0xWPSHDiahjQe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Be In Love | Not Shy | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 318 | 💚 | [🔗](https://open.spotify.com/track/0FGeJSm4Iix7OdvjvENrwx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | In the morning | GUESS WHO | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 347 | 💚 | [🔗](https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | #Twenty | CRAZY IN LOVE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 435 | | [🔗](https://open.spotify.com/track/0deWmYkaZHaElUm15oVXkE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273682903728c049526580f0363" alt="" width="50" /> | Voltage | Voltage | [ITZY](overview.md) | [WM Japan](../../labels/wm_japan) | 518 | 💚 | [🔗](https://open.spotify.com/track/7e65OAe9L0xWPSHDiahjQe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | None of My Business | KILL MY DOUBT | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 585 | 💚 | [🔗](https://open.spotify.com/track/6iYfUvWNdKulAgX2TOhk5u) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27389a8fc641c956dc899c0b168" alt="" width="50" /> | DALLA DALLA | IT'z Different | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 628 | 💚 | [🔗](https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Not Shy | Not Shy | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 653 | 💚 | [🔗](https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | Bratty | KILL MY DOUBT | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 701 | | [🔗](https://open.spotify.com/track/5Z0gyPr6idyscwLribVpFH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389a8fc641c956dc899c0b168" alt="" width="50" /> | DALLA DALLA | IT'z Different | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 630 | 💚 | [🔗](https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Not Shy | Not Shy | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 657 | 💚 | [🔗](https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c2fcea217112b13312f8fb2" alt="" width="50" /> | Bratty | KILL MY DOUBT | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 702 | | [🔗](https://open.spotify.com/track/5Z0gyPr6idyscwLribVpFH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc620c06721e90a534cc5dab" alt="" width="50" /> | WANNABE | IT'z ME | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 747 | 💚 | [🔗](https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | Free Fall | CHECKMATE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 819 | 💚 | [🔗](https://open.spotify.com/track/3bW8vRr2qQwtmz46OEPZKk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | WHAT I WANT | CHECKMATE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 853 | 💚 | [🔗](https://open.spotify.com/track/28E5sYRuv2gpZPEdNAwMkE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | Free Fall | CHECKMATE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 822 | 💚 | [🔗](https://open.spotify.com/track/3bW8vRr2qQwtmz46OEPZKk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | WHAT I WANT | CHECKMATE | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 864 | 💚 | [🔗](https://open.spotify.com/track/28E5sYRuv2gpZPEdNAwMkE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731260c9a4d42b2615c9f67bb0" alt="" width="50" /> | ICY | IT'z ICY | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 868 | 💚 | [🔗](https://open.spotify.com/track/2vdkN2NSQ5mxqNGg7sJUxs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | DALLA DALLA - English Ver. | Not Shy (English Ver.) | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 868 | | [🔗](https://open.spotify.com/track/1tQMEpkJ6ayK5w9mtW3Tqv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | ICY - English Ver. | Not Shy (English Ver.) | [ITZY](overview.md) | [Republic Records](../../labels/republic_records) | 868 | | [🔗](https://open.spotify.com/track/0H76idYK173LwctmFntEdz) |

@@ -11,36 +11,36 @@ Appears as:
 
 ## Top Artists
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | 20 | 0 | [Wolfgang Amadeus Mozart](../../artists/wolfgang_amadeus_mozart/overview.md) | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
-| <img src="https://i.scdn.co/image/1dc8f4430bbf39a814e3413892c020122215924f" alt="" width="50" /> | 12 | 0 | Carmen Piazzini | [🔗](https://open.spotify.com/artist/6aQUOvrKLOquCAvIGdIwTx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a3096c4f027435226cdfd8e1" alt="" width="50" /> | 4 | 0 | Mikhail Gantvarg | [🔗](https://open.spotify.com/artist/1SCRjxxRnRFsoctLKXIoZx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a3096c4f027435226cdfd8e1" alt="" width="50" /> | 4 | 0 | The St. Petersburg Soloists | [🔗](https://open.spotify.com/artist/11K9yxwc8iVyEh0ya9v9XY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f0a64311563167d102b362d0" alt="" width="50" /> | 2 | 0 | Lou Monte | [🔗](https://open.spotify.com/artist/7dbKeVkihtOifdiu7f3rUg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e521a22d045d61b7c4f5898f" alt="" width="50" /> | 2 | 0 | Elisabeth Sombart | [🔗](https://open.spotify.com/artist/6pp4xqAWH1oHFQX0kJtVvO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732f022aaaaf1d12aa3461c78b" alt="" width="50" /> | 2 | 0 | Roberte Mamou | [🔗](https://open.spotify.com/artist/6DsbdauTI2Fn2NN4B1EIUN) |
-| <img src="https://i.scdn.co/image/7360142a8274b7d0487de1d1e4b176e6fc34c112" alt="" width="50" /> | 2 | 0 | Berliner Symphoniker | [🔗](https://open.spotify.com/artist/5pF76lplGIvEFGb8lI48hA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c9c75b24d53ba6a1df95ff3" alt="" width="50" /> | 2 | 0 | Gerard Oskamp | [🔗](https://open.spotify.com/artist/4TWzdKT6XMuddLAoj6PgXi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273156753578c852f7b694408db" alt="" width="50" /> | 2 | 0 | Munich Youth Orchestra | [🔗](https://open.spotify.com/artist/3jgBofW8eFrbtrsSbLy8Br) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7fa9108c6dadb8c3ec21da88" alt="" width="50" /> | 400 | 20 | 0 | [Wolfgang Amadeus Mozart](../../artists/wolfgang_amadeus_mozart/overview.md) | [🔗](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS) |
+| <img src="https://i.scdn.co/image/1dc8f4430bbf39a814e3413892c020122215924f" alt="" width="50" /> | 400 | 12 | 0 | Carmen Piazzini | [🔗](https://open.spotify.com/artist/6aQUOvrKLOquCAvIGdIwTx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a3096c4f027435226cdfd8e1" alt="" width="50" /> | 400 | 4 | 0 | Mikhail Gantvarg | [🔗](https://open.spotify.com/artist/1SCRjxxRnRFsoctLKXIoZx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a3096c4f027435226cdfd8e1" alt="" width="50" /> | 400 | 4 | 0 | The St. Petersburg Soloists | [🔗](https://open.spotify.com/artist/11K9yxwc8iVyEh0ya9v9XY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f0a64311563167d102b362d0" alt="" width="50" /> | 400 | 2 | 0 | Lou Monte | [🔗](https://open.spotify.com/artist/7dbKeVkihtOifdiu7f3rUg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e521a22d045d61b7c4f5898f" alt="" width="50" /> | 400 | 2 | 0 | Elisabeth Sombart | [🔗](https://open.spotify.com/artist/6pp4xqAWH1oHFQX0kJtVvO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f022aaaaf1d12aa3461c78b" alt="" width="50" /> | 400 | 2 | 0 | Roberte Mamou | [🔗](https://open.spotify.com/artist/6DsbdauTI2Fn2NN4B1EIUN) |
+| <img src="https://i.scdn.co/image/7360142a8274b7d0487de1d1e4b176e6fc34c112" alt="" width="50" /> | 400 | 2 | 0 | Berliner Symphoniker | [🔗](https://open.spotify.com/artist/5pF76lplGIvEFGb8lI48hA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c9c75b24d53ba6a1df95ff3" alt="" width="50" /> | 400 | 2 | 0 | Gerard Oskamp | [🔗](https://open.spotify.com/artist/4TWzdKT6XMuddLAoj6PgXi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273156753578c852f7b694408db" alt="" width="50" /> | 400 | 2 | 0 | Munich Youth Orchestra | [🔗](https://open.spotify.com/artist/3jgBofW8eFrbtrsSbLy8Br) |
 
 
 <details>
 <summary>See all 21 artists</summary>
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| | 2 | 0 | Jordi Mora | [🔗](https://open.spotify.com/artist/0bE9Z0z4cxaixqTRU2O5BA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e72e9d3ec09b350c5d0531a0" alt="" width="50" /> | 2 | 0 | Axel Gillison | [🔗](https://open.spotify.com/artist/05ukT24TP30K50Blikom8z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737e642d5abb467a88d79bc1ec" alt="" width="50" /> | 1 | 0 | Mostar Symphony Orchestra | [🔗](https://open.spotify.com/artist/70i7O3jytAajMDs0nV0Zbk) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb68060bb8c0b22952f9013901" alt="" width="50" /> | 1 | 0 | London Philharmonic Orchestra | [🔗](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731ed044b8b433c47ae4f6160a" alt="" width="50" /> | 1 | 0 | Joe Reisman's Orchestra and Chorus | [🔗](https://open.spotify.com/artist/2qkfMoOIz3BqLD91C1B09a) |
-| <img src="https://i.scdn.co/image/965d539c15af1d86ec4875f05ec21d32414c3e64" alt="" width="50" /> | 1 | 0 | Gabriel Fauré | [🔗](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO) |
-| <img src="https://i.scdn.co/image/280739f001dfa6cbd0c865f151b4ebd2270d8cdf" alt="" width="50" /> | 1 | 0 | David Parry | [🔗](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD) |
-| | 1 | 0 | Vestischen Chamber Orchestra | [🔗](https://open.spotify.com/artist/1m3ycS5catGCiLB0J5eKDG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737e642d5abb467a88d79bc1ec" alt="" width="50" /> | 1 | 0 | Ilmar Lapinsch | [🔗](https://open.spotify.com/artist/0dI3iXIxXjAtMkzZCsOVEg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738dd4042adcca6717a808428b" alt="" width="50" /> | 1 | 0 | Ratko Delorko | [🔗](https://open.spotify.com/artist/0E1sM06TDvSpGqNQBx8FV0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273732b6fb281de1f71f1f5f325" alt="" width="50" /> | 1 | 0 | Gints Berzins | [🔗](https://open.spotify.com/artist/0CqCB3JQz4h9k3qk74ihWT) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| | 400 | 2 | 0 | Jordi Mora | [🔗](https://open.spotify.com/artist/0bE9Z0z4cxaixqTRU2O5BA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e72e9d3ec09b350c5d0531a0" alt="" width="50" /> | 400 | 2 | 0 | Axel Gillison | [🔗](https://open.spotify.com/artist/05ukT24TP30K50Blikom8z) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737e642d5abb467a88d79bc1ec" alt="" width="50" /> | 400 | 1 | 0 | Mostar Symphony Orchestra | [🔗](https://open.spotify.com/artist/70i7O3jytAajMDs0nV0Zbk) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68060bb8c0b22952f9013901" alt="" width="50" /> | 400 | 1 | 0 | London Philharmonic Orchestra | [🔗](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ed044b8b433c47ae4f6160a" alt="" width="50" /> | 400 | 1 | 0 | Joe Reisman's Orchestra and Chorus | [🔗](https://open.spotify.com/artist/2qkfMoOIz3BqLD91C1B09a) |
+| <img src="https://i.scdn.co/image/965d539c15af1d86ec4875f05ec21d32414c3e64" alt="" width="50" /> | 400 | 1 | 0 | Gabriel Fauré | [🔗](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO) |
+| <img src="https://i.scdn.co/image/280739f001dfa6cbd0c865f151b4ebd2270d8cdf" alt="" width="50" /> | 400 | 1 | 0 | David Parry | [🔗](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD) |
+| | 400 | 1 | 0 | Vestischen Chamber Orchestra | [🔗](https://open.spotify.com/artist/1m3ycS5catGCiLB0J5eKDG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737e642d5abb467a88d79bc1ec" alt="" width="50" /> | 400 | 1 | 0 | Ilmar Lapinsch | [🔗](https://open.spotify.com/artist/0dI3iXIxXjAtMkzZCsOVEg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ab2fdac9bebbf79f3397a31f" alt="" width="50" /> | 400 | 1 | 0 | Ratko Delorko | [🔗](https://open.spotify.com/artist/0E1sM06TDvSpGqNQBx8FV0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273732b6fb281de1f71f1f5f325" alt="" width="50" /> | 400 | 1 | 0 | Gints Berzins | [🔗](https://open.spotify.com/artist/0CqCB3JQz4h9k3qk74ihWT) |
 
 </details>
 
@@ -49,12 +49,12 @@ Appears as:
 
 ## Top Albums
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | 20 | 0 | Mozart Piano Pieces | 2020-10-13 | [🔗](https://open.spotify.com/album/3AYEvo7R1gY4O5xJuMwy3U) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27376a42530f861aa187f3ac1c2" alt="" width="50" /> | 1 | 0 | Fauré Pavane | 2020-05-30 | [🔗](https://open.spotify.com/album/0FaQ2LW8NNG3YXYJXFikJF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fec199ea327123ad967a3946" alt="" width="50" /> | 1 | 0 | Fairytale of New York | 2017-11-24 | [🔗](https://open.spotify.com/album/1gknqNegsva4cyjTlrXDps) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27305be7d29c5441585390b580f" alt="" width="50" /> | 1 | 0 | Dominick the Donkey | 1960-01-01 | [🔗](https://open.spotify.com/album/45pkOGp28EtHgpp9ZTo1Ss) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273a78d6aa51909744b78778902" alt="" width="50" /> | 581 | 20 | 0 | Mozart Piano Pieces | 2020-10-13 | [🔗](https://open.spotify.com/album/3AYEvo7R1gY4O5xJuMwy3U) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27376a42530f861aa187f3ac1c2" alt="" width="50" /> | 581 | 1 | 0 | Fauré Pavane | 2020-05-30 | [🔗](https://open.spotify.com/album/0FaQ2LW8NNG3YXYJXFikJF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fec199ea327123ad967a3946" alt="" width="50" /> | 581 | 1 | 0 | Fairytale of New York | 2017-11-24 | [🔗](https://open.spotify.com/album/1gknqNegsva4cyjTlrXDps) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27305be7d29c5441585390b580f" alt="" width="50" /> | 581 | 1 | 0 | Dominick the Donkey | 1960-01-01 | [🔗](https://open.spotify.com/album/45pkOGp28EtHgpp9ZTo1Ss) |
 
 ![Bar chart of top 4 albums](../../images/labels/warner_music_group_-_x5_music_group/albums.png)
 

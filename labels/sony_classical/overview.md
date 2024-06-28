@@ -12,30 +12,30 @@ Appears as:
 
 ## Top Artists
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfb0fcd51414e7bbe85e00b6f" alt="" width="50" /> | 38 | 0 | Yo-Yo Ma | [🔗](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) |
-| <img src="https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88" alt="" width="50" /> | 36 | 0 | [Johann Sebastian Bach](../../artists/johann_sebastian_bach/overview.md) | [🔗](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb86b13e4d2e65ebf694384ef4" alt="" width="50" /> | 8 | 0 | John Williams | [🔗](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5a5d168879568c94e86c61aa" alt="" width="50" /> | 5 | 0 | [London Symphony Orchestra](../../artists/london_symphony_orchestra/overview.md) | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | 3 | 0 | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
-| <img src="https://i.scdn.co/image/9f3000f8b92afc7fae3b79f5e12ab2e652561a71" alt="" width="50" /> | 1 | 0 | Edgar Meyer | [🔗](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebabee00ff8d2e08f97d7d1ac7" alt="" width="50" /> | 1 | 0 | Boston Pops Orchestra | [🔗](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e1da96cf78b817984290312" alt="" width="50" /> | 1 | 0 | John Neal | [🔗](https://open.spotify.com/artist/5zMZofgPVYk9IVibwopcbY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27327167af8c348634b70c8a6d4" alt="" width="50" /> | 1 | 0 | Mike Love | [🔗](https://open.spotify.com/artist/5gr5OoQ4aQdJ3CqOr9v7Bt) |
-| <img src="https://i.scdn.co/image/ab6772690000c46ce57b6822e01e20944a690ab7" alt="" width="50" /> | 1 | 0 | Stuart Duncan | [🔗](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfb0fcd51414e7bbe85e00b6f" alt="" width="50" /> | 400 | 38 | 0 | Yo-Yo Ma | [🔗](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) |
+| <img src="https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88" alt="" width="50" /> | 400 | 36 | 0 | [Johann Sebastian Bach](../../artists/johann_sebastian_bach/overview.md) | [🔗](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb86b13e4d2e65ebf694384ef4" alt="" width="50" /> | 333 | 8 | 0 | John Williams | [🔗](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5a5d168879568c94e86c61aa" alt="" width="50" /> | 400 | 5 | 0 | [London Symphony Orchestra](../../artists/london_symphony_orchestra/overview.md) | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | 400 | 3 | 0 | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
+| <img src="https://i.scdn.co/image/9f3000f8b92afc7fae3b79f5e12ab2e652561a71" alt="" width="50" /> | 400 | 1 | 0 | Edgar Meyer | [🔗](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebabee00ff8d2e08f97d7d1ac7" alt="" width="50" /> | 400 | 1 | 0 | Boston Pops Orchestra | [🔗](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e1da96cf78b817984290312" alt="" width="50" /> | 400 | 1 | 0 | John Neal | [🔗](https://open.spotify.com/artist/5zMZofgPVYk9IVibwopcbY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27327167af8c348634b70c8a6d4" alt="" width="50" /> | 400 | 1 | 0 | Mike Love | [🔗](https://open.spotify.com/artist/5gr5OoQ4aQdJ3CqOr9v7Bt) |
+| <img src="https://i.scdn.co/image/ab6772690000c46ce57b6822e01e20944a690ab7" alt="" width="50" /> | 400 | 1 | 0 | Stuart Duncan | [🔗](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2) |
 
 
 <details>
 <summary>See all 15 artists</summary>
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5a6fd8ebc62d68a372d51516" alt="" width="50" /> | 1 | 0 | Andrew Lloyd Webber | [🔗](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) |
-| <img src="https://i.scdn.co/image/a832eaa4d4ff006a419610c2c5d37140efa00225" alt="" width="50" /> | 1 | 0 | Brian Wilson | [🔗](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) |
-| <img src="https://i.scdn.co/image/a1cac87495158db597c9faa75279cc3e30067c83" alt="" width="50" /> | 1 | 0 | Josquin des Prez | [🔗](https://open.spotify.com/artist/31f23hmZawdqgp0sECAzE8) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0075eabc8cb60f363e13d308" alt="" width="50" /> | 1 | 0 | Chris Thile | [🔗](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) |
-| <img src="https://i.scdn.co/image/f1658bc66d1f99ab6d118f26a2abaf7dc33a272f" alt="" width="50" /> | 1 | 0 | Itzhak Perlman | [🔗](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5a6fd8ebc62d68a372d51516" alt="" width="50" /> | 400 | 1 | 0 | Andrew Lloyd Webber | [🔗](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) |
+| <img src="https://i.scdn.co/image/a832eaa4d4ff006a419610c2c5d37140efa00225" alt="" width="50" /> | 400 | 1 | 0 | Brian Wilson | [🔗](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) |
+| <img src="https://i.scdn.co/image/a1cac87495158db597c9faa75279cc3e30067c83" alt="" width="50" /> | 400 | 1 | 0 | Josquin des Prez | [🔗](https://open.spotify.com/artist/31f23hmZawdqgp0sECAzE8) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0075eabc8cb60f363e13d308" alt="" width="50" /> | 400 | 1 | 0 | Chris Thile | [🔗](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) |
+| <img src="https://i.scdn.co/image/f1658bc66d1f99ab6d118f26a2abaf7dc33a272f" alt="" width="50" /> | 400 | 1 | 0 | Itzhak Perlman | [🔗](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA) |
 
 </details>
 
@@ -44,16 +44,16 @@ Appears as:
 
 ## Top Albums
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="" width="50" /> | 36 | 0 | Bach: Unaccompanied Cello Suites (Remastered) | 1983 | [🔗](https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27344d5ef063da6fc06df7b1bc1" alt="" width="50" /> | 3 | 0 | Star Wars Episode IV: A New Hope (Original Motion Picture Soundtrack) | 1997 | [🔗](https://open.spotify.com/album/39vpWS7vrC4Pz33bNafjva) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | 3 | 0 | Cappella | 2013 | [🔗](https://open.spotify.com/album/3n6JxpdWnHkazMCQxKK5qI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8bb8c6891b4a560666ba5d1" alt="" width="50" /> | 2 | 0 | John Williams - Greatest Hits 1969-1999 | 2014-08-18 | [🔗](https://open.spotify.com/album/3xeo92ykCYWfe32si3I6zF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d0c7d1fffbb3942ec80d057" alt="" width="50" /> | 1 | 0 | The Goat Rodeo Sessions | 2011-10-24 | [🔗](https://open.spotify.com/album/3P7xbl4YB4T73vWRHgcHMa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f50f647ba174da416dd9bce0" alt="" width="50" /> | 1 | 0 | Star Wars Episode V: The Empire Strikes Back (Original Motion Picture Soundtrack) | 1997 | [🔗](https://open.spotify.com/album/0a5t6HeElUsxiFrdocSlBM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e2811356da666a5da471ae9c" alt="" width="50" /> | 1 | 0 | Memoirs of a Geisha | 2005-11-22 | [🔗](https://open.spotify.com/album/4EstIlJ9P9TVBCOlvVLADj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273025f3a28e37aa2bf7bf3ac35" alt="" width="50" /> | 1 | 0 | John Williams & Steven Spielberg: The Ultimate Collection | 2017-03-17 | [🔗](https://open.spotify.com/album/2K9laKccwpVMQf2lJoVJVg) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273261feb89ee859b598bd34a97" alt="" width="50" /> | 581 | 36 | 0 | Bach: Unaccompanied Cello Suites (Remastered) | 1983 | [🔗](https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27344d5ef063da6fc06df7b1bc1" alt="" width="50" /> | 581 | 3 | 0 | Star Wars Episode IV: A New Hope (Original Motion Picture Soundtrack) | 1997 | [🔗](https://open.spotify.com/album/39vpWS7vrC4Pz33bNafjva) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731b1e0c91400cbd009b42fb9e" alt="" width="50" /> | 581 | 3 | 0 | Cappella | 2013 | [🔗](https://open.spotify.com/album/3n6JxpdWnHkazMCQxKK5qI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8bb8c6891b4a560666ba5d1" alt="" width="50" /> | 581 | 2 | 0 | John Williams - Greatest Hits 1969-1999 | 2014-08-18 | [🔗](https://open.spotify.com/album/3xeo92ykCYWfe32si3I6zF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d0c7d1fffbb3942ec80d057" alt="" width="50" /> | 581 | 1 | 0 | The Goat Rodeo Sessions | 2011-10-24 | [🔗](https://open.spotify.com/album/3P7xbl4YB4T73vWRHgcHMa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f50f647ba174da416dd9bce0" alt="" width="50" /> | 581 | 1 | 0 | Star Wars Episode V: The Empire Strikes Back (Original Motion Picture Soundtrack) | 1997 | [🔗](https://open.spotify.com/album/0a5t6HeElUsxiFrdocSlBM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e2811356da666a5da471ae9c" alt="" width="50" /> | 581 | 1 | 0 | Memoirs of a Geisha | 2005-11-22 | [🔗](https://open.spotify.com/album/4EstIlJ9P9TVBCOlvVLADj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273025f3a28e37aa2bf7bf3ac35" alt="" width="50" /> | 581 | 1 | 0 | John Williams & Steven Spielberg: The Ultimate Collection | 2017-03-17 | [🔗](https://open.spotify.com/album/2K9laKccwpVMQf2lJoVJVg) |
 
 ![Bar chart of top 8 albums](../../images/labels/sony_classical/albums.png)
 

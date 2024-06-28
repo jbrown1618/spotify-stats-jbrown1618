@@ -12,57 +12,57 @@ Appears as:
 
 ## Top Artists
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 17 | 9 | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a" alt="" width="50" /> | 5 | 2 | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
-| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | 2 | 2 | [The Who](../../artists/the_who/overview.md) | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb75ca1c0223fc450dfe3c1ec" alt="" width="50" /> | 1 | 1 | Gloria Gaynor | [🔗](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb173d69f77530d77a991984f" alt="" width="50" /> | 1 | 1 | Lauv | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb90c77d2ffb0fe10130f03230" alt="" width="50" /> | 1 | 1 | LANY | [🔗](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) |
-| <img src="https://i.scdn.co/image/ab6772690000c46c50e750d1aed632c37a450ffb" alt="" width="50" /> | 1 | 1 | Duffy | [🔗](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc5c0e1d109d8a876076187f1" alt="" width="50" /> | 1 | 1 | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcf5fb42825076ab99ff7a991" alt="" width="50" /> | 1 | 1 | Lipps Inc. | [🔗](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5a6fd8ebc62d68a372d51516" alt="" width="50" /> | 21 | 0 | Andrew Lloyd Webber | [🔗](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 111 | 17 | 9 | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a" alt="" width="50" /> | 400 | 5 | 2 | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
+| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | 313 | 2 | 2 | [The Who](../../artists/the_who/overview.md) | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb75ca1c0223fc450dfe3c1ec" alt="" width="50" /> | 400 | 1 | 1 | Gloria Gaynor | [🔗](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb173d69f77530d77a991984f" alt="" width="50" /> | 400 | 1 | 1 | Lauv | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb90c77d2ffb0fe10130f03230" alt="" width="50" /> | 400 | 1 | 1 | LANY | [🔗](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) |
+| <img src="https://i.scdn.co/image/ab6772690000c46c50e750d1aed632c37a450ffb" alt="" width="50" /> | 400 | 1 | 1 | Duffy | [🔗](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc5c0e1d109d8a876076187f1" alt="" width="50" /> | 400 | 1 | 1 | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcf5fb42825076ab99ff7a991" alt="" width="50" /> | 400 | 1 | 1 | Lipps Inc. | [🔗](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5a6fd8ebc62d68a372d51516" alt="" width="50" /> | 400 | 21 | 0 | Andrew Lloyd Webber | [🔗](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) |
 
 
 <details>
 <summary>See all 42 artists</summary>
 
-| Art | Tracks | 💚 | Artist | 🔗 |
-|:---|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | 21 | 0 | Phantom Of The Opera Original London Cast | [🔗](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba0bcf0e980853b55d4b2f392" alt="" width="50" /> | 14 | 0 | Sarah Brightman | [🔗](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) |
-| <img src="https://i.scdn.co/image/a9895067694a6b11db54520194cd62255fced01c" alt="" width="50" /> | 11 | 0 | Michael Crawford | [🔗](https://open.spotify.com/artist/5fRiVl9fyhUEZhcpMyIxUG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737fd79037c10ff7b23d65203c" alt="" width="50" /> | 11 | 0 | Steve Barton | [🔗](https://open.spotify.com/artist/1gEOIEK9jgpYvvG57BP0US) |
-| <img src="https://i.scdn.co/image/e8f69e48f7ae80c6247fda3bf03d6155ae0d7282" alt="" width="50" /> | 7 | 0 | Hugh Jackman | [🔗](https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2) |
-| <img src="https://i.scdn.co/image/2f27b88be41ed8e21e7db0cf192385c14736f8a0" alt="" width="50" /> | 5 | 0 | Eddie Redmayne | [🔗](https://open.spotify.com/artist/4EJP6Qhk6l18LumCcpEfLw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273170e79548d280867ef12742b" alt="" width="50" /> | 4 | 0 | Les Misérables Cast | [🔗](https://open.spotify.com/artist/71wy5iisVKXLZgoPxdFi8A) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0011a003b54943e02654e1f4" alt="" width="50" /> | 4 | 0 | Samantha Barks | [🔗](https://open.spotify.com/artist/4gOl5m9dY7IGAipqpul7GZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b9b9b8bf2a5275cf34a5350a" alt="" width="50" /> | 4 | 0 | Rosemary Ashe | [🔗](https://open.spotify.com/artist/3Oju6zkuJzum4svKeVhKiK) |
-| | 3 | 0 | Janet Devenish | [🔗](https://open.spotify.com/artist/7Ev9dg2zamUgQsRUp9DdRl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d64bc71c5b3f176aed9763fb" alt="" width="50" /> | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
-| | 3 | 0 | John Savident | [🔗](https://open.spotify.com/artist/2V0W4YzPCESOh86ss7D2QE) |
-| | 3 | 0 | Mary Millar | [🔗](https://open.spotify.com/artist/1SBvpcra5uod7N0rxJxa3J) |
-| <img src="https://i.scdn.co/image/09f4a0a499359540e40075f8e912d7c3e94bc4a6" alt="" width="50" /> | 3 | 0 | Anne Hathaway | [🔗](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fd99cfe06e210633ef8a9ed1" alt="" width="50" /> | 2 | 0 | Charles Hart | [🔗](https://open.spotify.com/artist/6IFUhDPbZkH4ytZZDiu0x4) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6acec8291c36c145b22df603" alt="" width="50" /> | 2 | 0 | Amanda Seyfried | [🔗](https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u) |
-| <img src="https://i.scdn.co/image/df24566326393b64a534f865986c77d6358fd728" alt="" width="50" /> | 2 | 0 | Russell Crowe | [🔗](https://open.spotify.com/artist/3YBIrJozn8fop4UYIt7wcV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a8f03cc6bd438ca8d306db" alt="" width="50" /> | 1 | 0 | Students | [🔗](https://open.spotify.com/artist/7oaoEBdRqHXfoiGYa55Atp) |
-| | 1 | 0 | Helena Bonham Carter | [🔗](https://open.spotify.com/artist/7gX22Ua3mEH2KXTCpIfoOP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fcbddbda90806eeb748831e8" alt="" width="50" /> | 1 | 0 | Aaron Tveit | [🔗](https://open.spotify.com/artist/68h2f0WXn4zEctSgNYozXx) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebdf01727aa674ddefa777797a" alt="" width="50" /> | 1 | 0 | Diplo | [🔗](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5e4949a1e3073b5a34b9d938" alt="" width="50" /> | 1 | 0 | RAYE | [🔗](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) |
-| | 1 | 0 | John Aron | [🔗](https://open.spotify.com/artist/5Hco9oOhEcTrU0hzzIkoF7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4d0c5a183b44073ca01dee0b" alt="" width="50" /> | 1 | 0 | Glass Animals | [🔗](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) |
-| <img src="https://i.scdn.co/image/8342768be08c1c9bf4af1d4584a103bcb3042704" alt="" width="50" /> | 1 | 0 | Colm Wilkinson | [🔗](https://open.spotify.com/artist/4hKV8PcRBaHZqBJjSn8OJE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb09b06c6e39518619ecd56ec5" alt="" width="50" /> | 1 | 0 | Jax Jones | [🔗](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9b328846dc38b0a620da1ce2" alt="" width="50" /> | 1 | 0 | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
-| | 1 | 0 | The Factory Girls | [🔗](https://open.spotify.com/artist/3h4B6ffpCQVSn3QSaTLBna) |
-| | 1 | 0 | Janos Kurucz | [🔗](https://open.spotify.com/artist/3MiTXPOmIgoJioulWki8dz) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb02a562ea6b1dc718394010ac" alt="" width="50" /> | 1 | 0 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-| | 1 | 0 | Sacha Baron Cohen | [🔗](https://open.spotify.com/artist/1JY6Dve5sex0urYQnbshM9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739399b7495e336ed307ab51b9" alt="" width="50" /> | 1 | 0 | Richard Stilgoe | [🔗](https://open.spotify.com/artist/17peneSLV6CavfRbQEACCu) |
+| Art | Rank | Tracks | 💚 | Artist | 🔗 |
+|:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | 400 | 21 | 0 | Phantom Of The Opera Original London Cast | [🔗](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba0bcf0e980853b55d4b2f392" alt="" width="50" /> | 400 | 14 | 0 | Sarah Brightman | [🔗](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) |
+| <img src="https://i.scdn.co/image/a9895067694a6b11db54520194cd62255fced01c" alt="" width="50" /> | 400 | 11 | 0 | Michael Crawford | [🔗](https://open.spotify.com/artist/5fRiVl9fyhUEZhcpMyIxUG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737fd79037c10ff7b23d65203c" alt="" width="50" /> | 400 | 11 | 0 | Steve Barton | [🔗](https://open.spotify.com/artist/1gEOIEK9jgpYvvG57BP0US) |
+| <img src="https://i.scdn.co/image/e8f69e48f7ae80c6247fda3bf03d6155ae0d7282" alt="" width="50" /> | 400 | 7 | 0 | Hugh Jackman | [🔗](https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2) |
+| <img src="https://i.scdn.co/image/2f27b88be41ed8e21e7db0cf192385c14736f8a0" alt="" width="50" /> | 400 | 5 | 0 | Eddie Redmayne | [🔗](https://open.spotify.com/artist/4EJP6Qhk6l18LumCcpEfLw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273170e79548d280867ef12742b" alt="" width="50" /> | 400 | 4 | 0 | Les Misérables Cast | [🔗](https://open.spotify.com/artist/71wy5iisVKXLZgoPxdFi8A) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0011a003b54943e02654e1f4" alt="" width="50" /> | 400 | 4 | 0 | Samantha Barks | [🔗](https://open.spotify.com/artist/4gOl5m9dY7IGAipqpul7GZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9b9b8bf2a5275cf34a5350a" alt="" width="50" /> | 400 | 4 | 0 | Rosemary Ashe | [🔗](https://open.spotify.com/artist/3Oju6zkuJzum4svKeVhKiK) |
+| | 400 | 3 | 0 | Janet Devenish | [🔗](https://open.spotify.com/artist/7Ev9dg2zamUgQsRUp9DdRl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d64bc71c5b3f176aed9763fb" alt="" width="50" /> | 400 | 3 | 0 | David Firth | [🔗](https://open.spotify.com/artist/4kjJU6zIfQi87yTWJMxJNw) |
+| | 400 | 3 | 0 | John Savident | [🔗](https://open.spotify.com/artist/2V0W4YzPCESOh86ss7D2QE) |
+| | 400 | 3 | 0 | Mary Millar | [🔗](https://open.spotify.com/artist/1SBvpcra5uod7N0rxJxa3J) |
+| <img src="https://i.scdn.co/image/09f4a0a499359540e40075f8e912d7c3e94bc4a6" alt="" width="50" /> | 400 | 3 | 0 | Anne Hathaway | [🔗](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fd99cfe06e210633ef8a9ed1" alt="" width="50" /> | 400 | 2 | 0 | Charles Hart | [🔗](https://open.spotify.com/artist/6IFUhDPbZkH4ytZZDiu0x4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6acec8291c36c145b22df603" alt="" width="50" /> | 400 | 2 | 0 | Amanda Seyfried | [🔗](https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u) |
+| <img src="https://i.scdn.co/image/df24566326393b64a534f865986c77d6358fd728" alt="" width="50" /> | 400 | 2 | 0 | Russell Crowe | [🔗](https://open.spotify.com/artist/3YBIrJozn8fop4UYIt7wcV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a8f03cc6bd438ca8d306db" alt="" width="50" /> | 400 | 1 | 0 | Students | [🔗](https://open.spotify.com/artist/7oaoEBdRqHXfoiGYa55Atp) |
+| | 400 | 1 | 0 | Helena Bonham Carter | [🔗](https://open.spotify.com/artist/7gX22Ua3mEH2KXTCpIfoOP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fcbddbda90806eeb748831e8" alt="" width="50" /> | 400 | 1 | 0 | Aaron Tveit | [🔗](https://open.spotify.com/artist/68h2f0WXn4zEctSgNYozXx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdf01727aa674ddefa777797a" alt="" width="50" /> | 400 | 1 | 0 | Diplo | [🔗](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5e4949a1e3073b5a34b9d938" alt="" width="50" /> | 400 | 1 | 0 | RAYE | [🔗](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) |
+| | 400 | 1 | 0 | John Aron | [🔗](https://open.spotify.com/artist/5Hco9oOhEcTrU0hzzIkoF7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4d0c5a183b44073ca01dee0b" alt="" width="50" /> | 400 | 1 | 0 | Glass Animals | [🔗](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) |
+| <img src="https://i.scdn.co/image/8342768be08c1c9bf4af1d4584a103bcb3042704" alt="" width="50" /> | 400 | 1 | 0 | Colm Wilkinson | [🔗](https://open.spotify.com/artist/4hKV8PcRBaHZqBJjSn8OJE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb09b06c6e39518619ecd56ec5" alt="" width="50" /> | 400 | 1 | 0 | Jax Jones | [🔗](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9b328846dc38b0a620da1ce2" alt="" width="50" /> | 400 | 1 | 0 | Snow Patrol | [🔗](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) |
+| | 400 | 1 | 0 | The Factory Girls | [🔗](https://open.spotify.com/artist/3h4B6ffpCQVSn3QSaTLBna) |
+| | 400 | 1 | 0 | Janos Kurucz | [🔗](https://open.spotify.com/artist/3MiTXPOmIgoJioulWki8dz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb02a562ea6b1dc718394010ac" alt="" width="50" /> | 2 | 1 | 0 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+| | 400 | 1 | 0 | Sacha Baron Cohen | [🔗](https://open.spotify.com/artist/1JY6Dve5sex0urYQnbshM9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739399b7495e336ed307ab51b9" alt="" width="50" /> | 400 | 1 | 0 | Richard Stilgoe | [🔗](https://open.spotify.com/artist/17peneSLV6CavfRbQEACCu) |
 
 </details>
 
@@ -71,37 +71,37 @@ Appears as:
 
 ## Top Albums
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | 21 | 0 | The Phantom Of The Opera | 1987-01-01 | [🔗](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | 17 | 0 | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | 2013-01-01 | [🔗](https://open.spotify.com/album/0I6Bl1dVB1hQsSoQF6KuTg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | 6 | 6 | Born To Die | 2012-01-30 | [🔗](https://open.spotify.com/album/4X8hAqIWpQyQks2yRhyqs4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | 3 | 1 | Ultraviolence (Deluxe) | 2014-01-01 | [🔗](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | 3 | 0 | Norman Fucking Rockwell! | 2019-08-30 | [🔗](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | 2 | 2 | Who's Next (Deluxe Edition) | 1971-08-14 | [🔗](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="" width="50" /> | 2 | 1 | Lust For Life | 2017-07-21 | [🔗](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27347aa67914674ad0dce5caa88" alt="" width="50" /> | 2 | 1 | Lights | 2011-01-01 | [🔗](https://open.spotify.com/album/3duZhvcaoqdNveQYXf9dMV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="" width="50" /> | 1 | 1 | Slow Grenade | 2020-06-30 | [🔗](https://open.spotify.com/album/15Zgvxqql6EPHE3NJlUt0R) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27387c95c59b33bdfdafc25a813" alt="" width="50" /> | 1 | 1 | Rockferry | 2008-01-01 | [🔗](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="" width="50" /> | 581 | 21 | 0 | The Phantom Of The Opera | 1987-01-01 | [🔗](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | 581 | 17 | 0 | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | 2013-01-01 | [🔗](https://open.spotify.com/album/0I6Bl1dVB1hQsSoQF6KuTg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | 234 | 6 | 6 | Born To Die | 2012-01-30 | [🔗](https://open.spotify.com/album/4X8hAqIWpQyQks2yRhyqs4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | 299 | 3 | 1 | Ultraviolence (Deluxe) | 2014-01-01 | [🔗](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | 581 | 3 | 0 | Norman Fucking Rockwell! | 2019-08-30 | [🔗](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | 581 | 2 | 2 | Who's Next (Deluxe Edition) | 1971-08-14 | [🔗](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="" width="50" /> | 581 | 2 | 1 | Lust For Life | 2017-07-21 | [🔗](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347aa67914674ad0dce5caa88" alt="" width="50" /> | 581 | 2 | 1 | Lights | 2011-01-01 | [🔗](https://open.spotify.com/album/3duZhvcaoqdNveQYXf9dMV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="" width="50" /> | 581 | 1 | 1 | Slow Grenade | 2020-06-30 | [🔗](https://open.spotify.com/album/15Zgvxqql6EPHE3NJlUt0R) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27387c95c59b33bdfdafc25a813" alt="" width="50" /> | 581 | 1 | 1 | Rockferry | 2008-01-01 | [🔗](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) |
 
 
 <details>
 <summary>See all 22 albums</summary>
 
-| Art | Tracks | 💚 | Album | Release Date | 🔗 |
-|:---|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a" alt="" width="50" /> | 1 | 1 | Paradise | 2012-11-09 | [🔗](https://open.spotify.com/album/1JnjcAIKQ9TSJFVFierTB8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a5296d028b3e255aec56fc3c" alt="" width="50" /> | 1 | 1 | Mouth To Mouth | 1979-11-01 | [🔗](https://open.spotify.com/album/1SMBOCE8CFqxr2EB92Asqh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c4dae9528b2a8408f463eb17" alt="" width="50" /> | 1 | 1 | Malibu Nights | 2018-10-05 | [🔗](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb4278cf3d557dc89ca80ad5" alt="" width="50" /> | 1 | 1 | Ivy To Roses (Mixtape) | 2019-01-18 | [🔗](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" alt="" width="50" /> | 1 | 1 | 20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor | 2000-01-01 | [🔗](https://open.spotify.com/album/2BU2SNYoIPtZvGEJckdIhx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="50" /> | 1 | 0 | Young And Beautiful | 2013-01-01 | [🔗](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731d883d3f10af481faa3c7e04" alt="" width="50" /> | 1 | 0 | You Don't Know Me | 2016-12-09 | [🔗](https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a" alt="" width="50" /> | 1 | 0 | Honeymoon | 2015-09-18 | [🔗](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="" width="50" /> | 1 | 0 | Eyes Open | 2006-01-01 | [🔗](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="" width="50" /> | 1 | 0 | Dreamland (+ Bonus Levels) | 2020-08-06 | [🔗](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="" width="50" /> | 1 | 0 | Delirium | 2015-11-13 | [🔗](https://open.spotify.com/album/4A43DyDoAVa1Fb8pq6Yejl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e689157967d6f852fc59a746" alt="" width="50" /> | 1 | 0 | Close To Me (Red Velvet Remix) | 2019-04-05 | [🔗](https://open.spotify.com/album/7dg5iqyFYqRQH7vtAG9VNf) |
+| Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
+|:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a" alt="" width="50" /> | 581 | 1 | 1 | Paradise | 2012-11-09 | [🔗](https://open.spotify.com/album/1JnjcAIKQ9TSJFVFierTB8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a5296d028b3e255aec56fc3c" alt="" width="50" /> | 581 | 1 | 1 | Mouth To Mouth | 1979-11-01 | [🔗](https://open.spotify.com/album/1SMBOCE8CFqxr2EB92Asqh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c4dae9528b2a8408f463eb17" alt="" width="50" /> | 581 | 1 | 1 | Malibu Nights | 2018-10-05 | [🔗](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb4278cf3d557dc89ca80ad5" alt="" width="50" /> | 581 | 1 | 1 | Ivy To Roses (Mixtape) | 2019-01-18 | [🔗](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" alt="" width="50" /> | 581 | 1 | 1 | 20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor | 2000-01-01 | [🔗](https://open.spotify.com/album/2BU2SNYoIPtZvGEJckdIhx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="50" /> | 581 | 1 | 0 | Young And Beautiful | 2013-01-01 | [🔗](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d883d3f10af481faa3c7e04" alt="" width="50" /> | 581 | 1 | 0 | You Don't Know Me | 2016-12-09 | [🔗](https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a" alt="" width="50" /> | 581 | 1 | 0 | Honeymoon | 2015-09-18 | [🔗](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f" alt="" width="50" /> | 581 | 1 | 0 | Eyes Open | 2006-01-01 | [🔗](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e495fb707973f3390850eea" alt="" width="50" /> | 581 | 1 | 0 | Dreamland (+ Bonus Levels) | 2020-08-06 | [🔗](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="" width="50" /> | 581 | 1 | 0 | Delirium | 2015-11-13 | [🔗](https://open.spotify.com/album/4A43DyDoAVa1Fb8pq6Yejl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e689157967d6f852fc59a746" alt="" width="50" /> | 581 | 1 | 0 | Close To Me (Red Velvet Remix) | 2019-04-05 | [🔗](https://open.spotify.com/album/7dg5iqyFYqRQH7vtAG9VNf) |
 
 </details>
 
@@ -226,8 +226,8 @@ Appears as:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | Shades Of Cool | Ultraviolence (Deluxe) | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [Polydor Records](.) | 411 | 💚 | [🔗](https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Off To The Races | Born To Die | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [Polydor Records](.) | 450 | 💚 | [🔗](https://open.spotify.com/track/7grzMnF1FHponm2aJBWj8E) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Summertime Sadness | Born To Die | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [Polydor Records](.) | 483 | 💚 | [🔗](https://open.spotify.com/track/4cKtn8Shw999egpwBmWQmp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Off To The Races | Born To Die | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [Polydor Records](.) | 451 | 💚 | [🔗](https://open.spotify.com/track/7grzMnF1FHponm2aJBWj8E) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Summertime Sadness | Born To Die | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [Polydor Records](.) | 484 | 💚 | [🔗](https://open.spotify.com/track/4cKtn8Shw999egpwBmWQmp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | Baba O'Riley | Who's Next (Deluxe Edition) | [The Who](../../artists/the_who/overview.md) | [Polydor Records](.) | 868 | 💚 | [🔗](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | Behind Blue Eyes | Who's Next (Deluxe Edition) | [The Who](../../artists/the_who/overview.md) | [Polydor Records](.) | 868 | 💚 | [🔗](https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5296d028b3e255aec56fc3c" alt="" width="50" /> | Funkytown | Mouth To Mouth | Lipps Inc. | [Polydor](.) | 868 | 💚 | [🔗](https://open.spotify.com/track/2XVQdI3m0giGxNrwUhV3yP) |
