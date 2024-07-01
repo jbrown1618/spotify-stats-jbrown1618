@@ -41,7 +41,7 @@ None
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 31 |
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 31 |
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 31 |
-| Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 85 |
+| Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 86 |
 | Moonlight | D-2 | Agust D | 0 | 1 | 73 |
 | Daechwita | D-2 | Agust D | 1 | 1 | 73 |
 | Burn It (feat. MAX) | D-2 | Agust D | 0 | 1 | 73 |
@@ -51,15 +51,19 @@ None
 | Strange (feat. RM) | D-2 | RM | 0 | 1 | 77 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 83 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 78 |
-| Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 51 |
+| FOREVER | FOREVER | BABYMONSTER | 0 | 0 | 74 |
+| Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 52 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 47 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 30 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 64 |
 | Underground | Artemis | Lindsey Stirling | 1 | 2 | 64 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 48 |
+| Sticky | Sticky | KISS OF LIFE | 0 | 0 | 68 |
+| Te Quiero | Sticky | KISS OF LIFE | 0 | 0 | 68 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 63 |
-| Sleep-walking | Prequel | Dreamcatcher | 1 | 2 | 57 |
+| Sleep-walking | Prequel | Dreamcatcher | 1 | 2 | 58 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 58 |
+| McNasty | McNasty | Jay Park | 0 | 0 | 65 |
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 67 |
 | Joker | Joker is Alive | Dalshabet | 1 | 0 | 30 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 0 | 0 | 71 |
@@ -99,7 +103,7 @@ None
 | Timshel | Sigh No More | Mumford & Sons | 0 | 1 | 70 |
 | Little Lion Man | Sigh No More | Mumford & Sons | 1 | 1 | 70 |
 | The Cave | Sigh No More | Mumford & Sons | 1 | 1 | 70 |
-| Star | [12:00] | LOONA | 1 | 2 | 54 |
+| Star | [12:00] | LOONA | 2 | 2 | 54 |
 | Why Not? | [12:00] | LOONA | 2 | 2 | 54 |
 | Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 54 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 52 |
@@ -114,7 +118,7 @@ None
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 25 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 75 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 78 |
-| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 58 |
+| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 65 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 60 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 72 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 73 |
