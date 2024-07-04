@@ -7,24 +7,24 @@
 | Arranger | 1 |
 | Lyricist | 1 |
 | Producer | 2 |
-| Songwriter | 13 |
+| Songwriter | 14 |
 | Vocal | 2 |
 
 ## Produces for Artists
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 25 | 12 | 12 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 25 | 13 | 13 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 
 ## Works with Producers
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Pdogg | [Pdogg](../pdogg/overview.md) | 10 |
-| 방시혁 | [방시혁 (Bang, Si-Hyuk)](../방시혁_(bang,_si-hyuk)/overview.md) | 7 |
+| Pdogg | [Pdogg](../pdogg/overview.md) | 11 |
+| 방시혁 | [방시혁 (Bang, Si-Hyuk)](../방시혁_(bang,_si-hyuk)/overview.md) | 8 |
 | SUGA | [SUGA](../suga/overview.md) | 6 |
-| j-hope | j-hope | 5 |
-| Supreme Boi | [Supreme Boi](../supreme_boi/overview.md) | 4 |
+| j-hope | j-hope | 6 |
+| Supreme Boi | [Supreme Boi](../supreme_boi/overview.md) | 5 |
 | Ali Tamposi | Ali Tamposi | 2 |
 | Jaycen Joshua | Jaycen Joshua | 2 |
 | Max Seaberg | Max Seaberg | 2 |

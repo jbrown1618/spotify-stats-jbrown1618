@@ -31,8 +31,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | Headbangeeeeerrrrr!!!!! (0.985) | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="Storm Front" width="50" /> | And So It Goes (0.0871) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | Gimme Chocolate!! (0.985) | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="The Nat King Cole Story" width="50" /> | Nature Boy (0.0895) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="Summer Magic - Summer Mini Album" width="50" /> | Hit That Drum (0.984) | <img src="https://i.scdn.co/image/ab67616d0000b2736fbd5300d0f51be963360367" alt="The Widow Knows E.P." width="50" /> | Used (0.0938) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e1fce3a6ca07216884d0937" alt="Tokyo Calling" width="50" /> | Tokyo Calling (0.984) | <img src="https://i.scdn.co/image/ab67616d0000b27388ab39d88260598e95ebf5f4" alt="Love, Ella" width="50" /> | Dream A Little Dream Of Me - Single Version (0.104) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | KARATE (0.982) | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | when the party's over (0.111) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a4581aef9b70d42d5346c215" alt="UNDEAD" width="50" /> | UNDEAD (0.984) | <img src="https://i.scdn.co/image/ab67616d0000b27388ab39d88260598e95ebf5f4" alt="Love, Ella" width="50" /> | Dream A Little Dream Of Me - Single Version (0.104) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e1fce3a6ca07216884d0937" alt="Tokyo Calling" width="50" /> | Tokyo Calling (0.984) | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | when the party's over (0.111) |
 
 ## Speechiness
 

@@ -15,7 +15,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="PLAY" width="50" /> | 200% (0.853) | <img src="https://i.scdn.co/image/ab67616d0000b273f46a83ded2dad7aa4b18fc84" alt="EXIT : E" width="50" /> | BABY BABY (0.534) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="Love Lee" width="50" /> | Fry’s Dream (0.845) | <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="KILL THIS LOVE" width="50" /> | Hope Not (0.556) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f35b8a6c03cc633f734bd8ac" alt="ME" width="50" /> | FLOWER (0.843) | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> | Ready For Love (0.568) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da2028348097f05b50319402" alt="FOREVER" width="50" /> | FOREVER (0.833) | <img src="https://i.scdn.co/image/ab67616d0000b2730d42834b296097a0136e97d3" alt="SEOULITE" width="50" /> | MISSING U (0.572) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="LALISA" width="50" /> | MONEY (0.831) | <img src="https://i.scdn.co/image/ab67616d0000b2730d42834b296097a0136e97d3" alt="SEOULITE" width="50" /> | MISSING U (0.572) |
 
 ## Energy
 
@@ -77,13 +77,13 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f2d10189a41c7345a5a0337" alt="To Anyone" width="50" /> | You and I (Park Bom) (0.0837) | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> | Shut Down (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="SAILING" width="50" /> | Whale (0.00351) | <img src="https://i.scdn.co/image/ab67616d0000b273b1e7b20382e9caa516b5a814" alt="2ND FULL ALBUM &#x27;REBOOT&#x27;" width="50" /> | BONA BONA (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e20e5c366b497518353497b0" alt="KILL THIS LOVE" width="50" /> | Kill This Love (0.00221) | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> | Typa Girl (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="SAILING" width="50" /> | FREEDOM (0.000966) | <img src="https://i.scdn.co/image/ab67616d0000b273da2028348097f05b50319402" alt="FOREVER" width="50" /> | FOREVER (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="LALISA" width="50" /> | LALISA (0.000784) | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> | Tally (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | How You Like That (0.000135) | <img src="https://i.scdn.co/image/ab67616d0000b273570f746ccc2c75af070da1e0" alt="SPRING" width="50" /> | How People Move (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | Pretty Savage (0.000122) | <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="THE SECOND STEP : CHAPTER ONE" width="50" /> | DARARI (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | Crazy Over You (0.000119) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="24℃" width="50" /> | NO ONE (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | Ice Cream (with Selena Gomez) (8.06e-05) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="24℃" width="50" /> | NO WAY (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="LALISA" width="50" /> | MONEY (6.12e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="RISE" width="50" /> | 눈,코,입 (Eyes, Nose, Lips) (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="SAILING" width="50" /> | FREEDOM (0.000966) | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> | Tally (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="LALISA" width="50" /> | LALISA (0.000784) | <img src="https://i.scdn.co/image/ab67616d0000b273570f746ccc2c75af070da1e0" alt="SPRING" width="50" /> | How People Move (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | How You Like That (0.000135) | <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="THE SECOND STEP : CHAPTER ONE" width="50" /> | DARARI (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | Pretty Savage (0.000122) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="24℃" width="50" /> | NO ONE (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | Crazy Over You (0.000119) | <img src="https://i.scdn.co/image/ab67616d0000b2732e1db30cc6d74a08a5e14274" alt="24℃" width="50" /> | NO WAY (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | Ice Cream (with Selena Gomez) (8.06e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="RISE" width="50" /> | 눈,코,입 (Eyes, Nose, Lips) (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="LALISA" width="50" /> | MONEY (6.12e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc" alt="SQUARE ONE" width="50" /> | BOOMBAYAH (0.0) |
 
 ## Liveness
 

@@ -5,29 +5,29 @@
 | Credit Type | Tracks |
 |:---|---:|
 | Lyricist | 6 |
-| Songwriter | 17 |
+| Songwriter | 18 |
 
 ## Produces for Artists
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 25 | 9 | 9 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="" width="50" /> | 25 | 10 | 10 | [BTS](../../artists/bts/overview.md) | [🔗](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb73f96bdf146d008680149954" alt="" width="50" /> | 15 | 7 | 7 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 
 ## Works with Producers
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Pdogg | [Pdogg](../pdogg/overview.md) | 9 |
-| Supreme Boi | [Supreme Boi](../supreme_boi/overview.md) | 9 |
-| RM | [RM](../rm/overview.md) | 7 |
+| Supreme Boi | [Supreme Boi](../supreme_boi/overview.md) | 10 |
+| Pdogg | [Pdogg](../pdogg/overview.md) | 10 |
+| RM | [RM](../rm/overview.md) | 8 |
 | 김병석 | [김병석 (Kim, Byung-seok)](../김병석_(kim,_byung-seok)/overview.md) | 7 |
 | SCORE | [SCORE](../score/overview.md) | 7 |
 | 13 | 13 | 6 |
+| SUGA | [SUGA](../suga/overview.md) | 4 |
 | danke | [danke](../danke/overview.md) | 4 |
 | 황민희 | 황민희 (Hwang, Min-hee) | 4 |
 | 이연수 | 이연수 (Lee, Yeon-soo) | 4 |
-| SUGA | [SUGA](../suga/overview.md) | 4 |
 
 
 <details>
@@ -35,14 +35,14 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Paulina Cerrilla | Paulina Cerrilla | 3 |
-| 김준혁 | 김준혁 (Kim Joonhyuk) | 3 |
-| j-hope | j-hope | 3 |
+| j-hope | j-hope | 4 |
 | Kyler Niko | Kyler Niko | 3 |
+| 김준혁 | 김준혁 (Kim Joonhyuk) | 3 |
+| Paulina Cerrilla | Paulina Cerrilla | 3 |
 | HUH YUNJIN | HUH YUNJIN | 3 |
 | BLVSH | BLVSH | 2 |
-| Daniel "Obi" Klein | Daniel "Obi" Klein | 2 |
 | JARO | JARO | 2 |
+| Daniel "Obi" Klein | Daniel "Obi" Klein | 2 |
 | 김영현 | 김영현 (Kim, Young-hyun) | 2 |
 | Tony Maserati | [Tony Maserati](../tony_maserati/overview.md) | 2 |
 | 이형석 | 이형석 (Lee, Hyung-seok) | 2 |

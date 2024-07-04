@@ -23,7 +23,7 @@ None
 | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": I. Allegro non molto | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
 | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": III. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
 | Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": III. Allegro (Danza pastorale) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
-| Violin Concerto in G Minor, Op. 8, No. 2, RV 315 "L'estate": III. Presto (Tempo impetuoso d'estate) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
+| Violin Concerto in G Minor, Op. 8, No. 2, RV 315 "L'estate": III. Presto (Tempo impetuoso d'estate) | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 40 |
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
 | Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": I. Allegro non molto - Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
 | Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": II. Adagio - Presto - Adagio | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
@@ -51,24 +51,20 @@ None
 | Strange (feat. RM) | D-2 | RM | 0 | 1 | 77 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 83 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 78 |
-| FOREVER | FOREVER | BABYMONSTER | 0 | 0 | 74 |
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 52 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 47 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 30 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 64 |
-| Underground | Artemis | Lindsey Stirling | 1 | 2 | 64 |
+| Underground | Artemis | Lindsey Stirling | 1 | 1 | 64 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 48 |
-| Sticky | Sticky | KISS OF LIFE | 0 | 0 | 68 |
-| Te Quiero | Sticky | KISS OF LIFE | 0 | 0 | 68 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 63 |
 | Sleep-walking | Prequel | Dreamcatcher | 1 | 2 | 58 |
+| Hot Mess | Hot Mess | aespa | 0 | 0 | 80 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 58 |
-| McNasty | McNasty | Jay Park | 0 | 0 | 65 |
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 67 |
 | Joker | Joker is Alive | Dalshabet | 1 | 0 | 30 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 0 | 0 | 71 |
-| Nothing Else Matters | Metallica | Metallica | 1 | 2 | 81 |
-| Enter Sandman | Metallica | Metallica | 2 | 2 | 81 |
+| Nothing Else Matters | Metallica | Metallica | 1 | 2 | 82 |
 | Wings | Wings | PIXY | 0 | 0 | 36 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 37 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 37 |
@@ -79,7 +75,7 @@ None
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 31 |
 | Drink It | Drink It | THE BOYZ | 0 | 0 | 57 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 50 |
-| Think About Things | Think About Things | Daði Freyr | 0 | 0 | 50 |
+| Think About Things | Think About Things | Daði Freyr | 1 | 0 | 50 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 50 |
 | I Want To Break Free | The Works | Queen | 0 | 0 | 84 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 84 |
@@ -115,20 +111,21 @@ None
 | Just Right | Just Right | GOT7 | 0 | 0 | 58 |
 | If You Do | MAD | GOT7 | 0 | 0 | 58 |
 | You Calling My Name | Call My Name | GOT7 | 0 | 0 | 58 |
+| Flowers - Cover | Flowers (Cover) | YUQI | 0 | 0 | 62 |
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 25 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 75 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 78 |
-| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 65 |
+| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 71 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 60 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 72 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 73 |
 | Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 64 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 72 |
-| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 77 |
+| Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 78 |
 | I Do | It's Raining | Rain | 0 | 0 | 44 |
 | It′s Raining | It's Raining | Rain | 0 | 0 | 44 |
 | Super Bass | Pink Friday | Nicki Minaj | 1 | 0 | 85 |
-| Slide Away | Slide Away | Miley Cyrus | 2 | 0 | 82 |
+| Slide Away | Slide Away | Miley Cyrus | 2 | 0 | 83 |
 | Miku | Miku | Anamanaguchi | 0 | 0 | 51 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 42 |
 | Heartbeat | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) | SURAN | 2 | 0 | 49 |

@@ -234,14 +234,12 @@ spotify:artist:0XATRDCYuuGhk0oE7C0o5G,k-pop girl group
 spotify:artist:0XIKGBo9PnK1ApI5tZA60d,pop r&b
 spotify:artist:0XIKGBo9PnK1ApI5tZA60d,r&b
 spotify:artist:0XIKGBo9PnK1ApI5tZA60d,rap latina
-spotify:artist:0XufO9nLOKNN0w0qNrDrZy,5th gen k-pop
 spotify:artist:0Y2AcMPMpeuPXtPQGVvRBq,korean trap
 spotify:artist:0YrtvWJMgSdVrk3SfNjTbx,alternative rock
 spotify:artist:0YrtvWJMgSdVrk3SfNjTbx,canadian indie
 spotify:artist:0YrtvWJMgSdVrk3SfNjTbx,chamber pop
 spotify:artist:0YrtvWJMgSdVrk3SfNjTbx,indie rock
 spotify:artist:0YrtvWJMgSdVrk3SfNjTbx,indietronica
-spotify:artist:0YrtvWJMgSdVrk3SfNjTbx,modern alternative rock
 spotify:artist:0YrtvWJMgSdVrk3SfNjTbx,modern rock
 spotify:artist:0YrtvWJMgSdVrk3SfNjTbx,seattle indie
 spotify:artist:0YrtvWJMgSdVrk3SfNjTbx,washington indie
@@ -668,7 +666,6 @@ spotify:artist:1eTft3tXynrKdo6XD7QHLL,k-pop
 spotify:artist:1fWUcRSok57yRm8gPKj1Fc,k-pop
 spotify:artist:1fWUcRSok57yRm8gPKj1Fc,k-pop boy group
 spotify:artist:1fqMjreaczGwFmdmG6AvJs,a cappella
-spotify:artist:1gBUSTR3TyDdTVFIaQnc02,k-pop
 spotify:artist:1gBUSTR3TyDdTVFIaQnc02,k-pop boy group
 spotify:artist:1gEOIEK9jgpYvvG57BP0US,german show tunes
 spotify:artist:1hro5WQTcOb7fRCEUQEZtK,french orchestra
@@ -796,11 +793,13 @@ spotify:artist:21UPYSRWFKwtqvSAnFnSvS,alternative r&b
 spotify:artist:21UPYSRWFKwtqvSAnFnSvS,ghanaian alternative
 spotify:artist:21UPYSRWFKwtqvSAnFnSvS,ghanaian pop
 spotify:artist:21v1APtcWJHRmeKdBRVbYs,a cappella
+spotify:artist:22aCD8IrQZjcPgZw728QT6,5th gen k-pop
 spotify:artist:22bE4uQ6baNwSHPVcDxLCe,album rock
 spotify:artist:22bE4uQ6baNwSHPVcDxLCe,british invasion
 spotify:artist:22bE4uQ6baNwSHPVcDxLCe,classic rock
 spotify:artist:22bE4uQ6baNwSHPVcDxLCe,rock
 spotify:artist:235C4ktJ2aGIyqaBlXyg7e,children's choir
+spotify:artist:235C4ktJ2aGIyqaBlXyg7e,operatic pop
 spotify:artist:23zg3TcAtWQy7J6upgbUnj,atl hip hop
 spotify:artist:23zg3TcAtWQy7J6upgbUnj,contemporary r&b
 spotify:artist:23zg3TcAtWQy7J6upgbUnj,dance pop
@@ -1063,6 +1062,7 @@ spotify:artist:2cADQgiLMjNhbsfeN52Bf3,battle rap
 spotify:artist:2cADQgiLMjNhbsfeN52Bf3,dirty south rap
 spotify:artist:2cADQgiLMjNhbsfeN52Bf3,southern hip hop
 spotify:artist:2cADQgiLMjNhbsfeN52Bf3,trap
+spotify:artist:2cevwbv7ISD92VMNLYLHZA,canadian indie
 spotify:artist:2cevwbv7ISD92VMNLYLHZA,chamber pop
 spotify:artist:2cevwbv7ISD92VMNLYLHZA,funktronica
 spotify:artist:2cevwbv7ISD92VMNLYLHZA,indie pop
@@ -2147,7 +2147,6 @@ spotify:artist:5ITJs06INM9JWxK5hROEj3,operatic pop
 spotify:artist:5JZ7CnR6gTvEMKX4g70Amv,pop
 spotify:artist:5K0rbdBrs2tNXe5LeWMATT,funk
 spotify:artist:5K0rbdBrs2tNXe5LeWMATT,p funk
-spotify:artist:5K0rbdBrs2tNXe5LeWMATT,quiet storm
 spotify:artist:5K0rbdBrs2tNXe5LeWMATT,soul
 spotify:artist:5K4W6rqBFWDnAN6FQUkS6x,chicago rap
 spotify:artist:5K4W6rqBFWDnAN6FQUkS6x,hip hop
@@ -2314,6 +2313,7 @@ spotify:artist:5iRPbkcPmqAFFwDUj6ywVS,k-pop boy group
 spotify:artist:5ixB75BQR3ADoWQkcHQJTs,classic oklahoma country
 spotify:artist:5ixB75BQR3ADoWQkcHQJTs,cowboy western
 spotify:artist:5ixB75BQR3ADoWQkcHQJTs,traditional country
+spotify:artist:5ixB75BQR3ADoWQkcHQJTs,western swing
 spotify:artist:5ixB75BQR3ADoWQkcHQJTs,yodeling
 spotify:artist:5j28H9tWwW4RlMNKyrONCV,college a cappella
 spotify:artist:5j4HeCoUlzhfWtjAfM1acR,belgian pop
@@ -3101,7 +3101,6 @@ spotify:artist:7lbSsjYACZHn1MSDXPxNF2,japanese singer-songwriter
 spotify:artist:7ltDVBr6mKbRvohxheJ9h1,pop
 spotify:artist:7ltDVBr6mKbRvohxheJ9h1,r&b en espanol
 spotify:artist:7mOe6jfxX9EILXET9l5L6H,german classical piano
-spotify:artist:7mgY992t7YTx6UELsoIMRa,k-pop girl group
 spotify:artist:7mvhRvEAHiCTQHUnH7fgnv,japanese electropop
 spotify:artist:7n2Ycct7Beij7Dj7meI4X0,k-pop
 spotify:artist:7n2Ycct7Beij7Dj7meI4X0,k-pop girl group
