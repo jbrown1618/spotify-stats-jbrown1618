@@ -196,6 +196,7 @@ recording_mbid,recording_title,recording_language
 1a774967-444d-42de-aa65-b6160d1205e4,Unholy,eng
 1a85bc61-b4e8-4f52-ac4d-ea0a4e6aa12a,Penny Lane,eng
 1a8b5f7c-58ed-4757-a8d3-47bf7f77a32f,Sweet Child o’ Mine,eng
+1aa57ecc-08b6-4991-b9d1-b36990ced4fe,어리고 부끄럽고 바보 같은,
 1aad39f0-00ab-4e0e-a3f8-31e623cf4b44,Cupid,kor
 1ab009f2-d713-4f85-b4a3-c383c344e24a,Watermelon Sugar,eng
 1aea1980-37a8-41b2-bb78-526c94bb428d,Carry On Wayward Son,eng
@@ -238,6 +239,7 @@ recording_mbid,recording_title,recording_language
 20655d93-c325-4825-9018-50fa1b54bf77,What a Wonderful World,eng
 2070aff4-5a79-4772-b08e-254a0832eb64,Like Crazy,
 207484bc-0585-4202-bb94-78c1156278b6,MY BAG,
+20782b2d-4a8f-42dd-8e32-7dd86bce2173,golden hour,eng
 208acc00-cd2e-4933-a58a-14b32d9aa503,Odd Eye,mul
 20919a48-4ad5-409c-b639-8db7ca9f9e7a,Fix You,eng
 209846a7-235b-4223-98e9-990e0873344f,Love Arcade,
@@ -532,6 +534,7 @@ recording_mbid,recording_title,recording_language
 4952857d-5834-466b-9f92-46328376da76,NO PROBLEM,eng
 4967326c-38e5-4d49-8744-0b788e4eaad0,FREAK,
 4976bc58-cf5b-4b05-8d6b-a6832e9882dc,FIRE,jpn
+49b54ce1-cc75-4f66-ba62-282c5f76a8e9,Sunflower,
 49c8f770-507e-424c-a1a8-247763225e52,Caroline,
 49cb34a2-07c6-4d00-a12d-03708038efc5,스트레스 (Stress),
 49e6cd1d-22da-4428-a5a5-fb84cd16f9f9,Way Back Home,
@@ -659,6 +662,7 @@ recording_mbid,recording_title,recording_language
 5aa053a9-5b84-418f-bb3c-d61df67b3880,Bye Bye Bye,eng
 5ac03463-75a7-412b-ba7d-29d0fa422271,My Life,eng
 5b17f832-1928-414b-bbc0-d97f0e62ca57,Given-Taken,
+5b2e8994-f2cb-48c3-b5d3-e7d4351f7a9e,Babydoll,eng
 5b46a573-b0f9-4f83-a197-15750db07d2b,Problem,eng
 5b749ff9-4fd2-4546-9c57-fa9ab0332290,The Flash,
 5bc57cb6-7875-40b0-967b-0429deade3c3,YES or YES,
@@ -1083,6 +1087,7 @@ recording_mbid,recording_title,recording_language
 96d5454e-ea1b-4a2c-b38c-bf5f672d595b,어푸 (Ah puh),kor
 96d77803-9dda-45fb-b6f8-a857a59d2336,Ridin',
 96e249f1-ef38-4183-92e7-379ec945433b,Don’t Cha,
+96e25e14-65be-47bb-971a-be6fd28c741f,Fly Me to the Moon (In Other Words),eng
 96faed80-ce23-41c1-90ce-6b916eee61ee,Big Booty,
 971670e3-7f8c-4b40-ac16-538771f212ba,고래,
 97217a18-9739-4807-bfa7-b506983840f8,Only the Good Die Young,eng
@@ -1148,6 +1153,7 @@ recording_mbid,recording_title,recording_language
 9f9cf187-d6f9-437f-9d98-d59cdbd52757,Paranoid Android,eng
 9fcc62a4-2541-4f7d-a95c-4345f29a29dc,머리에서 발끝까지 (Shutdown),
 a01e90a9-d17b-461d-9337-7a1186380abb,Sugar Rush,
+a06b5d70-1efe-48eb-9aae-976674fa7a6e,1 Thing,
 a0a38516-c9c3-4a05-a2bf-523b6ca219ab,All the Stars,eng
 a0a95ef1-4a7d-4a23-8092-719f397d74c9,살짝 설렜어 (Nonstop),mul
 a0ad9828-ff96-42d0-b7a5-d0e85ec001c2,E.T.,eng
@@ -1164,6 +1170,7 @@ a21b7712-295f-4a8b-8b02-00812b21d62b,Chicken Noodle Soup,
 a244f59a-2933-425c-bb6b-16d5bb1a4f1d,La Vie en rose,fra
 a25a8e97-7e0a-47f8-ac9e-0d9fa3aa0914,놀이 (Play),
 a2632d2c-5862-44f8-8235-1a35539ffbdb,Lights,eng
+a28e5032-8743-4d8d-b089-bbf588716d60,Twinkle,kor
 a2af7af7-e9af-4e62-bfe4-45d792fa1f2f,Back to Black,eng
 a2ba364f-95f6-4ff9-be1a-fec0f622c69c,悪夢の輪舞曲,jpn
 a2ca096d-b51b-4bd5-bda0-a0875c5f9657,Put Your Records On,eng
@@ -1190,6 +1197,7 @@ a53974a1-c9a9-4f75-988c-d3f5338e1213,Don’t U Wait No More,kor
 a53c97d7-5501-443b-baa3-cb282fc64275,I Want You Back,eng
 a5741d3d-c925-4070-8a83-910d23eb33d4,I Will Follow You Into the Dark,eng
 a57c6d0f-5fa3-42b5-a9a7-0fc4d84c96bb,What Do I Call You,
+a59bb72d-afac-4ee2-b3f3-0190b5c8b11c,Sway With Me,
 a5a2330e-2fff-4601-a715-6e68a8e98fbf,I’m Yours,eng
 a5de1643-4238-4025-b7ba-cec24dd8cb1e,At Last,
 a6081bc1-2a76-4984-b21f-38bc3dcca3a5,Baba O’Riley,eng
@@ -1477,6 +1485,7 @@ d1e0a99e-1894-457b-ba6a-985eeef4d0c4,Set Fire to the Rain,eng
 d1f39d1d-aa8b-4c1f-a2cf-04d587539537,Say (All I Need),
 d2555d82-571d-406c-8e96-21562753cebc,There’s Nothing Holdin’ Me Back,eng
 d2840c7c-1771-4313-af94-ab126a0ee91e,Panorama,mul
+d294871b-34f7-4bd1-9311-c1673df2f392,Te Quiero,
 d2bab0db-b63b-45b6-8f6c-5a566620c522,Mambo No. 5 (A Little Bit Of…),eng
 d2ea8548-1ebf-41e7-87f4-64828fd54ceb,"Sincerely, Jane.",
 d31b24f5-c7ed-4d41-b05d-9e21a7f8ebdf,Eye of the Needle,eng
@@ -1669,6 +1678,7 @@ ec9e3315-0122-4b13-a8ea-97c41dbc44d7,Saturday Drip,
 ecbc7c9b-e79d-4ec8-ac77-44e4a7f7f1b8,Breathe,eng
 ed00fd4f-4f20-4dab-9c9b-49048dd9fb52,I'm Ready,mul
 ed933c82-d005-4ec0-8427-a98f0a7bcc39,Cheeky Icy Thang,
+ed9cc539-513f-466d-ac7a-10d3a8746577,Last Drop,
 ed9d34c3-fcb3-4fe0-861b-b4f1ccf90cf6,Sweet Venom,
 edcb7dc0-2db1-4a1e-a5dc-705bca61488b,恋,jpn
 edcc4bfb-0525-4c52-bd3a-6fe03d491275,"""Shout Out"" -",
