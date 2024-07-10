@@ -4,11 +4,11 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Arranger | 23 |
+| Arranger | 24 |
 | Instrument | 12 |
-| Lyricist | 24 |
+| Lyricist | 25 |
 | Producer | 5 |
-| Songwriter | 25 |
+| Songwriter | 26 |
 | Vocal | 23 |
 
 ## Produces for Artists
@@ -17,6 +17,7 @@
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf9fb2a341d6852c012a5d5ee" alt="" width="50" /> | 29 | 11 | 11 | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8ae485831cf4c3a568dc313" alt="" width="50" /> | 39 | 3 | 3 | [ATEEZ](../../artists/ateez/overview.md) | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e1bde2755f73cbd55745b781" alt="" width="50" /> | 407 | 1 | 1 | Dalshabet | [🔗](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) |
 
 ## Works with Producers
 
@@ -25,8 +26,8 @@
 | Ollounder | [Ollounder](../ollounder/overview.md) | 14 |
 | 김석민 | 김석민 (Kim Seog-min) | 9 |
 | 정창현 | 정창현 (Jung, Chang-hyun) | 6 |
-| 김홍중 | 김홍중 (Kim, Hong Joong) | 3 |
 | 정은경 | [정은경 (Jung, Eun-Kyung)](../정은경_(jung,_eun-kyung)/overview.md) | 3 |
+| 김홍중 | 김홍중 (Kim, Hong Joong) | 3 |
 | EDEN | EDEN | 3 |
 | 송민기 | 송민기 (Song, Mingi) | 3 |
 | 김보은 | 김보은 (Kim, Bo-eun) | 2 |
@@ -46,11 +47,12 @@
 | 김정미 | 김정미 (Kim Jung-mi) | 1 |
 | JI U | JI U | 1 |
 | SIYEON | SIYEON | 1 |
+| 달수빈 | 달수빈 (DALsooobin) | 1 |
 | Peperoni | Peperoni | 1 |
-| 황선정 | 황선정 (Hwang Sun-jung) | 1 |
 | 김준혁 | 김준혁 (Kim Joonhyuk) | 1 |
 | Tom Norris | Tom Norris | 1 |
 | 주상경 | 주상경 (Ju, Sang-kyung) | 1 |
+| 황선정 | 황선정 (Hwang Sun-jung) | 1 |
 | 김준원 | 김준원 (Kim, June-One) | 1 |
 | 양영은 | [양영은 (Yang, Young-eun)](../양영은_(yang,_young-eun)/overview.md) | 1 |
 | 전지은 | 전지은 (Jeon Ji-eun) | 1 |
@@ -64,6 +66,7 @@
 
 | Art | Track | Credit Types |
 |:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273a2c3aee8c15c2f242e60988b" alt="" width="50" /> | JOKER | Arranger, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5911f62f0fe24713fb9d0c8" alt="" width="50" /> | Deja Vu | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5911f62f0fe24713fb9d0c8" alt="" width="50" /> | Silent Night | Arranger, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273be3a0f924ad08d95b4e25d9f" alt="" width="50" /> | Answer | Arranger, Lyricist, Songwriter |

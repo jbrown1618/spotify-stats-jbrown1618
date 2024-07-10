@@ -8,15 +8,18 @@ None
 
 | Album | Artists | Album Popularity | Release Date | Label | Tracks | Playlists |
 |:---|:---|---:|:---|:---|:---|:---|
+| Joker is Alive [🔗](https://open.spotify.com/album/3jYpoS7JeJ8i8q3OHVNYXZ) | Dalshabet [🔗](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) | 31 | 2015-04-15 | DREAMCATCHER COMPANY | JOKER [🔗](https://open.spotify.com/track/4YB8A1ZnmXnNkfCRBmISqa) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>누구? [🔗](https://open.spotify.com/playlist/4JrgU3rcLuATwzM1jVVgyC) |
+| Joker is Alive [🔗](https://open.spotify.com/album/4vxOwoqNxefHAdZLWVrbmL) | Dalshabet [🔗](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) | 0 | 2015-04-15 | 해피페이스 엔터테인먼트 | Joker [🔗](https://open.spotify.com/track/1067REIdzHeSuEOiiDBefP) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>누구? [🔗](https://open.spotify.com/playlist/4JrgU3rcLuATwzM1jVVgyC) |
 | A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 49 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Retro Kpop [🔗](https://open.spotify.com/playlist/1MW4AAPq55U0XWvSeu1jU5) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 43 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 49 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd),<br>Recommendations for Jeff [🔗](https://open.spotify.com/playlist/5Liek0UOC5GmdOjxdWhcob),<br>Relax [🔗](https://open.spotify.com/playlist/4rnlD7JdUQNdPCBhL69dCg),<br>Your Top Songs 2022 [🔗](https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit) |
+| SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 50 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd),<br>Recommendations for Jeff [🔗](https://open.spotify.com/playlist/5Liek0UOC5GmdOjxdWhcob),<br>Relax [🔗](https://open.spotify.com/playlist/4rnlD7JdUQNdPCBhL69dCg),<br>Your Top Songs 2022 [🔗](https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit) |
 | SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 35 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 
 ## Tracks with low popularity
 
 | track_name | album_name | artist_name | track_popularity | album_popularity | artist_popularity |
 |:---|:---|:---|---:|---:|---:|
+| Heaven | Heaven | TAEYEON | 0 | 0 | 65 |
 | Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
 | Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": II. Largo | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
 | Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
@@ -51,6 +54,7 @@ None
 | Strange (feat. RM) | D-2 | RM | 0 | 1 | 77 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 83 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 78 |
+| Klaxon | I SWAY | (G)I-DLE | 0 | 0 | 74 |
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 52 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 47 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 30 |
@@ -98,28 +102,27 @@ None
 | Timshel | Sigh No More | Mumford & Sons | 0 | 1 | 70 |
 | Little Lion Man | Sigh No More | Mumford & Sons | 1 | 1 | 70 |
 | The Cave | Sigh No More | Mumford & Sons | 1 | 1 | 70 |
-| Star | [12:00] | LOONA | 2 | 2 | 54 |
-| Why Not? | [12:00] | LOONA | 2 | 2 | 54 |
+| Star | [12:00] | LOONA | 2 | 1 | 54 |
+| Why Not? | [12:00] | LOONA | 2 | 1 | 54 |
 | Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 54 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 52 |
 | The Phantom Of The Opera | Century Child | Nightwish | 0 | 0 | 65 |
 | End Of All Hope | Century Child | Nightwish | 0 | 0 | 65 |
 | Nemo | Once | Nightwish | 0 | 0 | 65 |
-| Ya! (feat. Whee In) | Stay As You Are | Whee In | 2 | 2 | 49 |
-| Ya! (feat. Whee In) | Stay As You Are | Sandeul | 2 | 2 | 40 |
+| Ya! (feat. Whee In) | Stay As You Are | Whee In | 2 | 1 | 49 |
+| Ya! (feat. Whee In) | Stay As You Are | Sandeul | 2 | 1 | 40 |
 | Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 0 | 0 | 58 |
 | Lullaby | Present : YOU | GOT7 | 0 | 0 | 58 |
 | Just Right | Just Right | GOT7 | 0 | 0 | 58 |
 | If You Do | MAD | GOT7 | 0 | 0 | 58 |
 | You Calling My Name | Call My Name | GOT7 | 0 | 0 | 58 |
-| Flowers - Cover | Flowers (Cover) | YUQI | 0 | 0 | 62 |
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 25 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 75 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 78 |
-| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 73 |
+| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 75 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 60 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 72 |
-| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 73 |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 74 |
 | Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 64 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 72 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 78 |
@@ -129,8 +132,8 @@ None
 | Slide Away | Slide Away | Miley Cyrus | 2 | 0 | 83 |
 | Miku | Miku | Anamanaguchi | 0 | 0 | 51 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 42 |
-| Heartbeat | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) | SURAN | 1 | 0 | 49 |
-| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 49 |
+| Heartbeat | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) | SURAN | 1 | 0 | 50 |
+| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 50 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 48 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 75 |
@@ -138,7 +141,7 @@ None
 | Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 45 |
 | When We Disco | When We Disco | SUNMI | 0 | 0 | 57 |
 | Who's Your Mama? | 24/34 | Jessi | 0 | 0 | 57 |
-| Djadja | Djadja | Aya Nakamura | 0 | 0 | 71 |
+| Djadja | Djadja | Aya Nakamura | 0 | 0 | 72 |
 | My House | No.5 | 2PM | 0 | 0 | 52 |
 | Still Alive | Portal 2: Songs to Test By (Collectors Edition) | Aperture Science Psychoacoustic Laboratories | 0 | 0 | 45 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 46 |
@@ -152,6 +155,6 @@ None
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 41 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 55 |
 | Toy | Toy | Netta | 2 | 0 | 49 |
-| 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 44 |
-| Lost Woods | Zelda: Ocarina of Time - Piano | Wesley Sprayue | 0 | 0 | 38 |
+| 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
+| Lost Woods | Zelda: Ocarina of Time - Piano | Wesley Sprayue | 0 | 0 | 39 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 52 |
