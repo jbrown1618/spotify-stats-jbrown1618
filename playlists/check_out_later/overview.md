@@ -9,8 +9,8 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273e1bde2755f73cbd55745b781" alt="" width="50" /> | 407 | 3 | 0 | Dalshabet | [🔗](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273efb1438c83e929e60f250be2" alt="" width="50" /> | 407 | 1 | 0 | 9MUSES | [🔗](https://open.spotify.com/artist/55tJwpPIz9BMrSLM45iEXX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e1bde2755f73cbd55745b781" alt="" width="50" /> | 380 | 3 | 0 | Dalshabet | [🔗](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273efb1438c83e929e60f250be2" alt="" width="50" /> | 409 | 1 | 0 | 9MUSES | [🔗](https://open.spotify.com/artist/55tJwpPIz9BMrSLM45iEXX) |
 
 
 
@@ -26,10 +26,10 @@
 
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 882 | <img src="https://i.scdn.co/image/ab67616d0000b2738dcc927a4f036d3682d85efa" alt="THE 7TH MINI ALBUM “B.B.B”" width="50" /> | B.B.B (Big Baby Baby) | 882 | <img src="https://i.scdn.co/image/ab67616d0000b273f34ffb60e5c2310787e554d9" alt="Pink Rocket" width="50" /> | Pink Rocket |
-| 882 | <img src="https://i.scdn.co/image/ab67616d0000b273c1d75089640b4cd957b21a16" alt="WILD" width="50" /> | Wild | 882 | <img src="https://i.scdn.co/image/ab67616d0000b27366b18e6bc80e3e331347e423" alt="Naturalness" width="50" /> | Someone like U |
-| 882 | <img src="https://i.scdn.co/image/ab67616d0000b27366b18e6bc80e3e331347e423" alt="Naturalness" width="50" /> | Someone like U | 882 | <img src="https://i.scdn.co/image/ab67616d0000b273c1d75089640b4cd957b21a16" alt="WILD" width="50" /> | Wild |
-| 882 | <img src="https://i.scdn.co/image/ab67616d0000b273f34ffb60e5c2310787e554d9" alt="Pink Rocket" width="50" /> | Pink Rocket | 882 | <img src="https://i.scdn.co/image/ab67616d0000b2738dcc927a4f036d3682d85efa" alt="THE 7TH MINI ALBUM “B.B.B”" width="50" /> | B.B.B (Big Baby Baby) |
+| 888 | <img src="https://i.scdn.co/image/ab67616d0000b2738dcc927a4f036d3682d85efa" alt="THE 7TH MINI ALBUM “B.B.B”" width="50" /> | B.B.B (Big Baby Baby) | 888 | <img src="https://i.scdn.co/image/ab67616d0000b273f34ffb60e5c2310787e554d9" alt="Pink Rocket" width="50" /> | Pink Rocket |
+| 888 | <img src="https://i.scdn.co/image/ab67616d0000b273c1d75089640b4cd957b21a16" alt="WILD" width="50" /> | Wild | 888 | <img src="https://i.scdn.co/image/ab67616d0000b27366b18e6bc80e3e331347e423" alt="Naturalness" width="50" /> | Someone like U |
+| 888 | <img src="https://i.scdn.co/image/ab67616d0000b27366b18e6bc80e3e331347e423" alt="Naturalness" width="50" /> | Someone like U | 888 | <img src="https://i.scdn.co/image/ab67616d0000b273c1d75089640b4cd957b21a16" alt="WILD" width="50" /> | Wild |
+| 888 | <img src="https://i.scdn.co/image/ab67616d0000b273f34ffb60e5c2310787e554d9" alt="Pink Rocket" width="50" /> | Pink Rocket | 888 | <img src="https://i.scdn.co/image/ab67616d0000b2738dcc927a4f036d3682d85efa" alt="THE 7TH MINI ALBUM “B.B.B”" width="50" /> | B.B.B (Big Baby Baby) |
 
 </details>
 
@@ -39,10 +39,10 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c1d75089640b4cd957b21a16" alt="" width="50" /> | 592 | 1 | 0 | WILD | 2013-05-09 | [🔗](https://open.spotify.com/album/49Mp6xo4vfon1aWaGqvRnM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738dcc927a4f036d3682d85efa" alt="" width="50" /> | 592 | 1 | 0 | THE 7TH MINI ALBUM “B.B.B” | 2014-01-08 | [🔗](https://open.spotify.com/album/6O848eN9okyYzlBMVbR3RI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f34ffb60e5c2310787e554d9" alt="" width="50" /> | 592 | 1 | 0 | Pink Rocket | 2011-04-11 | [🔗](https://open.spotify.com/album/35gOaqVSZ3QgwU70Sgf5Yw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27366b18e6bc80e3e331347e423" alt="" width="50" /> | 592 | 1 | 0 | Naturalness | 2016-01-05 | [🔗](https://open.spotify.com/album/1KIV6HQCntQVl792TVfVCA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c1d75089640b4cd957b21a16" alt="" width="50" /> | 597 | 1 | 0 | WILD | 2013-05-09 | [🔗](https://open.spotify.com/album/49Mp6xo4vfon1aWaGqvRnM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738dcc927a4f036d3682d85efa" alt="" width="50" /> | 597 | 1 | 0 | THE 7TH MINI ALBUM “B.B.B” | 2014-01-08 | [🔗](https://open.spotify.com/album/6O848eN9okyYzlBMVbR3RI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f34ffb60e5c2310787e554d9" alt="" width="50" /> | 597 | 1 | 0 | Pink Rocket | 2011-04-11 | [🔗](https://open.spotify.com/album/35gOaqVSZ3QgwU70Sgf5Yw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27366b18e6bc80e3e331347e423" alt="" width="50" /> | 597 | 1 | 0 | Naturalness | 2016-01-05 | [🔗](https://open.spotify.com/album/1KIV6HQCntQVl792TVfVCA) |
 
 ![Bar chart of top 4 albums](../../images/playlists/check_out_later/albums.png)
 
