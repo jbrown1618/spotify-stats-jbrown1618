@@ -15,11 +15,11 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb02a562ea6b1dc718394010ac" alt="" width="50" /> | 2 | 2 | 2 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9426413cf033b2e0eedfeff6" alt="" width="50" /> | 240 | 1 | 1 | Girls' Generation-TTS | [🔗](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcca1f211b37c5be8b675c949" alt="" width="50" /> | 22 | 1 | 1 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | 350 | 1 | 1 | IZ*ONE | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb86ea393b9e590523e822ea13" alt="" width="50" /> | 323 | 1 | 1 | YooA | [🔗](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba6b0d348c125a072e5284b3e" alt="" width="50" /> | 351 | 1 | 1 | IZ*ONE | [🔗](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb86ea393b9e590523e822ea13" alt="" width="50" /> | 324 | 1 | 1 | YooA | [🔗](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733834179423bc4edf76a55ecf" alt="" width="50" /> | 409 | 1 | 1 | EUNHA | [🔗](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | 162 | 1 | 1 | [f(x)](../../artists/f(x)/overview.md) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd32fab76d88b728b883ebe03" alt="" width="50" /> | 73 | 1 | 1 | [WINTER](../../artists/winter/overview.md) | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | 163 | 1 | 1 | [f(x)](../../artists/f(x)/overview.md) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd32fab76d88b728b883ebe03" alt="" width="50" /> | 71 | 1 | 1 | [WINTER](../../artists/winter/overview.md) | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 
 
 <details>

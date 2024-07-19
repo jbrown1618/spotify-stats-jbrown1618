@@ -5,7 +5,7 @@
 <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="Adele" width="100" />
 
 ## Artist Rank
-- The #138 artist of all time
+- The #139 artist of all time
 
 ![Rank of Adele over time](../../images/artists/adele/rank_time_series.png)
 ## Top Tracks
@@ -106,10 +106,10 @@
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | Take It All | 21 | [Adele](overview.md) | [XL Recordings](../../labels/xl_recordings) | 262 | 💚 | [🔗](https://open.spotify.com/track/08YJEcxGtYXwCGqXMZDiyQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f407037aabc6dffe5abb3bf8" alt="" width="50" /> | Chasing Pavements | 19 | [Adele](overview.md) | [XL Recordings](../../labels/xl_recordings) | 892 | | [🔗](https://open.spotify.com/track/71WAtDcWVYMoCsblD2uQXx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | Rolling in the Deep | 21 | [Adele](overview.md) | [XL Recordings](../../labels/xl_recordings) | 892 | | [🔗](https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | Set Fire to the Rain | 21 | [Adele](overview.md) | [XL Recordings](../../labels/xl_recordings) | 892 | 💚 | [🔗](https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | Someone Like You | 21 | [Adele](overview.md) | [XL Recordings](../../labels/xl_recordings) | 892 | 💚 | [🔗](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732737be35cc5245eef495be90" alt="" width="50" /> | Skyfall | Skyfall | [Adele](overview.md) | [Columbia](../../labels/columbia), [XL Recordings](../../labels/xl_recordings) | 892 | 💚 | [🔗](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350dba34377a595e35f81b0e4" alt="" width="50" /> | Easy On Me | Easy On Me | [Adele](overview.md) | [Columbia](../../labels/columbia) | 892 | 💚 | [🔗](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7" alt="" width="50" /> | Oh My God | 30 | [Adele](overview.md) | [Columbia](../../labels/columbia) | 892 | | [🔗](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f407037aabc6dffe5abb3bf8" alt="" width="50" /> | Chasing Pavements | 19 | [Adele](overview.md) | [XL Recordings](../../labels/xl_recordings) | 893 | | [🔗](https://open.spotify.com/track/71WAtDcWVYMoCsblD2uQXx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | Rolling in the Deep | 21 | [Adele](overview.md) | [XL Recordings](../../labels/xl_recordings) | 893 | | [🔗](https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | Set Fire to the Rain | 21 | [Adele](overview.md) | [XL Recordings](../../labels/xl_recordings) | 893 | 💚 | [🔗](https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | Someone Like You | 21 | [Adele](overview.md) | [XL Recordings](../../labels/xl_recordings) | 893 | 💚 | [🔗](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732737be35cc5245eef495be90" alt="" width="50" /> | Skyfall | Skyfall | [Adele](overview.md) | [Columbia](../../labels/columbia), [XL Recordings](../../labels/xl_recordings) | 893 | 💚 | [🔗](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350dba34377a595e35f81b0e4" alt="" width="50" /> | Easy On Me | Easy On Me | [Adele](overview.md) | [Columbia](../../labels/columbia) | 893 | 💚 | [🔗](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7" alt="" width="50" /> | Oh My God | 30 | [Adele](overview.md) | [Columbia](../../labels/columbia) | 893 | | [🔗](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) |

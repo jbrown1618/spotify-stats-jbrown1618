@@ -10,8 +10,8 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | 82 | 11 | 7 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 138 | 8 | 5 | [Adele](../../artists/adele/overview.md) | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | 84 | 11 | 7 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 139 | 8 | 5 | [Adele](../../artists/adele/overview.md) | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565" alt="" width="50" /> | 188 | 4 | 4 | Little Mix | [🔗](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a" alt="" width="50" /> | 409 | 6 | 3 | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | 409 | 3 | 2 | Charli xcx | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
@@ -29,16 +29,16 @@
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | 257 | 1 | 1 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 3 | 1 | 1 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb05859a430915d19cd6e67bbb" alt="" width="50" /> | 117 | 1 | 1 | Kim Petras | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb05859a430915d19cd6e67bbb" alt="" width="50" /> | 116 | 1 | 1 | Kim Petras | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb778483686ae247c1906f02fb" alt="" width="50" /> | 409 | 1 | 1 | Birdy | [🔗](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5c0e1d109d8a876076187f1" alt="" width="50" /> | 409 | 1 | 1 | Mabel | [🔗](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf01727aa674ddefa777797a" alt="" width="50" /> | 409 | 1 | 0 | Diplo | [🔗](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7a1fba1bb3618ef71355f82a" alt="" width="50" /> | 409 | 1 | 0 | ZAYN | [🔗](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0eb199f850e9a7b9f38d0ef8" alt="" width="50" /> | 409 | 1 | 0 | James Smith | [🔗](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb46fcb25c1d37f61e5fb2a5fd" alt="" width="50" /> | 265 | 1 | 0 | A. G. Cook | [🔗](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb46fcb25c1d37f61e5fb2a5fd" alt="" width="50" /> | 267 | 1 | 0 | A. G. Cook | [🔗](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f5902fb8e230a7e971326d3" alt="" width="50" /> | 409 | 1 | 0 | VERNON | [🔗](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb02a562ea6b1dc718394010ac" alt="" width="50" /> | 2 | 1 | 0 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | 21 | 1 | 0 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | 19 | 1 | 0 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 
 </details>
 
@@ -49,16 +49,16 @@
 ## Most and least listened tracks
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 262 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | [Take It All](../../artists/adele/overview.md) | 892 | <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="Future Nostalgia" width="50" /> | [Physical](../../artists/dua_lipa/overview.md) |
-| 892 | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="Fifty Shades Freed (Original Motion Picture Soundtrack)" width="50" /> | Love Me Like You Do | 892 | <img src="https://i.scdn.co/image/ab67616d0000b273ae395b47b186c2bc8c458e0f" alt="Dua Lipa (Complete Edition)" width="50" /> | [Kiss and Make Up](../../artists/dua_lipa/overview.md) |
-| 892 | <img src="https://i.scdn.co/image/ab67616d0000b2735bec8b1a6a96e731dbd6f94f" alt="DNA (Expanded Edition)" width="50" /> | DNA | 892 | <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="Delirium" width="50" /> | Something In The Way You Move |
-| 892 | <img src="https://i.scdn.co/image/ab67616d0000b27350dba34377a595e35f81b0e4" alt="Easy On Me" width="50" /> | [Easy On Me](../../artists/adele/overview.md) | 892 | <img src="https://i.scdn.co/image/ab67616d0000b273b627441824c5d0748c8cb077" alt="Dua Lipa" width="50" /> | [Hotter Than Hell](../../artists/dua_lipa/overview.md) |
-| 892 | <img src="https://i.scdn.co/image/ab67616d0000b2733042c53026e29faf3a21c9f9" alt="Glory Days (Expanded Edition)" width="50" /> | Power | 892 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | [Set Fire to the Rain](../../artists/adele/overview.md) |
-| 892 | <img src="https://i.scdn.co/image/ab67616d0000b273086ca574430eaa107d3e855f" alt="CRASH" width="50" /> | Beg for You (feat. Rina Sawayama) | 892 | <img src="https://i.scdn.co/image/ab67616d0000b273f407037aabc6dffe5abb3bf8" alt="19" width="50" /> | [Chasing Pavements](../../artists/adele/overview.md) |
-| 892 | <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="Future Nostalgia" width="50" /> | [Don't Start Now](../../artists/dua_lipa/overview.md) | 892 | <img src="https://i.scdn.co/image/ab67616d0000b273995994477ea1ae8097978bf8" alt="Get Weird (Expanded Edition)" width="50" /> | Black Magic |
-| 892 | <img src="https://i.scdn.co/image/ab67616d0000b273340f355a2a27e941a30dda56" alt="Have Yourself A Merry Little Christmas" width="50" /> | Have Yourself A Merry Little Christmas | 892 | <img src="https://i.scdn.co/image/ab67616d0000b2732737be35cc5245eef495be90" alt="Skyfall" width="50" /> | [Skyfall](../../artists/adele/overview.md) |
-| 892 | <img src="https://i.scdn.co/image/ab67616d0000b2739f48d446654c7b8b9b7bc58b" alt="Little Love - EP" width="50" /> | Just The Way You Are | 892 | <img src="https://i.scdn.co/image/ab67616d0000b273e689157967d6f852fc59a746" alt="Close To Me (Red Velvet Remix)" width="50" /> | Close To Me - Red Velvet Remix |
-| 892 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | [Rolling in the Deep](../../artists/adele/overview.md) | 892 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="Slow Grenade" width="50" /> | Slow Grenade |
+| 262 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | [Take It All](../../artists/adele/overview.md) | 893 | <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="Future Nostalgia" width="50" /> | [Physical](../../artists/dua_lipa/overview.md) |
+| 893 | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="Fifty Shades Freed (Original Motion Picture Soundtrack)" width="50" /> | Love Me Like You Do | 893 | <img src="https://i.scdn.co/image/ab67616d0000b273ae395b47b186c2bc8c458e0f" alt="Dua Lipa (Complete Edition)" width="50" /> | [Kiss and Make Up](../../artists/dua_lipa/overview.md) |
+| 893 | <img src="https://i.scdn.co/image/ab67616d0000b2735bec8b1a6a96e731dbd6f94f" alt="DNA (Expanded Edition)" width="50" /> | DNA | 893 | <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="Delirium" width="50" /> | Something In The Way You Move |
+| 893 | <img src="https://i.scdn.co/image/ab67616d0000b27350dba34377a595e35f81b0e4" alt="Easy On Me" width="50" /> | [Easy On Me](../../artists/adele/overview.md) | 893 | <img src="https://i.scdn.co/image/ab67616d0000b273b627441824c5d0748c8cb077" alt="Dua Lipa" width="50" /> | [Hotter Than Hell](../../artists/dua_lipa/overview.md) |
+| 893 | <img src="https://i.scdn.co/image/ab67616d0000b2733042c53026e29faf3a21c9f9" alt="Glory Days (Expanded Edition)" width="50" /> | Power | 893 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | [Set Fire to the Rain](../../artists/adele/overview.md) |
+| 893 | <img src="https://i.scdn.co/image/ab67616d0000b273086ca574430eaa107d3e855f" alt="CRASH" width="50" /> | Beg for You (feat. Rina Sawayama) | 893 | <img src="https://i.scdn.co/image/ab67616d0000b273f407037aabc6dffe5abb3bf8" alt="19" width="50" /> | [Chasing Pavements](../../artists/adele/overview.md) |
+| 893 | <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="Future Nostalgia" width="50" /> | [Don't Start Now](../../artists/dua_lipa/overview.md) | 893 | <img src="https://i.scdn.co/image/ab67616d0000b273995994477ea1ae8097978bf8" alt="Get Weird (Expanded Edition)" width="50" /> | Black Magic |
+| 893 | <img src="https://i.scdn.co/image/ab67616d0000b273340f355a2a27e941a30dda56" alt="Have Yourself A Merry Little Christmas" width="50" /> | Have Yourself A Merry Little Christmas | 893 | <img src="https://i.scdn.co/image/ab67616d0000b2732737be35cc5245eef495be90" alt="Skyfall" width="50" /> | [Skyfall](../../artists/adele/overview.md) |
+| 893 | <img src="https://i.scdn.co/image/ab67616d0000b2739f48d446654c7b8b9b7bc58b" alt="Little Love - EP" width="50" /> | Just The Way You Are | 893 | <img src="https://i.scdn.co/image/ab67616d0000b273e689157967d6f852fc59a746" alt="Close To Me (Red Velvet Remix)" width="50" /> | Close To Me - Red Velvet Remix |
+| 893 | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | [Rolling in the Deep](../../artists/adele/overview.md) | 893 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="Slow Grenade" width="50" /> | Slow Grenade |
 
 ## Top Albums
 

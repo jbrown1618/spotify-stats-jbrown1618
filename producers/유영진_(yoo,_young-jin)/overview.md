@@ -19,11 +19,11 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 17 | 2 | 2 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb65f946e1c1bdc8bc9b75b049" alt="" width="50" /> | 92 | 1 | 1 | MAX CHANGMIN | [🔗](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="" width="50" /> | 31 | 1 | 1 | [GOT the beat](../../artists/got_the_beat/overview.md) | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2be82149be3774fa0729a543" alt="" width="50" /> | 151 | 1 | 1 | [TVXQ!](../../artists/tvxq!/overview.md) | [🔗](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7b13da5a8a3dd6e0d53ff764" alt="" width="50" /> | 96 | 1 | 1 | Red Velvet - IRENE & SEULGI | [🔗](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2be82149be3774fa0729a543" alt="" width="50" /> | 153 | 1 | 1 | [TVXQ!](../../artists/tvxq!/overview.md) | [🔗](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7b13da5a8a3dd6e0d53ff764" alt="" width="50" /> | 97 | 1 | 1 | Red Velvet - IRENE & SEULGI | [🔗](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46c7620b97e6eb932d79d97a" alt="" width="50" /> | 143 | 1 | 1 | TAEYONG | [🔗](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1925e6520e474e569c971b36" alt="" width="50" /> | 32 | 1 | 1 | [BoA](../../artists/boa/overview.md) | [🔗](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb08ff289b18eb08abc6864c9" alt="" width="50" /> | 345 | 1 | 1 | NCT | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb08ff289b18eb08abc6864c9" alt="" width="50" /> | 343 | 1 | 1 | NCT | [🔗](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) |
 
 
 <details>

@@ -32,10 +32,10 @@ Appears as:
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | 316 | 1 | 1 | SUGA | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4dccee2f9fe2960b14f9a4d3" alt="" width="50" /> | 391 | 2 | 0 | Dean Martin | [🔗](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | 315 | 1 | 1 | SUGA | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4dccee2f9fe2960b14f9a4d3" alt="" width="50" /> | 392 | 2 | 0 | Dean Martin | [🔗](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf057d1dce23e7f4d5d0f32e5" alt="" width="50" /> | 409 | 2 | 0 | Sam Smith | [🔗](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) |
-| <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | 312 | 2 | 0 | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
+| <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | 311 | 2 | 0 | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe86f788af4e127154da1257f" alt="" width="50" /> | 409 | 1 | 0 | Bonnie Raitt | [🔗](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb10d4a1b12c6ceda12d7cd248" alt="" width="50" /> | 409 | 1 | 0 | The Beach Boys | [🔗](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) |
 | <img src="https://i.scdn.co/image/733bf3eb9178fd24dbce4a9a5ec64d0c870ea822" alt="" width="50" /> | 409 | 1 | 0 | Katrina & The Waves | [🔗](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) |
@@ -51,13 +51,13 @@ Appears as:
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | 598 | 4 | 3 | Teenage Dream | 2010-01-01 | [🔗](https://open.spotify.com/album/3BoUxfC7YhxNq3TpOfnRif) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730e402844f1b6be3102d339f2" alt="" width="50" /> | 598 | 3 | 1 | Lemon Love | 2005-01-01 | [🔗](https://open.spotify.com/album/5YToJrWwzdA6W2NxxDoteE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea" alt="" width="50" /> | 568 | 2 | 0 | A Winter Romance | 1959-01-01 | [🔗](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea" alt="" width="50" /> | 569 | 2 | 0 | A Winter Romance | 1959-01-01 | [🔗](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | 598 | 1 | 1 | Youngblood (Deluxe) | 2018-06-15 | [🔗](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | 598 | 1 | 1 | The Nat King Cole Story | 1961-09-25 | [🔗](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="" width="50" /> | 598 | 1 | 1 | Surrender | 2022-07-29 | [🔗](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273583c60000e8abc8283853e10" alt="" width="50" /> | 598 | 1 | 1 | SuperM - The 1st Mini Album | 2019-10-04 | [🔗](https://open.spotify.com/album/1C1qYeSC9RdgbrKXpZCTSJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | 598 | 1 | 1 | Super One -The 1st Album | 2020-09-25 | [🔗](https://open.spotify.com/album/10fdwvVIpa0raPkZUTILAt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | 402 | 1 | 1 | SUGA's Interlude | 2019-12-06 | [🔗](https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | 405 | 1 | 1 | SUGA's Interlude | 2019-12-06 | [🔗](https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731bd04431e42ed2105ea3534a" alt="" width="50" /> | 598 | 1 | 1 | Put A Little Love On Me | 2019-12-06 | [🔗](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) |
 
 
@@ -186,15 +186,15 @@ Appears as:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude | SUGA's Interlude | Halsey, SUGA, [BTS](../../artists/bts/overview.md) | [Capitol Records](.) | 596 | 💚 | [🔗](https://open.spotify.com/track/5a0nHa7F4S9hb0Zi0zLS8w) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea" alt="" width="50" /> | Let It Snow! Let It Snow! Let It Snow! | A Winter Romance | Dean Martin | [Capitol Records](.) | 844 | | [🔗](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="" width="50" /> | I've Got You Under My Skin - Remastered 1998 | Songs For Swingin' Lovers! (Remastered) | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [Capitol Records](.) | 892 | | [🔗](https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | Come Fly With Me - Remastered 1998 | Come Fly With Me (Expanded Edition) | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [Capitol Records](.) | 892 | | [🔗](https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea" alt="" width="50" /> | Baby, It's Cold Outside | A Winter Romance | Dean Martin | [Capitol Records](.) | 892 | | [🔗](https://open.spotify.com/track/4MrfQL4TYQXJBlZYpAHTuE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | Nature Boy | The Nat King Cole Story | Nat King Cole | [Capitol Records](.) | 892 | 💚 | [🔗](https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" alt="" width="50" /> | Walking On Sunshine | Katrina & The Waves | Katrina & The Waves | [Capitol Records](.) | 892 | | [🔗](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | I Can't Make You Love Me | Luck Of The Draw | Bonnie Raitt | [Capitol Records](.) | 892 | | [🔗](https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730e402844f1b6be3102d339f2" alt="" width="50" /> | Gotta Get Over You | Lemon Love | Aslyn | [Capitol Records](.) | 892 | | [🔗](https://open.spotify.com/track/3dBfe2WcNSt3IeJLolbhhm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730e402844f1b6be3102d339f2" alt="" width="50" /> | Lemon Love | Lemon Love | Aslyn | [Capitol Records](.) | 892 | | [🔗](https://open.spotify.com/track/4SQ5SNqVPo00s7aVRoMYjN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea" alt="" width="50" /> | Let It Snow! Let It Snow! Let It Snow! | A Winter Romance | Dean Martin | [Capitol Records](.) | 845 | | [🔗](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="" width="50" /> | I've Got You Under My Skin - Remastered 1998 | Songs For Swingin' Lovers! (Remastered) | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [Capitol Records](.) | 893 | | [🔗](https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | Come Fly With Me - Remastered 1998 | Come Fly With Me (Expanded Edition) | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [Capitol Records](.) | 893 | | [🔗](https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea" alt="" width="50" /> | Baby, It's Cold Outside | A Winter Romance | Dean Martin | [Capitol Records](.) | 893 | | [🔗](https://open.spotify.com/track/4MrfQL4TYQXJBlZYpAHTuE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | Nature Boy | The Nat King Cole Story | Nat King Cole | [Capitol Records](.) | 893 | 💚 | [🔗](https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" alt="" width="50" /> | Walking On Sunshine | Katrina & The Waves | Katrina & The Waves | [Capitol Records](.) | 893 | | [🔗](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | I Can't Make You Love Me | Luck Of The Draw | Bonnie Raitt | [Capitol Records](.) | 893 | | [🔗](https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e402844f1b6be3102d339f2" alt="" width="50" /> | Gotta Get Over You | Lemon Love | Aslyn | [Capitol Records](.) | 893 | | [🔗](https://open.spotify.com/track/3dBfe2WcNSt3IeJLolbhhm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e402844f1b6be3102d339f2" alt="" width="50" /> | Lemon Love | Lemon Love | Aslyn | [Capitol Records](.) | 893 | | [🔗](https://open.spotify.com/track/4SQ5SNqVPo00s7aVRoMYjN) |
 
 
 <details>
@@ -202,23 +202,23 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730e402844f1b6be3102d339f2" alt="" width="50" /> | Wally | Lemon Love | Aslyn | [Capitol Records](.) | 892 | 💚 | [🔗](https://open.spotify.com/track/1JuNI0UJR2qDFlbZi1kO6p) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b53a4da797ba5472d3330b69" alt="" width="50" /> | I Kissed A Girl | One Of The Boys | Katy Perry | [Capitol Records](.) | 892 | 💚 | [🔗](https://open.spotify.com/track/5NFiJqwS8iMtJwGOgTKa2v) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | California Gurls | Teenage Dream | Katy Perry, Snoop Dogg | [Capitol Records](.) | 892 | 💚 | [🔗](https://open.spotify.com/track/3yCzLH2lQ8KknpvsqNCo35) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | E.T. | Teenage Dream | Katy Perry | [Capitol Records](.) | 892 | 💚 | [🔗](https://open.spotify.com/track/6dmv1m6sHSvPkEQdz67c12) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | Peacock | Teenage Dream | Katy Perry | [Capitol Records](.) | 892 | | [🔗](https://open.spotify.com/track/0kMLFbhrbo29nEx5M0A7km) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | Teenage Dream | Teenage Dream | Katy Perry | [Capitol Records](.) | 892 | 💚 | [🔗](https://open.spotify.com/track/6AOdKVvWB8Ulb3lGCnyPBY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27310d709d905d269d37a41d4c4" alt="" width="50" /> | Surfin' U.S.A. | 50 Big Ones: Greatest Hits | The Beach Boys | [Capitol Records](.) | 892 | | [🔗](https://open.spotify.com/track/2EPr9Wx7e1cpGEbNAtuN7x) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616" alt="" width="50" /> | Wide Awake | Teenage Dream: The Complete Confection | Katy Perry | [Capitol Records](.) | 892 | | [🔗](https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273340f355a2a27e941a30dda56" alt="" width="50" /> | Have Yourself A Merry Little Christmas | Have Yourself A Merry Little Christmas | Sam Smith | [Capitol](.) | 892 | | [🔗](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | Youngblood | Youngblood (Deluxe) | 5 Seconds of Summer | [Capitol](.) | 892 | 💚 | [🔗](https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d658a02ba8931985bdc4e0da" alt="" width="50" /> | Light On | Heard It In A Past Life | Maggie Rogers | [Capitol Records](.) | 892 | 💚 | [🔗](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273583c60000e8abc8283853e10" alt="" width="50" /> | Jopping | SuperM - The 1st Mini Album | SuperM | [Capitol Records](.), [SM Entertainment](../sm_entertainment) | 892 | 💚 | [🔗](https://open.spotify.com/track/5WrEilrRI5cIW0DxMvQYPZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731bd04431e42ed2105ea3534a" alt="" width="50" /> | Put A Little Love On Me | Put A Little Love On Me | Niall Horan | [Capitol Records](.) | 892 | 💚 | [🔗](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd" alt="" width="50" /> | Without Me | Manic | Halsey | [Capitol Records](.) | 892 | | [🔗](https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | Tiger Inside | Super One -The 1st Album | SuperM | [Capitol Records](.), [SM Entertainment](../sm_entertainment) | 892 | 💚 | [🔗](https://open.spotify.com/track/1ADlTU9mFc3oDdD9Vla2Yw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730d1f3930676c34a23dbf5c46" alt="" width="50" /> | Kids Again | Love Goes | Sam Smith | [Capitol](.) | 892 | | [🔗](https://open.spotify.com/track/5LL9lSNn26GBoC5StQ3itk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="" width="50" /> | That's Where I Am | Surrender | Maggie Rogers | [Capitol Records](.) | 892 | 💚 | [🔗](https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e402844f1b6be3102d339f2" alt="" width="50" /> | Wally | Lemon Love | Aslyn | [Capitol Records](.) | 893 | 💚 | [🔗](https://open.spotify.com/track/1JuNI0UJR2qDFlbZi1kO6p) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b53a4da797ba5472d3330b69" alt="" width="50" /> | I Kissed A Girl | One Of The Boys | Katy Perry | [Capitol Records](.) | 893 | 💚 | [🔗](https://open.spotify.com/track/5NFiJqwS8iMtJwGOgTKa2v) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | California Gurls | Teenage Dream | Katy Perry, Snoop Dogg | [Capitol Records](.) | 893 | 💚 | [🔗](https://open.spotify.com/track/3yCzLH2lQ8KknpvsqNCo35) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | E.T. | Teenage Dream | Katy Perry | [Capitol Records](.) | 893 | 💚 | [🔗](https://open.spotify.com/track/6dmv1m6sHSvPkEQdz67c12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | Peacock | Teenage Dream | Katy Perry | [Capitol Records](.) | 893 | | [🔗](https://open.spotify.com/track/0kMLFbhrbo29nEx5M0A7km) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3739fca04299590fffe59" alt="" width="50" /> | Teenage Dream | Teenage Dream | Katy Perry | [Capitol Records](.) | 893 | 💚 | [🔗](https://open.spotify.com/track/6AOdKVvWB8Ulb3lGCnyPBY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27310d709d905d269d37a41d4c4" alt="" width="50" /> | Surfin' U.S.A. | 50 Big Ones: Greatest Hits | The Beach Boys | [Capitol Records](.) | 893 | | [🔗](https://open.spotify.com/track/2EPr9Wx7e1cpGEbNAtuN7x) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616" alt="" width="50" /> | Wide Awake | Teenage Dream: The Complete Confection | Katy Perry | [Capitol Records](.) | 893 | | [🔗](https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273340f355a2a27e941a30dda56" alt="" width="50" /> | Have Yourself A Merry Little Christmas | Have Yourself A Merry Little Christmas | Sam Smith | [Capitol](.) | 893 | | [🔗](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | Youngblood | Youngblood (Deluxe) | 5 Seconds of Summer | [Capitol](.) | 893 | 💚 | [🔗](https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d658a02ba8931985bdc4e0da" alt="" width="50" /> | Light On | Heard It In A Past Life | Maggie Rogers | [Capitol Records](.) | 893 | 💚 | [🔗](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273583c60000e8abc8283853e10" alt="" width="50" /> | Jopping | SuperM - The 1st Mini Album | SuperM | [Capitol Records](.), [SM Entertainment](../sm_entertainment) | 893 | 💚 | [🔗](https://open.spotify.com/track/5WrEilrRI5cIW0DxMvQYPZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731bd04431e42ed2105ea3534a" alt="" width="50" /> | Put A Little Love On Me | Put A Little Love On Me | Niall Horan | [Capitol Records](.) | 893 | 💚 | [🔗](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd" alt="" width="50" /> | Without Me | Manic | Halsey | [Capitol Records](.) | 893 | | [🔗](https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | Tiger Inside | Super One -The 1st Album | SuperM | [Capitol Records](.), [SM Entertainment](../sm_entertainment) | 893 | 💚 | [🔗](https://open.spotify.com/track/1ADlTU9mFc3oDdD9Vla2Yw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d1f3930676c34a23dbf5c46" alt="" width="50" /> | Kids Again | Love Goes | Sam Smith | [Capitol](.) | 893 | | [🔗](https://open.spotify.com/track/5LL9lSNn26GBoC5StQ3itk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="" width="50" /> | That's Where I Am | Surrender | Maggie Rogers | [Capitol Records](.) | 893 | 💚 | [🔗](https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh) |
 
 </details>
 

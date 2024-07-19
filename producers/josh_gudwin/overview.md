@@ -11,7 +11,7 @@
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 3 | 7 | 7 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | 82 | 3 | 3 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | 84 | 3 | 3 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 193 | 3 | 3 | [Justin Bieber](../../artists/justin_bieber/overview.md) | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 124 | 2 | 2 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c6952f39ba680489149a54c" alt="" width="50" /> | 9 | 1 | 1 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |

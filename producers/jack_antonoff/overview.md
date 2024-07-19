@@ -13,11 +13,11 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | 21 | 17 | 17 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | 19 | 17 | 17 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0bae7cfd3b32b10154e0b8b3" alt="" width="50" /> | 25 | 2 | 2 | [Sara Bareilles](../../artists/sara_bareilles/overview.md) | [🔗](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe053b8338322b9c8609ee7ae" alt="" width="50" /> | 409 | 1 | 1 | Sabrina Carpenter | [🔗](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb746dd598cf914934bd27ed7e" alt="" width="50" /> | 33 | 1 | 1 | [Pentatonix](../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4" alt="" width="50" /> | 275 | 1 | 1 | [Olivia Rodrigo](../../artists/olivia_rodrigo/overview.md) | [🔗](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4" alt="" width="50" /> | 276 | 1 | 1 | [Olivia Rodrigo](../../artists/olivia_rodrigo/overview.md) | [🔗](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 113 | 1 | 1 | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 
 ## Works with Producers

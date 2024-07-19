@@ -67,7 +67,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb49650981041de1e313be97d8" alt="" width="50" /> | 398 | 1 | 0 | SiR | [🔗](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb85b6cbf01747c44e145c5a20" alt="" width="50" /> | 409 | 1 | 0 | X Ambassadors | [🔗](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebebfd16a3bca87c31c1e20576" alt="" width="50" /> | 409 | 1 | 0 | Alicia Keys | [🔗](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe74b7398634a741f74858dc7" alt="" width="50" /> | 409 | 1 | 0 | Alessia Cara | [🔗](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6cde43f126518af0ef8eddc2" alt="" width="50" /> | 409 | 1 | 0 | Alessia Cara | [🔗](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfd7cca32a58a9bb263fb5c4a" alt="" width="50" /> | 409 | 1 | 0 | Trey Songz | [🔗](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2aab40ce03f3fa86163f78bb" alt="" width="50" /> | 409 | 1 | 0 | Jack Harlow | [🔗](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c48431caf52a2d0f38433ff" alt="" width="50" /> | 409 | 1 | 0 | Jay Rock | [🔗](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) |
@@ -92,16 +92,16 @@
 
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 419 | <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" alt="Kings Of Crunk" width="50" /> | Get Low | 892 | <img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="Last Train To Paris" width="50" /> | Hello Good Morning |
-| 611 | <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="The Marshall Mathers LP2" width="50" /> | [The Monster](../../artists/eminem/overview.md) | 892 | <img src="https://i.scdn.co/image/ab67616d0000b2733eecc265c134153c14794aab" alt="Area Codes" width="50" /> | Area Codes |
-| 745 | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | [We Made You](../../artists/eminem/overview.md) | 892 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="Rap Or Go To The League" width="50" /> | Momma I Hit A Lick (feat. Kendrick Lamar) |
-| 861 | <img src="https://i.scdn.co/image/ab67616d0000b2732b9aca3204e667980ce6a939" alt="BUBBA" width="50" /> | Go DJ (feat. SiR) | 892 | <img src="https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd" alt="Genesis" width="50" /> | Break Ya Neck |
-| 892 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="Flockaveli" width="50" /> | No Hands (feat. Roscoe Dash & Wale) | 892 | <img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="Confessions of a Dangerous Mind" width="50" /> | Homicide (feat. Eminem) |
-| 892 | <img src="https://i.scdn.co/image/ab67616d0000b273790fab52efbb2d55bddbd247" alt="Trendsetter" width="50" /> | Trendsetter | 892 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="DAMN." width="50" /> | [HUMBLE.](../../artists/kendrick_lamar/overview.md) |
-| 892 | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Can't Tell Me Nothing | 892 | <img src="https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5" alt="Meet The Woo" width="50" /> | Dior |
-| 892 | <img src="https://i.scdn.co/image/ab67616d0000b2735db09bde92cc685403d7068f" alt="Elephunk" width="50" /> | Where Is The Love? | 892 | <img src="https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458" alt="The Pinkprint (Deluxe)" width="50" /> | Anaconda |
-| 892 | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="Recovery" width="50" /> | [Love The Way You Lie](../../artists/eminem/overview.md) | 892 | <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="Boss Bitch" width="50" /> | [Boss Bitch](../../artists/doja_cat/overview.md) |
-| 892 | <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Late Registration" width="50" /> | Gold Digger | 892 | <img src="https://i.scdn.co/image/ab67616d0000b2737587213b1be294ac4000f648" alt="euphoria" width="50" /> | [euphoria](../../artists/kendrick_lamar/overview.md) |
+| 422 | <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" alt="Kings Of Crunk" width="50" /> | Get Low | 893 | <img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="Last Train To Paris" width="50" /> | Hello Good Morning |
+| 616 | <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="The Marshall Mathers LP2" width="50" /> | [The Monster](../../artists/eminem/overview.md) | 893 | <img src="https://i.scdn.co/image/ab67616d0000b2733eecc265c134153c14794aab" alt="Area Codes" width="50" /> | Area Codes |
+| 750 | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | [We Made You](../../artists/eminem/overview.md) | 893 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="Rap Or Go To The League" width="50" /> | Momma I Hit A Lick (feat. Kendrick Lamar) |
+| 864 | <img src="https://i.scdn.co/image/ab67616d0000b2732b9aca3204e667980ce6a939" alt="BUBBA" width="50" /> | Go DJ (feat. SiR) | 893 | <img src="https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd" alt="Genesis" width="50" /> | Break Ya Neck |
+| 893 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="Flockaveli" width="50" /> | No Hands (feat. Roscoe Dash & Wale) | 893 | <img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="Confessions of a Dangerous Mind" width="50" /> | Homicide (feat. Eminem) |
+| 893 | <img src="https://i.scdn.co/image/ab67616d0000b273790fab52efbb2d55bddbd247" alt="Trendsetter" width="50" /> | Trendsetter | 893 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="DAMN." width="50" /> | [HUMBLE.](../../artists/kendrick_lamar/overview.md) |
+| 893 | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Can't Tell Me Nothing | 893 | <img src="https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5" alt="Meet The Woo" width="50" /> | Dior |
+| 893 | <img src="https://i.scdn.co/image/ab67616d0000b2735db09bde92cc685403d7068f" alt="Elephunk" width="50" /> | Where Is The Love? | 893 | <img src="https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458" alt="The Pinkprint (Deluxe)" width="50" /> | Anaconda |
+| 893 | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="Recovery" width="50" /> | [Love The Way You Lie](../../artists/eminem/overview.md) | 893 | <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="Boss Bitch" width="50" /> | [Boss Bitch](../../artists/doja_cat/overview.md) |
+| 893 | <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Late Registration" width="50" /> | Gold Digger | 893 | <img src="https://i.scdn.co/image/ab67616d0000b2737587213b1be294ac4000f648" alt="euphoria" width="50" /> | [euphoria](../../artists/kendrick_lamar/overview.md) |
 
 </details>
 
@@ -117,8 +117,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737587213b1be294ac4000f648" alt="" width="50" /> | 598 | 1 | 1 | euphoria | 2024-04-30 | [🔗](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="" width="50" /> | 598 | 1 | 1 | WAP (feat. Megan Thee Stallion) | 2020-08-07 | [🔗](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273790fab52efbb2d55bddbd247" alt="" width="50" /> | 598 | 1 | 1 | Trendsetter | 2023-11-03 | [🔗](https://open.spotify.com/album/1Hxam85Bhf98cIkMRKX9QA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | 415 | 1 | 1 | The Marshall Mathers LP2 | 2013-11-05 | [🔗](https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="" width="50" /> | 503 | 1 | 1 | Relapse: Refill | 2009-05-15 | [🔗](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | 419 | 1 | 1 | The Marshall Mathers LP2 | 2013-11-05 | [🔗](https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="" width="50" /> | 506 | 1 | 1 | Relapse: Refill | 2009-05-15 | [🔗](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="" width="50" /> | 598 | 1 | 1 | Recovery | 2010-06-18 | [🔗](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343f15453faa4973061411a79" alt="" width="50" /> | 598 | 1 | 1 | Pink Friday | 2010-01-01 | [🔗](https://open.spotify.com/album/5jem47f4IRH6UaxNAWO6vD) |
 
@@ -134,7 +134,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="" width="50" /> | 598 | 1 | 1 | My Beautiful Dark Twisted Fantasy | 2010-11-22 | [🔗](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f82c7e4376cf8267fb396b7d" alt="" width="50" /> | 598 | 1 | 1 | Mack Daddy | 1992-01-01 | [🔗](https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="" width="50" /> | 598 | 1 | 1 | Last Train To Paris | 2010-01-01 | [🔗](https://open.spotify.com/album/2psjRixnoePs8ZqE8cuU5Z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" alt="" width="50" /> | 303 | 1 | 1 | Kings Of Crunk | 2002-10-29 | [🔗](https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" alt="" width="50" /> | 304 | 1 | 1 | Kings Of Crunk | 2002-10-29 | [🔗](https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc26c1e9b1cc4ecd87e9ddef" alt="" width="50" /> | 598 | 1 | 1 | In My Defense | 2019-07-19 | [🔗](https://open.spotify.com/album/3kQvfhjfU6Mleis6k6vpmw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="" width="50" /> | 598 | 1 | 1 | Graduation | 2007-09-11 | [🔗](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) |
 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="" width="50" /> | 598 | 1 | 1 | Flockaveli | 2010-10-01 | [🔗](https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM) |
@@ -164,7 +164,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273cfdf40cf325b609a52457805" alt="" width="50" /> | 598 | 1 | 0 | Everybody | 2017-05-05 | [🔗](https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="" width="50" /> | 598 | 1 | 0 | Confessions of a Dangerous Mind | 2019-05-10 | [🔗](https://open.spotify.com/album/0XLwImzaZEtqHE4NHAepDz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e19b1b51cdd35051e17cf6dc" alt="" width="50" /> | 598 | 1 | 0 | Bobby Tarantino II | 2018-03-09 | [🔗](https://open.spotify.com/album/4F87p1aiFwHeU4uu65MaPV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732b9aca3204e667980ce6a939" alt="" width="50" /> | 575 | 1 | 0 | BUBBA | 2019-12-13 | [🔗](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732b9aca3204e667980ce6a939" alt="" width="50" /> | 576 | 1 | 0 | BUBBA | 2019-12-13 | [🔗](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733eecc265c134153c14794aab" alt="" width="50" /> | 598 | 1 | 0 | Area Codes | 2023-03-17 | [🔗](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) |
 
 </details>
@@ -243,8 +243,8 @@
 | 10 | 8 | west coast rap |
 | 9 | 7 | [pop](../../genres/pop/overview.md) |
 | 7 | 5 | [dance pop](../../genres/dance_pop/overview.md) |
-| 15 | 4 | pop rap |
 | 4 | 4 | detroit hip hop |
+| 14 | 3 | pop rap |
 | 6 | 3 | atl hip hop |
 | 6 | 2 | trap |
 

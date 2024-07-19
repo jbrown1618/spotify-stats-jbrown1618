@@ -17,7 +17,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5d240324ac824155b978c329" alt="" width="50" /> | 310 | 1 | 1 | Tank and The Bangas | [🔗](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c017e1e34973fabb15fc0a4" alt="" width="50" /> | 409 | 1 | 1 | Pink Siifu | [🔗](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) |
 | | 409 | 1 | 1 | Tommy Raps | [🔗](https://open.spotify.com/artist/2jDVhHiltj9mEWoIGdBg3z) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 40 | 1 | 1 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 39 | 1 | 1 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
 
 ## Works with Producers
 
