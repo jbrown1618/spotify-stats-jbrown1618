@@ -45,13 +45,13 @@ None
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 31 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 86 |
 | Moonlight | D-2 | Agust D | 0 | 2 | 75 |
-| Daechwita | D-2 | Agust D | 1 | 2 | 75 |
+| Daechwita | D-2 | Agust D | 2 | 2 | 75 |
 | Burn It (feat. MAX) | D-2 | Agust D | 0 | 2 | 75 |
 | People | D-2 | Agust D | 1 | 2 | 75 |
 | Strange (feat. RM) | D-2 | Agust D | 0 | 2 | 75 |
 | Burn It (feat. MAX) | D-2 | MAX | 0 | 2 | 66 |
 | Strange (feat. RM) | D-2 | RM | 0 | 2 | 76 |
-| Chasing Pavements | 19 | Adele | 0 | 0 | 83 |
+| Chasing Pavements | 19 | Adele | 0 | 0 | 84 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 78 |
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 52 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 48 |
@@ -65,7 +65,6 @@ None
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 67 |
 | Joker | Joker is Alive | Dalshabet | 1 | 0 | 30 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 0 | 0 | 72 |
-| Nothing Else Matters | Metallica | Metallica | 1 | 2 | 82 |
 | Wings | Wings | PIXY | 0 | 0 | 36 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 37 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 37 |
@@ -78,7 +77,7 @@ None
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 50 |
 | Think About Things | Think About Things | Daði Freyr | 1 | 0 | 50 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 50 |
-| I Want To Break Free | The Works | Queen | 0 | 0 | 84 |
+| I Want To Break Free | The Works | Queen | 0 | 1 | 84 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 84 |
 | Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 84 |
 | Somebody To Love | A Day At The Races | Queen | 0 | 0 | 84 |
@@ -88,18 +87,15 @@ None
 | RED | RED | The Rose | 0 | 0 | 62 |
 | She′s In The Rain | Dawn | The Rose | 0 | 0 | 62 |
 | Sorry | Sorry | The Rose | 0 | 0 | 62 |
-| Pokerap | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 53 |
-| Pokemon Theme | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 53 |
+| Pokerap | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 54 |
+| Pokemon Theme | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 54 |
 | Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 52 |
-| The Legend Of Zelda: Twilight Princess - Midna's Desperate Hour | Piano/Instrumental Works: Video Game Themes - Volume I | Michael Tai | 0 | 0 | 39 |
+| The Legend Of Zelda: Twilight Princess - Midna's Desperate Hour | Piano/Instrumental Works: Video Game Themes - Volume I | Michael Tai | 0 | 0 | 40 |
 | Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | 0 | 0 | 55 |
 | Just The Way You Are | Little Love - EP | James Smith | 0 | 0 | 51 |
 | I will show you | Invitation | AILEE | 0 | 0 | 57 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 61 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 55 |
-| Timshel | Sigh No More | Mumford & Sons | 0 | 1 | 70 |
-| Little Lion Man | Sigh No More | Mumford & Sons | 1 | 1 | 70 |
-| The Cave | Sigh No More | Mumford & Sons | 1 | 1 | 70 |
 | Star | [12:00] | LOONA | 2 | 1 | 54 |
 | Why Not? | [12:00] | LOONA | 2 | 1 | 54 |
 | Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 54 |
@@ -114,11 +110,10 @@ None
 | Just Right | Just Right | GOT7 | 0 | 0 | 58 |
 | If You Do | MAD | GOT7 | 0 | 0 | 58 |
 | You Calling My Name | Call My Name | GOT7 | 0 | 0 | 58 |
-| Flowers - Cover | Flowers (Cover) | YUQI | 0 | 0 | 61 |
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 26 |
-| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 75 |
+| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 76 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 78 |
-| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 76 |
+| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 77 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 60 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 72 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 74 |
@@ -155,4 +150,4 @@ None
 | Toy | Toy | Netta | 2 | 0 | 49 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
 | Lost Woods | Zelda: Ocarina of Time - Piano | Wesley Sprayue | 0 | 0 | 39 |
-| Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 52 |
+| Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 53 |
