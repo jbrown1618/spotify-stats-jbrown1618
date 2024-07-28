@@ -60,7 +60,7 @@ None
 | Underground | Artemis | Lindsey Stirling | 1 | 2 | 64 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 49 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 63 |
-| Sleep-walking | Prequel | Dreamcatcher | 1 | 2 | 61 |
+| Sleep-walking | Prequel | Dreamcatcher | 1 | 2 | 62 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 58 |
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 67 |
 | Joker | Joker is Alive | Dalshabet | 0 | 0 | 31 |
@@ -73,7 +73,7 @@ None
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 37 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 65 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 31 |
-| Drink It | Drink It | THE BOYZ | 0 | 0 | 58 |
+| Drink It | Drink It | THE BOYZ | 0 | 0 | 59 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 50 |
 | Think About Things | Think About Things | Daði Freyr | 1 | 0 | 50 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 50 |
@@ -100,7 +100,7 @@ None
 | Why Not? | [12:00] | LOONA | 2 | 1 | 54 |
 | Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 54 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 53 |
-| The Phantom Of The Opera | Century Child | Nightwish | 1 | 1 | 65 |
+| The Phantom Of The Opera | Century Child | Nightwish | 0 | 1 | 65 |
 | End Of All Hope | Century Child | Nightwish | 0 | 1 | 65 |
 | Nemo | Once | Nightwish | 0 | 0 | 65 |
 | Ya! (feat. Whee In) | Stay As You Are | Whee In | 1 | 1 | 50 |
@@ -113,7 +113,7 @@ None
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 26 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 76 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 78 |
-| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 77 |
+| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 76 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 60 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 72 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 74 |

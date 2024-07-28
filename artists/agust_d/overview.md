@@ -25,8 +25,8 @@ Agust D:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | 603 | 5 | 3 | D-2 | 2020-05-22 | [🔗](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | 265 | 4 | 2 | D-DAY | 2023-04-21 | [🔗](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | 604 | 5 | 3 | D-2 | 2020-05-22 | [🔗](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | 266 | 4 | 2 | D-DAY | 2023-04-21 | [🔗](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -62,12 +62,12 @@ Agust D:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | AMYGDALA | D-DAY | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 439 | | [🔗](https://open.spotify.com/track/5fj32MKLHkut2Vod1UodcU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | People Pt.2 (feat. IU) | D-DAY | [Agust D](overview.md), [IU](../iu/overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 695 | 💚 | [🔗](https://open.spotify.com/track/41JPN7pZMTp1sumBOHOzHd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | AMYGDALA | D-DAY | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 443 | | [🔗](https://open.spotify.com/track/5fj32MKLHkut2Vod1UodcU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | People Pt.2 (feat. IU) | D-DAY | [Agust D](overview.md), [IU](../iu/overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 702 | 💚 | [🔗](https://open.spotify.com/track/41JPN7pZMTp1sumBOHOzHd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose) | D-DAY | [Agust D](overview.md), Ryuichi Sakamoto, WOOSUNG | [BIGHIT MUSIC](../../labels/bighit_music) | 751 | 💚 | [🔗](https://open.spotify.com/track/4j3M8NrbGSXdMPwEVsnfHE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Burn It (feat. MAX) | D-2 | [Agust D](overview.md), MAX | [BIGHIT MUSIC](../../labels/bighit_music) | 900 | 💚 | [🔗](https://open.spotify.com/track/38iufYNK4hUzS649Oe2kZy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Daechwita | D-2 | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 900 | 💚 | [🔗](https://open.spotify.com/track/1Y7AZ3akqDipAyo6mmOQTy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Moonlight | D-2 | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 900 | | [🔗](https://open.spotify.com/track/057xGYST5exVyNevufrioZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | People | D-2 | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 900 | 💚 | [🔗](https://open.spotify.com/track/4wDSEE082RPcnhXzPzFhCp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Strange (feat. RM) | D-2 | [Agust D](overview.md), RM | [BIGHIT MUSIC](../../labels/bighit_music) | 900 | | [🔗](https://open.spotify.com/track/6x2arhzc99oGlqM82V0mnd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | Haegeum | D-DAY | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 900 | | [🔗](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Burn It (feat. MAX) | D-2 | [Agust D](overview.md), MAX | [BIGHIT MUSIC](../../labels/bighit_music) | 904 | 💚 | [🔗](https://open.spotify.com/track/38iufYNK4hUzS649Oe2kZy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Daechwita | D-2 | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 904 | 💚 | [🔗](https://open.spotify.com/track/1Y7AZ3akqDipAyo6mmOQTy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Moonlight | D-2 | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 904 | | [🔗](https://open.spotify.com/track/057xGYST5exVyNevufrioZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | People | D-2 | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 904 | 💚 | [🔗](https://open.spotify.com/track/4wDSEE082RPcnhXzPzFhCp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Strange (feat. RM) | D-2 | [Agust D](overview.md), RM | [BIGHIT MUSIC](../../labels/bighit_music) | 904 | | [🔗](https://open.spotify.com/track/6x2arhzc99oGlqM82V0mnd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | Haegeum | D-DAY | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 904 | | [🔗](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) |

@@ -13,21 +13,22 @@ Appears as:
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8e075c754be58cc33e30905a" alt="" width="50" /> | 14 | 11 | 10 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8e075c754be58cc33e30905a" alt="" width="50" /> | 14 | 10 | 9 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
+| | 409 | 1 | 1 | CHUNG HA | [🔗](https://open.spotify.com/artist/73tdwqQJWnBdf1jyUeMwyu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb20dfb8f52ef4926a22e552c8" alt="" width="50" /> | 181 | 1 | 1 | R3HAB | [🔗](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 69 | 1 | 1 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb06ffb2341b70acdcafa55599" alt="" width="50" /> | 100 | 1 | 1 | CHANGMO | [🔗](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb06ffb2341b70acdcafa55599" alt="" width="50" /> | 101 | 1 | 1 | CHANGMO | [🔗](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba16d9cf3cc90e28089cdf291" alt="" width="50" /> | 233 | 1 | 1 | Guaynaa | [🔗](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) |
 
-![Bar chart of top 5 artists](../../images/labels/mnh_entertainment/artists.png)
+![Bar chart of top 6 artists](../../images/labels/mnh_entertainment/artists.png)
 
 ## Top Albums
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | 169 | 7 | 7 | Querencia | 2021-02-15 | [🔗](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | 603 | 3 | 2 | Bare&Rare, Pt. 1 | 2022-07-11 | [🔗](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df3abb2b0071d1b11200db47" alt="" width="50" /> | 603 | 1 | 1 | Killing Me | 2021-11-29 | [🔗](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | 604 | 3 | 2 | Bare&Rare, Pt. 1 | 2022-07-11 | [🔗](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df3abb2b0071d1b11200db47" alt="" width="50" /> | 604 | 1 | 1 | Killing Me | 2021-11-29 | [🔗](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) |
 
 ![Bar chart of top 3 albums](../../images/labels/mnh_entertainment/albums.png)
 
@@ -35,7 +36,7 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 11 | 10 | [k-pop](../../genres/k-pop/overview.md) |
+| 10 | 9 | [k-pop](../../genres/k-pop/overview.md) |
 
 
 
@@ -111,15 +112,15 @@ Appears as:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Dream of You (with R3HAB) | Querencia | [CHUNG HA](../../artists/chung_ha/overview.md), R3HAB | [MNH ENTERTAINMENT](.) | 281 | 💚 | [🔗](https://open.spotify.com/track/1d8Arh7PushRWWJRs41rSa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Demente (feat. Guaynaa) | Querencia | [CHUNG HA](../../artists/chung_ha/overview.md), Guaynaa | [MNH ENTERTAINMENT](.) | 369 | 💚 | [🔗](https://open.spotify.com/track/0NhHFXC06r5kK1rTUuOjxM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Demente (feat. Guaynaa) | Querencia | [CHUNG HA](../../artists/chung_ha/overview.md), Guaynaa | [MNH ENTERTAINMENT](.) | 370 | 💚 | [🔗](https://open.spotify.com/track/0NhHFXC06r5kK1rTUuOjxM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Bicycle | Querencia | [CHUNG HA](../../artists/chung_ha/overview.md) | [MNH ENTERTAINMENT](.) | 561 | 💚 | [🔗](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Stay Tonight | Querencia | [CHUNG HA](../../artists/chung_ha/overview.md) | [MNH ENTERTAINMENT](.) | 706 | 💚 | [🔗](https://open.spotify.com/track/7Cn6R7YB4EjQkfci9DdceG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Flying on Faith | Querencia | [CHUNG HA](../../artists/chung_ha/overview.md) | [MNH ENTERTAINMENT](.) | 900 | 💚 | [🔗](https://open.spotify.com/track/34v3Sm3KEc7DtGPP50jyrl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Masquerade | Querencia | [CHUNG HA](../../artists/chung_ha/overview.md) | [MNH ENTERTAINMENT](.) | 900 | 💚 | [🔗](https://open.spotify.com/track/0AABiBAIYQCMpLI0ODbDDL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | PLAY (feat. Changmo) | Querencia | [CHUNG HA](../../artists/chung_ha/overview.md), CHANGMO | [MNH ENTERTAINMENT](.) | 900 | 💚 | [🔗](https://open.spotify.com/track/6UM5HKVVm1cjOQhUJB4Ft3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df3abb2b0071d1b11200db47" alt="" width="50" /> | Killing Me | Killing Me | [CHUNG HA](../../artists/chung_ha/overview.md) | [MNH ENTERTAINMENT](.) | 900 | 💚 | [🔗](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Crazy Like You (feat. BIBI) | Bare&Rare, Pt. 1 | [CHUNG HA](../../artists/chung_ha/overview.md), [BIBI](../../artists/bibi/overview.md) | [MNH ENTERTAINMENT](.) | 900 | 💚 | [🔗](https://open.spotify.com/track/0oUK4m2wNIBPfejlcB1N9k) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Good Night My Princess | Bare&Rare, Pt. 1 | [CHUNG HA](../../artists/chung_ha/overview.md) | [MNH ENTERTAINMENT](.) | 900 | | [🔗](https://open.spotify.com/track/12QoF5mIoZ1ZrVZFoc2Nwl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Stay Tonight | Querencia | [CHUNG HA](../../artists/chung_ha/overview.md) | [MNH ENTERTAINMENT](.) | 711 | 💚 | [🔗](https://open.spotify.com/track/7Cn6R7YB4EjQkfci9DdceG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Flying on Faith | Querencia | [CHUNG HA](../../artists/chung_ha/overview.md) | [MNH ENTERTAINMENT](.) | 904 | 💚 | [🔗](https://open.spotify.com/track/34v3Sm3KEc7DtGPP50jyrl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | Masquerade | Querencia | [CHUNG HA](../../artists/chung_ha/overview.md) | [MNH ENTERTAINMENT](.) | 904 | 💚 | [🔗](https://open.spotify.com/track/0AABiBAIYQCMpLI0ODbDDL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | PLAY (feat. Changmo) | Querencia | [CHUNG HA](../../artists/chung_ha/overview.md), CHANGMO | [MNH ENTERTAINMENT](.) | 904 | 💚 | [🔗](https://open.spotify.com/track/6UM5HKVVm1cjOQhUJB4Ft3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df3abb2b0071d1b11200db47" alt="" width="50" /> | Killing Me | Killing Me | CHUNG HA | [MNH ENTERTAINMENT](.) | 904 | 💚 | [🔗](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Crazy Like You (feat. BIBI) | Bare&Rare, Pt. 1 | [CHUNG HA](../../artists/chung_ha/overview.md), [BIBI](../../artists/bibi/overview.md) | [MNH ENTERTAINMENT](.) | 904 | 💚 | [🔗](https://open.spotify.com/track/0oUK4m2wNIBPfejlcB1N9k) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Good Night My Princess | Bare&Rare, Pt. 1 | [CHUNG HA](../../artists/chung_ha/overview.md) | [MNH ENTERTAINMENT](.) | 904 | | [🔗](https://open.spotify.com/track/12QoF5mIoZ1ZrVZFoc2Nwl) |
 
 
 <details>
@@ -127,7 +128,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Sparkling | Bare&Rare, Pt. 1 | [CHUNG HA](../../artists/chung_ha/overview.md) | [MNH ENTERTAINMENT](.) | 900 | 💚 | [🔗](https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Sparkling | Bare&Rare, Pt. 1 | [CHUNG HA](../../artists/chung_ha/overview.md) | [MNH ENTERTAINMENT](.) | 904 | 💚 | [🔗](https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7) |
 
 </details>
 
