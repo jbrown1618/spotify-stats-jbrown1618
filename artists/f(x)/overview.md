@@ -29,10 +29,10 @@ f(x):
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="" width="50" /> | 561 | 2 | 2 | Red Light - The 3rd Album | 2014-07-11 | [🔗](https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="" width="50" /> | 224 | 2 | 2 | Pink Tape - The 2nd Album | 2013-07-29 | [🔗](https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="" width="50" /> | 564 | 2 | 1 | Red Light - The 3rd Album | 2014-07-11 | [🔗](https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a58accf4805f4097859eeac" alt="" width="50" /> | 604 | 1 | 1 | Electric Shock - The 2nd Mini Album | 2012-06-10 | [🔗](https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b6baf420e67f45971ca0d216" alt="" width="50" /> | 428 | 1 | 1 | 4 Walls - The 4th Album | 2015-10-27 | [🔗](https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b6baf420e67f45971ca0d216" alt="" width="50" /> | 429 | 1 | 1 | 4 Walls - The 4th Album | 2015-10-27 | [🔗](https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -46,7 +46,7 @@ f(x):
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 6 | 5 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 6 | 6 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 
 ## Genres
 
@@ -59,7 +59,7 @@ f(x):
 
 | Credit Type | Tracks |
 |:---|---:|
-| Vocal | 5 |
+| Vocal | 6 |
 
 ### Member Credits
 
@@ -76,16 +76,16 @@ f(x):
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 5 | Producer |
-| | [이수만 (Lee, Soo-Man)](../../producers/이수만_(lee,_soo-man)/overview.md) | 4 | Producer |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 6 | Producer |
+| | [이수만 (Lee, Soo-Man)](../../producers/이수만_(lee,_soo-man)/overview.md) | 5 | Producer |
 | | 남궁진 (Nam Goong, Jin) | 3 | Producer |
-| | 이민규 (Lee, Min-kyu) | 2 | Producer |
-| | Maarten ten Hove | 2 | Arranger |
+| | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 3 | Producer |
 | | William Laseroms | 2 | Arranger |
-| | 전간디 (Jun, Gan Di) | 2 | Lyricist |
+| | 이민규 (Lee, Min-kyu) | 2 | Producer |
 | | Joachim Vermeulen Windsant | 2 | Arranger |
-| | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 2 | Producer |
-| | Iggy Strange-Dahl | 1 | Arranger |
+| | [정의석 (Jung, Euisuk)](../../producers/정의석_(jung,_euisuk)/overview.md) | 2 | Producer |
+| | Maarten ten Hove | 2 | Arranger |
+| | 전간디 (Jun, Gan Di) | 2 | Lyricist |
 
 
 <details>
@@ -93,34 +93,42 @@ f(x):
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 1 | Lyricist |
-| | 정의석 (Jung, Euisuk) | 1 | Producer |
-| | 이면숙 (Lee, Myun-Sook) | 1 | Producer |
-| | Anne Judith Wik | 1 | Arranger |
-| | Sophie Ellis-Bextor | 1 | Arranger |
-| | Ylva Dimberg | 1 | Arranger |
-| | Cathy Dennis | 1 | Arranger |
 | | Erik Lewander | 1 | Arranger |
+| | [서지음 (Seo, Ji Eum)](../../producers/서지음_(seo,_ji_eum)/overview.md) | 1 | Lyricist |
+| | Anne Judith Wik | 1 | Arranger |
+| | Ylva Dimberg | 1 | Arranger |
+| | Sophie Ellis-Bextor | 1 | Arranger |
+| | 이면숙 (Lee, Myun-Sook) | 1 | Producer |
+| | Allison Kaplan | 1 | Arranger |
+| | Daniel Ullmann | 1 | Arranger |
 | | Tay Jasper | 1 | Songwriter |
-| | 이스란 (Lee, Seran) | 1 | Lyricist |
+| | Maxx Song | 1 | Producer |
+| | Cathy Dennis | 1 | Arranger |
 | | [LDN Noise](../../producers/ldn_noise/overview.md) | 1 | Arranger, Songwriter |
+| | Bryan Jarett | 1 | Arranger |
 | | [조윤경 (Jo, Yoon Kyung)](../../producers/조윤경_(jo,_yoon_kyung)/overview.md) | 1 | Lyricist |
 | | Adrian McKinnon | 1 | Songwriter |
 | | 김지은 (Kim, Ji-eun) | 1 | Producer |
 | | 정동윤 (Jung, Dong-yoon) | 1 | Arranger |
+| | 이지홍 (Lee, Ji-hong) | 1 | Producer |
+| | Sherry St. Germain | 1 | Arranger |
+| | 이스란 (Lee, Seran) | 1 | Lyricist |
+| | [Kenzie](../../producers/kenzie/overview.md) | 1 | Lyricist |
+| | Maegan Cottone | 1 | Arranger |
+| | Iggy Strange-Dahl | 1 | Arranger |
 | | Rob Fusari | 1 | Arranger |
 
 </details>
 
 
-![Bar chart of top 26 producers](../../images/artists/f(x)/producers.png)
+![Bar chart of top 30 producers](../../images/artists/f(x)/producers.png)
 ## Tracks
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="" width="50" /> | 첫 사랑니 (Rum Pum Pum Pum) | Pink Tape - The 2nd Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 307 | 💚 | [🔗](https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b6baf420e67f45971ca0d216" alt="" width="50" /> | 4 Walls | 4 Walls - The 4th Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 630 | 💚 | [🔗](https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="" width="50" /> | Dracula | Red Light - The 3rd Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 843 | 💚 | [🔗](https://open.spotify.com/track/5vClivCCQDK6sxmL6MhMFc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735a58accf4805f4097859eeac" alt="" width="50" /> | Electric Shock | Electric Shock - The 2nd Mini Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 904 | 💚 | [🔗](https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="" width="50" /> | 미행 (그림자 : Shadow) | Pink Tape - The 2nd Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 904 | 💚 | [🔗](https://open.spotify.com/track/1xbJNPLSTtIWgGTt3Uu4gl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="" width="50" /> | Red Light | Red Light - The 3rd Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 904 | | [🔗](https://open.spotify.com/track/4ML3iXqwb35FHG0SW1HVGc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b6baf420e67f45971ca0d216" alt="" width="50" /> | 4 Walls | 4 Walls - The 4th Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 633 | 💚 | [🔗](https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="" width="50" /> | Dracula | Red Light - The 3rd Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 844 | 💚 | [🔗](https://open.spotify.com/track/5vClivCCQDK6sxmL6MhMFc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a58accf4805f4097859eeac" alt="" width="50" /> | Electric Shock | Electric Shock - The 2nd Mini Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 909 | 💚 | [🔗](https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="" width="50" /> | 미행 (그림자 : Shadow) | Pink Tape - The 2nd Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 909 | 💚 | [🔗](https://open.spotify.com/track/1xbJNPLSTtIWgGTt3Uu4gl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="" width="50" /> | Red Light | Red Light - The 3rd Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 909 | 💚 | [🔗](https://open.spotify.com/track/4ML3iXqwb35FHG0SW1HVGc) |

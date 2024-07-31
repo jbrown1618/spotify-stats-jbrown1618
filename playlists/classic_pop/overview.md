@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e0206ce0d1f846c525e847d60e7ab67616d00001e0222219b7ba681368a16c219feab67616d00001e0223350feac07f56d8b96f33d5ab67616d00001e026aa9314b7ddfbd8f036ba3ac" alt="Classic Pop" width="100" />
 
-[62 tracks (35 liked) 🔗](https://open.spotify.com/playlist/6oXUc88JlAQTNdKvn529pD)
+[63 tracks (36 liked) 🔗](https://open.spotify.com/playlist/6oXUc88JlAQTNdKvn529pD)
 
 [See Track Features](audio_features.md)
 
@@ -14,43 +14,44 @@
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | 167 | 8 | 5 | [Michael Jackson](../../artists/michael_jackson/overview.md) | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
-| <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 409 | 5 | 5 | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
+| <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 410 | 5 | 5 | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
 | <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | 149 | 4 | 3 | Stevie Wonder | [🔗](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd919dbf4e6ed3e695ba6339d" alt="" width="50" /> | 174 | 3 | 3 | George Michael | [🔗](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | 205 | 6 | 2 | Elton John | [🔗](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b" alt="" width="50" /> | 409 | 3 | 2 | Madonna | [🔗](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebec212a39ffa4182a0fff4e3c" alt="" width="50" /> | 409 | 4 | 1 | The Temptations | [🔗](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb94a8326675bfcafb20f0a235" alt="" width="50" /> | 409 | 3 | 1 | Johnny Cash | [🔗](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b" alt="" width="50" /> | 410 | 3 | 2 | Madonna | [🔗](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebec212a39ffa4182a0fff4e3c" alt="" width="50" /> | 410 | 4 | 1 | The Temptations | [🔗](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb94a8326675bfcafb20f0a235" alt="" width="50" /> | 410 | 3 | 1 | Johnny Cash | [🔗](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) |
 | <img src="https://i.scdn.co/image/19f768d93f6c80f7d4ca5b906e1c0376a3704389" alt="" width="50" /> | 177 | 3 | 1 | The Jackson 5 | [🔗](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb12cfc0c902710269d3a954aa" alt="" width="50" /> | 237 | 2 | 1 | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
 
 
 <details>
-<summary>See all 31 artists</summary>
+<summary>See all 32 artists</summary>
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738badfd8e1d01763ef8f2912f" alt="" width="50" /> | 409 | 1 | 1 | Walter Murphy | [🔗](https://open.spotify.com/artist/73JBR5s2PVvUjGu6tIqjqx) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | 409 | 1 | 1 | Commodores | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb75ca1c0223fc450dfe3c1ec" alt="" width="50" /> | 409 | 1 | 1 | Gloria Gaynor | [🔗](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcbe7ddc503fe3f14a2a56ac7" alt="" width="50" /> | 409 | 1 | 1 | Lou Bega | [🔗](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | 409 | 1 | 1 | Harry Chapin | [🔗](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) |
-| <img src="https://i.scdn.co/image/ab6772690000c46cb8af37ba12c1ad7ebcc63c25" alt="" width="50" /> | 409 | 1 | 1 | Frankie Valli | [🔗](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738badfd8e1d01763ef8f2912f" alt="" width="50" /> | 410 | 1 | 1 | Walter Murphy | [🔗](https://open.spotify.com/artist/73JBR5s2PVvUjGu6tIqjqx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | 410 | 1 | 1 | Commodores | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcd9f60ab57585bf3b77ecc51" alt="" width="50" /> | 410 | 1 | 1 | Whitney Houston | [🔗](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb75ca1c0223fc450dfe3c1ec" alt="" width="50" /> | 410 | 1 | 1 | Gloria Gaynor | [🔗](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcbe7ddc503fe3f14a2a56ac7" alt="" width="50" /> | 410 | 1 | 1 | Lou Bega | [🔗](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | 410 | 1 | 1 | Harry Chapin | [🔗](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) |
+| <img src="https://i.scdn.co/image/ab6772690000c46cb8af37ba12c1ad7ebcc63c25" alt="" width="50" /> | 410 | 1 | 1 | Frankie Valli | [🔗](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) |
 | <img src="https://i.scdn.co/image/e9df5954d907411a43487d61c1acae8a04ae0b93" alt="" width="50" /> | 285 | 1 | 1 | Chuck Mangione | [🔗](https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | 409 | 1 | 1 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
-| <img src="https://i.scdn.co/image/14925be3ce17d25a95b95ae7491e18fe3adc80b0" alt="" width="50" /> | 409 | 1 | 1 | Mary Wells | [🔗](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0cb3f95b9f8f7337e135a925" alt="" width="50" /> | 409 | 1 | 1 | Outkast | [🔗](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfdd9bd42889cb7bdeb631931" alt="" width="50" /> | 409 | 1 | 1 | Bonnie Tyler | [🔗](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf12270128127ba170f90097d" alt="" width="50" /> | 409 | 1 | 0 | Aretha Franklin | [🔗](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb15f9e9bf9aa9069d53fec1ce" alt="" width="50" /> | 409 | 1 | 0 | Cher | [🔗](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba9ac31bda8fe26b884522422" alt="" width="50" /> | 409 | 1 | 0 | The Foundations | [🔗](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) |
-| <img src="https://i.scdn.co/image/22c8cd28a71661b4dbd462e2d45b04b3e1b78572" alt="" width="50" /> | 409 | 1 | 0 | Ben E. King | [🔗](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb10d4a1b12c6ceda12d7cd248" alt="" width="50" /> | 409 | 1 | 0 | The Beach Boys | [🔗](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fbc98da6995bb0a504ed363d" alt="" width="50" /> | 409 | 1 | 0 | The Archies | [🔗](https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebea6c3263b9aeda33707faee5" alt="" width="50" /> | 409 | 1 | 0 | Carole King | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
-| <img src="https://i.scdn.co/image/733bf3eb9178fd24dbce4a9a5ec64d0c870ea822" alt="" width="50" /> | 409 | 1 | 0 | Katrina & The Waves | [🔗](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) |
-| <img src="https://i.scdn.co/image/1d5a05673975ba0c378cd280344e000b0b865620" alt="" width="50" /> | 409 | 1 | 0 | Bee Gees | [🔗](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739df742dcaf9b79edad9009d0" alt="" width="50" /> | 409 | 1 | 0 | The Tokens | [🔗](https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | 410 | 1 | 1 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
+| <img src="https://i.scdn.co/image/14925be3ce17d25a95b95ae7491e18fe3adc80b0" alt="" width="50" /> | 410 | 1 | 1 | Mary Wells | [🔗](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0cb3f95b9f8f7337e135a925" alt="" width="50" /> | 410 | 1 | 1 | Outkast | [🔗](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfdd9bd42889cb7bdeb631931" alt="" width="50" /> | 410 | 1 | 1 | Bonnie Tyler | [🔗](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf12270128127ba170f90097d" alt="" width="50" /> | 410 | 1 | 0 | Aretha Franklin | [🔗](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb15f9e9bf9aa9069d53fec1ce" alt="" width="50" /> | 410 | 1 | 0 | Cher | [🔗](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba9ac31bda8fe26b884522422" alt="" width="50" /> | 410 | 1 | 0 | The Foundations | [🔗](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) |
+| <img src="https://i.scdn.co/image/22c8cd28a71661b4dbd462e2d45b04b3e1b78572" alt="" width="50" /> | 410 | 1 | 0 | Ben E. King | [🔗](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb10d4a1b12c6ceda12d7cd248" alt="" width="50" /> | 410 | 1 | 0 | The Beach Boys | [🔗](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fbc98da6995bb0a504ed363d" alt="" width="50" /> | 410 | 1 | 0 | The Archies | [🔗](https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebea6c3263b9aeda33707faee5" alt="" width="50" /> | 410 | 1 | 0 | Carole King | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
+| <img src="https://i.scdn.co/image/733bf3eb9178fd24dbce4a9a5ec64d0c870ea822" alt="" width="50" /> | 410 | 1 | 0 | Katrina & The Waves | [🔗](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) |
+| <img src="https://i.scdn.co/image/1d5a05673975ba0c378cd280344e000b0b865620" alt="" width="50" /> | 410 | 1 | 0 | Bee Gees | [🔗](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739df742dcaf9b79edad9009d0" alt="" width="50" /> | 410 | 1 | 0 | The Tokens | [🔗](https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy) |
 
 </details>
 
@@ -69,16 +70,16 @@
 
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 364 | <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> | Your Song | 904 | <img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="I Never Loved a Man the Way I Love You" width="50" /> | Respect |
-| 401 | <img src="https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956" alt="Faith" width="50" /> | Faith - Remastered | 904 | <img src="https://i.scdn.co/image/ab67616d0000b27322219b7ba681368a16c219fe" alt="The Ultimate Bee Gees" width="50" /> | Stayin Alive |
-| 510 | <img src="https://i.scdn.co/image/ab67616d0000b273e2c1f7c1ee0ee027f41178fd" alt="Feels So Good" width="50" /> | Feels So Good | 904 | <img src="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" alt="20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor" width="50" /> | I Will Survive - Single Version |
-| 904 | <img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" alt="Katrina &amp; The Waves" width="50" /> | Walking On Sunshine | 904 | <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The &#x27;70s, &#x27;80s, &#x27;90s" width="50" /> | Papa Was A Rollin' Stone - Single Version |
-| 904 | <img src="https://i.scdn.co/image/ab67616d0000b273d8fb5b4308dc27f210064ef4" alt="Bookends" width="50" /> | [Mrs. Robinson - From "The Graduate" Soundtrack](../../artists/simon___garfunkel/overview.md) | 904 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="Thriller" width="50" /> | [Billie Jean](../../artists/michael_jackson/overview.md) |
-| 904 | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="Graceland (25th Anniversary Deluxe Edition)" width="50" /> | You Can Call Me Al | 904 | <img src="https://i.scdn.co/image/ab67616d0000b273a9c7219995206b7b7004ba2f" alt="Celebration (Bonus Track Version)" width="50" /> | Like a Prayer |
-| 904 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="Tapestry" width="50" /> | I Feel the Earth Move | 904 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="Bridge Over Troubled Water" width="50" /> | [The Boxer](../../artists/simon___garfunkel/overview.md) |
-| 904 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="Thriller" width="50" /> | [P.Y.T. (Pretty Young Thing)](../../artists/michael_jackson/overview.md) | 904 | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | My Girl |
-| 904 | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="Commodores" width="50" /> | Easy | 904 | <img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" alt="A Little Bit of Mambo" width="50" /> | Mambo No. 5 (a Little Bit of...) |
-| 904 | <img src="https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b" alt="Goodbye Yellow Brick Road (Remastered)" width="50" /> | Candle In The Wind - Remastered 2014 | 904 | <img src="https://i.scdn.co/image/ab67616d0000b273a075160177aa7b7508c4fc9e" alt="The Foundations" width="50" /> | Build Me Up Buttercup |
+| 367 | <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> | Your Song | 909 | <img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="I Never Loved a Man the Way I Love You" width="50" /> | Respect |
+| 404 | <img src="https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956" alt="Faith" width="50" /> | Faith - Remastered | 909 | <img src="https://i.scdn.co/image/ab67616d0000b27322219b7ba681368a16c219fe" alt="The Ultimate Bee Gees" width="50" /> | Stayin Alive |
+| 511 | <img src="https://i.scdn.co/image/ab67616d0000b273e2c1f7c1ee0ee027f41178fd" alt="Feels So Good" width="50" /> | Feels So Good | 909 | <img src="https://i.scdn.co/image/ab67616d0000b273a6479db910d22f5aa4546af1" alt="20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor" width="50" /> | I Will Survive - Single Version |
+| 827 | <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="The Definitive Collection" width="50" /> | Superstition - Single Version | 909 | <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The &#x27;70s, &#x27;80s, &#x27;90s" width="50" /> | Papa Was A Rollin' Stone - Single Version |
+| 909 | <img src="https://i.scdn.co/image/ab67616d0000b273eafaf556eda644a745d0144d" alt="Katrina &amp; The Waves" width="50" /> | Walking On Sunshine | 909 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="Thriller" width="50" /> | [Billie Jean](../../artists/michael_jackson/overview.md) |
+| 909 | <img src="https://i.scdn.co/image/ab67616d0000b273d8fb5b4308dc27f210064ef4" alt="Bookends" width="50" /> | [Mrs. Robinson - From "The Graduate" Soundtrack](../../artists/simon___garfunkel/overview.md) | 909 | <img src="https://i.scdn.co/image/ab67616d0000b273a9c7219995206b7b7004ba2f" alt="Celebration (Bonus Track Version)" width="50" /> | Like a Prayer |
+| 909 | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="Graceland (25th Anniversary Deluxe Edition)" width="50" /> | You Can Call Me Al | 909 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="Bridge Over Troubled Water" width="50" /> | [The Boxer](../../artists/simon___garfunkel/overview.md) |
+| 909 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="Tapestry" width="50" /> | I Feel the Earth Move | 909 | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | My Girl |
+| 909 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="Thriller" width="50" /> | [P.Y.T. (Pretty Young Thing)](../../artists/michael_jackson/overview.md) | 909 | <img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" alt="A Little Bit of Mambo" width="50" /> | Mambo No. 5 (a Little Bit of...) |
+| 909 | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="Commodores" width="50" /> | Easy | 909 | <img src="https://i.scdn.co/image/ab67616d0000b273a075160177aa7b7508c4fc9e" alt="The Foundations" width="50" /> | Build Me Up Buttercup |
 
 </details>
 
@@ -101,11 +102,12 @@
 
 
 <details>
-<summary>See all 53 albums</summary>
+<summary>See all 54 albums</summary>
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="" width="50" /> | 604 | 1 | 1 | The Definitive Collection | 2002-10-29 | [🔗](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="" width="50" /> | 551 | 1 | 1 | The Definitive Collection | 2002-10-29 | [🔗](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273456c0b5d0316a80dc600802e" alt="" width="50" /> | 604 | 1 | 1 | The Bodyguard - Original Soundtrack Album | 1992-11-17 | [🔗](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736a6387ab37f64034cdc7b367" alt="" width="50" /> | 604 | 1 | 1 | Speakerboxxx/The Love Below | 2003 | [🔗](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="" width="50" /> | 604 | 1 | 1 | Songs In The Key Of Life | 1976-09-28 | [🔗](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b" alt="" width="50" /> | 604 | 1 | 1 | Signed, Sealed And Delivered | 1970-08-07 | [🔗](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) |
@@ -117,9 +119,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27399d424b0873a9a714279a9f3" alt="" width="50" /> | 604 | 1 | 1 | Like a Virgin | 1984-11-12 | [🔗](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27364c19b24ce947ffa363f8f96" alt="" width="50" /> | 604 | 1 | 1 | Ladies And Gentlemen... The Best Of George Michael | 1998-11-09 | [🔗](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="" width="50" /> | 604 | 1 | 1 | Graceland (25th Anniversary Deluxe Edition) | 1986-08-12 | [🔗](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e2c1f7c1ee0ee027f41178fd" alt="" width="50" /> | 352 | 1 | 1 | Feels So Good | 1977-12-08 | [🔗](https://open.spotify.com/album/5w0p1F0Q1wBqsX2UiX6CCD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956" alt="" width="50" /> | 290 | 1 | 1 | Faith | 1987-10-30 | [🔗](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="" width="50" /> | 263 | 1 | 1 | Elton John | 1970-04-10 | [🔗](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e2c1f7c1ee0ee027f41178fd" alt="" width="50" /> | 353 | 1 | 1 | Feels So Good | 1977-12-08 | [🔗](https://open.spotify.com/album/5w0p1F0Q1wBqsX2UiX6CCD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b7a9a6a2bf311630d3fc6956" alt="" width="50" /> | 289 | 1 | 1 | Faith | 1987-10-30 | [🔗](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="" width="50" /> | 264 | 1 | 1 | Elton John | 1970-04-10 | [🔗](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" alt="" width="50" /> | 604 | 1 | 1 | Diana Ross Presents The Jackson 5 | 1969-12-18 | [🔗](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="" width="50" /> | 604 | 1 | 1 | Commodores | 1977-01-01 | [🔗](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8fb5b4308dc27f210064ef4" alt="" width="50" /> | 604 | 1 | 1 | Bookends | 1968-04-03 | [🔗](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) |
@@ -166,8 +168,8 @@
 | 3 | 2 | [UMC (Universal Music Catalogue)](../../labels/umc_(universal_music_catalogue)/overview.md) |
 | 2 | 2 | Sony Music CG |
 | 2 | 2 | [Rhino](../../labels/rhino/overview.md) |
+| 2 | 2 | Arista |
 | 4 | 1 | [Legacy](../../labels/legacy/overview.md) |
-| 3 | 1 | [Capitol Records](../../labels/capitol_records/overview.md) |
 
 
 <details>
@@ -175,6 +177,7 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 3 | 1 | [Capitol Records](../../labels/capitol_records/overview.md) |
 | 2 | 1 | Columbia Nashville Legacy |
 | 2 | 1 | Bee Gees Catalog |
 | 1 | 1 | Vorsicht Musik |
@@ -183,7 +186,6 @@
 | 1 | 1 | [Polydor Records](../../labels/polydor_records/overview.md) |
 | 1 | 1 | Legacy Recordings |
 | 1 | 1 | Elektra |
-| 1 | 1 | Arista |
 | 1 | 1 | A&M |
 | 3 | 0 | [EMI](../../labels/emi/overview.md) |
 | 2 | 0 | Rhino Atlantic |
@@ -221,13 +223,13 @@
 |---:|---:|:---|
 | 5 | 4 | new wave pop |
 | 7 | 3 | disco |
+| 5 | 3 | [pop](../../genres/pop/overview.md) |
+| 5 | 3 | [dance pop](../../genres/dance_pop/overview.md) |
 | 4 | 3 | [adult standards](../../genres/adult_standards/overview.md) |
 | 6 | 2 | [piano rock](../../genres/piano_rock/overview.md) |
 | 6 | 2 | glam rock |
 | 6 | 2 | classic soul |
 | 4 | 2 | [singer-songwriter](../../genres/singer-songwriter/overview.md) |
-| 4 | 2 | [pop](../../genres/pop/overview.md) |
-| 4 | 2 | [dance pop](../../genres/dance_pop/overview.md) |
 | 3 | 2 | [lounge](../../genres/lounge/overview.md) |
 | 5 | 1 | memphis soul |
 | 3 | 1 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
@@ -269,16 +271,16 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
+| | Quincy Jones | 5 | Producer, Arranger, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | Paul Simon | 5 | Lyricist, Producer, Songwriter |
 | | Bruce Swedien | 5 | Producer |
-| | Quincy Jones | 5 | Producer, Arranger, Songwriter |
 | | Roy Halee | 4 | Producer |
 | | Art Garfunkel | 3 | Producer |
-| | Jerry Hey | 3 | Arranger |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0e08ea2c4d6789fbf5cbe0aa" alt="" width="50" /> | [Michael Jackson](../../artists/michael_jackson/overview.md) | 3 | Lyricist, Producer, Songwriter, Arranger |
+| | Jerry Hey | 3 | Arranger |
 | <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | Stevie Wonder | 3 | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd919dbf4e6ed3e695ba6339d" alt="" width="50" /> | George Michael | 3 | Arranger, Producer, Songwriter, Lyricist |
-| | Smokey Robinson | 2 | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | Elton John | 2 | Songwriter |
 
 
 <details>
@@ -286,80 +288,85 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Berry Gordy | 2 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | Elton John | 2 | Songwriter |
 | | Rod Temperton | 2 | Arranger, Lyricist, Songwriter |
+| | Smokey Robinson | 2 | Lyricist, Songwriter |
+| | Ted Brosnan | 2 | Producer |
+| | Berry Gordy | 2 | Songwriter |
 | | Bernie Taupin | 2 | Lyricist |
 | | Freddie Perren | 2 | Songwriter |
-| | Ted Brosnan | 2 | Producer |
-| | D. Fact | 1 | Producer |
-| | Greg Phillinganes | 1 | Producer |
-| | Billy Steinberg | 1 | Songwriter |
-| | Holly Sherwood | 1 | Arranger |
-| | Zippy | 1 | Lyricist, Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin | 1 | Songwriter |
-| | Pérez Prado (Pérez Prado) | 1 | Songwriter |
+| | Michael Vail Blum | 1 | Producer |
 | | Neal Pogue | 1 | Producer |
+| | Holly Sherwood | 1 | Arranger |
 | | John Jansen | 1 | Producer |
 | | Rory Dodd | 1 | Arranger |
+| | Zippy | 1 | Lyricist, Producer |
 | | Ronald White | 1 | Songwriter |
-| | Michael Vail Blum | 1 | Producer |
+| | Billy Steinberg | 1 | Songwriter |
+| | Jeremy Lubbock | 1 | Arranger |
+| | D. Fact | 1 | Producer |
+| | Greg Phillinganes | 1 | Producer |
+| | Pérez Prado (Pérez Prado) | 1 | Songwriter |
+| | David Foster | 1 | Arranger, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | Harry Chapin | 1 | Songwriter |
+| | Eric Troyer | 1 | Arranger |
+| | Fonce Mizell | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1984263efe557e8116f0780a" alt="" width="50" /> | André 3000 | 1 | Producer |
+| | Hal Davis | 1 | Songwriter |
+| | Bill Wolfer | 1 | Producer |
+| | Gus Dudgeon | 1 | Producer |
+| | James Anthony Carmichael | 1 | Producer |
+| | David Hentschel | 1 | Producer |
+| | Bob Crewe | 1 | Songwriter |
+| | David Reitzas | 1 | Producer |
+| | Ellen Foley | 1 | Arranger |
+| <img src="https://i.scdn.co/image/6511b1fe261da3b6c6b69ae2aa771cfd307a18ae" alt="" width="50" /> | Nile Rodgers | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738badfd8e1d01763ef8f2912f" alt="" width="50" /> | Walter Murphy | 1 | Arranger |
+| | André Benjamin (Benjamin, André) | 1 | Lyricist, Songwriter |
 | | Dean Pitchford | 1 | Lyricist |
 | | Thomas J. Valentino | 1 | Producer |
 | | Robert Hannon | 1 | Producer |
-| | André Benjamin (Benjamin, André) | 1 | Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738badfd8e1d01763ef8f2912f" alt="" width="50" /> | Walter Murphy | 1 | Arranger |
-| <img src="https://i.scdn.co/image/6511b1fe261da3b6c6b69ae2aa771cfd307a18ae" alt="" width="50" /> | Nile Rodgers | 1 | Producer |
-| | Ellen Foley | 1 | Arranger |
-| | Bob Crewe | 1 | Songwriter |
-| | Eric Troyer | 1 | Arranger |
-| | David Hentschel | 1 | Producer |
-| | James Anthony Carmichael | 1 | Producer |
-| | Gus Dudgeon | 1 | Producer |
-| | Bill Wolfer | 1 | Producer |
-| | Hal Davis | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1984263efe557e8116f0780a" alt="" width="50" /> | André 3000 | 1 | Producer |
-| | Fonce Mizell | 1 | Songwriter |
 | | Donn Landee | 1 | Producer |
 | | Jim Steinman | 1 | Producer, Songwriter |
 | | Lee Gillette | 1 | Producer |
-| | Bob Gaudio | 1 | Songwriter |
-| | Tom Kelly | 1 | Songwriter |
+| | Jason Corsaro | 1 | Producer |
 | | Lionel Richie | 1 | Lyricist, Songwriter |
 | | Don Law | 1 | Producer |
 | | Arthur Payson | 1 | Producer |
 | | Dino Fekaris | 1 | Songwriter |
 | | The Corporation | 1 | Producer |
 | | Chikapa "Ray" Phiri | 1 | Arranger |
+| | Bob Gaudio | 1 | Songwriter |
 | | eden ahbez | 1 | Lyricist, Songwriter |
-| | Bill Bottrell | 1 | Producer |
 | | Rob Eaton | 1 | Producer |
+| | Mick Guzauski | 1 | Producer |
 | <img src="https://i.scdn.co/image/db022999443da6f89e250086329d98b17399b346" alt="" width="50" /> | [Ludwig van Beethoven](../../artists/ludwig_van_beethoven/overview.md) | 1 | Songwriter |
 | | Del Newman | 1 | Arranger |
 | | James Ingram | 1 | Arranger, Songwriter |
 | | Neil Dorfsman | 1 | Producer |
 | | Anthony Marinelli | 1 | Producer |
 | | Rob Mounsey | 1 | Arranger |
-| | Jason Corsaro | 1 | Producer |
-| | Patrick Leonard | 1 | Producer, Songwriter |
-| | Willie Hutch | 1 | Songwriter |
-| | Pete Novak | 1 | Producer |
 | | John Philip Shenale | 1 | Producer |
+| | Tom Kelly | 1 | Songwriter |
+| | Bill Bottrell | 1 | Producer |
+| | Willie Hutch | 1 | Songwriter |
+| | Patrick Leonard | 1 | Producer, Songwriter |
 | | Steve Porcaro | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b" alt="" width="50" /> | Madonna | 1 | Producer, Songwriter |
 | | Frank Jones | 1 | Producer |
 | | Deke Richards | 1 | Songwriter |
 | | Andrew Ridgeley | 1 | Songwriter |
 | | L.A. Reid | 1 | Producer |
+| | Pete Novak | 1 | Producer |
 | | Bob West | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/e9df5954d907411a43487d61c1acae8a04ae0b93" alt="" width="50" /> | Chuck Mangione | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcbe7ddc503fe3f14a2a56ac7" alt="" width="50" /> | Lou Bega | 1 | Lyricist, Producer |
 | | John Frye | 1 | Producer |
 | | Tom Wilson | 1 | Producer |
 | | Sandra Campbell Chapin | 1 | Songwriter |
 | | Tom "Bones" Malone | 1 | Arranger |
+| | Linda Thompson | 1 | Songwriter |
 | | June Carter Cash | 1 | Songwriter |
 | | Frank Lio | 1 | Producer |
+| <img src="https://i.scdn.co/image/e9df5954d907411a43487d61c1acae8a04ae0b93" alt="" width="50" /> | Chuck Mangione | 1 | Songwriter |
 | | Merle Kilgore | 1 | Songwriter |
 
 </details>

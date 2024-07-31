@@ -18,7 +18,7 @@ MOMOLAND:
 - has member 연우 (Yeon-woo)
 
 ## Artist Rank
-- The #271 artist of all time
+- The #272 artist of all time
 
 ![Rank of MOMOLAND over time](../../images/artists/momoland/rank_time_series.png)
 ## Top Albums
@@ -63,9 +63,9 @@ MOMOLAND:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273a5bb4ef1ca42f4378d815c7c" alt="" width="50" /> | BBoom BBoom | GREAT! | [MOMOLAND](overview.md) | [DUBLEKICK COMPANY, Kakao Entertainment](../../labels/kakao_entertainment) | 904 | 💚 | [🔗](https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342b393df3e24a66e5accbf2b" alt="" width="50" /> | BAAM | Fun to The World | [MOMOLAND](overview.md) | [MLD ENTERTAINMENT, Kakao Entertainment](../../labels/kakao_entertainment) | 904 | 💚 | [🔗](https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735dd07552de8e974829621d84" alt="" width="50" /> | I’m So Hot | Show Me | [MOMOLAND](overview.md) | MLD ENTERTAINMENT, Kakao M Corp. | 904 | 💚 | [🔗](https://open.spotify.com/track/5unCIQfJLMtcsiU6MP5zmB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac8b86555966c2b9e42688ca" alt="" width="50" /> | BANANA CHACHA | BANANA CHACHA | [MOMOLAND](overview.md) | ICONIX | 904 | | [🔗](https://open.spotify.com/track/5rEkbyBhnuVXLfe6yp8f3b) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a200f972bd8b1f9cb76da8c2" alt="" width="50" /> | Wrap Me In Plastic | Wrap Me In Plastic | [MOMOLAND](overview.md), CHROMANCE | [Columbia/B1 Recordings](../../labels/columbia) | 904 | 💚 | [🔗](https://open.spotify.com/track/5mpWGq83n0sIgGRopGk5QZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27352db41e897d3a8dc72929208" alt="" width="50" /> | Yummy Yummy Love | Yummy Yummy Love | [MOMOLAND](overview.md), NATTI NATASHA | MLD entertainment | 904 | 💚 | [🔗](https://open.spotify.com/track/4yTvTZ68CSpqV1T6AuGikB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a5bb4ef1ca42f4378d815c7c" alt="" width="50" /> | BBoom BBoom | GREAT! | [MOMOLAND](overview.md) | [DUBLEKICK COMPANY, Kakao Entertainment](../../labels/kakao_entertainment) | 909 | 💚 | [🔗](https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342b393df3e24a66e5accbf2b" alt="" width="50" /> | BAAM | Fun to The World | [MOMOLAND](overview.md) | [MLD ENTERTAINMENT, Kakao Entertainment](../../labels/kakao_entertainment) | 909 | 💚 | [🔗](https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735dd07552de8e974829621d84" alt="" width="50" /> | I’m So Hot | Show Me | [MOMOLAND](overview.md) | MLD ENTERTAINMENT, Kakao M Corp. | 909 | 💚 | [🔗](https://open.spotify.com/track/5unCIQfJLMtcsiU6MP5zmB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac8b86555966c2b9e42688ca" alt="" width="50" /> | BANANA CHACHA | BANANA CHACHA | [MOMOLAND](overview.md) | ICONIX | 909 | | [🔗](https://open.spotify.com/track/5rEkbyBhnuVXLfe6yp8f3b) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a200f972bd8b1f9cb76da8c2" alt="" width="50" /> | Wrap Me In Plastic | Wrap Me In Plastic | [MOMOLAND](overview.md), CHROMANCE | [Columbia/B1 Recordings](../../labels/columbia) | 909 | 💚 | [🔗](https://open.spotify.com/track/5mpWGq83n0sIgGRopGk5QZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27352db41e897d3a8dc72929208" alt="" width="50" /> | Yummy Yummy Love | Yummy Yummy Love | [MOMOLAND](overview.md), NATTI NATASHA | MLD entertainment | 909 | 💚 | [🔗](https://open.spotify.com/track/4yTvTZ68CSpqV1T6AuGikB) |
