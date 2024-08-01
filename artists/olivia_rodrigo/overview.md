@@ -20,11 +20,11 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273670ec029374e082f921f9f74" alt="" width="50" /> | 604 | 1 | 1 | good 4 u | 2021-05-14 | [🔗](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ffc294c1c4362e8472d14cd" alt="" width="50" /> | 604 | 1 | 1 | drivers license | 2021-01-08 | [🔗](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735a61e19eaffec620c1899c47" alt="" width="50" /> | 604 | 1 | 1 | deja vu | 2021-04-01 | [🔗](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734063d624ebf8ff67bc3701ee" alt="" width="50" /> | 604 | 1 | 1 | GUTS (spilled) | 2024-03-22 | [🔗](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" alt="" width="50" /> | 340 | 1 | 1 | GUTS | 2023-09-08 | [🔗](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273670ec029374e082f921f9f74" alt="" width="50" /> | 606 | 1 | 1 | good 4 u | 2021-05-14 | [🔗](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ffc294c1c4362e8472d14cd" alt="" width="50" /> | 606 | 1 | 1 | drivers license | 2021-01-08 | [🔗](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a61e19eaffec620c1899c47" alt="" width="50" /> | 606 | 1 | 1 | deja vu | 2021-04-01 | [🔗](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734063d624ebf8ff67bc3701ee" alt="" width="50" /> | 606 | 1 | 1 | GUTS (spilled) | 2024-03-22 | [🔗](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" alt="" width="50" /> | 341 | 1 | 1 | GUTS | 2023-09-08 | [🔗](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -99,8 +99,8 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" alt="" width="50" /> | vampire | GUTS | [Olivia Rodrigo](overview.md) | Olivia Rodrigo PS | 482 | 💚 | [🔗](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ffc294c1c4362e8472d14cd" alt="" width="50" /> | drivers license | drivers license | [Olivia Rodrigo](overview.md) | Olivia Rodrigo PS | 909 | 💚 | [🔗](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735a61e19eaffec620c1899c47" alt="" width="50" /> | deja vu | deja vu | [Olivia Rodrigo](overview.md) | Olivia Rodrigo PS | 909 | 💚 | [🔗](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273670ec029374e082f921f9f74" alt="" width="50" /> | good 4 u | good 4 u | [Olivia Rodrigo](overview.md) | Olivia Rodrigo PS | 909 | 💚 | [🔗](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734063d624ebf8ff67bc3701ee" alt="" width="50" /> | obsessed | GUTS (spilled) | [Olivia Rodrigo](overview.md) | Olivia Rodrigo PS | 909 | 💚 | [🔗](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" alt="" width="50" /> | vampire | GUTS | [Olivia Rodrigo](overview.md) | Olivia Rodrigo PS | 485 | 💚 | [🔗](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ffc294c1c4362e8472d14cd" alt="" width="50" /> | drivers license | drivers license | [Olivia Rodrigo](overview.md) | Olivia Rodrigo PS | 911 | 💚 | [🔗](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a61e19eaffec620c1899c47" alt="" width="50" /> | deja vu | deja vu | [Olivia Rodrigo](overview.md) | Olivia Rodrigo PS | 911 | 💚 | [🔗](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273670ec029374e082f921f9f74" alt="" width="50" /> | good 4 u | good 4 u | [Olivia Rodrigo](overview.md) | Olivia Rodrigo PS | 911 | 💚 | [🔗](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734063d624ebf8ff67bc3701ee" alt="" width="50" /> | obsessed | GUTS (spilled) | [Olivia Rodrigo](overview.md) | Olivia Rodrigo PS | 911 | 💚 | [🔗](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) |

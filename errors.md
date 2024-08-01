@@ -65,7 +65,7 @@ None
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 67 |
 | Joker | Joker is Alive | Dalshabet | 0 | 0 | 31 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 0 | 0 | 72 |
-| Wings | Wings | PIXY | 0 | 0 | 36 |
+| Wings | Wings | PIXY | 0 | 0 | 37 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
 | Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 38 |
@@ -97,7 +97,7 @@ None
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 61 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 55 |
 | Star | [12:00] | LOONA | 1 | 1 | 54 |
-| Why Not? | [12:00] | LOONA | 1 | 1 | 54 |
+| Why Not? | [12:00] | LOONA | 2 | 1 | 54 |
 | Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 54 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 53 |
 | The Phantom Of The Opera | Century Child | Nightwish | 0 | 1 | 65 |
@@ -109,7 +109,7 @@ None
 | Lullaby | Present : YOU | GOT7 | 0 | 1 | 58 |
 | Just Right | Just Right | GOT7 | 0 | 0 | 58 |
 | If You Do | MAD | GOT7 | 0 | 0 | 58 |
-| You Calling My Name | Call My Name | GOT7 | 1 | 0 | 58 |
+| You Calling My Name | Call My Name | GOT7 | 1 | 1 | 58 |
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 26 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 76 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 78 |
@@ -125,7 +125,7 @@ None
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 85 |
 | Miku | Miku | Anamanaguchi | 0 | 0 | 52 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 43 |
-| Heartbeat | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) | SURAN | 0 | 0 | 50 |
+| Heartbeat | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) | SURAN | 1 | 0 | 50 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 50 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 49 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
@@ -134,7 +134,7 @@ None
 | Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 46 |
 | When We Disco | When We Disco | SUNMI | 0 | 0 | 57 |
 | Who's Your Mama? | 24/34 | Jessi | 0 | 0 | 58 |
-| Djadja | Djadja | Aya Nakamura | 0 | 0 | 72 |
+| Djadja | Djadja | Aya Nakamura | 0 | 0 | 73 |
 | My House | No.5 | 2PM | 0 | 0 | 52 |
 | Still Alive | Portal 2: Songs to Test By (Collectors Edition) | Aperture Science Psychoacoustic Laboratories | 0 | 0 | 46 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 47 |
@@ -149,6 +149,5 @@ None
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 56 |
 | Toy | Toy | Netta | 2 | 0 | 50 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
-| 青春修炼手册 | 青春修炼手册 | TFBOYS | 2 | 1 | 41 |
 | Lost Woods | Zelda: Ocarina of Time - Piano | Wesley Sprayue | 0 | 0 | 39 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 53 |

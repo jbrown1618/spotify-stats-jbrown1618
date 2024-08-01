@@ -512,6 +512,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 13624580-6ba9-4413-b470-3aa2f0c770b9,Nicholas Peterson,"Peterson, Nicholas",member of Fleet Foxes,Person,,,,,
 136b2664-686f-4ae4-acf9-6f34446636d4,Danny Lohner,"Lohner, Danny",,Person,United States,Corpus Christi,1970-12-13,,Male
 136b287e-509f-4c61-b5ca-bf290cf1bfdb,Jason McGerr,"McGerr, Jason",,Person,United States,Seattle,,,Male
+136f98b4-9730-409c-a361-374e72b3830c,Daniela,Daniela,KATSEYE,Person,United States,Atlanta,2004-07-01,,Female
 13840f44-af26-4f5b-b01d-1f180481ae91,Guy Massey,"Massey, Guy",UK producer/engineer,Person,United Kingdom,,,,Male
 138ec3e3-32ca-4c83-b5e3-8da9c68916dd,Tamra Natisin,"Natisin, Tamra",,Person,,,,,
 138f4ce4-57e8-4a5d-bd24-1e9bb508baae,Chris Kirkpatrick,"Kirkpatrick, Chris",,Person,United States,Clarion,1971-10-17,,Male
@@ -931,6 +932,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 22f48353-38cd-4729-9fac-0288cb0bc159,양승욱,"Yang, Seung-wook",,Person,,,,,
 22fb31fb-bb68-4e9a-aaed-34eee698404b,한철규,"Han, Cheol-kyu",,Person,South Korea,,,,
 22fc5dc4-99a9-4b83-aaf0-492be37e5f74,Tomas Jönsson,"Jönsson, Tomas",saxophone,Person,,,,,
+22ff5fa0-eab6-4782-9989-a96b9a938786,Manon,Manon,KATSEYE,Person,United States,Zürich,2002-06-26,,Female
 23297f0c-690d-41ba-9b6b-6cb8f3a86187,Jason Agel,"Agel, Jason",,Person,United States,,,,Male
 233c1269-b18d-4bbb-8cf0-b394f027df65,TT,TT,engineer,Unknown,,,,,
 2345e7b4-9342-4db7-b903-e451cc9e5df1,Tobe Donahue,"Donahue, Tobe",,Person,,,,,
@@ -2285,6 +2287,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 55783d92-0646-4204-a638-a740e5f6d4dd,고원,Go Won,,Person,South Korea,,2000-11-19,,Female
 557a655d-80da-4f96-a445-a3b0d020d698,Pour Homme,Pour Homme,,Person,,,,,
 557b0c60-295a-4f8f-9138-ab2257025f77,Tom Coyne,"Coyne, Tom",mastering engineer,Person,United States,Elizabeth,1954-12-10,2017-04-12,Male
+557e2afa-96c5-4830-aed7-bab18faf4cb1,Sophia,Sophia,KATSEYE,Person,United States,Manila,2002-12-31,,Female
 557ec97f-7884-482e-9212-80049c87c11e,Jason Gossman,"Gossman, Jason",,Person,United States,,,,Male
 558302b1-07ae-4be1-9edb-2a2b1f036313,Roger Taylor,"Taylor, Roger",Queen drummer,Person,United Kingdom,Dersingham,1949-07-26,,Male
 5586921d-68c1-409c-86c5-b98b1e35d7f6,Remee,Remee,"Danish producer, composer and songwriter",Person,Denmark,,1974-11-08,,Male
@@ -2783,6 +2786,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 68f00683-13f6-4130-9616-008001add478,Alju Jackson,"Jackson, Alju",,Person,,,,,Female
 68ff53b0-089c-40d2-9c62-8a90e90093fb,가은,Gaeun,LIMELIGHT,Person,South Korea,Anyang,2005-11-08,,Female
 6913d66f-78e0-44b4-87ad-fcc73e56209f,GEMma,GEMma,Korean rapper/singer,Person,South Korea,,,,Female
+691f26ba-e171-45b5-a890-93e4f585982b,윤채,Yoonchae,,Person,United States,,2007-12-06,,Female
 6925db17-f35e-42f3-a4eb-84ee6bf5d4b0,Olivia Rodrigo,"Rodrigo, Olivia",,Person,United States,Murrieta,2003-02-20,,Female
 69375447-b0d5-4af8-9b80-44dc0e919eca,Maria Jamie Beatrice Alberto,"Alberto, Maria Jamie Beatrice",,Person,Philippines,Quezon City,2001-11-12,,Female
 693e5196-db3e-44b8-aa4b-a9818ec5724b,Carlos Battey,"Battey, Carlos",,Person,,Savannah,,,Male
@@ -3583,6 +3587,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 8833ff35-9138-4bde-bb21-8a5264102f17,Jochem van der Saag,"van der Saag, Jochem",,Person,United States,,,,Male
 883f9f3f-39a7-4e2b-82fc-b3cbe3c945a9,김윤성,"Kim, Yoon-Sung",,Person,South Korea,,1981-01-14,,Male
 8840289d-85c6-40bf-a7bf-e31cc36041b4,Will Jordan,"Jordan, Will","from Tacoma, WA",Unknown,,,,,
+884d5bf2-8af4-47d1-b43c-5bf4dbd490f5,Megan,Megan,KATSEYE,Person,United States,Honolulu,2006-02-10,,Female
 886557b3-2fa6-494e-993d-b955e789dc57,Lori McKenna,"McKenna, Lori",American folk singer/songwriter,Person,United States,Stoughton,1968-12-22,,Female
 887658d1-6756-4376-9c77-4b9d82a9892c,Frank Connelly,"Connelly, Frank",,Person,United States,,,,Male
 88795ca5-5bef-4253-ae0e-79a5d00e0388,Graham Gouldman,"Gouldman, Graham",,Person,United Kingdom,Salford,1946-05-10,,Male
@@ -3946,6 +3951,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 97671325-2ca3-4363-ad9a-6d2fa2c1e174,Matt Wiggins,"Wiggins, Matt","engineer, producer",Person,,,,,Male
 9770d5a3-5450-43a3-b11b-c83076dd9033,Jens Jungkurth,"Jungkurth, Jens",,Person,,,,,
 9774cfd1-8862-42bd-919e-156c31f079b4,Alan Parsons,"Parsons, Alan",of The Alan Parsons Project,Person,Santa Barbara,London,1948-12-20,,Male
+97760d94-e84e-4daa-90c8-5ccf80f3fb86,Lara,Lara,KATSEYE,Person,United States,Dallas,2005-11-03,,Female
 977780fe-263f-422b-9330-bfc707a0d46a,YENA,YENA,arranger,Person,,,,,
 9778db8c-eef0-463a-97ec-1dca84aba0d2,Matt Hales,"Hales, Matt","English pianist, singer-songwriter",Person,United Kingdom,Southampton,1972-01-17,,Male
 977e9297-a7e4-449c-94f0-2c500245d07e,Block B,Block B,,Group,South Korea,Seoul,2011,,
@@ -4446,6 +4452,7 @@ aba98805-2d8a-4c9c-9d92-3773a1d83ed8,Billy Hume,"Hume, Billy",,Person,Atlanta,,,
 abaef47f-10aa-405d-b6b9-4149e1d45a15,Willie Johnson,"Johnson, Willie",Member of The Famous Flames,Person,,Senatobia,1923-03-04,1995-02-26,Male
 abb43b40-3b04-41ff-8a60-064688bcf3fa,James Phillips,"Phillips, James",US hip-hop producer/songwriter aka L-Roc,Person,United States,,,,Male
 abbbef3b-19d7-4ef8-9ef2-e4d2c556509c,Take 6,Take 6,a cappella gospel sextet,Group,United States,Huntsville,1987,,
+abbf7d85-9a7f-4a6c-80bd-bf71f2c7d520,KATSEYE,KATSEYE,,Group,United States,Los Angeles,2023-11-18,,
 abc0fcdc-9b73-4e35-86fc-c1f3b16ab5c0,David Ferguson,"Ferguson, David","Nashville artist, sound engineer",Person,United States,Nashville,1962-07-02,,Male
 abc7fcdb-f88b-4318-97e4-28e4587105f9,SU-METAL,Su-metal,,Person,Japan,Hiroshima,1997-12-20,,Female
 abd506e1-6f2b-4d6f-b937-92c267f6f88b,Journey,Journey,American rock band,Group,United States,San Francisco,1973,,
