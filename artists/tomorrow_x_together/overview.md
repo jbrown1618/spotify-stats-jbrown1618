@@ -33,20 +33,20 @@ TOMORROW X TOGETHER:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | 606 | 3 | 2 | The Chaos Chapter: FREEZE | 2021-05-31 | [🔗](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733bb056e3160b85ee86c1194d" alt="" width="50" /> | 342 | 2 | 2 | The Name Chapter: TEMPTATION | 2023-01-27 | [🔗](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27313ac5d67675999ba7b9c4f21" alt="" width="50" /> | 606 | 1 | 1 | minisode 2: Thursday's Child | 2022-05-09 | [🔗](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739389aab1165b6498eba04d8e" alt="" width="50" /> | 606 | 1 | 1 | The Dream Chapter: MAGIC | 2019-10-21 | [🔗](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" alt="" width="50" /> | 606 | 1 | 1 | The Chaos Chapter: FIGHT OR ESCAPE | 2021-08-17 | [🔗](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738c6cdb00ed42b1d6315f0bc1" alt="" width="50" /> | 606 | 1 | 0 | minisode1 : Blue Hour | 2020-10-26 | [🔗](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b85b1b3fae4244c686929af5" alt="" width="50" /> | 606 | 1 | 0 | The Dream Chapter: ETERNITY | 2020-05-18 | [🔗](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="" width="50" /> | 606 | 1 | 0 | Cat & Dog (English Version) | 2019-05-03 | [🔗](https://open.spotify.com/album/4uJ120PsfiWOC7aV5FqGkU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | 610 | 3 | 2 | The Chaos Chapter: FREEZE | 2021-05-31 | [🔗](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733bb056e3160b85ee86c1194d" alt="" width="50" /> | 343 | 2 | 2 | The Name Chapter: TEMPTATION | 2023-01-27 | [🔗](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27313ac5d67675999ba7b9c4f21" alt="" width="50" /> | 610 | 1 | 1 | minisode 2: Thursday's Child | 2022-05-09 | [🔗](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739389aab1165b6498eba04d8e" alt="" width="50" /> | 610 | 1 | 1 | The Dream Chapter: MAGIC | 2019-10-21 | [🔗](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" alt="" width="50" /> | 610 | 1 | 1 | The Chaos Chapter: FIGHT OR ESCAPE | 2021-08-17 | [🔗](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738c6cdb00ed42b1d6315f0bc1" alt="" width="50" /> | 610 | 1 | 0 | minisode1 : Blue Hour | 2020-10-26 | [🔗](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b85b1b3fae4244c686929af5" alt="" width="50" /> | 610 | 1 | 0 | The Dream Chapter: ETERNITY | 2020-05-18 | [🔗](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="" width="50" /> | 610 | 1 | 0 | Cat & Dog (English Version) | 2019-05-03 | [🔗](https://open.spotify.com/album/4uJ120PsfiWOC7aV5FqGkU) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 10 | [K-Pop](../../playlists/k-pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e021544041d0285585cc92c2709ab67616d00001e0235cdd6d3f5815afac043758eab67616d00001e02714e56679ab196354e2e443eab67616d00001e0282f9c612adc8bc8d1d62461a" alt="" width="50" /> | 2 | [애교！](../../playlists/애교！/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e021544041d0285585cc92c2709ab67616d00001e024a6096741dcf413354a59554ab67616d00001e02714e56679ab196354e2e443eab67616d00001e0282f9c612adc8bc8d1d62461a" alt="" width="50" /> | 2 | [애교！](../../playlists/애교！/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e025c041fe9e3c9de436047d86bab67616d00001e02714e56679ab196354e2e443eab67616d00001e027a393b04e8ced571618223e8ab67616d00001e027dd8f95320e8ef08aa121dfe" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k-pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022270d3bd1d13133edf0be836ab67616d00001e026017bca98dea58ceddea77c1ab67616d00001e02a0df2d59f0ae9426cba3eb36ab67616d00001e02cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 1 | [Cursed English](../../playlists/cursed_english/overview.md) |
@@ -68,16 +68,16 @@ TOMORROW X TOGETHER:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733bb056e3160b85ee86c1194d" alt="" width="50" /> | Devil by the Window | The Name Chapter: TEMPTATION | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 487 | 💚 | [🔗](https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="" width="50" /> | Cat & Dog (English Version) | Cat & Dog (English Version) | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 911 | | [🔗](https://open.spotify.com/track/0wzlQwQ17rpVVqgdaFNA7Q) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739389aab1165b6498eba04d8e" alt="" width="50" /> | 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 911 | 💚 | [🔗](https://open.spotify.com/track/1rqb2FCXVn2HNL1afJEnTr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b85b1b3fae4244c686929af5" alt="" width="50" /> | Fairy of Shampoo | The Dream Chapter: ETERNITY | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 911 | | [🔗](https://open.spotify.com/track/5JXpZcc3CeQaC6vAF1iaV5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738c6cdb00ed42b1d6315f0bc1" alt="" width="50" /> | Blue Hour | minisode1 : Blue Hour | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 911 | | [🔗](https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | 0X1=LOVESONG (I Know I Love You) feat. Seori | The Chaos Chapter: FREEZE | [TOMORROW X TOGETHER](overview.md), Seori | [Republic Records](../../labels/republic_records) | 911 | 💚 | [🔗](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | Anti-Romantic | The Chaos Chapter: FREEZE | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 911 | 💚 | [🔗](https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | Frost | The Chaos Chapter: FREEZE | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 911 | | [🔗](https://open.spotify.com/track/3Yp61j6axuQe4nxYWvbOXy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" alt="" width="50" /> | LO$ER=LO♡ER | The Chaos Chapter: FIGHT OR ESCAPE | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 911 | 💚 | [🔗](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27313ac5d67675999ba7b9c4f21" alt="" width="50" /> | Opening Sequence | minisode 2: Thursday's Child | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 911 | 💚 | [🔗](https://open.spotify.com/track/1exxGxUMlJWD1h9YcE9YZH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733bb056e3160b85ee86c1194d" alt="" width="50" /> | Devil by the Window | The Name Chapter: TEMPTATION | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 489 | 💚 | [🔗](https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="" width="50" /> | Cat & Dog (English Version) | Cat & Dog (English Version) | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 917 | | [🔗](https://open.spotify.com/track/0wzlQwQ17rpVVqgdaFNA7Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739389aab1165b6498eba04d8e" alt="" width="50" /> | 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 917 | 💚 | [🔗](https://open.spotify.com/track/1rqb2FCXVn2HNL1afJEnTr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b85b1b3fae4244c686929af5" alt="" width="50" /> | Fairy of Shampoo | The Dream Chapter: ETERNITY | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 917 | | [🔗](https://open.spotify.com/track/5JXpZcc3CeQaC6vAF1iaV5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738c6cdb00ed42b1d6315f0bc1" alt="" width="50" /> | Blue Hour | minisode1 : Blue Hour | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 917 | | [🔗](https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | 0X1=LOVESONG (I Know I Love You) feat. Seori | The Chaos Chapter: FREEZE | [TOMORROW X TOGETHER](overview.md), Seori | [Republic Records](../../labels/republic_records) | 917 | 💚 | [🔗](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | Anti-Romantic | The Chaos Chapter: FREEZE | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 917 | 💚 | [🔗](https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="" width="50" /> | Frost | The Chaos Chapter: FREEZE | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 917 | | [🔗](https://open.spotify.com/track/3Yp61j6axuQe4nxYWvbOXy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735137378ed49327e5dec7406f" alt="" width="50" /> | LO$ER=LO♡ER | The Chaos Chapter: FIGHT OR ESCAPE | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 917 | 💚 | [🔗](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27313ac5d67675999ba7b9c4f21" alt="" width="50" /> | Opening Sequence | minisode 2: Thursday's Child | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 917 | 💚 | [🔗](https://open.spotify.com/track/1exxGxUMlJWD1h9YcE9YZH) |
 
 
 <details>
@@ -85,7 +85,7 @@ TOMORROW X TOGETHER:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733bb056e3160b85ee86c1194d" alt="" width="50" /> | Sugar Rush Ride | The Name Chapter: TEMPTATION | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 911 | 💚 | [🔗](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733bb056e3160b85ee86c1194d" alt="" width="50" /> | Sugar Rush Ride | The Name Chapter: TEMPTATION | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 917 | 💚 | [🔗](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) |
 
 </details>
 

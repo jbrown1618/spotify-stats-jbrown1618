@@ -19,9 +19,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb050bd4c225df076baeb835ad" alt="" width="50" /> | 185 | 1 | 1 | [VIVIZ](../../artists/viviz/overview.md) | [🔗](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="" width="50" /> | 31 | 1 | 1 | [GOT the beat](../../artists/got_the_beat/overview.md) | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 70 | 1 | 1 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4f66a54f209012eec464efef" alt="" width="50" /> | 326 | 1 | 1 | SISTAR19 | [🔗](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4f66a54f209012eec464efef" alt="" width="50" /> | 327 | 1 | 1 | SISTAR19 | [🔗](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | 96 | 1 | 1 | [LOONA](../../artists/loona/overview.md) | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb86ea393b9e590523e822ea13" alt="" width="50" /> | 323 | 1 | 1 | YooA | [🔗](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb86ea393b9e590523e822ea13" alt="" width="50" /> | 324 | 1 | 1 | YooA | [🔗](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5e97e9ea9133fbfa41e27498" alt="" width="50" /> | 8 | 1 | 1 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 
 
@@ -32,7 +32,7 @@
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | 4 | 1 | 1 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e075c754be58cc33e30905a" alt="" width="50" /> | 14 | 1 | 1 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1edc72b57c227d48e28888b1" alt="" width="50" /> | 23 | 1 | 1 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1edc72b57c227d48e28888b1" alt="" width="50" /> | 22 | 1 | 1 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 18 | 1 | 1 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 
 </details>

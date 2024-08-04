@@ -21,10 +21,10 @@ NMIXX:
 
 ## Artist Rank
 NMIXX is currently:
-- The #19 artist of the last month
-- The #17 artist of the last 6 months
+- The #20 artist of the last month
+- The #15 artist of the last 6 months
 - The #16 artist of the last year
-- The #23 artist of all time
+- The #22 artist of all time
 
 ![Rank of NMIXX over time](../../images/artists/nmixx/rank_time_series.png)
 ## Top Tracks
@@ -59,14 +59,15 @@ NMIXX is currently:
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | 102 | 5 | 3 | expérgo | 2023-03-20 | [🔗](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | 49 | 3 | 3 | Fe3O4: BREAK | 2024-01-15 | [🔗](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | 606 | 2 | 2 | ENTWURF | 2022-09-19 | [🔗](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | 215 | 2 | 2 | AD MARE | 2022-02-22 | [🔗](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="" width="50" /> | 606 | 1 | 0 | 1st Intermixxion Single <Funky Glitter Christmas> | 2022-11-23 | [🔗](https://open.spotify.com/album/6cuwtxgP5dcbc87iAgSc25) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | 610 | 2 | 2 | ENTWURF | 2022-09-19 | [🔗](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | 217 | 2 | 2 | AD MARE | 2022-02-22 | [🔗](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273211dd4f1141b597f5f1c2ac9" alt="" width="50" /> | 610 | 1 | 1 | FEIFEI | 2024-07-31 | [🔗](https://open.spotify.com/album/3iM9IcCKlZrTtvjgKvbtBW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="" width="50" /> | 610 | 1 | 0 | 1st Intermixxion Single <Funky Glitter Christmas> | 2022-11-23 | [🔗](https://open.spotify.com/album/6cuwtxgP5dcbc87iAgSc25) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 12 | [K-Pop](../../playlists/k-pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 13 | [K-Pop](../../playlists/k-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 5 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e0286ca91e718866f411c01db5eab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02ce4f1737bc8a646c8c4bd25a" alt="" width="50" /> | 4 | [Beat Drop!](../../playlists/beat_drop!/overview.md) |
 | <img src="https://wrapped-images.spotifycdn.com/image/yts-2023/default/your-top-songs-2023_DEFAULT_en.jpg" alt="" width="50" /> | 2 | [Your Top Songs 2023](../../playlists/your_top_songs_2023/overview.md) |
@@ -74,6 +75,8 @@ NMIXX is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e021869a85947a5ea00df8c936fab67616d00001e025048ed32fafe7b9a50d0e410ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [Recommendations for Chris](../../playlists/recommendations_for_chris/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e025c041fe9e3c9de436047d86bab67616d00001e02714e56679ab196354e2e443eab67616d00001e027a393b04e8ced571618223e8ab67616d00001e027dd8f95320e8ef08aa121dfe" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k-pop_101/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0207568782625b85282541394bab67616d00001e0211c27127b91e1e4266152362ab67616d00001e024f6afc385052250c766a5683ab67616d00001e02bf32f4be80afeb0e1a09b27d" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022433cb43f0f2f0f23b7c8b82ab67616d00001e023a44a5105549a15dd92ed0c3ab67616d00001e024ccc03169b086af698178a99ab67616d00001e029922157daa474131bb3a0fbc" alt="" width="50" /> | 1 | [International Pop](../../playlists/international_pop/overview.md) |
 | <img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg" alt="" width="50" /> | 1 | [On Repeat](../../playlists/on_repeat/overview.md) |
 | <img src="https://wrapped-images.spotifycdn.com/image/yts-2022/default/your-top-songs-2022_default_en.jpg" alt="" width="50" /> | 1 | [Your Top Songs 2022](../../playlists/your_top_songs_2022/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e026f248f7695eb544a3a1955c5ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e028acb7bac073f378d59bf228eab67616d00001e02b3be3b970fc89a02f301c9da" alt="" width="50" /> | 1 | [Workout](../../playlists/workout/overview.md) |
@@ -85,6 +88,7 @@ NMIXX is currently:
 | Tracks | 💚 | Label |
 |---:|---:|:---|
 | 12 | 10 | [Republic Records](../../labels/republic_records/overview.md) |
+| 1 | 1 | I ONE Entertainment |
 | 1 | 0 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 
 ## Genres
@@ -109,16 +113,16 @@ NMIXX is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Dr.JO | 3 | Lyricist, Arranger |
-| | Ayushy | 3 | Songwriter, Arranger |
-| | 임찬미 (Kim, Chan-mi) | 3 | Producer |
-| | Brian U | 3 | Songwriter, Arranger |
+| | Frankie Day | 3 | Songwriter, Lyricist |
 | | [엄세희 (Um, Se-Hee)](../../producers/엄세희_(um,_se-hee)/overview.md) | 3 | Producer |
 | | 오현선 (Oh, Hyun-sun) | 3 | Lyricist |
-| | Frankie Day | 3 | Songwriter, Lyricist |
+| | Dr.JO | 3 | Lyricist, Arranger |
 | | [구혜진 (Gu, Hye-jin)](../../producers/구혜진_(gu,_hye-jin)/overview.md) | 3 | Producer |
+| | 임찬미 (Kim, Chan-mi) | 3 | Producer |
+| | Brian U | 3 | Songwriter, Arranger |
+| | Ayushy | 3 | Songwriter, Arranger |
+| | Charlotte Wilson | 2 | Songwriter, Arranger |
 | | 김영현 (Kim, Young-hyun) | 2 | Producer |
-| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 2 | Producer |
 
 
 <details>
@@ -126,40 +130,41 @@ NMIXX is currently:
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 2 | Producer |
-| | Charlotte Wilson | 2 | Songwriter, Arranger |
 | | 백새임 (Baek, Sae-im) | 2 | Lyricist |
 | | 아르마딜로 (Armadillo) | 2 | Arranger, Songwriter |
+| | [Tony Maserati](../../producers/tony_maserati/overview.md) | 2 | Producer |
 | | [이태섭 (Lee, Tae-Sub)](../../producers/이태섭_(lee,_tae-sub)/overview.md) | 2 | Producer |
-| | Enan | 1 | Songwriter |
-| | 강영현 (Kang, Young-hyun) | 1 | Lyricist |
-| | 이경원 (Lee, Kyung-won) | 1 | Producer |
-| | Call Me Loop | 1 | Lyricist, Songwriter |
-| | 오유원 (Oh, Yoo-won) | 1 | Lyricist |
-| | Joseph K | 1 | Arranger, Songwriter |
-| | [LDN Noise](../../producers/ldn_noise/overview.md) | 1 | Arranger |
-| | Hannah Robinson | 1 | Lyricist, Songwriter |
-| | HOJI | 1 | Songwriter |
-| | Chanti | 1 | Songwriter |
-| | Deza | 1 | Lyricist |
+| | [정은경 (Jung, Eun-Kyung)](../../producers/정은경_(jung,_eun-kyung)/overview.md) | 2 | Producer |
 | | Zaya | 1 | Lyricist |
-| | Awry | 1 | Songwriter |
 | | [구종필 (Koo, Jong-Pil)](../../producers/구종필_(koo,_jong-pil)/overview.md) | 1 | Producer |
+| | MJ | 1 | Producer |
+| | Joseph K | 1 | Arranger, Songwriter |
 | | Dem Jointz | 1 | Arranger, Songwriter |
 | | won. | 1 | Songwriter |
+| | Call Me Loop | 1 | Lyricist, Songwriter |
 | | MarkAlong | 1 | Songwriter |
-| | MJ | 1 | Producer |
-| | 조유리 (Jo, Yuri) | 1 | Lyricist |
-| | 성유진 (Sung, Yoojin) | 1 | Lyricist |
-| | Taet Chesterton | 1 | Songwriter |
-| | 서은일 (Seo, Eun-il) | 1 | Producer |
+| | Chanti | 1 | Songwriter |
+| | HOJI | 1 | Songwriter |
+| | Hannah Robinson | 1 | Lyricist, Songwriter |
+| | [LDN Noise](../../producers/ldn_noise/overview.md) | 1 | Arranger |
+| | 차이린 (Chailin) | 1 | Lyricist |
 | | Deanna | 1 | Songwriter |
-| | Brown Panda | 1 | Arranger, Songwriter |
-| | 김인 (Kim, In) | 1 | Lyricist |
 | | Greg Bonnick | 1 | Songwriter |
 | | 박지현 (Park, Ji-hyun) | 1 | Lyricist |
-| | 차이린 (Chailin) | 1 | Lyricist |
-| | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 1 | Arranger, Songwriter |
+| | 강영현 (Kang, Young-hyun) | 1 | Lyricist |
+| | Enan | 1 | Songwriter |
+| | Brown Panda | 1 | Arranger, Songwriter |
+| | 서은일 (Seo, Eun-il) | 1 | Producer |
+| | Taet Chesterton | 1 | Songwriter |
+| | 성유진 (Sung, Yoojin) | 1 | Lyricist |
+| | 조유리 (Jo, Yuri) | 1 | Lyricist |
+| | Awry | 1 | Songwriter |
+| | Deza | 1 | Lyricist |
+| | 오유원 (Oh, Yoo-won) | 1 | Lyricist |
+| | 김승현 (Kim, Seung-Hyeon) | 1 | Arranger |
+| | 이경원 (Lee, Kyung-won) | 1 | Producer |
+| | 김인 (Kim, In) | 1 | Lyricist |
+| | NVR know | 1 | Arranger, Songwriter |
 | | Jonkind | 1 | Songwriter |
 | | HONEY NOISE | 1 | Arranger, Producer, Songwriter |
 | | 강선영 (강선영) | 1 | Producer |
@@ -180,8 +185,8 @@ NMIXX is currently:
 | | Jan Baars | 1 | Songwriter |
 | | 원지애 (Won, Jiae) | 1 | Lyricist |
 | | C'SA | 1 | Arranger, Producer, Songwriter |
-| | NVR know | 1 | Arranger, Songwriter |
 | | 정다연 (Jeong, Dayeon) | 1 | Lyricist |
+| | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 1 | Arranger, Songwriter |
 | | Ericka Coulter | 1 | Songwriter |
 | | 명혜인 (Myeong, Hyein) | 1 | Lyricist |
 | | Awrii | 1 | Arranger, Songwriter |
@@ -204,16 +209,16 @@ NMIXX is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | DASH | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 92 | 💚 | [🔗](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | DASH | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 90 | 💚 | [🔗](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Soñar (Breaker) | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 95 | 💚 | [🔗](https://open.spotify.com/track/6UwrPxRaR5HPNLDDl7RcT9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Love Me Like This | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 130 | 💚 | [🔗](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Run For Roses | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 229 | 💚 | [🔗](https://open.spotify.com/track/4byr9TsXs4qtm8rG2FfwRW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Love Me Like This | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 131 | 💚 | [🔗](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Run For Roses | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 230 | 💚 | [🔗](https://open.spotify.com/track/4byr9TsXs4qtm8rG2FfwRW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | TANK | AD MARE | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 294 | 💚 | [🔗](https://open.spotify.com/track/4ZbXs9DzvdWlsQfA9ZUkCV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | HOME | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 355 | 💚 | [🔗](https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | O.O | AD MARE | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 911 | 💚 | [🔗](https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | COOL (Your rainbow) | ENTWURF | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 911 | 💚 | [🔗](https://open.spotify.com/track/3D5t7S7W8BABJvA1SAIAHb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | DICE | ENTWURF | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 911 | 💚 | [🔗](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="" width="50" /> | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | [NMIXX](overview.md) | [JYP Entertainment](../../labels/jyp_entertainment) | 911 | | [🔗](https://open.spotify.com/track/7ra9FZOGKDhiodoH5fuYsy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | O.O | AD MARE | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 917 | 💚 | [🔗](https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | COOL (Your rainbow) | ENTWURF | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 917 | 💚 | [🔗](https://open.spotify.com/track/3D5t7S7W8BABJvA1SAIAHb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | DICE | ENTWURF | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 917 | 💚 | [🔗](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="" width="50" /> | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | [NMIXX](overview.md) | [JYP Entertainment](../../labels/jyp_entertainment) | 917 | | [🔗](https://open.spotify.com/track/7ra9FZOGKDhiodoH5fuYsy) |
 
 
 <details>
@@ -221,9 +226,10 @@ NMIXX is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Just Did It | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 911 | 💚 | [🔗](https://open.spotify.com/track/5AgwBbICmOVLhl95tBiOg0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | PAXXWORD | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 911 | | [🔗](https://open.spotify.com/track/57IfwDNINXVRAWbmmaBcP9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Young, Dumb, Stupid | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 911 | | [🔗](https://open.spotify.com/track/5eD83TX5ERuyJ7chfed3MQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Just Did It | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 917 | 💚 | [🔗](https://open.spotify.com/track/5AgwBbICmOVLhl95tBiOg0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | PAXXWORD | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 917 | | [🔗](https://open.spotify.com/track/57IfwDNINXVRAWbmmaBcP9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Young, Dumb, Stupid | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 917 | | [🔗](https://open.spotify.com/track/5eD83TX5ERuyJ7chfed3MQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273211dd4f1141b597f5f1c2ac9" alt="" width="50" /> | FEIFEI | FEIFEI | [NMIXX](overview.md) | I ONE Entertainment | 917 | 💚 | [🔗](https://open.spotify.com/track/3xHoqEgh1tknyT2h7mKZnB) |
 
 </details>
 
