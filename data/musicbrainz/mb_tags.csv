@@ -1853,6 +1853,7 @@ tag,artist_mbid,mb_tag
 ,7bbd3cf6-5885-40c7-a3d0-f47d10ef2f4c,english
 ,7bd66c18-cb33-49aa-9279-140acedbdb49,english
 ,800760de-bdf8-43a2-8fe0-44a2401a5515,english
+,8227bee8-1bd7-42d8-9c0c-7805b5abcfe6,english
 ,825836b9-af8b-4449-b078-d51fad0db73e,english
 ,8a9ac1cb-faae-434e-8d60-b139a3707dfc,english
 ,8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b,english
@@ -3873,6 +3874,7 @@ tag,artist_mbid,mb_tag
 ,7e9bd05a-117f-4cce-87bc-e011527a8b18,pop
 ,7eb1ce54-a355-41f9-8d68-e018b096d427,pop
 ,8006f1d0-8851-46d8-a928-085c686b29b9,pop
+,802a3ea8-bd1b-4f97-9998-cbdd099d63d9,pop
 ,82eb8936-7bf6-4577-8320-a2639465206d,pop
 ,83096042-3785-481e-8843-dee69f1aad12,pop
 ,830e5c4e-6b7d-431d-86ab-00c751281dc5,pop
@@ -4441,6 +4443,7 @@ tag,artist_mbid,mb_tag
 ,73e5e69d-3554-40d8-8516-00cb38737a1c,r&b
 ,75a72702-a5ef-4513-bca5-c5b944903546,r&b
 ,7bd66c18-cb33-49aa-9279-140acedbdb49,r&b
+,802a3ea8-bd1b-4f97-9998-cbdd099d63d9,r&b
 ,82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751,r&b
 ,83096042-3785-481e-8843-dee69f1aad12,r&b
 ,859d0860-d480-4efd-970c-c05d5f1776b8,r&b
@@ -5006,6 +5009,7 @@ tag,artist_mbid,mb_tag
 ,7e9bd05a-117f-4cce-87bc-e011527a8b18,rock
 ,7eb1ce54-a355-41f9-8d68-e018b096d427,rock
 ,80e7cb60-3ed8-46dd-8eec-9052606306f2,rock
+,8227bee8-1bd7-42d8-9c0c-7805b5abcfe6,rock
 ,835a6d9c-fea0-4a71-ae52-9c4da946433a,rock
 ,839464fe-cd82-4aea-b866-cc2d29e31bb3,rock
 ,83cf78c3-c802-4d7e-aed6-65a354dbfdb0,rock
@@ -5578,6 +5582,7 @@ tag,artist_mbid,mb_tag
 ,7cfaac66-62e5-4fcd-af1b-9d3aa8f68e8b,soul
 ,7eb1ce54-a355-41f9-8d68-e018b096d427,soul
 ,7fa62c0b-2c74-491e-a2a1-17c3b043f326,soul
+,802a3ea8-bd1b-4f97-9998-cbdd099d63d9,soul
 ,82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751,soul
 ,8560d4e8-05e2-4c20-980b-ad2db445dd5d,soul
 ,859d0860-d480-4efd-970c-c05d5f1776b8,soul

@@ -17,7 +17,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc698d53b77db34027b00f853" alt="" width="50" /> | 413 | 24 | 0 | Disney | [🔗](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) |
 | <img src="https://i.scdn.co/image/191d9c926a51e6d0abc49b7416689b52a2662efc" alt="" width="50" /> | 200 | 5 | 0 | Lea Salonga | [🔗](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv) |
 | | 413 | 4 | 0 | Beth Fowler | [🔗](https://open.spotify.com/artist/7KNW6OwcA260MsaEtnvhxV) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb163f66fedf73f7d1759cea61" alt="" width="50" /> | 330 | 3 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb163f66fedf73f7d1759cea61" alt="" width="50" /> | 331 | 3 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27314dd049936f9d42787c8128d" alt="" width="50" /> | 413 | 3 | 0 | Tony Jay | [🔗](https://open.spotify.com/artist/5qQpn0ZokyamZjyKtkKUYD) |
 | | 413 | 3 | 0 | Chorus - The Hunchback Of Notre Dame | [🔗](https://open.spotify.com/artist/5oHSxqr1uDloCbJJPNBd6T) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf638289c7621609519d8ad24" alt="" width="50" /> | 413 | 3 | 0 | Daveed Diggs | [🔗](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P) |
@@ -40,7 +40,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21f0cc7dc3f69be76f6f7c11" alt="" width="50" /> | 413 | 2 | 0 | Joseph Williams | [🔗](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui) |
 | | 413 | 2 | 0 | Terrence Mann | [🔗](https://open.spotify.com/artist/5uBIsYz9WatgoViLG6pVj2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e289611f7682a04a2096ddbd" alt="" width="50" /> | 413 | 2 | 0 | Jerry Orbach | [🔗](https://open.spotify.com/artist/5i2OpmeVKsmViqoETxuOvO) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd1bdb51ebaf0b0b350987ece" alt="" width="50" /> | 413 | 2 | 0 | Jason Weaver | [🔗](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb979cb43b1b8da3699ef3e124" alt="" width="50" /> | 413 | 2 | 0 | Jason Weaver | [🔗](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ) |
 | | 413 | 2 | 0 | Tom Hulce | [🔗](https://open.spotify.com/artist/4wd5K3s3ekf0czSh2qGjTD) |
 | | 413 | 2 | 0 | Heath Lamberts | [🔗](https://open.spotify.com/artist/4YYb7AZfDDAmEHSdNCtQfL) |
 | <img src="https://i.scdn.co/image/71f1d9f48ea0176ccb1e4bea3925c39b4af9b3b5" alt="" width="50" /> | 413 | 2 | 0 | Robin Williams | [🔗](https://open.spotify.com/artist/4OrieSJUghNfNx5UuPCgxF) |
@@ -138,16 +138,16 @@
 
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 917 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="Tangled" width="50" /> | When Will My Life Begin? - From "Tangled" / Soundtrack Version | 917 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="The Little Mermaid Special Edition" width="50" /> | Poor Unfortunate Souls |
-| 917 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="The Little Mermaid Special Edition" width="50" /> | Les Poissons | 917 | <img src="https://i.scdn.co/image/ab67616d0000b2736cb0475872d38753052ac35a" alt="The Lion King: Original Broadway Cast Recording" width="50" /> | Can You Feel The Love Tonight |
-| 917 | <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="Beauty And The Beast: The Broadway Musical" width="50" /> | Beauty and the Beast | 917 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="The Little Mermaid Special Edition" width="50" /> | Part of Your World |
-| 917 | <img src="https://i.scdn.co/image/ab67616d0000b273f6a713be4f418307ab7ffaf4" alt="Hercules (Original Motion Picture Soundtrack)" width="50" /> | Go the Distance | 917 | <img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="The Jungle Book" width="50" /> | The Bare Necessities |
-| 917 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="The Lion King" width="50" /> | Circle of Life | 917 | <img src="https://i.scdn.co/image/ab67616d0000b273a45790b93f47d427a2aefa9d" alt="The Hunchback Of Notre Dame (Original Motion Picture Soundtrack)" width="50" /> | Out There |
-| 917 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="Beauty and the Beast" width="50" /> | Belle | 917 | <img src="https://i.scdn.co/image/ab67616d0000b27391eee92ba7620a88de647ade" alt="The Little Mermaid (Original Motion Picture Soundtrack)" width="50" /> | Under the Sea |
-| 917 | <img src="https://i.scdn.co/image/ab67616d0000b2739986d69836eac008a927b032" alt="Aladdin (Original Motion Picture Soundtrack)" width="50" /> | Speechless (Full) | 917 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="Mulan (Original Soundtrack)" width="50" /> | Honor To Us All |
-| 917 | <img src="https://i.scdn.co/image/ab67616d0000b273a985e1e7c6b095da213eaa7c" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> | Let It Go - From "Frozen"/Soundtrack Version | 917 | <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="Beauty And The Beast: The Broadway Musical" width="50" /> | Belle |
-| 917 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="The Lion King" width="50" /> | I Just Can't Wait to Be King | 917 | <img src="https://i.scdn.co/image/ab67616d0000b273a985e1e7c6b095da213eaa7c" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> | For the First Time in Forever - From "Frozen"/Soundtrack Version |
-| 917 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="Beauty and the Beast" width="50" /> | Gaston | 917 | <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="Beauty And The Beast: The Broadway Musical" width="50" /> | Be Our Guest |
+| 920 | <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="Tangled" width="50" /> | When Will My Life Begin? - From "Tangled" / Soundtrack Version | 920 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="The Little Mermaid Special Edition" width="50" /> | Poor Unfortunate Souls |
+| 920 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="The Little Mermaid Special Edition" width="50" /> | Les Poissons | 920 | <img src="https://i.scdn.co/image/ab67616d0000b2736cb0475872d38753052ac35a" alt="The Lion King: Original Broadway Cast Recording" width="50" /> | Can You Feel The Love Tonight |
+| 920 | <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="Beauty And The Beast: The Broadway Musical" width="50" /> | Beauty and the Beast | 920 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="The Little Mermaid Special Edition" width="50" /> | Part of Your World |
+| 920 | <img src="https://i.scdn.co/image/ab67616d0000b273f6a713be4f418307ab7ffaf4" alt="Hercules (Original Motion Picture Soundtrack)" width="50" /> | Go the Distance | 920 | <img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="The Jungle Book" width="50" /> | The Bare Necessities |
+| 920 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="The Lion King" width="50" /> | Circle of Life | 920 | <img src="https://i.scdn.co/image/ab67616d0000b273a45790b93f47d427a2aefa9d" alt="The Hunchback Of Notre Dame (Original Motion Picture Soundtrack)" width="50" /> | Out There |
+| 920 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="Beauty and the Beast" width="50" /> | Belle | 920 | <img src="https://i.scdn.co/image/ab67616d0000b27391eee92ba7620a88de647ade" alt="The Little Mermaid (Original Motion Picture Soundtrack)" width="50" /> | Under the Sea |
+| 920 | <img src="https://i.scdn.co/image/ab67616d0000b2739986d69836eac008a927b032" alt="Aladdin (Original Motion Picture Soundtrack)" width="50" /> | Speechless (Full) | 920 | <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="Mulan (Original Soundtrack)" width="50" /> | Honor To Us All |
+| 920 | <img src="https://i.scdn.co/image/ab67616d0000b273a985e1e7c6b095da213eaa7c" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> | Let It Go - From "Frozen"/Soundtrack Version | 920 | <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="Beauty And The Beast: The Broadway Musical" width="50" /> | Belle |
+| 920 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="The Lion King" width="50" /> | I Just Can't Wait to Be King | 920 | <img src="https://i.scdn.co/image/ab67616d0000b273a985e1e7c6b095da213eaa7c" alt="Frozen (Original Motion Picture Soundtrack / Deluxe Edition)" width="50" /> | For the First Time in Forever - From "Frozen"/Soundtrack Version |
+| 920 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="Beauty and the Beast" width="50" /> | Gaston | 920 | <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="Beauty And The Beast: The Broadway Musical" width="50" /> | Be Our Guest |
 
 </details>
 
@@ -157,16 +157,16 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="" width="50" /> | 610 | 6 | 0 | Beauty And The Beast: The Broadway Musical | 2006-06-06 | [🔗](https://open.spotify.com/album/3Pzoe4ffuNsxdgTHGaFJmo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | 610 | 5 | 0 | The Little Mermaid Special Edition | 2006-01-01 | [🔗](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27391eee92ba7620a88de647ade" alt="" width="50" /> | 610 | 5 | 0 | The Little Mermaid (Original Motion Picture Soundtrack) | 2023-05-19 | [🔗](https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | 610 | 5 | 0 | The Lion King | 1994-01-01 | [🔗](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | 610 | 5 | 0 | Beauty and the Beast | 1991-01-01 | [🔗](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="" width="50" /> | 610 | 5 | 0 | Aladdin Special Edition | 2004-01-01 | [🔗](https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a45790b93f47d427a2aefa9d" alt="" width="50" /> | 610 | 4 | 0 | The Hunchback Of Notre Dame (Original Motion Picture Soundtrack) | 1996-05-28 | [🔗](https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | 610 | 4 | 0 | Mulan (Original Soundtrack) | 1998-01-01 | [🔗](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a985e1e7c6b095da213eaa7c" alt="" width="50" /> | 610 | 4 | 0 | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) | 2013-01-01 | [🔗](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736cb0475872d38753052ac35a" alt="" width="50" /> | 610 | 3 | 0 | The Lion King: Original Broadway Cast Recording | 1997-01-01 | [🔗](https://open.spotify.com/album/1y6p6tINBthUWsQVQJmiYK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="" width="50" /> | 611 | 6 | 0 | Beauty And The Beast: The Broadway Musical | 2006-06-06 | [🔗](https://open.spotify.com/album/3Pzoe4ffuNsxdgTHGaFJmo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="" width="50" /> | 611 | 5 | 0 | The Little Mermaid Special Edition | 2006-01-01 | [🔗](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27391eee92ba7620a88de647ade" alt="" width="50" /> | 611 | 5 | 0 | The Little Mermaid (Original Motion Picture Soundtrack) | 2023-05-19 | [🔗](https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="" width="50" /> | 611 | 5 | 0 | The Lion King | 1994-01-01 | [🔗](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | 611 | 5 | 0 | Beauty and the Beast | 1991-01-01 | [🔗](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c" alt="" width="50" /> | 611 | 5 | 0 | Aladdin Special Edition | 2004-01-01 | [🔗](https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a45790b93f47d427a2aefa9d" alt="" width="50" /> | 611 | 4 | 0 | The Hunchback Of Notre Dame (Original Motion Picture Soundtrack) | 1996-05-28 | [🔗](https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc" alt="" width="50" /> | 611 | 4 | 0 | Mulan (Original Soundtrack) | 1998-01-01 | [🔗](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a985e1e7c6b095da213eaa7c" alt="" width="50" /> | 611 | 4 | 0 | Frozen (Original Motion Picture Soundtrack / Deluxe Edition) | 2013-01-01 | [🔗](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736cb0475872d38753052ac35a" alt="" width="50" /> | 611 | 3 | 0 | The Lion King: Original Broadway Cast Recording | 1997-01-01 | [🔗](https://open.spotify.com/album/1y6p6tINBthUWsQVQJmiYK) |
 
 
 <details>
@@ -174,22 +174,22 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | 610 | 3 | 0 | Tangled | 2010-01-01 | [🔗](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5758ffb1632e086776cf14d" alt="" width="50" /> | 610 | 2 | 0 | The Princess and the Frog (Original Motion Picture Soundtrack) | 2009-11-23 | [🔗](https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736eb04fff9fd19fd8f65b86e1" alt="" width="50" /> | 610 | 2 | 0 | The Lion King (Original Motion Picture Soundtrack) | 2019-07-11 | [🔗](https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="" width="50" /> | 610 | 2 | 0 | The Jungle Book | 1997-01-01 | [🔗](https://open.spotify.com/album/7zdZNXoapFcOW663zgLdOE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="" width="50" /> | 610 | 2 | 0 | Pocahontas | 1995-01-01 | [🔗](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f6a713be4f418307ab7ffaf4" alt="" width="50" /> | 610 | 2 | 0 | Hercules (Original Motion Picture Soundtrack) | 1997-01-01 | [🔗](https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739986d69836eac008a927b032" alt="" width="50" /> | 610 | 1 | 1 | Aladdin (Original Motion Picture Soundtrack) | 2019-05-22 | [🔗](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="" width="50" /> | 610 | 1 | 0 | The Journey so Far | 2011-08-09 | [🔗](https://open.spotify.com/album/3zr8JDmixklHY1sOURyfoK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732a8b6ce34511614c9373f423" alt="" width="50" /> | 610 | 1 | 0 | Songs and Story: Cinderella | 2009-01-01 | [🔗](https://open.spotify.com/album/1d4rBfCtXPqkphzbvjokLa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739a1b229fe1a132abf9599362" alt="" width="50" /> | 610 | 1 | 0 | Sleeping Beauty | 1996-01-01 | [🔗](https://open.spotify.com/album/3U3I9TY7on88tPvM1guh54) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733505183cc0e24d2f7560174a" alt="" width="50" /> | 610 | 1 | 0 | Moana (Original Motion Picture Soundtrack/Deluxe Edition) | 2016-11-18 | [🔗](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735929af1edd645142df679910" alt="" width="50" /> | 610 | 1 | 0 | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) | 2019-11-15 | [🔗](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea64ccdfa35a32dddeaec8fc" alt="" width="50" /> | 610 | 1 | 0 | Disney's Greatest Vol. 3 | 2002-08-20 | [🔗](https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731f062b7159e8f230120512bf" alt="" width="50" /> | 610 | 1 | 0 | Coco (Original Motion Picture Soundtrack) | 2017-11-10 | [🔗](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736b4d7353d778b84853751cda" alt="" width="50" /> | 610 | 1 | 0 | Cinderella Special Edition (Original Motion Picture Soundtrack/Japanese Version) | 2005-10-19 | [🔗](https://open.spotify.com/album/3QAxBLpXRLVMh1dRtuQa0q) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739734b880ec5742822e49db80" alt="" width="50" /> | 610 | 1 | 0 | 101 Dalmatians | 1998-01-01 | [🔗](https://open.spotify.com/album/6hcQqEfqHDkQZl1bdgr4Vr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f" alt="" width="50" /> | 611 | 3 | 0 | Tangled | 2010-01-01 | [🔗](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5758ffb1632e086776cf14d" alt="" width="50" /> | 611 | 2 | 0 | The Princess and the Frog (Original Motion Picture Soundtrack) | 2009-11-23 | [🔗](https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736eb04fff9fd19fd8f65b86e1" alt="" width="50" /> | 611 | 2 | 0 | The Lion King (Original Motion Picture Soundtrack) | 2019-07-11 | [🔗](https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="" width="50" /> | 611 | 2 | 0 | The Jungle Book | 1997-01-01 | [🔗](https://open.spotify.com/album/7zdZNXoapFcOW663zgLdOE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273281dfd7af2ee99a124404623" alt="" width="50" /> | 611 | 2 | 0 | Pocahontas | 1995-01-01 | [🔗](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6a713be4f418307ab7ffaf4" alt="" width="50" /> | 611 | 2 | 0 | Hercules (Original Motion Picture Soundtrack) | 1997-01-01 | [🔗](https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739986d69836eac008a927b032" alt="" width="50" /> | 611 | 1 | 1 | Aladdin (Original Motion Picture Soundtrack) | 2019-05-22 | [🔗](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dda924a83894bc750e69845a" alt="" width="50" /> | 611 | 1 | 0 | The Journey so Far | 2011-08-09 | [🔗](https://open.spotify.com/album/3zr8JDmixklHY1sOURyfoK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732a8b6ce34511614c9373f423" alt="" width="50" /> | 611 | 1 | 0 | Songs and Story: Cinderella | 2009-01-01 | [🔗](https://open.spotify.com/album/1d4rBfCtXPqkphzbvjokLa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739a1b229fe1a132abf9599362" alt="" width="50" /> | 611 | 1 | 0 | Sleeping Beauty | 1996-01-01 | [🔗](https://open.spotify.com/album/3U3I9TY7on88tPvM1guh54) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733505183cc0e24d2f7560174a" alt="" width="50" /> | 611 | 1 | 0 | Moana (Original Motion Picture Soundtrack/Deluxe Edition) | 2016-11-18 | [🔗](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735929af1edd645142df679910" alt="" width="50" /> | 611 | 1 | 0 | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) | 2019-11-15 | [🔗](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea64ccdfa35a32dddeaec8fc" alt="" width="50" /> | 611 | 1 | 0 | Disney's Greatest Vol. 3 | 2002-08-20 | [🔗](https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731f062b7159e8f230120512bf" alt="" width="50" /> | 611 | 1 | 0 | Coco (Original Motion Picture Soundtrack) | 2017-11-10 | [🔗](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736b4d7353d778b84853751cda" alt="" width="50" /> | 611 | 1 | 0 | Cinderella Special Edition (Original Motion Picture Soundtrack/Japanese Version) | 2005-10-19 | [🔗](https://open.spotify.com/album/3QAxBLpXRLVMh1dRtuQa0q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739734b880ec5742822e49db80" alt="" width="50" /> | 611 | 1 | 0 | 101 Dalmatians | 1998-01-01 | [🔗](https://open.spotify.com/album/6hcQqEfqHDkQZl1bdgr4Vr) |
 
 </details>
 

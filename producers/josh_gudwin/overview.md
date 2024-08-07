@@ -17,7 +17,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c6952f39ba680489149a54c" alt="" width="50" /> | 9 | 1 | 1 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 34 | 1 | 1 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | 413 | 1 | 1 | benny blanco | [🔗](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | 259 | 1 | 1 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0da5cd9354d458143258879a" alt="" width="50" /> | 261 | 1 | 1 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb73f96bdf146d008680149954" alt="" width="50" /> | 15 | 1 | 1 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 
 ## Works with Producers

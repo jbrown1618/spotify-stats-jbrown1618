@@ -16,11 +16,11 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8939960e5144b51d7903899f" alt="" width="50" /> | 17 | 8 | 8 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | 164 | 6 | 6 | [f(x)](../../artists/f(x)/overview.md) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb02a562ea6b1dc718394010ac" alt="" width="50" /> | 2 | 5 | 5 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf8ae485831cf4c3a568dc313" alt="" width="50" /> | 41 | 3 | 3 | [ATEEZ](../../artists/ateez/overview.md) | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf8ae485831cf4c3a568dc313" alt="" width="50" /> | 42 | 3 | 3 | [ATEEZ](../../artists/ateez/overview.md) | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd16327c86d500f83be1d6a" alt="" width="50" /> | 6 | 3 | 3 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1edc72b57c227d48e28888b1" alt="" width="50" /> | 22 | 2 | 2 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | | 413 | 1 | 1 | CHUNG HA | [🔗](https://open.spotify.com/artist/73tdwqQJWnBdf1jyUeMwyu) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb20dfb8f52ef4926a22e552c8" alt="" width="50" /> | 180 | 1 | 1 | R3HAB | [🔗](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb20dfb8f52ef4926a22e552c8" alt="" width="50" /> | 175 | 1 | 1 | R3HAB | [🔗](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) |
 
 
 <details>

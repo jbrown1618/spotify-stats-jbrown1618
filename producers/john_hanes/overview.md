@@ -33,7 +33,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a398209a4ef3360dce2dec4" alt="" width="50" /> | 413 | 1 | 1 | Snoop Dogg | [🔗](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) |
 | <img src="https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1" alt="" width="50" /> | 413 | 1 | 1 | Silk Sonic | [🔗](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ac07249400857d8b16dc17a" alt="" width="50" /> | 413 | 1 | 1 | Kesha | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | 192 | 1 | 1 | Iggy Azalea | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c" alt="" width="50" /> | 191 | 1 | 1 | Iggy Azalea | [🔗](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba0f6617187248f1488822905" alt="" width="50" /> | 413 | 1 | 1 | B.o.B | [🔗](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb173d69f77530d77a991984f" alt="" width="50" /> | 379 | 1 | 1 | Lauv | [🔗](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebab47d8dae2b24f5afe7f9d38" alt="" width="50" /> | 372 | 1 | 1 | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
@@ -42,7 +42,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496" alt="" width="50" /> | 413 | 1 | 1 | Anderson .Paak | [🔗](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb305a7cc6760b53a67aaae19d" alt="" width="50" /> | 413 | 1 | 1 | Kelly Clarkson | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | 413 | 1 | 1 | Charli xcx | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | 337 | 1 | 1 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb" alt="" width="50" /> | 336 | 1 | 1 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd" alt="" width="50" /> | 413 | 1 | 1 | Nicki Minaj | [🔗](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a" alt="" width="50" /> | 413 | 1 | 1 | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="" width="50" /> | 108 | 1 | 1 | [Maroon 5](../../artists/maroon_5/overview.md) | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |

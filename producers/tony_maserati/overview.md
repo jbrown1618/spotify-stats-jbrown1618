@@ -14,7 +14,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb247f44069c0bd1781df2f785" alt="" width="50" /> | 133 | 2 | 2 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb73f96bdf146d008680149954" alt="" width="50" /> | 15 | 2 | 2 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1edc72b57c227d48e28888b1" alt="" width="50" /> | 22 | 2 | 2 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb08635ff0ed30023d2ee764a1" alt="" width="50" /> | 360 | 1 | 1 | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb08635ff0ed30023d2ee764a1" alt="" width="50" /> | 362 | 1 | 1 | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb80668ba2b15094d083780ea9" alt="" width="50" /> | 23 | 1 | 1 | [NewJeans](../../artists/newjeans/overview.md) | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 34 | 1 | 1 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 361 | 1 | 1 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |

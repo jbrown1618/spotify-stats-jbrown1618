@@ -19,7 +19,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | 319 | 3 | 3 | SUGA | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | 4 | 1 | 1 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb24b5185226d5b7c6aa91db5a" alt="" width="50" /> | 230 | 1 | 1 | PSY | [🔗](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebde40f44236dacdb228bcdf47" alt="" width="50" /> | 322 | 1 | 1 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebde40f44236dacdb228bcdf47" alt="" width="50" /> | 323 | 1 | 1 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 
 ## Works with Producers
 
