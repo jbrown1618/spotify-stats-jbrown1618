@@ -44,14 +44,14 @@ None
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 31 |
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 31 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 86 |
-| Moonlight | D-2 | Agust D | 0 | 2 | 75 |
-| Daechwita | D-2 | Agust D | 1 | 2 | 75 |
-| Burn It (feat. MAX) | D-2 | Agust D | 0 | 2 | 75 |
-| People | D-2 | Agust D | 1 | 2 | 75 |
-| Strange (feat. RM) | D-2 | Agust D | 0 | 2 | 75 |
-| Burn It (feat. MAX) | D-2 | MAX | 0 | 2 | 66 |
-| Strange (feat. RM) | D-2 | RM | 0 | 2 | 75 |
-| Chasing Pavements | 19 | Adele | 0 | 0 | 84 |
+| Moonlight | D-2 | Agust D | 0 | 1 | 75 |
+| Daechwita | D-2 | Agust D | 1 | 1 | 75 |
+| Burn It (feat. MAX) | D-2 | Agust D | 0 | 1 | 75 |
+| People | D-2 | Agust D | 1 | 1 | 75 |
+| Strange (feat. RM) | D-2 | Agust D | 0 | 1 | 75 |
+| Burn It (feat. MAX) | D-2 | MAX | 0 | 1 | 66 |
+| Strange (feat. RM) | D-2 | RM | 0 | 1 | 75 |
+| Chasing Pavements | 19 | Adele | 0 | 0 | 85 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 79 |
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 53 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 48 |
@@ -66,12 +66,12 @@ None
 | Joker | Joker is Alive | Dalshabet | 0 | 0 | 31 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 0 | 0 | 72 |
 | Wings | Wings | PIXY | 0 | 0 | 37 |
-| La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
-| Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
-| Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 38 |
-| I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 38 |
-| Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 38 |
-| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 66 |
+| La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 37 |
+| Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 37 |
+| Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 37 |
+| I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 37 |
+| Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 37 |
+| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 65 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 32 |
 | Drink It | Drink It | THE BOYZ | 0 | 0 | 59 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 50 |
@@ -94,10 +94,10 @@ None
 | Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | 0 | 0 | 56 |
 | Just The Way You Are | Little Love - EP | James Smith | 0 | 0 | 51 |
 | I will show you | Invitation | AILEE | 0 | 0 | 57 |
-| Gimme Sympathy | Fantasies | Metric | 0 | 0 | 61 |
+| Gimme Sympathy | Fantasies | Metric | 0 | 0 | 62 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 55 |
 | Star | [12:00] | LOONA | 1 | 1 | 55 |
-| Why Not? | [12:00] | LOONA | 1 | 1 | 55 |
+| Why Not? | [12:00] | LOONA | 2 | 1 | 55 |
 | Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 55 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 53 |
 | The Phantom Of The Opera | Century Child | Nightwish | 0 | 1 | 65 |
@@ -110,14 +110,14 @@ None
 | Just Right | Just Right | GOT7 | 0 | 0 | 58 |
 | If You Do | MAD | GOT7 | 0 | 0 | 58 |
 | You Calling My Name | Call My Name | GOT7 | 0 | 0 | 58 |
-| Flowers - Cover | Flowers (Cover) | YUQI | 0 | 0 | 61 |
+| Flowers - Cover | Flowers - Cover | YUQI | 0 | 0 | 61 |
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 26 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 76 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 78 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 75 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 60 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 72 |
-| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 74 |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 75 |
 | Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 65 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 72 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 78 |
@@ -126,11 +126,11 @@ None
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 85 |
 | Miku | Miku | Anamanaguchi | 0 | 0 | 52 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 43 |
-| Heartbeat | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) | SURAN | 0 | 0 | 50 |
+| Heartbeat | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) | SURAN | 1 | 0 | 50 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 50 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 49 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
-| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 75 |
+| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 76 |
 | When We Disco | When We Disco | J.Y. Park | 0 | 0 | 46 |
 | Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 46 |
 | When We Disco | When We Disco | SUNMI | 0 | 0 | 57 |
@@ -139,8 +139,8 @@ None
 | My House | No.5 | 2PM | 0 | 0 | 52 |
 | Still Alive | Portal 2: Songs to Test By (Collectors Edition) | Aperture Science Psychoacoustic Laboratories | 0 | 0 | 46 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 47 |
-| Zelda's Lullaby | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 46 |
-| Song Of Storms | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 46 |
+| Zelda's Lullaby | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 47 |
+| Song Of Storms | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 47 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 71 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 71 |
 | Call Me Mother | American | RuPaul | 0 | 0 | 56 |
@@ -151,5 +151,5 @@ None
 | Toy | Toy | Netta | 2 | 0 | 49 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
 | 青春修炼手册 | 青春修炼手册 | TFBOYS | 2 | 1 | 42 |
-| Lost Woods | Zelda: Ocarina of Time - Piano | Wesley Sprayue | 0 | 0 | 39 |
+| Lost Woods | Zelda: Ocarina of Time - Piano | Wesley Sprayue | 0 | 0 | 40 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 53 |

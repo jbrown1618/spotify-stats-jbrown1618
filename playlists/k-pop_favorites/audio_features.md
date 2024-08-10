@@ -99,8 +99,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="NOEASY" width="50" /> | Red Lights (Bang Chan, Hyunjin) (0.612) | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="Proof" width="50" /> | Run BTS (0.0358) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cc6f76f75551af499b5cd0cb" alt="Step Back" width="50" /> | Step Back (0.596) | <img src="https://i.scdn.co/image/ab67616d0000b273c013775f357bb9ad1eb9e1a7" alt="Glitch Mode - The 2nd Album" width="50" /> | Saturday Drip (0.0379) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac122efb1600b27d7d7f1775" alt="Lowlife Princess: Noir" width="50" /> | Animal Farm (0.579) | <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="We Boom - The 3rd Mini Album" width="50" /> | BOOM (0.0441) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="I GOT A BOY - The 4th Album" width="50" /> | I GOT A BOY (0.538) | <img src="https://i.scdn.co/image/ab67616d0000b27392b61d0844e0d9fbfff2ca43" alt="ZONE" width="50" /> | Killin’ Me Good (0.0449) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f919108974e4213d86b83805" alt="Monster - The 1st Mini Album" width="50" /> | Monster (0.537) | <img src="https://i.scdn.co/image/ab67616d0000b2734f6afc385052250c766a5683" alt="BABYMONS7ER" width="50" /> | SHEESH (0.0473) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732251d59955f53adcd39014ea" alt="Neverland" width="50" /> | Pantomime (0.541) | <img src="https://i.scdn.co/image/ab67616d0000b27392b61d0844e0d9fbfff2ca43" alt="ZONE" width="50" /> | Killin’ Me Good (0.0449) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fd1f3849aaaf15112389a725" alt="I GOT A BOY - The 4th Album" width="50" /> | I GOT A BOY (0.538) | <img src="https://i.scdn.co/image/ab67616d0000b2734f6afc385052250c766a5683" alt="BABYMONS7ER" width="50" /> | SHEESH (0.0473) |
 
 ## Valence
 
