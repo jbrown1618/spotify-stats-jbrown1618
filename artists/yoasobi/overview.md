@@ -17,7 +17,7 @@ YOASOBI:
 
 ## Artist Rank
 YOASOBI is currently:
-- The #40 artist of the last 6 months
+- The #44 artist of the last 6 months
 - The #41 artist of the last year
 - The #77 artist of all time
 
@@ -34,11 +34,11 @@ YOASOBI is currently:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="" width="50" /> | 326 | 4 | 4 | E-SIDE 3 | 2024-04-12 | [🔗](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1" alt="" width="50" /> | 476 | 2 | 0 | THE BOOK | 2021-01-06 | [🔗](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="" width="50" /> | 371 | 1 | 1 | 海のまにまに | 2022-11-18 | [🔗](https://open.spotify.com/album/6M4p4S5t8PuRZiq7zvMEPB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f609c79794752ed7ee0976b5" alt="" width="50" /> | 554 | 1 | 1 | 怪物 | 2021-01-06 | [🔗](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737f63f3d6c8b925a74145eb24" alt="" width="50" /> | 497 | 1 | 1 | セブンティーン | 2023-03-27 | [🔗](https://open.spotify.com/album/2XGJwl5zpqPTmtLAPy2rr6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="" width="50" /> | 329 | 4 | 4 | E-SIDE 3 | 2024-04-12 | [🔗](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1" alt="" width="50" /> | 477 | 2 | 0 | THE BOOK | 2021-01-06 | [🔗](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="" width="50" /> | 372 | 1 | 1 | 海のまにまに | 2022-11-18 | [🔗](https://open.spotify.com/album/6M4p4S5t8PuRZiq7zvMEPB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f609c79794752ed7ee0976b5" alt="" width="50" /> | 555 | 1 | 1 | 怪物 | 2021-01-06 | [🔗](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f63f3d6c8b925a74145eb24" alt="" width="50" /> | 496 | 1 | 1 | セブンティーン | 2023-03-27 | [🔗](https://open.spotify.com/album/2XGJwl5zpqPTmtLAPy2rr6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="" width="50" /> | 258 | 1 | 1 | アイドル | 2023-04-12 | [🔗](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4581aef9b70d42d5346c215" alt="" width="50" /> | 612 | 1 | 1 | UNDEAD | 2024-07-01 | [🔗](https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e) |
 
@@ -88,16 +88,16 @@ YOASOBI is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="" width="50" /> | アイドル | アイドル | [YOASOBI](overview.md) | [YOASOBI](../../labels/yoasobi) | 359 | 💚 | [🔗](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="" width="50" /> | Seventeen | E-SIDE 3 | [YOASOBI](overview.md) | [YOASOBI](../../labels/yoasobi) | 465 | 💚 | [🔗](https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="" width="50" /> | 海のまにまに | 海のまにまに | [YOASOBI](overview.md) | [YOASOBI](../../labels/yoasobi) | 540 | 💚 | [🔗](https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1" alt="" width="50" /> | 群青 | THE BOOK | [YOASOBI](overview.md) | [YOASOBI](../../labels/yoasobi) | 710 | | [🔗](https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737f63f3d6c8b925a74145eb24" alt="" width="50" /> | セブンティーン | セブンティーン | [YOASOBI](overview.md) | [YOASOBI](../../labels/yoasobi) | 744 | 💚 | [🔗](https://open.spotify.com/track/1TXhBe3DnaOFc7onTbEoiB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f609c79794752ed7ee0976b5" alt="" width="50" /> | 怪物 | 怪物 | [YOASOBI](overview.md) | [YOASOBI](../../labels/yoasobi) | 834 | 💚 | [🔗](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="" width="50" /> | Adventure | E-SIDE 3 | [YOASOBI](overview.md) | [YOASOBI](../../labels/yoasobi) | 890 | 💚 | [🔗](https://open.spotify.com/track/1Gh9LJf99CIpcr0z8hMIOf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1" alt="" width="50" /> | 夜に駆ける | THE BOOK | [YOASOBI](overview.md) | [YOASOBI](../../labels/yoasobi) | 921 | | [🔗](https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="" width="50" /> | Loving You | E-SIDE 3 | [YOASOBI](overview.md) | [YOASOBI](../../labels/yoasobi) | 921 | 💚 | [🔗](https://open.spotify.com/track/7nN7TkxDGH8DeXs2Vy67nv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="" width="50" /> | manimani | E-SIDE 3 | [YOASOBI](overview.md) | [YOASOBI](../../labels/yoasobi) | 921 | 💚 | [🔗](https://open.spotify.com/track/0JXxrmM7bHmpwHczGTjCUm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="" width="50" /> | アイドル | アイドル | [YOASOBI](overview.md) | [YOASOBI](../../labels/yoasobi) | 361 | 💚 | [🔗](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="" width="50" /> | Seventeen | E-SIDE 3 | [YOASOBI](overview.md) | [YOASOBI](../../labels/yoasobi) | 467 | 💚 | [🔗](https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="" width="50" /> | 海のまにまに | 海のまにまに | [YOASOBI](overview.md) | [YOASOBI](../../labels/yoasobi) | 543 | 💚 | [🔗](https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1" alt="" width="50" /> | 群青 | THE BOOK | [YOASOBI](overview.md) | [YOASOBI](../../labels/yoasobi) | 712 | | [🔗](https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f63f3d6c8b925a74145eb24" alt="" width="50" /> | セブンティーン | セブンティーン | [YOASOBI](overview.md) | [YOASOBI](../../labels/yoasobi) | 741 | 💚 | [🔗](https://open.spotify.com/track/1TXhBe3DnaOFc7onTbEoiB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f609c79794752ed7ee0976b5" alt="" width="50" /> | 怪物 | 怪物 | [YOASOBI](overview.md) | [YOASOBI](../../labels/yoasobi) | 833 | 💚 | [🔗](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="" width="50" /> | Adventure | E-SIDE 3 | [YOASOBI](overview.md) | [YOASOBI](../../labels/yoasobi) | 893 | 💚 | [🔗](https://open.spotify.com/track/1Gh9LJf99CIpcr0z8hMIOf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1" alt="" width="50" /> | 夜に駆ける | THE BOOK | [YOASOBI](overview.md) | [YOASOBI](../../labels/yoasobi) | 922 | | [🔗](https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="" width="50" /> | Loving You | E-SIDE 3 | [YOASOBI](overview.md) | [YOASOBI](../../labels/yoasobi) | 922 | 💚 | [🔗](https://open.spotify.com/track/7nN7TkxDGH8DeXs2Vy67nv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="" width="50" /> | manimani | E-SIDE 3 | [YOASOBI](overview.md) | [YOASOBI](../../labels/yoasobi) | 922 | 💚 | [🔗](https://open.spotify.com/track/0JXxrmM7bHmpwHczGTjCUm) |
 
 
 <details>
@@ -105,7 +105,7 @@ YOASOBI is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273a4581aef9b70d42d5346c215" alt="" width="50" /> | UNDEAD | UNDEAD | [YOASOBI](overview.md) | [YOASOBI](../../labels/yoasobi) | 921 | 💚 | [🔗](https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a4581aef9b70d42d5346c215" alt="" width="50" /> | UNDEAD | UNDEAD | [YOASOBI](overview.md) | [YOASOBI](../../labels/yoasobi) | 922 | 💚 | [🔗](https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv) |
 
 </details>
 

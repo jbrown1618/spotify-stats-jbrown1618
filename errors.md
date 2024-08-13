@@ -13,7 +13,7 @@ None
 | A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 51 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Retro Kpop [🔗](https://open.spotify.com/playlist/1MW4AAPq55U0XWvSeu1jU5) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 44 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 51 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd),<br>Recommendations for Jeff [🔗](https://open.spotify.com/playlist/5Liek0UOC5GmdOjxdWhcob),<br>Relax [🔗](https://open.spotify.com/playlist/4rnlD7JdUQNdPCBhL69dCg),<br>Your Top Songs 2022 [🔗](https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit) |
-| SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 36 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
+| SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 37 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 
 ## Tracks with low popularity
 
@@ -37,18 +37,15 @@ None
 | Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": I. Allegro (Ballo, e canto de' villanelli) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
 | Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": III. Allegro (La caccia) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
-| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro) | Vivaldi: Four Seasons | David Reichenberg | 0 | 2 | 25 |
-| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: II. Largo | Vivaldi: Four Seasons | David Reichenberg | 0 | 2 | 25 |
-| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: III. Allegro | Vivaldi: Four Seasons | David Reichenberg | 0 | 2 | 25 |
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 31 |
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 31 |
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 31 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 86 |
-| Moonlight | D-2 | Agust D | 0 | 1 | 75 |
-| Daechwita | D-2 | Agust D | 1 | 1 | 75 |
-| Burn It (feat. MAX) | D-2 | Agust D | 0 | 1 | 75 |
-| People | D-2 | Agust D | 1 | 1 | 75 |
-| Strange (feat. RM) | D-2 | Agust D | 0 | 1 | 75 |
+| Moonlight | D-2 | Agust D | 0 | 1 | 76 |
+| Daechwita | D-2 | Agust D | 1 | 1 | 76 |
+| Burn It (feat. MAX) | D-2 | Agust D | 0 | 1 | 76 |
+| People | D-2 | Agust D | 1 | 1 | 76 |
+| Strange (feat. RM) | D-2 | Agust D | 0 | 1 | 76 |
 | Burn It (feat. MAX) | D-2 | MAX | 0 | 1 | 66 |
 | Strange (feat. RM) | D-2 | RM | 0 | 1 | 75 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 85 |
@@ -59,18 +56,18 @@ None
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 65 |
 | Underground | Artemis | Lindsey Stirling | 1 | 2 | 65 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 49 |
-| Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 63 |
-| Sleep-walking | Prequel | Dreamcatcher | 1 | 2 | 62 |
+| Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 64 |
+| Sleep-walking | Prequel | Dreamcatcher | 1 | 1 | 62 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 59 |
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 67 |
 | Joker | Joker is Alive | Dalshabet | 0 | 0 | 31 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 0 | 0 | 72 |
 | Wings | Wings | PIXY | 0 | 0 | 37 |
-| La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 37 |
-| Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 37 |
-| Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 37 |
-| I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 37 |
-| Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 37 |
+| La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
+| Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
+| Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 38 |
+| I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 38 |
+| Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 38 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 65 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 32 |
 | Drink It | Drink It | THE BOYZ | 0 | 0 | 59 |
@@ -101,7 +98,7 @@ None
 | Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 55 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 53 |
 | The Phantom Of The Opera | Century Child | Nightwish | 0 | 1 | 65 |
-| End Of All Hope | Century Child | Nightwish | 0 | 1 | 65 |
+| End Of All Hope | Century Child | Nightwish | 1 | 1 | 65 |
 | Nemo | Once | Nightwish | 0 | 0 | 65 |
 | Ya! (feat. Whee In) | Stay As You Are | Whee In | 0 | 0 | 50 |
 | Ya! (feat. Whee In) | Stay As You Are | Sandeul | 0 | 0 | 41 |
@@ -114,7 +111,7 @@ None
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 26 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 76 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 78 |
-| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 75 |
+| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 74 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 60 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 72 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 75 |

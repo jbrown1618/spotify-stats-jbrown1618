@@ -57,7 +57,7 @@
 
 | ​ | 10 most Acoustic tracks | ​​ | 10 least Acoustic tracks |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | when the party's over (0.978) | <img src="https://i.scdn.co/image/ab67616d0000b27386498c6e8ee965fa665a9c3d" alt="Hands All Over (Deluxe)" width="50" /> | Misery (0.000315) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | when the party's over (0.978) | <img src="https://i.scdn.co/image/ab67616d0000b27386498c6e8ee965fa665a9c3d" alt="Hands All Over - Deluxe" width="50" /> | Misery (0.000315) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e" alt="What Was I Made For? [From The Motion Picture &quot;Barbie&quot;]" width="50" /> | What Was I Made For? [From The Motion Picture "Barbie"] (0.953) | <img src="https://i.scdn.co/image/ab67616d0000b273aaf8c068ffe217db825a1945" alt="Move Along" width="50" /> | Dirty Little Secret (0.000346) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="No Time To Die" width="50" /> | No Time To Die (0.917) | <img src="https://i.scdn.co/image/ab67616d0000b2737da22ba88dfc26a18122ee2d" alt="GAME PLAN" width="50" /> | Fast Forward (0.000929) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249" alt="everything i wanted" width="50" /> | everything i wanted (0.902) | <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="Born This Way" width="50" /> | Judas (0.000967) |
@@ -99,7 +99,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273aaf8c068ffe217db825a1945" alt="Move Along" width="50" /> | Dirty Little Secret (0.573) | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> | Therefore I Am (0.0583) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="Chromatica" width="50" /> | Sour Candy (with BLACKPINK) (0.489) | <img src="https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c" alt="V" width="50" /> | Maps (0.059) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346313223adf2b6d726388328" alt="Down to Earth" width="50" /> | Shoong! (feat. LISA of BLACKPINK) (0.393) | <img src="https://i.scdn.co/image/ab67616d0000b27317b3850d758fff5a2301e537" alt="Songs About Jane" width="50" /> | Sunday Morning (0.0595) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce7d499847da02a9cbd1c084" alt="Overexposed (Deluxe)" width="50" /> | Payphone (0.37) | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | How You Like That (0.0601) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce7d499847da02a9cbd1c084" alt="Overexposed - Deluxe" width="50" /> | Payphone (0.37) | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | How You Like That (0.0601) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd" alt="Born This Way" width="50" /> | Judas (0.355) | <img src="https://i.scdn.co/image/ab67616d0000b2738f6b4035c82eb9cf42e9d8d7" alt="When The World Comes Down" width="50" /> | Gives You Hell (0.0627) |
 
 ## Valence

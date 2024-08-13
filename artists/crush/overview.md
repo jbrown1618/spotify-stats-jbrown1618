@@ -20,11 +20,11 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c6e894ccfb8214d3f68b0cb4" alt="" width="50" /> | 270 | 1 | 1 | wonderego | 2023-11-14 | [🔗](https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c6e894ccfb8214d3f68b0cb4" alt="" width="50" /> | 272 | 1 | 1 | wonderego | 2023-11-14 | [🔗](https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738368fc4dff4622c0e00e6dbf" alt="" width="50" /> | 612 | 1 | 1 | Sun And Moon | 2018-11-22 | [🔗](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cb80f5ee50364e3a1691477d" alt="" width="50" /> | 612 | 1 | 1 | Rush Hour | 2022-09-22 | [🔗](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273010bed9776d417a0da12cc9c" alt="" width="50" /> | 612 | 1 | 1 | Love Story | 2017-11-10 | [🔗](https://open.spotify.com/album/0H9qbHCWJRmKAhERqM5X9G) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a8c4052083fb4e80d1819445" alt="" width="50" /> | 283 | 1 | 1 | For You | 2020-12-16 | [🔗](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a8c4052083fb4e80d1819445" alt="" width="50" /> | 285 | 1 | 1 | For You | 2020-12-16 | [🔗](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c0f17fbae890e66fe861b29" alt="" width="50" /> | 612 | 1 | 0 | Street Woman Fighter2 (SWF2) Class Mission | 2023-09-05 | [🔗](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273763208e225ccbbda004d2176" alt="" width="50" /> | 612 | 1 | 0 | PSY 9th | 2022-04-29 | [🔗](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) |
 
@@ -58,10 +58,10 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c6e894ccfb8214d3f68b0cb4" alt="" width="50" /> | Hmm-cheat | wonderego | [Crush](overview.md) | P NATION | 375 | 💚 | [🔗](https://open.spotify.com/track/7hYGWflgiI2aa25jOgL6eg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a8c4052083fb4e80d1819445" alt="" width="50" /> | For You | For You | [LeeHi](../leehi/overview.md), [Crush](overview.md) | AOMG | 395 | 💚 | [🔗](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273010bed9776d417a0da12cc9c" alt="" width="50" /> | Love Story (Feat. CRUSH) | Love Story | SURAN, [Crush](overview.md) | Million Market,Inc | 921 | 💚 | [🔗](https://open.spotify.com/track/5rUZeNNC4R65U6UeElMoss) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738368fc4dff4622c0e00e6dbf" alt="" width="50" /> | Make Up (Feat. Crush) | Sun And Moon | Sam Kim, [Crush](overview.md) | Antenna | 921 | 💚 | [🔗](https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273763208e225ccbbda004d2176" alt="" width="50" /> | Happier (feat. Crush) | PSY 9th | PSY, [Crush](overview.md) | P NATION | 921 | | [🔗](https://open.spotify.com/track/5HOzA1X13wwOJKF0cFKkQx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cb80f5ee50364e3a1691477d" alt="" width="50" /> | Rush Hour (Feat. j-hope of BTS) | Rush Hour | [Crush](overview.md), [j-hope](../j-hope/overview.md) | 피네이션 | 921 | 💚 | [🔗](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734c0f17fbae890e66fe861b29" alt="" width="50" /> | Click Like (Prod. Crush) (Feat. Paul Blanco) | Street Woman Fighter2 (SWF2) Class Mission | [Crush](overview.md), Paul Blanco | [Genie Music Corporation](../../labels/genie_music_corporation) | 921 | | [🔗](https://open.spotify.com/track/3uzUBVCNTdVnmJMumFA4Ce) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c6e894ccfb8214d3f68b0cb4" alt="" width="50" /> | Hmm-cheat | wonderego | [Crush](overview.md) | P NATION | 378 | 💚 | [🔗](https://open.spotify.com/track/7hYGWflgiI2aa25jOgL6eg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a8c4052083fb4e80d1819445" alt="" width="50" /> | For You | For You | [LeeHi](../leehi/overview.md), [Crush](overview.md) | AOMG | 399 | 💚 | [🔗](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273010bed9776d417a0da12cc9c" alt="" width="50" /> | Love Story (Feat. CRUSH) | Love Story | SURAN, [Crush](overview.md) | Million Market,Inc | 922 | 💚 | [🔗](https://open.spotify.com/track/5rUZeNNC4R65U6UeElMoss) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738368fc4dff4622c0e00e6dbf" alt="" width="50" /> | Make Up (Feat. Crush) | Sun And Moon | Sam Kim, [Crush](overview.md) | Antenna | 922 | 💚 | [🔗](https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273763208e225ccbbda004d2176" alt="" width="50" /> | Happier (feat. Crush) | PSY 9th | PSY, [Crush](overview.md) | P NATION | 922 | | [🔗](https://open.spotify.com/track/5HOzA1X13wwOJKF0cFKkQx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cb80f5ee50364e3a1691477d" alt="" width="50" /> | Rush Hour (Feat. j-hope of BTS) | Rush Hour | [Crush](overview.md), [j-hope](../j-hope/overview.md) | 피네이션 | 922 | 💚 | [🔗](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c0f17fbae890e66fe861b29" alt="" width="50" /> | Click Like (Prod. Crush) (Feat. Paul Blanco) | Street Woman Fighter2 (SWF2) Class Mission | [Crush](overview.md), Paul Blanco | [Genie Music Corporation](../../labels/genie_music_corporation) | 922 | | [🔗](https://open.spotify.com/track/3uzUBVCNTdVnmJMumFA4Ce) |

@@ -24,7 +24,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5b45d48a8caa251925f46ca0" alt="" width="50" /> | 414 | 1 | 1 | Bishop Briggs | [🔗](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb207b21f3ed0ee96adce3166a" alt="" width="50" /> | 414 | 2 | 0 | The Killers | [🔗](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb362011ebe6064c38e97e9aac" alt="" width="50" /> | 414 | 1 | 0 | Fall Out Boy | [🔗](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 193 | 1 | 0 | [Justin Bieber](../../artists/justin_bieber/overview.md) | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 194 | 1 | 0 | [Justin Bieber](../../artists/justin_bieber/overview.md) | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
 
 ![Bar chart of top 9 artists](../../images/labels/island_records/artists.png)
 
@@ -37,7 +37,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6" alt="" width="50" /> | 612 | 1 | 1 | The Rise and Fall of a Midwest Princess | 2023-09-22 | [🔗](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de84adf0e48248ea2d769c3e" alt="" width="50" /> | 612 | 1 | 1 | Please Please Please | 2024-06-06 | [🔗](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521" alt="" width="50" /> | 612 | 1 | 1 | Illuminate (Deluxe) | 2017-04-20 | [🔗](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7" alt="" width="50" /> | 318 | 1 | 1 | Good Luck, Babe! | 2024-04-05 | [🔗](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7" alt="" width="50" /> | 319 | 1 | 1 | Good Luck, Babe! | 2024-04-05 | [🔗](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738cae5034066af45cdfbc4266" alt="" width="50" /> | 612 | 1 | 1 | Church Of Scars | 2018-04-20 | [🔗](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737cdb143bd2e9906d39c5eb04" alt="" width="50" /> | 612 | 1 | 1 | Carencro | 2004-08-03 | [🔗](https://open.spotify.com/album/15dP7BadtY55t9VvFlVrBA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737941a79c3108cedb1667b68d" alt="" width="50" /> | 612 | 1 | 0 | bandaids | 2020-03-24 | [🔗](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) |
@@ -132,16 +132,16 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7" alt="" width="50" /> | Good Luck, Babe! | Good Luck, Babe! | Chappell Roan | [Chappell Roan PS/ Island](.) | 447 | 💚 | [🔗](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="" width="50" /> | All These Things That I've Done | Hot Fuss | The Killers | [Island Records](.) | 921 | | [🔗](https://open.spotify.com/track/5vollujufHY0jMZxx77VWr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="" width="50" /> | Mr. Brightside | Hot Fuss | The Killers | [Island Records](.) | 921 | | [🔗](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737cdb143bd2e9906d39c5eb04" alt="" width="50" /> | Home | Carencro | Marc Broussard | [Island Records](.) | 921 | 💚 | [🔗](https://open.spotify.com/track/1XhzO8cuPaqsqUKw92Wbwc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" alt="" width="50" /> | Sugar, We're Goin Down | From Under The Cork Tree | Fall Out Boy | [Island Records](.) | 921 | | [🔗](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521" alt="" width="50" /> | There's Nothing Holdin' Me Back | Illuminate (Deluxe) | Shawn Mendes | [Island Records](.) | 921 | 💚 | [🔗](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738cae5034066af45cdfbc4266" alt="" width="50" /> | River | Church Of Scars | Bishop Briggs | [Teleport Records / Island Records](.) | 921 | 💚 | [🔗](https://open.spotify.com/track/3mRLHiSHYtC8Hk7bzZdUs1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273269423eb6467e308c0fbce24" alt="" width="50" /> | In My Blood | Shawn Mendes | Shawn Mendes | [Island Records](.) | 921 | | [🔗](https://open.spotify.com/track/2QZ7WLBE8h2y1Y5Fb8RYbH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737941a79c3108cedb1667b68d" alt="" width="50" /> | right here | bandaids | keshi | [Island Records](.) | 921 | | [🔗](https://open.spotify.com/track/2Q3QRjA8MjzqpFaIkFludb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27312e57573cbc551c187a96107" alt="" width="50" /> | Monster (Shawn Mendes & Justin Bieber) | Monster | Shawn Mendes, [Justin Bieber](../../artists/justin_bieber/overview.md) | [Shawn Mendes LP4-5 PS/ Island](.) | 921 | | [🔗](https://open.spotify.com/track/2Z8yfpFX0ZMavHkcIeHiO1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7" alt="" width="50" /> | Good Luck, Babe! | Good Luck, Babe! | Chappell Roan | [Chappell Roan PS/ Island](.) | 451 | 💚 | [🔗](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="" width="50" /> | All These Things That I've Done | Hot Fuss | The Killers | [Island Records](.) | 922 | | [🔗](https://open.spotify.com/track/5vollujufHY0jMZxx77VWr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="" width="50" /> | Mr. Brightside | Hot Fuss | The Killers | [Island Records](.) | 922 | | [🔗](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737cdb143bd2e9906d39c5eb04" alt="" width="50" /> | Home | Carencro | Marc Broussard | [Island Records](.) | 922 | 💚 | [🔗](https://open.spotify.com/track/1XhzO8cuPaqsqUKw92Wbwc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27371565eda831124be86c603d5" alt="" width="50" /> | Sugar, We're Goin Down | From Under The Cork Tree | Fall Out Boy | [Island Records](.) | 922 | | [🔗](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521" alt="" width="50" /> | There's Nothing Holdin' Me Back | Illuminate (Deluxe) | Shawn Mendes | [Island Records](.) | 922 | 💚 | [🔗](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738cae5034066af45cdfbc4266" alt="" width="50" /> | River | Church Of Scars | Bishop Briggs | [Teleport Records / Island Records](.) | 922 | 💚 | [🔗](https://open.spotify.com/track/3mRLHiSHYtC8Hk7bzZdUs1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273269423eb6467e308c0fbce24" alt="" width="50" /> | In My Blood | Shawn Mendes | Shawn Mendes | [Island Records](.) | 922 | | [🔗](https://open.spotify.com/track/2QZ7WLBE8h2y1Y5Fb8RYbH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737941a79c3108cedb1667b68d" alt="" width="50" /> | right here | bandaids | keshi | [Island Records](.) | 922 | | [🔗](https://open.spotify.com/track/2Q3QRjA8MjzqpFaIkFludb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27312e57573cbc551c187a96107" alt="" width="50" /> | Monster (Shawn Mendes & Justin Bieber) | Monster | Shawn Mendes, [Justin Bieber](../../artists/justin_bieber/overview.md) | [Shawn Mendes LP4-5 PS/ Island](.) | 922 | | [🔗](https://open.spotify.com/track/2Z8yfpFX0ZMavHkcIeHiO1) |
 
 
 <details>
@@ -149,10 +149,10 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb" alt="" width="50" /> | LIMBO | GABRIEL | keshi | [Island Records](.) | 921 | 💚 | [🔗](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb" alt="" width="50" /> | UNDERSTAND | GABRIEL | keshi | [Island Records](.) | 921 | | [🔗](https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6" alt="" width="50" /> | Red Wine Supernova | The Rise and Fall of a Midwest Princess | Chappell Roan | [Chappell Roan PS/ Island](.) | 921 | 💚 | [🔗](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de84adf0e48248ea2d769c3e" alt="" width="50" /> | Please Please Please | Please Please Please | Sabrina Carpenter | [Island Records](.) | 921 | 💚 | [🔗](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb" alt="" width="50" /> | LIMBO | GABRIEL | keshi | [Island Records](.) | 922 | 💚 | [🔗](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb" alt="" width="50" /> | UNDERSTAND | GABRIEL | keshi | [Island Records](.) | 922 | | [🔗](https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6" alt="" width="50" /> | Red Wine Supernova | The Rise and Fall of a Midwest Princess | Chappell Roan | [Chappell Roan PS/ Island](.) | 922 | 💚 | [🔗](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de84adf0e48248ea2d769c3e" alt="" width="50" /> | Please Please Please | Please Please Please | Sabrina Carpenter | [Island Records](.) | 922 | 💚 | [🔗](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) |
 
 </details>
 
