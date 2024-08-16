@@ -1608,6 +1608,7 @@ tag,artist_mbid,mb_tag
 ,a42d3fd5-55de-4206-86c3-4fbb5404018f,eddie rubin
 ,23c8056b-ee13-4cfc-a772-2f5292e35bb5,edm
 ,302bd7b9-d012-4360-897a-93b00c855680,edm
+,383d6203-8dac-48dc-8faa-808d01932663,edm
 ,56c4b861-0922-4c3a-a9b9-3bfcb00f8274,edm
 ,70e5098b-c4ae-4cd7-9799-3c1b9b57c753,edm
 ,8dd98bdc-80ec-4e93-8509-2f46bafc09a7,edm
@@ -1650,6 +1651,7 @@ tag,artist_mbid,mb_tag
 ,e4bc69e2-a064-4f93-ada1-f7f209cc1cc3,electro-disco
 ,b7ffd2af-418f-4be2-bdd1-22f8b48613da,electro-industrial
 ,b5179744-f217-4455-9d8b-17b8d4fdeb93,electroacoustic
+,7fe3380a-8e35-48d1-ac5a-174fe6b5060b,electroclash
 ,a1edb210-7a15-4eaa-a36f-503fd5368fee,electroclash
 ,044fd265-79dd-43eb-afc4-8b20becf7e17,electronic
 ,056e4f3e-d505-4dad-8ec1-d04f521cbb56,electronic
@@ -3612,6 +3614,7 @@ tag,artist_mbid,mb_tag
 ,f27ec8db-af05-4f36-916e-3d57f91ecf5e,new jack swing
 ,ec21cced-2d22-4883-9ee3-f642e6e52f58,new orleans r&b
 ,9c9f1380-2516-4fc9-a3e6-f9f61941d090,new prog
+,7fe3380a-8e35-48d1-ac5a-174fe6b5060b,new rave
 ,2e229823-0fc2-438b-aacb-5de02bd0b9b7,new wave
 ,2efac2d7-e5ad-4e7b-87c9-ef678fbbaaab,new wave
 ,4449ccf6-c948-4d33-aa97-b6ad98ce4b5b,new wave
@@ -3630,6 +3633,7 @@ tag,artist_mbid,mb_tag
 ,fad2875e-ba81-4637-b859-4684622dcb1c,new zealand
 ,48ec4bb6-47a6-4e2c-8287-7617464eb193,noise
 ,b5179744-f217-4455-9d8b-17b8d4fdeb93,noise
+,383d6203-8dac-48dc-8faa-808d01932663,noise pop
 ,5b11f4ce-a62d-471e-81fc-a69a8278c7da,noise rock
 ,827b3151-accf-4c2b-b585-14daf26480ac,north west
 ,589ef702-7f3a-4a1c-8f2c-4727005cfc0e,northern soul

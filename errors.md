@@ -10,7 +10,7 @@ None
 |:---|:---|---:|:---|:---|:---|:---|
 | Joker is Alive [🔗](https://open.spotify.com/album/3jYpoS7JeJ8i8q3OHVNYXZ) | Dalshabet [🔗](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) | 33 | 2015-04-15 | DREAMCATCHER COMPANY | JOKER [🔗](https://open.spotify.com/track/4YB8A1ZnmXnNkfCRBmISqa) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>누구? [🔗](https://open.spotify.com/playlist/4JrgU3rcLuATwzM1jVVgyC) |
 | Joker is Alive [🔗](https://open.spotify.com/album/4vxOwoqNxefHAdZLWVrbmL) | Dalshabet [🔗](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) | 0 | 2015-04-15 | 해피페이스 엔터테인먼트 | Joker [🔗](https://open.spotify.com/track/1067REIdzHeSuEOiiDBefP) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>누구? [🔗](https://open.spotify.com/playlist/4JrgU3rcLuATwzM1jVVgyC) |
-| A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 51 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Retro Kpop [🔗](https://open.spotify.com/playlist/1MW4AAPq55U0XWvSeu1jU5) |
+| A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 50 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Retro Kpop [🔗](https://open.spotify.com/playlist/1MW4AAPq55U0XWvSeu1jU5) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 44 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 51 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd),<br>Recommendations for Jeff [🔗](https://open.spotify.com/playlist/5Liek0UOC5GmdOjxdWhcob),<br>Relax [🔗](https://open.spotify.com/playlist/4rnlD7JdUQNdPCBhL69dCg),<br>Your Top Songs 2022 [🔗](https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit) |
 | SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 37 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
@@ -37,9 +37,9 @@ None
 | Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": I. Allegro (Ballo, e canto de' villanelli) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
 | Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": III. Allegro (La caccia) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 31 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 31 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 31 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 32 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 32 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 32 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 86 |
 | Moonlight | D-2 | Agust D | 0 | 1 | 76 |
 | Daechwita | D-2 | Agust D | 1 | 1 | 76 |
@@ -49,15 +49,15 @@ None
 | Burn It (feat. MAX) | D-2 | MAX | 0 | 1 | 66 |
 | Strange (feat. RM) | D-2 | RM | 0 | 1 | 75 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 85 |
-| Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 79 |
-| Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 53 |
+| Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 80 |
+| Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 54 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 48 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 30 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 65 |
 | Underground | Artemis | Lindsey Stirling | 1 | 2 | 65 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 49 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 64 |
-| Sleep-walking | Prequel | Dreamcatcher | 1 | 1 | 62 |
+| Sleep-walking | Prequel | Dreamcatcher | 1 | 1 | 61 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 59 |
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 67 |
 | Joker | Joker is Alive | Dalshabet | 0 | 0 | 31 |
@@ -92,7 +92,7 @@ None
 | Just The Way You Are | Little Love - EP | James Smith | 0 | 0 | 51 |
 | I will show you | Invitation | AILEE | 0 | 0 | 57 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 62 |
-| FACE | WOLF | WOOSUNG | 0 | 0 | 55 |
+| FACE | WOLF | WOOSUNG | 0 | 0 | 56 |
 | Star | [12:00] | LOONA | 1 | 1 | 55 |
 | Why Not? | [12:00] | LOONA | 2 | 1 | 55 |
 | Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 55 |
@@ -113,7 +113,7 @@ None
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 78 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 74 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 60 |
-| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 72 |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 73 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 75 |
 | Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 65 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 72 |
@@ -123,14 +123,14 @@ None
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 85 |
 | Miku | Miku | Anamanaguchi | 0 | 0 | 52 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 43 |
-| Heartbeat | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) | SURAN | 1 | 0 | 50 |
+| Heartbeat | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) | SURAN | 0 | 0 | 50 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 50 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 49 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 76 |
 | When We Disco | When We Disco | J.Y. Park | 0 | 0 | 46 |
 | Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 46 |
-| When We Disco | When We Disco | SUNMI | 0 | 0 | 57 |
+| When We Disco | When We Disco | SUNMI | 0 | 0 | 56 |
 | Who's Your Mama? | 24/34 | Jessi | 0 | 0 | 58 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 73 |
 | My House | No.5 | 2PM | 0 | 0 | 52 |
@@ -149,4 +149,4 @@ None
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
 | 青春修炼手册 | 青春修炼手册 | TFBOYS | 2 | 1 | 42 |
 | Lost Woods | Zelda: Ocarina of Time - Piano | Wesley Sprayue | 0 | 0 | 40 |
-| Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 53 |
+| Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 54 |

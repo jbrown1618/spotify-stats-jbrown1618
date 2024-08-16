@@ -6,7 +6,7 @@
 
 | ​ | 10 most Danceable tracks | ​​ | 10 least Danceable tracks |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458" alt="The Pinkprint (Deluxe)" width="50" /> | Anaconda (0.964) | <img src="https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10" alt="The Blueprint 3" width="50" /> | Empire State Of Mind (0.491) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458" alt="The Pinkprint - Deluxe" width="50" /> | Anaconda (0.964) | <img src="https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10" alt="The Blueprint 3" width="50" /> | Empire State Of Mind (0.491) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="WAP (feat. Megan Thee Stallion)" width="50" /> | WAP (feat. Megan Thee Stallion) (0.935) | <img src="https://i.scdn.co/image/ab67616d0000b2737d8dfcfd507069d7f2062caf" alt="Sucker for Pain (with Logic &amp; Ty Dolla $ign feat. X Ambassadors)" width="50" /> | Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) (0.502) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f82c7e4376cf8267fb396b7d" alt="Mack Daddy" width="50" /> | Baby Got Back (0.926) | <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" alt="Kings Of Crunk" width="50" /> | Get Low (0.521) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | We Made You (0.924) | <img src="https://i.scdn.co/image/ab67616d0000b2732b9aca3204e667980ce6a939" alt="BUBBA" width="50" /> | Go DJ (feat. SiR) (0.524) |

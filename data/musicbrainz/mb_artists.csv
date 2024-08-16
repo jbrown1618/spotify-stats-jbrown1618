@@ -1093,6 +1093,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 29098067-b784-4d8a-aca5-c1b5af4b6ef7,Matt Laug,"Laug, Matt",,Person,United States,Florence,,,Male
 290ab80e-8be6-4b3d-80ef-7d2ef876735f,Jerry Landis,"Landis, Jerry",,Person,United States,Newark,1941-10-13,,Male
 2920bc76-ae1b-41e6-83d4-19f43b5b01a5,Tom Wiklund,"Wiklund, Tom",,Person,,,,,Male
+2934595b-cb7e-4f27-b1ea-c3bb428a3519,Idania Valencia,"Valencia, Idania",,Person,United States,,,,Female
 293b3c00-47bb-41c7-8a68-dbd54e6bfa19,안소희,"Ahn, So-hee",,Person,South Korea,Seoul,1992-06-27,,Female
 293c8348-b107-4c08-b7f5-eb2448b7610a,Eric Singer,"Singer, Eric",rock/metal drummer,Person,United States,Cleveland,1958-05-12,,Male
 293e63b2-7367-4633-8abd-02cf35425dcd,光宗薫,"Mitsumune, Kaoru",,Person,Japan,Ehime,1993-04-26,,Female
@@ -1510,6 +1511,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 381eed10-4b1a-4100-9872-2dbad6985bc3,Andreas Öberg,"Öberg, Andreas",,Person,Sweden,Stockholm,1978-08-06,,Male
 3825d400-4886-4766-a257-c8f66ddef761,Kennie Takahashi,"Takahashi, Kennie",,Person,United States,,,,Male
 3830382e-d3ad-41b2-8024-6f1fe424bc5b,Shaun Frank,"Frank, Shaun",,Person,Canada,Vancouver,1982-06-07,,Male
+383d6203-8dac-48dc-8faa-808d01932663,Dylan Brady,"Brady, Dylan","US producer/singer-songwriter, 100 gecs",Person,United States,St. Louis,1993-11-27,,Male
 384d6827-3b17-43bc-acf6-92e618b8ec83,John Entwistle,"Entwistle, John",,Person,United Kingdom,Chiswick,1944-10-09,2002-06-27,Male
 384dfb61-c597-4303-97be-667b571041f9,Gregory Hein,"Hein, Gregory",,Person,,,,,Male
 3862342a-43c4-4cdb-8250-bfdbfb5e1419,Måneskin,Måneskin,,Group,Italy,Roma,2016,,
@@ -3368,6 +3370,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 7fa26b72-4fbe-4bc5-b61d-76c346db1880,Hwall,Hwall,,Person,South Korea,Busan,2000-03-09,,Male
 7fa62c0b-2c74-491e-a2a1-17c3b043f326,Babyface,Babyface,R&B musician Kenny Edmonds,Person,United States,Indianapolis,1959-04-10,,Male
 7fd35f96-40bc-425b-8dba-51bf58fbeb03,Daniel James,"James, Daniel",British composer,Person,United Kingdom,Hastings,,,Male
+7fe3380a-8e35-48d1-ac5a-174fe6b5060b,The Dare,"Dare, The",,Person,New York,Los Angeles,1996-03-19,,
 7fe96b15-5608-430e-ad25-77a01353c5d9,Young the Giant,Young the Giant,,Group,United States,Irvine,2004,,
 80060c96-caa9-448c-826c-c204d9da28b0,Mikey Margott,"Margott, Mikey",,Person,,,,,Male
 8006f1d0-8851-46d8-a928-085c686b29b9,David Hodges,"Hodges, David",keyboardist of Trading Yesterday,Person,United States,Little Rock,1978-12-05,,Male
@@ -4164,6 +4167,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 9fa8fdc4-91f3-4266-81e5-3c42e943217b,TBHits,TBHits,"US producer, songwriter and rapper Tommy Brown",Person,United States,Pittsburgh,1986-05-01,,Male
 9fafb136-d4ce-4eac-95c7-556172ce29a7,Noah Passovoy,"Passovoy, Noah",,Person,,,,,
 9fb041a3-b06c-4ba8-9318-5c71e1804323,Maria Vidal,"Vidal, Maria",American singer-songwriter,Person,United States,Miami,1960-08-01,,Female
+9fb1dfe3-2fd4-4a78-9ecf-4730d233c894,Turtlenecked,Turtlenecked,,Person,Portland,,,,
 9fbbbcc3-f2af-4f03-a0b1-844ee5aec94f,희진,Heejin,South Korean singer,Person,South Korea,South Korea,2000-10-19,,Female
 9fbdf5d1-1168-440e-8c63-cc5c3c7b355e,Andrew Landau,"Landau, Andrew",,Person,,,,,Male
 9fbfdea5-093d-4704-9cfd-83629fd8c070,Donald Fact,"Fact, Donald",,Person,,,,,Male
@@ -6601,6 +6605,7 @@ fee33be6-7ca3-4818-af40-fbdd216c56e1,Mark Linett,"Linett, Mark",,Person,United S
 fee83b97-168f-4b39-902c-2fb583da0b2b,福井昌彦,"Fukui, Masahiko",,Person,Japan,Chiba,1981-01-26,,Male
 feeb89b1-de09-4bea-a699-7608dca9c875,Vic Emerson,"Emerson, Vic",,Person,United Kingdom,,,,Male
 fef3813c-63cb-4c7f-ade4-b7657f1d284d,Roman,Roman,Roman Campolo,Person,,,,,Male
+ff0504c0-3b9b-4713-860c-f032284abcea,Harrison Patrick Smith,Harrison Patrick Smith,New York multiinstrumentalist,Person,New York,Los Angeles,1996-03-19,,Male
 ff08216b-98f6-4cb8-9c0b-6fd16855f2d0,Joey Waronker,"Waronker, Joey",,Person,United States,Los Angeles,1969-05-20,,Male
 ff16339e-a212-4261-8771-2717bef9103c,Rick Dufay,"Dufay, Rick",,Person,United States,Paris,1952-02-02,,Male
 ff19df45-0ced-4e66-88f1-bc3bd1c00340,SENDO,SENDO,Member of Coach & Sendo,Person,,,,,

@@ -6,21 +6,22 @@
 |:---|---:|
 | Instrument | 1 |
 | Lyricist | 2 |
-| Producer | 5 |
-| Songwriter | 7 |
+| Producer | 6 |
+| Songwriter | 8 |
 
 ## Produces for Artists
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40a7268dd742e5f63759b960" alt="" width="50" /> | 136 | 1 | 1 | Jung Kook | [🔗](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | 414 | 1 | 1 | Juicy J | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb4ba86c361191d48cbeb4b32" alt="" width="50" /> | 212 | 1 | 1 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb56d2d8d16ddedbf61b1c74f0" alt="" width="50" /> | 414 | 1 | 1 | Ava Max | [🔗](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb05859a430915d19cd6e67bbb" alt="" width="50" /> | 120 | 1 | 1 | Kim Petras | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba11b0b5c37498f5dddb1bd7b" alt="" width="50" /> | 414 | 1 | 1 | Latto | [🔗](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf057d1dce23e7f4d5d0f32e5" alt="" width="50" /> | 414 | 1 | 1 | Sam Smith | [🔗](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb716114797a4a644c67c5fa72" alt="" width="50" /> | 414 | 1 | 1 | USHER | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | 416 | 1 | 1 | Juicy J | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb4ba86c361191d48cbeb4b32" alt="" width="50" /> | 214 | 1 | 1 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb56d2d8d16ddedbf61b1c74f0" alt="" width="50" /> | 416 | 1 | 1 | Ava Max | [🔗](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb05859a430915d19cd6e67bbb" alt="" width="50" /> | 119 | 1 | 1 | Kim Petras | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba11b0b5c37498f5dddb1bd7b" alt="" width="50" /> | 416 | 1 | 1 | Latto | [🔗](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf057d1dce23e7f4d5d0f32e5" alt="" width="50" /> | 416 | 1 | 1 | Sam Smith | [🔗](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | 378 | 1 | 1 | Charli xcx | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb716114797a4a644c67c5fa72" alt="" width="50" /> | 416 | 1 | 1 | USHER | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="" width="50" /> | 108 | 1 | 1 | [Maroon 5](../../artists/maroon_5/overview.md) | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 
 ## Works with Producers
@@ -36,7 +37,7 @@
 | Adam Levine | Adam Levine | 1 |
 | Ava Max | Ava Max | 1 |
 | WATT | WATT | 1 |
-| Jimmy Napes | Jimmy Napes | 1 |
+| A. G. Cook | A. G. Cook | 1 |
 
 
 <details>
@@ -44,6 +45,7 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
+| Jimmy Napes | Jimmy Napes | 1 |
 | Juicy J | Juicy J | 1 |
 | Doug McKean | Doug McKean | 1 |
 | Ammo | Ammo | 1 |
@@ -67,6 +69,7 @@
 | Latto | Latto | 1 |
 | Usher | Usher | 1 |
 | Jon Bellion | Jon Bellion | 1 |
+| Charli XCX | Charli XCX | 1 |
 | Kiyanu Kim | Kiyanu Kim | 1 |
 
 </details>
@@ -82,3 +85,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7" alt="" width="50" /> | Sweet but Psycho | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a935e4689f15953311772cc4" alt="" width="50" /> | Unholy (feat. Kim Petras) | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273741fd4807f442af3f7359316" alt="" width="50" /> | Seven (feat. Latto) (Explicit Ver.) | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e" alt="" width="50" /> | 365 | Producer, Songwriter |

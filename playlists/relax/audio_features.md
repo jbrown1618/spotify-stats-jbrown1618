@@ -49,7 +49,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | Once Upon Another Time (0.0493) | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | Breathe Again (0.0278) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d5c8b45ab7a204c4de48605" alt="Our Blues, Pt. 10 (Original Television Soundtrack)" width="50" /> | ONCE AGAIN (0.0472) | <img src="https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b" alt="Goodbye Yellow Brick Road - Remastered" width="50" /> | Goodbye Yellow Brick Road - Remastered 2014 (0.0279) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e7c7f3bafee5562a4c01658b" alt="Song of the Bandits (Original Soundtrack from the Netflix Series)" width="50" /> | Sad Waltz (0.0421) | <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="Barton Hollow" width="50" /> | Poison & Wine (0.0288) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e" alt="Begin to Hope" width="50" /> | Samson (0.0421) | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything (Deluxe)" width="50" /> | My Everything (0.0294) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e" alt="Begin to Hope" width="50" /> | Samson (0.0421) | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything - Deluxe" width="50" /> | My Everything (0.0294) |
 
 ## Acousticness
 
@@ -65,7 +65,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27331996f8836156158d3605ce9" alt="Hotel del Luna (Original Television Soundtrack) Pt.3" width="50" /> | 그대라는 시 (0.915) | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | Breathe Again (0.288) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | Once Upon Another Time (0.896) | <img src="https://i.scdn.co/image/ab67616d0000b273cb95963709806e12d93128d4" alt="Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2" width="50" /> | Say Yes (0.352) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | ONLY (0.892) | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | My sea (0.365) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything (Deluxe)" width="50" /> | My Everything (0.88) | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="Dream" width="50" /> | Dream (0.422) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything - Deluxe" width="50" /> | My Everything (0.88) | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="Dream" width="50" /> | Dream (0.422) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="To. X - The 5th Mini Album" width="50" /> | All For Nothing (0.873) | <img src="https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b" alt="Goodbye Yellow Brick Road - Remastered" width="50" /> | Goodbye Yellow Brick Road - Remastered 2014 (0.446) |
 
 ## Instrumentalness
@@ -116,7 +116,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d5c8b45ab7a204c4de48605" alt="Our Blues, Pt. 10 (Original Television Soundtrack)" width="50" /> | ONCE AGAIN (0.481) | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="IU 5th Album &#x27;LILAC&#x27;" width="50" /> | My sea (0.122) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="Dream" width="50" /> | Dream (0.448) | <img src="https://i.scdn.co/image/ab67616d0000b273107e55b2842afce628d050e2" alt="Doom at Your Service (Original Television Soundtrack) Pt. 3" width="50" /> | U (0.137) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273149296b740548c61294fa088" alt="CASTAWAY DIVA OST Part.8" width="50" /> | Voyage (0.432) | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Stardust love song (0.149) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything (Deluxe)" width="50" /> | My Everything (0.419) | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | ONLY (0.151) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything - Deluxe" width="50" /> | My Everything (0.419) | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | ONLY (0.151) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cb95963709806e12d93128d4" alt="Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2" width="50" /> | Say Yes (0.41) | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | Bluebird (0.161) |
 
 ## Tempo

@@ -6,7 +6,7 @@
 
 | ​ | 10 most Danceable tracks | ​​ | 10 least Danceable tracks |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458" alt="The Pinkprint (Deluxe)" width="50" /> | Anaconda (0.964) | <img src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889" alt="Jazz (Deluxe Remastered Version)" width="50" /> | Fat Bottomed Girls - Remastered 2011 (0.337) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458" alt="The Pinkprint - Deluxe" width="50" /> | Anaconda (0.964) | <img src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889" alt="Jazz (Deluxe Remastered Version)" width="50" /> | Fat Bottomed Girls - Remastered 2011 (0.337) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | #Twenty (0.956) | <img src="https://i.scdn.co/image/ab67616d0000b27366ff63bc084fb412aa2dddd3" alt="Hello - Special Album" width="50" /> | Hello (0.392) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="WAP (feat. Megan Thee Stallion)" width="50" /> | WAP (feat. Megan Thee Stallion) (0.935) | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="Stadium Arcadium" width="50" /> | Snow (Hey Oh) (0.427) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27366f7b6431ebb26c9b557a96b" alt="I SWAY" width="50" /> | Klaxon (0.89) | <img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" alt="Diana Ross Presents The Jackson 5" width="50" /> | I Want You Back (0.469) |

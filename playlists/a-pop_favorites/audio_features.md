@@ -100,7 +100,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2738e49866860c25afffe2f1a02" alt="...Baby One More Time (Digital Deluxe Version)" width="50" /> | ...Baby One More Time (0.443) | <img src="https://i.scdn.co/image/ab67616d0000b273af3ad974e635a6b18579adee" alt="A Beautiful World" width="50" /> | When I Get You Alone (0.0549) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | Off To The Races (0.4) | <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="52nd Street" width="50" /> | My Life (0.0555) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27337fb0680110fbb107740de5d" alt="What Is Love? (Deluxe Edition)" width="50" /> | Rockabye (feat. Sean Paul & Anne-Marie) (0.398) | <img src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef" alt="I AM...SASHA FIERCE" width="50" /> | Halo (0.0563) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything (Deluxe)" width="50" /> | Bang Bang (0.396) | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="The Stranger (Legacy Edition)" width="50" /> | Movin' Out (Anthony's Song) (0.0591) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything - Deluxe" width="50" /> | Bang Bang (0.396) | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="The Stranger (Legacy Edition)" width="50" /> | Movin' Out (Anthony's Song) (0.0591) |
 
 ## Valence
 
