@@ -179,10 +179,19 @@ tag,artist_mbid,mb_tag
 ,0068ae6c-7156-40f9-a81f-39294af6a549,4th gen k-pop
 ,06bb5fcc-f2b3-428d-b8e7-079060311b6d,4th gen k-pop
 ,1ee37742-1e3d-4e61-84d2-bc85f4c1459a,4th gen k-pop
+,2b7c9893-7eeb-4b3e-852c-058545cb86d0,4th gen k-pop
 ,2d623e82-73e2-4179-9c44-e963980f2d58,4th gen k-pop
+,2e010493-669b-4af5-b7ef-4378eeeb3e7c,4th gen k-pop
+,2f01ffa9-1b2f-4b96-8bd0-7cd90a8444f4,4th gen k-pop
 ,527973c7-9a9f-40bf-a52c-8cc2a7115c1a,4th gen k-pop
+,5933a9e9-116d-4e15-86b3-f2ff05f66dc7,4th gen k-pop
 ,9d027d72-790e-40ec-bbb7-61aa613457de,4th gen k-pop
+,a1baad4a-e601-47f7-938c-857b7bad9494,4th gen k-pop
+,a887a52d-56b4-4078-881a-e141bcd033d3,4th gen k-pop
+,b8885c4c-936e-4871-8af9-241e90004d08,4th gen k-pop
 ,bce172fc-51bb-43f7-9a25-b406a0a581d5,4th gen k-pop
+,d3e0e7ec-9cdd-4ba8-9715-707e47f07d3c,4th gen k-pop
+,ddea2b8e-f772-4c39-ab90-e1983b74a149,4th gen k-pop
 ,de4feabc-cd21-4568-a09c-2086bfebe2f4,4th gen k-pop
 ,40017bd7-139b-4998-8688-9b2478ad3325,4th gen kpop
 ,b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d,60s
@@ -2279,6 +2288,7 @@ tag,artist_mbid,mb_tag
 ,cbe629e3-fbbd-4071-9e12-4c5074c2231b,girl group
 ,cc3054c1-803c-4b55-9c59-200acd60b5e4,girl group
 ,cded24f3-361e-4179-8f26-4209479f6187,girl group
+,ddea2b8e-f772-4c39-ab90-e1983b74a149,girl group
 ,de4feabc-cd21-4568-a09c-2086bfebe2f4,girl group
 ,dfa88d06-1e44-4916-b070-840c70bdbc4a,girl group
 ,e119e5ff-0de0-421c-a630-0516c6acede8,girl group
@@ -2708,6 +2718,7 @@ tag,artist_mbid,mb_tag
 ,be547bca-8718-4762-bf1b-34a3bdb4938f,idol
 ,3ee9d430-5c76-4947-83bf-ebb5a9e3419c,idol group
 ,9252ca18-015c-484c-ae59-5670784887d3,idol group
+,ddea2b8e-f772-4c39-ab90-e1983b74a149,idol group
 ,9252ca18-015c-484c-ae59-5670784887d3,idols
 ,9252ca18-015c-484c-ae59-5670784887d3,ihawan
 ,835a6d9c-fea0-4a71-ae52-9c4da946433a,illinois
@@ -2920,6 +2931,7 @@ tag,artist_mbid,mb_tag
 ,14d2a235-30e2-489f-b490-f9dc7d2c0861,j-pop
 ,1bb206d8-316d-4bce-9731-e56cef40df58,j-pop
 ,27e2997f-f7a1-4353-bcc4-57b9274fa9a4,j-pop
+,2b7c9893-7eeb-4b3e-852c-058545cb86d0,j-pop
 ,2c6c53ea-09d4-4d98-b174-c9aa83d4fecf,j-pop
 ,304adbb4-1993-45c1-907e-34ddfc08af5e,j-pop
 ,331a87af-4abd-494e-9254-c1d66b3260e2,j-pop
@@ -2934,6 +2946,7 @@ tag,artist_mbid,mb_tag
 ,80f9dd8d-2257-42b0-8808-97c3056019b4,j-pop
 ,85d76093-9865-4605-97fa-8c910929d366,j-pop
 ,a16d1433-ba89-4f72-a47b-a370add0bb55,j-pop
+,a1baad4a-e601-47f7-938c-857b7bad9494,j-pop
 ,aea6ccea-deb0-44bb-886e-d91aa4c358bf,j-pop
 ,b7442f18-d9be-4185-8b51-482510046156,j-pop
 ,bba737dc-7ec8-482d-b79f-68d949ef2c7f,j-pop
@@ -3218,8 +3231,11 @@ tag,artist_mbid,mb_tag
 ,270bebcb-f400-4912-a8ed-1827ae562405,k-pop
 ,271c1826-e8c2-404a-8217-7ce3fb292735,k-pop
 ,2b786fb3-a116-4163-9b65-cf56f03c8a7f,k-pop
+,2b7c9893-7eeb-4b3e-852c-058545cb86d0,k-pop
 ,2cb1105c-5f6d-426f-91a5-7b80f2fc68ff,k-pop
 ,2d623e82-73e2-4179-9c44-e963980f2d58,k-pop
+,2e010493-669b-4af5-b7ef-4378eeeb3e7c,k-pop
+,2f01ffa9-1b2f-4b96-8bd0-7cd90a8444f4,k-pop
 ,30aeb57f-bb16-47fa-86ca-79fc57b4d12c,k-pop
 ,30f9b3e7-690b-4199-8441-916c37176532,k-pop
 ,332a08b3-c1a3-49cf-8b96-e373a914590e,k-pop
@@ -3244,6 +3260,7 @@ tag,artist_mbid,mb_tag
 ,5676c373-0569-4e64-9ac7-1ece03891334,k-pop
 ,5829cd4f-e693-4b03-abe5-1226243c23d6,k-pop
 ,58dccd50-1dcf-4674-8ba6-31058695d24d,k-pop
+,5933a9e9-116d-4e15-86b3-f2ff05f66dc7,k-pop
 ,5e3bc4c7-adbe-40e0-b56e-57d755908d52,k-pop
 ,62814dab-64fe-4b70-b870-81c0145ba552,k-pop
 ,62cc95e0-86de-46e0-925a-353e330cf4e4,k-pop
@@ -3276,9 +3293,11 @@ tag,artist_mbid,mb_tag
 ,9f6a8346-15f3-4ec4-a632-f5270b0945a3,k-pop
 ,a13898e2-e488-498e-a89c-d0e920f74d4d,k-pop
 ,a16d1433-ba89-4f72-a47b-a370add0bb55,k-pop
+,a1baad4a-e601-47f7-938c-857b7bad9494,k-pop
 ,a1eba844-8c3e-4c61-8f54-f5e086b58c01,k-pop
 ,a2b34d7c-ce6c-471f-a3c0-feceacdb85e1,k-pop
 ,a3e02354-e25b-4307-b02d-fb8d42ce439d,k-pop
+,a887a52d-56b4-4078-881a-e141bcd033d3,k-pop
 ,a97f393a-13a7-4645-8bba-f10bd22d7228,k-pop
 ,ad4e8332-861d-4a49-8235-b72888714be4,k-pop
 ,ae98b8c4-d8fc-4ff9-9b4e-4bc1fd8575d1,k-pop
@@ -3289,6 +3308,7 @@ tag,artist_mbid,mb_tag
 ,b629da42-c668-49d2-be67-498605ee2a13,k-pop
 ,b6b21b0c-a706-4b46-a929-bd4d21b06cad,k-pop
 ,b7442f18-d9be-4185-8b51-482510046156,k-pop
+,b8885c4c-936e-4871-8af9-241e90004d08,k-pop
 ,b9545342-1e6d-4dae-84ac-013374ad8d7c,k-pop
 ,bba737dc-7ec8-482d-b79f-68d949ef2c7f,k-pop
 ,bce172fc-51bb-43f7-9a25-b406a0a581d5,k-pop
@@ -3300,8 +3320,10 @@ tag,artist_mbid,mb_tag
 ,cecc42fb-9657-4b54-ad2f-7b73eefaef12,k-pop
 ,cf0dbc16-4e24-4957-b5b4-955c8978f690,k-pop
 ,d271ec97-748d-4da1-b2fc-1ed72985a984,k-pop
+,d3e0e7ec-9cdd-4ba8-9715-707e47f07d3c,k-pop
 ,d84e5667-3cbe-4556-b551-9d7e4be95d71,k-pop
 ,dc7c8277-d4b6-4bca-bdfe-50eee42536ac,k-pop
+,ddea2b8e-f772-4c39-ab90-e1983b74a149,k-pop
 ,de4feabc-cd21-4568-a09c-2086bfebe2f4,k-pop
 ,df28aece-c6b8-4c91-8b04-57fbc6ed2a3b,k-pop
 ,e04d239e-9fa8-49b3-b9b7-9e439c3cb1d1,k-pop
@@ -3695,9 +3717,11 @@ tag,artist_mbid,mb_tag
 ,d1947987-9614-49ae-bd36-8000e6b6f7d0,p-funk
 ,1bb82b3b-e01e-40c0-90d1-c8e8f937b9be,p-pop
 ,423f606b-f71c-4262-8575-a3293218e8b3,p-pop
+,5933a9e9-116d-4e15-86b3-f2ff05f66dc7,p-pop
 ,8541e7c3-301f-4ffa-8a87-804c4836fe34,p-pop
 ,866e346f-8171-4c67-80fc-9ecd915cf83f,p-pop
 ,9252ca18-015c-484c-ae59-5670784887d3,p-pop
+,a887a52d-56b4-4078-881a-e141bcd033d3,p-pop
 ,e089ceae-91ac-4abe-b0de-120925e7632f,p-pop
 ,9252ca18-015c-484c-ae59-5670784887d3,p-pop idol group filipino songwriters original dancer pinoy pop boy band opm
 ,9252ca18-015c-484c-ae59-5670784887d3,p-pop idols

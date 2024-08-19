@@ -11,8 +11,8 @@
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da" alt="" width="50" /> | 42 | 12 | 12 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb24ff450c42d4e36fb34a7631" alt="" width="50" /> | 416 | 1 | 1 | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb53054f8bc7e0153daefe12cc" alt="" width="50" /> | 416 | 1 | 1 | Vince Staples | [🔗](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb24ff450c42d4e36fb34a7631" alt="" width="50" /> | 417 | 1 | 1 | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb53054f8bc7e0153daefe12cc" alt="" width="50" /> | 417 | 1 | 1 | Vince Staples | [🔗](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) |
 
 ## Works with Producers
 

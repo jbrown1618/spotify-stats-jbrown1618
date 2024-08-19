@@ -47,14 +47,14 @@ None
 | People | D-2 | Agust D | 1 | 1 | 76 |
 | Strange (feat. RM) | D-2 | Agust D | 0 | 1 | 76 |
 | Burn It (feat. MAX) | D-2 | MAX | 0 | 1 | 66 |
-| Strange (feat. RM) | D-2 | RM | 0 | 1 | 75 |
-| Chasing Pavements | 19 | Adele | 0 | 0 | 85 |
+| Strange (feat. RM) | D-2 | RM | 0 | 1 | 74 |
+| Chasing Pavements | 19 | Adele | 0 | 0 | 86 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 80 |
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 54 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 48 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 30 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 65 |
-| Underground | Artemis | Lindsey Stirling | 1 | 2 | 65 |
+| Underground | Artemis | Lindsey Stirling | 1 | 1 | 65 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 49 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 64 |
 | Sleep-walking | Prequel | Dreamcatcher | 1 | 1 | 61 |
@@ -68,7 +68,7 @@ None
 | Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 38 |
 | I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 38 |
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 38 |
-| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 65 |
+| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 66 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 32 |
 | Drink It | Drink It | THE BOYZ | 0 | 0 | 59 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 50 |
@@ -97,21 +97,21 @@ None
 | Why Not? | [12:00] | LOONA | 2 | 1 | 55 |
 | Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 55 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 53 |
-| The Phantom Of The Opera | Century Child | Nightwish | 0 | 1 | 65 |
-| End Of All Hope | Century Child | Nightwish | 1 | 1 | 65 |
-| Nemo | Once | Nightwish | 0 | 0 | 65 |
+| The Phantom Of The Opera | Century Child | Nightwish | 0 | 1 | 66 |
+| End Of All Hope | Century Child | Nightwish | 1 | 1 | 66 |
+| Nemo | Once | Nightwish | 0 | 0 | 66 |
 | Ya! (feat. Whee In) | Stay As You Are | Whee In | 0 | 0 | 50 |
 | Ya! (feat. Whee In) | Stay As You Are | Sandeul | 0 | 0 | 41 |
 | Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 0 | 0 | 58 |
-| Lullaby | Present : YOU | GOT7 | 0 | 1 | 58 |
+| Lullaby | Present : YOU | GOT7 | 0 | 0 | 58 |
 | Just Right | Just Right | GOT7 | 0 | 0 | 58 |
 | If You Do | MAD | GOT7 | 0 | 0 | 58 |
 | You Calling My Name | Call My Name | GOT7 | 0 | 0 | 58 |
-| Flowers - Cover | Flowers - Cover | YUQI | 0 | 0 | 61 |
+| Flowers - Cover | Flowers - Cover | YUQI | 0 | 0 | 60 |
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 26 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 76 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 78 |
-| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 74 |
+| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 73 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 60 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 73 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 75 |
@@ -121,9 +121,9 @@ None
 | I Do | It's Raining | Rain | 0 | 0 | 45 |
 | It′s Raining | It's Raining | Rain | 0 | 0 | 45 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 85 |
-| Miku | Miku | Anamanaguchi | 0 | 0 | 52 |
+| Miku | Miku | Anamanaguchi | 0 | 0 | 51 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 43 |
-| Heartbeat | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) | SURAN | 0 | 0 | 50 |
+| Heartbeat | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) | SURAN | 1 | 0 | 50 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 50 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 49 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |

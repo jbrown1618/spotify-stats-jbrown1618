@@ -1164,6 +1164,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 2b72031d-681d-423b-a8ee-636e72ccf50c,Riley Hampton,"Hampton, Riley",,Person,United States,,,,Male
 2b7539d0-7fe1-456e-ab44-887d82949828,Louie Shelton,"Shelton, Louie",,Person,United States,,1941-04-06,,Male
 2b786fb3-a116-4163-9b65-cf56f03c8a7f,TAEYEON,TAEYEON,,Person,South Korea,Jeonju,1989-03-09,,Female
+2b7c9893-7eeb-4b3e-852c-058545cb86d0,コトコ,Kotoko,UNIS,Person,South Korea,Osaka,2007-10-28,,Female
 2b7fa335-4a0b-449b-bba2-8ef2e12ec9fd,Jason Rae,"Rae, Jason",,Person,United Kingdom,,1976,2008-03-22,
 2b8546f6-1ccf-4b59-8eee-2d3a3360d55f,Fifty Fifty,Fifty Fifty,UK house project,Group,United Kingdom,,,,
 2b925c37-52f0-4bfc-97b6-0caff99a3839,Riye,Riye,South Korean performer/choreographer,Person,,,1997-11-13,,Female
@@ -1246,6 +1247,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 2df4ce6a-87d6-49e5-b140-4e71066f996c,Vishal-Shekhar,Vishal-Shekhar,,Group,India,,,,
 2dfaf94a-cde7-4ef7-b835-65902763ad12,REAL AKIBA BOYZ,REAL AKIBA BOYZ,,Group,,,,,
 2dfbc002-0a59-4a79-a5e6-beb408eafb96,pixelwave,pixelwave,,Person,,,,,Male
+2e010493-669b-4af5-b7ef-4378eeeb3e7c,오윤아,"Oh, Yoona",,Person,South Korea,Hwaseong,2009-10-07,,Female
 2e01f18a-6027-4081-8e8c-4fedb38fda8d,Mario Marchetti,"Marchetti, Mario",,Person,,,,,
 2e022b68-184c-41e9-81c7-db50cfb058e5,David Manion,"Manion, David",,Person,United States,,,,Male
 2e032319-79cd-4662-8c8c-fcfebc92b01a,Joe Seaward,"Seaward, Joe",Glass Animals,Person,,,,,
@@ -1274,6 +1276,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 2ef442c8-5df2-47c0-83a2-d83e2d231c7f,Dr Tchock,"Tchock, Dr",,Person,United Kingdom,Wellingborough,1968-10-07,,Male
 2efac2d7-e5ad-4e7b-87c9-ef678fbbaaab,Simon Townshend,"Townshend, Simon",,Person,United Kingdom,Chiswick,1960-10-10,,Male
 2efbcd8a-765a-40d9-861e-0ca0aa990636,tizhimself,tizhimself,real name Gerard A. Powell II,Person,,,,,Male
+2f01ffa9-1b2f-4b96-8bd0-7cd90a8444f4,방윤하,"Bang, Yunha",,Person,South Korea,South Korea,2009-02-28,,Female
 2f10a3cc-c9bf-4e5d-89d0-15d6d257e630,Kristin Carpenter,"Carpenter, Kristin",,Person,,,,,Female
 2f156b02-bd2f-49ab-9dde-66269ccdff75,Beast Bombay,"Bombay, Beast",,Person,,,,,
 2f15a7c0-ee60-4446-940d-7966d5c7ec5a,Anders Gukko,"Gukko, Anders",,Person,,,,,
@@ -2394,6 +2397,7 @@ artist_mbid,artist_mb_name,artist_sort_name,artist_disambiguation,artist_type,ar
 5925a362-4ccd-44a4-b282-30ed44847769,Hayden Chapman,"Chapman, Hayden",,Person,,,,,Male
 59285aa4-0ffb-4b7a-8b1b-5d4ce000f0e5,Believve,Believve,,Unknown,,,,,
 592f9f46-f53a-421b-91fe-ec5203b8b4bf,小栗有以,"Oguri, Yui",,Person,Japan,Tokyo,2001-12-26,,Female
+5933a9e9-116d-4e15-86b3-f2ff05f66dc7,Elisia,Elisia,,Person,South Korea,Philippines,2009-04-18,,Female
 5933aaaf-39e5-464f-9575-5ce83c4b9909,Lauren Aquilina,"Aquilina, Lauren",,Person,United Kingdom,Bristol,1995-06-23,,Female
 5938fddf-aa23-4da2-871b-b75ab12e1d64,Matthew Tishler,"Tishler, Matthew",,Person,Canada,,,,Male
 593abf14-4292-4d62-b365-79c7674cd1a5,Randy Jackson,"Jackson, Randy",brother of Michael and Janet,Person,United States,Gary,1961-10-29,,Male
@@ -4222,6 +4226,7 @@ a199d60a-f67b-4ee4-b005-476eb947615f,Darkchild,Darkchild,,Person,,,,,
 a19bebc2-6b74-47a4-b9c6-5c5ebc9e3ab6,Jared Robbins,"Robbins, Jared",,Person,United States,,,,Male
 a1a66ddf-76d5-4e44-9c11-950a578a7813,Jacob Slichter,"Slichter, Jacob",,Person,,,1961-04-05,,Male
 a1b2128e-6b81-4b97-b399-ba68aa77297d,Luke Bullen,"Bullen, Luke",,Person,United Kingdom,Norwich,1973-09-02,,Male
+a1baad4a-e601-47f7-938c-857b7bad9494,ナナ,Nana,"UNIS, PRIKIL",Person,South Korea,Tokyo,2007-06-06,,Female
 a1e4ac99-dacd-40ab-8a11-0b2737458f14,WOOSUNG,WOOSUNG,,Person,,,,,Male
 a1e7d062-4ff8-400e-a638-eaf19244254b,Robin Wiley,"Wiley, Robin","Austin, Texas singer/songwriter",Person,,,1960-07-27,2006-04-09,Female
 a1eba844-8c3e-4c61-8f54-f5e086b58c01,AKMU,AKMU,,Group,South Korea,Uijeongbu,2012,,
@@ -4384,6 +4389,7 @@ a858e2ca-b737-4e9f-addd-ff0bdbcd0cb4,Charlie J. Perry,"Perry, Charlie J.",Britis
 a86565ca-09d3-4804-b924-53f3ea51cfec,Just William,"William, Just",,Person,,,,,Male
 a8725bde-0e23-4735-8a2b-33ffd7bb2855,Derek Pacuk,"Pacuk, Derek",,Person,,,,,
 a885d465-841e-4453-98de-deac13bf8b9a,Jason Scheff,"Scheff, Jason",,Person,United States,San Diego,1962-04-16,,Male
+a887a52d-56b4-4078-881a-e141bcd033d3,Gehlee Dangca,"Dangca, Gehlee",,Person,South Korea,Las Piñas,2007-08-19,,Female
 a88863ae-4744-44aa-b15c-54363cedf9d2,DKB,DKB,K-Pop Group,Group,South Korea,South Korea,2019-09-30,,
 a899e40e-b845-4b52-84bf-b0dee15b2814,최종호,"Choi, Jongho",Ateez,Person,South Korea,Seoul,2000-10-12,,Male
 a8b4a110-22b4-46d7-b6b7-97d6eb6681dc,Ronan Phelan,"Phelan, Ronan",engineer,Person,United Kingdom,,,,Male
@@ -4805,6 +4811,7 @@ b858f940-ece9-4afb-a2c1-cc0c2a35c085,Elsa Curran,"Curran, Elsa",,Person,,,,,Fema
 b87f60d9-bf58-454d-978d-6ccc38116ed2,Tomczak,Tomczak,,Person,,,,,Male
 b88029e2-befc-4e13-958f-6414f933b66d,Tom Elmhirst,"Elmhirst, Tom",mixing engineer,Person,United Kingdom,,1971-06-08,,Male
 b882212f-4ff2-4b71-b2fb-876dddcd0185,여원,Yeo One,,Person,South Korea,,1996-03-27,,Male
+b8885c4c-936e-4871-8af9-241e90004d08,임서원,"Lim, Seo Won",UNIS,Person,South Korea,Songpa District,2011-01-27,,Female
 b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,Ed Sheeran,"Sheeran, Ed","UK singer-songwriter, “Shape of You”",Person,United Kingdom,Halifax,1991-02-17,,Male
 b8bba0eb-cec6-4910-ab1b-cd831a804304,Robert Waller,"Waller, Robert",,Person,United States,,,,Male
 b8c8a770-32dc-4490-b1c3-c55390cd1234,류현우,"Ryu, Hyeon-woo",,Person,South Korea,,,,
@@ -5492,6 +5499,7 @@ d39743a1-f43c-4da9-8bbb-7698c4c950df,Eric Troyer,"Troyer, Eric",,Person,United S
 d397ec2e-7ca7-46fa-8cdd-39b8e46342d6,Simon Huber,"Huber, Simon",,Person,United States,,,,Male
 d3a24471-3bd5-43bb-add7-5d876e9186b7,Aslyn,Aslyn,,Person,United States,Chiefland,1980-09-21,,Female
 d3d9a439-bcb0-4d8a-afe7-81428e512559,Nicky D'Silva,"D'Silva, Nicky",Production music composer,Person,London,Ealing,,,Male
+d3e0e7ec-9cdd-4ba8-9715-707e47f07d3c,진현주,"Jin, Hyeonju",UNIS; cignature,Person,South Korea,Naju,2001-11-03,,Female
 d3f1f3a1-91d6-4f61-ba38-bbc89b4b3332,Sven Pipien,"Pipien, Sven",,Person,United States,Hannover,1967-05-30,,Male
 d3f252f3-63d0-4490-b651-1366d98fd64a,Jason Boesel,"Boesel, Jason",,Person,United States,,,,Male
 d3f83561-cab4-4930-a5b1-18145c34ccff,Gilby Clarke,"Clarke, Gilby",,Person,United States,Cleveland,1962-08-17,,Male
@@ -5749,6 +5757,7 @@ ddb33878-9ca3-4320-a1fc-cde855ebd555,박상록,"Park, Sang-rok",,Person,South Ko
 dddab325-2293-423f-b224-e82a0649b945,James Anthony Carmichael,"Carmichael, James Anthony",,Person,,Gadsden,1941-09-14,,Male
 dddcd10e-672b-4145-aca1-0fba534d1782,Gus Dudgeon,"Dudgeon, Gus",,Person,United Kingdom,Woking,1942-09-30,2002-07-21,Male
 dde26295-8cd4-474c-8740-3edb801b2776,Maggie Rogers,"Rogers, Maggie",,Person,United States,Easton,1994-04-25,,Female
+ddea2b8e-f772-4c39-ab90-e1983b74a149,UNIS,UNIS,South Korean girl group,Group,South Korea,Seoul,2024-01-17,,
 ddf83792-f41b-4329-829c-f13f1aa9774e,Lionel Ross,"Ross, Lionel",cellist,Person,United Kingdom,,,,Male
 ddfd7f8a-84cb-4fc1-9939-1661bc669b79,Alessandro Esseno,"Esseno, Alessandro",,Person,,,,,Male
 ddfd9b2f-186e-4b2c-ad09-01aa5380c225,Robin Thicke,"Thicke, Robin",,Person,United States,Los Angeles,1977-03-10,,Male
