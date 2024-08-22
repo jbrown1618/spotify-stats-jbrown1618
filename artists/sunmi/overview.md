@@ -15,8 +15,8 @@ SUNMI:
 
 ## Artist Rank
 SUNMI is currently:
-- The #24 artist of the last month
-- The #36 artist of the last year
+- The #26 artist of the last month
+- The #44 artist of the last year
 - The #40 artist of all time
 
 ![Rank of SUNMI over time](../../images/artists/sunmi/rank_time_series.png)
@@ -51,15 +51,15 @@ SUNMI is currently:
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273b78e41dc88b7ddda60738c9d" alt="" width="50" /> | 96 | 2 | 2 | Heart Burn | 2022-06-29 | [🔗](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731cc9a4020b295d45b7255267" alt="" width="50" /> | 616 | 1 | 1 | pporappippam | 2020-06-29 | [🔗](https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731a984930c218438701634e11" alt="" width="50" /> | 616 | 1 | 1 | When We Disco | 2020-08-12 | [🔗](https://open.spotify.com/album/1PllJjUqafNlQ23eBqs511) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27373b185444325e1d394d65660" alt="" width="50" /> | 616 | 1 | 1 | TAIL | 2021-02-23 | [🔗](https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e33d84e471094fe701f06860" alt="" width="50" /> | 187 | 1 | 1 | SUNMI SPECIAL EDITION [Gashina] | 2017-08-22 | [🔗](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cc9a4020b295d45b7255267" alt="" width="50" /> | 619 | 1 | 1 | pporappippam | 2020-06-29 | [🔗](https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731a984930c218438701634e11" alt="" width="50" /> | 619 | 1 | 1 | When We Disco | 2020-08-12 | [🔗](https://open.spotify.com/album/1PllJjUqafNlQ23eBqs511) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27373b185444325e1d394d65660" alt="" width="50" /> | 619 | 1 | 1 | TAIL | 2021-02-23 | [🔗](https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e33d84e471094fe701f06860" alt="" width="50" /> | 188 | 1 | 1 | SUNMI SPECIAL EDITION [Gashina] | 2017-08-22 | [🔗](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733de9733addfb0b91b8eb30b0" alt="" width="50" /> | 326 | 1 | 1 | STRANGER | 2023-10-17 | [🔗](https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27373e1cb392676000445e9cbce" alt="" width="50" /> | 309 | 1 | 1 | Oh Sorry Ya | 2022-03-08 | [🔗](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738231f3397bc3ac0d89815fa5" alt="" width="50" /> | 616 | 1 | 1 | Balloon in Love | 2024-06-13 | [🔗](https://open.spotify.com/album/2AxY2j1VRmHSoIooqtQ7p9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a916eb5cb60ec476b75fc807" alt="" width="50" /> | 616 | 1 | 1 | 24 Hours | 2013-08-26 | [🔗](https://open.spotify.com/album/4ag4tJmAksjMdxICMV83Aw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c22dfd393c41eb98307dba3" alt="" width="50" /> | 616 | 1 | 1 | 1/6 | 2021-08-06 | [🔗](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27373e1cb392676000445e9cbce" alt="" width="50" /> | 310 | 1 | 1 | Oh Sorry Ya | 2022-03-08 | [🔗](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738231f3397bc3ac0d89815fa5" alt="" width="50" /> | 619 | 1 | 1 | Balloon in Love | 2024-06-13 | [🔗](https://open.spotify.com/album/2AxY2j1VRmHSoIooqtQ7p9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a916eb5cb60ec476b75fc807" alt="" width="50" /> | 619 | 1 | 1 | 24 Hours | 2013-08-26 | [🔗](https://open.spotify.com/album/4ag4tJmAksjMdxICMV83Aw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c22dfd393c41eb98307dba3" alt="" width="50" /> | 619 | 1 | 1 | 1/6 | 2021-08-06 | [🔗](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) |
 
 
 <details>
@@ -67,7 +67,7 @@ SUNMI is currently:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b8c3953f7694fff8dcaec23f" alt="" width="50" /> | 616 | 1 | 0 | WARNING | 2018-09-12 | [🔗](https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b8c3953f7694fff8dcaec23f" alt="" width="50" /> | 619 | 1 | 0 | WARNING | 2018-09-12 | [🔗](https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr) |
 
 </details>
 
@@ -80,7 +80,7 @@ SUNMI is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022c0252c4e4a988f024e4d262ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 2 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e025c041fe9e3c9de436047d86bab67616d00001e02714e56679ab196354e2e443eab67616d00001e027a393b04e8ced571618223e8ab67616d00001e027dd8f95320e8ef08aa121dfe" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k-pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e0286ca91e718866f411c01db5eab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02ce4f1737bc8a646c8c4bd25a" alt="" width="50" /> | 1 | [Beat Drop!](../../playlists/beat_drop!/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e0207568782625b85282541394bab67616d00001e0211c27127b91e1e4266152362ab67616d00001e024f6afc385052250c766a5683ab67616d00001e02bf32f4be80afeb0e1a09b27d" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0226cc1062ed475f238d244141ab67616d00001e023da7d11b9a40ccc0edf18961ab67616d00001e026c498180e56f57e7d7bcdb86ab67616d00001e02ec449471d321ade6ee416230" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0220adea47ebd9e98d2e7d2247ab67616d00001e022ce067b763f6a4938cb8a501ab67616d00001e02583c60000e8abc8283853e10ab67616d00001e0273e21d92fa8c70ce6aba72d0" alt="" width="50" /> | 1 | [K-Memes](../../playlists/k-memes/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e023613e1e0d35867a0814005a9ab67616d00001e024a8e5eaab8b02db02e487c27ab67616d00001e0259fcda8d47bbd0f6c2bf1647ab67616d00001e028bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 1 | [Halloween](../../playlists/halloween/overview.md) |
 
@@ -149,16 +149,16 @@ SUNMI is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b78e41dc88b7ddda60738c9d" alt="" width="50" /> | Heart Burn | Heart Burn | [SUNMI](overview.md) | Abyss Company | 118 | 💚 | [🔗](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e33d84e471094fe701f06860" alt="" width="50" /> | Gashina | SUNMI SPECIAL EDITION [Gashina] | [SUNMI](overview.md) | Makeus Entertainment, The Black Label | 258 | 💚 | [🔗](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27373e1cb392676000445e9cbce" alt="" width="50" /> | Oh Sorry Ya | Oh Sorry Ya | [SUNMI](overview.md) | Abyss Company | 436 | 💚 | [🔗](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733de9733addfb0b91b8eb30b0" alt="" width="50" /> | STRANGER | STRANGER | [SUNMI](overview.md) | Abyss Company | 463 | 💚 | [🔗](https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b78e41dc88b7ddda60738c9d" alt="" width="50" /> | Childhood | Heart Burn | [SUNMI](overview.md) | Abyss Company | 779 | 💚 | [🔗](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a916eb5cb60ec476b75fc807" alt="" width="50" /> | 24 Hours | 24 Hours | [SUNMI](overview.md) | [Republic Records](../../labels/republic_records) | 929 | 💚 | [🔗](https://open.spotify.com/track/4ayWErdGIvSo4o6a3lMVLt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b8c3953f7694fff8dcaec23f" alt="" width="50" /> | Siren | WARNING | [SUNMI](overview.md) | MAKEUS ENTERTAINMENT | 929 | | [🔗](https://open.spotify.com/track/0gEnVDMhKKjF1qXuvBwq91) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731cc9a4020b295d45b7255267" alt="" width="50" /> | pporappippam | pporappippam | [SUNMI](overview.md) | Makeus Entertainment | 929 | 💚 | [🔗](https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731a984930c218438701634e11" alt="" width="50" /> | When We Disco | When We Disco | J.Y. Park, [SUNMI](overview.md) | [JYP Entertainment](../../labels/jyp_entertainment) | 929 | 💚 | [🔗](https://open.spotify.com/track/6t9nnPyEZfjcn1aLJ4l9AK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27373b185444325e1d394d65660" alt="" width="50" /> | TAIL | TAIL | [SUNMI](overview.md) | Abyss Company | 929 | 💚 | [🔗](https://open.spotify.com/track/7muTXW7kGytN3zdomku6FV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b78e41dc88b7ddda60738c9d" alt="" width="50" /> | Heart Burn | Heart Burn | [SUNMI](overview.md) | Abyss Company | 117 | 💚 | [🔗](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e33d84e471094fe701f06860" alt="" width="50" /> | Gashina | SUNMI SPECIAL EDITION [Gashina] | [SUNMI](overview.md) | Makeus Entertainment, The Black Label | 259 | 💚 | [🔗](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27373e1cb392676000445e9cbce" alt="" width="50" /> | Oh Sorry Ya | Oh Sorry Ya | [SUNMI](overview.md) | Abyss Company | 438 | 💚 | [🔗](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733de9733addfb0b91b8eb30b0" alt="" width="50" /> | STRANGER | STRANGER | [SUNMI](overview.md) | Abyss Company | 462 | 💚 | [🔗](https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b78e41dc88b7ddda60738c9d" alt="" width="50" /> | Childhood | Heart Burn | [SUNMI](overview.md) | Abyss Company | 786 | 💚 | [🔗](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a916eb5cb60ec476b75fc807" alt="" width="50" /> | 24 Hours | 24 Hours | [SUNMI](overview.md) | [Republic Records](../../labels/republic_records) | 934 | 💚 | [🔗](https://open.spotify.com/track/4ayWErdGIvSo4o6a3lMVLt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b8c3953f7694fff8dcaec23f" alt="" width="50" /> | Siren | WARNING | [SUNMI](overview.md) | MAKEUS ENTERTAINMENT | 934 | | [🔗](https://open.spotify.com/track/0gEnVDMhKKjF1qXuvBwq91) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cc9a4020b295d45b7255267" alt="" width="50" /> | pporappippam | pporappippam | [SUNMI](overview.md) | Makeus Entertainment | 934 | 💚 | [🔗](https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731a984930c218438701634e11" alt="" width="50" /> | When We Disco | When We Disco | J.Y. Park, [SUNMI](overview.md) | [JYP Entertainment](../../labels/jyp_entertainment) | 934 | 💚 | [🔗](https://open.spotify.com/track/6t9nnPyEZfjcn1aLJ4l9AK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27373b185444325e1d394d65660" alt="" width="50" /> | TAIL | TAIL | [SUNMI](overview.md) | Abyss Company | 934 | 💚 | [🔗](https://open.spotify.com/track/7muTXW7kGytN3zdomku6FV) |
 
 
 <details>
@@ -166,8 +166,8 @@ SUNMI is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c22dfd393c41eb98307dba3" alt="" width="50" /> | You can't sit with us | 1/6 | [SUNMI](overview.md) | Abyss Company | 929 | 💚 | [🔗](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738231f3397bc3ac0d89815fa5" alt="" width="50" /> | Balloon in Love | Balloon in Love | [SUNMI](overview.md) | Abyss Company | 929 | 💚 | [🔗](https://open.spotify.com/track/3x6unDluyCL4v5AeGrAVGA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c22dfd393c41eb98307dba3" alt="" width="50" /> | You can't sit with us | 1/6 | [SUNMI](overview.md) | Abyss Company | 934 | 💚 | [🔗](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738231f3397bc3ac0d89815fa5" alt="" width="50" /> | Balloon in Love | Balloon in Love | [SUNMI](overview.md) | Abyss Company | 934 | 💚 | [🔗](https://open.spotify.com/track/3x6unDluyCL4v5AeGrAVGA) |
 
 </details>
 

@@ -21,9 +21,9 @@ NMIXX:
 
 ## Artist Rank
 NMIXX is currently:
-- The #38 artist of the last month
-- The #13 artist of the last 6 months
-- The #19 artist of the last year
+- The #10 artist of the last month
+- The #15 artist of the last 6 months
+- The #15 artist of the last year
 - The #20 artist of all time
 
 ![Rank of NMIXX over time](../../images/artists/nmixx/rank_time_series.png)
@@ -57,17 +57,19 @@ NMIXX is currently:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c9c9aaadb2d6d3d44be06332" alt="" width="50" /> | 521 | 5 | 4 | Fe3O4: STICK OUT | 2024-08-19 | [🔗](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | 104 | 5 | 3 | expérgo | 2023-03-20 | [🔗](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | 42 | 3 | 3 | Fe3O4: BREAK | 2024-01-15 | [🔗](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | 616 | 2 | 2 | ENTWURF | 2022-09-19 | [🔗](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | 219 | 2 | 2 | AD MARE | 2022-02-22 | [🔗](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273211dd4f1141b597f5f1c2ac9" alt="" width="50" /> | 616 | 1 | 1 | FEIFEI | 2024-07-31 | [🔗](https://open.spotify.com/album/3iM9IcCKlZrTtvjgKvbtBW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="" width="50" /> | 616 | 1 | 0 | 1st Intermixxion Single <Funky Glitter Christmas> | 2022-11-23 | [🔗](https://open.spotify.com/album/6cuwtxgP5dcbc87iAgSc25) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | 41 | 3 | 3 | Fe3O4: BREAK | 2024-01-15 | [🔗](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | 619 | 2 | 2 | ENTWURF | 2022-09-19 | [🔗](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | 220 | 2 | 2 | AD MARE | 2022-02-22 | [🔗](https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273211dd4f1141b597f5f1c2ac9" alt="" width="50" /> | 619 | 1 | 1 | FEIFEI | 2024-07-31 | [🔗](https://open.spotify.com/album/3iM9IcCKlZrTtvjgKvbtBW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="" width="50" /> | 619 | 1 | 0 | 1st Intermixxion Single <Funky Glitter Christmas> | 2022-11-23 | [🔗](https://open.spotify.com/album/6cuwtxgP5dcbc87iAgSc25) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 13 | [K-Pop](../../playlists/k-pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 18 | [K-Pop](../../playlists/k-pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0226cc1062ed475f238d244141ab67616d00001e023da7d11b9a40ccc0edf18961ab67616d00001e026c498180e56f57e7d7bcdb86ab67616d00001e02ec449471d321ade6ee416230" alt="" width="50" /> | 6 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 4 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e0286ca91e718866f411c01db5eab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02ce4f1737bc8a646c8c4bd25a" alt="" width="50" /> | 4 | [Beat Drop!](../../playlists/beat_drop!/overview.md) |
 | <img src="https://wrapped-images.spotifycdn.com/image/yts-2023/default/your-top-songs-2023_DEFAULT_en.jpg" alt="" width="50" /> | 2 | [Your Top Songs 2023](../../playlists/your_top_songs_2023/overview.md) |
@@ -75,7 +77,6 @@ NMIXX is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e021869a85947a5ea00df8c936fab67616d00001e025048ed32fafe7b9a50d0e410ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [Recommendations for Chris](../../playlists/recommendations_for_chris/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e025c041fe9e3c9de436047d86bab67616d00001e02714e56679ab196354e2e443eab67616d00001e027a393b04e8ced571618223e8ab67616d00001e027dd8f95320e8ef08aa121dfe" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k-pop_101/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e0207568782625b85282541394bab67616d00001e0211c27127b91e1e4266152362ab67616d00001e024f6afc385052250c766a5683ab67616d00001e02bf32f4be80afeb0e1a09b27d" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022433cb43f0f2f0f23b7c8b82ab67616d00001e023a44a5105549a15dd92ed0c3ab67616d00001e024ccc03169b086af698178a99ab67616d00001e029922157daa474131bb3a0fbc" alt="" width="50" /> | 1 | [International Pop](../../playlists/international_pop/overview.md) |
 | <img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg" alt="" width="50" /> | 1 | [On Repeat](../../playlists/on_repeat/overview.md) |
 | <img src="https://wrapped-images.spotifycdn.com/image/yts-2022/default/your-top-songs-2022_default_en.jpg" alt="" width="50" /> | 1 | [Your Top Songs 2022](../../playlists/your_top_songs_2022/overview.md) |
@@ -87,7 +88,7 @@ NMIXX is currently:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 12 | 10 | [Republic Records](../../labels/republic_records/overview.md) |
+| 17 | 14 | [Republic Records](../../labels/republic_records/overview.md) |
 | 1 | 1 | I ONE Entertainment |
 | 1 | 0 | [JYP Entertainment](../../labels/jyp_entertainment/overview.md) |
 
@@ -209,16 +210,16 @@ NMIXX is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | DASH | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 74 | 💚 | [🔗](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Soñar (Breaker) | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 83 | 💚 | [🔗](https://open.spotify.com/track/6UwrPxRaR5HPNLDDl7RcT9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | DASH | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 72 | 💚 | [🔗](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Soñar (Breaker) | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 81 | 💚 | [🔗](https://open.spotify.com/track/6UwrPxRaR5HPNLDDl7RcT9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Love Me Like This | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 133 | 💚 | [🔗](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Run For Roses | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 233 | 💚 | [🔗](https://open.spotify.com/track/4byr9TsXs4qtm8rG2FfwRW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | TANK | AD MARE | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 298 | 💚 | [🔗](https://open.spotify.com/track/4ZbXs9DzvdWlsQfA9ZUkCV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | HOME | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 365 | 💚 | [🔗](https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | O.O | AD MARE | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 929 | 💚 | [🔗](https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | COOL (Your rainbow) | ENTWURF | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 929 | 💚 | [🔗](https://open.spotify.com/track/3D5t7S7W8BABJvA1SAIAHb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | DICE | ENTWURF | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 929 | 💚 | [🔗](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="" width="50" /> | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | [NMIXX](overview.md) | [JYP Entertainment](../../labels/jyp_entertainment) | 929 | | [🔗](https://open.spotify.com/track/7ra9FZOGKDhiodoH5fuYsy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Run For Roses | Fe3O4: BREAK | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 234 | 💚 | [🔗](https://open.spotify.com/track/4byr9TsXs4qtm8rG2FfwRW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | TANK | AD MARE | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 299 | 💚 | [🔗](https://open.spotify.com/track/4ZbXs9DzvdWlsQfA9ZUkCV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | HOME | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 369 | 💚 | [🔗](https://open.spotify.com/track/0nYtg6MqCDmolLI5vsSAy1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386ca91e718866f411c01db5e" alt="" width="50" /> | O.O | AD MARE | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 934 | 💚 | [🔗](https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | COOL (Your rainbow) | ENTWURF | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 934 | 💚 | [🔗](https://open.spotify.com/track/3D5t7S7W8BABJvA1SAIAHb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | DICE | ENTWURF | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 934 | 💚 | [🔗](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730f1afd412fe1e243e11363db" alt="" width="50" /> | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | [NMIXX](overview.md) | [JYP Entertainment](../../labels/jyp_entertainment) | 934 | | [🔗](https://open.spotify.com/track/7ra9FZOGKDhiodoH5fuYsy) |
 
 
 <details>
@@ -226,10 +227,15 @@ NMIXX is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Just Did It | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 929 | 💚 | [🔗](https://open.spotify.com/track/5AgwBbICmOVLhl95tBiOg0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | PAXXWORD | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 929 | | [🔗](https://open.spotify.com/track/57IfwDNINXVRAWbmmaBcP9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Young, Dumb, Stupid | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 929 | | [🔗](https://open.spotify.com/track/5eD83TX5ERuyJ7chfed3MQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273211dd4f1141b597f5f1c2ac9" alt="" width="50" /> | FEIFEI | FEIFEI | [NMIXX](overview.md) | I ONE Entertainment | 929 | 💚 | [🔗](https://open.spotify.com/track/3xHoqEgh1tknyT2h7mKZnB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Just Did It | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 934 | 💚 | [🔗](https://open.spotify.com/track/5AgwBbICmOVLhl95tBiOg0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | PAXXWORD | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 934 | | [🔗](https://open.spotify.com/track/57IfwDNINXVRAWbmmaBcP9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b32002f8a5e4ee2a5db5ace" alt="" width="50" /> | Young, Dumb, Stupid | expérgo | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 934 | | [🔗](https://open.spotify.com/track/5eD83TX5ERuyJ7chfed3MQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273211dd4f1141b597f5f1c2ac9" alt="" width="50" /> | FEIFEI | FEIFEI | [NMIXX](overview.md) | I ONE Entertainment | 934 | 💚 | [🔗](https://open.spotify.com/track/3xHoqEgh1tknyT2h7mKZnB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c9c9aaadb2d6d3d44be06332" alt="" width="50" /> | BEAT BEAT | Fe3O4: STICK OUT | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 934 | 💚 | [🔗](https://open.spotify.com/track/3P8l7sbL5dxKlS4gcJ1qJI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c9c9aaadb2d6d3d44be06332" alt="" width="50" /> | Love Is Lonely | Fe3O4: STICK OUT | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 934 | 💚 | [🔗](https://open.spotify.com/track/4IAjCbrxOPyfMqbVasSjwc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c9c9aaadb2d6d3d44be06332" alt="" width="50" /> | Red light sign, but we go | Fe3O4: STICK OUT | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 934 | | [🔗](https://open.spotify.com/track/7h6zQBXlsrUb9990J8x0vr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c9c9aaadb2d6d3d44be06332" alt="" width="50" /> | SICKUHH (Feat. Kid Milli) | Fe3O4: STICK OUT | [NMIXX](overview.md), Kid Milli | [Republic Records](../../labels/republic_records) | 934 | 💚 | [🔗](https://open.spotify.com/track/0Mwj2BjoZwV6ZsYlqj6vB0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c9c9aaadb2d6d3d44be06332" alt="" width="50" /> | See that? | Fe3O4: STICK OUT | [NMIXX](overview.md) | [Republic Records](../../labels/republic_records) | 934 | 💚 | [🔗](https://open.spotify.com/track/3Zice5cXhiPVLwrdBJlyHc) |
 
 </details>
 

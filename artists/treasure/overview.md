@@ -21,7 +21,7 @@ TREASURE:
 - has member BANG YEDAM
 
 ## Artist Rank
-- The #72 artist of all time
+- The #73 artist of all time
 
 ![Rank of TREASURE over time](../../images/artists/treasure/rank_time_series.png)
 ## Top Tracks
@@ -45,9 +45,9 @@ TREASURE:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="" width="50" /> | 352 | 3 | 2 | THE SECOND STEP : CHAPTER ONE | 2022-02-15 | [🔗](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="" width="50" /> | 345 | 3 | 2 | THE SECOND STEP : CHAPTER ONE | 2022-02-15 | [🔗](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | 282 | 2 | 2 | 2ND FULL ALBUM 'REBOOT' | 2023-07-28 | [🔗](https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734bb3b49ff157d01ab9896573" alt="" width="50" /> | 616 | 2 | 1 | THE FIRST STEP : TREASURE EFFECT | 2021-01-11 | [🔗](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734bb3b49ff157d01ab9896573" alt="" width="50" /> | 619 | 2 | 1 | THE FIRST STEP : TREASURE EFFECT | 2021-01-11 | [🔗](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357fa85a5c9f295d5e5b362e7" alt="" width="50" /> | 114 | 1 | 1 | THE SECOND STEP : CHAPTER TWO | 2022-10-04 | [🔗](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) |
 
 ## Featured on Playlists
@@ -101,9 +101,9 @@ TREASURE:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27357fa85a5c9f295d5e5b362e7" alt="" width="50" /> | HELLO | THE SECOND STEP : CHAPTER TWO | [TREASURE](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 144 | 💚 | [🔗](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | MOVE (T5) | 2ND FULL ALBUM 'REBOOT' | [TREASURE](overview.md) | [Columbia](../../labels/columbia), [YG Entertainment](../../labels/yg_entertainment) | 473 | 💚 | [🔗](https://open.spotify.com/track/6ce3rQ3j3vfRics2YiHWbW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="" width="50" /> | DARARI | THE SECOND STEP : CHAPTER ONE | [TREASURE](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 510 | 💚 | [🔗](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | BONA BONA | 2ND FULL ALBUM 'REBOOT' | [TREASURE](overview.md) | [Columbia](../../labels/columbia), [YG Entertainment](../../labels/yg_entertainment) | 669 | 💚 | [🔗](https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734bb3b49ff157d01ab9896573" alt="" width="50" /> | I LOVE YOU | THE FIRST STEP : TREASURE EFFECT | [TREASURE](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 929 | 💚 | [🔗](https://open.spotify.com/track/1SxqqC1aQ8JiLyfMrHYmnF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734bb3b49ff157d01ab9896573" alt="" width="50" /> | MMM | THE FIRST STEP : TREASURE EFFECT | [TREASURE](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 929 | | [🔗](https://open.spotify.com/track/7DlfhY3YfQKi97j0DXihen) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="" width="50" /> | JIKJIN | THE SECOND STEP : CHAPTER ONE | [TREASURE](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 929 | 💚 | [🔗](https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="" width="50" /> | U | THE SECOND STEP : CHAPTER ONE | [TREASURE](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 929 | | [🔗](https://open.spotify.com/track/5NIHhuAdsaZHmGeEoHiGY7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="" width="50" /> | DARARI | THE SECOND STEP : CHAPTER ONE | [TREASURE](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 498 | 💚 | [🔗](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1e7b20382e9caa516b5a814" alt="" width="50" /> | BONA BONA | 2ND FULL ALBUM 'REBOOT' | [TREASURE](overview.md) | [Columbia](../../labels/columbia), [YG Entertainment](../../labels/yg_entertainment) | 675 | 💚 | [🔗](https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734bb3b49ff157d01ab9896573" alt="" width="50" /> | I LOVE YOU | THE FIRST STEP : TREASURE EFFECT | [TREASURE](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 934 | 💚 | [🔗](https://open.spotify.com/track/1SxqqC1aQ8JiLyfMrHYmnF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734bb3b49ff157d01ab9896573" alt="" width="50" /> | MMM | THE FIRST STEP : TREASURE EFFECT | [TREASURE](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 934 | | [🔗](https://open.spotify.com/track/7DlfhY3YfQKi97j0DXihen) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="" width="50" /> | JIKJIN | THE SECOND STEP : CHAPTER ONE | [TREASURE](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 934 | 💚 | [🔗](https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="" width="50" /> | U | THE SECOND STEP : CHAPTER ONE | [TREASURE](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 934 | | [🔗](https://open.spotify.com/track/5NIHhuAdsaZHmGeEoHiGY7) |

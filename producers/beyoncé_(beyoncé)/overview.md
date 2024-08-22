@@ -14,8 +14,8 @@
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb247f44069c0bd1781df2f785" alt="" width="50" /> | 131 | 11 | 11 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2d405f4858ce3cd52d409c98" alt="" width="50" /> | 417 | 1 | 1 | Burna Boy | [🔗](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 417 | 1 | 1 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2d405f4858ce3cd52d409c98" alt="" width="50" /> | 419 | 1 | 1 | Burna Boy | [🔗](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 419 | 1 | 1 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb515dea0684e8e716852e24e0" alt="" width="50" /> | 125 | 1 | 1 | [Lady Gaga](../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 
 ## Works with Producers

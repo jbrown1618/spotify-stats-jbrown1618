@@ -7,7 +7,7 @@
 | Arranger | 20 |
 | Lyricist | 5 |
 | Producer | 1 |
-| Songwriter | 20 |
+| Songwriter | 22 |
 
 ## Produces for Artists
 
@@ -16,13 +16,13 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8939960e5144b51d7903899f" alt="" width="50" /> | 17 | 7 | 7 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5cd460490fb1c55b8ed8c40b" alt="" width="50" /> | 92 | 2 | 2 | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb02a562ea6b1dc718394010ac" alt="" width="50" /> | 2 | 2 | 2 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb050bd4c225df076baeb835ad" alt="" width="50" /> | 186 | 1 | 1 | [VIVIZ](../../artists/viviz/overview.md) | [🔗](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4915dff6c28e99deabb0a203" alt="" width="50" /> | 72 | 2 | 2 | [TAEMIN](../../artists/taemin/overview.md) | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb050bd4c225df076baeb835ad" alt="" width="50" /> | 185 | 1 | 1 | [VIVIZ](../../artists/viviz/overview.md) | [🔗](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb03fd839c09fe375026192645" alt="" width="50" /> | 31 | 1 | 1 | [GOT the beat](../../artists/got_the_beat/overview.md) | [🔗](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb846662aa85d520b2442d3cd5" alt="" width="50" /> | 71 | 1 | 1 | [BIBI](../../artists/bibi/overview.md) | [🔗](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4f66a54f209012eec464efef" alt="" width="50" /> | 330 | 1 | 1 | SISTAR19 | [🔗](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4f66a54f209012eec464efef" alt="" width="50" /> | 331 | 1 | 1 | SISTAR19 | [🔗](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | 97 | 1 | 1 | [LOONA](../../artists/loona/overview.md) | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb86ea393b9e590523e822ea13" alt="" width="50" /> | 327 | 1 | 1 | YooA | [🔗](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5e97e9ea9133fbfa41e27498" alt="" width="50" /> | 8 | 1 | 1 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb86ea393b9e590523e822ea13" alt="" width="50" /> | 329 | 1 | 1 | YooA | [🔗](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) |
 
 
 <details>
@@ -30,6 +30,7 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5e97e9ea9133fbfa41e27498" alt="" width="50" /> | 8 | 1 | 1 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | 4 | 1 | 1 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8e075c754be58cc33e30905a" alt="" width="50" /> | 14 | 1 | 1 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2b9446440d296ce32189024e" alt="" width="50" /> | 20 | 1 | 1 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
@@ -47,11 +48,11 @@
 | Kriz | [Kriz](../kriz/overview.md) | 6 |
 | 서지음 | [서지음 (Seo, Ji Eum)](../서지음_(seo,_ji_eum)/overview.md) | 6 |
 | Alawn | Alawn | 5 |
+| Dem Jointz | Dem Jointz | 4 |
 | Lauritz Emil Christiansen | Lauritz Emil Christiansen | 3 |
 | Celine Svanbäck | Celine Svanbäck (Svanbäck, Celine) | 3 |
-| 김민희 | 김민희 (Kim, Min Hee) | 3 |
-| Dem Jointz | Dem Jointz | 3 |
 | Tayla Parx | Tayla Parx | 3 |
+| 김민희 | 김민희 (Kim, Min Hee) | 3 |
 
 
 <details>
@@ -59,21 +60,22 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Lauren Aquilina | Lauren Aquilina | 2 |
-| 레이 | 레이 (REI) | 2 |
-| Simon Bergseth | Simon Bergseth | 2 |
-| 정의석 | [정의석 (Jung, Euisuk)](../정의석_(jung,_euisuk)/overview.md) | 2 |
 | Jeppe London Bilsby | Jeppe London Bilsby | 2 |
-| Chloe Latimer | Chloe Latimer | 2 |
-| 서정아 | 서정아 (Seo, Jung Ah) | 2 |
-| 이경원 | 이경원 (Lee, Kyung-won) | 2 |
-| Deanna | Deanna | 2 |
 | Audun Agnar | Audun Agnar | 2 |
-| 구종필 | [구종필 (Koo, Jong-Pil)](../구종필_(koo,_jong-pil)/overview.md) | 1 |
-| Stay Tuned | Stay Tuned | 1 |
+| Lauren Aquilina | Lauren Aquilina | 2 |
+| Chloe Latimer | Chloe Latimer | 2 |
+| 이경원 | 이경원 (Lee, Kyung-won) | 2 |
+| 정의석 | [정의석 (Jung, Euisuk)](../정의석_(jung,_euisuk)/overview.md) | 2 |
+| 서정아 | 서정아 (Seo, Jung Ah) | 2 |
+| Simon Bergseth | Simon Bergseth | 2 |
+| TAEMIN | TAEMIN | 2 |
+| Deanna | Deanna | 2 |
+| 레이 | 레이 (REI) | 2 |
 | Iselin Solheim | Iselin Solheim | 1 |
 | Elsa Curran | Elsa Curran | 1 |
 | BlackSmith | BlackSmith | 1 |
+| Stay Tuned | Stay Tuned | 1 |
+| 구종필 | [구종필 (Koo, Jong-Pil)](../구종필_(koo,_jong-pil)/overview.md) | 1 |
 | AFSHEEN | AFSHEEN | 1 |
 | Emily Harbakk | Emily Harbakk | 1 |
 | KLOË | KLOË (KLOE) | 1 |
@@ -111,7 +113,7 @@
 | 조윤경 | [조윤경 (Jo, Yoon Kyung)](../조윤경_(jo,_yoon_kyung)/overview.md) | 1 |
 | Rick Parkhouse | Rick Parkhouse | 1 |
 | 장민 | 장민 (Jang, Min) | 1 |
-| Shari Short | Shari Short | 1 |
+| Ericka Coulter | Ericka Coulter | 1 |
 | Alexander Pavelich | Alexander Pavelich | 1 |
 | Dr.JO | Dr.JO | 1 |
 | Dennis Kordnejad | Dennis Kordnejad | 1 |
@@ -142,8 +144,8 @@
 | Lenno | Lenno | 1 |
 | 손명갑 | 손명갑 (Son, Myung-gap) | 1 |
 | RISC | RISC | 1 |
+| Shari Short | Shari Short | 1 |
 | Lars Kristian Rosness | Lars Kristian Rosness | 1 |
-| Ericka Coulter | Ericka Coulter | 1 |
 | YOUHA | YOUHA | 1 |
 | Hyolyn | Hyolyn | 1 |
 | Tor-Andrè Jensen Skaar | Tor-Andrè Jensen Skaar (Skaar, Tor-Andrè Jensen) | 1 |
@@ -194,3 +196,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Baddie | Arranger, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273047aaa5b1361b255b255e41d" alt="" width="50" /> | Untie | Arranger, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd1b7473a9dc977501d1e8b0" alt="" width="50" /> | NO MORE (MA BOY) | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f2dff4b6f58682692c0b0beb" alt="" width="50" /> | Sexy In The Air | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f2dff4b6f58682692c0b0beb" alt="" width="50" /> | Crush | Songwriter |

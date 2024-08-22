@@ -5248,6 +5248,9 @@ recording_mbid,artist_mbid,credit_type,credit_details
 722a67ea-0a76-4228-bd0b-cb7f7d496522,2997113e-cc84-4a0c-8111-d0648b42b4dc,lyricist,
 722a67ea-0a76-4228-bd0b-cb7f7d496522,2997113e-cc84-4a0c-8111-d0648b42b4dc,songwriter,
 722a67ea-0a76-4228-bd0b-cb7f7d496522,a16d1433-ba89-4f72-a47b-a370add0bb55,vocal,lead vocals
+727beb4c-1369-49a7-aeb5-52eaaf767269,48652da5-f54c-4f65-9c11-0fc05df18075,songwriter,
+727beb4c-1369-49a7-aeb5-52eaaf767269,78a8d998-b910-4176-9135-3d465a35eb3f,songwriter,
+727beb4c-1369-49a7-aeb5-52eaaf767269,b228cdc8-0f48-47b5-b812-62fdc416bad3,songwriter,
 729cf505-94eb-4fbe-bc76-cbae44cff091,0e78512d-fbc7-4c5a-b6dc-d9650df1ec75,producer,additional
 729cf505-94eb-4fbe-bc76-cbae44cff091,18690715-59fa-4e4d-bcf3-8025cf1c23e0,instrument,bass guitar
 729cf505-94eb-4fbe-bc76-cbae44cff091,18690715-59fa-4e4d-bcf3-8025cf1c23e0,songwriter,
@@ -7345,6 +7348,8 @@ recording_mbid,artist_mbid,credit_type,credit_details
 98913093-bd55-49a2-8d77-4fe42712e539,f34721e5-6c0f-47c2-a232-187447c9a94c,producer,
 98913093-bd55-49a2-8d77-4fe42712e539,f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387,producer,additional
 98913093-bd55-49a2-8d77-4fe42712e539,f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387,songwriter,
+98ee5b46-7ce9-42ad-b0d3-e8e193fbefc6,48652da5-f54c-4f65-9c11-0fc05df18075,songwriter,
+98ee5b46-7ce9-42ad-b0d3-e8e193fbefc6,78a8d998-b910-4176-9135-3d465a35eb3f,songwriter,
 99385b86-235b-4780-a8de-62993cae0388,12d7f102-f60e-4561-a638-34306b6ab550,producer,
 99385b86-235b-4780-a8de-62993cae0388,309d9809-cf74-493a-b56b-1378258f20fd,instrument,guitar
 99385b86-235b-4780-a8de-62993cae0388,309d9809-cf74-493a-b56b-1378258f20fd,songwriter,

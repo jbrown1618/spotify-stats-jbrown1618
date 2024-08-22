@@ -11,7 +11,7 @@ SHINee:
 - has member KEY
 - has member MINHO
 - has member ONEW
-- has member TAEMIN
+- has member [TAEMIN](../taemin/overview.md)
 
 ## Artist Rank
 - The #100 artist of all time
@@ -29,14 +29,14 @@ SHINee:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27386fe9fe6eaab4083b32adf9f" alt="" width="50" /> | 403 | 2 | 2 | HARD - The 8th Album | 2023-06-26 | [🔗](https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386fe9fe6eaab4083b32adf9f" alt="" width="50" /> | 405 | 2 | 2 | HARD - The 8th Album | 2023-06-26 | [🔗](https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b745b509f6c64b8436513a0e" alt="" width="50" /> | 304 | 1 | 1 | SHINee The 3rd Album 'The Misconceptions Of Us' | 2013-08-08 | [🔗](https://open.spotify.com/album/0f0brenHcU2NmUANeix9rN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27338b29effd5af942ca8d7a8b0" alt="" width="50" /> | 616 | 1 | 1 | Odd - The 4th Album | 2015-05-18 | [🔗](https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732eafb1407218dca0cb8d91b8" alt="" width="50" /> | 312 | 1 | 1 | Don't Call Me - The 7th Album | 2021-02-22 | [🔗](https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a7fcbfdd783b559de31d181b" alt="" width="50" /> | 554 | 1 | 1 | 2009, Year Of Us - The Third Mini Album | 2009-10-19 | [🔗](https://open.spotify.com/album/5AH7uBaxp7ojNCvImOeZvC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="" width="50" /> | 616 | 1 | 0 | The SHINee World - The First Album | 2008-08-28 | [🔗](https://open.spotify.com/album/2aiM53N5DGm5VXnfjswpI7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27343028ae4eeabf8c854a93cab" alt="" width="50" /> | 616 | 1 | 0 | Sherlock - The 4th Mini Album | 2012-03-21 | [🔗](https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27390ad9f6d2ba8838a689999cc" alt="" width="50" /> | 616 | 1 | 0 | Lucifer - The 2nd Album | 2010-07-19 | [🔗](https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27338b29effd5af942ca8d7a8b0" alt="" width="50" /> | 619 | 1 | 1 | Odd - The 4th Album | 2015-05-18 | [🔗](https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732eafb1407218dca0cb8d91b8" alt="" width="50" /> | 315 | 1 | 1 | Don't Call Me - The 7th Album | 2021-02-22 | [🔗](https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a7fcbfdd783b559de31d181b" alt="" width="50" /> | 557 | 1 | 1 | 2009, Year Of Us - The Third Mini Album | 2009-10-19 | [🔗](https://open.spotify.com/album/5AH7uBaxp7ojNCvImOeZvC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="" width="50" /> | 619 | 1 | 0 | The SHINee World - The First Album | 2008-08-28 | [🔗](https://open.spotify.com/album/2aiM53N5DGm5VXnfjswpI7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27343028ae4eeabf8c854a93cab" alt="" width="50" /> | 619 | 1 | 0 | Sherlock - The 4th Mini Album | 2012-03-21 | [🔗](https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27390ad9f6d2ba8838a689999cc" alt="" width="50" /> | 619 | 1 | 0 | Lucifer - The 2nd Album | 2010-07-19 | [🔗](https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -63,15 +63,17 @@ SHINee:
 
 ### Member Credits
 
-| | JONGHYUN |
-|:---|---:|
-| Lyricist | 1 |
-| Songwriter | 1 |
+| | JONGHYUN | [TAEMIN](../taemin/overview.md) |
+|:---|---:|---:|
+| Lyricist | 1 | 0 |
+| Songwriter | 1 | 2 |
 ### Production Credits
 
 | Art | Track | Members | Credit Types |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | BREATHE | JONGHYUN | Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f2dff4b6f58682692c0b0beb" alt="" width="50" /> | Sexy In The Air | [TAEMIN](../../taemin/overview.md) | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f2dff4b6f58682692c0b0beb" alt="" width="50" /> | Crush | [TAEMIN](../../taemin/overview.md) | Songwriter |
 
 ## Top Producers
 
@@ -84,12 +86,12 @@ SHINee:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b745b509f6c64b8436513a0e" alt="" width="50" /> | Orgel | SHINee The 3rd Album 'The Misconceptions Of Us' | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 428 | 💚 | [🔗](https://open.spotify.com/track/5QW673bbf5BnFQcULXUUE5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732eafb1407218dca0cb8d91b8" alt="" width="50" /> | Don't Call Me | Don't Call Me - The 7th Album | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 440 | 💚 | [🔗](https://open.spotify.com/track/462OPOKW0VMbvW9H7HIb0U) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386fe9fe6eaab4083b32adf9f" alt="" width="50" /> | HARD | HARD - The 8th Album | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 598 | 💚 | [🔗](https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a7fcbfdd783b559de31d181b" alt="" width="50" /> | Ring Ding Dong | 2009, Year Of Us - The Third Mini Album | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 832 | 💚 | [🔗](https://open.spotify.com/track/4vLqN0bIxIQjlet2mIMBnx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="" width="50" /> | Replay | The SHINee World - The First Album | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 929 | | [🔗](https://open.spotify.com/track/1rp986nzkyAX1wFpxzbwlC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27390ad9f6d2ba8838a689999cc" alt="" width="50" /> | Lucifer | Lucifer - The 2nd Album | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 929 | | [🔗](https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27343028ae4eeabf8c854a93cab" alt="" width="50" /> | Sherlock (Clue + Note) | Sherlock - The 4th Mini Album | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 929 | | [🔗](https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27338b29effd5af942ca8d7a8b0" alt="" width="50" /> | View | Odd - The 4th Album | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 929 | 💚 | [🔗](https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27386fe9fe6eaab4083b32adf9f" alt="" width="50" /> | JUICE | HARD - The 8th Album | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 929 | 💚 | [🔗](https://open.spotify.com/track/2ka8U0A2e93hBFA43mbgfy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b745b509f6c64b8436513a0e" alt="" width="50" /> | Orgel | SHINee The 3rd Album 'The Misconceptions Of Us' | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 430 | 💚 | [🔗](https://open.spotify.com/track/5QW673bbf5BnFQcULXUUE5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732eafb1407218dca0cb8d91b8" alt="" width="50" /> | Don't Call Me | Don't Call Me - The 7th Album | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 446 | 💚 | [🔗](https://open.spotify.com/track/462OPOKW0VMbvW9H7HIb0U) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386fe9fe6eaab4083b32adf9f" alt="" width="50" /> | HARD | HARD - The 8th Album | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 601 | 💚 | [🔗](https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a7fcbfdd783b559de31d181b" alt="" width="50" /> | Ring Ding Dong | 2009, Year Of Us - The Third Mini Album | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 831 | 💚 | [🔗](https://open.spotify.com/track/4vLqN0bIxIQjlet2mIMBnx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff8a783336acbef4b6fab82f" alt="" width="50" /> | Replay | The SHINee World - The First Album | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 934 | | [🔗](https://open.spotify.com/track/1rp986nzkyAX1wFpxzbwlC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27390ad9f6d2ba8838a689999cc" alt="" width="50" /> | Lucifer | Lucifer - The 2nd Album | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 934 | | [🔗](https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27343028ae4eeabf8c854a93cab" alt="" width="50" /> | Sherlock (Clue + Note) | Sherlock - The 4th Mini Album | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 934 | | [🔗](https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27338b29effd5af942ca8d7a8b0" alt="" width="50" /> | View | Odd - The 4th Album | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 934 | 💚 | [🔗](https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27386fe9fe6eaab4083b32adf9f" alt="" width="50" /> | JUICE | HARD - The 8th Album | [SHINee](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 934 | 💚 | [🔗](https://open.spotify.com/track/2ka8U0A2e93hBFA43mbgfy) |
