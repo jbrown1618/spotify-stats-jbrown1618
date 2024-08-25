@@ -22,7 +22,7 @@ NCT U:
 - is a subgroup of NCT
 
 ## Artist Rank
-- The #242 artist of all time
+- The #243 artist of all time
 
 ![Rank of NCT U over time](../../images/artists/nct_u/rank_time_series.png)
 ## Top Tracks
@@ -38,10 +38,10 @@ NCT U:
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | 490 | 3 | 3 | NCT 2018 EMPATHY | 2018-03-14 | [🔗](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | 341 | 3 | 1 | NCT RESONANCE Pt. 1 - The 2nd Album | 2020-10-12 | [🔗](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730723ae056bdcdb6d2872a13f" alt="" width="50" /> | 619 | 2 | 2 | Golden Age - The 4th Album | 2023-08-28 | [🔗](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27358169e974a94b9a18c9d2a03" alt="" width="50" /> | 619 | 1 | 1 | Universe (Let's Play Ball) | 2021-12-10 | [🔗](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a8f520a58790e872d0007e2e" alt="" width="50" /> | 619 | 1 | 1 | NCT RESONANCE Pt. 2 - The 2nd Album | 2020-11-23 | [🔗](https://open.spotify.com/album/5Dq6jkYO5H7KzxXSazhLxs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | 343 | 3 | 1 | NCT RESONANCE Pt. 1 - The 2nd Album | 2020-10-12 | [🔗](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730723ae056bdcdb6d2872a13f" alt="" width="50" /> | 621 | 2 | 2 | Golden Age - The 4th Album | 2023-08-28 | [🔗](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27358169e974a94b9a18c9d2a03" alt="" width="50" /> | 621 | 1 | 1 | Universe (Let's Play Ball) | 2021-12-10 | [🔗](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a8f520a58790e872d0007e2e" alt="" width="50" /> | 621 | 1 | 1 | NCT RESONANCE Pt. 2 - The 2nd Album | 2020-11-23 | [🔗](https://open.spotify.com/album/5Dq6jkYO5H7KzxXSazhLxs) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -123,13 +123,13 @@ NCT U:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | Make A Wish (Birthday Song) | NCT RESONANCE Pt. 1 - The 2nd Album | [NCT U](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 491 | 💚 | [🔗](https://open.spotify.com/track/6FdShjf7nA2cqEnpv1tIia) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | BOSS | NCT 2018 EMPATHY | NCT, [NCT U](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 728 | 💚 | [🔗](https://open.spotify.com/track/0ErzcmZ2gIwX7X0xSMQPix) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | Baby Don’t Stop | NCT 2018 EMPATHY | NCT, [NCT U](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 934 | 💚 | [🔗](https://open.spotify.com/track/1EYSS9Lp7a9f20C3FaOVgI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | The 7th Sense | NCT 2018 EMPATHY | NCT, [NCT U](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 934 | 💚 | [🔗](https://open.spotify.com/track/6BdchFAP4TUZUceAsAEb5U) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | Make A Wish (Birthday Song) - English Version | NCT RESONANCE Pt. 1 - The 2nd Album | [NCT U](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 934 | | [🔗](https://open.spotify.com/track/1iPmAMVMqoT2ZromLzo305) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | Misfit | NCT RESONANCE Pt. 1 - The 2nd Album | [NCT U](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 934 | | [🔗](https://open.spotify.com/track/4W8cwOcrcDzbWQSWqtKG3g) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a8f520a58790e872d0007e2e" alt="" width="50" /> | 90's Love | NCT RESONANCE Pt. 2 - The 2nd Album | [NCT U](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 934 | 💚 | [🔗](https://open.spotify.com/track/64EDGnUytmCV7TfOo67810) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27358169e974a94b9a18c9d2a03" alt="" width="50" /> | Universe (Let's Play Ball) | Universe (Let's Play Ball) | [NCT U](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 934 | 💚 | [🔗](https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730723ae056bdcdb6d2872a13f" alt="" width="50" /> | Baggy Jeans | Golden Age - The 4th Album | [NCT U](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 934 | 💚 | [🔗](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730723ae056bdcdb6d2872a13f" alt="" width="50" /> | PADO | Golden Age - The 4th Album | [NCT U](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 934 | 💚 | [🔗](https://open.spotify.com/track/7mLHba9b39oYWxxGVbPBXX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | Make A Wish (Birthday Song) | NCT RESONANCE Pt. 1 - The 2nd Album | [NCT U](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 494 | 💚 | [🔗](https://open.spotify.com/track/6FdShjf7nA2cqEnpv1tIia) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | BOSS | NCT 2018 EMPATHY | NCT, [NCT U](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 735 | 💚 | [🔗](https://open.spotify.com/track/0ErzcmZ2gIwX7X0xSMQPix) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | Baby Don’t Stop | NCT 2018 EMPATHY | NCT, [NCT U](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 938 | 💚 | [🔗](https://open.spotify.com/track/1EYSS9Lp7a9f20C3FaOVgI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="" width="50" /> | The 7th Sense | NCT 2018 EMPATHY | NCT, [NCT U](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 938 | 💚 | [🔗](https://open.spotify.com/track/6BdchFAP4TUZUceAsAEb5U) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | Make A Wish (Birthday Song) - English Version | NCT RESONANCE Pt. 1 - The 2nd Album | [NCT U](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 938 | | [🔗](https://open.spotify.com/track/1iPmAMVMqoT2ZromLzo305) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | Misfit | NCT RESONANCE Pt. 1 - The 2nd Album | [NCT U](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 938 | | [🔗](https://open.spotify.com/track/4W8cwOcrcDzbWQSWqtKG3g) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a8f520a58790e872d0007e2e" alt="" width="50" /> | 90's Love | NCT RESONANCE Pt. 2 - The 2nd Album | [NCT U](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 938 | 💚 | [🔗](https://open.spotify.com/track/64EDGnUytmCV7TfOo67810) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27358169e974a94b9a18c9d2a03" alt="" width="50" /> | Universe (Let's Play Ball) | Universe (Let's Play Ball) | [NCT U](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 938 | 💚 | [🔗](https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730723ae056bdcdb6d2872a13f" alt="" width="50" /> | Baggy Jeans | Golden Age - The 4th Album | [NCT U](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 938 | 💚 | [🔗](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730723ae056bdcdb6d2872a13f" alt="" width="50" /> | PADO | Golden Age - The 4th Album | [NCT U](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 938 | 💚 | [🔗](https://open.spotify.com/track/7mLHba9b39oYWxxGVbPBXX) |

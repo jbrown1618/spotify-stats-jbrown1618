@@ -41,16 +41,16 @@ None
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 32 |
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 32 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 86 |
-| Moonlight | D-2 | Agust D | 0 | 1 | 76 |
-| Daechwita | D-2 | Agust D | 1 | 1 | 76 |
-| Burn It (feat. MAX) | D-2 | Agust D | 0 | 1 | 76 |
-| People | D-2 | Agust D | 1 | 1 | 76 |
-| Strange (feat. RM) | D-2 | Agust D | 0 | 1 | 76 |
-| Burn It (feat. MAX) | D-2 | MAX | 0 | 1 | 67 |
-| Strange (feat. RM) | D-2 | RM | 0 | 1 | 74 |
+| Moonlight | D-2 | Agust D | 0 | 2 | 76 |
+| Daechwita | D-2 | Agust D | 1 | 2 | 76 |
+| Burn It (feat. MAX) | D-2 | Agust D | 0 | 2 | 76 |
+| People | D-2 | Agust D | 1 | 2 | 76 |
+| Strange (feat. RM) | D-2 | Agust D | 0 | 2 | 76 |
+| Burn It (feat. MAX) | D-2 | MAX | 0 | 2 | 67 |
+| Strange (feat. RM) | D-2 | RM | 0 | 2 | 74 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 86 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 80 |
-| Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 68 |
+| Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 69 |
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 54 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 48 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 30 |
@@ -60,24 +60,23 @@ None
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 64 |
 | Sleep-walking | Prequel | Dreamcatcher | 1 | 1 | 61 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 59 |
-| Is This Love? | Starlit of Twinkle : REPACKAGE | Moon Byul | 0 | 0 | 48 |
 | Lone Digger | <|º_º|> | Caravan Palace | 2 | 2 | 61 |
 | Joker | Joker is Alive | Dalshabet | 0 | 0 | 31 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 0 | 0 | 72 |
+| Nothing Else Matters | Metallica | Metallica | 1 | 2 | 83 |
 | Wings | Wings | PIXY | 0 | 0 | 37 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
 | Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 38 |
 | I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 38 |
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 38 |
-| MEOW | MEOW / Cheeky Icy Thang (Japanese Ver.) | STAYC | 0 | 0 | 63 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 66 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 32 |
 | Drink It | Drink It | THE BOYZ | 0 | 0 | 59 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 50 |
 | Think About Things | Think About Things | Daði Freyr | 0 | 0 | 50 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 50 |
-| I Want To Break Free | The Works | Queen | 0 | 0 | 85 |
+| I Want To Break Free | The Works | Queen | 0 | 1 | 85 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 85 |
 | Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 85 |
 | Somebody To Love | A Day At The Races | Queen | 0 | 0 | 85 |
@@ -87,8 +86,8 @@ None
 | RED | RED | The Rose | 0 | 0 | 61 |
 | She′s In The Rain | Dawn | The Rose | 0 | 0 | 61 |
 | Sorry | Sorry | The Rose | 0 | 0 | 61 |
-| Pokerap | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 54 |
-| Pokemon Theme | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 54 |
+| Pokerap | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 55 |
+| Pokemon Theme | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 55 |
 | Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 53 |
 | The Legend Of Zelda: Twilight Princess - Midna's Desperate Hour | Piano/Instrumental Works: Video Game Themes - Volume I | Michael Tai | 0 | 0 | 40 |
 | Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | 0 | 0 | 56 |
@@ -113,11 +112,11 @@ None
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 26 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 76 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 78 |
-| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 73 |
+| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 72 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 60 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 73 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 75 |
-| Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 65 |
+| Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 66 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 72 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 78 |
 | I Do | It's Raining | Rain | 0 | 0 | 45 |
