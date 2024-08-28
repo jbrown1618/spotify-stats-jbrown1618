@@ -10,7 +10,7 @@ Agust D:
 - is also known as 민윤기 (Min Yoon-gi)
 
 ## Artist Rank
-- The #87 artist of all time
+- The #88 artist of all time
 
 ![Rank of Agust D over time](../../images/artists/agust_d/rank_time_series.png)
 ## Top Tracks
@@ -25,8 +25,8 @@ Agust D:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | 621 | 5 | 3 | D-2 | 2020-05-22 | [🔗](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | 273 | 4 | 2 | D-DAY | 2023-04-21 | [🔗](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | 625 | 5 | 3 | D-2 | 2020-05-22 | [🔗](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | 274 | 4 | 2 | D-DAY | 2023-04-21 | [🔗](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -50,24 +50,34 @@ Agust D:
 
 | Credit Type | Tracks |
 |:---|---:|
+| Producer | 1 |
 | Songwriter | 1 |
 
 ### Production Credits
 
 | Art | Track | Credit Types |
 |:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Daechwita | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739660ae57836f713884d86cbb" alt="" width="50" /> | Blueberry Eyes (feat. SUGA of BTS) | Songwriter |
+
+## Top Producers
+
+| Art | Producer | Tracks | Credit Types |
+|:---|:---|---:|:---|
+| | Jang Yi-jeong | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb191d43dca6f2f5a126e43e4b" alt="" width="50" /> | [Agust D](overview.md) | 1 | Producer |
+
 
 ## Tracks
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | AMYGDALA | D-DAY | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 465 | | [🔗](https://open.spotify.com/track/5fj32MKLHkut2Vod1UodcU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | AMYGDALA | D-DAY | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 467 | | [🔗](https://open.spotify.com/track/5fj32MKLHkut2Vod1UodcU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | People Pt.2 (feat. IU) | D-DAY | [Agust D](overview.md), [IU](../iu/overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 731 | 💚 | [🔗](https://open.spotify.com/track/41JPN7pZMTp1sumBOHOzHd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose) | D-DAY | [Agust D](overview.md), Ryuichi Sakamoto, WOOSUNG | [BIGHIT MUSIC](../../labels/bighit_music) | 786 | 💚 | [🔗](https://open.spotify.com/track/4j3M8NrbGSXdMPwEVsnfHE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Burn It (feat. MAX) | D-2 | [Agust D](overview.md), MAX | [BIGHIT MUSIC](../../labels/bighit_music) | 938 | 💚 | [🔗](https://open.spotify.com/track/38iufYNK4hUzS649Oe2kZy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Daechwita | D-2 | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 938 | 💚 | [🔗](https://open.spotify.com/track/1Y7AZ3akqDipAyo6mmOQTy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Moonlight | D-2 | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 938 | | [🔗](https://open.spotify.com/track/057xGYST5exVyNevufrioZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | People | D-2 | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 938 | 💚 | [🔗](https://open.spotify.com/track/4wDSEE082RPcnhXzPzFhCp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Strange (feat. RM) | D-2 | [Agust D](overview.md), RM | [BIGHIT MUSIC](../../labels/bighit_music) | 938 | | [🔗](https://open.spotify.com/track/6x2arhzc99oGlqM82V0mnd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | Haegeum | D-DAY | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 938 | | [🔗](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose) | D-DAY | [Agust D](overview.md), Ryuichi Sakamoto, WOOSUNG | [BIGHIT MUSIC](../../labels/bighit_music) | 787 | 💚 | [🔗](https://open.spotify.com/track/4j3M8NrbGSXdMPwEVsnfHE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Burn It (feat. MAX) | D-2 | [Agust D](overview.md), MAX | [BIGHIT MUSIC](../../labels/bighit_music) | 945 | 💚 | [🔗](https://open.spotify.com/track/38iufYNK4hUzS649Oe2kZy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Daechwita | D-2 | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 945 | 💚 | [🔗](https://open.spotify.com/track/1Y7AZ3akqDipAyo6mmOQTy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Moonlight | D-2 | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 945 | | [🔗](https://open.spotify.com/track/057xGYST5exVyNevufrioZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | People | D-2 | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 945 | 💚 | [🔗](https://open.spotify.com/track/4wDSEE082RPcnhXzPzFhCp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="" width="50" /> | Strange (feat. RM) | D-2 | [Agust D](overview.md), RM | [BIGHIT MUSIC](../../labels/bighit_music) | 945 | | [🔗](https://open.spotify.com/track/6x2arhzc99oGlqM82V0mnd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa9247b68471b82d2125651e" alt="" width="50" /> | Haegeum | D-DAY | [Agust D](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 945 | | [🔗](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) |

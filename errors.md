@@ -41,11 +41,11 @@ None
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 32 |
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 32 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 86 |
-| Moonlight | D-2 | Agust D | 0 | 2 | 76 |
-| Daechwita | D-2 | Agust D | 1 | 2 | 76 |
-| Burn It (feat. MAX) | D-2 | Agust D | 0 | 2 | 76 |
-| People | D-2 | Agust D | 1 | 2 | 76 |
-| Strange (feat. RM) | D-2 | Agust D | 0 | 2 | 76 |
+| Moonlight | D-2 | Agust D | 0 | 2 | 77 |
+| Daechwita | D-2 | Agust D | 1 | 2 | 77 |
+| Burn It (feat. MAX) | D-2 | Agust D | 0 | 2 | 77 |
+| People | D-2 | Agust D | 1 | 2 | 77 |
+| Strange (feat. RM) | D-2 | Agust D | 0 | 2 | 77 |
 | Burn It (feat. MAX) | D-2 | MAX | 0 | 2 | 67 |
 | Strange (feat. RM) | D-2 | RM | 0 | 2 | 74 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 86 |
@@ -53,7 +53,7 @@ None
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 69 |
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 54 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 48 |
-| Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 30 |
+| Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 31 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 65 |
 | Underground | Artemis | Lindsey Stirling | 1 | 1 | 65 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 49 |
@@ -64,6 +64,7 @@ None
 | Joker | Joker is Alive | Dalshabet | 0 | 0 | 31 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 0 | 0 | 72 |
 | Nothing Else Matters | Metallica | Metallica | 1 | 2 | 83 |
+| Enter Sandman | Metallica | Metallica | 2 | 2 | 83 |
 | Wings | Wings | PIXY | 0 | 0 | 37 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
@@ -71,12 +72,12 @@ None
 | I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 38 |
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 38 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 66 |
-| Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 32 |
+| Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 33 |
 | Drink It | Drink It | THE BOYZ | 0 | 0 | 59 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 50 |
 | Think About Things | Think About Things | Daði Freyr | 0 | 0 | 50 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 50 |
-| I Want To Break Free | The Works | Queen | 0 | 1 | 85 |
+| I Want To Break Free | The Works | Queen | 0 | 0 | 85 |
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 85 |
 | Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 85 |
 | Somebody To Love | A Day At The Races | Queen | 0 | 0 | 85 |
@@ -94,9 +95,9 @@ None
 | Just The Way You Are | Little Love - EP | James Smith | 0 | 0 | 51 |
 | I will show you | Invitation | AILEE | 0 | 0 | 58 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 62 |
-| FACE | WOLF | WOOSUNG | 0 | 0 | 56 |
+| FACE | WOLF | WOOSUNG | 0 | 0 | 57 |
 | Star | [12:00] | LOONA | 1 | 1 | 55 |
-| Why Not? | [12:00] | LOONA | 2 | 1 | 55 |
+| Why Not? | [12:00] | LOONA | 1 | 1 | 55 |
 | Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 55 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 53 |
 | The Phantom Of The Opera | Century Child | Nightwish | 0 | 1 | 66 |
@@ -104,11 +105,11 @@ None
 | Nemo | Once | Nightwish | 0 | 0 | 66 |
 | Ya! (feat. Whee In) | Stay As You Are | Whee In | 0 | 0 | 50 |
 | Ya! (feat. Whee In) | Stay As You Are | Sandeul | 0 | 0 | 41 |
-| Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 0 | 0 | 58 |
-| Lullaby | Present : YOU | GOT7 | 0 | 0 | 58 |
-| Just Right | Just Right | GOT7 | 0 | 0 | 58 |
-| If You Do | MAD | GOT7 | 0 | 0 | 58 |
-| You Calling My Name | Call My Name | GOT7 | 0 | 0 | 58 |
+| Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 0 | 0 | 59 |
+| Lullaby | Present : YOU | GOT7 | 0 | 0 | 59 |
+| Just Right | Just Right | GOT7 | 0 | 0 | 59 |
+| If You Do | MAD | GOT7 | 0 | 0 | 59 |
+| You Calling My Name | Call My Name | GOT7 | 0 | 0 | 59 |
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 26 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 76 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 78 |
@@ -124,8 +125,8 @@ None
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 85 |
 | Miku | Miku | Anamanaguchi | 0 | 0 | 51 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 43 |
-| Heartbeat | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) | SURAN | 0 | 0 | 50 |
-| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 50 |
+| Heartbeat | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) | SURAN | 0 | 0 | 51 |
+| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 51 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 49 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 76 |
@@ -140,7 +141,7 @@ None
 | Zelda's Lullaby | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 47 |
 | Song Of Storms | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 47 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 71 |
-| Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 71 |
+| Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 72 |
 | Call Me Mother | American | RuPaul | 0 | 0 | 56 |
 | Lose | Love Synonym #2 : Right for Us | WONHO | 0 | 0 | 43 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 66 |

@@ -376,7 +376,6 @@ spotify:artist:0sYpJ0nCC8AlDrZFeAA7ub,k-pop
 spotify:artist:0steWfkS4hwaErh84SlHMW,college a cappella
 spotify:artist:0tRFWXqKBBQcu5oFVOgVzX,alt z
 spotify:artist:0tZl5OAXf9jYXFmfRGejs2,korean ost
-spotify:artist:0tkHE1pQ5ZCgQb8WZ0ba79,k-rap
 spotify:artist:0tkHE1pQ5ZCgQb8WZ0ba79,korean r&b
 spotify:artist:0tu3jGW89NZZ8qrpd8c7xC,la pop
 spotify:artist:0tzSBCPJZmHTdOA3ZV2mN3,k-pop
@@ -446,6 +445,7 @@ spotify:artist:16rCzZOMQX7P8Kmn5YKexI,alternative r&b
 spotify:artist:16rCzZOMQX7P8Kmn5YKexI,indie anthem-folk
 spotify:artist:16rCzZOMQX7P8Kmn5YKexI,uk contemporary r&b
 spotify:artist:17BdLN9q8RRQQqyklLwac1,choral
+spotify:artist:17BdLN9q8RRQQqyklLwac1,classical performance
 spotify:artist:17BdLN9q8RRQQqyklLwac1,early music choir
 spotify:artist:17BdLN9q8RRQQqyklLwac1,historically informed performance
 spotify:artist:17hR0sYHpx7VYTMRfFUOmY,classical
@@ -805,6 +805,7 @@ spotify:artist:22bE4uQ6baNwSHPVcDxLCe,british invasion
 spotify:artist:22bE4uQ6baNwSHPVcDxLCe,classic rock
 spotify:artist:22bE4uQ6baNwSHPVcDxLCe,rock
 spotify:artist:235C4ktJ2aGIyqaBlXyg7e,children's choir
+spotify:artist:235C4ktJ2aGIyqaBlXyg7e,operatic pop
 spotify:artist:23zg3TcAtWQy7J6upgbUnj,atl hip hop
 spotify:artist:23zg3TcAtWQy7J6upgbUnj,contemporary r&b
 spotify:artist:23zg3TcAtWQy7J6upgbUnj,dance pop
@@ -1079,7 +1080,6 @@ spotify:artist:2cevwbv7ISD92VMNLYLHZA,indie pop
 spotify:artist:2cevwbv7ISD92VMNLYLHZA,indie rock
 spotify:artist:2cevwbv7ISD92VMNLYLHZA,la indie
 spotify:artist:2cevwbv7ISD92VMNLYLHZA,lilith
-spotify:artist:2cevwbv7ISD92VMNLYLHZA,seattle indie
 spotify:artist:2dB3VxAmEw5Dqewiha1oO1,scorecore
 spotify:artist:2dIgFjalVxs4ThymZ67YCE,k-pop
 spotify:artist:2dIgFjalVxs4ThymZ67YCE,k-pop boy group
@@ -1590,6 +1590,7 @@ spotify:artist:3koiLjNrgRTNbOwViDipeA,neo soul
 spotify:artist:3koiLjNrgRTNbOwViDipeA,northern soul
 spotify:artist:3koiLjNrgRTNbOwViDipeA,quiet storm
 spotify:artist:3koiLjNrgRTNbOwViDipeA,soul
+spotify:artist:3koiLjNrgRTNbOwViDipeA,vocal jazz
 spotify:artist:3l9s67pOK4Stw9yW1wr0Bg,k-rap
 spotify:artist:3lFDsTyYNPQc8WzJExnQWn,nyc pop
 spotify:artist:3lVXtKsFTJM8ecY8gqdoCo,israeli pop
@@ -1657,6 +1658,7 @@ spotify:artist:3wcj11K77LjEY1PkEazffa,nigerian pop
 spotify:artist:3x8rZy1i6FwWOWKwfRT1Ab,british choir
 spotify:artist:3x8rZy1i6FwWOWKwfRT1Ab,cambridge choir
 spotify:artist:3x8rZy1i6FwWOWKwfRT1Ab,choral
+spotify:artist:3xvaSlT4xsyk6lY1ESOspO,movie tunes
 spotify:artist:3yDIp0kaq9EFKe07X1X2rz,disco
 spotify:artist:3ytV7vc4ZuwGgwaOuWvkk8,k-pop
 spotify:artist:3z6Gk257P9jNcZbBXJNX5i,indie pop
@@ -2470,7 +2472,6 @@ spotify:artist:5zkf2Na8DKKJmtWX5Xrx3m,k-pop
 spotify:artist:5zyNXVd952fWOjkdGHCvPd,classical
 spotify:artist:5zyNXVd952fWOjkdGHCvPd,early modern classical
 spotify:artist:5zyNXVd952fWOjkdGHCvPd,neoclassicism
-spotify:artist:5zzrJD2jXrE9dZ1AklRFcL,ectofolk
 spotify:artist:5zzrJD2jXrE9dZ1AklRFcL,lilith
 spotify:artist:5zzrJD2jXrE9dZ1AklRFcL,neo mellow
 spotify:artist:5zzrJD2jXrE9dZ1AklRFcL,pop rock
@@ -2709,6 +2710,7 @@ spotify:artist:6aQUOvrKLOquCAvIGdIwTx,latin american classical piano
 spotify:artist:6aZyMrc4doVtZyKNilOmwu,dance pop
 spotify:artist:6aZyMrc4doVtZyKNilOmwu,neo mellow
 spotify:artist:6aZyMrc4doVtZyKNilOmwu,pop
+spotify:artist:6b1coNssyWbKkbgZfK9MB5,broadway
 spotify:artist:6b1coNssyWbKkbgZfK9MB5,show tunes
 spotify:artist:6bDWAcdtVR3WHz2xtiIPUi,japanese teen pop
 spotify:artist:6bmlMHgSheBauioMgKv2tn,sad lo-fi
@@ -3133,6 +3135,7 @@ spotify:artist:7lbSsjYACZHn1MSDXPxNF2,anime
 spotify:artist:7lbSsjYACZHn1MSDXPxNF2,classic j-pop
 spotify:artist:7lbSsjYACZHn1MSDXPxNF2,j-pop
 spotify:artist:7lbSsjYACZHn1MSDXPxNF2,japanese singer-songwriter
+spotify:artist:7ltDVBr6mKbRvohxheJ9h1,latin viral pop
 spotify:artist:7ltDVBr6mKbRvohxheJ9h1,pop
 spotify:artist:7ltDVBr6mKbRvohxheJ9h1,r&b en espanol
 spotify:artist:7mOe6jfxX9EILXET9l5L6H,german classical piano
