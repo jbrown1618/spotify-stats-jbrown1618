@@ -4,21 +4,21 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Producer | 28 |
+| Producer | 29 |
 
 ## Produces for Artists
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="" width="50" /> | 151 | 6 | 6 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd5594e3ae145bbb2c096366d" alt="" width="50" /> | 367 | 3 | 3 | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb73f96bdf146d008680149954" alt="" width="50" /> | 13 | 3 | 3 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 90 | 3 | 3 | [Bruno Mars](../../artists/bruno_mars/overview.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | 424 | 2 | 2 | Lizzo | [🔗](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebab47d8dae2b24f5afe7f9d38" alt="" width="50" /> | 382 | 2 | 2 | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 291 | 2 | 2 | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="" width="50" /> | 149 | 6 | 6 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd5594e3ae145bbb2c096366d" alt="" width="50" /> | 368 | 3 | 3 | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd7d7064b17d00c6f8755eae6" alt="" width="50" /> | 13 | 3 | 3 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 91 | 3 | 3 | [Bruno Mars](../../artists/bruno_mars/overview.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2" alt="" width="50" /> | 427 | 2 | 2 | Lizzo | [🔗](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebab47d8dae2b24f5afe7f9d38" alt="" width="50" /> | 383 | 2 | 2 | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 293 | 2 | 2 | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb247f44069c0bd1781df2f785" alt="" width="50" /> | 132 | 1 | 1 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb718ddcdbdde85659512e7364" alt="" width="50" /> | 424 | 1 | 1 | Ally Brooke | [🔗](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb718ddcdbdde85659512e7364" alt="" width="50" /> | 427 | 1 | 1 | Ally Brooke | [🔗](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 126 | 1 | 1 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 
 
@@ -27,11 +27,12 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | 195 | 1 | 1 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1d8e3ecf59f556b8e4fafce8" alt="" width="50" /> | 424 | 1 | 1 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | 190 | 1 | 1 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1d8e3ecf59f556b8e4fafce8" alt="" width="50" /> | 427 | 1 | 1 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ffadf2671159fbfdc5c87f4" alt="" width="50" /> | 252 | 1 | 1 | [Camila Cabello](../../artists/camila_cabello/overview.md) | [🔗](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) |
 | <img src="https://i.scdn.co/image/6511b1fe261da3b6c6b69ae2aa771cfd307a18ae" alt="" width="50" /> | 99 | 1 | 1 | Nile Rodgers | [🔗](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc3c753851496854e29abff7a" alt="" width="50" /> | 424 | 1 | 1 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb75237a1ba0379041476012b3" alt="" width="50" /> | 10 | 1 | 1 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3c753851496854e29abff7a" alt="" width="50" /> | 427 | 1 | 1 | Selena Gomez | [🔗](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 116 | 1 | 1 | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a" alt="" width="50" /> | 5 | 1 | 0 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 
@@ -42,16 +43,16 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Sia | [Sia](../sia/overview.md) | 6 |
 | Chris Galland | Chris Galland | 6 |
+| Sia | [Sia](../sia/overview.md) | 6 |
 | Alex Pasco | Alex Pasco | 5 |
 | Greg Kurstin | [Greg Kurstin](../greg_kurstin/overview.md) | 5 |
-| Jesse Shatkin | Jesse Shatkin | 4 |
 | Julian Burg | Julian Burg | 4 |
-| The Smeezingtons | The Smeezingtons | 3 |
-| Philip Lawrence | Philip Lawrence | 3 |
-| Ari Levine | Ari Levine | 3 |
+| Jesse Shatkin | Jesse Shatkin | 4 |
+| Jacob Kasher | Jacob Kasher | 3 |
 | 13 | 13 | 3 |
+| Philip Lawrence | Philip Lawrence | 3 |
+| Supreme Boi | [Supreme Boi](../supreme_boi/overview.md) | 3 |
 
 
 <details>
@@ -59,50 +60,50 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
+| Ari Levine | Ari Levine | 3 |
+| The Smeezingtons | The Smeezingtons | 3 |
+| SCORE | [SCORE](../score/overview.md) | 3 |
 | Bruno Mars | [Bruno Mars](../bruno_mars/overview.md) | 3 |
-| Jacob Kasher | Jacob Kasher | 3 |
 | 김병석 | [김병석 (Kim, Byung-seok)](../김병석_(kim,_byung-seok)/overview.md) | 3 |
 | Charlie Puth | Charlie Puth | 3 |
 | Kyler Niko | Kyler Niko | 3 |
 | 황민희 | 황민희 (Hwang, Min-hee) | 3 |
-| SCORE | [SCORE](../score/overview.md) | 3 |
-| Supreme Boi | [Supreme Boi](../supreme_boi/overview.md) | 3 |
-| 방시혁 | [방시혁 (Bang, Si-Hyuk)](../방시혁_(bang,_si-hyuk)/overview.md) | 2 |
+| 구혜진 | [구혜진 (Gu, Hye-jin)](../구혜진_(gu,_hye-jin)/overview.md) | 2 |
 | Ben McKee | Ben McKee | 2 |
 | Josh Mosser | Josh Mosser | 2 |
-| Andrew Wyatt | Andrew Wyatt | 2 |
-| Sounwave | [Sounwave](../sounwave/overview.md) | 2 |
 | Pontus Petersson | Pontus Petersson | 2 |
 | Tim Maxey | Tim Maxey | 2 |
-| Lizzo | Lizzo | 2 |
-| Charles Moniz | Charles Moniz | 2 |
-| Emile Haynie | Emile Haynie | 2 |
-| Paulina Cerrilla | Paulina Cerrilla | 2 |
-| J.LBS | J.LBS | 2 |
+| 방시혁 | [방시혁 (Bang, Si-Hyuk)](../방시혁_(bang,_si-hyuk)/overview.md) | 2 |
 | Ricky Reed | [Ricky Reed](../ricky_reed/overview.md) | 2 |
-| Wayne Sermon | Wayne Sermon | 2 |
+| Andrew Wyatt | Andrew Wyatt | 2 |
 | Josefin Glenmark | Josefin Glenmark | 2 |
-| Chris Braide | Chris Braide | 2 |
 | Dan Reynolds | Dan Reynolds | 2 |
-| OKLAMA | OKLAMA | 2 |
+| Chris Braide | Chris Braide | 2 |
+| J.LBS | J.LBS | 2 |
+| Wayne Sermon | Wayne Sermon | 2 |
+| Lizzo | Lizzo | 2 |
+| Sounwave | [Sounwave](../sounwave/overview.md) | 2 |
 | Alex da Kid | Alex da Kid | 2 |
-| Johnathan Turner | Johnathan Turner | 1 |
-| Ronald Larkins | Ronald Larkins | 1 |
-| 김준혁 | 김준혁 (Kim Joonhyuk) | 1 |
-| Julian Bunetta | Julian Bunetta | 1 |
-| Kris Jana | Kris Jana | 1 |
-| Ally Brooke | Ally Brooke | 1 |
-| Destiny Rogers | Destiny Rogers | 1 |
-| Thomas Pentz | Thomas Pentz | 1 |
-| Cermyth Williams | Cermyth Williams | 1 |
-| Jesse Saint John | Jesse Saint John | 1 |
-| Jeff Bhasker | Jeff Bhasker | 1 |
-| Anne Preven | Anne Preven | 1 |
-| Diplo | Diplo | 1 |
+| OKLAMA | OKLAMA | 2 |
+| Charles Moniz | Charles Moniz | 2 |
+| Paulina Cerrilla | Paulina Cerrilla | 2 |
+| Emile Haynie | Emile Haynie | 2 |
 | Kuk Harrell | Kuk Harrell | 1 |
+| Anne Preven | Anne Preven | 1 |
+| Jeff Bhasker | Jeff Bhasker | 1 |
+| Thomas Pentz | Thomas Pentz | 1 |
+| Johnathan Turner | Johnathan Turner | 1 |
+| Destiny Rogers | Destiny Rogers | 1 |
+| Kris Jana | Kris Jana | 1 |
+| Julian Bunetta | Julian Bunetta | 1 |
+| Diplo | Diplo | 1 |
+| Cermyth Williams | Cermyth Williams | 1 |
+| 김준혁 | 김준혁 (Kim Joonhyuk) | 1 |
+| Ally Brooke | Ally Brooke | 1 |
+| Jesse Saint John | Jesse Saint John | 1 |
 | Imagine Dragons | Imagine Dragons | 1 |
-| Nathalie Blue | Nathalie Blue | 1 |
-| Nikolay Mohr | Nikolay Mohr | 1 |
+| Ronald Larkins | Ronald Larkins | 1 |
+| Anne Judith Wik | Anne Judith Wik | 1 |
 | 우민정 | 우민정 (Umin, Je-ong) | 1 |
 | Imad Royal | Imad Royal | 1 |
 | Frank Dukes | Frank Dukes | 1 |
@@ -115,9 +116,9 @@
 | Nermin Harambašić | Nermin Harambašić (Harambašić, Nermin) | 1 |
 | Beach Noise | Beach Noise | 1 |
 | Andrew Swanson | Andrew Swanson | 1 |
-| Anne Judith Wik | Anne Judith Wik | 1 |
-| Wayne Gordon | Wayne Gordon | 1 |
+| Nikolay Mohr | Nikolay Mohr | 1 |
 | Tyga | Tyga | 1 |
+| Nathalie Blue | Nathalie Blue | 1 |
 | emmy kasai. | emmy kasai. | 1 |
 | Malcolm McLaren | Malcolm McLaren | 1 |
 | Adele | Adele | 1 |
@@ -126,13 +127,16 @@
 | Patrick Kehrier | Patrick Kehrier | 1 |
 | David Campbell | David Campbell | 1 |
 | Mark Ronson | [Mark Ronson](../mark_ronson/overview.md) | 1 |
+| Marcos Tovar | [Marcos Tovar](../marcos_tovar/overview.md) | 1 |
 | Louis Bell | Louis Bell | 1 |
 | BLVSH | BLVSH | 1 |
 | Lana Del Rey | [Lana Del Rey](../lana_del_rey/overview.md) | 1 |
+| Wayne Gordon | Wayne Gordon | 1 |
 | 常楽寺澪 | 常楽寺澪 (Jorakuji, Mio) | 1 |
-| Joseph Angel | Joseph Angel | 1 |
-| Marcos Tovar | [Marcos Tovar](../marcos_tovar/overview.md) | 1 |
+| Makaila J Garcia | Makaila J Garcia | 1 |
 | Scott Cutler | Scott Cutler | 1 |
+| Belle | Belle | 1 |
+| Matt Schaeffer | Matt Schaeffer | 1 |
 | Terrace Martin | Terrace Martin | 1 |
 | Ronnie Icon | Ronnie Icon | 1 |
 | Feli Ferraro | Feli Ferraro | 1 |
@@ -140,8 +144,8 @@
 | Tele | Tele | 1 |
 | Jake Kosich | Jake Kosich | 1 |
 | Claude Kelly | Claude Kelly | 1 |
+| 창빈 | 창빈 (Changbin) | 1 |
 | Kendrick Lamar | Kendrick Lamar | 1 |
-| 구혜진 | [구혜진 (Gu, Hye-jin)](../구혜진_(gu,_hye-jin)/overview.md) | 1 |
 | Young Chance | Young Chance | 1 |
 | 이연수 | 이연수 (Lee, Yeon-soo) | 1 |
 | Sky Adams | Sky Adams | 1 |
@@ -159,37 +163,40 @@
 | Ryan Tedder | [Ryan Tedder](../ryan_tedder/overview.md) | 1 |
 | Jaime Wosk | Jaime Wosk | 1 |
 | Ray Charles Brown, Jr | Ray Charles Brown, Jr | 1 |
+| RESTART | RESTART | 1 |
 | Rick Nowels | Rick Nowels | 1 |
-| Matt Schaeffer | Matt Schaeffer | 1 |
 | Blake Slatkin | Blake Slatkin | 1 |
 | John Ryan | John Ryan | 1 |
-| Rihanna | Rihanna | 1 |
-| Belle | Belle | 1 |
+| Johnny Kosich | Johnny Kosich | 1 |
+| alalal | alalal | 1 |
+| 방찬 | 방찬 (Bang Chan) | 1 |
 | Theron Thomas | Theron Thomas | 1 |
 | 심은지 | [심은지 (Sim, Eunjee)](../심은지_(sim,_eunjee)/overview.md) | 1 |
 | Beyoncé | [Beyoncé (Beyoncé)](../beyoncé_(beyoncé)/overview.md) | 1 |
-| Camila Cabello | Camila Cabello | 1 |
+| Joseph Angel | Joseph Angel | 1 |
 | Joe London | Joe London | 1 |
-| Makaila J Garcia | Makaila J Garcia | 1 |
+| Camila Cabello | Camila Cabello | 1 |
 | Jolie Levine | Jolie Levine | 1 |
+| 채강해 | 채강해 (Chae, Kanghae) | 1 |
 | Rob Kleiner | Rob Kleiner | 1 |
 | Duval Timothy | Duval Timothy | 1 |
 | Tobias Jesso Jr. | Tobias Jesso Jr. | 1 |
-| alalal | alalal | 1 |
+| Chris Calland | Chris Calland | 1 |
+| Rihanna | Rihanna | 1 |
+| DJ Dahi | DJ Dahi | 1 |
 | Ashnikko | Ashnikko | 1 |
-| Johnny Kosich | Johnny Kosich | 1 |
 | Chris Spilfogel | Chris Spilfogel | 1 |
 | Rommel Nino Villanueva | Rommel Nino Villanueva | 1 |
 | Isabella Lovestory | Isabella Lovestory | 1 |
 | Sam Dew | Sam Dew | 1 |
 | Doja Cat | Doja Cat | 1 |
 | Ian Kirkpatrick | Ian Kirkpatrick | 1 |
+| 한 | 한 (Han) | 1 |
 | Believve | Believve | 1 |
 | Jake Torrey | Jake Torrey | 1 |
 | Scott Harris | Scott Harris | 1 |
 | danke | [danke](../danke/overview.md) | 1 |
 | Glenda Proby | Glenda Proby | 1 |
-| DJ Dahi | DJ Dahi | 1 |
 | Stephen Hague | Stephen Hague | 1 |
 
 </details>
@@ -227,3 +234,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="" width="50" /> | Light Switch | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a991995542d50a691b9ae5be" alt="" width="50" /> | ANTIFRAGILE | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="" width="50" /> | UNFORGIVEN (feat. Nile Rodgers) | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="" width="50" /> | S-Class | Producer |

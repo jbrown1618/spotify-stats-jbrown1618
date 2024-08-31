@@ -275,6 +275,8 @@ recording_mbid,artist_mbid,credit_type,credit_details
 05833d73-e1e0-4d69-a00b-a586f8ffb3b6,bff73e1f-6eac-41fa-b4d6-1287bec82d1f,vocal,background vocals
 05833d73-e1e0-4d69-a00b-a586f8ffb3b6,f8df9750-4f73-4c6c-b16b-24cbc57d10f6,instrument,tambourine
 05833d73-e1e0-4d69-a00b-a586f8ffb3b6,f8df9750-4f73-4c6c-b16b-24cbc57d10f6,vocal,background vocals
+059a2781-f733-467a-be36-769d810571af,54d8e9a4-277b-4d3b-8ca1-a79863c1e379,producer,
+059a2781-f733-467a-be36-769d810571af,f09d2950-e3c6-47b2-b21c-2bad2cd3f616,producer,
 05aafb1e-9b7d-46cf-9b5f-82b558b0471c,1df15ee0-b52b-4315-9cb9-bc5a27a685e9,arranger,
 05aafb1e-9b7d-46cf-9b5f-82b558b0471c,1df15ee0-b52b-4315-9cb9-bc5a27a685e9,producer,
 05aafb1e-9b7d-46cf-9b5f-82b558b0471c,1df15ee0-b52b-4315-9cb9-bc5a27a685e9,songwriter,
@@ -328,6 +330,9 @@ recording_mbid,artist_mbid,credit_type,credit_details
 072fc090-5b35-4ae7-9976-cb785fd0983a,dacc2d64-7e59-42a8-87a9-10c53919aff2,performer,
 072fc090-5b35-4ae7-9976-cb785fd0983a,e7d191e4-fd86-42d9-9d84-7643633868a2,producer,
 072fc090-5b35-4ae7-9976-cb785fd0983a,ef1b205b-7500-41b4-a24c-9ed3925c7b31,songwriter,
+076e25c8-8717-4b9c-bb2f-3f7e68a44bb1,55bdc9a7-0b86-4be8-90d9-cf73db9f022f,lyricist,
+076e25c8-8717-4b9c-bb2f-3f7e68a44bb1,55bdc9a7-0b86-4be8-90d9-cf73db9f022f,songwriter,
+076e25c8-8717-4b9c-bb2f-3f7e68a44bb1,eb377401-2aff-423e-bde4-f00f89c6371f,arranger,
 078d484f-efe9-481d-9e3a-8c2b72b6b8fe,0006ca8a-2a9b-4127-ac10-bb43251d186c,instrument,trombone
 078d484f-efe9-481d-9e3a-8c2b72b6b8fe,5a244dd8-546d-4ab4-9651-90c974737ad2,arranger,horn
 078d484f-efe9-481d-9e3a-8c2b72b6b8fe,5dc693ba-0d8d-450a-963d-2b1fe8a9fc9b,instrument,drums (drum set)
@@ -676,6 +681,16 @@ recording_mbid,artist_mbid,credit_type,credit_details
 1109d8da-ce4a-4739-9414-242dc3e9b81c,afc59bef-d405-41ff-9161-774cb41b46a2,songwriter,
 1109d8da-ce4a-4739-9414-242dc3e9b81c,d68fda90-ab8d-4799-be56-317ba4ae700f,songwriter,
 1109d8da-ce4a-4739-9414-242dc3e9b81c,dd841dc5-8408-461c-b489-4c02b88a3aac,producer,
+110b5468-25c6-4473-9944-04d8312444d6,31f6eb53-f467-4f5a-a157-dc1ea39d0ba5,instrument,piano
+110b5468-25c6-4473-9944-04d8312444d6,31f6eb53-f467-4f5a-a157-dc1ea39d0ba5,songwriter,
+110b5468-25c6-4473-9944-04d8312444d6,41476780-c7b2-4521-9752-67ce823b3695,instrument,acoustic guitar
+110b5468-25c6-4473-9944-04d8312444d6,41476780-c7b2-4521-9752-67ce823b3695,songwriter,
+110b5468-25c6-4473-9944-04d8312444d6,93a804a0-2753-4591-8c7d-c5da8a24949e,instrument,keyboard
+110b5468-25c6-4473-9944-04d8312444d6,a6f617d0-94a4-4fc8-ab4a-f80e918099da,producer,
+110b5468-25c6-4473-9944-04d8312444d6,b409b73a-fd92-496c-a591-13aa56730a33,instrument,percussion
+110b5468-25c6-4473-9944-04d8312444d6,c1686436-e675-4487-a001-c8405c11090a,producer,
+110b5468-25c6-4473-9944-04d8312444d6,deda791e-5243-44a3-a0fc-1e7fe805177d,instrument,electric guitar
+110b5468-25c6-4473-9944-04d8312444d6,e96209c1-e856-4b7f-83e4-37ab58e3a989,songwriter,
 11294597-b4ac-4717-8e95-f99d665c1ece,14102906-da3c-469c-96b0-3e9ca2bf48de,producer,
 11294597-b4ac-4717-8e95-f99d665c1ece,73e5e69d-3554-40d8-8516-00cb38737a1c,vocal,lead vocals
 11294597-b4ac-4717-8e95-f99d665c1ece,8dd4dd69-729d-49d2-92cc-001139f49892,producer,lead vocals
@@ -3491,6 +3506,7 @@ recording_mbid,artist_mbid,credit_type,credit_details
 4d037b0c-bd99-4352-8fb7-43993597f109,b51c672b-85e0-48fe-8648-470a2422229f,performer,
 4d037b0c-bd99-4352-8fb7-43993597f109,cb8a4667-ee56-4e2e-aba7-dc54fdcb8634,vocal,
 4d037b0c-bd99-4352-8fb7-43993597f109,f2be7907-4f89-487a-a6b8-4b1dd83ebcc4,vocal,
+4d28e325-faab-4ff7-b281-e0dcac450c1a,f2215143-d7db-4cf0-9cd4-b0040eb63cbd,songwriter,
 4d82c5eb-9cfe-4dd6-b147-b57cc17a809d,151cd917-1ee2-4702-859f-90899ad897f8,producer,
 4d82c5eb-9cfe-4dd6-b147-b57cc17a809d,151cd917-1ee2-4702-859f-90899ad897f8,songwriter,
 4d82c5eb-9cfe-4dd6-b147-b57cc17a809d,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,songwriter,
@@ -4716,6 +4732,26 @@ recording_mbid,artist_mbid,credit_type,credit_details
 6364b45a-b31b-4dfc-8c47-9d52cc7a3e58,ed58ed4e-fd99-4903-878b-7518f4d7465a,producer,
 6364b45a-b31b-4dfc-8c47-9d52cc7a3e58,ed58ed4e-fd99-4903-878b-7518f4d7465a,songwriter,
 6364b45a-b31b-4dfc-8c47-9d52cc7a3e58,f34721e5-6c0f-47c2-a232-187447c9a94c,producer,
+63b25f95-86c2-42bd-bb79-f223e173d1d7,0096dacb-2d85-4f16-8b6c-188129c0ef49,instrument,guest;guitar
+63b25f95-86c2-42bd-bb79-f223e173d1d7,1013f50d-4869-448a-a6fd-2581d9d11765,instrument,congas
+63b25f95-86c2-42bd-bb79-f223e173d1d7,229f61e1-75f0-420f-8351-3ca121f72546,instrument,keyboard
+63b25f95-86c2-42bd-bb79-f223e173d1d7,26949a4e-da1a-4c1b-bfaa-3206eb0cd5f0,instrument,bass guitar;guest
+63b25f95-86c2-42bd-bb79-f223e173d1d7,2b482286-8a3b-4010-a68c-e1d148777057,producer,additional
+63b25f95-86c2-42bd-bb79-f223e173d1d7,30e0e59c-b838-4f4b-9560-5128758b11d5,instrument,drums (drum set);guest
+63b25f95-86c2-42bd-bb79-f223e173d1d7,30e0e59c-b838-4f4b-9560-5128758b11d5,producer,co
+63b25f95-86c2-42bd-bb79-f223e173d1d7,30e0e59c-b838-4f4b-9560-5128758b11d5,vocal,background vocals;guest
+63b25f95-86c2-42bd-bb79-f223e173d1d7,55441123-89a2-49ab-ae3f-df7a3e86835a,performer,guest
+63b25f95-86c2-42bd-bb79-f223e173d1d7,58c1a5a6-5271-48d4-89e6-651d8d127a06,instrument,percussion;timbales
+63b25f95-86c2-42bd-bb79-f223e173d1d7,6e4ade31-1181-4083-aeaa-1a326eda715f,lyricist,
+63b25f95-86c2-42bd-bb79-f223e173d1d7,6e4ade31-1181-4083-aeaa-1a326eda715f,producer,
+63b25f95-86c2-42bd-bb79-f223e173d1d7,6e4ade31-1181-4083-aeaa-1a326eda715f,songwriter,
+63b25f95-86c2-42bd-bb79-f223e173d1d7,6e4ade31-1181-4083-aeaa-1a326eda715f,vocal,guest;lead vocals
+63b25f95-86c2-42bd-bb79-f223e173d1d7,8babed81-a0e6-4d7e-9c81-ddc2c36b0d58,vocal,background vocals
+63b25f95-86c2-42bd-bb79-f223e173d1d7,96717bbb-96a8-4c09-853d-fc22387e0cc4,producer,
+63b25f95-86c2-42bd-bb79-f223e173d1d7,b6ccf199-da5b-40c5-8b79-f20f78504ab7,instrument,keyboard
+63b25f95-86c2-42bd-bb79-f223e173d1d7,b8f01aa3-5ebd-4dd9-906b-febb2e1bf0df,producer,
+63b25f95-86c2-42bd-bb79-f223e173d1d7,f7fda030-0ba1-42e9-a385-3deebc939bc9,instrument,guitar
+63b25f95-86c2-42bd-bb79-f223e173d1d7,f9b259f3-6e87-4319-ab86-daf5f66669f5,chorus master,
 645acbbc-ffb9-4383-affa-6d5cfb052a32,05517043-ff78-4988-9c22-88c68588ebb9,instrument,guitar
 645acbbc-ffb9-4383-affa-6d5cfb052a32,05517043-ff78-4988-9c22-88c68588ebb9,lyricist,
 645acbbc-ffb9-4383-affa-6d5cfb052a32,05517043-ff78-4988-9c22-88c68588ebb9,producer,
@@ -5769,6 +5805,8 @@ recording_mbid,artist_mbid,credit_type,credit_details
 800814c7-cba0-4cc5-8360-463c61ca71d0,c9ecffa5-3851-421e-992c-bd8d8add0135,producer,co
 800814c7-cba0-4cc5-8360-463c61ca71d0,cbba84fe-6149-42d1-87c4-5c15ff404e74,instrument,acoustic guitar;electric guitar
 800814c7-cba0-4cc5-8360-463c61ca71d0,d3f252f3-63d0-4490-b651-1366d98fd64a,instrument,drums (drum set);timpani
+801bd3db-df0c-474a-97b3-3e93701eadaa,15d6e483-1fb8-49c0-a475-17af5b022bdd,producer,
+801bd3db-df0c-474a-97b3-3e93701eadaa,f09d2950-e3c6-47b2-b21c-2bad2cd3f616,producer,
 8044b38c-e7ba-45dc-bcb1-d0e9afbaf1d5,2181def6-0780-4c71-baef-d106bc595d13,lyricist,
 8044b38c-e7ba-45dc-bcb1-d0e9afbaf1d5,aae3d0b2-8024-4fd2-90a2-1dadcebbb27e,songwriter,
 8078e967-8656-463e-ac74-fcdec48d5290,0ce7fbf0-1107-4c4f-b117-5f0756cf90c4,arranger,
@@ -6128,6 +6166,13 @@ recording_mbid,artist_mbid,credit_type,credit_details
 861679df-1dda-4c68-aef3-f4bb14bc7431,b67bf15d-03c3-40a4-9d17-769a964d5005,songwriter,
 861679df-1dda-4c68-aef3-f4bb14bc7431,c8b03190-306c-4120-bb0b-6f2ebfc06ea9,songwriter,
 861679df-1dda-4c68-aef3-f4bb14bc7431,d1f01df7-fcac-4c64-a530-0f49aacf98bb,producer,
+866d407d-7641-42fd-8b9b-83fa835dde54,2cb1105c-5f6d-426f-91a5-7b80f2fc68ff,lyricist,
+866d407d-7641-42fd-8b9b-83fa835dde54,75fcb0af-b701-4f71-b57f-f451cfe61c5b,arranger,
+866d407d-7641-42fd-8b9b-83fa835dde54,75fcb0af-b701-4f71-b57f-f451cfe61c5b,songwriter,
+866d407d-7641-42fd-8b9b-83fa835dde54,78a8d998-b910-4176-9135-3d465a35eb3f,arranger,
+866d407d-7641-42fd-8b9b-83fa835dde54,78a8d998-b910-4176-9135-3d465a35eb3f,songwriter,
+866d407d-7641-42fd-8b9b-83fa835dde54,9bd7b6a6-d0b6-47f5-a62b-04dade95f5d1,arranger,
+866d407d-7641-42fd-8b9b-83fa835dde54,9bd7b6a6-d0b6-47f5-a62b-04dade95f5d1,songwriter,
 873eba85-b721-4728-be2e-96ce94cccb8b,02574c2b-0bff-4a6d-995b-4423973e4901,instrument,violin
 873eba85-b721-4728-be2e-96ce94cccb8b,0531f68a-bfab-490e-8f89-478dff19fce0,instrument,violin
 873eba85-b721-4728-be2e-96ce94cccb8b,09c57365-2ca0-44d2-bfe4-672aaf436994,instrument,violin
@@ -6772,6 +6817,35 @@ recording_mbid,artist_mbid,credit_type,credit_details
 924b2655-39c3-4fe1-b10d-361dadff25be,35d9f821-3aff-4b5b-9684-be3e6362d35f,arranger,
 924b2655-39c3-4fe1-b10d-361dadff25be,925c7673-0e85-410f-b7e4-d9705a7aa619,lyricist,
 924b2655-39c3-4fe1-b10d-361dadff25be,925c7673-0e85-410f-b7e4-d9705a7aa619,songwriter,
+92610e58-2843-451a-ba1b-eafb230541d9,05574747-639f-402d-b6b1-cf5c3f25926b,arranger,
+92610e58-2843-451a-ba1b-eafb230541d9,05574747-639f-402d-b6b1-cf5c3f25926b,instrument,
+92610e58-2843-451a-ba1b-eafb230541d9,05574747-639f-402d-b6b1-cf5c3f25926b,producer,electronic instruments
+92610e58-2843-451a-ba1b-eafb230541d9,05574747-639f-402d-b6b1-cf5c3f25926b,songwriter,
+92610e58-2843-451a-ba1b-eafb230541d9,0c720022-fdd2-4b9f-a73a-245c1362fb5f,vocal,lead vocals
+92610e58-2843-451a-ba1b-eafb230541d9,142b343d-bf5a-428c-a64f-6d1a7566bbe9,vocal,background vocals
+92610e58-2843-451a-ba1b-eafb230541d9,2207c581-e4ba-4738-bae6-7761f6510a86,vocal,lead vocals
+92610e58-2843-451a-ba1b-eafb230541d9,2acf77db-be3f-431a-9f81-c35f7cd8c598,vocal,lead vocals
+92610e58-2843-451a-ba1b-eafb230541d9,3690eb96-0b19-47b4-8317-3799e54d84d9,producer,
+92610e58-2843-451a-ba1b-eafb230541d9,391d07b5-43b2-4d57-9283-7b7fcf1a00eb,lyricist,
+92610e58-2843-451a-ba1b-eafb230541d9,391d07b5-43b2-4d57-9283-7b7fcf1a00eb,songwriter,
+92610e58-2843-451a-ba1b-eafb230541d9,391d07b5-43b2-4d57-9283-7b7fcf1a00eb,vocal,lead vocals
+92610e58-2843-451a-ba1b-eafb230541d9,459b84e0-2636-45e3-96c8-af114dfbd9be,vocal,lead vocals
+92610e58-2843-451a-ba1b-eafb230541d9,54c1f74e-2cd7-481d-9d31-7808fc2dbf05,producer,
+92610e58-2843-451a-ba1b-eafb230541d9,5b3334c9-c065-420c-82dd-df1d3c46ef86,lyricist,
+92610e58-2843-451a-ba1b-eafb230541d9,5b3334c9-c065-420c-82dd-df1d3c46ef86,songwriter,
+92610e58-2843-451a-ba1b-eafb230541d9,5b3334c9-c065-420c-82dd-df1d3c46ef86,vocal,lead vocals
+92610e58-2843-451a-ba1b-eafb230541d9,612b949b-2df4-46c5-a6d8-93a8f01c66b8,vocal,lead vocals
+92610e58-2843-451a-ba1b-eafb230541d9,793eafd1-cfce-455b-9156-392f6e51dace,producer,task
+92610e58-2843-451a-ba1b-eafb230541d9,8049e9de-c803-47d2-b083-5e2780e2a1fb,arranger,
+92610e58-2843-451a-ba1b-eafb230541d9,8049e9de-c803-47d2-b083-5e2780e2a1fb,instrument,
+92610e58-2843-451a-ba1b-eafb230541d9,8049e9de-c803-47d2-b083-5e2780e2a1fb,producer,electronic instruments
+92610e58-2843-451a-ba1b-eafb230541d9,8049e9de-c803-47d2-b083-5e2780e2a1fb,songwriter,
+92610e58-2843-451a-ba1b-eafb230541d9,89d4a76a-d8d4-4600-ac9e-19415320b7f4,arranger,
+92610e58-2843-451a-ba1b-eafb230541d9,89d4a76a-d8d4-4600-ac9e-19415320b7f4,instrument,
+92610e58-2843-451a-ba1b-eafb230541d9,89d4a76a-d8d4-4600-ac9e-19415320b7f4,lyricist,
+92610e58-2843-451a-ba1b-eafb230541d9,89d4a76a-d8d4-4600-ac9e-19415320b7f4,producer,electronic instruments
+92610e58-2843-451a-ba1b-eafb230541d9,89d4a76a-d8d4-4600-ac9e-19415320b7f4,songwriter,
+92610e58-2843-451a-ba1b-eafb230541d9,89d4a76a-d8d4-4600-ac9e-19415320b7f4,vocal,lead vocals
 92ac918a-07f6-4f5e-b356-5897723310ca,017699d5-f7b0-4233-8bc2-174ef20a5d63,instrument,drums (drum set)
 92ac918a-07f6-4f5e-b356-5897723310ca,1a476076-2696-4d24-a649-e180c3451fbb,producer,
 92ac918a-07f6-4f5e-b356-5897723310ca,24252580-8ddb-44e6-b89b-e6574510790e,instrument,guitar
@@ -9117,6 +9191,12 @@ bb47737f-ecc5-4478-a6ca-4f5c15e1cdba,be8fa0d1-b482-4601-b4ba-d73ae314be2c,produc
 bb47737f-ecc5-4478-a6ca-4f5c15e1cdba,fd65c60b-2aaa-4537-85c8-18b07c9a12e7,lyricist,
 bb47737f-ecc5-4478-a6ca-4f5c15e1cdba,fd65c60b-2aaa-4537-85c8-18b07c9a12e7,producer,
 bb47737f-ecc5-4478-a6ca-4f5c15e1cdba,fd65c60b-2aaa-4537-85c8-18b07c9a12e7,songwriter,
+bbbf5ee3-d242-4ca5-baa0-52e41b58fee2,2f7e8908-f8cf-40bf-bc82-ea4d3793249b,lyricist,
+bbbf5ee3-d242-4ca5-baa0-52e41b58fee2,2f7e8908-f8cf-40bf-bc82-ea4d3793249b,songwriter,
+bbbf5ee3-d242-4ca5-baa0-52e41b58fee2,afb62c90-f551-4436-b257-37f799dd8a2d,arranger,
+bbbf5ee3-d242-4ca5-baa0-52e41b58fee2,c23062cc-99db-46b2-baf0-de6b8829e48d,lyricist,
+bbbf5ee3-d242-4ca5-baa0-52e41b58fee2,c23062cc-99db-46b2-baf0-de6b8829e48d,songwriter,
+bbbf5ee3-d242-4ca5-baa0-52e41b58fee2,ffef0320-f6d5-4cee-90c9-f4e81700930e,arranger,
 bc937523-056d-4a68-a763-684aab8d8294,3b83b09a-6f89-4817-9c3d-ac2ab08577a4,producer,
 bc937523-056d-4a68-a763-684aab8d8294,830dab18-aa36-4f06-abcd-5b894fe577fc,instrument,guitar
 bc937523-056d-4a68-a763-684aab8d8294,afc202cd-5546-4547-ba64-35cc33a371b0,instrument,drums (drum set)

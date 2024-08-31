@@ -4,21 +4,22 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Arranger | 6 |
+| Arranger | 7 |
 | Instrument | 2 |
 | Producer | 3 |
-| Songwriter | 4 |
+| Songwriter | 5 |
 
 ## Produces for Artists
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb02a562ea6b1dc718394010ac" alt="" width="50" /> | 2 | 2 | 2 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | 164 | 1 | 1 | [f(x)](../../artists/f(x)/overview.md) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | 163 | 1 | 1 | [f(x)](../../artists/f(x)/overview.md) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5e97e9ea9133fbfa41e27498" alt="" width="50" /> | 8 | 1 | 1 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe0001b1abdae41d669a446b7" alt="" width="50" /> | 100 | 1 | 1 | [SHINee](../../artists/shinee/overview.md) | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a" alt="" width="50" /> | 5 | 1 | 1 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2b9446440d296ce32189024e" alt="" width="50" /> | 20 | 1 | 1 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfbdd3f060e1cbe9e8eeaecac" alt="" width="50" /> | 144 | 1 | 1 | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfbdd3f060e1cbe9e8eeaecac" alt="" width="50" /> | 141 | 1 | 1 | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
 
 ## Works with Producers
 
@@ -30,10 +31,10 @@
 | 이스란 | 이스란 (Lee, Seran) | 3 |
 | 구혜진 | [구혜진 (Gu, Hye-jin)](../구혜진_(gu,_hye-jin)/overview.md) | 3 |
 | Greg Bonnick | Greg Bonnick | 3 |
-| 이상엽 | 이상엽 (Lee, Sang-yeob) | 2 |
-| 엄세희 | [엄세희 (Um, Se-Hee)](../엄세희_(um,_se-hee)/overview.md) | 2 |
+| Adrian McKinnon | Adrian McKinnon | 2 |
 | 구종필 | [구종필 (Koo, Jong-Pil)](../구종필_(koo,_jong-pil)/overview.md) | 2 |
 | 정의석 | [정의석 (Jung, Euisuk)](../정의석_(jung,_euisuk)/overview.md) | 2 |
+| 엄세희 | [엄세희 (Um, Se-Hee)](../엄세희_(um,_se-hee)/overview.md) | 2 |
 
 
 <details>
@@ -41,38 +42,39 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| 서은일 | 서은일 (Seo, Eun-il) | 1 |
-| Frankie Day | Frankie Day | 1 |
+| 이상엽 | 이상엽 (Lee, Sang-yeob) | 2 |
+| Ryan S. Jhun | [Ryan S. Jhun](../ryan_s__jhun/overview.md) | 2 |
+| 서지음 | [서지음 (Seo, Ji Eum)](../서지음_(seo,_ji_eum)/overview.md) | 1 |
+| Jin Choi | Jin Choi | 1 |
+| Ellen Berg Tollbom | Ellen Berg Tollbom | 1 |
+| Herbie Crichlow | Herbie Crichlow | 1 |
+| Ayushy | Ayushy | 1 |
+| Tayla Parx | Tayla Parx | 1 |
+| 강영현 | 강영현 (Kang, Young-hyun) | 1 |
 | SELAH | SELAH | 1 |
 | 김영현 | 김영현 (Kim, Young-hyun) | 1 |
-| 강영현 | 강영현 (Kang, Young-hyun) | 1 |
-| Tayla Parx | Tayla Parx | 1 |
-| Herbie Crichlow | Herbie Crichlow | 1 |
-| Ellen Berg Tollbom | Ellen Berg Tollbom | 1 |
+| Frankie Day | Frankie Day | 1 |
+| 서은일 | 서은일 (Seo, Eun-il) | 1 |
 | Taet Chesterton | Taet Chesterton | 1 |
-| Jin Choi | Jin Choi | 1 |
-| 서지음 | [서지음 (Seo, Ji Eum)](../서지음_(seo,_ji_eum)/overview.md) | 1 |
 | Dave Kutch | Dave Kutch | 1 |
-| Karin Wilhemina Eurenius | Karin Wilhemina Eurenius | 1 |
 | 김규영 | 김규영 (Kim, Kyu-young) | 1 |
-| Ayushy | Ayushy | 1 |
+| Karin Wilhemina Eurenius | Karin Wilhemina Eurenius | 1 |
 | 심은지 | [심은지 (Sim, Eunjee)](../심은지_(sim,_eunjee)/overview.md) | 1 |
 | Tay Jasper | Tay Jasper | 1 |
-| 임홍진 | 임홍진 (Im, Hong-Jin) | 1 |
-| Kriz | [Kriz](../kriz/overview.md) | 1 |
-| 구태우 | 구태우 (Gutaeu) | 1 |
-| 이지홍 | 이지홍 (Lee, Ji-hong) | 1 |
-| 초이 | 초이 (Choi) | 1 |
-| 김진환 | 김진환 (Kim, Jin Hwan) | 1 |
-| Danny Shah | Danny Shah | 1 |
-| Lauren Dyson | Lauren Dyson | 1 |
 | 김동현 | 김동현 (Kim, Dong-hyun) | 1 |
-| Adrian McKinnon | Adrian McKinnon | 1 |
-| Ryan S. Jhun | [Ryan S. Jhun](../ryan_s__jhun/overview.md) | 1 |
-| 새봄 | 새봄 (Sae Bom) | 1 |
-| Tony Maserati | [Tony Maserati](../tony_maserati/overview.md) | 1 |
-| Deanna | Deanna | 1 |
 | 이태섭 | [이태섭 (Lee, Tae-Sub)](../이태섭_(lee,_tae-sub)/overview.md) | 1 |
+| Deanna | Deanna | 1 |
+| Tony Maserati | [Tony Maserati](../tony_maserati/overview.md) | 1 |
+| 새봄 | 새봄 (Sae Bom) | 1 |
+| Lauren Dyson | Lauren Dyson | 1 |
+| 임홍진 | 임홍진 (Im, Hong-Jin) | 1 |
+| Danny Shah | Danny Shah | 1 |
+| 김진환 | 김진환 (Kim, Jin Hwan) | 1 |
+| 초이 | 초이 (Choi) | 1 |
+| 이지홍 | 이지홍 (Lee, Ji-hong) | 1 |
+| JONGHYUN | JONGHYUN | 1 |
+| 구태우 | 구태우 (Gutaeu) | 1 |
+| Kriz | [Kriz](../kriz/overview.md) | 1 |
 | 김철순 | 김철순 (Kim, Chul-Soon) | 1 |
 
 </details>
@@ -82,6 +84,7 @@
 
 | Art | Track | Credit Types |
 |:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27338b29effd5af942ca8d7a8b0" alt="" width="50" /> | View | Arranger, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | Oh Boy | Arranger, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | Dumb Dumb | Arranger, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b6baf420e67f45971ca0d216" alt="" width="50" /> | 4 Walls | Arranger, Songwriter |

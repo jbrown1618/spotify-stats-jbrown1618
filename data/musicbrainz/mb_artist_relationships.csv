@@ -2,6 +2,7 @@ artist_mbid,other_mbid,relationship_type
 00119b04-e793-419a-8534-4fb768fc5642,69689acf-d9cd-4d20-a972-47db4ed51b1a,member of band
 0042c402-7e7d-424d-a903-24a3b93d15f1,be547bca-8718-4762-bf1b-34a3bdb4938f,member of band
 00929331-8a98-4651-9052-6feaf0458b81,79491354-3d83-40e3-9d8e-7592d58d790a,member of band
+0096dacb-2d85-4f16-8b6c-188129c0ef49,55441123-89a2-49ab-ae3f-df7a3e86835a,member of band
 00d00be3-34eb-4e44-89ca-e13ed23b51b5,4dc14f03-40b5-4268-8965-8e64fedb0798,member of band
 00d00be3-34eb-4e44-89ca-e13ed23b51b5,fe038151-1099-4de8-901b-39be66d6e493,member of band
 00dc1927-dc94-4587-bb69-83b717499be2,1858d12f-e740-414f-9a87-6048b5d11c32,member of band
@@ -455,6 +456,7 @@ artist_mbid,other_mbid,relationship_type
 2650741e-908c-4cae-ba98-0717da3c3ce0,acb2191f-0f55-4ec6-b7ff-ce73dea50f3e,member of band
 268b782c-b6c7-41a4-b2ef-36cddd76b6ad,bd1d085d-a955-4def-86d9-658313e83bd3,is person
 268b782c-b6c7-41a4-b2ef-36cddd76b6ad,ec2bcb77-b9a1-49e2-bfe7-419586bbef48,member of band
+26949a4e-da1a-4c1b-bfaa-3206eb0cd5f0,55441123-89a2-49ab-ae3f-df7a3e86835a,member of band
 269d6e80-3186-4165-8586-2ccb64b446a4,516cef4d-0718-4007-9939-f9b38af3f784,member of band
 26a88003-cd0a-472a-8f6f-775855cc7129,be547bca-8718-4762-bf1b-34a3bdb4938f,member of band
 26cea341-dfab-483f-9cdb-8de82da81019,516cef4d-0718-4007-9939-f9b38af3f784,member of band
@@ -600,6 +602,7 @@ artist_mbid,other_mbid,relationship_type
 309d9809-cf74-493a-b56b-1378258f20fd,c74f4726-2671-4011-81b6-f70da905c05a,member of band
 30a85598-1db8-4e13-9bfa-d90093062bc1,f5bff650-07d0-4f8c-bf48-45497f465b79,subgroup
 30aeb57f-bb16-47fa-86ca-79fc57b4d12c,48646387-1664-4c9a-9139-9bfd091b823c,member of band
+30e0e59c-b838-4f4b-9560-5128758b11d5,55441123-89a2-49ab-ae3f-df7a3e86835a,member of band
 31129686-3faf-4580-a887-b82e76e3df68,be547bca-8718-4762-bf1b-34a3bdb4938f,member of band
 3144bf1e-4033-4de0-900f-a59726a9681f,9c9f1380-2516-4fc9-a3e6-f9f61941d090,member of band
 3182bda5-2f4a-49e4-9fa3-cf7e5ebbff24,eeb1195b-f213-4ce1-b28c-8565211f8e43,member of band
@@ -1296,6 +1299,8 @@ artist_mbid,other_mbid,relationship_type
 6df08c91-b91d-4b59-95fe-b51a2e1b06d3,b2ce6c26-f68d-499c-ae01-1f319c1c63ba,is person
 6df08c91-b91d-4b59-95fe-b51a2e1b06d3,e520459c-dff4-491d-a6e4-c97be35e0044,is person
 6e2b0f76-e3e5-4b87-b441-e126dc8dbc56,b7ec4c54-1f93-4bf2-957f-7b9921ab84ea,member of band
+6e4ade31-1181-4083-aeaa-1a326eda715f,55441123-89a2-49ab-ae3f-df7a3e86835a,member of band
+6e4ade31-1181-4083-aeaa-1a326eda715f,dda26933-509f-497f-ab21-8d2b75bf5244,member of band
 6e5a3a28-6893-4b7c-b647-32d71c09b291,aaf15fb7-6a8a-4c62-8a16-6130f271b6f6,is person
 6e82e5d9-c7ae-4de1-8691-be6e870b294c,bd13909f-1c29-4c27-a874-d4aaf27c5b1a,member of band
 6e8a226d-073d-4583-9783-4030617d48a4,fe038151-1099-4de8-901b-39be66d6e493,member of band
@@ -2514,6 +2519,7 @@ dd776077-27c3-4f12-a838-456815ec8066,ae98b8c4-d8fc-4ff9-9b4e-4bc1fd8575d1,member
 dd776077-27c3-4f12-a838-456815ec8066,de4feabc-cd21-4568-a09c-2086bfebe2f4,member of band
 dd959a12-3b45-4fdd-be52-827796090ddf,be547bca-8718-4762-bf1b-34a3bdb4938f,member of band
 dda1c5e2-e18e-40c8-a464-84014011ec65,9f92f1e5-7b25-4be2-ab61-76b6db556887,member of band
+dda26933-509f-497f-ab21-8d2b75bf5244,55441123-89a2-49ab-ae3f-df7a3e86835a,artist rename
 ddb10b88-6b6a-45e3-a28c-e3aa27b269eb,9a3bf45c-347d-4630-894d-7cf3e8e0b632,member of band
 ddfd7f8a-84cb-4fc1-9939-1661bc669b79,aab5c954-cabe-432e-899e-1c4f99757327,member of band
 de05553e-3fdb-452b-9ee7-022dd92f9ff4,65154208-703d-4a52-9f59-1ac8e1540bc1,member of band
@@ -2843,6 +2849,7 @@ f9479b70-d02f-4773-bd80-c086f13153a2,f3eaa943-71b3-44b6-8b66-74c787742aae,member
 f95508fb-7d42-4806-9ac5-0c9ce50812e8,d8df96ae-8fcf-4997-b3e6-e5d1aaf0f69e,member of band
 f96b514d-ae79-41bb-9681-4524bf3d5da5,7cd1dcbf-ff00-472b-b89c-9c13b66c5b07,is person
 f99ea28d-99dc-4e50-9755-3d56dc23c7ce,9a3bf45c-347d-4630-894d-7cf3e8e0b632,member of band
+f9b259f3-6e87-4319-ab86-daf5f66669f5,a3fa3dd5-925c-4c00-8254-8a37d19c560b,is person
 f9c46648-1c02-493c-8f5e-dfbc425b5030,6390e20f-bacf-474e-954e-5b12da73350e,member of band
 fa102ca9-e84f-4188-a983-12e4976a2a7e,be547bca-8718-4762-bf1b-34a3bdb4938f,member of band
 fa293b08-a66d-4eef-8ee5-989aadf5dae8,f2f52490-aa06-40e3-ae18-c254186b5d6d,is person

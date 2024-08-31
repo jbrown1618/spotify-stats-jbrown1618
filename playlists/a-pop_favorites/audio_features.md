@@ -40,7 +40,7 @@
 
 | ​ | 10 most Speechy tracks | ​​ | 10 least Speechy tracks |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="Youngblood (Deluxe)" width="50" /> | Youngblood (0.463) | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | Satellite Call (0.0241) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="Youngblood - Deluxe" width="50" /> | Youngblood (0.463) | <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="The Blessed Unrest" width="50" /> | Satellite Call (0.0241) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?" width="50" /> | bury a friend (0.332) | <img src="https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218" alt="The Script" width="50" /> | Breakeven (0.0242) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f3425d012117543bf914c451" alt="&amp;burn (with Vince Staples)" width="50" /> | &burn (with Vince Staples) (0.331) | <img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" alt="The Lady Killer" width="50" /> | Old Fashioned (0.0246) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273786cb106c8bb0c15c86a93a0" alt="Hurts 2B Human" width="50" /> | Hustle (0.326) | <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="21" width="50" /> | Set Fire to the Rain (0.0249) |
