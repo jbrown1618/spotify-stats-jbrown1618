@@ -12,7 +12,7 @@
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/49da328b0629313b2c452bf35d8c50d013274f5b" alt="" width="50" /> | 427 | 39 | 0 | Igor Stravinsky | [🔗](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe9c2dcd7eb7f1247a61c6f07" alt="" width="50" /> | 142 | 29 | 0 | [Jerusalem Quartet](../../artists/jerusalem_quartet/overview.md) | [🔗](https://open.spotify.com/artist/7AnE8Jpu1vxLeXcs6OKYHE) |
-| <img src="https://i.scdn.co/image/28f745db0a77d0e70db1c0be305f51b3478706aa" alt="" width="50" /> | 291 | 29 | 0 | Dmitri Shostakovich | [🔗](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA) |
+| <img src="https://i.scdn.co/image/28f745db0a77d0e70db1c0be305f51b3478706aa" alt="" width="50" /> | 292 | 29 | 0 | Dmitri Shostakovich | [🔗](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0065f11220ca4bb030bffb72" alt="" width="50" /> | 427 | 18 | 0 | Mariinsky Orchestra | [🔗](https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb85c25fffeaf7a209268e9372" alt="" width="50" /> | 427 | 18 | 0 | Valery Gergiev | [🔗](https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="" width="50" /> | 427 | 14 | 0 | [Berliner Philharmoniker](../../artists/berliner_philharmoniker/overview.md) | [🔗](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) |
@@ -26,7 +26,7 @@
 ## Most and least listened tracks
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 538 | <img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 &amp; 11" width="50" /> | String Quartet No. 9 in E-Flat Major, Op. 117: III. Allegretto | 955 | <img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 &amp; 11" width="50" /> | String Quartet No. 9 in E-Flat Major, Op. 117: I. Moderato Con Moto |
+| 539 | <img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 &amp; 11" width="50" /> | String Quartet No. 9 in E-Flat Major, Op. 117: III. Allegretto | 955 | <img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 &amp; 11" width="50" /> | String Quartet No. 9 in E-Flat Major, Op. 117: I. Moderato Con Moto |
 | 955 | <img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="Stravinsky: Petrushka, Jeu de cartes" width="50" /> | Jeu de cartes: II. Second Deal | 955 | <img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 &amp; 11" width="50" /> | String Quartet No. 8 in C Minor, Op. 110: V. Largo |
 | 955 | <img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 &amp; 11" width="50" /> | String Quartet No. 6 in G Major, Op. 101: III. Lento | 955 | <img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 &amp; 11" width="50" /> | String Quartet No.11 in F Minor, Op. 122: VII. Finale (Moderato) |
 | 955 | <img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 &amp; 11" width="50" /> | String Quartet No.11 in F Minor, Op. 122: III. Récitatif (Adagio) | 955 | <img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="Stravinsky: Petrushka, Jeu de cartes" width="50" /> | Petrushka: Second Scene: I. Petrushka's Cell (1911 original version) |
@@ -41,7 +41,7 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="" width="50" /> | 367 | 29 | 0 | Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 & 11 | 2005 | [🔗](https://open.spotify.com/album/4V2YVRjysd08RF0GLRDDK7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff17a9c684ec4757c8c026b0" alt="" width="50" /> | 370 | 29 | 0 | Shostakovich: String Quartets Nos. 1, 4, 6, 8, 9 & 11 | 2005 | [🔗](https://open.spotify.com/album/4V2YVRjysd08RF0GLRDDK7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d425516ed4317947a4f48af" alt="" width="50" /> | 630 | 18 | 0 | Stravinsky: Petrushka, Jeu de cartes | 2018-10-19 | [🔗](https://open.spotify.com/album/19fQbFNjlfXgBAFqftKzWA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0eb5b09e87f24415266d723" alt="" width="50" /> | 630 | 14 | 0 | Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra | 2007-01-01 | [🔗](https://open.spotify.com/album/317b74rpNBO2uhaJFyMaxJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733620c09ca7ca202e676b783b" alt="" width="50" /> | 630 | 7 | 0 | Stravinsky: The Firebird (Ballet Suite) | 2009-01-01 | [🔗](https://open.spotify.com/album/2q1xMRl4AcA7rI8GfGnmvD) |

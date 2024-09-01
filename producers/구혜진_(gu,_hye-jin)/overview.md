@@ -13,7 +13,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c6952f39ba680489149a54c" alt="" width="50" /> | 9 | 6 | 6 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a" alt="" width="50" /> | 5 | 6 | 5 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2b9446440d296ce32189024e" alt="" width="50" /> | 20 | 3 | 3 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfbdd3f060e1cbe9e8eeaecac" alt="" width="50" /> | 141 | 2 | 2 | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfbdd3f060e1cbe9e8eeaecac" alt="" width="50" /> | 139 | 2 | 2 | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
 | | 427 | 1 | 1 | Felix (Stray Kids) | [🔗](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb75237a1ba0379041476012b3" alt="" width="50" /> | 10 | 1 | 1 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 
@@ -23,7 +23,7 @@
 |:---|:---|---:|
 | 엄세희 | [엄세희 (Um, Se-Hee)](../엄세희_(um,_se-hee)/overview.md) | 9 |
 | 심은지 | [심은지 (Sim, Eunjee)](../심은지_(sim,_eunjee)/overview.md) | 5 |
-| 이상엽 | 이상엽 (Lee, Sang-yeob) | 5 |
+| 이상엽 | [이상엽 (Lee, Sang-yeob)](../이상엽_(lee,_sang-yeob)/overview.md) | 5 |
 | 이태섭 | [이태섭 (Lee, Tae-Sub)](../이태섭_(lee,_tae-sub)/overview.md) | 5 |
 | Tony Maserati | [Tony Maserati](../tony_maserati/overview.md) | 4 |
 | 김영현 | 김영현 (Kim, Young-hyun) | 4 |
@@ -84,7 +84,7 @@
 | 강영현 | 강영현 (Kang, Young-hyun) | 1 |
 | 송희진 | 송희진 (Song, Hee-jin) | 1 |
 | Ellen Berg Tollbom | Ellen Berg Tollbom | 1 |
-| 방찬 | 방찬 (Bang Chan) | 1 |
+| 방찬 | [방찬 (Bang Chan)](../방찬_(bang_chan)/overview.md) | 1 |
 | 常楽寺澪 | 常楽寺澪 (Jorakuji, Mio) | 1 |
 | Brian U | Brian U | 1 |
 | 김인 | 김인 (Kim, In) | 1 |
@@ -128,7 +128,7 @@
 | Awrii | Awrii | 1 |
 | Jacob Aaron | Jacob Aaron | 1 |
 | YUE | YUE | 1 |
-| 한 | 한 (Han) | 1 |
+| 한 | [한 (Han)](../한_(han)/overview.md) | 1 |
 | C'SA | C'SA | 1 |
 | Danny Shah | Danny Shah | 1 |
 | 케빈오빠 | 케빈오빠 (Kevinoppa) | 1 |

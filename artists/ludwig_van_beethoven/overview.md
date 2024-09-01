@@ -9,7 +9,7 @@
 [See Clusters](clusters/overview.md)
 
 ## Artist Rank
-- The #288 artist of all time
+- The #289 artist of all time
 
 ![Rank of Ludwig van Beethoven over time](../../images/artists/ludwig_van_beethoven/rank_time_series.png)
 ## Top Tracks
@@ -27,7 +27,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c18e2114a3a3ef543635197a" alt="" width="50" /> | 630 | 94 | 0 | Beethoven: The Piano Sonatas | 1995-01-01 | [🔗](https://open.spotify.com/album/7xbsSOswKgms1fUFuwKArz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325641d502a60b6ef9c235c29" alt="" width="50" /> | 630 | 71 | 0 | Beethoven: Complete String Quartets | 2010-10-12 | [🔗](https://open.spotify.com/album/4JhUG1lr4xztAcqyA0Jm3a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370426e24663b43f11ebd9c24" alt="" width="50" /> | 630 | 42 | 0 | Beethoven: 9 Symphonies; Overtures | 1993-01-01 | [🔗](https://open.spotify.com/album/2DQTNTznsteIZciZdyeWdj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="" width="50" /> | 360 | 24 | 0 | Beethoven: String Quartets, Op. 18 | 2015-08-31 | [🔗](https://open.spotify.com/album/37iUq5Dekt8uP5itTiVs2Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="" width="50" /> | 363 | 24 | 0 | Beethoven: String Quartets, Op. 18 | 2015-08-31 | [🔗](https://open.spotify.com/album/37iUq5Dekt8uP5itTiVs2Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732266fb9b5484a5dc280e5bff" alt="" width="50" /> | 630 | 12 | 0 | Beethoven: Piano Sonatas Nos. 1-3 | 2008-01-01 | [🔗](https://open.spotify.com/album/5CjMjZJnjdHHgwAVkqrvXq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b9ae3f056fa16819bc9dd48" alt="" width="50" /> | 630 | 9 | 0 | Beethoven: Piano Sonatas Nos. 30, 31 & 32 | 2012-03-06 | [🔗](https://open.spotify.com/album/478l1JdqbqDzcmmgrqw2zu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="" width="50" /> | 630 | 9 | 0 | Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique" | 1983-01-01 | [🔗](https://open.spotify.com/album/0RCfE1YhkdrjnM3kXT3YLl) |
@@ -72,7 +72,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="" width="50" /> | String Quartet No. 3 in D Major, Op. 18: I. Allegro | Beethoven: String Quartets, Op. 18 | [Ludwig van Beethoven](overview.md), [Jerusalem Quartet](../jerusalem_quartet/overview.md) | [harmonia mundi](../../labels/harmonia_mundi) | 524 | | [🔗](https://open.spotify.com/track/4ZTY5VL2UbVghLuVkhAQdc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="" width="50" /> | String Quartet No. 3 in D Major, Op. 18: I. Allegro | Beethoven: String Quartets, Op. 18 | [Ludwig van Beethoven](overview.md), [Jerusalem Quartet](../jerusalem_quartet/overview.md) | [harmonia mundi](../../labels/harmonia_mundi) | 526 | | [🔗](https://open.spotify.com/track/4ZTY5VL2UbVghLuVkhAQdc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="" width="50" /> | Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": I. Adagio sostenuto | Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique" | [Ludwig van Beethoven](overview.md), [Vladimir Ashkenazy](../vladimir_ashkenazy/overview.md) | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_) | 955 | | [🔗](https://open.spotify.com/track/7rv8C5AxTZ5cLjin8nto2m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="" width="50" /> | Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": II. Allegretto | Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique" | [Ludwig van Beethoven](overview.md), [Vladimir Ashkenazy](../vladimir_ashkenazy/overview.md) | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_) | 955 | | [🔗](https://open.spotify.com/track/12LjzYWPDVmq2YVn7ABByJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731500f9a293f0106619f16a7d" alt="" width="50" /> | Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 "Moonlight": III. Presto agitato | Beethoven: Piano Sonatas "Moonlight"; "Appassionata"; "Pathétique" | [Ludwig van Beethoven](overview.md), [Vladimir Ashkenazy](../vladimir_ashkenazy/overview.md) | [Decca Music Group Ltd.](../../labels/decca_music_group_ltd_) | 955 | | [🔗](https://open.spotify.com/track/65EtDy80IN2jnroVPhiOtx) |

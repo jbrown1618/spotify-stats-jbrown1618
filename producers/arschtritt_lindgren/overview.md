@@ -64,7 +64,7 @@
 | August Rigo | August Rigo | 1 |
 | 구혜진 | [구혜진 (Gu, Hye-jin)](../구혜진_(gu,_hye-jin)/overview.md) | 1 |
 | earattack | [earattack](../earattack/overview.md) | 1 |
-| 이상엽 | 이상엽 (Lee, Sang-yeob) | 1 |
+| 이상엽 | [이상엽 (Lee, Sang-yeob)](../이상엽_(lee,_sang-yeob)/overview.md) | 1 |
 | Mr. Franks | Mr. Franks | 1 |
 | Candace Sosa | Candace Sosa | 1 |
 | 홍장미 | 홍장미 (Hong, Jangmi) | 1 |

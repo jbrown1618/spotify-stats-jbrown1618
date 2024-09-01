@@ -17,7 +17,7 @@
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c6952f39ba680489149a54c" alt="" width="50" /> | 9 | 4 | 4 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | | 427 | 1 | 1 | Felix (Stray Kids) | [🔗](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfbdd3f060e1cbe9e8eeaecac" alt="" width="50" /> | 141 | 1 | 1 | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfbdd3f060e1cbe9e8eeaecac" alt="" width="50" /> | 139 | 1 | 1 | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
 
 ## Works with Producers
 
@@ -55,7 +55,7 @@
 | Paulina Cerrilla | Paulina Cerrilla | 1 |
 | Jake Torrey | Jake Torrey | 1 |
 | Nina Ann Nelson | Nina Ann Nelson | 1 |
-| 이상엽 | 이상엽 (Lee, Sang-yeob) | 1 |
+| 이상엽 | [이상엽 (Lee, Sang-yeob)](../이상엽_(lee,_sang-yeob)/overview.md) | 1 |
 | Daniel Seavey | Daniel Seavey | 1 |
 | GG Ramirez | GG Ramirez | 1 |
 | Sophia Pae | Sophia Pae | 1 |

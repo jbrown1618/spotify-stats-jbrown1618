@@ -111,7 +111,7 @@
 | Pdogg | [Pdogg](../pdogg/overview.md) | 1 |
 | Manny Marroquin | [Manny Marroquin](../manny_marroquin/overview.md) | 1 |
 | 김채아 | 김채아 (Kim, Chae-ah) | 1 |
-| 이상엽 | 이상엽 (Lee, Sang-yeob) | 1 |
+| 이상엽 | [이상엽 (Lee, Sang-yeob)](../이상엽_(lee,_sang-yeob)/overview.md) | 1 |
 | 백새임 | 백새임 (Baek, Sae-im) | 1 |
 | 아르마딜로 | 아르마딜로 (Armadillo) | 1 |
 | 우민정 | 우민정 (Umin, Je-ong) | 1 |

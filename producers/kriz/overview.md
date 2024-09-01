@@ -83,7 +83,7 @@
 | 구혜진 | [구혜진 (Gu, Hye-jin)](../구혜진_(gu,_hye-jin)/overview.md) | 1 |
 | Andre Davidson | Andre Davidson | 1 |
 | 황현 | 황현 (Hwang, Hyeon) | 1 |
-| 이상엽 | 이상엽 (Lee, Sang-yeob) | 1 |
+| 이상엽 | [이상엽 (Lee, Sang-yeob)](../이상엽_(lee,_sang-yeob)/overview.md) | 1 |
 | Soaky Siren | Soaky Siren | 1 |
 | Sean Davidson | Sean Davidson | 1 |
 | Bård Bonsaksen | Bård Bonsaksen (Bonsaken, Bård) | 1 |

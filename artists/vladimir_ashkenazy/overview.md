@@ -9,7 +9,7 @@
 [See Clusters](clusters/overview.md)
 
 ## Artist Rank
-- The #147 artist of all time
+- The #148 artist of all time
 
 ![Rank of Vladimir Ashkenazy over time](../../images/artists/vladimir_ashkenazy/rank_time_series.png)
 ## Top Albums

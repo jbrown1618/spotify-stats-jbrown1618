@@ -14,7 +14,7 @@ Kendrick Lamar:
 - is also known as OKLAMA
 
 ## Artist Rank
-- The #293 artist of all time
+- The #294 artist of all time
 
 ![Rank of Kendrick Lamar over time](../../images/artists/kendrick_lamar/rank_time_series.png)
 ## Top Albums

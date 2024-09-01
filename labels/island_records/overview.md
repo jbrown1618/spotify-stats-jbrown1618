@@ -16,7 +16,7 @@ Appears as:
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcde5a0d57c1b79de5fce6bee" alt="" width="50" /> | 265 | 2 | 2 | Chappell Roan | [🔗](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcde5a0d57c1b79de5fce6bee" alt="" width="50" /> | 264 | 2 | 2 | Chappell Roan | [🔗](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe053b8338322b9c8609ee7ae" alt="" width="50" /> | 427 | 2 | 2 | Sabrina Carpenter | [🔗](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd56712ef06c48938329731e1" alt="" width="50" /> | 312 | 3 | 1 | Shawn Mendes | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe6f96cf550aeaf3a51d6a0bb" alt="" width="50" /> | 199 | 3 | 1 | keshi | [🔗](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) |
@@ -37,7 +37,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6" alt="" width="50" /> | 630 | 1 | 1 | The Rise and Fall of a Midwest Princess | 2023-09-22 | [🔗](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de84adf0e48248ea2d769c3e" alt="" width="50" /> | 630 | 1 | 1 | Please Please Please | 2024-06-06 | [🔗](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521" alt="" width="50" /> | 630 | 1 | 1 | Illuminate (Deluxe) | 2017-04-20 | [🔗](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7" alt="" width="50" /> | 328 | 1 | 1 | Good Luck, Babe! | 2024-04-05 | [🔗](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7" alt="" width="50" /> | 329 | 1 | 1 | Good Luck, Babe! | 2024-04-05 | [🔗](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273659cd4673230913b3918e0d5" alt="" width="50" /> | 630 | 1 | 1 | Espresso | 2024-04-12 | [🔗](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738cae5034066af45cdfbc4266" alt="" width="50" /> | 630 | 1 | 1 | Church Of Scars | 2018-04-20 | [🔗](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737cdb143bd2e9906d39c5eb04" alt="" width="50" /> | 630 | 1 | 1 | Carencro | 2004-08-03 | [🔗](https://open.spotify.com/album/15dP7BadtY55t9VvFlVrBA) |
@@ -137,7 +137,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7" alt="" width="50" /> | Good Luck, Babe! | Good Luck, Babe! | Chappell Roan | [Chappell Roan PS/ Island](.) | 464 | 💚 | [🔗](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7" alt="" width="50" /> | Good Luck, Babe! | Good Luck, Babe! | Chappell Roan | [Chappell Roan PS/ Island](.) | 463 | 💚 | [🔗](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="" width="50" /> | All These Things That I've Done | Hot Fuss | The Killers | [Island Records](.) | 955 | | [🔗](https://open.spotify.com/track/5vollujufHY0jMZxx77VWr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d" alt="" width="50" /> | Mr. Brightside | Hot Fuss | The Killers | [Island Records](.) | 955 | | [🔗](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737cdb143bd2e9906d39c5eb04" alt="" width="50" /> | Home | Carencro | Marc Broussard | [Island Records](.) | 955 | 💚 | [🔗](https://open.spotify.com/track/1XhzO8cuPaqsqUKw92Wbwc) |

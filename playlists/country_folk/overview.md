@@ -18,7 +18,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb43d9d87bba466538f5c40901" alt="" width="50" /> | 427 | 3 | 3 | The Chicks | [🔗](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb94a8326675bfcafb20f0a235" alt="" width="50" /> | 427 | 4 | 2 | Johnny Cash | [🔗](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9dadab92d8236e846b16fe3a" alt="" width="50" /> | 427 | 4 | 2 | Mumford & Sons | [🔗](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae8ba82eaf7e63af515c9f" alt="" width="50" /> | 296 | 2 | 2 | The Civil Wars | [🔗](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0bae8ba82eaf7e63af515c9f" alt="" width="50" /> | 297 | 2 | 2 | The Civil Wars | [🔗](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfec9ac812e7db017a9cbdc98" alt="" width="50" /> | 427 | 6 | 1 | Nickel Creek | [🔗](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb173d4b457016fe0727a7e50d" alt="" width="50" /> | 427 | 3 | 1 | The Band Perry | [🔗](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0075eabc8cb60f363e13d308" alt="" width="50" /> | 427 | 3 | 1 | Chris Thile | [🔗](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) |
@@ -79,7 +79,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d0a13a643d83342430c07da" alt="" width="50" /> | 630 | 3 | 1 | Sigh No More | 2009-10-02 | [🔗](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303668e3f13559554eca8ccc6" alt="" width="50" /> | 630 | 2 | 2 | Play On | 2009 | [🔗](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389847614971c417b722c4d97" alt="" width="50" /> | 630 | 2 | 2 | Home | 2002-08-27 | [🔗](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="" width="50" /> | 376 | 2 | 2 | Barton Hollow | 2011-02-01 | [🔗](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="" width="50" /> | 377 | 2 | 2 | Barton Hollow | 2011-02-01 | [🔗](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735726e327fd968a6fb5974350" alt="" width="50" /> | 630 | 2 | 1 | The Band Perry | 2010-01-01 | [🔗](https://open.spotify.com/album/3dASAcs9QOsmoSLhHjEhCu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27324644751fe5ed07c106115d5" alt="" width="50" /> | 630 | 2 | 1 | How To Grow A Woman From The Ground | 2006-01-01 | [🔗](https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ae87ba9541e21c4e5a5926d" alt="" width="50" /> | 630 | 1 | 1 | The Firewatcher's Daughter | 2015-03-06 | [🔗](https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB) |
@@ -209,16 +209,16 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Marcus Mumford | 2 | Songwriter |
-| | Winston Marshall | 2 | Songwriter |
-| | Ted Dwane | 2 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9dadab92d8236e846b16fe3a" alt="" width="50" /> | Mumford & Sons | 2 | Arranger |
 | | Ruadhri Cushnan | 2 | Producer |
-| | Josh Kear | 2 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb43d9d87bba466538f5c40901" alt="" width="50" /> | The Chicks | 2 | Producer |
-| | Markus Dravs | 2 | Producer |
-| | Chris Tompkins | 2 | Songwriter |
 | | Mark Bright | 2 | Producer |
+| | Charlie Peacock | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9dadab92d8236e846b16fe3a" alt="" width="50" /> | Mumford & Sons | 2 | Arranger |
+| | Ted Dwane | 2 | Songwriter |
+| | John Paul White | 2 | Songwriter |
+| | Gary Paczosa | 2 | Producer |
+| | Markus Dravs | 2 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb43d9d87bba466538f5c40901" alt="" width="50" /> | The Chicks | 2 | Producer |
+| | Chris Tompkins | 2 | Songwriter |
 
 
 <details>
@@ -226,36 +226,37 @@
 
 | Art | Producer | Tracks | Credit Types |
 |:---|:---|---:|:---|
-| | Gary Paczosa | 2 | Producer |
+| | Marcus Mumford | 2 | Songwriter |
+| | Joy Williams | 2 | Songwriter |
+| | Winston Marshall | 2 | Songwriter |
 | | Ben Lovett | 2 | Songwriter |
+| | Josh Kear | 2 | Songwriter |
 | | Eric Bickel | 2 | Producer |
 | | Lloyd Maines | 2 | Producer |
+| | Richie Biggs | 2 | Producer |
 | | Rick Rubin | 2 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb26e35e5ceab6998278006481" alt="" width="50" /> | Brandi Carlile | 1 | Songwriter |
-| | Richie Biggs | 1 | Producer |
-| | Raphael Saadiq | 1 | Producer, Songwriter |
+| | Robin Baynton | 1 | Producer |
 | | David Ferguson | 1 | Producer |
 | | Bruce Robison | 1 | Lyricist, Songwriter |
-| | Dan Wilson | 1 | Lyricist, Songwriter |
-| | Joe Zook | 1 | Producer |
 | | Stevie Nicks | 1 | Lyricist, Songwriter |
-| | Brett James | 1 | Songwriter |
-| | David Campbell | 1 | Arranger |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb26e35e5ceab6998278006481" alt="" width="50" /> | Brandi Carlile | 1 | Songwriter |
+| | Raphael Saadiq | 1 | Producer, Songwriter |
 | | Trent Reznor | 1 | Lyricist, Songwriter |
-| | Robin Baynton | 1 | Producer |
+| | Brett James | 1 | Songwriter |
 | | Hit-Boy | 1 | Producer |
-| | Charlie Peacock | 1 | Producer |
-| | Andrea Roberts | 1 | Producer |
+| | David Campbell | 1 | Arranger |
+| <img src="https://i.scdn.co/image/e7a1396741154b787911a8c6c9ba21a6f5b55a5f" alt="" width="50" /> | Julian Casablancas | 1 | Lyricist, Songwriter |
+| | Joe Zook | 1 | Producer |
 | | Hotae Alexander Jang | 1 | Producer |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0075eabc8cb60f363e13d308" alt="" width="50" /> | Chris Thile | 1 | Songwriter |
 | | Nate Ferraro | 1 | Producer, Songwriter |
 | | Emily Robison | 1 | Lyricist, Songwriter |
 | | Chris Lindsey | 1 | Songwriter |
 | | Lowell | 1 | Songwriter |
+| | Dan Wilson | 1 | Lyricist, Songwriter |
+| | Shannon Sanders | 1 | Producer |
 | | Adam McKenzie | 1 | Songwriter |
-| | Frank Jones | 1 | Producer |
-| | John Silas Cranfield | 1 | Producer |
-| | John Paul White | 1 | Songwriter |
+| | Stuart White | 1 | Producer |
 | | bülow (bülow) | 1 | Songwriter |
 | | Alex Nibley | 1 | Producer |
 | | Chris Testa | 1 | Producer |
@@ -263,15 +264,13 @@
 | | Martie Maguire | 1 | Arranger, Lyricist, Songwriter |
 | | Brian Vincent Bates | 1 | Producer, Songwriter |
 | | Greg Fidelman | 1 | Producer |
-| | Joy Williams | 1 | Songwriter |
 | | John Carter Cash | 1 | Producer |
 | | Tim Hanseroth | 1 | Songwriter |
 | | Richard Dodd | 1 | Producer |
 | | Don Law | 1 | Producer |
 | | Mariel Gomerez | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb247f44069c0bd1781df2f785" alt="" width="50" /> | [Beyoncé](../../artists/beyoncé/overview.md) | 1 | Producer, Songwriter |
-| | Stuart White | 1 | Producer |
 | | Matheus Braz | 1 | Producer |
+| | Andrea Roberts | 1 | Producer |
 | | John Silva | 1 | Producer |
 | | Natalie Maines | 1 | Lyricist, Songwriter |
 | | June Carter Cash | 1 | Songwriter |
@@ -280,8 +279,10 @@
 | | Mike Elizondo | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6d81a16f9d1b2abf04e765a6" alt="" width="50" /> | Carrie Underwood | 1 | Songwriter |
 | | Jim Scott | 1 | Producer |
+| | Frank Jones | 1 | Producer |
 | | Paul Worley | 1 | Producer |
-| | Shannon Sanders | 1 | Producer |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb247f44069c0bd1781df2f785" alt="" width="50" /> | [Beyoncé](../../artists/beyoncé/overview.md) | 1 | Producer, Songwriter |
+| | John Silas Cranfield | 1 | Producer |
 | | Merle Kilgore | 1 | Songwriter |
 
 </details>

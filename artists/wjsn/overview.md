@@ -22,7 +22,7 @@ WJSN:
 - has member 유연정 (Yoo, Yeon-jung)
 
 ## Artist Rank
-- The #248 artist of all time
+- The #250 artist of all time
 
 ![Rank of WJSN over time](../../images/artists/wjsn/rank_time_series.png)
 ## Top Albums

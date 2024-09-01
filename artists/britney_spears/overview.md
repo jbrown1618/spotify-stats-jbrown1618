@@ -5,7 +5,7 @@
 <img src="https://i.scdn.co/image/ab6761610000e5eb3a49b0a3954e460a8a76ed90" alt="Britney Spears" width="100" />
 
 ## Artist Rank
-- The #139 artist of all time
+- The #140 artist of all time
 
 ![Rank of Britney Spears over time](../../images/artists/britney_spears/rank_time_series.png)
 ## Top Albums

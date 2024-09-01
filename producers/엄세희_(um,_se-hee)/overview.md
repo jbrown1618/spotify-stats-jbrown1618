@@ -19,7 +19,7 @@
 | Producer | Producer | Tracks |
 |:---|:---|---:|
 | 구혜진 | [구혜진 (Gu, Hye-jin)](../구혜진_(gu,_hye-jin)/overview.md) | 9 |
-| 이상엽 | 이상엽 (Lee, Sang-yeob) | 8 |
+| 이상엽 | [이상엽 (Lee, Sang-yeob)](../이상엽_(lee,_sang-yeob)/overview.md) | 8 |
 | Sophia Pae | Sophia Pae | 5 |
 | Tony Maserati | [Tony Maserati](../tony_maserati/overview.md) | 4 |
 | 이태섭 | [이태섭 (Lee, Tae-Sub)](../이태섭_(lee,_tae-sub)/overview.md) | 4 |

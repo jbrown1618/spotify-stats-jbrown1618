@@ -19,6 +19,27 @@ None
 
 | track_name | album_name | artist_name | track_popularity | album_popularity | artist_popularity |
 |:---|:---|:---|---:|---:|---:|
+| Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
+| Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": II. Largo | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
+| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
+| Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": I. Allegro non molto | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 40 |
+| Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": III. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
+| Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": III. Allegro (Danza pastorale) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
+| Violin Concerto in G Minor, Op. 8, No. 2, RV 315 "L'estate": III. Presto (Tempo impetuoso d'estate) | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 40 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
+| Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": I. Allegro non molto - Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
+| Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": II. Adagio - Presto - Adagio | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
+| Violin Concerto in E Major, Op. 8, No. 1, RV 269 "La Primavera": I. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
+| Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": II. Largo | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
+| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: II. Largo | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
+| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: III. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
+| Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": I. Allegro (Ballo, e canto de' villanelli) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
+| Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": III. Allegro (La caccia) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 32 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 32 |
+| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 32 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 86 |
 | Moonlight | D-2 | Agust D | 0 | 2 | 78 |
 | Daechwita | D-2 | Agust D | 1 | 2 | 78 |
@@ -67,12 +88,10 @@ None
 | Somebody To Love | A Day At The Races | Queen | 0 | 0 | 85 |
 | Don't Stop Me Now | Jazz | Queen | 1 | 1 | 85 |
 | A Kind Of Magic | A Kind Of Magic | Queen | 0 | 0 | 85 |
-| RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 58 |
+| RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 59 |
 | RED | RED | The Rose | 0 | 0 | 62 |
 | She′s In The Rain | Dawn | The Rose | 0 | 0 | 62 |
 | Sorry | Sorry | The Rose | 0 | 0 | 62 |
-| I’m Not The Only One (feat. TAEYEON) | I’m Not The Only One (feat. TAEYEON) | Sam Smith | 0 | 0 | 83 |
-| I’m Not The Only One (feat. TAEYEON) | I’m Not The Only One (feat. TAEYEON) | TAEYEON | 0 | 0 | 65 |
 | Pokerap | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 55 |
 | Pokemon Theme | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 55 |
 | Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 53 |
@@ -129,7 +148,7 @@ None
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 72 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 72 |
 | Call Me Mother | American | RuPaul | 0 | 0 | 56 |
-| Lose | Love Synonym #2 : Right for Us | WONHO | 0 | 0 | 43 |
+| Lose | Love Synonym #2 : Right for Us | WONHO | 0 | 0 | 44 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 66 |
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 44 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 56 |

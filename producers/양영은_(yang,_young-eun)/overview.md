@@ -84,7 +84,7 @@
 | Avin | Avin | 1 |
 | George Tizzard | George Tizzard | 1 |
 | 이스란 | 이스란 (Lee, Seran) | 1 |
-| EDEN | EDEN | 1 |
+| EDEN | [EDEN](../eden/overview.md) | 1 |
 | 김수정 | 김수정 (김수정) | 1 |
 | 강선영 | 강선영 (강선영) | 1 |
 | LOSTBOY | LOSTBOY | 1 |

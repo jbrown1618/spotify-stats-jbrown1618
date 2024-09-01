@@ -4,35 +4,35 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Arranger | 24 |
+| Arranger | 25 |
 | Instrument | 12 |
-| Lyricist | 25 |
+| Lyricist | 26 |
 | Producer | 5 |
-| Songwriter | 26 |
-| Vocal | 23 |
+| Songwriter | 27 |
+| Vocal | 24 |
 
 ## Produces for Artists
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2e75abbdf622da095f8b21cd" alt="" width="50" /> | 29 | 11 | 11 | [Dreamcatcher](../../artists/dreamcatcher/overview.md) | [🔗](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf8ae485831cf4c3a568dc313" alt="" width="50" /> | 46 | 3 | 3 | [ATEEZ](../../artists/ateez/overview.md) | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf8ae485831cf4c3a568dc313" alt="" width="50" /> | 46 | 4 | 4 | [ATEEZ](../../artists/ateez/overview.md) | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e1bde2755f73cbd55745b781" alt="" width="50" /> | 427 | 1 | 1 | Dalshabet | [🔗](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) |
 
 ## Works with Producers
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Ollounder | [Ollounder](../ollounder/overview.md) | 14 |
+| Ollounder | [Ollounder](../ollounder/overview.md) | 15 |
 | 김석민 | 김석민 (Kim Seog-min) | 9 |
 | 정창현 | 정창현 (Jung, Chang-hyun) | 6 |
-| 정은경 | [정은경 (Jung, Eun-Kyung)](../정은경_(jung,_eun-kyung)/overview.md) | 3 |
-| 김홍중 | 김홍중 (Kim, Hong Joong) | 3 |
-| EDEN | EDEN | 3 |
-| 송민기 | 송민기 (Song, Mingi) | 3 |
+| 정은경 | [정은경 (Jung, Eun-Kyung)](../정은경_(jung,_eun-kyung)/overview.md) | 4 |
+| 송민기 | 송민기 (Song, Mingi) | 4 |
+| EDEN | [EDEN](../eden/overview.md) | 4 |
+| 김홍중 | 김홍중 (Kim, Hong Joong) | 4 |
+| BUDDY | BUDDY | 3 |
 | 김보은 | 김보은 (Kim, Bo-eun) | 2 |
 | 구종필 | [구종필 (Koo, Jong-Pil)](../구종필_(koo,_jong-pil)/overview.md) | 2 |
-| 주선교 | 주선교 (주선교) | 2 |
 
 
 <details>
@@ -40,7 +40,7 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| BUDDY | BUDDY | 2 |
+| 주선교 | 주선교 (주선교) | 2 |
 | Maddox | Maddox | 2 |
 | YOOHYEON | YOOHYEON | 1 |
 | Oliv | Oliv | 1 |
@@ -69,6 +69,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a2c3aee8c15c2f242e60988b" alt="" width="50" /> | JOKER | Arranger, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5911f62f0fe24713fb9d0c8" alt="" width="50" /> | Deja Vu | Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5911f62f0fe24713fb9d0c8" alt="" width="50" /> | Silent Night | Arranger, Lyricist, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273decdd40044544f29075673d2" alt="" width="50" /> | WONDERLAND | Arranger, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273be3a0f924ad08d95b4e25d9f" alt="" width="50" /> | Answer | Arranger, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273107ade016c96b4769c200bc4" alt="" width="50" /> | Red Sun | Arranger, Lyricist, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273994278a5092323151972886f" alt="" width="50" /> | BOCA | Arranger, Lyricist, Songwriter |

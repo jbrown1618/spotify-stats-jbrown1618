@@ -11,7 +11,7 @@
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb845fb635fad84bdcda4bf51f" alt="" width="50" /> | 45 | 28 | 0 | Howard Shore | [🔗](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb86b13e4d2e65ebf694384ef4" alt="" width="50" /> | 351 | 18 | 0 | John Williams | [🔗](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb86b13e4d2e65ebf694384ef4" alt="" width="50" /> | 352 | 18 | 0 | John Williams | [🔗](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) |
 | <img src="https://i.scdn.co/image/a5976bc0eb1957074043760233d0c0337f12d10e" alt="" width="50" /> | 96 | 6 | 0 | Javier Navarrete | [🔗](https://open.spotify.com/artist/6Ayc7FBYR3HjkGQb7SZrzQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a5d168879568c94e86c61aa" alt="" width="50" /> | 427 | 6 | 0 | [London Symphony Orchestra](../../artists/london_symphony_orchestra/overview.md) | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
 | <img src="https://i.scdn.co/image/225b84731734306443d5ff4cfba929dd2d272715" alt="" width="50" /> | 427 | 2 | 0 | James Galway | [🔗](https://open.spotify.com/artist/774mHr909NkDVeyyXQBQfZ) |
@@ -29,7 +29,7 @@
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb0fcd51414e7bbe85e00b6f" alt="" width="50" /> | 427 | 1 | 0 | Yo-Yo Ma | [🔗](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9945209ac13720afd7eea2e3" alt="" width="50" /> | 427 | 1 | 0 | Michael Giacchino | [🔗](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734fab8d311b449c66ef171009" alt="" width="50" /> | 404 | 1 | 0 | Billy Boyd | [🔗](https://open.spotify.com/artist/1wTKlkGklPb1JMTVUIwAoj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734fab8d311b449c66ef171009" alt="" width="50" /> | 403 | 1 | 0 | Billy Boyd | [🔗](https://open.spotify.com/artist/1wTKlkGklPb1JMTVUIwAoj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e207df84db1918075f9a2bff" alt="" width="50" /> | 427 | 1 | 0 | Viggo Mortensen | [🔗](https://open.spotify.com/artist/11habIRpXVkScDFp3rJrgu) |
 | <img src="https://i.scdn.co/image/f1658bc66d1f99ab6d118f26a2abaf7dc33a272f" alt="" width="50" /> | 427 | 1 | 0 | Itzhak Perlman | [🔗](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA) |
 
@@ -42,8 +42,8 @@
 ## Most and least listened tracks
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 441 | <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | Anduril | 955 | <img src="https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7" alt="The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)" width="50" /> | Helm's Deep |
-| 878 | <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | The Steward of Gondor (feat. Billy Boyd) | 955 | <img src="https://i.scdn.co/image/ab67616d0000b27392f051ce3c585b5c2db21d52" alt="Jurassic Park" width="50" /> | Welcome To Jurassic Park |
+| 443 | <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | Anduril | 955 | <img src="https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7" alt="The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)" width="50" /> | Helm's Deep |
+| 880 | <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | The Steward of Gondor (feat. Billy Boyd) | 955 | <img src="https://i.scdn.co/image/ab67616d0000b27392f051ce3c585b5c2db21d52" alt="Jurassic Park" width="50" /> | Welcome To Jurassic Park |
 | 955 | <img src="https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f" alt="The Lord of the Rings: The Fellowship of the Ring - the Complete Recordings" width="50" /> | The Passing of the Elves | 955 | <img src="https://i.scdn.co/image/ab67616d0000b27334222e48d075ace5ed2c2e9e" alt="Jurassic Park (Soundtrack)" width="50" /> | Theme From Jurassic Park - From "Jurassic Park" Soundtrack |
 | 955 | <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | The Return of the King (feat. Sir James Galway, Viggo Mortensen and Renee Fleming) | 955 | <img src="https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7" alt="The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)" width="50" /> | Breath of Life |
 | 955 | <img src="https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7" alt="The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)" width="50" /> | Samwise the Brave | 955 | <img src="https://i.scdn.co/image/ab67616d0000b273dc83f28e94f98a5605f48529" alt="Star Trek Into Darkness - Music From The Motion Picture" width="50" /> | Star Trek Main Theme |
@@ -57,7 +57,7 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="" width="50" /> | 306 | 10 | 0 | The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack) | 2003-11-24 | [🔗](https://open.spotify.com/album/38x0H9PdY1fHh8EdfPUXqa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="" width="50" /> | 309 | 10 | 0 | The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack) | 2003-11-24 | [🔗](https://open.spotify.com/album/38x0H9PdY1fHh8EdfPUXqa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7" alt="" width="50" /> | 630 | 9 | 0 | The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack) | 2002-12-02 | [🔗](https://open.spotify.com/album/1zIoYLpYOq8d4HFzHJ7vc8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce" alt="" width="50" /> | 630 | 8 | 0 | The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack) | 2001-11-19 | [🔗](https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273efc9678687f602f6102ce520" alt="" width="50" /> | 630 | 6 | 0 | Pan's Labyrinth (Original Motion Picture Soundtrack) | 2006-12-19 | [🔗](https://open.spotify.com/album/5b5tWFo32wYBLMweeiL8vE) |

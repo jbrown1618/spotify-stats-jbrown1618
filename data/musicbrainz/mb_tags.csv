@@ -252,6 +252,7 @@ tag,artist_mbid,mb_tag
 ,9252ca18-015c-484c-ae59-5670784887d3,all 5: dancers - choreographers
 ,9252ca18-015c-484c-ae59-5670784887d3,all 5: singers - songwriters
 ,9252ca18-015c-484c-ae59-5670784887d3,all 5:dancers - choreographers
+,4e34b79b-87e5-4806-9628-d328b8185687,allie x
 ,2f569e60-0a1b-4fb9-95a4-3dc1525d1aad,alliteration
 ,5a85c140-dcf9-4dd2-b2c8-aff0471549f3,alliteration
 ,2882ffa3-dec9-4055-a842-a950728bcb02,aln-sh
@@ -300,6 +301,7 @@ tag,artist_mbid,mb_tag
 ,3377f3bb-60fc-4403-aea9-7e800612e060,alternative pop
 ,3abc7470-3d67-4272-a24c-439f411b42eb,alternative pop
 ,4bdcee62-4902-4773-8cd1-e252e2e31225,alternative pop
+,4e34b79b-87e5-4806-9628-d328b8185687,alternative pop
 ,52494f9b-789d-4467-bcaf-9915e70cc8f6,alternative pop
 ,56a55378-f155-48de-80a5-d80104221267,alternative pop
 ,6f6fd596-76e0-4b82-aa37-f558ac2d337b,alternative pop
@@ -622,6 +624,7 @@ tag,artist_mbid,mb_tag
 ,f09d2950-e3c6-47b2-b21c-2bad2cd3f616,ballad
 ,9252ca18-015c-484c-ae59-5670784887d3,band
 ,9252ca18-015c-484c-ae59-5670784887d3,band ok but the fans suck
+,4e34b79b-87e5-4806-9628-d328b8185687,banks
 ,73e5e69d-3554-40d8-8516-00cb38737a1c,barbadian
 ,7856fdc6-9a6e-48cb-a266-619297e08f6f,baritone saxophone
 ,24f1766e-9635-4d58-a4d4-9413f9f98a4c,baroque
@@ -700,6 +703,7 @@ tag,artist_mbid,mb_tag
 ,f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387,blue-eyed soul
 ,3248ed2d-bada-41b5-a7b6-ac88faa1f1ac,bluegrass
 ,3f7574d9-94f3-46dc-8228-9d7358019d9f,bluegrass
+,87469db6-d67d-45e1-996f-c406596f8cbe,bluegrass
 ,b5179744-f217-4455-9d8b-17b8d4fdeb93,bluegrass
 ,ca452a01-b9db-461d-8e62-23d68747f6ab,bluegrass
 ,e6dbe57d-74cf-4f6e-9e16-ed6cce18baef,bluegrass
@@ -1509,6 +1513,7 @@ tag,artist_mbid,mb_tag
 ,82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751,death by plane crash
 ,02a1df23-ef1b-4891-b4ee-81d2b85024aa,death by suicide
 ,a535e609-f98e-4a11-9ae9-a6f56158e38f,death by suicide
+,4e34b79b-87e5-4806-9628-d328b8185687,deep
 ,3a6c52b4-48ff-4153-afac-0be3c98d9eb5,deep funk
 ,b0ca0d85-24a8-4a00-860d-357ff688b69c,deep funk
 ,70e5098b-c4ae-4cd7-9799-3c1b9b57c753,deep house
@@ -1579,6 +1584,7 @@ tag,artist_mbid,mb_tag
 ,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,downtempo
 ,e4c2b98e-6841-493b-9e11-08e0677635ac,drawer
 ,0039c7ae-e1a7-4a7d-9b49-0cbc716821a6,dream pop
+,4e34b79b-87e5-4806-9628-d328b8185687,dream pop
 ,84803b1d-dcb3-490d-9af5-debbba64a011,dream pop
 ,b7539c32-53e7-4908-bda3-81449c367da6,dream pop
 ,cc197bad-dc9c-440d-a5b5-d52ba2e14234,dream pop
@@ -1699,6 +1705,7 @@ tag,artist_mbid,mb_tag
 ,44c9b496-6be8-4fc0-a127-bb5410a6f63e,electronic
 ,48ec4bb6-47a6-4e2c-8287-7617464eb193,electronic
 ,4b356f05-bcc2-4544-925b-fd9a1bf708be,electronic
+,4e34b79b-87e5-4806-9628-d328b8185687,electronic
 ,5334edc0-5faf-4ca5-b1df-000de3e1f752,electronic
 ,56c4b861-0922-4c3a-a9b9-3bfcb00f8274,electronic
 ,5700dcd4-c139-4f31-aa3e-6382b9af9032,electronic
@@ -1742,6 +1749,7 @@ tag,artist_mbid,mb_tag
 ,fab34286-b8e1-4879-bce3-194e1358fbd2,electronic
 ,ff95eb47-41c4-4f7f-a104-cdc30f02e872,electronic
 ,ffb390b8-8df4-4b72-97d1-7b2fc008a452,electronic
+,4e34b79b-87e5-4806-9628-d328b8185687,electronic pop
 ,8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b,electronic rock
 ,b5179744-f217-4455-9d8b-17b8d4fdeb93,electronic rock
 ,fc7bbf00-fbaa-4736-986b-b3ac0266ca9b,electronic rock
@@ -1780,6 +1788,7 @@ tag,artist_mbid,mb_tag
 ,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,electropop
 ,486067ad-56d6-48b5-957b-d6cfe3e1af73,electropop
 ,4bea512e-c8d9-4a5f-94bc-c01f85505e9b,electropop
+,4e34b79b-87e5-4806-9628-d328b8185687,electropop
 ,516cef4d-0718-4007-9939-f9b38af3f784,electropop
 ,52494f9b-789d-4467-bcaf-9915e70cc8f6,electropop
 ,54fc0558-12b5-4854-9d57-9441bcd73a72,electropop
@@ -1829,6 +1838,7 @@ tag,artist_mbid,mb_tag
 ,44cf61b8-5197-448a-b82b-cef6ee89fac5,emo-pop
 ,516cef4d-0718-4007-9939-f9b38af3f784,emo-pop
 ,bbc5b66b-d037-4f26-aecf-0b129e7f876a,emo-pop
+,4e34b79b-87e5-4806-9628-d328b8185687,emotional
 ,0383dadf-2a4e-4d10-a46a-e9e041da8eb3,energetic
 ,65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab,energetic
 ,1fc3b7b8-58a3-431f-88cd-31ad1ac05b8d,engineer
@@ -3649,6 +3659,7 @@ tag,artist_mbid,mb_tag
 ,925c7673-0e85-410f-b7e4-d9705a7aa619,musical
 ,980ee2d8-2ee9-407b-b48e-48360fbc7437,musical
 ,9f2ae371-63ad-496e-95ca-f90bad9b5b23,musical
+,4e34b79b-87e5-4806-9628-d328b8185687,mysterious
 ,1733a48f-2045-4b60-9130-aaa9393724a1,n2
 ,506c92c3-0d1f-4bc9-b6ee-848c99ef5fd4,n2
 ,62814dab-64fe-4b70-b870-81c0145ba552,n2
@@ -3913,6 +3924,7 @@ tag,artist_mbid,mb_tag
 ,4c8ead39-b9df-4c56-a27c-51bc049cfd48,pop
 ,4d2956d1-a3f7-44bb-9a41-67563e1a0c94,pop
 ,4d5447d7-c61c-4120-ba1b-d7f471d385b9,pop
+,4e34b79b-87e5-4806-9628-d328b8185687,pop
 ,506c92c3-0d1f-4bc9-b6ee-848c99ef5fd4,pop
 ,52494f9b-789d-4467-bcaf-9915e70cc8f6,pop
 ,525f1f1c-03f0-4bc8-8dfd-e7521f87631b,pop
@@ -4377,6 +4389,7 @@ tag,artist_mbid,mb_tag
 ,83d91898-7763-47d7-b03b-b92132375c47,progressive
 ,b5179744-f217-4455-9d8b-17b8d4fdeb93,progressive
 ,3248ed2d-bada-41b5-a7b6-ac88faa1f1ac,progressive bluegrass
+,87469db6-d67d-45e1-996f-c406596f8cbe,progressive bluegrass
 ,5700dcd4-c139-4f31-aa3e-6382b9af9032,progressive electronic
 ,d694be14-ee6e-4a1b-966e-ff9db23cbb5c,progressive electronic
 ,302bd7b9-d012-4360-897a-93b00c855680,progressive house
@@ -4522,6 +4535,7 @@ tag,artist_mbid,mb_tag
 ,3dda8202-ce15-4031-862a-77bc6759d15e,r&b
 ,41e9a77b-aa0e-4b86-a223-dc903f41b0bd,r&b
 ,423f606b-f71c-4262-8575-a3293218e8b3,r&b
+,4e34b79b-87e5-4806-9628-d328b8185687,r&b
 ,4f0cb3b7-6c06-4317-ae35-ddf3106a17ee,r&b
 ,4f29ecd7-21a5-4c03-b9ba-d0cfe9488f8c,r&b
 ,52494f9b-789d-4467-bcaf-9915e70cc8f6,r&b
@@ -5962,6 +5976,7 @@ tag,artist_mbid,mb_tag
 ,3abc7470-3d67-4272-a24c-439f411b42eb,synth-pop
 ,486067ad-56d6-48b5-957b-d6cfe3e1af73,synth-pop
 ,4b462375-c508-432a-8c88-ceeec38b16ae,synth-pop
+,4e34b79b-87e5-4806-9628-d328b8185687,synth-pop
 ,54fc0558-12b5-4854-9d57-9441bcd73a72,synth-pop
 ,56a55378-f155-48de-80a5-d80104221267,synth-pop
 ,5700dcd4-c139-4f31-aa3e-6382b9af9032,synth-pop
@@ -6046,6 +6061,7 @@ tag,artist_mbid,mb_tag
 ,e2190b35-1181-44f6-8587-4c04123a6f30,thrash metal
 ,e5fa0175-2e93-4ca7-90c3-33f239381252,tony iommi
 ,b46e298d-d3a5-4695-a03e-63e8c523b23e,toronto
+,4e34b79b-87e5-4806-9628-d328b8185687,tove lo
 ,3248ed2d-bada-41b5-a7b6-ac88faa1f1ac,traditional country
 ,a71b3907-9377-4e5b-a0bd-b5d163fe50ea,traditional country
 ,d43d12a1-2dc9-4257-a2fd-0a3bb1081b86,traditional country
