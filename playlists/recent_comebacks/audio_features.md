@@ -65,8 +65,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734cd7f69b85766b3d3035c27c" alt="Sticky" width="50" /> | Sticky (0.391) | <img src="https://i.scdn.co/image/ab67616d0000b273653887a83332de0350151f10" alt="ROMANCE : UNTOLD" width="50" /> | Brought The Heat Back (0.0109) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="IVE SWITCH" width="50" /> | Ice Queen (0.371) | <img src="https://i.scdn.co/image/ab67616d0000b2730cac27fa1830d50ff4a7a20d" alt="Metamorphic" width="50" /> | Cheeky Icy Thang (0.0128) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733eaf9b3c1c804fec2bb06ac0" alt="&lt;Dall&gt;" width="50" /> | Virtual Angel (0.353) | <img src="https://i.scdn.co/image/ab67616d0000b273f42408abe884b81be4f9121b" alt="Ice Cream" width="50" /> | Ice Cream (0.0157) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734cd7f69b85766b3d3035c27c" alt="Sticky" width="50" /> | Te Quiero (0.299) | <img src="https://i.scdn.co/image/ab67616d0000b27369ad639dd6829cb2414a53f9" alt="RIIZING - The 1st Mini Album" width="50" /> | Boom Boom Bass (0.0194) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="COLOURS" width="50" /> | Honey Honey (0.293) | <img src="https://i.scdn.co/image/ab67616d0000b273f2dff4b6f58682692c0b0beb" alt="ETERNAL" width="50" /> | Sexy In The Air (0.0214) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273485623bc41b6760fc1bca2f4" alt="CRAZY" width="50" /> | Pierrot (0.342) | <img src="https://i.scdn.co/image/ab67616d0000b27369ad639dd6829cb2414a53f9" alt="RIIZING - The 1st Mini Album" width="50" /> | Boom Boom Bass (0.0194) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734cd7f69b85766b3d3035c27c" alt="Sticky" width="50" /> | Te Quiero (0.299) | <img src="https://i.scdn.co/image/ab67616d0000b273f2dff4b6f58682692c0b0beb" alt="ETERNAL" width="50" /> | Sexy In The Air (0.0214) |
 
 ## Instrumentalness
 
@@ -75,15 +75,15 @@
 | ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27355a4b0d253296e5fe7516d45" alt="DARK MOON SPECIAL ALBUM &lt;MEMORABILIA&gt;" width="50" /> | Teeth (0.0385) | <img src="https://i.scdn.co/image/ab67616d0000b27351700837cdbc6adddb88560a" alt="ATE" width="50" /> | Chk Chk Boom (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737e1eeb0d7cc374a168369c80" alt="Supernatural" width="50" /> | Right Now (0.00478) | <img src="https://i.scdn.co/image/ab67616d0000b273c9c9aaadb2d6d3d44be06332" alt="Fe3O4: STICK OUT" width="50" /> | SICKUHH (Feat. Kid Milli) (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738231f3397bc3ac0d89815fa5" alt="Balloon in Love" width="50" /> | Balloon in Love (0.00343) | <img src="https://i.scdn.co/image/ab67616d0000b2732bdd7e53da67e71769c89822" alt="CURIOUS" width="50" /> | Curious (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ec449471d321ade6ee416230" alt="Troubleshooting" width="50" /> | Little Things (0.000348) | <img src="https://i.scdn.co/image/ab67616d0000b27373f05e5c2f5ec5cd07c6b6d9" alt="NA" width="50" /> | ABCD (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27323a426c84e07e245fd609d84" alt="Algorhythm" width="50" /> | No Biggie (0.000319) | <img src="https://i.scdn.co/image/ab67616d0000b27364097227a67397e231047524" alt="Cosmic" width="50" /> | Cosmic (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273485623bc41b6760fc1bca2f4" alt="CRAZY" width="50" /> | CRAZY (0.000291) | <img src="https://i.scdn.co/image/ab67616d0000b27364097227a67397e231047524" alt="Cosmic" width="50" /> | Love Arcade (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273090cfa22962b115ac530674c" alt="Armageddon - The 1st Album" width="50" /> | BAHAMA (0.000192) | <img src="https://i.scdn.co/image/ab67616d0000b273b657fbb27b17e7bd4691c2b2" alt="How Sweet" width="50" /> | Bubble Gum (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273979cf803b9d85291a17882ef" alt="Hot Mess" width="50" /> | Hot Mess (6.3e-05) | <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="IVE SWITCH" width="50" /> | Accendio (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a31bdc2f91075dceca4917b2" alt="Algorithm" width="50" /> | Algorithm (1.15e-05) | <img src="https://i.scdn.co/image/ab67616d0000b27351700837cdbc6adddb88560a" alt="ATE" width="50" /> | twilight (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737e76c17cfbc723800452a24f" alt="Touch" width="50" /> | Touch (1.03e-05) | <img src="https://i.scdn.co/image/ab67616d0000b2736c498180e56f57e7d7bcdb86" alt="SEVENTEEN BEST ALBUM &#x27;17 IS RIGHT HERE&#x27;" width="50" /> | Cheers to youth (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273485623bc41b6760fc1bca2f4" alt="CRAZY" width="50" /> | Pierrot (0.00677) | <img src="https://i.scdn.co/image/ab67616d0000b273c9c9aaadb2d6d3d44be06332" alt="Fe3O4: STICK OUT" width="50" /> | SICKUHH (Feat. Kid Milli) (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737e1eeb0d7cc374a168369c80" alt="Supernatural" width="50" /> | Right Now (0.00478) | <img src="https://i.scdn.co/image/ab67616d0000b2732bdd7e53da67e71769c89822" alt="CURIOUS" width="50" /> | Curious (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738231f3397bc3ac0d89815fa5" alt="Balloon in Love" width="50" /> | Balloon in Love (0.00343) | <img src="https://i.scdn.co/image/ab67616d0000b27373f05e5c2f5ec5cd07c6b6d9" alt="NA" width="50" /> | ABCD (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ec449471d321ade6ee416230" alt="Troubleshooting" width="50" /> | Little Things (0.000348) | <img src="https://i.scdn.co/image/ab67616d0000b27364097227a67397e231047524" alt="Cosmic" width="50" /> | Cosmic (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27323a426c84e07e245fd609d84" alt="Algorhythm" width="50" /> | No Biggie (0.000319) | <img src="https://i.scdn.co/image/ab67616d0000b27364097227a67397e231047524" alt="Cosmic" width="50" /> | Love Arcade (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273485623bc41b6760fc1bca2f4" alt="CRAZY" width="50" /> | CRAZY (0.000291) | <img src="https://i.scdn.co/image/ab67616d0000b273b657fbb27b17e7bd4691c2b2" alt="How Sweet" width="50" /> | Bubble Gum (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273090cfa22962b115ac530674c" alt="Armageddon - The 1st Album" width="50" /> | BAHAMA (0.000192) | <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="IVE SWITCH" width="50" /> | Accendio (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273979cf803b9d85291a17882ef" alt="Hot Mess" width="50" /> | Hot Mess (6.3e-05) | <img src="https://i.scdn.co/image/ab67616d0000b27351700837cdbc6adddb88560a" alt="ATE" width="50" /> | twilight (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a31bdc2f91075dceca4917b2" alt="Algorithm" width="50" /> | Algorithm (1.15e-05) | <img src="https://i.scdn.co/image/ab67616d0000b2736c498180e56f57e7d7bcdb86" alt="SEVENTEEN BEST ALBUM &#x27;17 IS RIGHT HERE&#x27;" width="50" /> | Cheers to youth (0.0) |
 
 ## Liveness
 

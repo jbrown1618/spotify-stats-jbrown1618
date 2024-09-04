@@ -5,7 +5,7 @@
 <img src="https://i.scdn.co/image/ab6761610000e5eb6f65b0a3af9b1de3b17f7ffb" alt="The 8-Bit Big Band" width="100" />
 
 ## Artist Rank
-- The #146 artist of all time
+- The #148 artist of all time
 
 ![Rank of The 8-Bit Big Band over time](../../images/artists/the_8-bit_big_band/rank_time_series.png)
 ## Top Tracks
@@ -20,7 +20,7 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | 242 | 5 | 5 | Choose Your Character! | 2019-06-24 | [🔗](https://open.spotify.com/album/2d3PcBi2ID1sLe8ZRTmxIi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | 244 | 5 | 5 | Choose Your Character! | 2019-06-24 | [🔗](https://open.spotify.com/album/2d3PcBi2ID1sLe8ZRTmxIi) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -55,8 +55,8 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | Tetris Theme A (From "Tetris") | Choose Your Character! | [The 8-Bit Big Band](overview.md) | The 8-Bit Big Band | 341 | 💚 | [🔗](https://open.spotify.com/track/1Am7PA2PBSqXyiByhm3jao) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | Delfino Plaza (From "Super Mario Sunshine") | Choose Your Character! | [The 8-Bit Big Band](overview.md) | The 8-Bit Big Band | 955 | 💚 | [🔗](https://open.spotify.com/track/2gnqOaI0TpTOg8FufLil3Y) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | Luigi's Mansion Theme (From "Luigi's Mansion") | Choose Your Character! | [The 8-Bit Big Band](overview.md) | The 8-Bit Big Band | 955 | 💚 | [🔗](https://open.spotify.com/track/49IoPNyh5U5rTvegOawXqr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | Still Alive (From "Portal") | Choose Your Character! | [The 8-Bit Big Band](overview.md) | The 8-Bit Big Band | 955 | 💚 | [🔗](https://open.spotify.com/track/0RrhwwIqnfCDPZD7DfWAVj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | Trainer Battle Music (From "Pokémon") | Choose Your Character! | [The 8-Bit Big Band](overview.md) | The 8-Bit Big Band | 955 | 💚 | [🔗](https://open.spotify.com/track/1iM0VDtxxaeU8y5lj7kxkN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | Tetris Theme A (From "Tetris") | Choose Your Character! | [The 8-Bit Big Band](overview.md) | The 8-Bit Big Band | 345 | 💚 | [🔗](https://open.spotify.com/track/1Am7PA2PBSqXyiByhm3jao) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | Delfino Plaza (From "Super Mario Sunshine") | Choose Your Character! | [The 8-Bit Big Band](overview.md) | The 8-Bit Big Band | 954 | 💚 | [🔗](https://open.spotify.com/track/2gnqOaI0TpTOg8FufLil3Y) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | Luigi's Mansion Theme (From "Luigi's Mansion") | Choose Your Character! | [The 8-Bit Big Band](overview.md) | The 8-Bit Big Band | 954 | 💚 | [🔗](https://open.spotify.com/track/49IoPNyh5U5rTvegOawXqr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | Still Alive (From "Portal") | Choose Your Character! | [The 8-Bit Big Band](overview.md) | The 8-Bit Big Band | 954 | 💚 | [🔗](https://open.spotify.com/track/0RrhwwIqnfCDPZD7DfWAVj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | Trainer Battle Music (From "Pokémon") | Choose Your Character! | [The 8-Bit Big Band](overview.md) | The 8-Bit Big Band | 954 | 💚 | [🔗](https://open.spotify.com/track/1iM0VDtxxaeU8y5lj7kxkN) |

@@ -19,27 +19,6 @@ None
 
 | track_name | album_name | artist_name | track_popularity | album_popularity | artist_popularity |
 |:---|:---|:---|---:|---:|---:|
-| Concerto for Violin and Strings in F Major, Op. 8, No. 3, RV 293 "L'autunno": II. Adagio molto (Ubriachi dormienti) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
-| Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": II. Largo | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
-| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: I. (Allegro) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
-| Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": I. Allegro non molto | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 40 |
-| Violin Concerto in F Minor, Op. 8, No. 4, RV 297 "L'inverno": III. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
-| Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": III. Allegro (Danza pastorale) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
-| Violin Concerto in G Minor, Op. 8, No. 2, RV 315 "L'estate": III. Presto (Tempo impetuoso d'estate) | Vivaldi: Four Seasons | Simon Standage | 1 | 2 | 40 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
-| Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": I. Allegro non molto - Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
-| Concerto for Violin and Strings in G Minor, Op. 8, No. 2, RV 315 "L'estate": II. Adagio - Presto - Adagio | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
-| Violin Concerto in E Major, Op. 8, No. 1, RV 269 "La Primavera": I. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
-| Concerto for Violin and Strings in E Major, Op. 8, No. 1, RV 269 "La Primavera": II. Largo | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
-| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: II. Largo | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
-| Concerto for Oboe, Violin, Strings and Continuo in B Flat Major, RV 548: III. Allegro | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
-| Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": I. Allegro (Ballo, e canto de' villanelli) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
-| Violin Concerto in F Major, Op. 8, No. 3, RV 293 "L'autunno": III. Allegro (La caccia) | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Simon Standage | 0 | 2 | 40 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: III. Allegro | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 32 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 32 |
-| Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 32 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 86 |
 | Moonlight | D-2 | Agust D | 0 | 2 | 78 |
 | Daechwita | D-2 | Agust D | 1 | 2 | 78 |
@@ -48,28 +27,21 @@ None
 | Strange (feat. RM) | D-2 | Agust D | 0 | 2 | 78 |
 | Burn It (feat. MAX) | D-2 | MAX | 0 | 2 | 67 |
 | Strange (feat. RM) | D-2 | RM | 0 | 2 | 74 |
-| CRAZY | CRAZY | LE SSERAFIM | 0 | 0 | 77 |
-| Crazier | CRAZY | LE SSERAFIM | 0 | 0 | 77 |
-| Pierrot | CRAZY | LE SSERAFIM | 0 | 0 | 77 |
-| Chasing Lightning | CRAZY | LE SSERAFIM | 0 | 0 | 77 |
-| 1-800-hot-n-fun | CRAZY | LE SSERAFIM | 0 | 0 | 77 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 87 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 80 |
-| Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 69 |
+| Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 70 |
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 54 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 49 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 31 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 65 |
 | Underground | Artemis | Lindsey Stirling | 1 | 2 | 65 |
-| Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 49 |
+| Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 50 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 64 |
 | Sleep-walking | Prequel | Dreamcatcher | 1 | 1 | 61 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 59 |
 | Lone Digger | <|º_º|> | Caravan Palace | 2 | 2 | 61 |
 | Joker | Joker is Alive | Dalshabet | 0 | 0 | 31 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 0 | 0 | 72 |
-| Nothing Else Matters | Metallica | Metallica | 1 | 2 | 83 |
-| Enter Sandman | Metallica | Metallica | 2 | 2 | 83 |
 | Wings | Wings | PIXY | 0 | 0 | 37 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
@@ -94,17 +66,17 @@ None
 | Sorry | Sorry | The Rose | 0 | 0 | 62 |
 | Pokerap | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 55 |
 | Pokemon Theme | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 55 |
-| Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 53 |
+| Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 54 |
 | The Legend Of Zelda: Twilight Princess - Midna's Desperate Hour | Piano/Instrumental Works: Video Game Themes - Volume I | Michael Tai | 0 | 0 | 40 |
 | Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | 0 | 0 | 56 |
 | Just The Way You Are | Little Love - EP | James Smith | 0 | 0 | 52 |
 | I will show you | Invitation | AILEE | 0 | 0 | 58 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 62 |
-| FACE | WOLF | WOOSUNG | 0 | 0 | 58 |
+| FACE | WOLF | WOOSUNG | 0 | 0 | 59 |
 | Star | [12:00] | LOONA | 1 | 1 | 55 |
 | Why Not? | [12:00] | LOONA | 1 | 1 | 55 |
 | Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 55 |
-| That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 53 |
+| That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 54 |
 | The Phantom Of The Opera | Century Child | Nightwish | 0 | 1 | 66 |
 | End Of All Hope | Century Child | Nightwish | 0 | 1 | 66 |
 | Nemo | Once | Nightwish | 0 | 0 | 66 |
@@ -115,14 +87,14 @@ None
 | Just Right | Just Right | GOT7 | 0 | 0 | 59 |
 | If You Do | MAD | GOT7 | 0 | 0 | 59 |
 | You Calling My Name | Call My Name | GOT7 | 0 | 0 | 59 |
-| Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 26 |
+| Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 27 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 76 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 78 |
-| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 72 |
-| Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 60 |
+| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 71 |
+| Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 61 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 73 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 75 |
-| Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 66 |
+| Man in a Movie | SUNRISE | DAY6 | 0 | 1 | 66 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 72 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 78 |
 | I Do | It's Raining | Rain | 0 | 0 | 46 |
@@ -141,7 +113,7 @@ None
 | Who's Your Mama? | 24/34 | Jessi | 0 | 0 | 58 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 73 |
 | My House | No.5 | 2PM | 0 | 0 | 53 |
-| Still Alive | Portal 2: Songs to Test By (Collectors Edition) | Aperture Science Psychoacoustic Laboratories | 0 | 0 | 46 |
+| Still Alive | Portal 2: Songs to Test By (Collectors Edition) | Aperture Science Psychoacoustic Laboratories | 0 | 0 | 47 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 47 |
 | Zelda's Lullaby | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 47 |
 | Song Of Storms | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 47 |
@@ -149,10 +121,10 @@ None
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 72 |
 | Call Me Mother | American | RuPaul | 0 | 0 | 56 |
 | Lose | Love Synonym #2 : Right for Us | WONHO | 0 | 0 | 44 |
-| Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 66 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 44 |
+| Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 67 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 45 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 56 |
-| Toy | Toy | Netta | 2 | 0 | 49 |
+| Toy | Toy | Netta | 1 | 0 | 49 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 46 |
 | 青春修炼手册 | 青春修炼手册 | TFBOYS | 2 | 1 | 42 |
 | Lost Woods | Zelda: Ocarina of Time - Piano | Wesley Sprayue | 0 | 0 | 40 |

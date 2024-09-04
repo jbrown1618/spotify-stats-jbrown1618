@@ -14,8 +14,8 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4" alt="" width="50" /> | 285 | 5 | 5 | [Olivia Rodrigo](../../artists/olivia_rodrigo/overview.md) | [🔗](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcde5a0d57c1b79de5fce6bee" alt="" width="50" /> | 264 | 2 | 2 | Chappell Roan | [🔗](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4" alt="" width="50" /> | 286 | 5 | 5 | [Olivia Rodrigo](../../artists/olivia_rodrigo/overview.md) | [🔗](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcde5a0d57c1b79de5fce6bee" alt="" width="50" /> | 267 | 2 | 2 | Chappell Roan | [🔗](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) |
 
 ## Works with Producers
 
