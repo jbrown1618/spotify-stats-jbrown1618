@@ -242,6 +242,7 @@ spotify:artist:0YrtvWJMgSdVrk3SfNjTbx,alternative rock
 spotify:artist:0YrtvWJMgSdVrk3SfNjTbx,chamber pop
 spotify:artist:0YrtvWJMgSdVrk3SfNjTbx,indie rock
 spotify:artist:0YrtvWJMgSdVrk3SfNjTbx,indietronica
+spotify:artist:0YrtvWJMgSdVrk3SfNjTbx,modern alternative rock
 spotify:artist:0YrtvWJMgSdVrk3SfNjTbx,modern rock
 spotify:artist:0YrtvWJMgSdVrk3SfNjTbx,seattle indie
 spotify:artist:0YrtvWJMgSdVrk3SfNjTbx,washington indie
@@ -904,7 +905,6 @@ spotify:artist:2CvaqAMMsX576VBehaJ0Wx,k-pop boy group
 spotify:artist:2DO4p3CPDnInsJfg0jFfaF,british orchestra
 spotify:artist:2DO4p3CPDnInsJfg0jFfaF,chamber orchestra
 spotify:artist:2EjrRJZBrUhYqcgmYF69N1,classic soundtrack
-spotify:artist:2EjrRJZBrUhYqcgmYF69N1,vintage broadway
 spotify:artist:2F5W6Rsxwzg0plQ0w8dSyt,mandopop
 spotify:artist:2F5W6Rsxwzg0plQ0w8dSyt,taiwan pop
 spotify:artist:2FLqlgckDKdmpBrvLAT5BM,k-pop
@@ -1156,7 +1156,6 @@ spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z,dutch edm
 spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z,edm
 spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z,house
 spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z,pop dance
-spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z,progressive electro house
 spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z,slap house
 spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z,trance
 spotify:artist:2oTW5kYNj4eIgp68Z5W4D9,5th gen k-pop
@@ -1346,6 +1345,7 @@ spotify:artist:3DiDSECUqqY1AuBP8qtaIa,neo soul
 spotify:artist:3DiDSECUqqY1AuBP8qtaIa,pop
 spotify:artist:3DiDSECUqqY1AuBP8qtaIa,r&b
 spotify:artist:3DznKagEU8yMQZR9z33Da5,disco
+spotify:artist:3DznKagEU8yMQZR9z33Da5,quiet storm
 spotify:artist:3E0MPcbZSjfJ1HsnJKXkqd,movie tunes
 spotify:artist:3Exoh42YMeqnUvYahAGgUE,k-pop boy group
 spotify:artist:3FUY2gzHeIiaesXtOAdB7A,dance pop
@@ -1527,6 +1527,8 @@ spotify:artist:3diftVOq7aEIebXKkC34oR,indie viet
 spotify:artist:3diftVOq7aEIebXKkC34oR,v-pop
 spotify:artist:3diftVOq7aEIebXKkC34oR,vietnamese hip hop
 spotify:artist:3diftVOq7aEIebXKkC34oR,vietnamese melodic rap
+spotify:artist:3e0aTvNjIG93ye2YlL90UF,classic korean pop
+spotify:artist:3e0aTvNjIG93ye2YlL90UF,korean city pop
 spotify:artist:3e7awlrlDSwF3iM0WBjGMp,girl group
 spotify:artist:3e7awlrlDSwF3iM0WBjGMp,pop
 spotify:artist:3e7awlrlDSwF3iM0WBjGMp,talent show
@@ -2085,6 +2087,9 @@ spotify:artist:50co4Is1HCEo8bhOyUWKpn,gangster rap
 spotify:artist:50co4Is1HCEo8bhOyUWKpn,melodic rap
 spotify:artist:50co4Is1HCEo8bhOyUWKpn,rap
 spotify:artist:50co4Is1HCEo8bhOyUWKpn,trap
+spotify:artist:51Blml2LZPmy7TTiAg47vQ,irish rock
+spotify:artist:51Blml2LZPmy7TTiAg47vQ,permanent wave
+spotify:artist:51Blml2LZPmy7TTiAg47vQ,rock
 spotify:artist:523y9KSneKh6APd1hKxLuF,bolobedu house
 spotify:artist:523y9KSneKh6APd1hKxLuF,south african house
 spotify:artist:528Rcthd9JqtIrlbrGKNsG,a cappella
@@ -2306,6 +2311,7 @@ spotify:artist:5fMUXHkw8R8eOP2RNVYEZX,edm
 spotify:artist:5fMUXHkw8R8eOP2RNVYEZX,electro house
 spotify:artist:5fMUXHkw8R8eOP2RNVYEZX,moombahton
 spotify:artist:5fMUXHkw8R8eOP2RNVYEZX,pop dance
+spotify:artist:5fRiVl9fyhUEZhcpMyIxUG,hollywood
 spotify:artist:5fRiVl9fyhUEZhcpMyIxUG,operatic pop
 spotify:artist:5gCRApTajqwbnHHPbr2Fpi,crunk
 spotify:artist:5gCRApTajqwbnHHPbr2Fpi,memphis hip hop
@@ -2699,7 +2705,6 @@ spotify:artist:6ZhCKGX2nkK7s8vdUvaocx,chinese idol pop
 spotify:artist:6ZjFtWeHP9XN7FeKSUe80S,adult standards
 spotify:artist:6ZjFtWeHP9XN7FeKSUe80S,easy listening
 spotify:artist:6ZjFtWeHP9XN7FeKSUe80S,lounge
-spotify:artist:6ZjFtWeHP9XN7FeKSUe80S,swing
 spotify:artist:6ZpL3BxODab84CTGSL7UO8,show tunes
 spotify:artist:6aLdhHUqgdKE86xbtNmY8g,k-pop
 spotify:artist:6aLdhHUqgdKE86xbtNmY8g,korean r&b
@@ -2978,7 +2983,6 @@ spotify:artist:78sJswwVn4P8aEhkF4K6fQ,k-pop
 spotify:artist:78sJswwVn4P8aEhkF4K6fQ,korean r&b
 spotify:artist:790FomKkXshlbRYZFtlgla,reggaeton
 spotify:artist:790FomKkXshlbRYZFtlgla,reggaeton colombiano
-spotify:artist:790FomKkXshlbRYZFtlgla,trap latino
 spotify:artist:790FomKkXshlbRYZFtlgla,urbano latino
 spotify:artist:791Z3924aa619hZ3xsOJEx,ethereal wave
 spotify:artist:791Z3924aa619hZ3xsOJEx,scottish indie

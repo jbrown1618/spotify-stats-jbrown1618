@@ -29,7 +29,7 @@
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb38fb34aecda1243390324d36" alt="" width="50" /> | 427 | 4 | 0 | The Clef Hangers | [🔗](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb504c57086f85855719dba0e3" alt="" width="50" /> | 427 | 3 | 0 | Tufts Beelzebubs | [🔗](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ab5fe6898b34c6fb3d546bf" alt="" width="50" /> | 427 | 3 | 0 | The Virginia Sil'hooettes | [🔗](https://open.spotify.com/artist/0LKgClZwZKGhM5BkCzjfMX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb928021b126a94af7215b7a40" alt="" width="50" /> | 427 | 3 | 0 | The Virginia Sil'hooettes | [🔗](https://open.spotify.com/artist/0LKgClZwZKGhM5BkCzjfMX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3d31148f43345a656ba8ae76" alt="" width="50" /> | 427 | 2 | 0 | The Dartmouth Aires | [🔗](https://open.spotify.com/artist/71Cez1b1NqsxIn5u8XNiQD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9f0ec2e6469f7552d8a7ea63" alt="" width="50" /> | 427 | 2 | 0 | University of Rochester YellowJackets | [🔗](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d08d9641afbcd0d13f58127" alt="" width="50" /> | 427 | 2 | 0 | The Pitchforks | [🔗](https://open.spotify.com/artist/5IPABE7EhPLvUVsgM3dlZ8) |
@@ -63,31 +63,31 @@
 ## Most and least listened tracks
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 954 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | We Found Love | 954 | <img src="https://i.scdn.co/image/ab67616d0000b273759fbdcd40288d874a398749" alt="RISE" width="50" /> | Alive |
-| 954 | <img src="https://i.scdn.co/image/ab67616d0000b27379b679128839141600389209" alt="Stages" width="50" /> | Say Something | 954 | <img src="https://i.scdn.co/image/ab67616d0000b27375a9edcf7286612325a1f713" alt="Voices Only 2009 College A Cappella (Disc 1)" width="50" /> | La Camisa Negra |
-| 954 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="BOCA 2012: Best Of College A Cappella" width="50" /> | Brand New Jones | 954 | <img src="https://i.scdn.co/image/ab67616d0000b273b7d3410c326df5c5af0179f6" alt="Songs for Padded Rooms" width="50" /> | Cry Me a River |
-| 954 | <img src="https://i.scdn.co/image/ab67616d0000b27334ceeb441ebadc373617e460" alt="Breakdown!" width="50" /> | Closer | 954 | <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="BOCA 2008: Best Of College A Cappella" width="50" /> | Does He Love You? |
-| 954 | <img src="https://i.scdn.co/image/ab67616d0000b27381514ee26162b9fed3c39be7" alt="Pitch Slapped - EP" width="50" /> | Without Your Love | 954 | <img src="https://i.scdn.co/image/ab67616d0000b273341eba1095eb8daa8ffa9040" alt="Unbound" width="50" /> | She Used to Be Mine |
-| 954 | <img src="https://i.scdn.co/image/ab67616d0000b273e49dba8b71933913e6d8cc3f" alt="Wavelength" width="50" /> | Crazy In Love | 954 | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Counting Stars |
-| 954 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="BOCA 2012: Best Of College A Cappella" width="50" /> | Phoenix | 954 | <img src="https://i.scdn.co/image/ab67616d0000b27371a67f8f5158f054b136bd8a" alt="Keepin&#x27; it Low Key" width="50" /> | Happy Ending |
-| 954 | <img src="https://i.scdn.co/image/ab67616d0000b273987a99b436a78299e8dcb7dd" alt="Quarter Past" width="50" /> | Blown Away | 954 | <img src="https://i.scdn.co/image/ab67616d0000b273464316473dbcc9d9da236632" alt="VoCabulary" width="50" /> | Wayfaring Stranger |
-| 954 | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="BOCA 2009: Best Of College A Cappella" width="50" /> | Apologize | 954 | <img src="https://i.scdn.co/image/ab67616d0000b273bcad2453bb8a140067a4d4e2" alt="The Party Upstairs" width="50" /> | The Man Who Can't Be Moved |
-| 954 | <img src="https://i.scdn.co/image/ab67616d0000b27334ceeb441ebadc373617e460" alt="Breakdown!" width="50" /> | Isn't She Lovely | 954 | <img src="https://i.scdn.co/image/ab67616d0000b273759fbdcd40288d874a398749" alt="RISE" width="50" /> | Honeymoon Avenue |
+| 957 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="BOCA 2013: Best of College A Cappella" width="50" /> | We Found Love | 957 | <img src="https://i.scdn.co/image/ab67616d0000b273759fbdcd40288d874a398749" alt="RISE" width="50" /> | Alive |
+| 957 | <img src="https://i.scdn.co/image/ab67616d0000b27379b679128839141600389209" alt="Stages" width="50" /> | Say Something | 957 | <img src="https://i.scdn.co/image/ab67616d0000b27375a9edcf7286612325a1f713" alt="Voices Only 2009 College A Cappella (Disc 1)" width="50" /> | La Camisa Negra |
+| 957 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="BOCA 2012: Best Of College A Cappella" width="50" /> | Brand New Jones | 957 | <img src="https://i.scdn.co/image/ab67616d0000b273b7d3410c326df5c5af0179f6" alt="Songs for Padded Rooms" width="50" /> | Cry Me a River |
+| 957 | <img src="https://i.scdn.co/image/ab67616d0000b27334ceeb441ebadc373617e460" alt="Breakdown!" width="50" /> | Closer | 957 | <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="BOCA 2008: Best Of College A Cappella" width="50" /> | Does He Love You? |
+| 957 | <img src="https://i.scdn.co/image/ab67616d0000b27381514ee26162b9fed3c39be7" alt="Pitch Slapped - EP" width="50" /> | Without Your Love | 957 | <img src="https://i.scdn.co/image/ab67616d0000b273341eba1095eb8daa8ffa9040" alt="Unbound" width="50" /> | She Used to Be Mine |
+| 957 | <img src="https://i.scdn.co/image/ab67616d0000b273e49dba8b71933913e6d8cc3f" alt="Wavelength" width="50" /> | Crazy In Love | 957 | <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="BOCA 2015: Best Of College A Cappella" width="50" /> | Counting Stars |
+| 957 | <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="BOCA 2012: Best Of College A Cappella" width="50" /> | Phoenix | 957 | <img src="https://i.scdn.co/image/ab67616d0000b27371a67f8f5158f054b136bd8a" alt="Keepin&#x27; it Low Key" width="50" /> | Happy Ending |
+| 957 | <img src="https://i.scdn.co/image/ab67616d0000b273987a99b436a78299e8dcb7dd" alt="Quarter Past" width="50" /> | Blown Away | 957 | <img src="https://i.scdn.co/image/ab67616d0000b273464316473dbcc9d9da236632" alt="VoCabulary" width="50" /> | Wayfaring Stranger |
+| 957 | <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="BOCA 2009: Best Of College A Cappella" width="50" /> | Apologize | 957 | <img src="https://i.scdn.co/image/ab67616d0000b273bcad2453bb8a140067a4d4e2" alt="The Party Upstairs" width="50" /> | The Man Who Can't Be Moved |
+| 957 | <img src="https://i.scdn.co/image/ab67616d0000b27334ceeb441ebadc373617e460" alt="Breakdown!" width="50" /> | Isn't She Lovely | 957 | <img src="https://i.scdn.co/image/ab67616d0000b273759fbdcd40288d874a398749" alt="RISE" width="50" /> | Honeymoon Avenue |
 
 ## Top Albums
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273987a99b436a78299e8dcb7dd" alt="" width="50" /> | 631 | 8 | 0 | Quarter Past | 2014-11-18 | [🔗](https://open.spotify.com/album/1pScBPjmT5w3s0BTgkdgJy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="" width="50" /> | 631 | 7 | 0 | BOCA 2015: Best Of College A Cappella | 2014-12-19 | [🔗](https://open.spotify.com/album/0gyhBvJs1GiI31cMMmKLnK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27371a67f8f5158f054b136bd8a" alt="" width="50" /> | 631 | 6 | 0 | Keepin' it Low Key | 2013-01-18 | [🔗](https://open.spotify.com/album/4EmdqB8w7gEONRX5QLypQZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bcad2453bb8a140067a4d4e2" alt="" width="50" /> | 631 | 5 | 0 | The Party Upstairs | 2013-12-13 | [🔗](https://open.spotify.com/album/2AIAKP2FxbYNjmwQgAkqZz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381514ee26162b9fed3c39be7" alt="" width="50" /> | 631 | 5 | 0 | Pitch Slapped - EP | 2011-04-08 | [🔗](https://open.spotify.com/album/5I08qbUSg8f48kenQs7Tg6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="" width="50" /> | 631 | 5 | 0 | BOCA 2010: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/3HSd3voAxPxS50UrfInBVJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="" width="50" /> | 631 | 5 | 0 | BOCA 2009: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/50WaSkL4pVvz9Crsca7oNV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="" width="50" /> | 631 | 5 | 0 | BOCA 2008: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/4Z0ju0i47UZ2Y4icq2f3wZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c8896f56a068816ef63165b" alt="" width="50" /> | 631 | 4 | 0 | Off the Hook | 2011-12-10 | [🔗](https://open.spotify.com/album/1wfYTTpHsGxvIjDwsPLAAC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273481636675e5711587db9061d" alt="" width="50" /> | 631 | 4 | 0 | Greene St. | 2016 | [🔗](https://open.spotify.com/album/3qJMqi0VzTFGSDTTMUI5n7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273987a99b436a78299e8dcb7dd" alt="" width="50" /> | 633 | 8 | 0 | Quarter Past | 2014-11-18 | [🔗](https://open.spotify.com/album/1pScBPjmT5w3s0BTgkdgJy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c017a082238a2fe8dfa10419" alt="" width="50" /> | 633 | 7 | 0 | BOCA 2015: Best Of College A Cappella | 2014-12-19 | [🔗](https://open.spotify.com/album/0gyhBvJs1GiI31cMMmKLnK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27371a67f8f5158f054b136bd8a" alt="" width="50" /> | 633 | 6 | 0 | Keepin' it Low Key | 2013-01-18 | [🔗](https://open.spotify.com/album/4EmdqB8w7gEONRX5QLypQZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bcad2453bb8a140067a4d4e2" alt="" width="50" /> | 633 | 5 | 0 | The Party Upstairs | 2013-12-13 | [🔗](https://open.spotify.com/album/2AIAKP2FxbYNjmwQgAkqZz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381514ee26162b9fed3c39be7" alt="" width="50" /> | 633 | 5 | 0 | Pitch Slapped - EP | 2011-04-08 | [🔗](https://open.spotify.com/album/5I08qbUSg8f48kenQs7Tg6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea7720f8e0ae5132dbd20303" alt="" width="50" /> | 633 | 5 | 0 | BOCA 2010: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/3HSd3voAxPxS50UrfInBVJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b3c2c076ef820f59ba15aa0" alt="" width="50" /> | 633 | 5 | 0 | BOCA 2009: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/50WaSkL4pVvz9Crsca7oNV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27315a14fc8ff338e698d645406" alt="" width="50" /> | 633 | 5 | 0 | BOCA 2008: Best Of College A Cappella | 2011-02-15 | [🔗](https://open.spotify.com/album/4Z0ju0i47UZ2Y4icq2f3wZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c8896f56a068816ef63165b" alt="" width="50" /> | 633 | 4 | 0 | Off the Hook | 2011-12-10 | [🔗](https://open.spotify.com/album/1wfYTTpHsGxvIjDwsPLAAC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273481636675e5711587db9061d" alt="" width="50" /> | 633 | 4 | 0 | Greene St. | 2016 | [🔗](https://open.spotify.com/album/3qJMqi0VzTFGSDTTMUI5n7) |
 
 
 <details>
@@ -95,46 +95,46 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27334ceeb441ebadc373617e460" alt="" width="50" /> | 631 | 4 | 0 | Breakdown! | 2009-12-05 | [🔗](https://open.spotify.com/album/7u7dNsbxjcxVoffJELqtCV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="" width="50" /> | 631 | 4 | 0 | BOCA 2014: Best Of College A Cappella | 2014-01-31 | [🔗](https://open.spotify.com/album/7rZoAMtoZ8s5mLIlUTWgVT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730719dbaac955fe41fed564ad" alt="" width="50" /> | 631 | 4 | 0 | 1988 | 2015-05-19 | [🔗](https://open.spotify.com/album/6nktHqHKPt8kT4ozUJvwrs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d260564eafe7ae16b22797a" alt="" width="50" /> | 631 | 3 | 1 | BOCA 2023: Best Of College A Cappella | 2023-02-07 | [🔗](https://open.spotify.com/album/25nFx7zXWcdnh8luicyh38) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b7d3410c326df5c5af0179f6" alt="" width="50" /> | 631 | 3 | 0 | Songs for Padded Rooms | 2011-05-21 | [🔗](https://open.spotify.com/album/0h3bmbpSuD01ha1k52E1uz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273759fbdcd40288d874a398749" alt="" width="50" /> | 631 | 3 | 0 | RISE | 2016-02-09 | [🔗](https://open.spotify.com/album/6V8819n4bdv7dA5mFdCIAo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | 631 | 3 | 0 | BOCA 2013: Best of College A Cappella | 2016 | [🔗](https://open.spotify.com/album/6Pqey2mc4EWSfYNH3bifbO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="" width="50" /> | 631 | 3 | 0 | BOCA 2012: Best Of College A Cappella | 2012-01-01 | [🔗](https://open.spotify.com/album/26eCHp86K2xLQj0B7Cr8he) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e49dba8b71933913e6d8cc3f" alt="" width="50" /> | 631 | 2 | 0 | Wavelength | 2015-04-10 | [🔗](https://open.spotify.com/album/56RyapLbZ4DESHfzD87X7F) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bab336e565eb71bf7860dfcc" alt="" width="50" /> | 631 | 2 | 0 | V | 2018 | [🔗](https://open.spotify.com/album/7wPsYBhUlqtAgPr2hbbmP3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27379b679128839141600389209" alt="" width="50" /> | 631 | 2 | 0 | Stages | 2014-09-21 | [🔗](https://open.spotify.com/album/3mnYoDcAHKx6uA91f7rtAa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304c063cf2fb113fd361d5d34" alt="" width="50" /> | 631 | 2 | 0 | Permit to Harmonize | 2013-03-01 | [🔗](https://open.spotify.com/album/4aHUBNFRDR1DzCO8GULLTD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b16fad8fb09cff04b362139" alt="" width="50" /> | 631 | 2 | 0 | III | 2012-04-12 | [🔗](https://open.spotify.com/album/3iFvXj07Frbs54rK9CzCIo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735a1783df13795d2db2599c7e" alt="" width="50" /> | 631 | 2 | 0 | I Used to Live Alone | 2011-05-21 | [🔗](https://open.spotify.com/album/0AmRRsaQVm5noeAB6LF8yA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27356231fb2f9b79b8ef4e4dcdd" alt="" width="50" /> | 631 | 2 | 0 | Déjà Blue | 2015-04-11 | [🔗](https://open.spotify.com/album/1mZNLR8qY6GhhrnCmtEAv3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a391a593f88024c5cea36b9c" alt="" width="50" /> | 631 | 2 | 0 | Behind Bars | 2007-02-21 | [🔗](https://open.spotify.com/album/40g8iY5VB5sTJ31943mAzQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="" width="50" /> | 631 | 2 | 0 | BOCA 2011: Best Of College A Cappella | 2011-01-11 | [🔗](https://open.spotify.com/album/27d96rqnXRtmrGBGHJzPBh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731bf130ee9a90bd5cce66e40e" alt="" width="50" /> | 631 | 2 | 0 | Almost 8:08 | 2017-09-06 | [🔗](https://open.spotify.com/album/1gbG9XfNmlfNGEnOTH0f6N) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dde0ec88fc58ec6a54ad25a5" alt="" width="50" /> | 631 | 1 | 0 | Voices Only 2013 College A Cappella, Vol. 1 | 2013-08-01 | [🔗](https://open.spotify.com/album/6zr4GyBIMy2GRvIGPflYaK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27375a9edcf7286612325a1f713" alt="" width="50" /> | 631 | 1 | 0 | Voices Only 2009 College A Cappella (Disc 1) | 2009-09-23 | [🔗](https://open.spotify.com/album/20PLlTE6r1hsQrmyhUW7oB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273464316473dbcc9d9da236632" alt="" width="50" /> | 631 | 1 | 0 | VoCabulary | 2016-05-03 | [🔗](https://open.spotify.com/album/6QTtvpKN8GebVCKsx8YRmJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273341eba1095eb8daa8ffa9040" alt="" width="50" /> | 631 | 1 | 0 | Unbound | 2017-07-13 | [🔗](https://open.spotify.com/album/5KqLmDu7Lui1qqdnItWDUs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a244382317586a8decdf240c" alt="" width="50" /> | 631 | 1 | 0 | The Mallard | 2013-04-13 | [🔗](https://open.spotify.com/album/2IV5LQ4DzCjAIVwYZMHYgo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273db17fec53a7c243f7809a328" alt="" width="50" /> | 631 | 1 | 0 | Storming The Castle | 2021-06-09 | [🔗](https://open.spotify.com/album/1wjibXmmViZMNA1HsMo7f6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27372ab17caf31d0387153ec39b" alt="" width="50" /> | 631 | 1 | 0 | Oasis | 2018 | [🔗](https://open.spotify.com/album/1VpHqAIW8Pu343GJa0UpRQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f0811a497b6eaf308d045d29" alt="" width="50" /> | 631 | 1 | 0 | Ignite | 2021-06-28 | [🔗](https://open.spotify.com/album/5O7GFH7FfXuuDlOfNH76Qq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27308006689b908d5d25c188b10" alt="" width="50" /> | 631 | 1 | 0 | ICCA 2016: The Extended Cuts | 2017-01-24 | [🔗](https://open.spotify.com/album/07xYpylAQHOJoHStqUpKwp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273707302925a3cb0f9dbcc23f8" alt="" width="50" /> | 631 | 1 | 0 | House Rules | 2011-04-26 | [🔗](https://open.spotify.com/album/1fHxE6WZL6ouusBW4h9nE4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b6506a5b3e8f6bf816cbc118" alt="" width="50" /> | 631 | 1 | 0 | High Stakes Old Maid | 2016 | [🔗](https://open.spotify.com/album/6sg9WsK06H588Y5VOmwj37) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b4505054d968aab0b77e5646" alt="" width="50" /> | 631 | 1 | 0 | Fixate | 2017-04-08 | [🔗](https://open.spotify.com/album/2wDs6jkrCEPBJLnLLFWt7J) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d287779de0a37b217bc2f7e8" alt="" width="50" /> | 631 | 1 | 0 | Equilibrium | 2013-11-17 | [🔗](https://open.spotify.com/album/6BeTGjWVDQLQhdSM5MBziy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b412efc7cf36157f45463837" alt="" width="50" /> | 631 | 1 | 0 | Disturbia | 2010-11-22 | [🔗](https://open.spotify.com/album/3ypmasyBX16BmWt52owYaN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d19c9f2ae59824a13812de12" alt="" width="50" /> | 631 | 1 | 0 | Defrosted | 2004-04-24 | [🔗](https://open.spotify.com/album/3DLNakCGffrhPaaj9rfepk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273acd107057c2284c39f1c3b27" alt="" width="50" /> | 631 | 1 | 0 | Best of BOCA: The First 20 Years | 2014-04-15 | [🔗](https://open.spotify.com/album/5bcLIouxn2oBiGvf4vvO6u) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733292818e78cd81fa4ba67fd2" alt="" width="50" /> | 631 | 1 | 0 | Before You Go | 2008-12-12 | [🔗](https://open.spotify.com/album/00x5MddnbpBoWJWtubLhHH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c4addfbacd0314054cf87bc9" alt="" width="50" /> | 631 | 1 | 0 | BOCA 2024: Best Of College A Cappella | 2024-01-26 | [🔗](https://open.spotify.com/album/3nNfjbWCSR36pGFaMJ55Wg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273edc2e69064e470718ef065b7" alt="" width="50" /> | 631 | 1 | 0 | BOCA 2022: Best Of College A Cappella | 2022-04-19 | [🔗](https://open.spotify.com/album/46OQnwdqQcfiWMFBl2r3Ot) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | 631 | 1 | 0 | BOCA 2016: Best Of College A Cappella | 2015-12-15 | [🔗](https://open.spotify.com/album/2AOr4esohQurJGXklhRH1a) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273049016d51d8970dc04dbf78f" alt="" width="50" /> | 631 | 1 | 0 | Against the Grain | 2001-04-24 | [🔗](https://open.spotify.com/album/27W6ijbmL6QPNrdQGncwDJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27360fd5c708d2f5956d46888a9" alt="" width="50" /> | 631 | 1 | 0 | A Swing and a Miss | 2018-04-26 | [🔗](https://open.spotify.com/album/0qj5ECfme87sP5anevwf81) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334ceeb441ebadc373617e460" alt="" width="50" /> | 633 | 4 | 0 | Breakdown! | 2009-12-05 | [🔗](https://open.spotify.com/album/7u7dNsbxjcxVoffJELqtCV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737b67b0ad83e8adff4608e918" alt="" width="50" /> | 633 | 4 | 0 | BOCA 2014: Best Of College A Cappella | 2014-01-31 | [🔗](https://open.spotify.com/album/7rZoAMtoZ8s5mLIlUTWgVT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730719dbaac955fe41fed564ad" alt="" width="50" /> | 633 | 4 | 0 | 1988 | 2015-05-19 | [🔗](https://open.spotify.com/album/6nktHqHKPt8kT4ozUJvwrs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d260564eafe7ae16b22797a" alt="" width="50" /> | 633 | 3 | 1 | BOCA 2023: Best Of College A Cappella | 2023-02-07 | [🔗](https://open.spotify.com/album/25nFx7zXWcdnh8luicyh38) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b7d3410c326df5c5af0179f6" alt="" width="50" /> | 633 | 3 | 0 | Songs for Padded Rooms | 2011-05-21 | [🔗](https://open.spotify.com/album/0h3bmbpSuD01ha1k52E1uz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273759fbdcd40288d874a398749" alt="" width="50" /> | 633 | 3 | 0 | RISE | 2016-02-09 | [🔗](https://open.spotify.com/album/6V8819n4bdv7dA5mFdCIAo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | 633 | 3 | 0 | BOCA 2013: Best of College A Cappella | 2016 | [🔗](https://open.spotify.com/album/6Pqey2mc4EWSfYNH3bifbO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e1b50a002c25c92b5cc42de" alt="" width="50" /> | 633 | 3 | 0 | BOCA 2012: Best Of College A Cappella | 2012-01-01 | [🔗](https://open.spotify.com/album/26eCHp86K2xLQj0B7Cr8he) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e49dba8b71933913e6d8cc3f" alt="" width="50" /> | 633 | 2 | 0 | Wavelength | 2015-04-10 | [🔗](https://open.spotify.com/album/56RyapLbZ4DESHfzD87X7F) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bab336e565eb71bf7860dfcc" alt="" width="50" /> | 633 | 2 | 0 | V | 2018 | [🔗](https://open.spotify.com/album/7wPsYBhUlqtAgPr2hbbmP3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27379b679128839141600389209" alt="" width="50" /> | 633 | 2 | 0 | Stages | 2014-09-21 | [🔗](https://open.spotify.com/album/3mnYoDcAHKx6uA91f7rtAa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304c063cf2fb113fd361d5d34" alt="" width="50" /> | 633 | 2 | 0 | Permit to Harmonize | 2013-03-01 | [🔗](https://open.spotify.com/album/4aHUBNFRDR1DzCO8GULLTD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b16fad8fb09cff04b362139" alt="" width="50" /> | 633 | 2 | 0 | III | 2012-04-12 | [🔗](https://open.spotify.com/album/3iFvXj07Frbs54rK9CzCIo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a1783df13795d2db2599c7e" alt="" width="50" /> | 633 | 2 | 0 | I Used to Live Alone | 2011-05-21 | [🔗](https://open.spotify.com/album/0AmRRsaQVm5noeAB6LF8yA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356231fb2f9b79b8ef4e4dcdd" alt="" width="50" /> | 633 | 2 | 0 | Déjà Blue | 2015-04-11 | [🔗](https://open.spotify.com/album/1mZNLR8qY6GhhrnCmtEAv3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a391a593f88024c5cea36b9c" alt="" width="50" /> | 633 | 2 | 0 | Behind Bars | 2007-02-21 | [🔗](https://open.spotify.com/album/40g8iY5VB5sTJ31943mAzQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da81ceb610e54852e16f0e82" alt="" width="50" /> | 633 | 2 | 0 | BOCA 2011: Best Of College A Cappella | 2011-01-11 | [🔗](https://open.spotify.com/album/27d96rqnXRtmrGBGHJzPBh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731bf130ee9a90bd5cce66e40e" alt="" width="50" /> | 633 | 2 | 0 | Almost 8:08 | 2017-09-06 | [🔗](https://open.spotify.com/album/1gbG9XfNmlfNGEnOTH0f6N) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dde0ec88fc58ec6a54ad25a5" alt="" width="50" /> | 633 | 1 | 0 | Voices Only 2013 College A Cappella, Vol. 1 | 2013-08-01 | [🔗](https://open.spotify.com/album/6zr4GyBIMy2GRvIGPflYaK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27375a9edcf7286612325a1f713" alt="" width="50" /> | 633 | 1 | 0 | Voices Only 2009 College A Cappella (Disc 1) | 2009-09-23 | [🔗](https://open.spotify.com/album/20PLlTE6r1hsQrmyhUW7oB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273464316473dbcc9d9da236632" alt="" width="50" /> | 633 | 1 | 0 | VoCabulary | 2016-05-03 | [🔗](https://open.spotify.com/album/6QTtvpKN8GebVCKsx8YRmJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273341eba1095eb8daa8ffa9040" alt="" width="50" /> | 633 | 1 | 0 | Unbound | 2017-07-13 | [🔗](https://open.spotify.com/album/5KqLmDu7Lui1qqdnItWDUs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a244382317586a8decdf240c" alt="" width="50" /> | 633 | 1 | 0 | The Mallard | 2013-04-13 | [🔗](https://open.spotify.com/album/2IV5LQ4DzCjAIVwYZMHYgo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273db17fec53a7c243f7809a328" alt="" width="50" /> | 633 | 1 | 0 | Storming The Castle | 2021-06-09 | [🔗](https://open.spotify.com/album/1wjibXmmViZMNA1HsMo7f6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27372ab17caf31d0387153ec39b" alt="" width="50" /> | 633 | 1 | 0 | Oasis | 2018 | [🔗](https://open.spotify.com/album/1VpHqAIW8Pu343GJa0UpRQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f0811a497b6eaf308d045d29" alt="" width="50" /> | 633 | 1 | 0 | Ignite | 2021-06-28 | [🔗](https://open.spotify.com/album/5O7GFH7FfXuuDlOfNH76Qq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27308006689b908d5d25c188b10" alt="" width="50" /> | 633 | 1 | 0 | ICCA 2016: The Extended Cuts | 2017-01-24 | [🔗](https://open.spotify.com/album/07xYpylAQHOJoHStqUpKwp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273707302925a3cb0f9dbcc23f8" alt="" width="50" /> | 633 | 1 | 0 | House Rules | 2011-04-26 | [🔗](https://open.spotify.com/album/1fHxE6WZL6ouusBW4h9nE4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b6506a5b3e8f6bf816cbc118" alt="" width="50" /> | 633 | 1 | 0 | High Stakes Old Maid | 2016 | [🔗](https://open.spotify.com/album/6sg9WsK06H588Y5VOmwj37) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b4505054d968aab0b77e5646" alt="" width="50" /> | 633 | 1 | 0 | Fixate | 2017-04-08 | [🔗](https://open.spotify.com/album/2wDs6jkrCEPBJLnLLFWt7J) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d287779de0a37b217bc2f7e8" alt="" width="50" /> | 633 | 1 | 0 | Equilibrium | 2013-11-17 | [🔗](https://open.spotify.com/album/6BeTGjWVDQLQhdSM5MBziy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b412efc7cf36157f45463837" alt="" width="50" /> | 633 | 1 | 0 | Disturbia | 2010-11-22 | [🔗](https://open.spotify.com/album/3ypmasyBX16BmWt52owYaN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d19c9f2ae59824a13812de12" alt="" width="50" /> | 633 | 1 | 0 | Defrosted | 2004-04-24 | [🔗](https://open.spotify.com/album/3DLNakCGffrhPaaj9rfepk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273acd107057c2284c39f1c3b27" alt="" width="50" /> | 633 | 1 | 0 | Best of BOCA: The First 20 Years | 2014-04-15 | [🔗](https://open.spotify.com/album/5bcLIouxn2oBiGvf4vvO6u) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733292818e78cd81fa4ba67fd2" alt="" width="50" /> | 633 | 1 | 0 | Before You Go | 2008-12-12 | [🔗](https://open.spotify.com/album/00x5MddnbpBoWJWtubLhHH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c4addfbacd0314054cf87bc9" alt="" width="50" /> | 633 | 1 | 0 | BOCA 2024: Best Of College A Cappella | 2024-01-26 | [🔗](https://open.spotify.com/album/3nNfjbWCSR36pGFaMJ55Wg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273edc2e69064e470718ef065b7" alt="" width="50" /> | 633 | 1 | 0 | BOCA 2022: Best Of College A Cappella | 2022-04-19 | [🔗](https://open.spotify.com/album/46OQnwdqQcfiWMFBl2r3Ot) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c9bde1126c992a7140f4976" alt="" width="50" /> | 633 | 1 | 0 | BOCA 2016: Best Of College A Cappella | 2015-12-15 | [🔗](https://open.spotify.com/album/2AOr4esohQurJGXklhRH1a) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273049016d51d8970dc04dbf78f" alt="" width="50" /> | 633 | 1 | 0 | Against the Grain | 2001-04-24 | [🔗](https://open.spotify.com/album/27W6ijbmL6QPNrdQGncwDJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27360fd5c708d2f5956d46888a9" alt="" width="50" /> | 633 | 1 | 0 | A Swing and a Miss | 2018-04-26 | [🔗](https://open.spotify.com/album/0qj5ECfme87sP5anevwf81) |
 
 </details>
 

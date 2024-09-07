@@ -20,9 +20,9 @@ Michael Jackson:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | 631 | 5 | 4 | Thriller | 1982-11-30 | [🔗](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | 631 | 2 | 1 | Bad (Remastered) | 1987-08-31 | [🔗](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | 631 | 1 | 0 | Off the Wall | 1979-08-10 | [🔗](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | 633 | 5 | 4 | Thriller | 1982-11-30 | [🔗](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | 633 | 2 | 1 | Bad (Remastered) | 1987-08-31 | [🔗](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | 633 | 1 | 0 | Off the Wall | 1979-08-10 | [🔗](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -95,11 +95,11 @@ Michael Jackson:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | Don't Stop 'Til You Get Enough | Off the Wall | [Michael Jackson](overview.md) | [Epic](../../labels/epic) | 954 | | [🔗](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Beat It | Thriller | [Michael Jackson](overview.md) | [Epic](../../labels/epic) | 954 | 💚 | [🔗](https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Billie Jean | Thriller | [Michael Jackson](overview.md) | [Epic](../../labels/epic) | 954 | 💚 | [🔗](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | P.Y.T. (Pretty Young Thing) | Thriller | [Michael Jackson](overview.md) | [Epic](../../labels/epic) | 954 | 💚 | [🔗](https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Thriller | Thriller | [Michael Jackson](overview.md) | [Epic](../../labels/epic) | 954 | 💚 | [🔗](https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Wanna Be Startin' Somethin' | Thriller | [Michael Jackson](overview.md) | [Epic](../../labels/epic) | 954 | | [🔗](https://open.spotify.com/track/1hu2s7qkm5bo03eODpRQO3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Man in the Mirror - 2012 Remaster | Bad (Remastered) | [Michael Jackson](overview.md) | [Epic](../../labels/epic), [Legacy](../../labels/legacy) | 954 | | [🔗](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Smooth Criminal - 2012 Remaster | Bad (Remastered) | [Michael Jackson](overview.md) | [Epic](../../labels/epic), [Legacy](../../labels/legacy) | 954 | 💚 | [🔗](https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | Don't Stop 'Til You Get Enough | Off the Wall | [Michael Jackson](overview.md) | [Epic](../../labels/epic) | 957 | | [🔗](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Beat It | Thriller | [Michael Jackson](overview.md) | [Epic](../../labels/epic) | 957 | 💚 | [🔗](https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Billie Jean | Thriller | [Michael Jackson](overview.md) | [Epic](../../labels/epic) | 957 | 💚 | [🔗](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | P.Y.T. (Pretty Young Thing) | Thriller | [Michael Jackson](overview.md) | [Epic](../../labels/epic) | 957 | 💚 | [🔗](https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Thriller | Thriller | [Michael Jackson](overview.md) | [Epic](../../labels/epic) | 957 | 💚 | [🔗](https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | Wanna Be Startin' Somethin' | Thriller | [Michael Jackson](overview.md) | [Epic](../../labels/epic) | 957 | | [🔗](https://open.spotify.com/track/1hu2s7qkm5bo03eODpRQO3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Man in the Mirror - 2012 Remaster | Bad (Remastered) | [Michael Jackson](overview.md) | [Epic](../../labels/epic), [Legacy](../../labels/legacy) | 957 | | [🔗](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362e97ae5072de10850578af5" alt="" width="50" /> | Smooth Criminal - 2012 Remaster | Bad (Remastered) | [Michael Jackson](overview.md) | [Epic](../../labels/epic), [Legacy](../../labels/legacy) | 957 | 💚 | [🔗](https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j) |
