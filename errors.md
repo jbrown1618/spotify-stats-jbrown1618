@@ -11,7 +11,7 @@ None
 | Joker is Alive [🔗](https://open.spotify.com/album/3jYpoS7JeJ8i8q3OHVNYXZ) | Dalshabet [🔗](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) | 33 | 2015-04-15 | DREAMCATCHER COMPANY | JOKER [🔗](https://open.spotify.com/track/4YB8A1ZnmXnNkfCRBmISqa) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>누구? [🔗](https://open.spotify.com/playlist/4JrgU3rcLuATwzM1jVVgyC) |
 | Joker is Alive [🔗](https://open.spotify.com/album/4vxOwoqNxefHAdZLWVrbmL) | Dalshabet [🔗](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) | 0 | 2015-04-15 | 해피페이스 엔터테인먼트 | Joker [🔗](https://open.spotify.com/track/1067REIdzHeSuEOiiDBefP) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>누구? [🔗](https://open.spotify.com/playlist/4JrgU3rcLuATwzM1jVVgyC) |
 | A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 50 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Retro Kpop [🔗](https://open.spotify.com/playlist/1MW4AAPq55U0XWvSeu1jU5) |
-| A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 44 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 45 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 52 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd),<br>Recommendations for Jeff [🔗](https://open.spotify.com/playlist/5Liek0UOC5GmdOjxdWhcob),<br>Relax [🔗](https://open.spotify.com/playlist/4rnlD7JdUQNdPCBhL69dCg),<br>Your Top Songs 2022 [🔗](https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit) |
 | SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 37 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 
@@ -19,14 +19,14 @@ None
 
 | track_name | album_name | artist_name | track_popularity | album_popularity | artist_popularity |
 |:---|:---|:---|---:|---:|---:|
-| Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 86 |
+| Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 87 |
 | Moonlight | D-2 | Agust D | 0 | 2 | 79 |
 | Daechwita | D-2 | Agust D | 1 | 2 | 79 |
 | Burn It (feat. MAX) | D-2 | Agust D | 0 | 2 | 79 |
 | People | D-2 | Agust D | 1 | 2 | 79 |
 | Strange (feat. RM) | D-2 | Agust D | 0 | 2 | 79 |
 | Burn It (feat. MAX) | D-2 | MAX | 0 | 2 | 67 |
-| Strange (feat. RM) | D-2 | RM | 0 | 2 | 74 |
+| Strange (feat. RM) | D-2 | RM | 0 | 2 | 77 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 87 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 80 |
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 70 |
@@ -36,7 +36,6 @@ None
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 66 |
 | Underground | Artemis | Lindsey Stirling | 1 | 1 | 66 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 50 |
-| Lazy Baby (Feat. pH-1) | abouTZU | pH-1 | 0 | 0 | 58 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 65 |
 | Sleep-walking | Prequel | Dreamcatcher | 1 | 1 | 61 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 59 |
@@ -68,7 +67,7 @@ None
 | Pokerap | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 55 |
 | Pokemon Theme | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 55 |
 | Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 54 |
-| The Legend Of Zelda: Twilight Princess - Midna's Desperate Hour | Piano/Instrumental Works: Video Game Themes - Volume I | Michael Tai | 0 | 0 | 40 |
+| The Legend Of Zelda: Twilight Princess - Midna's Desperate Hour | Piano/Instrumental Works: Video Game Themes - Volume I | Michael Tai | 0 | 0 | 41 |
 | Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | 0 | 0 | 56 |
 | Just The Way You Are | Little Love - EP | James Smith | 0 | 0 | 52 |
 | I will show you | Invitation | AILEE | 0 | 0 | 58 |
@@ -77,19 +76,20 @@ None
 | Cat (Feat. IU) | Cat | Sunwoojunga | 2 | 1 | 46 |
 | Cat (Feat. IU) | Cat | IU | 2 | 1 | 71 |
 | Star | [12:00] | LOONA | 1 | 1 | 55 |
-| Why Not? | [12:00] | LOONA | 1 | 1 | 55 |
+| Why Not? | [12:00] | LOONA | 2 | 1 | 55 |
 | Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 55 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 54 |
 | The Phantom Of The Opera | Century Child | Nightwish | 0 | 1 | 66 |
 | End Of All Hope | Century Child | Nightwish | 0 | 1 | 66 |
 | Nemo | Once | Nightwish | 0 | 0 | 66 |
 | Ya! (feat. Whee In) | Stay As You Are | Whee In | 0 | 0 | 50 |
-| Ya! (feat. Whee In) | Stay As You Are | Sandeul | 0 | 0 | 41 |
+| Ya! (feat. Whee In) | Stay As You Are | Sandeul | 0 | 0 | 42 |
 | Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 0 | 0 | 59 |
 | Lullaby | Present : YOU | GOT7 | 0 | 0 | 59 |
 | Just Right | Just Right | GOT7 | 0 | 0 | 59 |
 | If You Do | MAD | GOT7 | 0 | 0 | 59 |
 | You Calling My Name | Call My Name | GOT7 | 0 | 0 | 59 |
+| Flowers - Cover | Flowers - Cover | YUQI | 0 | 0 | 60 |
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 27 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 76 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 78 |
@@ -125,10 +125,10 @@ None
 | Call Me Mother | American | RuPaul | 0 | 0 | 56 |
 | Lose | Love Synonym #2 : Right for Us | WONHO | 0 | 0 | 44 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 67 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 45 |
-| 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 56 |
-| Toy | Toy | Netta | 2 | 0 | 49 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 46 |
+| 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 57 |
+| Toy | Toy | Netta | 1 | 0 | 49 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 46 |
 | 青春修炼手册 | 青春修炼手册 | TFBOYS | 2 | 1 | 42 |
-| Lost Woods | Zelda: Ocarina of Time - Piano | Wesley Sprayue | 0 | 0 | 40 |
+| Lost Woods | Zelda: Ocarina of Time - Piano | Wesley Sprayue | 0 | 0 | 41 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 54 |

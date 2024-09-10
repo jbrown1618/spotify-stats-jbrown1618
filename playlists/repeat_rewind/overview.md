@@ -13,16 +13,16 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb573935eb61a1897aeb43c531" alt="" width="50" /> | 1 | 4 | 4 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb573935eb61a1897aeb43c531" alt="" width="50" /> | 1 | 3 | 3 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8665a74333bb3ca3fde5c06a" alt="" width="50" /> | 7 | 3 | 3 | [ENHYPEN](../../artists/enhypen/overview.md) | [🔗](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb77f6a3aedfcc4eba07fa14b3" alt="" width="50" /> | 42 | 3 | 3 | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [🔗](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5e97e9ea9133fbfa41e27498" alt="" width="50" /> | 8 | 3 | 3 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | 4 | 3 | 3 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb02a562ea6b1dc718394010ac" alt="" width="50" /> | 2 | 3 | 3 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | 3 | 3 | 3 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6d2c52a7bb1e4582c6340529" alt="" width="50" /> | 16 | 3 | 3 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5e97e9ea9133fbfa41e27498" alt="" width="50" /> | 8 | 2 | 2 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb569026949c9d74d8448c6559" alt="" width="50" /> | 74 | 2 | 2 | [YUQI](../../artists/yuqi/overview.md) | [🔗](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb02a562ea6b1dc718394010ac" alt="" width="50" /> | 2 | 2 | 2 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c6952f39ba680489149a54c" alt="" width="50" /> | 9 | 1 | 1 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ec01c462c51ab9c67572abe" alt="" width="50" /> | 116 | 1 | 1 | Lexie Liu | [🔗](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8939960e5144b51d7903899f" alt="" width="50" /> | 17 | 1 | 1 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd32fab76d88b728b883ebe03" alt="" width="50" /> | 68 | 1 | 1 | [WINTER](../../artists/winter/overview.md) | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 
 
 <details>
@@ -30,15 +30,15 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1402fcb25db7c508972e172d" alt="" width="50" /> | 87 | 1 | 1 | RIIZE | [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8939960e5144b51d7903899f" alt="" width="50" /> | 17 | 1 | 1 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd32fab76d88b728b883ebe03" alt="" width="50" /> | 69 | 1 | 1 | [WINTER](../../artists/winter/overview.md) | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1402fcb25db7c508972e172d" alt="" width="50" /> | 86 | 1 | 1 | RIIZE | [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb75237a1ba0379041476012b3" alt="" width="50" /> | 10 | 1 | 1 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8a258c4d5670bdb521c97eaf" alt="" width="50" /> | 14 | 1 | 1 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a" alt="" width="50" /> | 5 | 1 | 1 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7fd16327c86d500f83be1d6a" alt="" width="50" /> | 6 | 1 | 1 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [🔗](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb569026949c9d74d8448c6559" alt="" width="50" /> | 75 | 1 | 1 | [YUQI](../../artists/yuqi/overview.md) | [🔗](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb66c3e4fa90021cb3de9f6071" alt="" width="50" /> | 90 | 1 | 1 | BANG YEDAM | [🔗](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfbdd3f060e1cbe9e8eeaecac" alt="" width="50" /> | 136 | 1 | 1 | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6d2c52a7bb1e4582c6340529" alt="" width="50" /> | 16 | 1 | 1 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfbdd3f060e1cbe9e8eeaecac" alt="" width="50" /> | 134 | 1 | 1 | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
 
 </details>
 
@@ -57,16 +57,16 @@
 
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 58 | <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="Born to be XX" width="50" /> | [Nobody Knows](../../artists/kiss_of_life/overview.md) | 630 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="The Red Summer - Summer Mini Album" width="50" /> | [Red Flavor](../../artists/red_velvet/overview.md) |
-| 67 | <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="Ice Cream Cake - The 1st Mini Album" width="50" /> | [Ice Cream Cake](../../artists/red_velvet/overview.md) | 513 | <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="ELEVEN" width="50" /> | [ELEVEN](../../artists/ive/overview.md) |
-| 71 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="Palette" width="50" /> | [Jam Jam](../../artists/iu/overview.md) | 472 | <img src="https://i.scdn.co/image/ab67616d0000b27351700837cdbc6adddb88560a" alt="ATE" width="50" /> | [Chk Chk Boom](../../artists/stray_kids/overview.md) |
-| 79 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="INVU - The 3rd Album" width="50" /> | [Toddler](../../artists/taeyeon/overview.md) | 466 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="INVU - The 3rd Album" width="50" /> | [Cold As Hell](../../artists/taeyeon/overview.md) |
-| 105 | <img src="https://i.scdn.co/image/ab67616d0000b273090cfa22962b115ac530674c" alt="Armageddon - The 1st Album" width="50" /> | [Mine](../../artists/aespa/overview.md) | 334 | <img src="https://i.scdn.co/image/ab67616d0000b27373f05e5c2f5ec5cd07c6b6d9" alt="NA" width="50" /> | ABCD |
-| 120 | <img src="https://i.scdn.co/image/ab67616d0000b273bf32f4be80afeb0e1a09b27d" alt="Officially Cool" width="50" /> | Officially Cool | 325 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | [Bicycle](../../artists/chung_ha/overview.md) |
-| 151 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="INVU - The 3rd Album" width="50" /> | [INVU](../../artists/taeyeon/overview.md) | 313 | <img src="https://i.scdn.co/image/ab67616d0000b273653887a83332de0350151f10" alt="ROMANCE : UNTOLD" width="50" /> | [XO (Only If You Say Yes)](../../artists/enhypen/overview.md) |
-| 157 | <img src="https://i.scdn.co/image/ab67616d0000b27307568782625b85282541394b" alt="Midas Touch" width="50" /> | [Midas Touch](../../artists/kiss_of_life/overview.md) | 309 | <img src="https://i.scdn.co/image/ab67616d0000b27366f7b6431ebb26c9b557a96b" alt="I SWAY" width="50" /> | [Klaxon](../../artists/(g)i-dle/overview.md) |
-| 178 | <img src="https://i.scdn.co/image/ab67616d0000b27364097227a67397e231047524" alt="Cosmic" width="50" /> | [Sunflower](../../artists/red_velvet/overview.md) | 299 | <img src="https://i.scdn.co/image/ab67616d0000b2734cd7f69b85766b3d3035c27c" alt="Sticky" width="50" /> | [Sticky](../../artists/kiss_of_life/overview.md) |
-| 187 | <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="YUQ1" width="50" /> | [On Clap](../../artists/yuqi/overview.md) | 292 | <img src="https://i.scdn.co/image/ab67616d0000b273653887a83332de0350151f10" alt="ROMANCE : UNTOLD" width="50" /> | [Hundred Broken Hearts](../../artists/enhypen/overview.md) |
+| 58 | <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="Born to be XX" width="50" /> | [Nobody Knows](../../artists/kiss_of_life/overview.md) | 632 | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="The Red Summer - Summer Mini Album" width="50" /> | [Red Flavor](../../artists/red_velvet/overview.md) |
+| 67 | <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="Ice Cream Cake - The 1st Mini Album" width="50" /> | [Ice Cream Cake](../../artists/red_velvet/overview.md) | 515 | <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="ELEVEN" width="50" /> | [ELEVEN](../../artists/ive/overview.md) |
+| 71 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="Palette" width="50" /> | [Jam Jam](../../artists/iu/overview.md) | 473 | <img src="https://i.scdn.co/image/ab67616d0000b27351700837cdbc6adddb88560a" alt="ATE" width="50" /> | [Chk Chk Boom](../../artists/stray_kids/overview.md) |
+| 77 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="INVU - The 3rd Album" width="50" /> | [Toddler](../../artists/taeyeon/overview.md) | 326 | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | [Bicycle](../../artists/chung_ha/overview.md) |
+| 104 | <img src="https://i.scdn.co/image/ab67616d0000b273090cfa22962b115ac530674c" alt="Armageddon - The 1st Album" width="50" /> | [Mine](../../artists/aespa/overview.md) | 315 | <img src="https://i.scdn.co/image/ab67616d0000b273653887a83332de0350151f10" alt="ROMANCE : UNTOLD" width="50" /> | [XO (Only If You Say Yes)](../../artists/enhypen/overview.md) |
+| 119 | <img src="https://i.scdn.co/image/ab67616d0000b273bf32f4be80afeb0e1a09b27d" alt="Officially Cool" width="50" /> | Officially Cool | 314 | <img src="https://i.scdn.co/image/ab67616d0000b2730cac27fa1830d50ff4a7a20d" alt="Metamorphic" width="50" /> | [Cheeky Icy Thang](../../artists/stayc/overview.md) |
+| 150 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="INVU - The 3rd Album" width="50" /> | [INVU](../../artists/taeyeon/overview.md) | 312 | <img src="https://i.scdn.co/image/ab67616d0000b27373f05e5c2f5ec5cd07c6b6d9" alt="NA" width="50" /> | ABCD |
+| 156 | <img src="https://i.scdn.co/image/ab67616d0000b27307568782625b85282541394b" alt="Midas Touch" width="50" /> | [Midas Touch](../../artists/kiss_of_life/overview.md) | 301 | <img src="https://i.scdn.co/image/ab67616d0000b27366f7b6431ebb26c9b557a96b" alt="I SWAY" width="50" /> | [Klaxon](../../artists/(g)i-dle/overview.md) |
+| 185 | <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="YUQ1" width="50" /> | [On Clap](../../artists/yuqi/overview.md) | 300 | <img src="https://i.scdn.co/image/ab67616d0000b2734cd7f69b85766b3d3035c27c" alt="Sticky" width="50" /> | [Sticky](../../artists/kiss_of_life/overview.md) |
+| 201 | <img src="https://i.scdn.co/image/ab67616d0000b273bc125f40131dd5869b2ec36c" alt="Star To A Young Culture" width="50" /> | [SO BAD](../../artists/stayc/overview.md) | 295 | <img src="https://i.scdn.co/image/ab67616d0000b273653887a83332de0350151f10" alt="ROMANCE : UNTOLD" width="50" /> | [Hundred Broken Hearts](../../artists/enhypen/overview.md) |
 
 </details>
 
@@ -76,16 +76,16 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273090cfa22962b115ac530674c" alt="" width="50" /> | 13 | 4 | 4 | Armageddon - The 1st Album | 2024-05-27 | [🔗](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273653887a83332de0350151f10" alt="" width="50" /> | 147 | 3 | 3 | ROMANCE : UNTOLD | 2024-07-12 | [🔗](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273653887a83332de0350151f10" alt="" width="50" /> | 148 | 3 | 3 | ROMANCE : UNTOLD | 2024-07-12 | [🔗](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | 64 | 3 | 3 | Palette | 2017-04-21 | [🔗](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | 36 | 3 | 3 | INVU - The 3rd Album | 2022-02-14 | [🔗](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | 124 | 1 | 1 | YUQ1 | 2024-04-23 | [🔗](https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | 424 | 1 | 1 | The Red Summer - Summer Mini Album | 2017-07-09 | [🔗](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273090cfa22962b115ac530674c" alt="" width="50" /> | 12 | 3 | 3 | Armageddon - The 1st Album | 2024-05-27 | [🔗](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | 122 | 2 | 2 | YUQ1 | 2024-04-23 | [🔗](https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730cac27fa1830d50ff4a7a20d" alt="" width="50" /> | 165 | 2 | 2 | Metamorphic | 2024-07-01 | [🔗](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | 36 | 2 | 2 | INVU - The 3rd Album | 2022-02-14 | [🔗](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="" width="50" /> | 425 | 1 | 1 | The Red Summer - Summer Mini Album | 2017-07-09 | [🔗](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734cd7f69b85766b3d3035c27c" alt="" width="50" /> | 197 | 1 | 1 | Sticky | 2024-07-01 | [🔗](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bc125f40131dd5869b2ec36c" alt="" width="50" /> | 148 | 1 | 1 | Star To A Young Culture | 2020-11-12 | [🔗](https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27369ad639dd6829cb2414a53f9" alt="" width="50" /> | 172 | 1 | 1 | RIIZING - The 1st Mini Album | 2024-06-17 | [🔗](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | 163 | 1 | 1 | Querencia | 2021-02-15 | [🔗](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bc125f40131dd5869b2ec36c" alt="" width="50" /> | 147 | 1 | 1 | Star To A Young Culture | 2020-11-12 | [🔗](https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27369ad639dd6829cb2414a53f9" alt="" width="50" /> | 169 | 1 | 1 | RIIZING - The 1st Mini Album | 2024-06-17 | [🔗](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) |
 
 
 <details>
@@ -93,15 +93,15 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="" width="50" /> | 164 | 1 | 1 | Querencia | 2021-02-15 | [🔗](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bf32f4be80afeb0e1a09b27d" alt="" width="50" /> | 98 | 1 | 1 | Officially Cool | 2024-04-02 | [🔗](https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27373f05e5c2f5ec5cd07c6b6d9" alt="" width="50" /> | 239 | 1 | 1 | NA | 2024-06-14 | [🔗](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27373f05e5c2f5ec5cd07c6b6d9" alt="" width="50" /> | 227 | 1 | 1 | NA | 2024-06-14 | [🔗](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27307568782625b85282541394b" alt="" width="50" /> | 125 | 1 | 1 | Midas Touch | 2024-04-03 | [🔗](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="" width="50" /> | 62 | 1 | 1 | Ice Cream Cake - The 1st Mini Album | 2015-03-17 | [🔗](https://open.spotify.com/album/27cBQ5FDqv0xLgiJ7qNpZr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27366f7b6431ebb26c9b557a96b" alt="" width="50" /> | 225 | 1 | 1 | I SWAY | 2024-07-08 | [🔗](https://open.spotify.com/album/5WzUVTkKAvOayPui3DnsDz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | 192 | 1 | 1 | GUESS WHO | 2021-04-30 | [🔗](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 212 | 1 | 1 | FANCY YOU | 2019-04-22 | [🔗](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 354 | 1 | 1 | ELEVEN | 2021-12-01 | [🔗](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27364097227a67397e231047524" alt="" width="50" /> | 94 | 1 | 1 | Cosmic | 2024-06-24 | [🔗](https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27366f7b6431ebb26c9b557a96b" alt="" width="50" /> | 219 | 1 | 1 | I SWAY | 2024-07-08 | [🔗](https://open.spotify.com/album/5WzUVTkKAvOayPui3DnsDz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="" width="50" /> | 193 | 1 | 1 | GUESS WHO | 2021-04-30 | [🔗](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 213 | 1 | 1 | FANCY YOU | 2019-04-22 | [🔗](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 355 | 1 | 1 | ELEVEN | 2021-12-01 | [🔗](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | 58 | 1 | 1 | Born to be XX | 2023-11-08 | [🔗](https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27351700837cdbc6adddb88560a" alt="" width="50" /> | 242 | 1 | 1 | ATE | 2024-07-19 | [🔗](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) |
 
@@ -114,16 +114,16 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 11 | 11 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
+| 8 | 8 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 3 | 3 | [S2 ENTERTAINMENT INC.](../../labels/s2_entertainment_inc_/overview.md) |
 | 3 | 3 | [Republic Records](../../labels/republic_records/overview.md) |
+| 3 | 3 | [High Up Entertainment](../../labels/high_up_entertainment/overview.md) |
 | 3 | 3 | Fave Entertainment |
+| 3 | 3 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 3 | 3 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
-| 2 | 2 | [CUBE ENTERTAINMENT](../../labels/cube_entertainment/overview.md) |
 | 1 | 1 | [WM Korea](../../labels/wm_korea/overview.md) |
 | 1 | 1 | [Starship Entertainment](../../labels/starship_entertainment/overview.md) |
 | 1 | 1 | Republic Records – NAYEON (TWICE) |
-| 1 | 1 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 
 
 <details>
@@ -131,8 +131,8 @@
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
+| 1 | 1 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
 | 1 | 1 | [MNH ENTERTAINMENT](../../labels/mnh_entertainment/overview.md) |
-| 1 | 1 | [High Up Entertainment](../../labels/high_up_entertainment/overview.md) |
 
 </details>
 
@@ -145,9 +145,9 @@
 |---:|---:|:---|
 | 15 | 15 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
 | 15 | 15 | [k-pop](../../genres/k-pop/overview.md) |
+| 6 | 6 | [5th gen k-pop](../../genres/5th_gen_k-pop/overview.md) |
 | 5 | 5 | [pop](../../genres/pop/overview.md) |
 | 4 | 4 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
-| 4 | 4 | [5th gen k-pop](../../genres/5th_gen_k-pop/overview.md) |
 | 3 | 3 | [anime](../../genres/anime/overview.md) |
 
 ![Bar chart of top 6 genres](../../images/playlists/repeat_rewind/genres.png)
@@ -231,8 +231,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27351700837cdbc6adddb88560a" alt="ATE" width="50" /> | ATE (2024-07-19) | <img src="https://i.scdn.co/image/ab67616d0000b2733beb8877c3a0cde5be9a139c" alt="Ice Cream Cake - The 1st Mini Album" width="50" /> | Ice Cream Cake - The 1st Mini Album (2015-03-17) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273653887a83332de0350151f10" alt="ROMANCE : UNTOLD" width="50" /> | ROMANCE : UNTOLD (2024-07-12) | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="Palette" width="50" /> | Palette (2017-04-21) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27366f7b6431ebb26c9b557a96b" alt="I SWAY" width="50" /> | I SWAY (2024-07-08) | <img src="https://i.scdn.co/image/ab67616d0000b2738164cd1a2e03b7ca2db9ff5e" alt="The Red Summer - Summer Mini Album" width="50" /> | The Red Summer - Summer Mini Album (2017-07-09) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734cd7f69b85766b3d3035c27c" alt="Sticky" width="50" /> | Sticky (2024-07-01) | <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="FANCY YOU" width="50" /> | FANCY YOU (2019-04-22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27364097227a67397e231047524" alt="Cosmic" width="50" /> | Cosmic (2024-06-24) | <img src="https://i.scdn.co/image/ab67616d0000b273bc125f40131dd5869b2ec36c" alt="Star To A Young Culture" width="50" /> | Star To A Young Culture (2020-11-12) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730cac27fa1830d50ff4a7a20d" alt="Metamorphic" width="50" /> | Metamorphic (2024-07-01) | <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="FANCY YOU" width="50" /> | FANCY YOU (2019-04-22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734cd7f69b85766b3d3035c27c" alt="Sticky" width="50" /> | Sticky (2024-07-01) | <img src="https://i.scdn.co/image/ab67616d0000b273bc125f40131dd5869b2ec36c" alt="Star To A Young Culture" width="50" /> | Star To A Young Culture (2020-11-12) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369ad639dd6829cb2414a53f9" alt="RIIZING - The 1st Mini Album" width="50" /> | RIIZING - The 1st Mini Album (2024-06-17) | <img src="https://i.scdn.co/image/ab67616d0000b27328e5351049de8f6ee39111f5" alt="Querencia" width="50" /> | Querencia (2021-02-15) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27373f05e5c2f5ec5cd07c6b6d9" alt="NA" width="50" /> | NA (2024-06-14) | <img src="https://i.scdn.co/image/ab67616d0000b273131cf6fcb170cda7a7956227" alt="GUESS WHO" width="50" /> | GUESS WHO (2021-04-30) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273090cfa22962b115ac530674c" alt="Armageddon - The 1st Album" width="50" /> | Armageddon - The 1st Album (2024-05-27) | <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="ELEVEN" width="50" /> | ELEVEN (2021-12-01) |
