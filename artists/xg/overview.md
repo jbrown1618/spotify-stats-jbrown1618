@@ -31,16 +31,16 @@ XG:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273e9b58064013b722f09296b3e" alt="" width="50" /> | 326 | 2 | 2 | NEW DNA | 2023-09-27 | [🔗](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733f40fd20e67b865fca5391a3" alt="" width="50" /> | 636 | 2 | 1 | SHOOTING STAR | 2023-01-25 | [🔗](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273614336449d4e1000c65171cb" alt="" width="50" /> | 636 | 1 | 1 | WOKE UP | 2024-05-21 | [🔗](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a7efce1f94f7e575674c95fe" alt="" width="50" /> | 565 | 1 | 1 | Tippy Toes | 2022-03-18 | [🔗](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9b58064013b722f09296b3e" alt="" width="50" /> | 327 | 2 | 2 | NEW DNA | 2023-09-27 | [🔗](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733f40fd20e67b865fca5391a3" alt="" width="50" /> | 637 | 2 | 1 | SHOOTING STAR | 2023-01-25 | [🔗](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273614336449d4e1000c65171cb" alt="" width="50" /> | 637 | 1 | 1 | WOKE UP | 2024-05-21 | [🔗](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a7efce1f94f7e575674c95fe" alt="" width="50" /> | 566 | 1 | 1 | Tippy Toes | 2022-03-18 | [🔗](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 6 | [K-Pop](../../playlists/k-pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e0226cc1062ed475f238d244141ab67616d00001e023da7d11b9a40ccc0edf18961ab67616d00001e026c498180e56f57e7d7bcdb86ab67616d00001e02ec449471d321ade6ee416230" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0223a426c84e07e245fd609d84ab67616d00001e0255a4b0d253296e5fe7516d45ab67616d00001e02614336449d4e1000c65171cbab67616d00001e02d7112b403c7a97c2a3ad462c" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 
 ## Top Record Labels
 
@@ -57,8 +57,8 @@ XG:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9b58064013b722f09296b3e" alt="" width="50" /> | GRL GVNG | NEW DNA | [XG](overview.md) | XGALX | 465 | 💚 | [🔗](https://open.spotify.com/track/2YLwxR4HLqsBdQG2Uw3J5C) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a7efce1f94f7e575674c95fe" alt="" width="50" /> | Tippy Toes | Tippy Toes | [XG](overview.md) | XGALX | 851 | 💚 | [🔗](https://open.spotify.com/track/1MKmSbQfJpEVnC3XfGywyF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733f40fd20e67b865fca5391a3" alt="" width="50" /> | LEFT RIGHT | SHOOTING STAR | [XG](overview.md) | XGALX | 963 | 💚 | [🔗](https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733f40fd20e67b865fca5391a3" alt="" width="50" /> | SHOOTING STAR | SHOOTING STAR | [XG](overview.md) | XGALX | 963 | | [🔗](https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e9b58064013b722f09296b3e" alt="" width="50" /> | PUPPET SHOW | NEW DNA | [XG](overview.md) | XGALX | 963 | 💚 | [🔗](https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273614336449d4e1000c65171cb" alt="" width="50" /> | WOKE UP | WOKE UP | [XG](overview.md) | XGALX | 963 | 💚 | [🔗](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a7efce1f94f7e575674c95fe" alt="" width="50" /> | Tippy Toes | Tippy Toes | [XG](overview.md) | XGALX | 854 | 💚 | [🔗](https://open.spotify.com/track/1MKmSbQfJpEVnC3XfGywyF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733f40fd20e67b865fca5391a3" alt="" width="50" /> | LEFT RIGHT | SHOOTING STAR | [XG](overview.md) | XGALX | 964 | 💚 | [🔗](https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733f40fd20e67b865fca5391a3" alt="" width="50" /> | SHOOTING STAR | SHOOTING STAR | [XG](overview.md) | XGALX | 964 | | [🔗](https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9b58064013b722f09296b3e" alt="" width="50" /> | PUPPET SHOW | NEW DNA | [XG](overview.md) | XGALX | 964 | 💚 | [🔗](https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273614336449d4e1000c65171cb" alt="" width="50" /> | WOKE UP | WOKE UP | [XG](overview.md) | XGALX | 964 | 💚 | [🔗](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) |
