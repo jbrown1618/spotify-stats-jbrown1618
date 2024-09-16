@@ -17,7 +17,7 @@ PURPLE KISS:
 
 ## Artist Rank
 PURPLE KISS is currently:
-- The #18 artist of the last 6 months
+- The #42 artist of the last 6 months
 - The #40 artist of the last year
 - The #53 artist of all time
 
@@ -52,13 +52,13 @@ PURPLE KISS is currently:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27345e7faa0d84701c0447e4188" alt="" width="50" /> | 637 | 2 | 2 | INTO VIOLET | 2021-03-15 | [🔗](https://open.spotify.com/album/3CjwKaPAPzaHgivlGFjsp4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27345e7faa0d84701c0447e4188" alt="" width="50" /> | 639 | 2 | 2 | INTO VIOLET | 2021-03-15 | [🔗](https://open.spotify.com/album/3CjwKaPAPzaHgivlGFjsp4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="" width="50" /> | 137 | 2 | 2 | Cabin Fever | 2023-02-15 | [🔗](https://open.spotify.com/album/4uIqXyViDoMKFuuw12kYMO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="" width="50" /> | 357 | 2 | 1 | memeM | 2022-03-29 | [🔗](https://open.spotify.com/album/4nhtnBY8owIQnOsnGQGqW9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730b479d89335fbca7de943443" alt="" width="50" /> | 637 | 1 | 1 | Geekyland | 2022-07-25 | [🔗](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273548e75657d21c646111cfa1d" alt="" width="50" /> | 637 | 1 | 1 | Can We Talk Again | 2021-02-03 | [🔗](https://open.spotify.com/album/7upDgBOqXuwU72JPeBLIzA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f7540ea5cd0831b2c7e4ff9" alt="" width="50" /> | 299 | 1 | 1 | BXX | 2024-03-19 | [🔗](https://open.spotify.com/album/3xX7eBfa5HTqDZXepyvjfw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730865f5f5799f2ee1b3c0fcec" alt="" width="50" /> | 637 | 1 | 0 | HIDE & SEEK | 2021-09-08 | [🔗](https://open.spotify.com/album/1Oh6STLhW6dxRAkvOUBHl8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="" width="50" /> | 360 | 2 | 1 | memeM | 2022-03-29 | [🔗](https://open.spotify.com/album/4nhtnBY8owIQnOsnGQGqW9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730b479d89335fbca7de943443" alt="" width="50" /> | 639 | 1 | 1 | Geekyland | 2022-07-25 | [🔗](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273548e75657d21c646111cfa1d" alt="" width="50" /> | 639 | 1 | 1 | Can We Talk Again | 2021-02-03 | [🔗](https://open.spotify.com/album/7upDgBOqXuwU72JPeBLIzA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f7540ea5cd0831b2c7e4ff9" alt="" width="50" /> | 298 | 1 | 1 | BXX | 2024-03-19 | [🔗](https://open.spotify.com/album/3xX7eBfa5HTqDZXepyvjfw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730865f5f5799f2ee1b3c0fcec" alt="" width="50" /> | 639 | 1 | 0 | HIDE & SEEK | 2021-09-08 | [🔗](https://open.spotify.com/album/1Oh6STLhW6dxRAkvOUBHl8) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -145,12 +145,12 @@ PURPLE KISS is currently:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="" width="50" /> | Sweet Juice | Cabin Fever | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 183 | 💚 | [🔗](https://open.spotify.com/track/2th6UWbfVz3hsSDzQAKqy2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f7540ea5cd0831b2c7e4ff9" alt="" width="50" /> | BBB | BXX | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 427 | 💚 | [🔗](https://open.spotify.com/track/1Xj89xyCM5Edza6AqTpRuB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="" width="50" /> | T4ke | Cabin Fever | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 461 | 💚 | [🔗](https://open.spotify.com/track/3hDB8HsTgd3TePDsEulE97) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="" width="50" /> | Pretty Psycho | memeM | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 518 | | [🔗](https://open.spotify.com/track/26YMXkyHGrOQQUl2E4upkv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273548e75657d21c646111cfa1d" alt="" width="50" /> | Can We Talk Again | Can We Talk Again | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 964 | 💚 | [🔗](https://open.spotify.com/track/0zuOKdFHYFIOTyJi0aOIuo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27345e7faa0d84701c0447e4188" alt="" width="50" /> | Ponzona | INTO VIOLET | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 964 | 💚 | [🔗](https://open.spotify.com/track/597wvQ0bqfJgszRg4eDVy1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27345e7faa0d84701c0447e4188" alt="" width="50" /> | Skip Skip | INTO VIOLET | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 964 | 💚 | [🔗](https://open.spotify.com/track/2Zb4ieqfoCB6WP5LO2NmCK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730865f5f5799f2ee1b3c0fcec" alt="" width="50" /> | Zombie | HIDE & SEEK | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 964 | | [🔗](https://open.spotify.com/track/5zTp64MsWOTdAWWXK7zEPK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="" width="50" /> | memeM | memeM | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 964 | 💚 | [🔗](https://open.spotify.com/track/0qr3qIT7OrhzT33sW1syLI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730b479d89335fbca7de943443" alt="" width="50" /> | Nerdy | Geekyland | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 964 | 💚 | [🔗](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f7540ea5cd0831b2c7e4ff9" alt="" width="50" /> | BBB | BXX | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 429 | 💚 | [🔗](https://open.spotify.com/track/1Xj89xyCM5Edza6AqTpRuB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="" width="50" /> | T4ke | Cabin Fever | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 463 | 💚 | [🔗](https://open.spotify.com/track/3hDB8HsTgd3TePDsEulE97) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="" width="50" /> | Pretty Psycho | memeM | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 521 | | [🔗](https://open.spotify.com/track/26YMXkyHGrOQQUl2E4upkv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273548e75657d21c646111cfa1d" alt="" width="50" /> | Can We Talk Again | Can We Talk Again | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 966 | 💚 | [🔗](https://open.spotify.com/track/0zuOKdFHYFIOTyJi0aOIuo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27345e7faa0d84701c0447e4188" alt="" width="50" /> | Ponzona | INTO VIOLET | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 966 | 💚 | [🔗](https://open.spotify.com/track/597wvQ0bqfJgszRg4eDVy1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27345e7faa0d84701c0447e4188" alt="" width="50" /> | Skip Skip | INTO VIOLET | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 966 | 💚 | [🔗](https://open.spotify.com/track/2Zb4ieqfoCB6WP5LO2NmCK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730865f5f5799f2ee1b3c0fcec" alt="" width="50" /> | Zombie | HIDE & SEEK | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 966 | | [🔗](https://open.spotify.com/track/5zTp64MsWOTdAWWXK7zEPK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="" width="50" /> | memeM | memeM | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 966 | 💚 | [🔗](https://open.spotify.com/track/0qr3qIT7OrhzT33sW1syLI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730b479d89335fbca7de943443" alt="" width="50" /> | Nerdy | Geekyland | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 966 | 💚 | [🔗](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) |

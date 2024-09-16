@@ -447,7 +447,6 @@ spotify:artist:16rCzZOMQX7P8Kmn5YKexI,alternative r&b
 spotify:artist:16rCzZOMQX7P8Kmn5YKexI,indie anthem-folk
 spotify:artist:16rCzZOMQX7P8Kmn5YKexI,uk contemporary r&b
 spotify:artist:17BdLN9q8RRQQqyklLwac1,choral
-spotify:artist:17BdLN9q8RRQQqyklLwac1,classical performance
 spotify:artist:17BdLN9q8RRQQqyklLwac1,early music choir
 spotify:artist:17BdLN9q8RRQQqyklLwac1,historically informed performance
 spotify:artist:17hR0sYHpx7VYTMRfFUOmY,classical
@@ -527,6 +526,7 @@ spotify:artist:1GDbiv3spRmZ1XdM1jQbT7,reggaeton
 spotify:artist:1GDbiv3spRmZ1XdM1jQbT7,urbano latino
 spotify:artist:1GlMjIezcLwV3OFlX0uXOv,movie tunes
 spotify:artist:1GlMjIezcLwV3OFlX0uXOv,tagalog worship
+spotify:artist:1GmirXBlYEOlia9rk6Q3k9,hollywood
 spotify:artist:1GmsPCcpKgF9OhlNXjOsbS,alt z
 spotify:artist:1GmsPCcpKgF9OhlNXjOsbS,boston folk
 spotify:artist:1GmsPCcpKgF9OhlNXjOsbS,indie pop
@@ -800,6 +800,7 @@ spotify:artist:21UPYSRWFKwtqvSAnFnSvS,alternative r&b
 spotify:artist:21UPYSRWFKwtqvSAnFnSvS,ghanaian alternative
 spotify:artist:21UPYSRWFKwtqvSAnFnSvS,ghanaian pop
 spotify:artist:21v1APtcWJHRmeKdBRVbYs,a cappella
+spotify:artist:22aCD8IrQZjcPgZw728QT6,5th gen k-pop
 spotify:artist:22bE4uQ6baNwSHPVcDxLCe,album rock
 spotify:artist:22bE4uQ6baNwSHPVcDxLCe,british invasion
 spotify:artist:22bE4uQ6baNwSHPVcDxLCe,classic rock
@@ -890,6 +891,7 @@ spotify:artist:2B69uGl0nh5LMFUAZxVw5y,channel pop
 spotify:artist:2C9n4tQgNLhHPhSCmdsQnk,idol
 spotify:artist:2C9n4tQgNLhHPhSCmdsQnk,lds youth
 spotify:artist:2C9n4tQgNLhHPhSCmdsQnk,post-teen pop
+spotify:artist:2C9n4tQgNLhHPhSCmdsQnk,talent show
 spotify:artist:2CQZr2RPZmrcvDnaod1ldC,k-pop
 spotify:artist:2Cl2zS9nttS8xQeCp7zYT1,5th gen k-pop
 spotify:artist:2CvCyf1gEVhI0mX6aFXmVI,classic rock
@@ -1157,7 +1159,6 @@ spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z,dutch edm
 spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z,edm
 spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z,house
 spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z,pop dance
-spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z,progressive electro house
 spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z,slap house
 spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z,trance
 spotify:artist:2oTW5kYNj4eIgp68Z5W4D9,5th gen k-pop
@@ -1591,7 +1592,6 @@ spotify:artist:3koiLjNrgRTNbOwViDipeA,neo soul
 spotify:artist:3koiLjNrgRTNbOwViDipeA,northern soul
 spotify:artist:3koiLjNrgRTNbOwViDipeA,quiet storm
 spotify:artist:3koiLjNrgRTNbOwViDipeA,soul
-spotify:artist:3koiLjNrgRTNbOwViDipeA,vocal jazz
 spotify:artist:3l9s67pOK4Stw9yW1wr0Bg,k-rap
 spotify:artist:3lFDsTyYNPQc8WzJExnQWn,nyc pop
 spotify:artist:3lVXtKsFTJM8ecY8gqdoCo,israeli pop
@@ -2777,8 +2777,6 @@ spotify:artist:6l3HvQ5sa6mXTsMTB19rO5,conscious hip hop
 spotify:artist:6l3HvQ5sa6mXTsMTB19rO5,hip hop
 spotify:artist:6l3HvQ5sa6mXTsMTB19rO5,north carolina hip hop
 spotify:artist:6l3HvQ5sa6mXTsMTB19rO5,rap
-spotify:artist:6lBN3Tzt61u8i9AJoAhKzF,post-romantic era
-spotify:artist:6lBN3Tzt61u8i9AJoAhKzF,ukrainian classical
 spotify:artist:6lHL3ubAMgSasKjNqKb8HF,contemporary r&b
 spotify:artist:6lHL3ubAMgSasKjNqKb8HF,hip pop
 spotify:artist:6lHL3ubAMgSasKjNqKb8HF,r&b
@@ -3168,6 +3166,7 @@ spotify:artist:7pXKdkQsYFCMG2omRxheJ2,k-rap
 spotify:artist:7pXu47GoqSYRajmBCjxdD6,ann arbor indie
 spotify:artist:7pXu47GoqSYRajmBCjxdD6,funk rock
 spotify:artist:7pXu47GoqSYRajmBCjxdD6,instrumental funk
+spotify:artist:7prZJzDK9Eaidya20kUciB,broadway
 spotify:artist:7prZJzDK9Eaidya20kUciB,show tunes
 spotify:artist:7qY2O8bWspXlSwQl5JAkvn,nashville singer-songwriter
 spotify:artist:7qd6KGoABHifvXKeFNe2Yb,trap queen

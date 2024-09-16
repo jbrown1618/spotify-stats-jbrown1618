@@ -13,10 +13,10 @@
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="" width="50" /> | 142 | 6 | 6 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 123 | 1 | 1 | [Adele](../../artists/adele/overview.md) | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb621d7cddc0d2fa4d94ed1c1e" alt="" width="50" /> | 429 | 1 | 1 | Maggie Rogers | [🔗](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebdb78fbd1c000f16792795648" alt="" width="50" /> | 429 | 1 | 1 | Zacari | [🔗](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 297 | 1 | 1 | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 122 | 1 | 1 | [Adele](../../artists/adele/overview.md) | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb621d7cddc0d2fa4d94ed1c1e" alt="" width="50" /> | 428 | 1 | 1 | Maggie Rogers | [🔗](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdb78fbd1c000f16792795648" alt="" width="50" /> | 428 | 1 | 1 | Zacari | [🔗](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 298 | 1 | 1 | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
 
 ## Works with Producers
 

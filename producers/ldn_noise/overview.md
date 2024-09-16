@@ -18,7 +18,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5e97e9ea9133fbfa41e27498" alt="" width="50" /> | 8 | 1 | 1 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0001b1abdae41d669a446b7" alt="" width="50" /> | 100 | 1 | 1 | [SHINee](../../artists/shinee/overview.md) | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a" alt="" width="50" /> | 5 | 1 | 1 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2b9446440d296ce32189024e" alt="" width="50" /> | 20 | 1 | 1 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2b9446440d296ce32189024e" alt="" width="50" /> | 19 | 1 | 1 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfbdd3f060e1cbe9e8eeaecac" alt="" width="50" /> | 133 | 1 | 1 | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
 
 ## Works with Producers

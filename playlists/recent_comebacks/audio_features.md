@@ -115,9 +115,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273090cfa22962b115ac530674c" alt="Armageddon - The 1st Album" width="50" /> | Licorice (0.896) | <img src="https://i.scdn.co/image/ab67616d0000b273653887a83332de0350151f10" alt="ROMANCE : UNTOLD" width="50" /> | Moonstruck (0.348) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733eaf9b3c1c804fec2bb06ac0" alt="&lt;Dall&gt;" width="50" /> | Virtual Angel (0.894) | <img src="https://i.scdn.co/image/ab67616d0000b273090cfa22962b115ac530674c" alt="Armageddon - The 1st Album" width="50" /> | Supernova (0.368) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d7112b403c7a97c2a3ad462c" alt="Love seeker" width="50" /> | Love seeker (0.884) | <img src="https://i.scdn.co/image/ab67616d0000b27355a4b0d253296e5fe7516d45" alt="DARK MOON SPECIAL ALBUM &lt;MEMORABILIA&gt;" width="50" /> | Teeth (0.373) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737e1eeb0d7cc374a168369c80" alt="Supernatural" width="50" /> | Supernatural (0.863) | <img src="https://i.scdn.co/image/ab67616d0000b27330e20e5e4aed73c95a7027c3" alt="ZOMBIE" width="50" /> | ZOMBIE (0.375) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27373f05e5c2f5ec5cd07c6b6d9" alt="NA" width="50" /> | ABCD (0.86) | <img src="https://i.scdn.co/image/ab67616d0000b27364097227a67397e231047524" alt="Cosmic" width="50" /> | Sunflower (0.378) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273485623bc41b6760fc1bca2f4" alt="CRAZY" width="50" /> | Pierrot (0.853) | <img src="https://i.scdn.co/image/ab67616d0000b2738231f3397bc3ac0d89815fa5" alt="Balloon in Love" width="50" /> | Balloon in Love (0.392) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273485623bc41b6760fc1bca2f4" alt="CRAZY" width="50" /> | 1-800-hot-n-fun (0.88) | <img src="https://i.scdn.co/image/ab67616d0000b27330e20e5e4aed73c95a7027c3" alt="ZOMBIE" width="50" /> | ZOMBIE (0.375) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737e1eeb0d7cc374a168369c80" alt="Supernatural" width="50" /> | Supernatural (0.863) | <img src="https://i.scdn.co/image/ab67616d0000b27364097227a67397e231047524" alt="Cosmic" width="50" /> | Sunflower (0.378) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27373f05e5c2f5ec5cd07c6b6d9" alt="NA" width="50" /> | ABCD (0.86) | <img src="https://i.scdn.co/image/ab67616d0000b2738231f3397bc3ac0d89815fa5" alt="Balloon in Love" width="50" /> | Balloon in Love (0.392) |
 
 ## Tempo
 

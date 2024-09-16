@@ -21,7 +21,7 @@ Florence + The Machine:
 
 ## Artist Rank
 Florence + The Machine is currently:
-- The #38 artist of the last 6 months
+- The #36 artist of the last 6 months
 - The #48 artist of the last year
 - The #78 artist of all time
 
@@ -38,10 +38,10 @@ Florence + The Machine is currently:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | 637 | 6 | 6 | Lungs (Deluxe Edition) | 2009 | [🔗](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | 639 | 6 | 6 | Lungs (Deluxe Edition) | 2009 | [🔗](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | 169 | 6 | 6 | Ceremonials - Deluxe Edition | 2011-01-01 | [🔗](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | 637 | 3 | 2 | How Big, How Blue, How Beautiful | 2015-06-01 | [🔗](https://open.spotify.com/album/2btszoya78vyT8fwelmVnz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="" width="50" /> | 637 | 1 | 0 | High As Hope | 2018-06-29 | [🔗](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | 639 | 3 | 2 | How Big, How Blue, How Beautiful | 2015-06-01 | [🔗](https://open.spotify.com/album/2btszoya78vyT8fwelmVnz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="" width="50" /> | 639 | 1 | 0 | High As Hope | 2018-06-29 | [🔗](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -160,14 +160,14 @@ Florence + The Machine is currently:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Never Let Me Go | Ceremonials - Deluxe Edition | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 233 | 💚 | [🔗](https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | What The Water Gave Me | Ceremonials - Deluxe Edition | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 631 | 💚 | [🔗](https://open.spotify.com/track/3RiOPzAvhNKuMIdPYOrKV8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Seven Devils | Ceremonials - Deluxe Edition | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 880 | 💚 | [🔗](https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | Between Two Lungs | Lungs (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 964 | 💚 | [🔗](https://open.spotify.com/track/5WnYyCWBbJyLChmd2sbZK9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | Dog Days Are Over | Lungs (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 964 | 💚 | [🔗](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | I'm Not Calling You A Liar | Lungs (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 964 | 💚 | [🔗](https://open.spotify.com/track/3euILOYDltKArnqpupsE1W) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | Kiss With A Fist | Lungs (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 964 | 💚 | [🔗](https://open.spotify.com/track/0jv5OcbvTUHgO8FgHhya8b) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | Rabbit Heart (Raise It Up) | Lungs (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 964 | 💚 | [🔗](https://open.spotify.com/track/5RoLLyMmaEG4WiVMlp7r59) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | You've Got The Love | Lungs (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 964 | 💚 | [🔗](https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Lover To Lover | Ceremonials - Deluxe Edition | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 964 | 💚 | [🔗](https://open.spotify.com/track/1LsZVVQxkbmL9izqfy1RRK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Seven Devils | Ceremonials - Deluxe Edition | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 885 | 💚 | [🔗](https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | Between Two Lungs | Lungs (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 966 | 💚 | [🔗](https://open.spotify.com/track/5WnYyCWBbJyLChmd2sbZK9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | Dog Days Are Over | Lungs (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 966 | 💚 | [🔗](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | I'm Not Calling You A Liar | Lungs (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 966 | 💚 | [🔗](https://open.spotify.com/track/3euILOYDltKArnqpupsE1W) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | Kiss With A Fist | Lungs (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 966 | 💚 | [🔗](https://open.spotify.com/track/0jv5OcbvTUHgO8FgHhya8b) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | Rabbit Heart (Raise It Up) | Lungs (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 966 | 💚 | [🔗](https://open.spotify.com/track/5RoLLyMmaEG4WiVMlp7r59) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | You've Got The Love | Lungs (Deluxe Edition) | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 966 | 💚 | [🔗](https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Lover To Lover | Ceremonials - Deluxe Edition | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 966 | 💚 | [🔗](https://open.spotify.com/track/1LsZVVQxkbmL9izqfy1RRK) |
 
 
 <details>
@@ -175,12 +175,12 @@ Florence + The Machine is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | No Light, No Light | Ceremonials - Deluxe Edition | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 964 | 💚 | [🔗](https://open.spotify.com/track/5nkYDYUSb1bvLJ4nP8CnQ1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Shake It Out | Ceremonials - Deluxe Edition | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 964 | 💚 | [🔗](https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | Delilah | How Big, How Blue, How Beautiful | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 964 | 💚 | [🔗](https://open.spotify.com/track/3o9qzsqkT0mvfxcusUaXsN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | How Big, How Blue, How Beautiful | How Big, How Blue, How Beautiful | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 964 | 💚 | [🔗](https://open.spotify.com/track/7GlwvJ8iAbCEfZjGq3iwmZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | What Kind Of Man | How Big, How Blue, How Beautiful | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 964 | | [🔗](https://open.spotify.com/track/2ZE1EiHnmtdiv9KAJTGeRq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="" width="50" /> | Hunger | High As Hope | [Florence + The Machine](overview.md) | [EMI](../../labels/emi) | 964 | | [🔗](https://open.spotify.com/track/6Ju28M6P8Y8sLjBgWjyUUD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | No Light, No Light | Ceremonials - Deluxe Edition | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 966 | 💚 | [🔗](https://open.spotify.com/track/5nkYDYUSb1bvLJ4nP8CnQ1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Shake It Out | Ceremonials - Deluxe Edition | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 966 | 💚 | [🔗](https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | Delilah | How Big, How Blue, How Beautiful | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 966 | 💚 | [🔗](https://open.spotify.com/track/3o9qzsqkT0mvfxcusUaXsN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | How Big, How Blue, How Beautiful | How Big, How Blue, How Beautiful | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 966 | 💚 | [🔗](https://open.spotify.com/track/7GlwvJ8iAbCEfZjGq3iwmZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc" alt="" width="50" /> | What Kind Of Man | How Big, How Blue, How Beautiful | [Florence + The Machine](overview.md) | [Universal-Island Records Ltd.](../../labels/universal-island_records_ltd_) | 966 | | [🔗](https://open.spotify.com/track/2ZE1EiHnmtdiv9KAJTGeRq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d36d0f06096fa07f18b8e8a2" alt="" width="50" /> | Hunger | High As Hope | [Florence + The Machine](overview.md) | [EMI](../../labels/emi) | 966 | | [🔗](https://open.spotify.com/track/6Ju28M6P8Y8sLjBgWjyUUD) |
 
 </details>
 
