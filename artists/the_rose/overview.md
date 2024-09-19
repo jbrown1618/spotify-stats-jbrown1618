@@ -22,11 +22,11 @@ The Rose:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b98537c1beb38440a631c39" alt="" width="50" /> | 639 | 2 | 2 | Void | 2018-04-16 | [🔗](https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="" width="50" /> | 639 | 1 | 1 | Sorry | 2017-08-03 | [🔗](https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733f6458e54f8d2fd64f54ea3f" alt="" width="50" /> | 639 | 1 | 1 | RED | 2019-08-13 | [🔗](https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27339f52888c5940b1b155bdf0e" alt="" width="50" /> | 639 | 1 | 1 | HEAL | 2022-10-07 | [🔗](https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ae58b007d9c05f8e7cfdb81" alt="" width="50" /> | 639 | 1 | 0 | Dawn | 2018-10-05 | [🔗](https://open.spotify.com/album/0YZ0m6Z8xUurgzV9lXvflS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b98537c1beb38440a631c39" alt="" width="50" /> | 640 | 2 | 2 | Void | 2018-04-16 | [🔗](https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="" width="50" /> | 640 | 1 | 1 | Sorry | 2017-08-03 | [🔗](https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733f6458e54f8d2fd64f54ea3f" alt="" width="50" /> | 640 | 1 | 1 | RED | 2019-08-13 | [🔗](https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27339f52888c5940b1b155bdf0e" alt="" width="50" /> | 640 | 1 | 1 | HEAL | 2022-10-07 | [🔗](https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ae58b007d9c05f8e7cfdb81" alt="" width="50" /> | 640 | 1 | 0 | Dawn | 2018-10-05 | [🔗](https://open.spotify.com/album/0YZ0m6Z8xUurgzV9lXvflS) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -53,9 +53,9 @@ The Rose:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="" width="50" /> | Sorry | Sorry | [The Rose](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 966 | 💚 | [🔗](https://open.spotify.com/track/7zmrZMinkTMJ2kZgM9Kqgp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b98537c1beb38440a631c39" alt="" width="50" /> | BABY | Void | [The Rose](overview.md) | RADCOMM | 966 | 💚 | [🔗](https://open.spotify.com/track/3LrBIrUKRF1VF30wqV7JV8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b98537c1beb38440a631c39" alt="" width="50" /> | sorry | Void | [The Rose](overview.md) | RADCOMM | 966 | 💚 | [🔗](https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ae58b007d9c05f8e7cfdb81" alt="" width="50" /> | She′s In The Rain | Dawn | [The Rose](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 966 | | [🔗](https://open.spotify.com/track/2I0LNCqlQpAPJlwOEWaefE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733f6458e54f8d2fd64f54ea3f" alt="" width="50" /> | RED | RED | [The Rose](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 966 | 💚 | [🔗](https://open.spotify.com/track/1JsBcVdlKZJmDPJWu4wJPC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27339f52888c5940b1b155bdf0e" alt="" width="50" /> | Sour | HEAL | [The Rose](overview.md) | Transparent Arts | 966 | 💚 | [🔗](https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="" width="50" /> | Sorry | Sorry | [The Rose](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 969 | 💚 | [🔗](https://open.spotify.com/track/7zmrZMinkTMJ2kZgM9Kqgp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b98537c1beb38440a631c39" alt="" width="50" /> | BABY | Void | [The Rose](overview.md) | RADCOMM | 969 | 💚 | [🔗](https://open.spotify.com/track/3LrBIrUKRF1VF30wqV7JV8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b98537c1beb38440a631c39" alt="" width="50" /> | sorry | Void | [The Rose](overview.md) | RADCOMM | 969 | 💚 | [🔗](https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ae58b007d9c05f8e7cfdb81" alt="" width="50" /> | She′s In The Rain | Dawn | [The Rose](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 969 | | [🔗](https://open.spotify.com/track/2I0LNCqlQpAPJlwOEWaefE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733f6458e54f8d2fd64f54ea3f" alt="" width="50" /> | RED | RED | [The Rose](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 969 | 💚 | [🔗](https://open.spotify.com/track/1JsBcVdlKZJmDPJWu4wJPC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27339f52888c5940b1b155bdf0e" alt="" width="50" /> | Sour | HEAL | [The Rose](overview.md) | Transparent Arts | 969 | 💚 | [🔗](https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD) |

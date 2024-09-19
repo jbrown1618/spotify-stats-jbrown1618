@@ -100,7 +100,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="Christmas (Deluxe Special Edition)" width="50" /> | It's Beginning to Look a Lot like Christmas (0.341) | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="Crazy Love" width="50" /> | Cry Me a River (0.0754) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e8ed9b5848e7139dc087c48" alt="Holiday Inn (Original Motion Picture Soundtrack)" width="50" /> | White Christmas - 1947 Version (0.338) | <img src="https://i.scdn.co/image/ab67616d0000b273a9dfe5788911744490bfb431" alt="Have A Holly Jolly Christmas" width="50" /> | A Holly Jolly Christmas - Single Version (0.076) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="The Great American Songbook" width="50" /> | Mack the Knife (0.332) | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="Romance" width="50" /> | L-O-V-E - 2000 Remaster (0.0792) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="Call Me Irresponsible" width="50" /> | The Best Is yet to Come (0.296) | <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best - 2008 Remastered" width="50" /> | Fly Me To The Moon - 2008 Remastered (0.0797) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="Call Me Irresponsible" width="50" /> | The Best Is yet to Come (0.296) | <img src="https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b" alt="Nothing But The Best (2008 Remastered)" width="50" /> | Fly Me To The Moon - 2008 Remastered (0.0797) |
 
 ## Valence
 

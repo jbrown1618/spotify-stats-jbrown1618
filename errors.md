@@ -26,7 +26,7 @@ None
 | People | D-2 | Agust D | 1 | 2 | 78 |
 | Strange (feat. RM) | D-2 | Agust D | 0 | 2 | 78 |
 | Burn It (feat. MAX) | D-2 | MAX | 0 | 2 | 67 |
-| Strange (feat. RM) | D-2 | RM | 0 | 2 | 78 |
+| Strange (feat. RM) | D-2 | RM | 0 | 2 | 79 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 88 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 80 |
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 70 |
@@ -34,7 +34,7 @@ None
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 49 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 32 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 66 |
-| Underground | Artemis | Lindsey Stirling | 1 | 1 | 66 |
+| Underground | Artemis | Lindsey Stirling | 1 | 2 | 66 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 50 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 65 |
 | Sleep-walking | Prequel | Dreamcatcher | 1 | 1 | 61 |
@@ -49,17 +49,17 @@ None
 | I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 38 |
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 38 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 66 |
-| Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 33 |
+| Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 34 |
 | Drink It | Drink It | THE BOYZ | 0 | 0 | 59 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 50 |
 | Think About Things | Think About Things | Daði Freyr | 0 | 0 | 50 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 50 |
-| I Want To Break Free | The Works | Queen | 0 | 1 | 85 |
-| Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 85 |
-| Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 85 |
-| Somebody To Love | A Day At The Races | Queen | 0 | 0 | 85 |
-| Don't Stop Me Now | Jazz | Queen | 2 | 1 | 85 |
-| A Kind Of Magic | A Kind Of Magic | Queen | 0 | 0 | 85 |
+| I Want To Break Free | The Works | Queen | 0 | 1 | 86 |
+| Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 86 |
+| Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 86 |
+| Somebody To Love | A Day At The Races | Queen | 0 | 0 | 86 |
+| Don't Stop Me Now | Jazz | Queen | 1 | 1 | 86 |
+| A Kind Of Magic | A Kind Of Magic | Queen | 0 | 0 | 86 |
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 59 |
 | RED | RED | The Rose | 0 | 0 | 62 |
 | She′s In The Rain | Dawn | The Rose | 0 | 0 | 62 |
@@ -72,10 +72,10 @@ None
 | I will show you | Invitation | AILEE | 0 | 0 | 58 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 63 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 59 |
-| Cat (Feat. IU) | Cat | Sunwoojunga | 2 | 1 | 46 |
-| Cat (Feat. IU) | Cat | IU | 2 | 1 | 71 |
+| Cat (Feat. IU) | Cat | Sunwoojunga | 2 | 0 | 46 |
+| Cat (Feat. IU) | Cat | IU | 2 | 0 | 71 |
 | Star | [12:00] | LOONA | 1 | 1 | 55 |
-| Why Not? | [12:00] | LOONA | 2 | 1 | 55 |
+| Why Not? | [12:00] | LOONA | 1 | 1 | 55 |
 | Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 55 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 54 |
 | The Phantom Of The Opera | Century Child | Nightwish | 1 | 1 | 67 |
@@ -91,7 +91,7 @@ None
 | Flowers - Cover | Flowers - Cover | YUQI | 0 | 0 | 60 |
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 27 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 76 |
-| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 78 |
+| Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 79 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 70 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 61 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 73 |
@@ -122,8 +122,9 @@ None
 | Song Of Storms | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 48 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 72 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 72 |
+| 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 25 |
 | Call Me Mother | American | RuPaul | 0 | 0 | 56 |
-| Lose | Love Synonym #2 : Right for Us | WONHO | 0 | 0 | 44 |
+| Lose | Love Synonym #2 : Right for Us | WONHO | 0 | 0 | 45 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 67 |
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 47 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 57 |

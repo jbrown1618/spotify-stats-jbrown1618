@@ -9,7 +9,7 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe3ada7c53c36815486c7d7c9" alt="" width="50" /> | 46 | 1 | 0 | nævis | [🔗](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe3ada7c53c36815486c7d7c9" alt="" width="50" /> | 45 | 1 | 0 | nævis | [🔗](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) |
 
 
 
@@ -25,7 +25,7 @@
 
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 966 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4f2707e95338ba77c00b34" alt="Done" width="50" /> | Done | 966 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4f2707e95338ba77c00b34" alt="Done" width="50" /> | Done |
+| 969 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4f2707e95338ba77c00b34" alt="Done" width="50" /> | Done | 969 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4f2707e95338ba77c00b34" alt="Done" width="50" /> | Done |
 
 </details>
 
@@ -35,7 +35,7 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738c4f2707e95338ba77c00b34" alt="" width="50" /> | 639 | 1 | 0 | Done | 2024-09-10 | [🔗](https://open.spotify.com/album/0MWTfCeOwdgOZD5J81UfHC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738c4f2707e95338ba77c00b34" alt="" width="50" /> | 640 | 1 | 0 | Done | 2024-09-10 | [🔗](https://open.spotify.com/album/0MWTfCeOwdgOZD5J81UfHC) |
 
 
 
