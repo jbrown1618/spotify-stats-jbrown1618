@@ -22,7 +22,8 @@ NCT DREAM:
 
 ## Artist Rank
 NCT DREAM is currently:
-- The #21 artist of the last 6 months
+- The #20 artist of the last month
+- The #17 artist of the last 6 months
 - The #24 artist of the last year
 - The #25 artist of all time
 
@@ -57,16 +58,16 @@ NCT DREAM is currently:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c013775f357bb9ad1eb9e1a7" alt="" width="50" /> | 640 | 2 | 2 | Glitch Mode - The 2nd Album | 2022-03-28 | [🔗](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1ee973dde5ec47914ebc0e1" alt="" width="50" /> | 571 | 2 | 1 | ISTJ - The 3rd Album | 2023-07-17 | [🔗](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c013775f357bb9ad1eb9e1a7" alt="" width="50" /> | 642 | 2 | 2 | Glitch Mode - The 2nd Album | 2022-03-28 | [🔗](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1ee973dde5ec47914ebc0e1" alt="" width="50" /> | 574 | 2 | 1 | ISTJ - The 3rd Album | 2023-07-17 | [🔗](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="" width="50" /> | 218 | 2 | 1 | DREAM( )SCAPE | 2024-03-25 | [🔗](https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="" width="50" /> | 44 | 1 | 1 | We Boom - The 3rd Mini Album | 2019-07-26 | [🔗](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735ec123b44bb80bb94fc5c237" alt="" width="50" /> | 640 | 1 | 1 | Reload | 2020-04-29 | [🔗](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739dec4de4b22d56be408ee2fd" alt="" width="50" /> | 244 | 1 | 1 | Hot Sauce - The 1st Album | 2021-05-10 | [🔗](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e6d118f2ad157bf0bbfb83cf" alt="" width="50" /> | 640 | 1 | 1 | Hello Future - The 1st Album Repackage | 2021-06-28 | [🔗](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="" width="50" /> | 45 | 1 | 1 | We Boom - The 3rd Mini Album | 2019-07-26 | [🔗](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ec123b44bb80bb94fc5c237" alt="" width="50" /> | 642 | 1 | 1 | Reload | 2020-04-29 | [🔗](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739dec4de4b22d56be408ee2fd" alt="" width="50" /> | 245 | 1 | 1 | Hot Sauce - The 1st Album | 2021-05-10 | [🔗](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e6d118f2ad157bf0bbfb83cf" alt="" width="50" /> | 642 | 1 | 1 | Hello Future - The 1st Album Repackage | 2021-06-28 | [🔗](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="" width="50" /> | 237 | 1 | 1 | Candy - Winter Special Mini Album | 2022-12-16 | [🔗](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734fbde4c63b86079e0517b1cb" alt="" width="50" /> | 492 | 1 | 1 | Beatbox - The 2nd Album Repackage | 2022-05-30 | [🔗](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27361b3c67028845d3f48acd5be" alt="" width="50" /> | 640 | 1 | 0 | JOY - SM STATION | 2017-12-15 | [🔗](https://open.spotify.com/album/5UkUr57L6X1gopnzG1dyBa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734fbde4c63b86079e0517b1cb" alt="" width="50" /> | 493 | 1 | 1 | Beatbox - The 2nd Album Repackage | 2022-05-30 | [🔗](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27361b3c67028845d3f48acd5be" alt="" width="50" /> | 642 | 1 | 0 | JOY - SM STATION | 2017-12-15 | [🔗](https://open.spotify.com/album/5UkUr57L6X1gopnzG1dyBa) |
 
 
 <details>
@@ -74,7 +75,7 @@ NCT DREAM is currently:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738db0372a58515f8d2dcbf548" alt="" width="50" /> | 640 | 1 | 0 | Best Friend Ever | 2023-02-08 | [🔗](https://open.spotify.com/album/4cT6f8tGzBtybpBNYPEQoX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738db0372a58515f8d2dcbf548" alt="" width="50" /> | 642 | 1 | 0 | Best Friend Ever | 2023-02-08 | [🔗](https://open.spotify.com/album/4cT6f8tGzBtybpBNYPEQoX) |
 
 </details>
 
@@ -121,16 +122,16 @@ NCT DREAM is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="" width="50" /> | BOOM | We Boom - The 3rd Mini Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 43 | 💚 | [🔗](https://open.spotify.com/track/6rcn967QN5JtkPOBDwYIuT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="" width="50" /> | Smoothie | DREAM( )SCAPE | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 320 | 💚 | [🔗](https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="" width="50" /> | Candy | Candy - Winter Special Mini Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 333 | 💚 | [🔗](https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739dec4de4b22d56be408ee2fd" alt="" width="50" /> | Hot Sauce | Hot Sauce - The 1st Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 345 | 💚 | [🔗](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="" width="50" /> | BOX | DREAM( )SCAPE | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 661 | | [🔗](https://open.spotify.com/track/4I95uQMtIwg7779WEDy8Mc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734fbde4c63b86079e0517b1cb" alt="" width="50" /> | Beatbox | Beatbox - The 2nd Album Repackage | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 735 | 💚 | [🔗](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1ee973dde5ec47914ebc0e1" alt="" width="50" /> | ISTJ | ISTJ - The 3rd Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 860 | 💚 | [🔗](https://open.spotify.com/track/43Pmqpiw4zFY77pT5QdxQ8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27361b3c67028845d3f48acd5be" alt="" width="50" /> | JOY | JOY - SM STATION | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 969 | | [🔗](https://open.spotify.com/track/3I4pgDhMKp6Sww3lTxyg8X) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735ec123b44bb80bb94fc5c237" alt="" width="50" /> | Ridin' | Reload | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 969 | 💚 | [🔗](https://open.spotify.com/track/0EMD15EVNwDlgGH2CH6ZEL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e6d118f2ad157bf0bbfb83cf" alt="" width="50" /> | Hello Future | Hello Future - The 1st Album Repackage | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 969 | 💚 | [🔗](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="" width="50" /> | BOOM | We Boom - The 3rd Mini Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 44 | 💚 | [🔗](https://open.spotify.com/track/6rcn967QN5JtkPOBDwYIuT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="" width="50" /> | Smoothie | DREAM( )SCAPE | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 321 | 💚 | [🔗](https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="" width="50" /> | Candy | Candy - Winter Special Mini Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 336 | 💚 | [🔗](https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739dec4de4b22d56be408ee2fd" alt="" width="50" /> | Hot Sauce | Hot Sauce - The 1st Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 346 | 💚 | [🔗](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="" width="50" /> | BOX | DREAM( )SCAPE | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 666 | | [🔗](https://open.spotify.com/track/4I95uQMtIwg7779WEDy8Mc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734fbde4c63b86079e0517b1cb" alt="" width="50" /> | Beatbox | Beatbox - The 2nd Album Repackage | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 734 | 💚 | [🔗](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1ee973dde5ec47914ebc0e1" alt="" width="50" /> | ISTJ | ISTJ - The 3rd Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 865 | 💚 | [🔗](https://open.spotify.com/track/43Pmqpiw4zFY77pT5QdxQ8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27361b3c67028845d3f48acd5be" alt="" width="50" /> | JOY | JOY - SM STATION | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 971 | | [🔗](https://open.spotify.com/track/3I4pgDhMKp6Sww3lTxyg8X) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ec123b44bb80bb94fc5c237" alt="" width="50" /> | Ridin' | Reload | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 971 | 💚 | [🔗](https://open.spotify.com/track/0EMD15EVNwDlgGH2CH6ZEL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e6d118f2ad157bf0bbfb83cf" alt="" width="50" /> | Hello Future | Hello Future - The 1st Album Repackage | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 971 | 💚 | [🔗](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) |
 
 
 <details>
@@ -138,10 +139,10 @@ NCT DREAM is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c013775f357bb9ad1eb9e1a7" alt="" width="50" /> | Glitch Mode | Glitch Mode - The 2nd Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 969 | 💚 | [🔗](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c013775f357bb9ad1eb9e1a7" alt="" width="50" /> | Saturday Drip | Glitch Mode - The 2nd Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 969 | 💚 | [🔗](https://open.spotify.com/track/2ohOA4P55RsoU1bOanNGyB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738db0372a58515f8d2dcbf548" alt="" width="50" /> | Best Friend Ever | Best Friend Ever | [NCT DREAM](overview.md) | [avex trax](../../labels/avex_trax) | 969 | | [🔗](https://open.spotify.com/track/1Z5Dmg7Dvu0X4oSdqLZ3Lu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1ee973dde5ec47914ebc0e1" alt="" width="50" /> | Broken Melodies | ISTJ - The 3rd Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 969 | | [🔗](https://open.spotify.com/track/63Czf03uph6EyJDL1z3x3z) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c013775f357bb9ad1eb9e1a7" alt="" width="50" /> | Glitch Mode | Glitch Mode - The 2nd Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 971 | 💚 | [🔗](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c013775f357bb9ad1eb9e1a7" alt="" width="50" /> | Saturday Drip | Glitch Mode - The 2nd Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 971 | 💚 | [🔗](https://open.spotify.com/track/2ohOA4P55RsoU1bOanNGyB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738db0372a58515f8d2dcbf548" alt="" width="50" /> | Best Friend Ever | Best Friend Ever | [NCT DREAM](overview.md) | [avex trax](../../labels/avex_trax) | 971 | | [🔗](https://open.spotify.com/track/1Z5Dmg7Dvu0X4oSdqLZ3Lu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1ee973dde5ec47914ebc0e1" alt="" width="50" /> | Broken Melodies | ISTJ - The 3rd Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 971 | | [🔗](https://open.spotify.com/track/63Czf03uph6EyJDL1z3x3z) |
 
 </details>
 

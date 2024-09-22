@@ -29,15 +29,16 @@ None
 | Strange (feat. RM) | D-2 | RM | 0 | 2 | 79 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 88 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 80 |
-| Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 70 |
-| Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 54 |
+| Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 69 |
+| Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 55 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 49 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 32 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 66 |
-| Underground | Artemis | Lindsey Stirling | 1 | 2 | 66 |
+| Underground | Artemis | Lindsey Stirling | 1 | 1 | 66 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 50 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 65 |
 | Sleep-walking | Prequel | Dreamcatcher | 1 | 1 | 61 |
+| We Go - English Version | We Go - English Version | aespa | 0 | 0 | 80 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 60 |
 | Lone Digger | <|º_º|> | Caravan Palace | 2 | 2 | 61 |
 | Joker | Joker is Alive | Dalshabet | 0 | 0 | 32 |
@@ -58,7 +59,7 @@ None
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 86 |
 | Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 86 |
 | Somebody To Love | A Day At The Races | Queen | 0 | 0 | 86 |
-| Don't Stop Me Now | Jazz | Queen | 1 | 1 | 86 |
+| Don't Stop Me Now | Jazz | Queen | 2 | 1 | 86 |
 | A Kind Of Magic | A Kind Of Magic | Queen | 0 | 0 | 86 |
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 59 |
 | RED | RED | The Rose | 0 | 0 | 62 |
@@ -67,13 +68,13 @@ None
 | Pokerap | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 55 |
 | Pokemon Theme | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 55 |
 | Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 54 |
-| Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | 0 | 0 | 56 |
+| Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | 0 | 0 | 57 |
 | Just The Way You Are | Little Love - EP | James Smith | 0 | 0 | 52 |
 | I will show you | Invitation | AILEE | 0 | 0 | 58 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 63 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 59 |
-| Cat (Feat. IU) | Cat | Sunwoojunga | 2 | 0 | 46 |
-| Cat (Feat. IU) | Cat | IU | 2 | 0 | 71 |
+| Cat (Feat. IU) | Cat | Sunwoojunga | 1 | 0 | 46 |
+| Cat (Feat. IU) | Cat | IU | 1 | 0 | 71 |
 | Star | [12:00] | LOONA | 1 | 1 | 55 |
 | Why Not? | [12:00] | LOONA | 1 | 1 | 55 |
 | Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 55 |
@@ -96,20 +97,19 @@ None
 | Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 61 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 73 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 76 |
-| Man in a Movie | SUNRISE | DAY6 | 0 | 1 | 69 |
+| Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 70 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 73 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 78 |
 | I Do | It's Raining | Rain | 0 | 0 | 46 |
 | It′s Raining | It's Raining | Rain | 0 | 0 | 46 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 86 |
-| Slide Away | Slide Away | Miley Cyrus | 2 | 1 | 83 |
 | Miku | Miku | Anamanaguchi | 0 | 0 | 51 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 43 |
 | Heartbeat | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) | SURAN | 0 | 0 | 52 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 52 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 50 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
-| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 76 |
+| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 77 |
 | When We Disco | When We Disco | J.Y. Park | 0 | 0 | 46 |
 | Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 46 |
 | When We Disco | When We Disco | SUNMI | 0 | 0 | 57 |
@@ -126,7 +126,7 @@ None
 | Call Me Mother | American | RuPaul | 0 | 0 | 56 |
 | Lose | Love Synonym #2 : Right for Us | WONHO | 0 | 0 | 45 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 67 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 47 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 48 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 57 |
 | Toy | Toy | Netta | 1 | 0 | 49 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 46 |
