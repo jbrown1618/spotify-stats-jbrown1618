@@ -30,20 +30,22 @@ P1Harmony:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730d55f8c4b87267bcb003d57d" alt="" width="50" /> | 642 | 3 | 2 | HARMONY : SET IN | 2022-11-30 | [🔗](https://open.spotify.com/album/1JDHisMjuJ1QkhcXiiLnnX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738cf0e84e77a46b5317c09924" alt="" width="50" /> | 642 | 1 | 1 | Killin' It | 2024-02-05 | [🔗](https://open.spotify.com/album/7FbyxnCCfB4t8N8qwHrHi6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="" width="50" /> | 642 | 1 | 1 | HARMONY : ZERO IN | 2022-07-20 | [🔗](https://open.spotify.com/album/73CTPjApMDvFsycjbbROji) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d55f8c4b87267bcb003d57d" alt="" width="50" /> | 643 | 3 | 2 | HARMONY : SET IN | 2022-11-30 | [🔗](https://open.spotify.com/album/1JDHisMjuJ1QkhcXiiLnnX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273276ab50c3f74f246a2d7fea2" alt="" width="50" /> | 643 | 1 | 1 | SAD SONG | 2024-09-20 | [🔗](https://open.spotify.com/album/0NmzOw8evaF6bn2U7tiWSA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738cf0e84e77a46b5317c09924" alt="" width="50" /> | 643 | 1 | 1 | Killin' It | 2024-02-05 | [🔗](https://open.spotify.com/album/7FbyxnCCfB4t8N8qwHrHi6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="" width="50" /> | 643 | 1 | 1 | HARMONY : ZERO IN | 2022-07-20 | [🔗](https://open.spotify.com/album/73CTPjApMDvFsycjbbROji) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733b809d08ca5a7eafe2978998" alt="" width="50" /> | 309 | 1 | 1 | HARMONY : ALL IN | 2023-06-08 | [🔗](https://open.spotify.com/album/67nhgkEfNwdqQt7QFYHw0B) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bdbc6077205378b6271af4bf" alt="" width="50" /> | 629 | 1 | 1 | DISHARMONY : FIND OUT | 2022-01-03 | [🔗](https://open.spotify.com/album/13kHQp4zyK5jBpsFZmTvHz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27353c86f1143b52f1f01f677e0" alt="" width="50" /> | 642 | 1 | 0 | Do It Like This (English Version) | 2022-03-10 | [🔗](https://open.spotify.com/album/4L12vI7rtyBFmYOWZYtOi6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bdbc6077205378b6271af4bf" alt="" width="50" /> | 636 | 1 | 1 | DISHARMONY : FIND OUT | 2022-01-03 | [🔗](https://open.spotify.com/album/13kHQp4zyK5jBpsFZmTvHz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27353c86f1143b52f1f01f677e0" alt="" width="50" /> | 643 | 1 | 0 | Do It Like This (English Version) | 2022-03-10 | [🔗](https://open.spotify.com/album/4L12vI7rtyBFmYOWZYtOi6) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 7 | [K-Pop](../../playlists/k-pop/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 8 | [K-Pop](../../playlists/k-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e025c041fe9e3c9de436047d86bab67616d00001e02714e56679ab196354e2e443eab67616d00001e027a393b04e8ced571618223e8ab67616d00001e027dd8f95320e8ef08aa121dfe" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k-pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0223a426c84e07e245fd609d84ab67616d00001e0255a4b0d253296e5fe7516d45ab67616d00001e02614336449d4e1000c65171cbab67616d00001e02d7112b403c7a97c2a3ad462c" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02830de2e836036f181df598d0ab67616d00001e02af2fda9fb591d43c355c2ac3ab67616d00001e02cc6f76f75551af499b5cd0cbab67616d00001e02da343b21617aac0c57e332bb" alt="" width="50" /> | 1 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022270d3bd1d13133edf0be836ab67616d00001e026017bca98dea58ceddea77c1ab67616d00001e02a0df2d59f0ae9426cba3eb36ab67616d00001e02cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 1 | [Cursed English](../../playlists/cursed_english/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e026f248f7695eb544a3a1955c5ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e028acb7bac073f378d59bf228eab67616d00001e02b3be3b970fc89a02f301c9da" alt="" width="50" /> | 1 | [Workout](../../playlists/workout/overview.md) |
@@ -52,7 +54,7 @@ P1Harmony:
 
 | Tracks | 💚 | Label |
 |---:|---:|:---|
-| 7 | 6 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment/overview.md) |
+| 8 | 7 | [FNC ENTERTAINMENT](../../labels/fnc_entertainment/overview.md) |
 | 1 | 0 | ADA Korea |
 
 ## Genres
@@ -66,9 +68,10 @@ P1Harmony:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2733b809d08ca5a7eafe2978998" alt="" width="50" /> | JUMP | HARMONY : ALL IN | [P1Harmony](overview.md) | [FNC ENTERTAINMENT](../../labels/fnc_entertainment) | 439 | 💚 | [🔗](https://open.spotify.com/track/4vTXBC7QOjEbi8DcJvCNE2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bdbc6077205378b6271af4bf" alt="" width="50" /> | Do It Like This | DISHARMONY : FIND OUT | [P1Harmony](overview.md) | [FNC ENTERTAINMENT](../../labels/fnc_entertainment) | 970 | 💚 | [🔗](https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27353c86f1143b52f1f01f677e0" alt="" width="50" /> | Do It Like This - English Version | Do It Like This (English Version) | [P1Harmony](overview.md) | ADA Korea | 971 | | [🔗](https://open.spotify.com/track/5Z0k8KRK0Xy0metItGplGo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="" width="50" /> | Doom Du Doom | HARMONY : ZERO IN | [P1Harmony](overview.md) | [FNC ENTERTAINMENT](../../labels/fnc_entertainment) | 971 | 💚 | [🔗](https://open.spotify.com/track/41tvdK0UNp3oNKWDPkg7FO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730d55f8c4b87267bcb003d57d" alt="" width="50" /> | BFF (Best Friends Forever) | HARMONY : SET IN | [P1Harmony](overview.md) | [FNC ENTERTAINMENT](../../labels/fnc_entertainment) | 971 | 💚 | [🔗](https://open.spotify.com/track/4sJqthsQcuyjhYbJS1JExL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730d55f8c4b87267bcb003d57d" alt="" width="50" /> | Back Down | HARMONY : SET IN | [P1Harmony](overview.md) | [FNC ENTERTAINMENT](../../labels/fnc_entertainment) | 971 | 💚 | [🔗](https://open.spotify.com/track/7EP9G7AIKrywWGdYsYZzGv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730d55f8c4b87267bcb003d57d" alt="" width="50" /> | Secret Sauce | HARMONY : SET IN | [P1Harmony](overview.md) | [FNC ENTERTAINMENT](../../labels/fnc_entertainment) | 971 | | [🔗](https://open.spotify.com/track/31wuLarPgLZJSlohr7OCjj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738cf0e84e77a46b5317c09924" alt="" width="50" /> | Killin' It | Killin' It | [P1Harmony](overview.md) | [FNC ENTERTAINMENT](../../labels/fnc_entertainment) | 971 | 💚 | [🔗](https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27353c86f1143b52f1f01f677e0" alt="" width="50" /> | Do It Like This - English Version | Do It Like This (English Version) | [P1Harmony](overview.md) | ADA Korea | 974 | | [🔗](https://open.spotify.com/track/5Z0k8KRK0Xy0metItGplGo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273700c67465db0a6d66c3a36d6" alt="" width="50" /> | Doom Du Doom | HARMONY : ZERO IN | [P1Harmony](overview.md) | [FNC ENTERTAINMENT](../../labels/fnc_entertainment) | 974 | 💚 | [🔗](https://open.spotify.com/track/41tvdK0UNp3oNKWDPkg7FO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d55f8c4b87267bcb003d57d" alt="" width="50" /> | BFF (Best Friends Forever) | HARMONY : SET IN | [P1Harmony](overview.md) | [FNC ENTERTAINMENT](../../labels/fnc_entertainment) | 974 | 💚 | [🔗](https://open.spotify.com/track/4sJqthsQcuyjhYbJS1JExL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d55f8c4b87267bcb003d57d" alt="" width="50" /> | Back Down | HARMONY : SET IN | [P1Harmony](overview.md) | [FNC ENTERTAINMENT](../../labels/fnc_entertainment) | 974 | 💚 | [🔗](https://open.spotify.com/track/7EP9G7AIKrywWGdYsYZzGv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730d55f8c4b87267bcb003d57d" alt="" width="50" /> | Secret Sauce | HARMONY : SET IN | [P1Harmony](overview.md) | [FNC ENTERTAINMENT](../../labels/fnc_entertainment) | 974 | | [🔗](https://open.spotify.com/track/31wuLarPgLZJSlohr7OCjj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738cf0e84e77a46b5317c09924" alt="" width="50" /> | Killin' It | Killin' It | [P1Harmony](overview.md) | [FNC ENTERTAINMENT](../../labels/fnc_entertainment) | 974 | 💚 | [🔗](https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273276ab50c3f74f246a2d7fea2" alt="" width="50" /> | SAD SONG | SAD SONG | [P1Harmony](overview.md) | [FNC ENTERTAINMENT](../../labels/fnc_entertainment) | 974 | 💚 | [🔗](https://open.spotify.com/track/4AwUc1mdlX4ARHkUNG0iho) |

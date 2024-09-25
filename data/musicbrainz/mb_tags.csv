@@ -226,6 +226,7 @@ tag,artist_mbid,mb_tag
 ,9a93190b-3e24-4586-bc10-aefd1ad8de01,actor
 ,b3c7c6d6-5907-45a8-b589-1ec2572be4fd,actor
 ,a1421d73-1a21-484b-97ad-77c9a5676daf,adam levine
+,692d7021-5520-4e26-903f-98696bd51772,added for google code-in 2017
 ,4bdcee62-4902-4773-8cd1-e252e2e31225,adult alternative
 ,0307edfc-437c-4b48-8700-80680e66a228,adult contemporary
 ,0ab49580-c84f-44d4-875f-d83760ea2cfe,adult contemporary
@@ -967,6 +968,7 @@ tag,artist_mbid,mb_tag
 ,27e2997f-f7a1-4353-bcc4-57b9274fa9a4,bubblegum metal
 ,122d63fc-8671-43e4-9752-34e846d62a9c,bubblegum pop
 ,260b6184-8828-48eb-945c-bc4cb6fc34ca,bubblegum pop
+,9e5e47a9-4fb0-4772-a11a-26a2e2e28671,bubblegum pop
 ,b8549efe-f4fd-4dc0-8ef1-226e9c400233,bubblegum pop
 ,e5257dc5-1edd-4fca-b7e6-1158e00522c8,bubblegum pop
 ,564eb37b-a611-43cc-b128-9e0d4cc09026,c-pop
@@ -1657,6 +1659,7 @@ tag,artist_mbid,mb_tag
 ,8dd98bdc-80ec-4e93-8509-2f46bafc09a7,edm
 ,91a81925-92f9-4fc9-b897-93cf01226282,edm
 ,9252ca18-015c-484c-ae59-5670784887d3,edm
+,9e5e47a9-4fb0-4772-a11a-26a2e2e28671,edm
 ,a3ee920f-4e7f-4993-8aca-4b8538cfaa4a,edm
 ,a97f393a-13a7-4645-8bba-f10bd22d7228,edm
 ,d2582c77-6b0f-4b2f-802f-8f3cad1a5fec,edm
@@ -1997,6 +2000,7 @@ tag,artist_mbid,mb_tag
 ,49a51491-650e-44b3-8085-2f07ac2986dd,fifth beatle
 ,8a7cf497-dc5c-4523-932d-3fcbc9a69d38,fifth beatle
 ,9252ca18-015c-484c-ae59-5670784887d3,filipino
+,9e5e47a9-4fb0-4772-a11a-26a2e2e28671,filipino
 ,e6de1f3b-6484-491c-88dd-6d619f142abc,film
 ,1ba5e790-ab00-4acc-9083-e3bdc47b2f0b,film composer
 ,2df4ce6a-87d6-49e5-b140-4e71066f996c,film composer
@@ -2318,6 +2322,7 @@ tag,artist_mbid,mb_tag
 ,918feca7-dae2-4785-969e-c4a281551ae7,girl group
 ,99689c05-4f6d-4bff-9b00-06731277fe42,girl group
 ,9df2184b-1e49-4717-a5f5-54ca1c38bcb4,girl group
+,9e5e47a9-4fb0-4772-a11a-26a2e2e28671,girl group
 ,a2b34d7c-ce6c-471f-a3c0-feceacdb85e1,girl group
 ,a97f393a-13a7-4645-8bba-f10bd22d7228,girl group
 ,abbf7d85-9a7f-4a6c-80bd-bf71f2c7d520,girl group
@@ -2654,6 +2659,7 @@ tag,artist_mbid,mb_tag
 ,9724aa19-fdf9-49d0-9f9d-944e462e2a5c,hip hop
 ,993b5a29-a8f1-49d7-9ef3-e05233041454,hip hop
 ,9e34d2b8-d5a9-4f4f-b2d4-0ab5a3ab3546,hip hop
+,9e5e47a9-4fb0-4772-a11a-26a2e2e28671,hip hop
 ,9f92f1e5-7b25-4be2-ab61-76b6db556887,hip hop
 ,9fff2f8a-21e6-47de-a2b8-7f449929d43f,hip hop
 ,a10a337d-5790-467c-a3ad-ba11ba6daf98,hip hop
@@ -2764,6 +2770,7 @@ tag,artist_mbid,mb_tag
 ,be547bca-8718-4762-bf1b-34a3bdb4938f,idol
 ,3ee9d430-5c76-4947-83bf-ebb5a9e3419c,idol group
 ,9252ca18-015c-484c-ae59-5670784887d3,idol group
+,9e5e47a9-4fb0-4772-a11a-26a2e2e28671,idol group
 ,ddea2b8e-f772-4c39-ab90-e1983b74a149,idol group
 ,9252ca18-015c-484c-ae59-5670784887d3,idols
 ,9252ca18-015c-484c-ae59-5670784887d3,ihawan
@@ -3782,6 +3789,7 @@ tag,artist_mbid,mb_tag
 ,8541e7c3-301f-4ffa-8a87-804c4836fe34,opm
 ,866e346f-8171-4c67-80fc-9ecd915cf83f,opm
 ,9252ca18-015c-484c-ae59-5670784887d3,opm
+,9e5e47a9-4fb0-4772-a11a-26a2e2e28671,opm
 ,e089ceae-91ac-4abe-b0de-120925e7632f,opm
 ,27870d47-bb98-42d1-bf2b-c7e972e6befc,oratorio
 ,8af55e27-c6ad-44f3-a6d2-53df5462798c,orchestra
@@ -3808,6 +3816,7 @@ tag,artist_mbid,mb_tag
 ,8541e7c3-301f-4ffa-8a87-804c4836fe34,p-pop
 ,866e346f-8171-4c67-80fc-9ecd915cf83f,p-pop
 ,9252ca18-015c-484c-ae59-5670784887d3,p-pop
+,9e5e47a9-4fb0-4772-a11a-26a2e2e28671,p-pop
 ,a887a52d-56b4-4078-881a-e141bcd033d3,p-pop
 ,e089ceae-91ac-4abe-b0de-120925e7632f,p-pop
 ,9252ca18-015c-484c-ae59-5670784887d3,p-pop idol group filipino songwriters original dancer pinoy pop boy band opm
@@ -3833,6 +3842,7 @@ tag,artist_mbid,mb_tag
 ,65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab,pessimistic
 ,fa37018e-3557-4cb7-973f-555003c30174,philharmonic orchestra
 ,9252ca18-015c-484c-ae59-5670784887d3,philippines
+,9e5e47a9-4fb0-4772-a11a-26a2e2e28671,philippines
 ,d5c51c36-ac67-4727-91ed-ee9f0df81a2d,philly soul
 ,00fc124e-6645-4530-8d0b-7def83c5ee25,pianist
 ,1f9df192-a621-4f54-8850-2c5373b7eac9,pianist
@@ -3849,6 +3859,7 @@ tag,artist_mbid,mb_tag
 ,fbb375f9-48bb-4635-824e-4120273b3ba7,piano rock
 ,9252ca18-015c-484c-ae59-5670784887d3,pinoy
 ,9252ca18-015c-484c-ae59-5670784887d3,pinoy pop
+,9e5e47a9-4fb0-4772-a11a-26a2e2e28671,pinoy pop
 ,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,pity pop
 ,0383dadf-2a4e-4d10-a46a-e9e041da8eb3,playful
 ,64b94289-9474-4d43-8c93-918ccc1920d1,poetic

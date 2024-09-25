@@ -31,8 +31,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273cbb25c0de45e6a6ded073802" alt="Clé 1 : MIROH" width="50" /> | MIROH (0.979) | <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="SAILING" width="50" /> | How can I love the heartbreak, you're the one I love (0.248) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273869bb5c720b743357fd402bd" alt="Clé 2 : Yellow Wood" width="50" /> | Side Effects (0.977) | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="SEOULITE" width="50" /> | BREATHE (0.251) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d10195d8d9abd1357fff450" alt="NCT #127 - The 1st Mini Album" width="50" /> | 소방차 Fire Truck (0.976) | <img src="https://i.scdn.co/image/ab67616d0000b2733fe0e026d4043e5d62c81328" alt="LOVE or TAKE" width="50" /> | Boy in time - HUI Solo (0.255) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dd1819c6c74b6775205e8c67" alt="Sound G." width="50" /> | Abracadabra (0.973) | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="Love Yourself 結 &#x27;Answer&#x27;" width="50" /> | Singularity (0.272) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb6e8a26c2c4d9a23f888a94" alt="쏘리 쏘리 Sorry, Sorry - The 3rd Album" width="50" /> | 쏘리 쏘리 Sorry, Sorry (0.972) | <img src="https://i.scdn.co/image/ab67616d0000b27331996f8836156158d3605ce9" alt="Hotel del Luna (Original Television Soundtrack) Pt.3" width="50" /> | 그대라는 시 (0.287) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737beb8c5a91bfd0f262780056" alt="악몽" width="50" /> | Chase Me (0.975) | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="Love Yourself 結 &#x27;Answer&#x27;" width="50" /> | Singularity (0.272) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dd1819c6c74b6775205e8c67" alt="Sound G." width="50" /> | Abracadabra (0.973) | <img src="https://i.scdn.co/image/ab67616d0000b27331996f8836156158d3605ce9" alt="Hotel del Luna (Original Television Soundtrack) Pt.3" width="50" /> | 그대라는 시 (0.287) |
 
 ## Speechiness
 

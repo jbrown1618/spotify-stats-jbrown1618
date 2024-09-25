@@ -15,7 +15,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273715d1b4d21f0ca40a8e95840" alt="Always" width="50" /> | Always (0.804) | <img src="https://i.scdn.co/image/ab67616d0000b273913c7a28b9dbce0ec35a7045" alt="Music Is Better Than Words" width="50" /> | Love Won't Let You Get Away (0.465) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Dreamer (0.802) | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Odi Et Amo (0.472) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="LATATA (English Ver.)" width="50" /> | LATATA - English Ver. (0.801) | <img src="https://i.scdn.co/image/ab67616d0000b273fb9108286103eac3d310e290" alt="I burn" width="50" /> | HANN (Alone in winter) (0.474) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="Windy" width="50" /> | BEAM BEAM (0.799) | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="Fifty Shades Freed - Original Motion Picture Soundtrack" width="50" /> | Love Me Like You Do (0.489) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="Windy" width="50" /> | BEAM BEAM (0.799) | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="Fifty Shades Freed (Original Motion Picture Soundtrack)" width="50" /> | Love Me Like You Do (0.489) |
 
 ## Energy
 
@@ -42,7 +42,7 @@
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2739cbfec319f493499b31fba46" alt="4U : OUTSIDE" width="50" /> | Outsider (0.269) | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Meant (0.0267) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="Windy" width="50" /> | Is this bad b****** number? (0.254) | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Odi Et Amo (0.0275) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Focus" width="50" /> | Focus (0.239) | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="Fifty Shades Freed - Original Motion Picture Soundtrack" width="50" /> | Love Me Like You Do (0.0292) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d6ec808748fa5b0c2d3a6618" alt="Focus" width="50" /> | Focus (0.239) | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="Fifty Shades Freed (Original Motion Picture Soundtrack)" width="50" /> | Love Me Like You Do (0.0292) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="LATATA (English Ver.)" width="50" /> | LATATA - English Ver. (0.231) | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything - Deluxe" width="50" /> | My Everything (0.0294) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="Dangerous Woman" width="50" /> | Side To Side (0.23) | <img src="https://i.scdn.co/image/ab67616d0000b2733fe0e026d4043e5d62c81328" alt="LOVE or TAKE" width="50" /> | Baby I Love You (0.0315) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed56e93fba864c231be87d65" alt="Windy" width="50" /> | Psycho (0.19) | <img src="https://i.scdn.co/image/ab67616d0000b273cb3f67e8026e2e493a1e8262" alt="My Head Is An Animal" width="50" /> | Little Talks (0.032) |
@@ -74,7 +74,7 @@
 
 | ​ | 10 most Instrumental tracks | ​​ | 10 least Instrumental tracks |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27396e164f0c5aac83148bb8f24" alt="LEVEL3" width="50" /> | だいじょばない (0.844) | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="Fifty Shades Freed - Original Motion Picture Soundtrack" width="50" /> | Love Me Like You Do (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396e164f0c5aac83148bb8f24" alt="LEVEL3" width="50" /> | だいじょばない (0.844) | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="Fifty Shades Freed (Original Motion Picture Soundtrack)" width="50" /> | Love Me Like You Do (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334222e48d075ace5ed2c2e9e" alt="Jurassic Park (Soundtrack)" width="50" /> | Theme From Jurassic Park - From "Jurassic Park" Soundtrack (0.779) | <img src="https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5" alt="Santa Tell Me" width="50" /> | Santa Tell Me (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="Beatrix Runs" width="50" /> | Meant (0.124) | <img src="https://i.scdn.co/image/ab67616d0000b2730b6ab2f6b02f2a9e6713b47d" alt="SUM(ME:R)" width="50" /> | Humph! (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389" alt="LOVE ALL SERVE ALL" width="50" /> | Matsuri (0.0502) | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="WE:TH" width="50" /> | Daisy (0.0) |

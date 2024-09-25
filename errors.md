@@ -29,6 +29,7 @@ None
 | Strange (feat. RM) | D-2 | RM | 0 | 2 | 79 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 88 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 80 |
+| Sleep-walking | Prequel | Dreamcatcher | 1 | 1 | 61 |
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 69 |
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 55 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 49 |
@@ -37,18 +38,16 @@ None
 | Underground | Artemis | Lindsey Stirling | 1 | 1 | 66 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 50 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 65 |
-| Sleep-walking | Prequel | Dreamcatcher | 1 | 1 | 61 |
-| We Go - English Version | We Go - English Version | aespa | 0 | 0 | 80 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 60 |
-| Lone Digger | <|º_º|> | Caravan Palace | 2 | 2 | 61 |
+| Lone Digger | <|º_º|> | Caravan Palace | 2 | 2 | 62 |
 | Joker | Joker is Alive | Dalshabet | 0 | 0 | 32 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | JIN | 0 | 0 | 73 |
 | Wings | Wings | PIXY | 0 | 0 | 37 |
-| La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
-| Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 38 |
-| Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 38 |
-| I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 38 |
-| Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 38 |
+| La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 39 |
+| Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 39 |
+| Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 39 |
+| I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 39 |
+| Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 39 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 66 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 34 |
 | Drink It | Drink It | THE BOYZ | 0 | 0 | 59 |
@@ -73,15 +72,15 @@ None
 | I will show you | Invitation | AILEE | 0 | 0 | 58 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 63 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 59 |
-| Cat (Feat. IU) | Cat | Sunwoojunga | 1 | 0 | 46 |
+| Cat (Feat. IU) | Cat | Sunwoojunga | 1 | 0 | 47 |
 | Cat (Feat. IU) | Cat | IU | 1 | 0 | 71 |
 | Star | [12:00] | LOONA | 1 | 1 | 55 |
 | Why Not? | [12:00] | LOONA | 1 | 1 | 55 |
 | Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 55 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 54 |
-| The Phantom Of The Opera | Century Child | Nightwish | 1 | 1 | 67 |
-| End Of All Hope | Century Child | Nightwish | 0 | 1 | 67 |
-| Nemo | Once | Nightwish | 0 | 0 | 67 |
+| The Phantom Of The Opera | Century Child | Nightwish | 1 | 1 | 68 |
+| End Of All Hope | Century Child | Nightwish | 0 | 1 | 68 |
+| Nemo | Once | Nightwish | 0 | 0 | 68 |
 | Ya! (feat. Whee In) | Stay As You Are | Whee In | 0 | 0 | 50 |
 | Ya! (feat. Whee In) | Stay As You Are | Sandeul | 0 | 0 | 42 |
 | Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 0 | 0 | 59 |
@@ -93,8 +92,8 @@ None
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 27 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 76 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 79 |
-| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 70 |
-| Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 61 |
+| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 69 |
+| Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 62 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 73 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 76 |
 | Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 70 |
@@ -103,8 +102,9 @@ None
 | I Do | It's Raining | Rain | 0 | 0 | 46 |
 | It′s Raining | It's Raining | Rain | 0 | 0 | 46 |
 | Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 86 |
+| Slide Away | Slide Away | Miley Cyrus | 2 | 1 | 84 |
 | Miku | Miku | Anamanaguchi | 0 | 0 | 51 |
-| Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 43 |
+| Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 44 |
 | Heartbeat | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) | SURAN | 0 | 0 | 52 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 52 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 50 |
@@ -125,7 +125,7 @@ None
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 25 |
 | Call Me Mother | American | RuPaul | 0 | 0 | 56 |
 | Lose | Love Synonym #2 : Right for Us | WONHO | 0 | 0 | 45 |
-| Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 67 |
+| Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 68 |
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 48 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 57 |
 | Toy | Toy | Netta | 1 | 0 | 49 |
