@@ -32,7 +32,7 @@
 | <img src="https://i.scdn.co/image/b1e56021e0af6da7c4dad6e677318c716f66a4c3" alt="" width="50" /> | 430 | 2 | 0 | Henry Purcell | [🔗](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq) |
 | <img src="https://i.scdn.co/image/ebdcb255475d7204204576d18490994fb62a8413" alt="" width="50" /> | 430 | 1 | 0 | Capriccio Stravagante | [🔗](https://open.spotify.com/artist/7Hb8ewIvJmuQPAQ5MMVXJE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ee70d3962767cdb6757e9a2b" alt="" width="50" /> | 430 | 1 | 0 | Joseph Jennings | [🔗](https://open.spotify.com/artist/5A3ntUGTCKttzOwkoF9AUY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb92b24687e5c545daa04290e6" alt="" width="50" /> | 430 | 1 | 0 | Chanticleer | [🔗](https://open.spotify.com/artist/4p6DfIA6NnKmWeRgDJPLT0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfb9935004153f102958deda1" alt="" width="50" /> | 430 | 1 | 0 | Chanticleer | [🔗](https://open.spotify.com/artist/4p6DfIA6NnKmWeRgDJPLT0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb31012b4fbdb04b01943efb2" alt="" width="50" /> | 430 | 1 | 0 | The Choir Of Trinity College, Cambridge | [🔗](https://open.spotify.com/artist/3x8rZy1i6FwWOWKwfRT1Ab) |
 | <img src="https://i.scdn.co/image/e2930a243565b3a9675ef0943ba181f28c780109" alt="" width="50" /> | 430 | 1 | 0 | Skip Sempé | [🔗](https://open.spotify.com/artist/3DSclbx4DSkyIvouHCxHHZ) |
 

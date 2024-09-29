@@ -9,7 +9,7 @@
 [See Clusters](clusters/overview.md)
 
 ## Artist Rank
-- The #132 artist of all time
+- The #134 artist of all time
 
 ![Rank of Beyoncé over time](../../images/artists/beyoncé/rank_time_series.png)
 ## Top Albums
@@ -177,7 +177,7 @@
 | | [Manny Marroquin](../../producers/manny_marroquin/overview.md) | 1 | Producer |
 | | Rodney Jerkins | 1 | Producer, Songwriter |
 | | Wanya Morris | 1 | Songwriter |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb515dea0684e8e716852e24e0" alt="" width="50" /> | [Lady Gaga](../lady_gaga/overview.md) | 1 | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb60f57316669a4ba12eb37b94" alt="" width="50" /> | [Lady Gaga](../lady_gaga/overview.md) | 1 | Producer, Songwriter |
 | | Diane Warren | 1 | Songwriter |
 | | Carlos Bedoya | 1 | Producer |
 | | Rommel Nino Villanueva | 1 | Producer |

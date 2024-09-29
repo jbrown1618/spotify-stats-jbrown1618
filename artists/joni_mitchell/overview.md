@@ -5,7 +5,7 @@
 <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="Joni Mitchell" width="100" />
 
 ## Artist Rank
-- The #399 artist of all time
+- The #398 artist of all time
 
 ![Rank of Joni Mitchell over time](../../images/artists/joni_mitchell/rank_time_series.png)
 ## Top Tracks
@@ -79,7 +79,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="" width="50" /> | The Dawntreader | Song to a Seagull | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 885 | | [🔗](https://open.spotify.com/track/0KE9YElZqPumrpm9ovtXlN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="" width="50" /> | The Dawntreader | Song to a Seagull | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 883 | | [🔗](https://open.spotify.com/track/0KE9YElZqPumrpm9ovtXlN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="" width="50" /> | I Had a King | Song to a Seagull | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 974 | 💚 | [🔗](https://open.spotify.com/track/6rj2z2taVIxPRnzx5LJkGm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="" width="50" /> | The Pirate of Penance | Song to a Seagull | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 974 | | [🔗](https://open.spotify.com/track/53QbBfo0PTUKfOBM0YoPU7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b80ea8399313aeffb10b0acb" alt="" width="50" /> | Big Yellow Taxi | Ladies of the Canyon | [Joni Mitchell](overview.md) | [Rhino](../../labels/rhino) | 974 | 💚 | [🔗](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) |

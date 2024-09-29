@@ -2736,6 +2736,18 @@ recording_mbid,artist_mbid,credit_type,credit_details
 3a0d0d29-0c97-4570-b79c-3bebffe4bf49,e30acb2c-cb87-4fdb-aa77-bcc658b79e6e,producer,
 3a0d0d29-0c97-4570-b79c-3bebffe4bf49,f906154a-7011-49c3-8f6a-44ca83311b08,vocal,
 3a0d0d29-0c97-4570-b79c-3bebffe4bf49,fd65c60b-2aaa-4537-85c8-18b07c9a12e7,producer,
+3a7e1970-069c-4761-a6b2-9046e54406bc,151cd917-1ee2-4702-859f-90899ad897f8,instrument,keyboard
+3a7e1970-069c-4761-a6b2-9046e54406bc,151cd917-1ee2-4702-859f-90899ad897f8,producer,
+3a7e1970-069c-4761-a6b2-9046e54406bc,151cd917-1ee2-4702-859f-90899ad897f8,songwriter,
+3a7e1970-069c-4761-a6b2-9046e54406bc,151cd917-1ee2-4702-859f-90899ad897f8,vocal,
+3a7e1970-069c-4761-a6b2-9046e54406bc,4435da4e-be1a-4808-8cad-23f9a496a5ea,producer,drums (drum set)
+3a7e1970-069c-4761-a6b2-9046e54406bc,75890b0f-77c5-479f-84ce-beb210cd6f89,producer,
+3a7e1970-069c-4761-a6b2-9046e54406bc,d57ca381-f6f9-44d0-bdd9-ae529212ca86,producer,task
+3a7e1970-069c-4761-a6b2-9046e54406bc,d5c077e4-e5ad-421d-8981-f1df0c72a840,producer,
+3a7e1970-069c-4761-a6b2-9046e54406bc,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,instrument,keyboard
+3a7e1970-069c-4761-a6b2-9046e54406bc,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,producer,
+3a7e1970-069c-4761-a6b2-9046e54406bc,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,songwriter,
+3a7e1970-069c-4761-a6b2-9046e54406bc,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,vocal,
 3af602f0-e273-4d66-83c2-8d55243cc56b,07c464c8-bec7-4c39-8fea-c19c9595edc8,producer,
 3af602f0-e273-4d66-83c2-8d55243cc56b,2f3c4d70-0462-40da-bba3-0aec5772c556,songwriter,
 3af602f0-e273-4d66-83c2-8d55243cc56b,3cd05f49-917d-4837-8a5d-9ddacb027127,songwriter,
@@ -4949,6 +4961,8 @@ recording_mbid,artist_mbid,credit_type,credit_details
 67421678-2236-4290-936e-0be909aedae6,ebdbed2e-d2e0-4ea3-83d3-c045405df3ee,arranger,
 67421678-2236-4290-936e-0be909aedae6,ebdbed2e-d2e0-4ea3-83d3-c045405df3ee,songwriter,
 67421678-2236-4290-936e-0be909aedae6,f189b9dc-626f-40d2-9532-f24b0a1f1ed5,vocal,
+67558fc1-d18a-4851-979e-099671efcc14,a0b8cb9e-7532-45fe-a74c-30e7c4009a39,songwriter,
+67558fc1-d18a-4851-979e-099671efcc14,daa09819-5da5-4c7a-8bef-eb372bb27ff1,songwriter,
 67817edf-5dcc-470a-8dfc-bddfe1ea5035,2ab1734f-72ca-4756-8ad4-f2aeec972168,instrument,bass
 67817edf-5dcc-470a-8dfc-bddfe1ea5035,39df5c2a-5ad1-45d7-bc89-4fada16c9d5f,instrument,accordion
 67817edf-5dcc-470a-8dfc-bddfe1ea5035,511c533d-d5f5-4b00-8bc8-b45344fca524,instrument,acoustic guitar

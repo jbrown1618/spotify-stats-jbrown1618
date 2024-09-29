@@ -23,7 +23,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb628143c3dd14fc995f925d56" alt="" width="50" /> | 430 | 1 | 1 | Offset | [🔗](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) |
 | <img src="https://i.scdn.co/image/14925be3ce17d25a95b95ae7491e18fe3adc80b0" alt="" width="50" /> | 430 | 1 | 1 | Mary Wells | [🔗](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) |
 | <img src="https://i.scdn.co/image/e6c035ae9b2a8dd5cf6a3c5f4a0b274d5ff2a605" alt="" width="50" /> | 430 | 1 | 1 | Rick James | [🔗](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) |
-| <img src="https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434" alt="" width="50" /> | 312 | 3 | 0 | Marvin Gaye | [🔗](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) |
+| <img src="https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434" alt="" width="50" /> | 313 | 3 | 0 | Marvin Gaye | [🔗](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) |
 | <img src="https://i.scdn.co/image/85df4af2833ce0f0fa25363c59c07e90a12c78d0" alt="" width="50" /> | 430 | 1 | 0 | Tammi Terrell | [🔗](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) |
 
 ![Bar chart of top 10 artists](../../images/labels/motown/artists.png)
@@ -83,7 +83,7 @@ Appears as:
 
 
 <details>
-<summary>See all 20 genres</summary>
+<summary>See all 21 genres</summary>
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
@@ -95,13 +95,14 @@ Appears as:
 | 1 | 1 | p funk |
 | 1 | 1 | [hip hop](../../genres/hip_hop/overview.md) |
 | 1 | 1 | atl hip hop |
+| 3 | 0 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
 | 3 | 0 | northern soul |
-| 3 | 0 | neo soul |
+| 3 | 0 | [neo soul](../../genres/neo_soul/overview.md) |
 
 </details>
 
 
-![Bar chart of top 20 genres](../../images/labels/motown/genres.png)
+![Bar chart of top 21 genres](../../images/labels/motown/genres.png)
 
 ## Top Producers
 

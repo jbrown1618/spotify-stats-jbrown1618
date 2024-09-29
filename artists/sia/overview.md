@@ -9,7 +9,7 @@
 [See Clusters](clusters/overview.md)
 
 ## Artist Rank
-- The #145 artist of all time
+- The #146 artist of all time
 
 ![Rank of Sia over time](../../images/artists/sia/rank_time_series.png)
 ## Top Tracks
@@ -117,7 +117,7 @@
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a197a2ef3ad6704d1f44aa4e" alt="" width="50" /> | Titanium (feat. Sia) | Nothing but the Beat 2.0 | David Guetta, [Sia](overview.md) | Parlophone (France) | 362 | 💚 | [🔗](https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | Santa's Coming for Us | Everyday Is Christmas (Deluxe Edition) | [Sia](overview.md) | [Atlantic Records](../../labels/atlantic_records), [Monkey Puzzle](../../labels/monkey_puzzle) | 504 | | [🔗](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | Santa's Coming for Us | Everyday Is Christmas (Deluxe Edition) | [Sia](overview.md) | [Atlantic Records](../../labels/atlantic_records), [Monkey Puzzle](../../labels/monkey_puzzle) | 506 | | [🔗](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | Big Girls Cry | 1000 Forms Of Fear (Deluxe Version) | [Sia](overview.md) | [Monkey Puzzle](../../labels/monkey_puzzle), [RCA Records Label](../../labels/rca_records_label) | 974 | 💚 | [🔗](https://open.spotify.com/track/7zE6pyXLjUCOy8PG0UL5SZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | Chandelier | 1000 Forms Of Fear (Deluxe Version) | [Sia](overview.md) | [Monkey Puzzle](../../labels/monkey_puzzle), [RCA Records Label](../../labels/rca_records_label) | 974 | 💚 | [🔗](https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | Elastic Heart | 1000 Forms Of Fear (Deluxe Version) | [Sia](overview.md) | [Monkey Puzzle](../../labels/monkey_puzzle), [RCA Records Label](../../labels/rca_records_label) | 974 | 💚 | [🔗](https://open.spotify.com/track/5S9lfZu1YF8xKkgSsqL2Bd) |

@@ -18,7 +18,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec212a39ffa4182a0fff4e3c" alt="" width="50" /> | 430 | 2 | 1 | The Temptations | [🔗](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) |
 | <img src="https://i.scdn.co/image/14925be3ce17d25a95b95ae7491e18fe3adc80b0" alt="" width="50" /> | 430 | 1 | 1 | Mary Wells | [🔗](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) |
 | <img src="https://i.scdn.co/image/85df4af2833ce0f0fa25363c59c07e90a12c78d0" alt="" width="50" /> | 430 | 1 | 0 | Tammi Terrell | [🔗](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) |
-| <img src="https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434" alt="" width="50" /> | 312 | 1 | 0 | Marvin Gaye | [🔗](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) |
+| <img src="https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434" alt="" width="50" /> | 313 | 1 | 0 | Marvin Gaye | [🔗](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) |
 
 ![Bar chart of top 6 artists](../../images/labels/uni/artists.png)
 
@@ -60,11 +60,12 @@ Appears as:
 | 2 | 1 | memphis soul |
 | 2 | 1 | disco |
 | 1 | 1 | southern soul |
+| 1 | 0 | [vocal jazz](../../genres/vocal_jazz/overview.md) |
 | 1 | 0 | quiet storm |
 | 1 | 0 | northern soul |
-| 1 | 0 | neo soul |
+| 1 | 0 | [neo soul](../../genres/neo_soul/overview.md) |
 
-![Bar chart of top 9 genres](../../images/labels/uni/genres.png)
+![Bar chart of top 10 genres](../../images/labels/uni/genres.png)
 
 ## Top Producers
 
