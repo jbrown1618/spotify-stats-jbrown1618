@@ -100,7 +100,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="Midnights" width="50" /> | Karma (0.475) | <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="52nd Street" width="50" /> | My Life (0.0555) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27331cfb3b6d1abde235358f218" alt="Saw It Coming" width="50" /> | Saw It Coming (0.456) | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | King of Anything (0.0574) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="Born To Die" width="50" /> | Off To The Races (0.4) | <img src="https://i.scdn.co/image/ab67616d0000b2732fa478d357cac0fd0407643f" alt="Days Are Gone" width="50" /> | The Wire (0.0585) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d864e01d4519936935bf7ed" alt="i&#x27;m confident that i&#x27;m insecure" width="50" /> | i'm confident that i'm insecure (0.387) | <img src="https://i.scdn.co/image/ab67616d0000b273f67fbf0d465cca2b3e25af96" alt="Don&#x27;t Shoot Me I&#x27;m Only The Piano Player" width="50" /> | Crocodile Rock (0.059) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27351180adb687f6b58c91c7553" alt="i&#x27;m confident that i&#x27;m insecure" width="50" /> | i'm confident that i'm insecure (0.387) | <img src="https://i.scdn.co/image/ab67616d0000b273f67fbf0d465cca2b3e25af96" alt="Don&#x27;t Shoot Me I&#x27;m Only The Piano Player" width="50" /> | Crocodile Rock (0.059) |
 
 ## Valence
 

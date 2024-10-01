@@ -9,7 +9,7 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab" alt="" width="50" /> | 430 | 1 | 0 | Frank Ocean | [🔗](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab" alt="" width="50" /> | 431 | 1 | 0 | Frank Ocean | [🔗](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) |
 
 
 
@@ -25,7 +25,7 @@
 
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 974 | <img src="https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526" alt="Blonde" width="50" /> | Pink + White | 974 | <img src="https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526" alt="Blonde" width="50" /> | Pink + White |
+| 976 | <img src="https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526" alt="Blonde" width="50" /> | Pink + White | 976 | <img src="https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526" alt="Blonde" width="50" /> | Pink + White |
 
 </details>
 
@@ -35,7 +35,7 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526" alt="" width="50" /> | 643 | 1 | 0 | Blonde | 2016-08-20 | [🔗](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526" alt="" width="50" /> | 644 | 1 | 0 | Blonde | 2016-08-20 | [🔗](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) |
 
 
 
