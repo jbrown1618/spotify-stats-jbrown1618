@@ -17,7 +17,7 @@ Maroon 5:
 - has member James Valentine
 
 ## Artist Rank
-- The #109 artist of all time
+- The #110 artist of all time
 
 ![Rank of Maroon 5 over time](../../images/artists/maroon_5/rank_time_series.png)
 ## Top Albums

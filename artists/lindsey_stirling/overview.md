@@ -14,7 +14,7 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="" width="50" /> | 514 | 2 | 2 | Lindsey Stirling | 2012 | [🔗](https://open.spotify.com/album/3YTWAm90osBvLNWCdF8Nq2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="" width="50" /> | 513 | 2 | 2 | Lindsey Stirling | 2012 | [🔗](https://open.spotify.com/album/3YTWAm90osBvLNWCdF8Nq2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="" width="50" /> | 644 | 1 | 1 | Shatter Me | 2014-05-05 | [🔗](https://open.spotify.com/album/2spbck4ETZz1aLq5Fi5phC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | 291 | 1 | 1 | PTX, Vol. III | 2014-09-23 | [🔗](https://open.spotify.com/album/32y54TelUHSUDWVOx4h1B4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="" width="50" /> | 644 | 1 | 1 | PTX | 2014-09-19 | [🔗](https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D) |
@@ -91,7 +91,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="" width="50" /> | Song of the Caged Bird | Lindsey Stirling | [Lindsey Stirling](overview.md) | Lindseystomp Records | 766 | 💚 | [🔗](https://open.spotify.com/track/1rmCtRmkQXWKRhBi91NX3z) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="" width="50" /> | Song of the Caged Bird | Lindsey Stirling | [Lindsey Stirling](overview.md) | Lindseystomp Records | 769 | 💚 | [🔗](https://open.spotify.com/track/1rmCtRmkQXWKRhBi91NX3z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="" width="50" /> | Crystallize | Lindsey Stirling | [Lindsey Stirling](overview.md) | Lindseystomp Records | 976 | 💚 | [🔗](https://open.spotify.com/track/5JFkuKQsPps2ZaZzaLx63d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="" width="50" /> | Shatter Me Featuring Lzzy Hale | Shatter Me | [Lindsey Stirling](overview.md) | Lindseystomp Records | 976 | 💚 | [🔗](https://open.spotify.com/track/2K7j4xrQENCi5r3Hii4cVe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="" width="50" /> | Radioactive | PTX | [Pentatonix](../pentatonix/overview.md), [Lindsey Stirling](overview.md) | [RCA Records Label](../../labels/rca_records_label) | 976 | 💚 | [🔗](https://open.spotify.com/track/7dJGehjbhJvs3K4fWwYTW1) |

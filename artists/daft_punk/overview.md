@@ -11,7 +11,7 @@ Daft Punk:
 - has member Guy-Manuel de Homem-Christo
 
 ## Artist Rank
-- The #262 artist of all time
+- The #263 artist of all time
 
 ![Rank of Daft Punk over time](../../images/artists/daft_punk/rank_time_series.png)
 ## Top Tracks

@@ -13,7 +13,7 @@ Appears as:
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5aa2cd4bb1ebf4fa8611b1e6" alt="" width="50" /> | 136 | 13 | 6 | [Sammy Rae & The Friends](../../artists/sammy_rae___the_friends/overview.md) | [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5aa2cd4bb1ebf4fa8611b1e6" alt="" width="50" /> | 134 | 13 | 6 | [Sammy Rae & The Friends](../../artists/sammy_rae___the_friends/overview.md) | [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3eb6f55c271d954cc871954f" alt="" width="50" /> | 431 | 1 | 1 | Passenger | [🔗](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) |
 
 
@@ -23,7 +23,7 @@ Appears as:
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27397c6ad2505c3c67f99b49ac5" alt="" width="50" /> | 644 | 4 | 2 | Something for Everybody | 2024-09-20 | [🔗](https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="" width="50" /> | 234 | 3 | 2 | The Good Life | 2018-07-10 | [🔗](https://open.spotify.com/album/4s1igjt5YJe7s7BdCeX3DX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="" width="50" /> | 235 | 3 | 2 | The Good Life | 2018-07-10 | [🔗](https://open.spotify.com/album/4s1igjt5YJe7s7BdCeX3DX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d43af9a040457f0eb9c478b" alt="" width="50" /> | 580 | 3 | 2 | I Get It Now | 2024-04-12 | [🔗](https://open.spotify.com/album/5zZHAGHasjwkR9B1xX3Xq6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27342859c496ab80d9867ef21b6" alt="" width="50" /> | 644 | 1 | 1 | All The Little Lights | 2012-08-28 | [🔗](https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736646e03c0ee350a175ab6d5b" alt="" width="50" /> | 644 | 1 | 0 | Whatever We Feel | 2020-04-03 | [🔗](https://open.spotify.com/album/4Qcemk272gcxq9D6ca40Xz) |
@@ -53,8 +53,8 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="" width="50" /> | Talk It Up | The Good Life | [Sammy Rae & The Friends](../../artists/sammy_rae___the_friends/overview.md) | [Nettwerk Music Group](.) | 328 | 💚 | [🔗](https://open.spotify.com/track/7FQCZ5i5bmQ76LoGHyVcX0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d43af9a040457f0eb9c478b" alt="" width="50" /> | I Get It Now | I Get It Now | [Sammy Rae & The Friends](../../artists/sammy_rae___the_friends/overview.md) | [Nettwerk Music Group](.) | 874 | 💚 | [🔗](https://open.spotify.com/track/03ECDyILFfQ98k106zwcIt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="" width="50" /> | Talk It Up | The Good Life | [Sammy Rae & The Friends](../../artists/sammy_rae___the_friends/overview.md) | [Nettwerk Music Group](.) | 329 | 💚 | [🔗](https://open.spotify.com/track/7FQCZ5i5bmQ76LoGHyVcX0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d43af9a040457f0eb9c478b" alt="" width="50" /> | I Get It Now | I Get It Now | [Sammy Rae & The Friends](../../artists/sammy_rae___the_friends/overview.md) | [Nettwerk Music Group](.) | 871 | 💚 | [🔗](https://open.spotify.com/track/03ECDyILFfQ98k106zwcIt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27342859c496ab80d9867ef21b6" alt="" width="50" /> | Let Her Go | All The Little Lights | Passenger | [Nettwerk Music Group](.) | 976 | 💚 | [🔗](https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="" width="50" /> | Kick It to Me | The Good Life | [Sammy Rae & The Friends](../../artists/sammy_rae___the_friends/overview.md) | [Nettwerk Music Group](.) | 976 | 💚 | [🔗](https://open.spotify.com/track/6QZbDUZEgkwaVWROtWzjQ0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="" width="50" /> | The Feeling | The Good Life | [Sammy Rae & The Friends](../../artists/sammy_rae___the_friends/overview.md) | [Nettwerk Music Group](.) | 976 | | [🔗](https://open.spotify.com/track/0dmCos7GHCr5PRKp5LNGH7) |

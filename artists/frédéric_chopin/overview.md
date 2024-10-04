@@ -9,7 +9,7 @@
 [See Clusters](clusters/overview.md)
 
 ## Artist Rank
-- The #162 artist of all time
+- The #165 artist of all time
 
 ![Rank of Frédéric Chopin over time](../../images/artists/frédéric_chopin/rank_time_series.png)
 ## Top Tracks
