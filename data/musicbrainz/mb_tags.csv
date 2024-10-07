@@ -392,6 +392,7 @@ tag,artist_mbid,mb_tag
 ,a94e530f-4e9f-40e6-b44b-ebec06f7900e,ambient
 ,c7e7036d-236a-4b4c-83a8-64bca8b14d7e,ambient
 ,e32f2cd6-8695-4914-9c24-72e02ebd09ee,ambient
+,f089f636-6b85-4e0e-a192-0d30ed2b44d1,ambient
 ,ff95eb47-41c4-4f7f-a104-cdc30f02e872,ambient
 ,1dce970e-34bc-48b2-ab51-48d87544a4c2,ambient dub
 ,a74b1b7f-71a5-4011-9441-d0b5e4122711,ambient pop
@@ -1195,6 +1196,7 @@ tag,artist_mbid,mb_tag
 ,da3f4766-628e-4da3-a871-014728993157,composer
 ,e45e9117-633a-4e16-8700-bcb306cbfb46,composer
 ,e6de1f3b-6484-491c-88dd-6d619f142abc,composer
+,f089f636-6b85-4e0e-a192-0d30ed2b44d1,composer
 ,1890e726-4817-42f4-92e7-ca78bef6692a,compositeur
 ,20336142-85de-4e11-a1fd-a6c815b4e583,compositeur
 ,34bfcd5d-a76d-4b31-8022-b5ac04d5801b,compositeur
@@ -1645,6 +1647,7 @@ tag,artist_mbid,mb_tag
 ,fbe054ec-a143-4101-9e9e-64abc5ff5ac9,easy listening
 ,197450cd-0124-4164-b723-3c22dd16494d,easy listening soundtracks and musicals
 ,611700cf-27f0-4dc9-ae80-c513a767853e,easy listening soundtracks and musicals
+,a32e4aac-1db8-4dc6-be34-a813c4530627,easy listening soundtracks and musicals
 ,c7e7036d-236a-4b4c-83a8-64bca8b14d7e,easy listening soundtracks and musicals
 ,e9fcfbbf-1743-4f73-8744-ada8da7394ea,easy listening soundtracks and musicals
 ,0383dadf-2a4e-4d10-a46a-e9e041da8eb3,eclectic
@@ -1933,6 +1936,7 @@ tag,artist_mbid,mb_tag
 ,f23074f4-2c06-477a-bf1d-12fa66e087ee,english
 ,f6af669a-56ea-448a-a044-de76181ada33,english
 ,9b6ab0d6-9366-4a2a-bb45-97f5b3288460,enka
+,f089f636-6b85-4e0e-a192-0d30ed2b44d1,epic
 ,097e3f11-6ddd-4d0a-8e10-15207b49a043,euro
 ,7364dea6-ca9a-48e3-be01-b44ad0d19897,euro-dance
 ,7364dea6-ca9a-48e3-be01-b44ad0d19897,euro-pop
@@ -2252,6 +2256,7 @@ tag,artist_mbid,mb_tag
 ,f90e8b26-9e52-4669-a5c9-e28529c47894,g-funk
 ,0923598e-2b97-4527-b984-5feed94c168d,game
 ,e6de1f3b-6484-491c-88dd-6d619f142abc,game
+,f089f636-6b85-4e0e-a192-0d30ed2b44d1,game
 ,0976dbd8-e7fe-4161-9a49-58c57f7a7787,game company
 ,92465dcb-b0c4-4401-bbd8-634693165b81,game soundtrack
 ,59eda569-b380-4958-b98c-051d1667b3e1,gangsta rap
@@ -2271,6 +2276,7 @@ tag,artist_mbid,mb_tag
 ,5700dcd4-c139-4f31-aa3e-6382b9af9032,german
 ,e47b4862-a587-488f-b7a7-bd329726693d,german
 ,e6de1f3b-6484-491c-88dd-6d619f142abc,german
+,f089f636-6b85-4e0e-a192-0d30ed2b44d1,german
 ,1f9df192-a621-4f54-8850-2c5373b7eac9,german composer
 ,38f59974-2f4d-4bfa-b2e3-d2696de1b675,get weird
 ,38f59974-2f4d-4bfa-b2e3-d2696de1b675,girl band
@@ -2977,6 +2983,7 @@ tag,artist_mbid,mb_tag
 ,b5179744-f217-4455-9d8b-17b8d4fdeb93,instrumental rock
 ,cc6115aa-379c-4133-9f46-5743a4a341d0,instrumental rock
 ,12327d75-47d5-45d9-84c2-3760b9210c17,interview
+,f089f636-6b85-4e0e-a192-0d30ed2b44d1,iranian
 ,a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432,ireland
 ,a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432,irish
 ,bc85c6f6-6b06-44c1-8754-ef32c1e6b824,iswcs pending
@@ -3663,6 +3670,7 @@ tag,artist_mbid,mb_tag
 ,6bf692e0-baac-4428-94c3-423d52508cf0,modern classical
 ,9c306413-56b6-4ff6-982a-7e4b87d01340,modern classical
 ,e6de1f3b-6484-491c-88dd-6d619f142abc,modern classical
+,f089f636-6b85-4e0e-a192-0d30ed2b44d1,modern classical
 ,e2b96b55-35c4-45b9-8d7b-726ac927982f,modern laiko
 ,4cc9a981-772c-4a8c-990f-1aefb95ae288,monotree
 ,618b6900-0618-4f1e-b835-bccb17f84294,montreux
@@ -3802,6 +3810,7 @@ tag,artist_mbid,mb_tag
 ,32111fcd-2338-472a-892b-4b329549e3ba,orchestral
 ,827b3151-accf-4c2b-b585-14daf26480ac,orchestral
 ,e6de1f3b-6484-491c-88dd-6d619f142abc,orchestral
+,f089f636-6b85-4e0e-a192-0d30ed2b44d1,orchestral
 ,20336142-85de-4e11-a1fd-a6c815b4e583,orchestrateur
 ,20336142-85de-4e11-a1fd-a6c815b4e583,orchestrator
 ,1f9df192-a621-4f54-8850-2c5373b7eac9,organ
@@ -4035,6 +4044,7 @@ tag,artist_mbid,mb_tag
 ,9fb041a3-b06c-4ba8-9318-5c71e1804323,pop
 ,a1421d73-1a21-484b-97ad-77c9a5676daf,pop
 ,a16d1433-ba89-4f72-a47b-a370add0bb55,pop
+,a32e4aac-1db8-4dc6-be34-a813c4530627,pop
 ,a42d3fd5-55de-4206-86c3-4fbb5404018f,pop
 ,a477e067-629a-41bc-9878-21a6fb559a57,pop
 ,a47c3aa2-7d87-475c-a2c7-1e2047dafb09,pop
@@ -5204,6 +5214,7 @@ tag,artist_mbid,mb_tag
 ,a0498514-c21c-4e85-8dbf-a1b92374a06b,rock
 ,a0b77a10-ecff-4b84-b1f3-008391038d67,rock
 ,a15face4-36a4-472a-992a-45eaeb285eb0,rock
+,a32e4aac-1db8-4dc6-be34-a813c4530627,rock
 ,a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432,rock
 ,a41ac10f-0a56-4672-9161-b83f9b223559,rock
 ,a42d3fd5-55de-4206-86c3-4fbb5404018f,rock
@@ -5413,6 +5424,7 @@ tag,artist_mbid,mb_tag
 ,1fefa8b3-806b-4ab9-a066-66574b22aa16,score
 ,bc880664-6751-4998-984d-ebdbff15d229,score
 ,e6de1f3b-6484-491c-88dd-6d619f142abc,score
+,f089f636-6b85-4e0e-a192-0d30ed2b44d1,score
 ,951d2103-9c7d-4849-ae60-88bf6aa4790b,scottish
 ,3c9b356d-d1db-4f4e-a7a3-2d00c1d70255,seattle
 ,5b11f4ce-a62d-471e-81fc-a69a8278c7da,seattle
@@ -5890,6 +5902,7 @@ tag,artist_mbid,mb_tag
 ,bc880664-6751-4998-984d-ebdbff15d229,soundtrack
 ,e6bf5ff8-43f1-4c19-a7a7-7de289784dff,soundtrack
 ,e6de1f3b-6484-491c-88dd-6d619f142abc,soundtrack
+,f089f636-6b85-4e0e-a192-0d30ed2b44d1,soundtrack
 ,e6de1f3b-6484-491c-88dd-6d619f142abc,soundtrack composer
 ,ee6e8790-7123-40ab-b7e9-03c4fe6aa08f,soundtrack composer
 ,0ce1a4c2-ad1e-40d0-80da-d3396bc6518a,soundtracks
@@ -6287,11 +6300,13 @@ tag,artist_mbid,mb_tag
 ,92465dcb-b0c4-4401-bbd8-634693165b81,vgm
 ,c376498a-cdf6-422b-9055-3fce84424402,vgm
 ,e6de1f3b-6484-491c-88dd-6d619f142abc,vgm
+,f089f636-6b85-4e0e-a192-0d30ed2b44d1,vgm
 ,0923598e-2b97-4527-b984-5feed94c168d,video game
 ,0ce7fbf0-1107-4c4f-b117-5f0756cf90c4,video game
 ,af5499e0-8a48-4a53-bedd-3c4c67e688b6,video game
 ,c376498a-cdf6-422b-9055-3fce84424402,video game
 ,e6de1f3b-6484-491c-88dd-6d619f142abc,video game
+,f089f636-6b85-4e0e-a192-0d30ed2b44d1,video game
 ,92465dcb-b0c4-4401-bbd8-634693165b81,video game music
 ,af5499e0-8a48-4a53-bedd-3c4c67e688b6,video game music
 ,c376498a-cdf6-422b-9055-3fce84424402,video game music

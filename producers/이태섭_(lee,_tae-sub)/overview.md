@@ -11,12 +11,12 @@
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c6952f39ba680489149a54c" alt="" width="50" /> | 9 | 8 | 7 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a" alt="" width="50" /> | 5 | 2 | 2 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3448062884d4ad30473e964b" alt="" width="50" /> | 5 | 2 | 2 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2b9446440d296ce32189024e" alt="" width="50" /> | 18 | 2 | 2 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb562386d76cf9051be82de6f5" alt="" width="50" /> | 431 | 1 | 1 | tripleS | [🔗](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) |
 | | 431 | 1 | 1 | Felix (Stray Kids) | [🔗](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0576f9b8cd1e8c68afe0e3e6" alt="" width="50" /> | 431 | 1 | 1 | ARTMS | [🔗](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfbdd3f060e1cbe9e8eeaecac" alt="" width="50" /> | 130 | 1 | 1 | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfbdd3f060e1cbe9e8eeaecac" alt="" width="50" /> | 127 | 1 | 1 | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
 
 ## Works with Producers
 

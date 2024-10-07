@@ -20,7 +20,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb05859a430915d19cd6e67bbb" alt="" width="50" /> | 120 | 1 | 1 | Kim Petras | [🔗](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba11b0b5c37498f5dddb1bd7b" alt="" width="50" /> | 431 | 1 | 1 | Latto | [🔗](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf057d1dce23e7f4d5d0f32e5" alt="" width="50" /> | 431 | 1 | 1 | Sam Smith | [🔗](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | 294 | 1 | 1 | Charli xcx | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | 295 | 1 | 1 | Charli xcx | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb716114797a4a644c67c5fa72" alt="" width="50" /> | 431 | 1 | 1 | USHER | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77" alt="" width="50" /> | 110 | 1 | 1 | [Maroon 5](../../artists/maroon_5/overview.md) | [🔗](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) |
 

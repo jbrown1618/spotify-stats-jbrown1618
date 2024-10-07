@@ -11,7 +11,7 @@
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0a15baf94edacca0396868b4" alt="" width="50" /> | 431 | 9 | 7 | [Imogen Heap](../../artists/imogen_heap/overview.md) | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | 294 | 6 | 4 | Charli xcx | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | 295 | 6 | 4 | Charli xcx | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a" alt="" width="50" /> | 431 | 6 | 3 | Ellie Goulding | [🔗](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3" alt="" width="50" /> | 213 | 3 | 2 | Lorde | [🔗](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf3517333f4713a51b9ee5457" alt="" width="50" /> | 179 | 2 | 2 | Metric | [🔗](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) |
@@ -27,7 +27,7 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eba688abfbbed1037befa47232" alt="" width="50" /> | 390 | 1 | 1 | HAIM | [🔗](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba688abfbbed1037befa47232" alt="" width="50" /> | 392 | 1 | 1 | HAIM | [🔗](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1e9c5c07c1244a637929678c" alt="" width="50" /> | 431 | 1 | 1 | VÉRITÉ | [🔗](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9675860a0330f45981e83436" alt="" width="50" /> | 431 | 1 | 1 | Guy Sigsworth | [🔗](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdf01727aa674ddefa777797a" alt="" width="50" /> | 431 | 1 | 0 | Diplo | [🔗](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) |
@@ -44,31 +44,31 @@
 ## Most and least listened tracks
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 519 | <img src="https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336" alt="Melodrama" width="50" /> | Green Light | 976 | <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="Speak for Yourself" width="50" /> | [Hide and Seek](../../artists/imogen_heap/overview.md) |
-| 768 | <img src="https://i.scdn.co/image/ab67616d0000b273086ca574430eaa107d3e855f" alt="CRASH" width="50" /> | Good Ones | 976 | <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="Delirium" width="50" /> | Something In The Way You Move |
-| 976 | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="Fifty Shades Freed (Original Motion Picture Soundtrack)" width="50" /> | Love Me Like You Do | 976 | <img src="https://i.scdn.co/image/ab67616d0000b2732fa478d357cac0fd0407643f" alt="Days Are Gone" width="50" /> | The Wire |
-| 976 | <img src="https://i.scdn.co/image/ab67616d0000b27374b226f1b53ca4902dedce2a" alt="Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1)" width="50" /> | Yellow Flicker Beat | 976 | <img src="https://i.scdn.co/image/ab67616d0000b273e689157967d6f852fc59a746" alt="Close To Me (Red Velvet Remix)" width="50" /> | Close To Me - Red Velvet Remix |
-| 976 | <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="Speak for Yourself" width="50" /> | [Goodnight and Go](../../artists/imogen_heap/overview.md) | 976 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="Slow Grenade" width="50" /> | Slow Grenade |
-| 976 | <img src="https://i.scdn.co/image/ab67616d0000b273086ca574430eaa107d3e855f" alt="CRASH" width="50" /> | Beg for You (feat. Rina Sawayama) | 976 | <img src="https://i.scdn.co/image/ab67616d0000b273d8164c97d4a8e537a5d13db2" alt="Synthetica (Deluxe Edition)" width="50" /> | Lost Kitten |
-| 976 | <img src="https://i.scdn.co/image/ab67616d0000b27370d7aa769af19e7e2c2e107b" alt="Fantasies" width="50" /> | Gimme Sympathy | 976 | <img src="https://i.scdn.co/image/ab67616d0000b27347aa67914674ad0dce5caa88" alt="Lights" width="50" /> | Lights - Single Version |
-| 976 | <img src="https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98" alt="Pure Heroine" width="50" /> | Royals | 976 | <img src="https://i.scdn.co/image/ab67616d0000b27389d2970ad135571a0243ca31" alt="Goodnight And Go" width="50" /> | [Speeding Cars](../../artists/imogen_heap/overview.md) |
-| 976 | <img src="https://i.scdn.co/image/ab67616d0000b273cb3f67e8026e2e493a1e8262" alt="My Head Is An Animal" width="50" /> | Little Talks | 976 | <img src="https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e" alt="BRAT" width="50" /> | 365 |
-| 976 | <img src="https://i.scdn.co/image/ab67616d0000b273ce94afb9aa5d73f00852a45b" alt="Somebody Else" width="50" /> | Somebody Else | 976 | <img src="https://i.scdn.co/image/ab67616d0000b27347aa67914674ad0dce5caa88" alt="Lights" width="50" /> | Your Song |
+| 520 | <img src="https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336" alt="Melodrama" width="50" /> | Green Light | 978 | <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="Speak for Yourself" width="50" /> | [Hide and Seek](../../artists/imogen_heap/overview.md) |
+| 767 | <img src="https://i.scdn.co/image/ab67616d0000b273086ca574430eaa107d3e855f" alt="CRASH" width="50" /> | Good Ones | 978 | <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="Delirium" width="50" /> | Something In The Way You Move |
+| 978 | <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="Fifty Shades Freed (Original Motion Picture Soundtrack)" width="50" /> | Love Me Like You Do | 978 | <img src="https://i.scdn.co/image/ab67616d0000b2732fa478d357cac0fd0407643f" alt="Days Are Gone" width="50" /> | The Wire |
+| 978 | <img src="https://i.scdn.co/image/ab67616d0000b27374b226f1b53ca4902dedce2a" alt="Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1)" width="50" /> | Yellow Flicker Beat | 978 | <img src="https://i.scdn.co/image/ab67616d0000b273e689157967d6f852fc59a746" alt="Close To Me (Red Velvet Remix)" width="50" /> | Close To Me - Red Velvet Remix |
+| 978 | <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="Speak for Yourself" width="50" /> | [Goodnight and Go](../../artists/imogen_heap/overview.md) | 978 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="Slow Grenade" width="50" /> | Slow Grenade |
+| 978 | <img src="https://i.scdn.co/image/ab67616d0000b273086ca574430eaa107d3e855f" alt="CRASH" width="50" /> | Beg for You (feat. Rina Sawayama) | 978 | <img src="https://i.scdn.co/image/ab67616d0000b273d8164c97d4a8e537a5d13db2" alt="Synthetica (Deluxe Edition)" width="50" /> | Lost Kitten |
+| 978 | <img src="https://i.scdn.co/image/ab67616d0000b27370d7aa769af19e7e2c2e107b" alt="Fantasies" width="50" /> | Gimme Sympathy | 978 | <img src="https://i.scdn.co/image/ab67616d0000b27347aa67914674ad0dce5caa88" alt="Lights" width="50" /> | Lights - Single Version |
+| 978 | <img src="https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98" alt="Pure Heroine" width="50" /> | Royals | 978 | <img src="https://i.scdn.co/image/ab67616d0000b27389d2970ad135571a0243ca31" alt="Goodnight And Go" width="50" /> | [Speeding Cars](../../artists/imogen_heap/overview.md) |
+| 978 | <img src="https://i.scdn.co/image/ab67616d0000b273cb3f67e8026e2e493a1e8262" alt="My Head Is An Animal" width="50" /> | Little Talks | 978 | <img src="https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e" alt="BRAT" width="50" /> | 365 |
+| 978 | <img src="https://i.scdn.co/image/ab67616d0000b273ce94afb9aa5d73f00852a45b" alt="Somebody Else" width="50" /> | Somebody Else | 978 | <img src="https://i.scdn.co/image/ab67616d0000b27347aa67914674ad0dce5caa88" alt="Lights" width="50" /> | Your Song |
 
 ## Top Albums
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | 644 | 4 | 3 | Ellipse | 2009-08-25 | [🔗](https://open.spotify.com/album/5AYKGPzPBJNHeKehCxMaq0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="" width="50" /> | 644 | 3 | 3 | Speak for Yourself | 2005-07-18 | [🔗](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273086ca574430eaa107d3e855f" alt="" width="50" /> | 516 | 2 | 2 | CRASH | 2022-03-18 | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27347aa67914674ad0dce5caa88" alt="" width="50" /> | 644 | 2 | 1 | Lights | 2011-01-01 | [🔗](https://open.spotify.com/album/3duZhvcaoqdNveQYXf9dMV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e" alt="" width="50" /> | 644 | 2 | 1 | BRAT | 2024-06-07 | [🔗](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27374b226f1b53ca4902dedce2a" alt="" width="50" /> | 644 | 1 | 1 | Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1) | 2014-09-30 | [🔗](https://open.spotify.com/album/7sg5iqMiDrM2aJqLAmv83V) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8164c97d4a8e537a5d13db2" alt="" width="50" /> | 644 | 1 | 1 | Synthetica (Deluxe Edition) | 2012-01-01 | [🔗](https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce94afb9aa5d73f00852a45b" alt="" width="50" /> | 644 | 1 | 1 | Somebody Else | 2016-09-09 | [🔗](https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="" width="50" /> | 644 | 1 | 1 | Slow Grenade | 2020-06-30 | [🔗](https://open.spotify.com/album/15Zgvxqql6EPHE3NJlUt0R) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98" alt="" width="50" /> | 644 | 1 | 1 | Pure Heroine | 2013-09-27 | [🔗](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | 646 | 4 | 3 | Ellipse | 2009-08-25 | [🔗](https://open.spotify.com/album/5AYKGPzPBJNHeKehCxMaq0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="" width="50" /> | 646 | 3 | 3 | Speak for Yourself | 2005-07-18 | [🔗](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273086ca574430eaa107d3e855f" alt="" width="50" /> | 515 | 2 | 2 | CRASH | 2022-03-18 | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347aa67914674ad0dce5caa88" alt="" width="50" /> | 646 | 2 | 1 | Lights | 2011-01-01 | [🔗](https://open.spotify.com/album/3duZhvcaoqdNveQYXf9dMV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e" alt="" width="50" /> | 646 | 2 | 1 | BRAT | 2024-06-07 | [🔗](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27374b226f1b53ca4902dedce2a" alt="" width="50" /> | 646 | 1 | 1 | Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1) | 2014-09-30 | [🔗](https://open.spotify.com/album/7sg5iqMiDrM2aJqLAmv83V) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8164c97d4a8e537a5d13db2" alt="" width="50" /> | 646 | 1 | 1 | Synthetica (Deluxe Edition) | 2012-01-01 | [🔗](https://open.spotify.com/album/2xbkLrXys1oVlp5fgTgwSJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce94afb9aa5d73f00852a45b" alt="" width="50" /> | 646 | 1 | 1 | Somebody Else | 2016-09-09 | [🔗](https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="" width="50" /> | 646 | 1 | 1 | Slow Grenade | 2020-06-30 | [🔗](https://open.spotify.com/album/15Zgvxqql6EPHE3NJlUt0R) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98" alt="" width="50" /> | 646 | 1 | 1 | Pure Heroine | 2013-09-27 | [🔗](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) |
 
 
 <details>
@@ -76,17 +76,17 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273cb3f67e8026e2e493a1e8262" alt="" width="50" /> | 644 | 1 | 1 | My Head Is An Animal | 2012-01-01 | [🔗](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b8d8be49f9c4a44b0574144" alt="" width="50" /> | 644 | 1 | 1 | Guess featuring Billie Eilish | 2024-08-01 | [🔗](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | 644 | 1 | 1 | Fifty Shades Freed (Original Motion Picture Soundtrack) | 2018-02-09 | [🔗](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27370d7aa769af19e7e2c2e107b" alt="" width="50" /> | 644 | 1 | 1 | Fantasies | 2009-04-14 | [🔗](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732fa478d357cac0fd0407643f" alt="" width="50" /> | 644 | 1 | 1 | Days Are Gone | 2013-09-30 | [🔗](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52" alt="" width="50" /> | 644 | 1 | 1 | A New Kind Of Love (Demo) | 2022-04-08 | [🔗](https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336" alt="" width="50" /> | 361 | 1 | 0 | Melodrama | 2017-06-16 | [🔗](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27389d2970ad135571a0243ca31" alt="" width="50" /> | 644 | 1 | 0 | Goodnight And Go | 2006-05-02 | [🔗](https://open.spotify.com/album/3JYjYjUAoBjxXr1W8eDVLV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="" width="50" /> | 644 | 1 | 0 | Delirium | 2015-11-13 | [🔗](https://open.spotify.com/album/4A43DyDoAVa1Fb8pq6Yejl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e689157967d6f852fc59a746" alt="" width="50" /> | 644 | 1 | 0 | Close To Me (Red Velvet Remix) | 2019-04-05 | [🔗](https://open.spotify.com/album/7dg5iqyFYqRQH7vtAG9VNf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="" width="50" /> | 644 | 1 | 0 | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | 2022-02-25 | [🔗](https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cb3f67e8026e2e493a1e8262" alt="" width="50" /> | 646 | 1 | 1 | My Head Is An Animal | 2012-01-01 | [🔗](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ac297d16bee7cf072601a21" alt="" width="50" /> | 646 | 1 | 1 | Guess featuring Billie Eilish | 2024-08-01 | [🔗](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736cd9798b6ace10ff98d1abdd" alt="" width="50" /> | 646 | 1 | 1 | Fifty Shades Freed (Original Motion Picture Soundtrack) | 2018-02-09 | [🔗](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370d7aa769af19e7e2c2e107b" alt="" width="50" /> | 646 | 1 | 1 | Fantasies | 2009-04-14 | [🔗](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732fa478d357cac0fd0407643f" alt="" width="50" /> | 646 | 1 | 1 | Days Are Gone | 2013-09-30 | [🔗](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52" alt="" width="50" /> | 646 | 1 | 1 | A New Kind Of Love (Demo) | 2022-04-08 | [🔗](https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336" alt="" width="50" /> | 362 | 1 | 0 | Melodrama | 2017-06-16 | [🔗](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389d2970ad135571a0243ca31" alt="" width="50" /> | 646 | 1 | 0 | Goodnight And Go | 2006-05-02 | [🔗](https://open.spotify.com/album/3JYjYjUAoBjxXr1W8eDVLV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273570d18beb1f15ef8adfb27a5" alt="" width="50" /> | 646 | 1 | 0 | Delirium | 2015-11-13 | [🔗](https://open.spotify.com/album/4A43DyDoAVa1Fb8pq6Yejl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e689157967d6f852fc59a746" alt="" width="50" /> | 646 | 1 | 0 | Close To Me (Red Velvet Remix) | 2019-04-05 | [🔗](https://open.spotify.com/album/7dg5iqyFYqRQH7vtAG9VNf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b0ed835957dbf3c63184a3bc" alt="" width="50" /> | 646 | 1 | 0 | Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama] | 2022-02-25 | [🔗](https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq) |
 
 </details>
 
@@ -213,7 +213,7 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b8d8be49f9c4a44b0574144" alt="Guess featuring Billie Eilish" width="50" /> | Guess featuring Billie Eilish (2024-08-01) | <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="Speak for Yourself" width="50" /> | Speak for Yourself (2005-07-18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ac297d16bee7cf072601a21" alt="Guess featuring Billie Eilish" width="50" /> | Guess featuring Billie Eilish (2024-08-01) | <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="Speak for Yourself" width="50" /> | Speak for Yourself (2005-07-18) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e" alt="BRAT" width="50" /> | BRAT (2024-06-07) | <img src="https://i.scdn.co/image/ab67616d0000b27389d2970ad135571a0243ca31" alt="Goodnight And Go" width="50" /> | Goodnight And Go (2006-05-02) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52" alt="A New Kind Of Love (Demo)" width="50" /> | A New Kind Of Love (Demo) (2022-04-08) | <img src="https://i.scdn.co/image/ab67616d0000b27370d7aa769af19e7e2c2e107b" alt="Fantasies" width="50" /> | Fantasies (2009-04-14) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273086ca574430eaa107d3e855f" alt="CRASH" width="50" /> | CRASH (2022-03-18) | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="Ellipse" width="50" /> | Ellipse (2009-08-25) |

@@ -16,7 +16,7 @@
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da" alt="" width="50" /> | 45 | 16 | 16 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb24ff450c42d4e36fb34a7631" alt="" width="50" /> | 431 | 1 | 1 | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | 294 | 1 | 1 | Charli xcx | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | 295 | 1 | 1 | Charli xcx | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 
 ## Works with Producers
 
@@ -71,4 +71,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62" alt="" width="50" /> | BLUE | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62" alt="" width="50" /> | LUNCH | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62" alt="" width="50" /> | BIRDS OF A FEATHER | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b8d8be49f9c4a44b0574144" alt="" width="50" /> | Guess featuring Billie Eilish | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ac297d16bee7cf072601a21" alt="" width="50" /> | Guess featuring Billie Eilish | Songwriter |

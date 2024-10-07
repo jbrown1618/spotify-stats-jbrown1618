@@ -83,7 +83,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273911ec384e21ccdf7ad8c045b" alt="So Hot" width="50" /> | So Hot (0.00972) | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="I NEVER DIE" width="50" /> | TOMBOY (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c041fe9e3c9de436047d86b" alt="I Am The Best" width="50" /> | I Am The Best (0.00834) | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="BORN PINK" width="50" /> | Typa Girl (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="Summer Magic - Summer Mini Album" width="50" /> | Power Up (0.00745) | <img src="https://i.scdn.co/image/ab67616d0000b273c9c9aaadb2d6d3d44be06332" alt="Fe3O4: STICK OUT" width="50" /> | SICKUHH (Feat. Kid Milli) (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273485623bc41b6760fc1bca2f4" alt="CRAZY" width="50" /> | Pierrot (0.00677) | <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="KISS OF LIFE" width="50" /> | Sugarcoat (NATTY Solo) (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a5bb4ef1ca42f4378d815c7c" alt="GREAT!" width="50" /> | BBoom BBoom (0.00666) | <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="KISS OF LIFE" width="50" /> | Sugarcoat (NATTY Solo) (0.0) |
 
 ## Liveness
 

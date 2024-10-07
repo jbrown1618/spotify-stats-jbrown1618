@@ -96,11 +96,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273caae7b75fb240dd81f3f7129" alt="ממותה" width="50" /> | סתלבט בקיבוץ (0.47) | <img src="https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6" alt="Sofa Silahlane" width="50" /> | Sofa Silahlane (0.0418) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21" alt="Teatro d&#x27;ira - Vol. I" width="50" /> | ZITTI E BUONI (0.424) | <img src="https://i.scdn.co/image/ab67616d0000b273b163e68f32326a74e7e77c33" alt="קוביות" width="50" /> | קוביות (0.0453) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ced33a22eacf5ead6169c3b0" alt="Cheater" width="50" /> | Like A Lady (0.413) | <img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="GAME" width="50" /> | チョコレイト・ディスコ (0.0519) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732bb4e77f30c614c2a7b67b9d" alt="METAL GALAXY" width="50" /> | Kagerou (0.409) | <img src="https://i.scdn.co/image/ab67616d0000b273896ffcd42561c44fea2bae7b" alt="Con Calma" width="50" /> | Con Calma (0.0574) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ced490e566f828ee9ca8d263" alt="潜潜話" width="50" /> | 脳裏上のクラッカー (0.384) | <img src="https://i.scdn.co/image/ab67616d0000b273c99f58d4685a5f438e6c9167" alt="Lo Malo" width="50" /> | Lo Malo (0.0613) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273139f130e4816af20a8050105" alt="wakage ga itaru" width="50" /> | koi geba (0.374) | <img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="Look At Me" width="50" /> | Look At Me (0.0623) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="アイドル" width="50" /> | アイドル (0.367) | <img src="https://i.scdn.co/image/ab67616d0000b2733f3d35703bdcd917dad51c4f" alt="Pasoori" width="50" /> | Pasoori (0.0625) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | Loving You (0.362) | <img src="https://i.scdn.co/image/ab67616d0000b27348cbdef454b5636ee5ebeb34" alt="No title-" width="50" /> | No title (0.0638) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732bb4e77f30c614c2a7b67b9d" alt="METAL GALAXY" width="50" /> | Kagerou (0.409) | <img src="https://i.scdn.co/image/ab67616d0000b27378b106b428bb4eb8ac9f666b" alt="モノトーン" width="50" /> | モノトーン (0.057) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ced490e566f828ee9ca8d263" alt="潜潜話" width="50" /> | 脳裏上のクラッカー (0.384) | <img src="https://i.scdn.co/image/ab67616d0000b273896ffcd42561c44fea2bae7b" alt="Con Calma" width="50" /> | Con Calma (0.0574) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273139f130e4816af20a8050105" alt="wakage ga itaru" width="50" /> | koi geba (0.374) | <img src="https://i.scdn.co/image/ab67616d0000b273c99f58d4685a5f438e6c9167" alt="Lo Malo" width="50" /> | Lo Malo (0.0613) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="アイドル" width="50" /> | アイドル (0.367) | <img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="Look At Me" width="50" /> | Look At Me (0.0623) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | Loving You (0.362) | <img src="https://i.scdn.co/image/ab67616d0000b2733f3d35703bdcd917dad51c4f" alt="Pasoori" width="50" /> | Pasoori (0.0625) |
 
 ## Valence
 

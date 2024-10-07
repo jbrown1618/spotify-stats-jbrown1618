@@ -12,7 +12,7 @@
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb02a562ea6b1dc718394010ac" alt="" width="50" /> | 2 | 4 | 4 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb77f6a3aedfcc4eba07fa14b3" alt="" width="50" /> | 39 | 3 | 3 | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [🔗](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbf250c4fdc18bb30560fceb5" alt="" width="50" /> | 39 | 3 | 3 | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [🔗](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) |
 | | 431 | 1 | 1 | CHUNG HA | [🔗](https://open.spotify.com/artist/73tdwqQJWnBdf1jyUeMwyu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb573935eb61a1897aeb43c531" alt="" width="50" /> | 1 | 1 | 1 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb80584436e5726afb70cee7f8" alt="" width="50" /> | 97 | 1 | 1 | [LOONA](../../artists/loona/overview.md) | [🔗](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) |
