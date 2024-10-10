@@ -13,11 +13,11 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb247f44069c0bd1781df2f785" alt="" width="50" /> | 136 | 11 | 11 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb247f44069c0bd1781df2f785" alt="" width="50" /> | 138 | 11 | 11 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2d405f4858ce3cd52d409c98" alt="" width="50" /> | 431 | 1 | 1 | Burna Boy | [🔗](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4" alt="" width="50" /> | 431 | 1 | 1 | JAY-Z | [🔗](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab" alt="" width="50" /> | 431 | 1 | 1 | Frank Ocean | [🔗](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb60f57316669a4ba12eb37b94" alt="" width="50" /> | 128 | 1 | 1 | [Lady Gaga](../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb60f57316669a4ba12eb37b94" alt="" width="50" /> | 135 | 1 | 1 | [Lady Gaga](../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 
 ## Works with Producers
 

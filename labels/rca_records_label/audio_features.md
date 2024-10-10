@@ -117,7 +117,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733c9f7b8faf039c7607d12255" alt="Britney Jean (Deluxe Version)" width="50" /> | Work Bitch (0.852) | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="PTX, Vol. 2" width="50" /> | Run to You (0.176) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369ad639dd6829cb2414a53f9" alt="RIIZING - The 1st Mini Album" width="50" /> | Boom Boom Bass (0.83) | <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="That&#x27;s Christmas To Me (Deluxe Edition)" width="50" /> | Mary, Did You Know? (0.178) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="PTX, Vol. 2" width="50" /> | Natural Disaster (0.819) | <img src="https://i.scdn.co/image/ab67616d0000b27300164c96548a622d34b39828" alt="Beautiful Trauma" width="50" /> | What About Us (0.193) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc" alt="Slime &amp; B" width="50" /> | City Girls (0.815) | <img src="https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a" alt="Planet Her" width="50" /> | Need to Know (0.194) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322fd802bc61db666c7c81aa8" alt="greedy" width="50" /> | greedy (0.816) | <img src="https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a" alt="Planet Her" width="50" /> | Need to Know (0.194) |
 
 ## Tempo
 

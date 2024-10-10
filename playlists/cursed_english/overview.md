@@ -22,7 +22,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb75237a1ba0379041476012b3" alt="" width="50" /> | 10 | 2 | 0 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb02a562ea6b1dc718394010ac" alt="" width="50" /> | 2 | 2 | 0 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6d2c52a7bb1e4582c6340529" alt="" width="50" /> | 16 | 2 | 0 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | 60 | 1 | 0 | [CLC](../../artists/clc/overview.md) | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb123f438003920eced08e348d" alt="" width="50" /> | 61 | 1 | 0 | [CLC](../../artists/clc/overview.md) | [🔗](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) |
 
 
 <details>
@@ -31,12 +31,12 @@
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7d7064b17d00c6f8755eae6" alt="" width="50" /> | 13 | 1 | 0 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf5b576e445d9bb5862084db2" alt="" width="50" /> | 240 | 1 | 0 | FIFTY FIFTY | [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb38c136f067600bd431dd9b93" alt="" width="50" /> | 249 | 1 | 0 | [NCT U](../../artists/nct_u/overview.md) | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd98405c251c8c0e1e0839ada" alt="" width="50" /> | 115 | 1 | 0 | [P1Harmony](../../artists/p1harmony/overview.md) | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb39e45c8eb3dae844dc9fa133" alt="" width="50" /> | 374 | 1 | 0 | WayV | [🔗](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf5b576e445d9bb5862084db2" alt="" width="50" /> | 241 | 1 | 0 | FIFTY FIFTY | [🔗](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb38c136f067600bd431dd9b93" alt="" width="50" /> | 247 | 1 | 0 | [NCT U](../../artists/nct_u/overview.md) | [🔗](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd98405c251c8c0e1e0839ada" alt="" width="50" /> | 111 | 1 | 0 | [P1Harmony](../../artists/p1harmony/overview.md) | [🔗](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb39e45c8eb3dae844dc9fa133" alt="" width="50" /> | 356 | 1 | 0 | WayV | [🔗](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8622596d85e4c4249fb075da" alt="" width="50" /> | 173 | 1 | 0 | Moon Byul | [🔗](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3835e2ba41427e8356bbd091" alt="" width="50" /> | 154 | 1 | 0 | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3835e2ba41427e8356bbd091" alt="" width="50" /> | 159 | 1 | 0 | [TOMORROW X TOGETHER](../../artists/tomorrow_x_together/overview.md) | [🔗](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11b4e5da5aead482944bdef6" alt="" width="50" /> | 132 | 1 | 0 | PIXY | [🔗](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) |
 
 </details>
@@ -56,16 +56,16 @@
 
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 402 | <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | [Sweet Venom (English Ver.)](../../artists/enhypen/overview.md) | 978 | <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="LATATA (English Ver.)" width="50" /> | [LATATA - English Ver.](../../artists/(g)i-dle/overview.md) |
-| 418 | <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="The Beginning: Cupid" width="50" /> | Cupid - Twin Ver. | 978 | <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="Summer Magic - Summer Mini Album" width="50" /> | [Bad Boy - English Version, Bonus Track](../../artists/red_velvet/overview.md) |
-| 716 | <img src="https://i.scdn.co/image/ab67616d0000b2732159a29c68303b4b0076b741" alt="Highway to Heaven (English Version)" width="50" /> | [Highway to Heaven - English Version](../../artists/nct_127/overview.md) | 978 | <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="6equence" width="50" /> | LUNATIC (English Ver.) |
-| 978 | <img src="https://i.scdn.co/image/ab67616d0000b2731e2f86e459a48cfb891bd70d" alt="MORE &amp; MORE (English Version)" width="50" /> | [MORE & MORE (English Version)](../../artists/twice/overview.md) | 978 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> | [SET ME FREE (ENG)](../../artists/twice/overview.md) |
-| 978 | <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | [ICY - English Ver.](../../artists/itzy/overview.md) | 978 | <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Bewitched - Eng Ver. |
-| 978 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | [LOCO - English Ver.](../../artists/itzy/overview.md) | 978 | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="Step Out of Clé (English Ver.)" width="50" /> | [Levanter (English Ver.)](../../artists/stray_kids/overview.md) |
-| 978 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | [DOMINO (English Ver.)](../../artists/stray_kids/overview.md) | 978 | <img src="https://i.scdn.co/image/ab67616d0000b27353c86f1143b52f1f01f677e0" alt="Do It Like This (English Version)" width="50" /> | [Do It Like This - English Version](../../artists/p1harmony/overview.md) |
-| 978 | <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="In the morning (English Ver.)" width="50" /> | [In the morning - English Ver.](../../artists/itzy/overview.md) | 978 | <img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="HWAA" width="50" /> | [HWAA - English Version](../../artists/(g)i-dle/overview.md) |
-| 978 | <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="Cat &amp; Dog (English Version)" width="50" /> | [Cat & Dog (English Version)](../../artists/tomorrow_x_together/overview.md) | 978 | <img src="https://i.scdn.co/image/ab67616d0000b273844a4b52739db3287bd429f8" alt="I CAN&#x27;T STOP ME (English Version)" width="50" /> | [I CAN'T STOP ME (English Version)](../../artists/twice/overview.md) |
-| 978 | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="RBB - The 5th Mini Album" width="50" /> | [RBB (Really Bad Boy) - English Version](../../artists/red_velvet/overview.md) | 978 | <img src="https://i.scdn.co/image/ab67616d0000b273ef4adc98040174caf60aa1a1" alt="What Makes You Beautiful [THE SEASONS: Red Carpet with Lee Hyo Ri]" width="50" /> | [What Makes You Beautiful](../../artists/enhypen/overview.md) |
+| 401 | <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="ORANGE BLOOD" width="50" /> | [Sweet Venom (English Ver.)](../../artists/enhypen/overview.md) | 984 | <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="LATATA (English Ver.)" width="50" /> | [LATATA - English Ver.](../../artists/(g)i-dle/overview.md) |
+| 418 | <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="The Beginning: Cupid" width="50" /> | Cupid - Twin Ver. | 984 | <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="Summer Magic - Summer Mini Album" width="50" /> | [Bad Boy - English Version, Bonus Track](../../artists/red_velvet/overview.md) |
+| 718 | <img src="https://i.scdn.co/image/ab67616d0000b2732159a29c68303b4b0076b741" alt="Highway to Heaven (English Version)" width="50" /> | [Highway to Heaven - English Version](../../artists/nct_127/overview.md) | 984 | <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="6equence" width="50" /> | LUNATIC (English Ver.) |
+| 984 | <img src="https://i.scdn.co/image/ab67616d0000b2731e2f86e459a48cfb891bd70d" alt="MORE &amp; MORE (English Version)" width="50" /> | [MORE & MORE (English Version)](../../artists/twice/overview.md) | 984 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="READY TO BE" width="50" /> | [SET ME FREE (ENG)](../../artists/twice/overview.md) |
+| 984 | <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="Not Shy (English Ver.)" width="50" /> | [ICY - English Ver.](../../artists/itzy/overview.md) | 984 | <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Bewitched - Eng Ver. |
+| 984 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="CRAZY IN LOVE" width="50" /> | [LOCO - English Ver.](../../artists/itzy/overview.md) | 984 | <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="Step Out of Clé (English Ver.)" width="50" /> | [Levanter (English Ver.)](../../artists/stray_kids/overview.md) |
+| 984 | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | [DOMINO (English Ver.)](../../artists/stray_kids/overview.md) | 984 | <img src="https://i.scdn.co/image/ab67616d0000b27353c86f1143b52f1f01f677e0" alt="Do It Like This (English Version)" width="50" /> | [Do It Like This - English Version](../../artists/p1harmony/overview.md) |
+| 984 | <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="In the morning (English Ver.)" width="50" /> | [In the morning - English Ver.](../../artists/itzy/overview.md) | 984 | <img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="HWAA" width="50" /> | [HWAA - English Version](../../artists/(g)i-dle/overview.md) |
+| 984 | <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="Cat &amp; Dog (English Version)" width="50" /> | [Cat & Dog (English Version)](../../artists/tomorrow_x_together/overview.md) | 984 | <img src="https://i.scdn.co/image/ab67616d0000b273844a4b52739db3287bd429f8" alt="I CAN&#x27;T STOP ME (English Version)" width="50" /> | [I CAN'T STOP ME (English Version)](../../artists/twice/overview.md) |
+| 984 | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="RBB - The 5th Mini Album" width="50" /> | [RBB (Really Bad Boy) - English Version](../../artists/red_velvet/overview.md) | 984 | <img src="https://i.scdn.co/image/ab67616d0000b273ef4adc98040174caf60aa1a1" alt="What Makes You Beautiful [THE SEASONS: Red Carpet with Lee Hyo Ri]" width="50" /> | [What Makes You Beautiful](../../artists/enhypen/overview.md) |
 
 </details>
 
@@ -75,15 +75,15 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | 646 | 4 | 0 | Not Shy (English Ver.) | 2021-01-22 | [🔗](https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | 73 | 2 | 0 | TEENFRESH | 2023-08-16 | [🔗](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 12 | 1 | 1 | Girls - The 2nd Mini Album | 2022-07-08 | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ef4adc98040174caf60aa1a1" alt="" width="50" /> | 646 | 1 | 0 | What Makes You Beautiful [THE SEASONS: Red Carpet with Lee Hyo Ri] | 2024-02-23 | [🔗](https://open.spotify.com/album/3RvguzRz56wqZ9fNldExgn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6bfdc0662f6fceb357652b9" alt="" width="50" /> | 650 | 4 | 0 | Not Shy (English Ver.) | 2021-01-22 | [🔗](https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27305f3e920cfd3ae7fe9192149" alt="" width="50" /> | 76 | 2 | 0 | TEENFRESH | 2023-08-16 | [🔗](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 11 | 1 | 1 | Girls - The 2nd Mini Album | 2022-07-08 | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ef4adc98040174caf60aa1a1" alt="" width="50" /> | 650 | 1 | 0 | What Makes You Beautiful [THE SEASONS: Red Carpet with Lee Hyo Ri] | 2024-02-23 | [🔗](https://open.spotify.com/album/3RvguzRz56wqZ9fNldExgn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb" alt="" width="50" /> | 295 | 1 | 0 | The Beginning: Cupid | 2023-02-24 | [🔗](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="" width="50" /> | 646 | 1 | 0 | Summer Magic - Summer Mini Album | 2018-08-06 | [🔗](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="" width="50" /> | 646 | 1 | 0 | Step Out of Clé (English Ver.) | 2020-01-24 | [🔗](https://open.spotify.com/album/2BBeNPEEevRiYISKYEnGvc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736017bca98dea58ceddea77c1" alt="" width="50" /> | 650 | 1 | 0 | Summer Magic - Summer Mini Album | 2018-08-06 | [🔗](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d64e2f339a0a9ea967b308e" alt="" width="50" /> | 650 | 1 | 0 | Step Out of Clé (English Ver.) | 2020-01-24 | [🔗](https://open.spotify.com/album/2BBeNPEEevRiYISKYEnGvc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f57a5ca507a3d3fed81ea6" alt="" width="50" /> | 70 | 1 | 0 | READY TO BE | 2023-03-10 | [🔗](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="" width="50" /> | 84 | 1 | 0 | RBB - The 5th Mini Album | 2018-11-30 | [🔗](https://open.spotify.com/album/7rNIvLwIpB2mwOzk20iqIl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="" width="50" /> | 82 | 1 | 0 | RBB - The 5th Mini Album | 2018-11-30 | [🔗](https://open.spotify.com/album/7rNIvLwIpB2mwOzk20iqIl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="" width="50" /> | 45 | 1 | 0 | ORANGE BLOOD | 2023-11-17 | [🔗](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) |
 
 
@@ -92,25 +92,25 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | 361 | 1 | 0 | NCT RESONANCE Pt. 1 - The 2nd Album | 2020-10-12 | [🔗](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0" alt="" width="50" /> | 646 | 1 | 0 | NCT #127 Regular-Irregular - The 1st Album | 2018-10-12 | [🔗](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731e2f86e459a48cfb891bd70d" alt="" width="50" /> | 646 | 1 | 0 | MORE & MORE (English Version) | 2020-08-21 | [🔗](https://open.spotify.com/album/4AXNnQf2SkyY8d4FQaBKo5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b766593db7dbd908a97cea7" alt="" width="50" /> | 646 | 1 | 0 | Love Talk (English Version) | 2019-11-05 | [🔗](https://open.spotify.com/album/60A7gFYvWmaDULmxUWSjyS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="" width="50" /> | 646 | 1 | 0 | LATATA (English Ver.) | 2020-05-15 | [🔗](https://open.spotify.com/album/0tM1Pr6hTKBNJEyLSft1Fs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="" width="50" /> | 646 | 1 | 0 | In the morning (English Ver.) | 2021-05-14 | [🔗](https://open.spotify.com/album/1VbG3CJlf1cSVDibgiM3GM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734525dae431a233a077d2395c" alt="" width="50" /> | 360 | 1 | 0 | NCT RESONANCE Pt. 1 - The 2nd Album | 2020-10-12 | [🔗](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ff666e3a12273d4d1380e9f0" alt="" width="50" /> | 650 | 1 | 0 | NCT #127 Regular-Irregular - The 1st Album | 2018-10-12 | [🔗](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731e2f86e459a48cfb891bd70d" alt="" width="50" /> | 650 | 1 | 0 | MORE & MORE (English Version) | 2020-08-21 | [🔗](https://open.spotify.com/album/4AXNnQf2SkyY8d4FQaBKo5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b766593db7dbd908a97cea7" alt="" width="50" /> | 650 | 1 | 0 | Love Talk (English Version) | 2019-11-05 | [🔗](https://open.spotify.com/album/60A7gFYvWmaDULmxUWSjyS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734ff1d54536f86d8f9c912efa" alt="" width="50" /> | 650 | 1 | 0 | LATATA (English Ver.) | 2020-05-15 | [🔗](https://open.spotify.com/album/0tM1Pr6hTKBNJEyLSft1Fs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273212e7fb3309718d9d4132095" alt="" width="50" /> | 650 | 1 | 0 | In the morning (English Ver.) | 2021-05-14 | [🔗](https://open.spotify.com/album/1VbG3CJlf1cSVDibgiM3GM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273664020dc5b2af2d454ffa2d4" alt="" width="50" /> | 40 | 1 | 0 | I trust | 2020-04-06 | [🔗](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273844a4b52739db3287bd429f8" alt="" width="50" /> | 646 | 1 | 0 | I CAN'T STOP ME (English Version) | 2020-11-30 | [🔗](https://open.spotify.com/album/2KGNQmq4gpzmdaIcAgJdVe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732159a29c68303b4b0076b741" alt="" width="50" /> | 481 | 1 | 0 | Highway to Heaven (English Version) | 2019-07-18 | [🔗](https://open.spotify.com/album/4et1GgNRTOx3xpK81Z0iOn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="" width="50" /> | 646 | 1 | 0 | HWAA | 2021-01-27 | [🔗](https://open.spotify.com/album/1M1d5bzsGhY2JOVD2AU29G) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | 76 | 1 | 0 | HELICOPTER | 2020-09-02 | [🔗](https://open.spotify.com/album/1uwfxRAhW1hxclCVkzku8d) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="" width="50" /> | 212 | 1 | 0 | Fairyforest : Temptation | 2021-10-07 | [🔗](https://open.spotify.com/album/3999VmQrZOafu4NjYkc0rj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736d58843621783cd5abff29ab" alt="" width="50" /> | 646 | 1 | 0 | Eve, Psyche & the Bluebeard’s wife (English Ver.) | 2023-07-06 | [🔗](https://open.spotify.com/album/1FoKSB8Kc39zc9exXYtNu8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27353c86f1143b52f1f01f677e0" alt="" width="50" /> | 646 | 1 | 0 | Do It Like This (English Version) | 2022-03-10 | [🔗](https://open.spotify.com/album/4L12vI7rtyBFmYOWZYtOi6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 198 | 1 | 0 | Christmas EveL | 2021-11-29 | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="" width="50" /> | 646 | 1 | 0 | Cat & Dog (English Version) | 2019-05-03 | [🔗](https://open.spotify.com/album/4uJ120PsfiWOC7aV5FqGkU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273844a4b52739db3287bd429f8" alt="" width="50" /> | 650 | 1 | 0 | I CAN'T STOP ME (English Version) | 2020-11-30 | [🔗](https://open.spotify.com/album/2KGNQmq4gpzmdaIcAgJdVe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732159a29c68303b4b0076b741" alt="" width="50" /> | 484 | 1 | 0 | Highway to Heaven (English Version) | 2019-07-18 | [🔗](https://open.spotify.com/album/4et1GgNRTOx3xpK81Z0iOn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cdfed2bbb2b83cccff253f54" alt="" width="50" /> | 650 | 1 | 0 | HWAA | 2021-01-27 | [🔗](https://open.spotify.com/album/1M1d5bzsGhY2JOVD2AU29G) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | 79 | 1 | 0 | HELICOPTER | 2020-09-02 | [🔗](https://open.spotify.com/album/1uwfxRAhW1hxclCVkzku8d) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="" width="50" /> | 223 | 1 | 0 | Fairyforest : Temptation | 2021-10-07 | [🔗](https://open.spotify.com/album/3999VmQrZOafu4NjYkc0rj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736d58843621783cd5abff29ab" alt="" width="50" /> | 650 | 1 | 0 | Eve, Psyche & the Bluebeard’s wife (English Ver.) | 2023-07-06 | [🔗](https://open.spotify.com/album/1FoKSB8Kc39zc9exXYtNu8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27353c86f1143b52f1f01f677e0" alt="" width="50" /> | 650 | 1 | 0 | Do It Like This (English Version) | 2022-03-10 | [🔗](https://open.spotify.com/album/4L12vI7rtyBFmYOWZYtOi6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="" width="50" /> | 195 | 1 | 0 | Christmas EveL | 2021-11-29 | [🔗](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="" width="50" /> | 650 | 1 | 0 | Cat & Dog (English Version) | 2019-05-03 | [🔗](https://open.spotify.com/album/4uJ120PsfiWOC7aV5FqGkU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0df2d59f0ae9426cba3eb36" alt="" width="50" /> | 10 | 1 | 0 | CRAZY IN LOVE | 2021-09-24 | [🔗](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | 613 | 1 | 0 | CHECKMATE | 2022-07-15 | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="" width="50" /> | 646 | 1 | 0 | 6equence | 2022-01-19 | [🔗](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="" width="50" /> | 619 | 1 | 0 | CHECKMATE | 2022-07-15 | [🔗](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="" width="50" /> | 650 | 1 | 0 | 6equence | 2022-01-19 | [🔗](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) |
 
 </details>
 

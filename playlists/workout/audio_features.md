@@ -40,7 +40,7 @@
 
 | ​ | 10 most Speechy tracks | ​​ | 10 least Speechy tracks |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="Youngblood - Deluxe" width="50" /> | Youngblood (0.463) | <img src="https://i.scdn.co/image/ab67616d0000b273e411b11ff552ac7eed12d334" alt="NUNA" width="50" /> | NUNU NANA (0.0289) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="Youngblood (Deluxe)" width="50" /> | Youngblood (0.463) | <img src="https://i.scdn.co/image/ab67616d0000b273e411b11ff552ac7eed12d334" alt="NUNA" width="50" /> | NUNU NANA (0.0289) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e61bca92e4a64e50ee44a009" alt="CHECKMATE" width="50" /> | Free Fall (0.376) | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="Doo-Wops &amp; Hooligans" width="50" /> | The Other Side (feat. CeeLo Green and B.o.B) (0.0303) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="WAP (feat. Megan Thee Stallion)" width="50" /> | WAP (feat. Megan Thee Stallion) (0.375) | <img src="https://i.scdn.co/image/ab67616d0000b2732270d3bd1d13133edf0be836" alt="RBB - The 5th Mini Album" width="50" /> | RBB (Really Bad Boy) (0.0317) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="5-STAR" width="50" /> | S-Class (0.333) | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything - Deluxe" width="50" /> | One Last Time (0.0323) |
@@ -109,7 +109,7 @@
 | ​ | 10 most Happy tracks | ​​ | 10 least Happy tracks |
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273078e3c2e57ae77c82ab4b46c" alt="DEVIL - SUPER JUNIOR SPECIAL ALBUM" width="50" /> | Devil (0.968) | <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="My Everything - Deluxe" width="50" /> | One Last Time (0.104) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" alt="FutureSex/LoveSounds" width="50" /> | SexyBack (feat. Timbaland) (0.964) | <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="Youngblood - Deluxe" width="50" /> | Youngblood (0.152) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091" alt="FutureSex/LoveSounds" width="50" /> | SexyBack (feat. Timbaland) (0.964) | <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="Youngblood (Deluxe)" width="50" /> | Youngblood (0.152) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="GAME" width="50" /> | チョコレイト・ディスコ (0.963) | <img src="https://i.scdn.co/image/ab67616d0000b2730c9253602c9a9e508bde18cb" alt="ALL MY GIRLS" width="50" /> | SLAY (0.203) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27352d75b524e594fec397a2e88" alt="Give It To Me" width="50" /> | Give it to me (0.961) | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="Stamp On It - The 1st Mini Album" width="50" /> | Outlaw (0.218) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f30a062dafcdbc1a8fad842" alt="Russian Roulette - The 3rd Mini Album" width="50" /> | 러시안 룰렛 Russian Roulette (0.958) | <img src="https://i.scdn.co/image/ab67616d0000b2736c0e2c778e672701e1a254c6" alt="D-2" width="50" /> | Daechwita (0.223) |

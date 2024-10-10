@@ -9,7 +9,7 @@
 [See Clusters](clusters/overview.md)
 
 ## Artist Rank
-- The #95 artist of all time
+- The #94 artist of all time
 
 ![Rank of Michael Bublé over time](../../images/artists/michael_bublé/rank_time_series.png)
 ## Top Tracks
@@ -24,15 +24,15 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | 507 | 4 | 0 | Christmas (Deluxe Special Edition) | 2012-11-09 | [🔗](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | 646 | 3 | 1 | Call Me Irresponsible | 2007-04-27 | [🔗](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | 556 | 2 | 2 | It's Time | 2005-02-08 | [🔗](https://open.spotify.com/album/457fktVFXVwjQTl9wOLlfg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | 512 | 4 | 0 | Christmas (Deluxe Special Edition) | 2012-11-09 | [🔗](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | 650 | 3 | 1 | Call Me Irresponsible | 2007-04-27 | [🔗](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | 562 | 2 | 2 | It's Time | 2005-02-08 | [🔗](https://open.spotify.com/album/457fktVFXVwjQTl9wOLlfg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | 637 | 2 | 1 | Michael Bublé | 2003 | [🔗](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | 646 | 2 | 1 | Crazy Love | 2009-10-06 | [🔗](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="" width="50" /> | 646 | 1 | 0 | love (Deluxe Edition) | 2018-11-16 | [🔗](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="" width="50" /> | 646 | 1 | 0 | Nobody but Me | 2016-10-21 | [🔗](https://open.spotify.com/album/5wN1OizIFEHDUkRwzIK3wL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | 459 | 1 | 0 | Holiday Wishes | 2014-10-10 | [🔗](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="" width="50" /> | 646 | 1 | 0 | Come Fly with Me | 2004-03-30 | [🔗](https://open.spotify.com/album/0UhvDeKmtgegXeELEVgGRh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | 650 | 2 | 1 | Crazy Love | 2009-10-06 | [🔗](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="" width="50" /> | 650 | 1 | 0 | love (Deluxe Edition) | 2018-11-16 | [🔗](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="" width="50" /> | 650 | 1 | 0 | Nobody but Me | 2016-10-21 | [🔗](https://open.spotify.com/album/5wN1OizIFEHDUkRwzIK3wL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | 460 | 1 | 0 | Holiday Wishes | 2014-10-10 | [🔗](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="" width="50" /> | 650 | 1 | 0 | Come Fly with Me | 2004-03-30 | [🔗](https://open.spotify.com/album/0UhvDeKmtgegXeELEVgGRh) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -110,16 +110,16 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | Baby It's Cold Outside (with Michael Bublé) | Holiday Wishes | Idina Menzel, [Michael Bublé](overview.md) | [Warner Records](../../labels/warner_records) | 681 | | [🔗](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | Frosty the Snowman (feat. The Puppini Sisters) | Christmas (Deluxe Special Edition) | [Michael Bublé](overview.md), The Puppini Sisters | [143](../../labels/143), [Reprise](../../labels/reprise) | 773 | | [🔗](https://open.spotify.com/track/27TJMHguLnuW3y2UPqXeC2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | Feeling Good | It's Time | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 833 | 💚 | [🔗](https://open.spotify.com/track/72PwtNhRrZXNnYeRg5xQ46) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | It's Beginning to Look a Lot like Christmas | Christmas (Deluxe Special Edition) | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 940 | | [🔗](https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | Moondance | Michael Bublé | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 977 | 💚 | [🔗](https://open.spotify.com/track/25Yzff59UGjz7wNWmjM39h) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | The Way You Look Tonight | Michael Bublé | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 978 | | [🔗](https://open.spotify.com/track/4YGlRLe6TeBRiXFByBqldf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="" width="50" /> | Can't Help Falling in Love | Come Fly with Me | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 978 | | [🔗](https://open.spotify.com/track/7igk58Vs9uM2B0aaTUwv6F) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | Home | It's Time | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 978 | 💚 | [🔗](https://open.spotify.com/track/3ISaSNZCxIzTGwQuBq6Xrr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | Call Me Irresponsible | Call Me Irresponsible | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 978 | | [🔗](https://open.spotify.com/track/25RxZw46RfYpVWMIrIeZDS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | Everything | Call Me Irresponsible | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 978 | 💚 | [🔗](https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | Baby It's Cold Outside (with Michael Bublé) | Holiday Wishes | Idina Menzel, [Michael Bublé](overview.md) | [Warner Records](../../labels/warner_records) | 682 | | [🔗](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | Frosty the Snowman (feat. The Puppini Sisters) | Christmas (Deluxe Special Edition) | [Michael Bublé](overview.md), The Puppini Sisters | [143](../../labels/143), [Reprise](../../labels/reprise) | 778 | | [🔗](https://open.spotify.com/track/27TJMHguLnuW3y2UPqXeC2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | Feeling Good | It's Time | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 842 | 💚 | [🔗](https://open.spotify.com/track/72PwtNhRrZXNnYeRg5xQ46) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | It's Beginning to Look a Lot like Christmas | Christmas (Deluxe Special Edition) | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 941 | | [🔗](https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | Moondance | Michael Bublé | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 971 | 💚 | [🔗](https://open.spotify.com/track/25Yzff59UGjz7wNWmjM39h) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | The Way You Look Tonight | Michael Bublé | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 984 | | [🔗](https://open.spotify.com/track/4YGlRLe6TeBRiXFByBqldf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="" width="50" /> | Can't Help Falling in Love | Come Fly with Me | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 984 | | [🔗](https://open.spotify.com/track/7igk58Vs9uM2B0aaTUwv6F) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | Home | It's Time | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 984 | 💚 | [🔗](https://open.spotify.com/track/3ISaSNZCxIzTGwQuBq6Xrr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | Call Me Irresponsible | Call Me Irresponsible | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 984 | | [🔗](https://open.spotify.com/track/25RxZw46RfYpVWMIrIeZDS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | Everything | Call Me Irresponsible | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 984 | 💚 | [🔗](https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG) |
 
 
 <details>
@@ -127,13 +127,13 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | The Best Is yet to Come | Call Me Irresponsible | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 978 | | [🔗](https://open.spotify.com/track/56t3m0lqE6zU1EfgFOPqst) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | Cry Me a River | Crazy Love | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 978 | | [🔗](https://open.spotify.com/track/5i04Jy87RLxoZszJqY3QAN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | Haven't Met You Yet | Crazy Love | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 978 | 💚 | [🔗](https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | Santa Baby | Christmas (Deluxe Special Edition) | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 978 | | [🔗](https://open.spotify.com/track/3m2gfwcxl77ojJTWH3wZkb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | The Christmas Song | Christmas (Deluxe Special Edition) | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 978 | | [🔗](https://open.spotify.com/track/4SWAozNLRfZXF25ghKqm2q) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="" width="50" /> | Someday (feat. Meghan Trainor) | Nobody but Me | [Michael Bublé](overview.md), Meghan Trainor | [Reprise](../../labels/reprise) | 978 | | [🔗](https://open.spotify.com/track/0nsF6B4avArxVgAwgMg4ag) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="" width="50" /> | La vie en rose (feat. Cécile McLorin Salvant) | love (Deluxe Edition) | [Michael Bublé](overview.md), Cécile McLorin Salvant | [Reprise](../../labels/reprise) | 978 | | [🔗](https://open.spotify.com/track/1QELw50Dl95LusF6uOkDqk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | The Best Is yet to Come | Call Me Irresponsible | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 984 | | [🔗](https://open.spotify.com/track/56t3m0lqE6zU1EfgFOPqst) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | Cry Me a River | Crazy Love | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 984 | | [🔗](https://open.spotify.com/track/5i04Jy87RLxoZszJqY3QAN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | Haven't Met You Yet | Crazy Love | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 984 | 💚 | [🔗](https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | Santa Baby | Christmas (Deluxe Special Edition) | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 984 | | [🔗](https://open.spotify.com/track/3m2gfwcxl77ojJTWH3wZkb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | The Christmas Song | Christmas (Deluxe Special Edition) | [Michael Bublé](overview.md) | [143](../../labels/143), [Reprise](../../labels/reprise) | 984 | | [🔗](https://open.spotify.com/track/4SWAozNLRfZXF25ghKqm2q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="" width="50" /> | Someday (feat. Meghan Trainor) | Nobody but Me | [Michael Bublé](overview.md), Meghan Trainor | [Reprise](../../labels/reprise) | 984 | | [🔗](https://open.spotify.com/track/0nsF6B4avArxVgAwgMg4ag) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="" width="50" /> | La vie en rose (feat. Cécile McLorin Salvant) | love (Deluxe Edition) | [Michael Bublé](overview.md), Cécile McLorin Salvant | [Reprise](../../labels/reprise) | 984 | | [🔗](https://open.spotify.com/track/1QELw50Dl95LusF6uOkDqk) |
 
 </details>
 
