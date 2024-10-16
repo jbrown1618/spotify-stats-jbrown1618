@@ -11,7 +11,7 @@ Daft Punk:
 - has member Guy-Manuel de Homem-Christo
 
 ## Artist Rank
-- The #262 artist of all time
+- The #263 artist of all time
 
 ![Rank of Daft Punk over time](../../images/artists/daft_punk/rank_time_series.png)
 ## Top Tracks
@@ -26,10 +26,10 @@ Daft Punk:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736610c21366e613bfd9f5d197" alt="" width="50" /> | 650 | 3 | 2 | Discovery | 2001-03-12 | [🔗](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | 329 | 2 | 2 | Random Access Memories | 2013-05-20 | [🔗](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="" width="50" /> | 650 | 1 | 1 | Human After All | 2005-03-14 | [🔗](https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="" width="50" /> | 650 | 1 | 0 | Starboy | 2016-11-25 | [🔗](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736610c21366e613bfd9f5d197" alt="" width="50" /> | 651 | 3 | 2 | Discovery | 2001-03-12 | [🔗](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | 330 | 2 | 2 | Random Access Memories | 2013-05-20 | [🔗](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="" width="50" /> | 651 | 1 | 1 | Human After All | 2005-03-14 | [🔗](https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="" width="50" /> | 651 | 1 | 0 | Starboy | 2016-11-25 | [🔗](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -90,7 +90,7 @@ Daft Punk:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | Pharrell Williams | 1 | Songwriter |
 | | Edwin Birdsong | 1 | Songwriter |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb97357a72fc531a2c2d3ee47a" alt="" width="50" /> | Julian Casablancas | 1 | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/6511b1fe261da3b6c6b69ae2aa771cfd307a18ae" alt="" width="50" /> | Nile Rodgers | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebede7b4f5a5316f0cf586ec7e" alt="" width="50" /> | Nile Rodgers | 1 | Songwriter |
 | | Carlos Sosa | 1 | Songwriter |
 | | George Duke | 1 | Songwriter |
 
@@ -100,9 +100,9 @@ Daft Punk:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Get Lucky (feat. Pharrell Williams and Nile Rodgers) | Random Access Memories | [Daft Punk](overview.md), Pharrell Williams, Nile Rodgers | [Columbia](../../labels/columbia) | 467 | 💚 | [🔗](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736610c21366e613bfd9f5d197" alt="" width="50" /> | Digital Love | Discovery | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | 987 | 💚 | [🔗](https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736610c21366e613bfd9f5d197" alt="" width="50" /> | Harder, Better, Faster, Stronger | Discovery | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | 987 | 💚 | [🔗](https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736610c21366e613bfd9f5d197" alt="" width="50" /> | One More Time | Discovery | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | 987 | | [🔗](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="" width="50" /> | Technologic | Human After All | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | 987 | 💚 | [🔗](https://open.spotify.com/track/0LSLM0zuWRkEYemF7JcfEE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Instant Crush (feat. Julian Casablancas) | Random Access Memories | [Daft Punk](overview.md), Julian Casablancas | [Columbia](../../labels/columbia) | 987 | 💚 | [🔗](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="" width="50" /> | I Feel It Coming | Starboy | The Weeknd, [Daft Punk](overview.md) | Universal Republic Records | 987 | | [🔗](https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736610c21366e613bfd9f5d197" alt="" width="50" /> | Digital Love | Discovery | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | 989 | 💚 | [🔗](https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736610c21366e613bfd9f5d197" alt="" width="50" /> | Harder, Better, Faster, Stronger | Discovery | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | 989 | 💚 | [🔗](https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736610c21366e613bfd9f5d197" alt="" width="50" /> | One More Time | Discovery | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | 989 | | [🔗](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="" width="50" /> | Technologic | Human After All | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | 989 | 💚 | [🔗](https://open.spotify.com/track/0LSLM0zuWRkEYemF7JcfEE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Instant Crush (feat. Julian Casablancas) | Random Access Memories | [Daft Punk](overview.md), Julian Casablancas | [Columbia](../../labels/columbia) | 989 | 💚 | [🔗](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="" width="50" /> | I Feel It Coming | Starboy | The Weeknd, [Daft Punk](overview.md) | Universal Republic Records | 989 | | [🔗](https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV) |

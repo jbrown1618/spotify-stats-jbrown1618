@@ -21,7 +21,7 @@ recording_mbid,recording_title,recording_language
 02fb10ba-4ab0-4443-95f2-5401f590a7af,Physical,eng
 031634ac-a9e7-4204-bdb9-1f973b5e4795,Décalcomanie (데칼코마니),mul
 037db458-7154-43bf-8f01-8b4623a325c1,BAAM,
-03b0380e-2769-49ef-baed-8743731fde60,BAHAMA,
+03b0380e-2769-49ef-baed-8743731fde60,BAHAMA,kor
 03b54c8c-f028-49e5-8de8-92e7ac15af04,Time Slip,kor
 03b78d54-6720-471d-b609-01a687d91333,내가 제일 잘 나가,kor
 03c5f553-b84f-429e-9aab-6804aac4f6a2,FIRST,
@@ -264,7 +264,7 @@ recording_mbid,recording_title,recording_language
 21bc43e2-675d-4201-9dfd-f62069c3ce26,Bam Yang Gang,
 21c1a5d3-a97e-41be-939d-1cc0f56d10f1,That’s Where I Am,eng
 21ca6993-c499-408b-babe-1ca6d370cfe3,Still With You,
-21cc525f-ef36-40e6-8cbe-ccb99c46e0de,Prologue,
+21cc525f-ef36-40e6-8cbe-ccb99c46e0de,Prologue,kor
 21f29f6d-6d86-4554-8abf-b18caae1eaca,행복 (Happiness),kor
 220ac49d-414d-4eef-9f7c-7923e9f7b915,Bubble,mul
 227092cf-8cb4-447c-9e6a-976dbda8e363,Geronimo,
@@ -272,7 +272,7 @@ recording_mbid,recording_title,recording_language
 2297aa21-1a48-4083-8dc8-fabbfd674220,Day Tripper,eng
 232de276-3edc-44c0-94ca-08e44460f5b9,Butterflies,
 2365f20b-ac7c-419d-936d-348dd24ba767,That’s What I Like,eng
-236c97cd-952a-46b9-821d-419bd53fb8c7,Live My Life,
+236c97cd-952a-46b9-821d-419bd53fb8c7,Live My Life,kor
 2388cac4-0522-461b-9ed1-005c08b552a4,Just Did It,
 238ec987-227b-4c0b-900c-4d90d6aad9b9,LEFT RIGHT,
 238fd7e4-8771-49bb-b87c-7a0faf3880d1,Deja Vu,mul
@@ -494,7 +494,7 @@ recording_mbid,recording_title,recording_language
 3eef5f61-d26e-4a93-b5df-4ae1e6995c22,Thirsty,
 3f23dd2a-a70a-4d6e-a5b1-ae3f22589dd7,Thinkin Bout You,eng
 3f3dcaca-bdc0-4a89-8ed9-af61467695dd,Say You'll Go,
-3fb5e8d9-e9a3-43c8-a6be-1e7f6ea7406f,Armageddon,
+3fb5e8d9-e9a3-43c8-a6be-1e7f6ea7406f,Armageddon,mul
 3fe087be-5eb9-4021-909e-76c2fc55a590,Next Level,kor
 4034db09-1f2e-4b0b-8500-b36ffa493f25,Waves,eng
 403d2439-78c3-4633-9373-adba5de064df,Heaven,
@@ -514,7 +514,7 @@ recording_mbid,recording_title,recording_language
 430dfa3d-f478-437a-9755-460802ae53c1,Bandit,
 43316448-c1fb-4d37-92bb-d2f5cc88baa7,오후 (OHOO),
 4348756a-76db-4e4b-a83b-bd64ccbdee92,What Now,eng
-4363433d-2587-402a-95e3-8e192442015e,Mine,
+4363433d-2587-402a-95e3-8e192442015e,Mine,kor
 43637245-eb30-4ed9-8a78-36504991dd62,Fly as Me,eng
 43643631-5350-4c38-9468-68b7c4ab2105,Madness,eng
 436cdd78-af92-46fc-85e9-44a051233b90,ONLY,
@@ -589,7 +589,7 @@ recording_mbid,recording_title,recording_language
 4cb99d6b-f70e-45db-a6fd-7e7176643c94,Like Water,
 4cc16a67-d1e8-4ec3-93f2-84b1d27cd283,No title,jpn
 4ce82115-c336-4cb6-9770-00e2e3d54b19,Tippy Toes,
-4d037b0c-bd99-4352-8fb7-43993597f109,Supernova,
+4d037b0c-bd99-4352-8fb7-43993597f109,Supernova,mul
 4d28e325-faab-4ff7-b281-e0dcac450c1a,Any Song,kor
 4d2bd2c0-8803-4002-8dc1-67958fb1f5a1,Right Now,
 4d3820ae-1207-4e5d-a9af-b6fe0bd8b2aa,"SORRY, SORRY",kor
@@ -718,7 +718,7 @@ recording_mbid,recording_title,recording_language
 5db7f306-45ea-4ac3-94d1-b9aaf6482dfe,Love on the Rocks,eng
 5dc32a82-ae98-4f4c-9914-b04dfbe7d35e,Mercy,fra
 5dd869d8-2e1a-43f4-bbe7-9c071d6abc24,GLASSY,
-5df02d28-7ecb-4585-8f9f-59f962a7f23c,Long Chat (#♥︎),
+5df02d28-7ecb-4585-8f9f-59f962a7f23c,Long Chat (#♥︎),kor
 5e2a5c6d-1fca-4318-8e8f-bef2da7f4bb8,In Bloom,
 5e86abc7-aab2-4c81-bf0a-1f5693fbde31,Sin pijama,spa
 5ea71a49-1b20-42f9-a8d4-e0614fa99bb6,거미줄 (VENOM),
@@ -802,7 +802,7 @@ recording_mbid,recording_title,recording_language
 6919f3b6-a84e-4cd2-815d-02b12de6b782,Dark Side,eng
 6926be9f-2405-4b68-9080-42410be08312,Bad Romance,mul
 6949d85d-ffb2-4ab0-9370-52e07b288a39,Yoü and I,eng
-694a3bc1-0488-4934-8ae9-916e78880b12,Set the Tone,
+694a3bc1-0488-4934-8ae9-916e78880b12,Set the Tone,mul
 69516c60-2a9d-40f3-822a-d313a4a47023,XO (Only If You Say Yes),
 695a58f6-db98-4cbe-b0ea-d9e447a41aad,너 밖에 몰라 (One Way Love),
 699bbddb-1c84-4937-9b3e-a2ce4380997d,In & Out,
@@ -1346,7 +1346,7 @@ afad47f9-5ddc-47f6-8130-378d104db897,러시안 룰렛 (Russian Roulette),kor
 afc0810c-ef56-45f2-ba4e-c1f06b03af27,Hit That Drum,
 afd9e7ca-597d-4c27-9ba6-940b6aaed478,All of Me (album version),
 affbc14c-546d-4f9d-9fa4-8ecbaa786933,20분 전 (20MIN),
-b0731ea0-1625-40f5-99f7-af60dded62b1,Licorice,
+b0731ea0-1625-40f5-99f7-af60dded62b1,Licorice,kor
 b09ee36d-e853-4578-a8ac-f27e3fe8966e,Stamp on It,
 b0a3e2de-c736-4b58-9a06-a7c72da46295,Coño,
 b0adf5f2-2a7f-4030-bd5e-5f4a8c9f33c2,Gas Me Up,
