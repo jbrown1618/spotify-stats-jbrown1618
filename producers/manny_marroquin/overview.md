@@ -190,7 +190,7 @@
 | Isabella Lovestory | Isabella Lovestory | 1 |
 | Sam Dew | Sam Dew | 1 |
 | Doja Cat | Doja Cat | 1 |
-| Ian Kirkpatrick | Ian Kirkpatrick | 1 |
+| Ian Kirkpatrick | [Ian Kirkpatrick](../ian_kirkpatrick/overview.md) | 1 |
 | 한 | [한 (Han)](../한_(han)/overview.md) | 1 |
 | Believve | Believve | 1 |
 | Jake Torrey | Jake Torrey | 1 |

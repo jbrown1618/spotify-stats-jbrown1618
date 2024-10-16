@@ -41,15 +41,15 @@
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | 1 | 3 | 3 | THE ALBUM | 2020-10-02 | [🔗](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1c07b020417770f3385448f" alt="" width="50" /> | 532 | 1 | 1 | 回:Walpurgis Night | 2020-11-09 | [🔗](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c07b020417770f3385448f" alt="" width="50" /> | 531 | 1 | 1 | 回:Walpurgis Night | 2020-11-09 | [🔗](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="" width="50" /> | 146 | 1 | 1 | WE:TH | 2020-10-12 | [🔗](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="" width="50" /> | 152 | 1 | 1 | TRAVEL | 2020-11-03 | [🔗](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bc125f40131dd5869b2ec36c" alt="" width="50" /> | 132 | 1 | 1 | Star To A Young Culture | 2020-11-12 | [🔗](https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | 249 | 1 | 1 | Not Shy | 2020-08-17 | [🔗](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736c1bd86a3d68faf09607ffd3" alt="" width="50" /> | 177 | 1 | 1 | Naughty | 2020-07-20 | [🔗](https://open.spotify.com/album/2lkUE2gkw5sX0fGzZZCs0N) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | 250 | 1 | 1 | Not Shy | 2020-08-17 | [🔗](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736c1bd86a3d68faf09607ffd3" alt="" width="50" /> | 178 | 1 | 1 | Naughty | 2020-07-20 | [🔗](https://open.spotify.com/album/2lkUE2gkw5sX0fGzZZCs0N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | 150 | 1 | 1 | NONSTOP | 2020-04-27 | [🔗](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | 15 | 1 | 1 | María | 2020-06-29 | [🔗](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | 366 | 1 | 1 | MAP OF THE SOUL : 7 | 2020-02-21 | [🔗](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | 367 | 1 | 1 | MAP OF THE SOUL : 7 | 2020-02-21 | [🔗](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) |
 
 
 <details>
@@ -65,7 +65,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | 79 | 1 | 1 | HELICOPTER | 2020-09-02 | [🔗](https://open.spotify.com/album/1uwfxRAhW1hxclCVkzku8d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736570fd05bcff5edcb16e617d" alt="" width="50" /> | 37 | 1 | 1 | Eyes Wide Open | 2020-10-26 | [🔗](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735b3685b06e22d32bed46c962" alt="" width="50" /> | 36 | 1 | 1 | DESSERT | 2020-07-22 | [🔗](https://open.spotify.com/album/5brSFD1knAOSM7j6083naD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ae9084b7cfa8281932d9cb9" alt="" width="50" /> | 221 | 1 | 1 | CRY FOR ME | 2020-12-18 | [🔗](https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ae9084b7cfa8281932d9cb9" alt="" width="50" /> | 222 | 1 | 1 | CRY FOR ME | 2020-12-18 | [🔗](https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f248f7695eb544a3a1955c5" alt="" width="50" /> | 38 | 1 | 1 | Black Mamba | 2020-11-17 | [🔗](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="" width="50" /> | 60 | 1 | 1 | Amusement Park | 2020-12-21 | [🔗](https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa12f5b5b2ea88f26ab76846" alt="" width="50" /> | 94 | 1 | 1 | ; [Semicolon] | 2020-10-19 | [🔗](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) |
@@ -101,15 +101,15 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa12f5b5b2ea88f26ab76846" alt="" width="50" /> | HOME;RUN | ; [Semicolon] | [SEVENTEEN](../../../artists/seventeen/overview.md) | [PLEDIS Entertainment](../../../labels/pledis_entertainment) | 112 | 💚 | [🔗](https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bc125f40131dd5869b2ec36c" alt="" width="50" /> | SO BAD | Star To A Young Culture | [STAYC](../../../artists/stayc/overview.md) | [High Up Entertainment](../../../labels/high_up_entertainment) | 166 | 💚 | [🔗](https://open.spotify.com/track/13KR2yNRDrbKwR3dOKCDl4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="" width="50" /> | Back Door | IN LIFE | [Stray Kids](../../../artists/stray_kids/overview.md) | [Republic Records](../../../labels/republic_records) | 176 | 💚 | [🔗](https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="" width="50" /> | Daisy | WE:TH | [PENTAGON](../../../artists/pentagon/overview.md) | [Universal Music LLC](../../../labels/universal_music_llc) | 186 | 💚 | [🔗](https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da0376db6b1c5562ab8f5b29" alt="" width="50" /> | Daisy | WE:TH | [PENTAGON](../../../artists/pentagon/overview.md) | [Universal Music LLC](../../../labels/universal_music_llc) | 185 | 💚 | [🔗](https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | Dolphin | NONSTOP | [OH MY GIRL](../../../artists/oh_my_girl/overview.md) | [WM Entertainment](../../../labels/wm_entertainment) | 197 | 💚 | [🔗](https://open.spotify.com/track/3NfgdU9mbIVhcJF3XvC0c9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="" width="50" /> | AYA | TRAVEL | [MAMAMOO](../../../artists/mamamoo/overview.md) | [RBW Inc.](../../../labels/rbw_inc_) | 200 | 💚 | [🔗](https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c1bd86a3d68faf09607ffd3" alt="" width="50" /> | Naughty | Naughty | Red Velvet - IRENE & SEULGI | [SM Entertainment](../../../labels/sm_entertainment) | 245 | 💚 | [🔗](https://open.spotify.com/track/0P8lbWigAHXPKxUG60xh79) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738ae9084b7cfa8281932d9cb9" alt="" width="50" /> | CRY FOR ME | CRY FOR ME | [TWICE](../../../artists/twice/overview.md) | [Republic Records](../../../labels/republic_records) | 305 | 💚 | [🔗](https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | Black Swan | MAP OF THE SOUL : 7 | [BTS](../../../artists/bts/overview.md) | [BIGHIT MUSIC](../../../labels/bighit_music) | 527 | 💚 | [🔗](https://open.spotify.com/track/2EmcTFQ1rM11wp2ztsXTHa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Not Shy | Not Shy | [ITZY](../../../artists/itzy/overview.md) | [Republic Records](../../../labels/republic_records) | 760 | 💚 | [🔗](https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1c07b020417770f3385448f" alt="" width="50" /> | MAGO | 回:Walpurgis Night | GFRIEND | [SOURCE MUSIC](../../../labels/source_music) | 794 | 💚 | [🔗](https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fc620c06721e90a534cc5dab" alt="" width="50" /> | WANNABE | IT'z ME | [ITZY](../../../artists/itzy/overview.md) | [Republic Records](../../../labels/republic_records) | 858 | 💚 | [🔗](https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | Black Swan | MAP OF THE SOUL : 7 | [BTS](../../../artists/bts/overview.md) | [BIGHIT MUSIC](../../../labels/bighit_music) | 528 | 💚 | [🔗](https://open.spotify.com/track/2EmcTFQ1rM11wp2ztsXTHa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f74587e89fe803fa61d748e" alt="" width="50" /> | Not Shy | Not Shy | [ITZY](../../../artists/itzy/overview.md) | [Republic Records](../../../labels/republic_records) | 765 | 💚 | [🔗](https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c07b020417770f3385448f" alt="" width="50" /> | MAGO | 回:Walpurgis Night | GFRIEND | [SOURCE MUSIC](../../../labels/source_music) | 801 | 💚 | [🔗](https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fc620c06721e90a534cc5dab" alt="" width="50" /> | WANNABE | IT'z ME | [ITZY](../../../artists/itzy/overview.md) | [Republic Records](../../../labels/republic_records) | 862 | 💚 | [🔗](https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e) |
 
 </details>
 

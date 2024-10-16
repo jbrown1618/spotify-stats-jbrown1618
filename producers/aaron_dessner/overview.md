@@ -44,7 +44,7 @@
 | Dave Nelson | Dave Nelson | 1 |
 | Justin Vernon | Justin Vernon | 1 |
 | CJ Camerieri | CJ Camerieri | 1 |
-| Bryce Bordone | Bryce Bordone | 1 |
+| Bryce Bordone | [Bryce Bordone](../bryce_bordone/overview.md) | 1 |
 | William Bowery | William Bowery | 1 |
 | Bryan Devendorf | Bryan Devendorf | 1 |
 

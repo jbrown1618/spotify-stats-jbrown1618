@@ -49,7 +49,7 @@
 | Bella Blasko | Bella Blasko | 1 |
 | Dave Gross | Dave Gross | 1 |
 | Braxton Cook | Braxton Cook | 1 |
-| Bryce Bordone | Bryce Bordone | 1 |
+| Bryce Bordone | [Bryce Bordone](../bryce_bordone/overview.md) | 1 |
 | Justin Vernon | Justin Vernon | 1 |
 | Richard Fairbrass | Richard Fairbrass | 1 |
 | Cautious Clay | Cautious Clay | 1 |

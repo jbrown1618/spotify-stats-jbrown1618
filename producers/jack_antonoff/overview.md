@@ -53,7 +53,7 @@
 | Nate Ruess | Nate Ruess | 1 |
 | Dave Gross | Dave Gross | 1 |
 | Cautious Clay | Cautious Clay | 1 |
-| Bryce Bordone | Bryce Bordone | 1 |
+| Bryce Bordone | [Bryce Bordone](../bryce_bordone/overview.md) | 1 |
 | Richard Fairbrass | Richard Fairbrass | 1 |
 | Sabrina Carpenter | Sabrina Carpenter | 1 |
 | Mitch McCarthy | Mitch McCarthy | 1 |

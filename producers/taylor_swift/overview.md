@@ -49,7 +49,7 @@
 | Rob Moose | Rob Moose | 2 |
 | Thomas Bartlett | Thomas Bartlett | 2 |
 | Bella Blasko | Bella Blasko | 2 |
-| Bryce Bordone | Bryce Bordone | 2 |
+| Bryce Bordone | [Bryce Bordone](../bryce_bordone/overview.md) | 2 |
 | Jonathan Gautier | Jonathan Gautier | 2 |
 | Jahaan Sweet | Jahaan Sweet | 2 |
 | Dann Huff | Dann Huff | 2 |

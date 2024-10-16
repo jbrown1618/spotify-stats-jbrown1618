@@ -61,7 +61,7 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Bryce Bordone | Bryce Bordone | 5 |
+| Bryce Bordone | [Bryce Bordone](../bryce_bordone/overview.md) | 5 |
 | Rami | Rami | 4 |
 | Łukasz Gottwald | [Łukasz Gottwald (Gottwald, Łukasz)](../łukasz_gottwald_(gottwald,_łukasz)/overview.md) | 4 |
 | Peter Carlsson | Peter Carlsson | 4 |

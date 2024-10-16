@@ -44,7 +44,7 @@
 |:---|:---|---:|
 | Emily Wright | Emily Wright | 6 |
 | Lou Carrao | Lou Carrao | 5 |
-| Bryce Bordone | Bryce Bordone | 5 |
+| Bryce Bordone | [Bryce Bordone](../bryce_bordone/overview.md) | 5 |
 | Savan Kotecha | [Savan Kotecha](../savan_kotecha/overview.md) | 5 |
 | Katy Perry | Katy Perry | 4 |
 | benny blanco | [benny blanco](../benny_blanco/overview.md) | 4 |

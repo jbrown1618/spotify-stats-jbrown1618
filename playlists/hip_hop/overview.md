@@ -94,16 +94,16 @@
 
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 477 | <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" alt="Kings Of Crunk" width="50" /> | Get Low | 989 | <img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="Last Train To Paris" width="50" /> | Hello Good Morning |
-| 692 | <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="The Marshall Mathers LP2" width="50" /> | [The Monster](../../artists/eminem/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b2733eecc265c134153c14794aab" alt="Area Codes" width="50" /> | Area Codes |
-| 832 | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | [We Made You](../../artists/eminem/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="Rap Or Go To The League" width="50" /> | Momma I Hit A Lick (feat. Kendrick Lamar) |
-| 860 | <img src="https://i.scdn.co/image/ab67616d0000b273790fab52efbb2d55bddbd247" alt="Trendsetter" width="50" /> | Trendsetter | 989 | <img src="https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd" alt="Genesis" width="50" /> | Break Ya Neck |
-| 953 | <img src="https://i.scdn.co/image/ab67616d0000b2732b9aca3204e667980ce6a939" alt="BUBBA" width="50" /> | Go DJ (feat. SiR) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="Confessions of a Dangerous Mind" width="50" /> | Homicide (feat. Eminem) |
-| 989 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="Flockaveli" width="50" /> | No Hands (feat. Roscoe Dash & Wale) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="DAMN." width="50" /> | [HUMBLE.](../../artists/kendrick_lamar/overview.md) |
-| 989 | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Can't Tell Me Nothing | 989 | <img src="https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5" alt="Meet The Woo" width="50" /> | Dior |
-| 989 | <img src="https://i.scdn.co/image/ab67616d0000b2735db09bde92cc685403d7068f" alt="Elephunk" width="50" /> | Where Is The Love? | 989 | <img src="https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458" alt="The Pinkprint - Deluxe" width="50" /> | Anaconda |
-| 989 | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="Recovery" width="50" /> | [Love The Way You Lie](../../artists/eminem/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="Boss Bitch" width="50" /> | [Boss Bitch](../../artists/doja_cat/overview.md) |
-| 989 | <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Late Registration" width="50" /> | Gold Digger | 989 | <img src="https://i.scdn.co/image/ab67616d0000b2737587213b1be294ac4000f648" alt="euphoria" width="50" /> | [euphoria](../../artists/kendrick_lamar/overview.md) |
+| 477 | <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" alt="Kings Of Crunk" width="50" /> | Get Low | 994 | <img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="Last Train To Paris" width="50" /> | Hello Good Morning |
+| 696 | <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="The Marshall Mathers LP2" width="50" /> | [The Monster](../../artists/eminem/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b2733eecc265c134153c14794aab" alt="Area Codes" width="50" /> | Area Codes |
+| 841 | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | [We Made You](../../artists/eminem/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="Rap Or Go To The League" width="50" /> | Momma I Hit A Lick (feat. Kendrick Lamar) |
+| 865 | <img src="https://i.scdn.co/image/ab67616d0000b273790fab52efbb2d55bddbd247" alt="Trendsetter" width="50" /> | Trendsetter | 994 | <img src="https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd" alt="Genesis" width="50" /> | Break Ya Neck |
+| 962 | <img src="https://i.scdn.co/image/ab67616d0000b2732b9aca3204e667980ce6a939" alt="BUBBA" width="50" /> | Go DJ (feat. SiR) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="Confessions of a Dangerous Mind" width="50" /> | Homicide (feat. Eminem) |
+| 994 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="Flockaveli" width="50" /> | No Hands (feat. Roscoe Dash & Wale) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="DAMN." width="50" /> | [HUMBLE.](../../artists/kendrick_lamar/overview.md) |
+| 994 | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Can't Tell Me Nothing | 994 | <img src="https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5" alt="Meet The Woo" width="50" /> | Dior |
+| 994 | <img src="https://i.scdn.co/image/ab67616d0000b2735db09bde92cc685403d7068f" alt="Elephunk" width="50" /> | Where Is The Love? | 994 | <img src="https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458" alt="The Pinkprint - Deluxe" width="50" /> | Anaconda |
+| 994 | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="Recovery" width="50" /> | [Love The Way You Lie](../../artists/eminem/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="Boss Bitch" width="50" /> | [Boss Bitch](../../artists/doja_cat/overview.md) |
+| 994 | <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Late Registration" width="50" /> | Gold Digger | 994 | <img src="https://i.scdn.co/image/ab67616d0000b2737587213b1be294ac4000f648" alt="euphoria" width="50" /> | [euphoria](../../artists/kendrick_lamar/overview.md) |
 
 </details>
 
@@ -137,7 +137,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e3969990abe1229c0879a7b" alt="" width="50" /> | 651 | 1 | 1 | Miss E... So Addictive | 2001-05-14 | [🔗](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f82c7e4376cf8267fb396b7d" alt="" width="50" /> | 651 | 1 | 1 | Mack Daddy | 1992-01-01 | [🔗](https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b1cfc3df4d9d5d4cbce9208" alt="" width="50" /> | 651 | 1 | 1 | Last Train To Paris | 2010-01-01 | [🔗](https://open.spotify.com/album/2psjRixnoePs8ZqE8cuU5Z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" alt="" width="50" /> | 336 | 1 | 1 | Kings Of Crunk | 2002-10-29 | [🔗](https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733ba0e7112f965bfda72b1c5b" alt="" width="50" /> | 337 | 1 | 1 | Kings Of Crunk | 2002-10-29 | [🔗](https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc26c1e9b1cc4ecd87e9ddef" alt="" width="50" /> | 651 | 1 | 1 | In My Defense | 2019-07-19 | [🔗](https://open.spotify.com/album/3kQvfhjfU6Mleis6k6vpmw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="" width="50" /> | 651 | 1 | 1 | Graduation | 2007-09-11 | [🔗](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) |
 | <img src="https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db" alt="" width="50" /> | 651 | 1 | 1 | Flockaveli | 2010-10-01 | [🔗](https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM) |
@@ -348,7 +348,7 @@
 | | Ariel Chobaz | 1 | Producer |
 | | Rian Lewis | 1 | Producer |
 | | Doc Ish | 1 | Producer |
-| | Bryce Bordone | 1 | Producer |
+| | [Bryce Bordone](../../producers/bryce_bordone/overview.md) | 1 | Producer |
 | | James Foye III | 1 | Songwriter |
 | | The Edge | 1 | Songwriter |
 | | Johnathan Turner | 1 | Producer |

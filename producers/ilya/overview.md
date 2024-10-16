@@ -31,7 +31,7 @@
 | Sam Holland | [Sam Holland](../sam_holland/overview.md) | 10 |
 | Serban Ghenea | [Serban Ghenea](../serban_ghenea/overview.md) | 10 |
 | Savan Kotecha | [Savan Kotecha](../savan_kotecha/overview.md) | 9 |
-| Bryce Bordone | Bryce Bordone | 5 |
+| Bryce Bordone | [Bryce Bordone](../bryce_bordone/overview.md) | 5 |
 | Lou Carrao | Lou Carrao | 5 |
 | Peter Carlsson | Peter Carlsson | 3 |
 | John Hanes | [John Hanes](../john_hanes/overview.md) | 3 |

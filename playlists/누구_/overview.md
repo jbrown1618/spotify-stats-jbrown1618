@@ -87,16 +87,16 @@
 
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 165 | <img src="https://i.scdn.co/image/ab67616d0000b2738cab1c75d2271af37c3e2db9" alt="First Howling : ME" width="50" /> | Scent of you | 989 | <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="LEVIOSA" width="50" /> | KISS |
-| 190 | <img src="https://i.scdn.co/image/ab67616d0000b273ce09217bde99ac32fb509123" alt="OVERSTEP" width="50" /> | BADVILLAIN | 989 | <img src="https://i.scdn.co/image/ab67616d0000b273eb692ba736f1102246f7994f" alt="Re:Scene" width="50" /> | UhUh |
-| 211 | <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="Macarena" width="50" /> | Macarena | 989 | <img src="https://i.scdn.co/image/ab67616d0000b273a359467cf1e245c2cdf5dad5" alt="HELLO Chapter 1: Hello, Stranger" width="50" /> | What You Wanted |
-| 256 | <img src="https://i.scdn.co/image/ab67616d0000b27340320ca58cbadbad78598e36" alt="EPEX 5th EP Album Prelude of Love Chapter 2. &#x27;Growing Pains&#x27;" width="50" /> | Sunshower | 989 | <img src="https://i.scdn.co/image/ab67616d0000b2735955254dc5bccba12df1df8a" alt="Bridge of Dreams" width="50" /> | La Luna |
-| 274 | <img src="https://i.scdn.co/image/ab67616d0000b273d7112b403c7a97c2a3ad462c" alt="Love seeker" width="50" /> | Love seeker | 989 | <img src="https://i.scdn.co/image/ab67616d0000b27311e775512911343411545bd3" alt="BLACK LABEL" width="50" /> | You’re Pitiful |
-| 291 | <img src="https://i.scdn.co/image/ab67616d0000b2730490e8ab48790ca6e5add267" alt="Supersonic" width="50" /> | Supersonic | 989 | <img src="https://i.scdn.co/image/ab67616d0000b2737c4382c3305785dfd04d5d01" alt="Liminality - EP.LOVE" width="50" /> | Tap Tap |
-| 309 | <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Bewitched | 989 | <img src="https://i.scdn.co/image/ab67616d0000b27376ac47ccb37484a1f5ca821e" alt="÷ (NANUGI)" width="50" /> | MEDUSA |
-| 424 | <img src="https://i.scdn.co/image/ab67616d0000b2732325e0aa6cad94d104ea055e" alt="BLOOD MOON" width="50" /> | LUNA | 989 | <img src="https://i.scdn.co/image/ab67616d0000b273fca604ab938f3f3319971a61" alt="기기괴괴" width="50" /> | 기기괴괴 |
-| 598 | <img src="https://i.scdn.co/image/ab67616d0000b273b0f7fd5522eff959055b20d8" alt="Cherry Rush" width="50" /> | Love So Sweet | 989 | <img src="https://i.scdn.co/image/ab67616d0000b2731af4a83bf4b82f5687a98e7d" alt="THE OTHER SIDE OF THE MOON" width="50" /> | I Can't Breathe |
-| 630 | <img src="https://i.scdn.co/image/ab67616d0000b27359fcda8d47bbd0f6c2bf1647" alt="Bizarre Story" width="50" /> | 기괴한 이야기 : Get Out | 989 | <img src="https://i.scdn.co/image/ab67616d0000b273569689ef998a192f7809467a" alt="Target: ME" width="50" /> | TROUBLE |
+| 165 | <img src="https://i.scdn.co/image/ab67616d0000b2738cab1c75d2271af37c3e2db9" alt="First Howling : ME" width="50" /> | Scent of you | 994 | <img src="https://i.scdn.co/image/ab67616d0000b27303611decaac95320f5549cec" alt="LEVIOSA" width="50" /> | KISS |
+| 190 | <img src="https://i.scdn.co/image/ab67616d0000b273ce09217bde99ac32fb509123" alt="OVERSTEP" width="50" /> | BADVILLAIN | 994 | <img src="https://i.scdn.co/image/ab67616d0000b273eb692ba736f1102246f7994f" alt="Re:Scene" width="50" /> | UhUh |
+| 211 | <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="Macarena" width="50" /> | Macarena | 994 | <img src="https://i.scdn.co/image/ab67616d0000b273a359467cf1e245c2cdf5dad5" alt="HELLO Chapter 1: Hello, Stranger" width="50" /> | What You Wanted |
+| 256 | <img src="https://i.scdn.co/image/ab67616d0000b27340320ca58cbadbad78598e36" alt="EPEX 5th EP Album Prelude of Love Chapter 2. &#x27;Growing Pains&#x27;" width="50" /> | Sunshower | 994 | <img src="https://i.scdn.co/image/ab67616d0000b2735955254dc5bccba12df1df8a" alt="Bridge of Dreams" width="50" /> | La Luna |
+| 274 | <img src="https://i.scdn.co/image/ab67616d0000b273d7112b403c7a97c2a3ad462c" alt="Love seeker" width="50" /> | Love seeker | 994 | <img src="https://i.scdn.co/image/ab67616d0000b27311e775512911343411545bd3" alt="BLACK LABEL" width="50" /> | You’re Pitiful |
+| 291 | <img src="https://i.scdn.co/image/ab67616d0000b2730490e8ab48790ca6e5add267" alt="Supersonic" width="50" /> | Supersonic | 994 | <img src="https://i.scdn.co/image/ab67616d0000b2737c4382c3305785dfd04d5d01" alt="Liminality - EP.LOVE" width="50" /> | Tap Tap |
+| 309 | <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="Fairyforest : Temptation" width="50" /> | Bewitched | 994 | <img src="https://i.scdn.co/image/ab67616d0000b27376ac47ccb37484a1f5ca821e" alt="÷ (NANUGI)" width="50" /> | MEDUSA |
+| 424 | <img src="https://i.scdn.co/image/ab67616d0000b2732325e0aa6cad94d104ea055e" alt="BLOOD MOON" width="50" /> | LUNA | 994 | <img src="https://i.scdn.co/image/ab67616d0000b273fca604ab938f3f3319971a61" alt="기기괴괴" width="50" /> | 기기괴괴 |
+| 604 | <img src="https://i.scdn.co/image/ab67616d0000b273b0f7fd5522eff959055b20d8" alt="Cherry Rush" width="50" /> | Love So Sweet | 994 | <img src="https://i.scdn.co/image/ab67616d0000b2731af4a83bf4b82f5687a98e7d" alt="THE OTHER SIDE OF THE MOON" width="50" /> | I Can't Breathe |
+| 636 | <img src="https://i.scdn.co/image/ab67616d0000b27359fcda8d47bbd0f6c2bf1647" alt="Bizarre Story" width="50" /> | 기괴한 이야기 : Get Out | 994 | <img src="https://i.scdn.co/image/ab67616d0000b273569689ef998a192f7809467a" alt="Target: ME" width="50" /> | TROUBLE |
 
 </details>
 
@@ -107,7 +107,7 @@
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273746aa611760918dccb6c0359" alt="" width="50" /> | 651 | 2 | 1 | REBORN | 2022-06-15 | [🔗](https://open.spotify.com/album/6kp9dsLnll5WEiBlBUwBME) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="" width="50" /> | 224 | 2 | 1 | Fairyforest : Temptation | 2021-10-07 | [🔗](https://open.spotify.com/album/3999VmQrZOafu4NjYkc0rj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aee583607f564a44f6edba26" alt="" width="50" /> | 225 | 2 | 1 | Fairyforest : Temptation | 2021-10-07 | [🔗](https://open.spotify.com/album/3999VmQrZOafu4NjYkc0rj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a359467cf1e245c2cdf5dad5" alt="" width="50" /> | 651 | 2 | 0 | HELLO Chapter 1: Hello, Stranger | 2019-07-23 | [🔗](https://open.spotify.com/album/73Jw9dKwFV1kF62JFUls3V) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fca604ab938f3f3319971a61" alt="" width="50" /> | 651 | 1 | 1 | 기기괴괴 | 2021-10-31 | [🔗](https://open.spotify.com/album/296fyWl3wGRk4pB7sbaAwx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730615bbf0d4382f2cb1716730" alt="" width="50" /> | 651 | 1 | 1 | Wings | 2021-02-24 | [🔗](https://open.spotify.com/album/4knaQg3CtzHlA2m99NS7xW) |
@@ -115,7 +115,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273569689ef998a192f7809467a" alt="" width="50" /> | 651 | 1 | 1 | Target: ME | 2023-09-19 | [🔗](https://open.spotify.com/album/3zgfK7IBAPDcroAqxzzMOy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ae9560ab74e7b144674ec428" alt="" width="50" /> | 651 | 1 | 1 | Tales of the Unusual | 2022-04-08 | [🔗](https://open.spotify.com/album/3xvUAslKb1sSJBf0gmszPc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731af4a83bf4b82f5687a98e7d" alt="" width="50" /> | 651 | 1 | 1 | THE OTHER SIDE OF THE MOON | 2021-05-26 | [🔗](https://open.spotify.com/album/4W9vkO9c1K2oVvLTNsjWv7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730490e8ab48790ca6e5add267" alt="" width="50" /> | 212 | 1 | 1 | Supersonic | 2024-08-12 | [🔗](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730490e8ab48790ca6e5add267" alt="" width="50" /> | 213 | 1 | 1 | Supersonic | 2024-08-12 | [🔗](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) |
 
 
 <details>
@@ -129,7 +129,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce09217bde99ac32fb509123" alt="" width="50" /> | 149 | 1 | 1 | OVERSTEP | 2024-06-03 | [🔗](https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0039a4bfdcb101825806916" alt="" width="50" /> | 159 | 1 | 1 | Macarena | 2023-04-24 | [🔗](https://open.spotify.com/album/3GwaGRlx2KLrle3F7VxFF3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395ab9a02d082c6df434aee14" alt="" width="50" /> | 651 | 1 | 1 | MYST3RY | 2016-02-24 | [🔗](https://open.spotify.com/album/2kOn7OTf9UGL0fyxy8yT7n) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d7112b403c7a97c2a3ad462c" alt="" width="50" /> | 197 | 1 | 1 | Love seeker | 2024-05-11 | [🔗](https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d7112b403c7a97c2a3ad462c" alt="" width="50" /> | 198 | 1 | 1 | Love seeker | 2024-05-11 | [🔗](https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305de9858d5c447c247f6ce21" alt="" width="50" /> | 651 | 1 | 1 | LUPIN | 2020-03-15 | [🔗](https://open.spotify.com/album/361AnnYEYLl0Z7zF7Xo0Dq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e827c21f833661043f8dd588" alt="" width="50" /> | 651 | 1 | 1 | LIMITED EDITION ‘1TAN’ | 2022-03-10 | [🔗](https://open.spotify.com/album/6037tvwFU3cqeiglPyBoMG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e8729bbf642d44e6e973e2d" alt="" width="50" /> | 651 | 1 | 1 | Just go | 2013-03-08 | [🔗](https://open.spotify.com/album/4rNbLQCtgRSSCvYjk12zX3) |
@@ -138,16 +138,16 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737694471cc29815e2b3864637" alt="" width="50" /> | 651 | 1 | 1 | HELLO Chapter 3: Hello, Strange Time | 2020-10-27 | [🔗](https://open.spotify.com/album/6w3QkgYGtf6LfiWb5iCYc1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738cab1c75d2271af37c3e2db9" alt="" width="50" /> | 130 | 1 | 1 | First Howling : ME | 2022-12-06 | [🔗](https://open.spotify.com/album/3jqV1FFra3A2179rdtiNdo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b068508a55c13c676bf74d6b" alt="" width="50" /> | 651 | 1 | 1 | FACE ME | 2020-01-07 | [🔗](https://open.spotify.com/album/4i3Q8eTqefwISi3WltwzAW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27340320ca58cbadbad78598e36" alt="" width="50" /> | 185 | 1 | 1 | EPEX 5th EP Album Prelude of Love Chapter 2. 'Growing Pains' | 2023-04-26 | [🔗](https://open.spotify.com/album/7c4HuyVRABrlh7eOdhozwd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27340320ca58cbadbad78598e36" alt="" width="50" /> | 186 | 1 | 1 | EPEX 5th EP Album Prelude of Love Chapter 2. 'Growing Pains' | 2023-04-26 | [🔗](https://open.spotify.com/album/7c4HuyVRABrlh7eOdhozwd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273efb1438c83e929e60f250be2" alt="" width="50" /> | 651 | 1 | 1 | DOLLS | 2013-01-24 | [🔗](https://open.spotify.com/album/3gCmOfwfMprkm469ZUyZ6m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f21b8314d7ea1cc899b96a71" alt="" width="50" /> | 651 | 1 | 1 | DANCE ON | 2022-10-27 | [🔗](https://open.spotify.com/album/16KEnilBEGfqzkzrnIQ8CX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b0f7fd5522eff959055b20d8" alt="" width="50" /> | 405 | 1 | 1 | Cherry Rush | 2021-01-20 | [🔗](https://open.spotify.com/album/0W9GrOL1veUcQdbPvgjj9i) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b0f7fd5522eff959055b20d8" alt="" width="50" /> | 406 | 1 | 1 | Cherry Rush | 2021-01-20 | [🔗](https://open.spotify.com/album/0W9GrOL1veUcQdbPvgjj9i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bdd7e53da67e71769c89822" alt="" width="50" /> | 651 | 1 | 1 | CURIOUS | 2024-08-06 | [🔗](https://open.spotify.com/album/5SooWgzvq5BzwkQV57ltbM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357f1657f07fe39567d43c001" alt="" width="50" /> | 442 | 1 | 1 | CHOSEN KARMA | 2023-03-10 | [🔗](https://open.spotify.com/album/0S6Yq3EcpbHhj1r0cuYChA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359a3be39191eb0eb63231c0b" alt="" width="50" /> | 651 | 1 | 1 | CHECK-IN | 2021-05-12 | [🔗](https://open.spotify.com/album/1ByTvinHUbdfpRMqxzGCUr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735955254dc5bccba12df1df8a" alt="" width="50" /> | 651 | 1 | 1 | Bridge of Dreams | 2022-04-27 | [🔗](https://open.spotify.com/album/7l19KsnZJdODCoo1cS2Slu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359fcda8d47bbd0f6c2bf1647" alt="" width="50" /> | 424 | 1 | 1 | Bizarre Story | 2022-10-24 | [🔗](https://open.spotify.com/album/2a63YUr9pcvyfxxNKtw5HO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732325e0aa6cad94d104ea055e" alt="" width="50" /> | 298 | 1 | 1 | BLOOD MOON | 2021-11-09 | [🔗](https://open.spotify.com/album/13dNmnWQVodErqAhuOzYTD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732325e0aa6cad94d104ea055e" alt="" width="50" /> | 299 | 1 | 1 | BLOOD MOON | 2021-11-09 | [🔗](https://open.spotify.com/album/13dNmnWQVodErqAhuOzYTD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395e1a12145290ca7d783eb1d" alt="" width="50" /> | 651 | 1 | 1 | BINARY CODE | 2021-05-11 | [🔗](https://open.spotify.com/album/3MSvgJYx3omhNpSaQUqnu5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273addef7fad07f17acdf7d6b98" alt="" width="50" /> | 651 | 1 | 1 | B:COMPLETE | 2019-05-22 | [🔗](https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd8c3b43984ed746176ac0cf" alt="" width="50" /> | 651 | 1 | 1 | Alice in Wonderland | 2021-06-21 | [🔗](https://open.spotify.com/album/0KFsCn3mxiaKMpobo3BRQM) |

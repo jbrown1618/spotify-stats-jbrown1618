@@ -43,23 +43,23 @@
 ## Most and least listened tracks
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 394 | <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="アイドル" width="50" /> | [アイドル](../../artists/yoasobi/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | [Loving You](../../artists/yoasobi/overview.md) |
-| 506 | <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | [Seventeen](../../artists/yoasobi/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a" alt="Editorial" width="50" /> | Cry Baby |
-| 582 | <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="海のまにまに" width="50" /> | [海のまにまに](../../artists/yoasobi/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1a46144fd6a2c5e2cc5872" alt="恋人じゃなくなった日" width="50" /> | 恋人じゃなくなった日 |
-| 731 | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | ドライフラワー | 989 | <img src="https://i.scdn.co/image/ab67616d0000b273188327ac9022d86ad2dd6483" alt="弐" width="50" /> | ビリミリオン |
-| 772 | <img src="https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1" alt="THE BOOK" width="50" /> | [群青](../../artists/yoasobi/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b273d61eeceb46e9eb4645360034" alt="On the Stage" width="50" /> | [On the Stage](../../artists/yoasobi/overview.md) |
-| 806 | <img src="https://i.scdn.co/image/ab67616d0000b2737f63f3d6c8b925a74145eb24" alt="セブンティーン" width="50" /> | [セブンティーン](../../artists/yoasobi/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1" alt="THE BOOK" width="50" /> | [夜に駆ける](../../artists/yoasobi/overview.md) |
-| 893 | <img src="https://i.scdn.co/image/ab67616d0000b273f609c79794752ed7ee0976b5" alt="怪物" width="50" /> | [怪物](../../artists/yoasobi/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b273a4581aef9b70d42d5346c215" alt="UNDEAD" width="50" /> | [UNDEAD](../../artists/yoasobi/overview.md) |
-| 956 | <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | [Adventure](../../artists/yoasobi/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b2730f94f53a1c9c60d953ffd2f2" alt="Ambitions" width="50" /> | We Are |
-| 978 | <img src="https://i.scdn.co/image/ab67616d0000b27396e164f0c5aac83148bb8f24" alt="LEVEL3" width="50" /> | だいじょばない | 989 | <img src="https://i.scdn.co/image/ab67616d0000b27302a856097c809fb56c23cfb2" alt="POP VIRUS" width="50" /> | Koi |
-| 989 | <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | [manimani](../../artists/yoasobi/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | ベテルギウス |
+| 394 | <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="アイドル" width="50" /> | [アイドル](../../artists/yoasobi/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | [Loving You](../../artists/yoasobi/overview.md) |
+| 506 | <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | [Seventeen](../../artists/yoasobi/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a" alt="Editorial" width="50" /> | Cry Baby |
+| 589 | <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="海のまにまに" width="50" /> | [海のまにまに](../../artists/yoasobi/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1a46144fd6a2c5e2cc5872" alt="恋人じゃなくなった日" width="50" /> | 恋人じゃなくなった日 |
+| 735 | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | ドライフラワー | 994 | <img src="https://i.scdn.co/image/ab67616d0000b273188327ac9022d86ad2dd6483" alt="弐" width="50" /> | ビリミリオン |
+| 779 | <img src="https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1" alt="THE BOOK" width="50" /> | [群青](../../artists/yoasobi/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b273d61eeceb46e9eb4645360034" alt="On the Stage" width="50" /> | [On the Stage](../../artists/yoasobi/overview.md) |
+| 811 | <img src="https://i.scdn.co/image/ab67616d0000b2737f63f3d6c8b925a74145eb24" alt="セブンティーン" width="50" /> | [セブンティーン](../../artists/yoasobi/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1" alt="THE BOOK" width="50" /> | [夜に駆ける](../../artists/yoasobi/overview.md) |
+| 899 | <img src="https://i.scdn.co/image/ab67616d0000b273f609c79794752ed7ee0976b5" alt="怪物" width="50" /> | [怪物](../../artists/yoasobi/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b273a4581aef9b70d42d5346c215" alt="UNDEAD" width="50" /> | [UNDEAD](../../artists/yoasobi/overview.md) |
+| 965 | <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | [Adventure](../../artists/yoasobi/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b2730f94f53a1c9c60d953ffd2f2" alt="Ambitions" width="50" /> | We Are |
+| 985 | <img src="https://i.scdn.co/image/ab67616d0000b27396e164f0c5aac83148bb8f24" alt="LEVEL3" width="50" /> | だいじょばない | 994 | <img src="https://i.scdn.co/image/ab67616d0000b27302a856097c809fb56c23cfb2" alt="POP VIRUS" width="50" /> | Koi |
+| 994 | <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | [manimani](../../artists/yoasobi/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="壱" width="50" /> | ベテルギウス |
 
 ## Top Albums
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="" width="50" /> | 351 | 4 | 4 | E-SIDE 3 | 2024-04-12 | [🔗](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | 491 | 2 | 1 | 壱 | 2022-01-12 | [🔗](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="" width="50" /> | 352 | 4 | 4 | E-SIDE 3 | 2024-04-12 | [🔗](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | 493 | 2 | 1 | 壱 | 2022-01-12 | [🔗](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1" alt="" width="50" /> | 517 | 2 | 0 | THE BOOK | 2021-01-06 | [🔗](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a" alt="" width="50" /> | 651 | 2 | 0 | Editorial | 2021-08-18 | [🔗](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ced490e566f828ee9ca8d263" alt="" width="50" /> | 651 | 1 | 1 | 潜潜話 | 2019-10-29 | [🔗](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) |
@@ -67,7 +67,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f609c79794752ed7ee0976b5" alt="" width="50" /> | 593 | 1 | 1 | 怪物 | 2021-01-06 | [🔗](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273188327ac9022d86ad2dd6483" alt="" width="50" /> | 651 | 1 | 1 | 弐 | 2023-03-29 | [🔗](https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f63f3d6c8b925a74145eb24" alt="" width="50" /> | 539 | 1 | 1 | セブンティーン | 2023-03-27 | [🔗](https://open.spotify.com/album/2XGJwl5zpqPTmtLAPy2rr6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="" width="50" /> | 277 | 1 | 1 | アイドル | 2023-04-12 | [🔗](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="" width="50" /> | 278 | 1 | 1 | アイドル | 2023-04-12 | [🔗](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) |
 
 
 <details>

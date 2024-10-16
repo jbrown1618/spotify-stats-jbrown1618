@@ -36,17 +36,9 @@
 | VAY (Feat. Changbin of Stray Kids) | GOLD | ITZY | 0 | 0 | 70 |
 | GOLD | GOLD | ITZY | 0 | 0 | 70 |
 | FIVE | GOLD | ITZY | 0 | 0 | 70 |
-| Mr. Vampire (Final Ver.) | GOLD | ITZY | 0 | 0 | 70 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 88 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 80 |
 | Sleep-walking | Prequel | Dreamcatcher | 1 | 1 | 61 |
-| No One But Us | Lose Yourself | KISS OF LIFE | 0 | 0 | 73 |
-| R.E.M | Lose Yourself | KISS OF LIFE | 0 | 0 | 73 |
-| Too Many Alex | Lose Yourself | KISS OF LIFE | 0 | 0 | 73 |
-| Igloo | Lose Yourself | KISS OF LIFE | 0 | 0 | 73 |
-| Back To Me | Lose Yourself | KISS OF LIFE | 0 | 0 | 73 |
-| Chemistry | Lose Yourself | KISS OF LIFE | 0 | 0 | 73 |
-| Get Loud | Lose Yourself | KISS OF LIFE | 0 | 0 | 73 |
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 69 |
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 55 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 50 |
@@ -54,6 +46,11 @@
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 66 |
 | Underground | Artemis | Lindsey Stirling | 1 | 1 | 66 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 51 |
+| Too Many Alex | Lose Yourself | KISS OF LIFE | 0 | 0 | 73 |
+| Igloo | Lose Yourself | KISS OF LIFE | 0 | 0 | 73 |
+| Back To Me | Lose Yourself | KISS OF LIFE | 0 | 0 | 73 |
+| Chemistry | Lose Yourself | KISS OF LIFE | 0 | 0 | 73 |
+| Get Loud | Lose Yourself | KISS OF LIFE | 0 | 0 | 73 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 65 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 60 |
 | Lone Digger | <|º_º|> | Caravan Palace | 2 | 2 | 62 |

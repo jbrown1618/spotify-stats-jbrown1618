@@ -31,8 +31,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d9aa52355e062f5de060adbf" alt="This Is What You Came For" width="50" /> | This Is What You Came For (0.927) | <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="No Time To Die" width="50" /> | No Time To Die (0.22) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909" alt="No Strings Attached" width="50" /> | Bye Bye Bye - From Deadpool and Wolverine Soundtrack (0.926) | <img src="https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249" alt="everything i wanted" width="50" /> | everything i wanted (0.225) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="The Fame Monster (Deluxe Edition)" width="50" /> | Bad Romance (0.921) | <img src="https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e" alt="Happier Than Ever" width="50" /> | Happier Than Ever (0.225) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="Red" width="50" /> | Red (0.896) | <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> | Off My Face (0.228) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736ff8bc258e3ebc835ffe14ca" alt="Save Me, San Francisco (Golden Gate Edition)" width="50" /> | Hey, Soul Sister (0.886) | <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="Guitar Songs" width="50" /> | TV (0.236) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626" alt="Short n&#x27; Sweet" width="50" /> | Taste (0.907) | <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="Justice" width="50" /> | Off My Face (0.228) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="Red" width="50" /> | Red (0.896) | <img src="https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318" alt="Guitar Songs" width="50" /> | TV (0.236) |
 
 ## Speechiness
 

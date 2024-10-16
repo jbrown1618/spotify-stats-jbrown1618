@@ -138,16 +138,16 @@
 
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 3 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | [Welcome To MY World (feat. nævis)](../../artists/aespa/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="Sorry" width="50" /> | [Sorry](../../artists/the_rose/overview.md) |
-| 9 | <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b273058833119cfac69bc09b11a2" alt="DIE 4 YOU" width="50" /> | DIE 4 YOU |
-| 37 | <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="To. X - The 5th Mini Album" width="50" /> | [To. X](../../artists/taeyeon/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b27307a560f0504f9de0af5e0a33" alt="Baby Powder" width="50" /> | Baby Powder |
-| 42 | <img src="https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd" alt="KWON JI YONG" width="50" /> | 무제(無題) (Untitled, 2014) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Your Existence |
-| 44 | <img src="https://i.scdn.co/image/ab67616d0000b27381fb7e4e392f0a99b3947eb6" alt="The Velvet - The 2nd Mini Album" width="50" /> | [7월 7일 One Of These Nights](../../artists/red_velvet/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b273991f8587520bf76795db6f0e" alt="Meow the secret boy 어서와 (Original Television Soundtrack), Pt.11" width="50" /> | Show Your Heart 너를 보여줘 |
-| 48 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | [ONLY](../../artists/leehi/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [Love To Hate Me](../../artists/blackpink/overview.md) |
-| 56 | <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="Ditto" width="50" /> | [Ditto](../../artists/newjeans/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="dont smile at me" width="50" /> | [ocean eyes](../../artists/billie_eilish/overview.md) |
-| 58 | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="My Voice - The 1st Album" width="50" /> | [I Got Love](../../artists/taeyeon/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Starlight |
-| 60 | <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="X&amp;Y" width="50" /> | [Fix You](../../artists/coldplay/overview.md) |
-| 74 | <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="RISE" width="50" /> | 눈,코,입 (Eyes, Nose, Lips) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | [Intentions](../../artists/leehi/overview.md) |
+| 3 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="MY WORLD - The 3rd Mini Album" width="50" /> | [Welcome To MY World (feat. nævis)](../../artists/aespa/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="Sorry" width="50" /> | [Sorry](../../artists/the_rose/overview.md) |
+| 9 | <img src="https://i.scdn.co/image/ab67616d0000b2733aed2ab6fbf6cd62a0abf8d8" alt="HOLO" width="50" /> | [HOLO](../../artists/leehi/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b273058833119cfac69bc09b11a2" alt="DIE 4 YOU" width="50" /> | DIE 4 YOU |
+| 37 | <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="To. X - The 5th Mini Album" width="50" /> | [To. X](../../artists/taeyeon/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b27307a560f0504f9de0af5e0a33" alt="Baby Powder" width="50" /> | Baby Powder |
+| 42 | <img src="https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd" alt="KWON JI YONG" width="50" /> | 무제(無題) (Untitled, 2014) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Your Existence |
+| 44 | <img src="https://i.scdn.co/image/ab67616d0000b27381fb7e4e392f0a99b3947eb6" alt="The Velvet - The 2nd Mini Album" width="50" /> | [7월 7일 One Of These Nights](../../artists/red_velvet/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b273991f8587520bf76795db6f0e" alt="Meow the secret boy 어서와 (Original Television Soundtrack), Pt.11" width="50" /> | Show Your Heart 너를 보여줘 |
+| 48 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | [ONLY](../../artists/leehi/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="THE ALBUM" width="50" /> | [Love To Hate Me](../../artists/blackpink/overview.md) |
+| 56 | <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="Ditto" width="50" /> | [Ditto](../../artists/newjeans/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="dont smile at me" width="50" /> | [ocean eyes](../../artists/billie_eilish/overview.md) |
+| 58 | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="My Voice - The 1st Album" width="50" /> | [I Got Love](../../artists/taeyeon/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="Twenty-Five Twenty-One OST" width="50" /> | Starlight |
+| 60 | <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="Amusement Park" width="50" /> | [Amusement Park](../../artists/baekhyun/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="X&amp;Y" width="50" /> | [Fix You](../../artists/coldplay/overview.md) |
+| 74 | <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="RISE" width="50" /> | 눈,코,입 (Eyes, Nose, Lips) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | [Intentions](../../artists/leehi/overview.md) |
 
 </details>
 
@@ -157,16 +157,16 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | 474 | 5 | 3 | eternal sunshine | 2024-03-08 | [🔗](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | 475 | 5 | 3 | eternal sunshine | 2024-03-08 | [🔗](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="" width="50" /> | 47 | 4 | 4 | 4 ONLY | 2021-09-09 | [🔗](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d681b1b80c5dff43d2f4a3df" alt="" width="50" /> | 172 | 4 | 0 | SKZ-REPLAY | 2022-12-21 | [🔗](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | 595 | 3 | 3 | folklore | 2020-07-24 | [🔗](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed4dcfaf5f63938ecd6c4d59" alt="" width="50" /> | 24 | 3 | 3 | To. X - The 5th Mini Album | 2023-11-27 | [🔗](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e64c5b1565cac58c05f3c0d" alt="" width="50" /> | 651 | 3 | 2 | Bambi - The 3rd Mini Album | 2021-03-30 | [🔗](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | 328 | 2 | 2 | reputation | 2017-11-10 | [🔗](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ea860a3e6904b875629d672" alt="" width="50" /> | 262 | 2 | 2 | YOUNG-LUV.COM | 2022-02-21 | [🔗](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | 329 | 2 | 2 | reputation | 2017-11-10 | [🔗](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ea860a3e6904b875629d672" alt="" width="50" /> | 263 | 2 | 2 | YOUNG-LUV.COM | 2022-02-21 | [🔗](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354d483dff87402bfe717f738" alt="" width="50" /> | 91 | 2 | 2 | What Do I Call You - The 4th Mini Album | 2020-12-15 | [🔗](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="" width="50" /> | 387 | 2 | 2 | Twenty-Five Twenty-One OST | 2022-04-03 | [🔗](https://open.spotify.com/album/77NPr874WU941XZhjO43dR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ccb1b40b2081fff238473bb" alt="" width="50" /> | 388 | 2 | 2 | Twenty-Five Twenty-One OST | 2022-04-03 | [🔗](https://open.spotify.com/album/77NPr874WU941XZhjO43dR) |
 
 
 <details>
@@ -176,7 +176,7 @@
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2737dd8f95320e8ef08aa121dfe" alt="" width="50" /> | 1 | 2 | 2 | THE ALBUM | 2020-10-02 | [🔗](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273298c56a4f6053a44b9bf968e" alt="" width="50" /> | 139 | 2 | 2 | SEOULITE | 2016-03-09 | [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | 218 | 2 | 2 | Perfect Velvet - The 2nd Album | 2017-11-17 | [🔗](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736538b8e1b5c7b2a9d2211769" alt="" width="50" /> | 219 | 2 | 2 | Perfect Velvet - The 2nd Album | 2017-11-17 | [🔗](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304878afb19613a94d37b29ce" alt="" width="50" /> | 2 | 2 | 2 | MY WORLD - The 3rd Mini Album | 2023-05-08 | [🔗](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733b414bbbf73c81957c8b7541" alt="" width="50" /> | 145 | 2 | 2 | Last Winter | 2023-12-07 | [🔗](https://open.spotify.com/album/41vj1sO4NJFriquGszDSh5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b3be3b970fc89a02f301c9da" alt="" width="50" /> | 11 | 2 | 2 | Girls - The 2nd Mini Album | 2022-07-08 | [🔗](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) |
@@ -187,32 +187,32 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | 166 | 2 | 1 | I NEVER DIE | 2022-03-14 | [🔗](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731843897a2a72dd5036bbb1fc" alt="" width="50" /> | 35 | 2 | 0 | NOEASY | 2021-08-23 | [🔗](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305203cde35ba2fef6ca7b970" alt="" width="50" /> | 651 | 1 | 1 | 공감 (Empathy) - The 1st Mini Album | 2021-07-26 | [🔗](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | 491 | 1 | 1 | 壱 | 2022-01-12 | [🔗](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | 493 | 1 | 1 | 壱 | 2022-01-12 | [🔗](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c4a282e84a53c1c8acf129a" alt="" width="50" /> | 80 | 1 | 1 | ‘The ReVe Festival 2022 - Feel My Rhythm’ | 2022-03-21 | [🔗](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606" alt="" width="50" /> | 493 | 1 | 1 | ~how i'm feeling~ | 2020-03-06 | [🔗](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606" alt="" width="50" /> | 491 | 1 | 1 | ~how i'm feeling~ | 2020-03-06 | [🔗](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362483e4a96b7566d2440fc91" alt="" width="50" /> | 651 | 1 | 1 | timeabout, | 2021-04-07 | [🔗](https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | 75 | 1 | 1 | the Billage of perception: chapter three | 2023-03-28 | [🔗](https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c5be128bd1b55bf36041574" alt="" width="50" /> | 70 | 1 | 1 | the Billage of perception : chapter one | 2021-11-10 | [🔗](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | 497 | 1 | 1 | thank u, next | 2019-02-08 | [🔗](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="" width="50" /> | 344 | 1 | 1 | minor | 2020-07-14 | [🔗](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8" alt="" width="50" /> | 500 | 1 | 1 | thank u, next | 2019-02-08 | [🔗](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="" width="50" /> | 345 | 1 | 1 | minor | 2020-07-14 | [🔗](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c" alt="" width="50" /> | 651 | 1 | 1 | lovely (with Khalid) | 2018-04-19 | [🔗](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | 651 | 1 | 1 | evermore | 2020-12-11 | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795" alt="" width="50" /> | 651 | 1 | 1 | dont smile at me | 2017-12-22 | [🔗](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5" alt="" width="50" /> | 651 | 1 | 1 | channel ORANGE | 2012-07-10 | [🔗](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a42bfa2c336bdc2e5c486e49" alt="" width="50" /> | 329 | 1 | 1 | [REC.] | 2022-01-18 | [🔗](https://open.spotify.com/album/6ofVW04Q32gN1Hxk50S9Fi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a42bfa2c336bdc2e5c486e49" alt="" width="50" /> | 331 | 1 | 1 | [REC.] | 2022-01-18 | [🔗](https://open.spotify.com/album/6ofVW04Q32gN1Hxk50S9Fi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" alt="" width="50" /> | 651 | 1 | 1 | You Never Walk Alone | 2017-02-13 | [🔗](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732918f236448bf544586e388a" alt="" width="50" /> | 404 | 1 | 1 | YOUNHA 6th Album Repackage 'END THEORY : Final Edition' | 2022-03-30 | [🔗](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732918f236448bf544586e388a" alt="" width="50" /> | 405 | 1 | 1 | YOUNHA 6th Album Repackage 'END THEORY : Final Edition' | 2022-03-30 | [🔗](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="" width="50" /> | 651 | 1 | 1 | X&Y | 2005-06-07 | [🔗](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27352d0ac4eb2c3fd56c01a01b5" alt="" width="50" /> | 651 | 1 | 1 | Written In The Stars | 2018-10-11 | [🔗](https://open.spotify.com/album/08z3DsL7P6RpBR3FgNMSvN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | 103 | 1 | 1 | Wish You Hell - The 2nd Mini Album | 2024-03-12 | [🔗](https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e5b72a052cd11134380eeb8a" alt="" width="50" /> | 651 | 1 | 1 | Wish & Wind | 2018-03-08 | [🔗](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27308b6c12c648f704e599cabd9" alt="" width="50" /> | 651 | 1 | 1 | When Night Is Falling | 2021-07-07 | [🔗](https://open.spotify.com/album/3nOIsILeko2meMblKEGYZw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c0252c4e4a988f024e4d262" alt="" width="50" /> | 124 | 1 | 1 | WINE | 2017-04-27 | [🔗](https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | 215 | 1 | 1 | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | 2019-03-29 | [🔗](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | 216 | 1 | 1 | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | 2019-03-29 | [🔗](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356080feb452fa7ad4ca61d8b" alt="" width="50" /> | 651 | 1 | 1 | Village | 2018-11-02 | [🔗](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | 241 | 1 | 1 | Under The Blacklight (Standard Version) | 2007-08-20 | [🔗](https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27365605f713fce29c2682c9ebe" alt="" width="50" /> | 242 | 1 | 1 | Under The Blacklight (Standard Version) | 2007-08-20 | [🔗](https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e8648df6b4f5916826059295" alt="" width="50" /> | 651 | 1 | 1 | Under Caffeine | 2018-09-01 | [🔗](https://open.spotify.com/album/0xx0aVmnZiiqsFfKRTXOJp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aae78727e396da9f03032eda" alt="" width="50" /> | 311 | 1 | 1 | Traffic light | 2021-05-14 | [🔗](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aae78727e396da9f03032eda" alt="" width="50" /> | 312 | 1 | 1 | Traffic light | 2021-05-14 | [🔗](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381fb7e4e392f0a99b3947eb6" alt="" width="50" /> | 44 | 1 | 1 | The Velvet - The 2nd Mini Album | 2016-03-17 | [🔗](https://open.spotify.com/album/2qgl7dAgslqL1w2l2wQhMA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5" alt="" width="50" /> | 651 | 1 | 1 | The Prelude | 2020-07-17 | [🔗](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f50b3400595b123a916e0dc" alt="" width="50" /> | 651 | 1 | 1 | The Lady Killer | 2010-11-09 | [🔗](https://open.spotify.com/album/3MXU6UoWrf4w4bOvjZTlvY) |
@@ -220,48 +220,48 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273120a1366324c2ae1728e17e5" alt="" width="50" /> | 651 | 1 | 1 | The ArchAndroid | 2010-05-17 | [🔗](https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4aa9c49f8fedf1df4f84051" alt="" width="50" /> | 161 | 1 | 1 | The 2¢ Show | 2012-05-23 | [🔗](https://open.spotify.com/album/4DECRyKlhKJgjZLLuvfAI6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739bb453695e0776ceb13576f3" alt="" width="50" /> | 651 | 1 | 1 | Take | 2018-06-27 | [🔗](https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="" width="50" /> | 362 | 1 | 1 | THE SECOND STEP : CHAPTER ONE | 2022-02-15 | [🔗](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737e1eeb0d7cc374a168369c80" alt="" width="50" /> | 374 | 1 | 1 | Supernatural | 2024-06-21 | [🔗](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27328be5dc3cc0bd6f2482c1d56" alt="" width="50" /> | 363 | 1 | 1 | THE SECOND STEP : CHAPTER ONE | 2022-02-15 | [🔗](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737e1eeb0d7cc374a168369c80" alt="" width="50" /> | 375 | 1 | 1 | Supernatural | 2024-06-21 | [🔗](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732babb9dbd8f5146112f1bf86" alt="" width="50" /> | 651 | 1 | 1 | Stuck with U | 2020-05-08 | [🔗](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81" alt="" width="50" /> | 271 | 1 | 1 | Strange Trails | 2015-04-07 | [🔗](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 547 | 1 | 1 | Still Life | 2022-04-05 | [🔗](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb136d1be54b1ef8273c0699" alt="" width="50" /> | 545 | 1 | 1 | Still Life | 2022-04-05 | [🔗](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | 20 | 1 | 1 | Stamp On It - The 1st Mini Album | 2023-01-16 | [🔗](https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739902ed3e9f44f5ad65ad808a" alt="" width="50" /> | 651 | 1 | 1 | Sorry | 2017-08-03 | [🔗](https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d17ca02a739a9a24933cf805" alt="" width="50" /> | 538 | 1 | 1 | Solar International | 2010-08-19 | [🔗](https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273470483222eb038c3b60e71f6" alt="" width="50" /> | 393 | 1 | 1 | Slightly Tipsy (She is My Type♡ X SANDEUL) | 2020-07-20 | [🔗](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273470483222eb038c3b60e71f6" alt="" width="50" /> | 394 | 1 | 1 | Slightly Tipsy (She is My Type♡ X SANDEUL) | 2020-07-20 | [🔗](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 4 | 1 | 1 | Savage - The 1st Mini Album | 2021-10-05 | [🔗](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | 450 | 1 | 1 | SUGA's Interlude | 2019-12-06 | [🔗](https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fde8f652864b52fc8c266dee" alt="" width="50" /> | 651 | 1 | 1 | STELLA I | 2020-04-07 | [🔗](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | 575 | 1 | 1 | SEVENTEEN 4th Album 'Face the Sun' | 2022-05-27 | [🔗](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273decd839dd4fef3faf64c5fd5" alt="" width="50" /> | 574 | 1 | 1 | SEVENTEEN 4th Album 'Face the Sun' | 2022-05-27 | [🔗](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d42834b296097a0136e97d3" alt="" width="50" /> | 651 | 1 | 1 | SEOULITE | 2016-04-20 | [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="" width="50" /> | 291 | 1 | 1 | SAILING | 2019-09-25 | [🔗](https://open.spotify.com/album/7C0Ci0alKWwwXPIFYEdVcn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="" width="50" /> | 292 | 1 | 1 | SAILING | 2019-09-25 | [🔗](https://open.spotify.com/album/7C0Ci0alKWwwXPIFYEdVcn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27316e21608ece123c20bd24306" alt="" width="50" /> | 134 | 1 | 1 | Rain - SM STATION | 2016-02-03 | [🔗](https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273653887a83332de0350151f10" alt="" width="50" /> | 114 | 1 | 1 | ROMANCE : UNTOLD | 2024-07-12 | [🔗](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e1ceb97165340ef92392b948" alt="" width="50" /> | 69 | 1 | 1 | RISE | 2014-06-03 | [🔗](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f6458e54f8d2fd64f54ea3f" alt="" width="50" /> | 651 | 1 | 1 | RED | 2019-08-13 | [🔗](https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | 214 | 1 | 1 | R | 2021-03-12 | [🔗](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | 215 | 1 | 1 | R | 2021-03-12 | [🔗](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273478ef9d343e7ba9602e86f90" alt="" width="50" /> | 651 | 1 | 1 | Plastic Candy | 2023-10-26 | [🔗](https://open.spotify.com/album/2mwOcK4A3O3x9fxpjyFGxW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a" alt="" width="50" /> | 651 | 1 | 1 | Parachutes | 2000-07-10 | [🔗](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="" width="50" /> | 54 | 1 | 1 | Palette | 2017-04-21 | [🔗](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732d5c8b45ab7a204c4de48605" alt="" width="50" /> | 576 | 1 | 1 | Our Blues, Pt. 10 (Original Television Soundtrack) | 2022-05-22 | [🔗](https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732d5c8b45ab7a204c4de48605" alt="" width="50" /> | 575 | 1 | 1 | Our Blues, Pt. 10 (Original Television Soundtrack) | 2022-05-22 | [🔗](https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bf32f4be80afeb0e1a09b27d" alt="" width="50" /> | 92 | 1 | 1 | Officially Cool | 2024-04-02 | [🔗](https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="" width="50" /> | 108 | 1 | 1 | NewJeans 'OMG' | 2023-01-02 | [🔗](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2f5eb6302fa961ec097d466" alt="" width="50" /> | 651 | 1 | 1 | New Chapter #1: The Chance of Love - The 8th Album | 2018-03-28 | [🔗](https://open.spotify.com/album/0ipyHYAE0cMf4aDJNIDIU1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a90c2921f01f4b0b2e54b32" alt="" width="50" /> | 651 | 1 | 1 | NEON | 2019-02-22 | [🔗](https://open.spotify.com/album/2tF9C0qTzRdaZShK4iK0UD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738da57096b4f09bd7cc6e1954" alt="" width="50" /> | 651 | 1 | 1 | My Voice - The 1st Album (Deluxe Edition) | 2017-04-05 | [🔗](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c7e7f435fdcc70772c5555e" alt="" width="50" /> | 58 | 1 | 1 | My Voice - The 1st Album | 2017-02-28 | [🔗](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | 237 | 1 | 1 | My Everything (Deluxe) | 2014-08-22 | [🔗](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cb95963709806e12d93128d4" alt="" width="50" /> | 273 | 1 | 1 | Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2 | 2016-08-29 | [🔗](https://open.spotify.com/album/68xTLBWjoRADRf86WYmTmy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa" alt="" width="50" /> | 239 | 1 | 1 | My Everything (Deluxe) | 2014-08-22 | [🔗](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cb95963709806e12d93128d4" alt="" width="50" /> | 274 | 1 | 1 | Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2 | 2016-08-29 | [🔗](https://open.spotify.com/album/68xTLBWjoRADRf86WYmTmy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315b8cef21bf4482d56c15614" alt="" width="50" /> | 651 | 1 | 1 | Modern Times – Epilogue | 2013-12-20 | [🔗](https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | 651 | 1 | 1 | Midnights | 2022-10-21 | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273991f8587520bf76795db6f0e" alt="" width="50" /> | 651 | 1 | 1 | Meow the secret boy 어서와 (Original Television Soundtrack), Pt.11 | 2020-04-23 | [🔗](https://open.spotify.com/album/0ZqZDky3PSbzKgHJzvSRuJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395ab9a02d082c6df434aee14" alt="" width="50" /> | 651 | 1 | 1 | MYST3RY | 2016-02-24 | [🔗](https://open.spotify.com/album/2kOn7OTf9UGL0fyxy8yT7n) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27362fad74218294c98e510c1c8" alt="" width="50" /> | 299 | 1 | 1 | MOVE - The 2nd Album | 2017-10-16 | [🔗](https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362fad74218294c98e510c1c8" alt="" width="50" /> | 300 | 1 | 1 | MOVE - The 2nd Album | 2017-10-16 | [🔗](https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e308994a76a473a4f88c1aa" alt="" width="50" /> | 17 | 1 | 1 | MANIFESTO : DAY 1 | 2022-07-04 | [🔗](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | 244 | 1 | 1 | MADE | 2016-12-13 | [🔗](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" alt="" width="50" /> | 245 | 1 | 1 | MADE | 2016-12-13 | [🔗](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347d4fcf597d9aee2d5a34e8e" alt="" width="50" /> | 651 | 1 | 1 | Love, Maybe (A Business Proposal OST Special Track) | 2022-02-18 | [🔗](https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | 240 | 1 | 1 | Love poem | 2019-11-18 | [🔗](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | 558 | 1 | 1 | Love Yourself 結 'Answer' | 2018-08-24 | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | 241 | 1 | 1 | Love poem | 2019-11-18 | [🔗](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | 559 | 1 | 1 | Love Yourself 結 'Answer' | 2018-08-24 | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370c0e8d50872004adc791ef2" alt="" width="50" /> | 651 | 1 | 1 | Love Theory - SM STATION | 2022-04-14 | [🔗](https://open.spotify.com/album/2i27IzG4jFQjX7pS5L6TIu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273010bed9776d417a0da12cc9c" alt="" width="50" /> | 651 | 1 | 1 | Love Story | 2017-11-10 | [🔗](https://open.spotify.com/album/0H9qbHCWJRmKAhERqM5X9G) |
 
@@ -501,7 +501,7 @@
 | | [SCORE](../../producers/score/overview.md) | 3 | Arranger, Lyricist, Producer, Songwriter |
 | | [danke](../../producers/danke/overview.md) | 3 | Lyricist, Songwriter |
 | | [김병석 (Kim, Byung-seok)](../../producers/김병석_(kim,_byung-seok)/overview.md) | 3 | Arranger, Lyricist, Producer, Songwriter |
-| | Bryce Bordone | 3 | Producer |
+| | [Bryce Bordone](../../producers/bryce_bordone/overview.md) | 3 | Producer |
 | | [ILYA](../../producers/ilya/overview.md) | 3 | Arranger, Producer, Songwriter |
 | | 전부연 (Jeon, Bu-yeon) | 3 | Producer |
 | | James McAlister | 3 | Producer |

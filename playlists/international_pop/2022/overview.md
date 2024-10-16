@@ -49,7 +49,7 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | 491 | 2 | 1 | 壱 | 2022-01-12 | [🔗](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | 493 | 2 | 1 | 壱 | 2022-01-12 | [🔗](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="" width="50" /> | 651 | 2 | 1 | CITIZENS | 2022-05-19 | [🔗](https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="" width="50" /> | 397 | 1 | 1 | 海のまにまに | 2022-11-18 | [🔗](https://open.spotify.com/album/6M4p4S5t8PuRZiq7zvMEPB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731bccd0e65da477d7f815e229" alt="" width="50" /> | 651 | 1 | 1 | מי זאת | 2022-05-22 | [🔗](https://open.spotify.com/album/3vAQYVlLZrzs7lrjisl5VC) |
@@ -86,16 +86,16 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="" width="50" /> | 海のまにまに | 海のまにまに | [YOASOBI](../../../artists/yoasobi/overview.md) | [YOASOBI](../../../labels/yoasobi) | 582 | 💚 | [🔗](https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](../../../labels/sony_music_labels_inc_) | 731 | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ec71813c0c13422d225981da" alt="" width="50" /> | לך לישון | לך לישון | Anna Zak | ITModels under exclusive license to D-Music | 989 | | [🔗](https://open.spotify.com/track/3fCS3m3uWUgAFm3purs15C) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ベテルギウス | 壱 | Yuuri | [Sony Music Labels Inc.](../../../labels/sony_music_labels_inc_) | 989 | | [🔗](https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27393f551abf615209c537fb4d4" alt="" width="50" /> | きらり | Kirari Remixes (Asia Edition) | Fujii Kaze | [Universal Music LLC](../../../labels/universal_music_llc) | 989 | 💚 | [🔗](https://open.spotify.com/track/51oc6MEsXTpnPn6GOw5VuP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a6dd88a097d77eaa6a5f517f" alt="" width="50" /> | Doobey (From "Gehraiyaan") | Doobey (From "Gehraiyaan") | OAFF, Savera, Lothika, Kausar Munir | Sony Music Entertainment India Pvt. Ltd. | 989 | | [🔗](https://open.spotify.com/track/7MBqVOzb8C3f0FXr2LBLiq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733f3d35703bdcd917dad51c4f" alt="" width="50" /> | Pasoori | Pasoori | Shae Gill, Ali Sethi | Giraffe Pakistan | 989 | | [🔗](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273caae7b75fb240dd81f3f7129" alt="" width="50" /> | סתלבט בקיבוץ | ממותה | Full Trunk, Jimbo J | NaNa Disc | 989 | | [🔗](https://open.spotify.com/track/2G1o9Mq8KpamOwJPZLuJc7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b302a279cfab9f1a28d2d35" alt="" width="50" /> | See Tình | See Tình | Hoàng Thùy Linh | The Leader Entertainment | 989 | 💚 | [🔗](https://open.spotify.com/track/3bZGGKrMQLDGg18y2QqKFF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="" width="50" /> | Look At Me | Look At Me | Kawaguchi Yurina | [Universal Music LLC](../../../labels/universal_music_llc) | 989 | | [🔗](https://open.spotify.com/track/7F38cYOAZBuCjf3YoAmIZn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="" width="50" /> | 海のまにまに | 海のまにまに | [YOASOBI](../../../artists/yoasobi/overview.md) | [YOASOBI](../../../labels/yoasobi) | 589 | 💚 | [🔗](https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](../../../labels/sony_music_labels_inc_) | 735 | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ec71813c0c13422d225981da" alt="" width="50" /> | לך לישון | לך לישון | Anna Zak | ITModels under exclusive license to D-Music | 994 | | [🔗](https://open.spotify.com/track/3fCS3m3uWUgAFm3purs15C) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ベテルギウス | 壱 | Yuuri | [Sony Music Labels Inc.](../../../labels/sony_music_labels_inc_) | 994 | | [🔗](https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27393f551abf615209c537fb4d4" alt="" width="50" /> | きらり | Kirari Remixes (Asia Edition) | Fujii Kaze | [Universal Music LLC](../../../labels/universal_music_llc) | 994 | 💚 | [🔗](https://open.spotify.com/track/51oc6MEsXTpnPn6GOw5VuP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a6dd88a097d77eaa6a5f517f" alt="" width="50" /> | Doobey (From "Gehraiyaan") | Doobey (From "Gehraiyaan") | OAFF, Savera, Lothika, Kausar Munir | Sony Music Entertainment India Pvt. Ltd. | 994 | | [🔗](https://open.spotify.com/track/7MBqVOzb8C3f0FXr2LBLiq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733f3d35703bdcd917dad51c4f" alt="" width="50" /> | Pasoori | Pasoori | Shae Gill, Ali Sethi | Giraffe Pakistan | 994 | | [🔗](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273caae7b75fb240dd81f3f7129" alt="" width="50" /> | סתלבט בקיבוץ | ממותה | Full Trunk, Jimbo J | NaNa Disc | 994 | | [🔗](https://open.spotify.com/track/2G1o9Mq8KpamOwJPZLuJc7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b302a279cfab9f1a28d2d35" alt="" width="50" /> | See Tình | See Tình | Hoàng Thùy Linh | The Leader Entertainment | 994 | 💚 | [🔗](https://open.spotify.com/track/3bZGGKrMQLDGg18y2QqKFF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="" width="50" /> | Look At Me | Look At Me | Kawaguchi Yurina | [Universal Music LLC](../../../labels/universal_music_llc) | 994 | | [🔗](https://open.spotify.com/track/7F38cYOAZBuCjf3YoAmIZn) |
 
 
 <details>
@@ -103,18 +103,18 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389" alt="" width="50" /> | Matsuri | LOVE ALL SERVE ALL | Fujii Kaze | [Universal Music LLC](../../../labels/universal_music_llc) | 989 | | [🔗](https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739a9716c90ceeb1890921e44f" alt="" width="50" /> | Te Felicito | Te Felicito | Shakira, Rauw Alejandro | Sony Music Latin | 989 | | [🔗](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="" width="50" /> | Habit | Habit | SEKAI NO OWARI | [Universal Music LLC](../../../labels/universal_music_llc) | 989 | | [🔗](https://open.spotify.com/track/2uMNMcjjUz8oNIxjIu20qE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6" alt="" width="50" /> | Sofa Silahlane | Sofa Silahlane | Wanitwa Mos, Master KG, Lowsheen, Nkosazana Daughter | Wanitwa Mos Entertainment | 989 | | [🔗](https://open.spotify.com/track/67SKXlAbYNG5nAtadBfPm0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="" width="50" /> | Minefields | CITIZENS | Faouzia, John Legend | [Atlantic Records](../../../labels/atlantic_records) | 989 | | [🔗](https://open.spotify.com/track/0vH52Icuf6LzOFrkHE8mZG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="" width="50" /> | RIP, Love | CITIZENS | Faouzia | [Atlantic Records](../../../labels/atlantic_records) | 989 | 💚 | [🔗](https://open.spotify.com/track/4pDenOoD01LCPgkzJgu437) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731bccd0e65da477d7f815e229" alt="" width="50" /> | מי זאת | מי זאת | Anna Zak | ITModels under exclusive license to D-Music | 989 | 💚 | [🔗](https://open.spotify.com/track/3iJQ54fGO6CyP374UzvDJu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27347e6c8b41b5546781d84b5e7" alt="" width="50" /> | עושה לי צרות | עושה לי צרות | Eden Hason | Mobile1 Music | 989 | | [🔗](https://open.spotify.com/track/4I9NVCnjIRVriXfNE7VhE0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736a986d5aa5b6567ca683f653" alt="" width="50" /> | Lykke te | Lykke te | Synne Vo | WM Norway | 989 | | [🔗](https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b835b4be5631a28c4725a14" alt="" width="50" /> | בשורות טובות | בשורות טובות | Agam Buhbut, הפשוטע | 2022 Z.I. Productions BY PIL LTD | 989 | | [🔗](https://open.spotify.com/track/5dUG9RrLElsi2sxJAhVUZJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b93c6b37cb0e0a9fbf26b766" alt="" width="50" /> | Mr. Rover | Mr. Rover | DARA | Virginia Records | 989 | 💚 | [🔗](https://open.spotify.com/track/2fV8wXxMmdeulUgAarbWJU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273300b57abda9f4ce18cd95927" alt="" width="50" /> | Why Do I (with Hatsune Miku) | Why Do I (with Hatsune Miku) | Set It Off, Hatsune Miku | Fearless Records | 989 | | [🔗](https://open.spotify.com/track/5FH2ZZZDxuaDV4IoVlmjzX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389" alt="" width="50" /> | Matsuri | LOVE ALL SERVE ALL | Fujii Kaze | [Universal Music LLC](../../../labels/universal_music_llc) | 994 | | [🔗](https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739a9716c90ceeb1890921e44f" alt="" width="50" /> | Te Felicito | Te Felicito | Shakira, Rauw Alejandro | Sony Music Latin | 994 | | [🔗](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e94f2b2c3303120be19210b" alt="" width="50" /> | Habit | Habit | SEKAI NO OWARI | [Universal Music LLC](../../../labels/universal_music_llc) | 994 | | [🔗](https://open.spotify.com/track/2uMNMcjjUz8oNIxjIu20qE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734f95dabfc67540ee3823dad6" alt="" width="50" /> | Sofa Silahlane | Sofa Silahlane | Wanitwa Mos, Master KG, Lowsheen, Nkosazana Daughter | Wanitwa Mos Entertainment | 994 | | [🔗](https://open.spotify.com/track/67SKXlAbYNG5nAtadBfPm0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="" width="50" /> | Minefields | CITIZENS | Faouzia, John Legend | [Atlantic Records](../../../labels/atlantic_records) | 994 | | [🔗](https://open.spotify.com/track/0vH52Icuf6LzOFrkHE8mZG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="" width="50" /> | RIP, Love | CITIZENS | Faouzia | [Atlantic Records](../../../labels/atlantic_records) | 994 | 💚 | [🔗](https://open.spotify.com/track/4pDenOoD01LCPgkzJgu437) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731bccd0e65da477d7f815e229" alt="" width="50" /> | מי זאת | מי זאת | Anna Zak | ITModels under exclusive license to D-Music | 994 | 💚 | [🔗](https://open.spotify.com/track/3iJQ54fGO6CyP374UzvDJu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347e6c8b41b5546781d84b5e7" alt="" width="50" /> | עושה לי צרות | עושה לי צרות | Eden Hason | Mobile1 Music | 994 | | [🔗](https://open.spotify.com/track/4I9NVCnjIRVriXfNE7VhE0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736a986d5aa5b6567ca683f653" alt="" width="50" /> | Lykke te | Lykke te | Synne Vo | WM Norway | 994 | | [🔗](https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b835b4be5631a28c4725a14" alt="" width="50" /> | בשורות טובות | בשורות טובות | Agam Buhbut, הפשוטע | 2022 Z.I. Productions BY PIL LTD | 994 | | [🔗](https://open.spotify.com/track/5dUG9RrLElsi2sxJAhVUZJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b93c6b37cb0e0a9fbf26b766" alt="" width="50" /> | Mr. Rover | Mr. Rover | DARA | Virginia Records | 994 | 💚 | [🔗](https://open.spotify.com/track/2fV8wXxMmdeulUgAarbWJU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273300b57abda9f4ce18cd95927" alt="" width="50" /> | Why Do I (with Hatsune Miku) | Why Do I (with Hatsune Miku) | Set It Off, Hatsune Miku | Fearless Records | 994 | | [🔗](https://open.spotify.com/track/5FH2ZZZDxuaDV4IoVlmjzX) |
 
 </details>
 

@@ -42,7 +42,7 @@
 | Producer | Producer | Tracks |
 |:---|:---|---:|
 | Caroline Ailin | Caroline Ailin | 2 |
-| Ian Kirkpatrick | Ian Kirkpatrick | 2 |
+| Ian Kirkpatrick | [Ian Kirkpatrick](../ian_kirkpatrick/overview.md) | 2 |
 | IDO | IDO | 2 |
 | Miles Walker | Miles Walker | 2 |
 | Sandy Wilhelm | Sandy Wilhelm | 2 |

@@ -3,7 +3,7 @@
 
 <img src="https://mosaic.scdn.co/640/ab67616d00001e0223a426c84e07e245fd609d84ab67616d00001e0255a4b0d253296e5fe7516d45ab67616d00001e02614336449d4e1000c65171cbab67616d00001e02d7112b403c7a97c2a3ad462c" alt="Recent Comebacks" width="100" />
 
-[86 tracks (76 liked) 🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI)
+[88 tracks (77 liked) 🔗](https://open.spotify.com/playlist/2UAy7fw8nOjoJvFsNZtjbI)
 
 [See Track Features](audio_features.md)
 
@@ -19,10 +19,10 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6d2c52a7bb1e4582c6340529" alt="" width="50" /> | 16 | 5 | 4 | [STAYC](../../artists/stayc/overview.md) | [🔗](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb80668ba2b15094d083780ea9" alt="" width="50" /> | 21 | 4 | 4 | [NewJeans](../../artists/newjeans/overview.md) | [🔗](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb02a562ea6b1dc718394010ac" alt="" width="50" /> | 2 | 4 | 4 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3448062884d4ad30473e964b" alt="" width="50" /> | 5 | 4 | 3 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb426faee7010fa829bb527cfb" alt="" width="50" /> | 247 | 3 | 2 | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb75237a1ba0379041476012b3" alt="" width="50" /> | 10 | 3 | 2 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7d7064b17d00c6f8755eae6" alt="" width="50" /> | 13 | 2 | 2 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb76643c12c77c6f4de9f5fdb5" alt="" width="50" /> | 42 | 2 | 2 | [EVERGLOW](../../artists/everglow/overview.md) | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 
 
 <details>
@@ -30,7 +30,7 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3448062884d4ad30473e964b" alt="" width="50" /> | 5 | 2 | 2 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb76643c12c77c6f4de9f5fdb5" alt="" width="50" /> | 42 | 2 | 2 | [EVERGLOW](../../artists/everglow/overview.md) | [🔗](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2b714d68a9dbb8cd6ea11901" alt="" width="50" /> | 147 | 2 | 2 | TZUYU | [🔗](https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfbdd3f060e1cbe9e8eeaecac" alt="" width="50" /> | 116 | 2 | 2 | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd1ac6571dabb7eb6968f0f06" alt="" width="50" /> | 59 | 2 | 2 | [TAEMIN](../../artists/taemin/overview.md) | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
@@ -83,16 +83,16 @@
 
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 118 | <img src="https://i.scdn.co/image/ab67616d0000b27355a4b0d253296e5fe7516d45" alt="DARK MOON SPECIAL ALBUM &lt;MEMORABILIA&gt;" width="50" /> | [Fatal Trouble](../../artists/enhypen/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b2737c451a4f06288da6edf050c1" alt="New Woman (feat. ROSALÍA)" width="50" /> | New Woman (feat. ROSALÍA) |
-| 121 | <img src="https://i.scdn.co/image/ab67616d0000b27364097227a67397e231047524" alt="Cosmic" width="50" /> | [Cosmic](../../artists/red_velvet/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b273c9c9aaadb2d6d3d44be06332" alt="Fe3O4: STICK OUT" width="50" /> | [Red light sign, but we go](../../artists/nmixx/overview.md) |
-| 150 | <img src="https://i.scdn.co/image/ab67616d0000b27364097227a67397e231047524" alt="Cosmic" width="50" /> | [Sunflower](../../artists/red_velvet/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b27397265410628ab7f94a380c9d" alt="Rockstar" width="50" /> | Rockstar |
-| 151 | <img src="https://i.scdn.co/image/ab67616d0000b2738f4f600429c480c475e8c5ad" alt="Heaven" width="50" /> | [Heaven](../../artists/taeyeon/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b27373f05e5c2f5ec5cd07c6b6d9" alt="NA" width="50" /> | Magic (Feat. JULIE of KISS OF LIFE) |
-| 179 | <img src="https://i.scdn.co/image/ab67616d0000b273b657fbb27b17e7bd4691c2b2" alt="How Sweet" width="50" /> | [How Sweet](../../artists/newjeans/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b27351700837cdbc6adddb88560a" alt="ATE" width="50" /> | [JJAM](../../artists/stray_kids/overview.md) |
-| 187 | <img src="https://i.scdn.co/image/ab67616d0000b27355a4b0d253296e5fe7516d45" alt="DARK MOON SPECIAL ALBUM &lt;MEMORABILIA&gt;" width="50" /> | [Scream](../../artists/enhypen/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b273c60843bafc67821cff6df260" alt="Armageddon - The 1st Album" width="50" /> | [Long Chat (#♥)](../../artists/aespa/overview.md) |
-| 188 | <img src="https://i.scdn.co/image/ab67616d0000b27369ad639dd6829cb2414a53f9" alt="RIIZING - The 1st Mini Album" width="50" /> | Boom Boom Bass | 989 | <img src="https://i.scdn.co/image/ab67616d0000b273c60843bafc67821cff6df260" alt="Armageddon - The 1st Album" width="50" /> | [Prologue](../../artists/aespa/overview.md) |
-| 190 | <img src="https://i.scdn.co/image/ab67616d0000b273ce09217bde99ac32fb509123" alt="OVERSTEP" width="50" /> | BADVILLAIN | 989 | <img src="https://i.scdn.co/image/ab67616d0000b273c60843bafc67821cff6df260" alt="Armageddon - The 1st Album" width="50" /> | [Supernova](../../artists/aespa/overview.md) |
-| 199 | <img src="https://i.scdn.co/image/ab67616d0000b27364097227a67397e231047524" alt="Cosmic" width="50" /> | [Love Arcade](../../artists/red_velvet/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b273c60843bafc67821cff6df260" alt="Armageddon - The 1st Album" width="50" /> | [Licorice](../../artists/aespa/overview.md) |
-| 206 | <img src="https://i.scdn.co/image/ab67616d0000b27323a426c84e07e245fd609d84" alt="Algorhythm" width="50" /> | [Algorhythm](../../artists/itzy/overview.md) | 989 | <img src="https://i.scdn.co/image/ab67616d0000b273c60843bafc67821cff6df260" alt="Armageddon - The 1st Album" width="50" /> | [BAHAMA](../../artists/aespa/overview.md) |
+| 50 | <img src="https://i.scdn.co/image/ab67616d0000b273c60843bafc67821cff6df260" alt="Armageddon - The 1st Album" width="50" /> | [Armageddon](../../artists/aespa/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b2737c451a4f06288da6edf050c1" alt="New Woman (feat. ROSALÍA)" width="50" /> | New Woman (feat. ROSALÍA) |
+| 84 | <img src="https://i.scdn.co/image/ab67616d0000b273c60843bafc67821cff6df260" alt="Armageddon - The 1st Album" width="50" /> | [Supernova](../../artists/aespa/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b273c9c9aaadb2d6d3d44be06332" alt="Fe3O4: STICK OUT" width="50" /> | [Red light sign, but we go](../../artists/nmixx/overview.md) |
+| 100 | <img src="https://i.scdn.co/image/ab67616d0000b273c60843bafc67821cff6df260" alt="Armageddon - The 1st Album" width="50" /> | [Mine](../../artists/aespa/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b27397265410628ab7f94a380c9d" alt="Rockstar" width="50" /> | Rockstar |
+| 118 | <img src="https://i.scdn.co/image/ab67616d0000b27355a4b0d253296e5fe7516d45" alt="DARK MOON SPECIAL ALBUM &lt;MEMORABILIA&gt;" width="50" /> | [Fatal Trouble](../../artists/enhypen/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b27373f05e5c2f5ec5cd07c6b6d9" alt="NA" width="50" /> | Magic (Feat. JULIE of KISS OF LIFE) |
+| 121 | <img src="https://i.scdn.co/image/ab67616d0000b27364097227a67397e231047524" alt="Cosmic" width="50" /> | [Cosmic](../../artists/red_velvet/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b27351700837cdbc6adddb88560a" alt="ATE" width="50" /> | [JJAM](../../artists/stray_kids/overview.md) |
+| 122 | <img src="https://i.scdn.co/image/ab67616d0000b273c60843bafc67821cff6df260" alt="Armageddon - The 1st Album" width="50" /> | [Long Chat (#♥)](../../artists/aespa/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b273c60843bafc67821cff6df260" alt="Armageddon - The 1st Album" width="50" /> | [Licorice](../../artists/aespa/overview.md) |
+| 150 | <img src="https://i.scdn.co/image/ab67616d0000b27364097227a67397e231047524" alt="Cosmic" width="50" /> | [Sunflower](../../artists/red_velvet/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b273b53a1f7473bda51dedbab579" alt="J - The 1st Album" width="50" /> | Smoke |
+| 151 | <img src="https://i.scdn.co/image/ab67616d0000b2738f4f600429c480c475e8c5ad" alt="Heaven" width="50" /> | [Heaven](../../artists/taeyeon/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b273614336449d4e1000c65171cb" alt="WOKE UP" width="50" /> | [WOKE UP](../../artists/xg/overview.md) |
+| 171 | <img src="https://i.scdn.co/image/ab67616d0000b273c60843bafc67821cff6df260" alt="Armageddon - The 1st Album" width="50" /> | [Prologue](../../artists/aespa/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b27319a6b36bc551982ab4ec0fab" alt="BAMESIS" width="50" /> | Mi Último Deseo |
+| 179 | <img src="https://i.scdn.co/image/ab67616d0000b273b657fbb27b17e7bd4691c2b2" alt="How Sweet" width="50" /> | [How Sweet](../../artists/newjeans/overview.md) | 994 | <img src="https://i.scdn.co/image/ab67616d0000b273276ab50c3f74f246a2d7fea2" alt="SAD SONG" width="50" /> | [SAD SONG](../../artists/p1harmony/overview.md) |
 
 </details>
 
@@ -102,62 +102,63 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c60843bafc67821cff6df260" alt="" width="50" /> | 413 | 9 | 9 | Armageddon - The 1st Album | 2024-05-26 | [🔗](https://open.spotify.com/album/4SboBpuYojDm02qS4iFeJC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c60843bafc67821cff6df260" alt="" width="50" /> | 8 | 9 | 9 | Armageddon - The 1st Album | 2024-05-26 | [🔗](https://open.spotify.com/album/4SboBpuYojDm02qS4iFeJC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273653887a83332de0350151f10" alt="" width="50" /> | 114 | 5 | 4 | ROMANCE : UNTOLD | 2024-07-12 | [🔗](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27355a4b0d253296e5fe7516d45" alt="" width="50" /> | 87 | 4 | 4 | DARK MOON SPECIAL ALBUM <MEMORABILIA> | 2024-05-13 | [🔗](https://open.spotify.com/album/0OhJwEzXbK9Km6GQSPdmPU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27364097227a67397e231047524" alt="" width="50" /> | 71 | 4 | 4 | Cosmic | 2024-06-24 | [🔗](https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730cac27fa1830d50ff4a7a20d" alt="" width="50" /> | 157 | 4 | 3 | Metamorphic | 2024-07-01 | [🔗](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c9c9aaadb2d6d3d44be06332" alt="" width="50" /> | 133 | 4 | 3 | Fe3O4: STICK OUT | 2024-08-19 | [🔗](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273253096eda3b7826c11c7fab8" alt="" width="50" /> | 306 | 3 | 3 | SYNK : PARALLEL LINE - Special Digital Single | 2024-10-09 | [🔗](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27351700837cdbc6adddb88560a" alt="" width="50" /> | 198 | 3 | 2 | ATE | 2024-07-19 | [🔗](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb8bc09353483595d036e475" alt="" width="50" /> | 200 | 2 | 2 | abouTZU | 2024-09-06 | [🔗](https://open.spotify.com/album/0Xj4fXPKV0h6KhGQbUkDvy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27330e20e5e4aed73c95a7027c3" alt="" width="50" /> | 500 | 2 | 2 | ZOMBIE | 2024-06-10 | [🔗](https://open.spotify.com/album/6vGrWJmYXU9VqiqpOwPJ2r) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273253096eda3b7826c11c7fab8" alt="" width="50" /> | 307 | 3 | 3 | SYNK : PARALLEL LINE - Special Digital Single | 2024-10-09 | [🔗](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27351700837cdbc6adddb88560a" alt="" width="50" /> | 199 | 3 | 2 | ATE | 2024-07-19 | [🔗](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb8bc09353483595d036e475" alt="" width="50" /> | 201 | 2 | 2 | abouTZU | 2024-09-06 | [🔗](https://open.spotify.com/album/0Xj4fXPKV0h6KhGQbUkDvy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27330e20e5e4aed73c95a7027c3" alt="" width="50" /> | 499 | 2 | 2 | ZOMBIE | 2024-06-10 | [🔗](https://open.spotify.com/album/6vGrWJmYXU9VqiqpOwPJ2r) |
 
 
 <details>
-<summary>See all 49 albums</summary>
+<summary>See all 50 albums</summary>
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2737e1eeb0d7cc374a168369c80" alt="" width="50" /> | 374 | 2 | 2 | Supernatural | 2024-06-21 | [🔗](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27373f05e5c2f5ec5cd07c6b6d9" alt="" width="50" /> | 216 | 2 | 2 | NA | 2024-06-14 | [🔗](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737e1eeb0d7cc374a168369c80" alt="" width="50" /> | 375 | 2 | 2 | Supernatural | 2024-06-21 | [🔗](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27373f05e5c2f5ec5cd07c6b6d9" alt="" width="50" /> | 217 | 2 | 2 | NA | 2024-06-14 | [🔗](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b657fbb27b17e7bd4691c2b2" alt="" width="50" /> | 122 | 2 | 2 | How Sweet | 2024-05-24 | [🔗](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2dff4b6f58682692c0b0beb" alt="" width="50" /> | 154 | 2 | 2 | ETERNAL | 2024-08-19 | [🔗](https://open.spotify.com/album/13M8K1l146FLdFoObJIVj9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273485623bc41b6760fc1bca2f4" alt="" width="50" /> | 175 | 2 | 2 | CRAZY | 2024-08-30 | [🔗](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323a426c84e07e245fd609d84" alt="" width="50" /> | 142 | 2 | 2 | Algorhythm | 2024-05-15 | [🔗](https://open.spotify.com/album/7ji7zKkvRlYOsu3ehctQRx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734cd7f69b85766b3d3035c27c" alt="" width="50" /> | 188 | 2 | 1 | Sticky | 2024-07-01 | [🔗](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734cd7f69b85766b3d3035c27c" alt="" width="50" /> | 189 | 2 | 1 | Sticky | 2024-07-01 | [🔗](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dd734636e6d28fdc528a839d" alt="" width="50" /> | 651 | 2 | 1 | GOLD | 2024-10-15 | [🔗](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731be74ecf7c58d22c00eea468" alt="" width="50" /> | 506 | 1 | 1 | [VirtuouS] | 2024-07-10 | [🔗](https://open.spotify.com/album/4PkR73YJKj5RGkC7QZVpM2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273614336449d4e1000c65171cb" alt="" width="50" /> | 651 | 1 | 1 | WOKE UP | 2024-05-21 | [🔗](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737e76c17cfbc723800452a24f" alt="" width="50" /> | 342 | 1 | 1 | Touch | 2024-07-26 | [🔗](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730490e8ab48790ca6e5add267" alt="" width="50" /> | 212 | 1 | 1 | Supersonic | 2024-08-12 | [🔗](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737e76c17cfbc723800452a24f" alt="" width="50" /> | 343 | 1 | 1 | Touch | 2024-07-26 | [🔗](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730490e8ab48790ca6e5add267" alt="" width="50" /> | 213 | 1 | 1 | Supersonic | 2024-08-12 | [🔗](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273276ab50c3f74f246a2d7fea2" alt="" width="50" /> | 651 | 1 | 1 | SAD SONG | 2024-09-20 | [🔗](https://open.spotify.com/album/0NmzOw8evaF6bn2U7tiWSA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f14ea4d646d486d61344ffd" alt="" width="50" /> | 403 | 1 | 1 | Retro Romance | 2024-09-26 | [🔗](https://open.spotify.com/album/2G7tH2r50gCP2HYGsVG9UN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f14ea4d646d486d61344ffd" alt="" width="50" /> | 404 | 1 | 1 | Retro Romance | 2024-09-26 | [🔗](https://open.spotify.com/album/2G7tH2r50gCP2HYGsVG9UN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369ad639dd6829cb2414a53f9" alt="" width="50" /> | 148 | 1 | 1 | RIIZING - The 1st Mini Album | 2024-06-17 | [🔗](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce09217bde99ac32fb509123" alt="" width="50" /> | 149 | 1 | 1 | OVERSTEP | 2024-06-03 | [🔗](https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c451a4f06288da6edf050c1" alt="" width="50" /> | 651 | 1 | 1 | New Woman (feat. ROSALÍA) | 2024-08-15 | [🔗](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a039ed450d3e9a5caaf7818" alt="" width="50" /> | 651 | 1 | 1 | Moonlit Floor | 2024-10-03 | [🔗](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a3775761df7db97cf6699e41" alt="" width="50" /> | 510 | 1 | 1 | Mantra | 2024-10-10 | [🔗](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735455deaf573fcc15b3f21183" alt="" width="50" /> | 365 | 1 | 1 | MEOW / Cheeky Icy Thang (Japanese Ver.) | 2024-08-21 | [🔗](https://open.spotify.com/album/04zQRW9brhcUtaDHQ8SH9u) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a3775761df7db97cf6699e41" alt="" width="50" /> | 509 | 1 | 1 | Mantra | 2024-10-10 | [🔗](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735455deaf573fcc15b3f21183" alt="" width="50" /> | 366 | 1 | 1 | MEOW / Cheeky Icy Thang (Japanese Ver.) | 2024-08-21 | [🔗](https://open.spotify.com/album/04zQRW9brhcUtaDHQ8SH9u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c0fd19def5108123e077d634" alt="" width="50" /> | 561 | 1 | 1 | MEOW | 2024-09-06 | [🔗](https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d7112b403c7a97c2a3ad462c" alt="" width="50" /> | 197 | 1 | 1 | Love seeker | 2024-05-11 | [🔗](https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d7112b403c7a97c2a3ad462c" alt="" width="50" /> | 198 | 1 | 1 | Love seeker | 2024-05-11 | [🔗](https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d50021be5057d0f399f38950" alt="" width="50" /> | 651 | 1 | 1 | Love Tune | 2024-09-20 | [🔗](https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273370408df34b170c3402e84f2" alt="" width="50" /> | 385 | 1 | 1 | LOVE EPISODE | 2024-06-03 | [🔗](https://open.spotify.com/album/3HG5kKZPdKRspJFUvShae7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273370408df34b170c3402e84f2" alt="" width="50" /> | 384 | 1 | 1 | LOVE EPISODE | 2024-06-03 | [🔗](https://open.spotify.com/album/3HG5kKZPdKRspJFUvShae7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b53a1f7473bda51dedbab579" alt="" width="50" /> | 651 | 1 | 1 | J - The 1st Album | 2024-08-26 | [🔗](https://open.spotify.com/album/1kQ1X0S06kqh4k2818bc5J) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f42408abe884b81be4f9121b" alt="" width="50" /> | 162 | 1 | 1 | Ice Cream | 2024-08-02 | [🔗](https://open.spotify.com/album/5Q41ZTpaEpDVtgu1yAtAPR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273979cf803b9d85291a17882ef" alt="" width="50" /> | 184 | 1 | 1 | Hot Mess | 2024-07-03 | [🔗](https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273979cf803b9d85291a17882ef" alt="" width="50" /> | 185 | 1 | 1 | Hot Mess | 2024-07-03 | [🔗](https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f4f600429c480c475e8c5ad" alt="" width="50" /> | 118 | 1 | 1 | Heaven | 2024-07-08 | [🔗](https://open.spotify.com/album/68taLckvPxHRtNa8QjQJ5e) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273211dd4f1141b597f5f1c2ac9" alt="" width="50" /> | 252 | 1 | 1 | FEIFEI | 2024-07-31 | [🔗](https://open.spotify.com/album/3iM9IcCKlZrTtvjgKvbtBW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bcdcc14c83a6bc5dc1fc3cb5" alt="" width="50" /> | 205 | 1 | 1 | Dreamy Resonance | 2024-08-26 | [🔗](https://open.spotify.com/album/4XZFgEjQ4Un1TNHAtTC87m) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a4dfc950d04a52b9efcd5c52" alt="" width="50" /> | 543 | 1 | 1 | Cheese | 2024-05-20 | [🔗](https://open.spotify.com/album/7qx75T9tAxkomFYsmFADV1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273211dd4f1141b597f5f1c2ac9" alt="" width="50" /> | 253 | 1 | 1 | FEIFEI | 2024-07-31 | [🔗](https://open.spotify.com/album/3iM9IcCKlZrTtvjgKvbtBW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bcdcc14c83a6bc5dc1fc3cb5" alt="" width="50" /> | 206 | 1 | 1 | Dreamy Resonance | 2024-08-26 | [🔗](https://open.spotify.com/album/4XZFgEjQ4Un1TNHAtTC87m) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a4dfc950d04a52b9efcd5c52" alt="" width="50" /> | 544 | 1 | 1 | Cheese | 2024-05-20 | [🔗](https://open.spotify.com/album/7qx75T9tAxkomFYsmFADV1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bdd7e53da67e71769c89822" alt="" width="50" /> | 651 | 1 | 1 | CURIOUS | 2024-08-06 | [🔗](https://open.spotify.com/album/5SooWgzvq5BzwkQV57ltbM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738231f3397bc3ac0d89815fa5" alt="" width="50" /> | 550 | 1 | 1 | Balloon in Love | 2024-06-13 | [🔗](https://open.spotify.com/album/2AxY2j1VRmHSoIooqtQ7p9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738231f3397bc3ac0d89815fa5" alt="" width="50" /> | 549 | 1 | 1 | Balloon in Love | 2024-06-13 | [🔗](https://open.spotify.com/album/2AxY2j1VRmHSoIooqtQ7p9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27319a6b36bc551982ab4ec0fab" alt="" width="50" /> | 651 | 1 | 1 | BAMESIS | 2024-08-08 | [🔗](https://open.spotify.com/album/402aahHNiFYPoNKZRg7GaF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733eaf9b3c1c804fec2bb06ac0" alt="" width="50" /> | 651 | 1 | 1 | <Dall> | 2024-05-31 | [🔗](https://open.spotify.com/album/0hJloArA2Kb9xNBIv34osS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27397265410628ab7f94a380c9d" alt="" width="50" /> | 651 | 1 | 0 | Rockstar | 2024-06-27 | [🔗](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ded03a196ef62a7b250c0508" alt="" width="50" /> | 651 | 1 | 0 | NEW LOOK | 2024-10-09 | [🔗](https://open.spotify.com/album/0nIHweIUCe2nVy5stte3GY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27366f7b6431ebb26c9b557a96b" alt="" width="50" /> | 220 | 1 | 0 | I SWAY | 2024-07-08 | [🔗](https://open.spotify.com/album/5WzUVTkKAvOayPui3DnsDz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27366f7b6431ebb26c9b557a96b" alt="" width="50" /> | 221 | 1 | 0 | I SWAY | 2024-07-08 | [🔗](https://open.spotify.com/album/5WzUVTkKAvOayPui3DnsDz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736652c7af6f96d2126e49a9a7" alt="" width="50" /> | 651 | 1 | 0 | Hello, World - The 4th Mini Album | 2024-09-06 | [🔗](https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c3a330eb913aaec37dd8d567" alt="" width="50" /> | 278 | 1 | 0 | CRUSH | 2024-08-07 | [🔗](https://open.spotify.com/album/607R3veMPfNTZ4VzMEVy3d) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c3a330eb913aaec37dd8d567" alt="" width="50" /> | 279 | 1 | 0 | CRUSH | 2024-08-07 | [🔗](https://open.spotify.com/album/607R3veMPfNTZ4VzMEVy3d) |
 
 </details>
 
@@ -170,7 +171,7 @@
 |---:|---:|:---|
 | 21 | 21 | [SM Entertainment](../../labels/sm_entertainment/overview.md) |
 | 9 | 8 | [BELIFT LAB](../../labels/belift_lab/overview.md) |
-| 7 | 5 | [Republic Records](../../labels/republic_records/overview.md) |
+| 9 | 6 | [Republic Records](../../labels/republic_records/overview.md) |
 | 4 | 4 | [ADOR](../../labels/ador/overview.md) |
 | 4 | 3 | [WM Japan](../../labels/wm_japan/overview.md) |
 | 4 | 3 | [RCA Records Label](../../labels/rca_records_label/overview.md) |
@@ -222,8 +223,8 @@
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 47 | 41 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
-| 45 | 40 | [k-pop](../../genres/k-pop/overview.md) |
+| 49 | 42 | [k-pop girl group](../../genres/k-pop_girl_group/overview.md) |
+| 47 | 41 | [k-pop](../../genres/k-pop/overview.md) |
 | 13 | 11 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
 | 9 | 8 | [anime](../../genres/anime/overview.md) |
 | 8 | 7 | [5th gen k-pop](../../genres/5th_gen_k-pop/overview.md) |
@@ -287,7 +288,7 @@
 
 | Year | Number of Tracks |
 |:---|---:|
-| [2024](2024/overview.md) | 86 |
+| [2024](2024/overview.md) | 88 |
 
 </details>
 
@@ -296,13 +297,13 @@
 
 | ​ | 10 newest albums | ​​ | 10 oldest albums |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273a3775761df7db97cf6699e41" alt="Mantra" width="50" /> | Mantra (2024-10-10) | <img src="https://i.scdn.co/image/ab67616d0000b273d7112b403c7a97c2a3ad462c" alt="Love seeker" width="50" /> | Love seeker (2024-05-11) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ded03a196ef62a7b250c0508" alt="NEW LOOK" width="50" /> | NEW LOOK (2024-10-09) | <img src="https://i.scdn.co/image/ab67616d0000b27355a4b0d253296e5fe7516d45" alt="DARK MOON SPECIAL ALBUM &lt;MEMORABILIA&gt;" width="50" /> | DARK MOON SPECIAL ALBUM <MEMORABILIA> (2024-05-13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dd734636e6d28fdc528a839d" alt="GOLD" width="50" /> | GOLD (2024-10-15) | <img src="https://i.scdn.co/image/ab67616d0000b273d7112b403c7a97c2a3ad462c" alt="Love seeker" width="50" /> | Love seeker (2024-05-11) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a3775761df7db97cf6699e41" alt="Mantra" width="50" /> | Mantra (2024-10-10) | <img src="https://i.scdn.co/image/ab67616d0000b27355a4b0d253296e5fe7516d45" alt="DARK MOON SPECIAL ALBUM &lt;MEMORABILIA&gt;" width="50" /> | DARK MOON SPECIAL ALBUM <MEMORABILIA> (2024-05-13) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273253096eda3b7826c11c7fab8" alt="SYNK : PARALLEL LINE - Special Digital Single" width="50" /> | SYNK : PARALLEL LINE - Special Digital Single (2024-10-09) | <img src="https://i.scdn.co/image/ab67616d0000b27323a426c84e07e245fd609d84" alt="Algorhythm" width="50" /> | Algorhythm (2024-05-15) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735a039ed450d3e9a5caaf7818" alt="Moonlit Floor" width="50" /> | Moonlit Floor (2024-10-03) | <img src="https://i.scdn.co/image/ab67616d0000b273a4dfc950d04a52b9efcd5c52" alt="Cheese" width="50" /> | Cheese (2024-05-20) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f14ea4d646d486d61344ffd" alt="Retro Romance" width="50" /> | Retro Romance (2024-09-26) | <img src="https://i.scdn.co/image/ab67616d0000b273614336449d4e1000c65171cb" alt="WOKE UP" width="50" /> | WOKE UP (2024-05-21) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273276ab50c3f74f246a2d7fea2" alt="SAD SONG" width="50" /> | SAD SONG (2024-09-20) | <img src="https://i.scdn.co/image/ab67616d0000b273b657fbb27b17e7bd4691c2b2" alt="How Sweet" width="50" /> | How Sweet (2024-05-24) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d50021be5057d0f399f38950" alt="Love Tune" width="50" /> | Love Tune (2024-09-20) | <img src="https://i.scdn.co/image/ab67616d0000b273c60843bafc67821cff6df260" alt="Armageddon - The 1st Album" width="50" /> | Armageddon - The 1st Album (2024-05-26) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c0fd19def5108123e077d634" alt="MEOW" width="50" /> | MEOW (2024-09-06) | <img src="https://i.scdn.co/image/ab67616d0000b2733eaf9b3c1c804fec2bb06ac0" alt="&lt;Dall&gt;" width="50" /> | <Dall> (2024-05-31) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736652c7af6f96d2126e49a9a7" alt="Hello, World - The 4th Mini Album" width="50" /> | Hello, World - The 4th Mini Album (2024-09-06) | <img src="https://i.scdn.co/image/ab67616d0000b273370408df34b170c3402e84f2" alt="LOVE EPISODE" width="50" /> | LOVE EPISODE (2024-06-03) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb8bc09353483595d036e475" alt="abouTZU" width="50" /> | abouTZU (2024-09-06) | <img src="https://i.scdn.co/image/ab67616d0000b273ce09217bde99ac32fb509123" alt="OVERSTEP" width="50" /> | OVERSTEP (2024-06-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ded03a196ef62a7b250c0508" alt="NEW LOOK" width="50" /> | NEW LOOK (2024-10-09) | <img src="https://i.scdn.co/image/ab67616d0000b273a4dfc950d04a52b9efcd5c52" alt="Cheese" width="50" /> | Cheese (2024-05-20) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a039ed450d3e9a5caaf7818" alt="Moonlit Floor" width="50" /> | Moonlit Floor (2024-10-03) | <img src="https://i.scdn.co/image/ab67616d0000b273614336449d4e1000c65171cb" alt="WOKE UP" width="50" /> | WOKE UP (2024-05-21) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f14ea4d646d486d61344ffd" alt="Retro Romance" width="50" /> | Retro Romance (2024-09-26) | <img src="https://i.scdn.co/image/ab67616d0000b273b657fbb27b17e7bd4691c2b2" alt="How Sweet" width="50" /> | How Sweet (2024-05-24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273276ab50c3f74f246a2d7fea2" alt="SAD SONG" width="50" /> | SAD SONG (2024-09-20) | <img src="https://i.scdn.co/image/ab67616d0000b273c60843bafc67821cff6df260" alt="Armageddon - The 1st Album" width="50" /> | Armageddon - The 1st Album (2024-05-26) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d50021be5057d0f399f38950" alt="Love Tune" width="50" /> | Love Tune (2024-09-20) | <img src="https://i.scdn.co/image/ab67616d0000b2733eaf9b3c1c804fec2bb06ac0" alt="&lt;Dall&gt;" width="50" /> | <Dall> (2024-05-31) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c0fd19def5108123e077d634" alt="MEOW" width="50" /> | MEOW (2024-09-06) | <img src="https://i.scdn.co/image/ab67616d0000b273370408df34b170c3402e84f2" alt="LOVE EPISODE" width="50" /> | LOVE EPISODE (2024-06-03) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736652c7af6f96d2126e49a9a7" alt="Hello, World - The 4th Mini Album" width="50" /> | Hello, World - The 4th Mini Album (2024-09-06) | <img src="https://i.scdn.co/image/ab67616d0000b273ce09217bde99ac32fb509123" alt="OVERSTEP" width="50" /> | OVERSTEP (2024-06-03) |

@@ -32,7 +32,7 @@
 | Sam Holland | [Sam Holland](../sam_holland/overview.md) | 9 |
 | Savan Kotecha | [Savan Kotecha](../savan_kotecha/overview.md) | 7 |
 | Lou Carrao | Lou Carrao | 5 |
-| Bryce Bordone | Bryce Bordone | 5 |
+| Bryce Bordone | [Bryce Bordone](../bryce_bordone/overview.md) | 5 |
 | TBHits | TBHits | 3 |
 | Billy Hickey | Billy Hickey | 3 |
 | John Hanes | [John Hanes](../john_hanes/overview.md) | 2 |
