@@ -16,7 +16,7 @@
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c6952f39ba680489149a54c" alt="" width="50" /> | 9 | 6 | 6 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5afa968e8ed9ca1b46f8cf7f" alt="" width="50" /> | 107 | 1 | 1 | Loossemble | [🔗](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfbdd3f060e1cbe9e8eeaecac" alt="" width="50" /> | 116 | 1 | 1 | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfbdd3f060e1cbe9e8eeaecac" alt="" width="50" /> | 113 | 1 | 1 | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3448062884d4ad30473e964b" alt="" width="50" /> | 5 | 1 | 0 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 
 ## Works with Producers
@@ -65,7 +65,7 @@
 | Manny Marroquin | [Manny Marroquin](../manny_marroquin/overview.md) | 1 |
 | 신지영 | 신지영 (Shin, Ji-young) | 1 |
 | Hayden Chapman | Hayden Chapman | 1 |
-| 윤원권 | 윤원권 (Yoon, Won-kwon) | 1 |
+| 윤원권 | [윤원권 (Yoon, Won-kwon)](../윤원권_(yoon,_won-kwon)/overview.md) | 1 |
 | KayOne | KayOne | 1 |
 | 임홍진 | 임홍진 (Im, Hong-Jin) | 1 |
 | Chris Galland | Chris Galland | 1 |

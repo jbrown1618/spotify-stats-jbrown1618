@@ -40,7 +40,7 @@
 | Brian U | Brian U | 2 |
 | LDN Noise | [LDN Noise](../ldn_noise/overview.md) | 2 |
 | Hayden Chapman | Hayden Chapman | 2 |
-| 윤원권 | 윤원권 (Yoon, Won-kwon) | 2 |
+| 윤원권 | [윤원권 (Yoon, Won-kwon)](../윤원권_(yoon,_won-kwon)/overview.md) | 2 |
 | Greg Bonnick | Greg Bonnick | 2 |
 | danke | [danke](../danke/overview.md) | 2 |
 | 정은경 | [정은경 (Jung, Eun-Kyung)](../정은경_(jung,_eun-kyung)/overview.md) | 2 |

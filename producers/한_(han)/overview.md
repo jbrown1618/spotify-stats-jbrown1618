@@ -36,7 +36,7 @@
 | Producer | Producer | Tracks |
 |:---|:---|---:|
 | Manny Marroquin | [Manny Marroquin](../manny_marroquin/overview.md) | 1 |
-| 윤원권 | 윤원권 (Yoon, Won-kwon) | 1 |
+| 윤원권 | [윤원권 (Yoon, Won-kwon)](../윤원권_(yoon,_won-kwon)/overview.md) | 1 |
 | Chris Calland | Chris Calland | 1 |
 | 베르사최 | 베르사최 (Versachoi) | 1 |
 
