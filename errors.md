@@ -4,9 +4,9 @@
 
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
-| Coming Home Song [🔗](https://open.spotify.com/track/3RhLH5ROodko8Se1kRpjJ1) | 19 | 2024-04-12 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | I Get It Now [🔗](https://open.spotify.com/album/5zZHAGHasjwkR9B1xX3Xq6) | 30 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI),<br>Singer-Songwriter [🔗](https://open.spotify.com/playlist/3aNr3GFiAvm1utXDyFOpAR) | Nettwerk Music Group | |
+| Coming Home Song [🔗](https://open.spotify.com/track/3RhLH5ROodko8Se1kRpjJ1) | 19 | 2024-04-12 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | I Get It Now [🔗](https://open.spotify.com/album/5zZHAGHasjwkR9B1xX3Xq6) | 29 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI),<br>Singer-Songwriter [🔗](https://open.spotify.com/playlist/3aNr3GFiAvm1utXDyFOpAR) | Nettwerk Music Group | |
 | Coming Home Song [🔗](https://open.spotify.com/track/4XeCHgZ6vhNwFFaV1zR8oS) | 47 | 2024-09-20 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | Something for Everybody [🔗](https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma) | 57 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
-| Thieves [🔗](https://open.spotify.com/track/5v4JBxzAfArnWg3n3MhRRl) | 18 | 2024-04-12 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | I Get It Now [🔗](https://open.spotify.com/album/5zZHAGHasjwkR9B1xX3Xq6) | 30 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
+| Thieves [🔗](https://open.spotify.com/track/5v4JBxzAfArnWg3n3MhRRl) | 17 | 2024-04-12 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | I Get It Now [🔗](https://open.spotify.com/album/5zZHAGHasjwkR9B1xX3Xq6) | 29 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
 | Thieves [🔗](https://open.spotify.com/track/1w74CVsaIhyxbW3LvYdB9s) | 45 | 2024-09-20 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | Something for Everybody [🔗](https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma) | 57 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
 
 ## Duplicate albums
@@ -23,10 +23,16 @@
 | track_name | album_name | artist_name | track_popularity | album_popularity | artist_popularity |
 |:---|:---|:---|---:|---:|---:|
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 87 |
+| Just Another Girl | Whiplash - The 5th Mini Album | aespa | 0 | 0 | 81 |
+| Pink Hoodie | Whiplash - The 5th Mini Album | aespa | 0 | 0 | 81 |
+| Flights, Not Feelings | Whiplash - The 5th Mini Album | aespa | 0 | 0 | 81 |
+| Whiplash | Whiplash - The 5th Mini Album | aespa | 0 | 0 | 81 |
+| Kill It | Whiplash - The 5th Mini Album | aespa | 0 | 0 | 81 |
+| Flowers | Whiplash - The 5th Mini Album | aespa | 0 | 0 | 81 |
 | Moonlight | D-2 | Agust D | 0 | 2 | 77 |
 | Daechwita | D-2 | Agust D | 1 | 2 | 77 |
 | Burn It (feat. MAX) | D-2 | Agust D | 0 | 2 | 77 |
-| People | D-2 | Agust D | 0 | 2 | 77 |
+| People | D-2 | Agust D | 1 | 2 | 77 |
 | Strange (feat. RM) | D-2 | Agust D | 0 | 2 | 77 |
 | Burn It (feat. MAX) | D-2 | MAX | 0 | 2 | 68 |
 | Strange (feat. RM) | D-2 | RM | 0 | 2 | 78 |
@@ -39,7 +45,7 @@
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 66 |
 | Underground | Artemis | Lindsey Stirling | 1 | 1 | 66 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 51 |
-| Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 65 |
+| Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 66 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 60 |
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 69 |
 | Lone Digger | <|º_º|> | Caravan Palace | 2 | 2 | 62 |
@@ -54,6 +60,12 @@
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 34 |
 | The Trooper - 2015 Remaster | Piece of Mind (2015 - Remaster) | Iron Maiden | 2 | 1 | 74 |
 | Drink It | Drink It | THE BOYZ | 0 | 0 | 59 |
+| Good Vibrations | Vocal Spectrum II | Vocal Spectrum | 0 | 0 | 25 |
+| I Wanna Be Like You | Vocal Spectrum II | Vocal Spectrum | 0 | 0 | 25 |
+| Bring Him Home | Vocal Spectrum | Vocal Spectrum | 0 | 0 | 25 |
+| Aladdin Medley | Vocal Spectrum III | Vocal Spectrum | 0 | 0 | 25 |
+| When I See An Elephant Fly | Vocal Spectrum III | Vocal Spectrum | 0 | 0 | 25 |
+| The Music of the Night | Vocal Spectrum V | Vocal Spectrum | 0 | 0 | 25 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 50 |
 | Think About Things | Think About Things | Daði Freyr | 1 | 0 | 50 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 50 |
@@ -70,7 +82,7 @@
 | Pokerap | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 55 |
 | Pokemon Theme | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 55 |
 | Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 54 |
-| Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | 0 | 0 | 57 |
+| Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | 0 | 0 | 58 |
 | Just The Way You Are | Little Love - EP | James Smith | 0 | 0 | 52 |
 | I will show you | Invitation | AILEE | 0 | 0 | 59 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 64 |
@@ -92,7 +104,7 @@
 | Just Right | Just Right | GOT7 | 0 | 0 | 60 |
 | If You Do | MAD | GOT7 | 0 | 0 | 60 |
 | You Calling My Name | Call My Name | GOT7 | 0 | 0 | 60 |
-| Flowers - Cover | Flowers - Cover | YUQI | 0 | 0 | 60 |
+| Flowers - Cover | Flowers (Cover) | YUQI | 0 | 0 | 60 |
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 28 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 77 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 80 |
@@ -103,22 +115,20 @@
 | Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 71 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 74 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 79 |
-| APT. | APT. | Bruno Mars | 0 | 0 | 94 |
-| APT. | APT. | ROSÉ | 0 | 0 | 65 |
-| I Do | It's Raining | Rain | 0 | 0 | 46 |
-| It′s Raining | It's Raining | Rain | 0 | 0 | 46 |
-| Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 87 |
+| I Do | It's Raining | Rain | 0 | 0 | 47 |
+| It′s Raining | It's Raining | Rain | 0 | 0 | 47 |
+| Super Bass | Pink Friday | Nicki Minaj | 1 | 0 | 87 |
 | 5th Season (SSFWL) | THE FIFTH SEASON | OH MY GIRL | 2 | 1 | 56 |
 | Slide Away | Slide Away | Miley Cyrus | 2 | 1 | 84 |
 | Miku | Miku | Anamanaguchi | 0 | 0 | 52 |
-| Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 44 |
+| Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 45 |
 | Heartbeat | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) | SURAN | 0 | 0 | 53 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 53 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 50 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
-| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 77 |
+| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 78 |
 | Melawan Restu | fábula | Mahalini | 0 | 2 | 77 |
-| Sisa Rasa | fábula | Mahalini | 1 | 2 | 77 |
+| Sisa Rasa | fábula | Mahalini | 0 | 2 | 77 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 69 |
 | When We Disco | When We Disco | J.Y. Park | 0 | 0 | 46 |
 | Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 46 |
@@ -128,14 +138,14 @@
 | My House | No.5 | 2PM | 0 | 0 | 53 |
 | Still Alive | Portal 2: Songs to Test By (Collectors Edition) | Aperture Science Psychoacoustic Laboratories | 0 | 0 | 48 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 47 |
-| Zelda's Lullaby | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 48 |
-| Song Of Storms | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 48 |
+| Zelda's Lullaby | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 49 |
+| Song Of Storms | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 49 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 72 |
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 72 |
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 25 |
 | Call Me Mother | American | RuPaul | 0 | 0 | 56 |
 | Lose | Love Synonym #2 : Right for Us | WONHO | 0 | 0 | 45 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 51 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 52 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 59 |
 | Toy | Toy | Netta | 1 | 0 | 50 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
