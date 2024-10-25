@@ -5,7 +5,7 @@
 <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="Justin Bieber" width="100" />
 
 ## Artist Rank
-- The #209 artist of all time
+- The #210 artist of all time
 
 ![Rank of Justin Bieber over time](../../images/artists/justin_bieber/rank_time_series.png)
 ## Top Tracks
@@ -20,13 +20,13 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="" width="50" /> | 355 | 2 | 1 | Purpose (Deluxe) | 2015-11-13 | [🔗](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d" alt="" width="50" /> | 656 | 2 | 0 | Under The Mistletoe (Deluxe Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732babb9dbd8f5146112f1bf86" alt="" width="50" /> | 656 | 1 | 1 | Stuck with U | 2020-05-08 | [🔗](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | 656 | 1 | 1 | Lonely (with benny blanco) | 2020-10-16 | [🔗](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="" width="50" /> | 559 | 1 | 1 | Justice | 2021-03-19 | [🔗](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a6a335d613d151c626895a83" alt="" width="50" /> | 656 | 1 | 1 | Despacito Feat. Justin Bieber (Remix) | 2017-04-17 | [🔗](https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27312e57573cbc551c187a96107" alt="" width="50" /> | 656 | 1 | 0 | Monster | 2020-11-20 | [🔗](https://open.spotify.com/album/3yVVL2EYLp8g7gT08VvYKy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="" width="50" /> | 357 | 2 | 1 | Purpose (Deluxe) | 2015-11-13 | [🔗](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d" alt="" width="50" /> | 661 | 2 | 0 | Under The Mistletoe (Deluxe Edition) | 2011-01-01 | [🔗](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732babb9dbd8f5146112f1bf86" alt="" width="50" /> | 661 | 1 | 1 | Stuck with U | 2020-05-08 | [🔗](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | 661 | 1 | 1 | Lonely (with benny blanco) | 2020-10-16 | [🔗](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="" width="50" /> | 565 | 1 | 1 | Justice | 2021-03-19 | [🔗](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a6a335d613d151c626895a83" alt="" width="50" /> | 661 | 1 | 1 | Despacito Feat. Justin Bieber (Remix) | 2017-04-17 | [🔗](https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27312e57573cbc551c187a96107" alt="" width="50" /> | 661 | 1 | 0 | Monster | 2020-11-20 | [🔗](https://open.spotify.com/album/3yVVL2EYLp8g7gT08VvYKy) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -125,12 +125,12 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="" width="50" /> | Love Yourself | Purpose (Deluxe) | [Justin Bieber](overview.md) | RBMG/Def Jam | 510 | 💚 | [🔗](https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="" width="50" /> | Off My Face | Justice | [Justin Bieber](overview.md) | RBMG/Def Jam | 846 | 💚 | [🔗](https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d" alt="" width="50" /> | All I Want For Christmas Is You (SuperFestive!) Duet with Mariah Carey | Under The Mistletoe (Deluxe Edition) | [Justin Bieber](overview.md), Mariah Carey | RBMG/Def Jam | 1000 | | [🔗](https://open.spotify.com/track/1IUtgwxLYzDVd41EgbKUjX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d" alt="" width="50" /> | Mistletoe | Under The Mistletoe (Deluxe Edition) | [Justin Bieber](overview.md) | RBMG/Def Jam | 1000 | | [🔗](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="" width="50" /> | I'll Show You | Purpose (Deluxe) | [Justin Bieber](overview.md) | RBMG/Def Jam | 1000 | | [🔗](https://open.spotify.com/track/0SNIAtRCPVVLoGEPcuHSIc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a6a335d613d151c626895a83" alt="" width="50" /> | Despacito - Remix | Despacito Feat. Justin Bieber (Remix) | Luis Fonsi, Daddy Yankee, [Justin Bieber](overview.md) | [Republic/UMLE](../../labels/republic_records) | 1000 | 💚 | [🔗](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732babb9dbd8f5146112f1bf86" alt="" width="50" /> | Stuck with U (with Justin Bieber) | Stuck with U | [Ariana Grande](../ariana_grande/overview.md), [Justin Bieber](overview.md) | Ariana Grande & Justin Bieber "Stuck With U"- Charity | 1000 | 💚 | [🔗](https://open.spotify.com/track/4HBZA5flZLE435QTztThqH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | Lonely (with benny blanco) | Lonely (with benny blanco) | [Justin Bieber](overview.md), benny blanco | Friends Keep Secrets, [Def Jam Recordings](../../labels/def_jam_recordings), [Interscope Records](../../labels/interscope_records) | 1000 | 💚 | [🔗](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27312e57573cbc551c187a96107" alt="" width="50" /> | Monster (Shawn Mendes & Justin Bieber) | Monster | Shawn Mendes, [Justin Bieber](overview.md) | [Shawn Mendes LP4-5 PS/ Island](../../labels/island_records) | 1000 | | [🔗](https://open.spotify.com/track/2Z8yfpFX0ZMavHkcIeHiO1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="" width="50" /> | Love Yourself | Purpose (Deluxe) | [Justin Bieber](overview.md) | RBMG/Def Jam | 509 | 💚 | [🔗](https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="" width="50" /> | Off My Face | Justice | [Justin Bieber](overview.md) | RBMG/Def Jam | 848 | 💚 | [🔗](https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d" alt="" width="50" /> | All I Want For Christmas Is You (SuperFestive!) Duet with Mariah Carey | Under The Mistletoe (Deluxe Edition) | [Justin Bieber](overview.md), Mariah Carey | RBMG/Def Jam | 1009 | | [🔗](https://open.spotify.com/track/1IUtgwxLYzDVd41EgbKUjX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d" alt="" width="50" /> | Mistletoe | Under The Mistletoe (Deluxe Edition) | [Justin Bieber](overview.md) | RBMG/Def Jam | 1009 | | [🔗](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de" alt="" width="50" /> | I'll Show You | Purpose (Deluxe) | [Justin Bieber](overview.md) | RBMG/Def Jam | 1009 | | [🔗](https://open.spotify.com/track/0SNIAtRCPVVLoGEPcuHSIc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a6a335d613d151c626895a83" alt="" width="50" /> | Despacito - Remix | Despacito Feat. Justin Bieber (Remix) | Luis Fonsi, Daddy Yankee, [Justin Bieber](overview.md) | [Republic/UMLE](../../labels/republic_records) | 1009 | 💚 | [🔗](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732babb9dbd8f5146112f1bf86" alt="" width="50" /> | Stuck with U (with Justin Bieber) | Stuck with U | [Ariana Grande](../ariana_grande/overview.md), [Justin Bieber](overview.md) | Ariana Grande & Justin Bieber "Stuck With U"- Charity | 1009 | 💚 | [🔗](https://open.spotify.com/track/4HBZA5flZLE435QTztThqH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | Lonely (with benny blanco) | Lonely (with benny blanco) | [Justin Bieber](overview.md), benny blanco | Friends Keep Secrets, [Def Jam Recordings](../../labels/def_jam_recordings), [Interscope Records](../../labels/interscope_records) | 1009 | 💚 | [🔗](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27312e57573cbc551c187a96107" alt="" width="50" /> | Monster (Shawn Mendes & Justin Bieber) | Monster | Shawn Mendes, [Justin Bieber](overview.md) | [Shawn Mendes LP4-5 PS/ Island](../../labels/island_records) | 1009 | | [🔗](https://open.spotify.com/track/2Z8yfpFX0ZMavHkcIeHiO1) |

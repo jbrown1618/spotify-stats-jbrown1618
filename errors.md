@@ -4,10 +4,10 @@
 
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
-| Coming Home Song [🔗](https://open.spotify.com/track/3RhLH5ROodko8Se1kRpjJ1) | 19 | 2024-04-12 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | I Get It Now [🔗](https://open.spotify.com/album/5zZHAGHasjwkR9B1xX3Xq6) | 29 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI),<br>Singer-Songwriter [🔗](https://open.spotify.com/playlist/3aNr3GFiAvm1utXDyFOpAR) | Nettwerk Music Group | |
+| Coming Home Song [🔗](https://open.spotify.com/track/3RhLH5ROodko8Se1kRpjJ1) | 18 | 2024-04-12 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | I Get It Now [🔗](https://open.spotify.com/album/5zZHAGHasjwkR9B1xX3Xq6) | 29 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI),<br>Singer-Songwriter [🔗](https://open.spotify.com/playlist/3aNr3GFiAvm1utXDyFOpAR) | Nettwerk Music Group | |
 | Coming Home Song [🔗](https://open.spotify.com/track/4XeCHgZ6vhNwFFaV1zR8oS) | 47 | 2024-09-20 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | Something for Everybody [🔗](https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma) | 57 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
 | Thieves [🔗](https://open.spotify.com/track/5v4JBxzAfArnWg3n3MhRRl) | 17 | 2024-04-12 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | I Get It Now [🔗](https://open.spotify.com/album/5zZHAGHasjwkR9B1xX3Xq6) | 29 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
-| Thieves [🔗](https://open.spotify.com/track/1w74CVsaIhyxbW3LvYdB9s) | 45 | 2024-09-20 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | Something for Everybody [🔗](https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma) | 57 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
+| Thieves [🔗](https://open.spotify.com/track/1w74CVsaIhyxbW3LvYdB9s) | 44 | 2024-09-20 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | Something for Everybody [🔗](https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma) | 57 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
 
 ## Duplicate albums
 
@@ -15,7 +15,7 @@
 |:---|:---|---:|:---|:---|:---|:---|
 | A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 50 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Retro Kpop [🔗](https://open.spotify.com/playlist/1MW4AAPq55U0XWvSeu1jU5) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 45 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 52 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd),<br>Recommendations for Jeff [🔗](https://open.spotify.com/playlist/5Liek0UOC5GmdOjxdWhcob),<br>Relax [🔗](https://open.spotify.com/playlist/4rnlD7JdUQNdPCBhL69dCg),<br>Your Top Songs 2022 [🔗](https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit) |
+| SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 53 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd),<br>Recommendations for Jeff [🔗](https://open.spotify.com/playlist/5Liek0UOC5GmdOjxdWhcob),<br>Relax [🔗](https://open.spotify.com/playlist/4rnlD7JdUQNdPCBhL69dCg),<br>Your Top Songs 2022 [🔗](https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit) |
 | SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 38 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 
 ## Tracks with low popularity
@@ -23,12 +23,6 @@
 | track_name | album_name | artist_name | track_popularity | album_popularity | artist_popularity |
 |:---|:---|:---|---:|---:|---:|
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 87 |
-| Just Another Girl | Whiplash - The 5th Mini Album | aespa | 0 | 0 | 81 |
-| Pink Hoodie | Whiplash - The 5th Mini Album | aespa | 0 | 0 | 81 |
-| Flights, Not Feelings | Whiplash - The 5th Mini Album | aespa | 0 | 0 | 81 |
-| Whiplash | Whiplash - The 5th Mini Album | aespa | 0 | 0 | 81 |
-| Kill It | Whiplash - The 5th Mini Album | aespa | 0 | 0 | 81 |
-| Flowers | Whiplash - The 5th Mini Album | aespa | 0 | 0 | 81 |
 | Moonlight | D-2 | Agust D | 0 | 2 | 77 |
 | Daechwita | D-2 | Agust D | 1 | 2 | 77 |
 | Burn It (feat. MAX) | D-2 | Agust D | 0 | 2 | 77 |
@@ -58,7 +52,7 @@
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 39 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 67 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 34 |
-| The Trooper - 2015 Remaster | Piece of Mind (2015 - Remaster) | Iron Maiden | 2 | 1 | 74 |
+| The Trooper - 2015 Remaster | Piece of Mind (2015 - Remaster) | Iron Maiden | 2 | 1 | 75 |
 | Drink It | Drink It | THE BOYZ | 0 | 0 | 59 |
 | Good Vibrations | Vocal Spectrum II | Vocal Spectrum | 0 | 0 | 25 |
 | I Wanna Be Like You | Vocal Spectrum II | Vocal Spectrum | 0 | 0 | 25 |
@@ -73,7 +67,7 @@
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 86 |
 | Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 86 |
 | Somebody To Love | A Day At The Races | Queen | 0 | 0 | 86 |
-| Don't Stop Me Now | Jazz | Queen | 1 | 1 | 86 |
+| Don't Stop Me Now | Jazz | Queen | 2 | 1 | 86 |
 | A Kind Of Magic | A Kind Of Magic | Queen | 0 | 0 | 86 |
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 60 |
 | RED | RED | The Rose | 0 | 0 | 62 |
@@ -115,8 +109,8 @@
 | Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 71 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 74 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 79 |
-| I Do | It's Raining | Rain | 0 | 0 | 47 |
-| It′s Raining | It's Raining | Rain | 0 | 0 | 47 |
+| I Do | It's Raining | Rain | 0 | 0 | 46 |
+| It′s Raining | It's Raining | Rain | 0 | 0 | 46 |
 | Super Bass | Pink Friday | Nicki Minaj | 1 | 0 | 87 |
 | 5th Season (SSFWL) | THE FIFTH SEASON | OH MY GIRL | 2 | 1 | 56 |
 | Slide Away | Slide Away | Miley Cyrus | 2 | 1 | 84 |
@@ -149,6 +143,6 @@
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 59 |
 | Toy | Toy | Netta | 1 | 0 | 50 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
-| 青春修炼手册 | 青春修炼手册 | TFBOYS | 1 | 1 | 44 |
+| 青春修炼手册 | 青春修炼手册 | TFBOYS | 1 | 0 | 44 |
 | Lost Woods | Zelda: Ocarina of Time - Piano | Wesley Sprayue | 0 | 0 | 41 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 55 |
