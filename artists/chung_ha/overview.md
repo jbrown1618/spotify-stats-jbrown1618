@@ -52,21 +52,21 @@ CHUNG HA is currently:
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273c976b1a7650099b0e6edac65" alt="" width="50" /> | 164 | 7 | 7 | Querencia | 2021-02-15 | [🔗](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | 661 | 3 | 2 | Bare&Rare, Pt. 1 | 2022-07-11 | [🔗](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="" width="50" /> | 210 | 2 | 2 | EENIE MEENIE | 2024-03-11 | [🔗](https://open.spotify.com/album/1q2RNzz09Vx3bOKK1yTyyg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734951587f39286b47bedfd4c9" alt="" width="50" /> | 661 | 2 | 1 | Flourishing | 2019-06-24 | [🔗](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="" width="50" /> | 660 | 1 | 1 | Wow Thing | 2018-09-28 | [🔗](https://open.spotify.com/album/3xEPyp7h78uULpDPuKvokH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | 662 | 3 | 2 | Bare&Rare, Pt. 1 | 2022-07-11 | [🔗](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="" width="50" /> | 211 | 2 | 2 | EENIE MEENIE | 2024-03-11 | [🔗](https://open.spotify.com/album/1q2RNzz09Vx3bOKK1yTyyg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734951587f39286b47bedfd4c9" alt="" width="50" /> | 662 | 2 | 1 | Flourishing | 2019-06-24 | [🔗](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="" width="50" /> | 656 | 1 | 1 | Wow Thing | 2018-09-28 | [🔗](https://open.spotify.com/album/3xEPyp7h78uULpDPuKvokH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="" width="50" /> | 120 | 1 | 1 | When I Get Old | 2022-10-20 | [🔗](https://open.spotify.com/album/3mJMHqT2w0HwjQkneNVE14) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="" width="50" /> | 21 | 1 | 1 | Gotta Go | 2019-01-02 | [🔗](https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="" width="50" /> | 661 | 1 | 0 | Street Woman Fighter(SWF) Special | 2021-10-27 | [🔗](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27390ee0d4d3906192283bae657" alt="" width="50" /> | 661 | 1 | 0 | Bad Boy | 2020-09-23 | [🔗](https://open.spotify.com/album/4IRuxkSbw7iZZmnr6Rly2Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="" width="50" /> | 662 | 1 | 0 | Street Woman Fighter(SWF) Special | 2021-10-27 | [🔗](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27390ee0d4d3906192283bae657" alt="" width="50" /> | 662 | 1 | 0 | Bad Boy | 2020-09-23 | [🔗](https://open.spotify.com/album/4IRuxkSbw7iZZmnr6Rly2Q) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
 |:---|---:|:---|
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 19 | [K-Pop](../../playlists/k-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 6 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
-| <img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg" alt="" width="50" /> | 2 | [On Repeat](../../playlists/on_repeat/overview.md) |
+| <img src="https://daily-mix.scdn.co/covers/backtracks/PZN_Repeat_Rewind2_DEFAULT-en.jpg" alt="" width="50" /> | 2 | [Repeat Rewind](../../playlists/repeat_rewind/overview.md) |
 | <img src="https://wrapped-images.spotifycdn.com/image/yts-2023/default/your-top-songs-2023_DEFAULT_en.jpg" alt="" width="50" /> | 2 | [Your Top Songs 2023](../../playlists/your_top_songs_2023/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e026f248f7695eb544a3a1955c5ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e028acb7bac073f378d59bf228eab67616d00001e02b3be3b970fc89a02f301c9da" alt="" width="50" /> | 2 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
@@ -156,7 +156,7 @@ CHUNG HA is currently:
 | | 박재선 (Park, Jason) | 1 | Producer |
 | | Lao Ra | 1 | Lyricist, Songwriter |
 | | luvssong | 1 | Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb06ffb2341b70acdcafa55599" alt="" width="50" /> | CHANGMO | 1 | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb53b0804552178db3b27d8a6b" alt="" width="50" /> | CHANGMO | 1 | Lyricist, Producer, Songwriter |
 | | Wayne Hector | 1 | Lyricist, Songwriter |
 | | Maryjane | 1 | Lyricist |
 | | Lucas | 1 | Lyricist, Songwriter |
@@ -173,7 +173,7 @@ CHUNG HA is currently:
 | | Rebecca King | 1 | Lyricist |
 | | Billen Ted | 1 | Arranger |
 | | Rebecca King | 1 | Lyricist |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba16d9cf3cc90e28089cdf291" alt="" width="50" /> | Guaynaa | 1 | Lyricist |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc52a3dda9c86c50ecb1fffc3" alt="" width="50" /> | Guaynaa | 1 | Lyricist |
 | | Jeremy Stack | 1 | Arranger |
 | | 김홍중 (Kim, Hong Joong) | 1 | Lyricist, Songwriter |
 | | [Ryan S. Jhun](../../producers/ryan_s__jhun/overview.md) | 1 | Arranger, Lyricist, Songwriter |
@@ -194,14 +194,14 @@ CHUNG HA is currently:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27325767b4fe7a3b04df1096b49" alt="" width="50" /> | Gotta Go | Gotta Go | [CHUNG HA](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 17 | 💚 | [🔗](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730258c2353d456519e467584b" alt="" width="50" /> | When I Get Old | When I Get Old | Christopher, [CHUNG HA](overview.md) | Parlophone Denmark | 153 | 💚 | [🔗](https://open.spotify.com/track/5f2CcxzZoW7hNs1O8NhG6y) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c976b1a7650099b0e6edac65" alt="" width="50" /> | Dream of You (with R3hab) | Querencia | [CHUNG HA](overview.md), R3HAB | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 243 | 💚 | [🔗](https://open.spotify.com/track/5avjngfV5MZAmEVPytbMqT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="" width="50" /> | I’m Ready | EENIE MEENIE | [CHUNG HA](overview.md) | MORE VISION | 368 | 💚 | [🔗](https://open.spotify.com/track/1uHAvl4MdI8zbobFG9FueP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c976b1a7650099b0e6edac65" alt="" width="50" /> | Stay Tonight | Querencia | [CHUNG HA](overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 385 | 💚 | [🔗](https://open.spotify.com/track/5KRY2UxuFPXmQNMmKwj5aW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="" width="50" /> | EENIE MEENIE (Feat. Hongjoong of ATEEZ) | EENIE MEENIE | [CHUNG HA](overview.md), Hongjoong of ATEEZ | MORE VISION | 428 | 💚 | [🔗](https://open.spotify.com/track/3WFTUAPrXvqg3SXC0bsukz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c976b1a7650099b0e6edac65" alt="" width="50" /> | Bicycle | Querencia | [CHUNG HA](overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 734 | 💚 | [🔗](https://open.spotify.com/track/1KcazK9joq1rbdQUlr4NBj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="" width="50" /> | Wow Thing | Wow Thing | [SEULGI](../seulgi/overview.md), [CHUNG HA](overview.md), SinB, [JEON SOYEON](../jeon_soyeon/overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 997 | 💚 | [🔗](https://open.spotify.com/track/5MwfxCtqMFGYp9Nc1BkTrS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734951587f39286b47bedfd4c9" alt="" width="50" /> | Chica | Flourishing | [CHUNG HA](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 1009 | | [🔗](https://open.spotify.com/track/7Bt5HMVKtBOC5OaE7s3tym) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734951587f39286b47bedfd4c9" alt="" width="50" /> | Snapping | Flourishing | [CHUNG HA](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 1009 | 💚 | [🔗](https://open.spotify.com/track/4IOxk5ep5ONrdlL0ZIy64v) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c976b1a7650099b0e6edac65" alt="" width="50" /> | Dream of You (with R3hab) | Querencia | [CHUNG HA](overview.md), R3HAB | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 242 | 💚 | [🔗](https://open.spotify.com/track/5avjngfV5MZAmEVPytbMqT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="" width="50" /> | I’m Ready | EENIE MEENIE | [CHUNG HA](overview.md) | MORE VISION | 372 | 💚 | [🔗](https://open.spotify.com/track/1uHAvl4MdI8zbobFG9FueP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c976b1a7650099b0e6edac65" alt="" width="50" /> | Stay Tonight | Querencia | [CHUNG HA](overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 374 | 💚 | [🔗](https://open.spotify.com/track/5KRY2UxuFPXmQNMmKwj5aW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="" width="50" /> | EENIE MEENIE (Feat. Hongjoong of ATEEZ) | EENIE MEENIE | [CHUNG HA](overview.md), Hongjoong of ATEEZ | MORE VISION | 431 | 💚 | [🔗](https://open.spotify.com/track/3WFTUAPrXvqg3SXC0bsukz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c976b1a7650099b0e6edac65" alt="" width="50" /> | Bicycle | Querencia | [CHUNG HA](overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 736 | 💚 | [🔗](https://open.spotify.com/track/1KcazK9joq1rbdQUlr4NBj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27388cdde41f2552db78b94e957" alt="" width="50" /> | Wow Thing | Wow Thing | [SEULGI](../seulgi/overview.md), [CHUNG HA](overview.md), SinB, [JEON SOYEON](../jeon_soyeon/overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 993 | 💚 | [🔗](https://open.spotify.com/track/5MwfxCtqMFGYp9Nc1BkTrS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734951587f39286b47bedfd4c9" alt="" width="50" /> | Chica | Flourishing | [CHUNG HA](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 1010 | | [🔗](https://open.spotify.com/track/7Bt5HMVKtBOC5OaE7s3tym) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734951587f39286b47bedfd4c9" alt="" width="50" /> | Snapping | Flourishing | [CHUNG HA](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 1010 | 💚 | [🔗](https://open.spotify.com/track/4IOxk5ep5ONrdlL0ZIy64v) |
 
 
 <details>
@@ -209,15 +209,15 @@ CHUNG HA is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27390ee0d4d3906192283bae657" alt="" width="50" /> | Bad Boy | Bad Boy | [CHUNG HA](overview.md), Christopher | Parlophone Denmark | 1009 | | [🔗](https://open.spotify.com/track/1WCOna34eEMPgjfOOZkGQc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c976b1a7650099b0e6edac65" alt="" width="50" /> | Demente (feat. Guaynaa) | Querencia | [CHUNG HA](overview.md), Guaynaa | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 1009 | 💚 | [🔗](https://open.spotify.com/track/1flevwUylgHPrFtLFQbukx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c976b1a7650099b0e6edac65" alt="" width="50" /> | Flying on Faith | Querencia | [CHUNG HA](overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 1009 | 💚 | [🔗](https://open.spotify.com/track/6GTN8y0pvTJpFaNzSy469N) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c976b1a7650099b0e6edac65" alt="" width="50" /> | Masquerade | Querencia | [CHUNG HA](overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 1009 | 💚 | [🔗](https://open.spotify.com/track/7IGe32Cs03oyIoKQ8Ug9OM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c976b1a7650099b0e6edac65" alt="" width="50" /> | PLAY (feat. Changmo) | Querencia | [CHUNG HA](overview.md), CHANGMO | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 1009 | 💚 | [🔗](https://open.spotify.com/track/4gJLkQRcGRJRoHJAavP9iN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="" width="50" /> | BAD GIRL (Prod. Czaer) | Street Woman Fighter(SWF) Special | LACHICA, [CHUNG HA](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation) | 1009 | | [🔗](https://open.spotify.com/track/4yCQYX8eKL1XYJmGglSV1A) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Crazy Like You (feat. BIBI) | Bare&Rare, Pt. 1 | [CHUNG HA](overview.md), [BIBI](../bibi/overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 1009 | 💚 | [🔗](https://open.spotify.com/track/0oUK4m2wNIBPfejlcB1N9k) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Good Night My Princess | Bare&Rare, Pt. 1 | [CHUNG HA](overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 1009 | | [🔗](https://open.spotify.com/track/12QoF5mIoZ1ZrVZFoc2Nwl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Sparkling | Bare&Rare, Pt. 1 | [CHUNG HA](overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 1009 | 💚 | [🔗](https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27390ee0d4d3906192283bae657" alt="" width="50" /> | Bad Boy | Bad Boy | [CHUNG HA](overview.md), Christopher | Parlophone Denmark | 1010 | | [🔗](https://open.spotify.com/track/1WCOna34eEMPgjfOOZkGQc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c976b1a7650099b0e6edac65" alt="" width="50" /> | Demente (feat. Guaynaa) | Querencia | [CHUNG HA](overview.md), Guaynaa | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 1010 | 💚 | [🔗](https://open.spotify.com/track/1flevwUylgHPrFtLFQbukx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c976b1a7650099b0e6edac65" alt="" width="50" /> | Flying on Faith | Querencia | [CHUNG HA](overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 1010 | 💚 | [🔗](https://open.spotify.com/track/6GTN8y0pvTJpFaNzSy469N) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c976b1a7650099b0e6edac65" alt="" width="50" /> | Masquerade | Querencia | [CHUNG HA](overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 1010 | 💚 | [🔗](https://open.spotify.com/track/7IGe32Cs03oyIoKQ8Ug9OM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c976b1a7650099b0e6edac65" alt="" width="50" /> | PLAY (feat. Changmo) | Querencia | [CHUNG HA](overview.md), CHANGMO | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 1010 | 💚 | [🔗](https://open.spotify.com/track/4gJLkQRcGRJRoHJAavP9iN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d662735fc7d080888bc40b4" alt="" width="50" /> | BAD GIRL (Prod. Czaer) | Street Woman Fighter(SWF) Special | LACHICA, [CHUNG HA](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation) | 1010 | | [🔗](https://open.spotify.com/track/4yCQYX8eKL1XYJmGglSV1A) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Crazy Like You (feat. BIBI) | Bare&Rare, Pt. 1 | [CHUNG HA](overview.md), [BIBI](../bibi/overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 1010 | 💚 | [🔗](https://open.spotify.com/track/0oUK4m2wNIBPfejlcB1N9k) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Good Night My Princess | Bare&Rare, Pt. 1 | [CHUNG HA](overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 1010 | | [🔗](https://open.spotify.com/track/12QoF5mIoZ1ZrVZFoc2Nwl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27329322a53482da3542ae9d033" alt="" width="50" /> | Sparkling | Bare&Rare, Pt. 1 | [CHUNG HA](overview.md) | [MNH ENTERTAINMENT](../../labels/mnh_entertainment) | 1010 | 💚 | [🔗](https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7) |
 
 </details>
 

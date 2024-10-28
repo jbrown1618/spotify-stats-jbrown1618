@@ -69,7 +69,7 @@
 | Lauren Aquilina | Lauren Aquilina | 1 |
 | Hilda Stenmalm | Hilda Stenmalm | 1 |
 | Maia Wright | Maia Wright | 1 |
-| Nermin Harambašić | Nermin Harambašić (Harambašić, Nermin) | 1 |
+| Nermin Harambašić | [Nermin Harambašić (Harambašić, Nermin)](../nermin_harambašić_(harambašić,_nermin)/overview.md) | 1 |
 | Lauren Elizabeth Baker | Lauren Elizabeth Baker | 1 |
 | Cazzi Opeia | Cazzi Opeia | 1 |
 | EL CAPITXN | EL CAPITXN | 1 |

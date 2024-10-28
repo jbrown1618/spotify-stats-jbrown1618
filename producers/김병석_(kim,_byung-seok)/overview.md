@@ -30,7 +30,7 @@
 | Supreme Boi | [Supreme Boi](../supreme_boi/overview.md) | 6 |
 | danke | [danke](../danke/overview.md) | 6 |
 | HUH YUNJIN | HUH YUNJIN | 5 |
-| Nermin Harambašić | Nermin Harambašić (Harambašić, Nermin) | 4 |
+| Nermin Harambašić | [Nermin Harambašić (Harambašić, Nermin)](../nermin_harambašić_(harambašić,_nermin)/overview.md) | 4 |
 | 김준혁 | 김준혁 (Kim Joonhyuk) | 4 |
 
 

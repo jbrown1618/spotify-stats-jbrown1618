@@ -38,7 +38,7 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Nermin Harambašić | Nermin Harambašić (Harambašić, Nermin) | 4 |
+| Nermin Harambašić | [Nermin Harambašić (Harambašić, Nermin)](../nermin_harambašić_(harambašić,_nermin)/overview.md) | 4 |
 | Manny Marroquin | [Manny Marroquin](../manny_marroquin/overview.md) | 3 |
 | Young Chance | Young Chance | 3 |
 | Chris Galland | Chris Galland | 3 |

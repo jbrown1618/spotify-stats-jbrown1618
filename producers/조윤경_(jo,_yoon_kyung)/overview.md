@@ -73,7 +73,7 @@
 | Anne-Marie | Anne-Marie | 1 |
 | Celine Svanbäck | Celine Svanbäck (Svanbäck, Celine) | 1 |
 | Jonna Hall | Jonna Hall | 1 |
-| Nermin Harambašić | Nermin Harambašić (Harambašić, Nermin) | 1 |
+| Nermin Harambašić | [Nermin Harambašić (Harambašić, Nermin)](../nermin_harambašić_(harambašić,_nermin)/overview.md) | 1 |
 | SAARA | SAARA | 1 |
 | PAPRIKAA | PAPRIKAA | 1 |
 | Nikolay Mohr | Nikolay Mohr | 1 |

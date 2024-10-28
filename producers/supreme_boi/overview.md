@@ -39,7 +39,7 @@
 | Chris Galland | Chris Galland | 3 |
 | Manny Marroquin | [Manny Marroquin](../manny_marroquin/overview.md) | 3 |
 | 이연수 | 이연수 (Lee, Yeon-soo) | 3 |
-| Nermin Harambašić | Nermin Harambašić (Harambašić, Nermin) | 2 |
+| Nermin Harambašić | [Nermin Harambašić (Harambašić, Nermin)](../nermin_harambašić_(harambašić,_nermin)/overview.md) | 2 |
 | SUGA | [SUGA](../suga/overview.md) | 2 |
 | Josefin Glenmark | Josefin Glenmark | 2 |
 | Pontus Petersson | Pontus Petersson | 2 |

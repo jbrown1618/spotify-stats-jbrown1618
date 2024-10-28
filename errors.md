@@ -23,6 +23,9 @@
 | track_name | album_name | artist_name | track_popularity | album_popularity | artist_popularity |
 |:---|:---|:---|---:|---:|---:|
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 87 |
+| The Goldfish | The Best of The Laurie Berkner Band | The Laurie Berkner Band | 0 | 0 | 58 |
+| We Are The Dinosaurs | The Best of The Laurie Berkner Band | The Laurie Berkner Band | 0 | 0 | 58 |
+| Bumblebee (Buzz Buzz) | The Best of The Laurie Berkner Band | The Laurie Berkner Band | 0 | 0 | 58 |
 | Moonlight | D-2 | Agust D | 0 | 2 | 77 |
 | Daechwita | D-2 | Agust D | 1 | 2 | 77 |
 | Burn It (feat. MAX) | D-2 | Agust D | 0 | 2 | 77 |
@@ -30,9 +33,11 @@
 | Strange (feat. RM) | D-2 | Agust D | 0 | 2 | 77 |
 | Burn It (feat. MAX) | D-2 | MAX | 0 | 2 | 68 |
 | Strange (feat. RM) | D-2 | RM | 0 | 2 | 78 |
-| Chasing Pavements | 19 | Adele | 0 | 0 | 88 |
+| Chasing Pavements | 19 | Adele | 0 | 0 | 87 |
+| Love Rain (Feat. SURAN) | Love Rain | YUJU | 2 | 1 | 46 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 80 |
 | Sleep-walking | Prequel | Dreamcatcher | 0 | 1 | 61 |
+| Tiptoe, Gallop or March | Adventures in Pre-School Dance, Vol. 1 | Andrew Holdsworth | 0 | 0 | 56 |
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 55 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 50 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 32 |
@@ -43,7 +48,9 @@
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 60 |
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 69 |
 | Lone Digger | <|º_º|> | Caravan Palace | 2 | 2 | 62 |
-| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | Jin | 0 | 0 | 75 |
+| We're Going to the Zoo | Kids Animal Songs | Love to Sing | 0 | 0 | 42 |
+| This Is the Way the Lady Rides | Kids Animal Songs | Love to Sing | 0 | 0 | 42 |
+| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | Jin | 0 | 0 | 77 |
 | Wings | Wings | PIXY | 0 | 0 | 38 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 39 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 39 |
@@ -52,6 +59,7 @@
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 39 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 67 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 34 |
+| 5 Little Speckled Frogs | 5 Little Speckled Frogs | Little Baby Bum Nursery Rhyme Friends | 0 | 0 | 61 |
 | The Trooper - 2015 Remaster | Piece of Mind (2015 - Remaster) | Iron Maiden | 2 | 1 | 75 |
 | Drink It | Drink It | THE BOYZ | 0 | 0 | 59 |
 | Good Vibrations | Vocal Spectrum II | Vocal Spectrum | 0 | 0 | 25 |
@@ -73,11 +81,16 @@
 | RED | RED | The Rose | 0 | 0 | 62 |
 | She′s In The Rain | Dawn | The Rose | 0 | 0 | 62 |
 | Sorry | Sorry | The Rose | 0 | 0 | 62 |
+| Clean Up | Start Singing With Barney | Barney | 0 | 0 | 53 |
 | Pokerap | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 55 |
 | Pokemon Theme | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 55 |
 | Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 54 |
+| Choo Choo Train | Wiggle It! | Patty Shukla | 0 | 0 | 45 |
 | Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | 0 | 0 | 58 |
 | Just The Way You Are | Little Love - EP | James Smith | 0 | 0 | 52 |
+| Baa Baa Black Sheep | 11 Nursery Rhymes and Songs | Nursery Rhymes 123 | 0 | 0 | 70 |
+| The Alphabet Song | 11 Nursery Rhymes and Songs | Nursery Rhymes 123 | 0 | 0 | 70 |
+| If You're Happy and You Know It | Classic Nursery Rhymes: 12 Favourite Nursery Rhymes and Children’s Songs | Nursery Rhymes 123 | 0 | 0 | 70 |
 | I will show you | Invitation | AILEE | 0 | 0 | 59 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 64 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 61 |
@@ -88,17 +101,22 @@
 | Why Not? | [12:00] | LOONA | 1 | 1 | 55 |
 | Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 55 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 55 |
-| The Phantom Of The Opera | Century Child | Nightwish | 1 | 1 | 69 |
-| End Of All Hope | Century Child | Nightwish | 0 | 1 | 69 |
-| Nemo | Once | Nightwish | 0 | 0 | 69 |
+| The Phantom Of The Opera | Century Child | Nightwish | 1 | 1 | 68 |
+| End Of All Hope | Century Child | Nightwish | 0 | 1 | 68 |
+| Nemo | Once | Nightwish | 0 | 0 | 68 |
 | Ya! (feat. Whee In) | Stay As You Are | Whee In | 0 | 0 | 50 |
 | Ya! (feat. Whee In) | Stay As You Are | Sandeul | 0 | 0 | 43 |
-| Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 0 | 0 | 60 |
+| Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 0 | 1 | 60 |
 | Lullaby | Present : YOU | GOT7 | 0 | 0 | 60 |
 | Just Right | Just Right | GOT7 | 0 | 0 | 60 |
 | If You Do | MAD | GOT7 | 0 | 0 | 60 |
 | You Calling My Name | Call My Name | GOT7 | 0 | 0 | 60 |
+| Here We Go 'Round the Mulberry Bush | Let's Go Camping: Essential Adventure and Nature Songs for Kids | The Countdown Kids | 0 | 0 | 56 |
+| Five Little Monkeys | 150 All Time Children's Favorites | The Countdown Kids | 0 | 0 | 56 |
+| The Wheels on the Bus Go Round and Round | 150 All Time Children's Favorites | The Countdown Kids | 0 | 0 | 56 |
+| Shake Break | Pancake Manor | Pancake Manor | 0 | 0 | 40 |
 | Flowers - Cover | Flowers (Cover) | YUQI | 0 | 0 | 60 |
+| Hokey Pokey | Hip Hip Hooray! | Play School | 0 | 0 | 54 |
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 28 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 77 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 80 |
@@ -107,12 +125,16 @@
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 74 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 77 |
 | Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 71 |
+| Open Shut Them | Twinkle Twinkle Little Star & More Kids Songs | Super Simple Songs | 0 | 0 | 74 |
+| The Ants Go Marching | Nursery Rhymes | Super Simple Songs | 0 | 0 | 74 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 74 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 79 |
-| I Do | It's Raining | Rain | 0 | 0 | 46 |
-| It′s Raining | It's Raining | Rain | 0 | 0 | 46 |
+| I Do | It's Raining | Rain | 0 | 0 | 47 |
+| It′s Raining | It's Raining | Rain | 0 | 0 | 47 |
 | Super Bass | Pink Friday | Nicki Minaj | 1 | 0 | 87 |
 | 5th Season (SSFWL) | THE FIFTH SEASON | OH MY GIRL | 2 | 1 | 56 |
+| Shake Your Sillies Out | Yummy Yummy (Classic Wiggles) | The Wiggles | 0 | 0 | 70 |
+| Hot Potato | Yummy Yummy (Classic Wiggles) | The Wiggles | 0 | 0 | 70 |
 | Slide Away | Slide Away | Miley Cyrus | 2 | 1 | 84 |
 | Miku | Miku | Anamanaguchi | 0 | 0 | 52 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 45 |
@@ -132,6 +154,7 @@
 | My House | No.5 | 2PM | 0 | 0 | 53 |
 | Still Alive | Portal 2: Songs to Test By (Collectors Edition) | Aperture Science Psychoacoustic Laboratories | 0 | 0 | 48 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 47 |
+| Watermelon | Little Day Out | Justine Clarke | 0 | 0 | 39 |
 | Zelda's Lullaby | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 49 |
 | Song Of Storms | Zelda: Link's Ocarina Orchestrated | The Marcus Hedges Trend Orchestra | 0 | 0 | 49 |
 | Somebody That I Used To Know | Aussie Legends | Gotye | 0 | 0 | 72 |
@@ -139,10 +162,15 @@
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 25 |
 | Call Me Mother | American | RuPaul | 0 | 0 | 56 |
 | Lose | Love Synonym #2 : Right for Us | WONHO | 0 | 0 | 45 |
+| Hello Song | Music Together Family Favorites | Music Together | 0 | 0 | 51 |
+| Octopus (Slippery Fish) | 10 Carrot Diamond | Charlotte Diamond | 0 | 0 | 43 |
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 52 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 59 |
 | Toy | Toy | Netta | 1 | 0 | 50 |
+| Itsy Bitsy Spider | Songs for Kids: Classic Children's Music | Toddler Tunes | 0 | 0 | 52 |
+| Daddy Finger (The Finger Family) | More Songs for Kids: Classic Children's Music | Toddler Tunes | 0 | 0 | 52 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
+| If you are happy and you know it | DansingKids: Growing through music | DanSingKids | 0 | 0 | 35 |
 | 青春修炼手册 | 青春修炼手册 | TFBOYS | 1 | 0 | 44 |
 | Lost Woods | Zelda: Ocarina of Time - Piano | Wesley Sprayue | 0 | 0 | 41 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 55 |

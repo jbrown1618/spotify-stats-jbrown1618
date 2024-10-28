@@ -38,7 +38,7 @@
 | Producer | Producer | Tracks |
 |:---|:---|---:|
 | Tony Maserati | [Tony Maserati](../tony_maserati/overview.md) | 3 |
-| Nermin Harambašić | Nermin Harambašić (Harambašić, Nermin) | 2 |
+| Nermin Harambašić | [Nermin Harambašić (Harambašić, Nermin)](../nermin_harambašić_(harambašić,_nermin)/overview.md) | 2 |
 | Sunshine | Sunshine | 2 |
 | 박상유 | 박상유 (Park, Sang-yu) | 2 |
 | 엄세희 | [엄세희 (Um, Se-Hee)](../엄세희_(um,_se-hee)/overview.md) | 2 |
