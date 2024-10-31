@@ -42,7 +42,7 @@
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 50 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 32 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 66 |
-| Underground | Artemis | Lindsey Stirling | 1 | 1 | 66 |
+| Underground | Artemis | Lindsey Stirling | 2 | 2 | 66 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 51 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 66 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 60 |
@@ -50,7 +50,7 @@
 | Lone Digger | <|º_º|> | Caravan Palace | 2 | 2 | 62 |
 | We're Going to the Zoo | Kids Animal Songs | Love to Sing | 0 | 0 | 42 |
 | This Is the Way the Lady Rides | Kids Animal Songs | Love to Sing | 0 | 0 | 42 |
-| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | Jin | 0 | 0 | 77 |
+| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | Jin | 0 | 0 | 79 |
 | Wings | Wings | PIXY | 0 | 0 | 38 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 39 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 39 |
@@ -59,9 +59,9 @@
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 39 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 67 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 34 |
-| 5 Little Speckled Frogs | 5 Little Speckled Frogs | Little Baby Bum Nursery Rhyme Friends | 0 | 0 | 61 |
-| The Trooper - 2015 Remaster | Piece of Mind (2015 - Remaster) | Iron Maiden | 2 | 1 | 75 |
-| Drink It | Drink It | THE BOYZ | 0 | 0 | 59 |
+| 5 Little Speckled Frogs | 5 Little Speckled Frogs | Little Baby Bum Nursery Rhyme Friends | 0 | 0 | 62 |
+| The Trooper - 2015 Remaster | Piece of Mind (2015 - Remaster) | Iron Maiden | 2 | 2 | 75 |
+| Drink It | Drink It | THE BOYZ | 0 | 0 | 60 |
 | Good Vibrations | Vocal Spectrum II | Vocal Spectrum | 0 | 0 | 25 |
 | I Wanna Be Like You | Vocal Spectrum II | Vocal Spectrum | 0 | 0 | 25 |
 | Bring Him Home | Vocal Spectrum | Vocal Spectrum | 0 | 0 | 25 |
@@ -75,7 +75,7 @@
 | Killer Queen | Sheer Heart Attack | Queen | 0 | 0 | 86 |
 | Good Old Fashioned Lover Boy | A Day At The Races | Queen | 0 | 0 | 86 |
 | Somebody To Love | A Day At The Races | Queen | 0 | 0 | 86 |
-| Don't Stop Me Now | Jazz | Queen | 2 | 1 | 86 |
+| Don't Stop Me Now | Jazz | Queen | 1 | 1 | 86 |
 | A Kind Of Magic | A Kind Of Magic | Queen | 0 | 0 | 86 |
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 60 |
 | RED | RED | The Rose | 0 | 0 | 62 |
@@ -84,7 +84,7 @@
 | Clean Up | Start Singing With Barney | Barney | 0 | 0 | 53 |
 | Pokerap | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 55 |
 | Pokemon Theme | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 55 |
-| Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 54 |
+| Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 55 |
 | Choo Choo Train | Wiggle It! | Patty Shukla | 0 | 0 | 45 |
 | Bye Bye My Blue | Bye Bye My Blue | Yerin Baek | 0 | 0 | 58 |
 | Just The Way You Are | Little Love - EP | James Smith | 0 | 0 | 52 |
@@ -121,7 +121,7 @@
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 77 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 80 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 68 |
-| Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 64 |
+| Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 63 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 74 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 77 |
 | Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 71 |
@@ -132,7 +132,7 @@
 | I Do | It's Raining | Rain | 0 | 0 | 47 |
 | It′s Raining | It's Raining | Rain | 0 | 0 | 47 |
 | Super Bass | Pink Friday | Nicki Minaj | 1 | 0 | 87 |
-| 5th Season (SSFWL) | THE FIFTH SEASON | OH MY GIRL | 2 | 1 | 56 |
+| 5th Season (SSFWL) | THE FIFTH SEASON | OH MY GIRL | 2 | 1 | 55 |
 | Shake Your Sillies Out | Yummy Yummy (Classic Wiggles) | The Wiggles | 0 | 0 | 70 |
 | Hot Potato | Yummy Yummy (Classic Wiggles) | The Wiggles | 0 | 0 | 70 |
 | Slide Away | Slide Away | Miley Cyrus | 2 | 1 | 84 |
@@ -164,9 +164,13 @@
 | Lose | Love Synonym #2 : Right for Us | WONHO | 0 | 0 | 45 |
 | Hello Song | Music Together Family Favorites | Music Together | 0 | 0 | 51 |
 | Octopus (Slippery Fish) | 10 Carrot Diamond | Charlotte Diamond | 0 | 0 | 43 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 52 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 53 |
+| Sofa Silahlane | Sofa Silahlane | Wanitwa Mos | 2 | 1 | 56 |
+| Sofa Silahlane | Sofa Silahlane | Nkosazana Daughter | 2 | 1 | 61 |
+| Sofa Silahlane | Sofa Silahlane | Master KG | 2 | 1 | 63 |
+| Sofa Silahlane | Sofa Silahlane | Lowsheen | 2 | 1 | 47 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 59 |
-| Toy | Toy | Netta | 1 | 0 | 50 |
+| Toy | Toy | Netta | 1 | 0 | 49 |
 | Itsy Bitsy Spider | Songs for Kids: Classic Children's Music | Toddler Tunes | 0 | 0 | 52 |
 | Daddy Finger (The Finger Family) | More Songs for Kids: Classic Children's Music | Toddler Tunes | 0 | 0 | 52 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
