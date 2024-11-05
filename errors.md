@@ -7,7 +7,7 @@
 | Coming Home Song [🔗](https://open.spotify.com/track/3RhLH5ROodko8Se1kRpjJ1) | 18 | 2024-04-12 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | I Get It Now [🔗](https://open.spotify.com/album/5zZHAGHasjwkR9B1xX3Xq6) | 29 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI),<br>Singer-Songwriter [🔗](https://open.spotify.com/playlist/3aNr3GFiAvm1utXDyFOpAR) | Nettwerk Music Group | |
 | Coming Home Song [🔗](https://open.spotify.com/track/4XeCHgZ6vhNwFFaV1zR8oS) | 47 | 2024-09-20 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | Something for Everybody [🔗](https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma) | 57 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
 | Thieves [🔗](https://open.spotify.com/track/5v4JBxzAfArnWg3n3MhRRl) | 17 | 2024-04-12 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | I Get It Now [🔗](https://open.spotify.com/album/5zZHAGHasjwkR9B1xX3Xq6) | 29 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
-| Thieves [🔗](https://open.spotify.com/track/1w74CVsaIhyxbW3LvYdB9s) | 44 | 2024-09-20 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | Something for Everybody [🔗](https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma) | 57 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
+| Thieves [🔗](https://open.spotify.com/track/1w74CVsaIhyxbW3LvYdB9s) | 43 | 2024-09-20 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | Something for Everybody [🔗](https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma) | 57 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
 
 ## Duplicate albums
 
@@ -32,25 +32,25 @@
 | People | D-2 | Agust D | 1 | 2 | 77 |
 | Strange (feat. RM) | D-2 | Agust D | 0 | 2 | 77 |
 | Burn It (feat. MAX) | D-2 | MAX | 0 | 2 | 68 |
-| Strange (feat. RM) | D-2 | RM | 0 | 2 | 78 |
+| Strange (feat. RM) | D-2 | RM | 0 | 2 | 77 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 87 |
 | Love Rain (Feat. SURAN) | Love Rain | YUJU | 2 | 1 | 46 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 80 |
 | Sleep-walking | Prequel | Dreamcatcher | 0 | 1 | 61 |
 | Tiptoe, Gallop or March | Adventures in Pre-School Dance, Vol. 1 | Andrew Holdsworth | 0 | 0 | 56 |
-| Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 55 |
+| Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 54 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 50 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 32 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 66 |
 | Underground | Artemis | Lindsey Stirling | 2 | 2 | 66 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 51 |
-| Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 66 |
+| Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 65 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 60 |
-| Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 69 |
+| Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 68 |
 | Lone Digger | <|º_º|> | Caravan Palace | 2 | 2 | 62 |
 | We're Going to the Zoo | Kids Animal Songs | Love to Sing | 0 | 0 | 42 |
 | This Is the Way the Lady Rides | Kids Animal Songs | Love to Sing | 0 | 0 | 42 |
-| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | Jin | 0 | 0 | 79 |
+| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | Jin | 0 | 0 | 80 |
 | Wings | Wings | PIXY | 0 | 0 | 38 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 39 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 39 |
@@ -61,7 +61,7 @@
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 34 |
 | 5 Little Speckled Frogs | 5 Little Speckled Frogs | Little Baby Bum Nursery Rhyme Friends | 0 | 0 | 62 |
 | The Trooper - 2015 Remaster | Piece of Mind (2015 - Remaster) | Iron Maiden | 2 | 2 | 75 |
-| Drink It | Drink It | THE BOYZ | 0 | 0 | 60 |
+| Drink It | Drink It | THE BOYZ | 0 | 0 | 61 |
 | Good Vibrations | Vocal Spectrum II | Vocal Spectrum | 0 | 0 | 25 |
 | I Wanna Be Like You | Vocal Spectrum II | Vocal Spectrum | 0 | 0 | 25 |
 | Bring Him Home | Vocal Spectrum | Vocal Spectrum | 0 | 0 | 25 |
@@ -106,23 +106,23 @@
 | Nemo | Once | Nightwish | 0 | 0 | 68 |
 | Ya! (feat. Whee In) | Stay As You Are | Whee In | 0 | 0 | 50 |
 | Ya! (feat. Whee In) | Stay As You Are | Sandeul | 0 | 0 | 43 |
-| Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 0 | 1 | 60 |
+| Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 0 | 0 | 60 |
 | Lullaby | Present : YOU | GOT7 | 0 | 0 | 60 |
 | Just Right | Just Right | GOT7 | 0 | 0 | 60 |
 | If You Do | MAD | GOT7 | 0 | 0 | 60 |
 | You Calling My Name | Call My Name | GOT7 | 0 | 0 | 60 |
-| Here We Go 'Round the Mulberry Bush | Let's Go Camping: Essential Adventure and Nature Songs for Kids | The Countdown Kids | 0 | 0 | 56 |
-| Five Little Monkeys | 150 All Time Children's Favorites | The Countdown Kids | 0 | 0 | 56 |
-| The Wheels on the Bus Go Round and Round | 150 All Time Children's Favorites | The Countdown Kids | 0 | 0 | 56 |
-| Shake Break | Pancake Manor | Pancake Manor | 0 | 0 | 40 |
+| Here We Go 'Round the Mulberry Bush | Let's Go Camping: Essential Adventure and Nature Songs for Kids | The Countdown Kids | 0 | 0 | 57 |
+| Five Little Monkeys | 150 All Time Children's Favorites | The Countdown Kids | 0 | 0 | 57 |
+| The Wheels on the Bus Go Round and Round | 150 All Time Children's Favorites | The Countdown Kids | 0 | 0 | 57 |
+| Shake Break | Pancake Manor | Pancake Manor | 0 | 0 | 41 |
 | Flowers - Cover | Flowers (Cover) | YUQI | 0 | 0 | 60 |
 | Hokey Pokey | Hip Hip Hooray! | Play School | 0 | 0 | 54 |
-| Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 28 |
+| Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 29 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 77 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 80 |
-| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 68 |
+| Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 67 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 63 |
-| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 74 |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 75 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 77 |
 | Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 71 |
 | Open Shut Them | Twinkle Twinkle Little Star & More Kids Songs | Super Simple Songs | 0 | 0 | 74 |
@@ -149,7 +149,7 @@
 | When We Disco | When We Disco | J.Y. Park | 0 | 0 | 46 |
 | Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 46 |
 | When We Disco | When We Disco | SUNMI | 0 | 0 | 57 |
-| Who's Your Mama? | 24/34 | Jessi | 0 | 0 | 59 |
+| Who's Your Mama? | 24/34 | Jessi | 0 | 0 | 58 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 72 |
 | My House | No.5 | 2PM | 0 | 0 | 53 |
 | Still Alive | Portal 2: Songs to Test By (Collectors Edition) | Aperture Science Psychoacoustic Laboratories | 0 | 0 | 48 |
@@ -164,12 +164,12 @@
 | Lose | Love Synonym #2 : Right for Us | WONHO | 0 | 0 | 45 |
 | Hello Song | Music Together Family Favorites | Music Together | 0 | 0 | 51 |
 | Octopus (Slippery Fish) | 10 Carrot Diamond | Charlotte Diamond | 0 | 0 | 43 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 53 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 55 |
 | Sofa Silahlane | Sofa Silahlane | Wanitwa Mos | 2 | 1 | 56 |
 | Sofa Silahlane | Sofa Silahlane | Nkosazana Daughter | 2 | 1 | 61 |
 | Sofa Silahlane | Sofa Silahlane | Master KG | 2 | 1 | 63 |
 | Sofa Silahlane | Sofa Silahlane | Lowsheen | 2 | 1 | 47 |
-| 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 59 |
+| 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 60 |
 | Toy | Toy | Netta | 1 | 0 | 49 |
 | Itsy Bitsy Spider | Songs for Kids: Classic Children's Music | Toddler Tunes | 0 | 0 | 52 |
 | Daddy Finger (The Finger Family) | More Songs for Kids: Classic Children's Music | Toddler Tunes | 0 | 0 | 52 |
@@ -177,4 +177,6 @@
 | If you are happy and you know it | DansingKids: Growing through music | DanSingKids | 0 | 0 | 35 |
 | 青春修炼手册 | 青春修炼手册 | TFBOYS | 1 | 0 | 44 |
 | Lost Woods | Zelda: Ocarina of Time - Piano | Wesley Sprayue | 0 | 0 | 41 |
+| Because Of You | CALL BACK - The 1st Album | MINHO | 0 | 0 | 40 |
+| Because Of You | CALL BACK - The 1st Album | NINGNING | 0 | 0 | 51 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 55 |

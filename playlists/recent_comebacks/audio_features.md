@@ -49,7 +49,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8c8297efc6022534f1357e1" alt="APT." width="50" /> | APT. (0.26) | <img src="https://i.scdn.co/image/ab67616d0000b273f2dff4b6f58682692c0b0beb" alt="ETERNAL" width="50" /> | Crush (0.0384) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e579ab3e7c497205f160319" alt="Of All We Have Lost" width="50" /> | trampoline (0.255) | <img src="https://i.scdn.co/image/ab67616d0000b2730cac27fa1830d50ff4a7a20d" alt="Metamorphic" width="50" /> | 1 Thing (0.0389) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c9c9aaadb2d6d3d44be06332" alt="Fe3O4: STICK OUT" width="50" /> | See that? (0.237) | <img src="https://i.scdn.co/image/ab67616d0000b273653887a83332de0350151f10" alt="ROMANCE : UNTOLD" width="50" /> | Your Eyes Only (0.0399) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730cac27fa1830d50ff4a7a20d" alt="Metamorphic" width="50" /> | Nada (0.232) | <img src="https://i.scdn.co/image/ab67616d0000b2738876b528b198111dc6d5a1cd" alt="HEADWAY" width="50" /> | ON MY BIKE (0.0408) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730cac27fa1830d50ff4a7a20d" alt="Metamorphic" width="50" /> | Nada (0.232) | <img src="https://i.scdn.co/image/ab67616d0000b2730490e8ab48790ca6e5add267" alt="Supersonic" width="50" /> | Supersonic (0.0413) |
 
 ## Acousticness
 
@@ -99,8 +99,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8c8297efc6022534f1357e1" alt="APT." width="50" /> | APT. (0.355) | <img src="https://i.scdn.co/image/ab67616d0000b27351700837cdbc6adddb88560a" alt="ATE" width="50" /> | Chk Chk Boom (0.0521) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e579ab3e7c497205f160319" alt="Of All We Have Lost" width="50" /> | remembrance candy (0.355) | <img src="https://i.scdn.co/image/ab67616d0000b27315175a3af8eb08dbc8c77a31" alt="Lose Yourself" width="50" /> | Get Loud (0.0592) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27351700837cdbc6adddb88560a" alt="ATE" width="50" /> | twilight (0.343) | <img src="https://i.scdn.co/image/ab67616d0000b273bcdcc14c83a6bc5dc1fc3cb5" alt="Dreamy Resonance" width="50" /> | Classified (0.0613) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738876b528b198111dc6d5a1cd" alt="HEADWAY" width="50" /> | ON MY BIKE (0.329) | <img src="https://i.scdn.co/image/ab67616d0000b2737c451a4f06288da6edf050c1" alt="New Woman (feat. ROSALÍA)" width="50" /> | New Woman (feat. ROSALÍA) (0.065) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735e579ab3e7c497205f160319" alt="Of All We Have Lost" width="50" /> | trampoline (0.314) | <img src="https://i.scdn.co/image/ab67616d0000b273dd734636e6d28fdc528a839d" alt="GOLD" width="50" /> | Supernatural (0.0697) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735e579ab3e7c497205f160319" alt="Of All We Have Lost" width="50" /> | trampoline (0.314) | <img src="https://i.scdn.co/image/ab67616d0000b2737c451a4f06288da6edf050c1" alt="New Woman (feat. ROSALÍA)" width="50" /> | New Woman (feat. ROSALÍA) (0.065) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273211dd4f1141b597f5f1c2ac9" alt="FEIFEI" width="50" /> | FEIFEI (0.313) | <img src="https://i.scdn.co/image/ab67616d0000b273dd734636e6d28fdc528a839d" alt="GOLD" width="50" /> | Supernatural (0.0697) |
 
 ## Valence
 
@@ -133,5 +133,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2730cac27fa1830d50ff4a7a20d" alt="Metamorphic" width="50" /> | Nada (162.871) | <img src="https://i.scdn.co/image/ab67616d0000b273653887a83332de0350151f10" alt="ROMANCE : UNTOLD" width="50" /> | Moonstruck (87.953) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273979cf803b9d85291a17882ef" alt="Hot Mess" width="50" /> | Hot Mess (159.971) | <img src="https://i.scdn.co/image/ab67616d0000b273c9c9aaadb2d6d3d44be06332" alt="Fe3O4: STICK OUT" width="50" /> | See that? (87.955) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735455deaf573fcc15b3f21183" alt="MEOW / Cheeky Icy Thang (Japanese Ver.)" width="50" /> | MEOW (159.964) | <img src="https://i.scdn.co/image/ab67616d0000b273653887a83332de0350151f10" alt="ROMANCE : UNTOLD" width="50" /> | Hundred Broken Hearts (88.442) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273253096eda3b7826c11c7fab8" alt="SYNK : PARALLEL LINE - Special Digital Single" width="50" /> | Bored! - NINGNING Solo (155.99) | <img src="https://i.scdn.co/image/ab67616d0000b2738876b528b198111dc6d5a1cd" alt="HEADWAY" width="50" /> | ON MY BIKE (92.023) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8c8297efc6022534f1357e1" alt="APT." width="50" /> | APT. (149.027) | <img src="https://i.scdn.co/image/ab67616d0000b2736eb604294f8f58c9078f58b1" alt="Whiplash - The 5th Mini Album" width="50" /> | Flights, Not Feelings (92.053) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273253096eda3b7826c11c7fab8" alt="SYNK : PARALLEL LINE - Special Digital Single" width="50" /> | Bored! - NINGNING Solo (155.99) | <img src="https://i.scdn.co/image/ab67616d0000b2736eb604294f8f58c9078f58b1" alt="Whiplash - The 5th Mini Album" width="50" /> | Flights, Not Feelings (92.053) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8c8297efc6022534f1357e1" alt="APT." width="50" /> | APT. (149.027) | <img src="https://i.scdn.co/image/ab67616d0000b2735e579ab3e7c497205f160319" alt="Of All We Have Lost" width="50" /> | remembrance candy (96.073) |
