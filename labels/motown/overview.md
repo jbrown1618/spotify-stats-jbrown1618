@@ -15,7 +15,7 @@ Appears as:
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | 174 | 5 | 4 | Stevie Wonder | [🔗](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) |
+| <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | 175 | 5 | 4 | Stevie Wonder | [🔗](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) |
 | <img src="https://i.scdn.co/image/19f768d93f6c80f7d4ca5b906e1c0376a3704389" alt="" width="50" /> | 214 | 5 | 1 | The Jackson 5 | [🔗](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebec212a39ffa4182a0fff4e3c" alt="" width="50" /> | 434 | 4 | 1 | The Temptations | [🔗](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb21a213a4fe1a6f9b45d3f7f9" alt="" width="50" /> | 434 | 2 | 1 | Commodores | [🔗](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) |
@@ -34,7 +34,7 @@ Appears as:
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="" width="50" /> | 665 | 2 | 1 | Commodores | 1977-01-01 | [🔗](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="" width="50" /> | 665 | 1 | 1 | The Temptations Sing Smokey | 1965-03-22 | [🔗](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="" width="50" /> | 553 | 1 | 1 | The Definitive Collection | 2002-10-29 | [🔗](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="" width="50" /> | 555 | 1 | 1 | The Definitive Collection | 2002-10-29 | [🔗](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317f9e7e7784ed40b223e261c" alt="" width="50" /> | 665 | 1 | 1 | Street Songs (Deluxe Edition) | 1981-04-07 | [🔗](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="" width="50" /> | 665 | 1 | 1 | Songs In The Key Of Life | 1976-09-28 | [🔗](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b" alt="" width="50" /> | 665 | 1 | 1 | Signed, Sealed And Delivered | 1970-08-07 | [🔗](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) |
@@ -145,7 +145,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="" width="50" /> | Superstition - Single Version | The Definitive Collection | Stevie Wonder | [MOTOWN](.), [UNI](../uni) | 837 | 💚 | [🔗](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="" width="50" /> | Superstition - Single Version | The Definitive Collection | Stevie Wonder | [MOTOWN](.), [UNI](../uni) | 838 | 💚 | [🔗](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="" width="50" /> | My Guy | Mary Wells Sings My Guy | Mary Wells | [MOTOWN](.), [UNI](../uni) | 1015 | 💚 | [🔗](https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="" width="50" /> | The Way You Do The Things You Do | Meet The Temptations | The Temptations | [Motown](.) | 1015 | | [🔗](https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="" width="50" /> | My Girl | The Temptations Sing Smokey | The Temptations | [MOTOWN](.), [UNI](../uni) | 1015 | 💚 | [🔗](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) |

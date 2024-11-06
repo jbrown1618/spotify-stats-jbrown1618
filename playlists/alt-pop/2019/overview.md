@@ -5,8 +5,8 @@
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da" alt="" width="50" /> | 46 | 6 | 6 | [Billie Eilish](../../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb118be643c10bd1268f034d28" alt="" width="50" /> | 187 | 2 | 2 | Faouzia | [🔗](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 39 | 2 | 1 | [Jacob Collier](../../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb118be643c10bd1268f034d28" alt="" width="50" /> | 186 | 2 | 2 | Faouzia | [🔗](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 40 | 2 | 1 | [Jacob Collier](../../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba4f202963dd12ab6044bdb97" alt="" width="50" /> | 434 | 1 | 1 | half•alive | [🔗](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4828d921588ec91c835392b2" alt="" width="50" /> | 91 | 1 | 1 | [Kimbra](../../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e6939fdde0369bbdea3539d" alt="" width="50" /> | 434 | 1 | 1 | Destiny Rogers | [🔗](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) |
@@ -22,7 +22,7 @@
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5aa2cd4bb1ebf4fa8611b1e6" alt="" width="50" /> | 118 | 1 | 0 | [Sammy Rae & The Friends](../../../artists/sammy_rae___the_friends/overview.md) | [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9b92bf32f4f9e42887f64c97" alt="" width="50" /> | 130 | 1 | 0 | Lolo Zouaï | [🔗](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9b92bf32f4f9e42887f64c97" alt="" width="50" /> | 126 | 1 | 0 | Lolo Zouaï | [🔗](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) |
 
 </details>
 
@@ -31,9 +31,9 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | 221 | 5 | 5 | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | 2019-03-29 | [🔗](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | 222 | 5 | 5 | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | 2019-03-29 | [🔗](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | 665 | 3 | 0 | Norman Fucking Rockwell! | 2019-08-30 | [🔗](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="" width="50" /> | 526 | 2 | 1 | Djesse Vol. 2 | 2019-07-19 | [🔗](https://open.spotify.com/album/3zNi5dCpkbm4zv7h1vGOMy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="" width="50" /> | 527 | 2 | 1 | Djesse Vol. 2 | 2019-07-19 | [🔗](https://open.spotify.com/album/3zNi5dCpkbm4zv7h1vGOMy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249" alt="" width="50" /> | 665 | 1 | 1 | everything i wanted | 2019-11-13 | [🔗](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315249cb1ee9b66f0aacfffe8" alt="" width="50" /> | 665 | 1 | 1 | Under the Surface | 2019-02-22 | [🔗](https://open.spotify.com/album/6ISIdF1gCK9X8pn4FaObHE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384095737f6056e682666d6f9" alt="" width="50" /> | 665 | 1 | 1 | Tomboy | 2019-02-28 | [🔗](https://open.spotify.com/album/2uDZBeyyQ7mfwF9mUJeYUG) |
@@ -61,11 +61,11 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | you should see me in a crown | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](../../../artists/billie_eilish/overview.md) | [Darkroom](../../../labels/darkroom), [Interscope Records](../../../labels/interscope_records) | 353 | 💚 | [🔗](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | bury a friend | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](../../../artists/billie_eilish/overview.md) | [Darkroom](../../../labels/darkroom), [Interscope Records](../../../labels/interscope_records) | 562 | 💚 | [🔗](https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="" width="50" /> | Moon River | Djesse Vol. 2 | [Jacob Collier](../../../artists/jacob_collier/overview.md) | [Decca (UMO)](../../../labels/decca_(umo)) | 796 | | [🔗](https://open.spotify.com/track/1IRRqn75jaZHp7zMT1NGbZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | bad guy | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](../../../artists/billie_eilish/overview.md) | [Darkroom](../../../labels/darkroom), [Interscope Records](../../../labels/interscope_records) | 942 | 💚 | [🔗](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | xanny | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](../../../artists/billie_eilish/overview.md) | [Darkroom](../../../labels/darkroom), [Interscope Records](../../../labels/interscope_records) | 1013 | 💚 | [🔗](https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | you should see me in a crown | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](../../../artists/billie_eilish/overview.md) | [Darkroom](../../../labels/darkroom), [Interscope Records](../../../labels/interscope_records) | 356 | 💚 | [🔗](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | bury a friend | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](../../../artists/billie_eilish/overview.md) | [Darkroom](../../../labels/darkroom), [Interscope Records](../../../labels/interscope_records) | 566 | 💚 | [🔗](https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="" width="50" /> | Moon River | Djesse Vol. 2 | [Jacob Collier](../../../artists/jacob_collier/overview.md) | [Decca (UMO)](../../../labels/decca_(umo)) | 797 | | [🔗](https://open.spotify.com/track/1IRRqn75jaZHp7zMT1NGbZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | bad guy | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](../../../artists/billie_eilish/overview.md) | [Darkroom](../../../labels/darkroom), [Interscope Records](../../../labels/interscope_records) | 937 | 💚 | [🔗](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce" alt="" width="50" /> | xanny | WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? | [Billie Eilish](../../../artists/billie_eilish/overview.md) | [Darkroom](../../../labels/darkroom), [Interscope Records](../../../labels/interscope_records) | 1006 | 💚 | [🔗](https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d658a02ba8931985bdc4e0da" alt="" width="50" /> | Light On | Heard It In A Past Life | Maggie Rogers | [Capitol Records](../../../labels/capitol_records) | 1015 | 💚 | [🔗](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315249cb1ee9b66f0aacfffe8" alt="" width="50" /> | Bad | Under the Surface | Christopher | Parlophone Denmark | 1015 | 💚 | [🔗](https://open.spotify.com/track/66zdGutAO6NJmMjH8ejBIq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384095737f6056e682666d6f9" alt="" width="50" /> | Tomboy | Tomboy | Destiny Rogers | Not specified | 1015 | 💚 | [🔗](https://open.spotify.com/track/5Ti3fqGTfjUsSdylFNy0Ng) |

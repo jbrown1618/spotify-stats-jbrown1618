@@ -14,7 +14,7 @@ Appears as:
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbf250c4fdc18bb30560fceb5" alt="" width="50" /> | 36 | 12 | 9 | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [🔗](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb33a8ccf7ddd38cea1a0eac0d" alt="" width="50" /> | 36 | 12 | 9 | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [🔗](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebae899464d675b21dcde3fbe2" alt="" width="50" /> | 434 | 1 | 0 | ADORA | [🔗](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r) |
 
 
@@ -25,9 +25,9 @@ Appears as:
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | 630 | 4 | 3 | KISS OF LIFE | 2023-07-05 | [🔗](https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | 63 | 4 | 3 | Born to be XX | 2023-11-08 | [🔗](https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734cd7f69b85766b3d3035c27c" alt="" width="50" /> | 163 | 2 | 1 | Sticky | 2024-07-01 | [🔗](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27307568782625b85282541394b" alt="" width="50" /> | 113 | 1 | 1 | Midas Touch | 2024-04-03 | [🔗](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27315175a3af8eb08dbc8c77a31" alt="" width="50" /> | 438 | 1 | 1 | Lose Yourself | 2024-10-15 | [🔗](https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734cd7f69b85766b3d3035c27c" alt="" width="50" /> | 157 | 2 | 1 | Sticky | 2024-07-01 | [🔗](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27307568782625b85282541394b" alt="" width="50" /> | 114 | 1 | 1 | Midas Touch | 2024-04-03 | [🔗](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27315175a3af8eb08dbc8c77a31" alt="" width="50" /> | 393 | 1 | 1 | Lose Yourself | 2024-10-15 | [🔗](https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aae7d5e2f975d1da08753c0" alt="" width="50" /> | 665 | 1 | 0 | Trouble? TRAVEL! | 2022-06-01 | [🔗](https://open.spotify.com/album/07FQYMZJFk9t3jpZ8fDQAA) |
 
 ![Bar chart of top 6 albums](../../images/labels/s2_entertainment_inc_/albums.png)
@@ -81,11 +81,11 @@ Appears as:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Nobody Knows | Born to be XX | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [S2 ENTERTAINMENT INC.](.) | 62 | 💚 | [🔗](https://open.spotify.com/track/70efTlnBNM8BvfhfPiqOBN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27307568782625b85282541394b" alt="" width="50" /> | Midas Touch | Midas Touch | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [S2 ENTERTAINMENT INC.](.) | 139 | 💚 | [🔗](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734cd7f69b85766b3d3035c27c" alt="" width="50" /> | Sticky | Sticky | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [S2 ENTERTAINMENT INC.](.) | 260 | 💚 | [🔗](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734cd7f69b85766b3d3035c27c" alt="" width="50" /> | Te Quiero | Sticky | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [S2 ENTERTAINMENT INC.](.) | 269 | | [🔗](https://open.spotify.com/track/5yilfTuo2JyDZUoBPQ4Vjs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Bad News | Born to be XX | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [S2 ENTERTAINMENT INC.](.) | 360 | 💚 | [🔗](https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27315175a3af8eb08dbc8c77a31" alt="" width="50" /> | Get Loud | Lose Yourself | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [S2 ENTERTAINMENT INC.](.) | 653 | 💚 | [🔗](https://open.spotify.com/track/7zi7dD55ORKCGEjDNwSa1n) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Shhh | KISS OF LIFE | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [S2 ENTERTAINMENT INC.](.) | 961 | 💚 | [🔗](https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734cd7f69b85766b3d3035c27c" alt="" width="50" /> | Sticky | Sticky | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [S2 ENTERTAINMENT INC.](.) | 247 | 💚 | [🔗](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734cd7f69b85766b3d3035c27c" alt="" width="50" /> | Te Quiero | Sticky | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [S2 ENTERTAINMENT INC.](.) | 263 | | [🔗](https://open.spotify.com/track/5yilfTuo2JyDZUoBPQ4Vjs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | Bad News | Born to be XX | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [S2 ENTERTAINMENT INC.](.) | 362 | 💚 | [🔗](https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27315175a3af8eb08dbc8c77a31" alt="" width="50" /> | Get Loud | Lose Yourself | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [S2 ENTERTAINMENT INC.](.) | 579 | 💚 | [🔗](https://open.spotify.com/track/7zi7dD55ORKCGEjDNwSa1n) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Shhh | KISS OF LIFE | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [S2 ENTERTAINMENT INC.](.) | 962 | 💚 | [🔗](https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aae7d5e2f975d1da08753c0" alt="" width="50" /> | Trouble? TRAVEL! | Trouble? TRAVEL! | ADORA | [S2 ENTERTAINMENT INC., AURA Corp.](.) | 1015 | | [🔗](https://open.spotify.com/track/6A3J47xL9B4EFAjQ79YX52) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Countdown (BELLE Solo) | KISS OF LIFE | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [S2 ENTERTAINMENT INC.](.) | 1015 | 💚 | [🔗](https://open.spotify.com/track/3pJbio7BQLvqNne62Xe73I) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ff7c76b0790cd3ad63cfc0c" alt="" width="50" /> | Kitty Cat (JULIE Solo) | KISS OF LIFE | [KISS OF LIFE](../../artists/kiss_of_life/overview.md) | [S2 ENTERTAINMENT INC.](.) | 1015 | | [🔗](https://open.spotify.com/track/6MiodzZmp1bKamgF3qhmre) |

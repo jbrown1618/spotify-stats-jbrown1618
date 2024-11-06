@@ -18,11 +18,11 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8" alt="" width="50" /> | 53 | 25 | 21 | [Billy Joel](../../artists/billy_joel/overview.md) | [🔗](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 119 | 18 | 10 | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4828d921588ec91c835392b2" alt="" width="50" /> | 91 | 9 | 8 | [Kimbra](../../artists/kimbra/overview.md) | [🔗](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7ed0386d30b59531eddd34ba" alt="" width="50" /> | 426 | 8 | 6 | [Imogen Heap](../../artists/imogen_heap/overview.md) | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
-| <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | 402 | 8 | 5 | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [🔗](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7ed0386d30b59531eddd34ba" alt="" width="50" /> | 424 | 8 | 6 | [Imogen Heap](../../artists/imogen_heap/overview.md) | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
+| <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | 403 | 8 | 5 | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [🔗](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) |
 | <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | 315 | 7 | 4 | A Fine Frenzy | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | 434 | 4 | 4 | Regina Spektor | [🔗](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd8d5d7125f4fbe0dea0b4646" alt="" width="50" /> | 198 | 4 | 4 | Stella Jang | [🔗](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd8d5d7125f4fbe0dea0b4646" alt="" width="50" /> | 199 | 4 | 4 | Stella Jang | [🔗](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) |
 
 
 <details>
@@ -31,23 +31,23 @@
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5aa2cd4bb1ebf4fa8611b1e6" alt="" width="50" /> | 118 | 8 | 3 | [Sammy Rae & The Friends](../../artists/sammy_rae___the_friends/overview.md) | [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb271320bcc15789b23aa83a44" alt="" width="50" /> | 425 | 7 | 3 | Erin McCarley | [🔗](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | 222 | 7 | 3 | Elton John | [🔗](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb271320bcc15789b23aa83a44" alt="" width="50" /> | 420 | 7 | 3 | Erin McCarley | [🔗](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | 223 | 7 | 3 | Elton John | [🔗](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb574210716a391f9fa2764fc2" alt="" width="50" /> | 434 | 5 | 3 | Elizaveta | [🔗](https://open.spotify.com/artist/2a9bCkqCkLvXM0s3uPvR7M) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e35e5ceab6998278006481" alt="" width="50" /> | 434 | 3 | 3 | Brandi Carlile | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 383 | 3 | 2 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcde5a0d57c1b79de5fce6bee" alt="" width="50" /> | 274 | 2 | 2 | Chappell Roan | [🔗](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14" alt="" width="50" /> | 382 | 3 | 2 | Jason Mraz | [🔗](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcde5a0d57c1b79de5fce6bee" alt="" width="50" /> | 275 | 2 | 2 | Chappell Roan | [🔗](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) |
 | <img src="https://i.scdn.co/image/9a03437da395d999755edacccc24779a97254b89" alt="" width="50" /> | 434 | 3 | 1 | Aslyn | [🔗](https://open.spotify.com/artist/6seR0G84QQq1NIW844E7Qq) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba5fc004270bdfc9fee7f55f4" alt="" width="50" /> | 434 | 2 | 1 | Jon McLaughlin | [🔗](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe062176ee3682ca24d6fddd7" alt="" width="50" /> | 434 | 2 | 1 | Feist | [🔗](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba688abfbbed1037befa47232" alt="" width="50" /> | 392 | 2 | 1 | HAIM | [🔗](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61769824ec381aca10903955" alt="" width="50" /> | 434 | 1 | 1 | Wyvern Lingo | [🔗](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb08635ff0ed30023d2ee764a1" alt="" width="50" /> | 382 | 1 | 1 | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1cadffeb06d98e13611359db" alt="" width="50" /> | 186 | 1 | 1 | Lawrence | [🔗](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb08635ff0ed30023d2ee764a1" alt="" width="50" /> | 383 | 1 | 1 | Colbie Caillat | [🔗](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1cadffeb06d98e13611359db" alt="" width="50" /> | 187 | 1 | 1 | Lawrence | [🔗](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb92a53b190e048475d6c1722e" alt="" width="50" /> | 434 | 1 | 1 | Soccer Mommy | [🔗](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdbd28dd134a8828825088de" alt="" width="50" /> | 434 | 1 | 1 | Indigo Girls | [🔗](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf6d51e6f5342d2d363220920" alt="" width="50" /> | 276 | 1 | 1 | Gracie Abrams | [🔗](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6f0263707e8448af7c91b1a9" alt="" width="50" /> | 403 | 1 | 1 | Bon Iver | [🔗](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6f0263707e8448af7c91b1a9" alt="" width="50" /> | 402 | 1 | 1 | Bon Iver | [🔗](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | 434 | 1 | 1 | Harry Chapin | [🔗](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) |
 | <img src="https://i.scdn.co/image/ab6772690000c46c50e750d1aed632c37a450ffb" alt="" width="50" /> | 434 | 1 | 1 | Duffy | [🔗](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb93d059c11c6744bf76ada1e3" alt="" width="50" /> | 434 | 1 | 1 | David Kushner | [🔗](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) |
@@ -56,7 +56,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb626686e362d30246e816cc5b" alt="" width="50" /> | 291 | 1 | 1 | Phoebe Bridgers | [🔗](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc7c93edb239b99c22a84bdd9" alt="" width="50" /> | 434 | 1 | 1 | Yebba | [🔗](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2de28cf0ee352873d006b927" alt="" width="50" /> | 434 | 1 | 1 | Melt | [🔗](https://open.spotify.com/artist/0G7KI9I5BApiXc5Sqpyil9) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | 375 | 2 | 0 | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="" width="50" /> | 376 | 2 | 0 | Fiona Apple | [🔗](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebea6c3263b9aeda33707faee5" alt="" width="50" /> | 434 | 2 | 0 | Carole King | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0fc36bf238892c4619046bce" alt="" width="50" /> | 434 | 1 | 0 | Rachael Yamagata | [🔗](https://open.spotify.com/artist/7w0qj2HiAPIeUcoPogvOZ6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb01e793c12d7ae5e68cc3acad" alt="" width="50" /> | 434 | 1 | 0 | Emily King | [🔗](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) |
@@ -82,16 +82,16 @@
 
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 256 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="Vows (Deluxe Version)" width="50" /> | [Settle Down](../../artists/kimbra/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY" width="50" /> | [So Long, London](../../artists/taylor_swift/overview.md) |
-| 276 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Machine Gun](../../artists/sara_bareilles/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273e79dc1438d650f426b5e99a7" alt="Blue" width="50" /> | [A Case of You](../../artists/joni_mitchell/overview.md) |
-| 323 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="The Stranger (Legacy Edition)" width="50" /> | [Vienna](../../artists/billy_joel/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="Vows (Deluxe Version)" width="50" /> | [Two Way Street](../../artists/kimbra/overview.md) |
-| 337 | <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="The Good Life" width="50" /> | [Talk It Up](../../artists/sammy_rae___the_friends/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="Speak for Yourself" width="50" /> | [Hide and Seek](../../artists/imogen_heap/overview.md) |
-| 367 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Between the Lines](../../artists/sara_bareilles/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Uncharted](../../artists/sara_bareilles/overview.md) |
-| 383 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Many the Miles](../../artists/sara_bareilles/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="Norman Fucking Rockwell!" width="50" /> | [Fuck it I love you](../../artists/lana_del_rey/overview.md) |
-| 418 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Fairytale](../../artists/sara_bareilles/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [peace](../../artists/taylor_swift/overview.md) |
-| 421 | <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> | Your Song | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="Midnights" width="50" /> | [Karma](../../artists/taylor_swift/overview.md) |
+| 261 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="Vows (Deluxe Version)" width="50" /> | [Settle Down](../../artists/kimbra/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY" width="50" /> | [So Long, London](../../artists/taylor_swift/overview.md) |
+| 277 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Machine Gun](../../artists/sara_bareilles/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273e79dc1438d650f426b5e99a7" alt="Blue" width="50" /> | [A Case of You](../../artists/joni_mitchell/overview.md) |
+| 324 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="The Stranger (Legacy Edition)" width="50" /> | [Vienna](../../artists/billy_joel/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="Vows (Deluxe Version)" width="50" /> | [Two Way Street](../../artists/kimbra/overview.md) |
+| 340 | <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="The Good Life" width="50" /> | [Talk It Up](../../artists/sammy_rae___the_friends/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="Speak for Yourself" width="50" /> | [Hide and Seek](../../artists/imogen_heap/overview.md) |
+| 368 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Between the Lines](../../artists/sara_bareilles/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="Kaleidoscope Heart" width="50" /> | [Uncharted](../../artists/sara_bareilles/overview.md) |
+| 386 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Many the Miles](../../artists/sara_bareilles/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="Norman Fucking Rockwell!" width="50" /> | [Fuck it I love you](../../artists/lana_del_rey/overview.md) |
+| 421 | <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="Little Voice" width="50" /> | [Fairytale](../../artists/sara_bareilles/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="folklore" width="50" /> | [peace](../../artists/taylor_swift/overview.md) |
+| 424 | <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="Elton John" width="50" /> | Your Song | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="Midnights" width="50" /> | [Karma](../../artists/taylor_swift/overview.md) |
 | 447 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="The Stranger (Legacy Edition)" width="50" /> | [Movin' Out (Anthony's Song)](../../artists/billy_joel/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Once Upon Another Time](../../artists/sara_bareilles/overview.md) |
-| 488 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Lie To Me](../../artists/sara_bareilles/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2734280a158a96c9b0274eb7e99" alt="Love, Save The Empty" width="50" /> | Bobble Head |
+| 487 | <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="Once Upon Another Time" width="50" /> | [Lie To Me](../../artists/sara_bareilles/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2734280a158a96c9b0274eb7e99" alt="Love, Save The Empty" width="50" /> | Bobble Head |
 
 </details>
 
@@ -102,15 +102,15 @@
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fa3caf3da101e3cd28a53a6" alt="" width="50" /> | 194 | 13 | 10 | Kaleidoscope Heart | 2010-09-07 | [🔗](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | 273 | 12 | 12 | The Blessed Unrest | 2013-07-16 | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | 186 | 12 | 8 | Little Voice | 2007-07-03 | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | 340 | 10 | 9 | reputation | 2017-11-10 | [🔗](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273022b4010e20659300f42c375" alt="" width="50" /> | 277 | 12 | 12 | The Blessed Unrest | 2013-07-16 | [🔗](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c3e0a58f3ee28af2922e351" alt="" width="50" /> | 188 | 12 | 8 | Little Voice | 2007-07-03 | [🔗](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | 342 | 10 | 9 | reputation | 2017-11-10 | [🔗](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | 606 | 10 | 6 | folklore | 2020-07-24 | [🔗](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7dad80eb4bb664ff9e6fc8" alt="" width="50" /> | 506 | 10 | 6 | Amidst the Chaos (Bonus Version) | 2019-05-10 | [🔗](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | 665 | 10 | 5 | Midnights | 2022-10-21 | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | 665 | 8 | 7 | 1989 | 2014-10-27 | [🔗](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | 598 | 8 | 6 | Lover | 2019-08-23 | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | 187 | 7 | 7 | Vows (Deluxe Version) | 2011 | [🔗](https://open.spotify.com/album/6V9rvW05Um5bIHePPfeI8p) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0ec2db731952a7efabc6397" alt="" width="50" /> | 189 | 7 | 7 | Vows (Deluxe Version) | 2011 | [🔗](https://open.spotify.com/album/6V9rvW05Um5bIHePPfeI8p) |
 
 
 <details>
@@ -120,21 +120,21 @@
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | 193 | 7 | 7 | The Stranger (Legacy Edition) | 1977 | [🔗](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734280a158a96c9b0274eb7e99" alt="" width="50" /> | 644 | 7 | 3 | Love, Save The Empty | 2009 | [🔗](https://open.spotify.com/album/1tF7625TFqvfzMbappj1pQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | 272 | 6 | 6 | Born To Die | 2012-01-30 | [🔗](https://open.spotify.com/album/4X8hAqIWpQyQks2yRhyqs4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | 275 | 6 | 6 | Born To Die | 2012-01-30 | [🔗](https://open.spotify.com/album/4X8hAqIWpQyQks2yRhyqs4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | 632 | 6 | 3 | Red | 2012-10-22 | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | 388 | 6 | 2 | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | 2024-04-19 | [🔗](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | 389 | 6 | 2 | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | 2024-04-19 | [🔗](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737acf0cb659dceb25ddbfd39a" alt="" width="50" /> | 665 | 6 | 1 | What's Inside: Songs from Waitress | 2015-11-06 | [🔗](https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | 343 | 5 | 5 | Once Upon Another Time | 2012-05-22 | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cb638deee3de9a9060ca6aa" alt="" width="50" /> | 345 | 5 | 5 | Once Upon Another Time | 2012-05-22 | [🔗](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | 643 | 4 | 3 | Ellipse | 2009-08-25 | [🔗](https://open.spotify.com/album/5AYKGPzPBJNHeKehCxMaq0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273156f329b3c2b3ce752d9e614" alt="" width="50" /> | 665 | 4 | 3 | Beatrix Runs | 2012 | [🔗](https://open.spotify.com/album/7HsPaYQbCYnxosF5WiSlEA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="" width="50" /> | 665 | 3 | 3 | Speak for Yourself | 2005-07-18 | [🔗](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d81f491319b86356eb10c4e" alt="" width="50" /> | 665 | 3 | 3 | Begin to Hope | 2006-06-13 | [🔗](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | 665 | 3 | 2 | evermore | 2020-12-11 | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="" width="50" /> | 242 | 3 | 2 | The Good Life | 2018-07-10 | [🔗](https://open.spotify.com/album/4s1igjt5YJe7s7BdCeX3DX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="" width="50" /> | 243 | 3 | 2 | The Good Life | 2018-07-10 | [🔗](https://open.spotify.com/album/4s1igjt5YJe7s7BdCeX3DX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273119ad2ebc0d33edf847ed8c6" alt="" width="50" /> | 653 | 3 | 2 | One Cell In The Sea | 2007 | [🔗](https://open.spotify.com/album/0Ot7MEgreG2R93aN42M9iK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e7b8e0abcd5cdc4c8b5a238c" alt="" width="50" /> | 421 | 3 | 2 | Bomb In A Birdcage | 2009-01-01 | [🔗](https://open.spotify.com/album/07IV5RxLvAUeZbcPm4zOzn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e7b8e0abcd5cdc4c8b5a238c" alt="" width="50" /> | 422 | 3 | 2 | Bomb In A Birdcage | 2009-01-01 | [🔗](https://open.spotify.com/album/07IV5RxLvAUeZbcPm4zOzn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e79dc1438d650f426b5e99a7" alt="" width="50" /> | 665 | 3 | 2 | Blue | 1971-06-22 | [🔗](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | 351 | 3 | 1 | Ultraviolence (Deluxe) | 2014-01-01 | [🔗](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | 354 | 3 | 1 | Ultraviolence (Deluxe) | 2014-01-01 | [🔗](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="" width="50" /> | 605 | 3 | 1 | Song to a Seagull | 1968-03-01 | [🔗](https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730e402844f1b6be3102d339f2" alt="" width="50" /> | 665 | 3 | 1 | Lemon Love | 2005-01-01 | [🔗](https://open.spotify.com/album/5YToJrWwzdA6W2NxxDoteE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | 665 | 3 | 0 | Norman Fucking Rockwell! | 2019-08-30 | [🔗](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) |
@@ -151,7 +151,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b" alt="" width="50" /> | 665 | 2 | 1 | Goodbye Yellow Brick Road (Remastered) | 1973-10-05 | [🔗](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323350feac07f56d8b96f33d5" alt="" width="50" /> | 665 | 2 | 0 | Tapestry | 1971 | [🔗](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015" alt="" width="50" /> | 665 | 2 | 0 | Speak Now | 2010-10-25 | [🔗](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="" width="50" /> | 354 | 1 | 1 | minor | 2020-07-14 | [🔗](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="" width="50" /> | 356 | 1 | 1 | minor | 2020-07-14 | [🔗](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27351180adb687f6b58c91c7553" alt="" width="50" /> | 665 | 1 | 1 | i'm confident that i'm insecure | 2023-08-11 | [🔗](https://open.spotify.com/album/3BOQyggLEixg4CLYgheD3X) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c330e261afcd6e0ae256f3aa" alt="" width="50" /> | 665 | 1 | 1 | color theory | 2020-02-28 | [🔗](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27332721a41a57bb9e56f46ac82" alt="" width="50" /> | 665 | 1 | 1 | Waves | 2020-10-09 | [🔗](https://open.spotify.com/album/4J4lVYyekfRZXTlAukqGw4) |
@@ -176,17 +176,17 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9ac0521e0b38851c51d29c5" alt="" width="50" /> | 665 | 1 | 1 | Nomads · Indians · Saints (Expanded Edition) | 1990-09-21 | [🔗](https://open.spotify.com/album/1KpKdn4HLsD9OAN6GEYAIb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b80ea8399313aeffb10b0acb" alt="" width="50" /> | 665 | 1 | 1 | Ladies of the Canyon | 1970-03-01 | [🔗](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c66d628abf2dcaadf3f3940" alt="" width="50" /> | 665 | 1 | 1 | Greatest Hits Vol. III | 1997-06-13 | [🔗](https://open.spotify.com/album/3cJ6ZymbUcNGe1T8YZtGyE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7" alt="" width="50" /> | 353 | 1 | 1 | Good Luck, Babe! | 2024-04-05 | [🔗](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7" alt="" width="50" /> | 355 | 1 | 1 | Good Luck, Babe! | 2024-04-05 | [🔗](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e374bccc9346fc196d0a6886" alt="" width="50" /> | 665 | 1 | 1 | Give Up The Ghost | 2009-10-05 | [🔗](https://open.spotify.com/album/1NhFksWs1Nsz6wQI8ysTkv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c8d5428b693308705e7caca" alt="" width="50" /> | 665 | 1 | 1 | Far | 2009-06-19 | [🔗](https://open.spotify.com/album/5t0lQDPLF22wmWCtSZkIVv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="" width="50" /> | 298 | 1 | 1 | Elton John | 1970-04-10 | [🔗](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="" width="50" /> | 300 | 1 | 1 | Elton John | 1970-04-10 | [🔗](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732fa478d357cac0fd0407643f" alt="" width="50" /> | 665 | 1 | 1 | Days Are Gone | 2013-09-30 | [🔗](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395ca6a9b4083a86c149934ae" alt="" width="50" /> | 665 | 1 | 1 | Daylight | 2023-04-14 | [🔗](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739569f3e5cca8dce07cc7e5a7" alt="" width="50" /> | 665 | 1 | 1 | Court and Spark | 1974-01-17 | [🔗](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732331c39d60075168f035accf" alt="" width="50" /> | 665 | 1 | 1 | Colors | 2016-10-06 | [🔗](https://open.spotify.com/album/419WgjPNItZIDgjd1GSgrO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733661c01b54e181d01bd439a1" alt="" width="50" /> | 665 | 1 | 1 | Birdy | 2011-11-04 | [🔗](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f5aac98410fb9e64e29827d4" alt="" width="50" /> | 665 | 1 | 1 | Bear Creek | 2012-06-04 | [🔗](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731e0c865c1524f1bfeea88d87" alt="" width="50" /> | 575 | 1 | 1 | Always Like New | 2021-06-25 | [🔗](https://open.spotify.com/album/1mDOfTvqqstiKHpmjNjYdU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731e0c865c1524f1bfeea88d87" alt="" width="50" /> | 576 | 1 | 1 | Always Like New | 2021-06-25 | [🔗](https://open.spotify.com/album/1mDOfTvqqstiKHpmjNjYdU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="50" /> | 665 | 1 | 0 | Young And Beautiful | 2013-01-01 | [🔗](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736646e03c0ee350a175ab6d5b" alt="" width="50" /> | 665 | 1 | 0 | Whatever We Feel | 2020-04-03 | [🔗](https://open.spotify.com/album/4Qcemk272gcxq9D6ca40Xz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b254ca0983d65ede8e3d2f7a" alt="" width="50" /> | 665 | 1 | 0 | Tidal | 1996-07-23 | [🔗](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) |

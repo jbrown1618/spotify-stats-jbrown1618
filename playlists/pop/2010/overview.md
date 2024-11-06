@@ -73,7 +73,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | Grenade | Doo-Wops & Hooligans | [Bruno Mars](../../../artists/bruno_mars/overview.md) | [Atlantic Records](../../../labels/atlantic_records) | 955 | 💚 | [🔗](https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | Grenade | Doo-Wops & Hooligans | [Bruno Mars](../../../artists/bruno_mars/overview.md) | [Atlantic Records](../../../labels/atlantic_records) | 957 | 💚 | [🔗](https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce70cb2d7063cf869f9f1239" alt="" width="50" /> | Moves Like Jagger - Studio Recording From "The Voice" Performance | Hands All Over | [Maroon 5](../../../artists/maroon_5/overview.md), Christina Aguilera | [Interscope Records*](../../../labels/interscope_records) | 1015 | | [🔗](https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386498c6e8ee965fa665a9c3d" alt="" width="50" /> | Misery | Hands All Over (Deluxe) | [Maroon 5](../../../artists/maroon_5/overview.md) | [Interscope Records*](../../../labels/interscope_records) | 1015 | 💚 | [🔗](https://open.spotify.com/track/6KBYk8OFtod7brGuZ3Y67q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a6339d6ddfd579f77559b3c" alt="" width="50" /> | TiK ToK | Animal (Expanded Edition) | Kesha | [RCA Records Label](../../../labels/rca_records_label) | 1015 | 💚 | [🔗](https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i) |

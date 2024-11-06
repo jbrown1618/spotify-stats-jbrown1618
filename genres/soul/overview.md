@@ -11,9 +11,9 @@
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb997cc9a4aec335d46c9481fd" alt="" width="50" /> | 192 | 8 | 5 | [Michael Jackson](../../artists/michael_jackson/overview.md) | [🔗](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) |
-| <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | 174 | 5 | 4 | Stevie Wonder | [🔗](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) |
+| <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | 175 | 5 | 4 | Stevie Wonder | [🔗](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) |
 | <img src="https://i.scdn.co/image/ab6772690000c46c4a0e9d5e55f9f3721c3243c5" alt="" width="50" /> | 281 | 7 | 3 | Louis Armstrong | [🔗](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb058531dfd9746a96ad85265f" alt="" width="50" /> | 372 | 3 | 3 | Etta James | [🔗](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb058531dfd9746a96ad85265f" alt="" width="50" /> | 371 | 3 | 3 | Etta James | [🔗](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) |
 | <img src="https://i.scdn.co/image/3c1d23141059785c8a863137d176319329dc17ef" alt="" width="50" /> | 239 | 5 | 2 | Ella Fitzgerald | [🔗](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebff60abd43fbf5343aac9cd7a" alt="" width="50" /> | 251 | 5 | 1 | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
 | <img src="https://i.scdn.co/image/19f768d93f6c80f7d4ca5b906e1c0376a3704389" alt="" width="50" /> | 214 | 5 | 1 | The Jackson 5 | [🔗](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) |
@@ -55,14 +55,14 @@
 ## Most and least listened tracks
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 450 | <img src="https://i.scdn.co/image/ab67616d0000b27330dc6027fd140c7ba68e900c" alt="The Christmas Song (Expanded Edition)" width="50" /> | The Christmas Song (Merry Christmas To You) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2739173e50e99bdea2400222f02" alt="United" width="50" /> | Ain't No Mountain High Enough |
-| 477 | <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="Billie Holiday" width="50" /> | I'll Be Seeing You | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="I Never Loved a Man the Way I Love You" width="50" /> | Respect |
-| 556 | <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="The Great American Songbook" width="50" /> | Mack the Knife | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The &#x27;70s, &#x27;80s, &#x27;90s" width="50" /> | Papa Was A Rollin' Stone - Single Version |
-| 595 | <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="Solitude" width="50" /> | Blue Moon | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="Thriller" width="50" /> | [Billie Jean](../../artists/michael_jackson/overview.md) |
-| 811 | <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="At Last!" width="50" /> | Stormy Weather | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27388ab39d88260598e95ebf5f4" alt="Love, Ella" width="50" /> | Dream A Little Dream Of Me - Single Version |
-| 818 | <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="The Complete Ella And Louis On Verve" width="50" /> | Cheek To Cheek | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273b08f59c7648a7a67130ca0ea" alt="Greatest Hits" width="50" /> | Thank You (Falettinme Be Mice Elf Agin) - Single Version |
-| 837 | <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="The Definitive Collection" width="50" /> | Superstition - Single Version | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | My Girl |
-| 967 | <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="Ella: The Legendary Decca Recordings" width="50" /> | Baby It's Cold Outside | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="Songs In The Key Of Life" width="50" /> | Isn't She Lovely |
+| 451 | <img src="https://i.scdn.co/image/ab67616d0000b27330dc6027fd140c7ba68e900c" alt="The Christmas Song (Expanded Edition)" width="50" /> | The Christmas Song (Merry Christmas To You) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2739173e50e99bdea2400222f02" alt="United" width="50" /> | Ain't No Mountain High Enough |
+| 478 | <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="Billie Holiday" width="50" /> | I'll Be Seeing You | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="I Never Loved a Man the Way I Love You" width="50" /> | Respect |
+| 559 | <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="The Great American Songbook" width="50" /> | Mack the Knife | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The &#x27;70s, &#x27;80s, &#x27;90s" width="50" /> | Papa Was A Rollin' Stone - Single Version |
+| 596 | <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="Solitude" width="50" /> | Blue Moon | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="Thriller" width="50" /> | [Billie Jean](../../artists/michael_jackson/overview.md) |
+| 815 | <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="At Last!" width="50" /> | Stormy Weather | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27388ab39d88260598e95ebf5f4" alt="Love, Ella" width="50" /> | Dream A Little Dream Of Me - Single Version |
+| 821 | <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="The Complete Ella And Louis On Verve" width="50" /> | Cheek To Cheek | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273b08f59c7648a7a67130ca0ea" alt="Greatest Hits" width="50" /> | Thank You (Falettinme Be Mice Elf Agin) - Single Version |
+| 838 | <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="The Definitive Collection" width="50" /> | Superstition - Single Version | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="The Temptations Sing Smokey" width="50" /> | My Girl |
+| 972 | <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="Ella: The Legendary Decca Recordings" width="50" /> | Baby It's Cold Outside | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50" alt="Songs In The Key Of Life" width="50" /> | Isn't She Lovely |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f" alt="Star Time" width="50" /> | Papa's Got A Brand New Bag | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="Romance" width="50" /> | L-O-V-E - 2000 Remaster |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="Ella: The Legendary Decca Recordings" width="50" /> | Dream A Little Dream Of Me | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2739df68560791d0b3dab491867" alt="ABC" width="50" /> | ABC |
 
@@ -71,7 +71,7 @@
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97" alt="" width="50" /> | 665 | 5 | 4 | Thriller | 1982-11-30 | [🔗](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="" width="50" /> | 538 | 2 | 2 | At Last! | 1960 | [🔗](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="" width="50" /> | 536 | 2 | 2 | At Last! | 1960 | [🔗](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273845a5660b804e5f3e821fbed" alt="" width="50" /> | 665 | 2 | 1 | What A Wonderful World | 1968-01-01 | [🔗](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f" alt="" width="50" /> | 665 | 2 | 1 | Star Time | 1991-01-01 | [🔗](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="" width="50" /> | 635 | 2 | 1 | Ella: The Legendary Decca Recordings | 1995-08-29 | [🔗](https://open.spotify.com/album/0G5ZHFj5VmvIWEAuF8NEIT) |
@@ -88,7 +88,7 @@
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | 665 | 1 | 1 | The Nat King Cole Story | 1961-09-25 | [🔗](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="" width="50" /> | 553 | 1 | 1 | The Definitive Collection | 2002-10-29 | [🔗](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="" width="50" /> | 555 | 1 | 1 | The Definitive Collection | 2002-10-29 | [🔗](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27330bb42e5271f2e046fd36972" alt="" width="50" /> | 665 | 1 | 1 | That's The Way Of The World | 1975-03-15 | [🔗](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="" width="50" /> | 665 | 1 | 1 | Tell Mama | 1968-04-18 | [🔗](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317f9e7e7784ed40b223e261c" alt="" width="50" /> | 665 | 1 | 1 | Street Songs (Deluxe Edition) | 1981-04-07 | [🔗](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) |
@@ -106,10 +106,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="" width="50" /> | 665 | 1 | 0 | Unforgettable | 1954-01-01 | [🔗](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27320112a0321d2efc7384db456" alt="" width="50" /> | 665 | 1 | 0 | Third Album | 1970-09-08 | [🔗](https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5758ffb1632e086776cf14d" alt="" width="50" /> | 665 | 1 | 0 | The Princess and the Frog (Original Motion Picture Soundtrack) | 2009-11-23 | [🔗](https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="" width="50" /> | 384 | 1 | 0 | The Great American Songbook | 1929 | [🔗](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="" width="50" /> | 542 | 1 | 0 | The Complete Ella And Louis On Verve | 1997-05-20 | [🔗](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27330dc6027fd140c7ba68e900c" alt="" width="50" /> | 317 | 1 | 0 | The Christmas Song (Expanded Edition) | 1962 | [🔗](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="" width="50" /> | 404 | 1 | 0 | Solitude | 1956-01-01 | [🔗](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="" width="50" /> | 385 | 1 | 0 | The Great American Songbook | 1929 | [🔗](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="" width="50" /> | 543 | 1 | 0 | The Complete Ella And Louis On Verve | 1997-05-20 | [🔗](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27330dc6027fd140c7ba68e900c" alt="" width="50" /> | 318 | 1 | 0 | The Christmas Song (Expanded Edition) | 1962 | [🔗](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="" width="50" /> | 406 | 1 | 0 | Solitude | 1956-01-01 | [🔗](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd1ea8639de6d3f827fba218" alt="" width="50" /> | 665 | 1 | 0 | Satchmo Serenades | 1952-04-01 | [🔗](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="" width="50" /> | 665 | 1 | 0 | Romance | 2021-02-12 | [🔗](https://open.spotify.com/album/5MuNxtOyex8o77Qdjaqeng) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac" alt="" width="50" /> | 665 | 1 | 0 | Off the Wall | 1979-08-10 | [🔗](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) |
@@ -126,7 +126,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27356849c42c652a7e4025fd6eb" alt="" width="50" /> | 665 | 1 | 0 | Ella Wishes You A Swinging Christmas (Expanded Edition) | 1960-01-01 | [🔗](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731813ea8f590a0aab2820f922" alt="" width="50" /> | 665 | 1 | 0 | Don't Play That Song (Mono) | 1962-08-20 | [🔗](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27308a0fe33e91b991d2c9c9cde" alt="" width="50" /> | 665 | 1 | 0 | Christmas Album | 1970-10-15 | [🔗](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="" width="50" /> | 336 | 1 | 0 | Billie Holiday | 1957-01-01 | [🔗](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="" width="50" /> | 337 | 1 | 0 | Billie Holiday | 1957-01-01 | [🔗](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739df68560791d0b3dab491867" alt="" width="50" /> | 665 | 1 | 0 | ABC | 1970-05-08 | [🔗](https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dabb260cf41a2fbb2c842787" alt="" width="50" /> | 665 | 1 | 0 | 20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s | 2000-01-11 | [🔗](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) |
 

@@ -40,7 +40,7 @@
 
 | ​ | 10 most Speechy tracks | ​​ | 10 least Speechy tracks |
 |:---|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b53a1f7473bda51dedbab579" alt="J - The 1st Album" width="50" /> | Smoke (0.377) | <img src="https://i.scdn.co/image/ab67616d0000b273d50021be5057d0f399f38950" alt="Love Tune" width="50" /> | SOS (0.0304) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b53a1f7473bda51dedbab579" alt="J - The 1st Album" width="50" /> | Smoke (0.377) | <img src="https://i.scdn.co/image/ab67616d0000b273413f2055f1eab2601b0355e1" alt="Love Tune" width="50" /> | SOS (0.0304) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bdd7e53da67e71769c89822" alt="CURIOUS" width="50" /> | Curious (0.306) | <img src="https://i.scdn.co/image/ab67616d0000b273211dd4f1141b597f5f1c2ac9" alt="FEIFEI" width="50" /> | FEIFEI (0.0331) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c9c9aaadb2d6d3d44be06332" alt="Fe3O4: STICK OUT" width="50" /> | Red light sign, but we go (0.279) | <img src="https://i.scdn.co/image/ab67616d0000b273c9c9aaadb2d6d3d44be06332" alt="Fe3O4: STICK OUT" width="50" /> | Love Is Lonely (0.0337) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c451a4f06288da6edf050c1" alt="New Woman (feat. ROSALÍA)" width="50" /> | New Woman (feat. ROSALÍA) (0.275) | <img src="https://i.scdn.co/image/ab67616d0000b2731be74ecf7c58d22c00eea468" alt="[VirtuouS]" width="50" /> | 2 Rings (0.0341) |
@@ -76,7 +76,7 @@
 |:---|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb604294f8f58c9078f58b1" alt="Whiplash - The 5th Mini Album" width="50" /> | Whiplash (0.0212) | <img src="https://i.scdn.co/image/ab67616d0000b273dd734636e6d28fdc528a839d" alt="GOLD" width="50" /> | Imaginary Friend (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273253096eda3b7826c11c7fab8" alt="SYNK : PARALLEL LINE - Special Digital Single" width="50" /> | Spark - WINTER Solo (0.0102) | <img src="https://i.scdn.co/image/ab67616d0000b27351700837cdbc6adddb88560a" alt="ATE" width="50" /> | Chk Chk Boom (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d50021be5057d0f399f38950" alt="Love Tune" width="50" /> | SOS (0.00101) | <img src="https://i.scdn.co/image/ab67616d0000b2732bdd7e53da67e71769c89822" alt="CURIOUS" width="50" /> | Curious (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273413f2055f1eab2601b0355e1" alt="Love Tune" width="50" /> | SOS (0.00101) | <img src="https://i.scdn.co/image/ab67616d0000b2732bdd7e53da67e71769c89822" alt="CURIOUS" width="50" /> | Curious (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273485623bc41b6760fc1bca2f4" alt="CRAZY" width="50" /> | CRAZY (0.000291) | <img src="https://i.scdn.co/image/ab67616d0000b2736f14ea4d646d486d61344ffd" alt="Retro Romance" width="50" /> | Retro Romance (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273979cf803b9d85291a17882ef" alt="Hot Mess" width="50" /> | Hot Mess (6.3e-05) | <img src="https://i.scdn.co/image/ab67616d0000b273dd734636e6d28fdc528a839d" alt="GOLD" width="50" /> | Bad Girls R Us (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a3775761df7db97cf6699e41" alt="Mantra" width="50" /> | Mantra (1.15e-05) | <img src="https://i.scdn.co/image/ab67616d0000b2736652c7af6f96d2126e49a9a7" alt="Hello, World - The 4th Mini Album" width="50" /> | Pineapple Slice (0.0) |

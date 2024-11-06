@@ -14,7 +14,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc698d53b77db34027b00f853" alt="" width="50" /> | 434 | 18 | 0 | Disney | [🔗](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) |
 | <img src="https://i.scdn.co/image/191d9c926a51e6d0abc49b7416689b52a2662efc" alt="" width="50" /> | 253 | 5 | 0 | Lea Salonga | [🔗](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736b59fdeebe247885983d6dcf" alt="" width="50" /> | 434 | 4 | 0 | Judy Kuhn | [🔗](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb163f66fedf73f7d1759cea61" alt="" width="50" /> | 348 | 4 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb163f66fedf73f7d1759cea61" alt="" width="50" /> | 349 | 4 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
 | | 434 | 3 | 0 | Beth Fowler | [🔗](https://open.spotify.com/artist/7KNW6OwcA260MsaEtnvhxV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27314dd049936f9d42787c8128d" alt="" width="50" /> | 434 | 3 | 0 | Tony Jay | [🔗](https://open.spotify.com/artist/5qQpn0ZokyamZjyKtkKUYD) |
 | | 434 | 3 | 0 | Chorus - The Hunchback Of Notre Dame | [🔗](https://open.spotify.com/artist/5oHSxqr1uDloCbJJPNBd6T) |
@@ -124,7 +124,7 @@
 ## Most and least listened tracks
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 708 | <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> | Baby It's Cold Outside (with Michael Bublé) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="The Little Mermaid Special Edition" width="50" /> | Poor Unfortunate Souls |
+| 709 | <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> | Baby It's Cold Outside (with Michael Bublé) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="The Little Mermaid Special Edition" width="50" /> | Poor Unfortunate Souls |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="Beauty And The Beast: The Broadway Musical" width="50" /> | Beauty and the Beast | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="The Little Mermaid Special Edition" width="50" /> | Part of Your World |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273f6a713be4f418307ab7ffaf4" alt="Hercules (Original Motion Picture Soundtrack)" width="50" /> | Go the Distance | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="The Jungle Book" width="50" /> | The Bare Necessities |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="The Lion King" width="50" /> | Circle of Life | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273a45790b93f47d427a2aefa9d" alt="The Hunchback Of Notre Dame (Original Motion Picture Soundtrack)" width="50" /> | Out There |

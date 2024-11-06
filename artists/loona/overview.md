@@ -39,7 +39,7 @@ LOONA:
 | <img src="https://i.scdn.co/image/ab67616d0000b273619b758232a962e9ddf45f97" alt="" width="50" /> | 665 | 2 | 1 | [12:00] | 2020-10-19 | [🔗](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735fe0013ebb4022adc0f042be" alt="" width="50" /> | 665 | 2 | 1 | Summer Special [Flip That] | 2022-06-20 | [🔗](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273608cf05fbd3605c77444917f" alt="" width="50" /> | 665 | 1 | 1 | [&] | 2021-06-28 | [🔗](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c985aeaeccb1db38dddf2986" alt="" width="50" /> | 217 | 1 | 1 | [#] | 2020-02-05 | [🔗](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c985aeaeccb1db38dddf2986" alt="" width="50" /> | 219 | 1 | 1 | [#] | 2020-02-05 | [🔗](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f7c1a61a2d58eae2a3e1487" alt="" width="50" /> | 665 | 1 | 1 | YeoJin | 2017-01-16 | [🔗](https://open.spotify.com/album/0AdyZlYZJ852kcSTOhVkyi) |
 
 ## Featured on Playlists
@@ -112,7 +112,7 @@ LOONA:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c985aeaeccb1db38dddf2986" alt="" width="50" /> | So What | [#] | [LOONA](overview.md) | BlockBerryCreative | 301 | 💚 | [🔗](https://open.spotify.com/track/1ry2mTVmAJHbNLzl5qww5v) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c985aeaeccb1db38dddf2986" alt="" width="50" /> | So What | [#] | [LOONA](overview.md) | BlockBerryCreative | 304 | 💚 | [🔗](https://open.spotify.com/track/1ry2mTVmAJHbNLzl5qww5v) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f7c1a61a2d58eae2a3e1487" alt="" width="50" /> | Kiss Later (YeoJin) | YeoJin | [LOONA](overview.md) | BlockberryCreative | 1015 | 💚 | [🔗](https://open.spotify.com/track/6WLfBd2KFL8iuU57qy9HqI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273619b758232a962e9ddf45f97" alt="" width="50" /> | Star | [12:00] | [LOONA](overview.md) | BlockBerryCreative | 1015 | | [🔗](https://open.spotify.com/track/4wGt2KmqMQ7LC5bqPi51sf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273619b758232a962e9ddf45f97" alt="" width="50" /> | Why Not? | [12:00] | [LOONA](overview.md) | BlockBerryCreative | 1015 | 💚 | [🔗](https://open.spotify.com/track/6yGQ86UppYULzTCxAWgwVN) |

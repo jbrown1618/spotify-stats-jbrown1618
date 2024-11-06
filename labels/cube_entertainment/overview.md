@@ -22,7 +22,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb569026949c9d74d8448c6559" alt="" width="50" /> | 65 | 3 | 3 | [YUQI](../../artists/yuqi/overview.md) | [🔗](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) |
 | <img src="https://i.scdn.co/image/621c729dd90a6e7a63fc8f0957b2b928834ec5a8" alt="" width="50" /> | 131 | 2 | 2 | 4Minute | [🔗](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcca1f211b37c5be8b675c949" alt="" width="50" /> | 28 | 2 | 1 | [JEON SOYEON](../../artists/jeon_soyeon/overview.md) | [🔗](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9ec01c462c51ab9c67572abe" alt="" width="50" /> | 98 | 1 | 1 | Lexie Liu | [🔗](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9ec01c462c51ab9c67572abe" alt="" width="50" /> | 97 | 1 | 1 | Lexie Liu | [🔗](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ef6b9310f4cef9d603fa8873" alt="" width="50" /> | 434 | 1 | 1 | Trouble Maker | [🔗](https://open.spotify.com/artist/0ztjVBmFk6OuHq6XBBwMI9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb091c34da2d67e72099260882" alt="" width="50" /> | 434 | 2 | 0 | HyunA | [🔗](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb09336dcd62a6e91e49e0a0f4" alt="" width="50" /> | 434 | 2 | 0 | BTOB | [🔗](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) |
@@ -33,7 +33,7 @@ Appears as:
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb34f22b2f6b71c827c40606a9" alt="" width="50" /> | 398 | 1 | 0 | Hui | [🔗](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb34f22b2f6b71c827c40606a9" alt="" width="50" /> | 397 | 1 | 0 | Hui | [🔗](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb080109ba641204f8c80d2b5e" alt="" width="50" /> | 434 | 1 | 0 | Beast | [🔗](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) |
 
 </details>
@@ -45,16 +45,16 @@ Appears as:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | 170 | 7 | 5 | I NEVER DIE | 2022-03-14 | [🔗](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | 171 | 7 | 5 | I NEVER DIE | 2022-03-14 | [🔗](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | 57 | 6 | 5 | 2 | 2024-01-29 | [🔗](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | 94 | 5 | 4 | I love | 2022-10-17 | [🔗](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | 104 | 3 | 3 | YUQ1 | 2024-04-23 | [🔗](https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | 435 | 3 | 3 | IN:VITE U | 2022-01-24 | [🔗](https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | 436 | 3 | 3 | IN:VITE U | 2022-01-24 | [🔗](https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | 95 | 3 | 3 | I feel | 2023-05-15 | [🔗](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730cbf8dc7b194aa11242ec3a7" alt="" width="50" /> | 84 | 3 | 2 | HEAT | 2023-10-04 | [🔗](https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f78670dcb7eb6f7a4405d4" alt="" width="50" /> | 41 | 3 | 1 | I am | 2018-05-02 | [🔗](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | 277 | 2 | 2 | I made | 2019-02-26 | [🔗](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | 517 | 2 | 1 | No.1 | 2019-01-30 | [🔗](https://open.spotify.com/album/6xSUUpa9LBZYwJFMJOr8M6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | 282 | 2 | 2 | I made | 2019-02-26 | [🔗](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | 519 | 2 | 1 | No.1 | 2019-01-30 | [🔗](https://open.spotify.com/album/6xSUUpa9LBZYwJFMJOr8M6) |
 
 
 <details>
@@ -65,9 +65,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ef6b9310f4cef9d603fa8873" alt="" width="50" /> | 665 | 1 | 1 | Trouble Maker | 2011-12-01 | [🔗](https://open.spotify.com/album/130MEXfaPjOmSkE18F9rJm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e099e697d0068b652fe6814e" alt="" width="50" /> | 665 | 1 | 1 | Positive | 2018-04-02 | [🔗](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273276ccd3b144c9c0f9ba152b6" alt="" width="50" /> | 665 | 1 | 1 | Jelly | 2017-11-05 | [🔗](https://open.spotify.com/album/7iTA4T8A4tDU77Dt6y3f9m) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27366f7b6431ebb26c9b557a96b" alt="" width="50" /> | 218 | 1 | 1 | I SWAY | 2024-07-08 | [🔗](https://open.spotify.com/album/5WzUVTkKAvOayPui3DnsDz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27366f7b6431ebb26c9b557a96b" alt="" width="50" /> | 217 | 1 | 1 | I SWAY | 2024-07-08 | [🔗](https://open.spotify.com/album/5WzUVTkKAvOayPui3DnsDz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ace0e90dab0e51a4aec4f50a" alt="" width="50" /> | 665 | 1 | 1 | HANN (Alone) | 2018-08-14 | [🔗](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="" width="50" /> | 162 | 1 | 1 | Crazy | 2015-02-09 | [🔗](https://open.spotify.com/album/5ooERKclQluBVu00PIH9Xm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="" width="50" /> | 163 | 1 | 1 | Crazy | 2015-02-09 | [🔗](https://open.spotify.com/album/5ooERKclQluBVu00PIH9Xm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe5a77c6bd965bef349c6482" alt="" width="50" /> | 394 | 1 | 1 | CRYSTYLE | 2017-01-17 | [🔗](https://open.spotify.com/album/74VP5VvY2CISEqfEkH9Wuc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273467ea7cec7cd993340bc80be" alt="" width="50" /> | 665 | 1 | 1 | BLACK DRESS | 2018-02-22 | [🔗](https://open.spotify.com/album/3I3c4rkP6v5LtjMrgbD6d0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385155038f6eb09e2212d7094" alt="" width="50" /> | 665 | 1 | 1 | Act. 7 | 2016-02-01 | [🔗](https://open.spotify.com/album/2QGDdrZDuxK7VBmcJZxi1B) |
@@ -159,11 +159,11 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2730cbf8dc7b194aa11242ec3a7" alt="" width="50" /> | I Want That | HEAT | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [88rising Music](../88rising_music), [CUBE ENTERTAINMENT](.) | 99 | 💚 | [🔗](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | All Night | I feel | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 119 | 💚 | [🔗](https://open.spotify.com/track/1abAIeSQCbdPcxWgiwDOmL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Doll | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 126 | 💚 | [🔗](https://open.spotify.com/track/4C7PyWUlTLUUgVZQVboCma) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Nxde | I love | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 134 | 💚 | [🔗](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | On Clap | YUQ1 | [YUQI](../../artists/yuqi/overview.md), Lexie Liu | [Cube Entertainment](.) | 144 | 💚 | [🔗](https://open.spotify.com/track/2bRNKRk0sFlwEd7geduEpP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Change | I love | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 197 | 💚 | [🔗](https://open.spotify.com/track/6wXYyw7TBQlJ0qh3RNP8MD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="" width="50" /> | Crazy | Crazy | 4Minute | [CUBE ENTERTAINMENT](.) | 213 | 💚 | [🔗](https://open.spotify.com/track/5DZdCgnX9xAj59X6X7cQBs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | Red Rover | YUQ1 | [YUQI](../../artists/yuqi/overview.md) | [Cube Entertainment](.) | 229 | 💚 | [🔗](https://open.spotify.com/track/4TQBHR8LcbBUv0LvLmn54H) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Nxde | I love | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 132 | 💚 | [🔗](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | On Clap | YUQ1 | [YUQI](../../artists/yuqi/overview.md), Lexie Liu | [Cube Entertainment](.) | 142 | 💚 | [🔗](https://open.spotify.com/track/2bRNKRk0sFlwEd7geduEpP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | Change | I love | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 199 | 💚 | [🔗](https://open.spotify.com/track/6wXYyw7TBQlJ0qh3RNP8MD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738acb7bac073f378d59bf228e" alt="" width="50" /> | Crazy | Crazy | 4Minute | [CUBE ENTERTAINMENT](.) | 214 | 💚 | [🔗](https://open.spotify.com/track/5DZdCgnX9xAj59X6X7cQBs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | Red Rover | YUQ1 | [YUQI](../../artists/yuqi/overview.md) | [Cube Entertainment](.) | 230 | 💚 | [🔗](https://open.spotify.com/track/4TQBHR8LcbBUv0LvLmn54H) |
 
 
 <details>
@@ -171,20 +171,20 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Fate | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 234 | 💚 | [🔗](https://open.spotify.com/track/2vNPGH1x5ZwxTjlvzLCyc2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | TOMBOY | I NEVER DIE | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 236 | 💚 | [🔗](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27366f7b6431ebb26c9b557a96b" alt="" width="50" /> | Klaxon | I SWAY | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 302 | 💚 | [🔗](https://open.spotify.com/track/294hRgOqnGW2BemqP8D35X) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Lucid | I feel | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 325 | 💚 | [🔗](https://open.spotify.com/track/4fg42mtrSFuKQ9NYBboiiN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | Put It Straight | I made | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [CUBE ENTERTAINMENT](.) | 395 | 💚 | [🔗](https://open.spotify.com/track/2G0wbwTsTN0HJeQp3BDc4D) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Revenge | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 398 | 💚 | [🔗](https://open.spotify.com/track/3qWCIDzq2fBeCMNOL27XLX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | DARK (X-file) | I love | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 493 | 💚 | [🔗](https://open.spotify.com/track/4xc3JpkI8kxLwk1SJafjzh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Wife | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 561 | 💚 | [🔗](https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fe5a77c6bd965bef349c6482" alt="" width="50" /> | Hobgoblin | CRYSTYLE | [CLC](../../artists/clc/overview.md) | [CUBE ENTERTAINMENT](.) | 581 | 💚 | [🔗](https://open.spotify.com/track/2pSOUHBQXkN3fS2TAJHhfR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Rollie | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 623 | | [🔗](https://open.spotify.com/track/71E2JcSbv1abMaua23RBSV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | Sparkling Night | IN:VITE U | [PENTAGON](../../artists/pentagon/overview.md) | [Cube Entertainment](.) | 651 | 💚 | [🔗](https://open.spotify.com/track/5muXLxcyjv5RY2sGwl68TL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | VILLAIN DIES | I NEVER DIE | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 687 | 💚 | [🔗](https://open.spotify.com/track/6adPuBjUw3Zh6wK27d8Rgv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | Like It | No.1 | [CLC](../../artists/clc/overview.md) | [CUBE ENTERTAINMENT](.) | 781 | 💚 | [🔗](https://open.spotify.com/track/6ioP0snRYjhfWKNMMLKOde) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | FREAK | YUQ1 | [YUQI](../../artists/yuqi/overview.md) | [Cube Entertainment](.) | 861 | 💚 | [🔗](https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Fate | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 236 | 💚 | [🔗](https://open.spotify.com/track/2vNPGH1x5ZwxTjlvzLCyc2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | TOMBOY | I NEVER DIE | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 238 | 💚 | [🔗](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27366f7b6431ebb26c9b557a96b" alt="" width="50" /> | Klaxon | I SWAY | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 301 | 💚 | [🔗](https://open.spotify.com/track/294hRgOqnGW2BemqP8D35X) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616" alt="" width="50" /> | Lucid | I feel | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 326 | 💚 | [🔗](https://open.spotify.com/track/4fg42mtrSFuKQ9NYBboiiN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0673f1aa086b283c865817e" alt="" width="50" /> | Put It Straight | I made | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [CUBE ENTERTAINMENT](.) | 399 | 💚 | [🔗](https://open.spotify.com/track/2G0wbwTsTN0HJeQp3BDc4D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Revenge | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 401 | 💚 | [🔗](https://open.spotify.com/track/3qWCIDzq2fBeCMNOL27XLX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac815bdd584468a7aa0216e1" alt="" width="50" /> | DARK (X-file) | I love | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 495 | 💚 | [🔗](https://open.spotify.com/track/4xc3JpkI8kxLwk1SJafjzh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Wife | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 565 | 💚 | [🔗](https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fe5a77c6bd965bef349c6482" alt="" width="50" /> | Hobgoblin | CRYSTYLE | [CLC](../../artists/clc/overview.md) | [CUBE ENTERTAINMENT](.) | 583 | 💚 | [🔗](https://open.spotify.com/track/2pSOUHBQXkN3fS2TAJHhfR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Rollie | 2 | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 626 | | [🔗](https://open.spotify.com/track/71E2JcSbv1abMaua23RBSV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="" width="50" /> | Sparkling Night | IN:VITE U | [PENTAGON](../../artists/pentagon/overview.md) | [Cube Entertainment](.) | 653 | 💚 | [🔗](https://open.spotify.com/track/5muXLxcyjv5RY2sGwl68TL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c7b6b2976e38a802eebff046" alt="" width="50" /> | VILLAIN DIES | I NEVER DIE | [(G)I-DLE](../../artists/(g)i-dle/overview.md) | [Cube Entertainment](.) | 689 | 💚 | [🔗](https://open.spotify.com/track/6adPuBjUw3Zh6wK27d8Rgv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | Like It | No.1 | [CLC](../../artists/clc/overview.md) | [CUBE ENTERTAINMENT](.) | 784 | 💚 | [🔗](https://open.spotify.com/track/6ioP0snRYjhfWKNMMLKOde) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | FREAK | YUQ1 | [YUQI](../../artists/yuqi/overview.md) | [Cube Entertainment](.) | 862 | 💚 | [🔗](https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb58e97e2e4b1cac28d6ba23" alt="" width="50" /> | Hmm BOP | WHU IS ME : Complex | Hui | [Cube Entertainment](.) | 904 | | [🔗](https://open.spotify.com/track/02b8ldrByRJbFE5M71q34w) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c89d6d3da4431db2eb42acb2" alt="" width="50" /> | Fiction | Fiction And Fact | Beast | [CUBE ENTERTAINMENT](.) | 1015 | | [🔗](https://open.spotify.com/track/69QlYqNJeZG14R4an2aoJv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf83c1a01156fb93b564160" alt="" width="50" /> | Bubble Pop! | Bubble Pop! | HyunA | [CUBE Entertainment](.) | 1015 | | [🔗](https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU) |

@@ -30,13 +30,13 @@ Appears as:
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd910f1c80f8283f62540792b" alt="" width="50" /> | 34 | 43 | 16 | [Pentatonix](../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | 202 | 8 | 7 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | 203 | 8 | 7 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38" alt="" width="50" /> | 147 | 7 | 7 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7ed0386d30b59531eddd34ba" alt="" width="50" /> | 426 | 4 | 3 | [Imogen Heap](../../artists/imogen_heap/overview.md) | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7ed0386d30b59531eddd34ba" alt="" width="50" /> | 424 | 4 | 3 | [Imogen Heap](../../artists/imogen_heap/overview.md) | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1402fcb25db7c508972e172d" alt="" width="50" /> | 77 | 4 | 3 | RIIZE | [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | 204 | 3 | 3 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb426faee7010fa829bb527cfb" alt="" width="50" /> | 178 | 3 | 2 | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9b92bf32f4f9e42887f64c97" alt="" width="50" /> | 130 | 3 | 2 | Lolo Zouaï | [🔗](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb426faee7010fa829bb527cfb" alt="" width="50" /> | 170 | 3 | 2 | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9b92bf32f4f9e42887f64c97" alt="" width="50" /> | 126 | 3 | 2 | Lolo Zouaï | [🔗](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588" alt="" width="50" /> | 395 | 3 | 2 | P!nk | [🔗](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089" alt="" width="50" /> | 180 | 3 | 2 | The Strokes | [🔗](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) |
 
@@ -46,28 +46,28 @@ Appears as:
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb36c6fa1b8ff851988de641f8" alt="" width="50" /> | 367 | 2 | 2 | [Lindsey Stirling](../../artists/lindsey_stirling/overview.md) | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb36c6fa1b8ff851988de641f8" alt="" width="50" /> | 365 | 2 | 2 | [Lindsey Stirling](../../artists/lindsey_stirling/overview.md) | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f" alt="" width="50" /> | 334 | 2 | 2 | Måneskin | [🔗](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb4ba86c361191d48cbeb4b32" alt="" width="50" /> | 219 | 2 | 1 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb4ba86c361191d48cbeb4b32" alt="" width="50" /> | 220 | 2 | 1 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe61da00cc3795e12aa732516" alt="" width="50" /> | 434 | 2 | 1 | Tate McRae | [🔗](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1dd7d8fbcaa03fca3619b644" alt="" width="50" /> | 434 | 2 | 1 | Kelly Clarkson | [🔗](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba4f202963dd12ab6044bdb97" alt="" width="50" /> | 434 | 1 | 1 | half•alive | [🔗](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | 359 | 1 | 1 | ROSALÍA | [🔗](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | 407 | 1 | 1 | Amy Winehouse | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | 354 | 1 | 1 | ROSALÍA | [🔗](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | 410 | 1 | 1 | Amy Winehouse | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ac07249400857d8b16dc17a" alt="" width="50" /> | 434 | 1 | 1 | Kesha | [🔗](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebead1540fa76796266fadba33" alt="" width="50" /> | 344 | 1 | 1 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0e3524063986882f3706730b" alt="" width="50" /> | 232 | 1 | 1 | Victoria Monét | [🔗](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e3524063986882f3706730b" alt="" width="50" /> | 234 | 1 | 1 | Victoria Monét | [🔗](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5" alt="" width="50" /> | 434 | 1 | 1 | Juicy J | [🔗](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb59f6672fdf7466d330b815ab" alt="" width="50" /> | 233 | 1 | 1 | Lucky Daye | [🔗](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d8e3ecf59f556b8e4fafce8" alt="" width="50" /> | 434 | 1 | 1 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7106052e5e10f3ce05668e88" alt="" width="50" /> | 434 | 1 | 1 | Tink | [🔗](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | 434 | 1 | 1 | Mark Ronson | [🔗](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3a49b0a3954e460a8a76ed90" alt="" width="50" /> | 160 | 1 | 1 | [Britney Spears](../../artists/britney_spears/overview.md) | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3a49b0a3954e460a8a76ed90" alt="" width="50" /> | 162 | 1 | 1 | [Britney Spears](../../artists/britney_spears/overview.md) | [🔗](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb716114797a4a644c67c5fa72" alt="" width="50" /> | 434 | 1 | 1 | USHER | [🔗](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) |
 | <img src="https://i.scdn.co/image/5d5dec419f704181b9a23dd9c55562632817c442" alt="" width="50" /> | 434 | 1 | 1 | Nate Ruess | [🔗](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc7c93edb239b99c22a84bdd9" alt="" width="50" /> | 434 | 1 | 1 | Yebba | [🔗](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1fb7a2d94b56df1f8a61d779" alt="" width="50" /> | 434 | 1 | 1 | Christina Aguilera | [🔗](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae" alt="" width="50" /> | 352 | 1 | 1 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae" alt="" width="50" /> | 353 | 1 | 1 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493" alt="" width="50" /> | 288 | 1 | 1 | [Jason Derulo](../../artists/jason_derulo/overview.md) | [🔗](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb233a519aa48db3341215cd1d" alt="" width="50" /> | 434 | 1 | 1 | G-Eazy | [🔗](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb135011225be867d3ca1d38a3" alt="" width="50" /> | 434 | 5 | 0 | Citizen Queen | [🔗](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) |
@@ -77,7 +77,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd792783a725a0ed42866204c" alt="" width="50" /> | 244 | 1 | 0 | Backstreet Boys | [🔗](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed" alt="" width="50" /> | 434 | 1 | 0 | Young Thug | [🔗](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a93e273380982dff84c0d7c" alt="" width="50" /> | 191 | 1 | 0 | Elvis Presley | [🔗](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb49650981041de1e313be97d8" alt="" width="50" /> | 420 | 1 | 0 | SiR | [🔗](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb49650981041de1e313be97d8" alt="" width="50" /> | 421 | 1 | 0 | SiR | [🔗](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb740bae2676885855f3e5b05a" alt="" width="50" /> | 434 | 1 | 0 | Tove Styrke | [🔗](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739df742dcaf9b79edad9009d0" alt="" width="50" /> | 434 | 1 | 0 | The Tokens | [🔗](https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy) |
 
@@ -91,7 +91,7 @@ Appears as:
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea130469113a9c81d9b47801" alt="" width="50" /> | 665 | 7 | 3 | PTX, Vol. 2 | 2013-11-05 | [🔗](https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | 303 | 6 | 4 | PTX, Vol. III | 2014-09-23 | [🔗](https://open.spotify.com/album/32y54TelUHSUDWVOx4h1B4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | 305 | 6 | 4 | PTX, Vol. III | 2014-09-23 | [🔗](https://open.spotify.com/album/32y54TelUHSUDWVOx4h1B4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ad76265e2c01cc533a87df0e" alt="" width="50" /> | 665 | 6 | 3 | PTX, Vol. 1 | 2012-06-26 | [🔗](https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | 520 | 5 | 0 | That's Christmas To Me (Deluxe Edition) | 2015-10-30 | [🔗](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b55ed804149fffbb5e35ff34" alt="" width="50" /> | 665 | 4 | 4 | 1000 Forms Of Fear (Deluxe Version) | 2015-05-04 | [🔗](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) |
@@ -110,7 +110,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273a064dc21b8c8ebedfe4ea833" alt="" width="50" /> | 665 | 3 | 1 | PTX Presents: Top Pop, Vol. I | 2018-04-13 | [🔗](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a58f9ec8f85fab3e17ee75e" alt="" width="50" /> | 665 | 3 | 0 | PTXmas (Deluxe Edition) | 2012-11-12 | [🔗](https://open.spotify.com/album/5ZwH7KH8Zw0m76hYwANMos) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | 251 | 2 | 2 | SOS | 2022-12-09 | [🔗](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27399a88688f3e270537b8b0596" alt="" width="50" /> | 430 | 2 | 2 | PLAYGIRL | 2022-10-14 | [🔗](https://open.spotify.com/album/0hKVypyK1PsoVe3Rjvml0X) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27399a88688f3e270537b8b0596" alt="" width="50" /> | 431 | 2 | 2 | PLAYGIRL | 2022-10-14 | [🔗](https://open.spotify.com/album/0hKVypyK1PsoVe3Rjvml0X) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d4c3b0dc9e24e3beb94325e" alt="" width="50" /> | 246 | 2 | 1 | RIIZING | 2024-04-28 | [🔗](https://open.spotify.com/album/4DdDtcluroMFPVLWFKykqk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7c8f5fe522c41d590c8e4e5" alt="" width="50" /> | 665 | 2 | 1 | PTX | 2014-09-19 | [🔗](https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273289f002ddb42e30363a0d445" alt="" width="50" /> | 665 | 2 | 0 | Christmas Is Here! | 2018-10-19 | [🔗](https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b) |
@@ -121,14 +121,14 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21" alt="" width="50" /> | 665 | 1 | 1 | Teatro d'ira - Vol. I | 2021-03-19 | [🔗](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b2347cfc60cddd4836e5e01" alt="" width="50" /> | 665 | 1 | 1 | Talk Saxy | 2023-10-27 | [🔗](https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="" width="50" /> | 665 | 1 | 1 | Room On Fire | 2003-10-28 | [🔗](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27369ad639dd6829cb2414a53f9" alt="" width="50" /> | 136 | 1 | 1 | RIIZING - The 1st Mini Album | 2024-06-17 | [🔗](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27369ad639dd6829cb2414a53f9" alt="" width="50" /> | 133 | 1 | 1 | RIIZING - The 1st Mini Album | 2024-06-17 | [🔗](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30" alt="" width="50" /> | 665 | 1 | 1 | Paint The Town Red | 2023-08-04 | [🔗](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273faeb40fc9f5b71e5f07d131b" alt="" width="50" /> | 665 | 1 | 1 | October Sky | 2021-06-11 | [🔗](https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f89d2d949f9671982e9e732c" alt="" width="50" /> | 665 | 1 | 1 | Now, Not Yet | 2019-08-09 | [🔗](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737c451a4f06288da6edf050c1" alt="" width="50" /> | 515 | 1 | 1 | New Woman (feat. ROSALÍA) | 2024-08-15 | [🔗](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737c451a4f06288da6edf050c1" alt="" width="50" /> | 490 | 1 | 1 | New Woman (feat. ROSALÍA) | 2024-08-15 | [🔗](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a039ed450d3e9a5caaf7818" alt="" width="50" /> | 665 | 1 | 1 | Moonlit Floor (Kiss Me) | 2024-10-03 | [🔗](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c031afd210aed3084f80956" alt="" width="50" /> | 665 | 1 | 1 | Kiss Me More (feat. SZA) | 2021-04-09 | [🔗](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d03c8d74d7f963dee63ef893" alt="" width="50" /> | 287 | 1 | 1 | JAGUAR II | 2023-08-25 | [🔗](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d03c8d74d7f963dee63ef893" alt="" width="50" /> | 289 | 1 | 1 | JAGUAR II | 2023-08-25 | [🔗](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd9a93745f6a7cd54deaab22" alt="" width="50" /> | 665 | 1 | 1 | It's ok I'm ok | 2024-09-12 | [🔗](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e62a873c96524a3788a2edf" alt="" width="50" /> | 665 | 1 | 1 | I Don't Mind (feat. Juicy J) | 2014-11-21 | [🔗](https://open.spotify.com/album/5BAqg5IJQ7XFKfdoCiOlJw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273786cb106c8bb0c15c86a93a0" alt="" width="50" /> | 616 | 1 | 1 | Hurts 2B Human | 2019-04-26 | [🔗](https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC) |
@@ -138,7 +138,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="" width="50" /> | 450 | 1 | 1 | Chosen | 2017-12-08 | [🔗](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733c9f7b8faf039c7607d12255" alt="" width="50" /> | 665 | 1 | 1 | Britney Jean (Deluxe Version) | 2013-11-30 | [🔗](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303dadde4d9d305c1c3e0d91c" alt="" width="50" /> | 665 | 1 | 1 | Breakaway | 2004-01-17 | [🔗](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736b18d0490878750cd69abf2c" alt="" width="50" /> | 266 | 1 | 1 | Bangerz (Deluxe Version) | 2013-10-04 | [🔗](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736b18d0490878750cd69abf2c" alt="" width="50" /> | 270 | 1 | 1 | Bangerz (Deluxe Version) | 2013-10-04 | [🔗](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d74f4550a6e409bf51652db7" alt="" width="50" /> | 665 | 1 | 1 | Back To Basics | 2006-08-14 | [🔗](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a6339d6ddfd579f77559b3c" alt="" width="50" /> | 665 | 1 | 1 | Animal (Expanded Edition) | 2010-01-01 | [🔗](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322fd802bc61db666c7c81aa8" alt="" width="50" /> | 665 | 1 | 0 | greedy | 2023-09-15 | [🔗](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) |
@@ -354,16 +354,16 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27369ad639dd6829cb2414a53f9" alt="" width="50" /> | Boom Boom Bass | RIIZING - The 1st Mini Album | RIIZE | [RCA Records Label](.), [SM Entertainment](../sm_entertainment) | 172 | 💚 | [🔗](https://open.spotify.com/track/2J194R0KIKbK7bTHfUHPDB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | Kill Bill | SOS | SZA | [Top Dawg Entertainment/RCA Records](.) | 359 | 💚 | [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736b18d0490878750cd69abf2c" alt="" width="50" /> | Wrecking Ball | Bangerz (Deluxe Version) | Miley Cyrus | [RCA Records Label](.) | 384 | 💚 | [🔗](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d03c8d74d7f963dee63ef893" alt="" width="50" /> | Smoke (feat. Lucky Daye) | JAGUAR II | Victoria Monét, Lucky Daye | [Lovett Music/RCA Records](.) | 406 | 💚 | [🔗](https://open.spotify.com/track/1Zej3ztnuVElDfYGYBBhJP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d4c3b0dc9e24e3beb94325e" alt="" width="50" /> | Siren | RIIZING | RIIZE | [RCA Records Label](.), [SM Entertainment](../sm_entertainment) | 446 | 💚 | [🔗](https://open.spotify.com/track/4Jqf8rWXp2y8yJFK0fEweG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27369ad639dd6829cb2414a53f9" alt="" width="50" /> | Boom Boom Bass | RIIZING - The 1st Mini Album | RIIZE | [RCA Records Label](.), [SM Entertainment](../sm_entertainment) | 169 | 💚 | [🔗](https://open.spotify.com/track/2J194R0KIKbK7bTHfUHPDB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | Kill Bill | SOS | SZA | [Top Dawg Entertainment/RCA Records](.) | 361 | 💚 | [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736b18d0490878750cd69abf2c" alt="" width="50" /> | Wrecking Ball | Bangerz (Deluxe Version) | Miley Cyrus | [RCA Records Label](.) | 387 | 💚 | [🔗](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d03c8d74d7f963dee63ef893" alt="" width="50" /> | Smoke (feat. Lucky Daye) | JAGUAR II | Victoria Monét, Lucky Daye | [Lovett Music/RCA Records](.) | 409 | 💚 | [🔗](https://open.spotify.com/track/1Zej3ztnuVElDfYGYBBhJP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d4c3b0dc9e24e3beb94325e" alt="" width="50" /> | Siren | RIIZING | RIIZE | [RCA Records Label](.), [SM Entertainment](../sm_entertainment) | 448 | 💚 | [🔗](https://open.spotify.com/track/4Jqf8rWXp2y8yJFK0fEweG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303585b0bb511f926c709330c" alt="" width="50" /> | Vegas | ELVIS (Original Motion Picture Soundtrack) | [Doja Cat](../../artists/doja_cat/overview.md) | [House of Iona/RCA Records](.) | 533 | 💚 | [🔗](https://open.spotify.com/track/3FWwi61OP7vXEikwqhZCPZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d4c3b0dc9e24e3beb94325e" alt="" width="50" /> | Impossible | RIIZING | RIIZE | [RCA Records Label](.), [SM Entertainment](../sm_entertainment) | 584 | | [🔗](https://open.spotify.com/track/0GIzsyWjS0wb15Q7zB5L7b) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d4c3b0dc9e24e3beb94325e" alt="" width="50" /> | Impossible | RIIZING | RIIZE | [RCA Records Label](.), [SM Entertainment](../sm_entertainment) | 585 | | [🔗](https://open.spotify.com/track/0GIzsyWjS0wb15Q7zB5L7b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Rather Be (Clean Bandit Cover) | PTX, Vol. III | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 597 | 💚 | [🔗](https://open.spotify.com/track/4hxemf0pE0mSzubgsfRLWu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Problem (Ariana Grande Cover) | PTX, Vol. III | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 598 | 💚 | [🔗](https://open.spotify.com/track/45h4cCw7ccsRXb0Orle2an) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27399a88688f3e270537b8b0596" alt="" width="50" /> | pl4yg1rl | PLAYGIRL | Lolo Zouaï | [Keep It On The Lolo/RCA Records](.) | 642 | 💚 | [🔗](https://open.spotify.com/track/6hULiSmcrKKWVx74G1gPr6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732aef4a2297fc883d45e6cb2b" alt="" width="50" /> | Problem (Ariana Grande Cover) | PTX, Vol. III | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 599 | 💚 | [🔗](https://open.spotify.com/track/45h4cCw7ccsRXb0Orle2an) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27399a88688f3e270537b8b0596" alt="" width="50" /> | pl4yg1rl | PLAYGIRL | Lolo Zouaï | [Keep It On The Lolo/RCA Records](.) | 645 | 💚 | [🔗](https://open.spotify.com/track/6hULiSmcrKKWVx74G1gPr6) |
 
 
 <details>
@@ -372,16 +372,16 @@ Appears as:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="" width="50" /> | Beggin' | Chosen | Måneskin | [RCA Records Label](.) | 673 | 💚 | [🔗](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737c451a4f06288da6edf050c1" alt="" width="50" /> | New Woman (feat. ROSALÍA) | New Woman (feat. ROSALÍA) | LISA, ROSALÍA | [Lloud Co./RCA Records](.) | 779 | 💚 | [🔗](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Sleigh Ride | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 893 | | [🔗](https://open.spotify.com/track/0ErjxyZ4qHQVs5umCBIClk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Let It Go | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 898 | | [🔗](https://open.spotify.com/track/2G7K3Op9y3HhqrF2TdHP95) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Mary, Did You Know? | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 920 | | [🔗](https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273786cb106c8bb0c15c86a93a0" alt="" width="50" /> | Hustle | Hurts 2B Human | P!nk | [RCA Records Label](.) | 943 | 💚 | [🔗](https://open.spotify.com/track/6BVmygBQhe4pTZQgKkzstD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f14aa81116510d3a6df8432b" alt="" width="50" /> | Say So | Hot Pink | [Doja Cat](../../artists/doja_cat/overview.md) | [Kemosabe Records/RCA Records](.) | 958 | 💚 | [🔗](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="" width="50" /> | Imagine | PTX Vol. IV - Classics | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 969 | 💚 | [🔗](https://open.spotify.com/track/1UaTmLT3nB1sNBfv1hkqU1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Dance of the Sugar Plum Fairy | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 979 | | [🔗](https://open.spotify.com/track/0u0TlASkQWH2bGIZRu0HLh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732b9aca3204e667980ce6a939" alt="" width="50" /> | Go DJ (feat. SiR) | BUBBA | KAYTRANADA, SiR | [KAYTRANADA/RCA Records](.) | 981 | | [🔗](https://open.spotify.com/track/5goFCtUGQHU4kQuwIupc5D) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | Aha! | Ellipse | [Imogen Heap](../../artists/imogen_heap/overview.md) | [RCA Records Label](.) | 984 | 💚 | [🔗](https://open.spotify.com/track/42itRd5WoYb42RSYOloJvD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737c451a4f06288da6edf050c1" alt="" width="50" /> | New Woman (feat. ROSALÍA) | New Woman (feat. ROSALÍA) | LISA, ROSALÍA | [Lloud Co./RCA Records](.) | 737 | 💚 | [🔗](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Sleigh Ride | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 894 | | [🔗](https://open.spotify.com/track/0ErjxyZ4qHQVs5umCBIClk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Let It Go | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 900 | | [🔗](https://open.spotify.com/track/2G7K3Op9y3HhqrF2TdHP95) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Mary, Did You Know? | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 916 | | [🔗](https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273786cb106c8bb0c15c86a93a0" alt="" width="50" /> | Hustle | Hurts 2B Human | P!nk | [RCA Records Label](.) | 939 | 💚 | [🔗](https://open.spotify.com/track/6BVmygBQhe4pTZQgKkzstD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f14aa81116510d3a6df8432b" alt="" width="50" /> | Say So | Hot Pink | [Doja Cat](../../artists/doja_cat/overview.md) | [Kemosabe Records/RCA Records](.) | 959 | 💚 | [🔗](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739729d686606e6be27346da30" alt="" width="50" /> | Imagine | PTX Vol. IV - Classics | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 970 | 💚 | [🔗](https://open.spotify.com/track/1UaTmLT3nB1sNBfv1hkqU1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0283afa7dd6c6ac806fb67c" alt="" width="50" /> | Dance of the Sugar Plum Fairy | That's Christmas To Me (Deluxe Edition) | [Pentatonix](../../artists/pentatonix/overview.md) | [RCA Records Label](.) | 980 | | [🔗](https://open.spotify.com/track/0u0TlASkQWH2bGIZRu0HLh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | Aha! | Ellipse | [Imogen Heap](../../artists/imogen_heap/overview.md) | [RCA Records Label](.) | 981 | 💚 | [🔗](https://open.spotify.com/track/42itRd5WoYb42RSYOloJvD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732b9aca3204e667980ce6a939" alt="" width="50" /> | Go DJ (feat. SiR) | BUBBA | KAYTRANADA, SiR | [KAYTRANADA/RCA Records](.) | 984 | | [🔗](https://open.spotify.com/track/5goFCtUGQHU4kQuwIupc5D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f96cefb0197694ad440c3314" alt="" width="50" /> | Can't Help Falling in Love | Blue Hawaii | Elvis Presley | [Legacy](../legacy), [RCA Records Label](.) | 1015 | | [🔗](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739df742dcaf9b79edad9009d0" alt="" width="50" /> | The Lion Sleeps Tonight (Wimoweh) | Wimoweh!!! - The Best Of The Tokens | The Tokens | [RCA Records Label](.) | 1015 | | [🔗](https://open.spotify.com/track/2F4FNcz68howQWD4zaGJSi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="" width="50" /> | Everlong | The Colour And The Shape | Foo Fighters | [RCA Records Label](.) | 1015 | | [🔗](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) |

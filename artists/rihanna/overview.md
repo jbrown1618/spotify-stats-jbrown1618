@@ -25,10 +25,10 @@
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | 665 | 4 | 3 | Good Girl Gone Bad: Reloaded | 2008-06-02 | [🔗](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | 264 | 3 | 3 | Unapologetic (Deluxe) | 2012-12-11 | [🔗](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | 267 | 3 | 3 | Unapologetic (Deluxe) | 2012-12-11 | [🔗](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef" alt="" width="50" /> | 665 | 2 | 2 | Talk That Talk | 2011-11-19 | [🔗](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa16162c83c19d587a3bfa45" alt="" width="50" /> | 665 | 2 | 2 | Loud | 2010-11-16 | [🔗](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | 479 | 1 | 1 | The Marshall Mathers LP2 | 2013-11-05 | [🔗](https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | 476 | 1 | 1 | The Marshall Mathers LP2 | 2013-11-05 | [🔗](https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="" width="50" /> | 665 | 1 | 1 | Recovery | 2010-06-18 | [🔗](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab647295c0c97446c1f1a3b5" alt="" width="50" /> | 665 | 1 | 1 | Rated R | 2009-11-20 | [🔗](https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093" alt="" width="50" /> | 665 | 1 | 1 | ANTI (Deluxe) | 2016-01-28 | [🔗](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) |
@@ -169,9 +169,9 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | What Now | Unapologetic (Deluxe) | [Rihanna](overview.md) | [Def Jam Recordings](../../labels/def_jam_recordings) | 392 | 💚 | [🔗](https://open.spotify.com/track/0aUWfpD3PlSv3FTTKcT2rN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | The Monster | The Marshall Mathers LP2 | [Eminem](../eminem/overview.md), [Rihanna](overview.md) | [Aftermath](../../labels/aftermath) | 713 | 💚 | [🔗](https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Stay | Unapologetic (Deluxe) | [Rihanna](overview.md), Mikky Ekko | [Def Jam Recordings](../../labels/def_jam_recordings) | 879 | 💚 | [🔗](https://open.spotify.com/track/1dEy9Pl81QopSxNsPxXQxv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | What Now | Unapologetic (Deluxe) | [Rihanna](overview.md) | [Def Jam Recordings](../../labels/def_jam_recordings) | 395 | 💚 | [🔗](https://open.spotify.com/track/0aUWfpD3PlSv3FTTKcT2rN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | The Monster | The Marshall Mathers LP2 | [Eminem](../eminem/overview.md), [Rihanna](overview.md) | [Aftermath](../../labels/aftermath) | 712 | 💚 | [🔗](https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d" alt="" width="50" /> | Stay | Unapologetic (Deluxe) | [Rihanna](overview.md), Mikky Ekko | [Def Jam Recordings](../../labels/def_jam_recordings) | 881 | 💚 | [🔗](https://open.spotify.com/track/1dEy9Pl81QopSxNsPxXQxv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b21609e1a2d7c1b7ba8efae2" alt="" width="50" /> | Pon de Replay | Music Of The Sun | [Rihanna](overview.md) | [Def Jam Recordings](../../labels/def_jam_recordings) | 1015 | | [🔗](https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Disturbia | Good Girl Gone Bad: Reloaded | [Rihanna](overview.md) | [Def Jam Recordings](../../labels/def_jam_recordings) | 1015 | 💚 | [🔗](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98" alt="" width="50" /> | Don't Stop The Music | Good Girl Gone Bad: Reloaded | [Rihanna](overview.md) | [Def Jam Recordings](../../labels/def_jam_recordings) | 1015 | 💚 | [🔗](https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy) |

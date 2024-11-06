@@ -16,7 +16,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 132 | 2 | 2 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65" alt="" width="50" /> | 204 | 1 | 1 | SZA | [🔗](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b053c29fd4b317ff825f0dc" alt="" width="50" /> | 434 | 1 | 1 | J. Cole | [🔗](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | 202 | 1 | 1 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe94f88ff74ae4ddcab961f97" alt="" width="50" /> | 203 | 1 | 1 | [Doja Cat](../../artists/doja_cat/overview.md) | [🔗](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d8e3ecf59f556b8e4fafce8" alt="" width="50" /> | 434 | 1 | 1 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe62be215d2ee31bcd97edaba" alt="" width="50" /> | 434 | 1 | 1 | U2 | [🔗](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4e8a7e14e2f602eb9af24e31" alt="" width="50" /> | 434 | 1 | 1 | Cardi B | [🔗](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) |
@@ -63,8 +63,8 @@
 ## Most and least listened tracks
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 713 | <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="The Marshall Mathers LP2" width="50" /> | [The Monster](../../artists/eminem/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="Rap Or Go To The League" width="50" /> | Momma I Hit A Lick (feat. Kendrick Lamar) |
-| 859 | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | [We Made You](../../artists/eminem/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd" alt="Genesis" width="50" /> | Break Ya Neck |
+| 712 | <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="The Marshall Mathers LP2" width="50" /> | [The Monster](../../artists/eminem/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27384f49cbc39ac1f18422a4d42" alt="Rap Or Go To The League" width="50" /> | Momma I Hit A Lick (feat. Kendrick Lamar) |
+| 861 | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="Relapse: Refill" width="50" /> | [We Made You](../../artists/eminem/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd" alt="Genesis" width="50" /> | Break Ya Neck |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Graduation" width="50" /> | Can't Tell Me Nothing | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27341c0ad3e39388ab332ffb023" alt="Confessions of a Dangerous Mind" width="50" /> | Homicide (feat. Eminem) |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="Recovery" width="50" /> | [Love The Way You Lie](../../artists/eminem/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="DAMN." width="50" /> | [HUMBLE.](../../artists/kendrick_lamar/overview.md) |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Late Registration" width="50" /> | Gold Digger | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2738fe5d04b06aff90f9fe796f5" alt="Meet The Woo" width="50" /> | Dior |
@@ -82,7 +82,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="" width="50" /> | 665 | 2 | 2 | Mr. Morale & The Big Steppers | 2022-05-13 | [🔗](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10" alt="" width="50" /> | 665 | 2 | 0 | The Blueprint 3 | 2009-09-08 | [🔗](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737587213b1be294ac4000f648" alt="" width="50" /> | 665 | 1 | 1 | euphoria | 2024-04-30 | [🔗](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | 479 | 1 | 1 | The Marshall Mathers LP2 | 2013-11-05 | [🔗](https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | 476 | 1 | 1 | The Marshall Mathers LP2 | 2013-11-05 | [🔗](https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e88eb6508fd94cd1b745ce2" alt="" width="50" /> | 665 | 1 | 1 | Speakerboxxx/The Love Below | 2003 | [🔗](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="" width="50" /> | 568 | 1 | 1 | Relapse: Refill | 2009-05-15 | [🔗](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="" width="50" /> | 665 | 1 | 1 | Recovery | 2010-06-18 | [🔗](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) |

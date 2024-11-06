@@ -49,7 +49,7 @@ Appears as:
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273954bf7796ba38ada0568352f" alt="" width="50" /> | 665 | 3 | 0 | Cappella | 2013 | [🔗](https://open.spotify.com/album/3n6JxpdWnHkazMCQxKK5qI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | 502 | 2 | 1 | 壱 | 2022-01-12 | [🔗](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | 503 | 2 | 1 | 壱 | 2022-01-12 | [🔗](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273188327ac9022d86ad2dd6483" alt="" width="50" /> | 665 | 1 | 1 | 弐 | 2023-03-29 | [🔗](https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="" width="50" /> | 665 | 1 | 1 | There | 2023-02-15 | [🔗](https://open.spotify.com/album/2j8BoKqZrMUYTARDIs9XDk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | 477 | 1 | 1 | CIRCUS | 2022-06-10 | [🔗](https://open.spotify.com/album/4IQHY28D4aHus9lGDlSdPp) |
@@ -66,7 +66,7 @@ Appears as:
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe52879ebfec0050a2aa89ff" alt="" width="50" /> | 665 | 1 | 0 | Make you happy | 2020-06-30 | [🔗](https://open.spotify.com/album/1wIIu2i7A56TlMD99CVNQD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c3a330eb913aaec37dd8d567" alt="" width="50" /> | 286 | 1 | 0 | CRUSH | 2024-08-07 | [🔗](https://open.spotify.com/album/607R3veMPfNTZ4VzMEVy3d) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c3a330eb913aaec37dd8d567" alt="" width="50" /> | 290 | 1 | 0 | CRUSH | 2024-08-07 | [🔗](https://open.spotify.com/album/607R3veMPfNTZ4VzMEVy3d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a2272c8966971b7b04066241" alt="" width="50" /> | 665 | 1 | 0 | CEREMONY | 2020-01-15 | [🔗](https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f038f68827e437530b3a80a8" alt="" width="50" /> | 665 | 1 | 0 | BOOTLEG | 2017-11-01 | [🔗](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) |
 
@@ -131,9 +131,9 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c3a330eb913aaec37dd8d567" alt="" width="50" /> | CRUSH | CRUSH | [IVE](../../artists/ive/overview.md) | [Sony Music Labels Inc.](.) | 407 | | [🔗](https://open.spotify.com/track/3iDdrh15xYLHKafxYNLF4F) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS | CIRCUS | [Stray Kids](../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](.) | 714 | 💚 | [🔗](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](.) | 753 | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c3a330eb913aaec37dd8d567" alt="" width="50" /> | CRUSH | CRUSH | [IVE](../../artists/ive/overview.md) | [Sony Music Labels Inc.](.) | 410 | | [🔗](https://open.spotify.com/track/3iDdrh15xYLHKafxYNLF4F) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS | CIRCUS | [Stray Kids](../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](.) | 711 | 💚 | [🔗](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](.) | 756 | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" alt="" width="50" /> | Mambo No. 5 (a Little Bit of...) | A Little Bit of Mambo | Lou Bega | [Sony Music/Vorsicht Musik](.) | 1015 | 💚 | [🔗](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273954bf7796ba38ada0568352f" alt="" width="50" /> | All I Ask of You | Cappella | Andrew Lloyd Webber, The King's Singers | [Sony Classical](../sony_classical), [Sony Music Labels Inc.](.) | 1015 | | [🔗](https://open.spotify.com/track/5JTRLqApDZKaIwcopt1d9p) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273954bf7796ba38ada0568352f" alt="" width="50" /> | Ave Maria | Cappella | Josquin des Prez, The King's Singers | [Sony Classical](../sony_classical), [Sony Music Labels Inc.](.) | 1015 | | [🔗](https://open.spotify.com/track/6xBGuah2AMT6y5S0HlztUU) |

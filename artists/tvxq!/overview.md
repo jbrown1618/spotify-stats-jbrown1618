@@ -32,7 +32,7 @@ TVXQ!:
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27393f60760427ff9cb94a5ba96" alt="" width="50" /> | 665 | 2 | 2 | 20&2 - The 9th Album | 2023-12-26 | [🔗](https://open.spotify.com/album/4I6px53lYqErgJcsJkUNlu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2f5eb6302fa961ec097d466" alt="" width="50" /> | 665 | 1 | 1 | New Chapter #1: The Chance of Love - The 8th Album | 2018-03-28 | [🔗](https://open.spotify.com/album/0ipyHYAE0cMf4aDJNIDIU1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="" width="50" /> | 534 | 1 | 1 | MIROTIC - The 4th Album | 2008-09-26 | [🔗](https://open.spotify.com/album/51Wmrzs9O87YlKp2vqDwln) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ca38eeeb374883d7652ff0" alt="" width="50" /> | 535 | 1 | 1 | MIROTIC - The 4th Album | 2008-09-26 | [🔗](https://open.spotify.com/album/51Wmrzs9O87YlKp2vqDwln) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739f6a9a89c697fde2dada3b9d" alt="" width="50" /> | 665 | 1 | 1 | Humanoids | 2012-11-26 | [🔗](https://open.spotify.com/album/2cMjjgRPQ0pCcvA7cP3S0L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a193f0e1f6d7fb40727c5e30" alt="" width="50" /> | 665 | 1 | 1 | Hug | 2004-01-14 | [🔗](https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27382b88b49dd9a1b387cb3f0c6" alt="" width="50" /> | 665 | 1 | 0 | TRI-ANGLE - 1st Album | 2004-10-01 | [🔗](https://open.spotify.com/album/1013imXHa490acqEZkQpeX) |

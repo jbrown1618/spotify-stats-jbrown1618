@@ -4,8 +4,8 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | 40 | 9 | 7 | [The Tarpeggios](../../../artists/the_tarpeggios/overview.md) | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd8d5d7125f4fbe0dea0b4646" alt="" width="50" /> | 198 | 1 | 1 | Stella Jang | [🔗](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | 39 | 9 | 7 | [The Tarpeggios](../../../artists/the_tarpeggios/overview.md) | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd8d5d7125f4fbe0dea0b4646" alt="" width="50" /> | 199 | 1 | 1 | Stella Jang | [🔗](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5c2b393e7d8a0a1bdb64b231" alt="" width="50" /> | 434 | 8 | 0 | Peter Hollens | [🔗](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb28d2d9a97a89d4721c2917b2" alt="" width="50" /> | 434 | 5 | 0 | UNC Achordants | [🔗](https://open.spotify.com/artist/1TzZMeOCs4TMYtzgohPMAr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8c4a9d4a5f8004ad4d0195aa" alt="" width="50" /> | 434 | 4 | 0 | The Nor'easters | [🔗](https://open.spotify.com/artist/1aLfVgwt8eBrpvHcutWmqe) |
@@ -35,7 +35,7 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | 548 | 9 | 7 | The Teal Album | 2016-11-12 | [🔗](https://open.spotify.com/album/7mTQ62MIYHSbkZHGjY0Ftg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | 551 | 9 | 7 | The Teal Album | 2016-11-12 | [🔗](https://open.spotify.com/album/7mTQ62MIYHSbkZHGjY0Ftg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cae786076f9dcdca74285732" alt="" width="50" /> | 665 | 8 | 0 | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | 2016-03-18 | [🔗](https://open.spotify.com/album/4GYDt4IqU8EZ6KJLHpPuOK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | 665 | 6 | 0 | BOCA 2013: Best of College A Cappella | 2016 | [🔗](https://open.spotify.com/album/6Pqey2mc4EWSfYNH3bifbO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273481636675e5711587db9061d" alt="" width="50" /> | 665 | 4 | 0 | Greene St. | 2016 | [🔗](https://open.spotify.com/album/3qJMqi0VzTFGSDTTMUI5n7) |
@@ -52,8 +52,8 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | I See Fire | The Teal Album | [The Tarpeggios](../../../artists/the_tarpeggios/overview.md) | The Unc - Chapel Hill Tarpeggios | 868 | 💚 | [🔗](https://open.spotify.com/track/4Mp2l1tCHxnm65a6yQ8lph) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | Can't Take My Eyes off You | The Teal Album | [The Tarpeggios](../../../artists/the_tarpeggios/overview.md) | The Unc - Chapel Hill Tarpeggios | 925 | 💚 | [🔗](https://open.spotify.com/track/1wT7nx5HLq9mhBf3P0BwTf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | I See Fire | The Teal Album | [The Tarpeggios](../../../artists/the_tarpeggios/overview.md) | The Unc - Chapel Hill Tarpeggios | 871 | 💚 | [🔗](https://open.spotify.com/track/4Mp2l1tCHxnm65a6yQ8lph) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | Can't Take My Eyes off You | The Teal Album | [The Tarpeggios](../../../artists/the_tarpeggios/overview.md) | The Unc - Chapel Hill Tarpeggios | 926 | 💚 | [🔗](https://open.spotify.com/track/1wT7nx5HLq9mhBf3P0BwTf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | Aha! | BOCA 2013: Best of College A Cappella | Florida State University All-Night Yahtzee | [Varsity Vocals](../../../labels/varsity_vocals) | 1015 | | [🔗](https://open.spotify.com/track/7Lx4TW1CMmHVP5ZiNGyi9H) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | All Of The Lights | BOCA 2013: Best of College A Cappella | The Pitchforks | [Varsity Vocals](../../../labels/varsity_vocals) | 1015 | | [🔗](https://open.spotify.com/track/25Cnsylo80N1bX9CzSvCaE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2552ca2abb53c5f153a7ff7" alt="" width="50" /> | Smooth Criminal | BOCA 2013: Best of College A Cappella | University of Wisconsin-Madison Fundamentally Sound | [Varsity Vocals](../../../labels/varsity_vocals) | 1015 | | [🔗](https://open.spotify.com/track/7kxwqVLwWMbkZKqm0GykBY) |

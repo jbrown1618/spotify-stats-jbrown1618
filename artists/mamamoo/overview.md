@@ -19,7 +19,7 @@ MAMAMOO:
 
 ## Artist Rank
 MAMAMOO is currently:
-- The #21 artist of the last month
+- The #17 artist of the last month
 - The #19 artist of the last 6 months
 - The #22 artist of the last year
 - The #16 artist of all time
@@ -55,16 +55,16 @@ MAMAMOO is currently:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | 183 | 2 | 2 | MIC ON | 2022-10-11 | [🔗](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | 184 | 2 | 2 | MIC ON | 2022-10-11 | [🔗](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e3cf1788fa660f04ac43e23" alt="" width="50" /> | 446 | 2 | 1 | RED MOON | 2018-07-16 | [🔗](https://open.spotify.com/album/3vlnS8olJIlCACkLBbHYP2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6ea41f7103f07588c18bbdb" alt="" width="50" /> | 665 | 2 | 1 | Pink Funky | 2015-06-19 | [🔗](https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="" width="50" /> | 9 | 1 | 1 | reality in BLACK | 2019-11-14 | [🔗](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="" width="50" /> | 10 | 1 | 1 | reality in BLACK | 2019-11-14 | [🔗](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da15e45948cdd794ec819052" alt="" width="50" /> | 665 | 1 | 1 | Yellow Flower | 2018-03-07 | [🔗](https://open.spotify.com/album/7zIvhrdl7dvtucNw4tSd62) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | 424 | 1 | 1 | White Wind | 2019-03-14 | [🔗](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | 426 | 1 | 1 | White Wind | 2019-03-14 | [🔗](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ae843591bcdace9489c86fb0" alt="" width="50" /> | 665 | 1 | 1 | WAW | 2021-06-02 | [🔗](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="" width="50" /> | 157 | 1 | 1 | TRAVEL | 2020-11-03 | [🔗](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="" width="50" /> | 158 | 1 | 1 | TRAVEL | 2020-11-03 | [🔗](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737709b0a8ba9059fc46fefcb2" alt="" width="50" /> | 665 | 1 | 1 | Purple | 2017-06-22 | [🔗](https://open.spotify.com/album/7lqVInQc3l7SbnbZa2cpFJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="" width="50" /> | 420 | 1 | 1 | Piano Man | 2014-11-21 | [🔗](https://open.spotify.com/album/1kdURRaOTpDCQqsVIU5CiT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="" width="50" /> | 423 | 1 | 1 | Piano Man | 2014-11-21 | [🔗](https://open.spotify.com/album/1kdURRaOTpDCQqsVIU5CiT) |
 
 
 <details>
@@ -74,7 +74,7 @@ MAMAMOO is currently:
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27338fc902e1d368df7fc0d77a3" alt="" width="50" /> | 665 | 1 | 1 | Melting | 2016-02-26 | [🔗](https://open.spotify.com/album/11hjJntrvmauDoga4Krr0U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273733b6abfa76a28b999feb572" alt="" width="50" /> | 665 | 1 | 1 | MEMORY | 2016-11-07 | [🔗](https://open.spotify.com/album/3Q34hV5fBbMpRpADmlptr7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27367f8236540d6f145e2f0baa1" alt="" width="50" /> | 510 | 1 | 1 | HELLO | 2014-06-18 | [🔗](https://open.spotify.com/album/3Z9cZon6ukg4rvGYu7i4NA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367f8236540d6f145e2f0baa1" alt="" width="50" /> | 512 | 1 | 1 | HELLO | 2014-06-18 | [🔗](https://open.spotify.com/album/3Z9cZon6ukg4rvGYu7i4NA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b4fd0ba98f675df97c5748b1" alt="" width="50" /> | 665 | 1 | 1 | Dingga | 2020-10-20 | [🔗](https://open.spotify.com/album/4xzsBcZaK04c8IE5iVyMNK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273520ea0d948ced66d1c1764e2" alt="" width="50" /> | 665 | 1 | 0 | WANNA BE MYSELF | 2020-09-10 | [🔗](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1f57af57a103eb28110c9d8" alt="" width="50" /> | 665 | 1 | 0 | BLUE;S | 2018-11-29 | [🔗](https://open.spotify.com/album/59QELOU685J1AMB2paryAx) |
@@ -158,11 +158,11 @@ MAMAMOO is currently:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="" width="50" /> | HIP | reality in BLACK | [MAMAMOO](overview.md) | [RBW, Inc](../../labels/rbw_inc_) | 4 | 💚 | [🔗](https://open.spotify.com/track/24nK8tW7Pt3Inh2utttuoG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="" width="50" /> | AYA | TRAVEL | [MAMAMOO](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 207 | 💚 | [🔗](https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | 1,2,3 Eoi! | MIC ON | [MAMAMOO](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 249 | 💚 | [🔗](https://open.spotify.com/track/1uYgNXNnBTQnboOwlYBLd1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="" width="50" /> | Piano Man | Piano Man | [MAMAMOO](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 622 | 💚 | [🔗](https://open.spotify.com/track/2CC7fLFEcJBrO82NUwi9Op) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | gogobebe | White Wind | [MAMAMOO](overview.md) | [RBW, Inc](../../labels/rbw_inc_) | 633 | 💚 | [🔗](https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736e3cf1788fa660f04ac43e23" alt="" width="50" /> | Egotistic | RED MOON | [MAMAMOO](overview.md) | [RBW, Inc.](../../labels/rbw_inc_) | 667 | 💚 | [🔗](https://open.spotify.com/track/3a7OyTsoZ8CCBdvEEvzLBv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27367f8236540d6f145e2f0baa1" alt="" width="50" /> | Mr-Ambiguous | HELLO | [MAMAMOO](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 770 | 💚 | [🔗](https://open.spotify.com/track/4VOZzJeoNhvvTaGTztogVt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | 1,2,3 Eoi! | MIC ON | [MAMAMOO](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 252 | 💚 | [🔗](https://open.spotify.com/track/1uYgNXNnBTQnboOwlYBLd1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737752724657197df65e7c82f9" alt="" width="50" /> | Piano Man | Piano Man | [MAMAMOO](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 625 | 💚 | [🔗](https://open.spotify.com/track/2CC7fLFEcJBrO82NUwi9Op) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | gogobebe | White Wind | [MAMAMOO](overview.md) | [RBW, Inc](../../labels/rbw_inc_) | 636 | 💚 | [🔗](https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e3cf1788fa660f04ac43e23" alt="" width="50" /> | Egotistic | RED MOON | [MAMAMOO](overview.md) | [RBW, Inc.](../../labels/rbw_inc_) | 666 | 💚 | [🔗](https://open.spotify.com/track/3a7OyTsoZ8CCBdvEEvzLBv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367f8236540d6f145e2f0baa1" alt="" width="50" /> | Mr-Ambiguous | HELLO | [MAMAMOO](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 774 | 💚 | [🔗](https://open.spotify.com/track/4VOZzJeoNhvvTaGTztogVt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6ea41f7103f07588c18bbdb" alt="" width="50" /> | AHH OOP! | Pink Funky | [MAMAMOO](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 1015 | 💚 | [🔗](https://open.spotify.com/track/5bhPsVZrng5VjNKh822yJH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6ea41f7103f07588c18bbdb" alt="" width="50" /> | Um Oh Ah Yeh | Pink Funky | [MAMAMOO](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 1015 | | [🔗](https://open.spotify.com/track/0icGgAiUx5b0amQLycmGUr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27338fc902e1d368df7fc0d77a3" alt="" width="50" /> | You’re the Best | Melting | [MAMAMOO](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 1015 | 💚 | [🔗](https://open.spotify.com/track/3BUZUCu1uHaTvroizwqLHt) |

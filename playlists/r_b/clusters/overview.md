@@ -32,7 +32,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d51081892dbe3f1ddf28914" alt="" width="50" /> | Truth Hurts | Cuz I Love You (Deluxe) | Lizzo | [Nice Life/Atlantic](../../../../labels/atlantic_records) | 1015 | 💚 | [🔗](https://open.spotify.com/track/5qmq61DAAOUaW8AUo8xKhh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730a1d20ec09cab4bb17a36aab" alt="" width="50" /> | Wet The Bed (feat. Ludacris) | F.A.M.E. (Expanded Edition) | Chris Brown, Ludacris | [Jive](../../../../labels/jive) | 1015 | | [🔗](https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8245ce2a727675a0a232b2f" alt="" width="50" /> | Preach | Preach | John Legend | [Columbia](../../../../labels/columbia) | 1015 | | [🔗](https://open.spotify.com/track/2AaF78iCWISMWYog5RnSi5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | Kill Bill | SOS | SZA | [Top Dawg Entertainment/RCA Records](../../../../labels/rca_records_label) | 359 | 💚 | [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | Kill Bill | SOS | SZA | [Top Dawg Entertainment/RCA Records](../../../../labels/rca_records_label) | 361 | 💚 | [🔗](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1" alt="" width="50" /> | Snooze | SOS | SZA | [Top Dawg Entertainment/RCA Records](../../../../labels/rca_records_label) | 1015 | 💚 | [🔗](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) |
 ## Cluster #3
 

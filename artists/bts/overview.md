@@ -43,10 +43,10 @@ BTS is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5" alt="" width="50" /> | 665 | 3 | 3 | BE | 2020-11-20 | [🔗](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="" width="50" /> | 665 | 3 | 2 | The Most Beautiful Moment in Life: Young Forever | 2016-05-02 | [🔗](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | 567 | 3 | 2 | Love Yourself 結 'Answer' | 2018-08-24 | [🔗](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 392 | 3 | 2 | Love Yourself 承 'Her' | 2017-09-18 | [🔗](https://open.spotify.com/album/07Rq17GzCnIdWJcyVHb57G) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | 396 | 3 | 2 | Love Yourself 承 'Her' | 2017-09-18 | [🔗](https://open.spotify.com/album/07Rq17GzCnIdWJcyVHb57G) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f" alt="" width="50" /> | 665 | 3 | 1 | MAP OF THE SOUL : PERSONA | 2019-04-12 | [🔗](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4" alt="" width="50" /> | 665 | 2 | 2 | Wings | 2016-10-10 | [🔗](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | 518 | 2 | 2 | Proof | 2022-06-10 | [🔗](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | 521 | 2 | 2 | Proof | 2022-06-10 | [🔗](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273abe7090bc3ae94d741dfaf6b" alt="" width="50" /> | 665 | 2 | 0 | Dark & Wild | 2014-08-20 | [🔗](https://open.spotify.com/album/35voVqYGkotyJ945O9egDY) |
 
 
@@ -55,12 +55,12 @@ BTS is currently:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" alt="" width="50" /> | 550 | 1 | 1 | You Never Walk Alone | 2017-02-13 | [🔗](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" alt="" width="50" /> | 553 | 1 | 1 | You Never Walk Alone | 2017-02-13 | [🔗](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a" alt="" width="50" /> | 665 | 1 | 1 | Skool Luv Affair | 2014-02-12 | [🔗](https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | 462 | 1 | 1 | SUGA's Interlude | 2019-12-06 | [🔗](https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | 461 | 1 | 1 | SUGA's Interlude | 2019-12-06 | [🔗](https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da9c76ed020a7894443a3f97" alt="" width="50" /> | 665 | 1 | 0 | MAP OF THE SOUL : 7 ~ THE JOURNEY ~ | 2020-07-14 | [🔗](https://open.spotify.com/album/1nScVw87kRJiT2bg2Kswhp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a40e041dc865ed53f8ea8144" alt="" width="50" /> | 665 | 1 | 0 | Dynamite (Holiday Remix) | 2020-12-11 | [🔗](https://open.spotify.com/album/3HVNK5OxW9qfkySXjHWehH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c0ff7c2c2de098875ec82997" alt="" width="50" /> | 331 | 1 | 0 | Butter (Holiday Remix) | 2021-12-03 | [🔗](https://open.spotify.com/album/4cmHvSMDrSRe2sLodew8sV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c0ff7c2c2de098875ec82997" alt="" width="50" /> | 333 | 1 | 0 | Butter (Holiday Remix) | 2021-12-03 | [🔗](https://open.spotify.com/album/4cmHvSMDrSRe2sLodew8sV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732666df197eac73ae823e1e67" alt="" width="50" /> | 665 | 1 | 0 | 2 Cool 4 Skool | 2013-06-12 | [🔗](https://open.spotify.com/album/6egaEe9JaULuUCkihSnYlH) |
 
 </details>
@@ -226,11 +226,11 @@ BTS is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c0ff7c2c2de098875ec82997" alt="" width="50" /> | Butter (Holiday Remix) | Butter (Holiday Remix) | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 471 | | [🔗](https://open.spotify.com/track/3IA9LkBEVhJDOxOnh1nf8a) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | Black Swan | MAP OF THE SOUL : 7 | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 541 | 💚 | [🔗](https://open.spotify.com/track/2EmcTFQ1rM11wp2ztsXTHa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | DNA | Love Yourself 承 'Her' | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 580 | 💚 | [🔗](https://open.spotify.com/track/3uRLwBjI2TahxslcMTvpFs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude | SUGA's Interlude | Halsey, SUGA, [BTS](overview.md) | [Capitol Records](../../labels/capitol_records) | 689 | 💚 | [🔗](https://open.spotify.com/track/5a0nHa7F4S9hb0Zi0zLS8w) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Run BTS | Proof | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 783 | 💚 | [🔗](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c0ff7c2c2de098875ec82997" alt="" width="50" /> | Butter (Holiday Remix) | Butter (Holiday Remix) | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 472 | | [🔗](https://open.spotify.com/track/3IA9LkBEVhJDOxOnh1nf8a) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934" alt="" width="50" /> | Black Swan | MAP OF THE SOUL : 7 | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 543 | 💚 | [🔗](https://open.spotify.com/track/2EmcTFQ1rM11wp2ztsXTHa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273829305487c8f3b96a1d955b3" alt="" width="50" /> | DNA | Love Yourself 承 'Her' | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 582 | 💚 | [🔗](https://open.spotify.com/track/3uRLwBjI2TahxslcMTvpFs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude | SUGA's Interlude | Halsey, SUGA, [BTS](overview.md) | [Capitol Records](../../labels/capitol_records) | 688 | 💚 | [🔗](https://open.spotify.com/track/5a0nHa7F4S9hb0Zi0zLS8w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="" width="50" /> | Run BTS | Proof | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 788 | 💚 | [🔗](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6" alt="" width="50" /> | Spring Day | You Never Walk Alone | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 834 | 💚 | [🔗](https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d" alt="" width="50" /> | Singularity | Love Yourself 結 'Answer' | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 858 | 💚 | [🔗](https://open.spotify.com/track/2ApfJvLr7RbhJl6NOVhEu6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732666df197eac73ae823e1e67" alt="" width="50" /> | No More Dream | 2 Cool 4 Skool | [BTS](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 1015 | | [🔗](https://open.spotify.com/track/089PFeXotzDLNQz9NCk6pF) |

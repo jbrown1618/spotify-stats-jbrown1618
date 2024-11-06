@@ -9,7 +9,7 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb359e12a444719c79f3ebabf2" alt="" width="50" /> | 74 | 1 | 0 | NINGNING | [🔗](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb359e12a444719c79f3ebabf2" alt="" width="50" /> | 73 | 1 | 0 | NINGNING | [🔗](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb99234fca18ba6bc8e75620ca" alt="" width="50" /> | 61 | 1 | 0 | G-DRAGON | [🔗](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6497b5457cd9c7bd8b79641b" alt="" width="50" /> | 434 | 1 | 0 | MINHO | [🔗](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) |
 

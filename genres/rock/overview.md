@@ -17,8 +17,8 @@
 | <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | 342 | 6 | 6 | [The Who](../../artists/the_who/overview.md) | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | 265 | 6 | 5 | [Daft Punk](../../artists/daft_punk/overview.md) | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 434 | 5 | 5 | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | 331 | 5 | 4 | Muse | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
-| <img src="https://i.scdn.co/image/e69f71e2be4b67b82af90fb8e9d805715e0684fa" alt="" width="50" /> | 107 | 9 | 3 | Pink Floyd | [🔗](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c" alt="" width="50" /> | 332 | 5 | 4 | Muse | [🔗](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) |
+| <img src="https://i.scdn.co/image/e69f71e2be4b67b82af90fb8e9d805715e0684fa" alt="" width="50" /> | 108 | 9 | 3 | Pink Floyd | [🔗](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8" alt="" width="50" /> | 434 | 6 | 3 | Fleetwood Mac | [🔗](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) |
 
 
@@ -29,9 +29,9 @@
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | 185 | 4 | 3 | Prince | [🔗](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebab47d8dae2b24f5afe7f9d38" alt="" width="50" /> | 393 | 3 | 3 | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3fb5214e667e278a20878a6b" alt="" width="50" /> | 224 | 3 | 3 | alt-J | [🔗](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3fb5214e667e278a20878a6b" alt="" width="50" /> | 225 | 3 | 3 | alt-J | [🔗](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865" alt="" width="50" /> | 156 | 6 | 2 | Paramore | [🔗](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | 222 | 6 | 2 | Elton John | [🔗](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | 223 | 6 | 2 | Elton John | [🔗](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb94a8326675bfcafb20f0a235" alt="" width="50" /> | 434 | 4 | 2 | Johnny Cash | [🔗](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 434 | 4 | 2 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb274df4dfcb960867eccedfb5" alt="" width="50" /> | 434 | 3 | 2 | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
@@ -45,7 +45,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe848dfb35ea4969099662dfd" alt="" width="50" /> | 434 | 3 | 1 | Journey | [🔗](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5733401b4689b2064458e7d" alt="" width="50" /> | 434 | 2 | 1 | Aerosmith | [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4870cd833ebe1092601820c3" alt="" width="50" /> | 434 | 2 | 1 | Black Sabbath | [🔗](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c" alt="" width="50" /> | 358 | 2 | 1 | Guns N' Roses | [🔗](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c" alt="" width="50" /> | 360 | 2 | 1 | Guns N' Roses | [🔗](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbdef7f178c9cf2e8d50cb9b9" alt="" width="50" /> | 434 | 2 | 1 | The Monkees | [🔗](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | 434 | 2 | 1 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb" alt="" width="50" /> | 401 | 2 | 1 | Eagles | [🔗](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) |
@@ -55,15 +55,15 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb338d6964565206f741d5ad1" alt="" width="50" /> | 434 | 1 | 1 | Foreigner | [🔗](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb791fd863f3e6d97157b9a0b1" alt="" width="50" /> | 434 | 1 | 1 | The Black Crowes | [🔗](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb67dc4da82c968767d994f3c3" alt="" width="50" /> | 434 | 1 | 1 | Blondie | [🔗](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebede7b4f5a5316f0cf586ec7e" alt="" width="50" /> | 101 | 1 | 1 | Nile Rodgers | [🔗](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbab088e2157b02848dfcbc1e" alt="" width="50" /> | 406 | 1 | 1 | Chicago | [🔗](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebede7b4f5a5316f0cf586ec7e" alt="" width="50" /> | 102 | 1 | 1 | Nile Rodgers | [🔗](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbab088e2157b02848dfcbc1e" alt="" width="50" /> | 404 | 1 | 1 | Chicago | [🔗](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="" width="50" /> | 168 | 1 | 1 | Jimmy Eat World | [🔗](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | 266 | 1 | 1 | Pharrell Williams | [🔗](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb97357a72fc531a2c2d3ee47a" alt="" width="50" /> | 434 | 1 | 1 | Julian Casablancas | [🔗](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb047095c90419cf2a97266f77" alt="" width="50" /> | 434 | 1 | 1 | Nine Inch Nails | [🔗](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba59a5bcab211f964fe9bfb06" alt="" width="50" /> | 241 | 1 | 1 | TOTO | [🔗](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc884df599abc793c116cdf15" alt="" width="50" /> | 181 | 4 | 0 | Foo Fighters | [🔗](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6ff0cd5ef2ecf733804984bb" alt="" width="50" /> | 172 | 3 | 0 | Green Day | [🔗](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6ff0cd5ef2ecf733804984bb" alt="" width="50" /> | 173 | 3 | 0 | Green Day | [🔗](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd2e2b04b7ba5d60b72f54506" alt="" width="50" /> | 434 | 3 | 0 | Creedence Clearwater Revival | [🔗](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) |
 | <img src="https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e" alt="" width="50" /> | 434 | 3 | 0 | Led Zeppelin | [🔗](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | 434 | 2 | 0 | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
@@ -88,30 +88,30 @@
 ## Most and least listened tracks
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 280 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Paranoid Android](../../artists/radiohead/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="Echoes, Silence, Patience &amp; Grace" width="50" /> | The Pretender |
-| 296 | <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | [Fake Plastic Trees](../../artists/radiohead/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2730ef24611a73e7be48f6c2802" alt="Foreigner (Expanded)" width="50" /> | Cold as Ice |
-| 323 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="The Stranger (Legacy Edition)" width="50" /> | [Vienna](../../artists/billy_joel/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97" alt="The Birds, The Bees, &amp; The Monkees" width="50" /> | Daydream Believer |
-| 326 | <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="A Night At The Opera (Deluxe Remastered Version)" width="50" /> | [Bohemian Rhapsody - Remastered 2011](../../artists/queen/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" alt="Appetite For Destruction" width="50" /> | Sweet Child O' Mine |
-| 336 | <img src="https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34" alt="Innuendo" width="50" /> | [Innuendo - Remastered 2011](../../artists/queen/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> | Knights of Cydonia |
-| 340 | <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="Bleed American" width="50" /> | The Middle | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="Let It Be (Remastered)" width="50" /> | [Let It Be - Remastered 2009](../../artists/the_beatles/overview.md) |
-| 376 | <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="Riot!" width="50" /> | Misery Business | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="Is This It" width="50" /> | Someday |
-| 414 | <img src="https://i.scdn.co/image/ab67616d0000b273609c89ad17eb28c2013c56c6" alt="An Awesome Wave" width="50" /> | Breezeblocks | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889" alt="Jazz (Deluxe Remastered Version)" width="50" /> | [Don't Stop Me Now - Remastered 2011](../../artists/queen/overview.md) |
-| 415 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Because - Remastered 2009](../../artists/the_beatles/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac" alt="Second Helping (Expanded Edition)" width="50" /> | Sweet Home Alabama |
-| 419 | <img src="https://i.scdn.co/image/ab67616d0000b2734a052b99c042dc15f933145b" alt="Toto IV" width="50" /> | Africa | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d" alt="News Of The World (Deluxe Remastered Version)" width="50" /> | [We Are The Champions - Remastered 2011](../../artists/queen/overview.md) |
+| 281 | <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="OK Computer" width="50" /> | [Paranoid Android](../../artists/radiohead/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27383e260c313dc1ff1f17909cf" alt="Echoes, Silence, Patience &amp; Grace" width="50" /> | The Pretender |
+| 299 | <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="The Bends" width="50" /> | [Fake Plastic Trees](../../artists/radiohead/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2730ef24611a73e7be48f6c2802" alt="Foreigner (Expanded)" width="50" /> | Cold as Ice |
+| 324 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="The Stranger (Legacy Edition)" width="50" /> | [Vienna](../../artists/billy_joel/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97" alt="The Birds, The Bees, &amp; The Monkees" width="50" /> | Daydream Believer |
+| 327 | <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="A Night At The Opera (Deluxe Remastered Version)" width="50" /> | [Bohemian Rhapsody - Remastered 2011](../../artists/queen/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" alt="Appetite For Destruction" width="50" /> | Sweet Child O' Mine |
+| 339 | <img src="https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34" alt="Innuendo" width="50" /> | [Innuendo - Remastered 2011](../../artists/queen/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="Black Holes and Revelations" width="50" /> | Knights of Cydonia |
+| 341 | <img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="Bleed American" width="50" /> | The Middle | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="Let It Be (Remastered)" width="50" /> | [Let It Be - Remastered 2009](../../artists/the_beatles/overview.md) |
+| 377 | <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="Riot!" width="50" /> | Misery Business | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4" alt="Is This It" width="50" /> | Someday |
+| 417 | <img src="https://i.scdn.co/image/ab67616d0000b273609c89ad17eb28c2013c56c6" alt="An Awesome Wave" width="50" /> | Breezeblocks | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889" alt="Jazz (Deluxe Remastered Version)" width="50" /> | [Don't Stop Me Now - Remastered 2011](../../artists/queen/overview.md) |
+| 418 | <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="Abbey Road (Remastered)" width="50" /> | [Because - Remastered 2009](../../artists/the_beatles/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac" alt="Second Helping (Expanded Edition)" width="50" /> | Sweet Home Alabama |
+| 422 | <img src="https://i.scdn.co/image/ab67616d0000b2734a052b99c042dc15f933145b" alt="Toto IV" width="50" /> | Africa | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d" alt="News Of The World (Deluxe Remastered Version)" width="50" /> | [We Are The Champions - Remastered 2011](../../artists/queen/overview.md) |
 
 ## Top Albums
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | 293 | 9 | 6 | Abbey Road (Remastered) | 1969-09-26 | [🔗](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25" alt="" width="50" /> | 295 | 9 | 6 | Abbey Road (Remastered) | 1969-09-26 | [🔗](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5" alt="" width="50" /> | 193 | 7 | 7 | The Stranger (Legacy Edition) | 1977 | [🔗](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | 180 | 6 | 6 | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | 183 | 6 | 6 | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2" alt="" width="50" /> | 665 | 5 | 5 | The Beatles (Remastered) | 1968-11-22 | [🔗](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="" width="50" /> | 582 | 5 | 2 | The Dark Side of the Moon | 1973-03-01 | [🔗](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="" width="50" /> | 583 | 5 | 2 | The Dark Side of the Moon | 1973-03-01 | [🔗](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | 467 | 4 | 2 | In Rainbows | 2007-12-28 | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517" alt="" width="50" /> | 665 | 4 | 1 | Stadium Arcadium | 2006-05-09 | [🔗](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27307744e2ed983efa3e6620a47" alt="" width="50" /> | 665 | 3 | 3 | The Game (Deluxe Remastered Version) | 1980-06-27 | [🔗](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | 205 | 3 | 3 | The Bends | 1995-03-13 | [🔗](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | 207 | 3 | 3 | The Bends | 1995-03-13 | [🔗](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1" alt="" width="50" /> | 665 | 3 | 3 | Let It Be (Remastered) | 1970-05-08 | [🔗](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) |
 
 
@@ -121,7 +121,7 @@
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | 665 | 3 | 3 | Bridge Over Troubled Water | 1970-01-26 | [🔗](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273609c89ad17eb28c2013c56c6" alt="" width="50" /> | 292 | 3 | 3 | An Awesome Wave | 2012-09-18 | [🔗](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273609c89ad17eb28c2013c56c6" alt="" width="50" /> | 296 | 3 | 3 | An Awesome Wave | 2012-09-18 | [🔗](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328b8b9b46428896e6491e97a" alt="" width="50" /> | 665 | 3 | 2 | Revolver (Remastered) | 1966-08-05 | [🔗](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273692d9189b2bd75525893f0c1" alt="" width="50" /> | 665 | 3 | 2 | Magical Mystery Tour (Remastered) | 1967-11-27 | [🔗](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736610c21366e613bfd9f5d197" alt="" width="50" /> | 665 | 3 | 2 | Discovery | 2001-03-12 | [🔗](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) |
@@ -129,11 +129,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d48e2f56d691f9a4e4b0bdf" alt="" width="50" /> | 665 | 3 | 0 | The Wall | 1979-11-30 | [🔗](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | 665 | 2 | 2 | Who's Next (Deluxe Edition) | 1971-08-14 | [🔗](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="" width="50" /> | 484 | 2 | 2 | The 2nd Law | 2012-09-24 | [🔗](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | 342 | 2 | 2 | Random Access Memories | 2013-05-20 | [🔗](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | 344 | 2 | 2 | Random Access Memories | 2013-05-20 | [🔗](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d52bfb90ee8dfeda8378b99b" alt="" width="50" /> | 665 | 2 | 2 | Purple Rain | 1984-06-25 | [🔗](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a" alt="" width="50" /> | 589 | 2 | 2 | Night Visions | 2012-09-04 | [🔗](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d" alt="" width="50" /> | 665 | 2 | 2 | News Of The World (Deluxe Remastered Version) | 1977-10-28 | [🔗](https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889" alt="" width="50" /> | 579 | 2 | 2 | Jazz (Deluxe Remastered Version) | 1978-11-10 | [🔗](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889" alt="" width="50" /> | 580 | 2 | 2 | Jazz (Deluxe Remastered Version) | 1978-11-10 | [🔗](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27322d5199692d318c28d6c7d9b" alt="" width="50" /> | 665 | 2 | 2 | Glass Houses | 1980-03-12 | [🔗](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb043195e8d07e72edc7226" alt="" width="50" /> | 665 | 2 | 2 | Fleetwood Mac | 1975-07-11 | [🔗](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7" alt="" width="50" /> | 665 | 2 | 2 | Blurryface | 2015-05-15 | [🔗](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) |
@@ -142,13 +142,13 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4" alt="" width="50" /> | 665 | 2 | 1 | Storm Front | 1989-10-17 | [🔗](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd0ad203a3d2a2343d889a95" alt="" width="50" /> | 665 | 2 | 1 | So Much (For) Stardust | 2023-03-24 | [🔗](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d81c87cd4fa07351a5d14a71" alt="" width="50" /> | 665 | 2 | 1 | River Of Dreams | 1993-08-10 | [🔗](https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="" width="50" /> | 261 | 2 | 1 | Riot! | 2007-06-11 | [🔗](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bee754528c08d5ff6799a1eb" alt="" width="50" /> | 262 | 2 | 1 | Riot! | 2007-06-11 | [🔗](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35" alt="" width="50" /> | 665 | 2 | 1 | Paramore | 2013-04-05 | [🔗](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="" width="50" /> | 665 | 2 | 1 | Metallica | 1991-08-12 | [🔗](https://open.spotify.com/album/6QdCohkHKNTVoaSx1ZzitH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34" alt="" width="50" /> | 241 | 2 | 1 | Innuendo | 1991-02-04 | [🔗](https://open.spotify.com/album/3jYy7yGNCysTHE8MKrIF1k) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34" alt="" width="50" /> | 242 | 2 | 1 | Innuendo | 1991-02-04 | [🔗](https://open.spotify.com/album/3jYy7yGNCysTHE8MKrIF1k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b" alt="" width="50" /> | 665 | 2 | 1 | Goodbye Yellow Brick Road (Remastered) | 1973-10-05 | [🔗](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400" alt="" width="50" /> | 569 | 2 | 1 | Black Holes and Revelations | 2006-06-19 | [🔗](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" alt="" width="50" /> | 512 | 2 | 1 | Appetite For Destruction | 1987-07-21 | [🔗](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" alt="" width="50" /> | 513 | 2 | 1 | Appetite For Destruction | 1987-07-21 | [🔗](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369c47467a7964a67d6dbcf14" alt="" width="50" /> | 665 | 2 | 1 | A Day At The Races | 1976-12-10 | [🔗](https://open.spotify.com/album/3f45rzbU4dYQBTV9v5RFBB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334ef8f7d06cf2fc2146f420a" alt="" width="50" /> | 665 | 2 | 0 | Sgt. Pepper's Lonely Hearts Club Band (Remastered) | 1967-06-01 | [🔗](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="" width="50" /> | 665 | 2 | 0 | Led Zeppelin IV (Deluxe Edition) | 1971-11-08 | [🔗](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) |
@@ -160,7 +160,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="" width="50" /> | 665 | 1 | 1 | Wednesday Morning, 3 A.M. | 1964-10-19 | [🔗](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1731f2c0e1c2c8957f35c76" alt="" width="50" /> | 665 | 1 | 1 | Turnstiles | 1976-05-19 | [🔗](https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273925babfc090a918c3a516a1c" alt="" width="50" /> | 665 | 1 | 1 | Turn the Lights Back On | 2024-02-01 | [🔗](https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a052b99c042dc15f933145b" alt="" width="50" /> | 295 | 1 | 1 | Toto IV | 1982-04-08 | [🔗](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a052b99c042dc15f933145b" alt="" width="50" /> | 298 | 1 | 1 | Toto IV | 1982-04-08 | [🔗](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27374ecb94bc3e5d851a39a0334" alt="" width="50" /> | 665 | 1 | 1 | Tommy | 1969-05-23 | [🔗](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273012d727b175d4a91c792fb4c" alt="" width="50" /> | 665 | 1 | 1 | The Ultimate Collection | 2017-02-03 | [🔗](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b" alt="" width="50" /> | 665 | 1 | 1 | The New Abnormal | 2020-04-10 | [🔗](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) |
@@ -174,11 +174,11 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f" alt="" width="50" /> | 665 | 1 | 1 | Room On Fire | 2003-10-28 | [🔗](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7" alt="" width="50" /> | 665 | 1 | 1 | Ring Of Fire: The Best Of Johnny Cash | 1963-08-06 | [🔗](https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | 665 | 1 | 1 | Point Of Know Return (Expanded Edition) | 1977 | [🔗](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="" width="50" /> | 436 | 1 | 1 | Pieces Of Eight | 1978-01-01 | [🔗](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="" width="50" /> | 437 | 1 | 1 | Pieces Of Eight | 1978-01-01 | [🔗](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3" alt="" width="50" /> | 634 | 1 | 1 | Piano Man (Legacy Edition) | 1973-11-07 | [🔗](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273db9c8abe838bbfb28ed5cc06" alt="" width="50" /> | 665 | 1 | 1 | Piano Man | 1973-11-09 | [🔗](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323cc0f0a925845a3de4aca38" alt="" width="50" /> | 665 | 1 | 1 | Parade - Music from the Motion Picture Under the Cherry Moon | 1986-03-31 | [🔗](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="" width="50" /> | 441 | 1 | 1 | Pablo Honey | 1993-02-22 | [🔗](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="" width="50" /> | 442 | 1 | 1 | Pablo Honey | 1993-02-22 | [🔗](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305c5be85b64eaff732f7cb0b" alt="" width="50" /> | 665 | 1 | 1 | Out Of Our Heads | 1965-07-30 | [🔗](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a" alt="" width="50" /> | 665 | 1 | 1 | Origin of Symmetry | 2001 | [🔗](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="" width="50" /> | 665 | 1 | 1 | My Generation (Stereo Version) | 1965-12-03 | [🔗](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) |
@@ -195,7 +195,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8" alt="" width="50" /> | 665 | 1 | 1 | Graceland (25th Anniversary Deluxe Edition) | 1986-08-12 | [🔗](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730ef24611a73e7be48f6c2802" alt="" width="50" /> | 665 | 1 | 1 | Foreigner (Expanded) | 1977-03-08 | [🔗](https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a" alt="" width="50" /> | 665 | 1 | 1 | Evolve | 2017-06-23 | [🔗](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="" width="50" /> | 298 | 1 | 1 | Elton John | 1970-04-10 | [🔗](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734b292ed7c7360a04d3d6b74a" alt="" width="50" /> | 300 | 1 | 1 | Elton John | 1970-04-10 | [🔗](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04" alt="" width="50" /> | 603 | 1 | 1 | Desperado (2013 Remaster) | 1973-04-17 | [🔗](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730ac413b28547dbc45412a3ce" alt="" width="50" /> | 612 | 1 | 1 | Chicago IX: Chicago's Greatest Hits | 1975-11-10 | [🔗](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27313cbe3e4dfa81fe5b91f2f1c" alt="" width="50" /> | 665 | 1 | 1 | Call Me | 2004-01-01 | [🔗](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) |

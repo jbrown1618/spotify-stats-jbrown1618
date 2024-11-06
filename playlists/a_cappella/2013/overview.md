@@ -4,7 +4,7 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | 40 | 7 | 6 | [The Tarpeggios](../../../artists/the_tarpeggios/overview.md) | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b2621bf3c5f2197ee957582" alt="" width="50" /> | 39 | 7 | 6 | [The Tarpeggios](../../../artists/the_tarpeggios/overview.md) | [🔗](https://open.spotify.com/artist/2HXd5pFHJyaQJr5aXfErrE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd910f1c80f8283f62540792b" alt="" width="50" /> | 34 | 7 | 3 | [Pentatonix](../../../artists/pentatonix/overview.md) | [🔗](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0ff2431dd95126c10fdd23f6" alt="" width="50" /> | 434 | 6 | 0 | GQ | [🔗](https://open.spotify.com/artist/6JYedwPn7zEWlTSUda9mev) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3a9c5b798300322d4bc698f0" alt="" width="50" /> | 434 | 6 | 0 | Tar Heel Voices | [🔗](https://open.spotify.com/artist/1apO6pJsV1nwuF2K8sEsDo) |
@@ -68,7 +68,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Settle Down | Carolina State of Mind | [The Tarpeggios](../../../artists/the_tarpeggios/overview.md) | [The Tarpeggios](../../../labels/the_tarpeggios) | 911 | 💚 | [🔗](https://open.spotify.com/track/2RGGnyqlJ65QcpA4FggZ2x) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Settle Down | Carolina State of Mind | [The Tarpeggios](../../../artists/the_tarpeggios/overview.md) | [The Tarpeggios](../../../labels/the_tarpeggios) | 907 | 💚 | [🔗](https://open.spotify.com/track/2RGGnyqlJ65QcpA4FggZ2x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273954bf7796ba38ada0568352f" alt="" width="50" /> | All I Ask of You | Cappella | Andrew Lloyd Webber, The King's Singers | [Sony Classical](../../../labels/sony_classical), [Sony Music Labels Inc.](../../../labels/sony_music_labels_inc_) | 1015 | | [🔗](https://open.spotify.com/track/5JTRLqApDZKaIwcopt1d9p) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273954bf7796ba38ada0568352f" alt="" width="50" /> | Ave Maria | Cappella | Josquin des Prez, The King's Singers | [Sony Classical](../../../labels/sony_classical), [Sony Music Labels Inc.](../../../labels/sony_music_labels_inc_) | 1015 | | [🔗](https://open.spotify.com/track/6xBGuah2AMT6y5S0HlztUU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273954bf7796ba38ada0568352f" alt="" width="50" /> | Good Vibrations | Cappella | Brian Wilson, Mike Love, The King's Singers | [Sony Classical](../../../labels/sony_classical), [Sony Music Labels Inc.](../../../labels/sony_music_labels_inc_) | 1015 | | [🔗](https://open.spotify.com/track/14LgsPIZ7xKsfkM50VjxuA) |

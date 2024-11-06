@@ -16,7 +16,7 @@ Appears as:
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebecf79fd5be85dabb0f489107" alt="" width="50" /> | 94 | 16 | 5 | [Michael Bublé](../../artists/michael_bublé/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb845fb635fad84bdcda4bf51f" alt="" width="50" /> | 49 | 27 | 0 | Howard Shore | [🔗](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6ff0cd5ef2ecf733804984bb" alt="" width="50" /> | 172 | 3 | 0 | Green Day | [🔗](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6ff0cd5ef2ecf733804984bb" alt="" width="50" /> | 173 | 3 | 0 | Green Day | [🔗](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) |
 | <img src="https://i.scdn.co/image/225b84731734306443d5ff4cfba929dd2d272715" alt="" width="50" /> | 434 | 2 | 0 | James Galway | [🔗](https://open.spotify.com/artist/774mHr909NkDVeyyXQBQfZ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9ce996547e0b307c94f662e6" alt="" width="50" /> | 434 | 2 | 0 | Enya | [🔗](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb67d670ef020436428a2f3a2a" alt="" width="50" /> | 434 | 2 | 0 | Renée Fleming | [🔗](https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8) |
@@ -31,8 +31,8 @@ Appears as:
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734fab8d311b449c66ef171009" alt="" width="50" /> | 410 | 1 | 0 | Billy Boyd | [🔗](https://open.spotify.com/artist/1wTKlkGklPb1JMTVUIwAoj) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb05230e15dc5082f9751c1523" alt="" width="50" /> | 369 | 1 | 0 | The Puppini Sisters | [🔗](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734fab8d311b449c66ef171009" alt="" width="50" /> | 407 | 1 | 0 | Billy Boyd | [🔗](https://open.spotify.com/artist/1wTKlkGklPb1JMTVUIwAoj) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb05230e15dc5082f9751c1523" alt="" width="50" /> | 370 | 1 | 0 | The Puppini Sisters | [🔗](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf84fe9e6fbb2aa001d6cbbd9" alt="" width="50" /> | 434 | 1 | 0 | Mastodon | [🔗](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e207df84db1918075f9a2bff" alt="" width="50" /> | 434 | 1 | 0 | Viggo Mortensen | [🔗](https://open.spotify.com/artist/11habIRpXVkScDFp3rJrgu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3bec85b95ac189dbbdc3f724" alt="" width="50" /> | 434 | 1 | 0 | Emilíana Torrini | [🔗](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) |
@@ -46,12 +46,12 @@ Appears as:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="" width="50" /> | 333 | 11 | 0 | The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack) | 2003-11-24 | [🔗](https://open.spotify.com/album/38x0H9PdY1fHh8EdfPUXqa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="" width="50" /> | 334 | 11 | 0 | The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack) | 2003-11-24 | [🔗](https://open.spotify.com/album/38x0H9PdY1fHh8EdfPUXqa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7" alt="" width="50" /> | 665 | 10 | 0 | The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack) | 2002-12-02 | [🔗](https://open.spotify.com/album/1zIoYLpYOq8d4HFzHJ7vc8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce" alt="" width="50" /> | 665 | 9 | 0 | The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack) | 2001-11-19 | [🔗](https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | 524 | 4 | 0 | Christmas (Deluxe Special Edition) | 2012-11-09 | [🔗](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | 525 | 4 | 0 | Christmas (Deluxe Special Edition) | 2012-11-09 | [🔗](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | 665 | 3 | 1 | Call Me Irresponsible | 2007-04-27 | [🔗](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | 574 | 2 | 2 | It's Time | 2005-02-08 | [🔗](https://open.spotify.com/album/457fktVFXVwjQTl9wOLlfg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | 573 | 2 | 2 | It's Time | 2005-02-08 | [🔗](https://open.spotify.com/album/457fktVFXVwjQTl9wOLlfg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | 663 | 2 | 1 | Michael Bublé | 2003 | [🔗](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab" alt="" width="50" /> | 665 | 2 | 1 | Crazy Love | 2009-10-06 | [🔗](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="" width="50" /> | 665 | 1 | 0 | love (Deluxe Edition) | 2018-11-16 | [🔗](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) |
@@ -160,12 +160,12 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="" width="50" /> | Anduril | The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack) | Howard Shore | [Reprise](.) | 480 | | [🔗](https://open.spotify.com/track/6GO5qVDkPvw2vr07pQChmZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | Frosty the Snowman (feat. The Puppini Sisters) | Christmas (Deluxe Special Edition) | [Michael Bublé](../../artists/michael_bublé/overview.md), The Puppini Sisters | [143](../143), [Reprise](.) | 804 | | [🔗](https://open.spotify.com/track/27TJMHguLnuW3y2UPqXeC2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | Feeling Good | It's Time | [Michael Bublé](../../artists/michael_bublé/overview.md) | [143](../143), [Reprise](.) | 871 | 💚 | [🔗](https://open.spotify.com/track/72PwtNhRrZXNnYeRg5xQ46) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="" width="50" /> | The Steward of Gondor (feat. Billy Boyd) | The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack) | Howard Shore, Billy Boyd | [Reprise](.) | 935 | | [🔗](https://open.spotify.com/track/227hmntzKpN4CsYt3RVKcC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | It's Beginning to Look a Lot like Christmas | Christmas (Deluxe Special Edition) | [Michael Bublé](../../artists/michael_bublé/overview.md) | [143](../143), [Reprise](.) | 975 | | [🔗](https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | Moondance | Michael Bublé | [Michael Bublé](../../artists/michael_bublé/overview.md) | [143](../143), [Reprise](.) | 1005 | 💚 | [🔗](https://open.spotify.com/track/25Yzff59UGjz7wNWmjM39h) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="" width="50" /> | Anduril | The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack) | Howard Shore | [Reprise](.) | 481 | | [🔗](https://open.spotify.com/track/6GO5qVDkPvw2vr07pQChmZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | Frosty the Snowman (feat. The Puppini Sisters) | Christmas (Deluxe Special Edition) | [Michael Bublé](../../artists/michael_bublé/overview.md), The Puppini Sisters | [143](../143), [Reprise](.) | 807 | | [🔗](https://open.spotify.com/track/27TJMHguLnuW3y2UPqXeC2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | Feeling Good | It's Time | [Michael Bublé](../../artists/michael_bublé/overview.md) | [143](../143), [Reprise](.) | 872 | 💚 | [🔗](https://open.spotify.com/track/72PwtNhRrZXNnYeRg5xQ46) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="" width="50" /> | The Steward of Gondor (feat. Billy Boyd) | The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack) | Howard Shore, Billy Boyd | [Reprise](.) | 946 | | [🔗](https://open.spotify.com/track/227hmntzKpN4CsYt3RVKcC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273119e4094f07a8123b471ac1d" alt="" width="50" /> | It's Beginning to Look a Lot like Christmas | Christmas (Deluxe Special Edition) | [Michael Bublé](../../artists/michael_bublé/overview.md) | [143](../143), [Reprise](.) | 978 | | [🔗](https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b732a522a686bb304a5d3fdf" alt="" width="50" /> | Moondance | Michael Bublé | [Michael Bublé](../../artists/michael_bublé/overview.md) | [143](../143), [Reprise](.) | 1002 | 💚 | [🔗](https://open.spotify.com/track/25Yzff59UGjz7wNWmjM39h) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776" alt="" width="50" /> | Good Riddance (Time of Your Life) | Nimrod | Green Day | [Reprise](.) | 1015 | | [🔗](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce" alt="" width="50" /> | Concerning Hobbits | The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack) | Howard Shore | [Reprise](.) | 1015 | | [🔗](https://open.spotify.com/track/644es5aYPJghtZLjM1rmSP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce" alt="" width="50" /> | Lothlorien (feat. "Lament for Gandalf") | The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack) | Howard Shore, Elizabeth Fraser | [Reprise](.) | 1015 | | [🔗](https://open.spotify.com/track/63CXPpiEiW7JnXvZ1cUXcp) |

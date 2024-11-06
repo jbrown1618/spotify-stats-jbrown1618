@@ -13,15 +13,15 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 39 | 11 | 6 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 40 | 11 | 6 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebecf79fd5be85dabb0f489107" alt="" width="50" /> | 94 | 12 | 5 | [Michael Bublé](../../artists/michael_bublé/overview.md) | [🔗](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6f65b0a3af9b1de3b17f7ffb" alt="" width="50" /> | 150 | 5 | 5 | [The 8-Bit Big Band](../../artists/the_8-bit_big_band/overview.md) | [🔗](https://open.spotify.com/artist/5d1sgs6DwqUcHqQsvwStt2) |
 | <img src="https://i.scdn.co/image/ab6772690000c46c4a0e9d5e55f9f3721c3243c5" alt="" width="50" /> | 281 | 7 | 3 | Louis Armstrong | [🔗](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) |
-| <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | 354 | 7 | 2 | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
+| <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | 356 | 7 | 2 | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
 | <img src="https://i.scdn.co/image/3c1d23141059785c8a863137d176319329dc17ef" alt="" width="50" /> | 239 | 3 | 2 | Ella Fitzgerald | [🔗](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6af5c534d932dd7a5b39816b" alt="" width="50" /> | 340 | 2 | 2 | Metropole Orkest | [🔗](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6af5c534d932dd7a5b39816b" alt="" width="50" /> | 339 | 2 | 2 | Metropole Orkest | [🔗](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebab810a44a4d387152d610d93" alt="" width="50" /> | 341 | 2 | 2 | Jules Buckley | [🔗](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb058531dfd9746a96ad85265f" alt="" width="50" /> | 372 | 2 | 2 | Etta James | [🔗](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb058531dfd9746a96ad85265f" alt="" width="50" /> | 371 | 2 | 2 | Etta James | [🔗](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca17170af02af227d6ea0c31" alt="" width="50" /> | 209 | 2 | 1 | Herbie Hancock | [🔗](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) |
 
 
@@ -83,15 +83,15 @@
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
 | 371 | <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Tetris Theme A (From "Tetris")](../../artists/the_8-bit_big_band/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273417cc363d7286a88489dee3c" alt="Getz/Gilberto (Expanded Edition)" width="50" /> | The Girl From Ipanema |
-| 477 | <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="Billie Holiday" width="50" /> | I'll Be Seeing You | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="Come Fly with Me" width="50" /> | [Can't Help Falling in Love](../../artists/michael_bublé/overview.md) |
-| 543 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [He Won't Hold You (feat. Rapsody)](../../artists/jacob_collier/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="Djesse Vol. 2" width="50" /> | [Feel (feat. Lianne La Havas)](../../artists/jacob_collier/overview.md) |
-| 556 | <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="The Great American Songbook" width="50" /> | Mack the Knife | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27300ace5d3c5bffc123ef1eb51" alt="Time Out" width="50" /> | Blue Rondo à la Turk |
-| 595 | <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="Solitude" width="50" /> | Blue Moon | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27388ab39d88260598e95ebf5f4" alt="Love, Ella" width="50" /> | Dream A Little Dream Of Me - Single Version |
-| 683 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [Running Outta Love (feat. Tori Kelly)](../../artists/jacob_collier/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="Strangers In The Night (Expanded Edition)" width="50" /> | [Strangers In The Night](../../artists/frank_sinatra/overview.md) |
+| 478 | <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="Billie Holiday" width="50" /> | I'll Be Seeing You | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="Come Fly with Me" width="50" /> | [Can't Help Falling in Love](../../artists/michael_bublé/overview.md) |
+| 546 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [He Won't Hold You (feat. Rapsody)](../../artists/jacob_collier/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="Djesse Vol. 2" width="50" /> | [Feel (feat. Lianne La Havas)](../../artists/jacob_collier/overview.md) |
+| 559 | <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="The Great American Songbook" width="50" /> | Mack the Knife | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27300ace5d3c5bffc123ef1eb51" alt="Time Out" width="50" /> | Blue Rondo à la Turk |
+| 596 | <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="Solitude" width="50" /> | Blue Moon | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27388ab39d88260598e95ebf5f4" alt="Love, Ella" width="50" /> | Dream A Little Dream Of Me - Single Version |
+| 682 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [Running Outta Love (feat. Tori Kelly)](../../artists/jacob_collier/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="Strangers In The Night (Expanded Edition)" width="50" /> | [Strangers In The Night](../../artists/frank_sinatra/overview.md) |
 | 690 | <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="Djesse Vol. 1" width="50" /> | [Every Little Thing She Does Is Magic](../../artists/jacob_collier/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27343c7453d0338f82a05464751" alt="In My Room" width="50" /> | [Flintstones](../../artists/jacob_collier/overview.md) |
-| 796 | <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="Djesse Vol. 2" width="50" /> | [Moon River](../../artists/jacob_collier/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273bd7d4673627a7674f0103c1d" alt="Solo Monk (Expanded Edition)" width="50" /> | I'm Confessin' (That I Love You) |
-| 811 | <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="At Last!" width="50" /> | Stormy Weather | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27330c348e8e33a9cdd1aa58152" alt="Fat Albert Rotunda" width="50" /> | Tell Me a Bedtime Story |
-| 818 | <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="The Complete Ella And Louis On Verve" width="50" /> | Cheek To Cheek | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273402a4c99daa9d7daaf636aa5" alt="Straight, No Chaser" width="50" /> | Straight, No Chaser |
+| 797 | <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="Djesse Vol. 2" width="50" /> | [Moon River](../../artists/jacob_collier/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273bd7d4673627a7674f0103c1d" alt="Solo Monk (Expanded Edition)" width="50" /> | I'm Confessin' (That I Love You) |
+| 815 | <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="At Last!" width="50" /> | Stormy Weather | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27330c348e8e33a9cdd1aa58152" alt="Fat Albert Rotunda" width="50" /> | Tell Me a Bedtime Story |
+| 821 | <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="The Complete Ella And Louis On Verve" width="50" /> | Cheek To Cheek | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273402a4c99daa9d7daaf636aa5" alt="Straight, No Chaser" width="50" /> | Straight, No Chaser |
 
 </details>
 
@@ -105,12 +105,12 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c4b46aeb1f53dcffa9b0d96" alt="" width="50" /> | 665 | 9 | 0 | Inner Motion | 1990-01-01 | [🔗](https://open.spotify.com/album/6azX9ZDZzVLjpQy6ytifne) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | 257 | 5 | 5 | Choose Your Character! | 2019-06-24 | [🔗](https://open.spotify.com/album/2d3PcBi2ID1sLe8ZRTmxIi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27343c7453d0338f82a05464751" alt="" width="50" /> | 665 | 3 | 2 | In My Room | 2016-07-01 | [🔗](https://open.spotify.com/album/70N5l7CBZmAMCh1WfnM6in) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | 259 | 3 | 2 | Djesse Vol. 3 | 2020-08-14 | [🔗](https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | 260 | 3 | 2 | Djesse Vol. 3 | 2020-08-14 | [🔗](https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ceedc8c879a1f6784fbeef5" alt="" width="50" /> | 665 | 3 | 1 | Call Me Irresponsible | 2007-04-27 | [🔗](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="" width="50" /> | 526 | 3 | 0 | Djesse Vol. 2 | 2019-07-19 | [🔗](https://open.spotify.com/album/3zNi5dCpkbm4zv7h1vGOMy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | 574 | 2 | 2 | It's Time | 2005-02-08 | [🔗](https://open.spotify.com/album/457fktVFXVwjQTl9wOLlfg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354de35ac4fc5d8ed1ec1d956" alt="" width="50" /> | 527 | 3 | 0 | Djesse Vol. 2 | 2019-07-19 | [🔗](https://open.spotify.com/album/3zNi5dCpkbm4zv7h1vGOMy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273030f9cd9be82fcec657f545b" alt="" width="50" /> | 573 | 2 | 2 | It's Time | 2005-02-08 | [🔗](https://open.spotify.com/album/457fktVFXVwjQTl9wOLlfg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743022e9c8fb580e3dabc397" alt="" width="50" /> | 460 | 2 | 2 | Djesse Vol. 1 | 2018-12-07 | [🔗](https://open.spotify.com/album/47bMDS4CMLbqcIVjEMWUjK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="" width="50" /> | 538 | 2 | 2 | At Last! | 1960 | [🔗](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="" width="50" /> | 536 | 2 | 2 | At Last! | 1960 | [🔗](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) |
 
 
 <details>
@@ -138,21 +138,21 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737bc42f3bfb5b7cfe28fbee25" alt="" width="50" /> | 665 | 1 | 1 | After Hours | 1955-04-12 | [🔗](https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f3f20826d44c30a017fd68e" alt="" width="50" /> | 665 | 1 | 0 | love (Deluxe Edition) | 2018-11-16 | [🔗](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ea560d522ef653c268d79c9" alt="" width="50" /> | 665 | 1 | 0 | Time Further Out | 1961 | [🔗](https://open.spotify.com/album/0eMXd1VtCXCkuGWn9JjRDT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="" width="50" /> | 384 | 1 | 0 | The Great American Songbook | 1929 | [🔗](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="" width="50" /> | 542 | 1 | 0 | The Complete Ella And Louis On Verve | 1997-05-20 | [🔗](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="" width="50" /> | 385 | 1 | 0 | The Great American Songbook | 1929 | [🔗](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="" width="50" /> | 543 | 1 | 0 | The Complete Ella And Louis On Verve | 1997-05-20 | [🔗](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2" alt="" width="50" /> | 665 | 1 | 0 | That's Life | 1966-11 | [🔗](https://open.spotify.com/album/3gNsjaUsu9cRckgUFx5NsY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9" alt="" width="50" /> | 665 | 1 | 0 | Strangers In The Night (Expanded Edition) | 1966-05 | [🔗](https://open.spotify.com/album/1kyb5tomEXcA106V57puFW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273402a4c99daa9d7daaf636aa5" alt="" width="50" /> | 665 | 1 | 0 | Straight, No Chaser | 1967 | [🔗](https://open.spotify.com/album/1BHwJqnHhuIryphXMZ0PMQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="" width="50" /> | 665 | 1 | 0 | Songs For Swingin' Lovers! (Remastered) | 1956-03 | [🔗](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd7d4673627a7674f0103c1d" alt="" width="50" /> | 665 | 1 | 0 | Solo Monk (Expanded Edition) | 1964 | [🔗](https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="" width="50" /> | 404 | 1 | 0 | Solitude | 1956-01-01 | [🔗](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="" width="50" /> | 406 | 1 | 0 | Solitude | 1956-01-01 | [🔗](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f018a687cc12aa41e7b4cd80" alt="" width="50" /> | 665 | 1 | 0 | Sofie's SOS Tape | 2016-12-16 | [🔗](https://open.spotify.com/album/4HSL9qNMgDUNQFngd3ODit) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd1ea8639de6d3f827fba218" alt="" width="50" /> | 665 | 1 | 0 | Satchmo Serenades | 1952-04-01 | [🔗](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27302400024139ed6d658f812f9" alt="" width="50" /> | 665 | 1 | 0 | SONGBOOK | 2019-12-11 | [🔗](https://open.spotify.com/album/2UwPx0FeKzZKO8c0fQDwg8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="" width="50" /> | 665 | 1 | 0 | Romance | 2021-02-12 | [🔗](https://open.spotify.com/album/5MuNxtOyex8o77Qdjaqeng) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab2083ab4b97f7948ff163a1" alt="" width="50" /> | 665 | 1 | 0 | Relaxin' With The Miles Davis Quintet | 1958 | [🔗](https://open.spotify.com/album/0dyIXPKoUBt1vFJHX57dqt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b59886e766636d1ae10fe7b3" alt="" width="50" /> | 665 | 1 | 0 | Nobody but Me | 2016-10-21 | [🔗](https://open.spotify.com/album/5wN1OizIFEHDUkRwzIK3wL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a28007a6d7aab5778c003d2c" alt="" width="50" /> | 563 | 1 | 0 | Merrily Music | 2014-11-17 | [🔗](https://open.spotify.com/album/6O0dTa4D3abCy6X6nYsHql) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a28007a6d7aab5778c003d2c" alt="" width="50" /> | 565 | 1 | 0 | Merrily Music | 2014-11-17 | [🔗](https://open.spotify.com/album/6O0dTa4D3abCy6X6nYsHql) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2ef9d24ed47c5d44d22adb8" alt="" width="50" /> | 665 | 1 | 0 | Make Someone Happy | 2007-01-01 | [🔗](https://open.spotify.com/album/2oGYlZ7vte6lJ1MuwKKCeW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1113af3a19a41dc8eec534e" alt="" width="50" /> | 665 | 1 | 0 | Luck Of The Draw | 1991-01-01 | [🔗](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736b75d57d2d070c0c4afb3f9a" alt="" width="50" /> | 665 | 1 | 0 | Head Hunters | 1973-10-26 | [🔗](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) |
@@ -164,8 +164,8 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27311ee8f400df1c708db8fa471" alt="" width="50" /> | 665 | 1 | 0 | Come Fly with Me | 2004-03-30 | [🔗](https://open.spotify.com/album/0UhvDeKmtgegXeELEVgGRh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | 665 | 1 | 0 | Come Fly With Me (Expanded Edition) | 1958 | [🔗](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731200e79c84a8d967d5f727e9" alt="" width="50" /> | 665 | 1 | 0 | Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster) | 2010-01-01 | [🔗](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273611ea3fb281f7956ffd33b77" alt="" width="50" /> | 580 | 1 | 0 | Blue Train | 1957-11-01 | [🔗](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="" width="50" /> | 336 | 1 | 0 | Billie Holiday | 1957-01-01 | [🔗](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273611ea3fb281f7956ffd33b77" alt="" width="50" /> | 581 | 1 | 0 | Blue Train | 1957-11-01 | [🔗](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="" width="50" /> | 337 | 1 | 0 | Billie Holiday | 1957-01-01 | [🔗](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c690daf9854f3b9267c9aeb" alt="" width="50" /> | 665 | 1 | 0 | A Day In The Life | 1967-01-01 | [🔗](https://open.spotify.com/album/5Z6DQMOjrC5DK1pQ3RBdZ5) |
 
 </details>

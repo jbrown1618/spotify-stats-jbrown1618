@@ -70,7 +70,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6e895483075f6e493f491476" alt="" width="50" /> | 434 | 1 | 0 | Collegium Vocale Gent | [🔗](https://open.spotify.com/artist/17BdLN9q8RRQQqyklLwac1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b463341dade63d8c54a6a15e" alt="" width="50" /> | 434 | 1 | 0 | Dennis Keene | [🔗](https://open.spotify.com/artist/16e7cTpnxHfo8KnwinUysN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba1f2835ca8b0eba6b2159e8d" alt="" width="50" /> | 434 | 1 | 0 | Tenebrae | [🔗](https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 39 | 1 | 0 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 40 | 1 | 0 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ef4105bd054322c9e1dab7f" alt="" width="50" /> | 434 | 1 | 0 | Christian Dillig | [🔗](https://open.spotify.com/artist/0Ens2zPly8UFhQmyUUXlOH) |
 
 </details>

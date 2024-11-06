@@ -9,7 +9,7 @@
 [See Clusters](clusters/overview.md)
 
 ## Artist Rank
-- The #138 artist of all time
+- The #139 artist of all time
 
 ![Rank of Lady Gaga over time](../../images/artists/lady_gaga/rank_time_series.png)
 ## Top Tracks
@@ -133,7 +133,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Sour Candy (with BLACKPINK) | Chromatica | [Lady Gaga](overview.md), [BLACKPINK](../blackpink/overview.md) | [Interscope](../../labels/interscope_records) | 777 | 💚 | [🔗](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Sour Candy (with BLACKPINK) | Chromatica | [Lady Gaga](overview.md), [BLACKPINK](../blackpink/overview.md) | [Interscope](../../labels/interscope_records) | 781 | 💚 | [🔗](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0" alt="" width="50" /> | Just Dance | The Fame | [Lady Gaga](overview.md), Colby O'Donis | [Interscope](../../labels/interscope_records) | 1015 | | [🔗](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0" alt="" width="50" /> | LoveGame | The Fame | [Lady Gaga](overview.md) | [Interscope](../../labels/interscope_records) | 1015 | 💚 | [🔗](https://open.spotify.com/track/0TcJ7QWpggdSg8t0fHThHm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0" alt="" width="50" /> | Paparazzi | The Fame | [Lady Gaga](overview.md) | [Interscope](../../labels/interscope_records) | 1015 | | [🔗](https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM) |

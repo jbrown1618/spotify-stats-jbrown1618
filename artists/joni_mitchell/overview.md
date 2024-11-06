@@ -5,7 +5,7 @@
 <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="Joni Mitchell" width="100" />
 
 ## Artist Rank
-- The #402 artist of all time
+- The #403 artist of all time
 
 ![Rank of Joni Mitchell over time](../../images/artists/joni_mitchell/rank_time_series.png)
 ## Top Tracks

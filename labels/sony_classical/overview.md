@@ -16,7 +16,7 @@ Appears as:
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb0fcd51414e7bbe85e00b6f" alt="" width="50" /> | 434 | 38 | 0 | Yo-Yo Ma | [🔗](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) |
 | <img src="https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88" alt="" width="50" /> | 434 | 36 | 0 | [Johann Sebastian Bach](../../artists/johann_sebastian_bach/overview.md) | [🔗](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb86b13e4d2e65ebf694384ef4" alt="" width="50" /> | 360 | 8 | 0 | John Williams | [🔗](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb86b13e4d2e65ebf694384ef4" alt="" width="50" /> | 361 | 8 | 0 | John Williams | [🔗](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5a5d168879568c94e86c61aa" alt="" width="50" /> | 434 | 5 | 0 | [London Symphony Orchestra](../../artists/london_symphony_orchestra/overview.md) | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe4536d632bb182e3f82baaaf" alt="" width="50" /> | 434 | 3 | 0 | The King's Singers | [🔗](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) |
 | <img src="https://i.scdn.co/image/9f3000f8b92afc7fae3b79f5e12ab2e652561a71" alt="" width="50" /> | 434 | 1 | 0 | Edgar Meyer | [🔗](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD) |

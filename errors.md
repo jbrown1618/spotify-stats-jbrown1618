@@ -38,18 +38,18 @@
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 80 |
 | Sleep-walking | Prequel | Dreamcatcher | 0 | 1 | 61 |
 | Tiptoe, Gallop or March | Adventures in Pre-School Dance, Vol. 1 | Andrew Holdsworth | 0 | 0 | 56 |
-| Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 54 |
+| Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 55 |
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 50 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 32 |
-| Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 66 |
-| Underground | Artemis | Lindsey Stirling | 2 | 2 | 66 |
+| Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 67 |
+| Underground | Artemis | Lindsey Stirling | 2 | 2 | 67 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 51 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 65 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 60 |
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 68 |
 | Lone Digger | <|º_º|> | Caravan Palace | 2 | 2 | 62 |
-| We're Going to the Zoo | Kids Animal Songs | Love to Sing | 0 | 0 | 42 |
-| This Is the Way the Lady Rides | Kids Animal Songs | Love to Sing | 0 | 0 | 42 |
+| We're Going to the Zoo | Kids Animal Songs | Love to Sing | 0 | 0 | 43 |
+| This Is the Way the Lady Rides | Kids Animal Songs | Love to Sing | 0 | 0 | 43 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | Jin | 0 | 0 | 80 |
 | Wings | Wings | PIXY | 0 | 0 | 38 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 39 |
@@ -164,19 +164,15 @@
 | Lose | Love Synonym #2 : Right for Us | WONHO | 0 | 0 | 45 |
 | Hello Song | Music Together Family Favorites | Music Together | 0 | 0 | 51 |
 | Octopus (Slippery Fish) | 10 Carrot Diamond | Charlotte Diamond | 0 | 0 | 43 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 55 |
-| Sofa Silahlane | Sofa Silahlane | Wanitwa Mos | 2 | 1 | 56 |
-| Sofa Silahlane | Sofa Silahlane | Nkosazana Daughter | 2 | 1 | 61 |
-| Sofa Silahlane | Sofa Silahlane | Master KG | 2 | 1 | 63 |
-| Sofa Silahlane | Sofa Silahlane | Lowsheen | 2 | 1 | 47 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 56 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 60 |
 | Toy | Toy | Netta | 1 | 0 | 49 |
-| Itsy Bitsy Spider | Songs for Kids: Classic Children's Music | Toddler Tunes | 0 | 0 | 52 |
-| Daddy Finger (The Finger Family) | More Songs for Kids: Classic Children's Music | Toddler Tunes | 0 | 0 | 52 |
+| Itsy Bitsy Spider | Songs for Kids: Classic Children's Music | Toddler Tunes | 0 | 0 | 53 |
+| Daddy Finger (The Finger Family) | More Songs for Kids: Classic Children's Music | Toddler Tunes | 0 | 0 | 53 |
 | 白月光与朱砂痣 | 白月光与朱砂痣 | 大籽 | 0 | 0 | 45 |
 | If you are happy and you know it | DansingKids: Growing through music | DanSingKids | 0 | 0 | 35 |
 | 青春修炼手册 | 青春修炼手册 | TFBOYS | 1 | 0 | 44 |
 | Lost Woods | Zelda: Ocarina of Time - Piano | Wesley Sprayue | 0 | 0 | 41 |
-| Because Of You | CALL BACK - The 1st Album | MINHO | 0 | 0 | 40 |
+| Because Of You | CALL BACK - The 1st Album | MINHO | 0 | 0 | 41 |
 | Because Of You | CALL BACK - The 1st Album | NINGNING | 0 | 0 | 51 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 55 |

@@ -27,7 +27,7 @@ Sammy Rae & The Friends is currently:
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27397c6ad2505c3c67f99b49ac5" alt="" width="50" /> | 665 | 4 | 2 | Something for Everybody | 2024-09-20 | [🔗](https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="" width="50" /> | 242 | 3 | 2 | The Good Life | 2018-07-10 | [🔗](https://open.spotify.com/album/4s1igjt5YJe7s7BdCeX3DX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="" width="50" /> | 243 | 3 | 2 | The Good Life | 2018-07-10 | [🔗](https://open.spotify.com/album/4s1igjt5YJe7s7BdCeX3DX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d43af9a040457f0eb9c478b" alt="" width="50" /> | 599 | 3 | 2 | I Get It Now | 2024-04-12 | [🔗](https://open.spotify.com/album/5zZHAGHasjwkR9B1xX3Xq6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736646e03c0ee350a175ab6d5b" alt="" width="50" /> | 665 | 1 | 0 | Whatever We Feel | 2020-04-03 | [🔗](https://open.spotify.com/album/4Qcemk272gcxq9D6ca40Xz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27331cfb3b6d1abde235358f218" alt="" width="50" /> | 665 | 1 | 0 | Saw It Coming | 2019-05-10 | [🔗](https://open.spotify.com/album/1rMlFYPvk8FFDQYIJ8pudV) |
@@ -56,8 +56,8 @@ Sammy Rae & The Friends is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="" width="50" /> | Talk It Up | The Good Life | [Sammy Rae & The Friends](overview.md) | [Nettwerk Music Group](../../labels/nettwerk_music_group) | 337 | 💚 | [🔗](https://open.spotify.com/track/7FQCZ5i5bmQ76LoGHyVcX0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d43af9a040457f0eb9c478b" alt="" width="50" /> | I Get It Now | I Get It Now | [Sammy Rae & The Friends](overview.md) | [Nettwerk Music Group](../../labels/nettwerk_music_group) | 910 | 💚 | [🔗](https://open.spotify.com/track/03ECDyILFfQ98k106zwcIt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="" width="50" /> | Talk It Up | The Good Life | [Sammy Rae & The Friends](overview.md) | [Nettwerk Music Group](../../labels/nettwerk_music_group) | 340 | 💚 | [🔗](https://open.spotify.com/track/7FQCZ5i5bmQ76LoGHyVcX0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d43af9a040457f0eb9c478b" alt="" width="50" /> | I Get It Now | I Get It Now | [Sammy Rae & The Friends](overview.md) | [Nettwerk Music Group](../../labels/nettwerk_music_group) | 909 | 💚 | [🔗](https://open.spotify.com/track/03ECDyILFfQ98k106zwcIt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="" width="50" /> | Kick It to Me | The Good Life | [Sammy Rae & The Friends](overview.md) | [Nettwerk Music Group](../../labels/nettwerk_music_group) | 1015 | 💚 | [🔗](https://open.spotify.com/track/6QZbDUZEgkwaVWROtWzjQ0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733378545422c5257483f6230e" alt="" width="50" /> | The Feeling | The Good Life | [Sammy Rae & The Friends](overview.md) | [Nettwerk Music Group](../../labels/nettwerk_music_group) | 1015 | | [🔗](https://open.spotify.com/track/0dmCos7GHCr5PRKp5LNGH7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27331cfb3b6d1abde235358f218" alt="" width="50" /> | Saw It Coming | Saw It Coming | [Sammy Rae & The Friends](overview.md) | [Nettwerk Music Group](../../labels/nettwerk_music_group) | 1015 | | [🔗](https://open.spotify.com/track/0hU26xDCONlEnAtcMGw4NC) |

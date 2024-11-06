@@ -19,7 +19,7 @@
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | 485 | 7 | 5 | eternal sunshine | 2024-03-08 | [🔗](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | 388 | 6 | 2 | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | 2024-04-19 | [🔗](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | 389 | 6 | 2 | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | 2024-04-19 | [🔗](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62" alt="" width="50" /> | 665 | 3 | 3 | HIT ME HARD AND SOFT | 2024-05-17 | [🔗](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626" alt="" width="50" /> | 665 | 2 | 2 | Short n' Sweet | 2024-08-23 | [🔗](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e" alt="" width="50" /> | 665 | 2 | 1 | BRAT | 2024-06-07 | [🔗](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) |
@@ -46,8 +46,8 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | The Smallest Man Who Ever Lived | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | [Taylor Swift](../../../artists/taylor_swift/overview.md) | [Taylor Swift](../../../labels/taylor_swift) | 569 | | [🔗](https://open.spotify.com/track/1xtw1krCR6Dw2KwkXw5z63) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | imperfect for you | eternal sunshine | [Ariana Grande](../../../artists/ariana_grande/overview.md) | [Republic Records](../../../labels/republic_records) | 726 | 💚 | [🔗](https://open.spotify.com/track/6XXKB32Om6WuXg3uEWwTob) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | The Smallest Man Who Ever Lived | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | [Taylor Swift](../../../artists/taylor_swift/overview.md) | [Taylor Swift](../../../labels/taylor_swift) | 570 | | [🔗](https://open.spotify.com/track/1xtw1krCR6Dw2KwkXw5z63) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | imperfect for you | eternal sunshine | [Ariana Grande](../../../artists/ariana_grande/overview.md) | [Republic Records](../../../labels/republic_records) | 729 | 💚 | [🔗](https://open.spotify.com/track/6XXKB32Om6WuXg3uEWwTob) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | don't wanna break up again | eternal sunshine | [Ariana Grande](../../../artists/ariana_grande/overview.md) | [Republic Records](../../../labels/republic_records) | 1015 | 💚 | [🔗](https://open.spotify.com/track/0o3ua5ufFK7nfRzbDUNoGA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | ordinary things (feat. Nonna) | eternal sunshine | [Ariana Grande](../../../artists/ariana_grande/overview.md), Nonna | [Republic Records](../../../labels/republic_records) | 1015 | | [🔗](https://open.spotify.com/track/4mHM5d2fK3n8xgymjf92w2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4" alt="" width="50" /> | the boy is mine | eternal sunshine | [Ariana Grande](../../../artists/ariana_grande/overview.md) | [Republic Records](../../../labels/republic_records) | 1015 | 💚 | [🔗](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) |

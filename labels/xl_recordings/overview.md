@@ -15,7 +15,7 @@ Appears as:
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd" alt="" width="50" /> | 48 | 17 | 15 | [Radiohead](../../artists/radiohead/overview.md) | [🔗](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 128 | 6 | 4 | [Adele](../../artists/adele/overview.md) | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 129 | 6 | 4 | [Adele](../../artists/adele/overview.md) | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
 
 
 
@@ -23,12 +23,12 @@ Appears as:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | 180 | 6 | 6 | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | 165 | 4 | 3 | 21 | 2011-01-24 | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | 183 | 6 | 6 | OK Computer | 1997-05-28 | [🔗](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | 166 | 4 | 3 | 21 | 2011-01-24 | [🔗](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | 467 | 4 | 2 | In Rainbows | 2007-12-28 | [🔗](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | 205 | 3 | 3 | The Bends | 1995-03-13 | [🔗](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | 207 | 3 | 3 | The Bends | 1995-03-13 | [🔗](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732737be35cc5245eef495be90" alt="" width="50" /> | 665 | 1 | 1 | Skyfall | 2012-10-04 | [🔗](https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="" width="50" /> | 441 | 1 | 1 | Pablo Honey | 1993-02-22 | [🔗](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="" width="50" /> | 442 | 1 | 1 | Pablo Honey | 1993-02-22 | [🔗](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="" width="50" /> | 665 | 1 | 1 | Kid A | 2000-10-02 | [🔗](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730da53e8f58e59f28a79c10c7" alt="" width="50" /> | 665 | 1 | 1 | Hail To the Thief | 2003-06-09 | [🔗](https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273863e0e305637100311c91aa7" alt="" width="50" /> | 665 | 1 | 1 | Amnesiac | 2001-03-12 | [🔗](https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0) |
@@ -103,15 +103,15 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | Take It All | 21 | [Adele](../../artists/adele/overview.md) | [XL Recordings](.) | 219 | 💚 | [🔗](https://open.spotify.com/track/08YJEcxGtYXwCGqXMZDiyQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Paranoid Android | OK Computer | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | 280 | 💚 | [🔗](https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | Fake Plastic Trees | The Bends | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | 296 | 💚 | [🔗](https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Exit Music (For A Film) | OK Computer | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | 463 | 💚 | [🔗](https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="" width="50" /> | Creep | Pablo Honey | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | 657 | 💚 | [🔗](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | Jigsaw Falling Into Place | In Rainbows | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | 700 | 💚 | [🔗](https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Let Down | OK Computer | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | 749 | 💚 | [🔗](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | Street Spirit (Fade Out) | The Bends | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | 774 | 💚 | [🔗](https://open.spotify.com/track/2QwObYJWyJTiozvs0RI7CF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Karma Police | OK Computer | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | 780 | 💚 | [🔗](https://open.spotify.com/track/63OQupATfueTdZMWTxW03A) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300" alt="" width="50" /> | Take It All | 21 | [Adele](../../artists/adele/overview.md) | [XL Recordings](.) | 220 | 💚 | [🔗](https://open.spotify.com/track/08YJEcxGtYXwCGqXMZDiyQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Paranoid Android | OK Computer | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | 281 | 💚 | [🔗](https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | Fake Plastic Trees | The Bends | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | 299 | 💚 | [🔗](https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Exit Music (For A Film) | OK Computer | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | 467 | 💚 | [🔗](https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95" alt="" width="50" /> | Creep | Pablo Honey | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | 659 | 💚 | [🔗](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="" width="50" /> | Jigsaw Falling Into Place | In Rainbows | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | 702 | 💚 | [🔗](https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Let Down | OK Computer | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | 753 | 💚 | [🔗](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | Street Spirit (Fade Out) | The Bends | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | 776 | 💚 | [🔗](https://open.spotify.com/track/2QwObYJWyJTiozvs0RI7CF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856" alt="" width="50" /> | Karma Police | OK Computer | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | 786 | 💚 | [🔗](https://open.spotify.com/track/63OQupATfueTdZMWTxW03A) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12" alt="" width="50" /> | High and Dry | The Bends | [Radiohead](../../artists/radiohead/overview.md) | [XL Recordings](.) | 1015 | 💚 | [🔗](https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf) |
 
 

@@ -22,7 +22,7 @@ NCT DREAM:
 
 ## Artist Rank
 NCT DREAM is currently:
-- The #29 artist of the last 6 months
+- The #30 artist of the last 6 months
 - The #25 artist of the last year
 - The #24 artist of all time
 
@@ -64,8 +64,8 @@ NCT DREAM is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ec123b44bb80bb94fc5c237" alt="" width="50" /> | 665 | 1 | 1 | Reload | 2020-04-29 | [🔗](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739dec4de4b22d56be408ee2fd" alt="" width="50" /> | 252 | 1 | 1 | Hot Sauce - The 1st Album | 2021-05-10 | [🔗](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e6d118f2ad157bf0bbfb83cf" alt="" width="50" /> | 665 | 1 | 1 | Hello Future - The 1st Album Repackage | 2021-06-28 | [🔗](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="" width="50" /> | 260 | 1 | 1 | Candy - Winter Special Mini Album | 2022-12-16 | [🔗](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734fbde4c63b86079e0517b1cb" alt="" width="50" /> | 513 | 1 | 1 | Beatbox - The 2nd Album Repackage | 2022-05-30 | [🔗](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="" width="50" /> | 261 | 1 | 1 | Candy - Winter Special Mini Album | 2022-12-16 | [🔗](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734fbde4c63b86079e0517b1cb" alt="" width="50" /> | 514 | 1 | 1 | Beatbox - The 2nd Album Repackage | 2022-05-30 | [🔗](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361b3c67028845d3f48acd5be" alt="" width="50" /> | 665 | 1 | 0 | JOY - SM STATION | 2017-12-15 | [🔗](https://open.spotify.com/album/5UkUr57L6X1gopnzG1dyBa) |
 
 
@@ -121,12 +121,12 @@ NCT DREAM is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="" width="50" /> | BOOM | We Boom - The 3rd Mini Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 46 | 💚 | [🔗](https://open.spotify.com/track/6rcn967QN5JtkPOBDwYIuT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="" width="50" /> | Smoothie | DREAM( )SCAPE | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 335 | 💚 | [🔗](https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739dec4de4b22d56be408ee2fd" alt="" width="50" /> | Hot Sauce | Hot Sauce - The 1st Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 361 | 💚 | [🔗](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="" width="50" /> | BOOM | We Boom - The 3rd Mini Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 48 | 💚 | [🔗](https://open.spotify.com/track/6rcn967QN5JtkPOBDwYIuT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="" width="50" /> | Smoothie | DREAM( )SCAPE | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 337 | 💚 | [🔗](https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739dec4de4b22d56be408ee2fd" alt="" width="50" /> | Hot Sauce | Hot Sauce - The 1st Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 363 | 💚 | [🔗](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="" width="50" /> | Candy | Candy - Winter Special Mini Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 375 | 💚 | [🔗](https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="" width="50" /> | BOX | DREAM( )SCAPE | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 697 | | [🔗](https://open.spotify.com/track/4I95uQMtIwg7779WEDy8Mc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734fbde4c63b86079e0517b1cb" alt="" width="50" /> | Beatbox | Beatbox - The 2nd Album Repackage | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 772 | 💚 | [🔗](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d005a1842f60a0242ee43be7" alt="" width="50" /> | BOX | DREAM( )SCAPE | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 701 | | [🔗](https://open.spotify.com/track/4I95uQMtIwg7779WEDy8Mc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734fbde4c63b86079e0517b1cb" alt="" width="50" /> | Beatbox | Beatbox - The 2nd Album Repackage | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 778 | 💚 | [🔗](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1ee973dde5ec47914ebc0e1" alt="" width="50" /> | ISTJ | ISTJ - The 3rd Album | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 905 | 💚 | [🔗](https://open.spotify.com/track/43Pmqpiw4zFY77pT5QdxQ8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361b3c67028845d3f48acd5be" alt="" width="50" /> | JOY | JOY - SM STATION | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1015 | | [🔗](https://open.spotify.com/track/3I4pgDhMKp6Sww3lTxyg8X) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ec123b44bb80bb94fc5c237" alt="" width="50" /> | Ridin' | Reload | [NCT DREAM](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1015 | 💚 | [🔗](https://open.spotify.com/track/0EMD15EVNwDlgGH2CH6ZEL) |

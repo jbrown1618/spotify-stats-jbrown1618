@@ -14,8 +14,8 @@ MISAMO:
 
 ## Artist Rank
 MISAMO is currently:
-- The #20 artist of the last month
-- The #27 artist of the last 6 months
+- The #19 artist of the last month
+- The #28 artist of the last 6 months
 - The #44 artist of the last year
 - The #41 artist of all time
 
@@ -51,8 +51,8 @@ MISAMO is currently:
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | 32 | 4 | 4 | Masterpiece | 2023-07-26 | [🔗](https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ded03a196ef62a7b250c0508" alt="" width="50" /> | 319 | 1 | 1 | NEW LOOK | 2024-10-09 | [🔗](https://open.spotify.com/album/0nIHweIUCe2nVy5stte3GY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27374cd8ad952524e5eb6463bda" alt="" width="50" /> | 585 | 1 | 1 | Identity | 2024-10-28 | [🔗](https://open.spotify.com/album/7xzn12f7FNR7ZaZ5RB7afD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ded03a196ef62a7b250c0508" alt="" width="50" /> | 266 | 1 | 1 | NEW LOOK | 2024-10-09 | [🔗](https://open.spotify.com/album/0nIHweIUCe2nVy5stte3GY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27374cd8ad952524e5eb6463bda" alt="" width="50" /> | 537 | 1 | 1 | Identity | 2024-10-28 | [🔗](https://open.spotify.com/album/7xzn12f7FNR7ZaZ5RB7afD) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -98,9 +98,9 @@ MISAMO is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | It's not easy for you | Masterpiece | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 64 | 💚 | [🔗](https://open.spotify.com/track/1qNk7XPTbyuO4bsDl0T6nN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Behind The Curtain | Masterpiece | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 85 | 💚 | [🔗](https://open.spotify.com/track/14nturKxV48wR3lbknehiu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Funny Valentine | Masterpiece | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 299 | 💚 | [🔗](https://open.spotify.com/track/4xtgQGbQnII1buKgl5fguT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Do not touch | Masterpiece | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 332 | 💚 | [🔗](https://open.spotify.com/track/5gq7xM6eI16osBO2U581NL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ded03a196ef62a7b250c0508" alt="" width="50" /> | NEW LOOK | NEW LOOK | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 453 | 💚 | [🔗](https://open.spotify.com/track/451U7NEyfqtVefeIgSoJF0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27374cd8ad952524e5eb6463bda" alt="" width="50" /> | Identity | Identity | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 887 | 💚 | [🔗](https://open.spotify.com/track/5vL4zyP6X132arv4VhySLT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | It's not easy for you | Masterpiece | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 65 | 💚 | [🔗](https://open.spotify.com/track/1qNk7XPTbyuO4bsDl0T6nN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Behind The Curtain | Masterpiece | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 86 | 💚 | [🔗](https://open.spotify.com/track/14nturKxV48wR3lbknehiu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Funny Valentine | Masterpiece | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 290 | 💚 | [🔗](https://open.spotify.com/track/4xtgQGbQnII1buKgl5fguT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Do not touch | Masterpiece | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 334 | 💚 | [🔗](https://open.spotify.com/track/5gq7xM6eI16osBO2U581NL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ded03a196ef62a7b250c0508" alt="" width="50" /> | NEW LOOK | NEW LOOK | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 381 | 💚 | [🔗](https://open.spotify.com/track/451U7NEyfqtVefeIgSoJF0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27374cd8ad952524e5eb6463bda" alt="" width="50" /> | Identity | Identity | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 813 | 💚 | [🔗](https://open.spotify.com/track/5vL4zyP6X132arv4VhySLT) |

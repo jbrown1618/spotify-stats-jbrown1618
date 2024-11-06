@@ -9,7 +9,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | 88 | 3 | 2 | [Dua Lipa](../../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1" alt="" width="50" /> | 110 | 2 | 2 | [Janelle Monáe](../../../artists/janelle_monáe/overview.md) | [🔗](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 33 | 2 | 2 | [Ariana Grande](../../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4b09cd0839c6129c29d22f79" alt="" width="50" /> | 138 | 2 | 2 | [Lady Gaga](../../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b09cd0839c6129c29d22f79" alt="" width="50" /> | 139 | 2 | 2 | [Lady Gaga](../../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da" alt="" width="50" /> | 46 | 1 | 1 | [Billie Eilish](../../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd5594e3ae145bbb2c096366d" alt="" width="50" /> | 380 | 1 | 1 | Charlie Puth | [🔗](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb62462a1a43ff08f8a982791" alt="" width="50" /> | 434 | 1 | 1 | Dominic Fike | [🔗](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) |
@@ -35,7 +35,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd56712ef06c48938329731e1" alt="" width="50" /> | 323 | 1 | 0 | Shawn Mendes | [🔗](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb014a3c1730d960c66396ed63" alt="" width="50" /> | 434 | 1 | 0 | Calvin Harris | [🔗](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebead1540fa76796266fadba33" alt="" width="50" /> | 344 | 1 | 0 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb4ba86c361191d48cbeb4b32" alt="" width="50" /> | 219 | 1 | 0 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb4ba86c361191d48cbeb4b32" alt="" width="50" /> | 220 | 1 | 0 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4" alt="" width="50" /> | 434 | 1 | 0 | Mark Ronson | [🔗](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaa2d9bd207a62adc3edf6631" alt="" width="50" /> | 434 | 1 | 0 | Florida Georgia Line | [🔗](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe5bc630548fb3517cf90edb8" alt="" width="50" /> | 434 | 1 | 0 | Daniel Caesar | [🔗](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) |
@@ -84,7 +84,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="" width="50" /> | Tango | MINT | ABIR | Fez's Finest, LLC | 941 | 💚 | [🔗](https://open.spotify.com/track/24jrwTJSlYOCguuLa4j28A) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3b343b757e4f3275bb2f26a" alt="" width="50" /> | Tango | MINT | ABIR | Fez's Finest, LLC | 936 | 💚 | [🔗](https://open.spotify.com/track/24jrwTJSlYOCguuLa4j28A) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Consequences | Camila | [Camila Cabello](../../../artists/camila_cabello/overview.md) | [Epic](../../../labels/epic), [Syco Music](../../../labels/syco_music) | 1015 | 💚 | [🔗](https://open.spotify.com/track/7sTtHHrD0zDpmzQzH3zegz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Havana (feat. Young Thug) | Camila | [Camila Cabello](../../../artists/camila_cabello/overview.md), Young Thug | [Epic](../../../labels/epic), [Syco Music](../../../labels/syco_music) | 1015 | 💚 | [🔗](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Never Be the Same | Camila | [Camila Cabello](../../../artists/camila_cabello/overview.md) | [Epic](../../../labels/epic), [Syco Music](../../../labels/syco_music) | 1015 | 💚 | [🔗](https://open.spotify.com/track/4eWQlBRaTjPPUlzacqEeoQ) |

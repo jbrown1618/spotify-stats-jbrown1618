@@ -17,7 +17,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe848dfb35ea4969099662dfd" alt="" width="50" /> | 434 | 3 | 1 | Journey | [🔗](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc5733401b4689b2064458e7d" alt="" width="50" /> | 434 | 2 | 1 | Aerosmith | [🔗](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4870cd833ebe1092601820c3" alt="" width="50" /> | 434 | 2 | 1 | Black Sabbath | [🔗](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c" alt="" width="50" /> | 358 | 2 | 1 | Guns N' Roses | [🔗](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c" alt="" width="50" /> | 360 | 2 | 1 | Guns N' Roses | [🔗](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc4c77549095c86acb4e77b37" alt="" width="50" /> | 434 | 1 | 1 | AC/DC | [🔗](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb624ddceb90bdf808ed4e2e35" alt="" width="50" /> | 434 | 1 | 1 | Steve Miller Band | [🔗](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) |
 
@@ -45,10 +45,10 @@
 ## Most and least listened tracks
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 419 | <img src="https://i.scdn.co/image/ab67616d0000b2734a052b99c042dc15f933145b" alt="Toto IV" width="50" /> | Africa | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2730ef24611a73e7be48f6c2802" alt="Foreigner (Expanded)" width="50" /> | Cold as Ice |
-| 652 | <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="Pieces Of Eight" width="50" /> | Renegade | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" alt="Appetite For Destruction" width="50" /> | Sweet Child O' Mine |
-| 694 | <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="Who Are You" width="50" /> | [Who Are You](../../artists/the_who/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac" alt="Second Helping (Expanded Edition)" width="50" /> | Sweet Home Alabama |
-| 771 | <img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" alt="Appetite For Destruction" width="50" /> | Welcome To The Jungle | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d" alt="Infinity" width="50" /> | Lights |
+| 422 | <img src="https://i.scdn.co/image/ab67616d0000b2734a052b99c042dc15f933145b" alt="Toto IV" width="50" /> | Africa | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2730ef24611a73e7be48f6c2802" alt="Foreigner (Expanded)" width="50" /> | Cold as Ice |
+| 654 | <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="Pieces Of Eight" width="50" /> | Renegade | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" alt="Appetite For Destruction" width="50" /> | Sweet Child O' Mine |
+| 696 | <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="Who Are You" width="50" /> | [Who Are You](../../artists/the_who/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac" alt="Second Helping (Expanded Edition)" width="50" /> | Sweet Home Alabama |
+| 775 | <img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" alt="Appetite For Destruction" width="50" /> | Welcome To The Jungle | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d" alt="Infinity" width="50" /> | Lights |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="Shake Your Money Maker" width="50" /> | Hard To Handle | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="Led Zeppelin III (Remaster)" width="50" /> | Immigrant Song - Remaster |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae" alt="Back In Black" width="50" /> | Back In Black | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" alt="Metallica (Remastered)" width="50" /> | Wherever I May Roam (Remastered) |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27388f0f719259b0dec23a7c367" alt="The Grand Illusion" width="50" /> | Come Sail Away | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2737e8045e318486885fe243817" alt="Departure" width="50" /> | Any Way You Want It |
@@ -62,11 +62,11 @@
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe24dcd263c08c6dd84b6e8c" alt="" width="50" /> | 665 | 2 | 2 | Who's Next (Deluxe Edition) | 1971-08-14 | [🔗](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce" alt="" width="50" /> | 665 | 2 | 1 | Metallica | 1991-08-12 | [🔗](https://open.spotify.com/album/6QdCohkHKNTVoaSx1ZzitH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" alt="" width="50" /> | 512 | 2 | 1 | Appetite For Destruction | 1987-07-21 | [🔗](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5" alt="" width="50" /> | 513 | 2 | 1 | Appetite For Destruction | 1987-07-21 | [🔗](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="" width="50" /> | 665 | 2 | 0 | Led Zeppelin IV (Deluxe Edition) | 1971-11-08 | [🔗](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d3eda886f81a2bad9274f02" alt="" width="50" /> | 665 | 1 | 1 | Who's Next (Expanded Edition) | 1971-08-14 | [🔗](https://open.spotify.com/album/53PBYiedQrASAs5sy63JqT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="" width="50" /> | 465 | 1 | 1 | Who Are You | 1978-08-18 | [🔗](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734a052b99c042dc15f933145b" alt="" width="50" /> | 295 | 1 | 1 | Toto IV | 1982-04-08 | [🔗](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a052b99c042dc15f933145b" alt="" width="50" /> | 298 | 1 | 1 | Toto IV | 1982-04-08 | [🔗](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27374ecb94bc3e5d851a39a0334" alt="" width="50" /> | 665 | 1 | 1 | Tommy | 1969-05-23 | [🔗](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273012d727b175d4a91c792fb4c" alt="" width="50" /> | 665 | 1 | 1 | The Ultimate Collection | 2017-02-03 | [🔗](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273375445cc7a2aedff11361b51" alt="" width="50" /> | 665 | 1 | 1 | The Joker | 1973-01-01 | [🔗](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) |
@@ -80,7 +80,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27388f0f719259b0dec23a7c367" alt="" width="50" /> | 665 | 1 | 1 | The Grand Illusion | 1977-01-01 | [🔗](https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4d2cb95d3ea17f773db23ee" alt="" width="50" /> | 665 | 1 | 1 | Shake Your Money Maker | 1990-02-13 | [🔗](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c" alt="" width="50" /> | 665 | 1 | 1 | Point Of Know Return (Expanded Edition) | 1977 | [🔗](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="" width="50" /> | 436 | 1 | 1 | Pieces Of Eight | 1978-01-01 | [🔗](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f106d873a30a31efa73f4e74" alt="" width="50" /> | 437 | 1 | 1 | Pieces Of Eight | 1978-01-01 | [🔗](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="" width="50" /> | 665 | 1 | 1 | My Generation (Stereo Version) | 1965-12-03 | [🔗](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869" alt="" width="50" /> | 665 | 1 | 1 | Metallica (Remastered) | 1991-08-12 | [🔗](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51" alt="" width="50" /> | 665 | 1 | 1 | Leftoverture (Expanded Edition) | 1976 | [🔗](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) |

@@ -14,7 +14,7 @@ Appears as:
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | 20 | 40 | 22 | [Taylor Swift](../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6f0263707e8448af7c91b1a9" alt="" width="50" /> | 403 | 1 | 1 | Bon Iver | [🔗](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6f0263707e8448af7c91b1a9" alt="" width="50" /> | 402 | 1 | 1 | Bon Iver | [🔗](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261" alt="" width="50" /> | 119 | 1 | 1 | [Lana Del Rey](../../artists/lana_del_rey/overview.md) | [🔗](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5f32a5ef76b9480c601f256f" alt="" width="50" /> | 434 | 1 | 0 | Brendon Urie | [🔗](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba688abfbbed1037befa47232" alt="" width="50" /> | 392 | 1 | 0 | HAIM | [🔗](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) |
@@ -29,7 +29,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | 606 | 10 | 6 | folklore | 2020-07-24 | [🔗](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5" alt="" width="50" /> | 665 | 10 | 5 | Midnights | 2022-10-21 | [🔗](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | 598 | 9 | 6 | Lover | 2019-08-23 | [🔗](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | 388 | 6 | 2 | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | 2024-04-19 | [🔗](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | 389 | 6 | 2 | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | 2024-04-19 | [🔗](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | 665 | 3 | 2 | evermore | 2020-12-11 | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481" alt="" width="50" /> | 665 | 1 | 1 | Speak Now (Taylor's Version) | 2023-07-07 | [🔗](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a48964b5d9a3d6968ae3e0de" alt="" width="50" /> | 665 | 1 | 0 | Fearless (Taylor's Version) | 2021-04-09 | [🔗](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) |
@@ -103,9 +103,9 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | The Smallest Man Who Ever Lived | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | [Taylor Swift](../../artists/taylor_swift/overview.md) | [Taylor Swift](.) | 569 | | [🔗](https://open.spotify.com/track/1xtw1krCR6Dw2KwkXw5z63) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Death By A Thousand Cuts | Lover | [Taylor Swift](../../artists/taylor_swift/overview.md) | [Taylor Swift](.) | 907 | 💚 | [🔗](https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | exile (feat. Bon Iver) | folklore | [Taylor Swift](../../artists/taylor_swift/overview.md), Bon Iver | [Taylor Swift](.) | 926 | 💚 | [🔗](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa" alt="" width="50" /> | The Smallest Man Who Ever Lived | THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY | [Taylor Swift](../../artists/taylor_swift/overview.md) | [Taylor Swift](.) | 570 | | [🔗](https://open.spotify.com/track/1xtw1krCR6Dw2KwkXw5z63) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Death By A Thousand Cuts | Lover | [Taylor Swift](../../artists/taylor_swift/overview.md) | [Taylor Swift](.) | 908 | 💚 | [🔗](https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | exile (feat. Bon Iver) | folklore | [Taylor Swift](../../artists/taylor_swift/overview.md), Bon Iver | [Taylor Swift](.) | 924 | 💚 | [🔗](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Cornelia Street | Lover | [Taylor Swift](../../artists/taylor_swift/overview.md) | [Taylor Swift](.) | 1015 | 💚 | [🔗](https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | Cruel Summer | Lover | [Taylor Swift](../../artists/taylor_swift/overview.md) | [Taylor Swift](.) | 1015 | 💚 | [🔗](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647" alt="" width="50" /> | False God | Lover | [Taylor Swift](../../artists/taylor_swift/overview.md) | [Taylor Swift](.) | 1015 | | [🔗](https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so) |

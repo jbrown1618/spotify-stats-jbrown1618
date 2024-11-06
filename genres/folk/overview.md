@@ -10,15 +10,15 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | 402 | 8 | 5 | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [🔗](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) |
+| <img src="https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3" alt="" width="50" /> | 403 | 8 | 5 | [Joni Mitchell](../../artists/joni_mitchell/overview.md) | [🔗](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) |
 | <img src="https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6" alt="" width="50" /> | 434 | 5 | 5 | [Simon & Garfunkel](../../artists/simon___garfunkel/overview.md) | [🔗](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7d2e812e63d6df77ee087b47" alt="" width="50" /> | 210 | 3 | 3 | Fleet Foxes | [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7d2e812e63d6df77ee087b47" alt="" width="50" /> | 211 | 3 | 3 | Fleet Foxes | [🔗](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e35e5ceab6998278006481" alt="" width="50" /> | 434 | 3 | 3 | Brandi Carlile | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5885f6c2d3ecf8e08bdfa472" alt="" width="50" /> | 434 | 4 | 2 | Van Morrison | [🔗](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636" alt="" width="50" /> | 434 | 2 | 1 | Paul Simon | [🔗](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcdbd28dd134a8828825088de" alt="" width="50" /> | 434 | 1 | 1 | Indigo Girls | [🔗](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273743ebb11200358b5c050f542" alt="" width="50" /> | 434 | 1 | 1 | Harry Chapin | [🔗](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | 222 | 1 | 1 | Elton John | [🔗](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | 223 | 1 | 1 | Elton John | [🔗](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebea6c3263b9aeda33707faee5" alt="" width="50" /> | 434 | 2 | 0 | Carole King | [🔗](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) |
 
 
@@ -39,7 +39,7 @@
 ## Most and least listened tracks
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 534 | <img src="https://i.scdn.co/image/ab67616d0000b2733818b4c636e2a7fdea3bf965" alt="Fleet Foxes" width="50" /> | White Winter Hymnal | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273e79dc1438d650f426b5e99a7" alt="Blue" width="50" /> | [A Case of You](../../artists/joni_mitchell/overview.md) |
+| 535 | <img src="https://i.scdn.co/image/ab67616d0000b2733818b4c636e2a7fdea3bf965" alt="Fleet Foxes" width="50" /> | White Winter Hymnal | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273e79dc1438d650f426b5e99a7" alt="Blue" width="50" /> | [A Case of You](../../artists/joni_mitchell/overview.md) |
 | 922 | <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="Song to a Seagull" width="50" /> | [The Dawntreader](../../artists/joni_mitchell/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="Bridge Over Troubled Water" width="50" /> | [The Boxer](../../artists/simon___garfunkel/overview.md) |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604" alt="The Essential Van Morrison" width="50" /> | Crazy Love | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273e12c4f1b0c312675b67b6b0e" alt="Song to a Seagull" width="50" /> | [I Had a King](../../artists/joni_mitchell/overview.md) |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2736ae87ba9541e21c4e5a5926d" alt="The Firewatcher&#x27;s Daughter" width="50" /> | The Eye | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="Bridge Over Troubled Water" width="50" /> | [Bridge Over Troubled Water](../../artists/simon___garfunkel/overview.md) |

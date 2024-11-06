@@ -43,10 +43,10 @@ Appears as:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 110 | 5 | 5 | I've IVE | 2023-04-10 | [🔗](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="" width="50" /> | 98 | 4 | 4 | IVE SWITCH | 2024-04-29 | [🔗](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | 215 | 2 | 2 | I'VE MINE | 2023-10-13 | [🔗](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | 258 | 2 | 1 | LOVE DIVE | 2022-04-05 | [🔗](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 111 | 5 | 5 | I've IVE | 2023-04-10 | [🔗](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="" width="50" /> | 99 | 4 | 4 | IVE SWITCH | 2024-04-29 | [🔗](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | 216 | 2 | 2 | I'VE MINE | 2023-10-13 | [🔗](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | 259 | 2 | 1 | LOVE DIVE | 2022-04-05 | [🔗](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="" width="50" /> | 665 | 2 | 0 | INSANE LOVE | 2016-06-21 | [🔗](https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27342678cd46d7322e395400930" alt="" width="50" /> | 665 | 1 | 1 | UNNATURAL | 2021-03-31 | [🔗](https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | 665 | 1 | 1 | TOUCH N MOVE | 2014-07-21 | [🔗](https://open.spotify.com/album/0SeSM1CAqu7QUkive4jCKl) |
@@ -61,17 +61,17 @@ Appears as:
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273689b4c9e69a72bd3398f2e88" alt="" width="50" /> | 665 | 1 | 1 | Sequence | 2022-07-05 | [🔗](https://open.spotify.com/album/2Cv3xionHF2O7QL8p6MbCT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="" width="50" /> | 487 | 1 | 1 | REASON | 2023-01-09 | [🔗](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="" width="50" /> | 488 | 1 | 1 | REASON | 2023-01-09 | [🔗](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303b313cdf98d61d141645f11" alt="" width="50" /> | 665 | 1 | 1 | One of a Kind | 2021-06-01 | [🔗](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732251d59955f53adcd39014ea" alt="" width="50" /> | 665 | 1 | 1 | Neverland | 2020-06-09 | [🔗](https://open.spotify.com/album/5DHseF14USVgIZ6AzsX9bi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334a05859b4935468f9d8b810" alt="" width="50" /> | 665 | 1 | 1 | My attitude | 2021-05-12 | [🔗](https://open.spotify.com/album/1RR97BqW9TH7t0vV4T9JcG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27365414519ff7d939ddfb53c21" alt="" width="50" /> | 412 | 1 | 1 | LOVE & HATE | 2013-11-26 | [🔗](https://open.spotify.com/album/26FsnZOVOJDjKeWUbXuDVG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27365414519ff7d939ddfb53c21" alt="" width="50" /> | 413 | 1 | 1 | LOVE & HATE | 2013-11-26 | [🔗](https://open.spotify.com/album/26FsnZOVOJDjKeWUbXuDVG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273963ab68340962c032261c06c" alt="" width="50" /> | 665 | 1 | 1 | LIGHTS | 2023-05-22 | [🔗](https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b66327ff0474d017472d7b18" alt="" width="50" /> | 665 | 1 | 1 | HAPPY MOMENT (1) | 2017-06-07 | [🔗](https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27352d75b524e594fec397a2e88" alt="" width="50" /> | 665 | 1 | 1 | Give It To Me | 2013-06-11 | [🔗](https://open.spotify.com/album/1nErNFyYvHnuCYvfwrMyoz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 366 | 1 | 1 | ELEVEN | 2021-12-01 | [🔗](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5" alt="" width="50" /> | 178 | 1 | 1 | After LIKE | 2022-08-22 | [🔗](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8a007b9e0ba32eee1651227" alt="" width="50" /> | 349 | 1 | 1 | ALONE | 2012-04-12 | [🔗](https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | 367 | 1 | 1 | ELEVEN | 2021-12-01 | [🔗](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5" alt="" width="50" /> | 180 | 1 | 1 | After LIKE | 2022-08-22 | [🔗](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8a007b9e0ba32eee1651227" alt="" width="50" /> | 352 | 1 | 1 | ALONE | 2012-04-12 | [🔗](https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c564791fd5ae81ca9da399f4" alt="" width="50" /> | 665 | 1 | 0 | Super Yuppers! | 2022-01-05 | [🔗](https://open.spotify.com/album/5Sh3VW04we2IqNP7BlBwuM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273404c584f708c5a2fb05bdeb3" alt="" width="50" /> | 665 | 1 | 0 | Spotify Singles - Holiday | 2022-11-16 | [🔗](https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb2456c53306bc582b406462" alt="" width="50" /> | 665 | 1 | 0 | SHAKE IT | 2015-06-22 | [🔗](https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C) |
@@ -179,15 +179,15 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="" width="50" /> | Blue Heart | IVE SWITCH | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 130 | 💚 | [🔗](https://open.spotify.com/track/00wTgWOnpWPlTvFsAkZBme) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="" width="50" /> | Blue Heart | IVE SWITCH | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 131 | 💚 | [🔗](https://open.spotify.com/track/00wTgWOnpWPlTvFsAkZBme) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | I AM | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 140 | 💚 | [🔗](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5" alt="" width="50" /> | After LIKE | After LIKE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 243 | 💚 | [🔗](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="" width="50" /> | 해야 (HEYA) | IVE SWITCH | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 266 | 💚 | [🔗](https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Baddie | I'VE MINE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 297 | 💚 | [🔗](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="" width="50" /> | Ice Queen | IVE SWITCH | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 339 | 💚 | [🔗](https://open.spotify.com/track/5h0QtLzRxaGI9ujUMugAhr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27387f53da5fb4ab1171766b2d5" alt="" width="50" /> | After LIKE | After LIKE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 244 | 💚 | [🔗](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="" width="50" /> | 해야 (HEYA) | IVE SWITCH | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 267 | 💚 | [🔗](https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d00ac692bae6ce08d2b49ad" alt="" width="50" /> | Baddie | I'VE MINE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 300 | 💚 | [🔗](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="" width="50" /> | Ice Queen | IVE SWITCH | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 343 | 💚 | [🔗](https://open.spotify.com/track/5h0QtLzRxaGI9ujUMugAhr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739016f58cc49e6473e1207093" alt="" width="50" /> | LOVE DIVE | LOVE DIVE | [IVE](../../artists/ive/overview.md) | [STARSHIP Entertainment](.) | 373 | 💚 | [🔗](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Lips | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 437 | 💚 | [🔗](https://open.spotify.com/track/0dRSOmb7pqkkmjXCu5BYbe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8a007b9e0ba32eee1651227" alt="" width="50" /> | Alone | ALONE | SISTAR | [Starship Entertainment](.) | 497 | 💚 | [🔗](https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Lips | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 440 | 💚 | [🔗](https://open.spotify.com/track/0dRSOmb7pqkkmjXCu5BYbe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8a007b9e0ba32eee1651227" alt="" width="50" /> | Alone | ALONE | SISTAR | [Starship Entertainment](.) | 498 | 💚 | [🔗](https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | 섬찟 (Hypnosis) | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 516 | 💚 | [🔗](https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT) |
 
 
@@ -196,11 +196,11 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="" width="50" /> | Accendio | IVE SWITCH | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 521 | 💚 | [🔗](https://open.spotify.com/track/1BAtAtx0VgWgAMROWK9WYf) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | ELEVEN | ELEVEN | [IVE](../../artists/ive/overview.md) | [STARSHIP Entertainment](.) | 523 | 💚 | [🔗](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27365414519ff7d939ddfb53c21" alt="" width="50" /> | One way love | LOVE & HATE | HYOLYN | [Starship Entertainment](.) | 607 | 💚 | [🔗](https://open.spotify.com/track/2UIXAxLWIPM6ALPGCeeXfH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="" width="50" /> | Beautiful Liar | REASON | MONSTA X | [Starship Entertainment](.) | 733 | 💚 | [🔗](https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Blue Blood | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 872 | 💚 | [🔗](https://open.spotify.com/track/2avdbiswb0d5AFmyyz68xP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="" width="50" /> | Accendio | IVE SWITCH | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 522 | 💚 | [🔗](https://open.spotify.com/track/1BAtAtx0VgWgAMROWK9WYf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da343b21617aac0c57e332bb" alt="" width="50" /> | ELEVEN | ELEVEN | [IVE](../../artists/ive/overview.md) | [STARSHIP Entertainment](.) | 524 | 💚 | [🔗](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27365414519ff7d939ddfb53c21" alt="" width="50" /> | One way love | LOVE & HATE | HYOLYN | [Starship Entertainment](.) | 608 | 💚 | [🔗](https://open.spotify.com/track/2UIXAxLWIPM6ALPGCeeXfH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273303c2dba413b58c5137c69c4" alt="" width="50" /> | Beautiful Liar | REASON | MONSTA X | [Starship Entertainment](.) | 734 | 💚 | [🔗](https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325ef3cec1eceefd4db2f91c8" alt="" width="50" /> | Blue Blood | I've IVE | [IVE](../../artists/ive/overview.md) | [Starship Entertainment](.) | 873 | 💚 | [🔗](https://open.spotify.com/track/2avdbiswb0d5AFmyyz68xP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363c31401b11c56386ed0c9b7" alt="" width="50" /> | Ma Boy | Ma Boy | SISTAR19 | [Starship Entertainment](.) | 1015 | | [🔗](https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27352d75b524e594fec397a2e88" alt="" width="50" /> | Give it to me | Give It To Me | SISTAR | [Starship Entertainment](.) | 1015 | 💚 | [🔗](https://open.spotify.com/track/1t88m8JUlqn9kf0FLmVta5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733be3a6a60408608f0d33e3bc" alt="" width="50" /> | Touch my body | TOUCH N MOVE | SISTAR | [Starship Entertainment](.) | 1015 | 💚 | [🔗](https://open.spotify.com/track/5crARIrvoMiMf2AdlD78WN) |

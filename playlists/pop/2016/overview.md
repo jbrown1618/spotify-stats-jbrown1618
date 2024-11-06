@@ -34,8 +34,8 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb09b06c6e39518619ecd56ec5" alt="" width="50" /> | 434 | 1 | 0 | Jax Jones | [🔗](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb274df4dfcb960867eccedfb5" alt="" width="50" /> | 434 | 1 | 0 | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe8717f034edfa96049ece459" alt="" width="50" /> | 434 | 1 | 0 | Chance the Rapper | [🔗](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae" alt="" width="50" /> | 352 | 1 | 0 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4b09cd0839c6129c29d22f79" alt="" width="50" /> | 138 | 1 | 0 | [Lady Gaga](../../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae" alt="" width="50" /> | 353 | 1 | 0 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4b09cd0839c6129c29d22f79" alt="" width="50" /> | 139 | 1 | 0 | [Lady Gaga](../../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb646202f3c1efde2e775cc8ec" alt="" width="50" /> | 434 | 1 | 0 | Hundred Waters | [🔗](https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb50aaac26268892b540d2deea" alt="" width="50" /> | 434 | 1 | 0 | Robin Hannibal | [🔗](https://open.spotify.com/artist/0qVb1coEo0OVOpP9kphf6U) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676" alt="" width="50" /> | 20 | 1 | 0 | [Taylor Swift](../../../artists/taylor_swift/overview.md) | [🔗](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) |
@@ -81,7 +81,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Into You | Dangerous Woman | [Ariana Grande](../../../artists/ariana_grande/overview.md) | [Universal Records](../../../labels/universal_music_llc) | 551 | 💚 | [🔗](https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c" alt="" width="50" /> | Into You | Dangerous Woman | [Ariana Grande](../../../artists/ariana_grande/overview.md) | [Universal Records](../../../labels/universal_music_llc) | 553 | 💚 | [🔗](https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27333c6b920eabcf4c00d7a1093" alt="" width="50" /> | Love On The Brain | ANTI (Deluxe) | [Rihanna](../../../artists/rihanna/overview.md) | Roc Nation / Rihanna | 1015 | 💚 | [🔗](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fe297c018e495a97662e5ac" alt="" width="50" /> | We Don't Talk Anymore (feat. Selena Gomez) | Nine Track Mind | Charlie Puth, Selena Gomez | Artist Partner | 1015 | 💚 | [🔗](https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c3724ff57308e247c99101dd" alt="" width="50" /> | Show Me Love (feat. Chance The Rapper, Moses Sumney and Robin Hannibal) - Skrillex Remix | Show Me Love (feat. Chance The Rapper, Moses Sumney and Robin Hannibal) [Skrillex Remix] | Hundred Waters, Chance the Rapper, Moses Sumney, Robin Hannibal, Skrillex | OWSLA | 1015 | | [🔗](https://open.spotify.com/track/5PnBpKOVvQxeFvXVNYSoxs) |

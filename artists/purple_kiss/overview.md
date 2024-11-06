@@ -17,7 +17,7 @@ PURPLE KISS:
 
 ## Artist Rank
 PURPLE KISS is currently:
-- The #22 artist of the last month
+- The #21 artist of the last month
 - The #43 artist of the last 6 months
 - The #30 artist of the last year
 - The #52 artist of all time
@@ -146,9 +146,9 @@ PURPLE KISS is currently:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="" width="50" /> | Sweet Juice | Cabin Fever | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 194 | 💚 | [🔗](https://open.spotify.com/track/2th6UWbfVz3hsSDzQAKqy2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f7540ea5cd0831b2c7e4ff9" alt="" width="50" /> | BBB | BXX | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 448 | 💚 | [🔗](https://open.spotify.com/track/1Xj89xyCM5Edza6AqTpRuB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="" width="50" /> | T4ke | Cabin Fever | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 486 | 💚 | [🔗](https://open.spotify.com/track/3hDB8HsTgd3TePDsEulE97) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="" width="50" /> | Pretty Psycho | memeM | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 550 | | [🔗](https://open.spotify.com/track/26YMXkyHGrOQQUl2E4upkv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f7540ea5cd0831b2c7e4ff9" alt="" width="50" /> | BBB | BXX | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 449 | 💚 | [🔗](https://open.spotify.com/track/1Xj89xyCM5Edza6AqTpRuB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="" width="50" /> | T4ke | Cabin Fever | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 488 | 💚 | [🔗](https://open.spotify.com/track/3hDB8HsTgd3TePDsEulE97) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="" width="50" /> | Pretty Psycho | memeM | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 552 | | [🔗](https://open.spotify.com/track/26YMXkyHGrOQQUl2E4upkv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273548e75657d21c646111cfa1d" alt="" width="50" /> | Can We Talk Again | Can We Talk Again | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 1015 | 💚 | [🔗](https://open.spotify.com/track/0zuOKdFHYFIOTyJi0aOIuo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345e7faa0d84701c0447e4188" alt="" width="50" /> | Ponzona | INTO VIOLET | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 1015 | 💚 | [🔗](https://open.spotify.com/track/597wvQ0bqfJgszRg4eDVy1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345e7faa0d84701c0447e4188" alt="" width="50" /> | Skip Skip | INTO VIOLET | [PURPLE KISS](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 1015 | 💚 | [🔗](https://open.spotify.com/track/2Zb4ieqfoCB6WP5LO2NmCK) |
