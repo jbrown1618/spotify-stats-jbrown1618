@@ -17,7 +17,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc698d53b77db34027b00f853" alt="" width="50" /> | 434 | 25 | 0 | Disney | [🔗](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) |
 | | 434 | 4 | 0 | Beth Fowler | [🔗](https://open.spotify.com/artist/7KNW6OwcA260MsaEtnvhxV) |
 | <img src="https://i.scdn.co/image/191d9c926a51e6d0abc49b7416689b52a2662efc" alt="" width="50" /> | 253 | 4 | 0 | Lea Salonga | [🔗](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb163f66fedf73f7d1759cea61" alt="" width="50" /> | 349 | 3 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb163f66fedf73f7d1759cea61" alt="" width="50" /> | 350 | 3 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27314dd049936f9d42787c8128d" alt="" width="50" /> | 434 | 3 | 0 | Tony Jay | [🔗](https://open.spotify.com/artist/5qQpn0ZokyamZjyKtkKUYD) |
 | | 434 | 3 | 0 | Chorus - The Hunchback Of Notre Dame | [🔗](https://open.spotify.com/artist/5oHSxqr1uDloCbJJPNBd6T) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf638289c7621609519d8ad24" alt="" width="50" /> | 434 | 3 | 0 | Daveed Diggs | [🔗](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P) |
@@ -74,7 +74,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1a2beebe9dc1435cf5118f0b" alt="" width="50" /> | 434 | 1 | 0 | Vaneese Thomas | [🔗](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3dc5429b676b16d451e5f77" alt="" width="50" /> | 434 | 1 | 0 | Childish Gambino | [🔗](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371ae0c6c06eee99c706924f1" alt="" width="50" /> | 434 | 1 | 0 | Laura Williams | [🔗](https://open.spotify.com/artist/6wIj7GdxBjFtw6ySpzazwo) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb247f44069c0bd1781df2f785" alt="" width="50" /> | 141 | 1 | 0 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb247f44069c0bd1781df2f785" alt="" width="50" /> | 142 | 1 | 0 | [Beyoncé](../../artists/beyoncé/overview.md) | [🔗](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) |
 | | 434 | 1 | 0 | Agatha Lee Monn | [🔗](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp) |
 | | 434 | 1 | 0 | Max Casella | [🔗](https://open.spotify.com/artist/6ZpL3BxODab84CTGSL7UO8) |
 | <img src="https://i.scdn.co/image/f18d69d006ccd5bce40592da9c8b244ed5814070" alt="" width="50" /> | 434 | 1 | 0 | Jeremy Irons | [🔗](https://open.spotify.com/artist/6QRb3jE2lCfMU1iUuVQMaV) |
@@ -84,7 +84,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e7fec29c8ce38bd57ca100ba" alt="" width="50" /> | 434 | 1 | 0 | Bruce Adler | [🔗](https://open.spotify.com/artist/66oKiXdIQP7MwN0gPUY0FD) |
 | | 434 | 1 | 0 | Roz Ryan | [🔗](https://open.spotify.com/artist/66mvEj9XSF89tUj87Y3HDu) |
 | | 434 | 1 | 0 | Rene Auberjonois | [🔗](https://open.spotify.com/artist/5vLv7RBpAmIPypST2zhKUw) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1cadffeb06d98e13611359db" alt="" width="50" /> | 187 | 1 | 0 | Lawrence | [🔗](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1cadffeb06d98e13611359db" alt="" width="50" /> | 186 | 1 | 0 | Lawrence | [🔗](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb11617f90346df9142b65b413" alt="" width="50" /> | 434 | 1 | 0 | Auli'i Cravalho | [🔗](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b9f3c46017f630cb024056a" alt="" width="50" /> | 434 | 1 | 0 | Donny Osmond | [🔗](https://open.spotify.com/artist/5ZEAzHE2TzAwUcOj6jMIgf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e9d3ddfaac3745d64185a11" alt="" width="50" /> | 434 | 1 | 0 | Rowan Atkinson | [🔗](https://open.spotify.com/artist/5U4QDnlOlmZx9MHV45EoDE) |
@@ -158,7 +158,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ae87b6dbcfeea612ceb74685" alt="" width="50" /> | 665 | 1 | 0 | Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack) | 1980-01-01 | [🔗](https://open.spotify.com/album/669tU9gpisLy8EM6qlKrdL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732a8b6ce34511614c9373f423" alt="" width="50" /> | 665 | 1 | 0 | Songs and Story: Cinderella | 2009-01-01 | [🔗](https://open.spotify.com/album/1d4rBfCtXPqkphzbvjokLa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739a1b229fe1a132abf9599362" alt="" width="50" /> | 665 | 1 | 0 | Sleeping Beauty | 1996-01-01 | [🔗](https://open.spotify.com/album/3U3I9TY7on88tPvM1guh54) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1bb1c7d7eef55a31fb995ad" alt="" width="50" /> | 366 | 1 | 0 | Noelle (Original Motion Picture Soundtrack) | 2019-11-12 | [🔗](https://open.spotify.com/album/7GZR54Ir7Aq5T34aRhJQfw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1bb1c7d7eef55a31fb995ad" alt="" width="50" /> | 368 | 1 | 0 | Noelle (Original Motion Picture Soundtrack) | 2019-11-12 | [🔗](https://open.spotify.com/album/7GZR54Ir7Aq5T34aRhJQfw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733505183cc0e24d2f7560174a" alt="" width="50" /> | 665 | 1 | 0 | Moana (Original Motion Picture Soundtrack/Deluxe Edition) | 2016-11-18 | [🔗](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735929af1edd645142df679910" alt="" width="50" /> | 665 | 1 | 0 | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) | 2019-11-15 | [🔗](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea64ccdfa35a32dddeaec8fc" alt="" width="50" /> | 665 | 1 | 0 | Disney's Greatest Vol. 3 | 2002-08-20 | [🔗](https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh) |
@@ -231,7 +231,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1bb1c7d7eef55a31fb995ad" alt="" width="50" /> | Santa Claus Is Comin' to Town | Noelle (Original Motion Picture Soundtrack) | Lawrence, Stolen Jars | [Walt Disney Records](.) | 523 | | [🔗](https://open.spotify.com/track/7mE5nyoRdlZq7hKW2Uzxkl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1bb1c7d7eef55a31fb995ad" alt="" width="50" /> | Santa Claus Is Comin' to Town | Noelle (Original Motion Picture Soundtrack) | Lawrence, Stolen Jars | [Walt Disney Records](.) | 526 | | [🔗](https://open.spotify.com/track/7mE5nyoRdlZq7hKW2Uzxkl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ae87b6dbcfeea612ceb74685" alt="" width="50" /> | Yoda's Theme | Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack) | John Williams, [London Symphony Orchestra](../../artists/london_symphony_orchestra/overview.md) | [Walt Disney Records](.) | 1015 | | [🔗](https://open.spotify.com/track/5fsT9U41OCFlaKA5XTCHtz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Be Our Guest | Beauty and the Beast | Angela Lansbury, Jerry Orbach, Chorus - Beauty And the Beast, Disney | [Walt Disney Records](.) | 1015 | | [🔗](https://open.spotify.com/track/6btdYzQ8eZFBrOlUKVHuz0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bf585fa65e5608b365f4909" alt="" width="50" /> | Beauty and the Beast | Beauty and the Beast | Angela Lansbury, Disney | [Walt Disney Records](.) | 1015 | | [🔗](https://open.spotify.com/track/2rJFFUEl1LURkV0b0OARXx) |

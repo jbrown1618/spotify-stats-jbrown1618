@@ -6,7 +6,7 @@
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
 | Coming Home Song [🔗](https://open.spotify.com/track/3RhLH5ROodko8Se1kRpjJ1) | 18 | 2024-04-12 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | I Get It Now [🔗](https://open.spotify.com/album/5zZHAGHasjwkR9B1xX3Xq6) | 29 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI),<br>Singer-Songwriter [🔗](https://open.spotify.com/playlist/3aNr3GFiAvm1utXDyFOpAR) | Nettwerk Music Group | |
 | Coming Home Song [🔗](https://open.spotify.com/track/4XeCHgZ6vhNwFFaV1zR8oS) | 47 | 2024-09-20 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | Something for Everybody [🔗](https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma) | 57 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
-| Thieves [🔗](https://open.spotify.com/track/5v4JBxzAfArnWg3n3MhRRl) | 17 | 2024-04-12 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | I Get It Now [🔗](https://open.spotify.com/album/5zZHAGHasjwkR9B1xX3Xq6) | 29 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
+| Thieves [🔗](https://open.spotify.com/track/5v4JBxzAfArnWg3n3MhRRl) | 16 | 2024-04-12 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | I Get It Now [🔗](https://open.spotify.com/album/5zZHAGHasjwkR9B1xX3Xq6) | 29 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
 | Thieves [🔗](https://open.spotify.com/track/1w74CVsaIhyxbW3LvYdB9s) | 43 | 2024-09-20 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | Something for Everybody [🔗](https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma) | 57 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
 
 ## Duplicate albums
@@ -34,7 +34,7 @@
 | Burn It (feat. MAX) | D-2 | MAX | 0 | 2 | 68 |
 | Strange (feat. RM) | D-2 | RM | 0 | 2 | 77 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 87 |
-| Love Rain (Feat. SURAN) | Love Rain | YUJU | 2 | 1 | 46 |
+| Love Rain (Feat. SURAN) | Love Rain | YUJU | 1 | 1 | 46 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 80 |
 | Sleep-walking | Prequel | Dreamcatcher | 0 | 1 | 61 |
 | Tiptoe, Gallop or March | Adventures in Pre-School Dance, Vol. 1 | Andrew Holdsworth | 0 | 0 | 56 |
@@ -50,7 +50,7 @@
 | Lone Digger | <|º_º|> | Caravan Palace | 2 | 2 | 62 |
 | We're Going to the Zoo | Kids Animal Songs | Love to Sing | 0 | 0 | 43 |
 | This Is the Way the Lady Rides | Kids Animal Songs | Love to Sing | 0 | 0 | 43 |
-| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | Jin | 0 | 0 | 80 |
+| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | Jin | 0 | 0 | 81 |
 | Wings | Wings | PIXY | 0 | 0 | 38 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 39 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 39 |
@@ -144,7 +144,7 @@
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 78 |
 | Melawan Restu | fábula | Mahalini | 0 | 2 | 77 |
-| Sisa Rasa | fábula | Mahalini | 0 | 2 | 77 |
+| Sisa Rasa | fábula | Mahalini | 1 | 2 | 77 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 69 |
 | When We Disco | When We Disco | J.Y. Park | 0 | 0 | 46 |
 | Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 46 |
@@ -165,6 +165,10 @@
 | Hello Song | Music Together Family Favorites | Music Together | 0 | 0 | 51 |
 | Octopus (Slippery Fish) | 10 Carrot Diamond | Charlotte Diamond | 0 | 0 | 43 |
 | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 56 |
+| Sofa Silahlane | Sofa Silahlane | Wanitwa Mos | 2 | 1 | 56 |
+| Sofa Silahlane | Sofa Silahlane | Nkosazana Daughter | 2 | 1 | 61 |
+| Sofa Silahlane | Sofa Silahlane | Master KG | 2 | 1 | 63 |
+| Sofa Silahlane | Sofa Silahlane | Lowsheen | 2 | 1 | 47 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 60 |
 | Toy | Toy | Netta | 1 | 0 | 49 |
 | Itsy Bitsy Spider | Songs for Kids: Classic Children's Music | Toddler Tunes | 0 | 0 | 53 |
@@ -173,6 +177,4 @@
 | If you are happy and you know it | DansingKids: Growing through music | DanSingKids | 0 | 0 | 35 |
 | 青春修炼手册 | 青春修炼手册 | TFBOYS | 1 | 0 | 44 |
 | Lost Woods | Zelda: Ocarina of Time - Piano | Wesley Sprayue | 0 | 0 | 41 |
-| Because Of You | CALL BACK - The 1st Album | MINHO | 0 | 0 | 41 |
-| Because Of You | CALL BACK - The 1st Album | NINGNING | 0 | 0 | 51 |
 | Baby Powder | Baby Powder | Jenevieve | 0 | 0 | 55 |

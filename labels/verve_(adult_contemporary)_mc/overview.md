@@ -17,7 +17,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2735161c380bfea9322a4ef067f" alt="" width="50" /> | 434 | 8 | 0 | Alex Lacamoire | [🔗](https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf59cb30bae10663d53298fc" alt="" width="50" /> | 434 | 8 | 0 | Stephen Oremus | [🔗](https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi) |
 | <img src="https://i.scdn.co/image/8342768be08c1c9bf4af1d4584a103bcb3042704" alt="" width="50" /> | 434 | 7 | 0 | Colm Wilkinson | [🔗](https://open.spotify.com/artist/4hKV8PcRBaHZqBJjSn8OJE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb163f66fedf73f7d1759cea61" alt="" width="50" /> | 349 | 6 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb163f66fedf73f7d1759cea61" alt="" width="50" /> | 350 | 6 | 0 | Idina Menzel | [🔗](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb48124fc43f870ed4501093e5" alt="" width="50" /> | 434 | 6 | 0 | Kristin Chenoweth | [🔗](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb464513265be8765dddc19bb" alt="" width="50" /> | 434 | 3 | 0 | Frances Ruffelle | [🔗](https://open.spotify.com/artist/5uSeMCBhe3DiROdFrwaXkw) |
 | | 434 | 3 | 0 | Terrence Mann | [🔗](https://open.spotify.com/artist/5uBIsYz9WatgoViLG6pVj2) |
@@ -26,7 +26,7 @@ Appears as:
 
 
 <details>
-<summary>See all 23 artists</summary>
+<summary>See all 26 artists</summary>
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
@@ -34,20 +34,23 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27354bf67d6993451d2c9eae5e1" alt="" width="50" /> | 434 | 2 | 0 | David Bryant | [🔗](https://open.spotify.com/artist/2yPfp367ZwywK1lbGg00b8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273985984bcb7f2a3e25145b9b7" alt="" width="50" /> | 434 | 2 | 0 | Randy Graff | [🔗](https://open.spotify.com/artist/2iRiwwxcJb6fXCxO5jt1cz) |
 | | 434 | 1 | 0 | Michelle Federer | [🔗](https://open.spotify.com/artist/724Af947xg6pNu4xiwhYsV) |
+| | 434 | 1 | 0 | Jack Dolman | [🔗](https://open.spotify.com/artist/5nrgPzwADS33jyCOB5oBaw) |
 | | 434 | 1 | 0 | Jan Neuberger | [🔗](https://open.spotify.com/artist/5LATQYuPWELZCDEdGYN5YH) |
 | | 434 | 1 | 0 | Jesse Corti | [🔗](https://open.spotify.com/artist/53vhGhGRoi9ARM7kr3jrz5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8fc84f7c80e1310b0cd5453d" alt="" width="50" /> | 434 | 1 | 0 | Sean McCourt | [🔗](https://open.spotify.com/artist/53KxkH27mKZgcCmtdKYBl7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a43f0bd7cf9c917edd8398a" alt="" width="50" /> | 434 | 1 | 0 | Donna Vivino | [🔗](https://open.spotify.com/artist/4IDNKwIch36V0UvtfUQF9k) |
 | | 434 | 1 | 0 | Cristy Candler | [🔗](https://open.spotify.com/artist/36XXapGsaRgnQEQkjPfTBl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f021efd322122133f4b05fc3" alt="" width="50" /> | 434 | 1 | 0 | Norbert Leo Butz | [🔗](https://open.spotify.com/artist/2LEinBhufpsqT17c5XYomF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9acddeba4b77b20e6a3f7cb0" alt="" width="50" /> | 434 | 1 | 0 | Greg Wells | [🔗](https://open.spotify.com/artist/2DSl2WOv43NAFhEFo43bDf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bee3cba47f3ac8d14782103" alt="" width="50" /> | 434 | 1 | 0 | Christopher Fitzgerald | [🔗](https://open.spotify.com/artist/1Yq9Q4bPuxh1N4wtIEXyII) |
+| | 434 | 1 | 0 | Dominick Amendum | [🔗](https://open.spotify.com/artist/1Q352BhdfLkxHA9fdAvagz) |
 | | 434 | 1 | 0 | Braden Danner | [🔗](https://open.spotify.com/artist/0n5FRSY5ldzVwzb6Tq9Ya3) |
 | <img src="https://i.scdn.co/image/df5bb0e7652e77a8c259f269564ec4ee1eccd717" alt="" width="50" /> | 434 | 1 | 0 | Cindy Benson | [🔗](https://open.spotify.com/artist/0OIRFXSbEOgnGZXXccjvgt) |
 
 </details>
 
 
-![Bar chart of top 23 artists](../../images/labels/verve_(adult_contemporary)_mc/artists.png)
+![Bar chart of top 26 artists](../../images/labels/verve_(adult_contemporary)_mc/artists.png)
 
 ## Top Albums
 
@@ -100,7 +103,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Stars | Les Misérables (Original Broadway Cast Recording) | Terrence Mann | [Verve (Adult Contemporary) MC](.) | 1015 | | [🔗](https://open.spotify.com/track/7a0dC4TKvEGZMbyAQUuiex) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | What Have I Done? | Les Misérables (Original Broadway Cast Recording) | Colm Wilkinson | [Verve (Adult Contemporary) MC](.) | 1015 | | [🔗](https://open.spotify.com/track/0xsW9HCRzCmqwvWbd4RzQn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | Who Am I? | Les Misérables (Original Broadway Cast Recording) | Colm Wilkinson | [Verve (Adult Contemporary) MC](.) | 1015 | | [🔗](https://open.spotify.com/track/3BY5jmyzzZxqulvAx6a4Or) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="" width="50" /> | Dancing Through Life - From "Wicked" Original Broadway Cast Recording/2003 | Wicked (Original Broadway Cast Recording / Deluxe Edition) | Stephen Schwartz, Norbert Leo Butz, Kristin Chenoweth, Christopher Fitzgerald, Michelle Federer, Idina Menzel, Stephen Oremus, Alex Lacamoire | [Verve (Adult Contemporary) MC](.) | 1015 | | [🔗](https://open.spotify.com/track/45Yr7rD2vH3OsTRseT6gfA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="" width="50" /> | Dancing Through Life - From "Wicked" Original Broadway Cast Recording/2003 | Wicked (Original Broadway Cast Recording / Deluxe Edition) | Stephen Schwartz, Stephen Oremus, Greg Wells, Jack Dolman, Dominick Amendum, Norbert Leo Butz, Kristin Chenoweth, Christopher Fitzgerald, Michelle Federer, Idina Menzel, Alex Lacamoire | [Verve (Adult Contemporary) MC](.) | 1015 | | [🔗](https://open.spotify.com/track/45Yr7rD2vH3OsTRseT6gfA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="" width="50" /> | Defying Gravity - From "Wicked" Original Broadway Cast Recording/2003 | Wicked (Original Broadway Cast Recording / Deluxe Edition) | Stephen Schwartz, Kristin Chenoweth, Idina Menzel, Stephen Oremus, Alex Lacamoire | [Verve (Adult Contemporary) MC](.) | 1015 | | [🔗](https://open.spotify.com/track/184HGdGIscUiPbDuqbvHuN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="" width="50" /> | For Good - From "Wicked" Original Broadway Cast Recording/2003 | Wicked (Original Broadway Cast Recording / Deluxe Edition) | Stephen Schwartz, Kristin Chenoweth, Idina Menzel, Stephen Oremus, Alex Lacamoire | [Verve (Adult Contemporary) MC](.) | 1015 | | [🔗](https://open.spotify.com/track/3WkgLAd7jGX3sZikfkF0lU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05" alt="" width="50" /> | I'm Not That Girl - From "Wicked" Original Broadway Cast Recording/2003 | Wicked (Original Broadway Cast Recording / Deluxe Edition) | Stephen Schwartz, Idina Menzel, Stephen Oremus, Alex Lacamoire | [Verve (Adult Contemporary) MC](.) | 1015 | | [🔗](https://open.spotify.com/track/5HZCMnScUwekum55mcRdjK) |

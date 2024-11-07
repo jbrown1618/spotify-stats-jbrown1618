@@ -17,7 +17,7 @@ Coldplay:
 - has member Chris Martin
 
 ## Artist Rank
-- The #196 artist of all time
+- The #197 artist of all time
 
 ![Rank of Coldplay over time](../../images/artists/coldplay/rank_time_series.png)
 ## Top Tracks
@@ -32,7 +32,7 @@ Coldplay:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | 438 | 2 | 2 | A Rush of Blood to the Head | 2002-08-27 | [🔗](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | 437 | 2 | 2 | A Rush of Blood to the Head | 2002-08-27 | [🔗](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="" width="50" /> | 665 | 2 | 1 | X&Y | 2005-06-07 | [🔗](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de0cd11d7b31c3bd1fd5983d" alt="" width="50" /> | 665 | 2 | 0 | Mylo Xyloto | 2011-10-24 | [🔗](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e" alt="" width="50" /> | 665 | 1 | 1 | Viva La Vida or Death and All His Friends | 2008-05-26 | [🔗](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) |
@@ -128,7 +128,7 @@ Coldplay:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | Clocks | A Rush of Blood to the Head | [Coldplay](overview.md) | Parlophone Records Limited | 655 | 💚 | [🔗](https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | Clocks | A Rush of Blood to the Head | [Coldplay](overview.md) | Parlophone Records Limited | 656 | 💚 | [🔗](https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a" alt="" width="50" /> | Yellow | Parachutes | [Coldplay](overview.md) | [Parlophone UK](../../labels/parlophone_uk) | 1015 | 💚 | [🔗](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82" alt="" width="50" /> | The Scientist | A Rush of Blood to the Head | [Coldplay](overview.md) | Parlophone Records Limited | 1015 | 💚 | [🔗](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651" alt="" width="50" /> | Fix You | X&Y | [Coldplay](overview.md) | Parlophone Records Limited | 1015 | 💚 | [🔗](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) |

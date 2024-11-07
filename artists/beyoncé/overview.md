@@ -9,7 +9,7 @@
 [See Clusters](clusters/overview.md)
 
 ## Artist Rank
-- The #141 artist of all time
+- The #142 artist of all time
 
 ![Rank of Beyoncé over time](../../images/artists/beyoncé/rank_time_series.png)
 ## Top Albums

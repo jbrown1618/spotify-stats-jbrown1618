@@ -11,7 +11,7 @@ Michael Jackson:
 - is a member of The Jackson 5
 
 ## Artist Rank
-- The #192 artist of all time
+- The #193 artist of all time
 
 ![Rank of Michael Jackson over time](../../images/artists/michael_jackson/rank_time_series.png)
 ## Top Albums

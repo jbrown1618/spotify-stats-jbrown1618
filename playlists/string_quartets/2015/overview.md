@@ -4,7 +4,7 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe9c2dcd7eb7f1247a61c6f07" alt="" width="50" /> | 142 | 24 | 0 | [Jerusalem Quartet](../../../artists/jerusalem_quartet/overview.md) | [🔗](https://open.spotify.com/artist/7AnE8Jpu1vxLeXcs6OKYHE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe9c2dcd7eb7f1247a61c6f07" alt="" width="50" /> | 143 | 24 | 0 | [Jerusalem Quartet](../../../artists/jerusalem_quartet/overview.md) | [🔗](https://open.spotify.com/artist/7AnE8Jpu1vxLeXcs6OKYHE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba636b0b244253f602a629796" alt="" width="50" /> | 296 | 24 | 0 | [Ludwig van Beethoven](../../../artists/ludwig_van_beethoven/overview.md) | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
 
 ## Albums
@@ -19,7 +19,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="" width="50" /> | String Quartet No. 3 in D Major, Op. 18: I. Allegro | Beethoven: String Quartets, Op. 18 | [Ludwig van Beethoven](../../../artists/ludwig_van_beethoven/overview.md), [Jerusalem Quartet](../../../artists/jerusalem_quartet/overview.md) | [harmonia mundi](../../../labels/harmonia_mundi) | 568 | | [🔗](https://open.spotify.com/track/4ZTY5VL2UbVghLuVkhAQdc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="" width="50" /> | String Quartet No. 3 in D Major, Op. 18: I. Allegro | Beethoven: String Quartets, Op. 18 | [Ludwig van Beethoven](../../../artists/ludwig_van_beethoven/overview.md), [Jerusalem Quartet](../../../artists/jerusalem_quartet/overview.md) | [harmonia mundi](../../../labels/harmonia_mundi) | 569 | | [🔗](https://open.spotify.com/track/4ZTY5VL2UbVghLuVkhAQdc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="" width="50" /> | String Quartet No. 1 in F Major, Op. 18 No. 1: I. Allegro con brio | Beethoven: String Quartets, Op. 18 | [Ludwig van Beethoven](../../../artists/ludwig_van_beethoven/overview.md), [Jerusalem Quartet](../../../artists/jerusalem_quartet/overview.md) | [harmonia mundi](../../../labels/harmonia_mundi) | 1015 | | [🔗](https://open.spotify.com/track/0bLf8GdqFZ3rK8GwWhcjH8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="" width="50" /> | String Quartet No. 1 in F Major, Op. 18 No. 1: II. Adagio affettuoso ed appassionato | Beethoven: String Quartets, Op. 18 | [Ludwig van Beethoven](../../../artists/ludwig_van_beethoven/overview.md), [Jerusalem Quartet](../../../artists/jerusalem_quartet/overview.md) | [harmonia mundi](../../../labels/harmonia_mundi) | 1015 | | [🔗](https://open.spotify.com/track/74Din3wPGdlksjg6kz68Mw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eac9461ed0b585b1d2ad7ee2" alt="" width="50" /> | String Quartet No. 1 in F Major, Op. 18 No. 1: III. Scherzo (Allegro molto) - Trio | Beethoven: String Quartets, Op. 18 | [Ludwig van Beethoven](../../../artists/ludwig_van_beethoven/overview.md), [Jerusalem Quartet](../../../artists/jerusalem_quartet/overview.md) | [harmonia mundi](../../../labels/harmonia_mundi) | 1015 | | [🔗](https://open.spotify.com/track/62gkGN2sOcxtVmoDGCeajT) |

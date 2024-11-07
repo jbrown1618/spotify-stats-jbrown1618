@@ -23,7 +23,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb628143c3dd14fc995f925d56" alt="" width="50" /> | 434 | 1 | 1 | Offset | [🔗](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) |
 | <img src="https://i.scdn.co/image/14925be3ce17d25a95b95ae7491e18fe3adc80b0" alt="" width="50" /> | 434 | 1 | 1 | Mary Wells | [🔗](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) |
 | <img src="https://i.scdn.co/image/e6c035ae9b2a8dd5cf6a3c5f4a0b274d5ff2a605" alt="" width="50" /> | 434 | 1 | 1 | Rick James | [🔗](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) |
-| <img src="https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434" alt="" width="50" /> | 317 | 3 | 0 | Marvin Gaye | [🔗](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) |
+| <img src="https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434" alt="" width="50" /> | 318 | 3 | 0 | Marvin Gaye | [🔗](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) |
 | <img src="https://i.scdn.co/image/85df4af2833ce0f0fa25363c59c07e90a12c78d0" alt="" width="50" /> | 434 | 1 | 0 | Tammi Terrell | [🔗](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) |
 
 ![Bar chart of top 10 artists](../../images/labels/motown/artists.png)
@@ -145,7 +145,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="" width="50" /> | Superstition - Single Version | The Definitive Collection | Stevie Wonder | [MOTOWN](.), [UNI](../uni) | 838 | 💚 | [🔗](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="" width="50" /> | Superstition - Single Version | The Definitive Collection | Stevie Wonder | [MOTOWN](.), [UNI](../uni) | 840 | 💚 | [🔗](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735b50e493598153b926ded824" alt="" width="50" /> | My Guy | Mary Wells Sings My Guy | Mary Wells | [MOTOWN](.), [UNI](../uni) | 1015 | 💚 | [🔗](https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736506e351b719b6f122e60ea2" alt="" width="50" /> | The Way You Do The Things You Do | Meet The Temptations | The Temptations | [Motown](.) | 1015 | | [🔗](https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e" alt="" width="50" /> | My Girl | The Temptations Sing Smokey | The Temptations | [MOTOWN](.), [UNI](../uni) | 1015 | 💚 | [🔗](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) |

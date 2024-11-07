@@ -68,7 +68,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d80bd51eba94b296fc693108" alt="" width="50" /> | 434 | 1 | 0 | Denise Gagne | [🔗](https://open.spotify.com/artist/2WEehmCcEKeVZWD6qYkXuk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba4a7011b195068dde2be75ac" alt="" width="50" /> | 434 | 1 | 0 | Children's Music | [🔗](https://open.spotify.com/artist/2UGrkfBLWkaJHsqQOpgYRT) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc04724201a3cd1a81d7bba05" alt="" width="50" /> | 434 | 1 | 0 | Dave Matthews Band | [🔗](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | 266 | 1 | 0 | Pharrell Williams | [🔗](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | 267 | 1 | 0 | Pharrell Williams | [🔗](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f662ae81484b23dabaf67805" alt="" width="50" /> | 434 | 1 | 0 | Muffin Songs | [🔗](https://open.spotify.com/artist/2PHC7cyBiJM9EZ0E8FKcJ4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739a9ad3a4e4c05e64db75e39b" alt="" width="50" /> | 434 | 1 | 0 | The Cast of Mary Poppins | [🔗](https://open.spotify.com/artist/2AmIbvKGbPqb5vB6e5OoP1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd06a3b87787a0eef6eb3adcb" alt="" width="50" /> | 434 | 1 | 0 | Susan Salidor | [🔗](https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C) |
