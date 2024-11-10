@@ -24,7 +24,7 @@ Appears as:
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d750d969d227e6506a2c176" alt="" width="50" /> | 382 | 3 | 2 | Bloom | 2022-04-06 | [🔗](https://open.spotify.com/album/4ualu7nMAcmoAqp47YaA95) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27365d11e2eb2034dbc6297ec86" alt="" width="50" /> | 624 | 2 | 2 | BAEKHYUN | 2021-01-20 | [🔗](https://open.spotify.com/album/1jV1UooTpZ7c90umcENmOC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731320580741caccf7a285ebc3" alt="" width="50" /> | 324 | 1 | 0 | メリクリ | 2004-12-01 | [🔗](https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731320580741caccf7a285ebc3" alt="" width="50" /> | 325 | 1 | 0 | メリクリ | 2004-12-01 | [🔗](https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27397c91b59710371bdbc0138fe" alt="" width="50" /> | 665 | 1 | 0 | SCREAM | 2013-09-04 | [🔗](https://open.spotify.com/album/4wOSe34mYXuiF6lyE0NUDu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738db0372a58515f8d2dcbf548" alt="" width="50" /> | 665 | 1 | 0 | Best Friend Ever | 2023-02-08 | [🔗](https://open.spotify.com/album/4cT6f8tGzBtybpBNYPEQoX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="" width="50" /> | 665 | 1 | 0 | A BEST | 2001-03-28 | [🔗](https://open.spotify.com/album/2B7L6R25vI22f1sIgV9k2F) |
@@ -49,9 +49,9 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731320580741caccf7a285ebc3" alt="" width="50" /> | THE CHRISTMAS SONG | メリクリ | [BoA](../../artists/boa/overview.md) | [avex trax](.) | 461 | | [🔗](https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d750d969d227e6506a2c176" alt="" width="50" /> | Marionette | Bloom | [Red Velvet](../../artists/red_velvet/overview.md) | [avex trax](.) | 557 | 💚 | [🔗](https://open.spotify.com/track/3KvMgB5V1FvQTCvvHz5aiO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27365d11e2eb2034dbc6297ec86" alt="" width="50" /> | Get You Alone | BAEKHYUN | [BAEKHYUN](../../artists/baekhyun/overview.md) | [avex trax](.) | 953 | 💚 | [🔗](https://open.spotify.com/track/3K1hH4PSGXbzczwtdBvMNW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731320580741caccf7a285ebc3" alt="" width="50" /> | THE CHRISTMAS SONG | メリクリ | [BoA](../../artists/boa/overview.md) | [avex trax](.) | 462 | | [🔗](https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d750d969d227e6506a2c176" alt="" width="50" /> | Marionette | Bloom | [Red Velvet](../../artists/red_velvet/overview.md) | [avex trax](.) | 558 | 💚 | [🔗](https://open.spotify.com/track/3KvMgB5V1FvQTCvvHz5aiO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27365d11e2eb2034dbc6297ec86" alt="" width="50" /> | Get You Alone | BAEKHYUN | [BAEKHYUN](../../artists/baekhyun/overview.md) | [avex trax](.) | 950 | 💚 | [🔗](https://open.spotify.com/track/3K1hH4PSGXbzczwtdBvMNW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356bcdbdd16ff6781b8371c7f" alt="" width="50" /> | Boys & Girls | A BEST | Ayumi Hamasaki | [avex trax](.) | 1015 | | [🔗](https://open.spotify.com/track/0QcVKhVp9iHGZ1pj04yTbO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27397c91b59710371bdbc0138fe" alt="" width="50" /> | SCREAM | SCREAM | [TVXQ!](../../artists/tvxq!/overview.md) | [avex trax](.) | 1015 | | [🔗](https://open.spotify.com/track/7BXpFBu8T1uW4dJLycAM6d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739acd884a943f3630236a5ca3" alt="" width="50" /> | #Cookie Jar | #Cookie Jar | [Red Velvet](../../artists/red_velvet/overview.md) | [avex trax](.) | 1015 | | [🔗](https://open.spotify.com/track/3UgPJrKvOaTFgZ185X80Dx) |

@@ -31,7 +31,7 @@ Appears as:
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | | 434 | 2 | 0 | Robert Billig | [🔗](https://open.spotify.com/artist/3Ybg9gi5V2x6i8OsLc9M7p) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354bf67d6993451d2c9eae5e1" alt="" width="50" /> | 434 | 2 | 0 | David Bryant | [🔗](https://open.spotify.com/artist/2yPfp367ZwywK1lbGg00b8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b998abf97a35fa0cc0b87ba3" alt="" width="50" /> | 434 | 2 | 0 | David Bryant | [🔗](https://open.spotify.com/artist/2yPfp367ZwywK1lbGg00b8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273985984bcb7f2a3e25145b9b7" alt="" width="50" /> | 434 | 2 | 0 | Randy Graff | [🔗](https://open.spotify.com/artist/2iRiwwxcJb6fXCxO5jt1cz) |
 | | 434 | 1 | 0 | Michelle Federer | [🔗](https://open.spotify.com/artist/724Af947xg6pNu4xiwhYsV) |
 | | 434 | 1 | 0 | Jack Dolman | [🔗](https://open.spotify.com/artist/5nrgPzwADS33jyCOB5oBaw) |

@@ -16,7 +16,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb155562e98d9f1ffff5cc5f34" alt="" width="50" /> | 434 | 1 | 1 | tripleS | [🔗](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) |
 | | 434 | 1 | 1 | Felix (Stray Kids) | [🔗](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0576f9b8cd1e8c68afe0e3e6" alt="" width="50" /> | 434 | 1 | 1 | ARTMS | [🔗](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfbdd3f060e1cbe9e8eeaecac" alt="" width="50" /> | 104 | 1 | 1 | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfbdd3f060e1cbe9e8eeaecac" alt="" width="50" /> | 105 | 1 | 1 | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
 
 ## Works with Producers
 

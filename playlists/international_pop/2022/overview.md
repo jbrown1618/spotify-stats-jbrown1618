@@ -51,7 +51,7 @@
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | 504 | 2 | 1 | 壱 | 2022-01-12 | [🔗](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="" width="50" /> | 665 | 2 | 1 | CITIZENS | 2022-05-19 | [🔗](https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="" width="50" /> | 411 | 1 | 1 | 海のまにまに | 2022-11-18 | [🔗](https://open.spotify.com/album/6M4p4S5t8PuRZiq7zvMEPB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="" width="50" /> | 412 | 1 | 1 | 海のまにまに | 2022-11-18 | [🔗](https://open.spotify.com/album/6M4p4S5t8PuRZiq7zvMEPB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731bccd0e65da477d7f815e229" alt="" width="50" /> | 665 | 1 | 1 | מי זאת | 2022-05-22 | [🔗](https://open.spotify.com/album/3vAQYVlLZrzs7lrjisl5VC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b302a279cfab9f1a28d2d35" alt="" width="50" /> | 665 | 1 | 1 | See Tình | 2022-02-20 | [🔗](https://open.spotify.com/album/1AttOIOFrGkOPNSq5mB4pd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b93c6b37cb0e0a9fbf26b766" alt="" width="50" /> | 665 | 1 | 1 | Mr. Rover | 2022-07-15 | [🔗](https://open.spotify.com/album/0mkxSResK0c4KS5VFcQPhH) |
@@ -86,8 +86,8 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="" width="50" /> | 海のまにまに | 海のまにまに | [YOASOBI](../../../artists/yoasobi/overview.md) | [YOASOBI](../../../labels/yoasobi) | 606 | 💚 | [🔗](https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](../../../labels/sony_music_labels_inc_) | 761 | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="" width="50" /> | 海のまにまに | 海のまにまに | [YOASOBI](../../../artists/yoasobi/overview.md) | [YOASOBI](../../../labels/yoasobi) | 607 | 💚 | [🔗](https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](../../../labels/sony_music_labels_inc_) | 759 | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec71813c0c13422d225981da" alt="" width="50" /> | לך לישון | לך לישון | Anna Zak | ITModels under exclusive license to D-Music | 1015 | | [🔗](https://open.spotify.com/track/3fCS3m3uWUgAFm3purs15C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ベテルギウス | 壱 | Yuuri | [Sony Music Labels Inc.](../../../labels/sony_music_labels_inc_) | 1015 | | [🔗](https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27393f551abf615209c537fb4d4" alt="" width="50" /> | きらり | Kirari Remixes (Asia Edition) | Fujii Kaze | [Universal Music LLC](../../../labels/universal_music_llc) | 1015 | 💚 | [🔗](https://open.spotify.com/track/51oc6MEsXTpnPn6GOw5VuP) |

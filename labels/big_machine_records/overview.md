@@ -21,11 +21,11 @@ Appears as:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | 342 | 10 | 9 | reputation | 2017-11-10 | [🔗](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | 343 | 10 | 9 | reputation | 2017-11-10 | [🔗](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="" width="50" /> | 665 | 8 | 7 | 1989 | 2014-10-27 | [🔗](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | 632 | 6 | 3 | Red | 2012-10-22 | [🔗](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | 665 | 3 | 0 | Fearless | 2008-11-11 | [🔗](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b" alt="" width="50" /> | 293 | 2 | 0 | The Taylor Swift Holiday Collection | 2008-12-02 | [🔗](https://open.spotify.com/album/7vzYp7FrKnTRoktBYsx9SF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b" alt="" width="50" /> | 294 | 2 | 0 | The Taylor Swift Holiday Collection | 2008-12-02 | [🔗](https://open.spotify.com/album/7vzYp7FrKnTRoktBYsx9SF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015" alt="" width="50" /> | 665 | 2 | 0 | Speak Now | 2010-10-25 | [🔗](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) |
 
 ![Bar chart of top 6 albums](../../images/labels/big_machine_records/albums.png)
@@ -85,9 +85,9 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b" alt="" width="50" /> | Santa Baby | The Taylor Swift Holiday Collection | [Taylor Swift](../../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](.) | 414 | | [🔗](https://open.spotify.com/track/71IScwIe7bcIlpnlkbKVQw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | ...Ready For It? | reputation | [Taylor Swift](../../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](.) | 504 | 💚 | [🔗](https://open.spotify.com/track/2yLa0QULdQr0qAIvVwN6B5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | Don’t Blame Me | reputation | [Taylor Swift](../../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](.) | 912 | 💚 | [🔗](https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b" alt="" width="50" /> | Santa Baby | The Taylor Swift Holiday Collection | [Taylor Swift](../../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](.) | 416 | | [🔗](https://open.spotify.com/track/71IScwIe7bcIlpnlkbKVQw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | ...Ready For It? | reputation | [Taylor Swift](../../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](.) | 506 | 💚 | [🔗](https://open.spotify.com/track/2yLa0QULdQr0qAIvVwN6B5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b" alt="" width="50" /> | Don’t Blame Me | reputation | [Taylor Swift](../../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](.) | 913 | 💚 | [🔗](https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5" alt="" width="50" /> | Begin Again | Red | [Taylor Swift](../../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](.) | 965 | 💚 | [🔗](https://open.spotify.com/track/0L4YCNRfXAoTvdpWeH2RGj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Forever & Always | Fearless | [Taylor Swift](../../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](.) | 1015 | | [🔗](https://open.spotify.com/track/47HtKpfzpAt8rQjjXWotFj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc" alt="" width="50" /> | Love Story | Fearless | [Taylor Swift](../../artists/taylor_swift/overview.md) | [Big Machine Records, LLC](.) | 1015 | | [🔗](https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt) |

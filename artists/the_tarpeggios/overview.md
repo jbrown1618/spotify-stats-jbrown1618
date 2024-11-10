@@ -41,7 +41,7 @@ The Tarpeggios is currently:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | 549 | 9 | 7 | The Teal Album | 2016-11-12 | [🔗](https://open.spotify.com/album/7mTQ62MIYHSbkZHGjY0Ftg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | 550 | 9 | 7 | The Teal Album | 2016-11-12 | [🔗](https://open.spotify.com/album/7mTQ62MIYHSbkZHGjY0Ftg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | 600 | 7 | 6 | Carolina State of Mind | 2013-11-15 | [🔗](https://open.spotify.com/album/3zKusinRVxdC5s2wOPYBgX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b898e1af5571ea5402fdd764" alt="" width="50" /> | 665 | 7 | 5 | Bloodline | 2024-05-15 | [🔗](https://open.spotify.com/album/5XMETYH0wL2F3qDpWfVKzw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc82939fb76760e640d7edca" alt="" width="50" /> | 665 | 5 | 4 | Homeward | 2022-04-08 | [🔗](https://open.spotify.com/album/2FiDSelqVoi7VQfpmaMRJK) |
@@ -118,11 +118,11 @@ The Tarpeggios is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273e7b975daf944ff0d1ffce056" alt="" width="50" /> | Dawn FM | After the Light | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | 604 | | [🔗](https://open.spotify.com/track/4KWIpxAss4Pi8Bw3cQEmmZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e7b975daf944ff0d1ffce056" alt="" width="50" /> | Dawn FM | After the Light | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | 603 | | [🔗](https://open.spotify.com/track/4KWIpxAss4Pi8Bw3cQEmmZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | I See Fire | The Teal Album | [The Tarpeggios](overview.md) | The Unc - Chapel Hill Tarpeggios | 870 | 💚 | [🔗](https://open.spotify.com/track/4Mp2l1tCHxnm65a6yQ8lph) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdeffdb0cd2b8bb696319e8c" alt="" width="50" /> | Flesh & Bone | Push to Start | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | 876 | 💚 | [🔗](https://open.spotify.com/track/07Y1FyOg5wP1AD46E0MSKC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Settle Down | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | 910 | 💚 | [🔗](https://open.spotify.com/track/2RGGnyqlJ65QcpA4FggZ2x) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | Can't Take My Eyes off You | The Teal Album | [The Tarpeggios](overview.md) | The Unc - Chapel Hill Tarpeggios | 926 | 💚 | [🔗](https://open.spotify.com/track/1wT7nx5HLq9mhBf3P0BwTf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb7018e16a77e5ce4744fa93" alt="" width="50" /> | Can't Take My Eyes off You | The Teal Album | [The Tarpeggios](overview.md) | The Unc - Chapel Hill Tarpeggios | 924 | 💚 | [🔗](https://open.spotify.com/track/1wT7nx5HLq9mhBf3P0BwTf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Carolina State of Mind | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | 1015 | 💚 | [🔗](https://open.spotify.com/track/60xweUiIfi93UhZEDN3DKY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Chariot | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | 1015 | | [🔗](https://open.spotify.com/track/0of5rsasONYN34mx4rSgsn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d990e8b45c848dc22885f89" alt="" width="50" /> | Home | Carolina State of Mind | [The Tarpeggios](overview.md) | [The Tarpeggios](../../labels/the_tarpeggios) | 1015 | 💚 | [🔗](https://open.spotify.com/track/5EiVVKFfodbFiHTCFEB1i3) |

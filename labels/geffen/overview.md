@@ -16,9 +16,9 @@ Appears as:
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | 343 | 3 | 3 | [The Who](../../artists/the_who/overview.md) | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
+| <img src="https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150" alt="" width="50" /> | 344 | 3 | 3 | [The Who](../../artists/the_who/overview.md) | [🔗](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb058531dfd9746a96ad85265f" alt="" width="50" /> | 373 | 3 | 3 | Etta James | [🔗](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb031e8e2a9c4893810a02f863" alt="" width="50" /> | 247 | 1 | 1 | KATSEYE | [🔗](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb031e8e2a9c4893810a02f863" alt="" width="50" /> | 242 | 1 | 1 | KATSEYE | [🔗](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb51dfdac248da65a860963b68" alt="" width="50" /> | 434 | 1 | 1 | Kali Uchis | [🔗](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcbac00ef1ac185c67665e970" alt="" width="50" /> | 434 | 1 | 1 | Semisonic | [🔗](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc3cc7f45922b9adade39ef19" alt="" width="50" /> | 406 | 2 | 0 | Bing Crosby | [🔗](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) |
@@ -51,8 +51,8 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="" width="50" /> | 539 | 2 | 2 | At Last! | 1960 | [🔗](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27392f051ce3c585b5c2db21d52" alt="" width="50" /> | 665 | 2 | 0 | Jurassic Park | 1993-05-25 | [🔗](https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d3eda886f81a2bad9274f02" alt="" width="50" /> | 665 | 1 | 1 | Who's Next (Expanded Edition) | 1971-08-14 | [🔗](https://open.spotify.com/album/53PBYiedQrASAs5sy63JqT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="" width="50" /> | 465 | 1 | 1 | Who Are You | 1978-08-18 | [🔗](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737e76c17cfbc723800452a24f" alt="" width="50" /> | 312 | 1 | 1 | Touch | 2024-07-26 | [🔗](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="" width="50" /> | 468 | 1 | 1 | Who Are You | 1978-08-18 | [🔗](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737e76c17cfbc723800452a24f" alt="" width="50" /> | 304 | 1 | 1 | Touch | 2024-07-26 | [🔗](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737649604d1b27be1c78c466e9" alt="" width="50" /> | 665 | 1 | 1 | Tell Mama | 1968-04-18 | [🔗](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17" alt="" width="50" /> | 665 | 1 | 1 | Red Moon In Venus | 2023-03-03 | [🔗](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9" alt="" width="50" /> | 665 | 1 | 1 | My Generation (Stereo Version) | 1965-12-03 | [🔗](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) |
@@ -167,10 +167,10 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2737e76c17cfbc723800452a24f" alt="" width="50" /> | Touch | Touch | KATSEYE | [HYBE/Geffen](.) | 440 | 💚 | [🔗](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="" width="50" /> | Who Are You | Who Are You | [The Who](../../artists/the_who/overview.md) | [Geffen](.) | 698 | 💚 | [🔗](https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="" width="50" /> | Stormy Weather | At Last! | Etta James | [Geffen*](.) | 814 | 💚 | [🔗](https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738004cd6b343732b0e1e666f5" alt="" width="50" /> | It's Beginning To Look Like Christmas | White Christmas | Bing Crosby | [Geffen](.) | 933 | | [🔗](https://open.spotify.com/track/44mYhOVgerj2qPjkGDVA6n) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737e76c17cfbc723800452a24f" alt="" width="50" /> | Touch | Touch | KATSEYE | [HYBE/Geffen](.) | 428 | 💚 | [🔗](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663" alt="" width="50" /> | Who Are You | Who Are You | [The Who](../../artists/the_who/overview.md) | [Geffen](.) | 702 | 💚 | [🔗](https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="" width="50" /> | Stormy Weather | At Last! | Etta James | [Geffen*](.) | 812 | 💚 | [🔗](https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738004cd6b343732b0e1e666f5" alt="" width="50" /> | It's Beginning To Look Like Christmas | White Christmas | Bing Crosby | [Geffen](.) | 928 | | [🔗](https://open.spotify.com/track/44mYhOVgerj2qPjkGDVA6n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e8ed9b5848e7139dc087c48" alt="" width="50" /> | White Christmas - 1947 Version | Holiday Inn (Original Motion Picture Soundtrack) | Bing Crosby, Ken Darby Singers, John Scott Trotter & His Orchestra | [Geffen](.) | 1015 | | [🔗](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="" width="50" /> | At Last | At Last! | Etta James | [Geffen*](.) | 1015 | 💚 | [🔗](https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9dfe5788911744490bfb431" alt="" width="50" /> | A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | [Geffen](.) | 1015 | | [🔗](https://open.spotify.com/track/65Q2mv3UlVi9eO70OpsmSe) |

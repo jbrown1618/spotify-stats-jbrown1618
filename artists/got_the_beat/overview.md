@@ -18,7 +18,7 @@ GOT the beat:
 
 ## Artist Rank
 GOT the beat is currently:
-- The #48 artist of the last 6 months
+- The #49 artist of the last 6 months
 - The #35 artist of the last year
 - The #31 artist of all time
 
@@ -115,7 +115,7 @@ GOT the beat is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Stamp On It | Stamp On It - The 1st Mini Album | [GOT the beat](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 23 | 💚 | [🔗](https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Outlaw | Stamp On It - The 1st Mini Album | [GOT the beat](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 181 | 💚 | [🔗](https://open.spotify.com/track/7ad8cTZkKU4ftlATRGve3M) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | MALA | Stamp On It - The 1st Mini Album | [GOT the beat](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 199 | 💚 | [🔗](https://open.spotify.com/track/1YA3wSJ2kWd27sxgeEBjA9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Alter Ego | Stamp On It - The 1st Mini Album | [GOT the beat](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 223 | 💚 | [🔗](https://open.spotify.com/track/08pPhcvPmphUEx3pEBZwGZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Rose | Stamp On It - The 1st Mini Album | [GOT the beat](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 654 | 💚 | [🔗](https://open.spotify.com/track/1Bu2ogfsVZauj3IOvKJSNy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cc6f76f75551af499b5cd0cb" alt="" width="50" /> | Step Back | Step Back | [GOT the beat](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 763 | 💚 | [🔗](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Goddess Level | Stamp On It - The 1st Mini Album | [GOT the beat](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 890 | 💚 | [🔗](https://open.spotify.com/track/0bFZXAWYbhEpcQKNvEJ7Ut) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Alter Ego | Stamp On It - The 1st Mini Album | [GOT the beat](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 224 | 💚 | [🔗](https://open.spotify.com/track/08pPhcvPmphUEx3pEBZwGZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Rose | Stamp On It - The 1st Mini Album | [GOT the beat](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 658 | 💚 | [🔗](https://open.spotify.com/track/1Bu2ogfsVZauj3IOvKJSNy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cc6f76f75551af499b5cd0cb" alt="" width="50" /> | Step Back | Step Back | [GOT the beat](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 762 | 💚 | [🔗](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738a595377408ac1b91186223b" alt="" width="50" /> | Goddess Level | Stamp On It - The 1st Mini Album | [GOT the beat](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 892 | 💚 | [🔗](https://open.spotify.com/track/0bFZXAWYbhEpcQKNvEJ7Ut) |

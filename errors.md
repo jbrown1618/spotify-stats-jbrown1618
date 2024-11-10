@@ -4,10 +4,10 @@
 
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
-| Coming Home Song [🔗](https://open.spotify.com/track/3RhLH5ROodko8Se1kRpjJ1) | 18 | 2024-04-12 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | I Get It Now [🔗](https://open.spotify.com/album/5zZHAGHasjwkR9B1xX3Xq6) | 29 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI),<br>Singer-Songwriter [🔗](https://open.spotify.com/playlist/3aNr3GFiAvm1utXDyFOpAR) | Nettwerk Music Group | |
+| Coming Home Song [🔗](https://open.spotify.com/track/3RhLH5ROodko8Se1kRpjJ1) | 17 | 2024-04-12 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | I Get It Now [🔗](https://open.spotify.com/album/5zZHAGHasjwkR9B1xX3Xq6) | 28 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI),<br>Singer-Songwriter [🔗](https://open.spotify.com/playlist/3aNr3GFiAvm1utXDyFOpAR) | Nettwerk Music Group | |
 | Coming Home Song [🔗](https://open.spotify.com/track/4XeCHgZ6vhNwFFaV1zR8oS) | 47 | 2024-09-20 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | Something for Everybody [🔗](https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma) | 57 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
-| Thieves [🔗](https://open.spotify.com/track/5v4JBxzAfArnWg3n3MhRRl) | 16 | 2024-04-12 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | I Get It Now [🔗](https://open.spotify.com/album/5zZHAGHasjwkR9B1xX3Xq6) | 29 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
-| Thieves [🔗](https://open.spotify.com/track/1w74CVsaIhyxbW3LvYdB9s) | 43 | 2024-09-20 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | Something for Everybody [🔗](https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma) | 57 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
+| Thieves [🔗](https://open.spotify.com/track/5v4JBxzAfArnWg3n3MhRRl) | 16 | 2024-04-12 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | I Get It Now [🔗](https://open.spotify.com/album/5zZHAGHasjwkR9B1xX3Xq6) | 28 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
+| Thieves [🔗](https://open.spotify.com/track/1w74CVsaIhyxbW3LvYdB9s) | 42 | 2024-09-20 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | Something for Everybody [🔗](https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma) | 57 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
 
 ## Duplicate albums
 
@@ -15,7 +15,7 @@
 |:---|:---|---:|:---|:---|:---|:---|
 | A flower bookmark [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 50 | 2014-05-16 | Kakao Entertainment | Pierrot laughs at us [🔗](https://open.spotify.com/track/7rx1DA57CL4nGS3AnFGjgJ) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7),<br>Retro Kpop [🔗](https://open.spotify.com/playlist/1MW4AAPq55U0XWvSeu1jU5) |
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 45 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
-| SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 53 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd),<br>Recommendations for Jeff [🔗](https://open.spotify.com/playlist/5Liek0UOC5GmdOjxdWhcob),<br>Relax [🔗](https://open.spotify.com/playlist/4rnlD7JdUQNdPCBhL69dCg),<br>Your Top Songs 2022 [🔗](https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit) |
+| SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 54 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd),<br>Recommendations for Jeff [🔗](https://open.spotify.com/playlist/5Liek0UOC5GmdOjxdWhcob),<br>Relax [🔗](https://open.spotify.com/playlist/4rnlD7JdUQNdPCBhL69dCg),<br>Your Top Songs 2022 [🔗](https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit) |
 | SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 38 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
 
 ## Tracks with low popularity
@@ -34,7 +34,7 @@
 | Burn It (feat. MAX) | D-2 | MAX | 0 | 2 | 68 |
 | Strange (feat. RM) | D-2 | RM | 0 | 2 | 77 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 87 |
-| Love Rain (Feat. SURAN) | Love Rain | YUJU | 1 | 1 | 46 |
+| Love Rain (Feat. SURAN) | Love Rain | YUJU | 1 | 0 | 46 |
 | Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 80 |
 | Sleep-walking | Prequel | Dreamcatcher | 0 | 1 | 61 |
 | Tiptoe, Gallop or March | Adventures in Pre-School Dance, Vol. 1 | Andrew Holdsworth | 0 | 0 | 56 |
@@ -44,6 +44,7 @@
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 67 |
 | Underground | Artemis | Lindsey Stirling | 2 | 2 | 67 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 51 |
+| Can't Stop This Party | Can't Stop This Party | Seori | 2 | 1 | 58 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 65 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 60 |
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 68 |
@@ -61,7 +62,7 @@
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 34 |
 | 5 Little Speckled Frogs | 5 Little Speckled Frogs | Little Baby Bum Nursery Rhyme Friends | 0 | 0 | 62 |
 | The Trooper - 2015 Remaster | Piece of Mind (2015 - Remaster) | Iron Maiden | 2 | 2 | 75 |
-| Drink It | Drink It | THE BOYZ | 0 | 0 | 61 |
+| Drink It | Drink It | THE BOYZ | 0 | 0 | 62 |
 | Good Vibrations | Vocal Spectrum II | Vocal Spectrum | 0 | 0 | 25 |
 | I Wanna Be Like You | Vocal Spectrum II | Vocal Spectrum | 0 | 0 | 25 |
 | Bring Him Home | Vocal Spectrum | Vocal Spectrum | 0 | 0 | 25 |
@@ -78,9 +79,9 @@
 | Don't Stop Me Now | Jazz | Queen | 1 | 1 | 86 |
 | A Kind Of Magic | A Kind Of Magic | Queen | 0 | 0 | 86 |
 | RHYTHM TA | DEBUT FULL ALBUM 'WELCOME BACK' | iKON | 0 | 0 | 60 |
-| RED | RED | The Rose | 0 | 0 | 62 |
-| She′s In The Rain | Dawn | The Rose | 0 | 0 | 62 |
-| Sorry | Sorry | The Rose | 0 | 0 | 62 |
+| RED | RED | The Rose | 0 | 0 | 63 |
+| She′s In The Rain | Dawn | The Rose | 0 | 0 | 63 |
+| Sorry | Sorry | The Rose | 0 | 0 | 63 |
 | Clean Up | Start Singing With Barney | Barney | 0 | 0 | 53 |
 | Pokerap | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 55 |
 | Pokemon Theme | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 55 |
@@ -94,14 +95,14 @@
 | I will show you | Invitation | AILEE | 0 | 0 | 59 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 64 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 61 |
-| Run With Me | Serenade | Sunwoojunga | 2 | 1 | 47 |
-| Cat (Feat. IU) | Cat | Sunwoojunga | 0 | 0 | 47 |
+| Run With Me | Serenade | Sunwoojunga | 2 | 1 | 48 |
+| Cat (Feat. IU) | Cat | Sunwoojunga | 0 | 0 | 48 |
 | Cat (Feat. IU) | Cat | IU | 0 | 0 | 71 |
 | Star | [12:00] | LOONA | 1 | 1 | 55 |
 | Why Not? | [12:00] | LOONA | 1 | 1 | 55 |
 | Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 55 |
 | That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 55 |
-| The Phantom Of The Opera | Century Child | Nightwish | 1 | 1 | 68 |
+| The Phantom Of The Opera | Century Child | Nightwish | 0 | 1 | 68 |
 | End Of All Hope | Century Child | Nightwish | 0 | 1 | 68 |
 | Nemo | Once | Nightwish | 0 | 0 | 68 |
 | Ya! (feat. Whee In) | Stay As You Are | Whee In | 0 | 0 | 50 |
@@ -115,9 +116,9 @@
 | Five Little Monkeys | 150 All Time Children's Favorites | The Countdown Kids | 0 | 0 | 57 |
 | The Wheels on the Bus Go Round and Round | 150 All Time Children's Favorites | The Countdown Kids | 0 | 0 | 57 |
 | Shake Break | Pancake Manor | Pancake Manor | 0 | 0 | 41 |
-| Flowers - Cover | Flowers (Cover) | YUQI | 0 | 0 | 60 |
+| Flowers - Cover | Flowers (Cover) | YUQI | 0 | 0 | 59 |
 | Hokey Pokey | Hip Hip Hooray! | Play School | 0 | 0 | 54 |
-| Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 29 |
+| Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 28 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Mark Ronson | 0 | 0 | 77 |
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 80 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 67 |
@@ -131,7 +132,7 @@
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 79 |
 | I Do | It's Raining | Rain | 0 | 0 | 47 |
 | It′s Raining | It's Raining | Rain | 0 | 0 | 47 |
-| Super Bass | Pink Friday | Nicki Minaj | 1 | 0 | 87 |
+| Super Bass | Pink Friday | Nicki Minaj | 0 | 0 | 87 |
 | 5th Season (SSFWL) | THE FIFTH SEASON | OH MY GIRL | 2 | 1 | 55 |
 | Shake Your Sillies Out | Yummy Yummy (Classic Wiggles) | The Wiggles | 0 | 0 | 70 |
 | Hot Potato | Yummy Yummy (Classic Wiggles) | The Wiggles | 0 | 0 | 70 |
@@ -143,8 +144,6 @@
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 50 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 78 |
-| Melawan Restu | fábula | Mahalini | 0 | 2 | 77 |
-| Sisa Rasa | fábula | Mahalini | 1 | 2 | 77 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 69 |
 | When We Disco | When We Disco | J.Y. Park | 0 | 0 | 46 |
 | Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 46 |
@@ -164,10 +163,10 @@
 | Lose | Love Synonym #2 : Right for Us | WONHO | 0 | 0 | 45 |
 | Hello Song | Music Together Family Favorites | Music Together | 0 | 0 | 51 |
 | Octopus (Slippery Fish) | 10 Carrot Diamond | Charlotte Diamond | 0 | 0 | 43 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 56 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 58 |
 | Sofa Silahlane | Sofa Silahlane | Wanitwa Mos | 2 | 1 | 56 |
 | Sofa Silahlane | Sofa Silahlane | Nkosazana Daughter | 2 | 1 | 61 |
-| Sofa Silahlane | Sofa Silahlane | Master KG | 2 | 1 | 63 |
+| Sofa Silahlane | Sofa Silahlane | Master KG | 2 | 1 | 62 |
 | Sofa Silahlane | Sofa Silahlane | Lowsheen | 2 | 1 | 47 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 60 |
 | Toy | Toy | Netta | 1 | 0 | 49 |

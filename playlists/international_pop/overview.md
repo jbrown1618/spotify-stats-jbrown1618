@@ -35,7 +35,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbac5615022cefc2ac72caec4" alt="" width="50" /> | 103 | 2 | 2 | Christopher | [🔗](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1264a169b9cdf4acaeab5e8f" alt="" width="50" /> | 434 | 2 | 2 | Mahalini | [🔗](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3955d594fd646c2b77f2ae03" alt="" width="50" /> | 430 | 2 | 2 | Perfume | [🔗](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f" alt="" width="50" /> | 335 | 2 | 2 | Måneskin | [🔗](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f" alt="" width="50" /> | 336 | 2 | 2 | Måneskin | [🔗](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 40 | 2 | 2 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb35d5edece407eef3927533cb" alt="" width="50" /> | 427 | 4 | 1 | Isyana Sarasvati | [🔗](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfdabff9269242493eaae98fa" alt="" width="50" /> | 434 | 3 | 1 | Anna Zak | [🔗](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) |
@@ -43,7 +43,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2620d7e19f51d9c4b7e853ce" alt="" width="50" /> | 434 | 2 | 1 | Luis Fonsi | [🔗](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb38ae306fb16d18144e08f02c" alt="" width="50" /> | 218 | 2 | 1 | Pom Poko | [🔗](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb61a964dfb014475dbe412193" alt="" width="50" /> | 434 | 1 | 1 | BINI | [🔗](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | 347 | 1 | 1 | ROSALÍA | [🔗](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd7bb678bef6d2f26110cae49" alt="" width="50" /> | 334 | 1 | 1 | ROSALÍA | [🔗](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf0d30477dce2b89e7c6a13bc" alt="" width="50" /> | 434 | 1 | 1 | Aitana | [🔗](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6cbf5f96f5dc45584cdae566" alt="" width="50" /> | 378 | 1 | 1 | ANNA | [🔗](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8fe3fd15b08ed17abc0ee9db" alt="" width="50" /> | 434 | 1 | 1 | Aya Nakamura | [🔗](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) |
@@ -73,7 +73,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7e6dcb8a7c91726d69920377" alt="" width="50" /> | 434 | 1 | 1 | Ana Guerra | [🔗](https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb38a96d85b0580670123280e" alt="" width="50" /> | 434 | 1 | 1 | ZUTOMAYO | [🔗](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273891062df357b8282c97526b2" alt="" width="50" /> | 434 | 1 | 1 | 拾贰 | [🔗](https://open.spotify.com/artist/30YrwNoKzUtyVQsIrwtMdr) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8fbcf02dac53d8d66c5c1d8d" alt="" width="50" /> | 245 | 1 | 1 | AYLIVA | [🔗](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8fbcf02dac53d8d66c5c1d8d" alt="" width="50" /> | 246 | 1 | 1 | AYLIVA | [🔗](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb243f1b8756f0bbd0fcdb7260" alt="" width="50" /> | 269 | 1 | 1 | Roméo Elvis | [🔗](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd8d5d7125f4fbe0dea0b4646" alt="" width="50" /> | 199 | 1 | 1 | Stella Jang | [🔗](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273401f44b6898c668194598056" alt="" width="50" /> | 434 | 1 | 1 | 大籽 | [🔗](https://open.spotify.com/artist/2NJLAUSe3Ifk9MiHbddRAi) |
@@ -138,16 +138,16 @@
 
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 330 | <img src="https://i.scdn.co/image/ab67616d0000b273211dd4f1141b597f5f1c2ac9" alt="FEIFEI" width="50" /> | [FEIFEI](../../artists/nmixx/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | [Loving You](../../artists/yoasobi/overview.md) |
+| 327 | <img src="https://i.scdn.co/image/ab67616d0000b273211dd4f1141b597f5f1c2ac9" alt="FEIFEI" width="50" /> | [FEIFEI](../../artists/nmixx/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | [Loving You](../../artists/yoasobi/overview.md) |
 | 413 | <img src="https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c" alt="アイドル" width="50" /> | [アイドル](../../artists/yoasobi/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a" alt="Editorial" width="50" /> | Cry Baby |
-| 430 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | [KARATE](../../artists/babymetal/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2733f3d35703bdcd917dad51c4f" alt="Pasoori" width="50" /> | Pasoori |
-| 433 | <img src="https://i.scdn.co/image/ab67616d0000b2736305e51741ae5f4acda89fe2" alt="Schwarzes Herz" width="50" /> | Hässlich | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1a46144fd6a2c5e2cc5872" alt="恋人じゃなくなった日" width="50" /> | 恋人じゃなくなった日 |
-| 445 | <img src="https://i.scdn.co/image/ab67616d0000b273a7cff36d69e224ca1b489fa8" alt="ICHIJIKIKOKU" width="50" /> | OTONABLUE | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273a6dd88a097d77eaa6a5f517f" alt="Doobey (From &quot;Gehraiyaan&quot;)" width="50" /> | Doobey (From "Gehraiyaan") |
-| 494 | <img src="https://i.scdn.co/image/ab67616d0000b2732433cb43f0f2f0f23b7c8b82" alt="Brol" width="50" /> | Tout oublier | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273188327ac9022d86ad2dd6483" alt="弐" width="50" /> | ビリミリオン |
-| 523 | <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | [Seventeen](../../artists/yoasobi/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273073bc2070f7fa02b2a6bda64" alt="11:11" width="50" /> | 11 PM |
-| 570 | <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | [Headbangeeeeerrrrr!!!!!](../../artists/babymetal/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2733c5bfa54ae5e8312f5e0325a" alt="青春修炼手册" width="50" /> | 青春修炼手册 |
+| 434 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | [KARATE](../../artists/babymetal/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2733f3d35703bdcd917dad51c4f" alt="Pasoori" width="50" /> | Pasoori |
+| 437 | <img src="https://i.scdn.co/image/ab67616d0000b2736305e51741ae5f4acda89fe2" alt="Schwarzes Herz" width="50" /> | Hässlich | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1a46144fd6a2c5e2cc5872" alt="恋人じゃなくなった日" width="50" /> | 恋人じゃなくなった日 |
+| 447 | <img src="https://i.scdn.co/image/ab67616d0000b273a7cff36d69e224ca1b489fa8" alt="ICHIJIKIKOKU" width="50" /> | OTONABLUE | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273a6dd88a097d77eaa6a5f517f" alt="Doobey (From &quot;Gehraiyaan&quot;)" width="50" /> | Doobey (From "Gehraiyaan") |
+| 496 | <img src="https://i.scdn.co/image/ab67616d0000b2732433cb43f0f2f0f23b7c8b82" alt="Brol" width="50" /> | Tout oublier | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273188327ac9022d86ad2dd6483" alt="弐" width="50" /> | ビリミリオン |
+| 522 | <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="E-SIDE 3" width="50" /> | [Seventeen](../../artists/yoasobi/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273073bc2070f7fa02b2a6bda64" alt="11:11" width="50" /> | 11 PM |
+| 571 | <img src="https://i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f" alt="BABYMETAL" width="50" /> | [Headbangeeeeerrrrr!!!!!](../../artists/babymetal/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2733c5bfa54ae5e8312f5e0325a" alt="青春修炼手册" width="50" /> | 青春修炼手册 |
 | 575 | <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="METAL RESISTANCE" width="50" /> | [Awadama Fever](../../artists/babymetal/overview.md) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2737bc73fff9f3787c1d8a23167" alt="Look At Me" width="50" /> | Look At Me |
-| 580 | <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="Daisy 2.0 (feat. Hatsune Miku)" width="50" /> | Daisy 2.0 (feat. Hatsune Miku) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389" alt="LOVE ALL SERVE ALL" width="50" /> | Matsuri |
+| 581 | <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="Daisy 2.0 (feat. Hatsune Miku)" width="50" /> | Daisy 2.0 (feat. Hatsune Miku) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389" alt="LOVE ALL SERVE ALL" width="50" /> | Matsuri |
 
 </details>
 
@@ -157,8 +157,8 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="" width="50" /> | 362 | 4 | 4 | E-SIDE 3 | 2024-04-12 | [🔗](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="" width="50" /> | 239 | 4 | 2 | METAL RESISTANCE | 2016-04-01 | [🔗](https://open.spotify.com/album/2vIRdYffs93ca7L0Eh4mTm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273610aa2c187e24dacb4900fd7" alt="" width="50" /> | 365 | 4 | 4 | E-SIDE 3 | 2024-04-12 | [🔗](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fb9801e0a6ddc403436b88dc" alt="" width="50" /> | 242 | 4 | 2 | METAL RESISTANCE | 2016-04-01 | [🔗](https://open.spotify.com/album/2vIRdYffs93ca7L0Eh4mTm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f7bb02cb4b74bd7c2406428" alt="" width="50" /> | 665 | 2 | 2 | fábula | 2023-01-23 | [🔗](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315249cb1ee9b66f0aacfffe8" alt="" width="50" /> | 665 | 2 | 2 | Under the Surface | 2019-02-22 | [🔗](https://open.spotify.com/album/6ISIdF1gCK9X8pn4FaObHE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732bb4e77f30c614c2a7b67b9d" alt="" width="50" /> | 665 | 2 | 2 | METAL GALAXY | 2019-10-11 | [🔗](https://open.spotify.com/album/6rxRhft7JZtXavzHP2g2el) |
@@ -175,13 +175,13 @@
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="" width="50" /> | 665 | 2 | 1 | CITIZENS | 2022-05-19 | [🔗](https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1" alt="" width="50" /> | 527 | 2 | 0 | THE BOOK | 2021-01-06 | [🔗](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1" alt="" width="50" /> | 528 | 2 | 0 | THE BOOK | 2021-01-06 | [🔗](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bbf9d502f3ce4a15b3c43f7a" alt="" width="50" /> | 665 | 2 | 0 | Editorial | 2021-08-18 | [🔗](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735900a9808de7e716bdd49526" alt="" width="50" /> | 665 | 1 | 1 | 醒不来的梦 | 2020-12-15 | [🔗](https://open.spotify.com/album/6C9V6icEpoNhYtd75PM3OS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f66f9c01e819b80a87af4f2d" alt="" width="50" /> | 665 | 1 | 1 | 白月光与朱砂痣 | 2021-01-01 | [🔗](https://open.spotify.com/album/22QqokF4etKGtDv3BrNvXK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ced490e566f828ee9ca8d263" alt="" width="50" /> | 665 | 1 | 1 | 潜潜話 | 2019-10-29 | [🔗](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734df4e8ec1f66ebb6b63c14c2" alt="" width="50" /> | 665 | 1 | 1 | 海嘯 | 2001-05-10 | [🔗](https://open.spotify.com/album/06yEqpc6KFxUZ5BxE7V7TN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="" width="50" /> | 411 | 1 | 1 | 海のまにまに | 2022-11-18 | [🔗](https://open.spotify.com/album/6M4p4S5t8PuRZiq7zvMEPB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d419ebca054d39636a6da666" alt="" width="50" /> | 412 | 1 | 1 | 海のまにまに | 2022-11-18 | [🔗](https://open.spotify.com/album/6M4p4S5t8PuRZiq7zvMEPB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f609c79794752ed7ee0976b5" alt="" width="50" /> | 604 | 1 | 1 | 怪物 | 2021-01-06 | [🔗](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273188327ac9022d86ad2dd6483" alt="" width="50" /> | 665 | 1 | 1 | 弐 | 2023-03-29 | [🔗](https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f63f3d6c8b925a74145eb24" alt="" width="50" /> | 551 | 1 | 1 | セブンティーン | 2023-03-27 | [🔗](https://open.spotify.com/album/2XGJwl5zpqPTmtLAPy2rr6) |
@@ -203,7 +203,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d079e5850a10d7b2ee9e5c5a" alt="" width="50" /> | 665 | 1 | 1 | Stairs | 2021-10-15 | [🔗](https://open.spotify.com/album/0s3ME19b7uNfrBvKXBFwM7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734661cf765439018ebb7e0009" alt="" width="50" /> | 665 | 1 | 1 | Sin Pijama | 2018-04-20 | [🔗](https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738b302a279cfab9f1a28d2d35" alt="" width="50" /> | 665 | 1 | 1 | See Tình | 2022-02-20 | [🔗](https://open.spotify.com/album/1AttOIOFrGkOPNSq5mB4pd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736305e51741ae5f4acda89fe2" alt="" width="50" /> | 307 | 1 | 1 | Schwarzes Herz | 2023-08-25 | [🔗](https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736305e51741ae5f4acda89fe2" alt="" width="50" /> | 311 | 1 | 1 | Schwarzes Herz | 2023-08-25 | [🔗](https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e742841accccf949d7af1b75" alt="" width="50" /> | 496 | 1 | 1 | Racine Carrée (Standard US Version) | 2013-01-01 | [🔗](https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27302a856097c809fb56c23cfb2" alt="" width="50" /> | 665 | 1 | 1 | POP VIRUS | 2018-12-19 | [🔗](https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d61eeceb46e9eb4645360034" alt="" width="50" /> | 665 | 1 | 1 | On the Stage | 2024-08-11 | [🔗](https://open.spotify.com/album/4qN1V7yOkQxuxw6l0BNwge) |
@@ -217,23 +217,23 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27393f551abf615209c537fb4d4" alt="" width="50" /> | 665 | 1 | 1 | Kirari Remixes (Asia Edition) | 2022-01-14 | [🔗](https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738874d42c6591770e15618d13" alt="" width="50" /> | 665 | 1 | 1 | Jai Jai Shivshankar (From "War") | 2019-09-21 | [🔗](https://open.spotify.com/album/5GvIKf7yN7gjZfYohbvHmj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ead481e6a66480e84bdfcc5c" alt="" width="50" /> | 665 | 1 | 1 | Ievan Polkka | 2007-09-04 | [🔗](https://open.spotify.com/album/1JtScNnTB2JWsnc7AyayIr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a7cff36d69e224ca1b489fa8" alt="" width="50" /> | 315 | 1 | 1 | ICHIJIKIKOKU | 2023-04-12 | [🔗](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27322805a1b17e41ae357bd98bc" alt="" width="50" /> | 456 | 1 | 1 | HELP EVER HURT NEVER | 2020-05-20 | [🔗](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a7cff36d69e224ca1b489fa8" alt="" width="50" /> | 317 | 1 | 1 | ICHIJIKIKOKU | 2023-04-12 | [🔗](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322805a1b17e41ae357bd98bc" alt="" width="50" /> | 459 | 1 | 1 | HELP EVER HURT NEVER | 2020-05-20 | [🔗](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733bdf2e2ded049f7ff5352e78" alt="" width="50" /> | 665 | 1 | 1 | GENTO | 2023-05-19 | [🔗](https://open.spotify.com/album/3cxdpO2eZx2VT2OWyca18o) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737aa30221d9dbc1271bae1b05" alt="" width="50" /> | 665 | 1 | 1 | GAME | 2008 | [🔗](https://open.spotify.com/album/6kzdxF5o6XpDNTLVVdjoMj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273726ac2ca7910c8814a4c78a3" alt="" width="50" /> | 665 | 1 | 1 | Farra | 2019-06-28 | [🔗](https://open.spotify.com/album/1FXVq4BLk6Vl6Kr7TeSoYF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273211dd4f1141b597f5f1c2ac9" alt="" width="50" /> | 236 | 1 | 1 | FEIFEI | 2024-07-31 | [🔗](https://open.spotify.com/album/3iM9IcCKlZrTtvjgKvbtBW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273211dd4f1141b597f5f1c2ac9" alt="" width="50" /> | 234 | 1 | 1 | FEIFEI | 2024-07-31 | [🔗](https://open.spotify.com/album/3iM9IcCKlZrTtvjgKvbtBW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4d64a6a6b7e24b6bd9f009f" alt="" width="50" /> | 665 | 1 | 1 | El Mal Querer | 2018-11-02 | [🔗](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d05d3aad30c5fb7614893cf5" alt="" width="50" /> | 665 | 1 | 1 | El Dorado | 2017-05-26 | [🔗](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec2c05eda18004c5cc7a3df3" alt="" width="50" /> | 665 | 1 | 1 | Djadja | 2018-04-06 | [🔗](https://open.spotify.com/album/76VGIFOKrF1rba6Xznep45) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="" width="50" /> | 393 | 1 | 1 | Daisy 2.0 (feat. Hatsune Miku) | 2020-12-11 | [🔗](https://open.spotify.com/album/6JZYS7UElSfjyTgFgE1ApG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="" width="50" /> | 394 | 1 | 1 | Daisy 2.0 (feat. Hatsune Miku) | 2020-12-11 | [🔗](https://open.spotify.com/album/6JZYS7UElSfjyTgFgE1ApG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737eed64905d129d52667201f2" alt="" width="50" /> | 665 | 1 | 1 | DEJAYOU | 2023-07-17 | [🔗](https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273896ffcd42561c44fea2bae7b" alt="" width="50" /> | 665 | 1 | 1 | Con Calma | 2019-01-24 | [🔗](https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="" width="50" /> | 450 | 1 | 1 | Chosen | 2017-12-08 | [🔗](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045" alt="" width="50" /> | 453 | 1 | 1 | Chosen | 2017-12-08 | [🔗](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b89bd876c79f495ab3009444" alt="" width="50" /> | 665 | 1 | 1 | Cherry On Top | 2024-07-11 | [🔗](https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27393aa3d384efb79e00fe57555" alt="" width="50" /> | 640 | 1 | 1 | Cara Italia | 2018-05-02 | [🔗](https://open.spotify.com/album/3E3S8FQudapOj9Mpxc5v3N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273709a3fc128e4d453fab4d14e" alt="" width="50" /> | 665 | 1 | 1 | Bunny | 2020-11-25 | [🔗](https://open.spotify.com/album/7KJoNDndoJuxoFVl57NaVk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732433cb43f0f2f0f23b7c8b82" alt="" width="50" /> | 348 | 1 | 1 | Brol | 2018-10-05 | [🔗](https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732433cb43f0f2f0f23b7c8b82" alt="" width="50" /> | 350 | 1 | 1 | Brol | 2018-10-05 | [🔗](https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273623e3c5fc66ac6fb9c5c8bc6" alt="" width="50" /> | 665 | 1 | 1 | Born Without a Heart | 2019-03-28 | [🔗](https://open.spotify.com/album/5EOIYFpu56h7AgQxCRcyZG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ee7af6e271d04c728d8a47ba" alt="" width="50" /> | 562 | 1 | 1 | Bando | 2020-01-31 | [🔗](https://open.spotify.com/album/3UtdQcbHhNlEi79pS3282l) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da49cfeacb25379ce1c0f6c0" alt="" width="50" /> | 665 | 1 | 1 | Amigos (with Becky G) | 2023-11-17 | [🔗](https://open.spotify.com/album/3HtYZEKcsbFqEzKX8xntam) |

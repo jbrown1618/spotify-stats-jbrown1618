@@ -18,7 +18,7 @@ TOMORROW X TOGETHER:
 - has member 연준 (YEONJUN)
 
 ## Artist Rank
-- The #161 artist of all time
+- The #163 artist of all time
 
 ![Rank of TOMORROW X TOGETHER over time](../../images/artists/tomorrow_x_together/rank_time_series.png)
 ## Top Tracks
@@ -68,7 +68,7 @@ TOMORROW X TOGETHER:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733bb056e3160b85ee86c1194d" alt="" width="50" /> | Devil by the Window | The Name Chapter: TEMPTATION | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 560 | 💚 | [🔗](https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733bb056e3160b85ee86c1194d" alt="" width="50" /> | Devil by the Window | The Name Chapter: TEMPTATION | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 561 | 💚 | [🔗](https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b84603bfcc9665f8353982fd" alt="" width="50" /> | Cat & Dog (English Version) | Cat & Dog (English Version) | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 1015 | | [🔗](https://open.spotify.com/track/0wzlQwQ17rpVVqgdaFNA7Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739389aab1165b6498eba04d8e" alt="" width="50" /> | 9 and Three Quarters (Run Away) | The Dream Chapter: MAGIC | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 1015 | 💚 | [🔗](https://open.spotify.com/track/1rqb2FCXVn2HNL1afJEnTr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b85b1b3fae4244c686929af5" alt="" width="50" /> | Fairy of Shampoo | The Dream Chapter: ETERNITY | [TOMORROW X TOGETHER](overview.md) | [Republic Records](../../labels/republic_records) | 1015 | | [🔗](https://open.spotify.com/track/5JXpZcc3CeQaC6vAF1iaV5) |

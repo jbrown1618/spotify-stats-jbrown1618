@@ -19,7 +19,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8d69367047a24d20b0323ff7" alt="" width="50" /> | 260 | 2 | 2 | SuperM | [🔗](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb42ac28bac739fd27c568cf4b" alt="" width="50" /> | 434 | 2 | 2 | Maggie Rogers | [🔗](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) |
 | <img src="https://i.scdn.co/image/9a03437da395d999755edacccc24779a97254b89" alt="" width="50" /> | 434 | 3 | 1 | Aslyn | [🔗](https://open.spotify.com/artist/6seR0G84QQq1NIW844E7Qq) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7f17140567e7df5799d5c3a9" alt="" width="50" /> | 340 | 2 | 1 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7f17140567e7df5799d5c3a9" alt="" width="50" /> | 341 | 2 | 1 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebff60abd43fbf5343aac9cd7a" alt="" width="50" /> | 251 | 1 | 1 | Nat King Cole | [🔗](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9a398209a4ef3360dce2dec4" alt="" width="50" /> | 434 | 1 | 1 | Snoop Dogg | [🔗](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb5048d9616b459ef90f04b6d8" alt="" width="50" /> | 434 | 1 | 1 | 5 Seconds of Summer | [🔗](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) |
@@ -32,7 +32,7 @@ Appears as:
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | 338 | 1 | 1 | SUGA | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc" alt="" width="50" /> | 339 | 1 | 1 | SUGA | [🔗](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebadd5e4fe482da659175e36fc" alt="" width="50" /> | 415 | 2 | 0 | Dean Martin | [🔗](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) |
 | <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="" width="50" /> | 356 | 2 | 0 | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [🔗](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe86f788af4e127154da1257f" alt="" width="50" /> | 434 | 1 | 0 | Bonnie Raitt | [🔗](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) |
@@ -54,9 +54,9 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557" alt="" width="50" /> | 665 | 1 | 1 | Youngblood (Deluxe) | 2018-06-15 | [🔗](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273deac5adf07affb5fec422701" alt="" width="50" /> | 665 | 1 | 1 | The Nat King Cole Story | 1961-09-25 | [🔗](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730fdfb62956211c999c39a5a3" alt="" width="50" /> | 665 | 1 | 1 | Surrender | 2022-07-29 | [🔗](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273583c60000e8abc8283853e10" alt="" width="50" /> | 371 | 1 | 1 | SuperM - The 1st Mini Album | 2019-10-04 | [🔗](https://open.spotify.com/album/1C1qYeSC9RdgbrKXpZCTSJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | 528 | 1 | 1 | Super One -The 1st Album | 2020-09-25 | [🔗](https://open.spotify.com/album/10fdwvVIpa0raPkZUTILAt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | 461 | 1 | 1 | SUGA's Interlude | 2019-12-06 | [🔗](https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273583c60000e8abc8283853e10" alt="" width="50" /> | 372 | 1 | 1 | SuperM - The 1st Mini Album | 2019-10-04 | [🔗](https://open.spotify.com/album/1C1qYeSC9RdgbrKXpZCTSJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | 529 | 1 | 1 | Super One -The 1st Album | 2020-09-25 | [🔗](https://open.spotify.com/album/10fdwvVIpa0raPkZUTILAt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | 464 | 1 | 1 | SUGA's Interlude | 2019-12-06 | [🔗](https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731bd04431e42ed2105ea3534a" alt="" width="50" /> | 665 | 1 | 1 | Put A Little Love On Me | 2019-12-06 | [🔗](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) |
 
 
@@ -181,10 +181,10 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273583c60000e8abc8283853e10" alt="" width="50" /> | Jopping | SuperM - The 1st Mini Album | SuperM | [Capitol Records](.), [SM Entertainment](../sm_entertainment) | 529 | 💚 | [🔗](https://open.spotify.com/track/5WrEilrRI5cIW0DxMvQYPZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude | SUGA's Interlude | Halsey, SUGA, [BTS](../../artists/bts/overview.md) | [Capitol Records](.) | 691 | 💚 | [🔗](https://open.spotify.com/track/5a0nHa7F4S9hb0Zi0zLS8w) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | Tiger Inside | Super One -The 1st Album | SuperM | [Capitol Records](.), [SM Entertainment](../sm_entertainment) | 798 | 💚 | [🔗](https://open.spotify.com/track/1ADlTU9mFc3oDdD9Vla2Yw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea" alt="" width="50" /> | Let It Snow! Let It Snow! Let It Snow! | A Winter Romance | Dean Martin | [Capitol Records](.) | 971 | | [🔗](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273583c60000e8abc8283853e10" alt="" width="50" /> | Jopping | SuperM - The 1st Mini Album | SuperM | [Capitol Records](.), [SM Entertainment](../sm_entertainment) | 533 | 💚 | [🔗](https://open.spotify.com/track/5WrEilrRI5cIW0DxMvQYPZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da43139cbb1612e1b94eed4a" alt="" width="50" /> | SUGA's Interlude | SUGA's Interlude | Halsey, SUGA, [BTS](../../artists/bts/overview.md) | [Capitol Records](.) | 698 | 💚 | [🔗](https://open.spotify.com/track/5a0nHa7F4S9hb0Zi0zLS8w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273724a0cb04dbc89d9dd6ee06d" alt="" width="50" /> | Tiger Inside | Super One -The 1st Album | SuperM | [Capitol Records](.), [SM Entertainment](../sm_entertainment) | 799 | 💚 | [🔗](https://open.spotify.com/track/1ADlTU9mFc3oDdD9Vla2Yw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea" alt="" width="50" /> | Let It Snow! Let It Snow! Let It Snow! | A Winter Romance | Dean Martin | [Capitol Records](.) | 969 | | [🔗](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d7720a6a8b713b833313f396" alt="" width="50" /> | I've Got You Under My Skin - Remastered 1998 | Songs For Swingin' Lovers! (Remastered) | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [Capitol Records](.) | 1015 | | [🔗](https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740" alt="" width="50" /> | Come Fly With Me - Remastered 1998 | Come Fly With Me (Expanded Edition) | [Frank Sinatra](../../artists/frank_sinatra/overview.md) | [Capitol Records](.) | 1015 | | [🔗](https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea" alt="" width="50" /> | Baby, It's Cold Outside | A Winter Romance | Dean Martin | [Capitol Records](.) | 1015 | | [🔗](https://open.spotify.com/track/4MrfQL4TYQXJBlZYpAHTuE) |

@@ -4,10 +4,10 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 80 | 6 | 6 | [Florence + The Machine](../../../artists/florence_+_the_machine/overview.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 81 | 6 | 6 | [Florence + The Machine](../../../artists/florence_+_the_machine/overview.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb271320bcc15789b23aa83a44" alt="" width="50" /> | 420 | 3 | 3 | Erin McCarley | [🔗](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7ed0386d30b59531eddd34ba" alt="" width="50" /> | 424 | 3 | 3 | [Imogen Heap](../../../artists/imogen_heap/overview.md) | [🔗](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) |
-| <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | 316 | 2 | 2 | A Fine Frenzy | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
+| <img src="https://i.scdn.co/image/15b7ee7550ed4472700d573803ff90f2967f84d1" alt="" width="50" /> | 317 | 2 | 2 | A Fine Frenzy | [🔗](https://open.spotify.com/artist/5dTYaRzOn4rXGBLH052EeQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6d81a16f9d1b2abf04e765a6" alt="" width="50" /> | 434 | 2 | 2 | Carrie Underwood | [🔗](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4b09cd0839c6129c29d22f79" alt="" width="50" /> | 139 | 2 | 2 | [Lady Gaga](../../../artists/lady_gaga/overview.md) | [🔗](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | 326 | 1 | 1 | [Eminem](../../../artists/eminem/overview.md) | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
@@ -21,15 +21,15 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 133 | 1 | 1 | [Rihanna](../../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 134 | 1 | 1 | [Rihanna](../../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1509ea5c5453d5edba050412" alt="" width="50" /> | 329 | 1 | 1 | HONG JIN YOUNG | [🔗](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7bf15f5421846a9e58f494f1" alt="" width="50" /> | 434 | 1 | 1 | Anjulie | [🔗](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba36a9f95d59ab791d5e897e9" alt="" width="50" /> | 434 | 1 | 1 | Regina Spektor | [🔗](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9dadab92d8236e846b16fe3a" alt="" width="50" /> | 434 | 1 | 1 | Mumford & Sons | [🔗](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | 223 | 1 | 1 | Elton John | [🔗](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7a5cfe2597665a3d160e805e" alt="" width="50" /> | 339 | 1 | 1 | Justin Timberlake | [🔗](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970" alt="" width="50" /> | 224 | 1 | 1 | Elton John | [🔗](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7a5cfe2597665a3d160e805e" alt="" width="50" /> | 340 | 1 | 1 | Justin Timberlake | [🔗](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb26e35e5ceab6998278006481" alt="" width="50" /> | 434 | 1 | 1 | Brandi Carlile | [🔗](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe0001b1abdae41d669a446b7" alt="" width="50" /> | 100 | 1 | 1 | [SHINee](../../../artists/shinee/overview.md) | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe0001b1abdae41d669a446b7" alt="" width="50" /> | 101 | 1 | 1 | [SHINee](../../../artists/shinee/overview.md) | [🔗](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7aba0bf3576fe56c2b367c83" alt="" width="50" /> | 76 | 1 | 1 | Ciara | [🔗](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b9743970d802c36233125b3" alt="" width="50" /> | 135 | 1 | 1 | Steam Powered Giraffe | [🔗](https://open.spotify.com/artist/1yqs45BSh7457Flyhmdv7f) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf3517333f4713a51b9ee5457" alt="" width="50" /> | 179 | 1 | 1 | Metric | [🔗](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) |
@@ -48,7 +48,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | 643 | 3 | 3 | Ellipse | 2009-08-25 | [🔗](https://open.spotify.com/album/5AYKGPzPBJNHeKehCxMaq0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa" alt="" width="50" /> | 665 | 2 | 2 | The Fame Monster (Deluxe Edition) | 2009-11-05 | [🔗](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303668e3f13559554eca8ccc6" alt="" width="50" /> | 665 | 2 | 2 | Play On | 2009 | [🔗](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e7b8e0abcd5cdc4c8b5a238c" alt="" width="50" /> | 422 | 2 | 2 | Bomb In A Birdcage | 2009-01-01 | [🔗](https://open.spotify.com/album/07IV5RxLvAUeZbcPm4zOzn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e7b8e0abcd5cdc4c8b5a238c" alt="" width="50" /> | 423 | 2 | 2 | Bomb In A Birdcage | 2009-01-01 | [🔗](https://open.spotify.com/album/07IV5RxLvAUeZbcPm4zOzn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb6e8a26c2c4d9a23f888a94" alt="" width="50" /> | 665 | 1 | 1 | 쏘리 쏘리 Sorry, Sorry - The 3rd Album | 2009-03-11 | [🔗](https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d0a13a643d83342430c07da" alt="" width="50" /> | 665 | 1 | 1 | Sigh No More | 2009-10-02 | [🔗](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="" width="50" /> | 569 | 1 | 1 | Relapse: Refill | 2009-05-15 | [🔗](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) |
@@ -81,14 +81,14 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730595db077a6e829ba4bd6dea" alt="" width="50" /> | Brass Goggles | Album One | Steam Powered Giraffe | Steam Powered Giraffe | 587 | 💚 | [🔗](https://open.spotify.com/track/4Jo29Uu8726KtzclLNBbmc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e7b8e0abcd5cdc4c8b5a238c" alt="" width="50" /> | Electric Twist | Bomb In A Birdcage | A Fine Frenzy | [Virgin Records](../../../labels/virgin_records) | 637 | 💚 | [🔗](https://open.spotify.com/track/2jQ7ZztDfmt4qeW0tOMIqY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="" width="50" /> | Love's Battery | Love's Battery | HONG JIN YOUNG | 코어콘텐츠미디어 | 658 | 💚 | [🔗](https://open.spotify.com/track/3ODnfFXZP7hLp2fn2KpGGG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="" width="50" /> | We Made You | Relapse: Refill | [Eminem](../../../artists/eminem/overview.md) | [Aftermath](../../../labels/aftermath) | 857 | 💚 | [🔗](https://open.spotify.com/track/4UMTp91LHhvW33ol9ZQH0Q) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a7fcbfdd783b559de31d181b" alt="" width="50" /> | Ring Ding Dong | 2009, Year Of Us - The Third Mini Album | [SHINee](../../../artists/shinee/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 909 | 💚 | [🔗](https://open.spotify.com/track/4vLqN0bIxIQjlet2mIMBnx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730595db077a6e829ba4bd6dea" alt="" width="50" /> | Brass Goggles | Album One | Steam Powered Giraffe | Steam Powered Giraffe | 588 | 💚 | [🔗](https://open.spotify.com/track/4Jo29Uu8726KtzclLNBbmc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e7b8e0abcd5cdc4c8b5a238c" alt="" width="50" /> | Electric Twist | Bomb In A Birdcage | A Fine Frenzy | [Virgin Records](../../../labels/virgin_records) | 641 | 💚 | [🔗](https://open.spotify.com/track/2jQ7ZztDfmt4qeW0tOMIqY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d66fa6cfaadb6b634bd1c640" alt="" width="50" /> | Love's Battery | Love's Battery | HONG JIN YOUNG | 코어콘텐츠미디어 | 663 | 💚 | [🔗](https://open.spotify.com/track/3ODnfFXZP7hLp2fn2KpGGG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="" width="50" /> | We Made You | Relapse: Refill | [Eminem](../../../artists/eminem/overview.md) | [Aftermath](../../../labels/aftermath) | 861 | 💚 | [🔗](https://open.spotify.com/track/4UMTp91LHhvW33ol9ZQH0Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a7fcbfdd783b559de31d181b" alt="" width="50" /> | Ring Ding Dong | 2009, Year Of Us - The Third Mini Album | [SHINee](../../../artists/shinee/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 908 | 💚 | [🔗](https://open.spotify.com/track/4vLqN0bIxIQjlet2mIMBnx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e7b8e0abcd5cdc4c8b5a238c" alt="" width="50" /> | Blow Away | Bomb In A Birdcage | A Fine Frenzy | [Virgin Records](../../../labels/virgin_records) | 935 | 💚 | [🔗](https://open.spotify.com/track/2phwpCR68nWlTy8ao0PnK2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | Aha! | Ellipse | [Imogen Heap](../../../artists/imogen_heap/overview.md) | [RCA Records Label](../../../labels/rca_records_label) | 979 | 💚 | [🔗](https://open.spotify.com/track/42itRd5WoYb42RSYOloJvD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734280a158a96c9b0274eb7e99" alt="" width="50" /> | Sticky-Sweet | Love, Save The Empty | Erin McCarley | Universal (MT) | 980 | 💚 | [🔗](https://open.spotify.com/track/52UNaCyLmuWZQMFgiIBvyQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | Aha! | Ellipse | [Imogen Heap](../../../artists/imogen_heap/overview.md) | [RCA Records Label](../../../labels/rca_records_label) | 983 | 💚 | [🔗](https://open.spotify.com/track/42itRd5WoYb42RSYOloJvD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734280a158a96c9b0274eb7e99" alt="" width="50" /> | Sticky-Sweet | Love, Save The Empty | Erin McCarley | Universal (MT) | 987 | 💚 | [🔗](https://open.spotify.com/track/52UNaCyLmuWZQMFgiIBvyQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734280a158a96c9b0274eb7e99" alt="" width="50" /> | It's Not That Easy | Love, Save The Empty | Erin McCarley | Universal (MT) | 1015 | 💚 | [🔗](https://open.spotify.com/track/52XDPMr17ILKppuZRBFwqy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734280a158a96c9b0274eb7e99" alt="" width="50" /> | SleepWalking | Love, Save The Empty | Erin McCarley | Universal (MT) | 1015 | 💚 | [🔗](https://open.spotify.com/track/5bxPLXz6TCeZtPVx3w4OHM) |
 

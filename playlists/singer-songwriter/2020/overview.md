@@ -33,7 +33,7 @@
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | 606 | 10 | 6 | folklore | 2020-07-24 | [🔗](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | 665 | 3 | 2 | evermore | 2020-12-11 | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="" width="50" /> | 356 | 1 | 1 | minor | 2020-07-14 | [🔗](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="" width="50" /> | 358 | 1 | 1 | minor | 2020-07-14 | [🔗](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c330e261afcd6e0ae256f3aa" alt="" width="50" /> | 665 | 1 | 1 | color theory | 2020-02-28 | [🔗](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27332721a41a57bb9e56f46ac82" alt="" width="50" /> | 665 | 1 | 1 | Waves | 2020-10-09 | [🔗](https://open.spotify.com/album/4J4lVYyekfRZXTlAukqGw4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fde8f652864b52fc8c266dee" alt="" width="50" /> | 665 | 1 | 1 | STELLA I | 2020-04-07 | [🔗](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) |
@@ -60,7 +60,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="" width="50" /> | I miss you, I’m sorry | minor | Gracie Abrams | Gracie Abrams, under exclusive license to Interscope Records | 506 | 💚 | [🔗](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="" width="50" /> | I miss you, I’m sorry | minor | Gracie Abrams | Gracie Abrams, under exclusive license to Interscope Records | 508 | 💚 | [🔗](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | exile (feat. Bon Iver) | folklore | [Taylor Swift](../../../artists/taylor_swift/overview.md), Bon Iver | [Taylor Swift](../../../labels/taylor_swift) | 925 | 💚 | [🔗](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf31c7be8a9eea69d98c37c4" alt="" width="50" /> | Teach You - Acoustic | Sides | Emily King, [Sara Bareilles](../../../artists/sara_bareilles/overview.md) | ATO Records | 1015 | | [🔗](https://open.spotify.com/track/6Esc0Q4YRbnlJHb3dy6MdS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c330e261afcd6e0ae256f3aa" alt="" width="50" /> | yellow is the color of her eyes | color theory | Soccer Mommy | Loma Vista Recordings | 1015 | 💚 | [🔗](https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn) |

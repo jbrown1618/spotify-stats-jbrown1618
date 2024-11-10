@@ -16,7 +16,7 @@ Appears as:
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | 3 | 23 | 18 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | 311 | 2 | 2 | [MOMOLAND](../../artists/momoland/overview.md) | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4d4b74165ecfadcacf0771ae" alt="" width="50" /> | 312 | 2 | 2 | [MOMOLAND](../../artists/momoland/overview.md) | [🔗](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) |
 | | 434 | 1 | 1 | Jang Yi-jeong | [🔗](https://open.spotify.com/artist/7nLakaHt1koh5mP4OIVM0F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf94646ea8265c485e2708be" alt="" width="50" /> | 434 | 1 | 1 | Rania | [🔗](https://open.spotify.com/artist/5sUKi0QlHVxvsCzmrhJsFO) |
 | | 434 | 1 | 0 | Chundung | [🔗](https://open.spotify.com/artist/52KEoFZCGGap8hZHtOgENt) |
@@ -32,7 +32,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b2736a0cfc4171d2a0cb9dc7c9ab" alt="" width="50" /> | 647 | 3 | 3 | CHAT-SHIRE | 2015-10-23 | [🔗](https://open.spotify.com/album/3rMvAe0zU0pJRnRa7Rfc1U) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315cf3110f19687b1a24943d1" alt="" width="50" /> | 665 | 2 | 1 | REAL | 2010-12-09 | [🔗](https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | 331 | 2 | 1 | Last Fantasy | 2011-11-29 | [🔗](https://open.spotify.com/album/149BHv6qAyMgJ483vPi77C) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27335dbb67e8e2d12ab91d449b5" alt="" width="50" /> | 433 | 1 | 1 | REAL+ | 2011-02-17 | [🔗](https://open.spotify.com/album/79725WrSou2C9RrEUxClUf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27335dbb67e8e2d12ab91d449b5" alt="" width="50" /> | 434 | 1 | 1 | REAL+ | 2011-02-17 | [🔗](https://open.spotify.com/album/79725WrSou2C9RrEUxClUf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315b8cef21bf4482d56c15614" alt="" width="50" /> | 665 | 1 | 1 | Modern Times – Epilogue | 2013-12-20 | [🔗](https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e8729bbf642d44e6e973e2d" alt="" width="50" /> | 665 | 1 | 1 | Just go | 2013-03-08 | [🔗](https://open.spotify.com/album/4rNbLQCtgRSSCvYjk12zX3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5bb4ef1ca42f4378d815c7c" alt="" width="50" /> | 665 | 1 | 1 | GREAT! | 2018-01-03 | [🔗](https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4) |
@@ -44,7 +44,7 @@ Appears as:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1d785640d9421ec17ea8fe6" alt="" width="50" /> | 31 | 1 | 1 | BBIBBI | 2018-10-10 | [🔗](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1d785640d9421ec17ea8fe6" alt="" width="50" /> | 32 | 1 | 1 | BBIBBI | 2018-10-10 | [🔗](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8ac90d6852487a82df1b443" alt="" width="50" /> | 665 | 1 | 1 | A flower bookmark | 2014-05-16 | [🔗](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d93fd25cbf0ad2a9945869e" alt="" width="50" /> | 665 | 1 | 0 | heart | 2015-05-18 | [🔗](https://open.spotify.com/album/3NYm5NdVNZsXNfn0ZVezWb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1bb22f3ae0fe8b97bda6931" alt="" width="50" /> | 665 | 1 | 0 | Lost and Found | 2008-09-23 | [🔗](https://open.spotify.com/album/5CqhdN6fFBPN5JcNiU1uyF) |
@@ -83,15 +83,15 @@ Appears as:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1d785640d9421ec17ea8fe6" alt="" width="50" /> | BBIBBI | BBIBBI | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 24 | 💚 | [🔗](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | The Red Shoes | Modern Times | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 50 | 💚 | [🔗](https://open.spotify.com/track/3atsk5EWI5fNxLMIJnfYfJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | Modern Times | Modern Times | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 403 | 💚 | [🔗](https://open.spotify.com/track/38Dwg8OrUClCZl2wzUKrmi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | Love poem | Love poem | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 436 | 💚 | [🔗](https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | YOU&I | Last Fantasy | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 522 | 💚 | [🔗](https://open.spotify.com/track/37S86pw74OH8j96ZmMnrpR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | above the time | Love poem | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 607 | 💚 | [🔗](https://open.spotify.com/track/2qKZnheMe0HhqYC1XJcdaA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | unlucky | Love poem | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 641 | 💚 | [🔗](https://open.spotify.com/track/1jsY6pQeNaEConZWGau1L4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27335dbb67e8e2d12ab91d449b5" alt="" width="50" /> | Scary Fairy Tale | REAL+ | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 649 | 💚 | [🔗](https://open.spotify.com/track/4I7QHqHq3luA1ygpWZqqBV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | 4AM | Last Fantasy | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 818 | | [🔗](https://open.spotify.com/track/3K2qsjNSynFOx2XHTHGXT2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | Obliviate | Modern Times | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 883 | 💚 | [🔗](https://open.spotify.com/track/2RENeWPEosqVewFaHSNnjT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | The Red Shoes | Modern Times | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 49 | 💚 | [🔗](https://open.spotify.com/track/3atsk5EWI5fNxLMIJnfYfJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | Modern Times | Modern Times | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 404 | 💚 | [🔗](https://open.spotify.com/track/38Dwg8OrUClCZl2wzUKrmi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | Love poem | Love poem | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 439 | 💚 | [🔗](https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | YOU&I | Last Fantasy | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 524 | 💚 | [🔗](https://open.spotify.com/track/37S86pw74OH8j96ZmMnrpR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | above the time | Love poem | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 608 | 💚 | [🔗](https://open.spotify.com/track/2qKZnheMe0HhqYC1XJcdaA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b658276cd9884ef6fae69033" alt="" width="50" /> | unlucky | Love poem | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 644 | 💚 | [🔗](https://open.spotify.com/track/1jsY6pQeNaEConZWGau1L4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27335dbb67e8e2d12ab91d449b5" alt="" width="50" /> | Scary Fairy Tale | REAL+ | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 653 | 💚 | [🔗](https://open.spotify.com/track/4I7QHqHq3luA1ygpWZqqBV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bf5f4138ebc9ba3fd6f0cde9" alt="" width="50" /> | 4AM | Last Fantasy | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 820 | | [🔗](https://open.spotify.com/track/3K2qsjNSynFOx2XHTHGXT2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734897a7925914a3a10ce68c31" alt="" width="50" /> | Obliviate | Modern Times | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 881 | 💚 | [🔗](https://open.spotify.com/track/2RENeWPEosqVewFaHSNnjT) |
 
 
 <details>
@@ -99,7 +99,7 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736a0cfc4171d2a0cb9dc7c9ab" alt="" width="50" /> | Zezé | CHAT-SHIRE | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 990 | 💚 | [🔗](https://open.spotify.com/track/1dwOTQnBuN8LeVX4jNwJXS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736a0cfc4171d2a0cb9dc7c9ab" alt="" width="50" /> | Zezé | CHAT-SHIRE | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 989 | 💚 | [🔗](https://open.spotify.com/track/1dwOTQnBuN8LeVX4jNwJXS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1bb22f3ae0fe8b97bda6931" alt="" width="50" /> | lost child | Lost and Found | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 1015 | | [🔗](https://open.spotify.com/track/1EzYoGGkr0azLsiq8svGSl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315cf3110f19687b1a24943d1" alt="" width="50" /> | Good day | REAL | [IU](../../artists/iu/overview.md) | [Kakao Entertainment](.) | 1015 | 💚 | [🔗](https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27315cf3110f19687b1a24943d1" alt="" width="50" /> | Merry Christmas ahead (feat.Chundung) | REAL | [IU](../../artists/iu/overview.md), Chundung | [Kakao Entertainment](.) | 1015 | | [🔗](https://open.spotify.com/track/6I9Y6PHTWv72fgQV3tIHt0) |

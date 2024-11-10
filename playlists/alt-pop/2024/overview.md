@@ -25,7 +25,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b9743970d802c36233125b3" alt="" width="50" /> | 135 | 1 | 1 | Steam Powered Giraffe | [🔗](https://open.spotify.com/artist/1yqs45BSh7457Flyhmdv7f) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb45de7ab990a1246c812128b6" alt="" width="50" /> | 256 | 1 | 1 | Chris Martin | [🔗](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb01784e44ffd1a339350f4417" alt="" width="50" /> | 434 | 1 | 0 | John Legend | [🔗](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb544ba0da8dbe879efa20bcb9" alt="" width="50" /> | 336 | 1 | 0 | Tori Kelly | [🔗](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb544ba0da8dbe879efa20bcb9" alt="" width="50" /> | 337 | 1 | 0 | Tori Kelly | [🔗](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) |
 
 </details>
 
@@ -50,8 +50,8 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="" width="50" /> | Over You (feat. aespa & Chris Martin) | Djesse Vol. 4 | [Jacob Collier](../../../artists/jacob_collier/overview.md), [aespa](../../../artists/aespa/overview.md), Chris Martin | [Decca (UMO)](../../../labels/decca_(umo)) | 472 | 💚 | [🔗](https://open.spotify.com/track/7MSZg4Km8CM7NRXTeJoANZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d43af9a040457f0eb9c478b" alt="" width="50" /> | I Get It Now | I Get It Now | [Sammy Rae & The Friends](../../../artists/sammy_rae___the_friends/overview.md) | [Nettwerk Music Group](../../../labels/nettwerk_music_group) | 913 | 💚 | [🔗](https://open.spotify.com/track/03ECDyILFfQ98k106zwcIt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="" width="50" /> | Over You (feat. aespa & Chris Martin) | Djesse Vol. 4 | [Jacob Collier](../../../artists/jacob_collier/overview.md), [aespa](../../../artists/aespa/overview.md), Chris Martin | [Decca (UMO)](../../../labels/decca_(umo)) | 473 | 💚 | [🔗](https://open.spotify.com/track/7MSZg4Km8CM7NRXTeJoANZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d43af9a040457f0eb9c478b" alt="" width="50" /> | I Get It Now | I Get It Now | [Sammy Rae & The Friends](../../../artists/sammy_rae___the_friends/overview.md) | [Nettwerk Music Group](../../../labels/nettwerk_music_group) | 911 | 💚 | [🔗](https://open.spotify.com/track/03ECDyILFfQ98k106zwcIt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="" width="50" /> | A Rock Somewhere (feat. Anoushka Shankar & Varijashree Venugopal) | Djesse Vol. 4 | [Jacob Collier](../../../artists/jacob_collier/overview.md), Anoushka Shankar, Varijashree Venugopal | [Decca (UMO)](../../../labels/decca_(umo)) | 1015 | 💚 | [🔗](https://open.spotify.com/track/0PZU2E5P51ZJOQDW1k5U8F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="" width="50" /> | Bridge Over Troubled Water (feat. John Legend & Tori Kelly) | Djesse Vol. 4 | [Jacob Collier](../../../artists/jacob_collier/overview.md), John Legend, Tori Kelly | [Decca (UMO)](../../../labels/decca_(umo)) | 1015 | | [🔗](https://open.spotify.com/track/4asa5agcZmibrmpTmb1q6m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b5640ec6436246b57a32f1" alt="" width="50" /> | Cinnamon Crush (feat. Lindsey Lomis) | Djesse Vol. 4 | [Jacob Collier](../../../artists/jacob_collier/overview.md), Lindsey Lomis | [Decca (UMO)](../../../labels/decca_(umo)) | 1015 | 💚 | [🔗](https://open.spotify.com/track/6XJvYWE3tx9tRVavh6GysW) |

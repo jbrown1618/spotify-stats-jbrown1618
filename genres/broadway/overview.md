@@ -102,7 +102,7 @@
 ## Most and least listened tracks
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 420 | <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="Into The Woods (2022 Broadway Cast Recording)" width="50" /> | Giants In The Sky | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Notes / Prima Donna |
+| 423 | <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="Into The Woods (2022 Broadway Cast Recording)" width="50" /> | Giants In The Sky | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Notes / Prima Donna |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273d9cd8917de31257e2ac920a9" alt="The Book Of Mormon (Original Broadway Cast Recording)" width="50" /> | Hello! | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> | Overture - From 'The Phantom Of The Opera' Motion Picture |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Down Once More / Track Down This Murderer | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Notes / Twisted Every Way |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | All I Ask Of You - Reprise | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273d9cd8917de31257e2ac920a9" alt="The Book Of Mormon (Original Broadway Cast Recording)" width="50" /> | Two by Two |
@@ -125,7 +125,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c0f9e625ee5cac9e2abfc6e" alt="" width="50" /> | 665 | 2 | 0 | Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition) | 2013-01-01 | [🔗](https://open.spotify.com/album/0I6Bl1dVB1hQsSoQF6KuTg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="" width="50" /> | 665 | 2 | 0 | Les Misérables (Original Broadway Cast Recording) | 1987-05-11 | [🔗](https://open.spotify.com/album/3jbKDx0zB1QoJQTw8i1AvD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ef17f8dcb395f575de982b33" alt="" width="50" /> | 665 | 2 | 0 | Cats (Original Broadway Cast Recording / 1983) | 1983-01-01 | [🔗](https://open.spotify.com/album/7dIID5jd8V3fR2NXkonyD3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | 298 | 1 | 0 | Into The Woods (2022 Broadway Cast Recording) | 2022-09-30 | [🔗](https://open.spotify.com/album/5z6BFXI711HbSAXDjgOAHE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | 300 | 1 | 0 | Into The Woods (2022 Broadway Cast Recording) | 2022-09-30 | [🔗](https://open.spotify.com/album/5z6BFXI711HbSAXDjgOAHE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273954bf7796ba38ada0568352f" alt="" width="50" /> | 665 | 1 | 0 | Cappella | 2013 | [🔗](https://open.spotify.com/album/3n6JxpdWnHkazMCQxKK5qI) |
 
 

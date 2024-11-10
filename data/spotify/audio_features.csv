@@ -2890,7 +2890,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.523,0.726,7,-4.615,0,0.0556,0.113,0.0,0.148,0.3,135.982,4,spotify:track:4Xfix99TcepR0aGFVW8kYN
 0.675,0.635,0,-4.497,0,0.0573,0.236,0.0,0.699,0.637,79.969,4,spotify:track:4XmkOBnmepAq50IS1NCERb
 0.627,0.662,3,-4.245,0,0.128,0.339,0.0,0.166,0.308,168.068,4,spotify:track:4XqyWlYiTFZ627CuUzMOJP
-0.607,0.857,2,-3.287,1,0.301,0.164,0.0,0.211,0.732,179.749,4,spotify:track:4XsJiRJQAK8TWcZCn0Dxlh
 0.604,0.58,6,-5.119,0,0.0703,0.443,0.000337,0.164,0.34,86.015,4,spotify:track:4Y0EawuG8OtyYNyJulWnDu
 0.511,0.193,7,-15.148,1,0.0439,0.809,2.17e-05,0.129,0.164,116.348,4,spotify:track:4Y5fyQ5fBysC32Na5sZT3J
 0.563,0.152,2,-18.381,1,0.05,0.917,0.000171,0.139,0.223,121.09,3,spotify:track:4Y6VEDkRSpbn8Wt8x18RHh

@@ -27,7 +27,7 @@ Daft Punk:
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2736610c21366e613bfd9f5d197" alt="" width="50" /> | 665 | 3 | 2 | Discovery | 2001-03-12 | [🔗](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | 343 | 2 | 2 | Random Access Memories | 2013-05-20 | [🔗](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | 344 | 2 | 2 | Random Access Memories | 2013-05-20 | [🔗](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="" width="50" /> | 665 | 1 | 1 | Human After All | 2005-03-14 | [🔗](https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="" width="50" /> | 665 | 1 | 0 | Starboy | 2016-11-25 | [🔗](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) |
 
@@ -99,7 +99,7 @@ Daft Punk:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Get Lucky (feat. Pharrell Williams and Nile Rodgers) | Random Access Memories | [Daft Punk](overview.md), Pharrell Williams, Nile Rodgers | [Columbia](../../labels/columbia) | 486 | 💚 | [🔗](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Get Lucky (feat. Pharrell Williams and Nile Rodgers) | Random Access Memories | [Daft Punk](overview.md), Pharrell Williams, Nile Rodgers | [Columbia](../../labels/columbia) | 488 | 💚 | [🔗](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736610c21366e613bfd9f5d197" alt="" width="50" /> | Digital Love | Discovery | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | 1015 | 💚 | [🔗](https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736610c21366e613bfd9f5d197" alt="" width="50" /> | Harder, Better, Faster, Stronger | Discovery | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | 1015 | 💚 | [🔗](https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736610c21366e613bfd9f5d197" alt="" width="50" /> | One More Time | Discovery | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | 1015 | | [🔗](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) |

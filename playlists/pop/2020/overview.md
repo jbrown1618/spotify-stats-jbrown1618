@@ -26,7 +26,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdbe6d377ce63a248c0108605" alt="" width="50" /> | 434 | 1 | 1 | 24kGoldn | [🔗](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb7c350e80bfc4993f977934d1" alt="" width="50" /> | 434 | 1 | 1 | Saweetie | [🔗](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb70d80b8ab8e193aef64223ec" alt="" width="50" /> | 434 | 1 | 1 | [Clean Bandit](../../../artists/clean_bandit/overview.md) | [🔗](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebead1540fa76796266fadba33" alt="" width="50" /> | 345 | 1 | 1 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebead1540fa76796266fadba33" alt="" width="50" /> | 346 | 1 | 1 | Bebe Rexha | [🔗](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb345f5d936d8bc62daf2b814a" alt="" width="50" /> | 434 | 1 | 1 | Stellar | [🔗](https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | 434 | 1 | 1 | benny blanco | [🔗](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf6d51e6f5342d2d363220920" alt="" width="50" /> | 276 | 1 | 1 | Gracie Abrams | [🔗](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) |
@@ -54,7 +54,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcc2d67917c6dc6cdfd009964" alt="" width="50" /> | 434 | 1 | 0 | Conan Gray | [🔗](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe6f96cf550aeaf3a51d6a0bb" alt="" width="50" /> | 203 | 1 | 0 | keshi | [🔗](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf057d1dce23e7f4d5d0f32e5" alt="" width="50" /> | 434 | 1 | 0 | Sam Smith | [🔗](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7f17140567e7df5799d5c3a9" alt="" width="50" /> | 340 | 1 | 0 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7f17140567e7df5799d5c3a9" alt="" width="50" /> | 341 | 1 | 0 | Halsey | [🔗](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdea08796d296a58c5d060439" alt="" width="50" /> | 434 | 1 | 0 | J Balvin | [🔗](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb50d43598b9074f0d6146127" alt="" width="50" /> | 434 | 1 | 0 | Tainy | [🔗](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) |
 
@@ -68,12 +68,12 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | 606 | 10 | 6 | folklore | 2020-07-24 | [🔗](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4" alt="" width="50" /> | 665 | 6 | 3 | Future Nostalgia | 2020-03-27 | [🔗](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605" alt="" width="50" /> | 665 | 3 | 1 | Positions | 2020-10-30 | [🔗](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | 492 | 2 | 2 | After Hours | 2020-03-20 | [🔗](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | 495 | 2 | 2 | After Hours | 2020-03-20 | [🔗](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be" alt="" width="50" /> | 665 | 2 | 1 | evermore | 2020-12-11 | [🔗](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="" width="50" /> | 665 | 2 | 1 | SAWAYAMA | 2020-04-17 | [🔗](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | 517 | 2 | 1 | Chromatica | 2020-05-29 | [🔗](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | 519 | 2 | 1 | Chromatica | 2020-05-29 | [🔗](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606" alt="" width="50" /> | 506 | 1 | 1 | ~how i'm feeling~ | 2020-03-06 | [🔗](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="" width="50" /> | 356 | 1 | 1 | minor | 2020-07-14 | [🔗](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="" width="50" /> | 358 | 1 | 1 | minor | 2020-07-14 | [🔗](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c" alt="" width="50" /> | 665 | 1 | 1 | WAP (feat. Megan Thee Stallion) | 2020-08-07 | [🔗](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) |
 
 
@@ -89,7 +89,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fb1446223808a37ba8914b5" alt="" width="50" /> | 665 | 1 | 1 | Slow Grenade | 2020-06-30 | [🔗](https://open.spotify.com/album/15Zgvxqql6EPHE3NJlUt0R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732391567b232259b63ad3592e" alt="" width="50" /> | 665 | 1 | 1 | React | 2020-02-07 | [🔗](https://open.spotify.com/album/3iJA3r8NBh2p3ZwRCiMxYz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389fba37a3d30c462059917bd" alt="" width="50" /> | 665 | 1 | 1 | Physical (feat. Hwa Sa) | 2020-01-28 | [🔗](https://open.spotify.com/album/6apIJi4hf7U6cBOFwIqq1b) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | 273 | 1 | 1 | No Time To Die | 2020-02-13 | [🔗](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | 274 | 1 | 1 | No Time To Die | 2020-02-13 | [🔗](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | 665 | 1 | 1 | Lonely (with benny blanco) | 2020-10-16 | [🔗](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736bbd6589349e2bab2ce3f38b" alt="" width="50" /> | 665 | 1 | 1 | I Don't Think I'm Okay | 2020-07-09 | [🔗](https://open.spotify.com/album/2FVXY7JKhLrYb5CExY0CDq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7" alt="" width="50" /> | 665 | 1 | 1 | Heaven & Hell | 2020-09-18 | [🔗](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) |
@@ -98,7 +98,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0927ea5b0dde802e65eb9b6" alt="" width="50" /> | 665 | 1 | 1 | Baby, I'm Jealous (feat. Doja Cat) | 2020-10-09 | [🔗](https://open.spotify.com/album/2N367tN1eIXrHNVe86aVy4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27307a560f0504f9de0af5e0a33" alt="" width="50" /> | 665 | 1 | 1 | Baby Powder | 2020-03-25 | [🔗](https://open.spotify.com/album/3nqQxvxUB95Bi2UBseY1u1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730db4898026f2f0d478abf0e7" alt="" width="50" /> | 665 | 1 | 1 | Ashes | 2020-05-03 | [🔗](https://open.spotify.com/album/41gMZm0ib3Je8hU0eFNUwS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f4269ee2c76394d8f3d1309" alt="" width="50" /> | 369 | 1 | 1 | 7G | 2020-08-12 | [🔗](https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f4269ee2c76394d8f3d1309" alt="" width="50" /> | 370 | 1 | 1 | 7G | 2020-08-12 | [🔗](https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737941a79c3108cedb1667b68d" alt="" width="50" /> | 665 | 1 | 0 | bandaids | 2020-03-24 | [🔗](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273312bd86cc2db22fde885ee73" alt="" width="50" /> | 665 | 1 | 0 | UN DIA (ONE DAY) (Feat. Tainy) | 2020-07-24 | [🔗](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27312e57573cbc551c187a96107" alt="" width="50" /> | 665 | 1 | 0 | Monster | 2020-11-20 | [🔗](https://open.spotify.com/album/3yVVL2EYLp8g7gT08VvYKy) |
@@ -116,12 +116,12 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | No Time To Die | No Time To Die | [Billie Eilish](../../../artists/billie_eilish/overview.md) | [Darkroom](../../../labels/darkroom), [Interscope Records](../../../labels/interscope_records) | 390 | 💚 | [🔗](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="" width="50" /> | I miss you, I’m sorry | minor | Gracie Abrams | Gracie Abrams, under exclusive license to Interscope Records | 506 | 💚 | [🔗](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f4269ee2c76394d8f3d1309" alt="" width="50" /> | Show Me What | 7G | A. G. Cook, Cecile Believe | PC Music | 527 | 💚 | [🔗](https://open.spotify.com/track/0qJtV82bKOgB2kvfa8IrZp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7" alt="" width="50" /> | No Time To Die | No Time To Die | [Billie Eilish](../../../artists/billie_eilish/overview.md) | [Darkroom](../../../labels/darkroom), [Interscope Records](../../../labels/interscope_records) | 391 | 💚 | [🔗](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e" alt="" width="50" /> | I miss you, I’m sorry | minor | Gracie Abrams | Gracie Abrams, under exclusive license to Interscope Records | 508 | 💚 | [🔗](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f4269ee2c76394d8f3d1309" alt="" width="50" /> | Show Me What | 7G | A. G. Cook, Cecile Believe | PC Music | 529 | 💚 | [🔗](https://open.spotify.com/track/0qJtV82bKOgB2kvfa8IrZp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36" alt="" width="50" /> | Blinding Lights | After Hours | The Weeknd | [Republic Records](../../../labels/republic_records) | 739 | 💚 | [🔗](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606" alt="" width="50" /> | Julia | ~how i'm feeling~ | Lauv | Lauv | 760 | 💚 | [🔗](https://open.spotify.com/track/12YVZ3Tg4LyAJNsMJVtwQq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Sour Candy (with BLACKPINK) | Chromatica | [Lady Gaga](../../../artists/lady_gaga/overview.md), [BLACKPINK](../../../artists/blackpink/overview.md) | [Interscope](../../../labels/interscope_records) | 784 | 💚 | [🔗](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a" alt="" width="50" /> | Sour Candy (with BLACKPINK) | Chromatica | [Lady Gaga](../../../artists/lady_gaga/overview.md), [BLACKPINK](../../../artists/blackpink/overview.md) | [Interscope](../../../labels/interscope_records) | 783 | 💚 | [🔗](https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc" alt="" width="50" /> | exile (feat. Bon Iver) | folklore | [Taylor Swift](../../../artists/taylor_swift/overview.md), Bon Iver | [Taylor Swift](../../../labels/taylor_swift) | 925 | 💚 | [🔗](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd" alt="" width="50" /> | Without Me | Manic | Halsey | [Capitol Records](../../../labels/capitol_records) | 1015 | | [🔗](https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="" width="50" /> | Boss Bitch | Boss Bitch | [Doja Cat](../../../artists/doja_cat/overview.md) | [Atlantic Records](../../../labels/atlantic_records) | 1015 | 💚 | [🔗](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) |

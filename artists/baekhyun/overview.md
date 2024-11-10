@@ -16,7 +16,7 @@ BAEKHYUN:
 
 ## Artist Rank
 BAEKHYUN is currently:
-- The #32 artist of the last 6 months
+- The #34 artist of the last 6 months
 - The #48 artist of the last year
 - The #53 artist of all time
 
@@ -58,7 +58,7 @@ BAEKHYUN is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | 83 | 1 | 1 | Dream | 2016-01-07 | [🔗](https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273107e55b2842afce628d050e2" alt="" width="50" /> | 615 | 1 | 1 | Doom at Your Service (Original Television Soundtrack) Pt. 3 | 2021-05-31 | [🔗](https://open.spotify.com/album/2fy01jwC0GrnBGQ4Crcnve) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="" width="50" /> | 62 | 1 | 1 | Amusement Park | 2020-12-21 | [🔗](https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736652c7af6f96d2126e49a9a7" alt="" width="50" /> | 248 | 1 | 0 | Hello, World - The 4th Mini Album | 2024-09-06 | [🔗](https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736652c7af6f96d2126e49a9a7" alt="" width="50" /> | 232 | 1 | 0 | Hello, World - The 4th Mini Album | 2024-09-06 | [🔗](https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -72,6 +72,7 @@ BAEKHYUN is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020f7e2aa2f1d7ea0fd2e206c0ab67616d00001e0216aaf05fe82237576a7d0e38ab67616d00001e0220112a0321d2efc7384db456ab67616d00001e02f93159d78849714fcf118bb3" alt="" width="50" /> | 1 | [Funk](../../playlists/funk/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e025c041fe9e3c9de436047d86bab67616d00001e02714e56679ab196354e2e443eab67616d00001e027a393b04e8ced571618223e8ab67616d00001e027dd8f95320e8ef08aa121dfe" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k-pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020cac27fa1830d50ff4a7a20dab67616d00001e024cd7f69b85766b3d3035c27cab67616d00001e0297265410628ab7f94a380c9dab67616d00001e02979cf803b9d85291a17882ef" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
+| <img src="https://daily-mix.scdn.co/covers/backtracks/PZN_Repeat_Rewind2_DEFAULT-en.jpg" alt="" width="50" /> | 1 | [Repeat Rewind](../../playlists/repeat_rewind/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e021869a85947a5ea00df8c936fab67616d00001e025048ed32fafe7b9a50d0e410ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Recommendations for Chris](../../playlists/recommendations_for_chris/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020f5c597bba60a1e0c5364baaab67616d00001e0247d4fcf597d9aee2d5a34e8eab67616d00001e025ccb1b40b2081fff238473bbab67616d00001e02c6633dda2aa449c5650c14be" alt="" width="50" /> | 1 | [K-OST](../../playlists/k-ost/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020c053ee476f7ce576369241eab67616d00001e02119e4094f07a8123b471ac1dab67616d00001e022a0face7d69df61c20a6db2bab67616d00001e02cfbcba7cc35a40e08e5aff67" alt="" width="50" /> | 1 | [Christmas](../../playlists/christmas/overview.md) |
@@ -99,9 +100,9 @@ BAEKHYUN is currently:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2739c7eb20dfbb2150f55c9debd" alt="" width="50" /> | Amusement Park | Amusement Park | [BAEKHYUN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 60 | 💚 | [🔗](https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273112b210accd05345a17a46f0" alt="" width="50" /> | Dream | Dream | Suzy, [BAEKHYUN](overview.md) | ChoongangICS, MYSTIC Entertainment, [JYP Entertainment](../../labels/jyp_entertainment), [SM Entertainment](../../labels/sm_entertainment) | 97 | 💚 | [🔗](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736652c7af6f96d2126e49a9a7" alt="" width="50" /> | Pineapple Slice | Hello, World - The 4th Mini Album | [BAEKHYUN](overview.md) | INB100 | 348 | | [🔗](https://open.spotify.com/track/13U2hhhgeN57hffBCuaUcw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273107e55b2842afce628d050e2" alt="" width="50" /> | U | Doom at Your Service (Original Television Soundtrack) Pt. 3 | [BAEKHYUN](overview.md) | 뮤직앤뉴, 스튜디오앤뉴 | 947 | 💚 | [🔗](https://open.spotify.com/track/0AtHUIDAkXWgpbD0QkyKgi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27365d11e2eb2034dbc6297ec86" alt="" width="50" /> | Get You Alone | BAEKHYUN | [BAEKHYUN](overview.md) | [avex trax](../../labels/avex_trax) | 953 | 💚 | [🔗](https://open.spotify.com/track/3K1hH4PSGXbzczwtdBvMNW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736652c7af6f96d2126e49a9a7" alt="" width="50" /> | Pineapple Slice | Hello, World - The 4th Mini Album | [BAEKHYUN](overview.md) | INB100 | 324 | | [🔗](https://open.spotify.com/track/13U2hhhgeN57hffBCuaUcw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273107e55b2842afce628d050e2" alt="" width="50" /> | U | Doom at Your Service (Original Television Soundtrack) Pt. 3 | [BAEKHYUN](overview.md) | 뮤직앤뉴, 스튜디오앤뉴 | 940 | 💚 | [🔗](https://open.spotify.com/track/0AtHUIDAkXWgpbD0QkyKgi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27365d11e2eb2034dbc6297ec86" alt="" width="50" /> | Get You Alone | BAEKHYUN | [BAEKHYUN](overview.md) | [avex trax](../../labels/avex_trax) | 950 | 💚 | [🔗](https://open.spotify.com/track/3K1hH4PSGXbzczwtdBvMNW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c0903b4b02840c57f103db4" alt="" width="50" /> | Psycho - Bonus Track | City Lights - The 1st Mini Album | [BAEKHYUN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1015 | | [🔗](https://open.spotify.com/track/59i14jziCvvdoTYJn7SiKe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738c0903b4b02840c57f103db4" alt="" width="50" /> | UN Village | City Lights - The 1st Mini Album | [BAEKHYUN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1015 | 💚 | [🔗](https://open.spotify.com/track/0WSTInLqMrT9po0LAHpZCJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a280844e6f3397b0632ff64f" alt="" width="50" /> | Bungee | Delight - The 2nd Mini Album | [BAEKHYUN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1015 | 💚 | [🔗](https://open.spotify.com/track/6wwmbBoBaFxptJwuvF2QdM) |

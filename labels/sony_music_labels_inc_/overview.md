@@ -52,7 +52,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | 504 | 2 | 1 | 壱 | 2022-01-12 | [🔗](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273188327ac9022d86ad2dd6483" alt="" width="50" /> | 665 | 1 | 1 | 弐 | 2023-03-29 | [🔗](https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733019082a0f673eaa7a5ea3ae" alt="" width="50" /> | 665 | 1 | 1 | There | 2023-02-15 | [🔗](https://open.spotify.com/album/2j8BoKqZrMUYTARDIs9XDk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | 478 | 1 | 1 | CIRCUS | 2022-06-10 | [🔗](https://open.spotify.com/album/4IQHY28D4aHus9lGDlSdPp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | 481 | 1 | 1 | CIRCUS | 2022-06-10 | [🔗](https://open.spotify.com/album/4IQHY28D4aHus9lGDlSdPp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" alt="" width="50" /> | 665 | 1 | 1 | A Little Bit of Mambo | 1999-07-19 | [🔗](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe" alt="" width="50" /> | 665 | 1 | 0 | 青のすみか | 2023-07-07 | [🔗](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce1a46144fd6a2c5e2cc5872" alt="" width="50" /> | 665 | 1 | 0 | 恋人じゃなくなった日 | 2023-02-14 | [🔗](https://open.spotify.com/album/0E6KtMRFXw2LDyV38I3nNQ) |
@@ -131,9 +131,9 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273c3a330eb913aaec37dd8d567" alt="" width="50" /> | CRUSH | CRUSH | [IVE](../../artists/ive/overview.md) | [Sony Music Labels Inc.](.) | 410 | | [🔗](https://open.spotify.com/track/3iDdrh15xYLHKafxYNLF4F) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS | CIRCUS | [Stray Kids](../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](.) | 714 | 💚 | [🔗](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](.) | 761 | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c3a330eb913aaec37dd8d567" alt="" width="50" /> | CRUSH | CRUSH | [IVE](../../artists/ive/overview.md) | [Sony Music Labels Inc.](.) | 411 | | [🔗](https://open.spotify.com/track/3iDdrh15xYLHKafxYNLF4F) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d784afd710070b5fe22b99bf" alt="" width="50" /> | CIRCUS | CIRCUS | [Stray Kids](../../artists/stray_kids/overview.md) | [Sony Music Labels Inc.](.) | 716 | 💚 | [🔗](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0bd51668da5629aa0cc77d8" alt="" width="50" /> | ドライフラワー | 壱 | Yuuri | [Sony Music Labels Inc.](.) | 759 | 💚 | [🔗](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf505191afa6a1978418fdf8" alt="" width="50" /> | Mambo No. 5 (a Little Bit of...) | A Little Bit of Mambo | Lou Bega | [Sony Music/Vorsicht Musik](.) | 1015 | 💚 | [🔗](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273954bf7796ba38ada0568352f" alt="" width="50" /> | All I Ask of You | Cappella | Andrew Lloyd Webber, The King's Singers | [Sony Classical](../sony_classical), [Sony Music Labels Inc.](.) | 1015 | | [🔗](https://open.spotify.com/track/5JTRLqApDZKaIwcopt1d9p) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273954bf7796ba38ada0568352f" alt="" width="50" /> | Ave Maria | Cappella | Josquin des Prez, The King's Singers | [Sony Classical](../sony_classical), [Sony Music Labels Inc.](.) | 1015 | | [🔗](https://open.spotify.com/track/6xBGuah2AMT6y5S0HlztUU) |

@@ -13,7 +13,7 @@ Appears as:
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 80 | 15 | 14 | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a" alt="" width="50" /> | 81 | 15 | 14 | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [🔗](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c" alt="" width="50" /> | 410 | 3 | 2 | Amy Winehouse | [🔗](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) |
 
 
@@ -97,10 +97,10 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Never Let Me Go | Ceremonials (Deluxe Edition) | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | 243 | 💚 | [🔗](https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | What The Water Gave Me | Ceremonials (Deluxe Edition) | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | 671 | 💚 | [🔗](https://open.spotify.com/track/3RiOPzAvhNKuMIdPYOrKV8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Seven Devils | Ceremonials (Deluxe Edition) | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | 931 | 💚 | [🔗](https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52" alt="" width="50" /> | Back To Black | Back To Black | Amy Winehouse | [Universal-Island Records Ltd.](.) | 939 | 💚 | [🔗](https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Never Let Me Go | Ceremonials (Deluxe Edition) | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | 244 | 💚 | [🔗](https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | What The Water Gave Me | Ceremonials (Deluxe Edition) | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | 673 | 💚 | [🔗](https://open.spotify.com/track/3RiOPzAvhNKuMIdPYOrKV8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273527d94ecf554774fc313bf48" alt="" width="50" /> | Seven Devils | Ceremonials (Deluxe Edition) | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | 932 | 💚 | [🔗](https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52" alt="" width="50" /> | Back To Black | Back To Black | Amy Winehouse | [Universal-Island Records Ltd.](.) | 947 | 💚 | [🔗](https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27376ffb5b5ab045d22c81235c1" alt="" width="50" /> | Valerie - Live At BBC Radio 1 Live Lounge, London / 2007 | Back To Black (Deluxe Edition) | Amy Winehouse | [Universal-Island Records Ltd.](.) | 1015 | | [🔗](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52" alt="" width="50" /> | Rehab | Back To Black | Amy Winehouse | [Universal-Island Records Ltd.](.) | 1015 | 💚 | [🔗](https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730672b0f8756ae2af86e8a5ce" alt="" width="50" /> | Between Two Lungs | Lungs (Deluxe Edition) | [Florence + The Machine](../../artists/florence_+_the_machine/overview.md) | [Universal-Island Records Ltd.](.) | 1015 | 💚 | [🔗](https://open.spotify.com/track/5WnYyCWBbJyLChmd2sbZK9) |

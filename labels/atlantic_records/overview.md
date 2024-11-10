@@ -61,7 +61,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1d8e3ecf59f556b8e4fafce8" alt="" width="50" /> | 434 | 1 | 1 | Tyga | [🔗](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdb972b34c76d1f6e643ba616" alt="" width="50" /> | 434 | 1 | 1 | Ava Max | [🔗](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba52d6095be04ca6691ba9a96" alt="" width="50" /> | 434 | 1 | 1 | Jess Glynne | [🔗](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb727a1f1f508238a20ac9fdbf" alt="" width="50" /> | 141 | 1 | 1 | ROSÉ | [🔗](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb727a1f1f508238a20ac9fdbf" alt="" width="50" /> | 140 | 1 | 1 | ROSÉ | [🔗](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf6691f40d906f097e9fbaa4c" alt="" width="50" /> | 434 | 1 | 1 | Missy Elliott | [🔗](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e4be3cd76cff0dd9c80c7133" alt="" width="50" /> | 434 | 1 | 1 | Sydney James Harcourt | [🔗](https://open.spotify.com/artist/2fHcpUAFhqmfloo2HkBN3e) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8cb645e0a77bf015feda7fb9" alt="" width="50" /> | 434 | 1 | 1 | Rina Sawayama | [🔗](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) |
@@ -81,7 +81,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5ebab47d8dae2b24f5afe7f9d38" alt="" width="50" /> | 393 | 1 | 0 | Imagine Dragons | [🔗](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb94678f7d5353a9b680f60d23" alt="" width="50" /> | 434 | 1 | 0 | Logic | [🔗](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1b11affeaa9a0f2c3c0e0ba0" alt="" width="50" /> | 434 | 1 | 0 | AleXa | [🔗](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb299e78573ac6393aa9079d19" alt="" width="50" /> | 310 | 1 | 0 | Thundercat | [🔗](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb299e78573ac6393aa9079d19" alt="" width="50" /> | 311 | 1 | 0 | Thundercat | [🔗](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a39389bb6dd8fd79c0fff3a2" alt="" width="50" /> | 434 | 1 | 0 | American Song Contest | [🔗](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb274df4dfcb960867eccedfb5" alt="" width="50" /> | 434 | 1 | 0 | Twenty One Pilots | [🔗](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe04e938adb7de2920713b91" alt="" width="50" /> | 434 | 1 | 0 | X Ambassadors | [🔗](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) |
@@ -105,7 +105,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | 518 | 2 | 2 | Unorthodox Jukebox | 2012-12-07 | [🔗](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c985bcc18dd81da80839e5a9" alt="" width="50" /> | 665 | 2 | 2 | Plans | 2005-08-29 | [🔗](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | 625 | 2 | 2 | Doo-Wops & Hooligans | 2010-05-11 | [🔗](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273086ca574430eaa107d3e855f" alt="" width="50" /> | 535 | 2 | 2 | CRASH | 2022-03-18 | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273086ca574430eaa107d3e855f" alt="" width="50" /> | 531 | 2 | 2 | CRASH | 2022-03-18 | [🔗](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd3ea900a9dfec7e28f0e793" alt="" width="50" /> | 665 | 2 | 1 | CITIZENS | 2022-05-19 | [🔗](https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e" alt="" width="50" /> | 665 | 2 | 1 | BRAT | 2024-06-07 | [🔗](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) |
 
@@ -134,7 +134,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="" width="50" /> | 565 | 1 | 1 | CHARLIE | 2022-10-06 | [🔗](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371" alt="" width="50" /> | 665 | 1 | 1 | Boss Bitch | 2020-01-23 | [🔗](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b817e721691aff3d67f26c04" alt="" width="50" /> | 665 | 1 | 1 | About Damn Time | 2022-04-14 | [🔗](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8c8297efc6022534f1357e1" alt="" width="50" /> | 202 | 1 | 1 | APT. | 2024-10-18 | [🔗](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8c8297efc6022534f1357e1" alt="" width="50" /> | 195 | 1 | 1 | APT. | 2024-10-18 | [🔗](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88" alt="" width="50" /> | 665 | 1 | 0 | lovestrong. | 2011-05-10 | [🔗](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a13e33d4a6ef59d51603a6c" alt="" width="50" /> | 665 | 1 | 0 | Wonderland (From “American Song Contest”) | 2022-03-21 | [🔗](https://open.spotify.com/album/1KxiHSk6DOOL1C24ijw9m0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f633b71861897348253993f4" alt="" width="50" /> | 665 | 1 | 0 | This Is Why | 2023-02-10 | [🔗](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) |
@@ -355,13 +355,13 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8c8297efc6022534f1357e1" alt="" width="50" /> | APT. | APT. | ROSÉ, [Bruno Mars](../../artists/bruno_mars/overview.md) | [Atlantic Records](.) | 286 | 💚 | [🔗](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | Santa's Coming for Us | Everyday Is Christmas (Deluxe Edition) | [Sia](../../artists/sia/overview.md) | [Atlantic Records](.), [Monkey Puzzle](../monkey_puzzle) | 533 | | [🔗](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | When I Was Your Man | Unorthodox Jukebox | [Bruno Mars](../../artists/bruno_mars/overview.md) | [Atlantic Records](.) | 783 | 💚 | [🔗](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273086ca574430eaa107d3e855f" alt="" width="50" /> | Good Ones | CRASH | Charli xcx | [Atlantic Records](.) | 802 | 💚 | [🔗](https://open.spotify.com/track/2grSOc6HNTXQQXNoRKt9UM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8c8297efc6022534f1357e1" alt="" width="50" /> | APT. | APT. | ROSÉ, [Bruno Mars](../../artists/bruno_mars/overview.md) | [Atlantic Records](.) | 272 | 💚 | [🔗](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8" alt="" width="50" /> | Santa's Coming for Us | Everyday Is Christmas (Deluxe Edition) | [Sia](../../artists/sia/overview.md) | [Atlantic Records](.), [Monkey Puzzle](../monkey_puzzle) | 535 | | [🔗](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | When I Was Your Man | Unorthodox Jukebox | [Bruno Mars](../../artists/bruno_mars/overview.md) | [Atlantic Records](.) | 784 | 💚 | [🔗](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273086ca574430eaa107d3e855f" alt="" width="50" /> | Good Ones | CRASH | Charli xcx | [Atlantic Records](.) | 805 | 💚 | [🔗](https://open.spotify.com/track/2grSOc6HNTXQQXNoRKt9UM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335d2e0ed94a934f2cc46fa49" alt="" width="50" /> | Light Switch | CHARLIE | Charlie Puth | [Atlantic Records](.) | 850 | 💚 | [🔗](https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="" width="50" /> | Lucky | We Sing. We Dance. We Steal Things. | Jason Mraz, Colbie Caillat | [Atlantic Records/ATG](.) | 865 | 💚 | [🔗](https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | Grenade | Doo-Wops & Hooligans | [Bruno Mars](../../artists/bruno_mars/overview.md) | [Atlantic Records](.) | 956 | 💚 | [🔗](https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273125b1a330b6f6100ab19dbed" alt="" width="50" /> | Lucky | We Sing. We Dance. We Steal Things. | Jason Mraz, Colbie Caillat | [Atlantic Records/ATG](.) | 862 | 💚 | [🔗](https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | Grenade | Doo-Wops & Hooligans | [Bruno Mars](../../artists/bruno_mars/overview.md) | [Atlantic Records](.) | 951 | 💚 | [🔗](https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb" alt="" width="50" /> | Immigrant Song - Remaster | Led Zeppelin III (Remaster) | Led Zeppelin | [Atlantic Records](.) | 1015 | | [🔗](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="" width="50" /> | Black Dog - Remaster | Led Zeppelin IV (Deluxe Edition) | Led Zeppelin | [Atlantic Records](.) | 1015 | | [🔗](https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="" width="50" /> | Stairway to Heaven - Remaster | Led Zeppelin IV (Deluxe Edition) | Led Zeppelin | [Atlantic Records](.) | 1015 | | [🔗](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc) |

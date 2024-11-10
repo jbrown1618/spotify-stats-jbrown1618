@@ -80,7 +80,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739df742dcaf9b79edad9009d0" alt="" width="50" /> | 434 | 1 | 0 | The Tokens | [🔗](https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfe5fe89a93c9592b4c85d6f5" alt="" width="50" /> | 434 | 1 | 0 | Little Baby Bum Nursery Rhyme Friends | [🔗](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4db9929d8ea49e64574e4071" alt="" width="50" /> | 434 | 1 | 0 | Play School | [🔗](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27372444ddcc6bcf20f45c76a81" alt="" width="50" /> | 434 | 1 | 0 | Cedarmont Kids | [🔗](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dfd0625f70b1d297a67543de" alt="" width="50" /> | 434 | 1 | 0 | Cedarmont Kids | [🔗](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) |
 
 </details>
 

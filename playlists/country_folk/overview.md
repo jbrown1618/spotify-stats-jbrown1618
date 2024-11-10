@@ -36,7 +36,7 @@
 | <img src="https://i.scdn.co/image/9f3000f8b92afc7fae3b79f5e12ab2e652561a71" alt="" width="50" /> | 434 | 1 | 0 | Edgar Meyer | [🔗](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfb0fcd51414e7bbe85e00b6f" alt="" width="50" /> | 434 | 1 | 0 | Yo-Yo Ma | [🔗](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) |
 | <img src="https://i.scdn.co/image/ab6772690000c46ce57b6822e01e20944a690ab7" alt="" width="50" /> | 434 | 1 | 0 | Stuart Duncan | [🔗](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba94fc3cb69d80daaa27e9eef" alt="" width="50" /> | 434 | 1 | 0 | Sierra Hull | [🔗](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc30d76e61096035e63c4e285" alt="" width="50" /> | 434 | 1 | 0 | Sierra Hull | [🔗](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) |
 
 </details>
 
@@ -55,7 +55,7 @@
 
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 597 | <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="Barton Hollow" width="50" /> | Poison & Wine | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2731572698fff8a1db257a53599" alt="COWBOY CARTER" width="50" /> | [TEXAS HOLD 'EM](../../artists/beyoncé/overview.md) |
+| 598 | <img src="https://i.scdn.co/image/ab67616d0000b2737ebde0a5bb07f53a99c15224" alt="Barton Hollow" width="50" /> | Poison & Wine | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2731572698fff8a1db257a53599" alt="COWBOY CARTER" width="50" /> | [TEXAS HOLD 'EM](../../artists/beyoncé/overview.md) |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2739ab215825eb77076b1b4b387" alt="Nickel Creek" width="50" /> | The Lighthouse's Tale | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27324644751fe5ed07c106115d5" alt="How To Grow A Woman From The Ground" width="50" /> | Heart In A Cage |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27389847614971c417b722c4d97" alt="Home" width="50" /> | Travelin' Soldier | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2736d0a13a643d83342430c07da" alt="Sigh No More" width="50" /> | The Cave |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2736ae87ba9541e21c4e5a5926d" alt="The Firewatcher&#x27;s Daughter" width="50" /> | The Eye | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27349aaf14f0936159764cd728a" alt="Carry the Fire" width="50" /> | Is There Anyone out There |

@@ -83,7 +83,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27396e164f0c5aac83148bb8f24" alt="LEVEL3" width="50" /> | だいじょばない (0.844) | <img src="https://i.scdn.co/image/ab67616d0000b2735103a69d41417d74264dd091" alt="ACT 1, SCENE 1" width="50" /> | GGBB (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9" alt="The 2nd Law" width="50" /> | Animals (0.796) | <img src="https://i.scdn.co/image/ab67616d0000b2739ab215825eb77076b1b4b387" alt="Nickel Creek" width="50" /> | The Lighthouse's Tale (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ebf31dedef9412e59caf654e" alt="Reality Show - The 3rd Mini Album" width="50" /> | Tarantino (0.792) | <img src="https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7" alt="UNFORGIVEN" width="50" /> | Fire in the belly (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="The Dark Side of the Moon" width="50" /> | Breathe (In the Air) (0.728) | <img src="https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148" alt="1989" width="50" /> | Clean (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="The Dark Side of the Moon" width="50" /> | Breathe (In the Air) (0.728) | <img src="https://i.scdn.co/image/ab67616d0000b273dd734636e6d28fdc528a839d" alt="GOLD" width="50" /> | Imaginary Friend (0.0) |
 
 ## Liveness
 

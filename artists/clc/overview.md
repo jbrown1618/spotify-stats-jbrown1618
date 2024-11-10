@@ -51,8 +51,8 @@ CLC:
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | 520 | 2 | 1 | No.1 | 2019-01-30 | [🔗](https://open.spotify.com/album/6xSUUpa9LBZYwJFMJOr8M6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | 82 | 2 | 1 | HELICOPTER | 2020-09-02 | [🔗](https://open.spotify.com/album/1uwfxRAhW1hxclCVkzku8d) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ca65c45697e473a0d9d1711" alt="" width="50" /> | 265 | 1 | 1 | Devil | 2019-09-06 | [🔗](https://open.spotify.com/album/1HpLXN8RRy1lHO3jckCTkN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fe5a77c6bd965bef349c6482" alt="" width="50" /> | 394 | 1 | 1 | CRYSTYLE | 2017-01-17 | [🔗](https://open.spotify.com/album/74VP5VvY2CISEqfEkH9Wuc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ca65c45697e473a0d9d1711" alt="" width="50" /> | 264 | 1 | 1 | Devil | 2019-09-06 | [🔗](https://open.spotify.com/album/1HpLXN8RRy1lHO3jckCTkN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fe5a77c6bd965bef349c6482" alt="" width="50" /> | 396 | 1 | 1 | CRYSTYLE | 2017-01-17 | [🔗](https://open.spotify.com/album/74VP5VvY2CISEqfEkH9Wuc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273467ea7cec7cd993340bc80be" alt="" width="50" /> | 665 | 1 | 1 | BLACK DRESS | 2018-02-22 | [🔗](https://open.spotify.com/album/3I3c4rkP6v5LtjMrgbD6d0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389566f1f791bc7095755471e" alt="" width="50" /> | 665 | 1 | 0 | First Love | 2015-03-19 | [🔗](https://open.spotify.com/album/1s0NkdUXMRPJvgWV1kEEbP) |
 
@@ -94,8 +94,8 @@ CLC:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5011613476079ff2498bf4a" alt="" width="50" /> | HELICOPTER | HELICOPTER | [CLC](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 90 | 💚 | [🔗](https://open.spotify.com/track/2hJS7BdEaH9Jo8MeJujsHT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732ca65c45697e473a0d9d1711" alt="" width="50" /> | Devil | Devil | [CLC](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 379 | 💚 | [🔗](https://open.spotify.com/track/3aG0gbuvZ1VeVm68d4J6Yq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fe5a77c6bd965bef349c6482" alt="" width="50" /> | Hobgoblin | CRYSTYLE | [CLC](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 583 | 💚 | [🔗](https://open.spotify.com/track/2pSOUHBQXkN3fS2TAJHhfR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ca65c45697e473a0d9d1711" alt="" width="50" /> | Devil | Devil | [CLC](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 378 | 💚 | [🔗](https://open.spotify.com/track/3aG0gbuvZ1VeVm68d4J6Yq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fe5a77c6bd965bef349c6482" alt="" width="50" /> | Hobgoblin | CRYSTYLE | [CLC](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 585 | 💚 | [🔗](https://open.spotify.com/track/2pSOUHBQXkN3fS2TAJHhfR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea82cfc115275d25d9750ae1" alt="" width="50" /> | Like It | No.1 | [CLC](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 786 | 💚 | [🔗](https://open.spotify.com/track/6ioP0snRYjhfWKNMMLKOde) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389566f1f791bc7095755471e" alt="" width="50" /> | Pepe | First Love | [CLC](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 1015 | | [🔗](https://open.spotify.com/track/2rO1OMbLrfKIkqrqcATv3u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273467ea7cec7cd993340bc80be" alt="" width="50" /> | BLACK DRESS | BLACK DRESS | [CLC](overview.md) | [CUBE ENTERTAINMENT](../../labels/cube_entertainment) | 1015 | 💚 | [🔗](https://open.spotify.com/track/4g73tmQQc6pSfe4NMXKrZD) |

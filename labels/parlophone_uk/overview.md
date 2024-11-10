@@ -19,7 +19,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab6761610000e5eb200914459687748118b36954" alt="" width="50" /> | 297 | 1 | 1 | Ashnikko | [🔗](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc46999e5afaf35c91cbe652b" alt="" width="50" /> | 434 | 1 | 1 | Kraftwerk | [🔗](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) |
 | <img src="https://i.scdn.co/image/dd72b50e171fb494dcbca05fe8958bcef84144d5" alt="" width="50" /> | 434 | 1 | 0 | Hot Chocolate | [🔗](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 133 | 1 | 0 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 134 | 1 | 0 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2c61d9506d5af5fb502b343f" alt="" width="50" /> | 434 | 1 | 0 | Gorillaz | [🔗](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb78f77c5583ae99472dd4a49" alt="" width="50" /> | 434 | 1 | 0 | David Bowie | [🔗](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 40 | 1 | 0 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
@@ -45,7 +45,7 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e" alt="" width="50" /> | 665 | 1 | 1 | Viva La Vida or Death and All His Friends | 2008-05-26 | [🔗](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a" alt="" width="50" /> | 665 | 1 | 1 | Parachutes | 2000-07-10 | [🔗](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="" width="50" /> | 36 | 1 | 1 | Hold On Tight | 2023-03-30 | [🔗](https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="" width="50" /> | 393 | 1 | 1 | Daisy 2.0 (feat. Hatsune Miku) | 2020-12-11 | [🔗](https://open.spotify.com/album/6JZYS7UElSfjyTgFgE1ApG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="" width="50" /> | 394 | 1 | 1 | Daisy 2.0 (feat. Hatsune Miku) | 2020-12-11 | [🔗](https://open.spotify.com/album/6JZYS7UElSfjyTgFgE1ApG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="" width="50" /> | 665 | 1 | 1 | 3-D The Catalogue | 2017-05-26 | [🔗](https://open.spotify.com/album/6nnO5r6I1JtSZ8eTwwIiIF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec10f247b100da1ce0d80b6d" alt="" width="50" /> | 665 | 1 | 0 | Music Of The Spheres | 2021-10-15 | [🔗](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a03bcdbf45f9ed71cf0947bd" alt="" width="50" /> | 665 | 1 | 0 | Hot Chocolate | 1975 | [🔗](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) |
@@ -140,7 +140,7 @@ Appears as:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe31201bbc019b1636066dc3" alt="" width="50" /> | Hold On Tight | Hold On Tight | [aespa](../../artists/aespa/overview.md) | [Parlophone UK](.) | 29 | 💚 | [🔗](https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="" width="50" /> | Daisy 2.0 (feat. Hatsune Miku) | Daisy 2.0 (feat. Hatsune Miku) | Ashnikko, Hatsune Miku | [Parlophone UK](.) | 580 | 💚 | [🔗](https://open.spotify.com/track/0s8RXkQW9lwGEV6WlG8KDq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735064363e1b38af783f93f1a7" alt="" width="50" /> | Daisy 2.0 (feat. Hatsune Miku) | Daisy 2.0 (feat. Hatsune Miku) | Ashnikko, Hatsune Miku | [Parlophone UK](.) | 581 | 💚 | [🔗](https://open.spotify.com/track/0s8RXkQW9lwGEV6WlG8KDq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733395f3e809dfbc2b1101d464" alt="" width="50" /> | Space Oddity - 2015 Remaster | David Bowie (aka Space Oddity) [2015 Remaster] | David Bowie | [Parlophone UK](.) | 1015 | | [🔗](https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a03bcdbf45f9ed71cf0947bd" alt="" width="50" /> | You Sexy Thing | Hot Chocolate | Hot Chocolate | [Parlophone UK](.) | 1015 | | [🔗](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a" alt="" width="50" /> | Yellow | Parachutes | [Coldplay](../../artists/coldplay/overview.md) | [Parlophone UK](.) | 1015 | 💚 | [🔗](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) |

@@ -18,7 +18,7 @@ MOMOLAND:
 - has member 연우 (Yeon-woo)
 
 ## Artist Rank
-- The #311 artist of all time
+- The #312 artist of all time
 
 ![Rank of MOMOLAND over time](../../images/artists/momoland/rank_time_series.png)
 ## Top Albums

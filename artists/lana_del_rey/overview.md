@@ -9,7 +9,7 @@
 [See Clusters](clusters/overview.md)
 
 ## Artist Rank
-- The #119 artist of all time
+- The #120 artist of all time
 
 ![Rank of Lana Del Rey over time](../../images/artists/lana_del_rey/rank_time_series.png)
 ## Top Tracks
@@ -24,8 +24,8 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | 276 | 6 | 6 | Born To Die | 2012-01-30 | [🔗](https://open.spotify.com/album/4X8hAqIWpQyQks2yRhyqs4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | 354 | 3 | 1 | Ultraviolence (Deluxe) | 2014-01-01 | [🔗](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | 277 | 6 | 6 | Born To Die | 2012-01-30 | [🔗](https://open.spotify.com/album/4X8hAqIWpQyQks2yRhyqs4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | 356 | 3 | 1 | Ultraviolence (Deluxe) | 2014-01-01 | [🔗](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" alt="" width="50" /> | 665 | 3 | 0 | Norman Fucking Rockwell! | 2019-08-30 | [🔗](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190" alt="" width="50" /> | 665 | 2 | 1 | Lust For Life | 2017-07-21 | [🔗](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a" alt="" width="50" /> | 665 | 1 | 1 | Paradise | 2012-11-09 | [🔗](https://open.spotify.com/album/1JnjcAIKQ9TSJFVFierTB8) |
@@ -130,8 +130,8 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | Shades Of Cool | Ultraviolence (Deluxe) | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 501 | 💚 | [🔗](https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Off To The Races | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 549 | 💚 | [🔗](https://open.spotify.com/track/7grzMnF1FHponm2aJBWj8E) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f" alt="" width="50" /> | Shades Of Cool | Ultraviolence (Deluxe) | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 504 | 💚 | [🔗](https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Off To The Races | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 551 | 💚 | [🔗](https://open.spotify.com/track/7grzMnF1FHponm2aJBWj8E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Summertime Sadness | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 591 | 💚 | [🔗](https://open.spotify.com/track/4cKtn8Shw999egpwBmWQmp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Born To Die | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 1015 | 💚 | [🔗](https://open.spotify.com/track/3eRZZ4d2RJSqFKzP7tSdFE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a1c37f3fd969287c03482c3b" alt="" width="50" /> | Dark Paradise | Born To Die | [Lana Del Rey](overview.md) | [Polydor Records](../../labels/polydor_records) | 1015 | 💚 | [🔗](https://open.spotify.com/track/0rbuGVyW18IpX0bhA3P4Oh) |

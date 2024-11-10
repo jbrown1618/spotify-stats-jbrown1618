@@ -86,7 +86,7 @@
 | | 434 | 2 | 0 | Robert Billig | [🔗](https://open.spotify.com/artist/3Ybg9gi5V2x6i8OsLc9M7p) |
 | <img src="https://i.scdn.co/image/df24566326393b64a534f865986c77d6358fd728" alt="" width="50" /> | 434 | 2 | 0 | Russell Crowe | [🔗](https://open.spotify.com/artist/3YBIrJozn8fop4UYIt7wcV) |
 | | 434 | 2 | 0 | Broadway Cast of Beauty and the Beast | [🔗](https://open.spotify.com/artist/31gtcs2n8ILyd09TvlSwJt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354bf67d6993451d2c9eae5e1" alt="" width="50" /> | 434 | 2 | 0 | David Bryant | [🔗](https://open.spotify.com/artist/2yPfp367ZwywK1lbGg00b8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b998abf97a35fa0cc0b87ba3" alt="" width="50" /> | 434 | 2 | 0 | David Bryant | [🔗](https://open.spotify.com/artist/2yPfp367ZwywK1lbGg00b8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273985984bcb7f2a3e25145b9b7" alt="" width="50" /> | 434 | 2 | 0 | Randy Graff | [🔗](https://open.spotify.com/artist/2iRiwwxcJb6fXCxO5jt1cz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ef17f8dcb395f575de982b33" alt="" width="50" /> | 434 | 2 | 0 | "Cats" 1983 Broadway Cast | [🔗](https://open.spotify.com/artist/2cez574BwRD00PGEbNl4SH) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb37e09cf7d04a5230616d3bfe" alt="" width="50" /> | 434 | 2 | 0 | Kenny Raskin | [🔗](https://open.spotify.com/artist/28OYna1pjzLUp2TrXnkK6p) |
@@ -138,7 +138,7 @@
 
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 420 | <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="Into The Woods (2022 Broadway Cast Recording)" width="50" /> | Giants In The Sky | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2736cb0475872d38753052ac35a" alt="The Lion King: Original Broadway Cast Recording" width="50" /> | Can You Feel The Love Tonight |
+| 423 | <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="Into The Woods (2022 Broadway Cast Recording)" width="50" /> | Giants In The Sky | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2736cb0475872d38753052ac35a" alt="The Lion King: Original Broadway Cast Recording" width="50" /> | Can You Feel The Love Tonight |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273ffe791f39f08e89e2345bdee" alt="Dr. Horrible&#x27;s Sing-Along Blog (Motion Picture Soundtrack)" width="50" /> | So They Say | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Notes / Prima Donna |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273d9cd8917de31257e2ac920a9" alt="The Book Of Mormon (Original Broadway Cast Recording)" width="50" /> | Hello! | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27311213770e112f78d4075b61f" alt="Les Misérables (Original Broadway Cast Recording)" width="50" /> | One Day More |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27367a1610b21721a06ed7d378e" alt="The Phantom Of The Opera" width="50" /> | Down Once More / Track Down This Murderer | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b2732f8d9427fea9dd36a4fb4f1b" alt="The Phantom Of The Opera (Original Motion Picture Soundtrack)" width="50" /> | Overture - From 'The Phantom Of The Opera' Motion Picture |
@@ -175,7 +175,7 @@
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273687e8a165b272440a68a480f" alt="" width="50" /> | 665 | 5 | 0 | Moulin Rouge | 2001-01-01 | [🔗](https://open.spotify.com/album/1Kg7AyuyIMTfD6geg9VghI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | 298 | 4 | 0 | Into The Woods (2022 Broadway Cast Recording) | 2022-09-30 | [🔗](https://open.spotify.com/album/5z6BFXI711HbSAXDjgOAHE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348a35fdb1419c7e3efdeafa5" alt="" width="50" /> | 300 | 4 | 0 | Into The Woods (2022 Broadway Cast Recording) | 2022-09-30 | [🔗](https://open.spotify.com/album/5z6BFXI711HbSAXDjgOAHE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736cb0475872d38753052ac35a" alt="" width="50" /> | 665 | 3 | 0 | The Lion King: Original Broadway Cast Recording | 1997-01-01 | [🔗](https://open.spotify.com/album/1y6p6tINBthUWsQVQJmiYK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ef17f8dcb395f575de982b33" alt="" width="50" /> | 665 | 2 | 0 | Cats (Original Broadway Cast Recording / 1983) | 1983-01-01 | [🔗](https://open.spotify.com/album/7dIID5jd8V3fR2NXkonyD3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aab8e079e15c7ef2f9259814" alt="" width="50" /> | 665 | 1 | 1 | EPIC: The Ocean Saga (Official Concept Album) | 2023-12-25 | [🔗](https://open.spotify.com/album/6q6FBKPiH2waQezdzpxhuz) |

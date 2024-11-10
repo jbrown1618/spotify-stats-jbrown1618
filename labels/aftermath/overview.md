@@ -16,7 +16,7 @@ Appears as:
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022" alt="" width="50" /> | 303 | 8 | 6 | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b" alt="" width="50" /> | 326 | 4 | 4 | [Eminem](../../artists/eminem/overview.md) | [🔗](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 133 | 2 | 2 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 134 | 2 | 2 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe62be215d2ee31bcd97edaba" alt="" width="50" /> | 434 | 1 | 1 | U2 | [🔗](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdb78fbd1c000f16792795648" alt="" width="50" /> | 434 | 1 | 1 | Zacari | [🔗](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9c48431caf52a2d0f38433ff" alt="" width="50" /> | 434 | 1 | 0 | Jay Rock | [🔗](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) |
@@ -118,8 +118,8 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | The Monster | The Marshall Mathers LP2 | [Eminem](../../artists/eminem/overview.md), [Rihanna](../../artists/rihanna/overview.md) | [Aftermath](.) | 716 | 💚 | [🔗](https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="" width="50" /> | We Made You | Relapse: Refill | [Eminem](../../artists/eminem/overview.md) | [Aftermath](.) | 857 | 💚 | [🔗](https://open.spotify.com/track/4UMTp91LHhvW33ol9ZQH0Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe" alt="" width="50" /> | The Monster | The Marshall Mathers LP2 | [Eminem](../../artists/eminem/overview.md), [Rihanna](../../artists/rihanna/overview.md) | [Aftermath](.) | 718 | 💚 | [🔗](https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1" alt="" width="50" /> | We Made You | Relapse: Refill | [Eminem](../../artists/eminem/overview.md) | [Aftermath](.) | 861 | 💚 | [🔗](https://open.spotify.com/track/4UMTp91LHhvW33ol9ZQH0Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578" alt="" width="50" /> | Lose Yourself | Curtain Call: The Hits (Deluxe Edition) | [Eminem](../../artists/eminem/overview.md) | [Aftermath](.) | 1015 | 💚 | [🔗](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100" alt="" width="50" /> | Love The Way You Lie | Recovery | [Eminem](../../artists/eminem/overview.md), [Rihanna](../../artists/rihanna/overview.md) | [Aftermath](.) | 1015 | 💚 | [🔗](https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d28d2ebdedb220e479743797" alt="" width="50" /> | Money Trees | good kid, m.A.A.d city | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md), Jay Rock | [Aftermath](.) | 1015 | | [🔗](https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4) |

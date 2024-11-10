@@ -84,7 +84,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe68295308bfd008cedf0f2c1" alt="" width="50" /> | 434 | 1 | 0 | Jim Cummings | [🔗](https://open.spotify.com/artist/3OIPwMAZipDCLQwHmxS5EG) |
 | | 434 | 1 | 0 | Cheryl Freeman | [🔗](https://open.spotify.com/artist/3E0MPcbZSjfJ1HsnJKXkqd) |
 | | 434 | 1 | 0 | Broadway Cast of Beauty and the Beast | [🔗](https://open.spotify.com/artist/31gtcs2n8ILyd09TvlSwJt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27354bf67d6993451d2c9eae5e1" alt="" width="50" /> | 434 | 1 | 0 | David Bryant | [🔗](https://open.spotify.com/artist/2yPfp367ZwywK1lbGg00b8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b998abf97a35fa0cc0b87ba3" alt="" width="50" /> | 434 | 1 | 0 | David Bryant | [🔗](https://open.spotify.com/artist/2yPfp367ZwywK1lbGg00b8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0ed63682892e613ac5a0a41c" alt="" width="50" /> | 434 | 1 | 0 | JayDon | [🔗](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) |
 | | 434 | 1 | 0 | Chorus - Hercules | [🔗](https://open.spotify.com/artist/2pLvZNFSNqj5ggB8cPK7ki) |
 | <img src="https://i.scdn.co/image/038078d1e58100273d291941ce8ef965a62a70c6" alt="" width="50" /> | 434 | 1 | 0 | Marni Nixon | [🔗](https://open.spotify.com/artist/2Npf96k0QoY8YYwqnELDmQ) |
@@ -124,7 +124,7 @@
 ## Most and least listened tracks
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 712 | <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> | Baby It's Cold Outside (with Michael Bublé) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="The Little Mermaid Special Edition" width="50" /> | Poor Unfortunate Souls |
+| 715 | <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="Holiday Wishes" width="50" /> | Baby It's Cold Outside (with Michael Bublé) | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="The Little Mermaid Special Edition" width="50" /> | Poor Unfortunate Souls |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27362a9c9725e25d64134f25707" alt="Beauty And The Beast: The Broadway Musical" width="50" /> | Beauty and the Beast | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b27327bc049f5d573b73e4cc96ef" alt="The Little Mermaid Special Edition" width="50" /> | Part of Your World |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273f6a713be4f418307ab7ffaf4" alt="Hercules (Original Motion Picture Soundtrack)" width="50" /> | Go the Distance | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273d897c1143b832479966b407d" alt="The Jungle Book" width="50" /> | The Bare Necessities |
 | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273660aadbda2da6b1c2dd3d1a5" alt="The Lion King" width="50" /> | Circle of Life | 1015 | <img src="https://i.scdn.co/image/ab67616d0000b273a45790b93f47d427a2aefa9d" alt="The Hunchback Of Notre Dame (Original Motion Picture Soundtrack)" width="50" /> | Out There |
@@ -168,7 +168,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2739a1b229fe1a132abf9599362" alt="" width="50" /> | 665 | 1 | 0 | Sleeping Beauty | 1996-01-01 | [🔗](https://open.spotify.com/album/3U3I9TY7on88tPvM1guh54) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273687e8a165b272440a68a480f" alt="" width="50" /> | 665 | 1 | 0 | Moulin Rouge | 2001-01-01 | [🔗](https://open.spotify.com/album/1Kg7AyuyIMTfD6geg9VghI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733505183cc0e24d2f7560174a" alt="" width="50" /> | 665 | 1 | 0 | Moana (Original Motion Picture Soundtrack/Deluxe Edition) | 2016-11-18 | [🔗](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | 476 | 1 | 0 | Holiday Wishes | 2014-10-10 | [🔗](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b942e9ff43d692b700328ecc" alt="" width="50" /> | 478 | 1 | 0 | Holiday Wishes | 2014-10-10 | [🔗](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735929af1edd645142df679910" alt="" width="50" /> | 665 | 1 | 0 | Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition) | 2019-11-15 | [🔗](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea64ccdfa35a32dddeaec8fc" alt="" width="50" /> | 665 | 1 | 0 | Disney's Greatest Vol. 3 | 2002-08-20 | [🔗](https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731f062b7159e8f230120512bf" alt="" width="50" /> | 665 | 1 | 0 | Coco (Original Motion Picture Soundtrack) | 2017-11-10 | [🔗](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) |

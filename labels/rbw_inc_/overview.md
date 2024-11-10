@@ -44,16 +44,16 @@ Appears as:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | 138 | 4 | 3 | COLOURS | 2024-04-30 | [🔗](https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | 139 | 4 | 3 | COLOURS | 2024-04-30 | [🔗](https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e95d9f505f2469cf74727805" alt="" width="50" /> | 665 | 2 | 2 | 容 : FACE | 2022-03-16 | [🔗](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27398af56fe9d35e895582d7a97" alt="" width="50" /> | 665 | 2 | 2 | Redd | 2021-04-13 | [🔗](https://open.spotify.com/album/32pXXle0zoKIFG03iefH2c) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | 184 | 2 | 2 | MIC ON | 2022-10-11 | [🔗](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | 185 | 2 | 2 | MIC ON | 2022-10-11 | [🔗](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345e7faa0d84701c0447e4188" alt="" width="50" /> | 665 | 2 | 2 | INTO VIOLET | 2021-03-15 | [🔗](https://open.spotify.com/album/3CjwKaPAPzaHgivlGFjsp4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="" width="50" /> | 148 | 2 | 2 | Cabin Fever | 2023-02-15 | [🔗](https://open.spotify.com/album/4uIqXyViDoMKFuuw12kYMO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735103a69d41417d74264dd091" alt="" width="50" /> | 392 | 2 | 2 | ACT 1, SCENE 1 | 2023-03-29 | [🔗](https://open.spotify.com/album/3DZzeqdwhn9Q5ScxdaJbkH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="" width="50" /> | 149 | 2 | 2 | Cabin Fever | 2023-02-15 | [🔗](https://open.spotify.com/album/4uIqXyViDoMKFuuw12kYMO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735103a69d41417d74264dd091" alt="" width="50" /> | 393 | 2 | 2 | ACT 1, SCENE 1 | 2023-03-29 | [🔗](https://open.spotify.com/album/3DZzeqdwhn9Q5ScxdaJbkH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="" width="50" /> | 380 | 2 | 1 | memeM | 2022-03-29 | [🔗](https://open.spotify.com/album/4nhtnBY8owIQnOsnGQGqW9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356035da9eacd668ffdfacb36" alt="" width="50" /> | 546 | 2 | 1 | Starlit of Muse | 2024-02-20 | [🔗](https://open.spotify.com/album/1YtCxUGiarZVukgAm2x5RZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736e3cf1788fa660f04ac43e23" alt="" width="50" /> | 446 | 2 | 1 | RED MOON | 2018-07-16 | [🔗](https://open.spotify.com/album/3vlnS8olJIlCACkLBbHYP2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e3cf1788fa660f04ac43e23" alt="" width="50" /> | 448 | 2 | 1 | RED MOON | 2018-07-16 | [🔗](https://open.spotify.com/album/3vlnS8olJIlCACkLBbHYP2) |
 
 
 <details>
@@ -63,20 +63,20 @@ Appears as:
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2731dfb11871aa63ac9010c0619" alt="" width="50" /> | 665 | 2 | 1 | Guilty Pleasure | 2021-11-24 | [🔗](https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733618088cfcd2a966a61937cb" alt="" width="50" /> | 665 | 2 | 1 | 6equence | 2022-01-19 | [🔗](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="" width="50" /> | 10 | 1 | 1 | reality in BLACK | 2019-11-14 | [🔗](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="" width="50" /> | 12 | 1 | 1 | reality in BLACK | 2019-11-14 | [🔗](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da15e45948cdd794ec819052" alt="" width="50" /> | 665 | 1 | 1 | Yellow Flower | 2018-03-07 | [🔗](https://open.spotify.com/album/7zIvhrdl7dvtucNw4tSd62) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | 426 | 1 | 1 | White Wind | 2019-03-14 | [🔗](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | 427 | 1 | 1 | White Wind | 2019-03-14 | [🔗](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ae843591bcdace9489c86fb0" alt="" width="50" /> | 665 | 1 | 1 | WAW | 2021-06-02 | [🔗](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346c377827f3ad9fa6b0f64df" alt="" width="50" /> | 665 | 1 | 1 | TWIT | 2019-02-13 | [🔗](https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="" width="50" /> | 158 | 1 | 1 | TRAVEL | 2020-11-03 | [🔗](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="" width="50" /> | 161 | 1 | 1 | TRAVEL | 2020-11-03 | [🔗](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273498f71db374f1a18ac831412" alt="" width="50" /> | 665 | 1 | 1 | Shutdown (Feat. Seori) | 2021-12-30 | [🔗](https://open.spotify.com/album/3qGgRGX3KHbwph4AzWVko1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | 17 | 1 | 1 | María | 2020-06-29 | [🔗](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | 617 | 1 | 1 | Hwa:telier | 2019-10-11 | [🔗](https://open.spotify.com/album/20xEJwUlmfoSLoK5AhEucL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b479d89335fbca7de943443" alt="" width="50" /> | 665 | 1 | 1 | Geekyland | 2022-07-25 | [🔗](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b4fd0ba98f675df97c5748b1" alt="" width="50" /> | 665 | 1 | 1 | Dingga | 2020-10-20 | [🔗](https://open.spotify.com/album/4xzsBcZaK04c8IE5iVyMNK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273548e75657d21c646111cfa1d" alt="" width="50" /> | 665 | 1 | 1 | Can We Talk Again | 2021-02-03 | [🔗](https://open.spotify.com/album/7upDgBOqXuwU72JPeBLIzA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f7540ea5cd0831b2c7e4ff9" alt="" width="50" /> | 319 | 1 | 1 | BXX | 2024-03-19 | [🔗](https://open.spotify.com/album/3xX7eBfa5HTqDZXepyvjfw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732325e0aa6cad94d104ea055e" alt="" width="50" /> | 313 | 1 | 1 | BLOOD MOON | 2021-11-09 | [🔗](https://open.spotify.com/album/13dNmnWQVodErqAhuOzYTD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f7540ea5cd0831b2c7e4ff9" alt="" width="50" /> | 301 | 1 | 1 | BXX | 2024-03-19 | [🔗](https://open.spotify.com/album/3xX7eBfa5HTqDZXepyvjfw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732325e0aa6cad94d104ea055e" alt="" width="50" /> | 314 | 1 | 1 | BLOOD MOON | 2021-11-09 | [🔗](https://open.spotify.com/album/13dNmnWQVodErqAhuOzYTD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395e1a12145290ca7d783eb1d" alt="" width="50" /> | 665 | 1 | 1 | BINARY CODE | 2021-05-11 | [🔗](https://open.spotify.com/album/3MSvgJYx3omhNpSaQUqnu5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273520ea0d948ced66d1c1764e2" alt="" width="50" /> | 665 | 1 | 0 | WANNA BE MYSELF | 2020-09-10 | [🔗](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732c8e39cbee7aa7192c706534" alt="" width="50" /> | 417 | 1 | 0 | Save Me | 2023-07-18 | [🔗](https://open.spotify.com/album/2bXXaGKeEvYUghrCaNWCTF) |
@@ -158,14 +158,14 @@ Appears as:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d650d0d98caf3f54b842a0b" alt="" width="50" /> | HIP | reality in BLACK | [MAMAMOO](../../artists/mamamoo/overview.md) | [RBW, Inc](.) | 4 | 💚 | [🔗](https://open.spotify.com/track/24nK8tW7Pt3Inh2utttuoG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | Maria | María | [HWASA](../../artists/hwasa/overview.md) | [RBW, Inc](.) | 12 | 💚 | [🔗](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="" width="50" /> | Sweet Juice | Cabin Fever | [PURPLE KISS](../../artists/purple_kiss/overview.md) | [RBW Inc.](.) | 197 | 💚 | [🔗](https://open.spotify.com/track/2th6UWbfVz3hsSDzQAKqy2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="" width="50" /> | Sweet Juice | Cabin Fever | [PURPLE KISS](../../artists/purple_kiss/overview.md) | [RBW Inc.](.) | 198 | 💚 | [🔗](https://open.spotify.com/track/2th6UWbfVz3hsSDzQAKqy2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | Blues | COLOURS | [Solar](../../artists/solar/overview.md) | [RBW Inc.](.) | 205 | 💚 | [🔗](https://open.spotify.com/track/6ZVetYxDIVtNaZL4b8jQQ3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="" width="50" /> | AYA | TRAVEL | [MAMAMOO](../../artists/mamamoo/overview.md) | [RBW Inc.](.) | 207 | 💚 | [🔗](https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | 1,2,3 Eoi! | MIC ON | [MAMAMOO](../../artists/mamamoo/overview.md) | [RBW Inc.](.) | 253 | 💚 | [🔗](https://open.spotify.com/track/1uYgNXNnBTQnboOwlYBLd1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | But I | COLOURS | [Solar](../../artists/solar/overview.md) | [RBW Inc.](.) | 347 | 💚 | [🔗](https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | Honey Honey | COLOURS | [Solar](../../artists/solar/overview.md) | [RBW Inc.](.) | 366 | 💚 | [🔗](https://open.spotify.com/track/0F0GaAGEb8k1QcmxiUUDB6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732325e0aa6cad94d104ea055e" alt="" width="50" /> | LUNA | BLOOD MOON | ONEUS | [RBW Inc.](.) | 442 | 💚 | [🔗](https://open.spotify.com/track/5L2uuQUMiub01LRhTKRCFj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f7540ea5cd0831b2c7e4ff9" alt="" width="50" /> | BBB | BXX | [PURPLE KISS](../../artists/purple_kiss/overview.md) | [RBW Inc.](.) | 449 | 💚 | [🔗](https://open.spotify.com/track/1Xj89xyCM5Edza6AqTpRuB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731cc469da4da1bccfa16867be" alt="" width="50" /> | AYA | TRAVEL | [MAMAMOO](../../artists/mamamoo/overview.md) | [RBW Inc.](.) | 209 | 💚 | [🔗](https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27322f0e32bfb91476f0ad96656" alt="" width="50" /> | 1,2,3 Eoi! | MIC ON | [MAMAMOO](../../artists/mamamoo/overview.md) | [RBW Inc.](.) | 256 | 💚 | [🔗](https://open.spotify.com/track/1uYgNXNnBTQnboOwlYBLd1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | But I | COLOURS | [Solar](../../artists/solar/overview.md) | [RBW Inc.](.) | 348 | 💚 | [🔗](https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | Honey Honey | COLOURS | [Solar](../../artists/solar/overview.md) | [RBW Inc.](.) | 368 | 💚 | [🔗](https://open.spotify.com/track/0F0GaAGEb8k1QcmxiUUDB6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f7540ea5cd0831b2c7e4ff9" alt="" width="50" /> | BBB | BXX | [PURPLE KISS](../../artists/purple_kiss/overview.md) | [RBW Inc.](.) | 424 | 💚 | [🔗](https://open.spotify.com/track/1Xj89xyCM5Edza6AqTpRuB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732325e0aa6cad94d104ea055e" alt="" width="50" /> | LUNA | BLOOD MOON | ONEUS | [RBW Inc.](.) | 443 | 💚 | [🔗](https://open.spotify.com/track/5L2uuQUMiub01LRhTKRCFj) |
 
 
 <details>
@@ -174,14 +174,14 @@ Appears as:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0a630ea925711a258bb3c93" alt="" width="50" /> | T4ke | Cabin Fever | [PURPLE KISS](../../artists/purple_kiss/overview.md) | [RBW Inc.](.) | 489 | 💚 | [🔗](https://open.spotify.com/track/3hDB8HsTgd3TePDsEulE97) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="" width="50" /> | Pretty Psycho | memeM | [PURPLE KISS](../../artists/purple_kiss/overview.md) | [RBW Inc.](.) | 555 | | [🔗](https://open.spotify.com/track/26YMXkyHGrOQQUl2E4upkv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="" width="50" /> | Pretty Psycho | memeM | [PURPLE KISS](../../artists/purple_kiss/overview.md) | [RBW Inc.](.) | 557 | | [🔗](https://open.spotify.com/track/26YMXkyHGrOQQUl2E4upkv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735103a69d41417d74264dd091" alt="" width="50" /> | GGBB | ACT 1, SCENE 1 | MAMAMOO+ | [RBW Inc.](.) | 577 | 💚 | [🔗](https://open.spotify.com/track/04qiPs2ScJrI7hgQ8mz4im) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732c8e39cbee7aa7192c706534" alt="" width="50" /> | Save Me | Save Me | MAMAMOO+ | [RBW Inc.](.) | 616 | | [🔗](https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | gogobebe | White Wind | [MAMAMOO](../../artists/mamamoo/overview.md) | [RBW, Inc](.) | 636 | 💚 | [🔗](https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736e3cf1788fa660f04ac43e23" alt="" width="50" /> | Egotistic | RED MOON | [MAMAMOO](../../artists/mamamoo/overview.md) | [RBW, Inc.](.) | 670 | 💚 | [🔗](https://open.spotify.com/track/3a7OyTsoZ8CCBdvEEvzLBv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | Colors | COLOURS | [Solar](../../artists/solar/overview.md) | [RBW Inc.](.) | 719 | | [🔗](https://open.spotify.com/track/6F5nwlaYT0TZatOHVMaBcZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27356035da9eacd668ffdfacb36" alt="" width="50" /> | TOUCHIN&MOVIN | Starlit of Muse | Moon Byul | [RBW Inc.](.) | 823 | 💚 | [🔗](https://open.spotify.com/track/2xCc0iWKdkvaOYppt7ElGE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | In The Fall | Hwa:telier | [HWASA](../../artists/hwasa/overview.md), WOOGIE | [RBW, Inc](.) | 944 | 💚 | [🔗](https://open.spotify.com/track/2esmbUCwduwG8SyN4RAwmM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c8e39cbee7aa7192c706534" alt="" width="50" /> | Save Me | Save Me | MAMAMOO+ | [RBW Inc.](.) | 618 | | [🔗](https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738612b3a74fefaf72ddc92d08" alt="" width="50" /> | gogobebe | White Wind | [MAMAMOO](../../artists/mamamoo/overview.md) | [RBW, Inc](.) | 639 | 💚 | [🔗](https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e3cf1788fa660f04ac43e23" alt="" width="50" /> | Egotistic | RED MOON | [MAMAMOO](../../artists/mamamoo/overview.md) | [RBW, Inc.](.) | 671 | 💚 | [🔗](https://open.spotify.com/track/3a7OyTsoZ8CCBdvEEvzLBv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | Colors | COLOURS | [Solar](../../artists/solar/overview.md) | [RBW Inc.](.) | 721 | | [🔗](https://open.spotify.com/track/6F5nwlaYT0TZatOHVMaBcZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27356035da9eacd668ffdfacb36" alt="" width="50" /> | TOUCHIN&MOVIN | Starlit of Muse | Moon Byul | [RBW Inc.](.) | 822 | 💚 | [🔗](https://open.spotify.com/track/2xCc0iWKdkvaOYppt7ElGE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | In The Fall | Hwa:telier | [HWASA](../../artists/hwasa/overview.md), WOOGIE | [RBW, Inc](.) | 936 | 💚 | [🔗](https://open.spotify.com/track/2esmbUCwduwG8SyN4RAwmM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da15e45948cdd794ec819052" alt="" width="50" /> | Starry Night | Yellow Flower | [MAMAMOO](../../artists/mamamoo/overview.md) | [RBW, Inc.](.) | 1015 | 💚 | [🔗](https://open.spotify.com/track/3qUJ0kC9YdBO5qRFdYXeXX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273294c757e724cc58bbbd29287" alt="" width="50" /> | SELFISH (Feat. SEULGI Of Red Velvet) | SELFISH | Moon Byul, [SEULGI](../../artists/seulgi/overview.md) | [RBW, Inc](.) | 1015 | | [🔗](https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e3cf1788fa660f04ac43e23" alt="" width="50" /> | Rainy Season | RED MOON | [MAMAMOO](../../artists/mamamoo/overview.md) | [RBW, Inc.](.) | 1015 | | [🔗](https://open.spotify.com/track/1j64SGn9hUwidOSdDrXi6s) |

@@ -15,7 +15,7 @@ Appears as:
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982" alt="" width="50" /> | 47 | 16 | 11 | [Queen](../../artists/queen/overview.md) | [🔗](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe106fea940fcf250f8dd5bfe" alt="" width="50" /> | 434 | 2 | 1 | Demi Lovato | [🔗](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb4ba86c361191d48cbeb4b32" alt="" width="50" /> | 220 | 1 | 0 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb4ba86c361191d48cbeb4b32" alt="" width="50" /> | 221 | 1 | 0 | Miley Cyrus | [🔗](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) |
 
 ![Bar chart of top 3 artists](../../images/labels/hollywood_records/artists.png)
 
@@ -26,11 +26,11 @@ Appears as:
 | <img src="https://i.scdn.co/image/ab67616d0000b27307744e2ed983efa3e6620a47" alt="" width="50" /> | 665 | 3 | 3 | The Game (Deluxe Remastered Version) | 1980-06-27 | [🔗](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d" alt="" width="50" /> | 665 | 2 | 2 | News Of The World (Deluxe Remastered Version) | 1977-10-28 | [🔗](https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889" alt="" width="50" /> | 578 | 2 | 2 | Jazz (Deluxe Remastered Version) | 1978-11-10 | [🔗](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34" alt="" width="50" /> | 243 | 2 | 1 | Innuendo | 1991-02-04 | [🔗](https://open.spotify.com/album/3jYy7yGNCysTHE8MKrIF1k) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34" alt="" width="50" /> | 245 | 2 | 1 | Innuendo | 1991-02-04 | [🔗](https://open.spotify.com/album/3jYy7yGNCysTHE8MKrIF1k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369c47467a7964a67d6dbcf14" alt="" width="50" /> | 665 | 2 | 1 | A Day At The Races | 1976-12-10 | [🔗](https://open.spotify.com/album/3f45rzbU4dYQBTV9v5RFBB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739bf8e3a3c31986c1c0536532" alt="" width="50" /> | 665 | 1 | 1 | Sheer Heart Attack | 1974-11-08 | [🔗](https://open.spotify.com/album/4yO8TpSaJtUKkkjmsA4VXf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ed164cf1c10f028e8f528784" alt="" width="50" /> | 665 | 1 | 1 | Confident | 2015-01-01 | [🔗](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="" width="50" /> | 234 | 1 | 1 | A Night At The Opera (Deluxe Remastered Version) | 1975-11-21 | [🔗](https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="" width="50" /> | 237 | 1 | 1 | A Night At The Opera (Deluxe Remastered Version) | 1975-11-21 | [🔗](https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc386376636cb6b383221fd8" alt="" width="50" /> | 665 | 1 | 0 | The Works | 1984-02-27 | [🔗](https://open.spotify.com/album/0FbnXAGmgmWBmNthZSgm43) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d6c3ad6a2a27471e1d5e8103" alt="" width="50" /> | 665 | 1 | 0 | The Time Of Our Lives | 2009-01-01 | [🔗](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) |
 
@@ -98,8 +98,8 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="" width="50" /> | Bohemian Rhapsody - Remastered 2011 | A Night At The Opera (Deluxe Remastered Version) | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | 328 | 💚 | [🔗](https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34" alt="" width="50" /> | Innuendo - Remastered 2011 | Innuendo | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | 341 | 💚 | [🔗](https://open.spotify.com/track/2OuImA1gcBXJVMrVH9Kn9p) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a" alt="" width="50" /> | Bohemian Rhapsody - Remastered 2011 | A Night At The Opera (Deluxe Remastered Version) | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | 331 | 💚 | [🔗](https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34" alt="" width="50" /> | Innuendo - Remastered 2011 | Innuendo | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | 342 | 💚 | [🔗](https://open.spotify.com/track/2OuImA1gcBXJVMrVH9Kn9p) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889" alt="" width="50" /> | Fat Bottomed Girls - Remastered 2011 | Jazz (Deluxe Remastered Version) | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | 879 | 💚 | [🔗](https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739bf8e3a3c31986c1c0536532" alt="" width="50" /> | Killer Queen | Sheer Heart Attack | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | 1015 | 💚 | [🔗](https://open.spotify.com/track/1KPMTL3BRLBWrNY8fveVy6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369c47467a7964a67d6dbcf14" alt="" width="50" /> | Good Old Fashioned Lover Boy | A Day At The Races | [Queen](../../artists/queen/overview.md) | [Hollywood Records](.) | 1015 | | [🔗](https://open.spotify.com/track/3e9w80AUq0mT9Nrq471kLx) |
