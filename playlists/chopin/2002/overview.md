@@ -11,7 +11,7 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | 341 | 30 | 0 | Chopin: Preludes; Sonata No.2 | 2002-01-01 | [🔗](https://open.spotify.com/album/33YXJqoFV5AQwbo4yfk22n) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | 342 | 30 | 0 | Chopin: Preludes; Sonata No.2 | 2002-01-01 | [🔗](https://open.spotify.com/album/33YXJqoFV5AQwbo4yfk22n) |
 
 ## Tracks
 
@@ -19,7 +19,7 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | 24 Préludes, Op. 28: No. 4 in E Minor | Chopin: Preludes; Sonata No.2 | [Frédéric Chopin](../../../artists/frédéric_chopin/overview.md), Martha Argerich | [Deutsche Grammophon (DG)](../../../labels/deutsche_grammophon_(dg)) | 484 | | [🔗](https://open.spotify.com/track/0zrjEWxi3hGYEjUEFeB40V) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | 24 Préludes, Op. 28: No. 4 in E Minor | Chopin: Preludes; Sonata No.2 | [Frédéric Chopin](../../../artists/frédéric_chopin/overview.md), Martha Argerich | [Deutsche Grammophon (DG)](../../../labels/deutsche_grammophon_(dg)) | 486 | | [🔗](https://open.spotify.com/track/0zrjEWxi3hGYEjUEFeB40V) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | 24 Préludes, Op. 28: No. 1 in C Major | Chopin: Preludes; Sonata No.2 | [Frédéric Chopin](../../../artists/frédéric_chopin/overview.md), Martha Argerich | [Deutsche Grammophon (DG)](../../../labels/deutsche_grammophon_(dg)) | 1018 | | [🔗](https://open.spotify.com/track/5lBrZri8OR3UMqWjdof0E8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | 24 Préludes, Op. 28: No. 10 in C-Sharp Minor | Chopin: Preludes; Sonata No.2 | [Frédéric Chopin](../../../artists/frédéric_chopin/overview.md), Martha Argerich | [Deutsche Grammophon (DG)](../../../labels/deutsche_grammophon_(dg)) | 1018 | | [🔗](https://open.spotify.com/track/1QxIoxeq8WGmyiN8ZcbZGB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | 24 Préludes, Op. 28: No. 11 in B Major | Chopin: Preludes; Sonata No.2 | [Frédéric Chopin](../../../artists/frédéric_chopin/overview.md), Martha Argerich | [Deutsche Grammophon (DG)](../../../labels/deutsche_grammophon_(dg)) | 1018 | | [🔗](https://open.spotify.com/track/7ctTTNs8nDbWRgd8j8vnck) |

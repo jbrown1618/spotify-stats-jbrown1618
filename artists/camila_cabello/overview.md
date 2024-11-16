@@ -26,7 +26,7 @@ Camila Cabello:
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | 667 | 3 | 3 | Camila | 2018-01-12 | [🔗](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | 342 | 3 | 2 | Romance | 2019-12-06 | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | 343 | 3 | 2 | Romance | 2019-12-06 | [🔗](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e" alt="" width="50" /> | 667 | 1 | 1 | bloom | 2017-05-12 | [🔗](https://open.spotify.com/album/3yWRq9Dd2UO5xyqxTjLDmp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4f298e7cbedb77f8e030ff0" alt="" width="50" /> | 667 | 1 | 1 | Cry for Me | 2019-10-04 | [🔗](https://open.spotify.com/album/2dq4ae5hiyxlFPG1s8rlq5) |
 
@@ -104,7 +104,7 @@ Camila Cabello:
 | | Alejandro Guillermo Marambio Altamirano | 1 | Songwriter |
 | | Ant Clemons | 1 | Songwriter |
 | | Matt Beckley | 1 | Producer |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd56712ef06c48938329731e1" alt="" width="50" /> | Shawn Mendes | 1 | Songwriter |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb58b4b9419486550f6fda0535" alt="" width="50" /> | Shawn Mendes | 1 | Songwriter |
 | | [Ryan Tedder](../../producers/ryan_tedder/overview.md) | 1 | Songwriter |
 | | Jacob Olofsson | 1 | Songwriter |
 | | Robbie Soukiasyan | 1 | Producer |
@@ -133,8 +133,8 @@ Camila Cabello:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | My Oh My (feat. DaBaby) | Romance | [Camila Cabello](overview.md), DaBaby | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | 507 | 💚 | [🔗](https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita | Romance | Shawn Mendes, [Camila Cabello](overview.md) | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | 906 | 💚 | [🔗](https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | My Oh My (feat. DaBaby) | Romance | [Camila Cabello](overview.md), DaBaby | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | 511 | 💚 | [🔗](https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3" alt="" width="50" /> | Señorita | Romance | Shawn Mendes, [Camila Cabello](overview.md) | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | 905 | 💚 | [🔗](https://open.spotify.com/track/3BVgrFWuH01GmCUy9Y2EE8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273748388a726648841ed81027e" alt="" width="50" /> | Bad Things (with Camila Cabello) | bloom | mgk, [Camila Cabello](overview.md) | [Bad Boy](../../labels/bad_boy), [Interscope Records](../../labels/interscope_records) | 1018 | 💚 | [🔗](https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Consequences | Camila | [Camila Cabello](overview.md) | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | 1018 | 💚 | [🔗](https://open.spotify.com/track/7sTtHHrD0zDpmzQzH3zegz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4" alt="" width="50" /> | Havana (feat. Young Thug) | Camila | [Camila Cabello](overview.md), Young Thug | [Epic](../../labels/epic), [Syco Music](../../labels/syco_music) | 1018 | 💚 | [🔗](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) |

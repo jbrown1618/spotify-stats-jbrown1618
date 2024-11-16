@@ -14,7 +14,7 @@ MISAMO:
 
 ## Artist Rank
 MISAMO is currently:
-- The #16 artist of the last month
+- The #13 artist of the last month
 - The #25 artist of the last 6 months
 - The #45 artist of the last year
 - The #40 artist of all time
@@ -51,8 +51,8 @@ MISAMO is currently:
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | 31 | 4 | 4 | Masterpiece | 2023-07-26 | [🔗](https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ded03a196ef62a7b250c0508" alt="" width="50" /> | 229 | 1 | 1 | NEW LOOK | 2024-10-09 | [🔗](https://open.spotify.com/album/0nIHweIUCe2nVy5stte3GY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27374cd8ad952524e5eb6463bda" alt="" width="50" /> | 364 | 1 | 1 | Identity | 2024-10-28 | [🔗](https://open.spotify.com/album/7xzn12f7FNR7ZaZ5RB7afD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ded03a196ef62a7b250c0508" alt="" width="50" /> | 228 | 1 | 1 | NEW LOOK | 2024-10-09 | [🔗](https://open.spotify.com/album/0nIHweIUCe2nVy5stte3GY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27374cd8ad952524e5eb6463bda" alt="" width="50" /> | 303 | 1 | 1 | Identity | 2024-10-28 | [🔗](https://open.spotify.com/album/7xzn12f7FNR7ZaZ5RB7afD) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -100,7 +100,7 @@ MISAMO is currently:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | It's not easy for you | Masterpiece | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 66 | 💚 | [🔗](https://open.spotify.com/track/1qNk7XPTbyuO4bsDl0T6nN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Behind The Curtain | Masterpiece | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 87 | 💚 | [🔗](https://open.spotify.com/track/14nturKxV48wR3lbknehiu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Funny Valentine | Masterpiece | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 269 | 💚 | [🔗](https://open.spotify.com/track/4xtgQGbQnII1buKgl5fguT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ded03a196ef62a7b250c0508" alt="" width="50" /> | NEW LOOK | NEW LOOK | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 319 | 💚 | [🔗](https://open.spotify.com/track/451U7NEyfqtVefeIgSoJF0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Do not touch | Masterpiece | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 341 | 💚 | [🔗](https://open.spotify.com/track/5gq7xM6eI16osBO2U581NL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27374cd8ad952524e5eb6463bda" alt="" width="50" /> | Identity | Identity | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 518 | 💚 | [🔗](https://open.spotify.com/track/5vL4zyP6X132arv4VhySLT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Funny Valentine | Masterpiece | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 266 | 💚 | [🔗](https://open.spotify.com/track/4xtgQGbQnII1buKgl5fguT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ded03a196ef62a7b250c0508" alt="" width="50" /> | NEW LOOK | NEW LOOK | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 315 | 💚 | [🔗](https://open.spotify.com/track/451U7NEyfqtVefeIgSoJF0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Do not touch | Masterpiece | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 344 | 💚 | [🔗](https://open.spotify.com/track/5gq7xM6eI16osBO2U581NL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27374cd8ad952524e5eb6463bda" alt="" width="50" /> | Identity | Identity | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 427 | 💚 | [🔗](https://open.spotify.com/track/5vL4zyP6X132arv4VhySLT) |

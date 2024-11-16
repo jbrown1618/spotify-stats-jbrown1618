@@ -55,7 +55,7 @@ WENDY is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | 109 | 5 | 4 | Wish You Hell - The 2nd Mini Album | 2024-03-12 | [🔗](https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27352d0ac4eb2c3fd56c01a01b5" alt="" width="50" /> | 667 | 1 | 1 | Written In The Stars | 2018-10-11 | [🔗](https://open.spotify.com/album/08z3DsL7P6RpBR3FgNMSvN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335c12c4ec54ac73462736b66" alt="" width="50" /> | 667 | 1 | 1 | The Beauty Inside Pt. 6 (Original Television Soundtrack) | 2018-11-06 | [🔗](https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a4dfc950d04a52b9efcd5c52" alt="" width="50" /> | 555 | 1 | 1 | Cheese | 2024-05-20 | [🔗](https://open.spotify.com/album/7qx75T9tAxkomFYsmFADV1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a4dfc950d04a52b9efcd5c52" alt="" width="50" /> | 556 | 1 | 1 | Cheese | 2024-05-20 | [🔗](https://open.spotify.com/album/7qx75T9tAxkomFYsmFADV1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | 63 | 1 | 1 | 2022 Winter SMTOWN : SMCU PALACE | 2022-12-26 | [🔗](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c2220e622cd370a4237727f8" alt="" width="50" /> | 667 | 1 | 0 | 봄인가 봐 Spring Love - SM STATION | 2016-03-04 | [🔗](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27311fa8fd59a2e0029949f3d43" alt="" width="50" /> | 667 | 1 | 0 | The King : Eternal Monarch, Pt. 10 (Original Television Soundtrack) | 2020-05-16 | [🔗](https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5) |
@@ -68,6 +68,7 @@ WENDY is currently:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2731dcf069284321bef1306d6ec" alt="" width="50" /> | 667 | 1 | 0 | Happy | 2024-11-15 | [🔗](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386468c650757ef3eb49ba6d3" alt="" width="50" /> | 667 | 1 | 0 | Doll - SM STATION | 2017-10-27 | [🔗](https://open.spotify.com/album/6YHteiOLrZ7gfQEqq2TeRM) |
 
 </details>
@@ -82,6 +83,7 @@ WENDY is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0255d0265cc488deebe40d79a6ab67616d00001e0278551e802bd7b81d7af67dfbab67616d00001e02ae46d76700c51479a66e8c34ab67616d00001e02bc8e5c838dd8564b5a4f1453" alt="" width="50" /> | 3 | [K-Pop-Adjacent](../../playlists/k-pop-adjacent/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020f5c597bba60a1e0c5364baaab67616d00001e0247d4fcf597d9aee2d5a34e8eab67616d00001e025ccb1b40b2081fff238473bbab67616d00001e02c6633dda2aa449c5650c14be" alt="" width="50" /> | 2 | [K-OST](../../playlists/k-ost/overview.md) |
+| <img src="https://i.scdn.co/image/ab67616d00001e021dcf069284321bef1306d6ec" alt="" width="50" /> | 1 | [Check Out Later](../../playlists/check_out_later/overview.md) |
 | <img src="https://wrapped-images.spotifycdn.com/image/yts-2022/default/your-top-songs-2022_default_en.jpg" alt="" width="50" /> | 1 | [Your Top Songs 2022](../../playlists/your_top_songs_2022/overview.md) |
 | <img src="https://wrapped-images.spotifycdn.com/image/yts-2023/default/your-top-songs-2023_DEFAULT_en.jpg" alt="" width="50" /> | 1 | [Your Top Songs 2023](../../playlists/your_top_songs_2023/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e023317fc12f8b9a9a0b8459766ab67616d00001e0263e0ddbb488d0eeec0e738fcab67616d00001e026564f1d8386a6993b4d5d759ab67616d00001e0284095737f6056e682666d6f9" alt="" width="50" /> | 1 | [Not K-Pop](../../playlists/not_k-pop/overview.md) |
@@ -98,6 +100,7 @@ WENDY is currently:
 | 1 | 1 | 뮤직앤뉴 |
 | 1 | 0 | [Stone Music Entertainment](../../labels/stone_music_entertainment/overview.md) |
 | 1 | 0 | [Genie Music Corporation](../../labels/genie_music_corporation/overview.md) |
+| 1 | 0 | [BIGHIT MUSIC](../../labels/bighit_music/overview.md) |
 
 ## Genres
 
@@ -116,13 +119,13 @@ WENDY is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | When This Rain Stops | Like Water - The 1st Mini Album | [WENDY](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 35 | 💚 | [🔗](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | When This Rain Stops | Like Water - The 1st Mini Album | [WENDY](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 36 | 💚 | [🔗](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Time After Time | 2022 Winter SMTOWN : SMCU PALACE | [BoA](../boa/overview.md), [WENDY](overview.md), NINGNING | [SM Entertainment](../../labels/sm_entertainment) | 72 | 💚 | [🔗](https://open.spotify.com/track/6LGcOydwjfaquaRgJwlPkK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8856d19e1f5784ed643d862" alt="" width="50" /> | Like Water | Like Water - The 1st Mini Album | [WENDY](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 132 | 💚 | [🔗](https://open.spotify.com/track/37LhFxchiyAJVop5JgRZgY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Better Judgement | Wish You Hell - The 2nd Mini Album | [WENDY](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 143 | 💚 | [🔗](https://open.spotify.com/track/0CjGCpqs4qBqZi7ibYyZLi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Wish You Hell | Wish You Hell - The 2nd Mini Album | [WENDY](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 276 | 💚 | [🔗](https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Queen Of The Party | Wish You Hell - The 2nd Mini Album | [WENDY](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 500 | 💚 | [🔗](https://open.spotify.com/track/7owXmiwfpFAZW24qNPyYfr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a4dfc950d04a52b9efcd5c52" alt="" width="50" /> | Cheese | Cheese | SUHO, [WENDY](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 840 | 💚 | [🔗](https://open.spotify.com/track/6x5mCFqbpUfjAq6Egyjl2c) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Wish You Hell | Wish You Hell - The 2nd Mini Album | [WENDY](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 277 | 💚 | [🔗](https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Queen Of The Party | Wish You Hell - The 2nd Mini Album | [WENDY](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 501 | 💚 | [🔗](https://open.spotify.com/track/7owXmiwfpFAZW24qNPyYfr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a4dfc950d04a52b9efcd5c52" alt="" width="50" /> | Cheese | Cheese | SUHO, [WENDY](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 843 | 💚 | [🔗](https://open.spotify.com/track/6x5mCFqbpUfjAq6Egyjl2c) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c2220e622cd370a4237727f8" alt="" width="50" /> | 봄인가 봐 Spring Love | 봄인가 봐 Spring Love - SM STATION | [WENDY](overview.md), Eric Nam | [SM Entertainment](../../labels/sm_entertainment) | 1018 | | [🔗](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb5333f17b22081d93856e43" alt="" width="50" /> | Have Yourself A Merry Little Christmas | Have Yourself A Merry Little Christmas - SM STATION | Jay JungJae Moon, [WENDY](overview.md), Nile Lee | [SM Entertainment](../../labels/sm_entertainment) | 1018 | | [🔗](https://open.spotify.com/track/6SmFhQAavuPzBm3OUH1Kzs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386468c650757ef3eb49ba6d3" alt="" width="50" /> | Doll | Doll - SM STATION | [WENDY](overview.md), [SEULGI](../seulgi/overview.md), KANGTA | [SM Entertainment](../../labels/sm_entertainment) | 1018 | | [🔗](https://open.spotify.com/track/5Iy48VE6KN7Ywml5hlOd9u) |
@@ -142,6 +145,7 @@ WENDY is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8b444d9bac4765e069b31b" alt="" width="50" /> | Miracle | Miracle - SM STATION | [WENDY](overview.md), MeloMance | [SM Entertainment](../../labels/sm_entertainment) | 1018 | | [🔗](https://open.spotify.com/track/03foRBkthqRkysYT7FxWZV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | His Car Isn't Yours | Wish You Hell - The 2nd Mini Album | [WENDY](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1018 | 💚 | [🔗](https://open.spotify.com/track/5cvwFPDokfdI6T7O0HgzuM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4230302ebdf58aef8873907" alt="" width="50" /> | Vermilion | Wish You Hell - The 2nd Mini Album | [WENDY](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1018 | | [🔗](https://open.spotify.com/track/3Oo9zqlxcXNEaINhiXOrBm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731dcf069284321bef1306d6ec" alt="" width="50" /> | Heart on the Window (with WENDY) | Happy | Jin, [WENDY](overview.md) | [BIGHIT MUSIC](../../labels/bighit_music) | 1018 | | [🔗](https://open.spotify.com/track/1b6qYBwDMBpFylGVT4PRgD) |
 
 </details>
 

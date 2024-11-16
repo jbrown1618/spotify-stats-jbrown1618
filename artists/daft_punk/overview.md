@@ -11,7 +11,7 @@ Daft Punk:
 - has member Guy-Manuel de Homem-Christo
 
 ## Artist Rank
-- The #265 artist of all time
+- The #267 artist of all time
 
 ![Rank of Daft Punk over time](../../images/artists/daft_punk/rank_time_series.png)
 ## Top Tracks
@@ -99,7 +99,7 @@ Daft Punk:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Get Lucky (feat. Pharrell Williams and Nile Rodgers) | Random Access Memories | [Daft Punk](overview.md), Pharrell Williams, Nile Rodgers | [Columbia](../../labels/columbia) | 491 | 💚 | [🔗](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | Get Lucky (feat. Pharrell Williams and Nile Rodgers) | Random Access Memories | [Daft Punk](overview.md), Pharrell Williams, Nile Rodgers | [Columbia](../../labels/columbia) | 492 | 💚 | [🔗](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736610c21366e613bfd9f5d197" alt="" width="50" /> | Digital Love | Discovery | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | 1018 | 💚 | [🔗](https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736610c21366e613bfd9f5d197" alt="" width="50" /> | Harder, Better, Faster, Stronger | Discovery | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | 1018 | 💚 | [🔗](https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736610c21366e613bfd9f5d197" alt="" width="50" /> | One More Time | Discovery | [Daft Punk](overview.md) | Daft Life Ltd./ADA France | 1018 | | [🔗](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) |

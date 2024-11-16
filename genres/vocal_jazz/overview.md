@@ -39,7 +39,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb73c7f7505c1af82929ec41df" alt="" width="50" /> | 385 | 2 | 0 | John Coltrane | [🔗](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) |
 | <img src="https://i.scdn.co/image/4efa6b6871a0f672b78b3d16fd5a03c6cd212d58" alt="" width="50" /> | 182 | 2 | 0 | Billie Holiday | [🔗](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf12270128127ba170f90097d" alt="" width="50" /> | 435 | 1 | 0 | Aretha Franklin | [🔗](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273efc7e23c411bb95582ce7b97" alt="" width="50" /> | 417 | 1 | 0 | Louis Jordan & His Tympany Five | [🔗](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273efc7e23c411bb95582ce7b97" alt="" width="50" /> | 416 | 1 | 0 | Louis Jordan & His Tympany Five | [🔗](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) |
 | <img src="https://i.scdn.co/image/1e24691a352233bbe989a311d921f17e7892a87e" alt="" width="50" /> | 435 | 1 | 0 | Duke Ellington | [🔗](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebfa589cdca77cfcd16bb576c1" alt="" width="50" /> | 352 | 1 | 0 | Eartha Kitt | [🔗](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb45dd470659deedf47618968e" alt="" width="50" /> | 435 | 1 | 0 | Stan Getz | [🔗](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) |
@@ -53,16 +53,16 @@
 ## Most and least listened tracks
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 456 | <img src="https://i.scdn.co/image/ab67616d0000b27330dc6027fd140c7ba68e900c" alt="The Christmas Song (Expanded Edition)" width="50" /> | The Christmas Song (Merry Christmas To You) | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b273417cc363d7286a88489dee3c" alt="Getz/Gilberto (Expanded Edition)" width="50" /> | The Girl From Ipanema |
-| 481 | <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="Billie Holiday" width="50" /> | I'll Be Seeing You | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="I Never Loved a Man the Way I Love You" width="50" /> | Respect |
+| 459 | <img src="https://i.scdn.co/image/ab67616d0000b27330dc6027fd140c7ba68e900c" alt="The Christmas Song (Expanded Edition)" width="50" /> | The Christmas Song (Merry Christmas To You) | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b273417cc363d7286a88489dee3c" alt="Getz/Gilberto (Expanded Edition)" width="50" /> | The Girl From Ipanema |
+| 485 | <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="Billie Holiday" width="50" /> | I'll Be Seeing You | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac" alt="I Never Loved a Man the Way I Love You" width="50" /> | Respect |
 | 566 | <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="The Great American Songbook" width="50" /> | Mack the Knife | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008" alt="Hamilton (Original Broadway Cast Recording)" width="50" /> | Wait for It |
 | 601 | <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="Solitude" width="50" /> | Blue Moon | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b27388ab39d88260598e95ebf5f4" alt="Love, Ella" width="50" /> | Dream A Little Dream Of Me - Single Version |
 | 731 | <img src="https://i.scdn.co/image/ab67616d0000b2737c78b57a88c7c109176bc999" alt="The Essential Eartha Kitt" width="50" /> | Santa Baby | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b2737bc42f3bfb5b7cfe28fbee25" alt="After Hours" width="50" /> | Just Friends |
-| 816 | <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="At Last!" width="50" /> | Stormy Weather | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="Romance" width="50" /> | L-O-V-E - 2000 Remaster |
-| 823 | <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="The Complete Ella And Louis On Verve" width="50" /> | Cheek To Cheek | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b273b2ef9d24ed47c5d44d22adb8" alt="Make Someone Happy" width="50" /> | Something In The Air Between Us |
-| 876 | <img src="https://i.scdn.co/image/ab67616d0000b273611ea3fb281f7956ffd33b77" alt="Blue Train" width="50" /> | Blue Train | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="Unforgettable" width="50" /> | Unforgettable |
-| 968 | <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="Ella: The Legendary Decca Recordings" width="50" /> | Baby It's Cold Outside | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="Unforgettable: With Love" width="50" /> | L-O-V-E |
-| 970 | <img src="https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea" alt="A Winter Romance" width="50" /> | Let It Snow! Let It Snow! Let It Snow! | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b27356849c42c652a7e4025fd6eb" alt="Ella Wishes You A Swinging Christmas (Expanded Edition)" width="50" /> | Sleigh Ride |
+| 813 | <img src="https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624" alt="At Last!" width="50" /> | Stormy Weather | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="Romance" width="50" /> | L-O-V-E - 2000 Remaster |
+| 824 | <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="The Complete Ella And Louis On Verve" width="50" /> | Cheek To Cheek | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b273b2ef9d24ed47c5d44d22adb8" alt="Make Someone Happy" width="50" /> | Something In The Air Between Us |
+| 880 | <img src="https://i.scdn.co/image/ab67616d0000b273611ea3fb281f7956ffd33b77" alt="Blue Train" width="50" /> | Blue Train | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="Unforgettable" width="50" /> | Unforgettable |
+| 972 | <img src="https://i.scdn.co/image/ab67616d0000b273807cc4e6a97c1a67c8b69803" alt="Ella: The Legendary Decca Recordings" width="50" /> | Baby It's Cold Outside | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6" alt="Unforgettable: With Love" width="50" /> | L-O-V-E |
+| 973 | <img src="https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea" alt="A Winter Romance" width="50" /> | Let It Snow! Let It Snow! Let It Snow! | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b27356849c42c652a7e4025fd6eb" alt="Ella Wishes You A Swinging Christmas (Expanded Edition)" width="50" /> | Sleigh Ride |
 
 ## Top Albums
 
@@ -93,9 +93,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdd261528e3590ac36bb85f0" alt="" width="50" /> | 667 | 1 | 0 | Unforgettable | 1954-01-01 | [🔗](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea98b57fdcecd7e3c115c8a8" alt="" width="50" /> | 388 | 1 | 0 | The Great American Songbook | 1929 | [🔗](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737c78b57a88c7c109176bc999" alt="" width="50" /> | 490 | 1 | 0 | The Essential Eartha Kitt | 2011-03-15 | [🔗](https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="" width="50" /> | 545 | 1 | 0 | The Complete Ella And Louis On Verve | 1997-05-20 | [🔗](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27330dc6027fd140c7ba68e900c" alt="" width="50" /> | 322 | 1 | 0 | The Christmas Song (Expanded Edition) | 1962 | [🔗](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="" width="50" /> | 408 | 1 | 0 | Solitude | 1956-01-01 | [🔗](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="" width="50" /> | 546 | 1 | 0 | The Complete Ella And Louis On Verve | 1997-05-20 | [🔗](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27330dc6027fd140c7ba68e900c" alt="" width="50" /> | 325 | 1 | 0 | The Christmas Song (Expanded Edition) | 1962 | [🔗](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1" alt="" width="50" /> | 409 | 1 | 0 | Solitude | 1956-01-01 | [🔗](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd1ea8639de6d3f827fba218" alt="" width="50" /> | 667 | 1 | 0 | Satchmo Serenades | 1952-04-01 | [🔗](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f03db3f454ff7b2c3b4fe62" alt="" width="50" /> | 667 | 1 | 0 | Romance | 2021-02-12 | [🔗](https://open.spotify.com/album/5MuNxtOyex8o77Qdjaqeng) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2ef9d24ed47c5d44d22adb8" alt="" width="50" /> | 667 | 1 | 0 | Make Someone Happy | 2007-01-01 | [🔗](https://open.spotify.com/album/2oGYlZ7vte6lJ1MuwKKCeW) |
@@ -105,7 +105,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2732def9ef3f6a82c8d6fd8c143" alt="" width="50" /> | 667 | 1 | 0 | Duke Ellington & John Coltrane | 1963-02 | [🔗](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731200e79c84a8d967d5f727e9" alt="" width="50" /> | 667 | 1 | 0 | Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster) | 2010-01-01 | [🔗](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273611ea3fb281f7956ffd33b77" alt="" width="50" /> | 579 | 1 | 0 | Blue Train | 1957-11-01 | [🔗](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="" width="50" /> | 340 | 1 | 0 | Billie Holiday | 1957-01-01 | [🔗](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8743d2c7812763f7f66e83b" alt="" width="50" /> | 341 | 1 | 0 | Billie Holiday | 1957-01-01 | [🔗](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) |
 
 </details>
 

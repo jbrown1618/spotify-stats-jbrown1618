@@ -15,7 +15,7 @@
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108" alt="" width="50" /> | 175 | 4 | 3 | Stevie Wonder | [🔗](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebf6aea1273b8e1f455efe26a3" alt="" width="50" /> | 435 | 3 | 3 | Daði Freyr | [🔗](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0c6952f39ba680489149a54c" alt="" width="50" /> | 9 | 2 | 2 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca6c145421fa9ceb58d6f9d4" alt="" width="50" /> | 9 | 2 | 2 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/bd85e05d8bb8ad24515a232174cbe20925048566" alt="" width="50" /> | 286 | 2 | 2 | 10cc | [🔗](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb487ae121468ca9f26d893c0f" alt="" width="50" /> | 22 | 2 | 2 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb158342aa8bb8a192c778f2a5" alt="" width="50" /> | 435 | 2 | 1 | James Brown | [🔗](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) |
@@ -50,9 +50,9 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebbd0642ff425698afac5caffd" alt="" width="50" /> | 3 | 1 | 1 | [IU](../../artists/iu/overview.md) | [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) |
 | <img src="https://i.scdn.co/image/ee4abaa4b898c4233b881056fd3caa9ddc87c82d" alt="" width="50" /> | 435 | 1 | 1 | LaBelle | [🔗](https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebaccf8c8763bf2fa909677c71" alt="" width="50" /> | 435 | 1 | 1 | DKZ | [🔗](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1402fcb25db7c508972e172d" alt="" width="50" /> | 77 | 1 | 1 | RIIZE | [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1402fcb25db7c508972e172d" alt="" width="50" /> | 76 | 1 | 1 | RIIZE | [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8622596d85e4c4249fb075da" alt="" width="50" /> | 178 | 1 | 1 | Moon Byul | [🔗](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb1787f6596afa03df2d44af87" alt="" width="50" /> | 136 | 1 | 1 | YOON MIRAE | [🔗](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb1787f6596afa03df2d44af87" alt="" width="50" /> | 135 | 1 | 1 | YOON MIRAE | [🔗](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcf5fb42825076ab99ff7a991" alt="" width="50" /> | 435 | 1 | 1 | Lipps Inc. | [🔗](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="" width="50" /> | 91 | 1 | 1 | [Bruno Mars](../../artists/bruno_mars/overview.md) | [🔗](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb6b6a07bd9cceae9bd48be09b" alt="" width="50" /> | 41 | 1 | 1 | [Jacob Collier](../../artists/jacob_collier/overview.md) | [🔗](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) |
@@ -89,12 +89,12 @@
 | 59 | <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="TEN - The 1st Mini Album" width="50" /> | [Dangerous](../../artists/ten/overview.md) | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b27385c5e6c686ced3e43bae2748" alt="Drunk" width="50" /> | Them Changes |
 | 64 | <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="Born to be XX" width="50" /> | [Nobody Knows](../../artists/kiss_of_life/overview.md) | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b273b08f59c7648a7a67130ca0ea" alt="Greatest Hits" width="50" /> | Thank You (Falettinme Be Mice Elf Agin) - Single Version |
 | 115 | <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="the Billage of perception: chapter three" width="50" /> | [enchanted night ~ white night](../../artists/billlie/overview.md) | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b273a03bcdbf45f9ed71cf0947bd" alt="Hot Chocolate" width="50" /> | You Sexy Thing |
-| 164 | <img src="https://i.scdn.co/image/ab67616d0000b27369ad639dd6829cb2414a53f9" alt="RIIZING - The 1st Mini Album" width="50" /> | Boom Boom Bass | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b27323cc0f0a925845a3de4aca38" alt="Parade - Music from the Motion Picture Under the Cherry Moon" width="50" /> | Kiss |
-| 235 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | [Red Lipstick (feat. Yoonmirae)](../../artists/leehi/overview.md) | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f0a26e4100c490bc384003" alt="Let&#x27;s Get It On" width="50" /> | Let's Get It On |
+| 163 | <img src="https://i.scdn.co/image/ab67616d0000b27369ad639dd6829cb2414a53f9" alt="RIIZING - The 1st Mini Album" width="50" /> | Boom Boom Bass | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b27323cc0f0a925845a3de4aca38" alt="Parade - Music from the Motion Picture Under the Cherry Moon" width="50" /> | Kiss |
+| 229 | <img src="https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69" alt="4 ONLY" width="50" /> | [Red Lipstick (feat. Yoonmirae)](../../artists/leehi/overview.md) | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f0a26e4100c490bc384003" alt="Let&#x27;s Get It On" width="50" /> | Let's Get It On |
 | 298 | <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="Undo" width="50" /> | [Undo](../../artists/heize/overview.md) | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b273d419ed4f1e89669ce14bd369" alt="Wild Cherry" width="50" /> | Play That Funky Music |
-| 314 | <img src="https://i.scdn.co/image/ab67616d0000b2736652c7af6f96d2126e49a9a7" alt="Hello, World - The 4th Mini Album" width="50" /> | [Pineapple Slice](../../artists/baekhyun/overview.md) | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b273c813101657895c26f990b719" alt="I Got You (I Feel Good)" width="50" /> | I Got You (I Feel Good) |
-| 608 | <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="NEXT EPISODE" width="50" /> | [NAKKA (with IU)](../../artists/akmu/overview.md) | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="Commodores" width="50" /> | Brick House |
-| 679 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [In My Bones (feat. Kimbra & Tank and The Bangas)](../../artists/jacob_collier/overview.md) | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b27320112a0321d2efc7384db456" alt="Third Album" width="50" /> | I'll Be There |
+| 306 | <img src="https://i.scdn.co/image/ab67616d0000b2736652c7af6f96d2126e49a9a7" alt="Hello, World - The 4th Mini Album" width="50" /> | [Pineapple Slice](../../artists/baekhyun/overview.md) | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b273c813101657895c26f990b719" alt="I Got You (I Feel Good)" width="50" /> | I Got You (I Feel Good) |
+| 609 | <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="NEXT EPISODE" width="50" /> | [NAKKA (with IU)](../../artists/akmu/overview.md) | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b27340eea368f4fb5f5ee6dcd9a8" alt="Commodores" width="50" /> | Brick House |
+| 680 | <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="Djesse Vol. 3" width="50" /> | [In My Bones (feat. Kimbra & Tank and The Bangas)](../../artists/jacob_collier/overview.md) | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b27320112a0321d2efc7384db456" alt="Third Album" width="50" /> | I'll Be There |
 
 </details>
 
@@ -104,16 +104,16 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | 77 | 2 | 2 | the Billage of perception: chapter three | 2023-03-28 | [🔗](https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e3a242b1d34e50a6f28a7a3" alt="" width="50" /> | 78 | 2 | 2 | the Billage of perception: chapter three | 2023-03-28 | [🔗](https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273818c45ca29446e7352ba187f" alt="" width="50" /> | 667 | 2 | 1 | Star Time | 1991-01-01 | [🔗](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2a0dd6e587c7b1b6020d5e5" alt="" width="50" /> | 667 | 1 | 1 | Young Soul Rebels (Original Soundtrack) [Digitally Remastered] | 2015-05-05 | [🔗](https://open.spotify.com/album/68VvPqFOLXUtnn8NfrQpIe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d419ed4f1e89669ce14bd369" alt="" width="50" /> | 667 | 1 | 1 | Wild Cherry | 1976 | [🔗](https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345c3e1eaeaed3345abae9616" alt="" width="50" /> | 211 | 1 | 1 | Undo | 2022-06-30 | [🔗](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5c51e96d2583bfb3e45d504" alt="" width="50" /> | 667 | 1 | 1 | Think About Things | 2020-04-09 | [🔗](https://open.spotify.com/album/5gEUjiNfaVse6oloI0c6Vt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="" width="50" /> | 556 | 1 | 1 | The Definitive Collection | 2002-10-29 | [🔗](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91" alt="" width="50" /> | 555 | 1 | 1 | The Definitive Collection | 2002-10-29 | [🔗](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730d9c2a11edd1a7efcd73f0d1" alt="" width="50" /> | 667 | 1 | 1 | The 3rd Mini Album 'VarioUS' | 2023-01-31 | [🔗](https://open.spotify.com/album/2XZJWoPAW0Ah1msTIFXFSt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27330bb42e5271f2e046fd36972" alt="" width="50" /> | 667 | 1 | 1 | That's The Way Of The World | 1975-03-15 | [🔗](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | 334 | 1 | 1 | Taste of Love | 2021-06-11 | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273feede28e85bb57807a272a2b" alt="" width="50" /> | 335 | 1 | 1 | Taste of Love | 2021-06-11 | [🔗](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) |
 
 
 <details>
@@ -121,25 +121,25 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb03213742765479b3b1cf11" alt="" width="50" /> | 590 | 1 | 1 | Tailwinds | 2020-07-24 | [🔗](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="" width="50" /> | 54 | 1 | 1 | TEN - The 1st Mini Album | 2024-02-13 | [🔗](https://open.spotify.com/album/50Zo1vf3YCQtXLUZr2oBiQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb03213742765479b3b1cf11" alt="" width="50" /> | 592 | 1 | 1 | Tailwinds | 2020-07-24 | [🔗](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="" width="50" /> | 55 | 1 | 1 | TEN - The 1st Mini Album | 2024-02-13 | [🔗](https://open.spotify.com/album/50Zo1vf3YCQtXLUZr2oBiQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304c7f62f1ecf29cfc4c1df3b" alt="" width="50" /> | 667 | 1 | 1 | Söngvakeppnin 2020 | 2020-01-18 | [🔗](https://open.spotify.com/album/32ypMgv8eQ7ACVd2uBaPG7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317f9e7e7784ed40b223e261c" alt="" width="50" /> | 667 | 1 | 1 | Street Songs (Deluxe Edition) | 1981-04-07 | [🔗](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356035da9eacd668ffdfacb36" alt="" width="50" /> | 544 | 1 | 1 | Starlit of Muse | 2024-02-20 | [🔗](https://open.spotify.com/album/1YtCxUGiarZVukgAm2x5RZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b" alt="" width="50" /> | 667 | 1 | 1 | Signed, Sealed And Delivered | 1970-08-07 | [🔗](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8cc2281fcd4519ca020926b" alt="" width="50" /> | 4 | 1 | 1 | Savage - The 1st Mini Album | 2021-10-05 | [🔗](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27369ad639dd6829cb2414a53f9" alt="" width="50" /> | 130 | 1 | 1 | RIIZING - The 1st Mini Album | 2024-06-17 | [🔗](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27369ad639dd6829cb2414a53f9" alt="" width="50" /> | 129 | 1 | 1 | RIIZING - The 1st Mini Album | 2024-06-17 | [🔗](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323cc0f0a925845a3de4aca38" alt="" width="50" /> | 667 | 1 | 1 | Parade - Music from the Motion Picture Under the Cherry Moon | 1986-03-31 | [🔗](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="" width="50" /> | 46 | 1 | 1 | ORANGE BLOOD | 2023-11-17 | [🔗](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d364c1f2a6fede40055b02d5" alt="" width="50" /> | 47 | 1 | 1 | ORANGE BLOOD | 2023-11-17 | [🔗](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27331ae071f3db459be2501ea13" alt="" width="50" /> | 667 | 1 | 1 | Nightbirds | 1974-09-13 | [🔗](https://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="" width="50" /> | 412 | 1 | 1 | NEXT EPISODE | 2021-07-26 | [🔗](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="" width="50" /> | 413 | 1 | 1 | NEXT EPISODE | 2021-07-26 | [🔗](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5296d028b3e255aec56fc3c" alt="" width="50" /> | 667 | 1 | 1 | Mouth To Mouth | 1979-11-01 | [🔗](https://open.spotify.com/album/1SMBOCE8CFqxr2EB92Asqh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273777c5fdae315d921a3784f21" alt="" width="50" /> | 667 | 1 | 1 | Mothership Connection | 1975-12-15 | [🔗](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305de9858d5c447c247f6ce21" alt="" width="50" /> | 667 | 1 | 1 | LUPIN | 2020-03-15 | [🔗](https://open.spotify.com/album/361AnnYEYLl0Z7zF7Xo0Dq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea8ab1a548312b79ac955266" alt="" width="50" /> | 667 | 1 | 1 | Innervisions | 1973-08-03 | [🔗](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b08f59c7648a7a67130ca0ea" alt="" width="50" /> | 667 | 1 | 1 | Greatest Hits | 1970-11-21 | [🔗](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | 100 | 1 | 1 | Formula of Love: O+T=<3 | 2021-11-12 | [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | 266 | 1 | 1 | Djesse Vol. 3 | 2020-08-14 | [🔗](https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82" alt="" width="50" /> | 101 | 1 | 1 | Formula of Love: O+T=<3 | 2021-11-12 | [🔗](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27334de228d223a20a8a5d1f465" alt="" width="50" /> | 267 | 1 | 1 | Djesse Vol. 3 | 2020-08-14 | [🔗](https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38" alt="" width="50" /> | 667 | 1 | 1 | Diana Ross Presents The Jackson 5 | 1969-12-18 | [🔗](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f93159d78849714fcf118bb3" alt="" width="50" /> | 667 | 1 | 1 | Deceptive Bends | 1977 | [🔗](https://open.spotify.com/album/6D3RQD5AQZ4P2aDzsZmBI4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27396d36aec71bf25f59df5cc96" alt="" width="50" /> | 64 | 1 | 1 | Born to be XX | 2023-11-08 | [🔗](https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx) |
@@ -158,7 +158,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273aff6573c5110e0732fbab3d8" alt="" width="50" /> | 667 | 1 | 0 | In The Groove | 1968-08-26 | [🔗](https://open.spotify.com/album/36VMWZPLjg9rucvMxdA2Pz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c813101657895c26f990b719" alt="" width="50" /> | 667 | 1 | 0 | I Got You (I Feel Good) | 1966-02-01 | [🔗](https://open.spotify.com/album/5UqTOjkfRMzkORwpeOWtt3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a03bcdbf45f9ed71cf0947bd" alt="" width="50" /> | 667 | 1 | 0 | Hot Chocolate | 1975 | [🔗](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736652c7af6f96d2126e49a9a7" alt="" width="50" /> | 226 | 1 | 0 | Hello, World - The 4th Mini Album | 2024-09-06 | [🔗](https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736652c7af6f96d2126e49a9a7" alt="" width="50" /> | 221 | 1 | 0 | Hello, World - The 4th Mini Album | 2024-09-06 | [🔗](https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dadce998f88dba71c98adf88" alt="" width="50" /> | 667 | 1 | 0 | Funkentelechy Vs. The Placebo Syndrome | 1977-11-28 | [🔗](https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734629fe1633a7d9460fe1e28b" alt="" width="50" /> | 667 | 1 | 0 | For Once In My Life | 1968-12-01 | [🔗](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27385c5e6c686ced3e43bae2748" alt="" width="50" /> | 667 | 1 | 0 | Drunk | 2017-02-24 | [🔗](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) |

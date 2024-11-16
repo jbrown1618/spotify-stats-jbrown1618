@@ -2,7 +2,7 @@
 # Berliner Philharmoniker
 
 
-<img src="https://i.scdn.co/image/ab6761610000e5eb92e0a1e423bd8590dcd43bda" alt="Berliner Philharmoniker" width="100" />
+<img src="https://i.scdn.co/image/ab6761610000e5eb055b7b456a9d22d6ae1ed18f" alt="Berliner Philharmoniker" width="100" />
 
 [See Track Features](audio_features.md)
 

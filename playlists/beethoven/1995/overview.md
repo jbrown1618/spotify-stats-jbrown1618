@@ -4,8 +4,8 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eba636b0b244253f602a629796" alt="" width="50" /> | 296 | 94 | 0 | [Ludwig van Beethoven](../../../artists/ludwig_van_beethoven/overview.md) | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba5a4a932f73faefc19b4e24f" alt="" width="50" /> | 155 | 94 | 0 | [Vladimir Ashkenazy](../../../artists/vladimir_ashkenazy/overview.md) | [🔗](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba636b0b244253f602a629796" alt="" width="50" /> | 297 | 94 | 0 | [Ludwig van Beethoven](../../../artists/ludwig_van_beethoven/overview.md) | [🔗](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba5a4a932f73faefc19b4e24f" alt="" width="50" /> | 156 | 94 | 0 | [Vladimir Ashkenazy](../../../artists/vladimir_ashkenazy/overview.md) | [🔗](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) |
 
 ## Albums
 

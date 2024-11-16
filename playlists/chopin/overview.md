@@ -14,7 +14,7 @@
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe55372097569b7b56b439365" alt="" width="50" /> | 165 | 157 | 0 | [Frédéric Chopin](../../artists/frédéric_chopin/overview.md) | [🔗](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba5a4a932f73faefc19b4e24f" alt="" width="50" /> | 155 | 102 | 0 | [Vladimir Ashkenazy](../../artists/vladimir_ashkenazy/overview.md) | [🔗](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba5a4a932f73faefc19b4e24f" alt="" width="50" /> | 156 | 102 | 0 | [Vladimir Ashkenazy](../../artists/vladimir_ashkenazy/overview.md) | [🔗](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb66cd5da57e71a33da20de712" alt="" width="50" /> | 263 | 31 | 0 | Martha Argerich | [🔗](https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4) |
 | <img src="https://i.scdn.co/image/b569f4420a0c5257c26c745a8928cac516dd4144" alt="" width="50" /> | 435 | 19 | 0 | Maurizio Pollini | [🔗](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27308fa17be7bd6194f38778767" alt="" width="50" /> | 435 | 15 | 0 | Peter Schmalfuss | [🔗](https://open.spotify.com/artist/7mOe6jfxX9EILXET9l5L6H) |
@@ -35,7 +35,7 @@
 
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 484 | <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="Chopin: Preludes; Sonata No.2" width="50" /> | [24 Préludes, Op. 28: No. 4 in E Minor](../../artists/frédéric_chopin/overview.md) | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59" alt="Chopin: Nocturnes" width="50" /> | [Nocturne No. 16 In E Flat, Op. 55 No. 2](../../artists/frédéric_chopin/overview.md) |
+| 486 | <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="Chopin: Preludes; Sonata No.2" width="50" /> | [24 Préludes, Op. 28: No. 4 in E Minor](../../artists/frédéric_chopin/overview.md) | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59" alt="Chopin: Nocturnes" width="50" /> | [Nocturne No. 16 In E Flat, Op. 55 No. 2](../../artists/frédéric_chopin/overview.md) |
 | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b2738a9c1224da995cb33a8cb3d5" alt="Frederic Chopin - Waltzes &amp; Nocturnes" width="50" /> | Waltz No.10 Op.69-2 B Minor | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="Chopin: Waltzes; 4 Scherzos; 26 Preludes" width="50" /> | [24 Préludes, Op. 28: No. 17 in A-Flat Major: Allegretto](../../artists/frédéric_chopin/overview.md) |
 | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="Chopin: Waltzes; 4 Scherzos; 26 Preludes" width="50" /> | [Waltz No. 8 in A-Flat Major, Op. 64 No. 3](../../artists/frédéric_chopin/overview.md) | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="Chopin: Polonaises" width="50" /> | [Feuille d'album in E, Op. posth.](../../artists/frédéric_chopin/overview.md) |
 | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59" alt="Chopin: Nocturnes" width="50" /> | [Nocturne No. 19 In E Minor, Op. 72 No. 1](../../artists/frédéric_chopin/overview.md) | 1018 | <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="Chopin: Preludes; Sonata No.2" width="50" /> | [24 Préludes, Op. 28: No. 13 in F-Sharp Major](../../artists/frédéric_chopin/overview.md) |
@@ -55,7 +55,7 @@
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27336ea5cd07c0b76f64f05c2ea" alt="" width="50" /> | 667 | 49 | 0 | Chopin: Waltzes; 4 Scherzos; 26 Preludes | 1999-01-01 | [🔗](https://open.spotify.com/album/0yCrQ6dCqiI6ldqI8LPqWB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | 341 | 30 | 0 | Chopin: Preludes; Sonata No.2 | 2002-01-01 | [🔗](https://open.spotify.com/album/33YXJqoFV5AQwbo4yfk22n) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da673657374e88d973dad080" alt="" width="50" /> | 342 | 30 | 0 | Chopin: Preludes; Sonata No.2 | 2002-01-01 | [🔗](https://open.spotify.com/album/33YXJqoFV5AQwbo4yfk22n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a1bf73a2b9a6387a353a9ef" alt="" width="50" /> | 667 | 28 | 0 | Chopin: Polonaises | 1996-01-01 | [🔗](https://open.spotify.com/album/19ofW4fqCAR2uQJKVWw6L6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734215d2bfa2e73ae057165347" alt="" width="50" /> | 667 | 25 | 0 | Chopin: Nocturnes; Four Ballades | 1997-01-01 | [🔗](https://open.spotify.com/album/0lrM7kR5o7iqkajLKIlzRg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731ac7945379c88fb7f5844b59" alt="" width="50" /> | 667 | 19 | 0 | Chopin: Nocturnes | 2005-01-01 | [🔗](https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv) |

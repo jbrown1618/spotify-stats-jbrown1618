@@ -100,7 +100,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="Pink Tape - The 2nd Album" width="50" /> | 미행 (그림자 : Shadow) (0.782) | <img src="https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e" alt="Palette" width="50" /> | Black Out (0.0243) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="With YOU-th" width="50" /> | ONE SPARK (0.753) | <img src="https://i.scdn.co/image/ab67616d0000b2738cf0e84e77a46b5317c09924" alt="Killin&#x27; It" width="50" /> | Killin' It (0.0259) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27373e21d92fa8c70ce6aba72d0" alt="Sticker - The 3rd Album" width="50" /> | Sticker (0.742) | <img src="https://i.scdn.co/image/ab67616d0000b27346c28fd13126fd9428625411" alt="memeM" width="50" /> | memeM (0.0287) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734be0f7bf49f6b31c3dfc42ae" alt="INSANE LOVE" width="50" /> | I Like That (0.737) | <img src="https://i.scdn.co/image/ab67616d0000b27397265410628ab7f94a380c9d" alt="Rockstar" width="50" /> | Rockstar (0.0293) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731dcf069284321bef1306d6ec" alt="Happy" width="50" /> | Heart on the Window (with WENDY) (0.738) | <img src="https://i.scdn.co/image/ab67616d0000b27397265410628ab7f94a380c9d" alt="Rockstar" width="50" /> | Rockstar (0.0293) |
 
 ## Valence
 

@@ -17,7 +17,7 @@ Coldplay:
 - has member Chris Martin
 
 ## Artist Rank
-- The #197 artist of all time
+- The #198 artist of all time
 
 ![Rank of Coldplay over time](../../images/artists/coldplay/rank_time_series.png)
 ## Top Tracks
