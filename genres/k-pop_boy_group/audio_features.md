@@ -13,9 +13,9 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27309610687bcd1b3dc95d5d436" alt="We Boom - The 3rd Mini Album" width="50" /> | BOOM (0.914) | <img src="https://i.scdn.co/image/ab67616d0000b27351700837cdbc6adddb88560a" alt="ATE" width="50" /> | twilight (0.402) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273daf7982ccaad9ca5e1603792" alt="Mr. Simple - The 5th Album" width="50" /> | Mr. Simple (0.913) | <img src="https://i.scdn.co/image/ab67616d0000b273de5a12fc93022c4f7b8030b3" alt="IN:VITE U" width="50" /> | Sparkling Night (0.422) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d07a54abba4f5060c2486e3c" alt="SEVENTEEN 11th Mini Album &#x27;SEVENTEENTH HEAVEN&#x27;" width="50" /> | Monster (0.913) | <img src="https://i.scdn.co/image/ab67616d0000b273e70b87a4bd471f82768bdcb9" alt="DON&#x27;T FIGHT THE FEELING - Special Album" width="50" /> | Runaway (0.425) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="Street Man Fighter Original Vol.4 (Crew Songs)" width="50" /> | HEYDAY (Prod. Czaer) (0.892) | <img src="https://i.scdn.co/image/ab67616d0000b2732666df197eac73ae823e1e67" alt="2 Cool 4 Skool" width="50" /> | No More Dream (0.438) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="5-STAR" width="50" /> | S-Class (0.886) | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="The Most Beautiful Moment in Life: Young Forever" width="50" /> | Butterfly (0.439) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273703093f86fd5c8bd79500610" alt="IN LIFE" width="50" /> | Any (0.879) | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="DIMENSION : DILEMMA" width="50" /> | Just A Little Bit (0.441) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739a7d96c7962d39fccda354ea" alt="GOLDEN HOUR : Part.2" width="50" /> | Ice On My Teeth (0.908) | <img src="https://i.scdn.co/image/ab67616d0000b2732666df197eac73ae823e1e67" alt="2 Cool 4 Skool" width="50" /> | No More Dream (0.438) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27390831ba9ed4aa3b89fd6b81c" alt="Street Man Fighter Original Vol.4 (Crew Songs)" width="50" /> | HEYDAY (Prod. Czaer) (0.892) | <img src="https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322" alt="The Most Beautiful Moment in Life: Young Forever" width="50" /> | Butterfly (0.439) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e27ba26bc14a563bf3d09882" alt="5-STAR" width="50" /> | S-Class (0.886) | <img src="https://i.scdn.co/image/ab67616d0000b2736772cf096be8acc1df092519" alt="DIMENSION : DILEMMA" width="50" /> | Just A Little Bit (0.441) |
 
 ## Energy
 
@@ -32,7 +32,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fb6e8a26c2c4d9a23f888a94" alt="쏘리 쏘리 Sorry, Sorry - The 3rd Album" width="50" /> | 쏘리 쏘리 Sorry, Sorry (0.972) | <img src="https://i.scdn.co/image/ab67616d0000b273cd723e6efb66f6ef28fac28e" alt="Christmas EveL" width="50" /> | 24 to 25 (0.455) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27386fe9fe6eaab4083b32adf9f" alt="HARD - The 8th Album" width="50" /> | JUICE (0.968) | <img src="https://i.scdn.co/image/ab67616d0000b273ac9d6ee9be9186ff1a28c900" alt="ROMANCE : UNTOLD -daydream-" width="50" /> | No Doubt (0.456) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273decdd40044544f29075673d2" alt="TREASURE EP.FIN : All To Action" width="50" /> | WONDERLAND (0.964) | <img src="https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49" alt="Proof" width="50" /> | Butter (0.459) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="Candy - Winter Special Mini Album" width="50" /> | Candy (0.964) | <img src="https://i.scdn.co/image/ab67616d0000b273253a9c74941281b0407ce940" alt="The Chaos Chapter: FREEZE" width="50" /> | Anti-Romantic (0.489) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27358a75e46b114389a2fe762f6" alt="Candy - Winter Special Mini Album" width="50" /> | Candy (0.964) | <img src="https://i.scdn.co/image/ab67616d0000b2739a7d96c7962d39fccda354ea" alt="GOLDEN HOUR : Part.2" width="50" /> | Ice On My Teeth (0.479) |
 
 ## Speechiness
 
@@ -83,7 +83,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273a7fcbfdd783b559de31d181b" alt="2009, Year Of Us - The Third Mini Album" width="50" /> | Ring Ding Dong (0.000501) | <img src="https://i.scdn.co/image/ab67616d0000b273b1d944dd406d5b0e461ad155" alt="NCT 2018 EMPATHY" width="50" /> | BOSS (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739f6a9a89c697fde2dada3b9d" alt="Humanoids" width="50" /> | Humanoids (0.000351) | <img src="https://i.scdn.co/image/ab67616d0000b273b068508a55c13c676bf74d6b" alt="FACE ME" width="50" /> | PHOTO (0.0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec449471d321ade6ee416230" alt="Troubleshooting" width="50" /> | Little Things (0.000348) | <img src="https://i.scdn.co/image/ab67616d0000b27320adea47ebd9e98d2e7d2247" alt="2 Baddies - The 4th Album" width="50" /> | Gold Dust (0.0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ac9d6ee9be9186ff1a28c900" alt="ROMANCE : UNTOLD -daydream-" width="50" /> | Daydream (0.000212) | <img src="https://i.scdn.co/image/ab67616d0000b273b1e7b20382e9caa516b5a814" alt="2ND FULL ALBUM &#x27;REBOOT&#x27;" width="50" /> | BONA BONA (0.0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739a7d96c7962d39fccda354ea" alt="GOLDEN HOUR : Part.2" width="50" /> | Ice On My Teeth (0.000213) | <img src="https://i.scdn.co/image/ab67616d0000b273b1e7b20382e9caa516b5a814" alt="2ND FULL ALBUM &#x27;REBOOT&#x27;" width="50" /> | BONA BONA (0.0) |
 
 ## Liveness
 

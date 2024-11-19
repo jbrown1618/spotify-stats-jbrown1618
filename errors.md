@@ -22,6 +22,10 @@
 
 | track_name | album_name | artist_name | track_popularity | album_popularity | artist_popularity |
 |:---|:---|:---|---:|---:|---:|
+| Hot Mess | Letter To Myself - The 6th Mini Album | TAEYEON | 0 | 0 | 66 |
+| Letter To Myself | Letter To Myself - The 6th Mini Album | TAEYEON | 0 | 0 | 66 |
+| Blue Eyes | Letter To Myself - The 6th Mini Album | TAEYEON | 0 | 0 | 66 |
+| Blur | Letter To Myself - The 6th Mini Album | TAEYEON | 0 | 0 | 66 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 87 |
 | The Goldfish | The Best of The Laurie Berkner Band | The Laurie Berkner Band | 0 | 0 | 59 |
 | We Are The Dinosaurs | The Best of The Laurie Berkner Band | The Laurie Berkner Band | 0 | 0 | 59 |
@@ -46,14 +50,15 @@
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 51 |
 | Can't Stop This Party | Can't Stop This Party | Seori | 2 | 1 | 58 |
 | Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 65 |
+| OLeander | perfect blues | hannah bahng | 2 | 2 | 48 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 60 |
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 68 |
 | Lone Digger | <|º_º|> | Caravan Palace | 2 | 2 | 62 |
+| BODY | TOXIC | MEOVV | 0 | 0 | 62 |
+| TOXIC | TOXIC | MEOVV | 0 | 0 | 62 |
 | We're Going to the Zoo | Kids Animal Songs | Love to Sing | 0 | 0 | 44 |
 | This Is the Way the Lady Rides | Kids Animal Songs | Love to Sing | 0 | 0 | 44 |
-| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | Jin | 0 | 0 | 81 |
-| Heart on the Window (with WENDY) | Happy | Jin | 0 | 0 | 81 |
-| Heart on the Window (with WENDY) | Happy | WENDY | 0 | 0 | 55 |
+| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | Jin | 0 | 0 | 83 |
 | Wings | Wings | PIXY | 0 | 0 | 38 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 40 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 40 |
@@ -97,6 +102,9 @@
 | I will show you | Invitation | AILEE | 0 | 0 | 59 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 64 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 61 |
+| Timshel | Sigh No More | Mumford & Sons | 0 | 2 | 73 |
+| Little Lion Man | Sigh No More | Mumford & Sons | 2 | 2 | 73 |
+| The Cave | Sigh No More | Mumford & Sons | 1 | 2 | 73 |
 | Run With Me | Serenade | Sunwoojunga | 2 | 1 | 48 |
 | Cat (Feat. IU) | Cat | Sunwoojunga | 0 | 0 | 48 |
 | Cat (Feat. IU) | Cat | IU | 0 | 0 | 71 |
@@ -125,7 +133,7 @@
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 80 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 67 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 63 |
-| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 76 |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 77 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 77 |
 | Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 71 |
 | Open Shut Them | Twinkle Twinkle Little Star & More Kids Songs | Super Simple Songs | 0 | 0 | 74 |
@@ -139,7 +147,6 @@
 | 5th Season (SSFWL) | THE FIFTH SEASON | OH MY GIRL | 2 | 1 | 55 |
 | Shake Your Sillies Out | Yummy Yummy (Classic Wiggles) | The Wiggles | 0 | 0 | 70 |
 | Hot Potato | Yummy Yummy (Classic Wiggles) | The Wiggles | 0 | 0 | 70 |
-| Slide Away | Slide Away | Miley Cyrus | 2 | 1 | 84 |
 | Miku | Miku | Anamanaguchi | 0 | 0 | 52 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 46 |
 | Heartbeat | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) | SURAN | 0 | 0 | 53 |
@@ -169,9 +176,9 @@
 | Lose | Love Synonym #2 : Right for Us | WONHO | 0 | 0 | 45 |
 | Hello Song | Music Together Family Favorites | Music Together | 0 | 0 | 51 |
 | Octopus (Slippery Fish) | 10 Carrot Diamond | Charlotte Diamond | 0 | 0 | 43 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 61 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 62 |
 | Sofa Silahlane | Sofa Silahlane | Wanitwa Mos | 2 | 1 | 56 |
-| Sofa Silahlane | Sofa Silahlane | Nkosazana Daughter | 2 | 1 | 60 |
+| Sofa Silahlane | Sofa Silahlane | Nkosazana Daughter | 2 | 1 | 61 |
 | Sofa Silahlane | Sofa Silahlane | Master KG | 2 | 1 | 62 |
 | Sofa Silahlane | Sofa Silahlane | Lowsheen | 2 | 1 | 47 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 60 |

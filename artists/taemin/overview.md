@@ -16,10 +16,10 @@ TAEMIN:
 
 ## Artist Rank
 TAEMIN is currently:
-- The #10 artist of the last month
+- The #11 artist of the last month
 - The #17 artist of the last 6 months
 - The #28 artist of the last year
-- The #55 artist of all time
+- The #54 artist of all time
 
 ![Rank of TAEMIN over time](../../images/artists/taemin/rank_time_series.png)
 ## Top Tracks
@@ -43,14 +43,14 @@ TAEMIN is currently:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f2dff4b6f58682692c0b0beb" alt="" width="50" /> | 126 | 2 | 2 | ETERNAL | 2024-08-19 | [🔗](https://open.spotify.com/album/13M8K1l146FLdFoObJIVj9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739756c6519e249c1c7c060e60" alt="" width="50" /> | 241 | 2 | 1 | Never Gonna Dance Again : Act 1 - The 3rd Album | 2020-09-07 | [🔗](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f2dff4b6f58682692c0b0beb" alt="" width="50" /> | 124 | 2 | 2 | ETERNAL | 2024-08-19 | [🔗](https://open.spotify.com/album/13M8K1l146FLdFoObJIVj9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739756c6519e249c1c7c060e60" alt="" width="50" /> | 236 | 2 | 1 | Never Gonna Dance Again : Act 1 - The 3rd Album | 2020-09-07 | [🔗](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733aa2389906d8900db3b4a8ed" alt="" width="50" /> | 552 | 2 | 1 | Guilty - The 4th Mini Album | 2023-10-30 | [🔗](https://open.spotify.com/album/1lnDLQ5nH1V3ST8MuVGmQW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27362fad74218294c98e510c1c8" alt="" width="50" /> | 318 | 1 | 1 | MOVE - The 2nd Album | 2017-10-16 | [🔗](https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b041a6c21bf569fb424d930" alt="" width="50" /> | 394 | 1 | 1 | Advice - The 3rd Mini Album | 2021-05-18 | [🔗](https://open.spotify.com/album/0kNUDDHwjpemplDqSZ72Ct) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dbd5c6e6e365a3e70832780d" alt="" width="50" /> | 667 | 1 | 0 | さよならひとり | 2016-07-27 | [🔗](https://open.spotify.com/album/0VOMzswFy3fFsOb1tYs1Wd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273586377cdbf841e6f03da3e0c" alt="" width="50" /> | 667 | 1 | 0 | Press It - The 1st Album | 2016-02-23 | [🔗](https://open.spotify.com/album/3BPjJEl3GqXKDhYZf7iFfs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27305f89e348fddab49cf572dd9" alt="" width="50" /> | 667 | 1 | 0 | Never Gonna Dance Again : Act 2 - The 3rd Album | 2020-11-09 | [🔗](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362fad74218294c98e510c1c8" alt="" width="50" /> | 319 | 1 | 1 | MOVE - The 2nd Album | 2017-10-16 | [🔗](https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b041a6c21bf569fb424d930" alt="" width="50" /> | 395 | 1 | 1 | Advice - The 3rd Mini Album | 2021-05-18 | [🔗](https://open.spotify.com/album/0kNUDDHwjpemplDqSZ72Ct) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dbd5c6e6e365a3e70832780d" alt="" width="50" /> | 668 | 1 | 0 | さよならひとり | 2016-07-27 | [🔗](https://open.spotify.com/album/0VOMzswFy3fFsOb1tYs1Wd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273586377cdbf841e6f03da3e0c" alt="" width="50" /> | 668 | 1 | 0 | Press It - The 1st Album | 2016-02-23 | [🔗](https://open.spotify.com/album/3BPjJEl3GqXKDhYZf7iFfs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27305f89e348fddab49cf572dd9" alt="" width="50" /> | 668 | 1 | 0 | Never Gonna Dance Again : Act 2 - The 3rd Album | 2020-11-09 | [🔗](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -107,16 +107,16 @@ TAEMIN is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f2dff4b6f58682692c0b0beb" alt="" width="50" /> | Sexy In The Air | ETERNAL | [TAEMIN](overview.md) | BIGPLANETMADE | 175 | 💚 | [🔗](https://open.spotify.com/track/3wluV5HGCW1Dq1CYsjIdLu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f2dff4b6f58682692c0b0beb" alt="" width="50" /> | Sexy In The Air | ETERNAL | [TAEMIN](overview.md) | BIGPLANETMADE | 171 | 💚 | [🔗](https://open.spotify.com/track/3wluV5HGCW1Dq1CYsjIdLu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2dff4b6f58682692c0b0beb" alt="" width="50" /> | Crush | ETERNAL | [TAEMIN](overview.md) | BIGPLANETMADE | 269 | 💚 | [🔗](https://open.spotify.com/track/44h13LO85kPl04MrAKMA9j) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739756c6519e249c1c7c060e60" alt="" width="50" /> | Criminal | Never Gonna Dance Again : Act 1 - The 3rd Album | [TAEMIN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 337 | 💚 | [🔗](https://open.spotify.com/track/2KXEE2MsPZLmT38XiyAOpH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27362fad74218294c98e510c1c8" alt="" width="50" /> | MOVE | MOVE - The 2nd Album | [TAEMIN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 450 | 💚 | [🔗](https://open.spotify.com/track/1cgBWgoL6520lR2QZDzdGN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b041a6c21bf569fb424d930" alt="" width="50" /> | Advice | Advice - The 3rd Mini Album | [TAEMIN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 581 | 💚 | [🔗](https://open.spotify.com/track/4rOODw637hsmsq0uzT0DN3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733aa2389906d8900db3b4a8ed" alt="" width="50" /> | Guilty | Guilty - The 4th Mini Album | [TAEMIN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 833 | 💚 | [🔗](https://open.spotify.com/track/4jMwQaDiDICry8Ia1gFnAn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273586377cdbf841e6f03da3e0c" alt="" width="50" /> | Drip Drop | Press It - The 1st Album | [TAEMIN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1018 | | [🔗](https://open.spotify.com/track/7EYDRfuloB4kG28ECZkPZB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dbd5c6e6e365a3e70832780d" alt="" width="50" /> | さよならひとり | さよならひとり | [TAEMIN](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 1018 | | [🔗](https://open.spotify.com/track/4ltAvuYuC8PNKAStXiWouZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739756c6519e249c1c7c060e60" alt="" width="50" /> | Clockwork | Never Gonna Dance Again : Act 1 - The 3rd Album | [TAEMIN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1018 | | [🔗](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27305f89e348fddab49cf572dd9" alt="" width="50" /> | Heaven | Never Gonna Dance Again : Act 2 - The 3rd Album | [TAEMIN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1018 | | [🔗](https://open.spotify.com/track/2hjaiDsLLBlY68XrgjZk7F) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739756c6519e249c1c7c060e60" alt="" width="50" /> | Criminal | Never Gonna Dance Again : Act 1 - The 3rd Album | [TAEMIN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 329 | 💚 | [🔗](https://open.spotify.com/track/2KXEE2MsPZLmT38XiyAOpH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27362fad74218294c98e510c1c8" alt="" width="50" /> | MOVE | MOVE - The 2nd Album | [TAEMIN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 451 | 💚 | [🔗](https://open.spotify.com/track/1cgBWgoL6520lR2QZDzdGN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b041a6c21bf569fb424d930" alt="" width="50" /> | Advice | Advice - The 3rd Mini Album | [TAEMIN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 582 | 💚 | [🔗](https://open.spotify.com/track/4rOODw637hsmsq0uzT0DN3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733aa2389906d8900db3b4a8ed" alt="" width="50" /> | Guilty | Guilty - The 4th Mini Album | [TAEMIN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 836 | 💚 | [🔗](https://open.spotify.com/track/4jMwQaDiDICry8Ia1gFnAn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273586377cdbf841e6f03da3e0c" alt="" width="50" /> | Drip Drop | Press It - The 1st Album | [TAEMIN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1021 | | [🔗](https://open.spotify.com/track/7EYDRfuloB4kG28ECZkPZB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dbd5c6e6e365a3e70832780d" alt="" width="50" /> | さよならひとり | さよならひとり | [TAEMIN](overview.md) | [Universal Music LLC](../../labels/universal_music_llc) | 1021 | | [🔗](https://open.spotify.com/track/4ltAvuYuC8PNKAStXiWouZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739756c6519e249c1c7c060e60" alt="" width="50" /> | Clockwork | Never Gonna Dance Again : Act 1 - The 3rd Album | [TAEMIN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1021 | | [🔗](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27305f89e348fddab49cf572dd9" alt="" width="50" /> | Heaven | Never Gonna Dance Again : Act 2 - The 3rd Album | [TAEMIN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1021 | | [🔗](https://open.spotify.com/track/2hjaiDsLLBlY68XrgjZk7F) |
 
 
 <details>
@@ -124,7 +124,7 @@ TAEMIN is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733aa2389906d8900db3b4a8ed" alt="" width="50" /> | Night Away | Guilty - The 4th Mini Album | [TAEMIN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1018 | | [🔗](https://open.spotify.com/track/0zjkBOwL8upqIOmufTO6tT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733aa2389906d8900db3b4a8ed" alt="" width="50" /> | Night Away | Guilty - The 4th Mini Album | [TAEMIN](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1021 | | [🔗](https://open.spotify.com/track/0zjkBOwL8upqIOmufTO6tT) |
 
 </details>
 
