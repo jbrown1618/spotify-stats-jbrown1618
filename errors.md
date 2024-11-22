@@ -22,10 +22,6 @@
 
 | track_name | album_name | artist_name | track_popularity | album_popularity | artist_popularity |
 |:---|:---|:---|---:|---:|---:|
-| Hot Mess | Letter To Myself - The 6th Mini Album | TAEYEON | 0 | 0 | 66 |
-| Letter To Myself | Letter To Myself - The 6th Mini Album | TAEYEON | 0 | 0 | 66 |
-| Blue Eyes | Letter To Myself - The 6th Mini Album | TAEYEON | 0 | 0 | 66 |
-| Blur | Letter To Myself - The 6th Mini Album | TAEYEON | 0 | 0 | 66 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 87 |
 | The Goldfish | The Best of The Laurie Berkner Band | The Laurie Berkner Band | 0 | 0 | 59 |
 | We Are The Dinosaurs | The Best of The Laurie Berkner Band | The Laurie Berkner Band | 0 | 0 | 59 |
@@ -54,28 +50,26 @@
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 60 |
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 68 |
 | Lone Digger | <|º_º|> | Caravan Palace | 2 | 2 | 62 |
-| BODY | TOXIC | MEOVV | 0 | 0 | 62 |
-| TOXIC | TOXIC | MEOVV | 0 | 0 | 62 |
-| We're Going to the Zoo | Kids Animal Songs | Love to Sing | 0 | 0 | 44 |
-| This Is the Way the Lady Rides | Kids Animal Songs | Love to Sing | 0 | 0 | 44 |
-| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | Jin | 0 | 0 | 83 |
-| Wings | Wings | PIXY | 0 | 0 | 38 |
+| We're Going to the Zoo | Kids Animal Songs | Love to Sing | 0 | 0 | 45 |
+| This Is the Way the Lady Rides | Kids Animal Songs | Love to Sing | 0 | 0 | 45 |
+| Yours | Jirisan (Original Television Soundtrack) Pt. 4 | Jin | 0 | 0 | 85 |
+| Wings | Wings | PIXY | 0 | 0 | 37 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 40 |
 | Agua De Beber | Sophie Milman | Sophie Milman | 0 | 0 | 40 |
 | Beautiful Love | Take Love Easy | Sophie Milman | 0 | 0 | 40 |
 | I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 40 |
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 40 |
-| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 68 |
+| Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 69 |
 | Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 35 |
 | 5 Little Speckled Frogs | 5 Little Speckled Frogs | Little Baby Bum Nursery Rhyme Friends | 0 | 0 | 62 |
 | The Trooper - 2015 Remaster | Piece of Mind (2015 - Remaster) | Iron Maiden | 2 | 1 | 75 |
 | Drink It | Drink It | THE BOYZ | 0 | 0 | 62 |
-| Good Vibrations | Vocal Spectrum II | Vocal Spectrum | 0 | 0 | 26 |
-| I Wanna Be Like You | Vocal Spectrum II | Vocal Spectrum | 0 | 0 | 26 |
-| Bring Him Home | Vocal Spectrum | Vocal Spectrum | 0 | 0 | 26 |
-| Aladdin Medley | Vocal Spectrum III | Vocal Spectrum | 0 | 0 | 26 |
-| When I See An Elephant Fly | Vocal Spectrum III | Vocal Spectrum | 0 | 0 | 26 |
-| The Music of the Night | Vocal Spectrum V | Vocal Spectrum | 0 | 0 | 26 |
+| Good Vibrations | Vocal Spectrum II | Vocal Spectrum | 0 | 0 | 27 |
+| I Wanna Be Like You | Vocal Spectrum II | Vocal Spectrum | 0 | 0 | 27 |
+| Bring Him Home | Vocal Spectrum | Vocal Spectrum | 0 | 0 | 27 |
+| Aladdin Medley | Vocal Spectrum III | Vocal Spectrum | 0 | 0 | 27 |
+| When I See An Elephant Fly | Vocal Spectrum III | Vocal Spectrum | 0 | 0 | 27 |
+| The Music of the Night | Vocal Spectrum V | Vocal Spectrum | 0 | 0 | 27 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 50 |
 | Think About Things | Think About Things | Daði Freyr | 1 | 0 | 50 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 50 |
@@ -122,10 +116,10 @@
 | Just Right | Just Right | GOT7 | 0 | 0 | 60 |
 | If You Do | MAD | GOT7 | 0 | 0 | 60 |
 | You Calling My Name | Call My Name | GOT7 | 0 | 0 | 60 |
-| Here We Go 'Round the Mulberry Bush | Let's Go Camping: Essential Adventure and Nature Songs for Kids | The Countdown Kids | 0 | 0 | 57 |
-| Five Little Monkeys | 150 All Time Children's Favorites | The Countdown Kids | 0 | 0 | 57 |
-| The Wheels on the Bus Go Round and Round | 150 All Time Children's Favorites | The Countdown Kids | 0 | 0 | 57 |
-| Shake Break | Pancake Manor | Pancake Manor | 0 | 0 | 41 |
+| Here We Go 'Round the Mulberry Bush | Let's Go Camping: Essential Adventure and Nature Songs for Kids | The Countdown Kids | 0 | 0 | 58 |
+| Five Little Monkeys | 150 All Time Children's Favorites | The Countdown Kids | 0 | 0 | 58 |
+| The Wheels on the Bus Go Round and Round | 150 All Time Children's Favorites | The Countdown Kids | 0 | 0 | 58 |
+| Shake Break | Pancake Manor | Pancake Manor | 0 | 0 | 40 |
 | Flowers - Cover | Flowers (Cover) | YUQI | 0 | 0 | 59 |
 | Hokey Pokey | Hip Hip Hooray! | Play School | 0 | 0 | 54 |
 | Poison | Alice in Wonderland | PinkFantasy | 0 | 0 | 28 |
@@ -147,6 +141,7 @@
 | 5th Season (SSFWL) | THE FIFTH SEASON | OH MY GIRL | 2 | 1 | 55 |
 | Shake Your Sillies Out | Yummy Yummy (Classic Wiggles) | The Wiggles | 0 | 0 | 70 |
 | Hot Potato | Yummy Yummy (Classic Wiggles) | The Wiggles | 0 | 0 | 70 |
+| Slide Away | Slide Away | Miley Cyrus | 2 | 1 | 84 |
 | Miku | Miku | Anamanaguchi | 0 | 0 | 52 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 46 |
 | Heartbeat | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) | SURAN | 0 | 0 | 53 |
@@ -154,8 +149,6 @@
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 50 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 78 |
-| Melawan Restu | fábula | Mahalini | 0 | 2 | 76 |
-| Sisa Rasa | fábula | Mahalini | 0 | 2 | 76 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 69 |
 | When We Disco | When We Disco | J.Y. Park | 0 | 0 | 46 |
 | Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 46 |
@@ -163,7 +156,7 @@
 | Who's Your Mama? | 24/34 | Jessi | 0 | 0 | 58 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 72 |
 | My House | No.5 | 2PM | 0 | 0 | 53 |
-| Walking in the Air | The Snowman | Peter Auty | 0 | 0 | 26 |
+| Walking in the Air | The Snowman | Peter Auty | 0 | 0 | 27 |
 | Still Alive | Portal 2: Songs to Test By (Collectors Edition) | Aperture Science Psychoacoustic Laboratories | 0 | 0 | 48 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 47 |
 | Watermelon | Little Day Out | Justine Clarke | 0 | 0 | 39 |
@@ -176,9 +169,9 @@
 | Lose | Love Synonym #2 : Right for Us | WONHO | 0 | 0 | 45 |
 | Hello Song | Music Together Family Favorites | Music Together | 0 | 0 | 51 |
 | Octopus (Slippery Fish) | 10 Carrot Diamond | Charlotte Diamond | 0 | 0 | 43 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 62 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 64 |
 | Sofa Silahlane | Sofa Silahlane | Wanitwa Mos | 2 | 1 | 56 |
-| Sofa Silahlane | Sofa Silahlane | Nkosazana Daughter | 2 | 1 | 61 |
+| Sofa Silahlane | Sofa Silahlane | Nkosazana Daughter | 2 | 1 | 60 |
 | Sofa Silahlane | Sofa Silahlane | Master KG | 2 | 1 | 62 |
 | Sofa Silahlane | Sofa Silahlane | Lowsheen | 2 | 1 | 47 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 60 |
