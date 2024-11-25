@@ -32,7 +32,7 @@
 | Ben Baptie | Ben Baptie | 1 |
 | E. Kidd Bogart | E. Kidd Bogart | 1 |
 | Brent Kutzle | Brent Kutzle | 1 |
-| Kuk Harrell | Kuk Harrell | 1 |
+| Kuk Harrell | [Kuk Harrell](../kuk_harrell/overview.md) | 1 |
 
 
 <details>

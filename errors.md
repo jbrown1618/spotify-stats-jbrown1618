@@ -5,9 +5,9 @@
 | Track | Track Popularity | Release Date | Artists | Album | Album Popularity | Playlists | Label | 💚 |
 |:---|---:|:---|:---|:---|---:|:---|:---|:---|
 | Coming Home Song [🔗](https://open.spotify.com/track/3RhLH5ROodko8Se1kRpjJ1) | 17 | 2024-04-12 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | I Get It Now [🔗](https://open.spotify.com/album/5zZHAGHasjwkR9B1xX3Xq6) | 28 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI),<br>Singer-Songwriter [🔗](https://open.spotify.com/playlist/3aNr3GFiAvm1utXDyFOpAR) | Nettwerk Music Group | |
-| Coming Home Song [🔗](https://open.spotify.com/track/4XeCHgZ6vhNwFFaV1zR8oS) | 47 | 2024-09-20 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | Something for Everybody [🔗](https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma) | 57 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
+| Coming Home Song [🔗](https://open.spotify.com/track/4XeCHgZ6vhNwFFaV1zR8oS) | 47 | 2024-09-20 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | Something for Everybody [🔗](https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma) | 56 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
 | Thieves [🔗](https://open.spotify.com/track/5v4JBxzAfArnWg3n3MhRRl) | 16 | 2024-04-12 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | I Get It Now [🔗](https://open.spotify.com/album/5zZHAGHasjwkR9B1xX3Xq6) | 28 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
-| Thieves [🔗](https://open.spotify.com/track/1w74CVsaIhyxbW3LvYdB9s) | 42 | 2024-09-20 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | Something for Everybody [🔗](https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma) | 57 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
+| Thieves [🔗](https://open.spotify.com/track/1w74CVsaIhyxbW3LvYdB9s) | 42 | 2024-09-20 | Sammy Rae & The Friends [🔗](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | Something for Everybody [🔗](https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma) | 56 | Alt-Pop [🔗](https://open.spotify.com/playlist/4DgMab6SK9pnl6P05fw2YI) | Nettwerk Music Group | 💚 |
 
 ## Duplicate albums
 
@@ -26,16 +26,16 @@
 | The Goldfish | The Best of The Laurie Berkner Band | The Laurie Berkner Band | 0 | 0 | 59 |
 | We Are The Dinosaurs | The Best of The Laurie Berkner Band | The Laurie Berkner Band | 0 | 0 | 59 |
 | Bumblebee (Buzz Buzz) | The Best of The Laurie Berkner Band | The Laurie Berkner Band | 0 | 0 | 59 |
-| Moonlight | D-2 | Agust D | 0 | 2 | 77 |
-| Daechwita | D-2 | Agust D | 1 | 2 | 77 |
-| Burn It (feat. MAX) | D-2 | Agust D | 0 | 2 | 77 |
-| People | D-2 | Agust D | 1 | 2 | 77 |
-| Strange (feat. RM) | D-2 | Agust D | 0 | 2 | 77 |
+| Moonlight | D-2 | Agust D | 0 | 2 | 76 |
+| Daechwita | D-2 | Agust D | 1 | 2 | 76 |
+| Burn It (feat. MAX) | D-2 | Agust D | 0 | 2 | 76 |
+| People | D-2 | Agust D | 1 | 2 | 76 |
+| Strange (feat. RM) | D-2 | Agust D | 0 | 2 | 76 |
 | Burn It (feat. MAX) | D-2 | MAX | 0 | 2 | 68 |
-| Strange (feat. RM) | D-2 | RM | 0 | 2 | 77 |
+| Strange (feat. RM) | D-2 | RM | 0 | 2 | 76 |
 | Chasing Pavements | 19 | Adele | 0 | 0 | 87 |
 | Love Rain (Feat. SURAN) | Love Rain | YUJU | 1 | 0 | 46 |
-| Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 80 |
+| Something In The Way You Move | Delirium | Ellie Goulding | 0 | 0 | 81 |
 | Sleep-walking | Prequel | Dreamcatcher | 0 | 1 | 61 |
 | Tiptoe, Gallop or March | Adventures in Pre-School Dance, Vol. 1 | Andrew Holdsworth | 0 | 0 | 56 |
 | Loch Lomond | Legendary Folk Songs | David Archuleta | 0 | 0 | 55 |
@@ -50,8 +50,8 @@
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 60 |
 | Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 68 |
 | Lone Digger | <|º_º|> | Caravan Palace | 2 | 2 | 62 |
-| We're Going to the Zoo | Kids Animal Songs | Love to Sing | 0 | 0 | 45 |
-| This Is the Way the Lady Rides | Kids Animal Songs | Love to Sing | 0 | 0 | 45 |
+| We're Going to the Zoo | Kids Animal Songs | Love to Sing | 0 | 0 | 46 |
+| This Is the Way the Lady Rides | Kids Animal Songs | Love to Sing | 0 | 0 | 46 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | Jin | 0 | 0 | 85 |
 | Wings | Wings | PIXY | 0 | 0 | 37 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 40 |
@@ -83,7 +83,7 @@
 | RED | RED | The Rose | 0 | 0 | 63 |
 | She′s In The Rain | Dawn | The Rose | 0 | 0 | 63 |
 | Sorry | Sorry | The Rose | 0 | 0 | 63 |
-| Clean Up | Start Singing With Barney | Barney | 0 | 0 | 53 |
+| Clean Up | Start Singing With Barney | Barney | 0 | 0 | 54 |
 | Pokerap | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 55 |
 | Pokemon Theme | Pokemon X - Ten Years Of Pokemon | Pokémon | 0 | 0 | 55 |
 | Sneaky Snitch | Sneaky Snitch | Kevin MacLeod | 0 | 0 | 55 |
@@ -109,6 +109,7 @@
 | The Phantom Of The Opera | Century Child | Nightwish | 1 | 1 | 68 |
 | End Of All Hope | Century Child | Nightwish | 0 | 1 | 68 |
 | Nemo | Once | Nightwish | 0 | 0 | 68 |
+| Waves | Waves | Melt | 2 | 1 | 46 |
 | Ya! (feat. Whee In) | Stay As You Are | Whee In | 0 | 0 | 50 |
 | Ya! (feat. Whee In) | Stay As You Are | Sandeul | 0 | 0 | 43 |
 | Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 0 | 0 | 60 |
@@ -127,11 +128,11 @@
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 80 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 67 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 63 |
-| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 77 |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 78 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 77 |
 | Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 71 |
 | Open Shut Them | Twinkle Twinkle Little Star & More Kids Songs | Super Simple Songs | 0 | 0 | 74 |
-| One Little Finger | The Bath Song & More Kids Songs | Super Simple Songs | 2 | 1 | 74 |
+| One Little Finger | The Bath Song & More Kids Songs | Super Simple Songs | 1 | 1 | 74 |
 | The Ants Go Marching | Nursery Rhymes | Super Simple Songs | 0 | 0 | 74 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 73 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 79 |
@@ -148,15 +149,15 @@
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 53 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 50 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
-| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 78 |
+| I Don’t Wanna Live Forever (Fifty Shades Darker) - From "Fifty Shades Darker (Original Motion Picture Soundtrack)" | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 79 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 69 |
-| When We Disco | When We Disco | J.Y. Park | 0 | 0 | 46 |
-| Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 46 |
+| When We Disco | When We Disco | J.Y. Park | 0 | 0 | 47 |
+| Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 47 |
 | When We Disco | When We Disco | SUNMI | 0 | 0 | 57 |
 | Who's Your Mama? | 24/34 | Jessi | 0 | 0 | 58 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 72 |
 | My House | No.5 | 2PM | 0 | 0 | 53 |
-| Walking in the Air | The Snowman | Peter Auty | 0 | 0 | 27 |
+| Walking in the Air | The Snowman | Peter Auty | 0 | 0 | 28 |
 | Still Alive | Portal 2: Songs to Test By (Collectors Edition) | Aperture Science Psychoacoustic Laboratories | 0 | 0 | 48 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 47 |
 | Watermelon | Little Day Out | Justine Clarke | 0 | 0 | 39 |
@@ -166,10 +167,10 @@
 | Somebody That I Used To Know | Aussie Legends | Kimbra | 0 | 0 | 72 |
 | 醒不来的梦 | 醒不来的梦 | 拾贰 | 0 | 0 | 25 |
 | Call Me Mother | American | RuPaul | 0 | 0 | 56 |
-| Lose | Love Synonym #2 : Right for Us | WONHO | 0 | 0 | 45 |
+| Lose | Love Synonym #2 : Right for Us | WONHO | 0 | 0 | 46 |
 | Hello Song | Music Together Family Favorites | Music Together | 0 | 0 | 51 |
 | Octopus (Slippery Fish) | 10 Carrot Diamond | Charlotte Diamond | 0 | 0 | 43 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 64 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 65 |
 | Sofa Silahlane | Sofa Silahlane | Wanitwa Mos | 2 | 1 | 56 |
 | Sofa Silahlane | Sofa Silahlane | Nkosazana Daughter | 2 | 1 | 60 |
 | Sofa Silahlane | Sofa Silahlane | Master KG | 2 | 1 | 62 |

@@ -7,7 +7,7 @@
 | Arranger | 14 |
 | Instrument | 2 |
 | Lyricist | 24 |
-| Producer | 15 |
+| Producer | 16 |
 | Songwriter | 27 |
 
 ## Produces for Artists
@@ -16,8 +16,8 @@
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 5 | 22 | 21 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | 176 | 3 | 3 | BIGBANG | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb727a1f1f508238a20ac9fdbf" alt="" width="50" /> | 134 | 3 | 3 | ROSÉ | [🔗](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcd3114c3d3dc89d5ec1c9145" alt="" width="50" /> | 68 | 3 | 3 | 2NE1 | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb727a1f1f508238a20ac9fdbf" alt="" width="50" /> | 136 | 2 | 2 | ROSÉ | [🔗](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebced85d5f223e7301022a8599" alt="" width="50" /> | 44 | 1 | 1 | [SUNMI](../../artists/sunmi/overview.md) | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | 89 | 1 | 1 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb426faee7010fa829bb527cfb" alt="" width="50" /> | 154 | 1 | 0 | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
@@ -34,8 +34,8 @@
 | Josh Gudwin | [Josh Gudwin](../josh_gudwin/overview.md) | 7 |
 | Jason Roberts | Jason Roberts | 7 |
 | Jason Robert | Jason Robert | 6 |
-| FUTURE BOUNCE | FUTURE BOUNCE | 4 |
 | Brian Lee | Brian Lee | 4 |
+| FUTURE BOUNCE | FUTURE BOUNCE | 4 |
 
 
 <details>
@@ -43,30 +43,35 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| 최용인 | 최용인 (Choi, Yon-gin) | 4 |
+| ROSÉ | ROSÉ (ROSÉ) | 4 |
 | Vince | Vince | 4 |
+| 최용인 | 최용인 (Choi, Yon-gin) | 4 |
 | G-Dragon | G-Dragon | 3 |
-| ROSÉ | ROSÉ (ROSÉ) | 3 |
-| IDO | IDO | 2 |
+| Amy Allen | Amy Allen | 2 |
 | KUSH | KUSH | 2 |
-| T.O.P | T.O.P | 2 |
-| 이경준 | 이경준 (Lee, Kyung-Joon) | 2 |
 | LØREN | LØREN (LOREN) | 2 |
+| IDO | IDO | 2 |
+| 이경준 | 이경준 (Lee, Kyung-Joon) | 2 |
+| T.O.P | T.O.P | 2 |
 | JISOO | JISOO | 2 |
 | Choice37 | Choice37 | 2 |
 | Raul Cubina | Raul Cubina | 1 |
-| YONGJU BANG | YONGJU BANG | 1 |
-| 한재응 | 한재응 (Han, Jae-Eung) | 1 |
+| Dominsuk | Dominsuk | 1 |
+| Sir Dylan | Sir Dylan | 1 |
 | Brother Su | Brother Su | 1 |
+| Bruno Mars | [Bruno Mars](../bruno_mars/overview.md) | 1 |
 | Ruffsound | Ruffsound | 1 |
-| Jon Bellion | Jon Bellion | 1 |
+| Carter Lang | Carter Lang | 1 |
 | Teddy Sinclair | Teddy Sinclair | 1 |
 | SUNNY BOY | SUNNY BOY | 1 |
+| Ben Hogarth | Ben Hogarth | 1 |
 | NOHC | NOHC | 1 |
 | Willy Moon | Willy Moon | 1 |
-| Dominsuk | Dominsuk | 1 |
-| David Guetta | David Guetta | 1 |
+| YONGJU BANG | YONGJU BANG | 1 |
+| Omer Fedi | Omer Fedi | 1 |
+| Jon Bellion | Jon Bellion | 1 |
 | Alex Oriet | Alex Oriet | 1 |
+| Serban Ghenea | [Serban Ghenea](../serban_ghenea/overview.md) | 1 |
 | KNY Factory | KNY Factory | 1 |
 | TAEYANG | TAEYANG | 1 |
 | Steph Jones | Steph Jones | 1 |
@@ -75,29 +80,33 @@
 | Jose Balaguer | Jose Balaguer | 1 |
 | Sean Callery | Sean Callery | 1 |
 | Tushar Apte | Tushar Apte | 1 |
+| 한재응 | 한재응 (Han, Jae-Eung) | 1 |
 | Lydia Paek | Lydia Paek | 1 |
-| Bianca Atterberry | Bianca Atterberry | 1 |
-| Amy Allen | Amy Allen | 1 |
-| 신성권 | 신성권 (Shin, Sung-Kwon) | 1 |
-| Leah Haywood | Leah Haywood | 1 |
 | Soké | Soké (Soké) | 1 |
+| David Guetta | David Guetta | 1 |
+| Leah Haywood | Leah Haywood | 1 |
+| 양현석 | 양현석 (Yang, Hyun Suk) | 1 |
+| D'Mile | D'Mile | 1 |
 | Soraya LaPread | Soraya LaPread | 1 |
 | Chelcee Grimes | Chelcee Grimes | 1 |
-| 양현석 | 양현석 (Yang, Hyun Suk) | 1 |
 | Ojivolta | Ojivolta | 1 |
 | Dua Lipa | Dua Lipa | 1 |
 | Jorgen Odegard | Jorgen Odegard | 1 |
 | SUNMI | SUNMI | 1 |
 | JENNIE | JENNIE | 1 |
 | VVN | VVN | 1 |
-| Nat Dunn | Nat Dunn | 1 |
 | Paro | Paro | 1 |
+| Nat Dunn | Nat Dunn | 1 |
 | Billboard | Billboard | 1 |
+| Chloe George | Chloe George | 1 |
 | J. Lauryn | J. Lauryn | 1 |
 | Rob Grimaldi | Rob Grimaldi | 1 |
+| Kuk Harrell | [Kuk Harrell](../kuk_harrell/overview.md) | 1 |
 | Max Wolfgang | Max Wolfgang | 1 |
+| Jelli Dorman | Jelli Dorman | 1 |
 | David Phelan | David Phelan | 1 |
-| Chloe George | Chloe George | 1 |
+| 신성권 | 신성권 (Shin, Sung-Kwon) | 1 |
+| Bianca Atterberry | Bianca Atterberry | 1 |
 | Freddy Wexler | Freddy Wexler | 1 |
 
 </details>
@@ -139,3 +148,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Hard to Love | Lyricist, Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Yeah Yeah Yeah | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Pink Venom | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f0382a125bb499dff48fc9fe" alt="" width="50" /> | number one girl | Producer |

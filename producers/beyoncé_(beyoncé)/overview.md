@@ -50,7 +50,7 @@
 | Raphael Saadiq | Raphael Saadiq | 1 |
 | Michael Bivins | Michael Bivins | 1 |
 | Richard "P2J" Isong | Richard "P2J" Isong | 1 |
-| Kuk Harrell | Kuk Harrell | 1 |
+| Kuk Harrell | [Kuk Harrell](../kuk_harrell/overview.md) | 1 |
 | Robert Waller | Robert Waller | 1 |
 | Hit-Boy | Hit-Boy | 1 |
 | Pat Thrall | Pat Thrall | 1 |
