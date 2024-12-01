@@ -46,6 +46,7 @@ tag,artist_mbid,mb_tag
 ,10a9ff92-9637-4498-afea-7044b2ab0dc0,2008 universal fire victim
 ,16af2a0a-578e-44f4-b109-7e2fb4b83d6e,2008 universal fire victim
 ,1fda852b-92e9-4562-82fa-c52820a77b23,2008 universal fire victim
+,26358fa2-80c2-47b0-a08b-33817caca7e8,2008 universal fire victim
 ,2882ffa3-dec9-4055-a842-a950728bcb02,2008 universal fire victim
 ,2a760856-7bf1-4f65-a2d0-225e77085fcc,2008 universal fire victim
 ,2d33fef2-f1c4-4123-af0e-12fd690b3687,2008 universal fire victim
@@ -157,6 +158,7 @@ tag,artist_mbid,mb_tag
 ,c8b03190-306c-4120-bb0b-6f2ebfc06ea9,2020s
 ,cecc42fb-9657-4b54-ad2f-7b73eefaef12,2020s
 ,e0140a67-e4d1-4f13-8a01-364355bee46e,2020s
+,e134b52f-2e9e-4734-9bc3-bea9648d1fa1,2020s
 ,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,2020s
 ,f9133869-f87c-459c-9aa7-2f176cda7e06,2020s
 ,a704bc81-1d32-4b21-a1fd-ffaa6a1d86e1,27 club
@@ -234,6 +236,7 @@ tag,artist_mbid,mb_tag
 ,0ab49580-c84f-44d4-875f-d83760ea2cfe,adult contemporary
 ,0be325a6-3c6d-4e3a-97ed-e59539b1014f,adult contemporary
 ,18a33653-bbaf-4aa7-884c-73f02a7a4515,adult contemporary
+,26358fa2-80c2-47b0-a08b-33817caca7e8,adult contemporary
 ,3f5be744-e867-42fb-8913-5fd69e4099b5,adult contemporary
 ,82eb8936-7bf6-4577-8320-a2639465206d,adult contemporary
 ,900ab237-327b-44e2-87e4-73250bbe025a,adult contemporary
@@ -370,6 +373,7 @@ tag,artist_mbid,mb_tag
 ,c44e9c22-ef82-4a77-9bcd-af6c958446d6,alternative rock
 ,c5ce487b-0462-444e-a184-4de0fef7e028,alternative rock
 ,cc197bad-dc9c-440d-a5b5-d52ba2e14234,alternative rock
+,e134b52f-2e9e-4734-9bc3-bea9648d1fa1,alternative rock
 ,e42680f7-e439-4666-9c2c-536c2b3c6db3,alternative rock
 ,e8c8a3c3-29b6-421e-b977-fb6796231d41,alternative rock
 ,ee0c82bb-85ca-4a3c-94b8-d7221e74333f,alternative rock
@@ -1458,6 +1462,7 @@ tag,artist_mbid,mb_tag
 ,1d2c24a6-9ae6-460b-a65e-63671c9fbdd9,dance-pop
 ,1fda852b-92e9-4562-82fa-c52820a77b23,dance-pop
 ,260b6184-8828-48eb-945c-bc4cb6fc34ca,dance-pop
+,26358fa2-80c2-47b0-a08b-33817caca7e8,dance-pop
 ,2f548675-008d-4332-876c-108b0c7ab9c5,dance-pop
 ,2f569e60-0a1b-4fb9-95a4-3dc1525d1aad,dance-pop
 ,302bd7b9-d012-4360-897a-93b00c855680,dance-pop
@@ -1569,6 +1574,7 @@ tag,artist_mbid,mb_tag
 ,29eead4d-3793-4625-8727-c03edbb38b8b,dirty south hip hop
 ,122d63fc-8671-43e4-9752-34e846d62a9c,disco
 ,20ff3303-4fe2-4a47-a1b6-291e26aa3438,disco
+,26358fa2-80c2-47b0-a08b-33817caca7e8,disco
 ,38dd6337-19ae-4793-ab4b-313eff523457,disco
 ,3d2ac089-fdc8-4381-a4b5-fcdc7fc36590,disco
 ,4d2956d1-a3f7-44bb-9a41-67563e1a0c94,disco
@@ -1677,6 +1683,7 @@ tag,artist_mbid,mb_tag
 ,a97f393a-13a7-4645-8bba-f10bd22d7228,edm
 ,d2582c77-6b0f-4b2f-802f-8f3cad1a5fec,edm
 ,d2a76e1b-cecc-4500-b445-d55591821cd3,edm
+,e134b52f-2e9e-4734-9bc3-bea9648d1fa1,edm
 ,eb0fbe2c-6eb7-40bc-900b-3e056c158125,edm
 ,9a6adb63-10a9-417a-8cd9-3b0fcf5475c5,electric blues
 ,bd13909f-1c29-4c27-a874-d4aaf27c5b1a,electric blues
@@ -2915,6 +2922,7 @@ tag,artist_mbid,mb_tag
 ,bbc5b66b-d037-4f26-aecf-0b129e7f876a,indie rock
 ,c5ce487b-0462-444e-a184-4de0fef7e028,indie rock
 ,cc197bad-dc9c-440d-a5b5-d52ba2e14234,indie rock
+,e134b52f-2e9e-4734-9bc3-bea9648d1fa1,indie rock
 ,eaf6a7ca-105d-4a94-ba02-8c3e4040319a,indie rock
 ,ee0c82bb-85ca-4a3c-94b8-d7221e74333f,indie rock
 ,ee953029-6de8-4c50-8d0f-215a1e4e8dd6,indie rock
@@ -3011,6 +3019,7 @@ tag,artist_mbid,mb_tag
 ,e32f2cd6-8695-4914-9c24-72e02ebd09ee,italo-disco
 ,8261d96e-0d43-407a-a949-3d763ebff931,italy
 ,27e2997f-f7a1-4353-bcc4-57b9274fa9a4,j-metal
+,114b26ff-a1fe-41f3-9df8-5c093afe9c56,j-pop
 ,12a43a61-e31a-4cac-92a6-c95ce9cdfe3c,j-pop
 ,14d2a235-30e2-489f-b490-f9dc7d2c0861,j-pop
 ,1bb206d8-316d-4bce-9731-e56cef40df58,j-pop
@@ -3037,6 +3046,7 @@ tag,artist_mbid,mb_tag
 ,be547bca-8718-4762-bf1b-34a3bdb4938f,j-pop
 ,c3a4aeca-8f02-4d22-b1ff-693434ab09a8,j-pop
 ,df6c619f-4334-43e2-8b6a-4a32af1e4f85,j-pop
+,e134b52f-2e9e-4734-9bc3-bea9648d1fa1,j-pop
 ,e148e786-f078-49e2-a9fb-fd044bd68905,j-pop
 ,ff6952ab-7e93-4c6e-9248-ab1aa29ea852,j-pop
 ,12a43a61-e31a-4cac-92a6-c95ce9cdfe3c,j-rock
@@ -3051,8 +3061,10 @@ tag,artist_mbid,mb_tag
 ,f7fda030-0ba1-42e9-a385-3deebc939bc9,jam band
 ,6be2828f-6c0d-4059-99d4-fa18acf1a296,janet jackson escapade
 ,6be2828f-6c0d-4059-99d4-fa18acf1a296,janet-jackson
+,114b26ff-a1fe-41f3-9df8-5c093afe9c56,japan
 ,92465dcb-b0c4-4401-bbd8-634693165b81,japan
 ,a7f7df4a-77d8-4f12-8acd-5c60c93f4de8,japan
+,114b26ff-a1fe-41f3-9df8-5c093afe9c56,japanese
 ,2c6c53ea-09d4-4d98-b174-c9aa83d4fecf,japanese
 ,62bc7b78-0b20-4055-9791-9f051006b364,japanese
 ,a16d1433-ba89-4f72-a47b-a370add0bb55,japanese
@@ -3347,6 +3359,7 @@ tag,artist_mbid,mb_tag
 ,332a08b3-c1a3-49cf-8b96-e373a914590e,k-pop
 ,35f3e736-e27b-4a26-892c-c00179d163d5,k-pop
 ,37fa0bfd-8bf7-422c-a97a-f8deda49b3a4,k-pop
+,3bb51beb-4396-46fa-b932-c079fba8cc3c,k-pop
 ,3bd894b2-ec26-4ca0-b6cf-b5e66ead1f2e,k-pop
 ,3ee9d430-5c76-4947-83bf-ebb5a9e3419c,k-pop
 ,40017bd7-139b-4998-8688-9b2478ad3325,k-pop
@@ -3672,6 +3685,7 @@ tag,artist_mbid,mb_tag
 ,eeb1195b-f213-4ce1-b28c-8565211f8e43,metal
 ,f4a31f0a-51dd-4fa7-986d-3095c40c5ed9,metal
 ,f7fda030-0ba1-42e9-a385-3deebc939bc9,mexican
+,26358fa2-80c2-47b0-a08b-33817caca7e8,mezzo-soprano
 ,b071f9fa-14b0-4217-8e97-eb41da73f598,mick jagger
 ,0b0c25f4-f31c-46a5-a4fb-ccbf53d663bd,microhouse
 ,05cbaf37-6dc2-4f71-a0ce-d633447d90c3,mid-tempo
@@ -3919,6 +3933,7 @@ tag,artist_mbid,mb_tag
 ,0d79fe8e-ba27-4859-bb8c-2f255f346853,pop
 ,0faaba05-d9b3-4bde-85d1-bbbbcb838ece,pop
 ,1036b808-f58c-4a3e-b461-a2c4492ecf1b,pop
+,114b26ff-a1fe-41f3-9df8-5c093afe9c56,pop
 ,122d63fc-8671-43e4-9752-34e846d62a9c,pop
 ,134e6410-6954-45d1-bd4a-0f2d2ad5471d,pop
 ,14102906-da3c-469c-96b0-3e9ca2bf48de,pop
@@ -3944,6 +3959,7 @@ tag,artist_mbid,mb_tag
 ,257b03c5-85b7-4ce9-84b4-6e24aa888205,pop
 ,25f3abd9-63b5-471a-bd25-feb9672dfa11,pop
 ,260b6184-8828-48eb-945c-bc4cb6fc34ca,pop
+,26358fa2-80c2-47b0-a08b-33817caca7e8,pop
 ,285e1285-aecc-478f-a8da-0c8cf69e1217,pop
 ,28737730-ec70-4da5-89c5-77ac13c5c34d,pop
 ,2882ffa3-dec9-4055-a842-a950728bcb02,pop
@@ -4125,6 +4141,7 @@ tag,artist_mbid,mb_tag
 ,dcd4701d-64ec-443d-bfbf-73fc87c44bd6,pop
 ,e0140a67-e4d1-4f13-8a01-364355bee46e,pop
 ,e089ceae-91ac-4abe-b0de-120925e7632f,pop
+,e134b52f-2e9e-4734-9bc3-bea9648d1fa1,pop
 ,e148e786-f078-49e2-a9fb-fd044bd68905,pop
 ,e2b96b55-35c4-45b9-8d7b-726ac927982f,pop
 ,e32f2cd6-8695-4914-9c24-72e02ebd09ee,pop
@@ -5594,6 +5611,7 @@ tag,artist_mbid,mb_tag
 ,05517043-ff78-4988-9c22-88c68588ebb9,singer-songwriter
 ,0bc50b7b-8998-428c-9242-25eb3075477f,singer-songwriter
 ,0f272089-81c4-4b83-8c93-a90ac88cf81a,singer-songwriter
+,114b26ff-a1fe-41f3-9df8-5c093afe9c56,singer-songwriter
 ,12327d75-47d5-45d9-84c2-3760b9210c17,singer-songwriter
 ,151cd917-1ee2-4702-859f-90899ad897f8,singer-songwriter
 ,186e216a-2f8a-41a1-935f-8e30c018a8fe,singer-songwriter
@@ -5603,6 +5621,7 @@ tag,artist_mbid,mb_tag
 ,25f3abd9-63b5-471a-bd25-feb9672dfa11,singer-songwriter
 ,28737730-ec70-4da5-89c5-77ac13c5c34d,singer-songwriter
 ,2c6c53ea-09d4-4d98-b174-c9aa83d4fecf,singer-songwriter
+,3bb51beb-4396-46fa-b932-c079fba8cc3c,singer-songwriter
 ,4337f1a5-9e02-4b46-98c3-e3c28683a9b5,singer-songwriter
 ,4bdcee62-4902-4773-8cd1-e252e2e31225,singer-songwriter
 ,4d5447d7-c61c-4120-ba1b-d7f471d385b9,singer-songwriter
@@ -5760,6 +5779,7 @@ tag,artist_mbid,mb_tag
 ,0d341f39-a9c4-44b6-9373-216674b37f74,soul
 ,0f784cfc-955a-45f1-8d23-eb030d79e832,soul
 ,0fc78799-38c2-4ee1-8c0f-0b8f7009b7ba,soul
+,114b26ff-a1fe-41f3-9df8-5c093afe9c56,soul
 ,134e6410-6954-45d1-bd4a-0f2d2ad5471d,soul
 ,149f91ef-1287-46da-9a8e-87fee02f1471,soul
 ,1a10b34d-293a-42f6-856c-fb44d19210f6,soul
@@ -6089,6 +6109,7 @@ tag,artist_mbid,mb_tag
 ,c8b03190-306c-4120-bb0b-6f2ebfc06ea9,synth-pop
 ,e5712ceb-c37a-4c49-a11c-ccf4e21852d4,synth-pop
 ,056e4f3e-d505-4dad-8ec1-d04f521cbb56,synthpop
+,26358fa2-80c2-47b0-a08b-33817caca7e8,synthpop
 ,4b462375-c508-432a-8c88-ceeec38b16ae,synthpop
 ,5700dcd4-c139-4f31-aa3e-6382b9af9032,synthpop
 ,650e7db6-b795-4eb5-a702-5ea2fc46c848,synthpop
@@ -6327,6 +6348,7 @@ tag,artist_mbid,mb_tag
 ,ff08216b-98f6-4cb8-9c0b-6fd16855f2d0,usa
 ,16243662-8538-4746-a0fb-0d15b5828b8e,utah
 ,aea6ccea-deb0-44bb-886e-d91aa4c358bf,utaite
+,e134b52f-2e9e-4734-9bc3-bea9648d1fa1,utaite
 ,9ad9a4d3-10a6-4765-b1a4-8100d2cda756,v-pop
 ,d66de5d7-e7e3-472b-884c-ebc20f3c3abf,v-pop
 ,0923598e-2b97-4527-b984-5feed94c168d,vgm
@@ -6382,6 +6404,7 @@ tag,artist_mbid,mb_tag
 ,7f347782-eb14-40c3-98e2-17b6e1bfe56c,vocal music
 ,a6de8ef9-b1a1-4756-97aa-481bbb8a4069,vocalist
 ,a98fe54a-5638-4780-b056-14cfc01bdabc,vocalist
+,e134b52f-2e9e-4734-9bc3-bea9648d1fa1,vocalist
 ,9252ca18-015c-484c-ae59-5670784887d3,vocalist and dancer
 ,9252ca18-015c-484c-ae59-5670784887d3,vocalists and dancers
 ,fc65606d-5ec2-4492-8c48-e914a787f9da,vocaloid

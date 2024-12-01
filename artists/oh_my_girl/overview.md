@@ -20,7 +20,7 @@ OH MY GIRL:
 ## Artist Rank
 OH MY GIRL is currently:
 - The #40 artist of the last 6 months
-- The #86 artist of all time
+- The #88 artist of all time
 
 ![Rank of OH MY GIRL over time](../../images/artists/oh_my_girl/rank_time_series.png)
 ## Top Tracks
@@ -44,12 +44,12 @@ OH MY GIRL is currently:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | 160 | 2 | 2 | NONSTOP | 2020-04-27 | [🔗](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304d1fa0ab8be50437e6bad1d" alt="" width="50" /> | 678 | 2 | 2 | Dear OHMYGIRL | 2021-05-10 | [🔗](https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a60df50e5e461afae4ef105d" alt="" width="50" /> | 678 | 1 | 1 | THE FIFTH SEASON | 2019-05-08 | [🔗](https://open.spotify.com/album/7nRRZFQgQKQsXG7mQIuQPA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bcdcc14c83a6bc5dc1fc3cb5" alt="" width="50" /> | 179 | 1 | 1 | Dreamy Resonance | 2024-08-26 | [🔗](https://open.spotify.com/album/4XZFgEjQ4Un1TNHAtTC87m) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737700db620a3f0030fcfd078c" alt="" width="50" /> | 678 | 1 | 1 | CLOSER | 2015-10-08 | [🔗](https://open.spotify.com/album/08iyrLkLFP2ByBkqVhBls7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a994eb69242daf25e8730a72" alt="" width="50" /> | 678 | 1 | 0 | WINDY DAY | 2016 | [🔗](https://open.spotify.com/album/7coV2krimvobeWltmNvYeC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | 155 | 2 | 2 | NONSTOP | 2020-04-27 | [🔗](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304d1fa0ab8be50437e6bad1d" alt="" width="50" /> | 684 | 2 | 2 | Dear OHMYGIRL | 2021-05-10 | [🔗](https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a60df50e5e461afae4ef105d" alt="" width="50" /> | 684 | 1 | 1 | THE FIFTH SEASON | 2019-05-08 | [🔗](https://open.spotify.com/album/7nRRZFQgQKQsXG7mQIuQPA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bcdcc14c83a6bc5dc1fc3cb5" alt="" width="50" /> | 191 | 1 | 1 | Dreamy Resonance | 2024-08-26 | [🔗](https://open.spotify.com/album/4XZFgEjQ4Un1TNHAtTC87m) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737700db620a3f0030fcfd078c" alt="" width="50" /> | 684 | 1 | 1 | CLOSER | 2015-10-08 | [🔗](https://open.spotify.com/album/08iyrLkLFP2ByBkqVhBls7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a994eb69242daf25e8730a72" alt="" width="50" /> | 684 | 1 | 0 | WINDY DAY | 2016 | [🔗](https://open.spotify.com/album/7coV2krimvobeWltmNvYeC) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -58,9 +58,7 @@ OH MY GIRL is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 4 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 3 | [Summer](../../playlists/summer/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e021544041d0285585cc92c2709ab67616d00001e02714e56679ab196354e2e443eab67616d00001e027a2f8579b32544cc5ca0118aab67616d00001e0282f9c612adc8bc8d1d62461a" alt="" width="50" /> | 2 | [애교！](../../playlists/애교！/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e020490e8ab48790ca6e5add267ab67616d00001e02211dd4f1141b597f5f1c2ac9ab67616d00001e02c3a330eb913aaec37dd8d567ab67616d00001e02f42408abe884b81be4f9121b" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
-| <img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg" alt="" width="50" /> | 1 | [On Repeat](../../playlists/on_repeat/overview.md) |
-| <img src="https://wrapped-images.spotifycdn.com/image/yts-2022/default/your-top-songs-2022_default_en.jpg" alt="" width="50" /> | 1 | [Your Top Songs 2022](../../playlists/your_top_songs_2022/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022bdd7e53da67e71769c89822ab67616d00001e027c451a4f06288da6edf050c1ab67616d00001e02c9c9aaadb2d6d3d44be06332ab67616d00001e02f2dff4b6f58682692c0b0beb" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 
 ## Top Record Labels
 
@@ -132,11 +130,11 @@ OH MY GIRL is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | Dolphin | NONSTOP | [OH MY GIRL](overview.md) | [WM Entertainment](../../labels/wm_entertainment) | 206 | 💚 | [🔗](https://open.spotify.com/track/3NfgdU9mbIVhcJF3XvC0c9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bcdcc14c83a6bc5dc1fc3cb5" alt="" width="50" /> | Classified | Dreamy Resonance | [OH MY GIRL](overview.md) | [WM ENTERTAINMENT INC.](../../labels/wm_entertainment) | 247 | 💚 | [🔗](https://open.spotify.com/track/3zNqNoFNpPoXYrYJzCedzv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737700db620a3f0030fcfd078c" alt="" width="50" /> | SAY NO MORE | CLOSER | [OH MY GIRL](overview.md) | [WM Entertainment](../../labels/wm_entertainment) | 1031 | 💚 | [🔗](https://open.spotify.com/track/3vFAa5RYxyZmxTuV0YE9Em) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a994eb69242daf25e8730a72" alt="" width="50" /> | WINDY DAY | WINDY DAY | [OH MY GIRL](overview.md) | [WM Entertainment](../../labels/wm_entertainment) | 1031 | | [🔗](https://open.spotify.com/track/7prrcyZc48tO9hGzdnU9aD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a60df50e5e461afae4ef105d" alt="" width="50" /> | 5th Season (SSFWL) | THE FIFTH SEASON | [OH MY GIRL](overview.md) | [WM Entertainment](../../labels/wm_entertainment) | 1031 | 💚 | [🔗](https://open.spotify.com/track/2o0H0o6gWgnegtqkuOhtZk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | Nonstop | NONSTOP | [OH MY GIRL](overview.md) | [WM Entertainment](../../labels/wm_entertainment) | 1031 | 💚 | [🔗](https://open.spotify.com/track/5joNJn9LUvYcamWwa2iYCL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304d1fa0ab8be50437e6bad1d" alt="" width="50" /> | Dun Dun Dance | Dear OHMYGIRL | [OH MY GIRL](overview.md) | [WM Entertainment](../../labels/wm_entertainment) | 1031 | 💚 | [🔗](https://open.spotify.com/track/54HsCR7lJJdwxmEnTY1JfF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27304d1fa0ab8be50437e6bad1d" alt="" width="50" /> | My doll | Dear OHMYGIRL | [OH MY GIRL](overview.md) | [WM Entertainment](../../labels/wm_entertainment) | 1031 | 💚 | [🔗](https://open.spotify.com/track/46aqH0mV4yiwWggx0ynrbw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | Dolphin | NONSTOP | [OH MY GIRL](overview.md) | [WM Entertainment](../../labels/wm_entertainment) | 203 | 💚 | [🔗](https://open.spotify.com/track/3NfgdU9mbIVhcJF3XvC0c9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bcdcc14c83a6bc5dc1fc3cb5" alt="" width="50" /> | Classified | Dreamy Resonance | [OH MY GIRL](overview.md) | [WM ENTERTAINMENT INC.](../../labels/wm_entertainment) | 269 | 💚 | [🔗](https://open.spotify.com/track/3zNqNoFNpPoXYrYJzCedzv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737700db620a3f0030fcfd078c" alt="" width="50" /> | SAY NO MORE | CLOSER | [OH MY GIRL](overview.md) | [WM Entertainment](../../labels/wm_entertainment) | 1039 | 💚 | [🔗](https://open.spotify.com/track/3vFAa5RYxyZmxTuV0YE9Em) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a994eb69242daf25e8730a72" alt="" width="50" /> | WINDY DAY | WINDY DAY | [OH MY GIRL](overview.md) | [WM Entertainment](../../labels/wm_entertainment) | 1039 | | [🔗](https://open.spotify.com/track/7prrcyZc48tO9hGzdnU9aD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a60df50e5e461afae4ef105d" alt="" width="50" /> | 5th Season (SSFWL) | THE FIFTH SEASON | [OH MY GIRL](overview.md) | [WM Entertainment](../../labels/wm_entertainment) | 1039 | 💚 | [🔗](https://open.spotify.com/track/2o0H0o6gWgnegtqkuOhtZk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | Nonstop | NONSTOP | [OH MY GIRL](overview.md) | [WM Entertainment](../../labels/wm_entertainment) | 1039 | 💚 | [🔗](https://open.spotify.com/track/5joNJn9LUvYcamWwa2iYCL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304d1fa0ab8be50437e6bad1d" alt="" width="50" /> | Dun Dun Dance | Dear OHMYGIRL | [OH MY GIRL](overview.md) | [WM Entertainment](../../labels/wm_entertainment) | 1039 | 💚 | [🔗](https://open.spotify.com/track/54HsCR7lJJdwxmEnTY1JfF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27304d1fa0ab8be50437e6bad1d" alt="" width="50" /> | My doll | Dear OHMYGIRL | [OH MY GIRL](overview.md) | [WM Entertainment](../../labels/wm_entertainment) | 1039 | 💚 | [🔗](https://open.spotify.com/track/46aqH0mV4yiwWggx0ynrbw) |

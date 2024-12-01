@@ -4,10 +4,6 @@
 
 <img src="https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd" alt="Bruno Mars" width="100" />
 
-[See Track Features](audio_features.md)
-
-[See Clusters](clusters/overview.md)
-
 ## Relationships
 
 Bruno Mars:
@@ -25,21 +21,30 @@ Bruno Mars:
 ### Top tracks of all time
 
 ![Track score ranking over time](../../images/artists/bruno_mars/track_rank_time_series_score.png)
+
+
+<details>
+<summary>Top tracks of the last 6 months over time</summary>
+
+![Line chart of top tracks of the last 6 months over time](../../images/artists/bruno_mars/track_rank_time_series_medium_term.png)
+
+</details>
+
 ## Top Albums
 
 ![Album ranking over time](../../images/artists/bruno_mars/album_rank_time_series.png)
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | 678 | 5 | 3 | An Evening With Silk Sonic | 2021-11-11 | [🔗](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | 678 | 3 | 2 | 24K Magic | 2016-11-17 | [🔗](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | 526 | 2 | 2 | Unorthodox Jukebox | 2012-12-07 | [🔗](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | 684 | 5 | 3 | An Evening With Silk Sonic | 2021-11-11 | [🔗](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | 684 | 3 | 2 | 24K Magic | 2016-11-17 | [🔗](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | 523 | 2 | 2 | Unorthodox Jukebox | 2012-12-07 | [🔗](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | 638 | 2 | 2 | Doo-Wops & Hooligans | 2010-05-11 | [🔗](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e419ccba0baa8bd3f3d7abf2" alt="" width="50" /> | 678 | 1 | 1 | Uptown Special | 2015-01-12 | [🔗](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="" width="50" /> | 678 | 1 | 1 | Please Me | 2019-02-15 | [🔗](https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="" width="50" /> | 678 | 1 | 1 | Finesse (Remix) [feat. Cardi B] | 2017-12-20 | [🔗](https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8c8297efc6022534f1357e1" alt="" width="50" /> | 173 | 1 | 1 | APT. | 2024-10-18 | [🔗](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="" width="50" /> | 678 | 1 | 0 | Love's Train | 2022-02-14 | [🔗](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e419ccba0baa8bd3f3d7abf2" alt="" width="50" /> | 684 | 1 | 1 | Uptown Special | 2015-01-12 | [🔗](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="" width="50" /> | 684 | 1 | 1 | Please Me | 2019-02-15 | [🔗](https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="" width="50" /> | 684 | 1 | 1 | Finesse (Remix) [feat. Cardi B] | 2017-12-20 | [🔗](https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ba60245b7725fdc3719027c0" alt="" width="50" /> | 180 | 1 | 1 | APT. | 2024-10-18 | [🔗](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="" width="50" /> | 684 | 1 | 0 | Love's Train | 2022-02-14 | [🔗](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -52,8 +57,7 @@ Bruno Mars:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022160c02bc56f192df0f4986bab67616d00001e027cdb143bd2e9906d39c5eb04ab67616d00001e02dc30583ba717007b00cceb25ab67616d00001e02df55e326ed144ab4f5cecf95" alt="" width="50" /> | 2 | [Karaoke](../../playlists/karaoke/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020f7e2aa2f1d7ea0fd2e206c0ab67616d00001e0216aaf05fe82237576a7d0e38ab67616d00001e0220112a0321d2efc7384db456ab67616d00001e02f93159d78849714fcf118bb3" alt="" width="50" /> | 1 | [Funk](../../playlists/funk/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 1 | [K-Pop](../../playlists/k-pop/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e020490e8ab48790ca6e5add267ab67616d00001e02211dd4f1141b597f5f1c2ac9ab67616d00001e02c3a330eb913aaec37dd8d567ab67616d00001e02f42408abe884b81be4f9121b" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
-| <img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg" alt="" width="50" /> | 1 | [On Repeat](../../playlists/on_repeat/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e022bdd7e53da67e71769c89822ab67616d00001e027c451a4f06288da6edf050c1ab67616d00001e02c9c9aaadb2d6d3d44be06332ab67616d00001e02f2dff4b6f58682692c0b0beb" alt="" width="50" /> | 1 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0298d4c378a8c78e84bfcf7743ab67616d00001e02b0ed835957dbf3c63184a3bcab67616d00001e02ca96a3471c3cb5128e64195fab67616d00001e02f6749fd9a1027b244f061e87" alt="" width="50" /> | 1 | [Alt-Pop](../../playlists/alt-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022c0252c4e4a988f024e4d262ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 1 | [Chill](../../playlists/chill/overview.md) |
 
@@ -106,8 +110,8 @@ Bruno Mars:
 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | Leave The Door Open | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | Fly As Me | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | Smokin Out The Window | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8c8297efc6022534f1357e1" alt="" width="50" /> | APT. | Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f0382a125bb499dff48fc9fe" alt="" width="50" /> | number one girl | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ba60245b7725fdc3719027c0" alt="" width="50" /> | APT. | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273af5f6b66e42f295bad63bea7" alt="" width="50" /> | number one girl | Producer, Songwriter |
 
 </details>
 
@@ -193,16 +197,16 @@ Bruno Mars:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f8c8297efc6022534f1357e1" alt="" width="50" /> | APT. | APT. | ROSÉ, [Bruno Mars](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 243 | 💚 | [🔗](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | When I Was Your Man | Unorthodox Jukebox | [Bruno Mars](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 793 | 💚 | [🔗](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | Grenade | Doo-Wops & Hooligans | [Bruno Mars](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 972 | 💚 | [🔗](https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | The Other Side (feat. CeeLo Green and B.o.B) | Doo-Wops & Hooligans | [Bruno Mars](overview.md), B.o.B, CeeLo Green | [Atlantic Records](../../labels/atlantic_records) | 1031 | 💚 | [🔗](https://open.spotify.com/track/0HasfWMrNxTjycDy9TkRtA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | Locked out of Heaven | Unorthodox Jukebox | [Bruno Mars](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 1031 | 💚 | [🔗](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e419ccba0baa8bd3f3d7abf2" alt="" width="50" /> | Uptown Funk (feat. Bruno Mars) | Uptown Special | Mark Ronson, [Bruno Mars](overview.md) | [Columbia](../../labels/columbia) | 1031 | 💚 | [🔗](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | 24K Magic | 24K Magic | [Bruno Mars](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 1031 | | [🔗](https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | Finesse | 24K Magic | [Bruno Mars](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 1031 | 💚 | [🔗](https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | That's What I Like | 24K Magic | [Bruno Mars](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 1031 | 💚 | [🔗](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="" width="50" /> | Finesse - Remix; feat. Cardi B | Finesse (Remix) [feat. Cardi B] | [Bruno Mars](overview.md), Cardi B | [Atlantic Records](../../labels/atlantic_records) | 1031 | 💚 | [🔗](https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ba60245b7725fdc3719027c0" alt="" width="50" /> | APT. | APT. | ROSÉ, [Bruno Mars](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 251 | 💚 | [🔗](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | When I Was Your Man | Unorthodox Jukebox | [Bruno Mars](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 786 | 💚 | [🔗](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | Grenade | Doo-Wops & Hooligans | [Bruno Mars](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 977 | 💚 | [🔗](https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b" alt="" width="50" /> | The Other Side (feat. CeeLo Green and B.o.B) | Doo-Wops & Hooligans | [Bruno Mars](overview.md), B.o.B, CeeLo Green | [Atlantic Records](../../labels/atlantic_records) | 1039 | 💚 | [🔗](https://open.spotify.com/track/0HasfWMrNxTjycDy9TkRtA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46" alt="" width="50" /> | Locked out of Heaven | Unorthodox Jukebox | [Bruno Mars](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 1039 | 💚 | [🔗](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e419ccba0baa8bd3f3d7abf2" alt="" width="50" /> | Uptown Funk (feat. Bruno Mars) | Uptown Special | Mark Ronson, [Bruno Mars](overview.md) | [Columbia](../../labels/columbia) | 1039 | 💚 | [🔗](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | 24K Magic | 24K Magic | [Bruno Mars](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 1039 | | [🔗](https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | Finesse | 24K Magic | [Bruno Mars](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 1039 | 💚 | [🔗](https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5" alt="" width="50" /> | That's What I Like | 24K Magic | [Bruno Mars](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 1039 | 💚 | [🔗](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06" alt="" width="50" /> | Finesse - Remix; feat. Cardi B | Finesse (Remix) [feat. Cardi B] | [Bruno Mars](overview.md), Cardi B | [Atlantic Records](../../labels/atlantic_records) | 1039 | 💚 | [🔗](https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i) |
 
 
 <details>
@@ -210,13 +214,13 @@ Bruno Mars:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="" width="50" /> | Please Me | Please Me | Cardi B, [Bruno Mars](overview.md) | [Atlantic/KSR](../../labels/atlantic_records) | 1031 | 💚 | [🔗](https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | 777 | An Evening With Silk Sonic | [Bruno Mars](overview.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](../../labels/atlantic_records) | 1031 | | [🔗](https://open.spotify.com/track/67BOjO8BESXYNU5E6qDcUv) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | After Last Night (with Thundercat & Bootsy Collins) | An Evening With Silk Sonic | [Bruno Mars](overview.md), Anderson .Paak, Silk Sonic, Thundercat, Bootsy Collins | [Aftermath Entertainment/Atlantic](../../labels/atlantic_records) | 1031 | | [🔗](https://open.spotify.com/track/3jiKUMXqwEodB7gVv1RMZU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | Fly As Me | An Evening With Silk Sonic | [Bruno Mars](overview.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](../../labels/atlantic_records) | 1031 | 💚 | [🔗](https://open.spotify.com/track/3a6FcTyvSf0ED3VXeH3PJ5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | Leave The Door Open | An Evening With Silk Sonic | [Bruno Mars](overview.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](../../labels/atlantic_records) | 1031 | 💚 | [🔗](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | Smokin Out The Window | An Evening With Silk Sonic | [Bruno Mars](overview.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](../../labels/atlantic_records) | 1031 | 💚 | [🔗](https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="" width="50" /> | Love's Train | Love's Train | [Bruno Mars](overview.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](../../labels/atlantic_records) | 1031 | | [🔗](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273288883647008cefba0db5402" alt="" width="50" /> | Please Me | Please Me | Cardi B, [Bruno Mars](overview.md) | [Atlantic/KSR](../../labels/atlantic_records) | 1039 | 💚 | [🔗](https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | 777 | An Evening With Silk Sonic | [Bruno Mars](overview.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](../../labels/atlantic_records) | 1039 | | [🔗](https://open.spotify.com/track/67BOjO8BESXYNU5E6qDcUv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | After Last Night (with Thundercat & Bootsy Collins) | An Evening With Silk Sonic | [Bruno Mars](overview.md), Anderson .Paak, Silk Sonic, Thundercat, Bootsy Collins | [Aftermath Entertainment/Atlantic](../../labels/atlantic_records) | 1039 | | [🔗](https://open.spotify.com/track/3jiKUMXqwEodB7gVv1RMZU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | Fly As Me | An Evening With Silk Sonic | [Bruno Mars](overview.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](../../labels/atlantic_records) | 1039 | 💚 | [🔗](https://open.spotify.com/track/3a6FcTyvSf0ED3VXeH3PJ5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | Leave The Door Open | An Evening With Silk Sonic | [Bruno Mars](overview.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](../../labels/atlantic_records) | 1039 | 💚 | [🔗](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | Smokin Out The Window | An Evening With Silk Sonic | [Bruno Mars](overview.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](../../labels/atlantic_records) | 1039 | 💚 | [🔗](https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27379ffc01d8bc8312192cacfc0" alt="" width="50" /> | Love's Train | Love's Train | [Bruno Mars](overview.md), Anderson .Paak, Silk Sonic | [Aftermath Entertainment/Atlantic](../../labels/atlantic_records) | 1039 | | [🔗](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) |
 
 </details>
 

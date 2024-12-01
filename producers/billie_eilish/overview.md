@@ -7,7 +7,7 @@
 | Instrument | 4 |
 | Lyricist | 2 |
 | Producer | 5 |
-| Songwriter | 15 |
+| Songwriter | 16 |
 | Vocal | 11 |
 
 ## Produces for Artists
@@ -15,7 +15,7 @@
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da" alt="" width="50" /> | 47 | 16 | 16 | [Billie Eilish](../../artists/billie_eilish/overview.md) | [🔗](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb24ff450c42d4e36fb34a7631" alt="" width="50" /> | 440 | 1 | 1 | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb24ff450c42d4e36fb34a7631" alt="" width="50" /> | 447 | 1 | 1 | Khalid | [🔗](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838" alt="" width="50" /> | 295 | 1 | 1 | Charli xcx | [🔗](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) |
 
 ## Works with Producers
@@ -24,14 +24,14 @@
 |:---|:---|---:|
 | FINNEAS | [FINNEAS](../finneas/overview.md) | 15 |
 | Rob Kinelski | [Rob Kinelski](../rob_kinelski/overview.md) | 9 |
-| Chaz Sexton | Chaz Sexton | 3 |
-| Jon Castelli | Jon Castelli | 3 |
 | Aron Forbes | Aron Forbes | 3 |
+| Chaz Sexton | Chaz Sexton | 3 |
 | Brad Lauchert | Brad Lauchert | 3 |
-| Charli XCX | Charli XCX | 1 |
-| Mark Ronson | [Mark Ronson](../mark_ronson/overview.md) | 1 |
+| Jon Castelli | Jon Castelli | 3 |
+| Thom Beemer | Thom Beemer | 1 |
 | Hans Zimmer | Hans Zimmer | 1 |
 | Eli Heisler | Eli Heisler | 1 |
+| Matt Dunkley | Matt Dunkley | 1 |
 
 
 <details>
@@ -39,16 +39,18 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Matt Dunkley | Matt Dunkley | 1 |
 | David Campbell | David Campbell | 1 |
-| Thom Beemer | Thom Beemer | 1 |
-| Khalid | Khalid | 1 |
+| Mark Ronson | [Mark Ronson](../mark_ronson/overview.md) | 1 |
+| Stephen Lipson | Stephen Lipson | 1 |
 | Casey Cuayo | Casey Cuayo | 1 |
 | The Dare | The Dare | 1 |
 | Andrew Wyatt | Andrew Wyatt | 1 |
+| Geoff Swan | Geoff Swan | 1 |
 | Dylan Brady | Dylan Brady | 1 |
 | Idania Valencia | Idania Valencia | 1 |
-| Stephen Lipson | Stephen Lipson | 1 |
+| Khalid | Khalid | 1 |
+| Charli XCX | Charli XCX | 1 |
+| Harrison Patrick Smith | Harrison Patrick Smith | 1 |
 
 </details>
 
@@ -71,4 +73,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62" alt="" width="50" /> | BLUE | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62" alt="" width="50" /> | LUNCH | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62" alt="" width="50" /> | BIRDS OF A FEATHER | Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dca19fcb7a25410224da080b" alt="" width="50" /> | Guess featuring billie eilish | Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b27355a1e72ba425c60a02a9bb47" alt="" width="50" /> | Guess featuring billie eilish | Songwriter |
