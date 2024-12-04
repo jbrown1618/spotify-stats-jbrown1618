@@ -122,4 +122,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | Fly As Me | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86" alt="" width="50" /> | Smokin Out The Window | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba60245b7725fdc3719027c0" alt="" width="50" /> | APT. | Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273af5f6b66e42f295bad63bea7" alt="" width="50" /> | number one girl | Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d890cfcc7d4c9157fac9defc" alt="" width="50" /> | number one girl | Producer, Songwriter |

@@ -34,15 +34,15 @@ HWASA:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731dfb11871aa63ac9010c0619" alt="" width="50" /> | 684 | 2 | 1 | Guilty Pleasure | 2021-11-24 | [🔗](https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273206f4b14097e0a68bce6b467" alt="" width="50" /> | 684 | 1 | 1 | The Hyena on the Keyboard Pt. 4 | 2018-04-21 | [🔗](https://open.spotify.com/album/2fMMk4DD96UcAmSczUQ0kq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27346c377827f3ad9fa6b0f64df" alt="" width="50" /> | 684 | 1 | 1 | TWIT | 2019-02-13 | [🔗](https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27389fba37a3d30c462059917bd" alt="" width="50" /> | 684 | 1 | 1 | Physical (feat. Hwa Sa) | 2020-01-28 | [🔗](https://open.spotify.com/album/6apIJi4hf7U6cBOFwIqq1b) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731dfb11871aa63ac9010c0619" alt="" width="50" /> | 687 | 2 | 1 | Guilty Pleasure | 2021-11-24 | [🔗](https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273206f4b14097e0a68bce6b467" alt="" width="50" /> | 687 | 1 | 1 | The Hyena on the Keyboard Pt. 4 | 2018-04-21 | [🔗](https://open.spotify.com/album/2fMMk4DD96UcAmSczUQ0kq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346c377827f3ad9fa6b0f64df" alt="" width="50" /> | 687 | 1 | 1 | TWIT | 2019-02-13 | [🔗](https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389fba37a3d30c462059917bd" alt="" width="50" /> | 687 | 1 | 1 | Physical (feat. Hwa Sa) | 2020-01-28 | [🔗](https://open.spotify.com/album/6apIJi4hf7U6cBOFwIqq1b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | 17 | 1 | 1 | María | 2020-06-29 | [🔗](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | 632 | 1 | 1 | Hwa:telier | 2019-10-11 | [🔗](https://open.spotify.com/album/20xEJwUlmfoSLoK5AhEucL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273958e22248628086c39bdf786" alt="" width="50" /> | 469 | 1 | 1 | Chili | 2023-10-04 | [🔗](https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736577671a898623c92cc39818" alt="" width="50" /> | 684 | 1 | 0 | Somebody | 2022-07-25 | [🔗](https://open.spotify.com/album/40XK96MKBOb5BjAU8QAIfN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273763208e225ccbbda004d2176" alt="" width="50" /> | 684 | 1 | 0 | PSY 9th | 2022-04-29 | [🔗](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | 636 | 1 | 1 | Hwa:telier | 2019-10-11 | [🔗](https://open.spotify.com/album/20xEJwUlmfoSLoK5AhEucL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273958e22248628086c39bdf786" alt="" width="50" /> | 472 | 1 | 1 | Chili | 2023-10-04 | [🔗](https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736577671a898623c92cc39818" alt="" width="50" /> | 687 | 1 | 0 | Somebody | 2022-07-25 | [🔗](https://open.spotify.com/album/40XK96MKBOb5BjAU8QAIfN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273763208e225ccbbda004d2176" alt="" width="50" /> | 687 | 1 | 0 | PSY 9th | 2022-04-29 | [🔗](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273864f04cb6debbb9057b04b30" alt="" width="50" /> | 319 | 1 | 0 | I Love My Body | 2023-09-06 | [🔗](https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre) |
 
 ## Featured on Playlists
@@ -124,15 +124,15 @@ HWASA:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a84d6d77bb01c3bd737c47d7" alt="" width="50" /> | Maria | María | [HWASA](overview.md) | [RBW, Inc](../../labels/rbw_inc_) | 12 | 💚 | [🔗](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273864f04cb6debbb9057b04b30" alt="" width="50" /> | I Love My Body | I Love My Body | [HWASA](overview.md) | [WM Korea](../../labels/wm_korea) | 452 | | [🔗](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273958e22248628086c39bdf786" alt="" width="50" /> | Chili | Chili | [HWASA](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation) | 703 | 💚 | [🔗](https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | In The Fall | Hwa:telier | [HWASA](overview.md), WOOGIE | [RBW, Inc](../../labels/rbw_inc_) | 968 | 💚 | [🔗](https://open.spotify.com/track/2esmbUCwduwG8SyN4RAwmM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273206f4b14097e0a68bce6b467" alt="" width="50" /> | Don’t | The Hyena on the Keyboard Pt. 4 | Loco, [HWASA](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 1039 | 💚 | [🔗](https://open.spotify.com/track/6KyafpXji3NKMmlmSokT9Y) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27346c377827f3ad9fa6b0f64df" alt="" width="50" /> | TWIT | TWIT | [HWASA](overview.md) | [RBW, Inc](../../labels/rbw_inc_) | 1039 | 💚 | [🔗](https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27389fba37a3d30c462059917bd" alt="" width="50" /> | Physical (feat. Hwa Sa) | Physical (feat. Hwa Sa) | [Dua Lipa](../dua_lipa/overview.md), [HWASA](overview.md) | [Warner Records](../../labels/warner_records) | 1039 | 💚 | [🔗](https://open.spotify.com/track/23jEeXRyrjFbfs2Q8tBwdI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731dfb11871aa63ac9010c0619" alt="" width="50" /> | FOMO | Guilty Pleasure | [HWASA](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 1039 | | [🔗](https://open.spotify.com/track/3f2I2bydLQ38Xr0jvUcNJn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731dfb11871aa63ac9010c0619" alt="" width="50" /> | I`m a B | Guilty Pleasure | [HWASA](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 1039 | 💚 | [🔗](https://open.spotify.com/track/1AToLLvWghQgiBFef1iGuR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273763208e225ccbbda004d2176" alt="" width="50" /> | Now (feat. Hwa Sa) | PSY 9th | PSY, [HWASA](overview.md) | P NATION | 1039 | | [🔗](https://open.spotify.com/track/77agEdLYGWCAhSmwtkPlCs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273864f04cb6debbb9057b04b30" alt="" width="50" /> | I Love My Body | I Love My Body | [HWASA](overview.md) | [WM Korea](../../labels/wm_korea) | 453 | | [🔗](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273958e22248628086c39bdf786" alt="" width="50" /> | Chili | Chili | [HWASA](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation) | 705 | 💚 | [🔗](https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733accfe72fd85d00c777096c8" alt="" width="50" /> | In The Fall | Hwa:telier | [HWASA](overview.md), WOOGIE | [RBW, Inc](../../labels/rbw_inc_) | 965 | 💚 | [🔗](https://open.spotify.com/track/2esmbUCwduwG8SyN4RAwmM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273206f4b14097e0a68bce6b467" alt="" width="50" /> | Don’t | The Hyena on the Keyboard Pt. 4 | Loco, [HWASA](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 1043 | 💚 | [🔗](https://open.spotify.com/track/6KyafpXji3NKMmlmSokT9Y) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346c377827f3ad9fa6b0f64df" alt="" width="50" /> | TWIT | TWIT | [HWASA](overview.md) | [RBW, Inc](../../labels/rbw_inc_) | 1043 | 💚 | [🔗](https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389fba37a3d30c462059917bd" alt="" width="50" /> | Physical (feat. Hwa Sa) | Physical (feat. Hwa Sa) | [Dua Lipa](../dua_lipa/overview.md), [HWASA](overview.md) | [Warner Records](../../labels/warner_records) | 1043 | 💚 | [🔗](https://open.spotify.com/track/23jEeXRyrjFbfs2Q8tBwdI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731dfb11871aa63ac9010c0619" alt="" width="50" /> | FOMO | Guilty Pleasure | [HWASA](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 1043 | | [🔗](https://open.spotify.com/track/3f2I2bydLQ38Xr0jvUcNJn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731dfb11871aa63ac9010c0619" alt="" width="50" /> | I`m a B | Guilty Pleasure | [HWASA](overview.md) | [RBW Inc.](../../labels/rbw_inc_) | 1043 | 💚 | [🔗](https://open.spotify.com/track/1AToLLvWghQgiBFef1iGuR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273763208e225ccbbda004d2176" alt="" width="50" /> | Now (feat. Hwa Sa) | PSY 9th | PSY, [HWASA](overview.md) | P NATION | 1043 | | [🔗](https://open.spotify.com/track/77agEdLYGWCAhSmwtkPlCs) |
 
 
 <details>
@@ -140,7 +140,7 @@ HWASA:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736577671a898623c92cc39818" alt="" width="50" /> | Somebody! | Somebody | Loco, [HWASA](overview.md) | AOMG, ㈜RBW | 1039 | | [🔗](https://open.spotify.com/track/2FA4veLVh3jf7O8q5VhNh5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736577671a898623c92cc39818" alt="" width="50" /> | Somebody! | Somebody | Loco, [HWASA](overview.md) | AOMG, ㈜RBW | 1043 | | [🔗](https://open.spotify.com/track/2FA4veLVh3jf7O8q5VhNh5) |
 
 </details>
 

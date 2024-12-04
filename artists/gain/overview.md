@@ -29,10 +29,10 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2732c8feb0da36a6a8bc1a0d9f5" alt="" width="50" /> | 684 | 2 | 2 | Talk about S. | 2012-10-05 | [🔗](https://open.spotify.com/album/0gVRGN17vkeY9z4mXiPr8i) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c80e9c3e5cfd25ccf4a57e4" alt="" width="50" /> | 633 | 2 | 2 | End Again | 2016-09-09 | [🔗](https://open.spotify.com/album/1Lb5NVfPBTadR5jl6Vpkdq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c8feb0da36a6a8bc1a0d9f5" alt="" width="50" /> | 687 | 2 | 2 | Talk about S. | 2012-10-05 | [🔗](https://open.spotify.com/album/0gVRGN17vkeY9z4mXiPr8i) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c80e9c3e5cfd25ccf4a57e4" alt="" width="50" /> | 637 | 2 | 2 | End Again | 2016-09-09 | [🔗](https://open.spotify.com/album/1Lb5NVfPBTadR5jl6Vpkdq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="" width="50" /> | 219 | 1 | 1 | Hawwah | 2015-03-12 | [🔗](https://open.spotify.com/album/1fghVqJ812j2fqPYrSFd0Q) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d4c12eacfb21d74cd24a97f6" alt="" width="50" /> | 684 | 1 | 0 | Romantic Spring | 2013-04-08 | [🔗](https://open.spotify.com/album/2eMwg6w5Hq171Rfn8RakOj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d4c12eacfb21d74cd24a97f6" alt="" width="50" /> | 687 | 1 | 0 | Romantic Spring | 2013-04-08 | [🔗](https://open.spotify.com/album/2eMwg6w5Hq171Rfn8RakOj) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -69,8 +69,8 @@
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273e328c250ba600a7e0a48f867" alt="" width="50" /> | Paradise Lost | Hawwah | [Gain](overview.md) | APOP Entertainment, MYSTIC Entertainment | 303 | 💚 | [🔗](https://open.spotify.com/track/1PVluFXbdOTv29475JS2Mj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c80e9c3e5cfd25ccf4a57e4" alt="" width="50" /> | Carrie (The First Day) | End Again | [Gain](overview.md) | APOP Entertainment, MYSTIC Entertainment | 962 | 💚 | [🔗](https://open.spotify.com/track/5n2Z6Z4Tw6hkbMqY4lT24u) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732c8feb0da36a6a8bc1a0d9f5" alt="" width="50" /> | Bloom | Talk about S. | [Gain](overview.md) | Kakao M Corp. | 1039 | 💚 | [🔗](https://open.spotify.com/track/3lcdPSfDGg11Qyimx2ONYH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732c8feb0da36a6a8bc1a0d9f5" alt="" width="50" /> | Tinkerbell | Talk about S. | [Gain](overview.md) | Kakao M Corp. | 1039 | 💚 | [🔗](https://open.spotify.com/track/2KCMmpIOEl1Ydb3I9jIaYp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d4c12eacfb21d74cd24a97f6" alt="" width="50" /> | Brunch | Romantic Spring | [Gain](overview.md), HYUNGWOO | Kakao M Corp. | 1039 | | [🔗](https://open.spotify.com/track/5wiWryEZLvo30nopnOEbdJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731c80e9c3e5cfd25ccf4a57e4" alt="" width="50" /> | Carnival (The Last Day) | End Again | [Gain](overview.md) | APOP Entertainment, MYSTIC Entertainment | 1039 | 💚 | [🔗](https://open.spotify.com/track/1wFwU41aWXC5wb7ycY9q61) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c80e9c3e5cfd25ccf4a57e4" alt="" width="50" /> | Carrie (The First Day) | End Again | [Gain](overview.md) | APOP Entertainment, MYSTIC Entertainment | 967 | 💚 | [🔗](https://open.spotify.com/track/5n2Z6Z4Tw6hkbMqY4lT24u) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c8feb0da36a6a8bc1a0d9f5" alt="" width="50" /> | Bloom | Talk about S. | [Gain](overview.md) | Kakao M Corp. | 1043 | 💚 | [🔗](https://open.spotify.com/track/3lcdPSfDGg11Qyimx2ONYH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732c8feb0da36a6a8bc1a0d9f5" alt="" width="50" /> | Tinkerbell | Talk about S. | [Gain](overview.md) | Kakao M Corp. | 1043 | 💚 | [🔗](https://open.spotify.com/track/2KCMmpIOEl1Ydb3I9jIaYp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d4c12eacfb21d74cd24a97f6" alt="" width="50" /> | Brunch | Romantic Spring | [Gain](overview.md), HYUNGWOO | Kakao M Corp. | 1043 | | [🔗](https://open.spotify.com/track/5wiWryEZLvo30nopnOEbdJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c80e9c3e5cfd25ccf4a57e4" alt="" width="50" /> | Carnival (The Last Day) | End Again | [Gain](overview.md) | APOP Entertainment, MYSTIC Entertainment | 1043 | 💚 | [🔗](https://open.spotify.com/track/1wFwU41aWXC5wb7ycY9q61) |
