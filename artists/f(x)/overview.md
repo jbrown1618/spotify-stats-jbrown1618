@@ -29,10 +29,10 @@ f(x):
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="" width="50" /> | 646 | 2 | 2 | Red Light - The 3rd Album | 2014-07-11 | [🔗](https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="" width="50" /> | 252 | 2 | 2 | Pink Tape - The 2nd Album | 2013-07-29 | [🔗](https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735a58accf4805f4097859eeac" alt="" width="50" /> | 687 | 1 | 1 | Electric Shock - The 2nd Mini Album | 2012-06-10 | [🔗](https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b6baf420e67f45971ca0d216" alt="" width="50" /> | 485 | 1 | 1 | 4 Walls - The 4th Album | 2015-10-27 | [🔗](https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="" width="50" /> | 648 | 2 | 2 | Red Light - The 3rd Album | 2014-07-11 | [🔗](https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="" width="50" /> | 253 | 2 | 2 | Pink Tape - The 2nd Album | 2013-07-29 | [🔗](https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a58accf4805f4097859eeac" alt="" width="50" /> | 690 | 1 | 1 | Electric Shock - The 2nd Mini Album | 2012-06-10 | [🔗](https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b6baf420e67f45971ca0d216" alt="" width="50" /> | 490 | 1 | 1 | 4 Walls - The 4th Album | 2015-10-27 | [🔗](https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -40,7 +40,7 @@ f(x):
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02505190077497c230422f2934ab67616d00001e027dd8f95320e8ef08aa121dfeab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02ff7c2dfd0ed9b2cf6bf9c818" alt="" width="50" /> | 6 | [K-Pop](../../playlists/k-pop/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e023613e1e0d35867a0814005a9ab67616d00001e024a8e5eaab8b02db02e487c27ab67616d00001e0259fcda8d47bbd0f6c2bf1647ab67616d00001e028bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 2 | [Halloween](../../playlists/halloween/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e026610c21366e613bfd9f5d197ab67616d00001e0279e8b529ce6c088a8027b2a1ab67616d00001e029b9b36b0e22870b9f542d937ab67616d00001e02d8601e15fa1b4351fe1fc6ae" alt="" width="50" /> | 1 | [Electronic](../../playlists/electronic/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e0279e8b529ce6c088a8027b2a1ab67616d00001e029b9b36b0e22870b9f542d937ab67616d00001e02b1f18dc3658aff286fa9f351ab67616d00001e02d8601e15fa1b4351fe1fc6ae" alt="" width="50" /> | 1 | [Electronic](../../playlists/electronic/overview.md) |
 
 ## Top Record Labels
 
@@ -126,9 +126,9 @@ f(x):
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="" width="50" /> | 첫 사랑니 (Rum Pum Pum Pum) | Pink Tape - The 2nd Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 353 | 💚 | [🔗](https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b6baf420e67f45971ca0d216" alt="" width="50" /> | 4 Walls | 4 Walls - The 4th Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 723 | 💚 | [🔗](https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="" width="50" /> | Dracula | Red Light - The 3rd Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 976 | 💚 | [🔗](https://open.spotify.com/track/5vClivCCQDK6sxmL6MhMFc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735a58accf4805f4097859eeac" alt="" width="50" /> | Electric Shock | Electric Shock - The 2nd Mini Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1043 | 💚 | [🔗](https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="" width="50" /> | 미행 (그림자 : Shadow) | Pink Tape - The 2nd Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1043 | 💚 | [🔗](https://open.spotify.com/track/1xbJNPLSTtIWgGTt3Uu4gl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="" width="50" /> | Red Light | Red Light - The 3rd Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1043 | 💚 | [🔗](https://open.spotify.com/track/4ML3iXqwb35FHG0SW1HVGc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="" width="50" /> | 첫 사랑니 (Rum Pum Pum Pum) | Pink Tape - The 2nd Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 354 | 💚 | [🔗](https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b6baf420e67f45971ca0d216" alt="" width="50" /> | 4 Walls | 4 Walls - The 4th Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 727 | 💚 | [🔗](https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="" width="50" /> | Dracula | Red Light - The 3rd Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 977 | 💚 | [🔗](https://open.spotify.com/track/5vClivCCQDK6sxmL6MhMFc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a58accf4805f4097859eeac" alt="" width="50" /> | Electric Shock | Electric Shock - The 2nd Mini Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1046 | 💚 | [🔗](https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f7d8c9dcc983839bd746dbc" alt="" width="50" /> | 미행 (그림자 : Shadow) | Pink Tape - The 2nd Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1046 | 💚 | [🔗](https://open.spotify.com/track/1xbJNPLSTtIWgGTt3Uu4gl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737cb7222af6927b83987206f7" alt="" width="50" /> | Red Light | Red Light - The 3rd Album | [f(x)](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1046 | 💚 | [🔗](https://open.spotify.com/track/4ML3iXqwb35FHG0SW1HVGc) |

@@ -14,9 +14,9 @@ MISAMO:
 
 ## Artist Rank
 MISAMO is currently:
-- The #22 artist of the last month
+- The #23 artist of the last month
 - The #31 artist of the last 6 months
-- The #39 artist of all time
+- The #40 artist of all time
 
 ![Rank of MISAMO over time](../../images/artists/misamo/rank_time_series.png)
 ## Top Tracks
@@ -62,6 +62,7 @@ MISAMO is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022bdd7e53da67e71769c89822ab67616d00001e027c451a4f06288da6edf050c1ab67616d00001e02c9c9aaadb2d6d3d44be06332ab67616d00001e02f2dff4b6f58682692c0b0beb" alt="" width="50" /> | 2 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e023613e1e0d35867a0814005a9ab67616d00001e024a8e5eaab8b02db02e487c27ab67616d00001e0259fcda8d47bbd0f6c2bf1647ab67616d00001e028bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 1 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e021544041d0285585cc92c2709ab67616d00001e02714e56679ab196354e2e443eab67616d00001e027a2f8579b32544cc5ca0118aab67616d00001e0282f9c612adc8bc8d1d62461a" alt="" width="50" /> | 1 | [애교！](../../playlists/애교！/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02220771be23654c95cf787349ab67616d00001e0224936098cb2874153291a3f9ab67616d00001e02b3be3b970fc89a02f301c9daab67616d00001e02fe31201bbc019b1636066dc3" alt="" width="50" /> | 1 | [My Top Songs 2023](../../playlists/my_top_songs_2023/overview.md) |
 
 ## Top Record Labels
 
@@ -95,9 +96,9 @@ MISAMO is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | It's not easy for you | Masterpiece | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 68 | 💚 | [🔗](https://open.spotify.com/track/1qNk7XPTbyuO4bsDl0T6nN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | It's not easy for you | Masterpiece | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 69 | 💚 | [🔗](https://open.spotify.com/track/1qNk7XPTbyuO4bsDl0T6nN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Behind The Curtain | Masterpiece | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 87 | 💚 | [🔗](https://open.spotify.com/track/14nturKxV48wR3lbknehiu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Funny Valentine | Masterpiece | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 240 | 💚 | [🔗](https://open.spotify.com/track/4xtgQGbQnII1buKgl5fguT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Funny Valentine | Masterpiece | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 230 | 💚 | [🔗](https://open.spotify.com/track/4xtgQGbQnII1buKgl5fguT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27374cd8ad952524e5eb6463bda" alt="" width="50" /> | Identity | Identity | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 328 | 💚 | [🔗](https://open.spotify.com/track/5vL4zyP6X132arv4VhySLT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ded03a196ef62a7b250c0508" alt="" width="50" /> | NEW LOOK | NEW LOOK | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 333 | 💚 | [🔗](https://open.spotify.com/track/451U7NEyfqtVefeIgSoJF0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Do not touch | Masterpiece | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 336 | 💚 | [🔗](https://open.spotify.com/track/5gq7xM6eI16osBO2U581NL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | Do not touch | Masterpiece | [MISAMO](overview.md) | [WM Japan](../../labels/wm_japan) | 337 | 💚 | [🔗](https://open.spotify.com/track/5gq7xM6eI16osBO2U581NL) |
