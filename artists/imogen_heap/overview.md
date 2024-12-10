@@ -10,7 +10,7 @@ Imogen Heap:
 - is a member of Frou Frou
 
 ## Artist Rank
-- The #369 artist of all time
+- The #371 artist of all time
 
 ![Rank of Imogen Heap over time](../../images/artists/imogen_heap/rank_time_series.png)
 ## Top Albums
@@ -19,10 +19,10 @@ Imogen Heap:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | 527 | 4 | 3 | Ellipse | 2009-08-25 | [🔗](https://open.spotify.com/album/5AYKGPzPBJNHeKehCxMaq0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="" width="50" /> | 690 | 3 | 3 | Speak for Yourself | 2005-07-18 | [🔗](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52" alt="" width="50" /> | 690 | 1 | 1 | A New Kind Of Love (Demo) | 2022-04-08 | [🔗](https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27389d2970ad135571a0243ca31" alt="" width="50" /> | 690 | 1 | 0 | Goodnight And Go | 2006-05-02 | [🔗](https://open.spotify.com/album/3JYjYjUAoBjxXr1W8eDVLV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | 530 | 4 | 3 | Ellipse | 2009-08-25 | [🔗](https://open.spotify.com/album/5AYKGPzPBJNHeKehCxMaq0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="" width="50" /> | 692 | 3 | 3 | Speak for Yourself | 2005-07-18 | [🔗](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52" alt="" width="50" /> | 692 | 1 | 1 | A New Kind Of Love (Demo) | 2022-04-08 | [🔗](https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389d2970ad135571a0243ca31" alt="" width="50" /> | 692 | 1 | 0 | Goodnight And Go | 2006-05-02 | [🔗](https://open.spotify.com/album/3JYjYjUAoBjxXr1W8eDVLV) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -85,12 +85,12 @@ Imogen Heap:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | Aha! | Ellipse | [Imogen Heap](overview.md) | [RCA Records Label](../../labels/rca_records_label) | 791 | 💚 | [🔗](https://open.spotify.com/track/42itRd5WoYb42RSYOloJvD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="" width="50" /> | Closing In | Speak for Yourself | [Imogen Heap](overview.md) | Sony BMG Music UK | 1046 | 💚 | [🔗](https://open.spotify.com/track/3wKRHAG6IvErggsniF1a3j) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="" width="50" /> | Goodnight and Go | Speak for Yourself | [Imogen Heap](overview.md) | Sony BMG Music UK | 1046 | 💚 | [🔗](https://open.spotify.com/track/0vfWzo75MKGYiQSiT5jEzt) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="" width="50" /> | Hide and Seek | Speak for Yourself | [Imogen Heap](overview.md) | Sony BMG Music UK | 1046 | 💚 | [🔗](https://open.spotify.com/track/7mMlbJlXXo2mRtQ4R9sIzD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27389d2970ad135571a0243ca31" alt="" width="50" /> | Speeding Cars | Goodnight And Go | [Imogen Heap](overview.md) | RCA Victor | 1046 | | [🔗](https://open.spotify.com/track/5qeh0TEQCFdmUVnSRKG9md) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | Earth | Ellipse | [Imogen Heap](overview.md) | [RCA Records Label](../../labels/rca_records_label) | 1046 | 💚 | [🔗](https://open.spotify.com/track/4zXgNwVhtfDrPLjKs52msC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | First Train Home | Ellipse | [Imogen Heap](overview.md) | [RCA Records Label](../../labels/rca_records_label) | 1046 | | [🔗](https://open.spotify.com/track/504gJcwsW5n0s3Zj5uAedr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | Wait It Out | Ellipse | [Imogen Heap](overview.md) | [RCA Records Label](../../labels/rca_records_label) | 1046 | 💚 | [🔗](https://open.spotify.com/track/4xszw2YraekWIpj0SZ6Lp6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52" alt="" width="50" /> | A New Kind Of Love - Demo | A New Kind Of Love (Demo) | Frou Frou, [Imogen Heap](overview.md), Guy Sigsworth | Megaphonic | 1046 | 💚 | [🔗](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | Aha! | Ellipse | [Imogen Heap](overview.md) | [RCA Records Label](../../labels/rca_records_label) | 792 | 💚 | [🔗](https://open.spotify.com/track/42itRd5WoYb42RSYOloJvD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="" width="50" /> | Closing In | Speak for Yourself | [Imogen Heap](overview.md) | Sony BMG Music UK | 1053 | 💚 | [🔗](https://open.spotify.com/track/3wKRHAG6IvErggsniF1a3j) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="" width="50" /> | Goodnight and Go | Speak for Yourself | [Imogen Heap](overview.md) | Sony BMG Music UK | 1053 | 💚 | [🔗](https://open.spotify.com/track/0vfWzo75MKGYiQSiT5jEzt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273866872ba52cf201fc33995cc" alt="" width="50" /> | Hide and Seek | Speak for Yourself | [Imogen Heap](overview.md) | Sony BMG Music UK | 1053 | 💚 | [🔗](https://open.spotify.com/track/7mMlbJlXXo2mRtQ4R9sIzD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27389d2970ad135571a0243ca31" alt="" width="50" /> | Speeding Cars | Goodnight And Go | [Imogen Heap](overview.md) | RCA Victor | 1053 | | [🔗](https://open.spotify.com/track/5qeh0TEQCFdmUVnSRKG9md) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | Earth | Ellipse | [Imogen Heap](overview.md) | [RCA Records Label](../../labels/rca_records_label) | 1053 | 💚 | [🔗](https://open.spotify.com/track/4zXgNwVhtfDrPLjKs52msC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | First Train Home | Ellipse | [Imogen Heap](overview.md) | [RCA Records Label](../../labels/rca_records_label) | 1053 | | [🔗](https://open.spotify.com/track/504gJcwsW5n0s3Zj5uAedr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317dc79c9dc42ed849bba7020" alt="" width="50" /> | Wait It Out | Ellipse | [Imogen Heap](overview.md) | [RCA Records Label](../../labels/rca_records_label) | 1053 | 💚 | [🔗](https://open.spotify.com/track/4xszw2YraekWIpj0SZ6Lp6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52" alt="" width="50" /> | A New Kind Of Love - Demo | A New Kind Of Love (Demo) | Frou Frou, [Imogen Heap](overview.md), Guy Sigsworth | Megaphonic | 1053 | 💚 | [🔗](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H) |
