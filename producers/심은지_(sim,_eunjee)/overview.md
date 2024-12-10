@@ -44,7 +44,7 @@
 | 임찬미 | 임찬미 (Kim, Chan-mi) | 1 |
 | EJAE | EJAE | 1 |
 | 구종필 | [구종필 (Koo, Jong-Pil)](../구종필_(koo,_jong-pil)/overview.md) | 1 |
-| Kyler Niko | Kyler Niko | 1 |
+| Kyler Niko | [Kyler Niko](../kyler_niko/overview.md) | 1 |
 | 常楽寺澪 | 常楽寺澪 (Jorakuji, Mio) | 1 |
 | Greg Bonnick | Greg Bonnick | 1 |
 | 김영현 | 김영현 (Kim, Young-hyun) | 1 |

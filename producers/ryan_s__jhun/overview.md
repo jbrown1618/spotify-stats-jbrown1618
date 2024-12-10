@@ -4,17 +4,17 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Arranger | 22 |
+| Arranger | 23 |
 | Lyricist | 5 |
 | Producer | 1 |
-| Songwriter | 24 |
+| Songwriter | 25 |
 
 ## Produces for Artists
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8939960e5144b51d7903899f" alt="" width="50" /> | 18 | 7 | 7 | [IVE](../../artists/ive/overview.md) | [🔗](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5cd460490fb1c55b8ed8c40b" alt="" width="50" /> | 87 | 2 | 2 | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5cd460490fb1c55b8ed8c40b" alt="" width="50" /> | 91 | 2 | 2 | [OH MY GIRL](../../artists/oh_my_girl/overview.md) | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb02a562ea6b1dc718394010ac" alt="" width="50" /> | 2 | 2 | 2 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd1ac6571dabb7eb6968f0f06" alt="" width="50" /> | 52 | 2 | 2 | [TAEMIN](../../artists/taemin/overview.md) | [🔗](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eba3144a3e92b0d80459903a34" alt="" width="50" /> | 194 | 1 | 1 | [VIVIZ](../../artists/viviz/overview.md) | [🔗](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) |
@@ -188,7 +188,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ce0130c09547c733984ba0e" alt="" width="50" /> | You Think | Arranger, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | Dumb Dumb | Arranger, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27371a70331062453ece06f8b79" alt="" width="50" /> | Don't U Wait No More | Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734957fced6061ee536ca618ab" alt="" width="50" /> | Dolphin | Arranger, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273849a155d7c0b67638c0a1a8a" alt="" width="50" /> | Bon voyage | Arranger, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734ed058b71650a6ca2c04adff" alt="" width="50" /> | Celebrity | Arranger, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b27304d1fa0ab8be50437e6bad1d" alt="" width="50" /> | Dun Dun Dance | Arranger, Lyricist, Songwriter |
@@ -208,3 +207,4 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd1b7473a9dc977501d1e8b0" alt="" width="50" /> | NO MORE (MA BOY) | Arranger, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2dff4b6f58682692c0b0beb" alt="" width="50" /> | Sexy In The Air | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2dff4b6f58682692c0b0beb" alt="" width="50" /> | Crush | Songwriter |
+| | nan | Arranger, Songwriter |

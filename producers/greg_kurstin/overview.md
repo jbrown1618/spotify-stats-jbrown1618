@@ -14,9 +14,9 @@
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb911dd6caa410128a05ab99aa" alt="" width="50" /> | 147 | 6 | 6 | [Sia](../../artists/sia/overview.md) | [🔗](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb68f6e5892075d7f22615bd17" alt="" width="50" /> | 133 | 1 | 1 | [Adele](../../artists/adele/overview.md) | [🔗](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb42ac28bac739fd27c568cf4b" alt="" width="50" /> | 449 | 1 | 1 | Maggie Rogers | [🔗](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebdb78fbd1c000f16792795648" alt="" width="50" /> | 449 | 1 | 1 | Zacari | [🔗](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb727a1f1f508238a20ac9fdbf" alt="" width="50" /> | 128 | 1 | 1 | [ROSÉ](../../artists/rosé/overview.md) | [🔗](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb42ac28bac739fd27c568cf4b" alt="" width="50" /> | 448 | 1 | 1 | Maggie Rogers | [🔗](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdb78fbd1c000f16792795648" alt="" width="50" /> | 448 | 1 | 1 | Zacari | [🔗](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb727a1f1f508238a20ac9fdbf" alt="" width="50" /> | 126 | 1 | 1 | [ROSÉ](../../artists/rosé/overview.md) | [🔗](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918" alt="" width="50" /> | 312 | 1 | 1 | [Kendrick Lamar](../../artists/kendrick_lamar/overview.md) | [🔗](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) |
 
 ## Works with Producers

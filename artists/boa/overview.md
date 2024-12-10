@@ -47,15 +47,15 @@ BoA is currently:
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | 143 | 3 | 3 | Forgive Me - The 3rd Mini Album | 2022-11-22 | [🔗](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738d076165a515afd63688b968" alt="" width="50" /> | 692 | 1 | 1 | WOMAN - The 9th Album | 2018-10-24 | [🔗](https://open.spotify.com/album/68AStxkvhmfQv3A1qdW8CP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b9283570dfc45e043afe104f" alt="" width="50" /> | 692 | 1 | 1 | ONE SHOT, TWO SHOT - The 1st Mini Album | 2018-02-20 | [🔗](https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735493e98d59bdda1c7246c756" alt="" width="50" /> | 692 | 1 | 1 | My Name - The 4th Album | 2004-11-06 | [🔗](https://open.spotify.com/album/3VoUpjkRS6bVaGOjSZgZyy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a65ec9d33253ecbcda27113b" alt="" width="50" /> | 692 | 1 | 1 | Kiss My Lips - The 8th Album | 2015-05-12 | [🔗](https://open.spotify.com/album/0SmJjNGEXCMp5bTGbxmjyy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f36e973cb830845b56621f78" alt="" width="50" /> | 692 | 1 | 1 | Emptiness | 2024-03-26 | [🔗](https://open.spotify.com/album/7Iipt9N6AEqCDHy73xPVtU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f90ab96d121ae92f4f763a6" alt="" width="50" /> | 692 | 1 | 1 | Eat You Up | 2008-10-21 | [🔗](https://open.spotify.com/album/1lXXKmt06BzHY1GhfY836k) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738d076165a515afd63688b968" alt="" width="50" /> | 690 | 1 | 1 | WOMAN - The 9th Album | 2018-10-24 | [🔗](https://open.spotify.com/album/68AStxkvhmfQv3A1qdW8CP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9283570dfc45e043afe104f" alt="" width="50" /> | 690 | 1 | 1 | ONE SHOT, TWO SHOT - The 1st Mini Album | 2018-02-20 | [🔗](https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735493e98d59bdda1c7246c756" alt="" width="50" /> | 690 | 1 | 1 | My Name - The 4th Album | 2004-11-06 | [🔗](https://open.spotify.com/album/3VoUpjkRS6bVaGOjSZgZyy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a65ec9d33253ecbcda27113b" alt="" width="50" /> | 690 | 1 | 1 | Kiss My Lips - The 8th Album | 2015-05-12 | [🔗](https://open.spotify.com/album/0SmJjNGEXCMp5bTGbxmjyy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f36e973cb830845b56621f78" alt="" width="50" /> | 690 | 1 | 1 | Emptiness | 2024-03-26 | [🔗](https://open.spotify.com/album/7Iipt9N6AEqCDHy73xPVtU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f90ab96d121ae92f4f763a6" alt="" width="50" /> | 690 | 1 | 1 | Eat You Up | 2008-10-21 | [🔗](https://open.spotify.com/album/1lXXKmt06BzHY1GhfY836k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | 58 | 1 | 1 | 2022 Winter SMTOWN : SMCU PALACE | 2022-12-26 | [🔗](https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731320580741caccf7a285ebc3" alt="" width="50" /> | 329 | 1 | 0 | メリクリ | 2004-12-01 | [🔗](https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27382b88b49dd9a1b387cb3f0c6" alt="" width="50" /> | 692 | 1 | 0 | TRI-ANGLE - 1st Album | 2004-10-01 | [🔗](https://open.spotify.com/album/1013imXHa490acqEZkQpeX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27382b88b49dd9a1b387cb3f0c6" alt="" width="50" /> | 690 | 1 | 0 | TRI-ANGLE - 1st Album | 2004-10-01 | [🔗](https://open.spotify.com/album/1013imXHa490acqEZkQpeX) |
 
 
 <details>
@@ -63,11 +63,11 @@ BoA is currently:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273479b12377447aa995cd0f93b" alt="" width="50" /> | 692 | 1 | 0 | Only One - The 7th Album | 2012-07-22 | [🔗](https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e9e1fd55a8798bc0a49fe28c" alt="" width="50" /> | 692 | 1 | 0 | No.1 - The 2nd Album | 2002-01-04 | [🔗](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736e846cd9e1fe57297399af55" alt="" width="50" /> | 692 | 1 | 0 | Merry-Chri | 2004-12-01 | [🔗](https://open.spotify.com/album/4oqQrLd2zP701hWtcGx0Vr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27301f2ffc72e8c0556b3abad4c" alt="" width="50" /> | 616 | 1 | 0 | Girls On Top | 2005-06-24 | [🔗](https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273beb813f48fd0a37fe0969024" alt="" width="50" /> | 317 | 1 | 0 | BETTER - The 10th Album | 2020-12-01 | [🔗](https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273479b12377447aa995cd0f93b" alt="" width="50" /> | 690 | 1 | 0 | Only One - The 7th Album | 2012-07-22 | [🔗](https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9e1fd55a8798bc0a49fe28c" alt="" width="50" /> | 690 | 1 | 0 | No.1 - The 2nd Album | 2002-01-04 | [🔗](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e846cd9e1fe57297399af55" alt="" width="50" /> | 690 | 1 | 0 | Merry-Chri | 2004-12-01 | [🔗](https://open.spotify.com/album/4oqQrLd2zP701hWtcGx0Vr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27301f2ffc72e8c0556b3abad4c" alt="" width="50" /> | 609 | 1 | 0 | Girls On Top | 2005-06-24 | [🔗](https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273beb813f48fd0a37fe0969024" alt="" width="50" /> | 316 | 1 | 0 | BETTER - The 10th Album | 2020-12-01 | [🔗](https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM) |
 
 </details>
 
@@ -80,7 +80,7 @@ BoA is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e020c053ee476f7ce576369241eab67616d00001e02119e4094f07a8123b471ac1dab67616d00001e022a0face7d69df61c20a6db2bab67616d00001e02cfbcba7cc35a40e08e5aff67" alt="" width="50" /> | 2 | [Christmas](../../playlists/christmas/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e0286ca91e718866f411c01db5eab67616d00001e02c8b444df094279e70d0ed856ab67616d00001e02ce4f1737bc8a646c8c4bd25a" alt="" width="50" /> | 1 | [Beat Drop!](../../playlists/beat_drop!/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0282b88b49dd9a1b387cb3f0c6ab67616d00001e0293f60760427ff9cb94a5ba96ab67616d00001e02d2ef237da7f94762997c2083ab67616d00001e02e9cd59d664f597061a513038" alt="" width="50" /> | 1 | [Classical Samples](../../playlists/classical_samples/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02220771be23654c95cf787349ab67616d00001e0224936098cb2874153291a3f9ab67616d00001e02b3be3b970fc89a02f301c9daab67616d00001e02fe31201bbc019b1636066dc3" alt="" width="50" /> | 1 | [My Top Songs 2023](../../playlists/my_top_songs_2023/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02b3be3b970fc89a02f301c9daab67616d00001e02d8cc2281fcd4519ca020926bab67616d00001e02edf5b257be1d6593e81bb45fab67616d00001e02fe31201bbc019b1636066dc3" alt="" width="50" /> | 1 | [My Top Songs 2023](../../playlists/my_top_songs_2023/overview.md) |
 
 ## Top Record Labels
 
@@ -164,14 +164,14 @@ BoA is currently:
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273f184dfda8eaeac06fff5e14e" alt="" width="50" /> | Time After Time | 2022 Winter SMTOWN : SMCU PALACE | [BoA](overview.md), [WENDY](../wendy/overview.md), NINGNING | [SM Entertainment](../../labels/sm_entertainment) | 65 | 💚 | [🔗](https://open.spotify.com/track/6LGcOydwjfaquaRgJwlPkK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | Forgive Me | Forgive Me - The 3rd Mini Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 183 | 💚 | [🔗](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273beb813f48fd0a37fe0969024" alt="" width="50" /> | Better | BETTER - The 10th Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 447 | | [🔗](https://open.spotify.com/track/2k44rKotfi2k55hwwiCImN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731320580741caccf7a285ebc3" alt="" width="50" /> | THE CHRISTMAS SONG | メリクリ | [BoA](overview.md) | [avex trax](../../labels/avex_trax) | 468 | | [🔗](https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | ZIP | Forgive Me - The 3rd Mini Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 647 | 💚 | [🔗](https://open.spotify.com/track/0IaT9XnG72sPXvUAsYdEzC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27301f2ffc72e8c0556b3abad4c" alt="" width="50" /> | Girls On Top | Girls On Top | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 930 | | [🔗](https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e9e1fd55a8798bc0a49fe28c" alt="" width="50" /> | No.1 | No.1 - The 2nd Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1053 | | [🔗](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27382b88b49dd9a1b387cb3f0c6" alt="" width="50" /> | TRI-ANGLE - Extended Version | TRI-ANGLE - 1st Album | [TVXQ!](../tvxq!/overview.md), [BoA](overview.md), TRAX | [SM Entertainment](../../labels/sm_entertainment) | 1053 | | [🔗](https://open.spotify.com/track/4Wkw62rPTP1v37vdwUJ1Yg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735493e98d59bdda1c7246c756" alt="" width="50" /> | My Name | My Name - The 4th Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1053 | 💚 | [🔗](https://open.spotify.com/track/15wqZsAVQLMEqqUCIbz6Fp) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736e846cd9e1fe57297399af55" alt="" width="50" /> | Merry-Chri | Merry-Chri | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1053 | | [🔗](https://open.spotify.com/track/3yVUAgXBPozhKKeXphiTY3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273beb813f48fd0a37fe0969024" alt="" width="50" /> | Better | BETTER - The 10th Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 448 | | [🔗](https://open.spotify.com/track/2k44rKotfi2k55hwwiCImN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731320580741caccf7a285ebc3" alt="" width="50" /> | THE CHRISTMAS SONG | メリクリ | [BoA](overview.md) | [avex trax](../../labels/avex_trax) | 467 | | [🔗](https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | ZIP | Forgive Me - The 3rd Mini Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 648 | 💚 | [🔗](https://open.spotify.com/track/0IaT9XnG72sPXvUAsYdEzC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27301f2ffc72e8c0556b3abad4c" alt="" width="50" /> | Girls On Top | Girls On Top | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 933 | | [🔗](https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e9e1fd55a8798bc0a49fe28c" alt="" width="50" /> | No.1 | No.1 - The 2nd Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1054 | | [🔗](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27382b88b49dd9a1b387cb3f0c6" alt="" width="50" /> | TRI-ANGLE - Extended Version | TRI-ANGLE - 1st Album | [TVXQ!](../tvxq!/overview.md), [BoA](overview.md), TRAX | [SM Entertainment](../../labels/sm_entertainment) | 1054 | | [🔗](https://open.spotify.com/track/4Wkw62rPTP1v37vdwUJ1Yg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735493e98d59bdda1c7246c756" alt="" width="50" /> | My Name | My Name - The 4th Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1054 | 💚 | [🔗](https://open.spotify.com/track/15wqZsAVQLMEqqUCIbz6Fp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736e846cd9e1fe57297399af55" alt="" width="50" /> | Merry-Chri | Merry-Chri | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1054 | | [🔗](https://open.spotify.com/track/3yVUAgXBPozhKKeXphiTY3) |
 
 
 <details>
@@ -179,13 +179,13 @@ BoA is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f90ab96d121ae92f4f763a6" alt="" width="50" /> | Eat You Up | Eat You Up | [BoA](overview.md) | Fontana South | 1053 | 💚 | [🔗](https://open.spotify.com/track/3lrwnoggORNfLs0jiGqBhA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273479b12377447aa995cd0f93b" alt="" width="50" /> | Only One | Only One - The 7th Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1053 | | [🔗](https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a65ec9d33253ecbcda27113b" alt="" width="50" /> | Kiss My Lips | Kiss My Lips - The 8th Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1053 | 💚 | [🔗](https://open.spotify.com/track/0T3uL8inslJIxiQyLlMenl) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b9283570dfc45e043afe104f" alt="" width="50" /> | ONE SHOT, TWO SHOT | ONE SHOT, TWO SHOT - The 1st Mini Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1053 | 💚 | [🔗](https://open.spotify.com/track/1OWxlgwPtWuEvGkH8uS1Tj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738d076165a515afd63688b968" alt="" width="50" /> | Woman | WOMAN - The 9th Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1053 | 💚 | [🔗](https://open.spotify.com/track/14rpBBTV0qi60Ex4jonuNi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | Breathe | Forgive Me - The 3rd Mini Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1053 | 💚 | [🔗](https://open.spotify.com/track/2Y79S1WsgBZbCC3BJi1Z01) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f36e973cb830845b56621f78" alt="" width="50" /> | Emptiness | Emptiness | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1053 | 💚 | [🔗](https://open.spotify.com/track/55W3ONBbW98Cqvk0ZIoaKR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f90ab96d121ae92f4f763a6" alt="" width="50" /> | Eat You Up | Eat You Up | [BoA](overview.md) | Fontana South | 1054 | 💚 | [🔗](https://open.spotify.com/track/3lrwnoggORNfLs0jiGqBhA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273479b12377447aa995cd0f93b" alt="" width="50" /> | Only One | Only One - The 7th Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1054 | | [🔗](https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a65ec9d33253ecbcda27113b" alt="" width="50" /> | Kiss My Lips | Kiss My Lips - The 8th Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1054 | 💚 | [🔗](https://open.spotify.com/track/0T3uL8inslJIxiQyLlMenl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9283570dfc45e043afe104f" alt="" width="50" /> | ONE SHOT, TWO SHOT | ONE SHOT, TWO SHOT - The 1st Mini Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1054 | 💚 | [🔗](https://open.spotify.com/track/1OWxlgwPtWuEvGkH8uS1Tj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738d076165a515afd63688b968" alt="" width="50" /> | Woman | WOMAN - The 9th Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1054 | 💚 | [🔗](https://open.spotify.com/track/14rpBBTV0qi60Ex4jonuNi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f422ff6b7d82ac38f7821d46" alt="" width="50" /> | Breathe | Forgive Me - The 3rd Mini Album | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1054 | 💚 | [🔗](https://open.spotify.com/track/2Y79S1WsgBZbCC3BJi1Z01) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f36e973cb830845b56621f78" alt="" width="50" /> | Emptiness | Emptiness | [BoA](overview.md) | [SM Entertainment](../../labels/sm_entertainment) | 1054 | 💚 | [🔗](https://open.spotify.com/track/55W3ONBbW98Cqvk0ZIoaKR) |
 
 </details>
 

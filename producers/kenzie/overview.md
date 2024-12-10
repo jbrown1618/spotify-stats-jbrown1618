@@ -15,7 +15,7 @@
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab6761610000e5eb02a562ea6b1dc718394010ac" alt="" width="50" /> | 2 | 5 | 5 | [Red Velvet](../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf7a1090ad3a35a34fc0ecb57" alt="" width="50" /> | 1 | 5 | 3 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf7a1090ad3a35a34fc0ecb57" alt="" width="50" /> | 1 | 4 | 3 | [aespa](../../artists/aespa/overview.md) | [🔗](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb5d9ebbbbe3fff5a330b40c8" alt="" width="50" /> | 8 | 2 | 2 | [TAEYEON](../../artists/taeyeon/overview.md) | [🔗](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb385df356841aaec34a0914aa" alt="" width="50" /> | 21 | 2 | 1 | [Girls' Generation](../../artists/girls__generation/overview.md) | [🔗](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9426413cf033b2e0eedfeff6" alt="" width="50" /> | 254 | 1 | 1 | Girls' Generation-TTS | [🔗](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) |
@@ -127,5 +127,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273034c3a8ba89c6a5ecfda3175" alt="" width="50" /> | Set Myself On Fire | Lyricist, Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735fb4a9cfbeb3b7beb337ed02" alt="" width="50" /> | POP! | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aea29200523b1ee4d5b2c035" alt="" width="50" /> | FOREVER 1 | Arranger, Lyricist, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b273090cfa22962b115ac530674c" alt="" width="50" /> | BAHAMA | Lyricist, Songwriter |
+| | nan | Lyricist, Songwriter |
 | | nan | Lyricist, Songwriter |

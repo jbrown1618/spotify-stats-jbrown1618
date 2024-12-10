@@ -28,7 +28,7 @@
 | 김인형 | 김인형 (Kim, In Hyung) | 2 |
 | Sunshine | Sunshine | 2 |
 | Anne Judith Wik | Anne Judith Wik | 2 |
-| Kyler Niko | Kyler Niko | 2 |
+| Kyler Niko | [Kyler Niko](../kyler_niko/overview.md) | 2 |
 | 김준혁 | 김준혁 (Kim Joonhyuk) | 2 |
 | Courtney Woolsey | Courtney Woolsey | 2 |
 

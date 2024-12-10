@@ -15,7 +15,7 @@ MISAMO:
 ## Artist Rank
 MISAMO is currently:
 - The #18 artist of the last month
-- The #29 artist of the last 6 months
+- The #28 artist of the last 6 months
 - The #40 artist of all time
 
 ![Rank of MISAMO over time](../../images/artists/misamo/rank_time_series.png)
@@ -49,9 +49,9 @@ MISAMO is currently:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | 30 | 4 | 4 | Masterpiece | 2023-07-26 | [🔗](https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ded03a196ef62a7b250c0508" alt="" width="50" /> | 242 | 1 | 1 | NEW LOOK | 2024-10-09 | [🔗](https://open.spotify.com/album/0nIHweIUCe2nVy5stte3GY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27374cd8ad952524e5eb6463bda" alt="" width="50" /> | 236 | 1 | 1 | Identity | 2024-10-28 | [🔗](https://open.spotify.com/album/7xzn12f7FNR7ZaZ5RB7afD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735babc6b49ac8a93fc5fc464a" alt="" width="50" /> | 29 | 4 | 4 | Masterpiece | 2023-07-26 | [🔗](https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ded03a196ef62a7b250c0508" alt="" width="50" /> | 241 | 1 | 1 | NEW LOOK | 2024-10-09 | [🔗](https://open.spotify.com/album/0nIHweIUCe2nVy5stte3GY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27374cd8ad952524e5eb6463bda" alt="" width="50" /> | 235 | 1 | 1 | Identity | 2024-10-28 | [🔗](https://open.spotify.com/album/7xzn12f7FNR7ZaZ5RB7afD) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -62,7 +62,7 @@ MISAMO is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0219a6b36bc551982ab4ec0fabab67616d00001e025455deaf573fcc15b3f21183ab67616d00001e02bb8bc09353483595d036e475ab67616d00001e02c0fd19def5108123e077d634" alt="" width="50" /> | 2 | [Recent Comebacks](../../playlists/recent_comebacks/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e023613e1e0d35867a0814005a9ab67616d00001e024a8e5eaab8b02db02e487c27ab67616d00001e0259fcda8d47bbd0f6c2bf1647ab67616d00001e028bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 1 | [Halloween](../../playlists/halloween/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e021544041d0285585cc92c2709ab67616d00001e02714e56679ab196354e2e443eab67616d00001e027a2f8579b32544cc5ca0118aab67616d00001e0282f9c612adc8bc8d1d62461a" alt="" width="50" /> | 1 | [애교！](../../playlists/애교！/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02220771be23654c95cf787349ab67616d00001e0224936098cb2874153291a3f9ab67616d00001e02b3be3b970fc89a02f301c9daab67616d00001e02fe31201bbc019b1636066dc3" alt="" width="50" /> | 1 | [My Top Songs 2023](../../playlists/my_top_songs_2023/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02b3be3b970fc89a02f301c9daab67616d00001e02d8cc2281fcd4519ca020926bab67616d00001e02edf5b257be1d6593e81bb45fab67616d00001e02fe31201bbc019b1636066dc3" alt="" width="50" /> | 1 | [My Top Songs 2023](../../playlists/my_top_songs_2023/overview.md) |
 
 ## Top Record Labels
 

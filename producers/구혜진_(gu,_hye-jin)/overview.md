@@ -14,7 +14,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3448062884d4ad30473e964b" alt="" width="50" /> | 4 | 6 | 5 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2b9446440d296ce32189024e" alt="" width="50" /> | 17 | 3 | 3 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8f7649273b8f02d16808a2c5" alt="" width="50" /> | 99 | 2 | 2 | NAYEON | [🔗](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) |
-| | 449 | 1 | 1 | Felix (Stray Kids) | [🔗](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) |
+| | 448 | 1 | 1 | Felix (Stray Kids) | [🔗](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdbe356bad5c3576e77dbf36f" alt="" width="50" /> | 10 | 1 | 1 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 
 ## Works with Producers
@@ -67,7 +67,7 @@
 | Kelsey Klingensmith | Kelsey Klingensmith | 1 |
 | 정다연 | 정다연 (Jeong, Dayeon) | 1 |
 | Karin Wilhemina Eurenius | Karin Wilhemina Eurenius | 1 |
-| Kyler Niko | Kyler Niko | 1 |
+| Kyler Niko | [Kyler Niko](../kyler_niko/overview.md) | 1 |
 | Kaedi Dalley | Kaedi Dalley | 1 |
 | 72 | 72 | 1 |
 | 이우민 | 이우민 (Yiwoomin) | 1 |

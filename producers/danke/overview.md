@@ -68,7 +68,7 @@
 | Josh Gudwin | [Josh Gudwin](../josh_gudwin/overview.md) | 1 |
 | Maia Wright | Maia Wright | 1 |
 | Nikolay Mohr | Nikolay Mohr | 1 |
-| Kyler Niko | Kyler Niko | 1 |
+| Kyler Niko | [Kyler Niko](../kyler_niko/overview.md) | 1 |
 | Caroline Gerd Gustavsson | Caroline Gerd Gustavsson | 1 |
 | 박지현 | 박지현 (Park, Ji-hyun) | 1 |
 | 김채원 | 김채원 (Kim, Chae-won) | 1 |

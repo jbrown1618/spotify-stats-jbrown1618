@@ -16,7 +16,7 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | 187 | 3 | 3 | Prince | [🔗](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeaca358712b3fe4ed9814640" alt="" width="50" /> | 188 | 3 | 3 | Prince | [🔗](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) |
 
 ## Works with Producers
 

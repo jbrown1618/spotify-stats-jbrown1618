@@ -17,7 +17,7 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb53b0804552178db3b27d8a6b" alt="" width="50" /> | 106 | 1 | 1 | CHANGMO | [🔗](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdbe356bad5c3576e77dbf36f" alt="" width="50" /> | 10 | 1 | 1 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb487ae121468ca9f26d893c0f" alt="" width="50" /> | 22 | 1 | 1 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc52a3dda9c86c50ecb1fffc3" alt="" width="50" /> | 449 | 1 | 1 | Guaynaa | [🔗](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc52a3dda9c86c50ecb1fffc3" alt="" width="50" /> | 448 | 1 | 1 | Guaynaa | [🔗](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) |
 
 ## Works with Producers
 

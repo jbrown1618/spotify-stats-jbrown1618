@@ -39,7 +39,7 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Kyler Niko | Kyler Niko | 4 |
+| Kyler Niko | [Kyler Niko](../kyler_niko/overview.md) | 4 |
 | Chris Galland | Chris Galland | 3 |
 | Paulina Cerrilla | Paulina Cerrilla | 3 |
 | Manny Marroquin | [Manny Marroquin](../manny_marroquin/overview.md) | 3 |

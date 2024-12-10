@@ -30,11 +30,11 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5ebead4ff7bc938ff56d7b532f1" alt="" width="50" /> | 71 | 1 | 1 | [WINTER](../../../artists/winter/overview.md) | [🔗](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb1402fcb25db7c508972e172d" alt="" width="50" /> | 76 | 1 | 1 | RIIZE | [🔗](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdbe356bad5c3576e77dbf36f" alt="" width="50" /> | 10 | 1 | 1 | [Stray Kids](../../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5cd460490fb1c55b8ed8c40b" alt="" width="50" /> | 87 | 1 | 1 | [OH MY GIRL](../../../artists/oh_my_girl/overview.md) | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5cd460490fb1c55b8ed8c40b" alt="" width="50" /> | 91 | 1 | 1 | [OH MY GIRL](../../../artists/oh_my_girl/overview.md) | [🔗](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb02a562ea6b1dc718394010ac" alt="" width="50" /> | 2 | 1 | 1 | [Red Velvet](../../../artists/red_velvet/overview.md) | [🔗](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb66c3e4fa90021cb3de9f6071" alt="" width="50" /> | 90 | 1 | 1 | BANG YEDAM | [🔗](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb66c3e4fa90021cb3de9f6071" alt="" width="50" /> | 89 | 1 | 1 | BANG YEDAM | [🔗](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebb419d66ef21661311c806bfe" alt="" width="50" /> | 81 | 1 | 1 | BABYMONSTER | [🔗](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebcc1b96a354e2088071c5aec5" alt="" width="50" /> | 188 | 1 | 1 | [XG](../../../artists/xg/overview.md) | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebcc1b96a354e2088071c5aec5" alt="" width="50" /> | 187 | 1 | 1 | [XG](../../../artists/xg/overview.md) | [🔗](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) |
 
 </details>
 
@@ -45,11 +45,11 @@
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb604294f8f58c9078f58b1" alt="" width="50" /> | 116 | 3 | 3 | Whiplash - The 5th Mini Album | 2024-10-21 | [🔗](https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | 106 | 2 | 2 | YUQ1 | 2024-04-23 | [🔗](https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | 23 | 2 | 2 | The Winning | 2024-02-20 | [🔗](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | 22 | 2 | 2 | The Winning | 2024-02-20 | [🔗](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="" width="50" /> | 56 | 2 | 2 | TEN - The 1st Mini Album | 2024-02-13 | [🔗](https://open.spotify.com/album/50Zo1vf3YCQtXLUZr2oBiQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273253096eda3b7826c11c7fab8" alt="" width="50" /> | 108 | 2 | 2 | SYNK : PARALLEL LINE - Special Digital Single | 2024-10-09 | [🔗](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c9c9aaadb2d6d3d44be06332" alt="" width="50" /> | 95 | 2 | 2 | Fe3O4: STICK OUT | 2024-08-19 | [🔗](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | 22 | 2 | 2 | Fe3O4: BREAK | 2024-01-15 | [🔗](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | 21 | 2 | 2 | Fe3O4: BREAK | 2024-01-15 | [🔗](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | 5 | 2 | 2 | BORN TO BE | 2024-01-08 | [🔗](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c60843bafc67821cff6df260" alt="" width="50" /> | 8 | 2 | 2 | Armageddon - The 1st Album | 2024-05-26 | [🔗](https://open.spotify.com/album/4SboBpuYojDm02qS4iFeJC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | 61 | 2 | 2 | 2 | 2024-01-29 | [🔗](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) |
@@ -60,23 +60,23 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2731b8ae147aceb9fc130391287" alt="" width="50" /> | 169 | 1 | 1 | SPOT! | 2024-04-26 | [🔗](https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731b8ae147aceb9fc130391287" alt="" width="50" /> | 168 | 1 | 1 | SPOT! | 2024-04-26 | [🔗](https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c498180e56f57e7d7bcdb86" alt="" width="50" /> | 151 | 1 | 1 | SEVENTEEN BEST ALBUM '17 IS RIGHT HERE' | 2024-04-29 | [🔗](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273653887a83332de0350151f10" alt="" width="50" /> | 85 | 1 | 1 | ROMANCE : UNTOLD | 2024-07-12 | [🔗](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27369ad639dd6829cb2414a53f9" alt="" width="50" /> | 127 | 1 | 1 | RIIZING - The 1st Mini Album | 2024-06-17 | [🔗](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27369ad639dd6829cb2414a53f9" alt="" width="50" /> | 126 | 1 | 1 | RIIZING - The 1st Mini Album | 2024-06-17 | [🔗](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bf32f4be80afeb0e1a09b27d" alt="" width="50" /> | 98 | 1 | 1 | Officially Cool | 2024-04-02 | [🔗](https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27307568782625b85282541394b" alt="" width="50" /> | 119 | 1 | 1 | Midas Touch | 2024-04-03 | [🔗](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a3775761df7db97cf6699e41" alt="" width="50" /> | 180 | 1 | 1 | Mantra | 2024-10-10 | [🔗](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a3775761df7db97cf6699e41" alt="" width="50" /> | 178 | 1 | 1 | Mantra | 2024-10-10 | [🔗](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd445ee11837be20675f313a" alt="" width="50" /> | 277 | 1 | 1 | Letter To Myself - The 6th Mini Album | 2024-11-18 | [🔗](https://open.spotify.com/album/47f7hcYu2nGCYcRx5d8zCM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f42408abe884b81be4f9121b" alt="" width="50" /> | 166 | 1 | 1 | Ice Cream | 2024-08-02 | [🔗](https://open.spotify.com/album/5Q41ZTpaEpDVtgu1yAtAPR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f42408abe884b81be4f9121b" alt="" width="50" /> | 165 | 1 | 1 | Ice Cream | 2024-08-02 | [🔗](https://open.spotify.com/album/5Q41ZTpaEpDVtgu1yAtAPR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326cc1062ed475f238d244141" alt="" width="50" /> | 107 | 1 | 1 | IVE SWITCH | 2024-04-29 | [🔗](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f4f600429c480c475e8c5ad" alt="" width="50" /> | 103 | 1 | 1 | Heaven | 2024-07-08 | [🔗](https://open.spotify.com/album/68taLckvPxHRtNa8QjQJ5e) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bcdcc14c83a6bc5dc1fc3cb5" alt="" width="50" /> | 192 | 1 | 1 | Dreamy Resonance | 2024-08-26 | [🔗](https://open.spotify.com/album/4XZFgEjQ4Un1TNHAtTC87m) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bcdcc14c83a6bc5dc1fc3cb5" alt="" width="50" /> | 191 | 1 | 1 | Dreamy Resonance | 2024-08-26 | [🔗](https://open.spotify.com/album/4XZFgEjQ4Un1TNHAtTC87m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27355a4b0d253296e5fe7516d45" alt="" width="50" /> | 78 | 1 | 1 | DARK MOON SPECIAL ALBUM <MEMORABILIA> | 2024-05-13 | [🔗](https://open.spotify.com/album/0OhJwEzXbK9Km6GQSPdmPU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27364097227a67397e231047524" alt="" width="50" /> | 70 | 1 | 1 | Cosmic | 2024-06-24 | [🔗](https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27333f4f800b259791768d04f40" alt="" width="50" /> | 690 | 1 | 1 | Cosmic | 2024-08-01 | [🔗](https://open.spotify.com/album/5lHtH6O6mCnVx1MNuPPBQK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734f6afc385052250c766a5683" alt="" width="50" /> | 91 | 1 | 1 | BABYMONS7ER | 2024-04-01 | [🔗](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273948eab0aad0232e829991528" alt="" width="50" /> | 418 | 1 | 1 | AWE | 2024-11-08 | [🔗](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27351700837cdbc6adddb88560a" alt="" width="50" /> | 157 | 1 | 1 | ATE | 2024-07-19 | [🔗](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273948eab0aad0232e829991528" alt="" width="50" /> | 415 | 1 | 1 | AWE | 2024-11-08 | [🔗](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27351700837cdbc6adddb88560a" alt="" width="50" /> | 156 | 1 | 1 | ATE | 2024-07-19 | [🔗](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) |
 
 </details>
 
@@ -104,7 +104,6 @@
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27364097227a67397e231047524" alt="" width="50" /> | Cosmic | Cosmic | [Red Velvet](../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 111 | 💚 | [🔗](https://open.spotify.com/track/0kE4TRJ0pWoRKzKdtbx8To) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bf32f4be80afeb0e1a09b27d" alt="" width="50" /> | Officially Cool | Officially Cool | BANG YEDAM, [WINTER](../../../artists/winter/overview.md) | [WM Korea](../../../labels/wm_korea) | 116 | 💚 | [🔗](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f4f600429c480c475e8c5ad" alt="" width="50" /> | Heaven | Heaven | [TAEYEON](../../../artists/taeyeon/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 125 | 💚 | [🔗](https://open.spotify.com/track/1fCKxY62wMnayTNSr3S3GN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | On Clap | YUQ1 | [YUQI](../../../artists/yuqi/overview.md), Lexie Liu | [Cube Entertainment](../../../labels/cube_entertainment) | 136 | 💚 | [🔗](https://open.spotify.com/track/2bRNKRk0sFlwEd7geduEpP) |
@@ -117,21 +116,22 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c9c9aaadb2d6d3d44be06332" alt="" width="50" /> | See that? | Fe3O4: STICK OUT | [NMIXX](../../../artists/nmixx/overview.md) | [Republic Records](../../../labels/republic_records) | 172 | 💚 | [🔗](https://open.spotify.com/track/3Zice5cXhiPVLwrdBJlyHc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273253096eda3b7826c11c7fab8" alt="" width="50" /> | UP - KARINA Solo | SYNK : PARALLEL LINE - Special Digital Single | [aespa](../../../artists/aespa/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 179 | 💚 | [🔗](https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c498180e56f57e7d7bcdb86" alt="" width="50" /> | Cheers to youth | SEVENTEEN BEST ALBUM '17 IS RIGHT HERE' | [SEVENTEEN](../../../artists/seventeen/overview.md) | [PLEDIS Entertainment](../../../labels/pledis_entertainment) | 195 | 💚 | [🔗](https://open.spotify.com/track/1XvOEvWtfa879Wk1wKHZ1M) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273253096eda3b7826c11c7fab8" alt="" width="50" /> | Spark - WINTER Solo | SYNK : PARALLEL LINE - Special Digital Single | [aespa](../../../artists/aespa/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 199 | 💚 | [🔗](https://open.spotify.com/track/2xoA126GEgFhrYzRaTH7E4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736eb604294f8f58c9078f58b1" alt="" width="50" /> | Flowers | Whiplash - The 5th Mini Album | [aespa](../../../artists/aespa/overview.md) | aespa | 200 | 💚 | [🔗](https://open.spotify.com/track/7polyembHZBHwSveAXE4cX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f42408abe884b81be4f9121b" alt="" width="50" /> | Ice Cream | Ice Cream | JEON SOMI | THEBLACKLABEL | 223 | 💚 | [🔗](https://open.spotify.com/track/6rXZhduf6TZb1mS1RjkHQ0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736eb604294f8f58c9078f58b1" alt="" width="50" /> | Flowers | Whiplash - The 5th Mini Album | [aespa](../../../artists/aespa/overview.md) | aespa | 199 | 💚 | [🔗](https://open.spotify.com/track/7polyembHZBHwSveAXE4cX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273253096eda3b7826c11c7fab8" alt="" width="50" /> | Spark - WINTER Solo | SYNK : PARALLEL LINE - Special Digital Single | [aespa](../../../artists/aespa/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 200 | 💚 | [🔗](https://open.spotify.com/track/2xoA126GEgFhrYzRaTH7E4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f42408abe884b81be4f9121b" alt="" width="50" /> | Ice Cream | Ice Cream | JEON SOMI | THEBLACKLABEL | 224 | 💚 | [🔗](https://open.spotify.com/track/6rXZhduf6TZb1mS1RjkHQ0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27351700837cdbc6adddb88560a" alt="" width="50" /> | twilight | ATE | [Stray Kids](../../../artists/stray_kids/overview.md) | [Republic Records](../../../labels/republic_records) | 231 | 💚 | [🔗](https://open.spotify.com/track/1T0hdoMSjzoKUPbKRmrDg3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b8ae147aceb9fc130391287" alt="" width="50" /> | SPOT! | SPOT! | ZICO, JENNIE | KOZ Entertainment | 239 | 💚 | [🔗](https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb604294f8f58c9078f58b1" alt="" width="50" /> | Whiplash | Whiplash - The 5th Mini Album | [aespa](../../../artists/aespa/overview.md) | aespa | 241 | 💚 | [🔗](https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a3775761df7db97cf6699e41" alt="" width="50" /> | Mantra | Mantra | JENNIE | [OA Entertainment/Columbia](../../../labels/columbia) | 249 | 💚 | [🔗](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | Red Rover | YUQ1 | [YUQI](../../../artists/yuqi/overview.md) | [Cube Entertainment](../../../labels/cube_entertainment) | 255 | 💚 | [🔗](https://open.spotify.com/track/4TQBHR8LcbBUv0LvLmn54H) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f99ccfe83f1eabd15ad3a14" alt="" width="50" /> | Red Rover | YUQ1 | [YUQI](../../../artists/yuqi/overview.md) | [Cube Entertainment](../../../labels/cube_entertainment) | 254 | 💚 | [🔗](https://open.spotify.com/track/4TQBHR8LcbBUv0LvLmn54H) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273024a3f22192b30c2c5d9c13b" alt="" width="50" /> | Nightwalker | TEN - The 1st Mini Album | [TEN](../../../artists/ten/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 256 | 💚 | [🔗](https://open.spotify.com/track/4RiudH8RehvLLrk8uNgIdR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bcdcc14c83a6bc5dc1fc3cb5" alt="" width="50" /> | Classified | Dreamy Resonance | [OH MY GIRL](../../../artists/oh_my_girl/overview.md) | [WM ENTERTAINMENT INC.](../../../labels/wm_entertainment) | 269 | 💚 | [🔗](https://open.spotify.com/track/3zNqNoFNpPoXYrYJzCedzv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb604294f8f58c9078f58b1" alt="" width="50" /> | Flights, Not Feelings | Whiplash - The 5th Mini Album | [aespa](../../../artists/aespa/overview.md) | aespa | 315 | 💚 | [🔗](https://open.spotify.com/track/1bZLdKcMQFGyrhGX65n69b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735048ed32fafe7b9a50d0e410" alt="" width="50" /> | Love wins all | The Winning | [IU](../../../artists/iu/overview.md) | [EDAM Entertainment](../../../labels/edam_entertainment) | 399 | 💚 | [🔗](https://open.spotify.com/track/53g7ZIvZE47H9pwXPFYMCH) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273948eab0aad0232e829991528" alt="" width="50" /> | HOWLING | AWE | [XG](../../../artists/xg/overview.md) | XGALX | 614 | 💚 | [🔗](https://open.spotify.com/track/2uaZaTMbYE5KAk8gbdzBgW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Wife | 2 | [(G)I-DLE](../../../artists/(g)i-dle/overview.md) | [Cube Entertainment](../../../labels/cube_entertainment) | 650 | 💚 | [🔗](https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fd445ee11837be20675f313a" alt="" width="50" /> | Blur | Letter To Myself - The 6th Mini Album | [TAEYEON](../../../artists/taeyeon/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 811 | 💚 | [🔗](https://open.spotify.com/track/6h2rdCqiqXWHxrr41DjxpG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273948eab0aad0232e829991528" alt="" width="50" /> | HOWLING | AWE | [XG](../../../artists/xg/overview.md) | XGALX | 607 | 💚 | [🔗](https://open.spotify.com/track/2uaZaTMbYE5KAk8gbdzBgW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27342281601a5a3f882ea77741e" alt="" width="50" /> | Wife | 2 | [(G)I-DLE](../../../artists/(g)i-dle/overview.md) | [Cube Entertainment](../../../labels/cube_entertainment) | 649 | 💚 | [🔗](https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fd445ee11837be20675f313a" alt="" width="50" /> | Blur | Letter To Myself - The 6th Mini Album | [TAEYEON](../../../artists/taeyeon/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 812 | 💚 | [🔗](https://open.spotify.com/track/6h2rdCqiqXWHxrr41DjxpG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27333f4f800b259791768d04f40" alt="" width="50" /> | Cosmic | Cosmic | [Red Velvet](../../../artists/red_velvet/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 1054 | 💚 | [🔗](https://open.spotify.com/track/2H7euNHOF7uADN6dfsWoZa) |
 
 </details>
 

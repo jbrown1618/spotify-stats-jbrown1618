@@ -16,7 +16,7 @@ EVERGLOW:
 
 ## Artist Rank
 EVERGLOW is currently:
-- The #34 artist of the last 6 months
+- The #33 artist of the last 6 months
 - The #44 artist of the last year
 - The #42 artist of all time
 
@@ -42,12 +42,12 @@ EVERGLOW is currently:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27330e20e5e4aed73c95a7027c3" alt="" width="50" /> | 181 | 2 | 2 | ZOMBIE | 2024-06-10 | [🔗](https://open.spotify.com/album/6vGrWJmYXU9VqiqpOwPJ2r) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | 692 | 2 | 2 | Return of The Girl | 2021-12-01 | [🔗](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27329134ca1a4c424b7d98cb0af" alt="" width="50" /> | 641 | 1 | 1 | reminiscence | 2020-02-03 | [🔗](https://open.spotify.com/album/0zH0C0fkzAjhSnGKLOuxwX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b191ce6dc0fbfd68bbb67b8" alt="" width="50" /> | 571 | 1 | 1 | Last Melody | 2021-05-25 | [🔗](https://open.spotify.com/album/4ZDUTnUO9CDFmwdCUCQ6dG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27391c1f72f6be65bf4cb27b4a4" alt="" width="50" /> | 692 | 1 | 1 | HUSH | 2019-08-19 | [🔗](https://open.spotify.com/album/7cGql7l8oRpjGmeDspBMZ2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aa6b11047dc7be4824a39798" alt="" width="50" /> | 692 | 1 | 1 | ARRIVAL OF EVERGLOW | 2019-03-18 | [🔗](https://open.spotify.com/album/4qFVcLDapqLmjinahsk7U0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27330e20e5e4aed73c95a7027c3" alt="" width="50" /> | 179 | 2 | 2 | ZOMBIE | 2024-06-10 | [🔗](https://open.spotify.com/album/6vGrWJmYXU9VqiqpOwPJ2r) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | 690 | 2 | 2 | Return of The Girl | 2021-12-01 | [🔗](https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27329134ca1a4c424b7d98cb0af" alt="" width="50" /> | 632 | 1 | 1 | reminiscence | 2020-02-03 | [🔗](https://open.spotify.com/album/0zH0C0fkzAjhSnGKLOuxwX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b191ce6dc0fbfd68bbb67b8" alt="" width="50" /> | 567 | 1 | 1 | Last Melody | 2021-05-25 | [🔗](https://open.spotify.com/album/4ZDUTnUO9CDFmwdCUCQ6dG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27391c1f72f6be65bf4cb27b4a4" alt="" width="50" /> | 690 | 1 | 1 | HUSH | 2019-08-19 | [🔗](https://open.spotify.com/album/7cGql7l8oRpjGmeDspBMZ2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aa6b11047dc7be4824a39798" alt="" width="50" /> | 690 | 1 | 1 | ARRIVAL OF EVERGLOW | 2019-03-18 | [🔗](https://open.spotify.com/album/4qFVcLDapqLmjinahsk7U0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c9253602c9a9e508bde18cb" alt="" width="50" /> | 553 | 1 | 1 | ALL MY GIRLS | 2023-08-18 | [🔗](https://open.spotify.com/album/2yjigHf9lgspW2K5y99Qr0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c32633331e11b4fe108237f8" alt="" width="50" /> | 612 | 1 | 1 | -77.82x-78.29 | 2020-09-21 | [🔗](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) |
 
@@ -60,7 +60,7 @@ EVERGLOW is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e025c041fe9e3c9de436047d86bab67616d00001e02714e56679ab196354e2e443eab67616d00001e027a393b04e8ced571618223e8ab67616d00001e027dd8f95320e8ef08aa121dfe" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k-pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02070f3d0514122c266dd3b9d2ab67616d00001e022ce067b763f6a4938cb8a501ab67616d00001e02470a487ed0b104704a2e4175ab67616d00001e02583c60000e8abc8283853e10" alt="" width="50" /> | 1 | [K-Memes](../../playlists/k-memes/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e023613e1e0d35867a0814005a9ab67616d00001e024a8e5eaab8b02db02e487c27ab67616d00001e0259fcda8d47bbd0f6c2bf1647ab67616d00001e028bc3d61189d95da5f74d7ba7" alt="" width="50" /> | 1 | [Halloween](../../playlists/halloween/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02220771be23654c95cf787349ab67616d00001e0224936098cb2874153291a3f9ab67616d00001e02b3be3b970fc89a02f301c9daab67616d00001e02fe31201bbc019b1636066dc3" alt="" width="50" /> | 1 | [My Top Songs 2023](../../playlists/my_top_songs_2023/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02b3be3b970fc89a02f301c9daab67616d00001e02d8cc2281fcd4519ca020926bab67616d00001e02edf5b257be1d6593e81bb45fab67616d00001e02fe31201bbc019b1636066dc3" alt="" width="50" /> | 1 | [My Top Songs 2023](../../playlists/my_top_songs_2023/overview.md) |
 
 ## Top Record Labels
 
@@ -107,12 +107,12 @@ EVERGLOW is currently:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27330e20e5e4aed73c95a7027c3" alt="" width="50" /> | ZOMBIE | ZOMBIE | [EVERGLOW](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 253 | 💚 | [🔗](https://open.spotify.com/track/57RkVmnj3b1FUJoUdkSuZD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27330e20e5e4aed73c95a7027c3" alt="" width="50" /> | Colourz | ZOMBIE | [EVERGLOW](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 692 | 💚 | [🔗](https://open.spotify.com/track/5y6iVRaRIbiLbTj2eUM2WL) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730c9253602c9a9e508bde18cb" alt="" width="50" /> | SLAY | ALL MY GIRLS | [EVERGLOW](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 832 | 💚 | [🔗](https://open.spotify.com/track/32Ao6xLLir3dPOhQGvqgSB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2738b191ce6dc0fbfd68bbb67b8" alt="" width="50" /> | FIRST | Last Melody | [EVERGLOW](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 861 | 💚 | [🔗](https://open.spotify.com/track/021L6LlBBtr34BmFRHd9Ic) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c32633331e11b4fe108237f8" alt="" width="50" /> | LA DI DA | -77.82x-78.29 | [EVERGLOW](overview.md) | YUEHUA ENTERTAINMENT KOREA | 926 | 💚 | [🔗](https://open.spotify.com/track/6mIjJONoUMvGPT9Kzrab3L) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27330e20e5e4aed73c95a7027c3" alt="" width="50" /> | Colourz | ZOMBIE | [EVERGLOW](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 691 | 💚 | [🔗](https://open.spotify.com/track/5y6iVRaRIbiLbTj2eUM2WL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c9253602c9a9e508bde18cb" alt="" width="50" /> | SLAY | ALL MY GIRLS | [EVERGLOW](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 834 | 💚 | [🔗](https://open.spotify.com/track/32Ao6xLLir3dPOhQGvqgSB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738b191ce6dc0fbfd68bbb67b8" alt="" width="50" /> | FIRST | Last Melody | [EVERGLOW](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 860 | 💚 | [🔗](https://open.spotify.com/track/021L6LlBBtr34BmFRHd9Ic) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c32633331e11b4fe108237f8" alt="" width="50" /> | LA DI DA | -77.82x-78.29 | [EVERGLOW](overview.md) | YUEHUA ENTERTAINMENT KOREA | 927 | 💚 | [🔗](https://open.spotify.com/track/6mIjJONoUMvGPT9Kzrab3L) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27329134ca1a4c424b7d98cb0af" alt="" width="50" /> | DUN DUN | reminiscence | [EVERGLOW](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 970 | 💚 | [🔗](https://open.spotify.com/track/3ejAkJLWQSEJDqDXxK3efB) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aa6b11047dc7be4824a39798" alt="" width="50" /> | Bon Bon Chocolat | ARRIVAL OF EVERGLOW | [EVERGLOW](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 1053 | 💚 | [🔗](https://open.spotify.com/track/5XS0GCCIotaI6XtsYcIKeX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27391c1f72f6be65bf4cb27b4a4" alt="" width="50" /> | Adios | HUSH | [EVERGLOW](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 1053 | 💚 | [🔗](https://open.spotify.com/track/0sq2QUCf3ykmfYxjCDWcir) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | Don’t Speak | Return of The Girl | [EVERGLOW](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 1053 | 💚 | [🔗](https://open.spotify.com/track/4rTXasoYr4RICJeGRk5cnD) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | Pirate | Return of The Girl | [EVERGLOW](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 1053 | 💚 | [🔗](https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aa6b11047dc7be4824a39798" alt="" width="50" /> | Bon Bon Chocolat | ARRIVAL OF EVERGLOW | [EVERGLOW](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 1054 | 💚 | [🔗](https://open.spotify.com/track/5XS0GCCIotaI6XtsYcIKeX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27391c1f72f6be65bf4cb27b4a4" alt="" width="50" /> | Adios | HUSH | [EVERGLOW](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 1054 | 💚 | [🔗](https://open.spotify.com/track/0sq2QUCf3ykmfYxjCDWcir) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | Don’t Speak | Return of The Girl | [EVERGLOW](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 1054 | 💚 | [🔗](https://open.spotify.com/track/4rTXasoYr4RICJeGRk5cnD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734fcfc7c45bef0c20cc65ec27" alt="" width="50" /> | Pirate | Return of The Girl | [EVERGLOW](overview.md) | [Genie Music Corporation](../../labels/genie_music_corporation), [Stone Music Entertainment](../../labels/stone_music_entertainment) | 1054 | 💚 | [🔗](https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1) |

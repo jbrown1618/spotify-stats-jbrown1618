@@ -4,36 +4,36 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Producer | 17 |
+| Producer | 24 |
 
 ## Produces for Artists
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 5 | 7 | 7 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | 88 | 3 | 3 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 5 | 8 | 7 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | 87 | 3 | 3 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36" alt="" width="50" /> | 213 | 3 | 3 | [Justin Bieber](../../artists/justin_bieber/overview.md) | [🔗](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 127 | 2 | 2 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789" alt="" width="50" /> | 128 | 2 | 2 | [Rihanna](../../artists/rihanna/overview.md) | [🔗](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca6c145421fa9ceb58d6f9d4" alt="" width="50" /> | 9 | 1 | 1 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0" alt="" width="50" /> | 33 | 1 | 1 | [Ariana Grande](../../artists/ariana_grande/overview.md) | [🔗](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | 449 | 1 | 1 | benny blanco | [🔗](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbd6918901c1714560669f570" alt="" width="50" /> | 276 | 1 | 1 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="" width="50" /> | 448 | 1 | 1 | benny blanco | [🔗](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbd6918901c1714560669f570" alt="" width="50" /> | 275 | 1 | 1 | DaBaby | [🔗](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebd7d7064b17d00c6f8755eae6" alt="" width="50" /> | 12 | 1 | 1 | [LE SSERAFIM](../../artists/le_sserafim/overview.md) | [🔗](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) |
 
 ## Works with Producers
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| TEDDY | [TEDDY](../teddy/overview.md) | 7 |
-| YOUNGJU BANG | YOUNGJU BANG | 7 |
-| 24 | [24](../24/overview.md) | 5 |
+| TEDDY | [TEDDY](../teddy/overview.md) | 8 |
+| YOUNGJU BANG | YOUNGJU BANG | 8 |
+| 24 | [24](../24/overview.md) | 6 |
+| R.Tee | [R.Tee](../r_tee/overview.md) | 4 |
 | Justin Bieber | Justin Bieber | 3 |
-| R.Tee | [R.Tee](../r_tee/overview.md) | 3 |
+| Danny Chung | Danny Chung | 3 |
+| IDO | IDO | 3 |
 | Marcos Tovar | [Marcos Tovar](../marcos_tovar/overview.md) | 2 |
 | Kuk Harrell | [Kuk Harrell](../kuk_harrell/overview.md) | 2 |
 | Tor Erik Hermansen | Tor Erik Hermansen | 2 |
-| Dua Lipa | Dua Lipa | 2 |
-| Sandy Vee | Sandy Vee | 2 |
 
 
 <details>
@@ -41,48 +41,48 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
+| Dua Lipa | Dua Lipa | 2 |
+| Sandy Vee | Sandy Vee | 2 |
 | Caroline Ailin | Caroline Ailin | 2 |
 | Ian Kirkpatrick | [Ian Kirkpatrick](../ian_kirkpatrick/overview.md) | 2 |
-| IDO | IDO | 2 |
 | Miles Walker | Miles Walker | 2 |
 | Sandy Wilhelm | Sandy Wilhelm | 2 |
 | Stargate | Stargate | 2 |
-| Mikkel Storleer Eriksen | [Mikkel Storleer Eriksen](../mikkel_storleer_eriksen/overview.md) | 2 |
 | Freddy Wexler | Freddy Wexler | 2 |
-| Danny Chung | Danny Chung | 2 |
+| Mikkel Storleer Eriksen | [Mikkel Storleer Eriksen](../mikkel_storleer_eriksen/overview.md) | 2 |
 | Emily Warren | Emily Warren | 2 |
 | Phil Tan | [Phil Tan](../phil_tan/overview.md) | 2 |
-| Gian Stone | Gian Stone | 1 |
-| KUSH | KUSH | 1 |
+| Crystal Nicole | Crystal Nicole | 1 |
+| Stephen Kozmeniuk | Stephen Kozmeniuk | 1 |
 | 임찬미 | 임찬미 (Kim, Chan-mi) | 1 |
+| Devin Nakao | Devin Nakao | 1 |
 | Ariana Grande | [Ariana Grande](../ariana_grande/overview.md) | 1 |
 | Lionel Crasta | Lionel Crasta | 1 |
-| 전부연 | 전부연 (Jeon, Bu-yeon) | 1 |
-| Stephen Kozmeniuk | Stephen Kozmeniuk | 1 |
-| Devin Nakao | Devin Nakao | 1 |
 | David Phelan | David Phelan | 1 |
-| JISOO | JISOO | 1 |
+| 전부연 | 전부연 (Jeon, Bu-yeon) | 1 |
+| Bekuh BOOM | [Bekuh BOOM](../bekuh_boom/overview.md) | 1 |
+| Gian Stone | Gian Stone | 1 |
 | Lorna Blackwood | Lorna Blackwood | 1 |
 | Max Wolfgang | Max Wolfgang | 1 |
 | Clarence Coffee Jr. | Clarence Coffee Jr. | 1 |
-| Bekuh BOOM | [Bekuh BOOM](../bekuh_boom/overview.md) | 1 |
+| JISOO | JISOO | 1 |
+| KUSH | KUSH | 1 |
 | Vince | Vince | 1 |
-| Crystal Nicole | Crystal Nicole | 1 |
-| HUH YUNJIN | HUH YUNJIN | 1 |
 | Tia Scola | Tia Scola | 1 |
-| Caroline Gerd Gustavsson | Caroline Gerd Gustavsson | 1 |
-| 이우현 | 이우현 (Lee, Woo-hyun) | 1 |
-| Alex Oriet | Alex Oriet | 1 |
-| 13 | 13 | 1 |
-| 김채원 | 김채원 (Kim, Chae-won) | 1 |
-| Dominsuk | Dominsuk | 1 |
+| Matt Snell | Matt Snell | 1 |
 | Veronika Bozeman | Veronika Bozeman | 1 |
-| 심은지 | [심은지 (Sim, Eunjee)](../심은지_(sim,_eunjee)/overview.md) | 1 |
-| Kyler Niko | Kyler Niko | 1 |
-| Willy Moon | Willy Moon | 1 |
 | 서은일 | 서은일 (Seo, Eun-il) | 1 |
 | SCORE | [SCORE](../score/overview.md) | 1 |
-| Matt Snell | Matt Snell | 1 |
+| 이우현 | 이우현 (Lee, Woo-hyun) | 1 |
+| Willy Moon | Willy Moon | 1 |
+| Kyler Niko | [Kyler Niko](../kyler_niko/overview.md) | 1 |
+| 심은지 | [심은지 (Sim, Eunjee)](../심은지_(sim,_eunjee)/overview.md) | 1 |
+| Dominsuk | Dominsuk | 1 |
+| HUH YUNJIN | HUH YUNJIN | 1 |
+| 김채원 | 김채원 (Kim, Chae-won) | 1 |
+| 13 | 13 | 1 |
+| Alex Oriet | Alex Oriet | 1 |
+| Caroline Gerd Gustavsson | Caroline Gerd Gustavsson | 1 |
 | DaBaby | DaBaby | 1 |
 | 황민희 | 황민희 (Hwang, Min-hee) | 1 |
 | Paulina Cerrilla | Paulina Cerrilla | 1 |
@@ -141,11 +141,14 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685" alt="" width="50" /> | Lonely (with benny blanco) | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431" alt="" width="50" /> | Off My Face | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739030184114911536d5f77555" alt="" width="50" /> | Blue Flame | Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Shut Down | Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Typa Girl | Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Tally | Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | The Happiest Girl | Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Hard to Love | Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Yeah Yeah Yeah | Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Pink Venom | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b273002ef53878df1b4e91c15406" alt="" width="50" /> | Hard to Love | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b273002ef53878df1b4e91c15406" alt="" width="50" /> | Pink Venom | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b273002ef53878df1b4e91c15406" alt="" width="50" /> | Typa Girl | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b273002ef53878df1b4e91c15406" alt="" width="50" /> | Tally | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | ONE SPARK | Producer |
+| | nan | Producer |
+| | nan | Producer |
+| | nan | Producer |
+| | nan | Producer |
+| | nan | Producer |
+| | nan | Producer |

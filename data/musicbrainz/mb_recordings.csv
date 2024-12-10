@@ -62,6 +62,7 @@ recording_mbid,recording_title,recording_language
 08bea1b3-be03-432f-8e94-a6b4b137bfea,The Other Side of Paradise,eng
 08c58dd5-9708-49d0-bd79-36d603e06cc1,the eleventh day,mul
 08e1bdbe-2683-445d-9e12-5c09c80d0ee3,Diamond Days,
+08ee1722-03ce-45be-bc48-27f236b53901,DRIP,
 0912dae6-6fc4-4866-a8e7-414ba4d4ebe8,Innuendo,eng
 0913a3d9-ec76-4e03-bbcb-4a7a93ecda9c,LIKE THAT,
 093c1742-ebda-45cd-a50c-734e5d92e7f2,Thank You (Falettinme Be Mice Elf Agin),eng
@@ -121,6 +122,7 @@ recording_mbid,recording_title,recording_language
 10f04445-5ef1-4511-b5ef-1f436e915a7f,Zero,
 1109d8da-ce4a-4739-9414-242dc3e9b81c,Despacito,spa
 110b5468-25c6-4473-9944-04d8312444d6,Poison & Wine,eng
+11220b71-25f8-4d80-a6db-430d71f40ce0,Hard to Love,eng
 11294597-b4ac-4717-8e95-f99d665c1ece,We Found Love,eng
 114bb25a-4120-4513-8bc4-909d604ebe80,Red Rover,
 1195e3a3-d78c-4521-a5d8-6765d86d4d09,I’d Rather Go Blind,eng
@@ -1199,7 +1201,7 @@ recording_mbid,recording_title,recording_language
 99385b86-235b-4780-a8de-62993cae0388,Street Spirit (Fade Out),eng
 9950fd73-3ddc-497c-a724-f422a39a3912,Filter,mul
 995797cf-d8eb-463d-a363-19c7d16ac8cf,React,
-995c17c7-3a54-41fe-b780-30124e96a9d5,MAGO,
+995c17c7-3a54-41fe-b780-30124e96a9d5,MAGO,mul
 999b75ac-63ee-445c-9ff4-06a3cc9a8932,Lazy Baby,
 99ad406a-d7d5-465e-b4ad-7f9c4fa2b1ae,Make a Wish (Birthday Song),
 9a27b497-37f3-4887-a726-ad32ef60095e,KAZINO,
@@ -1279,6 +1281,7 @@ a361d3f3-7b86-4fb1-a423-63ca43d97446,Area Codes,
 a36ee929-9438-4b08-b5d2-9ac5d06b1faf,Don't,
 a3d59d03-f692-4410-a4f8-2e60a0766c5b,Amaranth,eng
 a3dcf4af-c609-42bb-9b04-63f2fa170cb1,Heart in a Cage,eng
+a4224368-7d19-44bc-bbb1-a67473ef216b,"Red light sign, but we go",
 a427fbf0-a8af-4f4c-bb9d-18f18c0f03eb,Yellow Flicker Beat,eng
 a43ce604-6d1a-4104-aee1-7216b6ed2a03,For Your Love,eng
 a478f801-521b-40e7-8bb4-5faeffb1f3e4,The Scientist,eng
@@ -1415,7 +1418,7 @@ b63fddb9-1e40-4ab3-b51d-7485249af7bc,7월 7일 (One of These Nights),kor
 b64eb4c4-22f8-4a9a-b0a3-4b657ecd82cf,Cameo Lover,eng
 b6587011-5a7c-4664-82ad-7a6368f4bd99,we can't be friends (wait for your love),eng
 b658a77a-7865-4c12-9de5-305efef61c90,Beg for Me,
-b667fec8-7988-455e-9b2a-2475e29808d1,Cosmic,
+b667fec8-7988-455e-9b2a-2475e29808d1,Cosmic,kor
 b674e9d4-c55f-4f33-a703-43c064b1fec4,Listen,eng
 b6f1d572-9407-47c2-a09d-35e29478fcd8,첫 사랑니 (Rum Pum Pum Pum),kor
 b6f595ea-7603-4cfd-a545-e0cc6d34c75d,Fitzpleasure,eng
@@ -1811,6 +1814,7 @@ ec89d0c1-3ebe-409b-b54b-1473c56b82ae,시간의 바깥,
 ec9e3315-0122-4b13-a8ea-97c41dbc44d7,Saturday Drip,
 ecbc7c9b-e79d-4ec8-ac77-44e4a7f7f1b8,Breathe,eng
 ed00fd4f-4f20-4dab-9c9b-49048dd9fb52,I'm Ready,mul
+ed5e3960-5813-41b3-90f3-5c8e4ba16643,Tally,eng
 ed933c82-d005-4ec0-8427-a98f0a7bcc39,Cheeky Icy Thang,
 ed9cc539-513f-466d-ac7a-10d3a8746577,Last Drop,
 ed9d34c3-fcb3-4fe0-861b-b4f1ccf90cf6,Sweet Venom,
@@ -1972,4 +1976,5 @@ fec563f2-9f37-4011-a40e-a36336ce0ba0,BAMBOLEO,
 fef28650-3c3c-4741-b35d-716ee04eb5d4,멋있게 (Sassy Me),
 ff0b0c5a-c6a2-4f86-b1c4-d0e42ee220cd,음파음파 (Umpah Umpah),
 ff1e3e1a-f6e8-4692-b426-355880383bb6,Supermassive Black Hole,eng
+ff89cf6a-d535-4ae5-a7e2-37b5e2d55270,Typa Girl,eng
 ffb6e773-2d24-420c-90ce-36b6025f31e2,Toxic,eng

@@ -6,32 +6,32 @@
 |:---|---:|
 | Arranger | 14 |
 | Instrument | 2 |
-| Lyricist | 24 |
-| Producer | 17 |
-| Songwriter | 27 |
+| Lyricist | 27 |
+| Producer | 24 |
+| Songwriter | 30 |
 
 ## Produces for Artists
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 5 | 22 | 21 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 5 | 23 | 21 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb597a4257d0022e2ac837fa7d" alt="" width="50" /> | 176 | 3 | 3 | BIGBANG | [🔗](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb727a1f1f508238a20ac9fdbf" alt="" width="50" /> | 128 | 3 | 3 | [ROSÉ](../../artists/rosé/overview.md) | [🔗](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb727a1f1f508238a20ac9fdbf" alt="" width="50" /> | 126 | 3 | 3 | [ROSÉ](../../artists/rosé/overview.md) | [🔗](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebcd3114c3d3dc89d5ec1c9145" alt="" width="50" /> | 68 | 3 | 3 | 2NE1 | [🔗](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebced85d5f223e7301022a8599" alt="" width="50" /> | 44 | 1 | 1 | [SUNMI](../../artists/sunmi/overview.md) | [🔗](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | 88 | 1 | 1 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d" alt="" width="50" /> | 87 | 1 | 1 | [Dua Lipa](../../artists/dua_lipa/overview.md) | [🔗](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb426faee7010fa829bb527cfb" alt="" width="50" /> | 152 | 1 | 0 | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
 
 ## Works with Producers
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| 24 | [24](../24/overview.md) | 16 |
-| R.Tee | [R.Tee](../r_tee/overview.md) | 13 |
+| 24 | [24](../24/overview.md) | 17 |
+| R.Tee | [R.Tee](../r_tee/overview.md) | 14 |
 | Bekuh BOOM | [Bekuh BOOM](../bekuh_boom/overview.md) | 9 |
-| Danny Chung | Danny Chung | 8 |
-| YOUNGJU BANG | YOUNGJU BANG | 7 |
-| Josh Gudwin | [Josh Gudwin](../josh_gudwin/overview.md) | 7 |
+| Danny Chung | Danny Chung | 9 |
+| YOUNGJU BANG | YOUNGJU BANG | 8 |
+| Josh Gudwin | [Josh Gudwin](../josh_gudwin/overview.md) | 8 |
 | Jason Roberts | Jason Roberts | 7 |
 | Jason Robert | Jason Robert | 6 |
 | Brian Lee | Brian Lee | 4 |
@@ -46,11 +46,11 @@
 | ROSÉ | ROSÉ (ROSÉ) | 4 |
 | Vince | Vince | 4 |
 | 최용인 | 최용인 (Choi, Yon-gin) | 4 |
+| IDO | IDO | 3 |
 | G-Dragon | G-Dragon | 3 |
 | Amy Allen | Amy Allen | 2 |
 | KUSH | KUSH | 2 |
 | LØREN | LØREN (LOREN) | 2 |
-| IDO | IDO | 2 |
 | 이경준 | 이경준 (Lee, Kyung-Joon) | 2 |
 | T.O.P | T.O.P | 2 |
 | JISOO | JISOO | 2 |
@@ -141,11 +141,14 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | Gone | Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | On The Ground | Producer, Songwriter |
 | <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="" width="50" /> | LALISA | Lyricist, Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Shut Down | Lyricist, Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Typa Girl | Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Tally | Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | The Happiest Girl | Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Hard to Love | Lyricist, Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Yeah Yeah Yeah | Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Pink Venom | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273002ef53878df1b4e91c15406" alt="" width="50" /> | Hard to Love | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273002ef53878df1b4e91c15406" alt="" width="50" /> | Pink Venom | Lyricist, Producer, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273002ef53878df1b4e91c15406" alt="" width="50" /> | Typa Girl | Producer |
+| <img src="https://i.scdn.co/image/ab67616d0000b273002ef53878df1b4e91c15406" alt="" width="50" /> | Tally | Producer |
 | | nan | Producer |
+| | nan | Producer |
+| | nan | Producer |
+| | nan | Producer |
+| | nan | Lyricist, Producer, Songwriter |
+| | nan | Producer |
+| | nan | Lyricist, Producer, Songwriter |

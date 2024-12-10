@@ -4,33 +4,33 @@
 
 | Credit Type | Tracks |
 |:---|---:|
-| Arranger | 15 |
+| Arranger | 20 |
 | Instrument | 2 |
 | Producer | 9 |
-| Songwriter | 15 |
+| Songwriter | 20 |
 
 ## Produces for Artists
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 5 | 14 | 14 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb727a1f1f508238a20ac9fdbf" alt="" width="50" /> | 128 | 2 | 2 | [ROSÉ](../../artists/rosé/overview.md) | [🔗](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc9690bc711d04b3d4fd4b87c" alt="" width="50" /> | 5 | 15 | 14 | [BLACKPINK](../../artists/blackpink/overview.md) | [🔗](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb727a1f1f508238a20ac9fdbf" alt="" width="50" /> | 126 | 2 | 2 | [ROSÉ](../../artists/rosé/overview.md) | [🔗](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb426faee7010fa829bb527cfb" alt="" width="50" /> | 152 | 1 | 0 | LISA | [🔗](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) |
 
 ## Works with Producers
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| TEDDY | [TEDDY](../teddy/overview.md) | 16 |
-| R.Tee | [R.Tee](../r_tee/overview.md) | 10 |
-| Danny Chung | Danny Chung | 7 |
+| TEDDY | [TEDDY](../teddy/overview.md) | 17 |
+| R.Tee | [R.Tee](../r_tee/overview.md) | 11 |
+| Danny Chung | Danny Chung | 8 |
 | Jason Roberts | Jason Roberts | 7 |
 | Bekuh BOOM | [Bekuh BOOM](../bekuh_boom/overview.md) | 7 |
-| YOUNGJU BANG | YOUNGJU BANG | 5 |
-| Josh Gudwin | [Josh Gudwin](../josh_gudwin/overview.md) | 5 |
+| YOUNGJU BANG | YOUNGJU BANG | 6 |
+| Josh Gudwin | [Josh Gudwin](../josh_gudwin/overview.md) | 6 |
 | Brian Lee | Brian Lee | 4 |
 | 최용인 | 최용인 (Choi, Yon-gin) | 4 |
-| LØREN | LØREN (LOREN) | 3 |
+| Vince | Vince | 3 |
 
 
 <details>
@@ -38,10 +38,10 @@
 
 | Producer | Producer | Tracks |
 |:---|:---|---:|
-| Vince | Vince | 3 |
 | Jason Robert | Jason Robert | 3 |
+| LØREN | LØREN (LOREN) | 3 |
+| IDO | IDO | 2 |
 | ROSÉ | ROSÉ (ROSÉ) | 2 |
-| IDO | IDO | 1 |
 | J. Lauryn | J. Lauryn | 1 |
 | YONGJU BANG | YONGJU BANG | 1 |
 | Alex Oriet | Alex Oriet | 1 |
@@ -91,8 +91,10 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | Gone | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | On The Ground | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273330f11fb125bb80b760f9e19" alt="" width="50" /> | LALISA | Arranger, Producer, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Shut Down | Arranger, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Tally | Arranger, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | The Happiest Girl | Arranger, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Hard to Love | Arranger, Songwriter |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734aeaaeeb0755f1d8a8b51738" alt="" width="50" /> | Pink Venom | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273002ef53878df1b4e91c15406" alt="" width="50" /> | Hard to Love | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273002ef53878df1b4e91c15406" alt="" width="50" /> | Pink Venom | Arranger, Songwriter |
+| <img src="https://i.scdn.co/image/ab67616d0000b273002ef53878df1b4e91c15406" alt="" width="50" /> | Tally | Arranger, Songwriter |
+| | nan | Arranger, Songwriter |
+| | nan | Arranger, Songwriter |
+| | nan | Arranger, Songwriter |
+| | nan | Arranger, Songwriter |

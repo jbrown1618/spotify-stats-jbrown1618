@@ -10,7 +10,7 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebca6c145421fa9ceb58d6f9d4" alt="" width="50" /> | 9 | 11 | 10 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebca6c145421fa9ceb58d6f9d4" alt="" width="50" /> | 9 | 10 | 9 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3448062884d4ad30473e964b" alt="" width="50" /> | 4 | 4 | 4 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb2b9446440d296ce32189024e" alt="" width="50" /> | 17 | 3 | 3 | [NMIXX](../../artists/nmixx/overview.md) | [🔗](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) |
 
@@ -20,11 +20,11 @@
 |:---|:---|---:|
 | 구혜진 | [구혜진 (Gu, Hye-jin)](../구혜진_(gu,_hye-jin)/overview.md) | 9 |
 | 이상엽 | [이상엽 (Lee, Sang-yeob)](../이상엽_(lee,_sang-yeob)/overview.md) | 8 |
-| Sophia Pae | Sophia Pae | 5 |
 | Tony Maserati | [Tony Maserati](../tony_maserati/overview.md) | 4 |
+| Sophia Pae | Sophia Pae | 4 |
 | 이태섭 | [이태섭 (Lee, Tae-Sub)](../이태섭_(lee,_tae-sub)/overview.md) | 4 |
-| 심은지 | [심은지 (Sim, Eunjee)](../심은지_(sim,_eunjee)/overview.md) | 4 |
 | 임홍진 | 임홍진 (Im, Hong-Jin) | 4 |
+| 심은지 | [심은지 (Sim, Eunjee)](../심은지_(sim,_eunjee)/overview.md) | 4 |
 | Melanie Joy Fontana | Melanie Joy Fontana | 3 |
 | Frankie Day | Frankie Day | 3 |
 | 신지영 | 신지영 (Shin, Ji-young) | 3 |
@@ -36,40 +36,36 @@
 | Producer | Producer | Tracks |
 |:---|:---|---:|
 | Arschtritt Lindgren | [Arschtritt Lindgren](../arschtritt_lindgren/overview.md) | 3 |
-| 구종필 | [구종필 (Koo, Jong-Pil)](../구종필_(koo,_jong-pil)/overview.md) | 3 |
 | Brian U | Brian U | 2 |
+| 정은경 | [정은경 (Jung, Eun-Kyung)](../정은경_(jung,_eun-kyung)/overview.md) | 2 |
 | LDN Noise | [LDN Noise](../ldn_noise/overview.md) | 2 |
 | Hayden Chapman | Hayden Chapman | 2 |
-| 윤원권 | [윤원권 (Yoon, Won-kwon)](../윤원권_(yoon,_won-kwon)/overview.md) | 2 |
-| Greg Bonnick | Greg Bonnick | 2 |
+| 구종필 | [구종필 (Koo, Jong-Pil)](../구종필_(koo,_jong-pil)/overview.md) | 2 |
 | danke | [danke](../danke/overview.md) | 2 |
-| 정은경 | [정은경 (Jung, Eun-Kyung)](../정은경_(jung,_eun-kyung)/overview.md) | 2 |
+| Greg Bonnick | Greg Bonnick | 2 |
+| 윤원권 | [윤원권 (Yoon, Won-kwon)](../윤원권_(yoon,_won-kwon)/overview.md) | 2 |
 | 최혜진 | 최혜진 (Cho, Hye-jin) | 2 |
-| 박진영 | 박진영 (Park, Jin Young) | 2 |
-| Ayushy | Ayushy | 2 |
 | 서은일 | 서은일 (Seo, Eun-il) | 2 |
 | 이우민 | 이우민 (Yiwoomin) | 2 |
+| Ayushy | Ayushy | 2 |
+| 박진영 | 박진영 (Park, Jin Young) | 2 |
 | 김영현 | 김영현 (Kim, Young-hyun) | 2 |
 | 김다현 | 김다현 (Kim, Da-hyun) | 1 |
-| John Hanes | [John Hanes](../john_hanes/overview.md) | 1 |
-| EZIT | EZIT | 1 |
-| 임찬미 | 임찬미 (Kim, Chan-mi) | 1 |
-| Jenson Vaughan | Jenson Vaughan | 1 |
-| TBHits | TBHits | 1 |
-| A. Wright | A. Wright | 1 |
-| Joseph K | Joseph K | 1 |
-| Lexxi Saal | Lexxi Saal | 1 |
-| 홍장미 | 홍장미 (Hong, Jangmi) | 1 |
 | Boy Matthews | Boy Matthews | 1 |
 | IRIS Yerin Lee | IRIS Yerin Lee | 1 |
+| Joseph K | Joseph K | 1 |
+| A. Wright | A. Wright | 1 |
+| Jenson Vaughan | Jenson Vaughan | 1 |
+| TBHits | TBHits | 1 |
+| 임찬미 | 임찬미 (Kim, Chan-mi) | 1 |
+| John Hanes | [John Hanes](../john_hanes/overview.md) | 1 |
+| EZIT | EZIT | 1 |
 | 손채영 | 손채영 (Son, Chae-young) | 1 |
 | Zaya | Zaya | 1 |
 | SELAH | SELAH | 1 |
 | 이경원 | 이경원 (Lee, Kyung-won) | 1 |
 | Mich Hansen | Mich Hansen | 1 |
-| dwilly | dwilly | 1 |
 | 72 | 72 | 1 |
-| Jonah Marais | Jonah Marais | 1 |
 | Gingerbread | Gingerbread | 1 |
 | Taet Chesterton | Taet Chesterton | 1 |
 | Brown Panda | Brown Panda | 1 |
@@ -89,20 +85,18 @@
 | 박은정 | 박은정 (박은정) | 1 |
 | Jeppe London Bilsby | Jeppe London Bilsby | 1 |
 | Alexander Pavelich | Alexander Pavelich | 1 |
-| 랑가 | 랑가 (Langa) | 1 |
-| Anna Timgren | Anna Timgren | 1 |
+| Gray Trainer | Gray Trainer | 1 |
 | Justin Tranter | Justin Tranter | 1 |
 | Melange | Melange | 1 |
 | 이스란 | 이스란 (Lee, Seran) | 1 |
-| Daniel Seavey | Daniel Seavey | 1 |
 | 강선영 | 강선영 (강선영) | 1 |
 | GG Ramirez | GG Ramirez | 1 |
 | MNEK | MNEK | 1 |
 | BIBI | BIBI | 1 |
 | LSY | LSY | 1 |
-| Gray Trainer | Gray Trainer | 1 |
-| earattack | [earattack](../earattack/overview.md) | 1 |
+| 랑가 | 랑가 (Langa) | 1 |
 | Christoffer Semelius | Christoffer Semelius | 1 |
+| Dr.JO | Dr.JO | 1 |
 | 마치 | 마치 (MRCH) | 1 |
 | HONEY NOISE | HONEY NOISE | 1 |
 | Kriz | [Kriz](../kriz/overview.md) | 1 |
@@ -112,7 +106,7 @@
 | Noémie Legrand | Noémie Legrand (Legrand, Noémie) | 1 |
 | Barry Cohen | Barry Cohen | 1 |
 | Marcus van Wattum | Marcus van Wattum | 1 |
-| Dr.JO | Dr.JO | 1 |
+| Anna Timgren | Anna Timgren | 1 |
 | 아르마딜로 | 아르마딜로 (Armadillo) | 1 |
 | 이해솔 | 이해솔 (Lee, Hae Sol) | 1 |
 | Jacob Aaron | Jacob Aaron | 1 |
@@ -122,7 +116,6 @@
 | Noday | Noday | 1 |
 | Lauren Dyson | Lauren Dyson | 1 |
 | Sofia Quinn | Sofia Quinn | 1 |
-| KayOne | KayOne | 1 |
 | 명혜인 | 명혜인 (Myeong, Hyein) | 1 |
 | Lauritz Emil Christiansen | Lauritz Emil Christiansen | 1 |
 | Awrii | Awrii | 1 |
@@ -131,7 +124,6 @@
 | Danny Shah | Danny Shah | 1 |
 | Charlotte Wilson | Charlotte Wilson | 1 |
 | 케빈오빠 | 케빈오빠 (Kevinoppa) | 1 |
-| Jake Torrey | Jake Torrey | 1 |
 | Kobee | Kobee | 1 |
 | Mr. Franks | Mr. Franks | 1 |
 | Musikality | Musikality | 1 |
@@ -163,5 +155,5 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb1b1bb1651e8cca563f3967" alt="" width="50" /> | DICE | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Mr. Vampire | Producer |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | Run For Roses | Producer |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bd8c739ce7e59ae9414c7a26" alt="" width="50" /> | I GOT YOU | Producer |
+| | nan | Producer |
 | | nan | Producer |

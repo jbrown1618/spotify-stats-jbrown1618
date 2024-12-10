@@ -50,13 +50,13 @@ NewJeans is currently:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | 139 | 5 | 4 | NewJeans 2nd EP 'Get Up' | 2023-07-21 | [🔗](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | 138 | 5 | 4 | NewJeans 2nd EP 'Get Up' | 2023-07-21 | [🔗](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | 114 | 4 | 3 | NewJeans 1st EP 'New Jeans' | 2022-08-01 | [🔗](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737e1eeb0d7cc374a168369c80" alt="" width="50" /> | 393 | 2 | 2 | Supernatural | 2024-06-21 | [🔗](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737e1eeb0d7cc374a168369c80" alt="" width="50" /> | 392 | 2 | 2 | Supernatural | 2024-06-21 | [🔗](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b657fbb27b17e7bd4691c2b2" alt="" width="50" /> | 117 | 2 | 2 | How Sweet | 2024-05-24 | [🔗](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d70036292d54f29e8b68ec01" alt="" width="50" /> | 99 | 1 | 1 | NewJeans 'OMG' | 2023-01-02 | [🔗](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f" alt="" width="50" /> | 49 | 1 | 1 | Ditto | 2022-12-19 | [🔗](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732e31a8a740f621473d21dc75" alt="" width="50" /> | 692 | 1 | 0 | Zero | 2023-04-03 | [🔗](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e31a8a740f621473d21dc75" alt="" width="50" /> | 690 | 1 | 0 | Zero | 2023-04-03 | [🔗](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -65,10 +65,10 @@ NewJeans is currently:
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e022c0252c4e4a988f024e4d262ab67616d00001e026772cf096be8acc1df092519ab67616d00001e029c7eb20dfbb2150f55c9debdab67616d00001e02eb136d1be54b1ef8273c0699" alt="" width="50" /> | 6 | [Chill](../../playlists/chill/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e026772cf096be8acc1df092519ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 4 | [K-Pop Favorites](../../playlists/k-pop_favorites/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e02830de2e836036f181df598d0ab67616d00001e02af2fda9fb591d43c355c2ac3ab67616d00001e02cc6f76f75551af499b5cd0cbab67616d00001e02da343b21617aac0c57e332bb" alt="" width="50" /> | 4 | [Sharon RPD](../../playlists/sharon_rpd/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02220771be23654c95cf787349ab67616d00001e0224936098cb2874153291a3f9ab67616d00001e02b3be3b970fc89a02f301c9daab67616d00001e02fe31201bbc019b1636066dc3" alt="" width="50" /> | 3 | [My Top Songs 2023](../../playlists/my_top_songs_2023/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02b3be3b970fc89a02f301c9daab67616d00001e02d8cc2281fcd4519ca020926bab67616d00001e02edf5b257be1d6593e81bb45fab67616d00001e02fe31201bbc019b1636066dc3" alt="" width="50" /> | 3 | [My Top Songs 2023](../../playlists/my_top_songs_2023/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e021869a85947a5ea00df8c936fab67616d00001e025048ed32fafe7b9a50d0e410ab67616d00001e028c4a282e84a53c1c8acf129aab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 2 | [Recommendations for Chris](../../playlists/recommendations_for_chris/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e0204878afb19613a94d37b29ceab67616d00001e021544041d0285585cc92c2709ab67616d00001e02570f746ccc2c75af070da1e0ab67616d00001e02d8cc2281fcd4519ca020926b" alt="" width="50" /> | 1 | [Summer](../../playlists/summer/overview.md) |
-| <img src="https://mosaic.scdn.co/640/ab67616d00001e02470d0ba5f707b141d1337cf2ab67616d00001e025048ed32fafe7b9a50d0e410ab67616d00001e0281d97a31253b898bc4149195ab67616d00001e02c60843bafc67821cff6df260" alt="" width="50" /> | 1 | [My Top Songs 2024](../../playlists/my_top_songs_2024/overview.md) |
+| <img src="https://mosaic.scdn.co/640/ab67616d00001e02470d0ba5f707b141d1337cf2ab67616d00001e025048ed32fafe7b9a50d0e410ab67616d00001e0255a4b0d253296e5fe7516d45ab67616d00001e0281d97a31253b898bc4149195" alt="" width="50" /> | 1 | [My Top Songs 2024](../../playlists/my_top_songs_2024/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e025c041fe9e3c9de436047d86bab67616d00001e02714e56679ab196354e2e443eab67616d00001e027a393b04e8ced571618223e8ab67616d00001e027dd8f95320e8ef08aa121dfe" alt="" width="50" /> | 1 | [K-Pop 101](../../playlists/k-pop_101/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e026f248f7695eb544a3a1955c5ab67616d00001e027a393b04e8ced571618223e8ab67616d00001e028acb7bac073f378d59bf228eab67616d00001e02b3be3b970fc89a02f301c9da" alt="" width="50" /> | 1 | [Workout](../../playlists/workout/overview.md) |
 | <img src="https://mosaic.scdn.co/640/ab67616d00001e024897a7925914a3a10ce68c31ab67616d00001e024ed058b71650a6ca2c04adffab67616d00001e02bf5f4138ebc9ba3fd6f0cde9ab67616d00001e02d8856d19e1f5784ed643d862" alt="" width="50" /> | 1 | [Recommendations for Jeff](../../playlists/recommendations_for_jeff/overview.md) |
@@ -158,7 +158,7 @@ NewJeans is currently:
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e1eeb0d7cc374a168369c80" alt="" width="50" /> | Right Now | Supernatural | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 642 | 💚 | [🔗](https://open.spotify.com/track/58Q3FZFs1YXPpliWQB5kXB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | ETA | NewJeans 2nd EP 'Get Up' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 696 | 💚 | [🔗](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e1eeb0d7cc374a168369c80" alt="" width="50" /> | Supernatural | Supernatural | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 784 | 💚 | [🔗](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | Cool With You | NewJeans 2nd EP 'Get Up' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 831 | | [🔗](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | Cool With You | NewJeans 2nd EP 'Get Up' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 832 | | [🔗](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) |
 
 
 <details>
@@ -166,12 +166,12 @@ NewJeans is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | Attention | NewJeans 1st EP 'New Jeans' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 1053 | 💚 | [🔗](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | Cookie | NewJeans 1st EP 'New Jeans' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 1053 | | [🔗](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | Hurt | NewJeans 1st EP 'New Jeans' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 1053 | 💚 | [🔗](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732e31a8a740f621473d21dc75" alt="" width="50" /> | Zero | Zero | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 1053 | | [🔗](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | New Jeans | NewJeans 2nd EP 'Get Up' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 1053 | 💚 | [🔗](https://open.spotify.com/track/7woEDtme8YkFiWeyiinIjy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | Super Shy | NewJeans 2nd EP 'Get Up' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 1053 | 💚 | [🔗](https://open.spotify.com/track/0kwrPQkiGVE8KTHalH1uMo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | Attention | NewJeans 1st EP 'New Jeans' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 1054 | 💚 | [🔗](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | Cookie | NewJeans 1st EP 'New Jeans' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 1054 | | [🔗](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209" alt="" width="50" /> | Hurt | NewJeans 1st EP 'New Jeans' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 1054 | 💚 | [🔗](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732e31a8a740f621473d21dc75" alt="" width="50" /> | Zero | Zero | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 1054 | | [🔗](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | New Jeans | NewJeans 2nd EP 'Get Up' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 1054 | 💚 | [🔗](https://open.spotify.com/track/7woEDtme8YkFiWeyiinIjy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730744690248ef3ba7b776ea7b" alt="" width="50" /> | Super Shy | NewJeans 2nd EP 'Get Up' | [NewJeans](overview.md) | [ADOR](../../labels/ador) | 1054 | 💚 | [🔗](https://open.spotify.com/track/0kwrPQkiGVE8KTHalH1uMo) |
 
 </details>
 

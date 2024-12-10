@@ -29,7 +29,7 @@
 | Supreme Boi | [Supreme Boi](../supreme_boi/overview.md) | 6 |
 | danke | [danke](../danke/overview.md) | 6 |
 | HUH YUNJIN | HUH YUNJIN | 5 |
-| Kyler Niko | Kyler Niko | 4 |
+| Kyler Niko | [Kyler Niko](../kyler_niko/overview.md) | 4 |
 | 김준혁 | 김준혁 (Kim Joonhyuk) | 4 |
 
 

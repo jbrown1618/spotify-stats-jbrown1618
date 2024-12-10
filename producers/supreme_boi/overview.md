@@ -26,7 +26,7 @@
 | RM | [RM](../rm/overview.md) | 5 |
 | Pdogg | [Pdogg](../pdogg/overview.md) | 5 |
 | 황민희 | 황민희 (Hwang, Min-hee) | 4 |
-| Kyler Niko | Kyler Niko | 4 |
+| Kyler Niko | [Kyler Niko](../kyler_niko/overview.md) | 4 |
 | 김준혁 | 김준혁 (Kim Joonhyuk) | 4 |
 | Paulina Cerrilla | Paulina Cerrilla | 3 |
 

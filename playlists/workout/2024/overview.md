@@ -33,14 +33,14 @@
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | 5 | 4 | 4 | BORN TO BE | 2024-01-08 | [🔗](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c60843bafc67821cff6df260" alt="" width="50" /> | 8 | 2 | 2 | Armageddon - The 1st Album | 2024-05-26 | [🔗](https://open.spotify.com/album/4SboBpuYojDm02qS4iFeJC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d4c3b0dc9e24e3beb94325e" alt="" width="50" /> | 251 | 2 | 0 | RIIZING | 2024-04-28 | [🔗](https://open.spotify.com/album/4DdDtcluroMFPVLWFKykqk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731be74ecf7c58d22c00eea468" alt="" width="50" /> | 264 | 1 | 1 | [VirtuouS] | 2024-07-10 | [🔗](https://open.spotify.com/album/4PkR73YJKj5RGkC7QZVpM2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27330e20e5e4aed73c95a7027c3" alt="" width="50" /> | 181 | 1 | 1 | ZOMBIE | 2024-06-10 | [🔗](https://open.spotify.com/album/6vGrWJmYXU9VqiqpOwPJ2r) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d4c3b0dc9e24e3beb94325e" alt="" width="50" /> | 250 | 2 | 0 | RIIZING | 2024-04-28 | [🔗](https://open.spotify.com/album/4DdDtcluroMFPVLWFKykqk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731be74ecf7c58d22c00eea468" alt="" width="50" /> | 263 | 1 | 1 | [VirtuouS] | 2024-07-10 | [🔗](https://open.spotify.com/album/4PkR73YJKj5RGkC7QZVpM2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27330e20e5e4aed73c95a7027c3" alt="" width="50" /> | 179 | 1 | 1 | ZOMBIE | 2024-06-10 | [🔗](https://open.spotify.com/album/6vGrWJmYXU9VqiqpOwPJ2r) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736eb604294f8f58c9078f58b1" alt="" width="50" /> | 116 | 1 | 1 | Whiplash - The 5th Mini Album | 2024-10-21 | [🔗](https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ec449471d321ade6ee416230" alt="" width="50" /> | 631 | 1 | 1 | Troubleshooting | 2024-04-30 | [🔗](https://open.spotify.com/album/26ogXm7X0kUSidtoaQVBei) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ec449471d321ade6ee416230" alt="" width="50" /> | 625 | 1 | 1 | Troubleshooting | 2024-04-30 | [🔗](https://open.spotify.com/album/26ogXm7X0kUSidtoaQVBei) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273653887a83332de0350151f10" alt="" width="50" /> | 85 | 1 | 1 | ROMANCE : UNTOLD | 2024-07-12 | [🔗](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c9c9aaadb2d6d3d44be06332" alt="" width="50" /> | 95 | 1 | 1 | Fe3O4: STICK OUT | 2024-08-19 | [🔗](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | 22 | 1 | 1 | Fe3O4: BREAK | 2024-01-15 | [🔗](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27381d97a31253b898bc4149195" alt="" width="50" /> | 21 | 1 | 1 | Fe3O4: BREAK | 2024-01-15 | [🔗](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) |
 
 
 <details>
@@ -48,11 +48,11 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="" width="50" /> | 224 | 1 | 1 | EENIE MEENIE | 2024-03-11 | [🔗](https://open.spotify.com/album/1q2RNzz09Vx3bOKK1yTyyg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="" width="50" /> | 223 | 1 | 1 | EENIE MEENIE | 2024-03-11 | [🔗](https://open.spotify.com/album/1q2RNzz09Vx3bOKK1yTyyg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273110f5426b8c149e80804912a" alt="" width="50" /> | 94 | 1 | 1 | EASY | 2024-02-19 | [🔗](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273485623bc41b6760fc1bca2f4" alt="" width="50" /> | 168 | 1 | 1 | CRAZY | 2024-08-30 | [🔗](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e" alt="" width="50" /> | 692 | 1 | 1 | BRAT | 2024-06-07 | [🔗](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | 141 | 1 | 0 | COLOURS | 2024-04-30 | [🔗](https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273485623bc41b6760fc1bca2f4" alt="" width="50" /> | 167 | 1 | 1 | CRAZY | 2024-08-30 | [🔗](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e" alt="" width="50" /> | 690 | 1 | 1 | BRAT | 2024-06-07 | [🔗](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | 140 | 1 | 0 | COLOURS | 2024-04-30 | [🔗](https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm) |
 
 </details>
 
@@ -68,7 +68,7 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b273c60843bafc67821cff6df260" alt="" width="50" /> | Supernova | Armageddon - The 1st Album | [aespa](../../../artists/aespa/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 85 | 💚 | [🔗](https://open.spotify.com/track/5lKnZbdGCBViitE1Ce5TZh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273653887a83332de0350151f10" alt="" width="50" /> | Brought The Heat Back | ROMANCE : UNTOLD | [ENHYPEN](../../../artists/enhypen/overview.md) | [BELIFT LAB](../../../labels/belift_lab) | 147 | 💚 | [🔗](https://open.spotify.com/track/3ivdlmTbUSv5JN9W8Tk9V1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | UNTOUCHABLE | BORN TO BE | [ITZY](../../../artists/itzy/overview.md) | [Republic Records](../../../labels/republic_records) | 158 | 💚 | [🔗](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Run Away (RYUJIN) | BORN TO BE | [ITZY](../../../artists/itzy/overview.md) | [Republic Records](../../../labels/republic_records) | 201 | 💚 | [🔗](https://open.spotify.com/track/4e94KIas5maH8RixY26LiN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Run Away (RYUJIN) | BORN TO BE | [ITZY](../../../artists/itzy/overview.md) | [Republic Records](../../../labels/republic_records) | 202 | 💚 | [🔗](https://open.spotify.com/track/4e94KIas5maH8RixY26LiN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273470d0ba5f707b141d1337cf2" alt="" width="50" /> | Crown On My Head (YEJI) | BORN TO BE | [ITZY](../../../artists/itzy/overview.md) | [Republic Records](../../../labels/republic_records) | 232 | 💚 | [🔗](https://open.spotify.com/track/7us3VPvRjtjuMEexfyRsMC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273485623bc41b6760fc1bca2f4" alt="" width="50" /> | CRAZY | CRAZY | [LE SSERAFIM](../../../artists/le_sserafim/overview.md) | [SOURCE MUSIC](../../../labels/source_music) | 238 | 💚 | [🔗](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c60843bafc67821cff6df260" alt="" width="50" /> | Set The Tone | Armageddon - The 1st Album | [aespa](../../../artists/aespa/overview.md) | [SM Entertainment](../../../labels/sm_entertainment) | 240 | 💚 | [🔗](https://open.spotify.com/track/3uQwkc9qiawGYRdVAstEXl) |
@@ -84,12 +84,12 @@
 | <img src="https://i.scdn.co/image/ab67616d0000b2731be74ecf7c58d22c00eea468" alt="" width="50" /> | 2 Rings | [VirtuouS] | [Dreamcatcher](../../../artists/dreamcatcher/overview.md) | [DREAMCATCHER COMPANY](../../../labels/dreamcatcher_company) | 372 | 💚 | [🔗](https://open.spotify.com/track/2jIkG2xRXVuXUNpPANMhVu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f117dc77b6c36fba0ff9b1e" alt="" width="50" /> | I’m Ready | EENIE MEENIE | [CHUNG HA](../../../artists/chung_ha/overview.md) | MORE VISION | 391 | 💚 | [🔗](https://open.spotify.com/track/1uHAvl4MdI8zbobFG9FueP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d4c3b0dc9e24e3beb94325e" alt="" width="50" /> | Siren | RIIZING | RIIZE | [RCA Records Label](../../../labels/rca_records_label), [SM Entertainment](../../../labels/sm_entertainment) | 459 | | [🔗](https://open.spotify.com/track/4Jqf8rWXp2y8yJFK0fEweG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734d4c3b0dc9e24e3beb94325e" alt="" width="50" /> | Impossible | RIIZING | RIIZE | [RCA Records Label](../../../labels/rca_records_label), [SM Entertainment](../../../labels/sm_entertainment) | 594 | | [🔗](https://open.spotify.com/track/0GIzsyWjS0wb15Q7zB5L7b) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734d4c3b0dc9e24e3beb94325e" alt="" width="50" /> | Impossible | RIIZING | RIIZE | [RCA Records Label](../../../labels/rca_records_label), [SM Entertainment](../../../labels/sm_entertainment) | 595 | | [🔗](https://open.spotify.com/track/0GIzsyWjS0wb15Q7zB5L7b) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273110f5426b8c149e80804912a" alt="" width="50" /> | Smart | EASY | [LE SSERAFIM](../../../artists/le_sserafim/overview.md) | [SOURCE MUSIC](../../../labels/source_music) | 600 | 💚 | [🔗](https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27330e20e5e4aed73c95a7027c3" alt="" width="50" /> | Colourz | ZOMBIE | [EVERGLOW](../../../artists/everglow/overview.md) | [Genie Music Corporation](../../../labels/genie_music_corporation), [Stone Music Entertainment](../../../labels/stone_music_entertainment) | 692 | 💚 | [🔗](https://open.spotify.com/track/5y6iVRaRIbiLbTj2eUM2WL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27330e20e5e4aed73c95a7027c3" alt="" width="50" /> | Colourz | ZOMBIE | [EVERGLOW](../../../artists/everglow/overview.md) | [Genie Music Corporation](../../../labels/genie_music_corporation), [Stone Music Entertainment](../../../labels/stone_music_entertainment) | 691 | 💚 | [🔗](https://open.spotify.com/track/5y6iVRaRIbiLbTj2eUM2WL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733da7d11b9a40ccc0edf18961" alt="" width="50" /> | Colors | COLOURS | [Solar](../../../artists/solar/overview.md) | [RBW Inc.](../../../labels/rbw_inc_) | 731 | | [🔗](https://open.spotify.com/track/6F5nwlaYT0TZatOHVMaBcZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec449471d321ade6ee416230" alt="" width="50" /> | Little Things | Troubleshooting | Xdinary Heroes | [Republic Records](../../../labels/republic_records) | 955 | 💚 | [🔗](https://open.spotify.com/track/5t8TV1U5vmKL5UIQo5pNtN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e" alt="" width="50" /> | 365 | BRAT | Charli xcx | [Atlantic Records](../../../labels/atlantic_records) | 1053 | 💚 | [🔗](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e" alt="" width="50" /> | 365 | BRAT | Charli xcx | [Atlantic Records](../../../labels/atlantic_records) | 1054 | 💚 | [🔗](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) |
 
 </details>
 
