@@ -9,16 +9,16 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb23186361c667736e76cbfe0d" alt="" width="50" /> | 450 | 4 | 0 | The Countdown Kids | [🔗](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb47e877323b9ed3e02aad1499" alt="" width="50" /> | 450 | 3 | 0 | Super Simple Songs | [🔗](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5f18754304aba19e14838240" alt="" width="50" /> | 450 | 3 | 0 | Mother Goose Club | [🔗](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf16b05c7ec0d1f80b3a12bbb" alt="" width="50" /> | 450 | 3 | 0 | The Laurie Berkner Band | [🔗](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273648517235abb8c05b1b1af3e" alt="" width="50" /> | 450 | 3 | 0 | Kids Hits Project | [🔗](https://open.spotify.com/artist/5crHUpHfUcFlS7t1qVGSRO) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb09566cd2ce988a550b7b40e8" alt="" width="50" /> | 450 | 3 | 0 | Nursery Rhymes 123 | [🔗](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8efd802ea5fac650f7cce73b" alt="" width="50" /> | 450 | 3 | 0 | Sing n Play | [🔗](https://open.spotify.com/artist/3at1vTRcH8tM7ZmnGXyiZs) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb35a20cc8b2758ad61efd8ac1" alt="" width="50" /> | 450 | 3 | 0 | The Learning Station | [🔗](https://open.spotify.com/artist/0qIXXh38Do2fvBqiUjiHbm) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb730d0b0210405e82447ca082" alt="" width="50" /> | 450 | 2 | 0 | Pinkfong | [🔗](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb03a003e3ef063229a401923" alt="" width="50" /> | 450 | 2 | 0 | Patty Shukla | [🔗](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb23186361c667736e76cbfe0d" alt="" width="50" /> | 448 | 4 | 0 | The Countdown Kids | [🔗](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb47e877323b9ed3e02aad1499" alt="" width="50" /> | 448 | 3 | 0 | Super Simple Songs | [🔗](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5f18754304aba19e14838240" alt="" width="50" /> | 448 | 3 | 0 | Mother Goose Club | [🔗](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf16b05c7ec0d1f80b3a12bbb" alt="" width="50" /> | 448 | 3 | 0 | The Laurie Berkner Band | [🔗](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273648517235abb8c05b1b1af3e" alt="" width="50" /> | 448 | 3 | 0 | Kids Hits Project | [🔗](https://open.spotify.com/artist/5crHUpHfUcFlS7t1qVGSRO) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb09566cd2ce988a550b7b40e8" alt="" width="50" /> | 448 | 3 | 0 | Nursery Rhymes 123 | [🔗](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8efd802ea5fac650f7cce73b" alt="" width="50" /> | 448 | 3 | 0 | Sing n Play | [🔗](https://open.spotify.com/artist/3at1vTRcH8tM7ZmnGXyiZs) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb35a20cc8b2758ad61efd8ac1" alt="" width="50" /> | 448 | 3 | 0 | The Learning Station | [🔗](https://open.spotify.com/artist/0qIXXh38Do2fvBqiUjiHbm) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb730d0b0210405e82447ca082" alt="" width="50" /> | 448 | 2 | 0 | Pinkfong | [🔗](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb03a003e3ef063229a401923" alt="" width="50" /> | 448 | 2 | 0 | Patty Shukla | [🔗](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) |
 
 
 <details>
@@ -26,57 +26,57 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273f920b73d9bd1d38284913976" alt="" width="50" /> | 450 | 2 | 0 | Belle and the Nursery Rhymes Band | [🔗](https://open.spotify.com/artist/6YFrVMB5AEMZ2rB3T0wyUQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb8622889fe7382abf894f1f16" alt="" width="50" /> | 450 | 2 | 0 | Love to Sing | [🔗](https://open.spotify.com/artist/5dz42IMRAYRfEn0igXDjoz) |
-| <img src="https://i.scdn.co/image/f4417e12891c2196a5a4f6147b39c56f88a8cc88" alt="" width="50" /> | 450 | 2 | 0 | Caspar Babypants | [🔗](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebac90c66e02acbb3bdf697d77" alt="" width="50" /> | 450 | 2 | 0 | Toddler Tunes | [🔗](https://open.spotify.com/artist/3uGrMgq7tseqZq7FCjMGnW) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb804c492ff1f1ba1a4b2b97ce" alt="" width="50" /> | 450 | 2 | 0 | Elizabeth Mitchell | [🔗](https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf16f319a168a077b8e1f2311" alt="" width="50" /> | 450 | 2 | 0 | The Wiggles | [🔗](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) |
-| | 450 | 2 | 0 | Anuradha Javeri | [🔗](https://open.spotify.com/artist/2I9JVgirByTBg7g4EHNQh5) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb14ed16382b6c781aa0db51bc" alt="" width="50" /> | 450 | 2 | 0 | The Kiboomers | [🔗](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273753900d289aba6025c30c292" alt="" width="50" /> | 450 | 2 | 0 | Amy Liz | [🔗](https://open.spotify.com/artist/1bguJ0c7PghwoaLvBIVU3A) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebe7f25223a85137fe8f0250ce" alt="" width="50" /> | 450 | 1 | 0 | Learna | [🔗](https://open.spotify.com/artist/7vo9itWW16G3xxhXzjMJp8) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd08402625156913c859f18f6" alt="" width="50" /> | 450 | 1 | 0 | Tinsel Town Kids | [🔗](https://open.spotify.com/artist/7ofMbMyqQ9qMUVoFjY7mYi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27377a274592dfe888f5d0d91b7" alt="" width="50" /> | 450 | 1 | 0 | Ray Remesch | [🔗](https://open.spotify.com/artist/7KDvtBzHoXz3snZRFillze) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebbe348971fd64f826e5fba3ac" alt="" width="50" /> | 450 | 1 | 0 | Ukubebe | [🔗](https://open.spotify.com/artist/7AI77HtJjy2Yi1vyqL2Hd8) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb44ea48e298bc588b4c393c88" alt="" width="50" /> | 450 | 1 | 0 | Pancake Manor | [🔗](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb10001c3aaf4bfc17375a6d18" alt="" width="50" /> | 450 | 1 | 0 | Kira Willey | [🔗](https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb75a955fe415fd460bf1bf0f2" alt="" width="50" /> | 450 | 1 | 0 | Jewel | [🔗](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7658cc772d9b0ade205c83df" alt="" width="50" /> | 450 | 1 | 0 | Old Town School of Folk Music | [🔗](https://open.spotify.com/artist/68xJjwAFcVSDmF9vTlnqi8) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb152227e836c4d9755787e6e2" alt="" width="50" /> | 450 | 1 | 0 | Andy Mason | [🔗](https://open.spotify.com/artist/5uyYI21k0CDifcxUAEsezK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735bd0232b18b9fa7d22b1c2c2" alt="" width="50" /> | 450 | 1 | 0 | The Jamborees | [🔗](https://open.spotify.com/artist/5fpJ1JmUCDq0xvMuqOoBAo) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb2f41dd07c1bd27f5a088e06a" alt="" width="50" /> | 450 | 1 | 0 | Charlotte Diamond | [🔗](https://open.spotify.com/artist/5W9bmjm0mv5XitfBGynVN1) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273dd093004f90f87a286bc0e5e" alt="" width="50" /> | 450 | 1 | 0 | Parachute Express | [🔗](https://open.spotify.com/artist/5ShmqyBAJRFMF0PqVjLYF3) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb328b7b7a5ae20c67c5bc5b02" alt="" width="50" /> | 450 | 1 | 0 | The Paul O'Brien All Stars Band | [🔗](https://open.spotify.com/artist/4yHvX6BSc9IUxGOQLQdEEl) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4d2194966bdf641f79a2c1ed" alt="" width="50" /> | 450 | 1 | 0 | Music Together | [🔗](https://open.spotify.com/artist/4tP1lAjaYb9szKruOsoL97) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9ca4a522f389c9b7e0f6c847" alt="" width="50" /> | 450 | 1 | 0 | Barney | [🔗](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb33097ed4821bef8fc408173b" alt="" width="50" /> | 450 | 1 | 0 | Ralph's World | [🔗](https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf7e087fb52d043dc80b1c2a5" alt="" width="50" /> | 450 | 1 | 0 | Kidsongs | [🔗](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2737b1cbe4a0da3a15c141a21c0" alt="" width="50" /> | 450 | 1 | 0 | Clovercroft Kids | [🔗](https://open.spotify.com/artist/4d8pFJwCoD1mX4wAn7Ax2h) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb979ec96db4b1cb53d284be2b" alt="" width="50" /> | 450 | 1 | 0 | Barbara Milne | [🔗](https://open.spotify.com/artist/4MQPTZi9TH3JNc6yGnLp6x) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5534cd5a77e934d57222cdd8" alt="" width="50" /> | 450 | 1 | 0 | Rainbow Songs | [🔗](https://open.spotify.com/artist/40TPC7EFk2MCuSBxvRfCOF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc1d498ebb0c75ff75aceb161" alt="" width="50" /> | 450 | 1 | 0 | Andrew Holdsworth | [🔗](https://open.spotify.com/artist/3nqYPo90eQVpSZjT4Y85An) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a851cf41d322f5765ae45e48" alt="" width="50" /> | 450 | 1 | 0 | Press Play Picture House | [🔗](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4a99156ebef2a1624cf4f52e" alt="" width="50" /> | 450 | 1 | 0 | Susie Tallman | [🔗](https://open.spotify.com/artist/3Sz0QcctlhJ47VT4T6Jlm7) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0c4c95f156575b63c5df86ba" alt="" width="50" /> | 450 | 1 | 0 | Misha Mullov-Abbado | [🔗](https://open.spotify.com/artist/3OSYVINCz3vaPYV4DhvSS7) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c232cb244c6dfa724e8fbf16" alt="" width="50" /> | 450 | 1 | 0 | Mr. Eric | [🔗](https://open.spotify.com/artist/3F8knI7WJLtawIH18mF6xT) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb0e3621bd37fe8a2be942e904" alt="" width="50" /> | 450 | 1 | 0 | David Landau | [🔗](https://open.spotify.com/artist/2xIaXC0ztnAJkUsZWFVSPV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d80bd51eba94b296fc693108" alt="" width="50" /> | 450 | 1 | 0 | Denise Gagne | [🔗](https://open.spotify.com/artist/2WEehmCcEKeVZWD6qYkXuk) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba4a7011b195068dde2be75ac" alt="" width="50" /> | 450 | 1 | 0 | Children's Music | [🔗](https://open.spotify.com/artist/2UGrkfBLWkaJHsqQOpgYRT) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebc04724201a3cd1a81d7bba05" alt="" width="50" /> | 450 | 1 | 0 | Dave Matthews Band | [🔗](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | 265 | 1 | 0 | Pharrell Williams | [🔗](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f662ae81484b23dabaf67805" alt="" width="50" /> | 450 | 1 | 0 | Muffin Songs | [🔗](https://open.spotify.com/artist/2PHC7cyBiJM9EZ0E8FKcJ4) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739a9ad3a4e4c05e64db75e39b" alt="" width="50" /> | 450 | 1 | 0 | The Cast of Mary Poppins | [🔗](https://open.spotify.com/artist/2AmIbvKGbPqb5vB6e5OoP1) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd06a3b87787a0eef6eb3adcb" alt="" width="50" /> | 450 | 1 | 0 | Susan Salidor | [🔗](https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273600e9f48d05d996532436351" alt="" width="50" /> | 450 | 1 | 0 | DanSingKids | [🔗](https://open.spotify.com/artist/1u3XOsgRlZZM0e9T360uNs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2732996bfa298c918fe241392f5" alt="" width="50" /> | 450 | 1 | 0 | Vicky Arlidge | [🔗](https://open.spotify.com/artist/1t8gwZFUoJEM9nhSJxT7ks) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebb0beff9a934956f8390cfee8" alt="" width="50" /> | 450 | 1 | 0 | Justine Clarke | [🔗](https://open.spotify.com/artist/1r6nvWvnqJYcm8kW3cX1zQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eba702cac685e2e0433fb884c8" alt="" width="50" /> | 450 | 1 | 0 | Nursery Rhymes Band | [🔗](https://open.spotify.com/artist/1hhxuU75sJtitW71UWiCAP) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf54ff9f31e7686f6683c4f62" alt="" width="50" /> | 450 | 1 | 0 | Bounce Patrol | [🔗](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739df742dcaf9b79edad9009d0" alt="" width="50" /> | 450 | 1 | 0 | The Tokens | [🔗](https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfe5fe89a93c9592b4c85d6f5" alt="" width="50" /> | 450 | 1 | 0 | Little Baby Bum Nursery Rhyme Friends | [🔗](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb4db9929d8ea49e64574e4071" alt="" width="50" /> | 450 | 1 | 0 | Play School | [🔗](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27379830a35634f3b75ebeebf46" alt="" width="50" /> | 450 | 1 | 0 | Cedarmont Kids | [🔗](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f920b73d9bd1d38284913976" alt="" width="50" /> | 448 | 2 | 0 | Belle and the Nursery Rhymes Band | [🔗](https://open.spotify.com/artist/6YFrVMB5AEMZ2rB3T0wyUQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb8622889fe7382abf894f1f16" alt="" width="50" /> | 448 | 2 | 0 | Love to Sing | [🔗](https://open.spotify.com/artist/5dz42IMRAYRfEn0igXDjoz) |
+| <img src="https://i.scdn.co/image/f4417e12891c2196a5a4f6147b39c56f88a8cc88" alt="" width="50" /> | 448 | 2 | 0 | Caspar Babypants | [🔗](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebac90c66e02acbb3bdf697d77" alt="" width="50" /> | 448 | 2 | 0 | Toddler Tunes | [🔗](https://open.spotify.com/artist/3uGrMgq7tseqZq7FCjMGnW) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb804c492ff1f1ba1a4b2b97ce" alt="" width="50" /> | 448 | 2 | 0 | Elizabeth Mitchell | [🔗](https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf16f319a168a077b8e1f2311" alt="" width="50" /> | 448 | 2 | 0 | The Wiggles | [🔗](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) |
+| | 448 | 2 | 0 | Anuradha Javeri | [🔗](https://open.spotify.com/artist/2I9JVgirByTBg7g4EHNQh5) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb14ed16382b6c781aa0db51bc" alt="" width="50" /> | 448 | 2 | 0 | The Kiboomers | [🔗](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273753900d289aba6025c30c292" alt="" width="50" /> | 448 | 2 | 0 | Amy Liz | [🔗](https://open.spotify.com/artist/1bguJ0c7PghwoaLvBIVU3A) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebe7f25223a85137fe8f0250ce" alt="" width="50" /> | 448 | 1 | 0 | Learna | [🔗](https://open.spotify.com/artist/7vo9itWW16G3xxhXzjMJp8) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd08402625156913c859f18f6" alt="" width="50" /> | 448 | 1 | 0 | Tinsel Town Kids | [🔗](https://open.spotify.com/artist/7ofMbMyqQ9qMUVoFjY7mYi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27377a274592dfe888f5d0d91b7" alt="" width="50" /> | 448 | 1 | 0 | Ray Remesch | [🔗](https://open.spotify.com/artist/7KDvtBzHoXz3snZRFillze) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebbe348971fd64f826e5fba3ac" alt="" width="50" /> | 448 | 1 | 0 | Ukubebe | [🔗](https://open.spotify.com/artist/7AI77HtJjy2Yi1vyqL2Hd8) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb44ea48e298bc588b4c393c88" alt="" width="50" /> | 448 | 1 | 0 | Pancake Manor | [🔗](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb10001c3aaf4bfc17375a6d18" alt="" width="50" /> | 448 | 1 | 0 | Kira Willey | [🔗](https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb75a955fe415fd460bf1bf0f2" alt="" width="50" /> | 448 | 1 | 0 | Jewel | [🔗](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7658cc772d9b0ade205c83df" alt="" width="50" /> | 448 | 1 | 0 | Old Town School of Folk Music | [🔗](https://open.spotify.com/artist/68xJjwAFcVSDmF9vTlnqi8) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb152227e836c4d9755787e6e2" alt="" width="50" /> | 448 | 1 | 0 | Andy Mason | [🔗](https://open.spotify.com/artist/5uyYI21k0CDifcxUAEsezK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735bd0232b18b9fa7d22b1c2c2" alt="" width="50" /> | 448 | 1 | 0 | The Jamborees | [🔗](https://open.spotify.com/artist/5fpJ1JmUCDq0xvMuqOoBAo) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb2f41dd07c1bd27f5a088e06a" alt="" width="50" /> | 448 | 1 | 0 | Charlotte Diamond | [🔗](https://open.spotify.com/artist/5W9bmjm0mv5XitfBGynVN1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dd093004f90f87a286bc0e5e" alt="" width="50" /> | 448 | 1 | 0 | Parachute Express | [🔗](https://open.spotify.com/artist/5ShmqyBAJRFMF0PqVjLYF3) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb328b7b7a5ae20c67c5bc5b02" alt="" width="50" /> | 448 | 1 | 0 | The Paul O'Brien All Stars Band | [🔗](https://open.spotify.com/artist/4yHvX6BSc9IUxGOQLQdEEl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4d2194966bdf641f79a2c1ed" alt="" width="50" /> | 448 | 1 | 0 | Music Together | [🔗](https://open.spotify.com/artist/4tP1lAjaYb9szKruOsoL97) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9ca4a522f389c9b7e0f6c847" alt="" width="50" /> | 448 | 1 | 0 | Barney | [🔗](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb33097ed4821bef8fc408173b" alt="" width="50" /> | 448 | 1 | 0 | Ralph's World | [🔗](https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf7e087fb52d043dc80b1c2a5" alt="" width="50" /> | 448 | 1 | 0 | Kidsongs | [🔗](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737b1cbe4a0da3a15c141a21c0" alt="" width="50" /> | 448 | 1 | 0 | Clovercroft Kids | [🔗](https://open.spotify.com/artist/4d8pFJwCoD1mX4wAn7Ax2h) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb979ec96db4b1cb53d284be2b" alt="" width="50" /> | 448 | 1 | 0 | Barbara Milne | [🔗](https://open.spotify.com/artist/4MQPTZi9TH3JNc6yGnLp6x) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5534cd5a77e934d57222cdd8" alt="" width="50" /> | 448 | 1 | 0 | Rainbow Songs | [🔗](https://open.spotify.com/artist/40TPC7EFk2MCuSBxvRfCOF) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc1d498ebb0c75ff75aceb161" alt="" width="50" /> | 448 | 1 | 0 | Andrew Holdsworth | [🔗](https://open.spotify.com/artist/3nqYPo90eQVpSZjT4Y85An) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a851cf41d322f5765ae45e48" alt="" width="50" /> | 448 | 1 | 0 | Press Play Picture House | [🔗](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4a99156ebef2a1624cf4f52e" alt="" width="50" /> | 448 | 1 | 0 | Susie Tallman | [🔗](https://open.spotify.com/artist/3Sz0QcctlhJ47VT4T6Jlm7) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0c4c95f156575b63c5df86ba" alt="" width="50" /> | 448 | 1 | 0 | Misha Mullov-Abbado | [🔗](https://open.spotify.com/artist/3OSYVINCz3vaPYV4DhvSS7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c232cb244c6dfa724e8fbf16" alt="" width="50" /> | 448 | 1 | 0 | Mr. Eric | [🔗](https://open.spotify.com/artist/3F8knI7WJLtawIH18mF6xT) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb0e3621bd37fe8a2be942e904" alt="" width="50" /> | 448 | 1 | 0 | David Landau | [🔗](https://open.spotify.com/artist/2xIaXC0ztnAJkUsZWFVSPV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d80bd51eba94b296fc693108" alt="" width="50" /> | 448 | 1 | 0 | Denise Gagne | [🔗](https://open.spotify.com/artist/2WEehmCcEKeVZWD6qYkXuk) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba4a7011b195068dde2be75ac" alt="" width="50" /> | 448 | 1 | 0 | Children's Music | [🔗](https://open.spotify.com/artist/2UGrkfBLWkaJHsqQOpgYRT) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebc04724201a3cd1a81d7bba05" alt="" width="50" /> | 448 | 1 | 0 | Dave Matthews Band | [🔗](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | 271 | 1 | 0 | Pharrell Williams | [🔗](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f662ae81484b23dabaf67805" alt="" width="50" /> | 448 | 1 | 0 | Muffin Songs | [🔗](https://open.spotify.com/artist/2PHC7cyBiJM9EZ0E8FKcJ4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739a9ad3a4e4c05e64db75e39b" alt="" width="50" /> | 448 | 1 | 0 | The Cast of Mary Poppins | [🔗](https://open.spotify.com/artist/2AmIbvKGbPqb5vB6e5OoP1) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd06a3b87787a0eef6eb3adcb" alt="" width="50" /> | 448 | 1 | 0 | Susan Salidor | [🔗](https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273600e9f48d05d996532436351" alt="" width="50" /> | 448 | 1 | 0 | DanSingKids | [🔗](https://open.spotify.com/artist/1u3XOsgRlZZM0e9T360uNs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732996bfa298c918fe241392f5" alt="" width="50" /> | 448 | 1 | 0 | Vicky Arlidge | [🔗](https://open.spotify.com/artist/1t8gwZFUoJEM9nhSJxT7ks) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebb0beff9a934956f8390cfee8" alt="" width="50" /> | 448 | 1 | 0 | Justine Clarke | [🔗](https://open.spotify.com/artist/1r6nvWvnqJYcm8kW3cX1zQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba702cac685e2e0433fb884c8" alt="" width="50" /> | 448 | 1 | 0 | Nursery Rhymes Band | [🔗](https://open.spotify.com/artist/1hhxuU75sJtitW71UWiCAP) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf54ff9f31e7686f6683c4f62" alt="" width="50" /> | 448 | 1 | 0 | Bounce Patrol | [🔗](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739df742dcaf9b79edad9009d0" alt="" width="50" /> | 448 | 1 | 0 | The Tokens | [🔗](https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfe5fe89a93c9592b4c85d6f5" alt="" width="50" /> | 448 | 1 | 0 | Little Baby Bum Nursery Rhyme Friends | [🔗](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb4db9929d8ea49e64574e4071" alt="" width="50" /> | 448 | 1 | 0 | Play School | [🔗](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27379830a35634f3b75ebeebf46" alt="" width="50" /> | 448 | 1 | 0 | Cedarmont Kids | [🔗](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) |
 
 </details>
 
@@ -93,16 +93,16 @@
 
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 1063 | <img src="https://i.scdn.co/image/ab67616d0000b27315da17f21f746eefc8c7265b" alt="The Best of The Laurie Berkner Band" width="50" /> | The Goldfish | 1063 | <img src="https://i.scdn.co/image/ab67616d0000b2734a31c4e579480224900a1692" alt="Children&#x27;s Songs, A Collection of Childhood Favorites" width="50" /> | I've Been Working on the Railroad |
-| 1063 | <img src="https://i.scdn.co/image/ab67616d0000b273ee857d39aa55c1a3123848e9" alt="30 Children&#x27;s Playgroup Favourites" width="50" /> | I'm A Little Teapot | 1063 | <img src="https://i.scdn.co/image/ab67616d0000b27315da17f21f746eefc8c7265b" alt="The Best of The Laurie Berkner Band" width="50" /> | Bumblebee (Buzz Buzz) |
-| 1063 | <img src="https://i.scdn.co/image/ab67616d0000b2734272f7b7128452832df8ff94" alt="Top 30 Baby Songs" width="50" /> | Frere Jacques | 1063 | <img src="https://i.scdn.co/image/ab67616d0000b273753900d289aba6025c30c292" alt="Kid Hits" width="50" /> | Slippery Fish |
-| 1063 | <img src="https://i.scdn.co/image/ab67616d0000b2731864654f5f0c5d7e4856a259" alt="Adventures in Pre-School Dance, Vol. 1" width="50" /> | Tiptoe, Gallop or March | 1063 | <img src="https://i.scdn.co/image/ab67616d0000b273dd093004f90f87a286bc0e5e" alt="Feel the Music" width="50" /> | Put Your Finger On |
-| 1063 | <img src="https://i.scdn.co/image/ab67616d0000b273024d2a8b825e7bac9aeb460c" alt="Sounds Like Fun by Barbara Milne" width="50" /> | Letter Sounds (apple apple aaa) | 1063 | <img src="https://i.scdn.co/image/ab67616d0000b2730143fb7ea0ba17925f883503" alt="More Songs for Kids: Classic Children&#x27;s Music" width="50" /> | Daddy Finger (The Finger Family) |
-| 1063 | <img src="https://i.scdn.co/image/ab67616d0000b273240bd30355c4a91793e81f49" alt="Ralph&#x27;s World" width="50" /> | Drivin' in My Car | 1063 | <img src="https://i.scdn.co/image/ab67616d0000b273564355697d4900b7b24049e5" alt="Everybody Likes Pizza! A Kids Album" width="50" /> | Shake Your Sillies Out |
-| 1063 | <img src="https://i.scdn.co/image/ab67616d0000b273364ef006af153fc0f5de965a" alt="Kids Animal Songs" width="50" /> | We're Going to the Zoo | 1063 | <img src="https://i.scdn.co/image/ab67616d0000b273c232cb244c6dfa724e8fbf16" alt="The Big Silly with Mr.Eric" width="50" /> | Pete the Cat and His White Shoes (Story Song) |
-| 1063 | <img src="https://i.scdn.co/image/ab67616d0000b273ff067d4d02fbe43bfc0a0a97" alt="You Are My Sunshine" width="50" /> | You Are My Sunshine (Version 1) | 1063 | <img src="https://i.scdn.co/image/ab67616d0000b273ab33167ebb1f8eb3d6ec6ed5" alt="150 All Time Children&#x27;s Favorites" width="50" /> | The Wheels on the Bus Go Round and Round |
-| 1063 | <img src="https://i.scdn.co/image/ab67616d0000b273f3ae6eda125e71a5c6ee0b7e" alt="5 Little Speckled Frogs" width="50" /> | 5 Little Speckled Frogs | 1063 | <img src="https://i.scdn.co/image/ab67616d0000b27311723f2867f29b2134ae47e4" alt="Pinkfong Animal Songs" width="50" /> | Animals Sound Fun |
-| 1063 | <img src="https://i.scdn.co/image/ab67616d0000b27315da17f21f746eefc8c7265b" alt="The Best of The Laurie Berkner Band" width="50" /> | We Are The Dinosaurs | 1063 | <img src="https://i.scdn.co/image/ab67616d0000b2736d6b079c576fa1983dc3abb9" alt="DansingKids: Growing through music" width="50" /> | If you are happy and you know it |
+| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b27315da17f21f746eefc8c7265b" alt="The Best of The Laurie Berkner Band" width="50" /> | The Goldfish | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b2734a31c4e579480224900a1692" alt="Children&#x27;s Songs, A Collection of Childhood Favorites" width="50" /> | I've Been Working on the Railroad |
+| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273ee857d39aa55c1a3123848e9" alt="30 Children&#x27;s Playgroup Favourites" width="50" /> | I'm A Little Teapot | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b27315da17f21f746eefc8c7265b" alt="The Best of The Laurie Berkner Band" width="50" /> | Bumblebee (Buzz Buzz) |
+| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b2734272f7b7128452832df8ff94" alt="Top 30 Baby Songs" width="50" /> | Frere Jacques | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273753900d289aba6025c30c292" alt="Kid Hits" width="50" /> | Slippery Fish |
+| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b2731864654f5f0c5d7e4856a259" alt="Adventures in Pre-School Dance, Vol. 1" width="50" /> | Tiptoe, Gallop or March | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273dd093004f90f87a286bc0e5e" alt="Feel the Music" width="50" /> | Put Your Finger On |
+| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273024d2a8b825e7bac9aeb460c" alt="Sounds Like Fun by Barbara Milne" width="50" /> | Letter Sounds (apple apple aaa) | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b2730143fb7ea0ba17925f883503" alt="More Songs for Kids: Classic Children&#x27;s Music" width="50" /> | Daddy Finger (The Finger Family) |
+| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273240bd30355c4a91793e81f49" alt="Ralph&#x27;s World" width="50" /> | Drivin' in My Car | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273564355697d4900b7b24049e5" alt="Everybody Likes Pizza! A Kids Album" width="50" /> | Shake Your Sillies Out |
+| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273364ef006af153fc0f5de965a" alt="Kids Animal Songs" width="50" /> | We're Going to the Zoo | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273c232cb244c6dfa724e8fbf16" alt="The Big Silly with Mr.Eric" width="50" /> | Pete the Cat and His White Shoes (Story Song) |
+| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273ff067d4d02fbe43bfc0a0a97" alt="You Are My Sunshine" width="50" /> | You Are My Sunshine (Version 1) | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273ab33167ebb1f8eb3d6ec6ed5" alt="150 All Time Children&#x27;s Favorites" width="50" /> | The Wheels on the Bus Go Round and Round |
+| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273f3ae6eda125e71a5c6ee0b7e" alt="5 Little Speckled Frogs" width="50" /> | 5 Little Speckled Frogs | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b27311723f2867f29b2134ae47e4" alt="Pinkfong Animal Songs" width="50" /> | Animals Sound Fun |
+| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b27315da17f21f746eefc8c7265b" alt="The Best of The Laurie Berkner Band" width="50" /> | We Are The Dinosaurs | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b2736d6b079c576fa1983dc3abb9" alt="DansingKids: Growing through music" width="50" /> | If you are happy and you know it |
 
 </details>
 

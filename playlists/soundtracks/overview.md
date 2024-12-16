@@ -9,16 +9,16 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6f65b0a3af9b1de3b17f7ffb" alt="" width="50" /> | 149 | 5 | 5 | [The 8-Bit Big Band](../../artists/the_8-bit_big_band/overview.md) | [🔗](https://open.spotify.com/artist/5d1sgs6DwqUcHqQsvwStt2) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6f65b0a3af9b1de3b17f7ffb" alt="" width="50" /> | 150 | 5 | 5 | [The 8-Bit Big Band](../../artists/the_8-bit_big_band/overview.md) | [🔗](https://open.spotify.com/artist/5d1sgs6DwqUcHqQsvwStt2) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb845fb635fad84bdcda4bf51f" alt="" width="50" /> | 50 | 28 | 0 | Howard Shore | [🔗](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb86b13e4d2e65ebf694384ef4" alt="" width="50" /> | 374 | 19 | 0 | John Williams | [🔗](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7394fb3a799a1c5a87bc5343" alt="" width="50" /> | 220 | 9 | 0 | The Greatest Bits | [🔗](https://open.spotify.com/artist/2dB3VxAmEw5Dqewiha1oO1) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5a5d168879568c94e86c61aa" alt="" width="50" /> | 450 | 7 | 0 | [London Symphony Orchestra](../../artists/london_symphony_orchestra/overview.md) | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7394fb3a799a1c5a87bc5343" alt="" width="50" /> | 221 | 9 | 0 | The Greatest Bits | [🔗](https://open.spotify.com/artist/2dB3VxAmEw5Dqewiha1oO1) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5a5d168879568c94e86c61aa" alt="" width="50" /> | 448 | 7 | 0 | [London Symphony Orchestra](../../artists/london_symphony_orchestra/overview.md) | [🔗](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) |
 | <img src="https://i.scdn.co/image/a5976bc0eb1957074043760233d0c0337f12d10e" alt="" width="50" /> | 100 | 6 | 0 | Javier Navarrete | [🔗](https://open.spotify.com/artist/6Ayc7FBYR3HjkGQb7SZrzQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb6eeeda2a79c65f45ed9f80b8" alt="" width="50" /> | 450 | 3 | 0 | Pokémon | [🔗](https://open.spotify.com/artist/6goK4KMSdP4A8lw8jk4ADk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f0622926a0bec6835c415b4e" alt="" width="50" /> | 450 | 3 | 0 | Monsalve | [🔗](https://open.spotify.com/artist/0fagNxnyvy6FDvkNPt6X29) |
-| <img src="https://i.scdn.co/image/225b84731734306443d5ff4cfba929dd2d272715" alt="" width="50" /> | 450 | 2 | 0 | James Galway | [🔗](https://open.spotify.com/artist/774mHr909NkDVeyyXQBQfZ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9ce996547e0b307c94f662e6" alt="" width="50" /> | 450 | 2 | 0 | Enya | [🔗](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb6eeeda2a79c65f45ed9f80b8" alt="" width="50" /> | 448 | 3 | 0 | Pokémon | [🔗](https://open.spotify.com/artist/6goK4KMSdP4A8lw8jk4ADk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f0622926a0bec6835c415b4e" alt="" width="50" /> | 448 | 3 | 0 | Monsalve | [🔗](https://open.spotify.com/artist/0fagNxnyvy6FDvkNPt6X29) |
+| <img src="https://i.scdn.co/image/225b84731734306443d5ff4cfba929dd2d272715" alt="" width="50" /> | 448 | 2 | 0 | James Galway | [🔗](https://open.spotify.com/artist/774mHr909NkDVeyyXQBQfZ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9ce996547e0b307c94f662e6" alt="" width="50" /> | 448 | 2 | 0 | Enya | [🔗](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) |
 
 
 <details>
@@ -26,22 +26,22 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eb67d670ef020436428a2f3a2a" alt="" width="50" /> | 450 | 2 | 0 | Renée Fleming | [🔗](https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebeeaed7278673c56d10ac38e4" alt="" width="50" /> | 450 | 2 | 0 | The Marcus Hedges Trend Orchestra | [🔗](https://open.spotify.com/artist/123epI2OFu37F7VsnOBn9F) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273251e95e1798f41fd5a94967b" alt="" width="50" /> | 450 | 1 | 0 | Aperture Science Psychoacoustic Laboratories | [🔗](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebabee00ff8d2e08f97d7d1ac7" alt="" width="50" /> | 450 | 1 | 0 | Boston Pops Orchestra | [🔗](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb7c30b71fc7286be908c64884" alt="" width="50" /> | 450 | 1 | 0 | Elizabeth Fraser | [🔗](https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733e1da96cf78b817984290312" alt="" width="50" /> | 450 | 1 | 0 | John Neal | [🔗](https://open.spotify.com/artist/5zMZofgPVYk9IVibwopcbY) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb5dbb579d717fffdd2252477b" alt="" width="50" /> | 450 | 1 | 0 | Michael Tai | [🔗](https://open.spotify.com/artist/5NLlq8IzOUuqDYGPxoPkSC) |
-| <img src="https://i.scdn.co/image/2bf002eded5952f81c6254286d9a2d354586f070" alt="" width="50" /> | 450 | 1 | 0 | Annie Lennox | [🔗](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebfb0fcd51414e7bbe85e00b6f" alt="" width="50" /> | 450 | 1 | 0 | Yo-Yo Ma | [🔗](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb9945209ac13720afd7eea2e3" alt="" width="50" /> | 450 | 1 | 0 | Michael Giacchino | [🔗](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb69191d2d3e6cf6340aab0f55" alt="" width="50" /> | 450 | 1 | 0 | Wesley Sprayue | [🔗](https://open.spotify.com/artist/2WC05LNhYfprewGa72WQhP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734fab8d311b449c66ef171009" alt="" width="50" /> | 423 | 1 | 0 | Billy Boyd | [🔗](https://open.spotify.com/artist/1wTKlkGklPb1JMTVUIwAoj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e207df84db1918075f9a2bff" alt="" width="50" /> | 450 | 1 | 0 | Viggo Mortensen | [🔗](https://open.spotify.com/artist/11habIRpXVkScDFp3rJrgu) |
-| <img src="https://i.scdn.co/image/f1658bc66d1f99ab6d118f26a2abaf7dc33a272f" alt="" width="50" /> | 450 | 1 | 0 | Itzhak Perlman | [🔗](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebdffc3d0e6fc685b3cb032c65" alt="" width="50" /> | 450 | 1 | 0 | Qumu | [🔗](https://open.spotify.com/artist/0LzeyDrlLtuyBqMSBN4z3U) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb3bec85b95ac189dbbdc3f724" alt="" width="50" /> | 450 | 1 | 0 | Emilíana Torrini | [🔗](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb67d670ef020436428a2f3a2a" alt="" width="50" /> | 448 | 2 | 0 | Renée Fleming | [🔗](https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebeeaed7278673c56d10ac38e4" alt="" width="50" /> | 448 | 2 | 0 | The Marcus Hedges Trend Orchestra | [🔗](https://open.spotify.com/artist/123epI2OFu37F7VsnOBn9F) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273251e95e1798f41fd5a94967b" alt="" width="50" /> | 448 | 1 | 0 | Aperture Science Psychoacoustic Laboratories | [🔗](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebabee00ff8d2e08f97d7d1ac7" alt="" width="50" /> | 448 | 1 | 0 | Boston Pops Orchestra | [🔗](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb7c30b71fc7286be908c64884" alt="" width="50" /> | 448 | 1 | 0 | Elizabeth Fraser | [🔗](https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e1da96cf78b817984290312" alt="" width="50" /> | 448 | 1 | 0 | John Neal | [🔗](https://open.spotify.com/artist/5zMZofgPVYk9IVibwopcbY) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb5dbb579d717fffdd2252477b" alt="" width="50" /> | 448 | 1 | 0 | Michael Tai | [🔗](https://open.spotify.com/artist/5NLlq8IzOUuqDYGPxoPkSC) |
+| <img src="https://i.scdn.co/image/2bf002eded5952f81c6254286d9a2d354586f070" alt="" width="50" /> | 448 | 1 | 0 | Annie Lennox | [🔗](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebfb0fcd51414e7bbe85e00b6f" alt="" width="50" /> | 448 | 1 | 0 | Yo-Yo Ma | [🔗](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb9945209ac13720afd7eea2e3" alt="" width="50" /> | 448 | 1 | 0 | Michael Giacchino | [🔗](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb69191d2d3e6cf6340aab0f55" alt="" width="50" /> | 448 | 1 | 0 | Wesley Sprayue | [🔗](https://open.spotify.com/artist/2WC05LNhYfprewGa72WQhP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734fab8d311b449c66ef171009" alt="" width="50" /> | 422 | 1 | 0 | Billy Boyd | [🔗](https://open.spotify.com/artist/1wTKlkGklPb1JMTVUIwAoj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e207df84db1918075f9a2bff" alt="" width="50" /> | 448 | 1 | 0 | Viggo Mortensen | [🔗](https://open.spotify.com/artist/11habIRpXVkScDFp3rJrgu) |
+| <img src="https://i.scdn.co/image/f1658bc66d1f99ab6d118f26a2abaf7dc33a272f" alt="" width="50" /> | 448 | 1 | 0 | Itzhak Perlman | [🔗](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebdffc3d0e6fc685b3cb032c65" alt="" width="50" /> | 448 | 1 | 0 | Qumu | [🔗](https://open.spotify.com/artist/0LzeyDrlLtuyBqMSBN4z3U) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb3bec85b95ac189dbbdc3f724" alt="" width="50" /> | 448 | 1 | 0 | Emilíana Torrini | [🔗](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) |
 
 </details>
 
@@ -58,16 +58,16 @@
 
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 370 | <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Tetris Theme A (From "Tetris")](../../artists/the_8-bit_big_band/overview.md) | 1063 | <img src="https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7" alt="The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)" width="50" /> | Helm's Deep |
-| 489 | <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | Anduril | 1063 | <img src="https://i.scdn.co/image/ab67616d0000b27392b4abaaa250a8d1b00d5bc5" alt="Zelda: Ocarina of Time - Piano" width="50" /> | Lost Woods |
-| 992 | <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | The Steward of Gondor (feat. Billy Boyd) | 1063 | <img src="https://i.scdn.co/image/ab67616d0000b273c835f5fb3ad632c14b4e7099" alt="The Legend of Zelda: Ocarina of Time" width="50" /> | Fairy's Fountain |
-| 1063 | <img src="https://i.scdn.co/image/ab67616d0000b273c835f5fb3ad632c14b4e7099" alt="The Legend of Zelda: Ocarina of Time" width="50" /> | Lost Woods | 1063 | <img src="https://i.scdn.co/image/ab67616d0000b27392f051ce3c585b5c2db21d52" alt="Jurassic Park" width="50" /> | Welcome To Jurassic Park |
-| 1063 | <img src="https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f" alt="The Lord of the Rings: The Fellowship of the Ring - the Complete Recordings" width="50" /> | The Passing of the Elves | 1063 | <img src="https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce" alt="The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack)" width="50" /> | May It Be |
-| 1063 | <img src="https://i.scdn.co/image/ab67616d0000b273c835f5fb3ad632c14b4e7099" alt="The Legend of Zelda: Ocarina of Time" width="50" /> | Gerudo Valley | 1063 | <img src="https://i.scdn.co/image/ab67616d0000b2735edd9d6529b42a5ac6121ef2" alt="Zelda: Link&#x27;s Ocarina Orchestrated" width="50" /> | Song Of Storms |
-| 1063 | <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | The Return of the King (feat. Sir James Galway, Viggo Mortensen and Renee Fleming) | 1063 | <img src="https://i.scdn.co/image/ab67616d0000b27334222e48d075ace5ed2c2e9e" alt="Jurassic Park (Soundtrack)" width="50" /> | Theme From Jurassic Park - From "Jurassic Park" Soundtrack |
-| 1063 | <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Still Alive (From "Portal")](../../artists/the_8-bit_big_band/overview.md) | 1063 | <img src="https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7" alt="The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)" width="50" /> | Breath of Life |
-| 1063 | <img src="https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7" alt="The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)" width="50" /> | Samwise the Brave | 1063 | <img src="https://i.scdn.co/image/ab67616d0000b2734f806e8612b94a3624bb9eeb" alt="Pokemon X - Ten Years Of Pokemon" width="50" /> | Pokemon Theme |
-| 1063 | <img src="https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce" alt="The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack)" width="50" /> | Many Meetings | 1063 | <img src="https://i.scdn.co/image/ab67616d0000b273dc83f28e94f98a5605f48529" alt="Star Trek Into Darkness (Music From The Motion Picture)" width="50" /> | Star Trek Main Theme |
+| 370 | <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Tetris Theme A (From "Tetris")](../../artists/the_8-bit_big_band/overview.md) | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7" alt="The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)" width="50" /> | Helm's Deep |
+| 490 | <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | Anduril | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b27392b4abaaa250a8d1b00d5bc5" alt="Zelda: Ocarina of Time - Piano" width="50" /> | Lost Woods |
+| 988 | <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | The Steward of Gondor (feat. Billy Boyd) | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273c835f5fb3ad632c14b4e7099" alt="The Legend of Zelda: Ocarina of Time" width="50" /> | Fairy's Fountain |
+| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273c835f5fb3ad632c14b4e7099" alt="The Legend of Zelda: Ocarina of Time" width="50" /> | Lost Woods | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b27392f051ce3c585b5c2db21d52" alt="Jurassic Park" width="50" /> | Welcome To Jurassic Park |
+| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f" alt="The Lord of the Rings: The Fellowship of the Ring - the Complete Recordings" width="50" /> | The Passing of the Elves | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce" alt="The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack)" width="50" /> | May It Be |
+| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273c835f5fb3ad632c14b4e7099" alt="The Legend of Zelda: Ocarina of Time" width="50" /> | Gerudo Valley | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b2735edd9d6529b42a5ac6121ef2" alt="Zelda: Link&#x27;s Ocarina Orchestrated" width="50" /> | Song Of Storms |
+| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)" width="50" /> | The Return of the King (feat. Sir James Galway, Viggo Mortensen and Renee Fleming) | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b27334222e48d075ace5ed2c2e9e" alt="Jurassic Park (Soundtrack)" width="50" /> | Theme From Jurassic Park - From "Jurassic Park" Soundtrack |
+| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="Choose Your Character!" width="50" /> | [Still Alive (From "Portal")](../../artists/the_8-bit_big_band/overview.md) | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7" alt="The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)" width="50" /> | Breath of Life |
+| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7" alt="The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)" width="50" /> | Samwise the Brave | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b2734f806e8612b94a3624bb9eeb" alt="Pokemon X - Ten Years Of Pokemon" width="50" /> | Pokemon Theme |
+| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce" alt="The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack)" width="50" /> | Many Meetings | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273dc83f28e94f98a5605f48529" alt="Star Trek Into Darkness (Music From The Motion Picture)" width="50" /> | Star Trek Main Theme |
 
 </details>
 
@@ -77,11 +77,11 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="" width="50" /> | 339 | 11 | 0 | The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack) | 2003-11-24 | [🔗](https://open.spotify.com/album/38x0H9PdY1fHh8EdfPUXqa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428" alt="" width="50" /> | 341 | 11 | 0 | The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack) | 2003-11-24 | [🔗](https://open.spotify.com/album/38x0H9PdY1fHh8EdfPUXqa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7" alt="" width="50" /> | 693 | 10 | 0 | The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack) | 2002-12-02 | [🔗](https://open.spotify.com/album/1zIoYLpYOq8d4HFzHJ7vc8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce" alt="" width="50" /> | 693 | 9 | 0 | The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack) | 2001-11-19 | [🔗](https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273efc9678687f602f6102ce520" alt="" width="50" /> | 693 | 6 | 0 | Pan's Labyrinth (Original Motion Picture Soundtrack) | 2006-12-19 | [🔗](https://open.spotify.com/album/5b5tWFo32wYBLMweeiL8vE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | 263 | 5 | 5 | Choose Your Character! | 2019-06-24 | [🔗](https://open.spotify.com/album/2d3PcBi2ID1sLe8ZRTmxIi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273468aa4af7cc9ee85735755a2" alt="" width="50" /> | 264 | 5 | 5 | Choose Your Character! | 2019-06-24 | [🔗](https://open.spotify.com/album/2d3PcBi2ID1sLe8ZRTmxIi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c835f5fb3ad632c14b4e7099" alt="" width="50" /> | 693 | 5 | 0 | The Legend of Zelda: Ocarina of Time | 2014-03-14 | [🔗](https://open.spotify.com/album/76y1I6Pm58uMMrwk5ep1Z3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e01fd627e954131f46bc8570" alt="" width="50" /> | 693 | 3 | 0 | The Legend of Zelda: Twilight Princess Instrumental Remix | 2016-08-01 | [🔗](https://open.spotify.com/album/3HMKaMmIqDLvbbZ7PVDW9z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27344d5ef063da6fc06df7b1bc1" alt="" width="50" /> | 693 | 3 | 0 | Star Wars Episode IV: A New Hope (Original Motion Picture Soundtrack) | 1997 | [🔗](https://open.spotify.com/album/39vpWS7vrC4Pz33bNafjva) |

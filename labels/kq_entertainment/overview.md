@@ -1,16 +1,16 @@
 # KQ Entertainment
 
-11 songs
+12 songs
 
 Appears as:
-- KQ Entertainment (10 tracks)
+- KQ Entertainment (11 tracks)
 - KQ Entertainment, TURBO JK Company (1 tracks)
 
 ## Top Artists
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5ebd28d311ccd01e2fd8917cb5c" alt="" width="50" /> | 45 | 11 | 6 | [ATEEZ](../../artists/ateez/overview.md) | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebd28d311ccd01e2fd8917cb5c" alt="" width="50" /> | 45 | 12 | 6 | [ATEEZ](../../artists/ateez/overview.md) | [🔗](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) |
 
 
 
@@ -19,11 +19,11 @@ Appears as:
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27349ae714ee0bf50ca0838ed0f" alt="" width="50" /> | 693 | 2 | 1 | THE WORLD EP.1 : MOVEMENT | 2022-07-29 | [🔗](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733714e924e5570c4d2df97e09" alt="" width="50" /> | 357 | 1 | 1 | ZERO : FEVER Part.3 | 2021-09-13 | [🔗](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273be3a0f924ad08d95b4e25d9f" alt="" width="50" /> | 478 | 1 | 1 | TREASURE EPILOGUE : Action To Answer | 2020-01-06 | [🔗](https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273decdd40044544f29075673d2" alt="" width="50" /> | 657 | 1 | 1 | TREASURE EP.FIN : All To Action | 2019-10-08 | [🔗](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739a7d96c7962d39fccda354ea" alt="" width="50" /> | 693 | 2 | 1 | GOLDEN HOUR : Part.2 | 2024-11-15 | [🔗](https://open.spotify.com/album/2FLo3lAhEQpvHAtRN0HEUP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733714e924e5570c4d2df97e09" alt="" width="50" /> | 359 | 1 | 1 | ZERO : FEVER Part.3 | 2021-09-13 | [🔗](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273be3a0f924ad08d95b4e25d9f" alt="" width="50" /> | 481 | 1 | 1 | TREASURE EPILOGUE : Action To Answer | 2020-01-06 | [🔗](https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273decdd40044544f29075673d2" alt="" width="50" /> | 658 | 1 | 1 | TREASURE EP.FIN : All To Action | 2019-10-08 | [🔗](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="" width="50" /> | 124 | 1 | 1 | SPIN OFF : FROM THE WITNESS | 2022-12-30 | [🔗](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739a7d96c7962d39fccda354ea" alt="" width="50" /> | 693 | 1 | 1 | GOLDEN HOUR : Part.2 | 2024-11-15 | [🔗](https://open.spotify.com/album/2FLo3lAhEQpvHAtRN0HEUP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aaf833882fd0d8d943b9c0c0" alt="" width="50" /> | 693 | 1 | 0 | TREASURE EP.2 : Zero To One | 2019-01-15 | [🔗](https://open.spotify.com/album/2PQ8cQ8WzAJJkWYT2Ydmhw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d3bd435519e703173663770" alt="" width="50" /> | 693 | 1 | 0 | TREASURE EP.1 : All to Zero | 2018-10-24 | [🔗](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba27e1c8a572e31571a4d589" alt="" width="50" /> | 693 | 1 | 0 | THE WORLD EP.2 : OUTLAW | 2023-06-16 | [🔗](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) |
@@ -35,8 +35,8 @@ Appears as:
 
 | Tracks | 💚 | Genre |
 |---:|---:|:---|
-| 11 | 6 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
-| 11 | 6 | [k-pop](../../genres/k-pop/overview.md) |
+| 12 | 6 | [k-pop boy group](../../genres/k-pop_boy_group/overview.md) |
+| 12 | 6 | [k-pop](../../genres/k-pop/overview.md) |
 
 
 
@@ -77,16 +77,16 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="" width="50" /> | HALAZIA | SPIN OFF : FROM THE WITNESS | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 153 | 💚 | [🔗](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738bc5762a75c18b494803705c" alt="" width="50" /> | HALAZIA | SPIN OFF : FROM THE WITNESS | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 154 | 💚 | [🔗](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733714e924e5570c4d2df97e09" alt="" width="50" /> | Deja Vu | ZERO : FEVER Part.3 | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 509 | 💚 | [🔗](https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273be3a0f924ad08d95b4e25d9f" alt="" width="50" /> | Answer | TREASURE EPILOGUE : Action To Answer | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 716 | 💚 | [🔗](https://open.spotify.com/track/3IdPtyJHB1WVPM4eCiCAKM) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273decdd40044544f29075673d2" alt="" width="50" /> | WONDERLAND | TREASURE EP.FIN : All To Action | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 1008 | 💚 | [🔗](https://open.spotify.com/track/6k67RdkVjTZj79c1cRz7IQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c3e44ef30eacbbe0ec98598c" alt="" width="50" /> | The Black Cat Nero | Season Songs | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment, TURBO JK Company](.) | 1034 | | [🔗](https://open.spotify.com/track/5GCkHlq2lxmtSlAhiLpnjq) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739d3bd435519e703173663770" alt="" width="50" /> | Pirate King | TREASURE EP.1 : All to Zero | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 1063 | | [🔗](https://open.spotify.com/track/5Jl2i6LR3Socm4TYqRzZw3) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aaf833882fd0d8d943b9c0c0" alt="" width="50" /> | HALA HALA (Hearts Awakened, Live Alive) | TREASURE EP.2 : Zero To One | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 1063 | | [🔗](https://open.spotify.com/track/4v2BLMhWtVvBnZwuoiKxja) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27349ae714ee0bf50ca0838ed0f" alt="" width="50" /> | Cyberpunk | THE WORLD EP.1 : MOVEMENT | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 1063 | | [🔗](https://open.spotify.com/track/2Ax4rdLenBhULX7nRbhful) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27349ae714ee0bf50ca0838ed0f" alt="" width="50" /> | Guerrilla | THE WORLD EP.1 : MOVEMENT | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 1063 | 💚 | [🔗](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ba27e1c8a572e31571a4d589" alt="" width="50" /> | BOUNCY (K-HOT CHILLI PEPPERS) | THE WORLD EP.2 : OUTLAW | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 1063 | | [🔗](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273be3a0f924ad08d95b4e25d9f" alt="" width="50" /> | Answer | TREASURE EPILOGUE : Action To Answer | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 721 | 💚 | [🔗](https://open.spotify.com/track/3IdPtyJHB1WVPM4eCiCAKM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273decdd40044544f29075673d2" alt="" width="50" /> | WONDERLAND | TREASURE EP.FIN : All To Action | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 1009 | 💚 | [🔗](https://open.spotify.com/track/6k67RdkVjTZj79c1cRz7IQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c3e44ef30eacbbe0ec98598c" alt="" width="50" /> | The Black Cat Nero | Season Songs | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment, TURBO JK Company](.) | 1035 | | [🔗](https://open.spotify.com/track/5GCkHlq2lxmtSlAhiLpnjq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d3bd435519e703173663770" alt="" width="50" /> | Pirate King | TREASURE EP.1 : All to Zero | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 1065 | | [🔗](https://open.spotify.com/track/5Jl2i6LR3Socm4TYqRzZw3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aaf833882fd0d8d943b9c0c0" alt="" width="50" /> | HALA HALA (Hearts Awakened, Live Alive) | TREASURE EP.2 : Zero To One | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 1065 | | [🔗](https://open.spotify.com/track/4v2BLMhWtVvBnZwuoiKxja) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27349ae714ee0bf50ca0838ed0f" alt="" width="50" /> | Cyberpunk | THE WORLD EP.1 : MOVEMENT | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 1065 | | [🔗](https://open.spotify.com/track/2Ax4rdLenBhULX7nRbhful) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27349ae714ee0bf50ca0838ed0f" alt="" width="50" /> | Guerrilla | THE WORLD EP.1 : MOVEMENT | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 1065 | 💚 | [🔗](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ba27e1c8a572e31571a4d589" alt="" width="50" /> | BOUNCY (K-HOT CHILLI PEPPERS) | THE WORLD EP.2 : OUTLAW | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 1065 | | [🔗](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) |
 
 
 <details>
@@ -94,7 +94,8 @@ Appears as:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2739a7d96c7962d39fccda354ea" alt="" width="50" /> | Ice On My Teeth | GOLDEN HOUR : Part.2 | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 1063 | 💚 | [🔗](https://open.spotify.com/track/62eDE0RR8Sgh7yw8ZLeyAM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739a7d96c7962d39fccda354ea" alt="" width="50" /> | Ice On My Teeth | GOLDEN HOUR : Part.2 | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 1065 | 💚 | [🔗](https://open.spotify.com/track/62eDE0RR8Sgh7yw8ZLeyAM) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739a7d96c7962d39fccda354ea" alt="" width="50" /> | Selfish Waltz | GOLDEN HOUR : Part.2 | [ATEEZ](../../artists/ateez/overview.md) | [KQ Entertainment](.) | 1065 | | [🔗](https://open.spotify.com/track/4sgvhAD07BiE8H0gGbmaCk) |
 
 </details>
 
