@@ -20,9 +20,9 @@ Simon & Garfunkel:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | 693 | 3 | 3 | Bridge Over Troubled Water | 1970-01-26 | [🔗](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="" width="50" /> | 693 | 1 | 1 | Wednesday Morning, 3 A.M. | 1964-10-19 | [🔗](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8fb5b4308dc27f210064ef4" alt="" width="50" /> | 693 | 1 | 1 | Bookends | 1968-04-03 | [🔗](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | 694 | 3 | 3 | Bridge Over Troubled Water | 1970-01-26 | [🔗](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="" width="50" /> | 694 | 1 | 1 | Wednesday Morning, 3 A.M. | 1964-10-19 | [🔗](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8fb5b4308dc27f210064ef4" alt="" width="50" /> | 694 | 1 | 1 | Bookends | 1968-04-03 | [🔗](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -85,8 +85,8 @@ Simon & Garfunkel:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="" width="50" /> | The Sound of Silence - Acoustic Version | Wednesday Morning, 3 A.M. | [Simon & Garfunkel](overview.md) | [Columbia](../../labels/columbia) | 1065 | 💚 | [🔗](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8fb5b4308dc27f210064ef4" alt="" width="50" /> | Mrs. Robinson - From "The Graduate" Soundtrack | Bookends | [Simon & Garfunkel](overview.md) | [Columbia](../../labels/columbia) | 1065 | 💚 | [🔗](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Bridge Over Troubled Water | Bridge Over Troubled Water | [Simon & Garfunkel](overview.md) | [Columbia](../../labels/columbia) | 1065 | 💚 | [🔗](https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Cecilia | Bridge Over Troubled Water | [Simon & Garfunkel](overview.md) | [Columbia](../../labels/columbia) | 1065 | 💚 | [🔗](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | The Boxer | Bridge Over Troubled Water | [Simon & Garfunkel](overview.md) | [Columbia](../../labels/columbia) | 1065 | 💚 | [🔗](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733b50c381e5f477c3cd066286" alt="" width="50" /> | The Sound of Silence - Acoustic Version | Wednesday Morning, 3 A.M. | [Simon & Garfunkel](overview.md) | [Columbia](../../labels/columbia) | 1071 | 💚 | [🔗](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8fb5b4308dc27f210064ef4" alt="" width="50" /> | Mrs. Robinson - From "The Graduate" Soundtrack | Bookends | [Simon & Garfunkel](overview.md) | [Columbia](../../labels/columbia) | 1071 | 💚 | [🔗](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Bridge Over Troubled Water | Bridge Over Troubled Water | [Simon & Garfunkel](overview.md) | [Columbia](../../labels/columbia) | 1071 | 💚 | [🔗](https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | Cecilia | Bridge Over Troubled Water | [Simon & Garfunkel](overview.md) | [Columbia](../../labels/columbia) | 1071 | 💚 | [🔗](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f" alt="" width="50" /> | The Boxer | Bridge Over Troubled Water | [Simon & Garfunkel](overview.md) | [Columbia](../../labels/columbia) | 1071 | 💚 | [🔗](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) |

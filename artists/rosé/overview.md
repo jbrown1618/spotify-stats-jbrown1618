@@ -13,8 +13,8 @@ ROSÉ:
 ROSÉ is currently:
 - The #2 artist of the last month
 - The #21 artist of the last 6 months
-- The #49 artist of the last year
-- The #109 artist of all time
+- The #43 artist of the last year
+- The #105 artist of all time
 
 ![Rank of ROSÉ over time](../../images/artists/rosé/rank_time_series.png)
 ## Top Tracks
@@ -38,9 +38,9 @@ ROSÉ is currently:
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b2735074bd0894cb1340b8d8a678" alt="" width="50" /> | 232 | 6 | 4 | rosie | 2024-12-06 | [🔗](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | 220 | 2 | 2 | R | 2021-03-12 | [🔗](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27336032cb4acd9df050bc2e197" alt="" width="50" /> | 172 | 1 | 1 | APT. | 2024-10-18 | [🔗](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735074bd0894cb1340b8d8a678" alt="" width="50" /> | 212 | 6 | 4 | rosie | 2024-12-06 | [🔗](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | 223 | 2 | 2 | R | 2021-03-12 | [🔗](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27336032cb4acd9df050bc2e197" alt="" width="50" /> | 168 | 1 | 1 | APT. | 2024-10-18 | [🔗](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) |
 
 ## Featured on Playlists
 | Art | Tracks | Playlist |
@@ -144,12 +144,12 @@ ROSÉ is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b27336032cb4acd9df050bc2e197" alt="" width="50" /> | APT. | APT. | [ROSÉ](overview.md), [Bruno Mars](../bruno_mars/overview.md) | [Atlantic Records](../../labels/atlantic_records) | 243 | 💚 | [🔗](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | Gone | R | [ROSÉ](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 308 | 💚 | [🔗](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735074bd0894cb1340b8d8a678" alt="" width="50" /> | drinks or coffee | rosie | [ROSÉ](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 641 | | [🔗](https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735074bd0894cb1340b8d8a678" alt="" width="50" /> | stay a little longer | rosie | [ROSÉ](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 648 | 💚 | [🔗](https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735074bd0894cb1340b8d8a678" alt="" width="50" /> | dance all night | rosie | [ROSÉ](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 693 | 💚 | [🔗](https://open.spotify.com/track/50aQbgfdydBXABx2gATQHn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735074bd0894cb1340b8d8a678" alt="" width="50" /> | two years | rosie | [ROSÉ](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 913 | 💚 | [🔗](https://open.spotify.com/track/4HxGH28DitgAuuKpEVrLzN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | On The Ground | R | [ROSÉ](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 1065 | 💚 | [🔗](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735074bd0894cb1340b8d8a678" alt="" width="50" /> | number one girl | rosie | [ROSÉ](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 1065 | 💚 | [🔗](https://open.spotify.com/track/1lcBt7LoEikqYmhUoa2cez) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735074bd0894cb1340b8d8a678" alt="" width="50" /> | toxic till the end | rosie | [ROSÉ](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 1065 | | [🔗](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27336032cb4acd9df050bc2e197" alt="" width="50" /> | APT. | APT. | [ROSÉ](overview.md), [Bruno Mars](../bruno_mars/overview.md) | [Atlantic Records](../../labels/atlantic_records) | 240 | 💚 | [🔗](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | Gone | R | [ROSÉ](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 310 | 💚 | [🔗](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735074bd0894cb1340b8d8a678" alt="" width="50" /> | drinks or coffee | rosie | [ROSÉ](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 597 | | [🔗](https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735074bd0894cb1340b8d8a678" alt="" width="50" /> | stay a little longer | rosie | [ROSÉ](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 609 | 💚 | [🔗](https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735074bd0894cb1340b8d8a678" alt="" width="50" /> | dance all night | rosie | [ROSÉ](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 627 | 💚 | [🔗](https://open.spotify.com/track/50aQbgfdydBXABx2gATQHn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735074bd0894cb1340b8d8a678" alt="" width="50" /> | two years | rosie | [ROSÉ](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 883 | 💚 | [🔗](https://open.spotify.com/track/4HxGH28DitgAuuKpEVrLzN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735074bd0894cb1340b8d8a678" alt="" width="50" /> | toxic till the end | rosie | [ROSÉ](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 1046 | | [🔗](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fdec91537c467efa0cd75e2f" alt="" width="50" /> | On The Ground | R | [ROSÉ](overview.md) | [Interscope Records](../../labels/interscope_records), [YG Entertainment](../../labels/yg_entertainment) | 1071 | 💚 | [🔗](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735074bd0894cb1340b8d8a678" alt="" width="50" /> | number one girl | rosie | [ROSÉ](overview.md) | [Atlantic Records](../../labels/atlantic_records) | 1071 | 💚 | [🔗](https://open.spotify.com/track/1lcBt7LoEikqYmhUoa2cez) |

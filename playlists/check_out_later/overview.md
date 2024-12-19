@@ -28,12 +28,12 @@
 
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b27388fb8814287d20fede1aba40" alt="Beautiful MAZE" width="50" /> | Black MIRROR | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b27326874d8b634cc01471431b33" alt="FLOW" width="50" /> | MAESTRO |
-| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b27367c07f0becfe4e1f0163fa5c" alt="DREAM( )SCAPE" width="50" /> | [icantfeelanything](../../artists/nct_dream/overview.md) | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b2739a7d96c7962d39fccda354ea" alt="GOLDEN HOUR : Part.2" width="50" /> | [Selfish Waltz](../../artists/ateez/overview.md) |
-| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273b0e13013f8f4b673f811da85" alt="WALK - The 6th Album" width="50" /> | [Pricey](../../artists/nct_127/overview.md) | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273ce09217bde99ac32fb509123" alt="OVERSTEP" width="50" /> | +82 |
-| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273ce09217bde99ac32fb509123" alt="OVERSTEP" width="50" /> | +82 | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273b0e13013f8f4b673f811da85" alt="WALK - The 6th Album" width="50" /> | [Pricey](../../artists/nct_127/overview.md) |
-| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b2739a7d96c7962d39fccda354ea" alt="GOLDEN HOUR : Part.2" width="50" /> | [Selfish Waltz](../../artists/ateez/overview.md) | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b27367c07f0becfe4e1f0163fa5c" alt="DREAM( )SCAPE" width="50" /> | [icantfeelanything](../../artists/nct_dream/overview.md) |
-| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b27326874d8b634cc01471431b33" alt="FLOW" width="50" /> | MAESTRO | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b27388fb8814287d20fede1aba40" alt="Beautiful MAZE" width="50" /> | Black MIRROR |
+| 1071 | <img src="https://i.scdn.co/image/ab67616d0000b27388fb8814287d20fede1aba40" alt="Beautiful MAZE" width="50" /> | Black MIRROR | 1071 | <img src="https://i.scdn.co/image/ab67616d0000b27326874d8b634cc01471431b33" alt="FLOW" width="50" /> | MAESTRO |
+| 1071 | <img src="https://i.scdn.co/image/ab67616d0000b27367c07f0becfe4e1f0163fa5c" alt="DREAM( )SCAPE" width="50" /> | [icantfeelanything](../../artists/nct_dream/overview.md) | 1071 | <img src="https://i.scdn.co/image/ab67616d0000b2739a7d96c7962d39fccda354ea" alt="GOLDEN HOUR : Part.2" width="50" /> | [Selfish Waltz](../../artists/ateez/overview.md) |
+| 1071 | <img src="https://i.scdn.co/image/ab67616d0000b273b0e13013f8f4b673f811da85" alt="WALK - The 6th Album" width="50" /> | [Pricey](../../artists/nct_127/overview.md) | 1071 | <img src="https://i.scdn.co/image/ab67616d0000b273ce09217bde99ac32fb509123" alt="OVERSTEP" width="50" /> | +82 |
+| 1071 | <img src="https://i.scdn.co/image/ab67616d0000b273ce09217bde99ac32fb509123" alt="OVERSTEP" width="50" /> | +82 | 1071 | <img src="https://i.scdn.co/image/ab67616d0000b273b0e13013f8f4b673f811da85" alt="WALK - The 6th Album" width="50" /> | [Pricey](../../artists/nct_127/overview.md) |
+| 1071 | <img src="https://i.scdn.co/image/ab67616d0000b2739a7d96c7962d39fccda354ea" alt="GOLDEN HOUR : Part.2" width="50" /> | [Selfish Waltz](../../artists/ateez/overview.md) | 1071 | <img src="https://i.scdn.co/image/ab67616d0000b27367c07f0becfe4e1f0163fa5c" alt="DREAM( )SCAPE" width="50" /> | [icantfeelanything](../../artists/nct_dream/overview.md) |
+| 1071 | <img src="https://i.scdn.co/image/ab67616d0000b27326874d8b634cc01471431b33" alt="FLOW" width="50" /> | MAESTRO | 1071 | <img src="https://i.scdn.co/image/ab67616d0000b27388fb8814287d20fede1aba40" alt="Beautiful MAZE" width="50" /> | Black MIRROR |
 
 </details>
 
@@ -43,12 +43,12 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b0e13013f8f4b673f811da85" alt="" width="50" /> | 693 | 1 | 0 | WALK - The 6th Album | 2024-07-14 | [🔗](https://open.spotify.com/album/5Imx4Y371SPIOaH3Emtl9M) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ce09217bde99ac32fb509123" alt="" width="50" /> | 110 | 1 | 0 | OVERSTEP | 2024-06-03 | [🔗](https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739a7d96c7962d39fccda354ea" alt="" width="50" /> | 693 | 1 | 0 | GOLDEN HOUR : Part.2 | 2024-11-15 | [🔗](https://open.spotify.com/album/2FLo3lAhEQpvHAtRN0HEUP) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27326874d8b634cc01471431b33" alt="" width="50" /> | 693 | 1 | 0 | FLOW | 2024-09-03 | [🔗](https://open.spotify.com/album/7peUxIsjo1GlwVhNdXe4r2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27367c07f0becfe4e1f0163fa5c" alt="" width="50" /> | 693 | 1 | 0 | DREAM( )SCAPE | 2024-03-24 | [🔗](https://open.spotify.com/album/4Pd5F3q10hNdQeJeZQBQrk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27388fb8814287d20fede1aba40" alt="" width="50" /> | 693 | 1 | 0 | Beautiful MAZE | 2024-04-03 | [🔗](https://open.spotify.com/album/6QxAUGvcYLmeWfkOsQhDaC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b0e13013f8f4b673f811da85" alt="" width="50" /> | 694 | 1 | 0 | WALK - The 6th Album | 2024-07-14 | [🔗](https://open.spotify.com/album/5Imx4Y371SPIOaH3Emtl9M) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ce09217bde99ac32fb509123" alt="" width="50" /> | 111 | 1 | 0 | OVERSTEP | 2024-06-03 | [🔗](https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739a7d96c7962d39fccda354ea" alt="" width="50" /> | 612 | 1 | 0 | GOLDEN HOUR : Part.2 | 2024-11-15 | [🔗](https://open.spotify.com/album/2FLo3lAhEQpvHAtRN0HEUP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27326874d8b634cc01471431b33" alt="" width="50" /> | 694 | 1 | 0 | FLOW | 2024-09-03 | [🔗](https://open.spotify.com/album/7peUxIsjo1GlwVhNdXe4r2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27367c07f0becfe4e1f0163fa5c" alt="" width="50" /> | 694 | 1 | 0 | DREAM( )SCAPE | 2024-03-24 | [🔗](https://open.spotify.com/album/4Pd5F3q10hNdQeJeZQBQrk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27388fb8814287d20fede1aba40" alt="" width="50" /> | 694 | 1 | 0 | Beautiful MAZE | 2024-04-03 | [🔗](https://open.spotify.com/album/6QxAUGvcYLmeWfkOsQhDaC) |
 
 ![Bar chart of top 6 albums](../../images/playlists/check_out_later/albums.png)
 

@@ -13,7 +13,7 @@ AKMU:
 
 ## Artist Rank
 AKMU is currently:
-- The #44 artist of the last 6 months
+- The #46 artist of the last 6 months
 - The #73 artist of all time
 
 ![Rank of AKMU over time](../../images/artists/akmu/rank_time_series.png)
@@ -40,9 +40,9 @@ AKMU is currently:
 |:---|---:|---:|---:|:---|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="" width="50" /> | 314 | 3 | 3 | SAILING | 2019-09-25 | [🔗](https://open.spotify.com/album/7C0Ci0alKWwwXPIFYEdVcn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273570f746ccc2c75af070da1e0" alt="" width="50" /> | 418 | 2 | 2 | SPRING | 2016-05-04 | [🔗](https://open.spotify.com/album/0HtbFp1B1WrbUr9mcBrAhN) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="" width="50" /> | 559 | 2 | 2 | PLAY | 2014-04-07 | [🔗](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="" width="50" /> | 170 | 2 | 2 | Love Lee | 2023-08-21 | [🔗](https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="" width="50" /> | 426 | 1 | 1 | NEXT EPISODE | 2021-07-26 | [🔗](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="" width="50" /> | 561 | 2 | 2 | PLAY | 2014-04-07 | [🔗](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="" width="50" /> | 172 | 2 | 2 | Love Lee | 2023-08-21 | [🔗](https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="" width="50" /> | 428 | 1 | 1 | NEXT EPISODE | 2021-07-26 | [🔗](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273370408df34b170c3402e84f2" alt="" width="50" /> | 414 | 1 | 1 | LOVE EPISODE | 2024-06-03 | [🔗](https://open.spotify.com/album/3HG5kKZPdKRspJFUvShae7) |
 
 ## Featured on Playlists
@@ -97,15 +97,15 @@ AKMU is currently:
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="" width="50" /> | Love Lee | Love Lee | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 267 | 💚 | [🔗](https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="" width="50" /> | Fry’s Dream | Love Lee | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 324 | 💚 | [🔗](https://open.spotify.com/track/6f4CAdAmrOfGH3FOfwHMSV) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="" width="50" /> | Whale | SAILING | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 437 | 💚 | [🔗](https://open.spotify.com/track/5OJ275pPDWTd2qWX4kbhXj) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273370408df34b170c3402e84f2" alt="" width="50" /> | Hero | LOVE EPISODE | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 599 | 💚 | [🔗](https://open.spotify.com/track/1hXs7BduDW3yGSSwolP8eh) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273570f746ccc2c75af070da1e0" alt="" width="50" /> | How People Move | SPRING | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 606 | 💚 | [🔗](https://open.spotify.com/track/0c2Yg75sFgD0hWhRq4voAn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="" width="50" /> | NAKKA (with IU) | NEXT EPISODE | [AKMU](overview.md), [IU](../iu/overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 618 | 💚 | [🔗](https://open.spotify.com/track/4t2FIqZJORKZGSKg30SShr) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="" width="50" /> | Melted | PLAY | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 850 | 💚 | [🔗](https://open.spotify.com/track/2tYPFWrbGbsGKafe5pP64z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="" width="50" /> | 200% | PLAY | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 1065 | 💚 | [🔗](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273570f746ccc2c75af070da1e0" alt="" width="50" /> | RE-BYE | SPRING | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 1065 | 💚 | [🔗](https://open.spotify.com/track/7pz1YzMwDxS9uuwAEp7MLk) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="" width="50" /> | FREEDOM | SAILING | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 1065 | 💚 | [🔗](https://open.spotify.com/track/3vu2YlsxVFIb8xz8ZBAwiX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a75d7535b8657385f8232449" alt="" width="50" /> | Fry’s Dream | Love Lee | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 325 | 💚 | [🔗](https://open.spotify.com/track/6f4CAdAmrOfGH3FOfwHMSV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="" width="50" /> | Whale | SAILING | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 438 | 💚 | [🔗](https://open.spotify.com/track/5OJ275pPDWTd2qWX4kbhXj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273370408df34b170c3402e84f2" alt="" width="50" /> | Hero | LOVE EPISODE | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 604 | 💚 | [🔗](https://open.spotify.com/track/1hXs7BduDW3yGSSwolP8eh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273570f746ccc2c75af070da1e0" alt="" width="50" /> | How People Move | SPRING | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 612 | 💚 | [🔗](https://open.spotify.com/track/0c2Yg75sFgD0hWhRq4voAn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27355d0265cc488deebe40d79a6" alt="" width="50" /> | NAKKA (with IU) | NEXT EPISODE | [AKMU](overview.md), [IU](../iu/overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 624 | 💚 | [🔗](https://open.spotify.com/track/4t2FIqZJORKZGSKg30SShr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="" width="50" /> | Melted | PLAY | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 854 | 💚 | [🔗](https://open.spotify.com/track/2tYPFWrbGbsGKafe5pP64z) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27378551e802bd7b81d7af67dfb" alt="" width="50" /> | 200% | PLAY | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 1071 | 💚 | [🔗](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273570f746ccc2c75af070da1e0" alt="" width="50" /> | RE-BYE | SPRING | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 1071 | 💚 | [🔗](https://open.spotify.com/track/7pz1YzMwDxS9uuwAEp7MLk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="" width="50" /> | FREEDOM | SAILING | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 1071 | 💚 | [🔗](https://open.spotify.com/track/3vu2YlsxVFIb8xz8ZBAwiX) |
 
 
 <details>
@@ -113,7 +113,7 @@ AKMU is currently:
 
 | Art | Track | Album | Artists | Label | Rank | 💚 | 🔗 |
 |:---|:---|:---|:---|:---|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="" width="50" /> | How can I love the heartbreak, you're the one I love | SAILING | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 1065 | 💚 | [🔗](https://open.spotify.com/track/0hqj5JBnFt1BHEz2UCFwrl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d41cdd1f3e033a0ea1642112" alt="" width="50" /> | How can I love the heartbreak, you're the one I love | SAILING | [AKMU](overview.md) | [YG Entertainment](../../labels/yg_entertainment) | 1071 | 💚 | [🔗](https://open.spotify.com/track/0hqj5JBnFt1BHEz2UCFwrl) |
 
 </details>
 

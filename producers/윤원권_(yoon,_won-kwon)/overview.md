@@ -13,10 +13,10 @@
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8a258c4d5670bdb521c97eaf" alt="" width="50" /> | 14 | 6 | 6 | [CHUNG HA](../../artists/chung_ha/overview.md) | [🔗](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb3448062884d4ad30473e964b" alt="" width="50" /> | 4 | 2 | 2 | [ITZY](../../artists/itzy/overview.md) | [🔗](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebca6c145421fa9ceb58d6f9d4" alt="" width="50" /> | 9 | 1 | 1 | [TWICE](../../artists/twice/overview.md) | [🔗](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb20dfb8f52ef4926a22e552c8" alt="" width="50" /> | 128 | 1 | 1 | R3HAB | [🔗](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb53b0804552178db3b27d8a6b" alt="" width="50" /> | 106 | 1 | 1 | CHANGMO | [🔗](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb20dfb8f52ef4926a22e552c8" alt="" width="50" /> | 127 | 1 | 1 | R3HAB | [🔗](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb53b0804552178db3b27d8a6b" alt="" width="50" /> | 108 | 1 | 1 | CHANGMO | [🔗](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebdbe356bad5c3576e77dbf36f" alt="" width="50" /> | 10 | 1 | 1 | [Stray Kids](../../artists/stray_kids/overview.md) | [🔗](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb487ae121468ca9f26d893c0f" alt="" width="50" /> | 22 | 1 | 1 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb487ae121468ca9f26d893c0f" alt="" width="50" /> | 21 | 1 | 1 | [Billlie](../../artists/billlie/overview.md) | [🔗](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc52a3dda9c86c50ecb1fffc3" alt="" width="50" /> | 448 | 1 | 1 | Guaynaa | [🔗](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) |
 
 ## Works with Producers

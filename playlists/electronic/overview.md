@@ -9,15 +9,15 @@
 
 | Art | Rank | Tracks | 💚 | Artist | 🔗 |
 |:---|---:|---:|---:|:---|:---|
-| <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | 272 | 7 | 5 | [Daft Punk](../../artists/daft_punk/overview.md) | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
-| <img src="https://i.scdn.co/image/ab6761610000e5eb36c6fa1b8ff851988de641f8" alt="" width="50" /> | 381 | 4 | 3 | [Lindsey Stirling](../../artists/lindsey_stirling/overview.md) | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e" alt="" width="50" /> | 273 | 7 | 5 | [Daft Punk](../../artists/daft_punk/overview.md) | [🔗](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) |
+| <img src="https://i.scdn.co/image/ab6761610000e5eb36c6fa1b8ff851988de641f8" alt="" width="50" /> | 378 | 4 | 3 | [Lindsey Stirling](../../artists/lindsey_stirling/overview.md) | [🔗](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb8cb645e0a77bf015feda7fb9" alt="" width="50" /> | 448 | 2 | 1 | Rina Sawayama | [🔗](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebede7b4f5a5316f0cf586ec7e" alt="" width="50" /> | 104 | 1 | 1 | Nile Rodgers | [🔗](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebe0cc2045ff4e90d12df91cc3" alt="" width="50" /> | 166 | 1 | 1 | [f(x)](../../artists/f(x)/overview.md) | [🔗](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | 271 | 1 | 1 | Pharrell Williams | [🔗](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebf0789cd783c20985ec3deb4e" alt="" width="50" /> | 270 | 1 | 1 | Pharrell Williams | [🔗](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb97357a72fc531a2c2d3ee47a" alt="" width="50" /> | 448 | 1 | 1 | Julian Casablancas | [🔗](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) |
 | <img src="https://i.scdn.co/image/ab6761610000e5ebc46999e5afaf35c91cbe652b" alt="" width="50" /> | 448 | 1 | 1 | Kraftwerk | [🔗](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) |
-| <img src="https://i.scdn.co/image/ab6761610000e5ebab7710b9229f2cd96dbe6583" alt="" width="50" /> | 57 | 1 | 0 | HYO | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
+| <img src="https://i.scdn.co/image/ab6761610000e5ebab7710b9229f2cd96dbe6583" alt="" width="50" /> | 56 | 1 | 0 | HYO | [🔗](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) |
 | <img src="https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae" alt="" width="50" /> | 363 | 1 | 0 | The Weeknd | [🔗](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) |
 
 ![Bar chart of top 10 artists](../../images/playlists/electronic/artists.png)
@@ -32,16 +32,16 @@
 
 | Rank | ​ | Most listened tracks | Rank | ​​ | Least listened tracks |
 |---:|:---|:---|---:|:---|:---|
-| 496 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Get Lucky (feat. Pharrell Williams and Nile Rodgers)](../../artists/daft_punk/overview.md) | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b2735a58accf4805f4097859eeac" alt="Electric Shock - The 2nd Mini Album" width="50" /> | [Electric Shock](../../artists/f(x)/overview.md) |
-| 836 | <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="Lindsey Stirling" width="50" /> | [Song of the Caged Bird](../../artists/lindsey_stirling/overview.md) | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b2735062dabfa4007e1b72981edf" alt="Badster" width="50" /> | Badster |
-| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273b1f18dc3658aff286fa9f351" alt="Discovery" width="50" /> | [One More Time](../../artists/daft_punk/overview.md) | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273b1f18dc3658aff286fa9f351" alt="Discovery" width="50" /> | [Harder, Better, Faster, Stronger](../../artists/daft_punk/overview.md) |
-| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="Human After All" width="50" /> | [Technologic](../../artists/daft_punk/overview.md) | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="Lindsey Stirling" width="50" /> | [Crystallize](../../artists/lindsey_stirling/overview.md) |
-| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="SAWAYAMA" width="50" /> | XS | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="SAWAYAMA" width="50" /> | Comme Des Garçons (Like The Boys) |
-| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="Shatter Me" width="50" /> | [Shatter Me Featuring Lzzy Hale](../../artists/lindsey_stirling/overview.md) | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="Starboy" width="50" /> | I Feel It Coming |
-| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273b1f18dc3658aff286fa9f351" alt="Discovery" width="50" /> | [Digital Love](../../artists/daft_punk/overview.md) | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="Artemis" width="50" /> | [Underground](../../artists/lindsey_stirling/overview.md) |
-| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Instant Crush (feat. Julian Casablancas)](../../artists/daft_punk/overview.md) | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="3-D The Catalogue" width="50" /> | Pocket Calculator / Dentaku |
-| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="3-D The Catalogue" width="50" /> | Pocket Calculator / Dentaku | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Instant Crush (feat. Julian Casablancas)](../../artists/daft_punk/overview.md) |
-| 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="Artemis" width="50" /> | [Underground](../../artists/lindsey_stirling/overview.md) | 1065 | <img src="https://i.scdn.co/image/ab67616d0000b273b1f18dc3658aff286fa9f351" alt="Discovery" width="50" /> | [Digital Love](../../artists/daft_punk/overview.md) |
+| 498 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Get Lucky (feat. Pharrell Williams and Nile Rodgers)](../../artists/daft_punk/overview.md) | 1071 | <img src="https://i.scdn.co/image/ab67616d0000b2735a58accf4805f4097859eeac" alt="Electric Shock - The 2nd Mini Album" width="50" /> | [Electric Shock](../../artists/f(x)/overview.md) |
+| 840 | <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="Lindsey Stirling" width="50" /> | [Song of the Caged Bird](../../artists/lindsey_stirling/overview.md) | 1071 | <img src="https://i.scdn.co/image/ab67616d0000b2735062dabfa4007e1b72981edf" alt="Badster" width="50" /> | Badster |
+| 1071 | <img src="https://i.scdn.co/image/ab67616d0000b273b1f18dc3658aff286fa9f351" alt="Discovery" width="50" /> | [One More Time](../../artists/daft_punk/overview.md) | 1071 | <img src="https://i.scdn.co/image/ab67616d0000b273b1f18dc3658aff286fa9f351" alt="Discovery" width="50" /> | [Harder, Better, Faster, Stronger](../../artists/daft_punk/overview.md) |
+| 1071 | <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="Human After All" width="50" /> | [Technologic](../../artists/daft_punk/overview.md) | 1071 | <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="Lindsey Stirling" width="50" /> | [Crystallize](../../artists/lindsey_stirling/overview.md) |
+| 1071 | <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="SAWAYAMA" width="50" /> | XS | 1071 | <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="SAWAYAMA" width="50" /> | Comme Des Garçons (Like The Boys) |
+| 1071 | <img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="Shatter Me" width="50" /> | [Shatter Me Featuring Lzzy Hale](../../artists/lindsey_stirling/overview.md) | 1071 | <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="Starboy" width="50" /> | I Feel It Coming |
+| 1071 | <img src="https://i.scdn.co/image/ab67616d0000b273b1f18dc3658aff286fa9f351" alt="Discovery" width="50" /> | [Digital Love](../../artists/daft_punk/overview.md) | 1071 | <img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="Artemis" width="50" /> | [Underground](../../artists/lindsey_stirling/overview.md) |
+| 1071 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Instant Crush (feat. Julian Casablancas)](../../artists/daft_punk/overview.md) | 1071 | <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="3-D The Catalogue" width="50" /> | Pocket Calculator / Dentaku |
+| 1071 | <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="3-D The Catalogue" width="50" /> | Pocket Calculator / Dentaku | 1071 | <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Random Access Memories" width="50" /> | [Instant Crush (feat. Julian Casablancas)](../../artists/daft_punk/overview.md) |
+| 1071 | <img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="Artemis" width="50" /> | [Underground](../../artists/lindsey_stirling/overview.md) | 1071 | <img src="https://i.scdn.co/image/ab67616d0000b273b1f18dc3658aff286fa9f351" alt="Discovery" width="50" /> | [Digital Love](../../artists/daft_punk/overview.md) |
 
 </details>
 
@@ -51,16 +51,16 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273b1f18dc3658aff286fa9f351" alt="" width="50" /> | 693 | 3 | 2 | Discovery | 2001-03-12 | [🔗](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | 351 | 2 | 2 | Random Access Memories | 2013-05-20 | [🔗](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="" width="50" /> | 549 | 2 | 2 | Lindsey Stirling | 2012 | [🔗](https://open.spotify.com/album/3YTWAm90osBvLNWCdF8Nq2) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="" width="50" /> | 693 | 2 | 1 | SAWAYAMA | 2020-04-17 | [🔗](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="" width="50" /> | 693 | 1 | 1 | Shatter Me | 2014-05-05 | [🔗](https://open.spotify.com/album/2spbck4ETZz1aLq5Fi5phC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="" width="50" /> | 693 | 1 | 1 | Human After All | 2005-03-14 | [🔗](https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735a58accf4805f4097859eeac" alt="" width="50" /> | 693 | 1 | 1 | Electric Shock - The 2nd Mini Album | 2012-06-10 | [🔗](https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="" width="50" /> | 693 | 1 | 1 | 3-D The Catalogue | 2017-05-26 | [🔗](https://open.spotify.com/album/6nnO5r6I1JtSZ8eTwwIiIF) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="" width="50" /> | 693 | 1 | 0 | Starboy | 2016-11-25 | [🔗](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735062dabfa4007e1b72981edf" alt="" width="50" /> | 693 | 1 | 0 | Badster | 2019-07-20 | [🔗](https://open.spotify.com/album/4GA4vqEeOzVM8ib6HHy6Ij) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1f18dc3658aff286fa9f351" alt="" width="50" /> | 694 | 3 | 2 | Discovery | 2001-03-12 | [🔗](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="50" /> | 354 | 2 | 2 | Random Access Memories | 2013-05-20 | [🔗](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27379e8b529ce6c088a8027b2a1" alt="" width="50" /> | 550 | 2 | 2 | Lindsey Stirling | 2012 | [🔗](https://open.spotify.com/album/3YTWAm90osBvLNWCdF8Nq2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735b131d745dafd8666254fe96" alt="" width="50" /> | 694 | 2 | 1 | SAWAYAMA | 2020-04-17 | [🔗](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cdb2461871ded49f97bc41c2" alt="" width="50" /> | 694 | 1 | 1 | Shatter Me | 2014-05-05 | [🔗](https://open.spotify.com/album/2spbck4ETZz1aLq5Fi5phC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8601e15fa1b4351fe1fc6ae" alt="" width="50" /> | 694 | 1 | 1 | Human After All | 2005-03-14 | [🔗](https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a58accf4805f4097859eeac" alt="" width="50" /> | 694 | 1 | 1 | Electric Shock - The 2nd Mini Album | 2012-06-10 | [🔗](https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3e53c1bc7aa93fea594c989" alt="" width="50" /> | 694 | 1 | 1 | 3-D The Catalogue | 2017-05-26 | [🔗](https://open.spotify.com/album/6nnO5r6I1JtSZ8eTwwIiIF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452" alt="" width="50" /> | 694 | 1 | 0 | Starboy | 2016-11-25 | [🔗](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735062dabfa4007e1b72981edf" alt="" width="50" /> | 694 | 1 | 0 | Badster | 2019-07-20 | [🔗](https://open.spotify.com/album/4GA4vqEeOzVM8ib6HHy6Ij) |
 
 
 <details>
@@ -68,7 +68,7 @@
 
 | Art | Rank | Tracks | 💚 | Album | Release Date | 🔗 |
 |:---|---:|---:|---:|:---|:---|:---|
-| <img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="" width="50" /> | 693 | 1 | 0 | Artemis | 2019-09-06 | [🔗](https://open.spotify.com/album/4YAtGpNUwcHesLlyYUIxur) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273107a93a6e4700e9ff7e6ca43" alt="" width="50" /> | 694 | 1 | 0 | Artemis | 2019-09-06 | [🔗](https://open.spotify.com/album/4YAtGpNUwcHesLlyYUIxur) |
 
 </details>
 

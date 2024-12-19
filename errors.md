@@ -12,7 +12,7 @@ None
 | A flower bookmark [🔗](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | IU [🔗](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | 44 | 2017-09-22 | Fave Entertainment | Secret Garden [🔗](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B),<br>Sleepless rainy night [🔗](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | SEOULITE [🔗](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 54 | 2016-03-09 | YG Entertainment | BREATHE [🔗](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT),<br>FXXK WIT US [🔗](https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8),<br>HOLD MY HAND [🔗](https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop Favorites [🔗](https://open.spotify.com/playlist/1ZbxKv1noxwZ4zFgRNEFIo),<br>K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd),<br>My Top Songs 2022 [🔗](https://open.spotify.com/playlist/5j5RWiqnO95UFzTyEHWiGQ),<br>Recommendations for Jeff [🔗](https://open.spotify.com/playlist/5Liek0UOC5GmdOjxdWhcob),<br>Relax [🔗](https://open.spotify.com/playlist/4rnlD7JdUQNdPCBhL69dCg) |
 | SEOULITE [🔗](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | LeeHi [🔗](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | 38 | 2016-04-20 | YG Entertainment | MISSING U [🔗](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA),<br>MY STAR [🔗](https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me) | Chill [🔗](https://open.spotify.com/playlist/79HDmDfCjzdHS3oWXdgHGb),<br>K-Pop-Adjacent [🔗](https://open.spotify.com/playlist/5dr8e1QSb4e5pnMwT79MGd) |
-| DREAM( )SCAPE [🔗](https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz) | NCT DREAM [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | 36 | 2024-03-25 | SM Entertainment | BOX [🔗](https://open.spotify.com/track/4I95uQMtIwg7779WEDy8Mc),<br>Smoothie [🔗](https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
+| DREAM( )SCAPE [🔗](https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz) | NCT DREAM [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | 35 | 2024-03-25 | SM Entertainment | BOX [🔗](https://open.spotify.com/track/4I95uQMtIwg7779WEDy8Mc),<br>Smoothie [🔗](https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I) | K-Pop [🔗](https://open.spotify.com/playlist/0Xp2gQ9p4VMgt5HauIfIq7) |
 | DREAM( )SCAPE [🔗](https://open.spotify.com/album/4Pd5F3q10hNdQeJeZQBQrk) | NCT DREAM [🔗](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | 55 | 2024-03-24 | SM Entertainment | icantfeelanything [🔗](https://open.spotify.com/track/2Ea626O51VnIjMeqCcb5cv) | Check Out Later [🔗](https://open.spotify.com/playlist/2FgMW8NMJOZgvHtvDOWBCe) |
 
 ## Tracks with low popularity
@@ -44,9 +44,9 @@ None
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: II. Andante (molto) | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 35 |
 | Concerto for 2 Violins, Strings and Continuo in G Major, RV 516: I. Allegro molto | Vivaldi: Four Seasons | Elizabeth Wilcock | 0 | 2 | 35 |
 | Dynamite - Holiday Remix | Dynamite (Holiday Remix) | BTS | 0 | 0 | 87 |
-| The Goldfish | The Best of The Laurie Berkner Band | The Laurie Berkner Band | 0 | 0 | 58 |
-| We Are The Dinosaurs | The Best of The Laurie Berkner Band | The Laurie Berkner Band | 0 | 0 | 58 |
-| Bumblebee (Buzz Buzz) | The Best of The Laurie Berkner Band | The Laurie Berkner Band | 0 | 0 | 58 |
+| The Goldfish | The Best of The Laurie Berkner Band | The Laurie Berkner Band | 0 | 0 | 59 |
+| We Are The Dinosaurs | The Best of The Laurie Berkner Band | The Laurie Berkner Band | 0 | 0 | 59 |
+| Bumblebee (Buzz Buzz) | The Best of The Laurie Berkner Band | The Laurie Berkner Band | 0 | 0 | 59 |
 | Moonlight | D-2 | Agust D | 0 | 1 | 76 |
 | Daechwita | D-2 | Agust D | 1 | 1 | 76 |
 | Burn It (feat. MAX) | D-2 | Agust D | 0 | 1 | 76 |
@@ -63,16 +63,16 @@ None
 | I See Fire | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Taylor Davis | 0 | 0 | 50 |
 | Hobbit Drinking Medley | Misty Mountains: Songs Inspired by The Hobbit and Lord of the Rings | Hank Green | 0 | 0 | 32 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Lindsey Stirling | 0 | 0 | 70 |
-| Underground | Artemis | Lindsey Stirling | 0 | 1 | 70 |
+| Underground | Artemis | Lindsey Stirling | 1 | 1 | 70 |
 | Fields of Gold | Legendary Covers, Vol. 1 | Tyler Ward | 0 | 0 | 50 |
-| Can't Stop This Party | Can't Stop This Party | Seori | 1 | 0 | 58 |
-| Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 65 |
+| Can't Stop This Party | Can't Stop This Party | Seori | 0 | 0 | 58 |
+| Gravity | BOCA 2004: Best Of College A Cappella | Sara Bareilles | 0 | 0 | 66 |
 | perfect blues | perfect blues | hannah bahng | 2 | 2 | 49 |
 | OLeander | perfect blues | hannah bahng | 2 | 2 | 49 |
 | Breakfast on the Morning Tram | Breakfast on the Morning Tram | Stacey Kent | 0 | 0 | 60 |
-| Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 68 |
-| We're Going to the Zoo | Kids Animal Songs | Love to Sing | 0 | 0 | 54 |
-| This Is the Way the Lady Rides | Kids Animal Songs | Love to Sing | 0 | 0 | 54 |
+| Funky Glitter Christmas | 1st Intermixxion Single <Funky Glitter Christmas> | NMIXX | 0 | 0 | 67 |
+| We're Going to the Zoo | Kids Animal Songs | Love to Sing | 0 | 0 | 55 |
+| This Is the Way the Lady Rides | Kids Animal Songs | Love to Sing | 0 | 0 | 55 |
 | Yours | Jirisan (Original Television Soundtrack) Pt. 4 | Jin | 0 | 0 | 86 |
 | Wings | Wings | PIXY | 0 | 0 | 37 |
 | La Vie En Rose | Sophie Milman | Sophie Milman | 0 | 0 | 39 |
@@ -81,16 +81,16 @@ None
 | I Can't Make You Love Me | Take Love Easy | Sophie Milman | 0 | 0 | 39 |
 | Something In The Air Between Us | Make Someone Happy | Sophie Milman | 0 | 0 | 39 |
 | Santa Claus Is Coming To Town | Jackson Five Christmas Album | The Jackson 5 | 0 | 0 | 74 |
-| Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 37 |
+| Listen | BOCA 2010: Best Of College A Cappella | BYU Noteworthy | 0 | 0 | 38 |
 | 5 Little Speckled Frogs | 5 Little Speckled Frogs | Little Baby Bum Nursery Rhyme Friends | 0 | 0 | 62 |
 | The Trooper - 2015 Remaster | Piece of Mind (2015 - Remaster) | Iron Maiden | 2 | 1 | 75 |
 | Drink It | Drink It | THE BOYZ | 0 | 0 | 61 |
-| Good Vibrations | Vocal Spectrum II | Vocal Spectrum | 0 | 0 | 31 |
-| I Wanna Be Like You | Vocal Spectrum II | Vocal Spectrum | 0 | 0 | 31 |
-| Bring Him Home | Vocal Spectrum | Vocal Spectrum | 0 | 0 | 31 |
-| Aladdin Medley | Vocal Spectrum III | Vocal Spectrum | 0 | 0 | 31 |
-| When I See An Elephant Fly | Vocal Spectrum III | Vocal Spectrum | 0 | 0 | 31 |
-| The Music of the Night | Vocal Spectrum V | Vocal Spectrum | 0 | 0 | 31 |
+| Good Vibrations | Vocal Spectrum II | Vocal Spectrum | 0 | 0 | 32 |
+| I Wanna Be Like You | Vocal Spectrum II | Vocal Spectrum | 0 | 0 | 32 |
+| Bring Him Home | Vocal Spectrum | Vocal Spectrum | 0 | 0 | 32 |
+| Aladdin Medley | Vocal Spectrum III | Vocal Spectrum | 0 | 0 | 32 |
+| When I See An Elephant Fly | Vocal Spectrum III | Vocal Spectrum | 0 | 0 | 32 |
+| The Music of the Night | Vocal Spectrum V | Vocal Spectrum | 0 | 0 | 32 |
 | Endurtaka Mig | & Co. | Daði Freyr | 0 | 0 | 51 |
 | Think About Things | Think About Things | Daði Freyr | 2 | 1 | 51 |
 | Gagnamagnið | Söngvakeppnin 2020 | Daði Freyr | 0 | 0 | 51 |
@@ -117,20 +117,20 @@ None
 | I will show you | Invitation | AILEE | 0 | 0 | 59 |
 | Gimme Sympathy | Fantasies | Metric | 0 | 0 | 64 |
 | FACE | WOLF | WOOSUNG | 0 | 0 | 60 |
-| Timshel | Sigh No More | Mumford & Sons | 0 | 2 | 73 |
-| Little Lion Man | Sigh No More | Mumford & Sons | 1 | 2 | 73 |
-| The Cave | Sigh No More | Mumford & Sons | 1 | 2 | 73 |
+| Timshel | Sigh No More | Mumford & Sons | 0 | 1 | 73 |
+| Little Lion Man | Sigh No More | Mumford & Sons | 1 | 1 | 73 |
+| The Cave | Sigh No More | Mumford & Sons | 1 | 1 | 73 |
 | Run With Me | Serenade | Sunwoojunga | 1 | 0 | 47 |
 | Cat (Feat. IU) | Cat | Sunwoojunga | 0 | 0 | 47 |
 | Cat (Feat. IU) | Cat | IU | 0 | 0 | 71 |
 | Star | [12:00] | LOONA | 1 | 1 | 55 |
 | Why Not? | [12:00] | LOONA | 0 | 1 | 55 |
 | Kiss Later (YeoJin) | YeoJin | LOONA | 0 | 0 | 55 |
-| That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 55 |
+| That Man | Deleted Scenes From The Cutting Room Floor | Caro Emerald | 0 | 0 | 56 |
 | The Phantom Of The Opera | Century Child | Nightwish | 0 | 1 | 68 |
 | End Of All Hope | Century Child | Nightwish | 0 | 1 | 68 |
 | Nemo | Once | Nightwish | 0 | 0 | 68 |
-| Waves | Waves | Melt | 1 | 0 | 45 |
+| Waves | Waves | Melt | 1 | 0 | 44 |
 | Ya! (feat. Whee In) | Stay As You Are | Whee In | 0 | 0 | 50 |
 | Ya! (feat. Whee In) | Stay As You Are | Sandeul | 0 | 0 | 43 |
 | Hard Carry | FLIGHT LOG : TURBULENCE | GOT7 | 0 | 0 | 61 |
@@ -138,9 +138,9 @@ None
 | Just Right | Just Right | GOT7 | 0 | 0 | 61 |
 | If You Do | MAD | GOT7 | 0 | 0 | 61 |
 | You Calling My Name | Call My Name | GOT7 | 0 | 0 | 61 |
-| Here We Go 'Round the Mulberry Bush | Let's Go Camping: Essential Adventure and Nature Songs for Kids | The Countdown Kids | 0 | 0 | 60 |
-| Five Little Monkeys | 150 All Time Children's Favorites | The Countdown Kids | 0 | 0 | 60 |
-| The Wheels on the Bus Go Round and Round | 150 All Time Children's Favorites | The Countdown Kids | 0 | 0 | 60 |
+| Here We Go 'Round the Mulberry Bush | Let's Go Camping: Essential Adventure and Nature Songs for Kids | The Countdown Kids | 0 | 0 | 61 |
+| Five Little Monkeys | 150 All Time Children's Favorites | The Countdown Kids | 0 | 0 | 61 |
+| The Wheels on the Bus Go Round and Round | 150 All Time Children's Favorites | The Countdown Kids | 0 | 0 | 61 |
 | Shake Break | Pancake Manor | Pancake Manor | 0 | 0 | 39 |
 | Flowers - Cover | Flowers (Cover) | YUQI | 0 | 0 | 59 |
 | Hokey Pokey | Hip Hip Hooray! | Play School | 0 | 0 | 54 |
@@ -149,11 +149,11 @@ None
 | Valerie (feat. Amy Winehouse) - Version Revisited | Version | Amy Winehouse | 0 | 0 | 80 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | Loco | 0 | 0 | 66 |
 | Don’t | The Hyena on the Keyboard Pt. 4 | HWASA | 0 | 0 | 62 |
-| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 83 |
+| Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | Kelly Clarkson | 0 | 0 | 84 |
 | Baby, It's Cold Outside (feat. Kelly Clarkson) | A Legendary Christmas: Deluxe Edition | John Legend | 0 | 0 | 79 |
 | Man in a Movie | SUNRISE | DAY6 | 0 | 0 | 71 |
 | Open Shut Them | Twinkle Twinkle Little Star & More Kids Songs | Super Simple Songs | 0 | 0 | 74 |
-| One Little Finger | The Bath Song & More Kids Songs | Super Simple Songs | 0 | 0 | 74 |
+| One Little Finger | The Bath Song & More Kids Songs | Super Simple Songs | 1 | 1 | 74 |
 | The Ants Go Marching | Nursery Rhymes | Super Simple Songs | 0 | 0 | 74 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | j-hope | 0 | 0 | 73 |
 | Chicken Noodle Soup (feat. Becky G) | Chicken Noodle Soup (feat. Becky G) | Becky G | 0 | 0 | 79 |
@@ -169,22 +169,22 @@ None
 | Slide Away | Slide Away | Miley Cyrus | 2 | 1 | 84 |
 | Miku | Miku | Anamanaguchi | 0 | 0 | 52 |
 | Somebody Else | Somebody Else | VÉRITÉ | 0 | 0 | 46 |
-| Heartbeat | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) | SURAN | 0 | 0 | 53 |
-| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 53 |
+| Heartbeat | Strong Woman Do Bong Soon, Pt. 2 (Original Television Soundtrack) | SURAN | 0 | 0 | 54 |
+| Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | SURAN | 0 | 0 | 54 |
 | Into The Abyss | Abyss (Original Television Soundtrack), Pt. 1 | Coogie | 0 | 0 | 50 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) | I Don’t Wanna Live Forever (Fifty Shades Darker) | Taylor Swift | 0 | 0 | 100 |
 | I Don’t Wanna Live Forever (Fifty Shades Darker) | I Don’t Wanna Live Forever (Fifty Shades Darker) | ZAYN | 0 | 0 | 79 |
 | Melawan Restu | fábula | Mahalini | 0 | 2 | 76 |
 | Sisa Rasa | fábula | Mahalini | 0 | 2 | 76 |
 | Tell Me | THE FIFTY | FIFTY FIFTY | 0 | 0 | 68 |
-| When We Disco | When We Disco | J.Y. Park | 0 | 0 | 46 |
-| Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 46 |
+| When We Disco | When We Disco | J.Y. Park | 0 | 0 | 47 |
+| Who's Your Mama? | 24/34 | J.Y. Park | 0 | 0 | 47 |
 | When We Disco | When We Disco | SUNMI | 0 | 0 | 57 |
 | Who's Your Mama? | 24/34 | Jessi | 0 | 0 | 58 |
 | Djadja | Djadja | Aya Nakamura | 0 | 0 | 72 |
 | Radio | The Volunteers | The Volunteers | 0 | 2 | 38 |
 | My House | No.5 | 2PM | 0 | 0 | 54 |
-| Walking in the Air | The Snowman | Peter Auty | 0 | 0 | 36 |
+| Walking in the Air | The Snowman | Peter Auty | 0 | 0 | 37 |
 | Still Alive | Portal 2: Songs to Test By (Collectors Edition) | Aperture Science Psychoacoustic Laboratories | 0 | 0 | 48 |
 | Rollin' | Rollin' | Brave Girls | 0 | 0 | 47 |
 | Watermelon | Little Day Out | Justine Clarke | 0 | 0 | 38 |
@@ -197,9 +197,9 @@ None
 | Lose | Love Synonym #2 : Right for Us | WONHO | 0 | 0 | 49 |
 | Hello Song | Music Together Family Favorites | Music Together | 0 | 0 | 51 |
 | Octopus (Slippery Fish) | 10 Carrot Diamond | Charlotte Diamond | 0 | 0 | 42 |
-| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 75 |
+| A Holly Jolly Christmas - Single Version | Have A Holly Jolly Christmas | Burl Ives | 0 | 0 | 76 |
 | Sofa Silahlane | Sofa Silahlane | Wanitwa Mos | 2 | 1 | 56 |
-| Sofa Silahlane | Sofa Silahlane | Nkosazana Daughter | 2 | 1 | 60 |
+| Sofa Silahlane | Sofa Silahlane | Nkosazana Daughter | 2 | 1 | 61 |
 | Sofa Silahlane | Sofa Silahlane | Master KG | 2 | 1 | 62 |
 | Sofa Silahlane | Sofa Silahlane | Lowsheen | 2 | 1 | 47 |
 | 落葉歸根 | 改變自己 | Leehom Wang | 0 | 0 | 60 |
